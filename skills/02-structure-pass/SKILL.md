@@ -28,7 +28,7 @@ Read `<working_dir>/index.json` to get the list of all chunks.
 
 Identify the working directory. It should be:
 ```
-<project_root>/output/<book-name>/
+<project_root>/output/<subject>/<book-name>/
 ```
 
 ### Step 2: Create the Notes Directory

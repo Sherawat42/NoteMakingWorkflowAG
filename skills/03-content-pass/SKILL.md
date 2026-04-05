@@ -276,8 +276,8 @@ Content index:     <working_dir>/notes/content_index.md
 Terms defined:     [M]
 Cross-references:  [K]
 
-Next step: Run the Critique Pass (skill 04-critique-pass) to review
-and refine the notes.
+Next step: Run `python combine_notes.py "<working_dir>"` to combine 
+the notes into `Complete_Notes.md` and `Last_Minute_Revision_Notes.md`.
 ```
 
 ## Quality Standards

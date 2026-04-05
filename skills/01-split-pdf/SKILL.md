@@ -30,14 +30,14 @@ If the user has not provided a path, ask them:
 Create a working directory for this PDF under the project:
 
 ```
-<project_root>/output/<book-name>/
+<project_root>/output/<subject>/<book-name>/
 ```
 
-Where `<book-name>` is derived from the PDF filename (without extension), converted to lowercase with hyphens replacing spaces.
+Where `<subject>` is the subject name and `<book-name>` is derived from the PDF filename (without extension).
 
-Example: `Machine Learning Basics.pdf` → `output/machine-learning-basics/`
+Example: `Machine Learning Basics.pdf` in Subject `CS101` → `output/CS101/Machine Learning Basics/`
 
-> **Multi-PDF isolation**: Each PDF MUST get its own unique `<book-name>/` folder.
+> **Multi-PDF isolation**: Each PDF MUST get its own unique `<subject>/<book-name>/` folder.
 > All pipeline outputs (chunks, notes, and exports) for this PDF will live
 > exclusively inside this folder. This ensures that running the pipeline on
 > multiple PDFs never causes files to mix up or overwrite each other.
@@ -92,8 +92,10 @@ the notes outline for each chunk.
 After this skill completes, the directory should look like:
 
 ```
-output/<book-name>/
+output/<subject>/<book-name>/
 ├── index.json
+├── input/
+│   └── <book-name>.pdf
 └── chunks/
     ├── chunk_001.pdf
     ├── chunk_001.txt
@@ -104,10 +106,11 @@ output/<book-name>/
 
 Later pipeline steps will add:
 ```
-output/<book-name>/
-├── notes/          # Created by skills 02-04
+output/<subject>/<book-name>/
+├── notes/          # Created by skills 02-03
 │   └── ...
-└── export/         # Created by skill 04 (critique pass)
-    ├── FINAL_NOTES.md
-    └── EXAM_PREP.md
+└── export/         # Created by Pass 3 (Combine Notes)
+    └── <book-name>/
+        ├── Complete_Notes.md
+        └── Last_Minute_Revision_Notes.md
 ```
