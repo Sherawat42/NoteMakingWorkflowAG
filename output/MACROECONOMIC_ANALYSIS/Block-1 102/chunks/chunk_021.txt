@@ -1,0 +1,122 @@
+--- Page 61 ---
+ 
+ 
+ 
+61 
+The Neoclassical 
+Synthesis 
+ 
+Fig. 3.4: Simultaneous Equilibrium 
+3.4.1 Shocks in the IS-LM Model 
+Previously we have discussed about the factors that lead to a shift in the IS curve 
+and the LM curve. Often the economy experiences exogenous demand shocks and 
+supply shocks. Let us analyse the impact of such shocks in terms of the IS-LM 
+model. Suppose there is a boom in the stock market, which changes the wealth of 
+households. Such a situation will increase the level of consumption in the 
+economy. Consequently, there will be an increase in aggregate expenditure and the 
+IS curve will shift to the right from 𝐼𝑆଴  to 𝐼𝑆ଵ  (see Fig. 3.4). As a result, there is an 
+increase in output from 𝑌଴  to 𝑌ଵ . A negative shock such as a decrease in business 
+confidence of firms will shift the IS curve to the left. Such a left-ward shift in the 
+IS curve will decrease output as well as interest rate. 
+Let us consider another example. Suppose there is a series of online financial fraud 
+cases in the country. This will send a negative signal to people – this will 
+discourage people to keep their income in the formal system; there will be a decline 
+in online transactions and the demand for money will increase. As a result, the LM 
+curve will shift to the right from 𝐿𝑀଴  to 𝐿𝑀ଵ (see Fig. 3.4).  Consequently, there 
+will be an increase in output from 𝑌଴  to 𝑌ଶ , and decrease in interest rate from 𝑖଴  to 
+𝑖ଶ .  
+You should note that the nature and extent of change in output and interest rate 
+will depend upon the slope of the IS and LM curves. If the LM curve is flatter, 
+monetary policy is quite effective. A small decrease in interest rate by the central 
+bank will increase output by a large amount. If the LM curve is steeper, monetary 
+policy will not be effective. In order to increase output by a small amount we will 
+need a large decrease in the interest rate.  
+3.4.2 Adjustment Process in the Economy 
+A question arises at this point: What happens to the economy if it is operating at a 
+point which is not at the intersection of the IS and LM curves? Does it 
+automatically converge to the equilibrium point? Let us try to answer this question. 
+
+
+--- Page 62 ---
+ 
+ 
+ 
+62 
+Traditional Approaches 
+to Macroeconomics 
+If the economy is not operating at the unique point where the IS and LM curves 
+intersect, there is disequilibrium in the economy. In that case an adjustment process 
+starts and the economy moves to an equilibrium point. The following two issues 
+are important in this context: 
+a) If there is an excess demand for money (to the right of the LM curve), the 
+interest rate will increase. The interest rate will fall in case we observe 
+excess supply in the money market. Fall in interest rate will lead to increase 
+in investment. Increase in investment will affect the IS curve.  
+b) Excess demand for goods (to the left of the IS curve) leads to an increase 
+in output. Increase in output will lead to increased demand for money. 
+Increase in demand for money will lead to rise in interest rate and outward 
+shift in the LM curve.   
+We observe from the above that both real sector and monetary sector are inter-
+related. A real shock to the economy will have effects on the monetary sector and 
+vice versa.  
+ 
+ 
+Fig. 3.5: Convergence to Equilibrium Point 
+In Fig. 3.5 we plot the IS and LM curves. The economy is in equilibrium at point 
+E, with 𝑖଴  to 𝑌଴  as equilibrium interest rate and output respectively. Suppose, due 
+to certain shock to the economy, the equilibrium is disturbed. We have indicated 
+the points F, G, H and K where the economy is not in equilibrium.  
+Let us consider point G. As mentioned earlier, at point G, there is excess demand 
+for money and excess supply of goods. The arrows given at point G specify the 
+direction in which adjustment takes place. Due to excess demand for money, there 
+will be a rise in the rate of interest. This is because people will sell bonds so as to 
+hold more of liquid cash, as a result of which the bond prices will decline and rate 
+of interest will increase. Upward pointing arrow in Fig. 3.5 represents rising 
+interest rate. At point G, there is excess supply of goods also. This will lead to 
+involuntary accumulation of goods; inventories will increase. As a result, firms 
+will cut down production and the level of output will decline. The leftward pointing 
+arrow represents the declining output. Finally, the economy will move towards 
+equilibrium point E. 
+
+
+--- Page 63 ---
+ 
+ 
+ 
+63 
+The Neoclassical 
+Synthesis 
+Points F, H and K in Fig. 3.5 also are disequilibrium points. You can analyse the 
+supply and demand conditions at these points and find out the directions in which 
+adjustment will take place. For example, at point ‘H’ there is excess supply of 
+money (since it is to the left of the LM curve) and excess demand for goods (since 
+it is to the left of the IS curve). Excess supply of money will lead to a decrease in 
+interest rate. Excess demand for goods will lead to an increase in output level. 
+Consequently, the economy will move towards the equilibrium point E.  
+Suppose the economy is at point F (see Fig. 3.5) – here the monetary sector is in 
+equilibrium, but the real sector is in disequilibrium. There is an excess supply of 
+goods in the economy. This will lead to an increase in inventory accumulation. As 
+a result, firms will decrease their production levels. Decrease in output will lead to 
+a decrease in the demand for money and consequent decrease in the rate of interest. 
+Finally, the economy will reach the equilibrium point E where both the IS and LM 
+curves intersect.  
+ 
+Fig. 3.6: Adjustment Process in the Economy 
+Note that when one of the two markets is observing disequilibrium, the economy 
+reaches back to equilibrium after the adjustment process. In Fig. 3.6 we have 
+indicated the direction of change by arrow marks.  
+3.4.3 Impact of Supply Shocks 
+In the IS-LM model it is not necessary that the equilibrium occurs at the level of 
+potential output of the economy (or, full employment output). Equilibrium could 
+be at any level of output in the economy. An objective of policy makers has always 
+been that the economy should operate at potential output level with unemployment 
+at its natural level. In the long run does the economy maintain equilibrium at the 
+full employment output level?  
+In the long run prices do not remain constant. If actual output is above the potential 
+out, there will be price rise. The aggregate expenditure of the economy (such as 
+consumption, investment and government expenditure) describes the demand for 
+goods and services, which refer to physical quantities of goods and services. A 
+change in the price level may not affect these quantities. Thus, the IS curve is 
+relatively stable – it may not shift. The LM curve, on the other hand, is based on 
+the supply of and demand for real balances. Thus, a change in price level will shift 
+the LM curve.  

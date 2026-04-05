@@ -9,7 +9,6 @@ This is **NOT simple summarization**. It's a structured, multi-pass knowledge ex
 1. **Split** — Breaks a PDF into 3-page chunks with text extraction
 2. **Structure** — Creates detailed outlines using a sliding context window
 3. **Content** — Fills outlines with comprehensive, precise content
-4. **Critique** — Reviews and refines notes using a 6-dimension quality framework
 
 Each pass builds on the previous one, producing incrementally better output.
 
@@ -38,27 +37,28 @@ The workflow file at `.agents/workflows/pdf-to-notes.md` will guide the agent th
 #### Pass 0: Split the PDF
 
 ```bash
-python skills/01-split-pdf/scripts/split_pdf.py "/path/to/your/book.pdf" "output/your-book-name" --chunk-size 3
+python skills/01-split-pdf/scripts/split_pdf.py "/path/to/your/book.pdf" "output/your-subject/your-book-name" --chunk-size 3
 ```
 
 This creates:
-- `output/your-book-name/chunks/` — PDF and TXT files for each 3-page chunk
-- `output/your-book-name/index.json` — Manifest describing all chunks
+- `output/your-subject/your-book-name/input/` — Copied original PDF
+- `output/your-subject/your-book-name/chunks/` — PDF and TXT files for each 3-page chunk
+- `output/your-subject/your-book-name/index.json` — Manifest describing all chunks
 
 **Verify the output:**
 ```bash
-cat output/your-book-name/index.json | python -m json.tool
-ls output/your-book-name/chunks/
+cat output/your-subject/your-book-name/index.json | python -m json.tool
+ls output/your-subject/your-book-name/chunks/
 ```
 
 #### Pass 1: Structure Pass
 
 Tell your agent:
-> "Read the skill at `skills/02-structure-pass/SKILL.md` and create the notes structure for the PDF chunks in `output/your-book-name/`."
+> "Read the skill at `skills/02-structure-pass/SKILL.md` and create the notes structure for the PDF chunks in `output/your-subject/your-book-name/`."
 
 The agent will:
 - Process each chunk with a sliding window (prev + current + next)
-- Create outline files: `output/your-book-name/notes/chunk_*_structure.md`
+- Create outline files: `output/your-subject/your-book-name/notes/chunk_*_structure.md`
 - Create `structure_index.md`
 
 **Review the structures** before moving to Pass 2. Adjust if section boundaries are wrong.
@@ -66,24 +66,23 @@ The agent will:
 #### Pass 2: Content Pass
 
 Tell your agent:
-> "Read the skill at `skills/03-content-pass/SKILL.md` and fill the notes structures with content for `output/your-book-name/`."
+> "Read the skill at `skills/03-content-pass/SKILL.md` and fill the notes structures with content for `output/your-subject/your-book-name/`."
 
 The agent will:
 - Fill each outline with detailed content
 - Use previous completed notes for continuity
-- Create `output/your-book-name/notes/chunk_*_notes.md`
+- Create `output/your-subject/your-book-name/notes/chunk_*_notes.md`
 - Create `content_index.md` with glossary and cross-references
 
-#### Pass 3: Critique Pass
+#### Pass 3: Combine Notes
 
 Tell your agent:
-> "Read the skill at `skills/04-critique-pass/SKILL.md` and critique/refine the notes in `output/your-book-name/`."
+> "Combine the notes in `output/your-subject/your-book-name/notes/` into two files in `output/your-subject/your-book-name/export/`: `Complete_Notes.md` and `Last_Minute_Revision_Notes.md`."
 
 The agent will:
-- Critique each notes file on 6 dimensions (Accuracy, Completeness, Clarity, Depth, Structure, Connections)
-- Generate critique reports: `chunk_*_critique.md`
-- Produce refined final notes: `chunk_*_final.md`
-- Create `final_index.md` — the master table of contents
+- Read all detailed content notes from the chunks
+- Generate `Complete_Notes.md` containing the full textbook notes
+- Extract only high-yield topics (🔴), quick recall facts, definitions (⭐), and common mistakes to generate a highly condensed `Last_Minute_Revision_Notes.md`
 
 ## 📁 Directory Structure
 
@@ -100,25 +99,23 @@ NoteMakingWorkflowAG/
 │   │       └── split_pdf.py               # Python splitting script
 │   ├── 02-structure-pass/
 │   │   └── SKILL.md                       # Skill: Create outlines
-│   ├── 03-content-pass/
-│   │   └── SKILL.md                       # Skill: Fill content
-│   └── 04-critique-pass/
-│       └── SKILL.md                       # Skill: Critique & refine
-└── output/                                # Generated output (per book)
-    └── <book-name>/
-        ├── index.json                     # Chunk manifest
-        ├── chunks/                        # PDF + TXT chunks
-        │   ├── chunk_001.pdf
-        │   ├── chunk_001.txt
+│   └── 03-content-pass/
+│       └── SKILL.md                       # Skill: Fill content
+└── output/                                # Generated output
+    └── <subject-name>/                    # Grouped by subject
+        └── <book-name>/
+            ├── index.json                     # Chunk manifest
+            ├── input/                         # Copied original PDF
+            │   └── <book-name>.pdf
+            ├── chunks/                        # PDF + TXT chunks
+            │   ├── chunk_001.pdf
+            │   ├── chunk_001.txt
         │   └── ...
         └── notes/                         # Generated notes
             ├── chunk_001_structure.md     # Pass 1: Outlines
             ├── chunk_001_notes.md         # Pass 2: Content
-            ├── chunk_001_critique.md      # Pass 3: Critique reports
-            ├── chunk_001_final.md         # Pass 3: Final notes
             ├── structure_index.md         # Pass 1 index
-            ├── content_index.md           # Pass 2 index
-            └── final_index.md            # Master index
+            └── content_index.md           # Pass 2 index
 ```
 
 ## 🔑 Key Design Decisions
@@ -129,10 +126,9 @@ Each chunk is processed with its **previous** and **next** chunk loaded for cont
 - Content that spans chunk boundaries is handled gracefully
 - Continuity is maintained across the entire book
 
-### Three-Pass Architecture
+### Two-Pass Architecture
 - **Pass 1 (Structure)** establishes the scaffold — you can review and adjust before investing in content
 - **Pass 2 (Content)** fills with detail — uses completed notes from prior chunks for continuity
-- **Pass 3 (Critique)** catches what the content pass missed — systematic quality review
 
 ### Text Extraction
 The split script extracts text to `.txt` files alongside PDF chunks. This means:

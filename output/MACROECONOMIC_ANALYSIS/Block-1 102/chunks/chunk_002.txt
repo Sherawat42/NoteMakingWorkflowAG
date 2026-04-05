@@ -1,0 +1,79 @@
+--- Page 4 ---
+CONTENTS 
+BLOCK 1 TRADITIONAL APPROACHES TO 
+MACROECONOMICS 
+Page 
+Unit 1 The Classical Approach 7 
+Unit 2  The Keynesian Model 27 
+Unit 3  Neoclassical Synthesis  54 
+Unit 4  Open Economy Macroeconomics - I 70 
+Unit 5  Open Economy Macroeconomics - II 81 
+BLOCK 2 EXPECTATIONS AND MACROECONOMICS 
+Unit 6 Inflation and Unemployment 94 
+Unit 7  Rational Expectations 105 
+BLOCK 3 INTERTEMPORAL DECISION-MAKING 
+Unit 8 Consumption and Asset Prices 124 
+Unit 9 Ramsey-Cass-Koopmans Model  137 
+Unit 10 Overlapping Generations Model 153 
+BLOCK 4 THEORIES OF BUSINESS CYCLES 
+Unit 11 Traditional Models of Business Cycles 164 
+Unit 12 Real Business Cycles  184 
+BLOCK 5 LABOUR MARKETS 
+Unit 13 Nominal and Real Rigidities 199 
+Unit 14 Search Theory and Unemployment  221 
+BLOCK 6 ISSUES IN MONETARY POLICY 
+Unit 15 Central Banks and the Supply of Money 235 
+Unit 16 Conduct of Monetary Policy  249 
+Unit 17 Theory of Monetary Policy  262 
+BLOCK 7 FISCAL POLICY AND MACROECONOMICS 
+Unit 18 Fiscal Policy 278 
+Unit 19 Fiscal Sustainability 292 
+Glossary 305 
+
+
+--- Page 5 ---
+COURSE INTRODUCTION 
+Macroeconomics analyses and establishes functional relationships among economy level 
+aggregates. Aggregative analysis has assumed such a great significance in recent times that a 
+prior understanding of macroeconomic theoretical structure is considered essential for proper 
+comprehension of various issues and policies. Macroeconomics now is not only a scientific 
+method of analysis but also a body of empirical economic knowledge. 
+After going through this course a student is expected to  
+ have an intuitive understanding of the theoretical developments in macroeconomics; 
+ contrast among various schools of macroeconomic thought;  
+ analyse real world issues with the help of macroeconomic theories; and 
+ apply macroeconomic theory to empirical data. 
+The course comprises seven blocks. 
+Block 1, entitled Traditional Approaches to Macroeconomics , is somewhat introductory in 
+nature. After explaining some basic concepts that are used frequently in macroeconomics and 
+form building blocks of the subject, it presents the classical and Keynesian views on 
+determination of output and employment in an economy. Subsequently, it presents a synthesis 
+of the classical and Keynesian ideas through the tools of IS-LM curves. The block also deals 
+with issues pertaining to open economy macroeconomics.   
+Block 2, entitled Expectations and Macroeconomics, deals with issues such as inflation and 
+unemployment. It traces the evolution of Phillips Curve – how it originated as a relationship 
+between real and monetary variables; how it occupied a prime place as an analytical tool in 
+Keynesian economics; and how it became irrelevant in the new-classical economics. In the 
+course of discussion, this block deals with two important concepts, viz., adaptive expectations 
+and rational expectations.   
+Block 3, entitled Intertemporal Decision-making, analyses the behavior of economic agents 
+such as households and firms in an inter-temporal framework. It discusses the Ramsey-Cass-
+Koopmans model and overlapping-generations model. It also looks into issues such as the 
+choice between work and leisure on the part of households.  
+Block 4 , entitled Theories of Business Cycles , is devoted to the analysis of economic 
+fluctuations in an economy, particularly the business cycles. It begins with traditional theories 
+of business cycles and later moves on to real business cycles models with inter-temporal 
+substitution and the propagation mechanism. 
+Block 5 , entitled Labour Markets , discusses issues related to unemployment in the 
+economy. Apart from presenting nominal and real rigidities, the block throws lights on search 
+theories and unemployment. 
+The subject matter of Block 6 is Issues in Monetary Policy . It deals with issues such as 
+money supply, conduct of monetary policy, and theory of monetary policy. In recent years 
+
+
+--- Page 6 ---
+inflation targeting, policy rules, and dynamic consistency have been important concerns of 
+policy makers.   
+Block 7 , entitled Fiscal Policy and Macroeconomics , looks into the implications fiscal 
+policy in an economy. Debt sustainability and Ricardian equivalence are two important issues 
+discussed in this Block.  

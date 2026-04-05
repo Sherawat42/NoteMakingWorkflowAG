@@ -1,0 +1,155 @@
+--- Page 58 ---
+ 
+ 
+ 
+58 
+Traditional Approaches 
+to Macroeconomics 
+A change in the value of a parameter leads to a shift in the IS curve. An increase 
+in autonomous consumption (the coefficient ‘a’ in equation (3.4)) or autonomous 
+investment (the coefficient ‘c’ in equation (3.4)) will lead to a parallel shift of the 
+IS curve upward to the right. A change in the marginal propensity to consume, 
+however, will affect the slope of the IS curve.  
+Check Your Progress 1 
+1)  What will be the nature of change in the IS curve if there is a decrease in the 
+propensity to consume? 
+ ………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+2)  What is the implication of the following on the position of the IS curve? 
+(i) Decrease in autonomous government expenditure 
+(ii) Decrease in tax rate 
+ ………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+3.3 EQUILIBRIUM IN THE MONETARY SECTOR  
+The derivation of LM curve utilises the Keynesian view that speculative demand 
+and transaction demand for money are separate. The speculative demand for 
+money depends on the rate of interest while the transaction demand and the 
+precautionary demand for money depend on the level of income. Thus, total 
+demand for money (M) depends on both income (Y) and rate of interest (i). The 
+demand for money in real terms (
+ெ ೏
+௉
+) is given by 
+𝐿 = 𝑘𝑌 − ℎ𝑖          … (3.5) 
+where k > 0, h > 0; L is the demand for real balances (liquidity), Y is aggregate 
+income and 𝑖 is the rate of interest. You should remember three issues about the 
+monetary sector: (i) A person would like to deposit his money in bank and earn 
+interest on it. The alternative is to hold on to the cash, where no interest income is 
+earned. Thus, the opportunity cost of holding money is the interest foregone. If 
+there is an increase in the rate of interest, the interest foregone increases. 
+Conversely, if the rate of interest decreases, the interest income foregone 
+decreases. Therefore, the demand for money is a downward-sloping curve, if we 
+measure rate of interest on the y-axis and quantity of money on the x-axis. You 
+may be familiar with the concept of liquidity trap; a situation where the rate of 
+interest is very low, and people prefer to keep all their money in the form of liquid 
+cash as the interest income foregone is negligible. (ii) The demand for real balances 
+is described for a given level of income. We consider the money demand function 
+
+
+--- Page 59 ---
+ 
+ 
+ 
+59 
+The Neoclassical 
+Synthesis 
+while keeping the level of income fixed (say, 𝐿(𝑌଴ )). If there is an increase in the 
+level of income, there is an increase in the level of transactions and wealth in the 
+economy, which in turn increases the demand for money. Thus, there will be a 
+parallel shift in the money demand function. (iii) The supply of money is 
+determined by the central bank and it is constant. Thus, the supply of money is a 
+vertical straight line. If the supply of money is increased by the central bank, the 
+vertical straight line will shift to the right. When we deal with the short-run, we 
+assume that money supply does not change.  
+3.3.1 Derivation of the LM Curve  
+The supply of money in real terms is given by 
+ெ ೞ
+௉
+. Equilibrium in the money market 
+is achieved when 𝐿 = 𝑀 = 𝑀ഥ . Thus, equilibrium in the money market is given by 
+ெഥ
+௉ത = 𝑘𝑌 − ℎ𝑖          … (3.6) 
+We can re-arrange terms in the above equation and obtain 
+𝑌 = −
+ଵ
+௛
+ெഥ
+௉ത +
+௛
+௞ 𝑖        … (3.6a) 
+There is a positive relationship between 𝑌  and 𝑖 in the LM curve. In order to find 
+out the slope of equation (3.6) you have to express the equation in terms 𝑖 and find 
+out the slope 
+ௗ௜
+ௗ௒ . You can find out the slope of the LM curve as 
+௞
+௛ . Depending upon 
+the value of the parameters, the LM curve would be flatter or steeper. 
+  
+         Fig. 3.3: Derivation of the LM Curve 
+In Fig. 3.3, Panel (a) we depict the equilibrium in the money market (or, in the 
+monetary sector). We take demand for real balances (
+ெ
+௉ ) on the x-axis and the rate 
+of interest on the y-axis. Let the money demand in the economy be given as 
+ெ ೏
+௉ (𝑌଴ )  
+when the aggregate income is 𝑌଴ . In panel (a) of Fig. 3.3, this equilibrium is 
+represented by point ‘a’. The equilibrium rate of interest and income are 𝑖଴  and 𝑌଴  
+w respectively.  
+Let there be an increase in the level of income from 𝑌଴  to 𝑌ଵ . Such an increase in 
+income will lead to a parallel upward shift in the money demand function. We 
+
+
+--- Page 60 ---
+ 
+ 
+ 
+60 
+Traditional Approaches 
+to Macroeconomics depict this money demand function as a dotted line 
+ெ ೏
+௉ (𝑌ଵ ) in Panel (a) of Fig. 3.3. 
+With money supply remaining constant, an increase in aggregate demand will lead 
+to a rise in the interest rate. The economy is now at equilibrium with output level 
+𝑌ଵ and interest rate 𝑖ଵ . The intersection between the money supply function and the 
+money demand function is denoted by point ‘b’ in Fig. 3.3, panel (a).   
+In panel (b) of Fig. 3.3 we plot the LM curve by taking combinations of interest 
+rate and aggregate income where the money market is in equilibrium. We have two 
+such points, ‘a’ and ‘b’ in panel (a) of Fig. 3.3. You should note that the LM curve 
+is the combination of all the points where the money market is in equilibrium. The 
+LM curve is upward-sloping as you can see from the figure. An implication of the 
+LM curve is that as income increases people want to hold more money, thus driving 
+up the interest rate. If the speculative demand for money is perfectly elastic to 
+interest rate (liquidity trap situation) the LM curve will be horizontal. On the other 
+hand, if speculative demand is perfectly inelastic to interest rate, the LM curve will 
+be vertical.  
+To the left side of the LM curve there is excess supply of money (for example, 
+point ‘c’ in Fig. 3.3 panel (b)). Excess supply in the money market implies that the 
+demand for money is less than its supply. It means that people want to reduce the 
+amount of liquid cash they possess. This induces people to buy bonds so that bond 
+prices rise and rate of interest declines. A decline in the rate of interest restores 
+equilibrium in the economy. To the right side of the LM curve, there is excess 
+demand for money (for example, point ‘d’ in Fig. 3.3 panel (b)). Excess demand 
+for money causes people to sell bonds (so that they can keep higher amount of 
+liquid cash). This leads to a fall in bond prices and rise in the rate of interest. This 
+way equilibrium in the monetary sector is restored.     
+3.3.2 Shift in the LM Curve 
+The position and the slope of the LM curve depend upon certain factors, including 
+money supply. An increase in money supply shifts the LM curve to the right. As a 
+result, at every level of output, the equilibrium rate of interest is lower than before. 
+Thus, increase in money supply shifts the LM curve to the right. Conversely, a 
+decrease in money supply will shift the LM curve to the left so that equilibrium 
+rate of interest is higher at every level of output.  
+3.4 SIMULTANEOUS EQUILIBRIUM OF REAL 
+AND MONETARY SECTORS 
+Now let us combine IS and LM curves as shown in Fig. 3.4. Such integration of 
+IS-LM gives a unique combination of 𝑖 and 𝑌, which represents equilibrium in 
+both real market and money market. In Fig. 3.4 we superimpose 𝐼𝑆଴  and 𝐿𝑀଴  in 
+the same diagram. We measure income (Y) on the x-axis income (Y) and rate of 
+interest on the y-axis. The equilibrium rate of interest and the equilibrium output 
+level are given by 𝑖଴  and 𝑌଴  respectively.  

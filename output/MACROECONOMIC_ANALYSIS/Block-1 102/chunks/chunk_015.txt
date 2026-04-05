@@ -1,0 +1,153 @@
+--- Page 43 ---
+ 
+43 
+ 
+The Keynesian Model involves producing fewer consumer goods and freeing resources for the 
+production of investment goods. This can also be represented diagrammatically 
+as in Fig. 2.7, where equilibrium income Y e is attained at the intersection of the 
+saving function and the investment function.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Fig. 2.7: Saving-Investment Equality 
+In a three-sector economy, the output market equilibrium condition is Y = C + I 
++ G. Income has three uses: consumption, saving and payment of taxes. Thus, Y 
+= C + S + T. Putting these together, we can write the output market equilibrium 
+condition as:  
+C + S + T = Y = C +I + G, or, S + T =I + G    … (2.14)  
+This can also be written as S + (T – G ) =I , which shows that at equilibrium in a 
+closed economy, planned investment must be equal to total saving that include 
+planned saving by households and public saving (T – G). We can also re-write 
+(2.14) as, (S – I )= (G – T). An implication of the above is: when planned 
+investment is less than planned saving (S – I > 0), the government is running a 
+budget deficit (G – T > 0). The financing of the budget deficit is by borrowing 
+from households.  
+2.4.3 Paradox of Thrift 
+An important result regarding the role of saving in the Keynesian model is 
+referred to as the ‘saving paradox’ or the ‘paradox of thrift’. You know that 
+saving on the part of a household is considered as a virtue. Higher saving 
+increases the assets and wealth of a household in the long run. For the economy 
+as a whole, however, an increase in saving may not be good; it may be a vice. 
+When households plan to save more, aggregate saving either remain the same or 
+may even decrease. Let us explain it through a diagram (see Fig. 2.8).  
+In Fig. 2.8, equilibrium in the economy is at point A, where S = I. Output 
+produced is Y 0. Suppose there is an increase in the autonomous component of 
+households’ planned saving, i.e., at each level of income planned saving is 
+higher. This involves an upward shift of the saving function from S 0 to S 1. Note 
+that S 1 is parallel to S 0 since there is no change in MPS. Now, the equilibrium 
+output level increases to  
+Ye 
+S,I 
+0 
+S = –a + (1–b) Y 
+I̅ 
+Y 
+
+
+--- Page 44 ---
+ 
+44 
+ 
+Traditional Approaches 
+to Macroeconomics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.8: Paradox of Thrift 
+Since there is no change in planned investment, there is disequilibrium in the 
+economy now. Planned investment (DY 1) is the same as before  (DY 1 = AY 0). 
+Since people now wish to save more (saving function has shifted to S 1), income 
+must be lower, so that saving is the same as before. The paradox is, despite an 
+increase in thriftiness, there is no change in aggregate saving.  
+The desire to save more reduces planned consumption, thereby lowering 
+aggregate demand and hence output (and income). At lower income levels, 
+saving is correspondingly lower – instead of BY 0, aggregate saving fall to DY 1, 
+since income has fallen to OY1.  
+If the investment function has an induced component and is given by I = c + d Y, 
+as in (2.2b), then an increase in planned saving can actually lead to lower level of 
+saving at equilibrium, as shown in Fig. 2.9 below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.9: Paradox of Thrift (Induced Investment) 
+In Fig. 2.9 the saving function shifts from S 0 to S 1. In this case, the reduction in 
+consumption demand (due to rise in planned saving), leads to lower output which 
+  0 
+ –a1 
+S,I 
+D 
+B 
+A 
+Y1 Y Y0 
+S1 = –a1 + (1–b)Y 
+S0 = –a0 + (1–b)Y 
+I̅ 
+S1 
+B A 
+Y1 Y0 
+I0 = c0 + dY S, I 
+c0 
+0 
+S0 
+Y 
+
+
+--- Page 45 ---
+ 
+45 
+ 
+The Keynesian Model further leads to a decrease in induced s, thereby lowering income further. At the 
+lower level of equilibrium income (OY 1 < OY 0), planned saving is 
+correspondingly lower (BY 1 < AY 0), with the desire to save more leading to 
+lower aggregate saving at equilibrium.  
+This result provides an important insight into the role of saving in the short run. 
+In an economy that faces no supply constraints and has excess production 
+capacity, an increase in the desire to save essentially lowers output by lowering 
+aggregate demand. Therefore, at a lower equilibrium income level aggregate 
+saving is the same or may even be lower than before. Note that such decline in 
+output due to higher saving could be a short run phenomenon. In the long run, 
+higher saving allows for higher investment and hence for creation of additional 
+productive capacity. You will learn more about the role of saving in the long run 
+while studying economic growth.  
+Check Your Progress 3 
+1. (a)  In a two-sector economy (with only households and firms) derive the 
+output market equilibrium condition in terms of planned saving and 
+planned investment.  
+    (b)  In a three-sector economy (with households, firms and government), what 
+would be the relation between saving and investment at equilibrium if the 
+government runs a budget surplus? 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+....................................................................................................................... 
+2. What is meant by the ‘paradox of thrift’? Use appropriate diagram to 
+explain the cases of (i) investment demand is autonomous; and (ii) 
+investment demand has an induced component. 
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................
+................................................................................................................... 
+....................................................................................................................... 
+ 
+  

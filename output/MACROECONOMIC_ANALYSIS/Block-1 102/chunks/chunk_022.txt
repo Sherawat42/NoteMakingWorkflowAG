@@ -1,0 +1,129 @@
+--- Page 64 ---
+ 
+ 
+ 
+64 
+Traditional Approaches 
+to Macroeconomics 
+The full employment output is given by the production capacity of the economy. 
+It is derived from the production function (see Unit 1). Suppose the full 
+employment output (potential output) of the economy is given by 𝑌∗. We depict it 
+by a vertical straight line in Fig. 3.7. The IS 0 curve and LM 0 curve intersect at E 
+which corresponds to the full employment output.  
+ 
+Fig. 3.7: Adjustment to Adverse Supply Shocks 
+Suppose the economy gets an adverse supply shock (for example, decline in 
+agricultural productivity due to drought), as a result of which there is a decrease in 
+the potential output of the economy from 𝑌∗ to 𝑌∗∗. As pointed out above, the IS 
+curve is relatively stable in such situations and the economy adjusts through a shift 
+in the LM curve. Due to the adverse supply shock, there is a rise in prices and 
+consequent leftward shift in the LM curve. Thus, there is a rise in the rate of interest 
+and the new equilibrium is at F.  
+Check Your Progress 2 
+1)  Explain how the LM curve is derived.  
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+2)  Suppose the LM curve is vertical. What are its implications? 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+3)   In the IS-LM model, explain how adjustment to supply shocks takes place. 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+
+
+--- Page 65 ---
+ 
+ 
+ 
+65 
+The Neoclassical 
+Synthesis 3.5 AD-AS MODEL  
+In the IS-LM model we assumed that price level is constant. Let us relax that 
+assumption and look into the impact of prices on equilibrium output in the 
+economy. First, we derive the aggregate demand (AD) curve. Subsequently, we 
+juxtapose the AD curve with the aggregate supply (AS) curve and find out the 
+equilibrium level of output.  
+3.5.1 Derivation of the AD Curve 
+A change in the price level changes the real money supply (
+ெ ೞ
+௉ ) in the economy. 
+This will result in a shift in the LM curve if money supply (M) is assumed to be 
+constant. Thus, there will be a change in the equilibrium rate of interest and output. 
+If we assume that the price level keeps changing over time, we will obtain a series 
+of equilibrium levels of output corresponding to different price levels. If we plot 
+such combinations of prices and output, we obtain the aggregate demand (AD) 
+curve. 
+The derivation of the AD curve from IS-LM curves is shown in Fig. 3.8. In panel 
+(a) of Fig. 3.8 we juxtapose 𝐼𝑆଴  and 𝐿𝑀଴  curves intersecting at point E with an 
+equilibrium income level of 𝑌଴  and interest rate 𝑖଴ . The 𝐿𝑀଴   curve is based on real 
+money stock of 𝑀଴ /𝑃଴ . Thus, we describe the combination 𝑃଴  and 𝑌଴  as point ‘a’ 
+on the AD curve in panel (b) of Fig.3.8.  
+ 
+Fig. 3.8: Derivation of AD Curve 
+Now, let us assume that price level declines to 𝑃ଵ  . If there is no change in money 
+stock, supply of real balances increases to  𝑀଴ /𝑃ଵ . Note that the increase in real 
+balances is due to decrease in prices, not due to an increase nominal money stock. 
+The LM curve shifts to the right. In panel (a) of Fig. 3.8 we depict the new LM 
+curve as 𝐿𝑀ଵ .  With 𝐼𝑆଴  and 𝐿𝑀ଵ , the new equilibrium point is ‘b’; the rate of 
+interest falls to 𝑖ଵ  and income rises to 𝑌ଵ . The combination of 𝑃ଵ   and 𝑌ଵ  becomes 
+point ‘b’ in Panel (b) of Fig. 3.7. By joining all such points as ‘a’ and ‘b’, we obtain 
+the AD curve. 
+
+
+--- Page 66 ---
+ 
+ 
+ 
+66 
+Traditional Approaches 
+to Macroeconomics 
+The AD curve is downward-sloping, which indicates an inverse relationship 
+between prices and output. A decline in price level increases the real money 
+supply, which creates disequilibrium in the money market. Increase in the supply 
+of real balances lead to a decrease in interest rate. A decrease in the rate of interest 
+restores equilibrium in the money market. A decrease in the rate of interest leads 
+to an increase in the level of investment. An increase in the level of investment 
+leads to an increase in aggregate expenditure, thereby increasing the level of 
+output.  
+The AD curve is flatter, if a given change in price leads to a larger change in output. 
+On the other hand, the AD curve is steeper if a given change in price leads to a 
+smaller increase in output. The AD curve shifts upward to the right as a result of 
+expansionary fiscal policy (e.g., increase in government expenditure, reduction in 
+tax rate). A contractionary fiscal policy, on the other hand, shifts the AD curve 
+downward to the left. Similarly, an expansionary monetary policy (e.g., reduction 
+in interest rate, increase in money supply through open market operations, reserve 
+requirements, etc.) will shift the AD curve to the right while a contractionary 
+monetary policy will shift the AD curve to the left.  
+You should note that any factor that leads to a shift in the IS curve or the LM curve 
+to the right will shift the AD curve to the right side. Similarly, any factor that shifts 
+the IS curve or LM curve to the left will shift the AD curve to the left. Thus, an 
+increase in any component of autonomous spending such as an increase in 
+government spending leads to a rightward shift of the AD curve. Also, an increase 
+in the nominal money supply will shift the AD curve upwards.  
+3.5.2 Aggregate Supply (AS) Curve 
+From microeconomics we know that the AS curve is upward-sloping – when price 
+of a product increases, firms produce more of the product. In the case of the whole 
+economy, production capacity is limited. Resources available to the economy are 
+not unlimited. The behaviour of the AS curve is different in the long run compared 
+to the short run. Short run, as you know, is a time period in which wages and certain 
+other economic variables do not respond to changes in economic environment. In 
+the long run is a time period in which wages and prices are flexible.  
+Classical theory discussed in Unit 1 assumed that the AS curve is vertical at the 
+full employment level. Thus, output is perfectly inelastic to changes in prices. 
+Keynes went to the other extreme and assumed that the AS curve is horizontal. An 
+implication of the horizontal AS curve is that firms can increase production to any 
+level without affecting prices. Both the versions (vertical and horizontal) of the AS 
+curve seems unrealistic. As you will learn in later units, the new-classical 
+economists suggest that the AS curve is upward-sloping in the short run. Lucas’ in 
+his ‘aggregate supply hypothesis’ advocate that economic agents respond to price 
+and wage incentives, which influences their trade-off between leisure and work. 
+As a result, when actual wage is higher than equilibrium wage rate, households 
+supply more labour. Conversely, when actual wage rate is lower than equilibrium 
+wage rate, household will decrease their supply of labour. As a result of this, the 

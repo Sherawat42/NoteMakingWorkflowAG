@@ -1,0 +1,152 @@
+--- Page 28 ---
+ 
+28 
+ 
+Traditional Approaches 
+to Macroeconomics 2.1  INTRODUCTION 
+In this Unit we will learn about the Keynesian model that was first developed by 
+the British economist John Maynard Keynes in his famous book ‘The General 
+Theory of Employment, Interest and Money’, published in 1936. This model 
+differs in several respects from the classical approach to macroeconomics that 
+you studied in the previous Unit. The Keynesian model allows for the existence 
+of unemployment as well as rigidity in wages and prices. It recognizes that lack 
+of effective demand may prevent the attainment of full employment of resources. 
+Also, it emphasizes the need for government intervention – as the market 
+mechanism would not be able to restore full employment equilibrium due to 
+rigidities in wage rate and prices. 
+2.2  COMPONENTS OF AGGREGATE DEMAND 
+We observe that Keynesian economics gained importance against the backdrop 
+of the Great Depression of the 1930s, when developed economies like the USA 
+and Great Britain faced a deep and prolonged recession, with rising 
+unemployment, falling revenues and profits of firms and rise in unutilized 
+capacity. In this situation the market mechanism failed to restore equilibrium and 
+the Keynesian policy of raising aggregate demand via increase in public 
+expenditure played a crucial role in addressing the problem.  
+Aggregate demand is the planned expenditure on goods and services by all the 
+economic agents, such as households, firms and government. There are three 
+main components of aggregate demand in a closed economy: (i) planned 
+consumption expenditure (C) of households, (ii) planned investment expenditure 
+(I) of firms, and (iii) expenditure incurred by the government on goods and 
+services (G). Throughout our discussion in this Unit, each of C, I and G are 
+assumed to be in real terms (i.e., no change in prices).  
+2.2.1 Consumption Function 
+Keynes proposed the idea of a Consumption function which gives the relation 
+between planned consumption expenditure of households (C) and aggregate 
+income (Y). It can be represented by the following linear equation:  
+𝐶 = 𝑎 + 𝑏𝑌        … (2.1a) 
+In the presence of the government, a part of income would be paid in taxes (T). 
+In that case the consumption function would be represented as a function of 
+disposable incomes (𝑌ௗ = 𝑌 − 𝑇), that is,  
+𝐶 = 𝑎 + 𝑏(𝑌 − 𝑇) = 𝑎 + 𝑏𝑌ௗ       … (2.1b)   
+For the discussion below, for simplicity, we assume that there is no government, 
+so that T = 0 and Y = 𝑌ௗ .  
+The slope of the consumption function ‘ 𝑏’ is assumed to be a positive fraction 
+(i.e., 0 < 𝑏 < 1). It means that the consumption function can be represented as an 
+
+
+--- Page 29 ---
+ 
+29 
+ 
+The Keynesian Model upward sloping straight line as in Fig. 2.1. It indicates that planned consumption 
+expenditure increases with an increase in the level of aggregate income.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.1: Consumption Function 
+Note that ‘ b’ is defined as the marginal propensity to consume (MPC) and it 
+represents the change in consumption induced by a unit change in income. The 
+MPC is assumed to be less than one. If there is an increment in income by Y, the 
+induced increase in consumption C is a fraction of Y (i.e., C =b Y and 
+C/Y = b < 1 ). It means that the entire increment in income is not spent on 
+consumption, a fraction ( 1 − 𝑏) is saved. It means total saving out of the 
+incremental income is (1 − 𝑏)Y. 
+Let us consider the case where the consumption function is given by C = 20 + 
+0.25Y. If aggregate income increases by Rs.100 (i.e.,  
+Y=100), then Rs. 25 ( C 
+= 0.25 ×100) is the additional consumption and Rs.75 [(1 – 0.25)  ×100] is 
+additional saving of households out of the incremental income. Similarly, if 
+income declines by Rs.100, then consumption would decline by Rs. 25 only, 
+while saving would decline by Rs. 75.  
+The intercept of the consumption function ‘ a’ represents autonomous 
+consumption, with 𝑎 > 0. From equation (2.1a), you can see that when  𝑌 = 0, 
+we have  𝐶 = 𝑎. It implies that consumption occurs even when income is zero. 
+This consumption is financed by drawing down past saving or by ‘dis-saving’. 
+An increase in ‘ a’ represents increase in planned consumption of households at 
+each level of income; this can happen, for instance, when consumer confidence 
+increases (i.e., households’ expectations about the future turn buoyant). You can 
+see in Fig. 2.1 that an increase in the intercept (from a0 to a1) results in a parallel, 
+upward shift of the consumption function, from C0 to C1. 
+Aggregate consumption has two components: (i) an autonomous component ‘ a’ 
+that does not depend on income, and (ii) an ‘induced’ component ‘ bY’ that 
+depends on aggregate income levels. An increase (decrease) in Y induces an 
+increase (decrease) in planned consumption expenditure by households.  
+The ratio of aggregate consumption expenditure to aggregate income ቀ
+஼
+௒
+ቁ is 
+defined as the average propensity to consume  (APC). From equation (2.1a) you 
+C 
+ a1 
+ a0 
+0 
+𝑏 
+Y 
+𝐶ଵ = 𝑎ଵ + 𝑏𝑌 
+𝐶଴ = 𝑎଴ + 𝑏𝑌 
+
+
+--- Page 30 ---
+ 
+30 
+ 
+Traditional Approaches 
+to Macroeconomics 
+can see that APC = 𝐶 𝑌⁄  = 𝑎 𝑌⁄ + 𝑏. Note that APC will decline as Y increases, 
+while MPC remains constant.  
+2.2.2 Investment Function 
+The investment function (I) represents planned investment expenditure 
+undertaken by firms on machinery, factories and other such items that add to 
+productive capacity of the economy. In the simplest version of the Keynesian 
+model investment is assumed to be ‘autonomous’, i.e., independent of the level of 
+aggregate income (Y). In this case the investment function is represented by the 
+equation as below. 
+𝐼 = 𝐼̅         … (2.2a)   
+In equation (2.2a) a ‘bar’ over the variable investment ( 𝐼̅) variable indicates a 
+fixed amount. However, we can easily relax this assumption and allow 
+investment to be a function of aggregate output. In this case the investment 
+function is: 
+ I = c + d Y        … (2.2b)  
+where c > 0 and d > 0; ‘c’ is the autonomous part of investment, d is the marginal 
+propensity to invest  (MPI) and ‘ d Y’ represents investment that is induced by 
+aggregate income.  
+Fig. 2a below depicts an autonomous investment function, while Fig. 2.2b depicts 
+an induced investment function which has a component that is induced by 
+income.  
+ 
+ 
+ 
+ 
+       
+         
+ 
+Fig. 2.2a: Autonomous Investment    Fig. 2.2b: Induced Investment 
+Note that the term investment refers to planned expenditure by firms on new 
+production equipment (e.g., machinery, building, etc.) that add to productive 
+capacity. It does not refer to buying of corporate bonds or shares in a company or 
+opening a fixed deposit account in a bank.  
+An important variable that affects firms’ decision to invest is the rate of interest. 
+As the rate of interest increases, the cost of borrowing goes up, resulting in a 
+reduction in the firms’ planned investment expenditure. The inverse relation 
+between investment and interest rate can be further explained as follows:  
+Y 
+I = c + dY I 
+c 
+I 
+I̅ 
+Y

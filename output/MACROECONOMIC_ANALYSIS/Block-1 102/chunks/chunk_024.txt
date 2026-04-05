@@ -1,0 +1,139 @@
+--- Page 70 ---
+ 
+UNIT 4  OPEN ECONOMY  
+  MACROECONOMICS -I  
+ 
+Structure 
+ 
+4.0 Objectives 
+4.1 Introduction 
+4.2  National Income Identity in an Open Economy 
+4.3  Balance of Payments and Exchange Rate 
+ 4.3.1 Balance of Payments 
+ 4.3.2 Exchange Rate 
+4.4 Let Us Sum Up 
+4.5 Answer/Hints to Check Your Progress Exercises 
+4.0 OBJECTIVES 
+After going through this Unit you should be in a position to 
+ explain the national income identities in an open economy;  
+ assess the relation between aggregate expenditure and income in an open 
+economy; 
+ explain the relation between private savings-investment gap, fiscal deficit and 
+current account deficit; 
+ explain the concept of Balance of Payments (BOP); 
+ explain current and Capital accounts of BOP; 
+ explain the concepts of nominal and real exchange rates; and 
+ explain fixed and flexible exchange rate regimes. 
+4.1 INTRODUCTION 
+In this Unit we will examine the national income identities, with a view to 
+identifying certain fundamental differences between open and closed economies. 
+Thereafter we examine certain basic concepts relating to Balance of Payments 
+(BOP) and exchange rates. The BOP accounts record the transactions of an 
+economy with the ‘rest of the world’ and provide important insights into the 
+pattern of international trade and capital flows. The exchange rate is also an 
+important variable in an open economy with important implications for 
+international trade and competitiveness.  
+4.1 NATIONAL INCOME IDENTITY IN AN OPEN 
+ ECONOMY 
+In an open economy domestic agents have manifold economic interactions with 
+foreigners; e.g., goods are sold to, as well as purchased from foreigners. The sale 
+of goods and services to foreigners are exports (X) of the country and purchases 
+from foreigners constitute imports (M). In an open economy, aggregate 
+expenditure on final goods by domestic agents (households, firms and 
+ 
+ Prof. Ananya Ghosh Dastidar, Department of Finance and Economics, University of Delhi 
+
+
+--- Page 71 ---
+ 
+71 
+ 
+Open Economy 
+Macroeconomics-I 
+government) given by [C + I + G], includes expenditure on domestic as well as 
+imported goods. Aggregate spending on domestic goods by domestic agents is 
+given by [C + I + G – M]. To this we add expenditure on domestic goods by 
+foreigners or exports, to obtain total final expenditure on domestically produced 
+goods, i.e., [C + I + G + X –M]. 
+From the equivalence between the expenditure, income and product approaches 
+to measurement of aggregate output, we can say that aggregate final expenditure 
+is equal to aggregate output produced in the economy or GDP (Y).  
+So the national income identity for an open economy can be written as: 
+Y = C + I + G + X – M 
+or, Y = C + I + G + NX (where NX = X – M)    (4.1)   
+Note that (X – M) is also referred to as net exports (NX) or balance of trade. 
+When exports exceed imports, NX is positive and there is a trade surplus; when 
+imports exceed exports, NX is negative and there is a trade deficit.  
+In an open economy we draw a distinction between GDP and GNP (Gross 
+National Product). While GDP refers to aggregate incomes earned (by domestic 
+residents and foreigners) within the geographical boundaries of the country, GNP 
+is defined as the aggregate income of citizens of the country, irrespective of 
+whether they are located within the country or abroad. E.g., the salary of a 
+German consultant located in New Delhi would be a part of German GNP and 
+India’s GDP; the salary of an Indian worker in Singapore would be a part of 
+Singapore’s GDP and India’s GNP.  
+So we define net factor income from abroad (NFIA) as follows:  
+NFIA = Income earned abroad by domestic factors of production minus income 
+earned by foreign factors of production in the domestic economy.  
+To obtain GNP, NFIA is added to GDP (denoted often as Y in macroeconomics): 
+i.e., GNP = Y + NFIA         (4.2)  
+Note that NFIA can be positive or negative and the difference between GDP and 
+GNP can often bequite large.For example, GDP may exceed GNP (NFIA < 0) in 
+countries where mostproduction units are owned by foreign multinationals (so 
+that a large share of the incomes generated within the economy, accrue to 
+foreigners) or which have a sizeable migrant population employed abroad. 
+Using the national income identity we can show in an open economy aggregate 
+expenditure (C+I+G) can exceedaggregate income (GNP) and that this imbalance 
+is reflected in a current account deficit.  
+We can also write (4.2) as: 
+GNP  = C+I+G+NX +NFIA  
+or, GNP  = C+I+G+ CA,   (where CA = NX + NFIA)    
+or, GNP – (C+I+G) = CA           (4.3) 
+
+
+--- Page 72 ---
+ 
+72 
+ 
+Traditional Approches 
+to Macroeconomics 
+Note that CA represents the ‘current account balance’ of a country, which may be 
+positive (current account surplus) or negative (current account deficit).  
+The identity (4.3) indicates that aggregate domestic absorption (C+I+G) exceeds 
+aggregate income (GNP) in a country that has a current account deficit (CA < 0). 
+Such a country is a net debtor (or, borrower) as it has to borrow to bridge the gap 
+between income and expenditure whereas aggregate income exceeds expenditure 
+in a country running a current account surplus (CA > 0) and it is a net lender.  
+A current account deficit may be financed by borrowing from the rest of the 
+world or by sale of foreign assets held by domestic agents. We will have more to 
+say on this in the next section on balance of payments.  
+The national income identity can be further used to understand whether the real 
+sector imbalance reflected in a current account deficit, stems mainly from the 
+private sector, or the government sector, or both.  
+From the income side, we know that aggregate income is either consumed (C), or 
+saved (S) or paid out in taxes (T), so that,  
+C + S + T = GNP         (4.4)  
+Combining (4.3) and (4.4), we can write,  
+C + S + T = GNP = C+I+G+CA 
+or, C + S + T = C+I+G+CA,  
+or, S + T = I+G+CA   
+or, (S – I) + (T – G) = CA          (4.5)  
+From identity (4.5) it is clear that a current account deficit (CA <0) reflects either 
+an excess of private investments over private savings (i.e., (S – I)  < 0 ) or, a 
+budget deficit (i.e., (T–G) < 0) or, both. Also, if (S – I) > 0 but, (T–G) < 0 and 
+absolute value of (T–G) is larger than that of (S – I), there would be a current 
+account deficit. The identity (4.5) represents the ‘twin deficits’, where an external 
+deficit (CA < 0) is reflected as a deficit in the private sector (i.e., (S – I) < 0), or 
+in the government sector (i.e., (T–G) < 0), or in both.   
+The national income identities clearly indicate that an imbalance in the current 
+account reflects an imbalance in the real economy.That is, whenever a country 
+runs a current account deficit, there is an excess of aggregate expenditure over 
+income; this may occur because, private savings are too low, or there is aprivate 
+investment boom, or, the government is running a budget deficit or some 
+combination of these factors. Conversely, aggregate income exceeds expenditure 
+in a country that runs a current account surplus and either its private savings 
+would exceed investments (i.e. (S – I) > 0) or, public savings would be positive 
+(i.e., (T – G) > 0) or, both.  
+The main difference between closed and open economies should be evident from 
+the above discussion. In a closed economy, by definition, there are no 
+transactions with the ‘rest of the world’and CA is zero. Thus aggregate 

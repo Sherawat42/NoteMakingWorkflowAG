@@ -1,0 +1,149 @@
+--- Page 76 ---
+ 
+76 
+ 
+Traditional Approches 
+to Macroeconomics 
+whereas payments for the same may be received six months later and hence may 
+not be recorded in BOP of that year.  Therefore, in order to balance the BOP 
+account an entry for errors and omissions is included.  
+Even though the BOP always balances, we can talk about an overall BOP surplus 
+or deficit. Overall BOP balance is obtained by adding the current and capital 
+account balances. A country has a BOP surplus in the following cases: (i) there is 
+current account surplus as well as capital account surplus; (ii) there is a current 
+account deficit but a capital account surplus that is larger in magnitude; (iii) there 
+is a current account surplus and a relatively smaller capital account deficit. There 
+would be a BOP deficit, either when there is a deficit on both current and capital 
+accounts or when there is a relatively large deficit in either one of the current or 
+capital accounts.  
+In the case of a BOP surplus there is an increase in the foreign exchange reserves 
+of the country. In the case of a deficit, the stock of foreign exchange reserves is 
+depleted.  Let us discuss this issue in details. 
+Change in Foreign Exchange Reserves 
+Apart from transactions made by private and government agents, the capital 
+account of the BOP also includes official reserve transactions  that involve 
+change in the stock of foreign exchange reserves held by the central bank. When 
+there is a BOP surplus, the country experiences a net inflow of foreign exchange, 
+leading to a correspondingincrease in foreign exchange reserves. In the case of a 
+BOP deficit, there is net outflow of foreign exchange and a corresponding 
+reduction in foreign exchange reserves. Thus, 
+BOP Balance = Current Account + Capital Account (including errors and 
+omissions) + Official Reserve Transactions = 0 
+In case a country has a current account deficit (of say, – $15,000), but a capital 
+account surplus that is smaller in magnitude (say, $12,000), then it has a BOP 
+deficit (of –$3000) that leads to a decrease in foreign exchange reserves (by 
+$3000). 
+Note that a BOP surplus is recorded with a positive sign in the BOP, while the 
+corresponding increase in reserves has a negative sign, so that the two add up to 
+zero. Therefore in BOP accounts an increase in foreign exchange reserves 
+appears with a negative sign whereas a decrease in reserves has a positive sign. 
+4.3.2 Exchange Rate 
+The exchange rate is an important concept in an open economysuch as India, that 
+has transactions involving foreign goods, services and assets, whose prices are 
+denominated in terms of foreign currencies. Throughout the following discussion 
+we assume that the domestic country is India and the foreign country is the USA.  
+Demand for foreign exchange arises whenever domestic agents purchase foreign 
+goods, services or assets (i.e., imports and capital outflows); whereas, sale of 
+domestic goods, services and assets to foreigners (i.e., exports and capital 
+
+
+--- Page 77 ---
+ 
+77 
+ 
+Open Economy 
+Macroeconomics-I 
+inflows) constitutes the primary source of supply of foreign exchange. The 
+market value of the exchange rate is determined by demand and supply in the 
+foreign exchange market. However, often the official exchange rate may differ 
+from its market value as you will see from our discussion on alternate exchange 
+rate regimes. First we shall learn about various exchange rate concepts.  
+Nominal Exchange Rates 
+The nominal exchange rate ‘e’ can be defined as the number of units of domestic 
+currency (Rupee) required forpurchasing one unit of foreign currency (dollar). 
+For example, if Rs. 80 is required to buy one dollar, then the exchange rate e = 
+Rs. 80 per dollar. Similarly, the exchange rate of the Indian rupee can also be 
+defined in terms of other currencies, e.g., yen, euro, pound, etc.   
+When the exchange rate ‘e’ rises (say, from Rs. 80 to Rs.82 per dollar), there is 
+an increase in the price of dollars in terms of rupees and there is nominal 
+depreciation of the rupee vis-à-vis dollar (and nominal appreciation of the dollar 
+vis-à-vis rupee). When ‘e’ falls (e.g., from Rs. 80 to Rs. 78 per dollar), the dollar 
+becomes cheaper in terms of rupees and there is a nominal appreciation  of the 
+rupee (and nominal depreciation of the dollar vis-à-vis rupee). 
+Real Exchange Rate 
+While nominal exchange rates measure the rate of exchange between domestic 
+and foreign currencies, the real exchange rate captures the rate at which domestic 
+goods are exchanged for foreign goods. It isthe price of foreign goods in terms of 
+domestic goods and is computed using the nominal exchange rate and prices of a 
+comparable basket of domestic and foreign goods as bellow: 
+ r = (e pf) / pd          (4.6)  
+where‘e’ is the nominal exchange rate (rupees per dollar), p d denotes the 
+domestic price level (in rupees) and p fdenotes the foreign price level (in dollars). 
+‘e pf’ is the price in rupees of a foreign basket of goods and ‘p d’ is the price (in 
+Rupees) of a comparable domestic basket.  
+The real exchange rate between rupee and dollar reflects the price of goods 
+produced in the USA relative to those produced in India. A rise in r means 
+American goods become relatively more expensive vis a vis Indian goods and 
+there is real depreciation  of the rupee; whereas a reduction in r makes Indian 
+goods relatively more expensive and there is real appreciation of the rupee. The 
+real exchange rate is often used as an index of a country’s international price 
+competitiveness. In case a country faces real appreciation of its currency, 
+domestic goods become more expensive and this can lead to a reduction in 
+demand for exports. In contrast, a real depreciation of the currency can boost 
+export demand.  
+When domestic and foreign prices remain unchanged (that is, 
+௣೑
+௣೏
+ is constant), a 
+nominal depreciation (‘e’ rises) of the domestic currency causes a corresponding 
+real depreciation (‘r’ rises). In this case the nominal and real exchange rates 
+
+
+--- Page 78 ---
+ 
+78 
+ 
+Traditional Approches 
+to Macroeconomics 
+move in the same direction. However, prices may change simultaneously with 
+exchange rates; e.g., an appreciation in nominal exchange rates (‘e’ falls), along 
+with a large fall in domestic prices ( 𝑝ௗ
+ falls) may lead to a real depreciation (r 
+rises). So, ‘e’ and ‘r’ may also move in opposite directions.  
+Exchange Rate Regimes 
+The exchange rate regime of a country determines how its exchange rate is 
+determined.  
+Under a flexible (or floating) exchange rate regime , the value of ‘e’ is 
+determined by the demand and supply of foreign exchange, without any 
+government intervention. In this case the currency is on a clean float or pure 
+float. That means the exchange rate is fully flexible and adjusts continuously to 
+equate market demand and supply of foreign exchange, so there is no role for 
+intervention by the central bank and hence no need of foreign exchange reserves. 
+In this case BOP balance is attained via exchange rate fluctuations. That is, in 
+case there is a BOP surplus (supply of foreign currency exceeds demand), the 
+exchange rate appreciates (e falls, so that given prices, r falls, so foreign goods 
+are relatively cheaper), X falls, M rises and NX falls (the current account deficit 
+widens and BOP surplus is reduced), till BOP equilibrium is restored. Floating 
+exchange rates lead to considerable volatility in exchange rates that may be 
+unfavorable for exporters and importers and may have adverse impacts on 
+domestic production, investment and employment. As such, ‘pure floats’ are 
+rarely observed in practice.  
+In most countries central banks maintain a stock of foreign exchange reserves 
+and intervene and try to maintain the value of exchange rate within a certain 
+band. Such exchange rate arrangements, widely prevalent across countries, are 
+called a ‘managed float’ or dirty float. Intervention refers to the central bank 
+buying or selling foreign exchange in an attempt to influence the exchange rate. 
+In a managed float, the currency is allowed to float within a certain ‘target zone’ 
+and the central bank stands ready to intervene (e.g., buy or sell dollars against 
+rupees) whenever the exchange rate appears to breach the limits of this band. 
+At the other extreme we have the system of fixed exchange rate, wherein the 
+exchange rate is not freely floating, but is fixed by the government.  An 
+important function of central banks in a fixed exchange rate system is to 
+intervene in foreign exchange markets to keep the price of foreign exchange 
+fixed at the pre-announced level. For this, central banks have to maintain 
+adequate stock of foreign exchange reserves.  
+Under a fixed exchange rate system, the fixed parity announced by the central 
+bank may be revised at times; in this case a decrease in ‘e’ due to official 
+intervention is called revaluation while an increase in ‘e’ by official intervention 
+is called devaluation. In a world with few restrictions on international 
+transactions in goods and assets, maintaining a fixed exchange rate poses an 

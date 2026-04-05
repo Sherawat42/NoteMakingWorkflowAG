@@ -1,0 +1,141 @@
+--- Page 55 ---
+ 
+ 
+ 
+55 
+The Neoclassical 
+Synthesis 
+economy immediately. Thus, he focused on the short-run. He reasoned that an 
+increase in aggregate expenditure (which represents aggregate demand) leads to an 
+increase in output; it does not lead to rise in prices till full employment is reached. 
+In view of above, price level is kept fixed in the simple Keynesian model. An 
+implication of fixed prices is that nominal values and real values are the same. 
+In this Unit we deal with a closed economy; there is no external trade. We begin 
+with the derivation of IS and LM curves. Subsequently, we derive the AD curve 
+from the equilibrium points of the IS-LM model.  
+3.2 EQUILIBRIUM IN THE REAL SECTOR  
+The aggregate expenditure (or, aggregate demand) of an economy is given by  
+Y = C + I + G 
+where Y is output (or, aggregate supply), C is consumption expenditure, I is 
+investment expenditure, and G is government expenditure. 
+The consumption function is given by  
+𝐶 = 𝑎 + 𝑏 (𝑌 − 𝑇) = 𝑎 + 𝑏𝑌ௗ       … (3.1)   
+where 𝑌ௗ is disposable income (i.e., Y – T). Here T is a lump sum tax levied by the 
+government.  The investment function is given by 
+𝐼 = 𝑐 + 𝑑𝑌 − 𝑒 𝑖         … (3.2)    
+where 𝑖 is the rate of interest (there is no difference between nominal rate of 
+interest and real rate of interest as price is kept fixed). Let us assume that 
+government expenditure (G) is constant, and exogenously given. Thus,   
+𝑌 = 𝑎 + 𝑏 (𝑌 − 𝑇ത) + (𝑐 + 𝑑𝑌 − 𝑒 𝑖) + 𝐺 ̅     … (3.3) 
+On re-arrangement of terms in equation (3.3), we obtain  
+𝑌 − 𝑏𝑌 − 𝑑𝑌 = 𝑎 − 𝑏𝑇ത + 𝑐 − 𝑒𝑖 + 𝐺̅  
+Or, 𝑌 =
+௔ା௖ାீ ̅ି௕் ത
+(ଵି௕ିௗ )
+−
+௘
+(ଵି௕ିௗ ) 𝑖      … (3.4) 
+The IS equation, in its general form, is given by  
+𝑌 =  𝛼 ீ (𝐴̅ − 𝑒𝑖)        … (3.4a) 
+where 𝛼ீ =
+ଵ
+(ଵି௕ିௗ ) and 𝐴̅ = 𝑎 + 𝑐 + 𝐺̅ − 𝑏𝑇ത . 
+In equation (3.4) we find an inverse relationship between Y and 𝑖. It implies that, 
+as 𝑖 increases, there is a decrease in Y. In order to find out the slope of equation 
+(3.4) you have to express it in terms 𝑖 and find out the slope 
+ௗ௜
+ௗ௒ . You can find out 
+the slope of the IS curve as −
+(ଵି௕ିௗ )
+௘ . Depending upon the value of the parameters, 
+the IS curve would be flatter or steeper. 
+3.2.1 Derivation of the IS Curve 
+In Fig. 3.1 we explain the relationship between Y and 𝑖 through a diagram. In Panel 
+(a) of Fig. 3.1 we take aggregate expenditure (AE) on the y-axis and output (Y) on 
+
+
+--- Page 56 ---
+ 
+ 
+ 
+56 
+Traditional Approaches 
+to Macroeconomics 
+the x-axis. Let us assume that the economy is operating with AE0 while the rate of 
+interest is 𝑖଴ .  The intersection of AE 0 with the 45଴  line at point ‘a’ is of utmost 
+importance to us. Note that the 45଴  line in Fig. 3.1(a) indicates equality between 
+aggregate demand (AE) and aggregate supply (Y), such that it corresponds to 
+equilibrium in the economy. We plot this point ‘a’ in panel (b) of Fig. 3.1. In panel 
+(b) we take interest rate (𝑖) on the y-axis and output (Y) on the x-axis.  
+Panel (a) 
+ 
+  AD 
+       AE 1 
+     b            AE 0 
+     
+      a 
+ 
+ 
+             Y 0 Y 1  Y 
+ 
+Panel (b) 
+    i  
+ 
+ 
+    i0          a 
+    i1        b 
+ 
+             IS 
+     O  Y 0 Y 1               Y 
+Fig. 3.1: Derivation of the IS Curve 
+Suppose, there is a decrease in the rate of interest from 𝑖଴  to 𝑖ଵ . As a result of this, 
+the level of investment in the economy increases and the new aggregate 
+expenditure level rises to AE 1. The aggregate expenditure curve (AE 1) intersects 
+the 45଴  line at point-b. Due to the increase in the aggregate expenditure, there is 
+an increase in the equilibrium level of output from Y 0 to Y 1.  We plot point-b in 
+Fig. 3.1(b) corresponding to output level Y1 and intertest rate 𝑖ଵ . When we combine 
+points ‘a’ and ‘b’ we obtain a downward-sloping curve, called the IS curve. A point 
+on the IS curve denotes equilibrium in the real sector (also called the goods sector) 
+of the economy and there is equality between investment (I) and saving (S). Note 
+that the real sector of the economy is at equilibrium on each and every point of the 
+
+
+--- Page 57 ---
+ 
+ 
+ 
+57 
+The Neoclassical 
+Synthesis 
+IS curve. An implication of the above is that any point outside the IS curve shows 
+disequilibrium in the real sector. In Fig. 3.2 we consider two such points ‘c’ and 
+‘d’ which are not on the IS curve, and find out their implications.  
+ 
+Fig. 3.2: Disequilibrium in the Real Sector 
+At point ‘c’ in Fig. 3.2, interest rate is 𝑖଴  while output is 𝑌ଵ  . Notice that at 𝑌ଵ  level 
+of output, the equilibrium rate of interest should be 𝑖ଵ . Thus, the actual rate interest 
+is higher than what it should. As a result, the aggregate demand will decrease 
+(largely due to decrease in investment) and the rate of interest will decline. It 
+implies that at point-c, there is excess supply of goods in the market. We can 
+generalize that any point which is above and to the right of the IS curve, indicates 
+excess supply of goods.  
+Let us look at point ‘d’ which is below and to the left of the IS curve. At point ‘d’ 
+in Fig. 3.2, income is at Y0 but the rate of interest is at 𝑖ଵ . Since the rate of interest 
+is lower than the equilibrium rate of interest, the demand for investment will 
+increase. Consequently, the rate of interest will rise upward. Thus, at point ‘d’ there 
+is excess demand for goods. We can generalize that at any point below and to the 
+left of the IS curve, there is excess demand for goods.  
+3.2.2 Shift in the IS Curve 
+The IS curve depicts the relationship between income and interest rate. Therefore, 
+any change in other parameters or variables will result in a shift in the IS curve. 
+The position and the slope of the IS curve depends upon the value of the parameters 
+in equation (3.4). If the IS curve is flatter, the economy is more sensitive to interest 
+rate – a small decrease in interest rate will lead to a large increase in income. On 
+the other hand, a steeper IS curve implies insensitivity to interest rate change. 
+There are two exogenous variables in equation (3.4), viz., G and T. In equation 
+(3.4) we assumed that government expenditure and taxes are fixed. Thus, changes 
+in taxes and government expenditure will also result in shifts in the IS curve. Let 
+us look into equation (3.4). An increase in the value of 𝐺̅  will result in an increase 
+in the intercept; thus, there will be an upward parallel shift in the IS curve. An 
+increase in 𝑇ത, on the other hand, will decrease the intercept and shift the IS curve 
+downward to the left.  

@@ -1,0 +1,168 @@
+--- Page 34 ---
+ 
+34 
+ 
+Traditional Approaches 
+to Macroeconomics 
+𝑌௘  = ( 𝑎 + 𝐼̅)/(1 − 𝑏)      … (2.5) 
+We depict equilibrium level of output in Fig. 2.3. Along the horizontal axis we 
+measure output or income (recall that income is generated in the process of 
+production of output, so we use the terms income and output interchangeably). 
+Along the vertical axis we measure aggregate demand and its components ( C and 
+I).  
+Note that OL is a line which makes an angle of 45 0 with the horizontal axis, so 
+that a perpendicular from this line such as AY 1, forms an isosceles triangle 
+AOY1, with OAY1 = AOY1 = 45 0, and as per the property of isosceles 
+triangles, the two sides O Y1 and A Y1 are equal. Using this construct we are able 
+to compare vertical distances (demand) with the horizontal distances (output or 
+income). Note that at A, where the consumption function cuts OL, consumption 
+expenditure AY1 is exactly equal to income OY1, so that saving is zero.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                   Fig. 2.3: Equilibrium Output in a Two-Sector Economy 
+In Fig. 2.3 we derive the aggregate demand curve (AD) by adding the investment 
+(𝐼̅) and consumption (C) functions. Since investment is autonomous the line AD 
+is parallel to the consumption function, i.e., slope of AD is the same as the slope 
+of the consumption function. Equilibrium output is attained at E, at the 
+intersection of AD with OL where aggregate demand EY e is equal to aggregate 
+output OY e. Note that the equilibrium is unique, as there is only one level of 
+income OYe at which aggregate demand is equal to aggregate supply. In this case 
+firms will be able to sell exactly as much as they had planned and hence there 
+will be no unplanned changes in their stock of inventories. 
+For all income levels less than OY e, i.e., to the left of E, there is excess demand 
+for output. For example, when aggregate income is OY 1 (=AY 1), the 
+corresponding level of aggregate demand GY 1 is greater than the supply of 
+output AY1 (=OY1). In this case since demand is more than the output produced 
+by firms, they will have to run down their stock of inventories. So in the next 
+Ye 
+AD, C 
+and I 
+I̅ 
+o 
+G 
+E 
+H L 
+J 
+Y1 Y2 
+450 
+Y 
+A 
+AD = C + I̅ 
+ 
+C = a + b Y 
+ 
+
+
+--- Page 35 ---
+ 
+35 
+ 
+The Keynesian Model period, firms will increase production and output would move toward OY e. This 
+process of increase in output (and hence income) will continue till OY e is 
+reached, where the amount produced (OY e) being exactly equal to the amount 
+demanded (EY e), there is no unplanned changes in the stock of inventories and 
+hence no further change in production levels.  
+Similarly, to the right of E (i.e., at all income levels greater than OY e), there will 
+be excess supply of output. When income is OY 2, the corresponding level of 
+aggregate demand JY 2 is less than the supply HY 2 (= OY 2). In this case, firms 
+will be unable to sell the entire amount produced (HY 2 > JY 2) and hence their 
+stock of inventories will increase (i.e., there will be unplanned inventory 
+accumulation by firms). This would induce firms to reduce production in the next 
+period. This process will continue till the equilibrium output EY e (=OY e) is 
+reached, where demand and supply are equal and there are no more unanticipated 
+changes in firms’ stock of inventories.  
+From this discussion we see that output market equilibrium in the Keynesian 
+model is stable. Any situation of disequilibrium tends to be self-correcting, 
+inducing a movement back towards the equilibrium level of output.  
+Three-Sector Economy with Government 
+In equation (2.4) we derived equilibrium output in a three sector model, with 
+households, firms and a government sector. Diagrammatically this can be shown 
+in Fig. 2.4. As earlier, the OL line makes an angle of 45 0 with the horizontal axis 
+along which we measure income (or output). Aggregate demand is measured 
+along the vertical axis. Now, this has three components, C, I and G, where 
+investment and government expenditure are autonomous.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.4: Equilibrium Output in a Three-sector Economy  
+Equilibrium in the three-sector model occurs at the intersection of the AD curve 
+and the OL line, where demand AY e is equal to aggregate supply OY e. You 
+should see that equilibrium income level OY e is unique and that this equilibrium 
+is stable. At all income levels higher than OY e there is excess supply, so that 
+firms decrease production, inducing a change in output towards OY e. On the 
+other hand, at all income levels lower than OY e, there is excess demand, inducing 
+firms to increase production. 
+AD,C, I, G 
+Ye 
+450 
+A 
+o 
+L 
+Y 
+AD = C + I̅ + G 
+
+
+--- Page 36 ---
+ 
+36 
+ 
+Traditional Approaches 
+to Macroeconomics 
+Note that the position of the AD curve is determined by the size of the 
+autonomous components of aggregate demand (viz., I, G and autonomous 
+consumption a). The higher the levels of these components, the higher would be 
+the AD line and the higher would be the equilibrium output level (Y e), implying 
+that output is demand-determined in the Keynesian model.  
+2.3.2 Investment Multiplier 
+We will now examine the comparative static properties of the Keynesian model 
+and explain the concept of the multiplier.  
+Autonomous Investment 
+Consider once again the two-sector model with only firms and households, such 
+that equilibrium income is 𝑌௘  = ( 𝑎 + 𝐼̅)/(1 − 𝑏). If, ceteris paribus,  there is a 
+change in the level of autonomous investment ( I), the associated change in 
+income would be given by ∆𝑌 = (1/(1 − 𝑏) × ∆𝐼. Thus, 
+∆௒
+∆ூ = (1/(1 − 𝑏). Here, 
+we consider change in one component of autonomous demand at a time. This 
+means when I > 0, we shall assume that a = 0 and so on. The term (
+ଵ
+ଵି௕ ) is 
+greater than one, since our assumption is that (0 < b <1). An implication of the 
+above is that when investment increases by I, the associated increase in income 
+is greater than I, as it is a multiple of I. How is this possible? To see this, 
+consider the several rounds of increments in expenditure that are triggered by a 
+onetime increase in autonomous expenditure. 
+If we increase  I by I, income will increase by I in the first round, which will 
+induce a second round increase in consumption by bI (since consumption is a 
+function of income). Since output is demand-determined, this increase in 
+consumption demand raises output and hence income increases further by bI. 
+This induces a third round increase in consumption by [ b(bI) = b 2I] which 
+triggers further increases in income ( b2I). In the fourth round, consumption 
+demand increases by [ b(b2I) = b 3I]. The process continues with increase in 
+consumption raising output, income and yet another round of consumption. Note 
+that since MPC < 1 (i.e., b < 1), each subsequent round of increase in 
+consumption is weaker than the previous one, so that the entire process dies 
+down gradually.  
+Therefore, the total increase in income due to a onetime increase in autonomous 
+investment is:  
+ Y = (I + bI + b2I + b3I + …..) = I ( 1 + b2 + b3 + b4 + …..)  
+ …(2.6) Since 0 < b < 1, the expression in parentheses on the right hand 
+side of (2.6) can be expressed as the sum of a convergent infinite geometric 
+progression series, i.e., 1 + b2 + b3 + b4 + ….. = 1/(1 − 𝑏). Therefore, Y = [1 / 
+(1 – b)] I, which shows that income increases by a multiple of the initial 
+increase in autonomous investment and the multiplier is (
+ଵ
+ଵି௕ ). This is shown 
+diagrammatically in Fig. 2.5.  
+ 

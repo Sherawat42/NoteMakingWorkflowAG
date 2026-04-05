@@ -1,0 +1,103 @@
+--- Page 67 ---
+ 
+ 
+ 
+67 
+The Neoclassical 
+Synthesis 
+short run aggregate supply (SRAS) curve would be upward-sloping. The long run 
+aggregate supply curve (LRAS), however, will be vertical. Any change in the 
+production capacity of the economy will shift the LRAS curve.   
+In Fig. 3.9 we depict the AD curve and an upward-sloping AS curve. The 
+equilibrium in the economy is described by point E corresponding to output 𝑌଴  and 
+prices 𝑃଴ . Suppose there is a favourbale demand shock to the economy so that the 
+AD curve shifts to 𝐴𝐷ଵ . As a result, there are increases in both output and prices. 
+The new equilibrium described by point F corresponds to output 𝑌ଵ  and prices 𝑃ଵ . 
+The increase in output however will be temporary and output will be back at the 
+LRAS level in the long run. 
+ 
+ 
+Fig. 3.9: Impact of Demand Shock  
+ 
+Check Your Progress 3 
+1)   Explain how the AD curve is derived? 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+2)   Point out the factors that influence the position and slope of the AD curve. 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+
+
+--- Page 68 ---
+ 
+ 
+ 
+68 
+Traditional Approaches 
+to Macroeconomics 3.6 LET US SUM UP 
+In this Unit we described the IS-LM model, which signify the equilibrium in the 
+real sector and the monetary sector of the economy. We derived the IS curve – on 
+each and every point of the IS curve the real sector is in equilibrium. On the left 
+side of the IS curve there is excess demand for goods while on the right side there 
+is excess supply. The LM curve is the combination of all such points where the 
+monetary sector of the economy is in equilibrium. On the right side of the LM 
+curve, there is excess demand for money while on the left side there is excess 
+supply of money. If the economy is operating at a point away from the IS and LM 
+curves, it has a tendency to move towards the equilibrium point.  
+We derived the AD curve on the basis of IS-LM model. The AD curve traces the 
+combinations of equilibrium output and prices. The equilibrium output and prices 
+in the economy derived from the AS-AD model is also discussed.  
+3.7 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) It will affect both the intercept and slope of the IS curve. Look into equation 
+(3.4). Decrease in the marginal propensity to consume (coefficient ‘b’) will 
+lead to a decrease in the value of the intercept term. Look into the last term 
+of the equation. It will increase the value of 
+௘
+(ଵି௕ିௗ ). Thus, the IS curve will 
+be steeper.   
+2) (i) Decrease in autonomous government expenditure will lead to a parallel 
+downward shift in the IS curve to the left.  
+ (ii) Decrease in lumpsum tax will lead to a parallel upward shift in the IS 
+curve. But the question is about decrease in tax rate, which depends on 
+income (Y). Thus, it will affect the slope of the IS curve. The IS curve will 
+become flatter (why? You can take a tax function 𝑇 = 𝑡 ଴ + 𝑡ଵ 𝑌, substitute it 
+in place of T in equation (3.4) and find out). 
+Check Your Progress 2 
+1)  The LM curve is derived from the equality between the demand for and supply 
+of real balances. See Section 3.3, particularly Fig. 3.3. 
+2)  When the LM curve is vertical, demand for money is insensitive to interest 
+rate. This is a case of liquidity trap situation. 
+3)  Go through Sub-Section 3.4.3 and answer. 
+Check Your Progress 3 
+1)  The AD curve is derived from the IS-LM model. Go through Sub-Section 
+3.5.1 and explain Fig. 3.8. 
+
+
+--- Page 69 ---
+ 
+ 
+ 
+69 
+The Neoclassical 
+Synthesis 
+2)  Since the AD curve is derived from the IS-LM model, it depends on the factors 
+that influence the IS and LM curves. Explain the impact of these factors on 
+the AD curve.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

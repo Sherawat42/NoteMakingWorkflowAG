@@ -1,0 +1,154 @@
+--- Page 10 ---
+ 
+10 
+ 
+Traditional Approaches 
+to Macroeconomics 
+demand, which in turn was the result of a deficiency in investment demand. He 
+criticized the assumption of a laissez-faire economy in the classical theory and 
+advocated policy intervention to increase demand and employment. 
+Later, attempts were made to integrate ideas from both the schools, which led to 
+the “neoclassical synthesis”. The IS-LM model that we discuss in Unit 3 is an 
+outcome of the neoclassical synthesis. During the 1950s, economists such as 
+Harrod, Domar and Kaldor extended the Keynesian ideas from short-run to long-
+run. They argued that there would be an increase in production capacity in the 
+long run because of large investments. This in turn would boost economic 
+growth. The focus of these economists, called the Post-Keynesians, was to 
+understand, explain and analyse economic growth. In order to overcome certain 
+limitations of the post-Keynesian growth models, Robert M. Solow came up with 
+the neoclassical growth model. You will go through these growth models in the 
+course, ‘Economics of Growth and Development’.  
+Keynesian school of thought dominated economic theory and policy after the 
+World War II until the 1970s. During the 1970s most of the advanced economies 
+witnessed stagnation and inflation, a situation called “stagflation”. Keynesian 
+theories did not have appropriate policy response to stagflation, which led to the 
+exploration of fresh explanations of economic behavior. Robert E. Lucas, an 
+American economist, revived the classical ideas and countered the prevailing 
+Keynesian thought. The ideas of classical and Keynesian schools differ from 
+each other on various issues, including: i) the role played by demand and supply 
+in determination of equilibrium output, employment and prices; ii) the 
+assumption of flexibility of price level and wage rate in the economy; iii) the 
+dichotomy of real and monetary sectors of the economy, and (iv) neutrality of 
+money. 
+After the 1970s, however, there was revival of classical economics in the form of 
+new-classical theory. In response to that, new-Keynesian models came up. New 
+Classical economics retained the basic characteristics of classical economics but 
+introduced two new concepts: rational expectations and micro-foundations. We 
+will cover these aspects in later units of this course.  
+Along with these mainstream schools of thought, there is heterodox schools of 
+thought or heterodox economics. It includes Marxist, Austrian, institutional, 
+feminist and social economics among many others. In fact, there is a need for 
+promoting pluralism in economics these days and researchers are venturing into 
+many new areas. The mainstream or conventional economics, as mentioned, 
+earlier have been Classical and Keynesian. The legacy of these two schools of 
+thought have continued in different forms. Two prominent schools of thought in 
+recent years have been New-Classical economics and New-Keynesian 
+economics. There are certain common features of these two schools of thought: 
+(i) general equilibrium models, (ii) micro-foundations in behaviour of economic 
+agents, and (iii) rational expectations. Two major differences between both the 
+schools of thought are: (i) the assumption regarding market structure – the new-
+classical school assumes that there is perfect competition in the market while the 
+new-Keynesian school assumes market imperfection. (ii) the assumption of 
+flexibility in wages and prices – the new-classical school assumes flexibility in 
+
+
+--- Page 11 ---
+ 
+11 
+ 
+The Classical    
+Approach 
+wages and prices while the new-Keynesin school assumes rigidities in wages and 
+prices.  
+1.3 BASIC FEATURES OF CLASSICAL THEORY 
+Classical economics evolved against the perception of ‘mercantilism’. The 
+mercantilists believed that the wealth of nations depended on the stock of bullion 
+(or, gold and silver) and adopted policies that promoted exports and discouraged 
+imports through subsidies and tariffs. Classical economists discarded such ideas 
+and believed that ‘wealth of nations’ depended on real factors. For them, money 
+is merely a medium of exchange. Important features of classical theory are as 
+follows: 
+(i) Microeconomic Issues: Classical economists dealt mostly with 
+microeconomic issues pertaining to behavior of economic agents such as 
+firms and households. In classical view, a firm maximizes its profits subject 
+to a resource constraint. Similarly, households try to maximize their utilities 
+or economic gains given their budget constraints. Classical economists 
+believed in the optimising tendencies of the market mechanism. According 
+to classical economists, variables such as price level, wage rate and output 
+level should be determined by market forces (supply and demand).  
+(ii) Laissez Faire: Classical economists believed in the philosophy of ‘laissez 
+faire’, which is a French term meaning ‘leave alone’ or ‘let you do’. 
+According to this view, there should be minimal intervention from the 
+government in business affairs. In fact, Adam Smith suggested that 
+government should confine itself to three main duties, viz., (i) national 
+defense, (ii) administration of justice (law and order), and (iii) establishing 
+and maintaining certain public works (infrastructure, education, etc.).  
+(iii) Invisible Hand : Adam Smith introduced the concept of the ‘invisible 
+hand’. According to him, the economy will function well if everyone 
+pursues his/ her own interest. According to him, “It is not from the 
+benevolence of the butcher, the brewer, or the baker that we expect our 
+dinner, but from their regard to their own interest”. Individuals pursuing 
+self-interest seem to be led by an ‘invisible hand’ to maximise the general 
+welfare of everyone in the economy. It is not the generosity of a producer in 
+selling a commodity; it is his/her self interest. Similarly, the consumers are 
+not doing a favour to the producer; they are pursuing their own interest in 
+buying the commodity. The philosophy of the invisible hand confined 
+classical economists to the analysis of the behavior of economic agents; 
+they failed to see any conflict between interest of economic agents and that 
+of the economy as a whole.  
+(iv) Continuous Market Clearing : Classical economists assumed that prices 
+and wage rates are flexible. As you know from microeconomics, 
+equilibrium price is determined at the level where supply and demand are 
+equal. Given the supply and demand curves, if demand is more compared to 
+supply, price will increase. Similarly, if supply is more compared to 
+demand, price will decrease. This principle applies not only to 
+commodities, but also to wage rate. If supply of labour is more than its 
+
+
+--- Page 12 ---
+ 
+12 
+ 
+Traditional Approaches 
+to Macroeconomics 
+demand, there will be a decline in wage rate till supply of labour equates its 
+demand. An implication of the above is that there is no unemployment in 
+the economy – wage rate will decline till all workers are employed. There is 
+no disequilibrium in the market.  
+(v) Perfect Competition : Classical economists assumed that there is perfect 
+competition in the market so that markets function smoothly. As there is 
+full employment (due to flexibility in wage rate), production is always at 
+the full employment level. An implication of the above is that there is no 
+scope for ups and downs in the level of output. Going by this logic, the 
+classical economists ruled out the possibility of ‘business cycle’. 
+(vi) Say’s Law of Market : Classical economists believed that production or 
+supply is the key to economic prosperity. Thus, they emphasized more on 
+the supply side of the economy. This approach is summarized very well in 
+the Say’s law, named after the prominent classical economist J B Say. 
+According to J B Say, ‘supply creates its own demand’. Whenever some 
+production takes place, there is a stream of income in the hands of people, 
+which generates demand.  
+A person should have produced something to sell (say, for example, labour) 
+and thereby earned certain income. Thus, in the classical viewpoint, there is 
+no scope of deficiency of demand in the economy. Therefore, primary 
+concern before an economy is production or supply, not demand.  
+(vii) Neutrality of Money: According to classical economists, economic growth 
+of an economy is due to increase in the factors of production and 
+technological progress. Money is just a medium of exchange; and it 
+facilitates transactions among economic agents. Thus, increase in money 
+supply does not affect the level of output – it only leads to increase in prices 
+(see quantity theory of money discussed below). They believed that there is 
+dichotomy between monetary variables such as money supply and prices, 
+and real variables such as output and employment. Thus, classical 
+economists stressed the role of real factors in deciding the real variables 
+such as output and employment. As mentioned earlier, classical economists 
+believed in free market systems without government intervention. 
+Determination of output, employment and interest rate in the classical 
+system is given below.  
+We discuss some of the major issues in the next section. 
+Check Your Progress 1 
+ 1)  Write down the important features of classical theory. 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 

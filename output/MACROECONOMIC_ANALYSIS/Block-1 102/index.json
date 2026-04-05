@@ -1,0 +1,321 @@
+{
+  "source_pdf": "/Users/manishsherawat/Downloads/WhatsApp Unknown 2026-04-04 at 8.37.44 PM/Block-1 102.pdf",
+  "source_filename": "Block-1 102.pdf",
+  "total_pages": 93,
+  "chunk_size": 3,
+  "total_chunks": 31,
+  "chunks_directory": "/Users/manishsherawat/Workplace/NoteMakingWorkflowAG/output/block-1-102/chunks",
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "filename": "chunk_001.pdf",
+      "text_filename": "chunk_001.txt",
+      "page_range": [
+        1,
+        3
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 2,
+      "filename": "chunk_002.pdf",
+      "text_filename": "chunk_002.txt",
+      "page_range": [
+        4,
+        6
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 3,
+      "filename": "chunk_003.pdf",
+      "text_filename": "chunk_003.txt",
+      "page_range": [
+        7,
+        9
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 4,
+      "filename": "chunk_004.pdf",
+      "text_filename": "chunk_004.txt",
+      "page_range": [
+        10,
+        12
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 5,
+      "filename": "chunk_005.pdf",
+      "text_filename": "chunk_005.txt",
+      "page_range": [
+        13,
+        15
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 6,
+      "filename": "chunk_006.pdf",
+      "text_filename": "chunk_006.txt",
+      "page_range": [
+        16,
+        18
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 7,
+      "filename": "chunk_007.pdf",
+      "text_filename": "chunk_007.txt",
+      "page_range": [
+        19,
+        21
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 8,
+      "filename": "chunk_008.pdf",
+      "text_filename": "chunk_008.txt",
+      "page_range": [
+        22,
+        24
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 9,
+      "filename": "chunk_009.pdf",
+      "text_filename": "chunk_009.txt",
+      "page_range": [
+        25,
+        27
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 10,
+      "filename": "chunk_010.pdf",
+      "text_filename": "chunk_010.txt",
+      "page_range": [
+        28,
+        30
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 11,
+      "filename": "chunk_011.pdf",
+      "text_filename": "chunk_011.txt",
+      "page_range": [
+        31,
+        33
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 12,
+      "filename": "chunk_012.pdf",
+      "text_filename": "chunk_012.txt",
+      "page_range": [
+        34,
+        36
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 13,
+      "filename": "chunk_013.pdf",
+      "text_filename": "chunk_013.txt",
+      "page_range": [
+        37,
+        39
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 14,
+      "filename": "chunk_014.pdf",
+      "text_filename": "chunk_014.txt",
+      "page_range": [
+        40,
+        42
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 15,
+      "filename": "chunk_015.pdf",
+      "text_filename": "chunk_015.txt",
+      "page_range": [
+        43,
+        45
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 16,
+      "filename": "chunk_016.pdf",
+      "text_filename": "chunk_016.txt",
+      "page_range": [
+        46,
+        48
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 17,
+      "filename": "chunk_017.pdf",
+      "text_filename": "chunk_017.txt",
+      "page_range": [
+        49,
+        51
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 18,
+      "filename": "chunk_018.pdf",
+      "text_filename": "chunk_018.txt",
+      "page_range": [
+        52,
+        54
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 19,
+      "filename": "chunk_019.pdf",
+      "text_filename": "chunk_019.txt",
+      "page_range": [
+        55,
+        57
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 20,
+      "filename": "chunk_020.pdf",
+      "text_filename": "chunk_020.txt",
+      "page_range": [
+        58,
+        60
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 21,
+      "filename": "chunk_021.pdf",
+      "text_filename": "chunk_021.txt",
+      "page_range": [
+        61,
+        63
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 22,
+      "filename": "chunk_022.pdf",
+      "text_filename": "chunk_022.txt",
+      "page_range": [
+        64,
+        66
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 23,
+      "filename": "chunk_023.pdf",
+      "text_filename": "chunk_023.txt",
+      "page_range": [
+        67,
+        69
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 24,
+      "filename": "chunk_024.pdf",
+      "text_filename": "chunk_024.txt",
+      "page_range": [
+        70,
+        72
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 25,
+      "filename": "chunk_025.pdf",
+      "text_filename": "chunk_025.txt",
+      "page_range": [
+        73,
+        75
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 26,
+      "filename": "chunk_026.pdf",
+      "text_filename": "chunk_026.txt",
+      "page_range": [
+        76,
+        78
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 27,
+      "filename": "chunk_027.pdf",
+      "text_filename": "chunk_027.txt",
+      "page_range": [
+        79,
+        81
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 28,
+      "filename": "chunk_028.pdf",
+      "text_filename": "chunk_028.txt",
+      "page_range": [
+        82,
+        84
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 29,
+      "filename": "chunk_029.pdf",
+      "text_filename": "chunk_029.txt",
+      "page_range": [
+        85,
+        87
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 30,
+      "filename": "chunk_030.pdf",
+      "text_filename": "chunk_030.txt",
+      "page_range": [
+        88,
+        90
+      ],
+      "pages": 3
+    },
+    {
+      "chunk_id": 31,
+      "filename": "chunk_031.pdf",
+      "text_filename": "chunk_031.txt",
+      "page_range": [
+        91,
+        93
+      ],
+      "pages": 3
+    }
+  ],
+  "created_at": "2026-04-05T04:18:45.560729+00:00"
+}

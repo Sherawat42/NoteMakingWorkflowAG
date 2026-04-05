@@ -1,0 +1,151 @@
+--- Page 37 ---
+ 
+37 
+ 
+The Keynesian Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.5: Investment Multiplier 
+The initial equilibrium in Fig. 2.5 occurs at A where AD 0 (= C + I0) intersects 
+OL. With an increase in autonomous investment to I1 (i.e., I = I1 – I0), the AD 
+curve shifts upward to AD 1 (= C + I1) and the new equilibrium occurs at D 
+where AD1 intersects OL. Note that while investment increased by I (= DE), the 
+change in income Y (=DF) that it brings about is greater, i.e., Y > I (where, 
+Y = Y0Y1= AF = DF and DF > DE = I), indicating the operation of a multiplier 
+effect.  
+Induced Investment 
+Suppose the investment function is given by equation (2.2b) above, i.e., I = c + 
+dY. In this case, investment demand has an induced component that is affected by 
+changes in income. The equilibrium income would be derived as follows:  
+ Y = AD = a + bY + c + dY, so that: 
+ Ye = (a + c) / [1 – (b+d)]       … (2.7) 
+ceteris paribus, if there is a change in autonomous investment in this case (i.e., 
+I =c; a = 0), the multiplier would be given by: 1 / [1 – ( b+d)]. This would 
+follow since Y = {1 / [1 – ( b+d)]}c. Note that in this case we assumed that ( b 
++ d) < 1 (i.e., the sum of MPC and MPI is less than one).  
+2.3.3 Government Expenditure and Tax Multipliers 
+We now consider the case of a three-sector economy. For simplicity we assume 
+that investment demand is autonomous and the government incurs a constant 
+amount of expenditure G which is autonomous. The government also collects 
+taxes T. We will consider two cases: (i) the government collects a lump sum tax 
+T, and (ii) the government sets a proportional tax rate t, so that its tax revenue T 
+= tY. The government’s budget deficit ( B) is defined as B = G – T – TR , where 
+TR refers to transfer payments made by the government. In what follows we will 
+assume, for simplicity that TR = 0.  
+AD, C, I 
+∆ I 
+O 
+D 
+L 
+E 
+Y0 Y1 
+450 
+Y 
+A 
+AD1 = C + I̅1 
+AD0 = C + I̅0 
+F 
+
+
+--- Page 38 ---
+ 
+38 
+ 
+Traditional Approaches 
+to Macroeconomics 
+Lump Sum Taxes 
+When the government imposes a lump sum tax T, the equilibrium income would 
+be given by (2.4) above: Ye = (a – bT +I + G) / (1–b). In this case, the multiplier 
+for any change in autonomous expenditure (either investment or government 
+expenditure) would be given by: 1 / (1 – b). Thus, Y/G = 1 / (1 – b) or Y/I 
+= 1 / (1 – b). If there is an increase in the amount of tax collected, then income 
+would fall. In such a case the tax multiplier would be given by: –b / (1 – b). Thus, 
+Y/T = – b / (1 – b). Recall that taxes are a leakage from the income stream, so 
+increase in taxes leads to a decrease in disposable income. Consequently, there is 
+a decrease in consumption demand, leading to a decline in output (as output is 
+demand-determined, lower demand results in lowering of output). You should 
+note that there is a two-way relationship: consumption is influenced by the level 
+of income (evident from the consumption function) and income is influenced by 
+consumption demand.  
+Balanced Budget Multiplier 
+Suppose the government increases its spending (i.e., G > 0) and cut taxes by 
+exactly the same amount (T < 0). It implies that the government budget remains 
+unchanged. If B indicates budget balance, then B = G – T = 0. 
+Alternatively we can write G = T. You may think that such action would have 
+no impact on equilibrium income as the injection of additional demand ( G) is 
+exactly offset by a leakage from the demand stream ( G = T). However, we can 
+show that the multiplier in this case is equal to one, i.e. income increases by the 
+amount of increase in government expenditure. From equation (2.4) we know 
+that Ye = (a – bT +I + G) / (1–b), so that Y = (– bT + G) / (1– b). Since G 
+= T, this can be written as Y = (1 –b) G / (1– b), or Y / G = 1.  
+Proportional Taxes 
+Now suppose the government levies a proportional tax on income at tax rate t, 
+where 0 < t < 1. Since AD = a + b (Y – tY) + I + G, the equilibrium condition is 
+given by  
+Y = a + b (1 – t)Y + +I + G        … (2.7)   
+By re-arranging terms, we obtain the equilibrium level of output as  
+Ye = (a +I + G) / {1 – b (1 – t)}      … (2.8)   
+Equation (2.8) implies that the autonomous expenditure multiplier (for a change 
+in investment or government expenditure) is now lower compared to the cases 
+without the proportional tax. Without proportional taxes the multiplier is given 
+by 1/(1 – b). Now, in the presence of proportional taxes, it is given by Y / G = 
+Y / I = 1 /{1 – b (1 – t)). The reduction in the value of the multiplier arises 
+because, out of the increase in income in each round, a fraction t has to be paid in 
+taxes.  
+You can see from equation (2.8) that any increase in the tax rate would lower 
+equilibrium income, whereas any decrease in tax rate would have the opposite 
+
+
+--- Page 39 ---
+ 
+39 
+ 
+The Keynesian Model effect. Therefore, you should see the logic behind tax cuts offered by 
+governments to revive economic activity. However, remember that our 
+assumption is that there is excess production capacity, which is the main reason 
+why the increase in consumption demand spurred by a cut in taxes would lead to 
+an increase in output. Else, it will lead to price rise instead of increase in output.  
+2.3.4 Open Economy Multiplier 
+In an open economy there is an additional source of demand for domestic output, 
+viz., exports (X). Exports are autonomous as they depend on foreign incomes 
+(i.e., incomes of foreign residents who buy domestic products) rather than 
+domestic income. Therefore, an increase in exports will have multiplier effect on 
+income, via various rounds of induced increases in consumption. Firms and 
+households purchase goods and services from foreign countries in an open 
+economy. Such imports (M) are a leakage from the domestic expenditure and 
+income streams. We assume that demand for imports depend on domestic income 
+level. The import demand function is given by M = h + mY , where h is the 
+autonomous component of import demand. Here, m is the marginal propensity to 
+import (MPM) and m > 0. Note that both exports and imports are influenced by 
+exchange rate changes also (we will take up such issues later in the course on 
+International Economics). In the present Unit we consider any change in exports 
+and imports due to exchange rate fluctuation is treated as an autonomous change.  
+In an open economy, exports are an injection while imports are a leakage from 
+the stream of aggregate demand for domestic goods. Thus, aggregate demand is 
+given by: AD = C +
+I + G + X – M = a + b Y +I + G + X – h – m Y. Therefore, 
+the equilibrium condition is given by 
+ Y = a + b Y +I + G + X – h – m Y      … (2.9)  
+The equilibrium level of output or income is given by  
+Ye = (a – h +I + G + X) / (1 – b + m)     … (2.10) 
+In (2.10), the autonomous components are I, G and X . Any change in these 
+autonomous components will have a multiplier effect. The autonomous 
+expenditure multiplier for investment, government expenditure or exports is 
+given by: Y / G = Y / I = Y / X = 1 / (1 – b + m ). Clearly, the open 
+economy multiplier is smaller compared to the one for the closed economy (1/(1 
+– b). The reason is that a proportion m out of the increment in income is now 
+spent on imports and domestic demand is lower to that extent as compared to a 
+closed economy.  
+In general, from our discussion on multipliers you should note the following 
+points: (i) the multiplier would be larger, the larger is the MPC ( b) and MPI ( d), 
+the lower the tax rate (t) and the smaller the m; (ii) the multiplier is applicable 
+both in case of a rise as well as a fall in autonomous incomes, meaning that 
+income would fall by a multiple in case of a given cut in any autonomous 
+component of demand; and (iii) the operation of the multiplier is driven by the 

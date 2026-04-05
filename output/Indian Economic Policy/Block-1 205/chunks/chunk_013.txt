@@ -1,0 +1,155 @@
+--- Page 37 ---
+36
+Indian Economic Development:
+An Overview
+disruptive in terms of ec onomic  act ivity as well as a loss of human lives. Almost
+all the sectors have been adversely affected as domestic demand and exports
+sharply plummeted with some notable exceptions where high growth was
+observed. Tourism, Hospitality and Aviation were among the worst affected
+sectors. Consumption also got impacted due to job losses and decline in income
+levels of people particularly the daily wage earners. Greater uncertainty about
+the future course and repercussion of Covid-19 also made the financial market
+extremely volatile. There is likelihood that the three major components of
+aggregate demand — consumption, investment, and exports are likely to stay
+subdued for a prolonged period of time. On the supply side, shutdown of factories
+and the resulting delay in supply of goods from China affected many Indian
+manufacturing sectors. Some sectors like automobiles, pharmaceuticals,
+electronics, chemical products etc. faced an imminent raw material and component
+shortage.
+Check Your Progress 1
+1) What do you understand by ‘Hindu Rate of Growth’?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) What are the reasons for the slowdown of the Indian economy after the year
+2008 i.e., post-global financial crisis?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) How do you see the impact of the post-2014 policy measures on the Indian
+economy?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 38 ---
+37
+Growth and Structure of
+Indian Economy2.3 STRUCTURAL CHANGE IN THE ECONOMY
+The process of development requires structural change. The structural change of
+an economy takes place mainly along two dimensions: one is the changing sector-
+wise shares in GDP and the second is the changing share of the labour force,
+engaged in each sector. 
+ Other
+ forms of changes encompassing the structural
+change include changing share of the organised and unorganised sectors as well
+as rural and urban sectors in output and employment, and also the share of
+consumption, goverment spending, investment and net exports in India's GDP.
+The share of public and private sectors may also be considered to reflect structural
+change in the Indian economy.
+2.3.1 Composition of Gross Domestic Product
+The composition of GDP of an economy explains the relative significance of the
+different producing sectors. When a country is in a state of underdevelopment,
+primary sector (agriculture and allied occupations) makes the largest contribution
+to the national income. As the country grows and gets developed, no matter how
+fast the primary sector grows, in keeping with the Kuznet’s Law the contribution
+of the industrial and services sectors gradually increases. The explanation for
+this shift is as follows: Income elasticity of demand for agricultural products is
+relatively low; as a result, with rising levels of income, the demand for agricultural
+products relatively declines and that for industrial goods increases and, after
+reaching a reasonably high level of income, demand for services increases
+sharply.
+ Ac
+cordingly, the shares of different sectors
+ in the nat
+ional product get
+determined by  t
+he changes in the pattern of demand. On the supply side,
+agriculture, being mainly dependent on a fixed factor of production, namely land,
+faces
+ a l
+imit on its growth and is subject to early operation of the law of
+diminishing returns. Industry, specially manufacturing, on the other hand, offers
+large scope for use of capital and technology, which could be augmented almost
+without limit with human effort. The same applies to services where application
+of technologies seems to offer much larger scope. Table 2.1 below brings out the
+on-going structural changes in India’s GDP.
+Table 2.1: Sectoral Distribution of India’s GDP at Factor Cost (2011-12 prices) (%)
+Sector 1960-61 1990-91 2000-01 2010-11
+Primary 51.0 33.0 25.0 17.0
+Secondary 18.0 24.0 24.0 24.5
+Tertiary (Service) 31.0 43.0 51.0 58.5
+Source: Economic Survery (Various issues)
+Services sector is the largest sector of India. Gross Value Added (GV A) at current
+prices for Services sector is estimated at Rs. 92.26 lakh crore (54.40 per cent of
+total India’s GV A) in 2018-19. With GV A of Rs. 50.43 lakh crore, Industry sector
+contributes 29.73 per cent, while, agriculture and allied sector shares 15.87 per
+cent.
+This pattern of structural change in Indian economy has deviated from the
+development pattern of Western and South East Asian economies. Those
+economies experienced first a shift from primary to secondary sector and only in
+their advanced stage did they experience a significant shift in favour of tertiary
+sector. This pattern of development enabled them to transfer growing labour
+
+
+--- Page 39 ---
+38
+Indian Economic Development:
+An Overview
+force from primary to secondary sector. In India this has not been possible because
+secondary sector has not expanded fast enough to absorb growing labour force.
+Although the manufacturing sector has grown at a fast pace the section’s
+contribution less as compared to countries. The unskilled and uneducated rural
+masses have continued to struggle in the primary sector and those who have
+been forced out by economic, social and political factors have joined the urban
+slum sector. Moreover, the sharp increase in the share of tertiary sector in GDP
+in India has occurred at a much lower level of per capita income than that in the
+developed countries when they experienced a similar expansion. This pattern of
+growth underlines the link between the growing poverty and unemployment and
+the inadequate growth of manufacturing and building activity in the country.
+This failure in turn could be attributed to absence of structural attributes like a
+basic literacy in the workforce upon which further skills can be imparted, physical
+infrastructure (i.e., power, roads, railways and access to ports), access to financial
+capital and, crucially, policies that encourage allocation of resources through
+export-oriented manufacturing.
+2.3.2 Sectoral Share of Employment
+There have been significant changes in the sectoral pattern of employment.  The
+proportion of the work force engaged in the primary sector declined by 12 per
+cent between 1983 and 2004-05 and it showed faster decline between 2004-05
+and 2009-10.  Between 2009-10 and 2017-18, the share of employment in primary
+sector further declined to 44.6 per cent. In the Secondary sector, the share of
+employment increased from 21 per cent in 2009-10 to 24.4 per cent in 2017-18.
+However, the Tertiary sector has performed very well in employment as its share
+jumped from 25 per cent (2009-10) to 31.0 per cent (2017-18). This marks an
+important phase of structural transformation for the Indian economy, in which,
+the share and number of workers in agriculture has been declining with
+corresponding rise in employment in non-farm sectors. Among the non-firm
+sectors, service sectoris primarily driving the employment growth during 2009-
+10 and 2017-18.
+Table 2.2: Changes in Sectoral Shares of Employment (UPSS) (Percentages)
+Primary Secondary Tertiary All
+Rural 1983 81.80 8.60 9.50 100.00
+2004-05 73.00 13.20 13.80 100.00
+2009-10 68.60 16.70 14.70 100.00
+Urban 1983 15.60 32.60 51.80 100.00
+2004-05 9.40 33.30 57.30 100.00
+2009-10 8.10 33.80 58.10 100.00
+Total 1983 68.90 13.30 17.80 100.00
+2004-05 57.00 18.20 24.80 100.00
+2009-10 53.80 20.90 25.39 100.00
+2017-18 44.6 24.4 31.0 100.00
+2.3.3 Share of Organised and Unorganised Sector in Output and
+Employment
+Another way to look at the structural change in the income is to look at the
+organisational pattern of the economy. The NAS divides the economy into two
+sectors: organised sector which is identified with a modern market economy and

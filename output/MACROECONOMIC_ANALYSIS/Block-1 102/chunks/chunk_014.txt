@@ -1,0 +1,142 @@
+--- Page 40 ---
+ 
+40 
+ 
+Traditional Approaches 
+to Macroeconomics 
+assumption that the economy has ample excess capacity and unemployed 
+resources, so that output can be demand-determined.  
+2.3.5 Limitations of the Keynesian Model 
+In the beginning of this section we mentioned that the Keynesian model is more 
+relevant for an economy facing recessionary conditions, having excess 
+production capacity in place. In economies having supply constraints (i.e., where 
+there are supply bottlenecks), an increase in demand is likely to result in a rise in 
+prices rather than in output. Second, Keynesian model would not apply to 
+economies that are operating near full employment, where increase in output 
+would require increase in factor and goods prices. Third, Keynesian model is 
+generally used for macroeconomic analysis pertaining to the ‘short run’. 
+Normally, once wage contracts are written they last for some time; also, prices 
+printed on sales catalogues are expected to be valid for some time. So the 
+assumption of wage and price rigidity is quite reasonable for the short run.  
+Check Your Progress 2 
+1. State the assumptions on which the Keynesian model is based. 
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................ 
+ 2.  You are given the following information for a closed economy: C = 10 + 
+ 0.75 Y and I = 20.  
+ a)  Find the aggregate demand function and calculate equilibrium  
+ income for this economy.  
+ b)  Suppose autonomous investment increases to 25. How would  
+ equilibrium income change? 
+ c)  What is the value of the multiplier?  
+d)  How would the value of the multiplier in (b) change if we introducethe 
+government sector which imposes (i) only a lump sum tax, and (ii) only 
+a proportional tax where t = 0.1?  
+ e)  How would the value of the multiplier in (b) change if the economy 
+ is open and MPM = 0.3? 
+  ....................................................................................................................
+ ....................................................................................................................
+ ....................................................................................................................
+ .................................................................................................................... 
+
+
+--- Page 41 ---
+ 
+41 
+ 
+The Keynesian Model 3.  By using appropriate diagram of the Keynesian model, explain how 
+situations of disequilibrium (excess demand or excess supply) are self-
+correcting.   
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+2.4 AN ALTERNATIVE VIEW OF EQUILIBRIUM  
+The Keynesian model can alternatively be described through the saving-
+investment relationship. When saving is equal to planned investment, the 
+economy is operating at the equilibrium level of output.  
+2.4.1 Saving Function 
+The saving function is a mirror image of the consumption function that gives the 
+relationship between planned saving (S) and income (Y) in the economy. In the 
+two-sector model, with only households and firms, aggregate income is either 
+consumed or saved. Thus,  
+Y = C + S         … (2.11)  
+The decision to consume more is essentially the same as the decision to save less.  
+The saving function may be derived as follows:  
+S = Y – (a + b Y) = – a + (1– b) Y      … (2.12).  
+Note that the intercept of the saving function is negative, indicating that ‘dis-
+saving’ (running down past saving) occur at relatively low levels of income. The 
+slope of the saving function is (1– b), which is known as the marginal propensity 
+to save (MPS). Note that MPS = (1–MPC), so that higher the MPC, lower is the 
+MPS. In economic analysis it is often assumed that richer households have higher 
+MPS compared poor households.  
+In Fig. 2.6 we derive the saving function diagrammatically. The top panel 
+represents the consumption function C, while the lower panel represents the 
+saving function.  
+ 
+  
+
+
+--- Page 42 ---
+ 
+42 
+ 
+Traditional Approaches 
+to Macroeconomics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.6: Saving Function 
+At income level Y 2, where C intersects OL (the 45 0 line), planned consumption 
+DY2 is equal to income OY 2 (= DY2) and planned saving is zero. At this level of 
+income, the saving function intersects the x-axis. For all income levels less than 
+OY2 planned consumption exceeds income so that saving is negative. For 
+example, in the top panel, at income level OY 1, planned consumption AY 1 is 
+greater than income BY 1 (= OY 1) and the difference is reflected in negative 
+saving Y 1G in the lower panel. For income levels such as OY 3, which is higher 
+than OY2, planned saving is positive (HY3, in the lower panel).  
+2.4.2 Determination of Equilibrium Output  
+In a two-sector economy with only households and firms, equilibrium in the 
+output market occurs at the level of income (or output) at which planned saving 
+is equal to planned investment. This can be shown as follows: Suppose 
+investment is autonomous and the investment function is given by I = I as in 
+(2.2a). Recall that Y = C + I at equilibrium. We know that income is either 
+consumed or saved, i.e., Y = C + S. Thus, we can put these together to write  
+C + S = Y = C +I, or, S =I        … (2.13) 
+In a closed economy without government, at equilibrium, planned saving must be 
+equal to planned investment. Abstaining from current consumption (i.e., saving) 
+C 
+O 
+A 
+D 
+E 
+L 
+F 
+Y1 Y3 Y2 
+450 
+Y 
+B 
+C = a + bY 
+S 
+-a 
+Y1 
+H S = – a + (1– b)Y Y 
+Y 
+Y1 
+Y2 Y3 

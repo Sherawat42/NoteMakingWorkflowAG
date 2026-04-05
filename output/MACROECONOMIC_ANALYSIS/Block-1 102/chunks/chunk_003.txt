@@ -1,0 +1,141 @@
+--- Page 7 ---
+ 
+ 
+UNIT 1 THE CLASSICAL APPROACH 
+Structure 
+1.0 Objectives 
+1.1 Introduction 
+1.2 Various Schools of Macroeconomic Thought 
+1.3 Basic Features of Classical Theory 
+1.4  Determination of Output and Employment  
+1.5 Quantity Theory of Money  
+1.6 Say’s Law of Market  
+1.7 Classical Dichotomy  
+1.7.1 AD-AS Equilibrium  
+1.7.2 Neutrality of Money 
+1.7.3 Saving-Investment Equilibrium  
+1.8  Long Run vs. Short Run 
+1.9  Let Us Sum Up 
+1.10  Answers/ Hints to Check Your Progress Exercises 
+1.11Some Useful Books/ Further Readings 
+1.1 OBJECTIVES 
+After going through the unit, you should be in a position to 
+ bring out the salient features of classical economics; 
+ analyse the classical approach to the determination output and employment; 
+ explain the quantity theory of money and its implication on price 
+determination;  
+ explain the classical dichotomy in the economy and the neutrality of money 
+in a classical system; and 
+ describe the behavior of prices in the long-run and short-run.  
+1.1 INTRODUCTION 
+Being a student of economics, you must be aware that macroeconomic theory has 
+evolved over time in response to the dynamic macroeconomic environment. 
+Initially, during the nineteenth and early twentieth century, there was a consensus 
+among economists and economic historians that an economy could run smoothly 
+without much fluctuation in income, output and  employment. The perception 
+ 
+ Dr. Jagannath Mallick, Independent Researcher, New Delhi writer 
+
+
+--- Page 8 ---
+ 
+8 
+ 
+Traditional Approaches 
+to Macroeconomics 
+was that there should be minimum state intervention in economic variables such 
+as wages, prices and interest rates. The market forces (supply and demand) would 
+take care of economic equilibrium in an economy. Such an assumption, however, 
+is unrealistic – all governments have in place certain economic policies (such as 
+monetary policy and fiscal policy) and they carry out amendments to these 
+policies from time to time!  
+Economic theory refers to a set of ideas and principles which are used to explain, 
+analyse and predict certain ‘phenomenon’ or observable events. As you know, 
+macroeconomic theory deals with macroeconomic phenomena, which are 
+aggregative in nature. The need for a special branch of macroeconomics arises 
+because what holds for the individual units may not hold good for the economy 
+as a whole. For example, suppose a firm employs labour for production of output 
+(say, cement). It can hire as many workers it requires at the ongoing wage rate. 
+Thus, increase in demand for labour by a single firm does not have any impact on 
+the wage rate. However, if all the firms in a country increase their demand for 
+labour (say due to economic boom and optimism in the country), there will be 
+shortage of labour and increase in wage rate. Further, the number of workers 
+available for work in the country is limited; thus demand for labour beyond this 
+limit will increase wage rate only, not the supply of labour.  
+Let us look into the global energy crisis of 2022. This took the form of global 
+shortages and increased the prices of oil, gas and electricity throughout the world. 
+The crisis was caused by a variety of social and economic factors: labour 
+shortages, political disputes, climate concerns, and the war between Russia and 
+Ukraine. The world economy responds to such crises in certain ways. During the 
+global energy crisis of 2022, for example, the oil-exporting countries witnessed 
+an increased inflow of income while petroleum-importing countries experienced 
+a rise in the cost of production. There was severe inflation in most countries. In 
+order to control inflation, policy makers resorted to increase in interest rates and 
+reduction in money supply.  
+Countries design their monetary and fiscal policies for the welfare of people by 
+controlling inflation and boosting economic growth. Macroeconomic theory 
+guides economists and policymakers to explain the situation and design 
+appropriate policy measures. Among economists, however, there is no agreement 
+on how equilibrium levels of output, prices and employment are determined. 
+Historically economic data are the same, but economists differ on the reasons and 
+solution for economic problems. In microeconomics there is more or less some 
+consensus. In macroeconomics, as you will see, there are sharp and often 
+altogether different explanations and policy recommendations for the same 
+phenomenon.  
+Macroeconomics has been subjected to debates, particularly since the 1930s. The 
+reasons behind such differences among economists are the basic assumptions and 
+the models they take. Two major schools of thought – Classical and Keynesian – 
+have interpreted economic events differently. Accordingly, they have accorded 
+
+
+--- Page 9 ---
+ 
+9 
+ 
+The Classical    
+Approach 
+different explanations for the same economic issue. In this unit, we focus on the 
+classical theories while Keynesian theories will be discussed in Unit 2. 
+1.2 VARIOUS SCHOOLS OF MACROECONOMIC 
+ THOUGHT 
+A school of macroeconomic thought refers to a group of macroeconomic thinkers 
+who share similar views on the behaviour of macroeconomic variables in an 
+economy. As pointed out above, economists do not always share a similar 
+approach in dealing with macroeconomic problems. For example, Keynesian 
+theory came into existence as a response to the Great Depression. Further 
+economic events during the 1970s led to the revival of the classical views in the 
+form the New Classical Economics. As a response to New Classical economics, a 
+new school of thought – New Keynesian Economics – was born by introducing 
+micro-foundations and rational expectations in Keynesian economics. In later 
+Units of this we will discuss about both these schools of thought. 
+Classical economics refers to a school of thought prevalent during the eighteenth 
+and early nineteenth century. They believed that the levels of economic variables 
+in an economy were determined through market forces. It implies that wages, 
+prices and interest rates are flexible in an economy. However, the occurrence of 
+the Great Depression (1929-1933), which witnessed massive decline in income, 
+output, employment and price level, a stock market crash, and banking panic 
+falsified such assumptions. This led to the search for new explanations periodic 
+fluctuations in output and employment in an economy. John Maynard Keynes, a 
+British economist, opposed the classical ideas and advocated that prices and 
+wages are not flexible; rather they are sticky. He coined the term “classical” to 
+reflect the ideas presented by economists prior to him. Prominent among classical 
+economists are Adam Smith, David Ricardo, Thomas Malthus, Anne Robert 
+Jacques Turgot, John Stuart Mill, Jean-Baptiste Say, and Eugen Böhm von 
+Bawerk.  
+As opposed to the classical economists, Keynes advocated that the government 
+should actively intervene in the market to counter recessionary conditions. From 
+Keynes’s beliefs evolved a new school of macroeconomic thought that is called 
+the Keynesian school. According to Keynesian economists, actual output could 
+be lower than potential output of an economy and the gap can be closed through 
+fiscal and monetary policy interventions. 
+There are two major schools of thought: classical and Keynesian. Classical 
+theory emerged in the 18 th and 19th centuries. It attempted to explain and analyse 
+the remarkable increase in wealth. Classical theory relies on the assumption of 
+fully flexible prices and wages, which results in an automatic adjustment in the 
+market, ensuring no deficiency of aggregate demand. The economy operates at its 
+full capacity or full employment level. These classical ideas failed to explain and 
+understand the great depression of the 1930s. The depression had affected all the 
+major advanced countries, wherein about one fourth of the labour force had 
+become unemployed. Against this backdrop, John Maynard Keynes came up with 
+his ideas, called Keynesian theory. He attempted to explain the event and 
+advocated that such huge unemployment was because of inadequate aggregate 

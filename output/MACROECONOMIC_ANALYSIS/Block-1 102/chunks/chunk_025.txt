@@ -1,0 +1,144 @@
+--- Page 73 ---
+ 
+73 
+ 
+Open Economy 
+Macroeconomics-I 
+expenditure cannot exceed aggregate income. It means, an excess of private 
+investments over savings (S – I < 0) needs to be compensated by public savings   
+(T–G > 0). However, open economies can borrow from the rest of the world. 
+Thus it can sustain excess of expenditure over income and excess of investments 
+(I) over private (S) and public savings (T – G). International trade and capital 
+flows allow countries running current account deficits to draw on the savings of 
+other countries running current account surpluses.   
+ 
+Check Your Progress 1 
+1)  Use the national income identity for an open economy and show that in a 
+ country running a trade deficit (i.e., NX < 0): (a) aggregate expenditure 
+ must be greater than GDP, and (b) national savings (i.e., sum of private 
+ savings and public savings) must be less than investments.  
+  ...................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+2) Use the national income identity to bring out at least two fundamental 
+ differences between open and closed economies. 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+4.3  BALANCE OF PAYMENTS AND EXCHANGE  
+ RATE  
+The Balance of Payments (BOP) of a country is a record of all its transactions 
+with foreigners during a given period (typically one year). The transactions 
+include those involving purchase and sale of goods, services, physical and 
+financial assets, as well as transfer payments. 
+4.3.1 Balance of Payments  
+The BOP account has two main components, viz., the current account and the 
+capital account. 
+Current Account: The current account of BOP records receipts from and 
+payments to foreigners due to international trade in goods and services (including 
+factor services). In the current account transactions involving inflows of foreign 
+
+
+--- Page 74 ---
+ 
+74 
+ 
+Traditional Approches 
+to Macroeconomics 
+exchange (e.g. exports) are a credit and those involving outflows of foreign 
+exchange (e.g., imports) are a debit entry. The current account comprises two 
+main components: the balance of trade and the balance on invisibles. 
+Transactions involving trade in services, factor incomes and transfers are also 
+referred to as ‘invisibles’ in the current account. These are further explained 
+below.  
+The balance of trade or merchandise trade balance is the difference between 
+exports and imports of goods by a country and it may be positive, negative or 
+zero. A negative balance of trade or a trade deficit indicates that the country’s 
+imports of goods exceed exports; a positive trade balance indicates the country 
+has a trade surplus, with exports of goods exceeding imports.  
+Trade in services (e.g., India’s software exports) is a part of invisibles in the 
+current account. The balance of trade in services captures the difference between 
+a country’s service exports and imports and it may also be positive or negative, 
+depending on whether the country is a net exporter or net importer of services.  
+Factor incomes include net investment incomefrom abroad  which measures 
+investment earnings from abroad earned by Indians minus foreigners’ earnings 
+from their Indian assets. Indian residents may receive investment income, such as 
+dividends and interest, on the foreign assets they hold while foreign residents 
+receive investment income on the Indian assets they possess. The former is a 
+credit (inflow of foreign exchange) while the latter is a debit entry (outflow of 
+foreign exchange) in the current account.  
+Unilateral Transfers, that are overseas payments made without any quid pro quo, 
+are also recorded in the current account. These include assistance by foreign 
+governments during war or natural calamity (foreign aid), workers’ remittances 
+(e.g., money sent by overseas Indians to their families in India), personal gifts, 
+donations etc. The net unilateral transfers  are transfers received by Indians from 
+abroad minus similar transfers sent to foreigners from India. For many 
+developing countries workers’ remittances are an important source of foreign 
+exchange earnings.  
+The current account balance is the sum of (i) the balance on merchandise trade 
+and (ii) the balance on invisibles (which comprises balance on services trade, net 
+investment income and net transfers). When total foreign exchange receipts on 
+account of all the transactions recorded in the current account are greater than 
+total payments, the country has a current account surplus. In case the foreign 
+exchange payments exceed the receipts, the country has a current account deficit.  
+Note that even if a country has a trade deficit it could have a current account 
+surplus, if it has a positive and very high net invisibles balance. This can be seen 
+in many countries that are net recipients of large unilateral transfers and 
+remittances. For example, remittances received from Indian workers employed 
+abroad are an important source of foreign exchange earnings for India. India is 
+the largest recipient of remittances in absolute figure ($87 billion in 2021) while 
+
+
+--- Page 75 ---
+ 
+75 
+ 
+Open Economy 
+Macroeconomics-I 
+in terms of percentage of GDP Lebanon is the largest recipient that contributed 
+54 per cent of GDP in 2021. 
+Capital Account: The capital account of the BOP includes transactions involving 
+cross-border purchase and sale of real and financial assets. The asset in question 
+could be physical assets like land, factories, houses or financial assets like stocks 
+and bonds. In the capital account each transaction is recorded twice, once as a 
+credit and once as a debit entry, thereby capturing the two aspects of each 
+transaction. E.g., purchase of a foreign financial asset such as foreign government 
+bond or shares of a foreign firm by a domestic resident involves an asset import 
+and a capital outflow (payment made by the domestic resident for the foreign 
+asset).  
+Broadly two types of capital flows are recorded in the capital account – debt 
+creating and non-debt creating flows. For example, when domestic agents borrow 
+from foreign financial institutions, the country experiences a debt creating capital 
+inflow, as this loan has to be repaid at a future date. However, foreign firms 
+investing in the domestic country (e.g., foreign direct investment or FDI), involve 
+a non-debt creating capital inflow, as this does not create any commitment for 
+repayment for the recipient nation. Capital flows can also be classified on the 
+basis of the duration involved. For example, foreign institutional investors (FIIs) 
+purchasing shares of domestic firms, involves a short term capital inflow (also 
+known as foreign portfolio investment or FPI). The FIIs may sell the equity and 
+withdraw their funds at a short notice. Such withdrawal of foreign funds would 
+involve a capital outflow. Typically, investment by foreign firms in country’s 
+production sector (e.g., Greenfield FDI) involves longer term capital inflows that 
+are not likely to be withdrawn at short notice unlike investment in the financial 
+sector (e.g., FPI). 
+When capital inflows exceed capital outflows, the country has a capital account 
+surplus. In the opposite case, when outflows exceed inflows it has a capital 
+account deficit.  
+In the current account, in general, transactions involving the inflow of foreign 
+exchange are recorded as a credit entry, with the corresponding debit entry 
+appearing in the capital account. Therefore a surplus (or deficit) in current 
+account is mirrored in a corresponding deficit (or surplus) in the capital account.  
+If a country has a current account deficit, this must be financed either by selling 
+assets or by borrowing, so there must be a corresponding surplus in the capital 
+account. So a current account deficit is financed by net capital inflows, either on 
+account of the private sector or the government sector or both. 
+Overall BOP Balance: Every transaction is recorded twice in the BOP account, 
+once as a debit and once as credit, as per the principles of double entry 
+bookkeeping. Therefore in an accounting sense the BOP is always balanced. 
+However, in practice, this is not observed, primarily because of problems related 
+to data collection. There are time lags involved in the international transactions; 
+e.g., data on exports is collected from customs, at the time goods are shipped, 

@@ -17,6 +17,7 @@ Dependencies:
 import argparse
 import json
 import os
+import shutil
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -60,9 +61,17 @@ def split_pdf(input_pdf: str, output_dir: str, chunk_size: int = 3) -> dict:
     # Create output directories
     chunks_dir = output_path / "chunks"
     chunks_dir.mkdir(parents=True, exist_ok=True)
+    
+    input_dir = output_path / "input"
+    input_dir.mkdir(parents=True, exist_ok=True)
 
-    # Read the PDF
-    reader = PdfReader(str(input_path))
+    # Copy the input PDF into the input directory
+    copied_pdf_path = input_dir / input_path.name
+    if not copied_pdf_path.exists() or input_path != copied_pdf_path:
+        shutil.copy2(input_path, copied_pdf_path)
+
+    # Read the copied PDF (so we don't hold lock on original or run into issues)
+    reader = PdfReader(str(copied_pdf_path))
     total_pages = len(reader.pages)
 
     if total_pages == 0:
@@ -116,7 +125,7 @@ def split_pdf(input_pdf: str, output_dir: str, chunk_size: int = 3) -> dict:
 
     # Build index
     index = {
-        "source_pdf": str(input_path),
+        "source_pdf": str(copied_pdf_path),
         "source_filename": input_path.name,
         "total_pages": total_pages,
         "chunk_size": chunk_size,

@@ -1,0 +1,186 @@
+--- Page 109 ---
+108
+Indian Economic Development:
+An Overview UNIT 5 PHYSICAL AND SOCIAL
+INFRASTRUCTURE
+Structure
+5.0 Objectives
+5.1 Infrastructure in India
+5.1.1 Meaning and Significance
+5.1.2 Nature of Infrastructure
+5.1.3 Types of Infrastructure
+5.1.4 Infrastructure and Economic Growth
+5.1.5 Role of Public Private Partnership in Infrastructure
+5.1.6 Budget Allocations for Infrastructure Sector
+5.1.7 Social and Physical Infrastructure
+5.2 Privatisation and Commercialisation of Infrastructure
+5.2.1 Need for Privatisation and Commercialisation
+5.2.2 Prerequisites for Private Investment
+5.3 Physical Infrastructure: Growth and Policy Issues
+5.3.1 Transport
+5.3.1.1 Road
+5.3.1.2 Railways
+5.3.1.3 Shipping and Ports
+5.3.1.4 Aviation
+5.3.2 Telecommunications
+5.3.3 Power
+5.3.4 Banking
+5.3.5 Housing and Urban Infrastructure
+5.4 Social Infrastructure: Growth and Policy Issues
+5.4.1 Education
+5.4.2 Health
+5.5 Infrastructure: Challenges and Way Ahead
+5.6 Let Us Sum Up
+5.7 Key Words
+5.8 References
+5.9 Answers or Hints to Check Your Progress Exercises
+5.0 OBJECTIVES
+After reading this unit, you will be able to:
+state the need for infrastructural development in India;
+distinguish between physical and social infrastructure sector;
+explain why both physical and social infrastructure are crucial for  India’s
+growth;
+identify the issues requiring policy attention arising out of India’s economic
+growth; and
+
+
+--- Page 110 ---
+109
+Physical and Social
+Infrastructure
+ pinpoint the issues crucial in infrastructure policy in the Indian economy.
+5.1 INFRASTRUCTURE IN INDIA
+In Economic literature, infrastructure is popular by the name “Overhead Capital”
+or “Social Overhead Capital”. The famous economist A.O Hirschman stated that
+Social Overhead capital is the “basic services without which primary, secondary
+and tertiary productive activities cannot function”. Importance of infrastructure
+in facilitating economic and social activity cannot be under-emphasised.
+Sustainable Development Goal (SDG) 9 aims to “Develop quality, reliable,
+sustainable and resilient infrastructure, including regional and trans-border
+infrastructure, to support economic development and human well-being, with a
+focus on affordable and equitable access for all”.
+This unit focuses on both the physical and social infrastructure sector; its
+importance in the economic growth, recent trends and government policies
+towards infrastructural development and challenges faced by the sector.
+5.1.1 Meaning and Significance
+Infrastructure means those basic services and support systems that facilitate
+different economic activities, thereby helping in the development of a country.
+Infrastructure comprises of activities such as (i) transport, (ii) communications,
+(iii) energy, (iv) aspects related to economic activity that contribute to increase
+in productivity of natural resources, such as irrigation, drainage, afforestation,
+etc., (vi) science and technology, (vii) information system, (viii) finance and
+banking, (ix) civic amenities like piped water supply, sanitation and sewerage,
+solid waste collection and disposal, and piped gas, and (x) human resource services
+like education and health. Core Infrastructure incorporates all the main types of
+infrastructure, for instance, roads, highways, railways,
+ pu
+blic transportation,
+water, and gas supply, etc. Core assets provide essential services and have
+monopolistic characteristics.
+ I
+t is useful to view infrastructure as physical
+infrastructure like roads or bridges and the infrastructure services like
+transportation, in this case. Most infrastructure services and part of physical
+infrastructure are non-tradable, and therefore their availability cannot be readily
+augmented through imports. They need to be domestically produced. Investors
+seeking to invest in core infrastructure look for five different characteristics:
+income, low volatility of returns, diversification, inflation protection, and long-
+term liability matching.
+5.1.2 Nature of Infrastructure
+The infrastructure sector has certain peculiarities that help us to distinguish this
+sector from other sectors of the economy. Among these, the more important
+distinguishing features can be identified as follows:
+i) Public Goods: Most of the physical infrastructure services have some
+elements of public good in them. These services are available to the public;
+the consumers may be charged for these services or the same may be supplied
+free. But even when they are supplied against a price, it is not always possible
+to exclude those consumers who chose not to pay for them.
+ii) Externalities: The social benefit of the infrastructure services far exceeds
+the cost involved in their generation. This, in turn, creates problems in pricing
+
+
+--- Page 111 ---
+110
+Indian Economic Development:
+An Overview
+of these services. It makes it difficult to price them in order to recover the
+cost fully.
+iii) Monopolies: Due to the inherent nature of infrastructure services, it is difficult
+for more than one supplier to exist in one location. It thus creates the
+possibility for monopolies and their regulation.
+iv) Public Sector Domination: The existence of externalities particularly in the
+field of social welfare has resulted in a dominant position by public sector
+in production and supply of infrastructure services.
+v) Lumpy Investment: Infrastructure prospects, more generally, require lump
+sum investment, i.e., any expenditure on a part of the project is not useful
+until the whole project is ready for operations. A half-way road or a rail line
+are of no use. Similarly, investment in energy is useful only when the whole
+system of generation, distribution and its reach to the ultimate consumer is
+ready.
+vi) Indivisibilities: Lump-sum investment, in turn, is the result of indivisibilities,
+a characteristic feature of most infrastructure projects. One cannot divide
+and sub-divide such projects in small parts and activate them. These are
+indivisible.
+Infrastructural facilities are very necessary and vital for the smooth functioning
+of the economy. According to Dr V . K. R. V . Rao, “The link between infrastructure
+and development is not a once for all affair. It is a continuous process and progress
+in development has to be preceded, accompanied and followed by progress in
+infrastructure; if we are to fulfil our declared objectives of a self-accelerating
+process of economic development”.
+5.1.3 Types of Infrastructure
+Infrastructure can be put into several different types including:
+Soft infrastructure: These types of infrastructure make up institutions that
+help maintain the economy. These usually require
+ human 
+capital
+ an
+d help
+deliver certain services to the population.
+ Ex
+amples include the healthcare
+system,
+ financi
+al institutions, governmental systems, law enforcement, and
+education systems.  S
+oft infrastructure  r
+efers to all the institutions that
+maintain the  
+economic,
+ 
+health,
+ 
+social, and
+ 
+cultural standards  
+of a
+country.  
+This includes  e
+ducational programmes,  
+official statistics,
+parks
+ 
+and 
+recreational
+ 
+ facilities,
+ 
+law enforcement
+ ag
+encies, and
+ emer
+gency
+services.
+Hard Infrastructure: These make up the physical systems necessary to
+run a modern, industrialised nation. Examples include roads, highways,
+bridges, as well as the capital/assets needed to make them operational (transit
+buses, vehicles, oil rigs/refineries).
+ 
+ T
+he assets constituting the hard
+infrastructure support multiple services that are important intermediaries in
+the production process. Thus, roads support transportation services that are
+important to move inputs and outputs of a production process.
+Critical Infrastructure: These are assets defined by a government as being
+essential to the functioning of a society and economy, such as facilities for
+shelter and heating, telecommunication, public health, agriculture, or civic
+amenities, etc.

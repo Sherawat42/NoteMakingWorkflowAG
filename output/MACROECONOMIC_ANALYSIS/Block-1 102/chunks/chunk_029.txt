@@ -1,0 +1,169 @@
+--- Page 85 ---
+ 
+85 
+ 
+Open Economy 
+Macroeconomics-II offset the impact of the increase in foreign exchange reserves on the money 
+supply.  
+5.2.3 Equilibrium in Open Economy IS-LM Model  
+As in case of a closed economy, macroeconomic equilibrium occurs at the 
+intersection of the IS and LM curves as shown in Fig. 5.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 5.1: “Macroeconomic Equilibrium in Open Economy IS-LM Model 
+Note that at the equilibrium E,the rate of interest, i 0 = if, owing to the assumption 
+of perfect capital mobility. The point E represents macroeconomic equilibrium in 
+the sense that there is both internal balance (goods and money market 
+equilibrium) and external balance (BOP equilibrium).  
+The horizontal line BP that passes through the equilibrium rate of interest 
+represents BOP equilibrium, in the sense that it represents interest rate – income 
+combinations for which the current account surplus (deficit) is exactly offset by a 
+capital account deficit (surplus). Note that here NX represents the current account 
+balance. 
+With perfect capital mobility, the BP curve is horizontal, as the slightest 
+deviation of i from i f, would create BOP disequilibrium and trigger either infinite 
+capital inflows or outflows. If i> i f, there will be a surge in capital inflows and a 
+BOP surplus, since inflows would be higher than required for BOP balance, at 
+any given level of income. Whereas, or any i < i f, there will be unlimited capital 
+outflows and a BOP deficit.  That is, for any Y (say Y 0), there is BOP surplus at 
+all points above BP and a BOP deficit at all points below BP.  
+With imperfect capital mobility the BP curve would be upward sloping. As Y 
+increases, M would rise, NX would fall and the current account deficit would 
+widen. To maintain BOP balance therefore, i would have to increase to attract 
+capital inflows and create a matching capital account surplus. With imperfect 
+E 
+i0 = if 
+i 
+IS 
+Y0 
+Y 
+BP 
+ LM ቀMഥ pൗ ቁ 
+
+
+--- Page 86 ---
+ 
+86 
+ 
+Traditional Approches 
+to Macroeconomics 
+capital mobility, which occurs when there are restrictions on cross-border capital 
+flows or when domestic and foreign bonds are imperfect substitutes, there can be 
+a difference between iand i f. However, here we will only consider the case of 
+perfect capital mobility.  
+5.3 MONETARY AND FISCAL POLICIES UNDER 
+ FLEXIBLE EXCHANGE RATE 
+When a country has a flexible exchange rate regime, its exchange rate is 
+determined by demand and supply in the foreign exchange market. We consider 
+the case of a pure float , where there is no official intervention in currency 
+markets and hence no role of foreign exchange reserves, with BOP equilibrium 
+achieved via exchange rate fluctuations.  
+5.3.1 Fiscal Policy under Flexible Exchange Rates  
+Consider the open economy IS-LM model with perfect capital mobility and 
+suppose the government follows expansionary fiscal policy in this set up as in 
+Fig. 5.2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fig. 5.2: Expansionary Fiscal Policy under Flexible Exchange Rates 
+Initially the economy is at E 1 (see Fig. 5.2), where goods and money markets are 
+in equilibrium and there is BOP equilibrium as well, with i 0= i f.  With fiscal 
+expansion (or fall in tax rate t), there is an increase in G. The IS curve shifts from 
+IS0 to IS 1 and the interest rises from i 0 to i 1 as the economy moves to the new 
+equilibrium E1. However, with if remaining the same, the rise in domestic interest 
+rate makes domestic bonds relatively more attractive and there is a surge in 
+capital inflows, that leads to a BOP surplus (excess supply of foreign exchange), 
+causing a currency appreciation (e falls). With given prices (implying prices 
+remaining constant), a nominal appreciation leads to a real appreciation (r falls), 
+reducing X, raising M and worsening the trade balance (NX falls). As a result 
+aggregate demand falls and the IS curve shifts to the left. It shifts back all the 
+way to IS 0, where once again i = i 0 = i f and output is back to Y 0.Note that at any 
+other IS curve, e.g., IS 2, the domestic interest rate is still above i f (i2> if), so e, r 
+i 
+i0 = if 
+i1
+i2 E0 
+E1 
+Y0 Y1 
+Y 
+IS0 
+IS1 IS2 
+BP 
+ LM ቀMഥ pൗ ቁ 
+
+
+--- Page 87 ---
+ 
+87 
+ 
+Open Economy 
+Macroeconomics-II 
+and NX would fall and IS would shift further to the left. Therefore, we see that 
+with flexible exchange rates, fiscal expansion is ineffective. It fails to raise output 
+(the increase in output from Y 0 to Y 1 is only temporary), the trade balance 
+worsens because of appreciation in the exchange rate (NX is lower) and the fiscal 
+position deteriorates (G has increased or tax rate t has fallen). 
+5.3.2 Monetary Policy under Flexible Exchange Rates  
+We now examine the impact of expansionary monetary policy under a flexible 
+exchange rate regime.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Fig. 5.3: Expansionary Monetary Policy under Flexible Exchange Rates] 
+In Fig. 5.3 an increase in nominal money supply (from M 0 to M 1) shifts the LM 
+curve outward from LM 0 to LM 1 and the economy moves from E 0 to E 1, as 
+domestic interest rate falls from i 0 to i1.At i1 there is  internal balance (output and 
+money markets are in equilibrium) but there is external imbalance (BOP 
+disequilibrium) that triggers capital flows. Since i 1< i f, this triggers a capital 
+outflow, leading to a BOP deficit (excess demand for dollars) and causing a 
+depreciation of the nominal (e rises) and real exchange rates (r rises). As a result 
+domestic goods become relatively cheaper, X rises, M falls and NX increases, 
+and with higher external demand, the IS curve shifts to the right. This process 
+continues till the IS curve shifts all the way to IS 3 and the economy is at E 3, 
+where once again i = if and both internal and external balance are restored. At any 
+other point (e.g., E 2 on IS 2, i2< if, so e and r would rise, NX would fall, moving 
+the IS curve further to the right). 
+This shows, that in complete contrast to fiscal policy, monetary expansion is an 
+extremely effective policy tool in an open economy with flexible exchange rates 
+i 
+i0 = if 
+i1
+i2
+E0 
+Y0 Y1 
+Y 
+IS0 
+IS3 
+IS2 
+BP 
+E
+E
+E
+Y3 
+LM଴ ቀM଴ pൗ ቁ 
+LMଵ ቀMଵ pൗ ቁ 

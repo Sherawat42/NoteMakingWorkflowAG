@@ -1,0 +1,129 @@
+--- Page 79 ---
+ 
+79 
+ 
+Open Economy 
+Macroeconomics-I immense challenge for a country’s government. We will discuss a few aspects of 
+policy dilemmas under a fixed exchange rate regime in the next section.  
+Check Your Progress 2 
+1)  State whether the following statements are ‘True’ or ‘False’, giving reasons 
+for  your answer in each case: 
+(a)  A country can have a current account surplus, even when it has a negative 
+trade balance (or merchandise trade deficit). 
+(b) When Indian firms invest in foreign firms (‘outward FDI’), there would 
+be a corresponding capital inflow in the current account of India’s BOP. 
+(c) A country can have an overall BOP deficit even when it has a current 
+account surplus.  
+(d) When a country has a current account deficit (of say –$20,000) and a 
+capital account surplus (of say $8000), its foreign exchange reserves 
+would increase.  
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+2)    Suppose that domestic currency depreciates by 2 percent and simultaneously 
+ domestic prices rise by 5 percent, while foreign prices remain unchanged.  
+ (i) What would be the impact on (a) real exchange rate; and (b) net  
+  exports? 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ (ii) How would your answer in (b) above wouldchange if domestic prices 
+  remained constant following the nominal currency depreciation? 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+3)  Suppose a country experiences a sudden surge in capital inflows (e.g., FPI 
+inflows) that create an excess supply of foreign exchange (say dollars). How 
+would this affect the following? 
+
+
+--- Page 80 ---
+ 
+80 
+ 
+Traditional Approches 
+to Macroeconomics 
+(a)  the exchange rate and net exports under a flexible exchange rate regime  
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+(b)  the exchange rate and foreign exchange reserves under a fixed  exchange rate 
+regime ?  
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+4.4 LET US SUM UP 
+In this unit, we learnt that how openness to international trade and capital flows 
+affects policy and macroeconomic outcomes within an economy. Our discussion 
+on national income identities highlighted important differences between closed 
+and open economies. For example, we saw that open economies can run current 
+account deficits and borrow from the rest of the world to cover an excess of 
+aggregate expenditure over income. Exchange rates are an important 
+macroeconomic variable in open economies and from our analysis of BOP we 
+got a flavor of the various factors, related to international trade in goods, services 
+and assets that affect the demand and supply of foreign exchange and have an 
+impact on nominal and real exchange rates. In this context we also learnt about 
+alternate exchange rate regimes, viz., fixed and flexible exchange rate regimes.  
+4.5 ANSWERS/HINTS TO CHECK YOUR PROGRESS 
+EXERCISES 
+Check Your Progress 1 
+1) Refer to Section 4.2 and answer.
+ 2) Refer to Section 4.2 and answer
+ Check Your Progress 2 
+1) a) True 
+  b) False 
+  c) True 
+ d) False 
+2) Refer to Sub-section 4.3.2 and answer.    
+3) Refer to Sub-section 4.3.2 and answer.    
+
+
+--- Page 81 ---
+ 
+ 
+UNIT 5  OPEN ECONOMY  
+  MACROECONOMICS -II  
+Structure 
+ 
+5.0 Objectives 
+5.1 Introduction 
+5.2 The Open Economy IS-LM Framework 
+ 5.2.1 The IS Curve 
+ 5.2.2 The LM Curve 
+ 5.2.3 Equilibrium in Open Economy IS-LM Model  
+5.3 Monetary and Fiscal Policies under Flexible Exchange Rate 
+ 5.3.1  Fiscal Policy under Flexible Exchange Rate 
+ 5.3.2 Monetary Policy under Flexible Exchange Rates 
+5.4   Monetary and Fiscal Policies under Fixed Exchange Rate 
+ 5.4.1 Fiscal Policy under Fixed Exchange Rates  
+ 5.4.2 Monetary Policy under Fixed Exchange Rates  
+5.5 Let Us Sum Up 
+5.6 Answer/Hints to Check Your Progress Exercises 
+5.0 OBJECTIVES 
+After going through this Unit you should be in a position to 
+ analyse short run macroeconomic equilibrium using the open economy IS-
+LM model; and 
+ discuss the limits to monetary and fiscal policies under fixed vis-à-vis flexible 
+exchange rate regimes. 
+ 
+5.1 INTRODUCTION 
+In this Unit we will introduce the open economy IS-LM framework and use it to 
+understand the complications involved in framing monetary and fiscal policy 
+under alternate exchange rate regimes. In particular we consider two different 
+exchange rate regimes, viz., fixed and flexible rate systems and explore the 
+implications for conduct of monetary and fiscal policies under the assumption of 
+unrestricted international capital mobility. 
+Apart from the above, we use the open economy IS-LM framework with perfect 
+capital mobility to study the conduct of monetary and fiscal policy under 
+alternate exchange rate regimes. First we examine the conduct of policy making 
+under flexible exchange rates, followed by the case of a fixed exchange rate 
+regime. This is known as the ‘Mundell-Fleming model’, named after economists 
+Robert Mundell and Marcus Fleming, who developed this framework and 
+analysed policymaking in open economies in the early 1960s.  
+ 
+ Prof. Ananya Ghosh Dastidar, Department of Finance and Economics, University of Delhi 

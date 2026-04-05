@@ -1,0 +1,102 @@
+--- Page 52 ---
+ 
+52 
+ 
+Traditional Approaches 
+to Macroeconomics 
+money demand and the rate of interest could be explained by the Keynesian 
+concept of speculative demand for money. We also learnt about the liquidity trap 
+– at unusually low rate of interest the demand for money becomes infinitely 
+elastic and traditional monetary policy became ineffective.  
+2.8  ANSWERS/HINTS TO CHECK YOUR PROGRESS 
+EXERCISES 
+Check Your Progress 1 
+1)  Consumption function is a linear function given by 𝐶 = 𝑎 + 𝑏𝑌. The APC 
+declines with increase in Y while the MPC remains constant.  
+2)  i) A decrease in autonomous consumption will lead to a parallel downward 
+shift in the consumption function.  
+(ii) An increase in MPC will increase the slope of the consumption function.  
+3)  Autonomous investment remains constant irrespective of the level of income 
+or interest. Induced invest depends on income or rate or interest or both. See 
+Sub-Section 2.2.2 for details. 
+4)  As interest rate decreases the cost of borrowing decreases. Thus, some of the 
+projects which were unviable earlier become profitable. Therefore, more 
+investment takes place with decrease in interest rate.  
+Check Your Progress 2 
+1)  Keynesian model is based on the assumption that resources are under-
+utlised, prices and wage rate are rigid, and output is a homogenous 
+commodity.  
+2)  a) Aggregate demand function is: 𝑌 = 30 + 0.75𝑌. Equilibrium income is 
+120. 
+ b) Equilibrium output will increase to 140. 
+ c) 4 
+ d) In the case of lump sum tax, the multiplier will be the same as 
+autonomous expenditure multiplier given in (b).  In the case of proportional 
+tax at the rate of 0.1, the multiplier will be reduce to  
+ଵ
+ଵି଴ .଻ହ ×଴ .ଽ = 3.08 
+ e) The open economy multiplier is given by 1 / (1 – b + m). Therefore, the 
+multiplier will be 1.8. 
+3) Go through Sub-Section 2.3.1 and answer.  
+Check Your Progress 3 
+1) (a) Go through Sub-Section 2.4.2; explain Fig. 2.7. 
+
+
+--- Page 53 ---
+ 
+53 
+ 
+The Keynesian Model (b) Saving will be lower than investment, since (S + T) = (𝐼̅+G). 
+2) Refer to Fig. 2.8 and Fig. 2.9 for the answer.  
+3) (i)   𝑆 = −10 + 0.25𝑌; (ii) 120; (iii) 112 
+Check Your Progress 4 
+1) You should discuss about transaction demand, precautionary demand 
+and speculative demand for money.  
+2) Refer to Sub-Section 2.5.1 and answer.  
+3) It refers to the insensitiveness of the demand for money to rate of 
+interest, when the rate of interest is very low. Conventional instruments 
+of monetary policy become ineffective in liquidity trap.  
+4) Government should increase public expenditure so that there is no 
+decrease in effective demand. 
+5) High fiscal deficit increases government debt burden, increases interest 
+rate amd may lead to crowding out of private expenditure.  
+
+
+--- Page 54 ---
+UNIT 3 THE NEOCLASSICAL SYNTHESIS 
+Structure 
+3.0 Objectives 
+3.1 Introduction 
+3.2 Equilibrium in the Real Sector  
+3.2.1 Derivation of the IS Curve 
+3.2.2 Shift in the IS Curve 
+3.3 Equilibrium in the Monetary Sector  
+3.3.1 Derivation of the LM Curve 
+3.3.2 Shift in the LM Curve 
+3.4 Simultaneous Equilibrium of Real and Monetary Sectors 
+3.4.1 Shocks in the IS-LM Model 
+3.4.2 Adjustment Process in the Economy 
+3.4.3 Impact of Supply Shocks 
+3.5 AD-AS Model 
+3.5.1 Derivation of the AD Curve 
+3.5.2 Aggregate Supply Curve 
+3.6 Let Us Sum Up 
+3.7 Answers/Hints to Check Your Progress Exercises 
+3.0 OBJECTIVES 
+After going through this unit, you should be in a position to 
+ explain the equilibrium in the real sector and the monetary sector in an
+economy;
+ explain the underlying ideas behind the IS curve;
+ explain the underlying ideas behind the LM curve;
+ explain how the IS and LM curves interact;
+ identify factors that influence the position and slope of the IS and the LM
+curves;
+ derive aggregate demand (AD) curve from the IS-LM model; and
+ find out the factors that influence the AD curve.
+3.1 INTRODUCTION 
+In Unit 2 we discussed how the equilibrium level of output is determined in the 
+Keynesian model. Recall that Keynes came up with his analysis in the aftermath 
+of the Great Depression. He considered an economy with underutilization of 
+resources (i.e., presence of idle capacity) with an objective of correcting the 
+P
+rof. Kaustuva Barik, Indira Gandhi National Open University, New Delhi 

@@ -1,0 +1,177 @@
+--- Page 13 ---
+ 
+13 
+ 
+The Classical    
+Approach 
+ 2)  What are the main features of new-classical economics?  
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+1.4  DETERMINATION OF OUTPUT AND 
+ EMPLOYMENT 
+The classical theory is based on the following assumptions:  
+a) firms and workers are optimisers,  
+b) they have perfect knowledge, and  
+c) they operate in competitive (perfect) markets. 
+An implication of the above is that wages and prices are fully flexible. Under 
+perfect competition, the demand for labour for the profit maximising firms is  
+P = W/MPN        … (1.1) 
+where, P is the product price, 
+W is nominal wages, and  
+MPN is the marginal product of labour. 
+As there is perfect competition, P is equal to Marginal Revenue (MR) which is 
+received from t h e sale of one unit of output. Here, W/MPN represents the 
+marginal cost of production, that is, the cost of production of an additional unit of 
+output.  
+Equation (1.1) can be rewritten as  
+MPN = W/P        … (1.2) 
+(We denote nominal wage by W and real wage by its lower case, i.e., w)  
+Equation (1.2) indicates that the marginal product of labour is equal to the real 
+wage (W/P). Hence, the labour demand curve in terms of real wage is nothing but 
+the Marginal Product of Labour. The labour demand curve is downward sloping. 
+MPN d = f (W / P)        … (1.3) 
+The of supply of labour varies positively with the real wage. It assumes that 
+individual labour maximises its utility. 
+This can be written as  
+Ns = g (W / P)        … (1.4) 
+where Ns indicates the supply of labour. We explain below in Fig. 1.1 the 
+equilibrium in the labour market. Note that the labour market is in equilibrium at 
+full employment of labour. At the equilibrium point, the supply of labour is 
+equal to demand for labour. In the upper panel, we provide labour supply and 
+labour demand as functions of real wage ቀ
+ௐ
+௉ ቁതതതതത. In the lower panel, we provide 
+labour supply and labour demand as functions of nominal wage. As price level 
+
+
+--- Page 14 ---
+ 
+14 
+ 
+Traditional Approaches 
+to Macroeconomics 
+increases from 𝑃1 to 𝑃2 and then to 𝑃3, real wage can be maintained at the same 
+level if nominal wage increases to 2W and 3W respectively. The shifts in the 
+supply curve of labour and demand curve of labour are shown in panel (b) of Fig. 
+1.1. Notice that there is no change in labour supply, as full employment is 
+ensured (since there is no change in real wage). If there is an increase in output 
+prices, but no increase in nominal wage rate, there will be a decline in real wage. 
+This will lead to a decrease in labour supply. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            Fig.1.1: Supply of and Demand for Labour 
+3𝑊ଵ
+3𝑃ଵ
+= 2𝑊ଵ
+2𝑃ଵ
+ = 𝑊ଵ
+𝑃ଵ
+ 
+ 
+Real Wage 
+N N1 
+𝑁௦ = 𝑔 ൬𝑊
+𝑃 ൰ 
+𝑀𝑃𝑁 = 𝑁ௗ = 𝑓 ൬𝑊
+𝑃 ൰ 
+𝑊
+𝑃  
+ 𝑊ଵ 
+MPN(3P1) 
+2𝑊ଵ 
+3𝑊ଵ 
+𝑊 
+Normal Wage 
+Labour 
+Ns(P3) 
+N1 
+Ns(P2) 
+Ns(P1) 
+N2 N0 
+MPN(2P1) MPN(P1) 
+Employment 
+
+
+--- Page 15 ---
+ 
+15 
+ 
+The Classical    
+Approach 
+Let us assume that there are only two factors of production, i.e., labour and 
+capital. Output is determined by the production function Y=F(K,N) as given in 
+Fig. 1.2, panel (b). Equilibrium in the labour market (see panel (a) of Fig. 1.2) 
+determines the full employment labour supply and real wage rate. Based on that 
+full employment out is given in panel (b) of Fig. 1.2. As you can see, the 
+economy operates with full employment output (Y 0) and full employment labour 
+supply (N0).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                               Fig. 1.2: Equilibrium Output and Employment 
+A 
+ ൬𝑊
+𝑃 ൰ ௢   
+Real Wage 
+Employment N0 
+𝑁 ௦ 
+𝑀𝑃𝑁 = 𝑁ௗ  
+𝑊
+𝑃  
+Labor Market Equilibrium 
+N 
+Output 
+𝑌 
+A  𝑌௢   
+ 
+Employment N0 
+𝑌 = 𝐹(𝐾, 𝑁) 
+Output Determination 
+N 

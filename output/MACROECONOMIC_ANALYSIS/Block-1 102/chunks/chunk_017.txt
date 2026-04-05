@@ -1,0 +1,133 @@
+--- Page 49 ---
+ 
+49 
+ 
+The Keynesian Model When interest rates hit a floor such as i *, any injection of extra liquidity in the 
+system is absorbed, as people willingly hold money (liquidity) rather than bonds 
+at an unchanged rate of interest, i *. Therefore once the economy is in a liquidity 
+trap monetary policy cannot lower the rate of interest beyond i * and hence it 
+cannot affect real variables like s. An increase in money supply (from (M s/P)0 
+to(Ms/P)1) has no impact on the interest rate which remains unchanged at i *. Once 
+you learn about monetary and fiscal policies, you will see that conventional 
+monetary policy becomes ineffective when the economy is in a liquidity trap 
+whereas fiscal policy is very effective in this case.  
+The concept of liquidity trap became important in policy circles during the global 
+financial crisis of 2007-08, when in advanced economies like USA and Japan 
+interest rates hit a floor and became zero (USA) or almost zero (Japan). In this 
+case conventional monetary policy could not be used to reduce the rate of interest 
+on government bonds any further and policy experiments involving the use of 
+unconventional monetary policy measures had to be explored. Fiscal policy 
+measures were also employed, but increase in public debt levels raised concerns 
+regarding debt sustainability. In the next section we will explore the role of fiscal 
+policy in the Keynesian model and touch on some of these policy issues.  
+2.6  ROLE OF GOVERNMENT 
+The classical economists, as we saw in Unit 1, advocated minimal government 
+intervention in determination of prices and wage rate. According to them the 
+activity of the government should be limited to law and order, justice and 
+defence. They assumed that prices and wage rate are flexible, and there is perfect 
+competition in the markets. Consequently, there is no unemployment in the 
+economy.  
+The Keynesian economics is in sharp contrast to the classical economics. 
+Keynesian model implies that the government has an important role to play in the 
+economy. The government should play an active role to bring in equilibrium in 
+the market. Keynes highlighted that rigidities in prices and wage rate prevent 
+smooth functioning of market mechanism in the real world. He also highlighted 
+the critical role of effective demand in determining the level of output and 
+employment in a macroeconomic context. The classical economists had focused 
+almost exclusively on the supply side (i.e., on production of output). In contrast, 
+Keynesian analysis showed that aggregate demand (i.e., planned spending by 
+economic agents) plays a key role in determining the level of output and 
+employment in the short run.  
+Keynes pointed out that when lack of effective demand is the underlying cause of 
+an economic recession. When there is high unemployment, there is tendency for 
+wage rate to decline. This will worsen the situation by reducing purchasing 
+power and hence effective demand. Therefore, government should intervene by 
+
+
+--- Page 50 ---
+ 
+50 
+ 
+Traditional Approaches 
+to Macroeconomics 
+increasing public expenditure; it should go for a deficit budget. Fiscal and 
+monetary policies can be used to inject additional demand in the economy, so as 
+to enhance spending (aggregate demand). That would lead to increases in output, 
+income and employment in the economy, and the economy would emerge out of 
+the recession.  
+The success of Keynesian policies during the Great Depression (1929-33) made a 
+strong case for an activist role of the government. In particular, Keynesian 
+economists advocated the use of discretionary fiscal policies, as Keynes had 
+pointed out the limitations of monetary policy. If the economy was in a liquidity 
+trap, conventional monetary policy would be completely ineffective, while fiscal 
+policy would still remain effective.  
+During the global financial crisis of 2007-08, most countries used the Keynesian 
+prescription of expansionary fiscal policy (increases in government spending) to 
+boost economic activity, although it resulted in widening budget deficits and high 
+levels of public debt. High interest burden on public debt contributes to further 
+widening of budget deficits, raising concerns about sustainability of the deficits. 
+Further, high interest rate may lead to ‘crowing out’ of private investment.  
+You must be aware that during 2020 and 2021, the world economy suffered a 
+severe economic crisis due to Covid-19. There was acute shortage in aggregate 
+demand due to decrease in economic activity. The response of the governments 
+to this crisis situation brought to the fore the importance of the policies advocated 
+by Keynes. 
+Check Your Progress 4 
+ 1. Discuss some of the factors that influence the demand for money.  
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+ 2. What is speculative demand for money? How does it affect the slope of 
+  the money demand function? 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+ 
+
+
+--- Page 51 ---
+ 
+51 
+ 
+The Keynesian Model 3.  What is meant by ‘liquidity trap’? What are its implications? 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+4.  Discuss the role of the government in an economy that is facing a 
+prolonged recession.  
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+ 5. Give any three reasons why policy makers tend to be concerned about 
+  mounting budget deficits.  
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+2.7  LET US SUM UP 
+Keynesian model is appropriate for an economy facing recessionary conditions 
+with unemployed resources and lack of effective demand. Keynes assumes that 
+markets are imperfect with wage and price rigidity. Within this framework, 
+output is demand-determined. An increase in any autonomous component of 
+aggregate demand has a multiplier effect, leading to several rounds of increment 
+in output. Our discussion on the consumption and investment functions 
+highlighted the factors that influence these two important components of 
+aggregate demand.  
+Equilibrium in the Keynesian model can be viewed in terms of the equality 
+between planned saving and planned investment. We learnt about the paradox of 
+thrift, which shows that an increase in the propensity to save results in a situation 
+where aggregate saving may remain unchanged or decline. Since output is 
+demand-determined in this model, an increase in planned saving leads to lower 
+aggregate demand and hence lower output, explaining why we observe the 
+paradox of thrift.  
+The demand for money (liquidity preference) increases with increase in income 
+and decreases with increase in interest rate. The inverse relationship between 

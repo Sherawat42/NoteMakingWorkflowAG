@@ -1,0 +1,132 @@
+--- Page 82 ---
+ 
+82 
+ 
+Traditional Approches 
+to Macroeconomics 5.2 THE OPEN ECONOMY IS-LM FRAMEWORK 
+After our discussion above on certain basic concepts and accounting tools 
+pertaining to open economies (see Unit 4), we will now examine output market 
+equilibrium in the short run Keynesian framework using the open economy IS-
+LM model.  
+As in case of the closed economy IS-LM model, here also we assume that prices 
+are given and there is ‘excess capacity’, so that output is demand determined.  
+5.2.1 The IS Curve  
+You are familiar with the IS curve in a closed economy (see Unit 3). In an open 
+economy, aggregate demand (AD) is given by: 
+AD =  C + I + G + X – M = C + I + G + NX,     (5.1) 
+where, C = C (Y d), is aggregate consumption expenditure which is a function of 
+disposable income, Yd= Y – T ;  
+I [=  I (i)] is private investments, an inverse function of the rate of interest i;  
+G represents exogenous government expenditure;  
+X [= X (Yf, r)] is exports, the demand for domestic goods by foreigners, which is 
+a function of foreign GDP (Yf) and the real exchange rate r;  
+M [= M (Y, r)[ is imports, the demand for foreign goods by domestic agents, 
+which is a function of domestic GDP (Y) and the real exchange rate r; 
+NX [= (X – M) = NX (Y f, Y, r)] stands for the net exports that depend on the 
+factors underlying demand for imports and exports, i.e., Yf, Y and r. 
+Clearly imports are a leakage from the domestic economy as it is the expenditure 
+ofdomestic agents on output that is produced in a different economy (hence part 
+of their GDP) while exports are an addition to the total expenditure on domestic 
+goods. Exports depend on Y f, ceteris paribus, the higher is Y f, higher would be 
+export demand. Similarly, the higher is Y, higher would be the demand for 
+imports. Both exports and imports depend on the real exchange rate which 
+represents the relative price of foreign vis-à-vis domestic goods as discussed in 
+equation (6). With an increase in r (a real depreciation), foreign goods become 
+relatively more expensive. Thus, there is a decline in imports, while exports 
+increase as domestic goods become relatively cheaper. So a rise in r would lead 
+to a rise in X and a fall in M and net exports would be higher. Note that 
+economists Alfred Marshall and Abba Lerner gave certain conditions under 
+which a real devaluation or depreciation leads to an improvement in the trade 
+balance (increase in NX), known as the Marshall- Lerner condition. According to 
+the Marshall-Lerner condition, depreciation will lead to an improvement in the 
+balance of trade of a country only if the sum of the price-elasticities of exports 
+and imports of the country is greater than one. Throughout our discussion we 
+assume that the Marshall-Lerner condition is satisfied.  
+
+
+--- Page 83 ---
+ 
+83 
+ 
+Open Economy 
+Macroeconomics-II Note that one of the assumptions in the IS-LM framework is that of given prices. 
+Therefore, with given foreign (p f) and domestic prices (p d), a nominal 
+depreciation or appreciation (rise or fall in e) brings about a real depreciation or 
+appreciation (rise or fall in r).  
+As in the closed economy case, the IS curve, represents goods market 
+equilibrium, so that along the IS curve we have aggregate demand equal to 
+aggregate output or GDP (Y):  
+i.e., Y = AD 
+or, Y = C (Yd) + I (i)  + G + NX (Yf, Y, r)      (5.2)  
+However, compared to the closed economy case, now there are two new 
+determinants of aggregate demand, viz., foreign GDP and the real exchange rate. 
+These two factors affect net exports and hence demand and output in an open 
+economy. If Y f increases (decreases) or r increases (decreases), NX would also 
+increase (decrease) and the IS curve would shift to the right (left).  
+Another aspect of open economies reflected in (5.2) is that any change in 
+aggregate demand (e.g., due to an increase in G), would affect Y and hence M 
+and therefore lead to a change in NX. For instance, ceteris paribus an increase in 
+government spending would lead to an increase in Y and M and thus reduce NX 
+(i.e. reduce the size of the trade surplus or widen an existing trade deficit). 
+However, if foreign GDP Y f increases, ceteris paribus , exports would increase 
+(as these are imports of the foreign country), also leading to an increase in Y, but 
+in this case the trade balance would improve, i.e., NX would rise (assuming that 
+rise in X due to increase in Y f, would be more than the rise in M induced by rise 
+in Y). 
+5.2.2 The LM Curve  
+So far as the LM curve is concerned, openness of an economy does not 
+fundamentally change the inverse relation between money demand and the rate of 
+interest (see Unit 3). If the demand for money is higher, the lower is the rate of 
+interest, as in the case of a closed economy. Thus the LM curve, representing 
+money market equilibrium (equality between demand for money and supply of 
+money) is upward sloping. However, in an open economy, asset transactions with 
+the rest of the world would give rise to capital flows (recorded in the capital 
+account of the BOP). This also affects the rate of interest and money supply in an 
+open economy. We discuss further on this issue below. 
+Let us assume that there is perfect capital mobility , i.e., there are no restrictions 
+on international capital inflows and outflows and cross-border capital movements 
+involve zero transaction costs. This is a simplifying assumption that captures the 
+
+
+--- Page 84 ---
+ 
+84 
+ 
+Traditional Approches 
+to Macroeconomics reality of large-scale international capital mobility observed in the era of 
+globalization, with advances in technology greatly reducing the cost of moving 
+capital across international borders.  
+The assumption of perfect capital mobility has certain implications for the 
+determination of interest rates in an open economy. It means that the domestic 
+and foreign bonds are perfect substitutes, so that therate of intereston domestic 
+bonds (i)has to be in line withthe rate of interest on foreign bonds (i f), i.e., i = i f 
+must hold. Here we assume that the foreign interest rate is given and not 
+influenced by domestic economic policy.  
+If i f is higher than i (i.e., i f > i), foreign bondswould be preferred by investors 
+owing to relatively higher returns on them. In this case, the domestic economy 
+would experience capital outflows, as agents sell domestic bonds and buy dollars 
+to purchase foreign bonds. The outflows continue until i rises (as price of 
+domestic bonds fall) and equality is restored between i and i f. When i = i f, 
+economic agents (such as households and firms) are indifferent between domestic 
+bonds and foreign bonds. 
+Another point you should note regarding the money market in open economies 
+relating to the supply of money and the role of foreign exchange reserves. Note 
+that the stock of foreign exchange reserves is an asset of the central bank. When 
+the central bank buys foreign currency, adding to its assets, it issues domestic 
+currency so there is matching rise in its liability. As such, any change in foreign 
+exchange reserves affects the monetary base or high powered money (liabilities 
+of the central bank) and hence money supply in the economy, via the money 
+multiplier.  
+Therefore, when a country experiences capital inflows and has a BOP surplus, 
+this increasesforeign exchange reserves and leads to an increase in money supply. 
+Similarly, a capital outflow can result in a BOP deficit and a fall in money supply 
+via a reduction in the stock of foreign exchange reserves.  
+In this context you should note that the central bank often uses a policy of 
+sterilization to offset the impact of a change in foreign exchange reserves on the 
+money supply. This can be done by using open market operations. In particular, 
+central banks often use foreign exchange reserves for intervention in the foreign 
+exchange market. Suppose the RBI intervenes to buy dollars (in order to absorb 
+an excess supply of dollars) against rupees. This would add to its foreign 
+exchange reserves and hence increase money supply. However, the RBI can carry 
+out a sterilized intervention, by simultaneously selling bonds, in an open market 
+operation, to reduce money supply. Thereby the RBI can either fully or partially 

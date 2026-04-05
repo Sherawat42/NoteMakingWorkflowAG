@@ -1,0 +1,164 @@
+--- Page 46 ---
+ 
+46 
+ 
+Traditional Approaches 
+to Macroeconomics 
+3.  In a two-sector economy (with only households and firms), the 
+consumption function is given by C = 10 + 0.75 Y and I = 20.  
+(i) Derive the saving function. 
+(ii) Derive equilibrium output in terms of the equality of planned saving 
+and investment. 
+(iii) Suppose there is an increase in the desire to save while planned 
+investment remains unchanged. The new saving function is given by        
+S = – 8 + 0.25 Y. Find out the new equilibrium income level. 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+2.5 LIQUIDITY PREFERENCE  
+To complete our understanding of the Keynesian model we have to discuss the 
+concept of ‘liquidity preference’ or the demand for money in this system. An 
+important contribution of Keynes was to point out the interest sensitivity of the 
+demand for money. Note that demand for money refers to the demand for ‘real 
+balances’, i.e., nominal money demand deflated by the general price level. Since 
+prices are constant in the Keynesian system, any change in money demand is 
+essentially a change in the demand for real balances.  
+2.5.1 Components of Demand for Money  
+There are three main reasons people wish to hold money. The main components 
+of the demand for money are (i) transactions demand, (ii) precautionary demand, 
+and (iii) speculative demand. Let us discuss each of the above.  
+Transaction Demand: People hold cash since it is a medium of exchange and is 
+useful for making transactions. This gives rise to transactions demand for money. 
+You would have noticed that people with higher income tend to hold more 
+money for transactions compared to the poor. So it is assumed that the amount of 
+liquid cash people wish to hold for transactions is directly proportional to their 
+incomes.  
+Precautionary Demand : People wish to hold money as it would be useful in 
+contingencies such as medical emergency, accident, etc. It is reasonable to 
+assume that precautionary demand for money is also an increasing function of 
+income.  
+Speculative Demand:  According to Keynes, people also hold money for 
+speculation in the asset market, which gives rise to speculative demand for 
+money. To understand why speculative demand for money is sensitive to the rate 
+of interest, consider an economy where there are only two types of financial 
+
+
+--- Page 47 ---
+ 
+47 
+ 
+The Keynesian Model assets – money and bonds. Money is useful for transactions, but it yields no 
+returns, while bonds offer interest income and possibility of making capital gains 
+when bond prices rise. There is an inverse relation between the price of bonds 
+and rate of interest. Now consider the effect of change in interest rate on 
+speculative demand for money. When interest rate is high, people will mostly 
+expect it to fall and expect bond prices to rise. Therefore, they would reduce 
+money holdings and buy bonds in the expectation of making a capital gain. So, at 
+high rates of interest, demand for money would be low. Conversely, at low rates 
+of interest, people expect interest rates to rise (i.e., fall in bond prices). Capital 
+loss would induce people to sell bonds and increase the demand for money. 
+Therefore, speculative demand for money is inversely related to the rate of 
+interest. 
+In general, the higher the market rate of interest, the higher is the opportunity 
+cost (interest income forgone) of holding money. So when interest rates rise, 
+people would reduce money demand and try to hold interest-bearing assets 
+instead which explains the inverse relation between interest rates and the demand 
+for money. This is another way of understanding the inverse relation between 
+money demand and interest rates, without assuming the presence of speculative 
+demand.  
+From our discussion above, you should see that the money demand function can 
+be expressed as follows:  
+L = q Y – t.i          … (2.15)  
+where q > 0, t > 0; L is the demand for real balances, Y is aggregate income and i 
+is the rate of interest. Diagrammatically the money demand function can be 
+shown as a downward sloping line in Fig. 2.10, where interest rate is presented 
+along the vertical axis and money demand is along the horizontal axis.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.10: Demand for Money 
+i 
+ቀMୱ
+pൗ ቁ
+଴
+ 
+L(Y0) = -qY0 -ti dY 
+i0 
+i1 
+ 
+L, ቀMୱ
+pൗ ቁ  ቀMୱ
+pൗ ቁ
+ଵ
+ 
+
+
+--- Page 48 ---
+ 
+48 
+ 
+Traditional Approaches 
+to Macroeconomics 
+Note that the money demand function L(Y 0) represents demand for money at the 
+income levelY 0. Movement along L(Y 0) demonstrates the interest sensitivity of 
+the money demand function. As interest rate falls from i 0 to i1, there is an increase 
+in the demand for money due to speculative demand for money, as discussed 
+above. For all income levels, demand for money greater than Y 0 would be higher 
+at each interest rate (since transactions and precautionary demands for money 
+increase with income), and the money demand curve would shift to the right. For 
+incomes lower than Y 0, money demand would be lower at each interest rate and 
+the money demand curve would shift to the left.  
+Money supply is determined by the central bank of the country (you will learn 
+more about it in subsequent Units) and is given by the vertical line M s/ P, where 
+Ms is nominal money supply, P is the price level and M s/ P is the real money 
+supply. Equilibrium in the money market occurs at the intersection of money 
+supply and money demand. Note that with the downward sloping money demand 
+function, an increase in money supply (from (M s/P)0 to(M s/P)1) brings about a 
+reduction in the rate of interest (from i0 to i1). 
+2.5.2 Liquidity Trap 
+A special situation can arise if interest rates become unusually low and hit the 
+lowest possible level, so that the demand for money becomes infinitely elastic 
+and the economy faces a ‘liquidity trap’. This can happen when interest rates 
+have fallen so low (and bond prices have risen so high) that everyone expects 
+interest rates to rise (and bond prices to fall). Therefore no one wants to hold 
+bonds, in fear of making a capital loss and everyone wants to hold money. In this 
+situation, the money demand curve becomes horizontal as presented in Fig. 2.11 
+and t in equation (2.16) tends to infinity.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.11: Liquidity Trap 
+ቀMୱ
+pൗ ቁ
+଴
+ 
+i 
+ 
+L, ቀMୱ
+pൗ ቁ  
+ 
+ቀMୱ
+pൗ ቁ
+ଵ
+ 
+i* L 

@@ -1,0 +1,119 @@
+--- Page 91 ---
+ 
+91 
+ 
+Open Economy 
+Macroeconomics-II 
+In fact the above discussion indicatesthat money supply becomes endogenous 
+with fixed exchange rates and perfect capital mobility, in the sense that it 
+passively adjusts to changes in the foreign exchange reserves as the central bank 
+intervenes in foreign currency markets to defend the fixed parity. That is, since 
+the central bank wants to hold the exchange rate constant, it has to intervene to 
+keep the exchange rate from depreciating or appreciating, so foreign exchange 
+reserves and hence money supply adjusts accordingly.  
+Our discussion also highlights the fact that it is impossible to simultaneously 
+have the following three features in a single policy regime, viz.: (a) perfect 
+capital mobility; (b) independent monetary policy; and (c) fixed exchange rates. 
+This is also known as the ‘ policy trilemma ’.  In the presence of perfect capital 
+mobilityand fixed exchange rates, money supply becomes endogenous and the 
+Central Bank’s attempt to pursue an independent monetary policy isnot 
+effectiveasthe Central Bank is committed to maintaining a fixed parity. Whereas, 
+in the case of flexible exchange rates, perfect capital mobility and independent 
+monetary policy do indeed go together, as we saw that monetary policy is very 
+effective in this case. Countries may adopt fixed exchange rates and yet retain 
+monetary policy independence only with restrictions on international capital 
+flows, i.e., in the absence of perfect capital mobility. In this case, interest rate 
+differentials between countries would persist owing to restrictions on capital 
+mobility.   
+Check Your Progress 2 
+1. What is the effect of fiscal contraction (cut in tax rate) on output and interest 
+ rates in an open economy with perfect capital mobility under fixed 
+ exchange rate? 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+2. Comment on the effectiveness of fiscal policy in open economies in light of 
+ your answer toquestion 1 above.  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+
+
+--- Page 92 ---
+ 
+92 
+ 
+Traditional Approches 
+to Macroeconomics 
+3. (a) What is the effect of monetary contraction (sale of bonds by central bank) 
+ on output and interest rate in an open economy with perfect capital 
+ mobility under (i) fixed exchange rates, and (ii) flexible exchange rates? 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ ..............................................................................................................................
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ (b) Explain the concept of ‘endogeneity’ of money supply.  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ ..............................................................................................................................
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ (c) Comment on the effectiveness of monetary policy in open economies in 
+ light of your answer in part (a) above.  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ ..............................................................................................................................
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+4. Use the open economy IS-LM model to explain the concept of ‘policy 
+ trilemma’.  
+ .............................................................................................................................. 
+ ..............................................................................................................................
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+5.5 LET US SUM UP 
+In this Unit we discussed the open economy IS-LM model wherein we saw that 
+international trade affects aggregate demand in an economy, while capital flows 
+play an important role in shaping policy outcomes through their impact on 
+interest rates, exchange rates and money supply. In particular we saw that with 
+fixed exchange rates and perfect capital mobility, money supply becomes 
+endogenous, i.e., countries cannot conduct independent monetary policy. Fiscal 
+
+
+--- Page 93 ---
+ 
+93 
+ 
+Open Economy 
+Macroeconomics-II 
+policy is an effective policy tool when the exchange rate is fixed; however, with 
+flexible exchange rates and perfect capital mobility, fiscal expansion becomes 
+ineffective as it has no effect on output and leads to a worsening of the trade 
+balance. Finally, the effectiveness of monetary policy under flexible exchange 
+rates demonstrates that countries can have at most any two of the three policy 
+choices of having independent monetary policy, fixed exchange rates and perfect 
+capital mobility.  
+5.6 ANSWER/HINTS TO CHECK YOUR PROGRESS 
+EXERCISES 
+Check Your Progress 1 
+1) Refer to Sub-section 5.3.1 and Fig. 5.3. 
+2)  Refer to Sub-section 5.3.1. 
+3) Refer to Sub-sections 5.2.2 and 5.2.3 and Fig. 5.1 
+Check Your Progress 2 
+1)   Refer to Sub-section 5.4.1 and Fig. 5.4. 
+2)  Refer to Sub-section 5.4.1 and Fig. 5.4. 
+3) a)  Refer to Sub-section 5.3.2 and 5.4.2, and Fig. 5.3 and Fig. 5.5. 
+    b)  Refer to Sub-section 5.4.2, and Fig. 5.5. 
+    c)  Refer to Sub-sections 5.3.2 and 5.4.2, and Fig. 5.3 and Fig. 5.5. 
+4)   Refer to Sub-section 5.4.2.  
+ 
+  
+ 

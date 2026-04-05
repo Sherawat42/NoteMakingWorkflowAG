@@ -1,0 +1,153 @@
+--- Page 22 ---
+ 
+22 
+ 
+Traditional Approaches 
+to Macroeconomics 
+exceeds labour supply. According to classical theory, this causes the nominal 
+wage rate to increase to W 1 (in equal proportion to the increase in price level) 
+such that the original level of real wage is maintained (that is, W 1/P1 = W 0/P0). 
+Thus, there is no change in the equilibrium level of employment N F. (See panel 
+(a) of Fig. 1.5). At the earlier wage rate and employment level, the real output is 
+not affected, as seen in panel (b) of Fig. 1.5. To conclude, when there is an 
+expansion of money supply, the nominal wage rate and price level increase 
+without affecting the levels of real wage, employment and output. Such 
+independence of real economic variables from changes in money supply is called 
+neutrality of money. 
+There is a crucial limitation to the neutrality of money. It is a basic result derived 
+from the full-employment equilibrium that is based on the full flexibility of 
+prices. If increase in money supply (resulting in higher prices) had no real effects, 
+then inflation would not have been a serious concern in an economy. Inflation, 
+however, is a serious problem as has many adverse effects such as decrease in 
+quality of life of people, decrease in economic growth, etc. Thus, measures are 
+taken to control inflation and maintain price stability in an economy. 
+1.4.3 Saving-Investment Equilibrium  
+You should note that classical theory emphasized on the function of money that it 
+is a medium of exchange. According to the classical school money is demanded 
+for transaction purposes only. Hence, supply of and demand for money in the 
+classical theory do not determine the equilibrium rate of interest. An increase in 
+the quantity of money does not affect the real rate of interest. Thus, there is no 
+change in the level of saving and investment (see, Fig. 1.6). This shows that 
+when money supply rise, it does not disturb the capital market equilibrium (or 
+saving-investment equality) and the level of full-employment equilibrium 
+remains unchanged. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1.6: Capital Market Equilibrium  
+𝐼ᇱ 
+Y
+X 
+Real  Interest Rate 
+O Saving and Investment 
+I 
+S 
+S 
+𝑆ᇱ 
+𝑆ᇱ 
+I 
+𝐼ᇱ 
+
+
+--- Page 23 ---
+ 
+23 
+ 
+The Classical    
+Approach 
+An increase in money supply will lead to an increase in prices. Due to the higher 
+prices, nominal investment expenditure will increase. However, according to 
+classical theory, such increase will be proportional to the increase in prices. 
+Therefore, investment expenditure in real terms will not change. This is 
+explained diagrammatically in Fig. 1.6. We measure real interest rate on the y-
+axis and nominal value of saving-invest on the x-axis. The increase in money 
+supply causes the supply curve of nominal saving to shift downward to the right 
+from SS to 𝑆′𝑆′. Simultaneously, the investment demand curve will shift upward 
+from II to 𝐼′𝐼′ by the same amount. It implies that the interaction of 𝑆′𝑆′ and 𝐼′𝐼′ 
+determines the interest rate without affecting real saving and real investment at 
+the higher price level too. 
+1.5  LONG RUN VS. SHORT RUN 
+In general, supply and demand fluctuate for various reasons, which affects the 
+level of output. There is considerable difference between short-run and long-run 
+fluctuations in output. Most economists believe that the behavior of processes is 
+different between the short run and the long run. In the long run, prices are 
+flexible, which may be affected by changes in supply or demand. In the short run, 
+most of the prices are "sticky’’ at the pre-determined level. As the behaviour of 
+prices in the short run is different from that in the long run, the effects of 
+economic events and policies vary over different time horizons. Classical theory 
+is considered to be applicable in the long run. In the short run, we may need a 
+different analytical framework. In Unit 2 we discuss the Keynesian model, which 
+is more applicable in the short run.  
+Let us explain the price behavior in both the short-run and long-run in Fig. 1.7. 
+Aggregate supply is the total amount of goods and services that firms sell in an 
+economy. Aggregate demand is the total quantity of goods and services that are 
+purchased. In a standard AS-AD model, output (Y) is presented on the X-axis 
+and price (P) is on the Y-axis. The long run aggregate supply curve ( 𝐴𝑆௅ோ ), 
+which denotes the potential output (full employment output) of the economy is 
+given by a vertical line at 𝑌∗. The short-run supply curve is upward sloping 
+(𝐴𝑆଴ ). The interaction of supply and demand determines the equilibrium level of 
+output (𝑌଴ ). In the short run, an outward shift in the supply curve (from 𝐴𝑆଴  to 
+𝐴𝑆ଵ ) results in rising output (from 𝑌଴  to 𝑌ଵ ) and falling prices (from 𝑃଴  to 𝑃ଵ ). An 
+outward shift in the AD curve (from 𝐴𝐷଴  to 𝐴𝐷ଵ ) also results in rising output 
+(from 𝑌଴  to 𝑌ଶ ) but rising prices (from 𝑃଴  to 𝑃ଶ ).  
+ 
+
+
+--- Page 24 ---
+ 
+24 
+ 
+Traditional Approaches 
+to Macroeconomics  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1.7: Determination of Prices in the Long-Run and Short-Run  
+Let us look into certain other situations. Short-run fluctuations in nominal 
+variables usually result in a change in the output level, as macroeconomic 
+variables not fully flexible. An increase in money supply, for example, will shift 
+the AD curve to the right (i.e., aggregate demand will increase). This will 
+increase prices and income. In contrast, a decrease in money supply will result in 
+a shift in the AD curve to the left, which will decrease both prices and income. 
+According to the classical theory an increase in money supply leads to increased 
+prices without affecting the real output. This may be applicable in the long run, 
+not in the short run.  
+Check Your Progress 3 
+ 1)  What is meant by classical dichotomy?  
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+ 
+P1 
+ 
+ 
+P 
+Y 𝑌∗ Y1 Y2 Y0 
+ASLR 
+AS0 
+AS1 
+AD1 
+AD0 
