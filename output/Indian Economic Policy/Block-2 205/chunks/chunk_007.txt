@@ -1,0 +1,136 @@
+--- Page 19 ---
+155
+State and Market: Indian
+Context6.6.2 Particular Areas
+One can well see that there are suggested areas of market intervention– whether
+regulation or promotion, in the Seventh Schedule under Art 246 that delineates
+subject-matter of laws to be made by Parliament and by the Legislatures of States.
+List I (Union List) roughly enumerate them generally under entries 22 through
+61, List II (State List) does so under entries 13 through 32, and List III (Concurrent
+List) lists them under 20 through 38. Many other entries also have relevance for
+market intervention while some of the entries noted above may not strictly be
+related with market intervention. Generally, there is separation in intervention
+between the two level of governments, Union and State. But there may be areas
+where Union and States are dealing with separate aspects of the same area, like
+mining or industry or communication. There may be an area where both the
+governments are competent to legislate, like electricity, but if there is conflict
+then the Parliamentary Act shall prevail over the Legislative ones. For rough
+mapping of entries of three lists across sectors, see the Appendix.
+It may be noted that market intervention here means influencing production,
+consumption, and transportation as well as price, quantity, and quality. It should
+be noted that we have avoided mentioning fiscal and monetary instruments as
+they indirectly influence the market except those fiscal instruments which may
+be called sin taxes.
+State intervention can be broadly classified as establishment, development, and
+welfare in economic matters. Development and welfare functions can be partly
+effected through intervention in market functions– sometimes to promote
+efficiency but at others to promote equity. However, any efficiency measure will
+have implications for equity and vice versa.
+Check Your Progress 5
+1) Which article of the Constitution of India specifically suggest that State has
+power to intervene in market?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Where are listed areas of legislative intervention in the Constitution of India
+for Union and the States?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 20 ---
+156
+Development Strategies 3) What is the significance of the Concurrent List in the Constitution of India?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+6.7 STATE INTERVENTION AND STATE
+INTERFERENCE
+There is a subtle difference between intervention and interference. Intervention
+is welcome move by a third party to resolve an issue between two parties, to
+improve the outcome. Interference is a move that is often resisted, not welcome,
+by the party which finds it disruptive, making outcome worse.  Intervention is
+considered a positive move while interference is a negative one. What if a move
+by the State is welcome by one party and rued by the other?
+State may not always be right. It is quite possible that State is unnecessarily
+intervening without good reasons. It is also possible that a State intervention
+may continue beyond the time it is needed. It is possible that it might become
+excessive and found to become interference. It is also possible that government
+has not well understood the situation and may have unnecessarily intervened.
+Something considered good in 1950s might not be needed in 2000s, suggesting
+that such moves have outlived their utility. There may be generational shift or
+ideological shift about the role of State. Their continuance might have
+counterproductive. Yet, a party may be gaining at the cost of another or the country
+as a whole.
+It may be pointed that 1500 Parliamentary Acts that were found archaic, were
+repealed in recent years– quite a few of them were economic, impinging upon
+market functioning.
+In India, we often discuss the movement from LPQ (License, Permit and Quota)
+raj to LPG (Liberalisation, Privatisation and Globalisation) regime. Reforms of
+1950s are said to have been relevant during that period. Reforms of 1990s are
+currently continuing in the same direction. For example, liberalisation means
+removal of restrictions. So, restrictions are being removed gradually.
+There may be several reasons for unnecessary intervention. One of them is rent-
+seeking nature of politicians and bureaucracy. Another is regulatory capture by
+industrial biggies whereby regulators get willingly captured by private interests.
+Still another is pursuit of self-interest by regulators. Similarly, often electorate
+demand, or political objectives of a ruling party may not be very rational or in
+the larger interest of the country. There are several others. Scholars of late have
+asserted that there exists what one can call government failure.
+
+
+--- Page 21 ---
+157
+State and Market: Indian
+Context6.8 LET US SUM UP
+State is perhaps the most important institution humans have evolved to sustain
+social living and resolve conflicts that may arise in societal affairs. Market is
+one of such societal affairs. It intervenes in market in general but also in specific
+markets to influence level of production, level of prices, quality of products or
+standards of service, etc. It devises several instruments as well as institutions
+through which it intervenes. It is to be appreciated that the relationship between
+State and Market has not been the same across space or time in terms of
+dominance, competition and cooperation. Despite a tendency of assertion by
+market, State is called for stabilisation in terms of crises; at other times, market
+seeks its entry through partnership into the development areas that for a long
+time were preserve of the State.
+Neoclassical economists have over time enumerated the reasons as to when and
+where State is called upon to intervene in market for specific goods under the
+assumption that State is most efficacious institution to improve the outcomes.
+Microeconomic interventions can be undertaken for both purposes– improving
+efficiency and enhancing equity.
+Efficiency interventions generally try to improve welfare (the sum total of
+producer surplus and consumer surplus and, if relevant, government revenue)
+and decrease deadweight loss which may be caused by imperfection in
+competition or presence of externalities. If the operation of a factor market results
+in further deterioration in the extant inequality, State may intervene to ameliorate
+the worsening of inequality. There are other interventions directly hitting at
+distribution but, in this unit, focus has been on those interventions which directly
+relate to specific markets.
+The unit has also broadly touched the direction for intervention in market generally
+and specific markets through legislation as suggested in the Constitution of India
+which divides the areas of legislation between the Union and the States. It also
+hints that State may not always be right in intervening or choosing right kind of
+institution and instrument.
+6.9 TERM- END EXERCISES
+1) What do you mean by market failure? What factors can cause a market
+failure?
+2) What do you mean by State or Government intervention? What does an
+intervention try to impact?
+3) Explain neoclassical arguments favouring State intervention in specific
+market.
+4) Show how a factor market may be efficient but not just.
+5) Explain the significance of Article 39 (b) of the Constitution of India from
+the angle of market failure and government intervention.
+6.10 KEY WORDS
+Demerit Goods : Goods that consumers may like but are actually harmful
+though they do not appreciate it and therefore their

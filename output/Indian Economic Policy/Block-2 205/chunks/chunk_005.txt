@@ -1,0 +1,143 @@
+--- Page 13 ---
+149
+State and Market: Indian
+Context
+almost zero, it may not be necessary to price them. But its supply does cost, say
+in terms of high fixed cost, it is suggested that it should be public funded. Then,
+there exists problem of free-ridership as true preferences for such goods may not
+get revealed.
+Public goods are goods which are non-rival in consumption and non-excludable
+from consumption whereas private goods which are both rival and excludable.
+However, it is not true that all goods in existence can be categorised in these two
+mutually exclusive groups. Goods may be non-rival but still excludable. Few
+more students may be accommodated in the class as marginal cost of teaching
+them is zero and consumption is non-rival up to a limit when the class size becomes
+too large for effective learning to take place. Such goods are often called club
+goods. There are goods, such as fishing in international water, where fishers are
+non-excludable, but extraction of fish is rival: more for me and less for you or
+more today and less tomorrow. So may be the case with oil extraction from two
+nearby wells with common stock underground. Such goods are often referred to
+as commons or common goods. Club goods and common goods are also referred
+to as quasi-public goods or semi-public goods.
+For pure private goods, equilibrium condition MSC = MB
+A= MBB where A and
+B are two consumers, decides the quantum of good that would be produced
+while in case of pure public goods, equilibrium condition MSC = MB A+ MBB
+should decide that quantum. In the case of a private good, marginal benefit curves
+are horizontally added while in the case of public good, they have to be vertically
+added. Needless to say, market may not produce any such good. State is therefore
+called for, for production of public goods.
+We may further note that (1) public goods may be national or local or global
+depending upon their area of outreach and (2) there also exist public bads (global,
+national and local), like variety of pollutions, which have to be reduced or removed
+by the State.
+6.4.3 Externalities
+Most activities related to production of goods, and some involving consumption
+of goods, also produce bads, which impact others, called third parties– as they
+are neither producer (first party) nor consumers (second party) who benefit from
+production of the good. This phenomenon is known as externalities. Sugar or
+textile or leather factories produce effluents which find way into local water
+streams impacting those living nearby or depending on them for water. People
+living in the vicinity suffer from the polluted streams in terms of health hazards
+and incur expenditure on protection or medical treatment. Some of the production
+activities do produce benefits which accrue to those who do not pay for those
+benefits. A classic example is beekeeping. While collecting nectar bees pollinate
+the trees in the orchard. Free software or basic education are treated in the same
+category. Thus, we see externalities are negative or positive. The short point is
+that social cost or social benefit diverge from their private counterpart. Third
+party cost/benefits are also known as external cost/external benefit (EC/EB).
+Generally, marginal equilibrium conditions are written as:
+
+
+--- Page 14 ---
+150
+Development Strategies For Negative Externality: MSC = MC (MPEC) + MEC while MR=MSB
+For Positive Externality: MSB = MR (MPEB) + MEB while MC=MSC
+where Marginal Private Economic Cost (MPEC) represents marginal cost and
+Marginal Private Economic Benefit (MPEB), marginal revenue. MEC and MEB
+are Marginal External Cost borne and Marginal External Benefit enjoyed by a
+third party. Since private parties tend to equate marginal (private) cost with
+marginal (private) benefit, quantum produced may not be socially efficient. While
+focusing on negative externalities, it was argued by Pigou to adopt ‘polluter
+pays’ principle. The suggestion is externalities should be internalised. Since then,
+many other suggestions have been offered. Allocation of tradable pollution permits
+is one. Subsidisation sought by private parties to adopt technologies to help reduce
+pollution is another. Coase had argued for assignment of property rights and
+private negotiation, but negotiation need to be enforced by State. So, State
+intervention is needed in such cases as well.
+6.4.4 Monopoly Power
+When there is only one producer, monopoly is obvious but monopoly power in
+terms of fixing price is not that obvious. A monopolist dealing in a commodity
+with an inelastic demand has higher monopoly power than one who is dealing in
+a commodity with an elastic demand. Elasticity of the demand curve faced by a
+firm depends on the number of firms in the market as also on substitutes (implying
+cross elasticity). Oligopolistic and monopolistically competitive firms have thus
+also some monopoly power. Thus, there is a degree of monopoly with firms not
+in a fully competitive market. Since for a firm in a fully competitive market,
+price is equal to marginal cost (P=MC), the divergence between the two, that is
+excess of P over MC, will determine the monopoly power. Lerner devised an
+index with formula as
+Degree of Monopoly Power = (P– MC)/P,
+which is zero when P=MC and 1 when marginal cost is zero. Since MC is equal
+to MR in equilibrium and MR=P(1- (1/e) where e is the measure of elasticity, the
+degree of monopoly can be shown to be equal to 1/e.  Monopoly power is inverse
+of the elasticity of demand.
+There may be good reason to permit monopolies in certain cases. Like in natural
+monopolies, it benefits the society to harness potential of a technology in terms
+of economies of scale. However, if producers are few or if a producer controls a
+good proportion of market, they enjoy market power, which manifests in the
+form of goods offered at a higher prices. In both cases, State is invited to intervene
+by regulating prices in addition to quantity and quality so that social outcomes
+are optimum. Monopoly restricting laws have been enacted in most countries.
+Competition Commissions are also instituted by the governments in many
+countries, including in India, to oversee that market power or market dominance
+is not misused to the disadvantage of consumers.
+6.4.5 Information Asymmetries
+One of the basic assumptions behind perfect competition is prevalence of full
+and complete knowledge among buyers and sellers of goods, which is hardly
+
+
+--- Page 15 ---
+151
+State and Market: Indian
+Context
+ever the case in reality. With growing economic complexities, though knowledge
+has increased, so has ignorance or lack of adequate information to make good
+economic decisions. There is another aspect, information is often asymmetric
+between the two parties that may be involved in pursuing a transaction. State
+tries to reduce this asymmetry. There are acts and institutions setting quality
+standards  to take care of– safety in case food articles, quality in case of metals,
+control of pollution, etc. Samuelson quotes the case of Eben Byers who was a
+steel mogul in the US. He took drug Radithor sold as an aphrodisiac and cure-all
+to relieve himself from his ailments. Byers died from its consumption. Later on,
+it was discovered that Radithor was distilled water laced with radium. State has
+a role in addressing such informational deficiencies.
+6.4.6 Merit and Demerit Goods
+There are often goods demanded by some people that may not be considered
+desirable by the society. State as an important pillar  of society is expected to
+encourage consumption of merit goods. For example, children may not value
+education and its demand may be low. Competitive market may produce very
+little education to meet the needs of everyone. State encourages its consumption
+by subsidising it or making it free of tuition fee. Inoculation, immunisation,
+vaccination, sponsorship of cultural festivals may all fall in that category.
+Similarly, there may be goods such as intoxicating drugs tobacco, cigarettes or
+alcohol, the consumption of which a State may want to discourage. State could
+discourage consumption through several ways including imposing heavy taxes,
+restricting or banning the production. Some States in India have prohibited the
+consumption of alcohol or tobacco. At the moment, Gujarat and Bihar have banned
+production, imports and consumption of alcohol, while Haryana has lifted the
+ban imposed earlier.
+Check Your Progress 3
+1) What are the reasons for State interventions in specific markets?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Explain the rationale of State intervention in the market on account of
+externalities in production and consumption.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................

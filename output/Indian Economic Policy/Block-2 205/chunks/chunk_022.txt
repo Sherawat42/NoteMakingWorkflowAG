@@ -1,0 +1,155 @@
+--- Page 64 ---
+200
+Development Strategies 3) Describe the challenges and how to go forward with PPP in India?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+8.11 INSOLVENCY AND BANKRUPTCY CODE
+(IBC)
+India’s financial distress resolution mechanism is broken. Companies that fall
+into hard times spend six or eight years trying to resolve the situation. Banks are
+saddled with massive amounts of non-performing loans that are a drain on their
+resources and also affect their willingness to lend to new and deserving projects.
+Ultimately, the honest and successful companies and individuals that borrow
+from the banks pay for these inefficiencies in terms of higher interest rates. Over
+the past 20 years, there have been a number of attempts to reform India’s
+insolvency regime. None of them have been fully effective. While one can find a
+number of specific reasons for their failure, the one overarching reason (at least
+in the case of laws) is the lack of legal infrastructure to effectively implement the
+laws. Our courts are overburdened, understaffed, and lack basic physical
+infrastructure.
+In late
+ 
+2014, Ministry of Finance  
+setup 
+the 
+Bankruptcy L
+egislative 
+Reforms
+Committee (BLRC), under the chairmanship of Dr T K Viswanathan (former
+Union law secretary), with the objective of building a full-fledged bankruptcy
+code. Based on the committee’s recommendations, the government introduced
+the “Insolvency and Bankruptcy Code”. After half-a-century of efforts and nine
+committees,
+ in
+solvency in I
+ndia has become easier. The IBC 2016, addresses all
+these endeavours to prevent insolvency, provides a market determined and time-
+bound mechanism for resolution of insolvency, wherever possible, along with
+facilitators for quick and effective resolution, and promotes ease of exit, wherever
+required.
+In this context, it is well to remember that the economy witnessed freedom of
+entry in the 1990s and freedom to compete in the 2000s. The IBC Code of 2016
+provides the ultimate economic freedom, freedom to exit, and a mechanism to
+address honest business failures..
+18.12  CONCEPT AND IMPORTANCE OF IBC
+Bankruptcy is a legal status usually imposed by a Court, on a firm or individual
+unable to meet debt obligations. As all businesses cannot succeed, it is perfectly
+normal for some businesses to fail, making it important to emphasise on corrective
+action. India’s new Bankruptcy Code– “Insolvency and Bankruptcy Code, 2016”
+attempts to create a formal insolvency resolution process (IRP) for businesses,
+either by coming up with a viable survival mechanism or by ensuring their speedy
+liquidation. The code makes a clear distinction between insolvency and
+bankruptcy. The former is a short-term inability to meet liabilities during the
+
+
+--- Page 65 ---
+201
+Major Developments in Post
+Economic Reform Period
+normal course of business. The latter is a longer-term view on the business. The
+code envisages a new regulator– the Insolvency and Bankruptcy Board of India.
+The implementation of the IBC has been one of the most important reforms in
+recent years. Banks and other creditors can now take the defaulting company to
+the National Company Law Tribunal to initiate insolvency proceedings. There is
+now a real chance that promoters can lose control and are no longer in a position
+to take creditors for a ride.
+8.12.1 Objectives of IBC
+The objectives of IBC are:
+i) to promote entrepreneurship,
+ii) availability of credit,
+iii) balancing interests of all stakeholders by consolidating and amending laws
+relating to reorganisation and insolvency resolution of corporate persons,
+partnership firms and individuals in a time bound manner and for
+maximisation of value of assets of such persons and matters connected
+therewith or incidental thereto.
+iv) to simplify and expedite the Insolvency and Bankruptcy Proceedings in India.
+v) to protect the interest of creditors including stakeholders in a company.
+8.12.2   The Insolvency and Bankruptcy Code Ecosystem
+Following are the components of IBC ecosystem:
+i) National Company Law Tribunal (NCL T) – The adjudicating authority (AA),
+has jurisdiction over companies, other limited liability entities.
+ii) Debt Recovery Tribunal (DRT) has jurisdiction over individuals and
+partnership firms other than Limited Liability Partnerships.
+iii) The Insolvency and Bankruptcy Board of India (IBBI) – apex body for
+promoting transparency and governance in the administration of the IBC;
+will be involved in setting up the infrastructure and accrediting IPs
+(Insolvency Professionals (IPs) & IUs (Information Utilities).
+iv) It has 10 members from
+ Minis
+try of F
+inance, Law, and RBI.
+v) Information Utilities (IUs) – a centralised repository of financial and credit
+information of borrowers; would accept, store, authenticate and provide
+access to financial data provided by creditors.
+vi) IPs- persons enrolled with IPA (Insolvency professional agency (IPA) and
+regulated by Board and IPA will conduct resolution process; it will act as
+Liquidator/ bankruptcy trustee; they are appointed by creditors and override
+the powers of the board of directors.
+vii) IPs have the power to furnish performance bonds equal to assets of the
+company under insolvency resolutions
+viii) Adjudicating authority (AA) – would be the NCL T for corporate insolvency;
+to entertain or dispose of any insolvency application, approve/ reject
+resolution plans, decide in respect of claims or matters of law/ facts thereof.
+
+
+--- Page 66 ---
+202
+Development Strategies 8.12.3   Salient Features of IBC
+The following are the salient features of the IBC:
+i) IBC proposes a paradigm shift from the existing “debtor in possession” to a
+“creditor in control” regime. An impartial law respecting rights of all creditors
+by acknowledging that all classes of creditors to play a vital role in the
+insolvency process. However, the ‘secured lenders’ will have significant
+influence over the reorganisation process.
+ii) The code aims to resolve insolvencies in a strict time-bound manner – the
+evaluation and viability determination must be completed within 180 days.
+Moratorium period of 180 days (extendable up to 270 days) for the Company.
+For start-ups and small
+ c
+ompanies t
+he resolution time period is 90 days which
+can be extended by 45 days.
+iii) Introduce a qualified insolvency professional (IP) as intermediaries to oversee
+the Process. Insolvency professionals will assist in the resolution, liquidation
+and bankruptcy proceedings envisaged in the code. This will help in
+preserving value and time.
+iv) Provides for the setting up of “Insolvency and Bankruptcy Board of India”
+(IBBI) to regulate professionals/agencies dealing with insolvency and
+informational utilities.
+v) Emphasis on symmetry of information between creditors and debtors by
+ensuring availability and access to essential information to all creditors by
+setting up of Information Utilities as a depository of financial information.
+vi) The code allows the corporate debtor itself to initiate the insolvency–
+resolution process once it has defaulted on a debt. Also, operational creditors
+(including the Centre, State governments and local authorities) are permitted
+to initiate the resolution process.
+The Code has a clear-cut grievance resolution mechanism for various stakeholders
+involved in insolvency resolution. Only the National Company Law Tribunal
+(NCLT), National Company Law Appellate Tribunal (NCLAT) and the Supreme
+Court have the jurisdiction to deal with any appeal concerning the Code. At its
+heart, it suggests a commercial resolution without burdening the courts
+excessively. It would result in a better business environment and ease in debt
+rising.
+8.12.4 Working of IBC
+The law heralds a new era in how India’s economy resolves bad debts and
+inconsistent treatment in resolving cases. The threat of IBC is forcing debtors to
+pay up, as operational creditors have recovered more than Rs. 1 lakh crore even
+before their insolvency applications were admitted by NCLTs.
+“In over three years of the Insolvency and Bankruptcy Code, the number of
+bankrupt companies liquidated under the regime has far exceeded the number of
+corporate resolutions, by nearly four times. According to the data released by the
+Insolvency and Bankruptcy Board of India (IBBI), while 156 of the cases admitted
+under the Corporate Insolvency Resolution Process (CIRP) have been resolved

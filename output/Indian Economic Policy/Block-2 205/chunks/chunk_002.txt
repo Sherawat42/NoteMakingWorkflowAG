@@ -1,0 +1,150 @@
+--- Page 4 ---
+140
+Development Strategies
+ identify different forms/instruments of State intervention;
+delineate the neoclassical rationale for State intervention in Market for
+efficiency;
+discuss the rationale for State intervention in Market for equity;
+explain State intervention mandated in the Constitution of India; and
+distinguish between intervention and interference.
+6.1 INTRODUCTION
+Political economy as evolved in the last few centuries in the West, dealt with the
+role of State in relation to economic affairs– both of public nature and private
+nature. As managing the State paraphernalia and making it help run the economy
+needed resources, fiscal operations of finding ways of mobilising resources and
+expending them had been an important aspect of a State’s economic activities.
+With evolving complexities, monetary operations were generally parted from
+treasury functions of the government and entrusted with an independent and
+specialised agency, mostly within government domain and invariably under a
+separate law.
+Societies and countries could progress because there were in existence certain
+institutions, which evolved over time practically in all civilised societies with
+variations and at differing pace. A legal framework ensuring existence of private
+property, an inheritance system for some assets and protection of contractual
+obligations has been a ubiquitous feature. It was realised quite early that many
+of resources are consumed in common and there had to be institutions to resolve
+issues should they arise in possession or use of such resources. In State-led
+societies, this task was given to or assumed by the State. State intervened in the
+economy for improving efficiency, enhancing equity, stabilising its activity level
+and balancing tradeoffs when they arose.
+In the context of development, the expressed aspiration of post-war liberating
+colonies, led State in many newly independent countries to assume direct charge
+of running certain industries, besides educational and health facilities, regulating
+several others to seek efficiency and/or equity and promoting still others like
+financial institutions. In part, this was a reflection of the apparent success of the
+planning apparatus in the erstwhile USSR. But the USSR broke up and the
+constituents pursued market-oriented policies– known as perestroika (reforms)
+and glasnost (open-ness).
+Relationship between State and Market across space and time has not been the
+same. So-called capitalism where quality and quantity of state invention distinctly
+differed from so-called socialism but both existed side by side for pretty long
+time. When most countries allowed market better, individual countries and regions
+differed not necessarily in proportion to the level of development. Over time, it
+appears that market dominated state and sought state to be a facilitator rather
+than a competitor by devising such formal institutions and designing them in
+such a way that market flourish and help the country grow. However, when crises
+struck such as the Great Depression of 1930s, the Great Recession of 2008-09 or
+Covid-19, the market operators sought the help from the State. In other times,
+either market sought or state sought the partnership between private sector and
+public sector in many development arenas which were traditionally taken up in
+
+
+--- Page 5 ---
+141
+State and Market: Indian
+Context
+public sector for a pretty long time. This partnership had to be in terms of sharing
+of resources, risk and revenue. Anyway, there have been swings in the relationship
+between the two, market and state, in terms of domination, competition and
+cooperation. However, the unit, given the limitation of space, would not devote
+much time on this aspect.
+The focus of this unit is on State intervention in individual markets for improving
+both the efficiency and equity of outcomes.  In addition, State plays paternal role
+of encouraging or discouraging consumption of certain goods. It also chooses to
+regulate as well as promote quite a few private activities, including those of
+economic nature. The unit devotes space to discuss the nature of State and market,
+the rationale of State intervention in market for efficiency and equity. It also
+discusses State intervention in the context of India.
+6.2 STATE AND MARKET
+State and market are two great institutions which humans have evolved over
+time, among several others, to resolve inter-personal or inter-group issues in
+people’s life that arise from living together. Both are overarching in their scope.
+Broadly speaking, one is political and the other is economic; but they also seek
+to intervene in each other’s sphere.
+State supposedly evolved to perform watch and ward functions, to defend the
+society from external aggression and internal disturbances while market evolved
+to benefit from voluntary exchange of goods (and services) which was greatly
+facilitated with the invention of money as medium of exchange.
+However, State has often been intervening in, some would argue even meddling
+in, the economic spheres of life. Justifications varies from time to time, giving
+impression that State and market are hand in glove. Property rights and inheritance
+laws as well as people’s entitlements and obligations, which were traditionally
+evolved have been recognised by the State which either accorded sanction or
+tweaked them a little here and there. Nevertheless, formal state institutions always
+alongside informal societal institutions where institutions mean the rules of
+conduct for individuals and other entities to avoid conflicts should they arise.
+Generally, there is a tendency for State to assume greater scope by formalising
+institutions and occasions arise for them.
+6.2.1 State and Government
+It would be pertinent to point out basic difference between State and government
+though they may be used interchangeably. State has four essential elements of
+population, territory, sovereignty, and government. In fact, government works
+for the State as its agent. People are a collectivity of individuals connected
+intractably. Territory belongs to the State over which it has sovereignty and
+jurisdiction; and government is supposed to preserve, protect and defend that
+territory. While State is sovereign, the government is not. In a democracy, it is
+often asserted that people are sovereign as they choose the State, rather the
+government, they would like to be governed by.
+Government keeps coming and going as per rules of the State– best codified in
+the Constitution. While State may appear to be abstract, it is which asserts
+sovereignty of a community of people. All individuals living in the territory,
+
+
+--- Page 6 ---
+142
+Development Strategies except those belonging to foreign States, are members of the State as its citizens.
+In India, there are 130 crore people, with 99.5 per cent being the citizens. While
+a few Indian citizens may be non-resident, few foreign citizens may be residents
+in India. In contrast, government is concrete, visible, and active, and involves a
+subset of people– some as representatives of people and some as employees in
+their service. For example, in India, there are around 545 MPs in the House of
+People, over 4000 MLAs in Stare Assemblies and over 30 lakh members in
+Panchayats and Municipalities, who are direct representatives of the people at
+some level of government.
+Further, the form of government may vary from State to State. Government may
+be monarchial, aristocratic, dictatorship or democracy. It may have a presidential
+form or parliamentary one. It may be federal– with several fixed or flexible
+constituents, or unitary with centralised or decentralised administrative set-up.
+If federal, it may have several levels or tiers of governments. State exists
+independently of the form of government while people may choose the form of
+government.
+However, the word State may have several meanings in popular usage. For
+example, in the Constitution of India, India is a State as well as a Union of
+States. (So is the case of the US.) Modern government normally has three wings,
+legislature, executive and judiciary. But the Constitution of India, for legal
+purposes, defines the State in Art 12, in relation to Fundamental Rights which
+must be adjudicated by Judiciary, as:
+… “the State” includes the Government and Parliament of India and the
+Government and Legislature of each of the States and all local or other authorities
+within the territory of India or under the Government of India.
+Finally, in the context of intervention, phrases State intervention and government
+intervention mean one and the same thing. When, however, it comes to failure,
+the phrase used is government failure– not State failure.
+6.2.2 Market: Meaning and Forms
+It seems, at some point in antiquity, quite possibly in different periods in different
+places, humans realised that voluntary exchange between two humans might
+lead to specialisation– thus to division of labour, and thereby raising production
+levels and thus bettering the possessions of both the exchangers. The same holds
+in inter-societal exchanges which might have been rare in the days when a society
+could still raid on other societies to improve upon its possessions. Once, a society
+is able to produce enough to maintain a regular army, it evolved as a State to
+defend itself against other societies. Rules for conduct of human affairs within a
+society had to be framed. Instruments might have had to be devised. For example,
+money is an instrument to facilitate exchange or transactions in market.
+Size of market depends on the level of specialisation and division of labour, said
+Adam Smith. He is in fact referring to the size of economy in today’s parlance,
+which is generally measured in terms of Gross Value Added (GV A). Another
+connotation, as in microeconomics, is a market for a commodity– good or service,
+or for a factor. Still another connotation is regular market referring to market
+place or periodic market referring to frequency. Nowadays, it may be real or
+virtual!

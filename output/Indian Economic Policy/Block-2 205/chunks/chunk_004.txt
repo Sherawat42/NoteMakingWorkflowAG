@@ -1,0 +1,140 @@
+--- Page 10 ---
+146
+Development Strategies besides arms and ammunition, atomic energy, and minerals, electricity, railways,
+ships, aircrafts, coal, iron and steel, etc. If such industries are in private hands,
+they could be nationalised. The government or its agency, corporation, or
+company, would own, operate, control, and manage all operations related to
+production or disposal of the produce. Now, the circle is moving to the other
+side; instead of nationalisation of private enterprises, privatisation of state
+enterprises is being contemplated and carried out. As of now the move is towards
+public private partnership, if not outright privatisation, divest mentor joint
+ownership and operation.
+6.3.2 Regulation and Control
+There may be another set of industries essential for developing infrastructure or
+essential consumer goods, the government could think of regulating or controlling
+output and/or price. Once, the government compulsorily procured a certain portion
+of food grains at lower prices and thereafter decided to offer support prices in
+case market prices fell below that level. Further, once upon a time it was thought
+textile mills could compete with handloom and khadi which needed to be
+encouraged for employment and, therefore, their output could be controlled.
+License to produce was one of the conditions one had to fulfil before starting
+operations. Many metals, cement, antibiotics, fertilizers, machine tools, sugar,
+road transport, etc. could be put in that category. There was an Act, called Essential
+Commodities Act passed in 1955, which permitted the government to control
+production, supply and distribution of certain commodities like drugs, foodstuffs,
+fertilizers, etc., under certain circumstances. There are several other regulations
+put in place to assure, for example, quality of goods and services. Several agencies
+have now been put in place to certify quality of products by marking as ISI,
+Hallmark, Agmark, Ecomark, BSIV , etc.
+6.3.3 Promotion and Support
+Many industries may need financial support or promotion– say, in export.
+Government creates development finance institutions such as NABARD, SIDBI,
+NHB or EXIM Bank to support industries and trade. It also floats boards and
+councils to promote the interests of specific industries.
+Needless to say, government generally support supply side of market through
+S&T/R&D activities, development of general infrastructure – including clusters,
+estates, market yards and other common facilities. It also supports technical
+education, training for skills, and extension centres.
+6.3.4 Protection
+Certain industries may need protection, besides support, from competition with
+easily substitutable products. There were hundreds of items which were reserved
+for production by small scale industries (micro and small enterprises). Under
+WTO obligations, slowly, protection by reservation has been withdrawn. However,
+there is still Purchase Preference Policy and Price Preference Policy. Under the
+former, government departments are supposed to give preference for products
+from small scale industries and under the latter, they could pay up to 15 per cent
+higher price than the lowest quotation from industry of any scale.
+
+
+--- Page 11 ---
+147
+State and Market: Indian
+Context
+Check Your Progress 2
+1) List the various instruments of specific market interventions.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) List the institutions and modes of State intervention in market.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) Explain the meaning of regulation in the context of intervention in market.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+6.4 STATE INTERVENTION IN MARKET FOR
+EFFICIENCY
+State is supposed to protect life, liberty, and property of the individuals while
+market is about voluntary exchange of properties– though with quite extended
+meaning. It is obvious that State emerged after institution of private property
+had already come into existence. However, according to Marxist literature, State
+and market are said to be in hand-in-glove.
+State is often pressed into service to intervene in the market should its legitimate
+functioning result in socially undesirable consequences. State is also asked to
+intervene in the market if the latter is found to be inadequate or incomplete in
+certain respects. Such a situation is called market failure as it results in higher
+prices and lower quantities compared to efficient operation of market.
+In this section, the rationale of market intervention of State is afforded in terms
+of production and consumption as well as price, quantity, and quality. The purpose
+is to improve efficiency or reducing deadweight loss to the society. Let it be
+clear that these interventions are in white markets which follow all laws of the
+land. It is possible that some interventions may induce parties to go into black or
+conduct illegal operations.
+
+
+--- Page 12 ---
+148
+Development Strategies 6.4.1 Rationale for State Intervention in Market
+Neoclassicals provide for clear-cut price formation in market under the condition
+MR = MC following certain simple assumption. They also highlight instances
+where markets are not functioning efficiently or may not be complete or may not
+exist altogether. They called that market failure or, breakdown of competition.
+Two major sources are (1) existence of externalities with production or
+consumption of private goods and (2) existence of market power or monopoly
+power or imperfect competition. Another source of market failure is (3) existence
+of imperfect and incomplete information. Purists may reduce everything into
+violation of assumptions of perfect competition (an idealised world) while
+practical people recognise existence of the extreme case of externalities as (4)
+existence of public good, as a separate reason. Further, from a society’s perspective
+there are goods which merit consumption and there are goods whose consumption
+ought to be discouraged. For market, on their own may not be able to enforce
+this distinction. So, (5) existence of merit and demerit goods is another reason
+for state intervention.
+In the case of perfect competition, marginal revenue (MR) of the producer, often
+called marginal benefit (MB), is equivalent to marginal social benefit (MSB) as
+there are no spillovers of benefit. So, MR=MB=MSB. Likewise, marginal cost
+(MC) is equivalent to marginal social cost (MSC) as no cost is externalised. So,
+MC=MSC. Usual equilibrium condition of MR=MC (or MB=MC) translates
+into MSB=MSC and thus efficient voluntary exchange ensures efficient social
+outcome. There is neither excess production nor shortage. When there is
+divergence between the two– private and social, this parity breaks down. Market
+will fail to produce socially efficient output or outcome. In such a situation, an
+external intervention in the market is required. For long, it has been suggested in
+neoclassical tradition that the intervention should come from the State. This is
+the rationale for State intervention. We briefly discuss these five instances of
+market failure to produce efficient social outcome, leading to State intervention.
+6.4.2 Public Goods
+There are certain goods which have certain peculiar characteristics such as non-
+rival consumption and non-excludability. Rival consumption means if I consume
+more, then less is available to you. If there is a shirt and if I wear it, it is not
+available to you. If I take away a portion of bread, less is available to you. This
+is true of any private good. But take the case of viewing a serial on TV , my
+viewing does not impact your viewing it. Both of us enjoy together with no
+rivalry. So, is the case with municipality produced street light. Excludability
+means one can be excluded from consumption if one does not fulfil say certain
+conditions to enjoy it. In a market, one who is not paying for the good or paying
+less than the prevailing price, can be excluded. One who is not major may be
+denied purchase of a cigarette pack or a bottle of liquor even though he is willing
+to pay. One may not be enrolled for a Ph.D. if he has not done a Master’s degree.
+However, one may not be denied the consumption of streetlight or security by
+defence forces even when one is not contributing to production of these services.
+There is no way anybody can be excluded from consuming such goods. Either
+the prevalent technology does not permit it or cost of excluding is too high. It is
+often argued that marginal cost of supplying public goods like TV signals is
