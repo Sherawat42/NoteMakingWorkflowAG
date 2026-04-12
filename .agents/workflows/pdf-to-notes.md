@@ -13,10 +13,14 @@ truth — you do not need to read any other file to complete this task.
 ## Before You Begin
 
 ### Inputs required
-Ask the user for these if not provided:
-- Full path to the PDF file
-- Subject name (e.g., `Indian Economic Policy`)
-- Book/block name (e.g., `Block-1 205`)
+You need only the full path to the PDF file. If it wasn't provided, ask for it.
+
+Derive everything else from the path:
+- **Book name** — the PDF filename without its extension
+- **Subject** — the name of the folder that contains the PDF
+
+Example: `/Users/manish/Books/Indian Economics/Block-1 205.pdf`
+→ subject = `Indian Economics`, book name = `Block-1 205`
 
 ### Working directory
 All outputs for this PDF live under one isolated folder:

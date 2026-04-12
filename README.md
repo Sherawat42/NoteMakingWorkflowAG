@@ -1,14 +1,15 @@
 # PDF-to-Notes — Agentic Knowledge Pipeline
 
-A multi-skill pipeline that converts PDF books into high-quality, structured, iteratively refined Markdown notes. Designed for use with **Codex** and **Antigravity** AI agents.
+A multi-skill pipeline that converts PDF books into high-quality, structured, iteratively refined Markdown notes. Designed for use with **Antigravity**, **Gemini**, **Claude**, and any other AI agent.
 
 ## 🧠 What This Does
 
 This is **NOT simple summarization**. It's a structured, multi-pass knowledge extraction pipeline:
 
-1. **Split** — Breaks a PDF into 3-page chunks with text extraction
-2. **Structure** — Creates detailed outlines using a sliding context window
-3. **Content** — Fills outlines with comprehensive, precise content
+1. **Split** — Breaks a PDF into ~10-page chunks with text extraction
+2. **Structure** — Creates detailed outlines using a sliding context window (optional for short docs)
+3. **Content** — Fills outlines with comprehensive, precise content; maintains a running context file across all chunks
+4. **Combine** — Merges chunk notes into `Complete_Notes.md` and `Last_Minute_Revision_Notes.md`
 
 Each pass builds on the previous one, producing incrementally better output.
 
@@ -17,124 +18,109 @@ Each pass builds on the previous one, producing incrementally better output.
 - **Python 3.8+**
 - **pypdf** library:
   ```bash
-  pip install pypdf
+  pip install -r requirements.txt
   ```
 
 ## 🚀 Quick Start
 
-### Option A: Using the Workflow (Recommended)
+> **See [`START_HERE.md`](START_HERE.md) for the exact prompt to give your agent.**
+> That file is for human operators only — do not feed it to the agent as context.
 
-If your agent supports workflows, simply run:
+### Running the Pipeline
+
+Point your agent at the workflow file and it handles everything:
 
 ```
-/pdf-to-notes
+Read `.agents/workflows/pdf-to-notes.md` and follow the instructions to convert
+[PDF PATH] into structured notes. Subject: [SUBJECT]. Book name: [BOOK NAME].
 ```
 
-The workflow file at `.agents/workflows/pdf-to-notes.md` will guide the agent through all 4 steps.
+The workflow file at `.agents/workflows/pdf-to-notes.md` is the single source of truth —
+it contains all instructions the agent needs, end to end.
 
-### Option B: Running Each Pass Manually
+### Running a Single Pass Manually
 
-#### Pass 0: Split the PDF
+If you need to re-run just one stage, direct the agent to the relevant step in the workflow file. Example:
+
+```
+Read `.agents/workflows/pdf-to-notes.md` — specifically Step 3 (Content Pass).
+Re-run it for `output/your-subject/your-book-name/`, starting from chunk 005.
+```
+
+Or run the split/combine scripts directly:
 
 ```bash
-python skills/01-split-pdf/scripts/split_pdf.py "/path/to/your/book.pdf" "output/your-subject/your-book-name" --chunk-size 3
+# Split a PDF
+python skills/01-split-pdf/scripts/split_pdf.py "/path/to/book.pdf" "output/Subject/BookName" --smart-split
+
+# Combine chunk notes into final exports
+python combine_notes.py "output/Subject/BookName"
 ```
-
-This creates:
-- `output/your-subject/your-book-name/input/` — Copied original PDF
-- `output/your-subject/your-book-name/chunks/` — PDF and TXT files for each 3-page chunk
-- `output/your-subject/your-book-name/index.json` — Manifest describing all chunks
-
-**Verify the output:**
-```bash
-cat output/your-subject/your-book-name/index.json | python -m json.tool
-ls output/your-subject/your-book-name/chunks/
-```
-
-#### Pass 1: Structure Pass
-
-Tell your agent:
-> "Read the skill at `skills/02-structure-pass/SKILL.md` and create the notes structure for the PDF chunks in `output/your-subject/your-book-name/`."
-
-The agent will:
-- Process each chunk with a sliding window (prev + current + next)
-- Create outline files: `output/your-subject/your-book-name/notes/chunk_*_structure.md`
-- Create `structure_index.md`
-
-**Review the structures** before moving to Pass 2. Adjust if section boundaries are wrong.
-
-#### Pass 2: Content Pass
-
-Tell your agent:
-> "Read the skill at `skills/03-content-pass/SKILL.md` and fill the notes structures with content for `output/your-subject/your-book-name/`."
-
-The agent will:
-- Fill each outline with detailed content
-- Use previous completed notes for continuity
-- Create `output/your-subject/your-book-name/notes/chunk_*_notes.md`
-- Create `content_index.md` with glossary and cross-references
-
-#### Pass 3: Combine Notes
-
-Tell your agent:
-> "Combine the notes in `output/your-subject/your-book-name/notes/` into two files in `output/your-subject/your-book-name/export/`: `Complete_Notes.md` and `Last_Minute_Revision_Notes.md`."
-
-The agent will:
-- Read all detailed content notes from the chunks
-- Generate `Complete_Notes.md` containing the full textbook notes
-- Extract only high-yield topics (🔴), quick recall facts, definitions (⭐), and common mistakes to generate a highly condensed `Last_Minute_Revision_Notes.md`
 
 ## 📁 Directory Structure
 
 ```
 NoteMakingWorkflowAG/
+├── START_HERE.md                          # ★ Human operator guide — NOT for agents
 ├── README.md                              # This file
+├── PROGRESS_TEMPLATE.md                   # Copied per-PDF run; agent tracks progress here
+├── requirements.txt                       # Python dependencies
+├── combine_notes.py                       # Combine chunk notes into final exports
 ├── .agents/
 │   └── workflows/
-│       └── pdf-to-notes.md                # End-to-end workflow
+│       └── pdf-to-notes.md                # ★ Agent's single instruction file (all steps)
 ├── skills/
 │   ├── 01-split-pdf/
-│   │   ├── SKILL.md                       # Skill: Split PDF
+│   │   ├── SKILL.md                       # Reference: Split PDF
 │   │   └── scripts/
 │   │       └── split_pdf.py               # Python splitting script
 │   ├── 02-structure-pass/
-│   │   └── SKILL.md                       # Skill: Create outlines
+│   │   └── SKILL.md                       # Reference: Create outlines
 │   └── 03-content-pass/
-│       └── SKILL.md                       # Skill: Fill content
-└── output/                                # Generated output
-    └── <subject-name>/                    # Grouped by subject
+│       └── SKILL.md                       # Reference: Fill content
+└── output/                                # Generated output (one folder per PDF)
+    └── <subject>/
         └── <book-name>/
+            ├── PROGRESS.md                    # Copied from template; updated per stage
             ├── index.json                     # Chunk manifest
-            ├── input/                         # Copied original PDF
-            │   └── <book-name>.pdf
-            ├── chunks/                        # PDF + TXT chunks
-            │   ├── chunk_001.pdf
-            │   ├── chunk_001.txt
-        │   └── ...
-        └── notes/                         # Generated notes
-            ├── chunk_001_structure.md     # Pass 1: Outlines
-            ├── chunk_001_notes.md         # Pass 2: Content
-            ├── structure_index.md         # Pass 1 index
-            └── content_index.md           # Pass 2 index
+            ├── input/<book-name>.pdf          # Source PDF copy
+            ├── chunks/                        # chunk_NNN.pdf + chunk_NNN.txt
+            ├── notes/
+            │   ├── running_context.md         # Accumulated facts across all chunks
+            │   ├── chunk_NNN_structure.md     # Pass 1: Outlines (optional)
+            │   ├── chunk_NNN_notes.md         # Pass 2: Filled content
+            │   ├── structure_index.md
+            │   └── content_index.md
+            └── export/<book-name>/
+                ├── Complete_Notes.md
+                └── Last_Minute_Revision_Notes.md
 ```
 
 ## 🔑 Key Design Decisions
 
-### Sliding Context Window
-Each chunk is processed with its **previous** and **next** chunk loaded for context. This ensures:
-- Section boundaries are detected correctly
-- Content that spans chunk boundaries is handled gracefully
-- Continuity is maintained across the entire book
+### Single workflow file
+`.agents/workflows/pdf-to-notes.md` is the agent's complete instruction set — all four
+stages are described inline. The agent reads nothing else to complete the task. SKILL.md
+files exist as modular reference docs but are not required reading during a run.
 
-### Two-Pass Architecture
-- **Pass 1 (Structure)** establishes the scaffold — you can review and adjust before investing in content
-- **Pass 2 (Content)** fills with detail — uses completed notes from prior chunks for continuity
+### Running context across chunks
+After each chunk's content pass, the agent appends newly introduced concepts, definitions,
+and named models to `running_context.md`. Every subsequent chunk loads this file, giving
+it awareness of everything introduced earlier — preventing repeated definitions and enabling
+accurate cross-references without blowing up the context window.
 
-### Text Extraction
-The split script extracts text to `.txt` files alongside PDF chunks. This means:
-- Any agent can read the content (no PDF parsing dependency at processing time)
-- Text is available for search and comparison
-- Ground truth is preserved in the PDF chunks
+### Smart splitting
+The split script's `--smart-split` flag detects section headings and snaps chunk boundaries
+to them (±2 pages), eliminating artificial mid-section cuts that the sliding window would
+otherwise have to paper over.
+
+### Structure pass is optional
+For documents under ~60 pages, the content pass generates structure inline, cutting the
+total number of agent passes in half.
+
+### Text extraction at split time
+The split script writes `.txt` files alongside PDF chunks. Any agent (Claude, Gemini, etc.)
+can read plain text without needing PDF parsing at processing time.
 
 ## 🐛 Troubleshooting
 
