@@ -8,11 +8,17 @@ description: >
 
 # Structure Pass — Create Notes Outline (Pass 1)
 
-This skill processes each 3-page chunk of a split PDF and creates a **structure-only** 
-outline for notes. It uses a sliding window of 3 chunks (previous + current + next) to 
-maintain context and continuity across section boundaries.
+This skill processes each chunk of a split PDF and creates a **structure-only** outline for notes.
+It uses a sliding window of 3 chunks (previous + current + next) to maintain context and
+continuity across section boundaries.
 
 This is the **second step** in the PDF-to-Notes pipeline.
+
+> **When to skip this pass**: For documents under ~60 pages (roughly 6 chunks at the default
+> 10-page chunk size), you may skip directly to the Content Pass (`03-content-pass`).
+> The content pass can generate structure and fill content in a single pass, which is faster
+> for smaller documents. Use this pass for larger documents (60+ pages) where reviewing the
+> outline before investing in content generation is worth the extra step.
 
 ## Prerequisites
 
@@ -26,7 +32,7 @@ This is the **second step** in the PDF-to-Notes pipeline.
 
 Read `<working_dir>/index.json` to get the list of all chunks.
 
-Identify the working directory. It should be:
+Identify the working directory:
 ```
 <project_root>/output/<subject>/<book-name>/
 ```
@@ -39,24 +45,18 @@ mkdir -p <working_dir>/notes
 
 ### Step 3: Initialize the Section Tracker
 
-Maintain a running list of section titles and topics encountered so far.
-This helps ensure:
-- No duplicate section names
+Maintain a running list of section titles encountered so far to ensure:
+- No duplicate section names across chunks
 - Consistent naming conventions
 - Logical flow between chunks
 
-Start with an empty tracker:
-```
-section_tracker = []
-```
+Start with an empty tracker: `section_tracker = []`
 
 ### Step 4: Process Each Chunk (Sliding Window)
 
-For each chunk `i` (from 1 to total_chunks), do the following:
+For each chunk `i` (from 1 to total_chunks):
 
 #### 4a. Load Context Window
-
-Load the **text content** (`.txt` files) for up to 3 chunks:
 
 | File | Purpose | Required? |
 |------|---------|-----------|
@@ -66,17 +66,17 @@ Load the **text content** (`.txt` files) for up to 3 chunks:
 
 #### 4b. Analyze the Content
 
-With the 3-chunk window loaded, analyze the current chunk and determine:
+With the 3-chunk window loaded, determine:
 
-1. **What topics/sections does this chunk cover?**
-2. **Does a section continue from the previous chunk?** (Check the ending of the previous chunk)
-3. **Does a section start here and continue into the next chunk?** (Check the beginning of the next chunk)
-4. **What are the key concepts, terms, and mechanisms mentioned?**
+1. What topics/sections does this chunk cover?
+2. Does a section continue from the previous chunk?
+3. Does a section start here and continue into the next chunk?
+4. What are the key concepts, terms, and mechanisms?
 
 #### 4c. Generate the Structure
 
-Create a structure file for the current chunk using this exact template.
-Fill in the headings/subheadings based on the content, but leave the body as placeholders:
+Create a structure file using this template. Fill in headings based on content,
+leave all body content as placeholders:
 
 ```markdown
 # Chunk [NNN] — [Descriptive Title Based on Content]
@@ -87,7 +87,7 @@ Fill in the headings/subheadings based on the content, but leave the body as pla
 ## Section: [Section/Topic Title] [🔴|🟡|🟢]
 <!-- This section [starts here | continues from chunk NNN] -->
 <!-- Exam importance: 🔴 HIGH YIELD / 🟡 MODERATE / 🟢 CONTEXT -->
-<!-- Reason: [why this importance level — e.g., "has CYP questions", "named theorem", "background only"] -->
+<!-- Reason: [why this importance level] -->
 
 ### Core Idea
 <!-- placeholder: 1-2 sentence summary of the main idea -->
@@ -129,15 +129,12 @@ Fill in the headings/subheadings based on the content, but leave the body as pla
 
 **Important rules:**
 - A chunk may contain **multiple sections** — create a `## Section:` block for each
-- If a section started in the previous chunk, mark it as `continues from chunk NNN`
-- If a section will continue in the next chunk, mark it as `continues into chunk NNN`
-- Concept names, term names, and section titles should be **specific** — not generic
-- Use the actual terminology from the text
-- Include ALL key terms found, even if you're not sure they're important
+- Mark section continuity: `continues from chunk NNN` / `continues into chunk NNN`
+- Section titles must be **specific** — use actual terminology from the text
+- Include ALL key terms found, even if importance is unclear
 
 #### 4d. Update the Section Tracker
 
-After processing each chunk, update the section tracker:
 ```
 section_tracker.append({
     "chunk_id": i,
@@ -178,13 +175,10 @@ After ALL chunks are processed, create `<working_dir>/notes/structure_index.md`:
 
 ## Section Flow
 
-Shows how sections span across chunks:
-
 | Section | Starts | Ends | Chunks |
 |---------|--------|------|--------|
 | [Section Name] | Chunk 001 | Chunk 003 | 3 |
 | [Section Name] | Chunk 004 | Chunk 004 | 1 |
-...
 ```
 
 ### Step 6: Report to User
@@ -197,21 +191,21 @@ Sections found:    [M]
 Structure files:   <working_dir>/notes/chunk_*_structure.md
 Index:             <working_dir>/notes/structure_index.md
 
-Next step: Review the structure files, then run the Content Pass
+Next step: Review the structure files if desired, then run the Content Pass
 (skill 03-content-pass) to fill the outlines with content.
 ```
 
 ## Error Handling
 
-- If a `.txt` file is empty or very short, note it in the structure file as `<!-- WARNING: minimal text extracted from this chunk -->`
-- If the content doesn't fit neatly into sections (e.g., it's a table or index), adapt the template accordingly
-- If you're unsure about section boundaries, err on the side of creating more sections — they can be merged in the content pass
+- If a `.txt` file is empty or very short, note it: `<!-- WARNING: minimal text extracted from this chunk -->`
+- If content doesn't fit neatly into sections (e.g., it's a table or index), adapt the template
+- If unsure about section boundaries, create more sections — they can be merged in the content pass
 
 ## Quality Checklist
 
-Before marking this pass as complete, verify:
+Before marking complete:
 - [ ] Every chunk has a corresponding `_structure.md` file
 - [ ] Section continuity is tracked (continues from/into)
 - [ ] All key terms from the text appear in the structure
-- [ ] Section titles are specific, not generic (e.g., "Gradient Descent Optimization" not "Topic 1")
+- [ ] Section titles are specific (e.g., "Ricardian Equivalence" not "Topic 1")
 - [ ] The structure index covers all chunks and shows section flow

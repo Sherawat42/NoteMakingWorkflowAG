@@ -1,15 +1,18 @@
 ---
 name: split-pdf
 description: >
-  Split a PDF file into 3-page chunks for the note-making pipeline.
+  Split a PDF file into chunks for the note-making pipeline.
   Use when the user asks to "split a PDF", "prepare a PDF for notes",
   "start the note-making pipeline", or provides a PDF file path to process.
 ---
 
-# Split PDF into 3-Page Chunks
+# Split PDF into Chunks
 
-This skill splits a source PDF into 3-page chunks and extracts text from each chunk.
+This skill splits a source PDF into page chunks and extracts text from each chunk.
 It is the **first step** in the PDF-to-Notes pipeline.
+
+Default chunk size is **10 pages**. For documents with clear section structure,
+use `--smart-split` to automatically align chunk boundaries with section headings.
 
 ## Prerequisites
 
@@ -44,13 +47,36 @@ Example: `Machine Learning Basics.pdf` in Subject `CS101` → `output/CS101/Mach
 
 ### Step 3: Run the Split Script
 
-Execute the split script:
+#### Standard split (default — use for most documents):
 
 ```bash
-python skills/01-split-pdf/scripts/split_pdf.py "<input_pdf_path>" "<working_dir>" --chunk-size 3
+python skills/01-split-pdf/scripts/split_pdf.py "<input_pdf_path>" "<working_dir>"
 ```
 
-The script will create:
+This uses a default chunk size of **10 pages**.
+
+#### Smart split (recommended for textbooks with clear unit/chapter structure):
+
+```bash
+python skills/01-split-pdf/scripts/split_pdf.py "<input_pdf_path>" "<working_dir>" --smart-split
+```
+
+Smart split detects headings like `UNIT 1`, `Chapter 2`, `1.1 Introduction` and snaps
+chunk boundaries to align with them (within a ±2 page window around each planned split).
+This eliminates artificial mid-section cuts.
+
+#### Custom chunk size:
+
+```bash
+python skills/01-split-pdf/scripts/split_pdf.py "<input_pdf_path>" "<working_dir>" --chunk-size 15 --smart-split
+```
+
+**Choosing chunk size:**
+- 10 pages (default) — good for most academic textbooks
+- 15–20 pages — for books with long self-contained chapters
+- 5–8 pages — for very dense technical content where deep focus per chunk is needed
+
+The script creates:
 - `<working_dir>/chunks/chunk_001.pdf` — PDF chunk files
 - `<working_dir>/chunks/chunk_001.txt` — Extracted text for each chunk
 - `<working_dir>/index.json` — Index file describing all chunks
@@ -73,23 +99,26 @@ Provide a summary:
 ━━━━━━━━━━━━━━━━━━━━
 Source:       <filename>
 Total Pages:  <N>
-Chunks:       <M> chunks of 3 pages each
+Chunks:       <M> chunks (~10 pages each)
+Smart Split:  enabled / disabled
 Output:       <working_dir>
 Index:        <working_dir>/index.json
 
 Next step: Run the Structure Pass (skill 02-structure-pass) to create
-the notes outline for each chunk.
+the notes outline for each chunk. For documents under 60 pages, you may
+skip directly to the Content Pass (skill 03-content-pass).
 ```
 
 ## Error Handling
 
 - If `pypdf` is not installed, run `pip install pypdf` and retry
 - If the PDF is password-protected, inform the user and ask for the password
-- If text extraction yields empty results for a chunk, warn the user but continue — the chunk may contain only images/diagrams
+- If text extraction yields empty results for a chunk, warn the user but continue —
+  the chunk may contain only images or be a scanned page
 
 ## Output Structure
 
-After this skill completes, the directory should look like:
+After this skill completes, the directory looks like:
 
 ```
 output/<subject>/<book-name>/
@@ -104,12 +133,12 @@ output/<subject>/<book-name>/
     └── ...
 ```
 
-Later pipeline steps will add:
+Later pipeline steps add:
 ```
 output/<subject>/<book-name>/
 ├── notes/          # Created by skills 02-03
 │   └── ...
-└── export/         # Created by Pass 3 (Combine Notes)
+└── export/         # Created by combine_notes.py
     └── <book-name>/
         ├── Complete_Notes.md
         └── Last_Minute_Revision_Notes.md
