@@ -1,0 +1,642 @@
+--- Page 41 ---
+ 
+ 
+ 
+40 
+Theory of 
+International Trade 
+The gain will be more for B than for A. On the contrary, if B’s demand for X 
+commodity is less  elastic, the terms of trade will be closer to the domestic 
+exchange ratio of country B: 1 unit of X = 1.5 unit of Y. The terms of trade, 
+in this situation, will be favourable for A and against B. Country A will have 
+a larger share out of the gains from trade than country B. 
+The distribution of gains from trade can be explained  in terms of the 
+Marshall-Edgeworth offer curve through Fig. 2.3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.3: Marshall-Edgeworth offer curve 
+In Fig. 2.3., OC and OD are the domestic exchange ratio lines of countries A  
+and B respectively. OA is the offer curve of country A a nd OB is the offer 
+curve of country B. The exchange takes place at P where the two offer curves 
+cut each other. Country A imports PQ quantity of Y and exports OQ quantity 
+of X. 
+The terms of trade for country A at P = (QY/QX) = (PQ/OQ) = Slope of Line 
+OP. If the line OP gets closer to OD, the terms of trade become favourable to 
+country A and unfavourable to country B. On the opposite, if the line OP gets 
+closer to the line OC, the domestic exchange ratio line of country A, the 
+terms of trade turn against country A and become favourable to country B. 
+Country A was willing to exchange before trade SQ units of Y for OQ units 
+of X. After the trade, it gets PQ units of Y for OQ units of X. Therefore, the 
+gain from trade for country A, out of the total trade gain o f RS, amounts to 
+PQ – SQ = PS units of Y. In the case of country B, RQ units of Y were being 
+exchanged for OQ units of X before the trade. 
+However, after trade it has to part with only PQ units of Y to import OQ units 
+of X. Therefore, the gain from trade for this country amounts to RQ – PQ = 
+RP units of Y. As the point of exchange, P gets closer to the line OD, the 
+share of country A in the gain from trade will rise and  that of country B will 
+fall and vice-versa. 
+R 
+Y – 
+Commodity 
+(B’s 
+Exportable) 
+Y 
+X- Commodity 
+(A’s Exportable) 
+ 
+ O 
+ X 
+S 
+P 
+Q 
+D 
+A 
+B 
+C 
+
+
+--- Page 42 ---
+ 
+ 
+ 
+41 
+Gains from 
+Trade 4) Taussig’s Approach: 
+According to Taussig, trading country gains from trade in form of a rise in 
+income. As the demand for labour increases because of increase in exports, 
+employers offer higher wages to attract more labour in this industry. The spill 
+over effect of rise in wages in one industry is that other industries will also 
+have to offer higher wages to retain talent. Thus international trade, according 
+to Taussig will lead to a general rise in money incomes. A higher level of 
+income due to trade enables the people of a country to make larger purchases 
+of both domestically produced and  imported goods and  reach a higher level 
+of welfare. 
+5) Modern Approach: 
+The modern theorists considered the gains from trade as the gains resulting 
+from: 
+i) Gains from exchange and  
+ii) Gains from specialisation. 
+These two gains together constitute the gains from international trade. When 
+trade take place between countries, consumers enjoy a higher level of 
+satisfaction, partly because of improvement in terms of trade and partly on 
+account of greater specialisation in the use  of economic resources of the 
+country. These two types of gains from trade can be shown in Fig. 2.4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.4: Gains from trade 
+I2 
+Y – Commodity 
+Y 
+X- Commodity 
+ 
+ O 
+ X 
+A 
+F 
+P0 
+P2 
+P1 
+C1 
+I3 
+I1 
+P0 
+P1 
+A1 
+D 
+D1 
+E 
+C 
+
+
+--- Page 43 ---
+ 
+ 
+ 
+42 
+Theory of 
+International Trade In Fig. 2.4., X -commodity is measured along the horizontal scale and  
+Y-commodity is measured along the vertical scale. AA 1 is the production 
+possibility curve. P 0P0 is the domestic price ratio line. It is tangent to the 
+production possibility curve at E. Thus, E is the point of production 
+equilibrium in the absence of trade. 
+E is also the point of consumption equilibrium because P 0P0 is tangent to the 
+community indifference curve I 1 at this point. When  trade commences, P 1P1 
+is the international exchange ratio line, which is tangent to the production 
+possibility curve at F and the community indifference curve I3 at C1. 
+Thus, F is the point of production and  C1 is the point of consumption. After 
+trade takes place,  D 1F of X-commodity is exported and  C 1D1 quantity of  
+Y-commodity is imported. The trade causes two types of shifts in the country. 
+First, the production point shifts from E to F. It occurs because of 
+specialisation in the production of X-commodity and  specialisation in factor 
+use. This can be called the production effect. Second, the point of 
+consumption shifts from E at I 1 to C 1 at the higher community indifference 
+curve I3. It means an increase in the satisfaction of the commodity. This can 
+be called the consumption effect. Both together signify the gain from 
+international trade. 
+If a line P 2E is drawn parallel to P1P1 from the original equilibrium situation 
+E, it signifies that  there is no  change in production, but the consumption 
+equilibrium shifts from E to C at a higher community indifference curve I2. In 
+this situation, the CD quantity of Y is imported at a lower international price 
+of Y. The quantity of X-commodity exported in exchange for CD quantity of 
+Y is DE. Although production is the same as at point E, the consumption 
+equilibrium shifting from E to C signifies the gain from trade. This is the 
+trade gain from the exchange. 
+After the trade, as the specialisation in production and  optimum factor use 
+takes place, the production equilibrium shifts from E to F along the same 
+production possibility curve and  the consumption equilibrium shifts to C1. In 
+this situation, C 1D1 quantity of Y is imported and  D 1F quantity of X is 
+exported. As a result of specialisation in production after the trade, the shift in 
+consumption equilibrium from C to C 1 reflects the trade gain from  
+specialisation. 
+To sum up, the total gain from trade is comprised of gain from  the exchange 
+and the gain from  specialization. The total gain from  trade can be measured 
+by the movement from E to C1. This movement takes place in two steps—the 
+movement from E to C is the gain from the exchange and the movement from 
+C to C1 is the gain from specialization. 
+ 
+ 
+
+
+--- Page 44 ---
+ 
+ 
+ 
+43 
+Gains from 
+Trade Another Example: 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.5: Gains from specialisation in production 
+If Nation 1 could not specialize in the production of X with the opening of 
+trade but continued to produce at point A, Nation 1 could export 20X in 
+exchange for 20Y at the prevailing world price of P W= 1 and end up 
+consuming at point T on indifference curve II. The increase in consumption 
+from point A (in autarky) to point T represents the gains from exchange 
+alone. If Nation 1 subsequently did specialize in the production of X and 
+produced at point B, it would then consume at point E on indifference curve 
+III. The increase in consumption from T to E would represent the gains from 
+specialization in production. 
+6) Gains 
+from Trade for Large Country versus Small Country: 
+H.R. Heller explained how entire gains go to a small country instead of large 
+country under the conditions of constant opportunity cost and  unchanged 
+terms of trade. This case can be explained in Fig. 2.6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.6. (i) & 2.6. (ii): Gains from Trade for Large Country and Small Country 
+E 
+Y 
+ Nation 1 
+ 
+ 0 
+ X 
+B 
+III 
+100 
+80 
+60 
+40 
+20 
+10 
+ 30 
+ 50 
+ 70 
+ 90 
+ 110 
+ 130 
+ 150 
+PW = 1 
+   PB =PW = 1 
+T 
+II 
+A 
+X 
+I 
+R 
+Y – Commodity 
+Y 
+X- Commodity 
+ O 
+S 
+A1 
+Country A 
+A 
+(i) 
+P 
+I1 
+X 
+R1 
+Y – Commodity 
+Y 
+X- Commodity 
+ O 
+ B2 
+Country B 
+B 
+(ii) 
+R2 
+T 
+I2 
+B1 
+
+
+--- Page 45 ---
+ 
+ 
+ 
+44 
+Theory of 
+International Trade In Fig. 2.6.  (i) For a large country A, the production possibility curve under the 
+conditions of constant costs is AA1. In the absence of trade, consumption and  
+production take place at R where the community indifference curve I is tangent to 
+the production possibility curve. After trade takes place,  there is no change in 
+terms of trade for country A so that the international price ratio line remains AA1. 
+This country will, however, modify its production pattern in such a way that  
+some imports are made from country B. It may decide to move to P where it 
+exports PS quantity of X commodity and  imports SR quantity of Y. Since the 
+terms of trade remain unchanged for country A, it fails to make any gain from 
+trade. 
+In Fig. 2.6 . (ii), for the small country B, the production possibility curve or 
+domestic price ratio line under constant cost conditions is BB1. Its tangency with 
+the community indifference curve I 1 shows that production and  consumption 
+equilibrium in this country, in  the absence of trade, takes place at R 1. As trade 
+commences, this country specialises completely in the production of Y 
+commodity. The international price ratio line is BB2, which  is parallel to AA1. 
+This country produces at B. The consumption equilibrium occurs at R1. 
+So, after trade it exports TR 2 (= SR) of Y commodity to country A and imports 
+BT (= PS) quantity of X from country A. The movement from R 1 to R 2 in 
+country B reflects the gain from specialisation and exchange to the small country 
+B from the  international trade. Since this country can import X -commodity at a 
+lower international price, the terms of trade turn in favour of it. That also shows 
+that the gains from trade go to small country B alone and the large country goes 
+without any gain from trade.  
+2.7  POTENTIAL AND ACTUAL GAIN FROM 
+TRADE 
+Domestic cost ratios of producing two  commodities X and  Y determines the 
+potential gain from trade for the two trading countries A and B. 
+Thus, 
+GP = (
+  
+  
+)
+ 
+  (
+  
+  
+)
+ 
+ 
+Where G P = potential gain C X =  cost per unit (money or labour) for X 
+commodity, C Y =  Cost per unit (money or labour) for Y commodity. The 
+subscripts ‘A’ and ‘B’ signify the two countries.  
+The actual gain from trade G a, on the other hand, is determined by the difference 
+in price ratio of the two commodities X and Y in the two countries.  
+Thus,  
+Ga = (
+  
+  
+)
+ 
+  (
+  
+  
+)
+ 
+ 
+
+
+--- Page 46 ---
+ 
+ 
+ 
+45 
+Gains from 
+Trade Under the conditions of perfect competition and free trade, the cost ratio equals 
+the price ration of two commodities in each country such that  
+  
+  
+   
+  
+ 
+Consequently the actual gain becomes equal to potential gain  
+GP = Ga 
+In absence of tariffs and other trade restrictions, actual gains are equal to 
+potential gains of the country. In case of presence of imperfect competition or 
+trade and tariff restrictions, the price ratio (P X/PY) is more than the cost ratio 
+(CX/CY) of a country. Thus, the actual gain from trade exceeds the potential tra de 
+gain (Ga > GP). 
+2.8  FREE TRADE VERSUS NO TRADE 
+When there are no tariffs or trade restrictions, it is called a situation of free trade.  
+In situation of free trade,  domestic factor and product prices get equalised with 
+international prices. 
+Assumptions: 
+The proposition that  free trade is superior to no trade is proved based on  the 
+following assumptions: 
+a) There is a situation of perfect competition in the market. 
+b) The government does not interfere in trade i.e. there are no tariffs, quotas and 
+subsidies. 
+c) There are no transportation costs. 
+d) The given country is small in size and has no monopoly power in trade. 
+e) The factors of production are fixed in supply. 
+f) The technology is such that the production possibility curve is concave to the 
+origin. 
+Based on the assumptions given above, it is possible to show that free 
+international trade is much superior to autarchy (absence of trade). The diagram, 
+to demonstrate it, is adapted from the diagram given by Jagdish Bhagwati. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 47 ---
+ 
+ 
+ 
+46 
+Theory of 
+International Trade  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.7: Benefits of free trade vs. no trade 
+In Fig. 2.7  AB is the production possibility curve of the home country. In the 
+absence of trade, the domestic price ratio is given by the line DD. C is the point 
+of production and consumption equilibrium. As the trade commences and there is 
+no restriction on  trade, the international price ratio is given by the slope of the 
+line EE which runs parallel to DD. The line EE represents the Consumption 
+Possibility Curve. 
+EE determines the new availability frontier in the country. Point R, where the 
+consumption possibility curve is tangent to the production possibility curve, 
+represents the most efficient production point. Consumption point on the other 
+hand is determined at C1 where the international price ratio line EE is tangent to 
+the higher community indifference curve I 2. Since after free trade, the production 
+is optimised at R and consumption is optimised at C1, it follows that free trade is 
+superior to no trade. 
+2.9  STATIC AND DYNAMIC GAINS 
+The gains from international trade are of two types: 
+1)  Static Gains & Dynamics Gains  
+ The static gains from trade are as under: 
+i) Division of labour, specialization and Expansion in Production : 
+International trade accord the benefit of division of labour and 
+specialization. It ensures that all the available productive resources in the 
+country are optimally utilized leading to expansion in production of the 
+firm, country and the world. 
+ii)  Improved Welfare : Increased production because of international trade 
+leads to improved welfare in the trading countries. Quality of the products 
+also improves due to specialisation by a country. Quality along with easy 
+access at a lower costs directly boosts welfare of the people. 
+C 
+Y - 
+Commodity 
+Y 
+X- Commodity 
+ O 
+ X 
+A 
+D 
+E 
+I1 
+R 
+B 
+ D 
+ E 
+I2 
+C1 
+
+
+--- Page 48 ---
+ 
+ 
+ 
+47 
+Gains from 
+Trade As Ricardo points out "The extension of international trade very 
+powerfully contributes to increasing the mass  commodities and,  
+therefore, the sum of enjoyments." 
+iii) Increase in National Income : International trade leading to 
+expansion of production in the trading countries helps to generate 
+more and more employment opportunities. Increase in production 
+and employment leads to a rise in the national income of the 
+trading countries. 
+iv) Vent for Surplus : According to Adam Smith, international trade 
+leads to the fullest utilisation of productive resources of the 
+country. The surplus created because of increased efficiency and  
+increased production can be utilized through sales in the foreign 
+market. 
+2)  Dynamic Gains from Trade: 
+The major dynamic gains from international trade are as follows: 
+i)  Technological Development : International trade facilitates transfer of 
+advanced technology from developed to less  developed countries. It 
+stimulates innovations and  inventions which  in turn bring efficiency in 
+production and reduces overall cost. Latest and  advanced techniques are 
+transferred to other countries through trade. 
+ii)  Increased Competition : Along with other benefits, international trade 
+brings in efficiencies in all the industries in trading countries. It creates 
+the environment of competition ultimately leading to increased quality of 
+goods. 
+iii)  Expansion of Market: International trade leads to expansion in the size 
+of the market. It encourages producers to expand the scale of production 
+which in turn leads to the increased volume of investment and 
+employment. Increased investment and  employment ultimately lead to 
+expansion in the market. 
+iii) Increase in Investment : As the demand for home-produced goods 
+increases due to international trade, there is a strong impetus for 
+investment. The growth of the export sector leads to the expansion of 
+several allied ancillary industries creating more and  more opportunities 
+for investment. There is also a substantial increase in foreign direct 
+investments in the export sector of the economy. 
+v)  Optimum Use of Resources : International trade leads to more efficient 
+use of all the productive resources.  
+Ellsworth and Clark Leith summed up  the dynamic  gain from trade in these 
+words, "Trade is a dynamic force that  stimulates innovation. New ways of 
+producing and organising production are spread to the local economy through 
+
+
+--- Page 49 ---
+ 
+ 
+ 
+48 
+Theory of 
+International Trade 
+trade and the competitive force of trade stimulates the adoption of cost-saving 
+techniques. Trade also makes possible economical local production of many 
+goods that would be prohibitive to produce locally." 
+Check Your Progress 3 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  In what circumstances might a country NOT benefit from trade with another 
+country? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What are static and dynamic gains from trade? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3)  Explain Mill's approach to measuring gains from trade. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4)   Why is ‘free trade’ between two countries is considered to be better than ‘no 
+trade’? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2.10  LET US SUM UP 
+After reading this unit, we learnt : 
+a) To maximize the value of its output, a country must be producing a 
+combination of goods and services that lies on its production possibilities 
+curve. 
+b) Suppose two countries each produce two goods and their opportunity costs 
+differ. If this is the case, there is an opportunity for trade between the two 
+countries that will leave both better off. 
+c) International trade leads countries to specialize in goods and services in 
+which they have a comparative advantage. 
+
+
+--- Page 50 ---
+ 
+ 
+ 
+49 
+Gains from 
+Trade d) The terms of trade determine the extent to which each country will specialize. 
+Each will increase the production of the good or service in which it has a 
+comparative advantage up to the point where the opportunity cost of 
+producing it equals the terms of trade. 
+e) Free international trade can increase the availability of various goods and 
+services in the countries that participate in it. Trade between the countries 
+allow consuming combinations of goods and services which they would not 
+be able to produce. 
+f) While free trade increases the availability of total quantity of goods and 
+services to each country, in short run, there might be winners and losers. 
+2.11  KEYWORDS 
+Autarky  The absence of trade; economic isolation 
+Absolute Advantage The greater efficiency that one nation may have 
+over another in the production of a commodity. It 
+describes a situation in which a country can 
+produce more of a good or service than any other 
+with the same quantity of resources. According to 
+Adam Smith, this is the basis for trade. 
+The basis for Trade The forces (absolute advantage for Adam Smith 
+and Comparative Advantage for Ricardo). 
+Specialisation When a country allocates most or all its resources 
+towards the production of a particular good or 
+service. For example, Bangladesh specializes in 
+producing textiles. 
+Gains from Trade The increase in each nation’s consumption 
+resulting from specialization in production and 
+trade. 
+Terms of Trade The price of one good in terms of the other that two 
+countries agree to trade at. Beneficial terms of trade 
+allow a country to import a good at a lower 
+opportunity cost than the cost for them to produce 
+the good domestically, thus the country gains from 
+trade. In other words, it's the ratio of the price of a 
+nation's export commodity to the price of its import 
+commodity. When more than two commodities are 
+traded, we use the index of export to import prices. 
+Terms of trade are usually given in percentages. 
+Consumption Frontier The various alternative combinations of the two 
+commodities that a nation can consume. 
+
+
+--- Page 51 ---
+ 
+ 
+ 
+50 
+Theory of 
+International Trade Marginal rate of 
+Transformation (MRT) 
+The amount of one commodity that a nation must 
+give up to get more units of a second commodity. 
+This is another name of the opportunity cost of a 
+commodity. To be more precise, marginal rate of 
+transformation shows the number of goods which 
+will be given up by a country to produce an 
+additional unit of other goods while keeping the 
+factors of production constant. 
+Production Possibilities 
+Curve 
+It is a graph which shows various combinations 
+of output that a country can produce by applying 
+its best available resources and technology. In 
+other words, A curve that shows the various 
+alternative combinations of the two commodities 
+that a nation can produce by completely  utilising 
+all its factors of production with the best 
+available technology. This curve is also known 
+as the transformation curve or the production 
+frontier.  
+Opportunity Cost Theory This opportunity cost theory states that the cost 
+of one commodity is the amount of another 
+commodity that must be given up by a country to 
+release just enough factors of production or 
+resources to enable the production of one 
+additional unit of t he first commodity. To be 
+more precise, if a country can produce either 
+commodity A or B, the opportunity cost of 
+commodity A is the amount of the other 
+commodity B that must be given up to get one 
+additional unit of commodity A. 
+Constant Opportunity 
+Costs 
+It occurs when the opportunity cost stays the 
+same as a country increase its production of one 
+good. This shows that the resources are easily 
+accommodated or changed from the production 
+of one good to the production of another good. 
+To be more precise, c onstant opportunity costs 
+theory occurs when the equal amount of one 
+commodity that a nation give up releasing just 
+enough resources to produce each additional unit 
+of another commodity. 
+Increasing Opportunity 
+Costs 
+It describes how opportunity costs for a country 
+increase as resources are applied. According to 
+the law of increasing opportunity costs, as one 
+good is produced, the opportunity cost to 

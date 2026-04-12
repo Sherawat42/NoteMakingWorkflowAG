@@ -1,0 +1,446 @@
+--- Page 22 ---
+ 
+ 
+ 
+21 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+The two countries, two commodities & two-factor model, imply that the capital-
+rich country will export capital-intensive commodities and the labour-rich 
+country will export labour-intensive commodities. But the concept of a country 
+being rich in one factor or the other is not very clear. Economists quite often 
+define factor abundance in terms of factor prices. Ohlin himself has followed this 
+approach. Alternatively, factor abundance can be defined in physical terms. In 
+this case, physical amounts of capital & Labour are to be compared. 
+The Price Criterion of Relative Factor Abundance 
+According to the price criterion, a country with relatively cheap capital and 
+labour relatively dear is regarded as relatively capital-abundant, irrespective of its 
+ratio of total quantities of capital to labour compared with the other country. In 
+symbolic terms, when: 
+(PK/PL) E < (PK/PL) I 
+Country E is relatively capital- abundant. (Here, P stands for factor price and К 
+for capital, L for labour and E and I for the two respective countries.) Ohlin‟s 
+theorem may be verified diagrammatically in Figure. 1.1 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.1 Diagrammatic explanation of H-O model 
+Let us take an example of the same two countries viz; England and India where 
+England is a capital-rich country while India is a labour-abundant nation. 
+Y 
+Capital 
+Y 
+X 
+P 
+R 
+P1 
+0 
+ A 
+X 
+X 
+Y 
+ 
+E 
+M 
+K 
+I 
+Labour 
+S 
+ 
+B 
+ 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+22 
+Theory of 
+International Trade 
+In the above diagram, XX is the isoquant (equal product curve) for the 
+commodity X produced in England. YY is the isoquant representing commodity 
+Y produced in India. It is very clear that XX is relatively capital intensive while 
+YY is relatively labour incentive. The factor capital is represented on Y-axis 
+while the factor labour is represented on the horizontal X-axis. 
+PA is the price line or budget line of the country England. The price line PA is 
+tangent to XX at E. The price line PA is also tangent to YY isoquant at K. Point 
+K will help us to find out how much capital and labour is required to produce one 
+unit of Y in England. 
+P1B is the price line of the country India, The price line P 1B is tangent to YY at I. 
+The price line RS which is drawn parallel to P 1B is tangent to XX at M. This will 
+help us to find out how much capital and labour is required to produce one unit of 
+commodity X in India. 
+Under the given situations, the country England will choose the combination E. 
+This means more specialisation in capital goods. It will not choose the 
+combination K because it is more labour intensive and less capital intensive. 
+Thus,
+ according to Ohlin, England will specialise in the production of goods X 
+by using the cheap factor capital extensively while India will specialise on 
+commodity Y by using the cheap factor labour available in the country. 
+Ohlin's theory concludes that the basis of international trade is the difference in 
+commodity prices in the two countries. Differences in commodity prices are due 
+to cost differences resulting from differences in factor endowments in two 
+countries. A capital-rich country specialises in capital-intensive goods & exports 
+them, while a labour-abundant country specialises in labour-intensive goods & 
+exports them. 
+As the Ricardian framework of comparative advantage was further improved 
+upon in the Heckscher-Ohlin model, similarly, the H-O model was further 
+developed by Paul Samuelson. Hence the extension of the H-O model is also 
+referred to as Heckscher-Ohlin-Samuelson (H-O-S) model. H-O model states that 
+trade takes place due to the different relative prices of different goods in different 
+countries. Heckscher-Ohlin-Samuelson model demonstrates how free movements 
+of goods between countries may bring about the factor price equalization.  
+There are four main theorems in the H-O-S model.  
+1) The Heckscher-Ohlin theorem  
+2) The Stolper-Samuelson theorem 
+3) The Factor Price Equalization theorem 
+4) The Rybczynski theorem.
+ 
+
+
+--- Page 24 ---
+ 
+ 
+ 
+23 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+Check Your Progress 3 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Point out five major assumptions of the Heckscher-Ohlin theory. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What are the main conceptions of relative factor abundance? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3)  What are the extension theories of Heckscher-Ohlin theory? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+1.6  STOLPER –  SAMUELSON THEOREM 
+Economists Paul Samuelson & Wolfgang Stolper have further contributed to this 
+theory and have developed Stolper – Samuelson theorem. Stolper –Samuelson 
+theorem explains the effect of change in relative product prices on factor 
+allocation and income distribution. The Stopler-Samuelson theorem explains the 
+relationship between changes in prices of goods and changes in prices of the 
+factor of production such as wages and interest within the framework of the H- O 
+theorem. The theorem states that if the price of the capital-intensive good 
+increases then the price of capital will also increase, but the wages paid to labour 
+will fall.  Thus, if the price of machinery goods increases (assume machinery 
+goods as capital-intensive) then the interest charged on capital would also 
+increase. But at the same time, there will be a decrease in the wages of the labour. 
+Similarly, if the price of labour-intensive goods increases then the wage rate 
+would increase while the interest rate will fall.  
+The Stopler-Samuelson theorem was further extended by Jones, who developed 
+the concept of „magnification effect' for prices in the cont ext of the H-O model.  
+The magnification effect allows analysis of any change in the prices of both 
+goods and provides information about the magnitude of the effects on wages and 
+interest.  Most importantly, the magnification effect allows one to analyse the 
+
+
+--- Page 25 ---
+ 
+ 
+ 
+24 
+Theory of 
+International Trade 
+effects of price changes on real wages and real interest earned by workers and 
+capital owners.  This is crucial from the point of view of policy impact since real 
+returns indicate the purchasing power of wages and rents after accounting for the 
+price changes and thus are a better measure of well-being than simply the wage 
+rate or rental rate alone.  
+This theorem is relevant in the age of globalization and trade liberalization.  
+When trade liberalization occurs in a country, prices of goods change, and the 
+magnification effect can be applied to seek an important result.  A movement 
+towards freer trade will cause the real return of the country's relatively abundant 
+factor to rise, while the real return of the country's relatively scarce factor will 
+fall.  Thus, if the US and India are two countries that move towards free trade, 
+and if the US is capital –abundant (while India is labour-abundant), then capital 
+owners in the US will experience an increase in the purchasing power of their 
+rental income while workers will experience a decline in the purchasing power of 
+their wage income (i.e., they will lose). Similarly, workers will gain in India but 
+capital owners will lose.  
+The reasons for this result are somewhat complex.  When a country moves to free 
+trade the price of its exported goods will rise while the price of its imported 
+goods will fall.  The higher prices in the export industry will inspire profit-
+seeking firms to expand production.  At the same time, the import-competing 
+industry suffering from falling prices, will want to reduce production to cut their 
+losses.  Thus, capital and labour will be la id-off in the import-competing sector 
+but will be in demand in the expanding export sector. 
+However, a problem arises because the export sector is intensive in the country's 
+(US) abundant factor, say capital –
+ as per the H-O theorem.  This means that the 
+export industry wants relatively more capital per worker than the ratio of factors 
+that the import-competing industry is laying off.  In the transition, there will be 
+an excess demand for capital, which will raise its price, and an excess supply of 
+labour, which will bring down its price.  Hence, the capital owners in both 
+industries experience an increase in their rents while the workers in both 
+industries experience a decline in their wages. 
+The theorem was originally developed to illuminate the issue of how tariffs 
+would affect the incomes of workers and capitalists (i.e., the distribution of 
+income) within a country because tariffs raise the domestic price of imported 
+goods.  However, the theorem is just as useful when applied to trade 
+liberalization, as explained above. However, it should be kept in mind that these 
+results have been derived in a model with only two goods and two factors that are 
+perfectly mobile between sectors.  This may not be valid in general.  In 
+particular, a factor employed in a sector where output declines (because of 
+competition from imports) will suffer a loss in its real reward if it has no 
+alternative source of employment. 
+
+
+--- Page 26 ---
+ 
+ 
+ 
+25 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+1.7  FACTOR-PRICE EQUALIZATION THEOREM 
+According to the factor-price equalization theorem, when the prices of goods are 
+equalized between countries due to international trade, the prices of the factors 
+(i.e. capital and labour) also get equalized between countries.  This implies that 
+freer trade will equalize the wages of workers and the rentals earned on capital 
+throughout the world in the ultimate analysis.  
+The theorem derives from the assumptions of the H-O model. The most critical is 
+the assumption that the two countries share the same technology and that markets 
+are perfectly competitive.   In perfect competition, factors are paid based on the 
+value of their marginal productivity, which in turn depends upon the prices of the 
+goods.  Thus, when prices differ between countries so will their marginal 
+productivity, and hence so will their wages and rents.  However, once prices of 
+goods are equalized, as in free trade demonstrated earlier, the values of marginal 
+products are also equalized between countries; hence, the countries must also 
+share the same wage rates and rental rates.  
+However, it should be noted that the factor-price equalization is unlikely to apply 
+perfectly in the real world.  The H-O model assumes that technology is the same 
+between countries to focus on the effects of different factor endowments.  If 
+production technologies differ across countries, as we assumed in the Ricardian 
+model, then factor prices would not equalize once goods prices equalize. 
+Check Your Progress 4 
+Note: 
+i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Point out the main argument of the Stopler-Samuelson theorem. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Describe the magnification effect in the context of the H-O model. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3)  Explain the main statement of Factor Price Equalization theory? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+
+
+--- Page 27 ---
+ 
+ 
+ 
+26 
+Theory of 
+International Trade 1.8  RYBCZYNSKI THEOREM 
+The Rybczynski theorem postulates that  at constant commodity prices, an 
+increase in the endowment of one factor will increase by a greater proportion of 
+the output of the commodity intensive in that factor and will reduce the output of 
+the other commodity. The theorem is useful in analyzing the effects of capital 
+investment, immigration and emigration within the context of the H-O model. 
+Rybczynski's theorem can be understood  diagrammatically with the help of 
+figure 1.2. In Figure 1.2, EE reveals the labour constraints and  while DD reflects 
+the capital constraint. At point A, production takes place.   Assume textiles as a 
+labour-intensive good  and software as a capital item and  their production is 
+depicted by C 1 C 2 for textiles and  S 1 S 2 for software. Now, let  us assume an 
+increase in the wages of the labour,  which causes an outward parallel shift in the 
+labour constraint line from DD to D1D1. Here, the production possibility frontier 
+also shifts from point A to point B.  Production of textiles, the labor-intensive 
+good, will shift from C1 to C2. Production of software, the capital-intensive good, 
+will fall from S2 to S1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 
+1.2 Diagrammatic representation of Rybczynski theorem 
+If the endowment of capital (interest rate) increases, the capital constraint will 
+shift out, resulting in an increase in software production and a decrease in textiles 
+production. As mentioned earlier, since the labour constraint curve is steeper than 
+the capital constraint curve, the software is a capital-intensive  item while textile 
+is a labour-intensive item.  
+This means that in general, an increase in a country's endowment of a factor will 
+cause an increase in the output of the good  which uses that factor intensively and 
+decrease the output of the other good. 
+A 
+Software 
+Y 
+X 
+D1 
+D 
+E 
+0 
+ D1 
+B 
+Textile 
+D 
+ E 
+C1 
+ C2 
+S1 
+S2 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+27 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+Check Your Progress 5 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  What does the Rybczynski theorem postulate? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Point out the important factors which could be analysed in the context of 
+Rybczynski's theorem. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3)  Explain the main statement of Factor Price Equalization theory? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+1.9  LET US SUM UP 
+After reading this unit, we have been exposed to the different international trade 
+theories. We started with the theory of mercantilism, and then we understood the 
+pure theory of international trade or absolute advantage theory coined by Adam 
+Smith in 1776
+. After that,  we learned the comparative advantage theory 
+developed by David Ricardo in 1817.   We  learnt that  both absolute advantage 
+and comparative advantage theory considered labour as the only factor of 
+production. Afterwards, we discussed  Heckscher Ohlin's (H-O) Theory. Bertil 
+Ohlin has drawn his ideas from Eli Heckscher's General Equilibrium Analysis. 
+Hence, it is also known as Heckscher Ohlin (H-O) Theory. The unit also 
+mentioned the extensions of the Heckscher Ohlin (H-O) model. Three more 
+theories have been developed by extending the H-O model. The Stopler-
+Samuelson theorem explains the relationship between
+ changes in prices of goods 
+and changes in prices of a factor of production such as wages and interest within 
+the framework of the H-O theorem. The theorem states that  if the price of the 
+capital-intensive good increases, then the price of capital will also increase, but 
+the wages paid to labour will fall.   Thus, if the price of machinery goods 
+increases then the interest charged on  capital would also increase. The unit also 
+presents the Factor-Price Equalization Theorem.   According to the factor-price 
+equalization theorem when the prices of goods are equalized between countries 
+due to international trade, the prices of the factors
+ (i.e. capital and labour) also 
+
+
+--- Page 29 ---
+ 
+ 
+ 
+28 
+Theory of 
+International Trade 
+get equalized between countries.   This implies that freer trade will equalize the 
+wages of workers and  the rentals earned on capital throughout the world in the 
+ultimate analysis. Finally, the unit concludes by discussing the Rybczynski 
+theorem. The Rybczynski theorem postulates that at constant commodity prices, 
+an increase in the endowment of one factor will increase by a greater proportion 
+of the output of the commodity intensive in that factor and will reduce the output 
+of the other commodity. 
+1.10  KEYWORDS 
+International Trade  The trade that takes place between buyers and 
+sellers of two different nations is called 
+international trade.   
+Mercantilism  It is the trade theory which postulates that countries 
+should encourage exports and discourage imports. 
+The theory argues that a nation should increase 
+exports and reduce imports and export is the only 
+way to accumulate wealth.  
+Comparative advantage  A country has a comparative advantage in 
+producing a good „A‟ if the cost of producing „A‟ 
+is lower at home than in the other country.  
+Factor Endowments  A country‟s endowments with resources like land, 
+labour, capital etc.  
+Capital-Abundant Country A country well-endowed with capital is referred to 
+as capital abundant.  
+Magnification Effect  The magnification effect allows analysis of any 
+change in the prices of both goods and provides 
+information about the magnitude of the effects on 
+wages and interest.  
+1.11  SOME USEFUL REFERENCES 
+James Gerber. 2014 International Economics, 6th Ed., Pearson Education, USA.  
+Krugman, Paul R. and Maurice Obstfeld, 1997. International Economics: Theory 
+and Policy, 4th Ed., Addison-Wesley, Massachusetts, USA.  
+Sodersten, B. 1980. International Economics, Macmillan London.  
+Sodersten, B. and Reed, G. 1994. International Economics, 3 rd Ed., Macmillan 
+London.  
+Salvatore, D. John   2004. International Economics, 8th Ed., Wiley and Sons, Inc. 
+New Jersey. 
+
+
+--- Page 30 ---
+ 
+ 
+ 
+29 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+1.12  ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES  
+Check Your Progress 1 
+1)   Refer to Section 1.1 
+2)   Refer to Section 1.2 
+Check Your Progress 2 
+1)  Refer to Sections 1.3 and 1.4 
+2)  Refer to Sections 1.3 and 1.4 
+3)  Refer to Section 1.4 
+Check Your Progress 3 
+1)  Refer to Section 1. 5 
+2)  Refer to Section 1.5 
+3)  Refer to Section 1.5 
+Check Your Progress 4 
+1)  Refer to Section 1. 6 
+2)  Refer to Section 1.6 
+3)  Refer to Section 1.7 
+Check Your Progress 5 
+1)  Refer to Section 1.8 
+2)  Refer to Section 1.8 
+ 

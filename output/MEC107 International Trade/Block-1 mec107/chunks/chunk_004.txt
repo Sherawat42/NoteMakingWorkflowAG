@@ -1,0 +1,505 @@
+--- Page 31 ---
+ 
+ 
+ 
+30 
+Theory of 
+International Trade UNIT 2  GAINS FROM TRADE  
+Structure 
+2.0  Objectives 
+2.1  Introduction 
+2.2  Meaning of Gains from Trade 
+2.3  Sources of Gains 
+2.4  Factors Determining Size of Gains 
+2.5  Production Possibilities Curve in International trade 
+2.6  Measurement of Gains from Trade 
+2.7  Potential and Actual Gain 
+ 
+2.8.  Free Trade versus  No Trade 
+2.9  Static and Dynamic Gains 
+2.10  Let us Sum up 
+2.11  Key Words 
+2.12  Some Useful books 
+2.13  Answers/Hints to Check Your Progress Exercises  
+2.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+ explain the meaning of gains from international trade and sources of such 
+gains; 
+ identify the conditions under which two countries can gain from trading with 
+each other; 
+ elucidate and illustrate how the terms of trade determine the extent to which 
+each country specializes; and 
+ explain and illustrate the mutual benefits of trade. 
+2.1   INTRODUCTION 
+As we have discussed in the previous unit, international trade refers to the 
+voluntary exchange of goods and services between different countries. Trade 
+between countries will only occur if they consider it beneficial to their interests. 
+                                                 
+ Contributed by  Dr. Shyam Sundar, Sr. General Manager - Policy Advisory, Mahindra Group  
+
+
+--- Page 32 ---
+ 
+ 
+ 
+31 
+Gains from 
+Trade The previous unit briefly discussed about why do countries trade? In this unit, we 
+shall elaborate the concept of gains from international trade.  
+In this connection, the meaning of gains from trade will be discussed followed by 
+sources of gains and factors determining gains from trade. Thereafter, we shall 
+discuss the concept of the Production Possibilities Curve which shows all the 
+various alternative combinations of the two commodities that a country can 
+produce by completely utilising all its factors of production with the best 
+available technology. 
+Subsequently, we will explain how gains from trade can be measured. Which 
+imply how each nation gains from international trade by exchange and 
+specialisation in the production? 
+Lastly, we analyse the various situations of the potential and actual gain, Free 
+Trade vs. no trade and static and dynamic gains.
+  
+2.2  MEANING OF GAINS FROM TRADE 
+Gains from international trade refer to the various benefits which country derived 
+by way of trading of goods and services with other countries. Such benefits from 
+trade are because of international division of labour and specialisation. Countries 
+trade with each other because trade is beneficial to all. Basic motivation of trade 
+is the gain or benefit that nations accrue over the period. Each trading country 
+gains when the total output increases as a result of the division of labour and 
+specialisation. In the case of autarky or isolation, the benefits of the international 
+division of labour do not flow between nations. 
+Malthus held that ‘the gain from trade consisted of the increased value which 
+results from exchanging what is wanted less for what is wanted more, and that 
+'international trade, by giving us commodities much better suited to our wants 
+and tastes than those which had been sent away, has decidedly increased the 
+exchangeable value of our possessions, our means of enjoyment, and our wealth’. 
+In simple words, gains from trade refers to additional production and 
+consumption effects that countries can achieve by way of entering trade with 
+each other. To sum-up, gains from international trade are of two types –i) gain 
+from exchange and ii) gain from specialisation in production. Approaches 
+preferred by various economists will be discussed in subsequent sections.
+  
+2.3  SOURCES OF GAINS 
+As per classical theory, major source of gains from international trade arises out 
+of specialisation based on the principle of comparative cost advantage. While 
+pointing out the 'division of labour’, Adam Smith has held that it is limited by the 
+size of the market. Upon expansion of the market size because of international 
+trade, the scope for large-scale production also increases which in turn increases 
+the scope for complex division of labour and specialisation. In short, international 
+
+
+--- Page 33 ---
+ 
+ 
+ 
+32 
+Theory of 
+International Trade 
+trade leads to enlargement of the market which further leads to specialisation and 
+division of labour. This process further results in an increase in output per unit of 
+input.  
+The comparative cost theory exhibits increased world production as gains from 
+international trade in the real-world scenario. Each trading country gains by way 
+of getting relatively more, better and cheaper goods. In the entire process no 
+country lose by having less than what they needed. 
+In this way we can say that gains from trade are results of specialization in 
+production from the division of labour, economies of scale, and agglomeration 
+along with relative availability of factor resources.  
+When there is free trade, goods and services produced all over the world are 
+available to people everywhere. In other words, international trade makes 
+available to the people of a country, a galaxy of goods and services at the most 
+competitive prices. A country may not have the factor endowments or 
+technological capability to produce certain goods. If there is no trade with other 
+countries, it will have to do without such goods but through international trade, it 
+can procure them. 
+The gains from international trade may be summed up as follows: 
+i) Expansion of the size of the market 
+ii) Division of labour 
+iii) Gains from specialisation 
+iv) Gains from increased product variety 
+v) Gains from competition 
+vi) Gains from increased economies of scale 
+vii) Productivity gains. 
+2.4  FACTORS DETERMINING SIZE OF GAINS 
+Differences in cost ratios:  if country A has a comparative advantage in the 
+production of wheat and country B has a comparative advantage in the 
+production of cotton, both countries will gain from trade. The size of the gain 
+will depend on the cost of production of each commodity in both countries. The 
+gain from international trade depends upon the cost ratios of differences in 
+comparative cost ratios in the two trading countries. The larger the difference 
+between exchange rate and cost of production the larger the gains from trade and 
+vice versa. 
+1) Reciprocal demand: The reciprocal demand means the relative strength and 
+elasticity of demand of one country for the product of the other in exchange 
+for its product. 
+
+
+--- Page 34 ---
+ 
+ 
+ 
+33 
+Gains from 
+Trade 2) Level of income: The level of money income of a country is another factor 
+which determines the gains and the share of trade. A country whose goods 
+have constant demand in other countries will have a high level of money 
+income.  
+3) Terms of trade (also called “trading price”): It is the most important factor 
+which determines the gains from trade. The international terms of trade refer 
+to the rate at which one commodity of a country is exchanged for another 
+commodity of the other country. If the cost ratio and terms of trade are closer 
+to each other, more will be the gains from the trade of the participating 
+countries. 
+4) Productive efficiency: An increase in the productive efficiency of a country 
+also determines its gains from trade. It lowers the costs of production and 
+prices of goods in the home country. As a result, the other country gains by 
+importing cheap goods and its terms of trade improve. 
+5) Nature of commodities exported:  Another factor is the nature of 
+commodities exported by a country.  A country that exports mainly primary 
+p
+roducts has unfavourable terms of trade. Consequently, it gains from trade 
+will be smaller.  On the contrary, a country exporting manufactured goods 
+has favourable terms of trade and its gain from trade will be larger. 
+6) Technological conditions: In a country which is technologically advanced 
+and has an abundance of capital, its volume of foreign trade will be large and 
+so it will gain from international trade.  On the other hand, if a country is 
+technologically backward with abundant labour, its volume of foreign trade 
+will be small and so will be gains from trade. 
+7) Size of the country:  If a country is small, it is relatively easy for them to 
+specialize in the production of one commodity and export the surplus 
+production to a large country and can get more gains from international trade. 
+Whereas if a country is large, then they must specialise in more than one 
+good because the excess production of only one commodity cannot be 
+exported fully to a small-sized country as the demand for the commodity will 
+reduce very frequently. So, the smaller the size of the country, the larger the 
+gains from trade. 
+8) Factor availability:  International trade is based on specialization and a 
+country specializes depending upon the availability of factors of production. 
+It will increase the domestic cost ratios and thereby the gains from trade. 
+9) Productive Efficiency: An increase in the productive efficiency of a country 
+also determines its gains from trade. A highly efficient country can keep the 
+cost of production and price of the goods lower than other countries.  
+
+
+--- Page 35 ---
+ 
+ 
+ 
+34 
+Theory of 
+International Trade 
+Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Why do countries trade with each other? What are the gains from trade? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Examine the main source of gains from trade? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) How do the gains from trade help an economy grow? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2.5 PRODUCTION POSSIBILITIES CURVE IN 
+INTERNATIONAL TRADE 
+Production Possibilities Curve (also known as production frontier, transformation 
+curve, product substitution curve or an opportunity cost curve) shows all the 
+various alternative combinations of the two commodities that a nation can 
+produce by fully utilizing all its factors of production with the best available 
+technology.  
+The slope of the production possibilities curve refers to the marginal rate of 
+transformation (MRT) or the amount of a commodity that the nation must give up 
+to get one additional unit of the second commodity.  
+If the nation faces constant costs or MRT, then its production possibilities curve 
+is a straight line with an (absolute) slope equal to the constant opportunity costs 
+or MRT and the relative commodity price in the nation. 
+The country lacks the capacity beyond the limit specified by the production 
+possibility curve. It shows the production frontier of the country. 
+Producing output beyond the production frontier is not possible. If the output of 
+the two or one of the two commodities is below the production frontier, that 
+indicates unemployment or excess capacity. To be more specific, consider a 
+situation when the production of Y commodity is reduced to produce more units 
+of X commodity, it signifies that Y has been transformed or substituted into X-
+commodity. Therefore, it is called an opportunity cost curve, transformation 
+curve or product substitution curve. 
+
+
+--- Page 36 ---
+ 
+ 
+ 
+35 
+Gains from 
+Trade Example: When all the available resources are employed in production of only 
+one commodity say commodity X, commodity X can be produced at maximum 
+possible level without any production of another commodity say Y. On the 
+opposite, if all the resources are utilised in the production of Y, the country will 
+be able to produce maximum quantity of Y commodity with no output of X 
+commodity. Between these two extreme situations, there can be various 
+production possibilities involving more or fewer quantities of the two 
+commodities. If the production of X is to be increased, there will be a diversion 
+of resources from the production of Y to the production of X, resulting in reduced 
+production of Y. 
+MRT is the ratio of a change in the quantity of commodity Y to a change in the 
+quantity of X commodity. 
+MRTxy = δy/δx 
+Since additional production of X involves reduced output of Y, the MRT is 
+negative. It signifies that the production possibility curve or opportunity cost 
+curve slopes negatively, or it slopes downwards from left to right. 
+The MRT xy can be expressed also as a ratio of the marginal cost of X to the 
+marginal cost of Y. 
+It can be determined as below: 
+δC = MCx. δx + MCy. δy 
+Where δC = Change in cost, δx = Change in the quantity of X commodity, δy = 
+Change in the quantity of Y commodity. MC and MC are the marginal costs of X 
+and Y commodities respectively. 
+If   
+δC = 0 
+MCx. δx + MCy. δy = 0 
+MCx. δx  = - MCy. δy 
+   
+   
+     
+  
+ 
+or  MRTxy =  
+  
+  
+ = 
+   
+   
+ 
+If the production is governed by constant returns, the MC x relative to MC y 
+remains unchanged or MRT xy remains the same. It means the slope of the 
+production possibility curve or opportunity cost curve is the same and it is a 
+negatively sloping straight line. If the production is governed by diminishing 
+returns, MC X rises relative to the MC y. It signifies that the slope or MRT xy 
+increases. In such a situation, the opportunity cost curve is a negatively sloping 
+concave curve to the origin. If the production is governed by increasing returns, 
+the MC X decreases relative to the MC y. The slope or MRT xy decreases. In this 
+
+
+--- Page 37 ---
+ 
+ 
+ 
+36 
+Theory of 
+International Trade 
+case, the opportunity cost curve is a negatively sloping convex curve to the 
+origin. These cases are depicted in Fig. 2.1 (a), 2.1 (b) and 2.1(c) respectively.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.1(a), 2.1(b) and 2.1 (c) 
+The opportunity cost curve simply indicates the alternative production 
+possibilities. It does not show what combinations of the two commodities will be 
+produced. 
+In Fig. 2.1, AB is the production possibility curve or the opportunity cost curve. 
+In Fig. 2
+.1 (a), the opportunity cost curve AB is the negatively sloping straight 
+line. Along this curve, MRTxy= - δy/δx = MCx/MCy remains unchanged due to 
+constant opportunity cost conditions (constant return) 
+In Fig. 2.1 (b), the opportunity cost curve AB is negatively concave. Along it, 
+MRTxy = - δy/δx = MCx/MCy increasing opportunity cost condition 
+(diminishing returns).  
+In Fig. 2.1 (c), the opportunity cost curve AB is a negatively sloping convex 
+curve to the origin on account of decreasing opportunity cost condition 
+(increasing returns). 
+O 
+L* 
+ Labour 
+B 
+X Commodity  
+Y Commodity 
+A 
+Y 
+O 
+X 
+(a) 
+B 
+X 
+Commodity  
+Y Commodity 
+A 
+Y 
+O 
+X 
+(b) 
+B 
+X Commodity  
+Y Commodity 
+A 
+Y 
+O 
+X 
+(c) 
+
+
+--- Page 38 ---
+ 
+ 
+ 
+37 
+Gains from 
+Trade Check Your Progress 2 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Why is the production possibilities curve of each nation usually different? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Is trade still possible between two nations if they have identical production 
+possibilities curves? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3)  Under what conditions can no trade take place between two nations with 
+different production possibility curves? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4)  What happens if two nations are identical in every respect? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2.6  MEASUREMENT OF GAINS FROM TRADE    
+Jacob Viner pointed out that  the gains from trade were measured by the classical 
+economists in terms of: 
+i) An increase in national income, 
+ii) Differences in comparative costs, and 
+iii) Terms of trade. 
+Some approaches to the concept of gains from trade and  their measurement are 
+discussed below: 
+1) Adam Smith’s Approach: 
+According to Adam Smith, international trade helps to improve the 
+productive capacity of trading nations. It increases value of the product as 
+excess of a product in domestic market can be exported. A nation can also 
+import products which are high in demand in domestic market. Thus,  gains 
+
+
+--- Page 39 ---
+ 
+ 
+ 
+38 
+Theory of 
+International Trade 
+from international trade are in form of maximum welfare through maximum 
+possible export earnings. 
+A country reaches the point of optimum allocation as each country specializes 
+in production of a commodity in which it has cost advantage. Specialization 
+results in economies of scale i.e., reduced cost of the product.  
+2) Ricardo-Malthus Approach: 
+In unit 1,  we have discussed about Comparative advantage theory. You can 
+recall that  Ricardo asserted that  principle of comparative costs in 
+international trade results in saving costs and resources.In the words of David 
+Ricardo, ―The advantage to both places is not that they have any increase in 
+value but with the same amount of value they are both able to consume and  
+enjoy an increased quantity of commodities."  
+Malthus had expressed in this regard views  similar to those of Adam Smith. 
+The gain from trade, according to him, consists of "the increased value, 
+which results from exchanging what is wanted less for what is wanted more." 
+The international exchange on this basis increases the "exchangeable value of 
+our possession, our means of enjoyment and our wealth." 
+The Ricardo-Malthus approach to gains from trade was illustrated by Ronald 
+Findlay in Fig. 2.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.2: The Ricardo-Malthus approach to gains from trade 
+In Fig. 2.2., AB is the production possibility curve under constant cost 
+conditions before the trade. Suppose the production takes place at E. If this 
+country enters into trade, the international exchange ratio line shifts to A 1B 
+and
+ production of two commodities X and Y now takes place at C. The 
+production at point C will be possible if the labour input increases an extent 
+that the production possibility curve shifts to A2B2. The gain from trade will 
+be measured by BB2/OB. 
+ 
+C 
+Y - 
+Commodity 
+Y 
+X- Commodity 
+ O 
+ X 
+I 
+A 
+A3 
+A2 
+A1 
+E 
+D 
+B 
+ B3 
+ B2 
+
+
+--- Page 40 ---
+ 
+ 
+ 
+39 
+Gains from 
+Trade Malthus criticized this measure of gain from trade as exaggerated. According 
+to him, if the production possibility curve shifts to A 2B2, point C cannot be 
+the point of equilibrium. The relative pric es along A 2B2 are more favourable  
+to the export good X than along the line A 1B. Some points to the right of C 
+rather than C itself would be preferable to the community. Hence the gain 
+from trade along line A 1B cannot be measured by an increase in the input of 
+labour in the ratio BB2/OB. It tends only to overstate the gain from trade. 
+Ronald Findlay attempted a modification over the Ricardian measure of gain 
+from trade by introducing in this analysis the community indifference curve. 
+Given the community indifference curve I, the equilibrium does not take 
+place at the Ricardian trade equilibrium position C but at D where the 
+production possibility curve A 3B3 became tangent to the community 
+indifference curve I. 
+At point D, everyone in the community is better off than at C. The gain from 
+trade in this situation is BB3/OB rather than BB2/OB. The measure of gain 
+from trade BB3/OB vindicates  the Malthusian criticism that the Ricardian 
+measure of gain from trade was an over-estimation. 
+3) J.S. Mill’s Approach: 
+Ricardian approach did not explain the distribution of gains from trade among 
+the trading countries. J.S. Mill in his approach attempted to analyse both the 
+gains from trade and the distribution thereof among the trading countries. He 
+stressed on the concept of reciprocal demand. 
+According to him, reciprocal demand determines terms of trade, which  is a 
+ratio of quantity imported to the quantity exported by a given country. The 
+terms of trade determine the distribution of gains of trade between the trading 
+partners. 
+Suppose in country A, 1units of labour can produce 10  units of X and  10 
+units of Y so that the domestic exchange ratio in country A is: 1 unit of X = 1 
+unit of Y. In country B, 2 units of labour can produce 12  units of X and  18 
+units of Y so the domestic exchange ratio in this country is: 1 unit of X = 1.5 
+units of Y. The domestic exchange ratios set the limits within which  the 
+actual exchange ratio or terms of trade will get determined. 
+The reciprocal demand or the strength of the elasticity of demand of the two 
+trading countries for the products of each other will decide the actual  rate of 
+exchange of two commodities. If A's demand for commodity Y is less elastic, 
+the terms of trade will be closer to its domestic exchange ratio: 1  unit of X = 
+1 unit of Y. In this case,  the terms of trade will be favourable for country B 
+and against country A. 
+ 

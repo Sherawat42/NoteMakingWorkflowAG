@@ -1,0 +1,444 @@
+--- Page 12 ---
+ 
+ 
+ 
+11 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+ 
+ 
+ 
+ 
+ 
+BLOCK 1 
+ 
+ 
+THEORY OF INTERNATIONAL TRADE 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Unit 1 Classical and Neo-Classical Theories of 
+International Trade 
+Unit 2 Gains from Trade 
+
+
+--- Page 13 ---
+ 
+ 
+ 
+12 
+Theory of 
+International Trade BLOCK INTRODUCTION 
+This block reveals the rationale behind International trade and why countries engage in trade. 
+It presents a comparative picture of various theories of International trade. It highlights the 
+various gains associated with international trade and how they can be measured. A 
+comparative picture of various types of gains has also been presented in this block. 
+This block consists of 2 units. 
+Unit 1: Classical and Neo-Classical Theories of International Trade  discusses the major 
+theories of international trade. It presents the rationale behind why countries trade with each 
+other. The unit covers discussion on major theories, like absolute advantage theory, 
+comparative theory, and H-O theory. Further, the theories like Stolper – Samuelson theorem, 
+Factor Price Equalisation theory, and Rybczynski theorem developed by extending the H- O 
+model have also been discussed.  
+Unit 2: Gains from International Trade  throws light on sources of gains, factors 
+determining gains from trade and how these gains can be measured. It also discusses the 
+concept of the Production Possibilities Curve in International trade. The unit also elucidates 
+the situation of the potential and actual gain, Free Trade versus no trade and static and 
+dynamic gains. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+--- Page 14 ---
+ 
+ 
+ 
+13 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+UNIT 1  CLASSICAL AND NEO-CLASSICAL 
+THEORIES OF INTERNATIONAL TRADE 
+Structure 
+1.0 Objectives 
+1.1 Introduction 
+1.2 Theory of Mercantilism 
+1.3 Absolute Advantage Theory 
+1.4 Comparative Advantage Theory 
+1.5 Heckscher –Ohlin Theory 
+1.6 Stolper – Samuelson Theorem 
+1.7 Factor-Price Equalization Theorem 
+1.8 Rybczynski Theorem 
+1.9 Lets Sum Up 
+1.10 Key Words 
+1.11 Some useful References  
+1.12 Answers/Hints to Check Your Progress Exercise     
+1.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+ Explain the difference between Domestic and International Trade;  
+ describe why two nations trade with each other; 
+ explain Absolute Advantage Theory; 
+ explain Comparative Advantage Theory; 
+ differentiate between Absolute Advantage Theory and Comparative 
+Advantage Theory; 
+ describe Heckscher–Ohlin Theory;  
+ explain the Stolper – Samuelson theorem; 
+ explain Factor Price Equalisation theory; and  
+ describe Rybczynski Theorem. 
+                                                 
+ Contributed by  Sh. Rahul Chaudhary, Consultant IGNOU.  
+
+
+--- Page 15 ---
+ 
+ 
+ 
+14 
+Theory of 
+International Trade 1.1   INTRODUCTION 
+In this unit, we will discuss the major theories of international trade. At the 
+beginning of this unit, we will try to understand what international trade is and 
+how it differs from domestic trade. The reasons why countries trade with each 
+other will also be discussed. Having understood these, the major theories of 
+international trade that have evolved, like absolute advantage theory, comparative 
+theory, and H-O theory, will be explained. Further, the theories like Stolper – 
+Samuelson theorem, Factor Price Equalisation theory, and Rybczynski theorem 
+developed by extending the H-O model will also be discussed.  
+Before reading the theories of international trade you should understand what is, 
+international trade, and why does trade take place?  
+In simple words, trade refers to buying and selling goods and services in 
+exchange for money. The sellers sell the goods and services while the buyers buy 
+the same. When these activities occur domestically in the country, it is referred to 
+as domestic trade or only trade. But, when the exchange of goods and services 
+takes place between buyer and seller of two different nations it is called 
+international trade.   
+Now, the question is, why do we trade at all?  
+The simple answer to this question is that any nation cannot produce everything it 
+needs. One nation may have plenty of natural resources but a scarcity of meat, 
+fish, etc. One country may be an efficient milk producer but have a scarcity of 
+wheat and rice. In this situation, nations come together and exchange goods 
+among them. We will discuss more about gains from trade in Unit 2. 
+ 
+1.2  THEORY OF MERCANTILI SM 
+Mercantilism is an exercise that is more than 500 years old. The base of this 
+theory was the "commercial revolution", the transition from local economies to 
+national economies, from feudalism to capitalism, and from a rudimentary trade 
+to a larger international trade. 
+The theory of mercantilism postulates that countries should encourage exports 
+and discourage imports. The tendency to export more and import less and receive 
+gold (as gold was the medium of exchange) in exchange is called Mercantilism. 
+Mercantilism was the economic system of the major trading nations during the 
+16th to 18 th centuries. The theory assumed that national wealth and power were 
+best served by increasing exports and collecting precious metals like gold in 
+return. The theory states that government should play a vital role in regulating the 
+economy to encourage exports and discourage imports by using subsidies and 
+taxes. According to this theory, the government should accumulate as much gold 
+as possible, which can only be done through exports.
+  
+
+
+--- Page 16 ---
+ 
+ 
+ 
+15 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Explain the difference between Domestic and International Trade. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Write down a short note on Mercantilism. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+1.3 ABSOLUTE ADVANTAGE THEORY 
+Several theories have been developed in light of the activities discussed above. 
+These theories have evolved for more than 200 years now.  Adam Smith 
+propounded the basic theory of international trade in 1776. Adam Smith in his 
+seminal work „An inquiry into the Nature and Causes of the Wealth of the 
+Nation‟ for the first time, provided a theoretical explanation of why trade should 
+take place between two nations.  
+Adam Smith, in his book propounded the theory of absolute advantage, which 
+states that a country should specialize in those products which it can produce 
+efficiently, where efficiency is measured in terms of absolute labour costs. This 
+theory assumes that there is only one factor of production: labour. 
+Adam Smith wrote in „The Wealth of Nations ‟, “If a foreign country  can supply 
+us with a commodity cheaper than we can make it, better buy it of them with 
+some part of the produce of our industry, employed in a way in which we have 
+some advantage". 
+According to Adam Smith, trade between two nations is based on absolute cost 
+advantage. When one is more efficient than (or has an absolute advantage over) 
+another in the production of one commodity but is less efficient than (or has an 
+absolute disadvantage with respect to) the other nation in producing a second 
+commodity, then both the nations can gain by each specializing in the production 
+of the commodity of its absolute advantage and exchanging part of its output with 
+the other nation for the commodity of its absolute disadvantage. In this process, 
+the resources are utilized most efficiently and the output of both commodities 
+will rise.  This increase in output of both the commodities measures the Gains 
+from specialization in production available to be divided between the two nations 
+through trade. 
+
+
+--- Page 17 ---
+ 
+ 
+ 
+16 
+Theory of 
+International Trade 
+In very simple words, he stated that trade would benefit both countries if country 
+A exported the goods, which it can produce at a lower cost than country B and 
+imported the goods, which country B can produce at a lower cost than it. 
+The above description of the theory can be understood better with the following 
+example. Suppose there are two countries A and B, which produce wheat and rice 
+with an equal amount of resources i.e. 200 labourers. Country A uses 10 
+labourers to produce 1 ton of wheat and 20 labourers to produce 1 ton of rice. 
+Country B uses 25 units of labourers to produce 1 ton of wheat and 5 units of 
+labourers to produce 1 ton of rice.  
+Table
+ 1.1 Number of labourers used by Country A and Country B for 
+producing 1 ton of Wheat and Rice  
+ Country A  Country B  
+Wheat (1 ton) 10 labourers 25 labourers 
+Rice (1 ton) 20 labourers 5 labourers 
+This is evident from Table 1.1 that country A has an absolute advantage in 
+producing wheat as it can produce 1 ton of wheat by using fewer labourers as 
+compared to country B. On the other hand, country B has an absolute advantage 
+in producing rice as it can produce 1 ton of rice by employing fewer labourers in 
+comparison to country A. Now, if there is no trade between these countries and 
+resources (in this case there are a total of 200 labourers) are being used equally to 
+produce wheat and rice, country A would produce 10 tons of wheat (100/10), and 
+5 tons of rice (100/20) and country B would produce 4 tons of wheat (100/25) 
+and 20 tons of rice (100/5). Thus, total production without trade (i.e., autarky) is 
+39 tons (14 tons of wheat and 25 tons of rice). 
+Table
+ 1.2 Production volume of wheat and rice without trade 
+ Country A (in Tons) Country B (in Tons) 
+Wheat 10 4 
+Rice 5 20 
+Now, if both countries open up to trade with each other and specialize in goods in 
+which they have an absolute advantage, the total production would be higher. If a 
+trade takes place, Country A would produce 20 tons of wheat with 200 labourers; 
+whereas, country B would produce 40 tons of rice with 200 labourers. Thus, total 
+production would be 60 units (20 tons of wheat and 40 tons of rice). 
+Table
+ 1.3 Production volume of wheat and rice with trade 
+ Country A (in Tons) Country B (in Tons) 
+Wheat 20 0 
+Rice 0 40 
+ 
+
+
+--- Page 18 ---
+ 
+ 
+ 
+17 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+It is clear from the above descriptive example that without specialization, the 
+total production of countries was 39 tons which increased to 60 tons after 
+specialization from trade opportunities. This is the welfare gains from trade. 
+Therefore, the theory of absolute advantages shows that pattern of trade based on 
+absolute cost differences would benefit both the countries. 
+1.4  COMPARATIVE ADVANTAGE THEORY   
+Elaborating on the theory of absolute advantage, David Ricardo presented his 
+work in 1817 in his book 'Principles of Political Economy and Taxation'.  In this 
+book, he presented the law of comparative advantage. This is one of the most 
+important and still unchallenged laws of economics with many practical 
+applications. The Ricardian theory states that trade can be beneficial for two 
+countries even if one country has an absolute advantage in all the products and 
+the other country has no absolute advantage in any of the products.  Ricardo 
+argued that “…a nation, like a person, gains from the trade by exporting the 
+goods or services in which it has its greatest comparative advantage in 
+productivity and importing those in which it has the least comparative 
+advan
+tage”. A nation behaves no differently from an individual who does not 
+attempt to produce all the commodities he needs.  Rather, he produces only that 
+commodity that he can produce most efficiently and then exchanges part of his 
+output for the other commodities he needs or wants.  The first nation would be 
+better off provided they specialize in the production and export of those 
+commodities in which its absolute disadvantage is smaller (this is the commodity 
+of its comparative advantage) and import the commodity in which its absolute 
+disadvantage is greater (this is the commodity of its comparative disadvantage).  
+This theory assumes that labour is the only factor of production in two countries, 
+with zero transport cost, and no trade barriers within the countries. This theory 
+can be understood better from the example cited in Table 1.4.  
+Suppose there are two countries, A and B, producing two commodities, wheat 
+and rice, with labour as the only factor of production. Now assume that both the 
+countries have 200 labourers and use 100 labourers to produce wheat and 100 
+labourers to produce rice. 
+Table
+ 1.4 Production of wheat and rice by Country A and B before the trade 
+ Country A (in tons) Country B (in tons) 
+Wheat 20 15 
+Rice 40 10 
+Table 1.4 shows that country A can produce 20 units; whereas, country B can 
+produce 15 units of wheat by employing the same number (100) of labourers. In 
+addition, country A can produce 40 units; whereas country‟ B can produce 10 
+units of rice by employing 100 labourers. 
+
+
+--- Page 19 ---
+ 
+ 
+ 
+18 
+Theory of 
+International Trade 
+Thus, country A has an absolute advantage in producing both items. Country A 
+employs the same number of labourers (100 labourers in the production of each 
+item) in producing rice and wheat; however, rice production is higher than wheat 
+production. This reveals that country A has a comparative advantage in 
+producing rice. Similarly, country B also employs the same number of labourers 
+(100 labourers in producing each good) in manufacturing wheat and rice; but, its 
+wheat production is more than rice. It indicates that country B has a comparative 
+advantage in producing wheat. 
+For example, country A has decided to produce 60 units of rice by employing 
+150 labourers. It uses 50 labourers to produce 10 units of wheat. On the other 
+hand, country B has decided to use all the 200 labourers to produce 30 units of 
+wheat and stop the production of rice. In this situation, country A exchanges 14 
+units of rice with 14 units of wheat produced by country B. (see Table 1.5).  
+Table
+ 1.5 Production after specialization 
+ Country A Country B 
+Wheat 10 30 
+Rice 60 0 
+Table 1.6 Situation after the trade takes place 
+ Country A Country B 
+Wheat 24 16 
+Rice 46 14 
+It can be understood from Table 1.6 that both countries have benefitted or gained 
+from trade. Before the trade, country A had only 20 units of wheat and 40 units 
+of rice; after the trade, country A had 24 units of wheat and 46 units of rice. 
+At the same time, country B has 15 units of wheat and 10 units of rice before the 
+trade, while it has 16 units of wheat and 14 units of rice after the trade. Therefore, 
+comparative advantage theory clarifies that trade can create benefits for both 
+participating countries even if one country has an absolute advantage in the 
+production of both commodities.  
+Thus, it is clear from the above theories that the mercantilists believed that one 
+nation could gain only at the expense of another nation and advocated strict 
+government control and regulations of all economic activities. Adam Smith 
+believed that all nations would gain from free trade and strongly advocated a 
+policy of laissez-faire (i.e., as little government interference with the economic 
+system as possible).  Free trade would cause world resources to be utilized most 
+efficiently and would maximize world welfare.  There were to be only a few 
+exceptions to this policy of laissez-faire and free trade.  One of these was the 
+protection of industries important for national defence. 
+
+
+--- Page 20 ---
+ 
+ 
+ 
+19 
+Classical and Neo-
+Classical Theories of 
+International Trade 
+Check Your Progress 2 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Explain the central proposition of the absolute advantage theory and 
+comparative advantage theory. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Differentiate between Adam Smith and Ricardo‟s theory of international 
+trade. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3)  With reference to the Ricardian theory of international trade, explain how 
+nations gain from trade. 
+…………………………………………………………
+………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+1.5  HECKSCHER -OHLIN THEORY 
+In the preceding section, we have seen that the difference in relative commodity 
+prices between two nations is the reason for their comparative advantage, which 
+forms the basis for mutually beneficial trade. Then we explained the reason, or 
+cause, for the difference in relative commodity prices and comparative advantage 
+between the two nations. The second way we extend our trade model is to 
+analyze the effect of international trade on the earnings of factors of production 
+in the two trading nations. That is, we want to examine the effect of international 
+trade on the earnings of labour as well as on international differences in earnings. 
+These two important questions were left largely unanswered by Smith, Ricardo, 
+and Mill. According to classical economists, the comparative advantage was 
+based on the difference in the productivity of labour among nations, but they did 
+not explain such a difference in productivity, except for possible differences in 
+climate. The Heckscher –Ohlin theory goes much beyond that by extending the 
+trade model of the previous sections to examine the basis for comparative 
+advantage and the effect that trade has on factor earnings in the two nations. 
+(Salvatore 2013) 
+
+
+--- Page 21 ---
+ 
+ 
+ 
+20 
+Theory of 
+International Trade 
+Bertil Ohlin has advocated the Modern Theory of international trade. Ohlin has 
+drawn his ideas from Eli Heckscher's General Equilibrium Analysis. Hence it is 
+also known as Heckscher Ohlin (H-O) Theory.  
+Heckscher-Ohlin theory begins where the Ricardian theory of international trade 
+ends. The Ricardian theory states that the basis of international trade is the 
+comparative or relative cost differences. But he did not explain how this 
+comparative cost difference emerges. Ohlin‟s theory explains the real cause of 
+this difference.  
+Ohlin states that trade takes place due to the different relative prices of different 
+goods in different countries. The difference in the relative price of a commodity 
+is due to differences in the relative costs and factor prices in different countries. 
+According to the H-O theory, the differences in factor prices are due to 
+differences in factor endowments in different countries. The trade pattern is 
+explained in terms of differences in relative factor endowments i.e., the relative 
+resource supply in an economy. Ohlin‟s theory is also described as the factor 
+endowment theory. Ohlin‟s theory is usually expounded in terms of a two -factor 
+model with labour and capital as the two factors of endowments. Trade occurs 
+due to the differences in factor endowments. Some countries have plenty of 
+capital, while others have an abundance of labour. The Heckscher-Ohlin theorem 
+postulates that countries rich in labour will export labour-intensive goods and 
+countries with plenty of capital will export capital-intensive products. 
+Heckscher-Ohlin's theory explains the modern approach to international trade 
+based on the following assumptions: - 
+1) There are two countries involved, countries A and B 
+2) There are two factors of production, labour and capital. 
+3) There are two goods, X and Y, of which X is labour-intensive, and Y is 
+capital-intensive. 
+4) Country A is a labour
+-abundant country В is capital-rich. 
+5) There is perfect competition in both the commodity and factor markets. 
+6) All production functions are homogeneous of the first degree. Hence there are 
+constant returns to the scale. 
+7) There are no transport costs or other impediments to trade. 
+8) Demand conditions are identical in both countries. 
+These assumptions have been made to explain the meaning of comparative price 
+advantage or relative price difference and to deduce the major propositions of the 
+factor endowment theory. Given these assumptions, Ohlin‟s thesis contends that, 
+country exports goods which use relatively a greater proportion of its relatively 
+abundant and thus cheap factors. It is implied that trade occurs because 
+differences in relative commodity prices are caused by differences in relative 
+factor prices (thus a comparative advantage) because of differences in the factor 
+endowments among the countries. 
