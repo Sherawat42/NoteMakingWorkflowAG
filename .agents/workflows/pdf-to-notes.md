@@ -22,6 +22,37 @@ Derive everything else from the path:
 Example: `/Users/manish/Books/Indian Economics/Block-1 205.pdf`
 → subject = `Indian Economics`, book name = `Block-1 205`
 
+### Setup — run once before anything else
+
+Verify Python is available and install the required library:
+
+```bash
+python --version
+```
+
+Must be 3.8 or higher. If the command fails, try `python3 --version` and use `python3`
+in place of `python` for all subsequent commands.
+
+```bash
+pip install -r requirements.txt
+```
+
+If that fails due to permissions, try:
+```bash
+pip install --user -r requirements.txt
+```
+
+`requirements.txt` lists only `pypdf`. The combine script (`combine_notes.py`) has no
+external dependencies — it uses only Python standard library modules.
+
+If the split script fails with `ModuleNotFoundError: No module named 'pypdf'`, it means
+the install didn't reach the Python environment being used. Try:
+```bash
+python -m pip install pypdf
+```
+
+---
+
 ### Working directory
 All outputs for this PDF live under one isolated folder:
 ```
