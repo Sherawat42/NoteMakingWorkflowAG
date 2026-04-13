@@ -1,0 +1,62 @@
+{
+  "source_pdf": "/Users/manishsherawat/Workplace/NoteMakingWorkflowAG/output/MEC107 International Trade/Block-7 mec107/input/Block-7 mec107.pdf",
+  "source_filename": "Block-7 mec107.pdf",
+  "total_pages": 40,
+  "chunk_size": 10,
+  "smart_split": true,
+  "total_chunks": 5,
+  "chunks_directory": "/Users/manishsherawat/Workplace/NoteMakingWorkflowAG/output/MEC107 International Trade/Block-7 mec107/chunks",
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "filename": "chunk_001.pdf",
+      "text_filename": "chunk_001.txt",
+      "page_range": [
+        1,
+        10
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 2,
+      "filename": "chunk_002.pdf",
+      "text_filename": "chunk_002.txt",
+      "page_range": [
+        11,
+        20
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 3,
+      "filename": "chunk_003.pdf",
+      "text_filename": "chunk_003.txt",
+      "page_range": [
+        21,
+        28
+      ],
+      "pages": 8
+    },
+    {
+      "chunk_id": 4,
+      "filename": "chunk_004.pdf",
+      "text_filename": "chunk_004.txt",
+      "page_range": [
+        29,
+        38
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 5,
+      "filename": "chunk_005.pdf",
+      "text_filename": "chunk_005.txt",
+      "page_range": [
+        39,
+        40
+      ],
+      "pages": 2
+    }
+  ],
+  "created_at": "2026-04-13T03:43:16.897551+00:00"
+}

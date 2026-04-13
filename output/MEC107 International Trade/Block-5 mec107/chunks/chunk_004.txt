@@ -1,0 +1,479 @@
+--- Page 30 ---
+ 
+ 
+ 
+29 
+International 
+Financial Markets 
+and Instruments 
+11.8  LET US SUM UP 
+In this unit, we discussed about foreign exchange market and international 
+financial market instruments. Foreign exchange market refers to instruments 
+denominated in foreign currencies with a maturity of different periods from one 
+day to more than a year. The foreign exchange market is dominated by many 
+central banks, commercial banks, other financial institutions, and nonfinancial 
+institutions, such as corporations and governments. All these are players in the 
+foreign-exchange market. The foreign -exchange market is divided into the over -
+the-counter market (OTC) and the exchange -traded market. Foreign exchange is 
+money denominated in another nation's currency or group of nations. The 
+exchange rate is the price of a currency. Companies use foreign exchange to  
+settle transactions involving the imports and exports of goods and services, for 
+foreign investments, and to earn money through arbitrage or speculation. 
+International financial markets and operations comprise buying and selling 
+currencies, deposit taking  and lending and issuance of securities. Market 
+segments are classified according to the nature of financial operations. Money 
+markets deal with exchange or exchange -related transaction, credit markets deals 
+with deposit taking and lending. Capital markets  and equity markets are 
+concerned with issuance of securities and issuance of international equities 
+respectively. 
+An option is the right, but not the obligation, to trade foreign currency in the 
+future. Options can be traded OTC or on an exchange. A foreign currency future 
+is an exchange-traded instrument that guarantees a future price for the trading of 
+foreign exchange, but the contracts are for a specific amount and specific 
+maturity date. 
+Euro market transactions are financial transact ions denominated with currency 
+outside the country of its origin. Euro markets consist of Eurobanks that offer 
+wholesale deposits and loans in favourable jurisdiction and in a variety of 
+currencies other than that of the country where the banks are situated. These Euro 
+banks are entirely free of market regulatory controls. Euro market operations 
+have been medium to long -term lending with floating interest rates. Indian 
+companies have been raising funds from international financial markets by 
+issuing Euro bo nds, Euro -convertible bonds and Euro equities. ‘Global 
+Depository Receipts (GDRs) are used to tap multiple markets using a single 
+instrument. 
+Risk is widespread in financial markets. The risk in international financial 
+markets is greater than domestic mark ets. Various kinds of risk are involved in 
+international financial transactions. Such risks are generally categorised into 
+three: transaction risk, translation risk, and economic risk. 
+
+
+--- Page 31 ---
+ 
+ 
+ 
+30 
+International  
+Finance 11.9  KEY WORDS 
+Euro banks  The banks which accept deposits and make 
+loan in foreign currencies. 
+Euro bonds A bond placed in the countries other than 
+those in whose currency it is denominated. 
+Euro-Commercial Papers These are short -term promissory notes 
+issued on an unsecured basis by commercial 
+and financial institutes. 
+Euro dollar Dollar deposited in a bank outside its 
+country of origin.  
+Euro market Transactions in Eurodollar, Euroyen etc.  
+Foreign Bond The bond sold outside the borrower's 
+country and is denominated in the currency 
+of the country of issue. 
+LIMEAN The average of LIBID and LIBOR. 
+London-Interbank Offered rate 
+(LIBOR) 
+The rate at which funds are offered to a 
+London or by a London bank to another 
+London Bank. 
+11.10 SOME USEFUL REFERENCES 
+Assonebb (AEB) (2009). INTERNATIONAL FINANCIAL MARKET 
+(ENCYCLOPEDIA), https://www.bankpedia.org/termine.php?c_id=23258 
+Bank for International settlements (2022, March 15). Triennial Central Bank 
+Survey of Foreign Exchange and OTC Derivatives Markets Reporting guid elines 
+for turnover in April 2022,  
+Monetary and Economic Department, https://www.bis.org/statistics/triennialrep/  
+2022survey_guidelinesturnover.pdf 
+Hill, Charles W L and Jain, Arun K (2009). International Business, Sixth Edition, 
+Tata McGraw Hill, New Delhi 
+Investor Tonight (2021, November 21). What is International Financial Markets? 
+Instruments, https://investortonight.com/blog/international-financial-markets/ 
+Issing, Otmar (2000, September 12). The globalisation  of financial markets, 
+https://www.ecb.europa.eu/press/key/date/2000/html/sp000912_2.en.html#:~:text
+=In%20financial%20markets%2C%20the%20process,central%20role%20in%20
+disciplining%20policies. 
+Joshi, Rakesh Mohan (2009). International Business, Oxford Unive rsity Press, 
+New Delhi 
+
+
+--- Page 32 ---
+ 
+ 
+ 
+31 
+International 
+Financial Markets 
+and Instruments 
+Kester, Y. Anne (1995).Following the Money: U.S. Finance in the World 
+Economy, National Academies Press , Washington, DC,https://www.nap.edu/  
+read/2134/chapter/3 
+Koveos, Peter E. and Philippatos, George C. (2021). International Financ ial 
+Markets, Cognella Academic Publishing, San Diego, CA, USA 
+Nandi, Sukumar (2014). Economics of the International Financial System, 
+Routledge India, New Delhi 
+Prakash, Abhinav (2013, August 19). Overview of the International Financial 
+Instruments Issued from Ma laysia, NationalLaw University, Jodhpur (NLUJ), 
+SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311988 
+Ramachandran, Abhilash and Vaidya, Dheeraj (n d). Economic Risk, Wall Street 
+Mojo,https://www.wallstreetmojo.com/economic-risk. 
+11.11 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES  
+Check Your Progress 1 
+1) See section 11.2 
+2) See section 11.3 
+3) See section 11.3.1 
+Check Your Progress 2 
+1) See section 11.4 
+2) See section 11.4 
+3) See section 11.5 
+Check Your Progress 3 
+1) See section 11.6 
+2) See section 11.6 
+3) See section 11.6 
+4) See section 11.7 
+5) See section 11.7 
+ 
+
+
+--- Page 33 ---
+ 
+ 
+ 
+32 
+International  
+Finance 
+UNIT 12  FINANCIAL AND CURRENCY CRISES  
+Structure  
+12.0  Objectives 
+12.1  Introduction 
+12.2  Explaining Financial Crisis 
+12.3  Global Financial Crisis 2007 
+12.4  Unfolding of Global Financial Crisis 
+ 12.4.1 Structure and the Role of Credit Derivatives 
+ 12.4.2 Residential Mortgage-Backed Securities and the bubble burst 
+ 12.4.3 How the crisis of 2007 began? 
+12.5  World's most Devastating Financial Crises in History  
+12.6  The Currency Crisis and Its Effects on Financial Markets 
+12.7  Causes of the Financial Crisis of 2008 
+ 12.7.1 US Banking system problem 
+ 12.7.2 Global Imbalances 
+ 12.7.3 Growth of Securitization and the OTD model 
+ 12.7.4 Financial Innovation 
+ 12.7.5 US Monetary Policy 
+ 12.7.6 Political Factors 
+12.8  The Effects of the Crisis on the Macroeconomy 
+ 12.8.1 Credit Demand Effects 
+ 12.8.2 Credit Supply Effects 
+ 12.8.3 Reduction in Corporate Investment and Increase in Unemployment 
+12.9  Initial Policy Response 
+ 12.9.1 Monetary policy 
+ 12.9.2 Fiscal policy 
+12.10  Let Us Sum Up 
+12.11  Key Words 
+12.12  Some Useful Readings 
+12.13  Answer/Hints to Check Your Progress Exercises 
+ 
+ Contributed by  Dr. Alok Mishra, Associate Professor of Economics, Central University of Hyderabad 
+
+
+--- Page 34 ---
+ 
+ 
+ 
+33 
+Financial and 
+Currency Crises 12.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+• explain the reason behind Financial and currency crisis; 
+• describe the causes, features, consequences, types, and implications of the 
+Global Financial Crisis; 
+• analyse the structure and organisation of the Credit Derivative products and 
+their role in the global financial crisis; and 
+• explain the regulatory responses to the Global Financial Crisis. 
+12.1   INTRODUCTION 
+In this unit, we will understand the phenomenon of financial crisis and its origin. 
+You will also get to learn about the way through which the financial crisis affects 
+any economy. Afterwards we will discuss the Global financial crisis of the year 
+2007 at length by describing its causes, features, consequences, types and 
+implications. We also discuss the structure and organisation of Credit Derivative 
+products and their role in the global financial cris is. Any financial crisis needs to 
+be managed or combatted. To do so there are regulatory responses, which we will 
+discuss in detail.  
+12.2  EXPLAINING FINANCIAL CRISIS 
+Financial System consists of financial markets, financial instruments, and 
+financial services. The financial system plays a pivotal role in channelising 
+savings from savers to dissavers. The Merriam -Webster dictionary defines a 
+crisis as an unstable/crucia l time or situation in which a decisive change is 
+impending. A financial crisis is when financial asset prices are nosedived in 
+value, firms, businesses, multilateral organisations and consumers cannot pay 
+their debts, and financial institutions experience  a shortage in liquidity. A 
+financial crisis is often associated with a bank run where savers lose faith in the 
+banks because of inadequate deposit insurance. A financial crisis is often 
+associated with one or more phenomena: the bursting of a financial bu bble, the 
+mortgage crisis, sovereign default, currency crisis, stock market crashes, credit 
+crunches, severe disruptions in financial intermediation and the supply of 
+external financing to various sectors in the economy, large scale government 
+support (in the form of liquidity support and recapitalisation. A financial crisis is 
+sometimes limited to a single country or one segment of the financial services but 
+is more like to spread regionally or globally. Thus, financial crises are typically 
+multidimensional and can be hard to characterise by employing a single 
+indicator.  
+There are two types of financial crises such as systemic financial crises and non -
+systematic financial crises. A  systemic crisis refers to the risk of the breakdown 
+
+
+--- Page 35 ---
+ 
+ 
+ 
+34 
+International  
+Finance of an entire financial system rather than the failure of one isolated part. It denotes 
+the risk of cascading failure in the financial sector caused by the vertical and 
+horizontal integration within the financial system, as during the Great Depression 
+in the 1930s and the global financial crisis in 2008. As a result, it leads to a 
+severe economic downturn. On the contrary, a  non-systemic crisis involves only 
+one or a few markets or sectors, like the Savings and Loan Crisis. Apart from 
+these, the other forms of financial crises are  currency crises, capital account or 
+balance of payment crises, debt crises and bank crises. A financial crisis occurs 
+when policymakers and finance ministers ignore indirect warnings given by the 
+country's financial market and cannot understand, estimate and forecast the 
+associated risk. Deficiency in financial regulations and under supervision brings 
+instability to the nation's financial markets. 
+Financial crises are age -old problems. The series starts with debt and inflation 
+crises in ancient Greece and Rome to banking, debt, and currency crises affecting 
+many countries in modern times. Each past crisis is an essential subject for 
+policymakers, social scientists and financial practitioners as it teaches a lesson 
+about how to handle and prevent future cris es. Learning from past mistakes and 
+corrective measures not only reduces the incidence and impact of the financial 
+crisis but also enhances understanding of monetary circulations, the impact of 
+internal and external shocks, exchange rate regimes, interest rate and macro 
+linkages etc. – Irving Fisher, Milton Friedman, John Maynard Keynes, Paul 
+Krugman, and John B. Taylor are famous examples. 
+The literature associated with the financial crisis opines that  fundamental factors, 
+such as macroeconomic imbalances  in terms of shocks in money supply, output, 
+prices, wages, interest rates, exchange rates, current account deficits, rising fiscal 
+deficits, the balance of payments deficits in terms of volume and receipts of 
+exports and imports, financial openness measur es, trade openness indicators, 
+foreign investment openness indicators are the potential factors behind the 
+financial crisis. Financial crises sometimes arrive by irrational factors such as 
+bank runs, contagion and spillovers among financial markets, limits  to arbitrage 
+during times of stress, the emergence of asset busts, credit crunches etc.  
+Even after the structural economic reforms in many countries, such as the advent 
+of globalisation, privatisation, and liberalisation, now the question arises what 
+effects do these structural reforms in the financial sector have on economic 
+growth and vice versa? If the financial and real sectors are interlinked, why could 
+macroeconomists and statisticians not forecast the financial crisis well in 
+advance? Joseph Schumpeter (1911) was perhaps the first economist to examine 
+this nexus. Schumpeter distinguishes between producers and entrepreneurs, 
+where entrepreneurs take risks and go for new combinations in the form of 
+innovation. In Schumpeter's theory of economic develo pment, this unique 
+combination or innovation is the main driver to take the economy from a lower 
+level to a higher equilibrium through bank credit. However, in the modern 
+
+
+--- Page 36 ---
+ 
+ 
+ 
+35 
+Financial and 
+Currency Crises banking system, bank credit severely suffers because of a lack of regulatory 
+control and a deposit insurance scheme to protect the banking system. The gross 
+mismatch between short -term saving liabilities of banks for financing long -term 
+investments and uncertainties in the financial markets leads to panic in the bank 
+customers and bank runs. 
+Different schools of thought have multiple perspectives on the role of finance in 
+economic growth. But it is widely accepted in the literature that the financial 
+system plays a pivotal role in facilitating savings in terms of investment and 
+contributing towards growth. However, this is subject to regulatory control and 
+market discipline.  
+12.3  GLOBAL FINANCIAL CRISIS 2007 
+The global financial crisis, which began to manifest itself in July of 2007, 
+emerged as a liquidity crisis, which can be traced back to the US subprime 
+housing market. When interest rates for loans rose between 2004 and 2006, and 
+the prices of houses began  to decline in 2007, failures in the repayment of 
+subprime mortgage loans, as well as failures in the repayment of subprime 
+mortgage-backed debts and other securities, heavily increased. Major financial 
+institutions that had borrowed or invested in mortgag e-backed securities of non -
+depository finance companies were forced to declare bankruptcy or were taken 
+over by other banks. The emergence of the global financial crisis was also the 
+result of the doubtful use of high -risk off -balance sheet instruments wit h zero 
+liquidity and uncertain value on the side of non -depository financial institutions. 
+Mortgage-backed securities and collateralised debt obligations (CDO),  traded by 
+commercial banks  to distribute credit risk,  which turned out to be illiquid for 
+most of the part, heavily accelerated in the year before the financial crisis 
+surfaced.  
+By contagion, the housing market downturn and subsequent financial market 
+crisis have also affected the broader US real economy. Due to the growing 
+integration of financial markets and industries during the past 20 years, the crisis 
+spread to Europe with dramatic slowdowns occurring across Europe and the 
+recession widening into a global problem. Some of the factors that led to the 
+financial crisis in the US – high-risk, non-banking mortgage loans, low -interest 
+rates, aggressive (subprime) credit expansion, and ignoring of the credit risks of 
+borrowers – created similar problems in Europe.  
+The US crisis affected almost every part of the world in the new, globalised 
+world o f closely interdependent economies. The global financial crisis 
+highlighted the complex international linkages between financial markets and 
+between the US and European economies.  
+
+
+--- Page 37 ---
+ 
+ 
+ 
+36 
+International  
+Finance 12.4  UNFOLDING OF THE GLOBAL FINANCIAL 
+CRISIS 
+The financial crisis in 2007  was a non -systemic crisis linked to  subprime 
+mortgages or risky loans to homeowners. The US subprime mortgage market 
+delivered a significant shock to the existing architecture for financial services 
+regulation and supervision worldwide. The foundation of the global financial 
+crisis was the housing market bubble which was the result of a political mandate 
+in the US wherein each homeless US citizen was to be provided with a house. 
+The US Federal Reserve bank of St. Louis instructed all the commercial banks i n 
+the US territory to provide an easy loan to all US borrowers interested in 
+financing their housing needs. However, commercial banks found difficulty due 
+to the stringent restrictions like asset and income verification of the borrowers 
+before sanctioning home loans to them. Historically, banks approve a loan if the 
+value of the asset possessions is sufficiently higher than the value of the liabilities 
+the borrowers asked for. Hence, potential homebuyers found it difficult to obtain 
+mortgages if they had be low-average credit histories, provided small down 
+payments or sought high -payment loans. Lenders denied such mortgage requests 
+unless protected by government insurance or guarantee schemes. 
+Nevertheless, with the instructions of the government mandate and the circular 
+from the US Federal Reserve Bank, the commercial banks were asked to revise 
+their lending rate at a lower rate to make the loan easier for home loan borrowers 
+despite their low credit history. This is popularly known as 'Sub Prime Lending 
+Based’ home loans. Thus, high -risk mortgages became available from lenders 
+who funded mortgages by repackaging them into pools sold to investors in mid 
+2003s. 
+A set of new financial products was used to appropriate these risks, with private -
+level mortgage -backed securities (PMBS) providing most of the funding for 
+subprime mortgages. These instruments are called credit derivative instruments, 
+financial reengineering products, securitisations, and asset -backed securities. 
+Credit derivatives may also be defined as a specific class of financial instruments, 
+the value derived from an underlying market value of the reference asset bank 
+loan or a portfolio of loans, corporate bonds or other debt instruments, trade 
+receivables etc. These instruments are Collateral Bond Obligations, Collateral 
+Debt Obligations, Collateral Mortgage Obligations, Credit Default Swaps, Total 
+Return Swaps, Credit Linked Notes, Residential Mortgage Based Securities, and 
+Commercial Mortgage Based Securities. This enabled more first -time 
+homebuyers to obtain mortgages and homeownership rose. In the next section, 
+we have described a particular structure of Residential Mortgage Based 
+Securities to understand the global financial crisis.  
+
+
+--- Page 38 ---
+ 
+ 
+ 
+37 
+Financial and 
+Currency Crises 12.4.1 Structure and the Role of Credit Derivatives 
+To understand the structure and the role of credit derivatives in the subprime 
+mortgage crisis, let's divide the banks into commercial or conventional and 
+modern or investment banks. Commercial banks accept deposits from customers 
+with non-maturing liabilities to finance the borrowers and investments with long -
+term maturities. However, investment banks manage the depositors' wealth on 
+their behalf. Credit Derivatives (CDs) are off -balance sheet financial contracts 
+that allow the lender to transfer the credi t risk of a financial instrument to a third 
+party against the payment of a fee. They are voluminously used in the US 
+commercial banking sector. The banks use them to mitigate credit risk exposure 
+and expand their credit portfolio. A credit derivative invol ves mainly three 
+participants. First, the borrower needs credit (reference entity). Second, the 
+lender needs insurance for the loan (protection buyer). Third, the third party or 
+the guarantor who wants to profit by covering the risk of a loan default 
+(protection seller / Counterparty). There are two types of credit derivatives. They 
+are Funded and Unfunded credit derivatives. Unfunded CDs are contingent 
+instruments where the protection buyer does not receive any initial payment from 
+the protection seller (c ounterparty) for covering the credit risk. Under such an 
+agreement, the counterparty pays only when the borrower defaults. The different 
+types of unfunded CDs are Credit Default Swaps (CDS), Credit Default Swap 
+Options (CDSO), Credit Spread Options (CSO), and Total Rate of return Swaps 
+(TRRS). 
+On the other hand, funded CDs are instruments where the lender is not exposed 
+to credit risk from this counterparty. This is because the counterparty pays the 
+lender an appropriate sum to cover any future loan default . The different types of 
+funded CDs are Credit Linked Notes (CLNs), Collateral Debt Obligations 
+(CDOs), Collateral Mortgage Obligations (CMOS), Collateral Bond Obligations 
+(CBOs), Commercial Mortgage -Backed Securities (CMBS), Residential 
+Mortgage-Backed Se curities (RMBS) and Constant Proportion Debt Obligation 
+(CPDO). 
+12.4.2 Residential Mortgage-Backed Securities and the bubble 
+burst 
+Providing easy loans to the homeless forced all the commercial banks in the US 
+territory to disburse the home loan to customers despite their weak 
+creditworthiness. The primary incentive before these commercial banks was that 
+they generate these home loan portfolios for the next 15 years to 20 years of 
+maturity so that they can see the home loan portfolio to investment banks to 
+enjoy the time value of the home loan portfolio without exposing to the credit 
+risk even though home loan portfolio is risky. This is because any of the 
+borrowers can default at any point in time for the next 15 to 20 years on their 
+commitment while paying towards the principal and interest rate of their total 
+loan value. The investment bank purchases this home loan portfolio and crea tes a 
+
+
+--- Page 39 ---
+ 
+ 
+ 
+38 
+International  
+Finance trustee to manage this portfolio. On the full value of this credit portfolio, the 
+trustee also buys the credit protection in the form of insurance with the condition 
+that the protection seller will compensate the amount if any borrower defaults in 
+the credit home loan portfolio during the maturity of the loan. In anticipation, the 
+trustee pays the regular premium to the credit protection seller during the 
+contract's life. These protection sellers are the same investment banks that have 
+created the tee s to manage the credit home loan portfolio. The trustee, also 
+known as a special purpose entity, has taken some amount as reserve and cash 
+account to utilise for the contingency purpose. Based on the remaining amount, 
+otherwise known as asset -backed securi ties, the trustee has issued different 
+financial instruments such as senior notes, mezzanine notes, junior notes and 
+equity tranches to issue to the investors. There is a hierarchy among these notes, 
+so senior notes provide less return with low risk compar ed to the mezzanine, 
+junior and equity tranches. The equity tranche is highly risky and provides a 
+higher return. However, it is difficult to find investors for equity tranches in the 
+market; hence, the same investor bank is the investor for equity tranche s. These 
+notes are high investment graded by rating agencies such as Standard and Poor, 
+Moodys, and Fitch. A typical structure of RMBS is given as follows. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 12.1: Schematic Diagram of Residential Mortgage-Backed Securities 
+Entrust 
+Hinsei Trust 
+B/C 
+ 
+ABC Bank 
+Originator/Servicer 
+B/C 
+Dreams 
+Funding 
+Mez 
+ Senior 
+ 
+Investors 
+Servicing 
+Back-up 
+Servicer 
+Daihyaku 
+Life 
+Daihyaku 
+Guarantee 
+Indemnity 
+Mortgages 

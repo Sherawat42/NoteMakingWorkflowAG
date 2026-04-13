@@ -1,0 +1,475 @@
+--- Page 20 ---
+ 
+ 
+ 
+19 
+International 
+Financial Markets 
+and Instruments 
+2) What are international financial markets? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Explain the concept of international financial instruments.  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+11.4 TYPES OF INTERNATIONAL FINANCIAL 
+MARKETS 
+The international financial markets have primary and secondary markets dealing 
+with issue of new instruments and trading in existing instruments and negotiable 
+debt instruments, respectively. International financial markets can develop 
+anywhere, provided the local regulations permit the market and that the potential 
+users are attracted to it. The most important international financial centres are 
+London, Tokyo and New York.  
+Volume of Foreign Exchange Market : According to the  Bank for International 
+Settlements (BIS), trading in foreign exchange markets averaged $6.6 trillion per 
+day in April 2019. This is composed of the following: 
+i) $2 trillion in spot transactions 
+ii) $1 trillion in outright forwards 
+iii) $3.2 trillion in foreign exchange swaps 
+iv) $108 billion currency swaps 
+v) $294 billion in options and other products 
+Source: Investor Tonight (2021) 
+There are different types of financial markets . However, market are classified 
+according to the nature of financial operations:  
+i) money markets (or exchange markets): exchange or exchange related 
+transactions, 
+ii) credit markets : deposit taking and lending, 
+iii) capital markets : issuance of securities, and  
+iv) equity markets : issuance of international equities.  
+A brief description of these markets is as under:  
+International Currency Market : The main participants in international financial 
+markets are commercial b anks, pension funds, hedge funds and private equity 
+funds. An important aspect of growth has been the emergence of international 
+
+
+--- Page 21 ---
+ 
+ 
+ 
+20 
+International  
+Finance banking consortia. Since the 1960s various banks started forming international 
+syndicates. Multinational banks are participatin g in huge transfers of capital not 
+only for investment purposes but also for hedging and speculating against 
+exchange rate changes. 
+Euro Currency Market: The transactions in Eurodollar, Euroyen, Eurofranc etc. 
+are known as 'Euro Currencies Markets'. This market allows for more convenient 
+borrowing, which improves the international flow of capital for trade and 
+investment between countries and companies. For example, an Indian company 
+borrowing U.S. dollars from a bank in Germany is using the Euro market. Th e 
+Euro market is a wholesale market (generally restricted to transactions over US $ 
+1 million), with participants limited to banks, financial institutions, institutional 
+investors, major corporates and high net worth individuals. 
+The prefix 'Euro' creates some confusion because it denotes a currency used for 
+financial transactions outside the country of origin of that currency. As for 
+example, if US dollar is called Eurodollar, it means financial assets and liabilities 
+(denominated in dollars) but traded outside the United States. Similarly, Japanese 
+yen traded out of Japan is called Euroyen, and Swiss francs traded out of 
+Switzerland is called Eurofranc. But after launching of the 'Euro' in 2000 as the 
+official currency of European Union, Eurocurrency marke t is the market in the 
+currency of the Euroland. Further, it is known as Eurodollar, Euroyen, Eurofrancs 
+etc. depending on which particular currency is used for financial transaction 
+outside the country of the origin of that currency.  
+Euro currency markets consist of banks (Euro banks) that offer wholesale 
+deposits and loans in various currencies. Euro banks are commercial banks 
+dealing in Euro markets. Euro banks are financial intermediaries that 
+simultaneously bid for deposits and make loans in a currenc y or currencies, other 
+than that of the country in which they are located. Operations of Euro markets 
+have spread over Asia, Europe and the United States.  
+Euro currency markets facilitate hedging possibilities for corporate borrowers. 
+Euro market is very deep in the short-term market, where 3-6 months deposits are 
+most popular. The basic structure in Euro market operations has been medium to 
+long term lending on variable (floating) interest rates, with an option to re -set 
+(roll over), the interest rate per iodically at 3 or 6 months. The banks take into 
+consideration borrowers requirements and have devised various instruments for 
+preferred maturity. 
+London Inter -bank Bid Rate (LIBID) : This is the rate bid by banks on 
+Eurocurrency deposits. 
+London Inter-bank Offer Rate (LIBOR): This is the rate of interest at which banks 
+borrow funds, in marketable size, from other banks in the London inter -bank 
+market. This is the most widely used benchmark or reference rate for short -term 
+interest rates. A large v olume of Eurodollar lending involves the London 
+
+
+--- Page 22 ---
+ 
+ 
+ 
+21 
+International 
+Financial Markets 
+and Instruments 
+Interbank Offered Rate. The LIBOR rate measures the cost to a bank of raising 
+new funds from the market to re -lend. This is the basis of almost all variable (or 
+floating) rate lending in the Euro markets.  
+When two top -rated banks arrange an interbank transaction, the interest rate 
+agreed for a loan and deposit will often be somewhere between the LIBOR and 
+the LIBID, and possibly the average of these two rates, referred to as LIMEAN 
+as a reference rate for the ir interbank transactions. The LIBOR convention has 
+spread in various variations. In all cases the concept attempts to measure a bank's 
+cost for a loan. 
+11.5 IMPORTANCE OF INTERNATIONAL 
+FINANCIAL MARKETS AND INSTRUMENTS 
+Operations in financial markets have become highly globalized and their 
+importance in contemporary world is evident from the following: 
+i) Maintaining stability in international financial markets is not easy as it has 
+become very intricate . With easy movement of funds from one count ry to 
+another, the prices of financial instruments have become highly volatile. 
+Exchange rates, prices of bond and securities are affected by different kind 
+of “news” which make expectations very precarious. Exchange rates and 
+securities prices interact wi th each other. The degree of interaction differs 
+from one situation to another, depending on a variety of circumstances. 
+ii) The information revolution has completely changed economic, financial, and 
+political conditions around the world because of a constant flow of news 
+which result in investors making abrupt changes in their holdings. This has 
+brought larger swings making the market vulnerable both in the short and 
+medium term in a world of integrated financial markets and enormous 
+worldwide liquidity. 
+iii) Exchange rates are in a constant flux. Transactions have become 
+increasingly complex. 
+iv) International financial markets are very well integrated now as there is no 
+exchange control which makes freer movement of capital across countries. 
+v) Cross-listing of securities in several countries.  
+vi) Cross-country hedging and portfolio diversification. 
+vii) 24-hour trading in financial instruments at exchanges around the world. 
+Automated trading execution systems provide a 24 -hour trading market, 
+allowing traders to enter buy and se ll orders that are automatically matched 
+according to price and time preferences. 
+viii) A shift from banks to nonbank financial intermediaries, such as brokerage 
+houses, securities firms, insurance companies, and pension funds.  In such a 
+competitive environment, banking activities have also significantly changed. 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+22 
+International  
+Finance ix) A shift from loans to securities and a rise in the use of foreign financial 
+centers. Surge in the use of new financial instruments such as derivative 
+products: options, futures, and swaps on interest rat es, foreign currencies, 
+stocks, bonds, and commodities.  
+Multinational corporations (MNCs) which operate on a global scale need 
+worldwide sources of finance to meet their investment needs. To serve MNCs, 
+financial institutions have diversified their services such as transactions in 
+foreign exchange, money market instruments, and derivative products worldwide. 
+These sophisticated financial instruments provide investors an array of 
+alternatives for hedging and shifting risks, leading to greater certainty of 
+international receipts and payments. Of course, all these services entail costs. 
+Given the contemporary environment of volatile exchange rates, interest rates, 
+and commodity prices, a large market of different financial instruments exist to 
+help international businesses, speculators, and investors. The growth of new 
+financial instruments has provided flexibility to portfolio management 
+operations. As such, the growth of international financial markets has facilitated 
+cross-country flows which contribute to a more efficient allocation of resources.  
+Check Your Progress 2 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Enlist different types of international financial markets? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Who are the players in the international financial market? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Highlight the importance of international financial markets and instruments. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+11.6 INSTRUMENTS OF INTERNATIONAL 
+FINANCIAL MARKETS 
+Funds are raised from the international financial market through the sale of 
+securities, such as international equities or Euro equities, Euro bonds, medium -
+term and short -term Euro notes and Euro commercial papers. In international 
+financial markets all k inds of instruments are denominated in foreign currencies. 
+While the choice of raising finance through various instruments is large 
+
+
+--- Page 24 ---
+ 
+ 
+ 
+23 
+International 
+Financial Markets 
+and Instruments 
+comprising loans, Euro notes and bond, all markets may not be accessible to all 
+borrowers. We will discuss the derivatives a t length. First, let us understand a 
+little about Foreign Exchange Markets. 
+11.6.1Financial Instruments 
+Euro is the currency of Euro land and transaction in the Euro currency are known 
+as Euro currency market. These markets thrive as they are outside the control of 
+any central bank. Consequently, Euro banks can offer higher yields to depositors 
+and fixed rates to borrower which makes Euro markets attractive. The important 
+instruments that are used to raise finance are Euro notes, Euro -commercial 
+papers, Medium-term Notes, Floating Rate Notes, Euro bonds and Euro-equities.  
+Similar to domestic financial market s, international financial markets may be 
+divided into money and capital markets. Money markets deal with assets created 
+or traded with relatively short maturity. The maturity periods of different 
+instruments range from one day to one year. Such instruments are very liquid and 
+relatively risk free. Internationally traded instruments  of borrowing and lending 
+of funds of short-term nature are: 
+i) treasury bills,  
+ii) bank certificates of deposits,  
+iii) commercial paper,  
+iv) bankers’ acceptances, 
+v) repurchase agreements, and  
+vi) other short-term asset-backed claims.  
+From the liquidity angle this market is important for MNC’s operations as they 
+get fund on day -to-day basis. Treasury bills make up the bulk of the money 
+market instruments.  The Capital mar kets deal with instruments whose maturity 
+exceeds one year. 
+Derivative Instruments : These financial instruments have values determined 
+from underlying assets , such as resources, currency, bonds, stocks, and stock 
+indexes. These products are very popular and the value of derivative instruments 
+depends on other, more basic, underlying variables. These instruments have been 
+developed to meet the needs and prefere nces of different customers, including 
+their desire to hedge risks in an environment of fluctuating exchange rates, 
+interest rates, stock prices, and commodity prices. Most of the derivatives except 
+the interest rate swaps are short term in nature.  
+Options and futures  are widespread and traded actively. The five most common 
+examples of derivatives instruments are synthetic agreements, forwards, futures, 
+options, and swaps. Financial institutions, banks and their corporate clients 
+regularly trade in forward  contracts, swaps and different types of options outside 
+
+
+--- Page 25 ---
+ 
+ 
+ 
+24 
+International  
+Finance exchanges also known as over -the-counter markets. This highlights the fact that 
+there is no single marketplace or an organized exchange for this. 
+Spot purchase and sale transactions ; The spot foreign  exchange purchase refers 
+to the business where the designated outlet buys foreign exchange from 
+institutional customers based on the spot exchange rate in the foreign exchange 
+purchase and sale market. 
+Forward Foreign Exchange Purchase and Sale : The forwa rd foreign exchange 
+purchase and sale refers to the business where the customer signs a forward 
+foreign exchange purchase and sale agreement with the Bank, specifying the 
+foreign exchange currency, amount, terms and exchange rate of a future foreign 
+exchange purchase/sale transaction. This is put in place in order to handle the 
+foreign exchange purchase and sale of the currency. The amount and exchange 
+rate are specified in the agreement at the time provided in the contract. This 
+product enables the customer to preserve the asset value and avoid exchange rate 
+risks by locking up the future exchange rate at present (i.e., the future cost or 
+gains). 
+The forward rate is based on the prevailing spot rate plus (or minus) a premium 
+(or discount) that is determined  by the interest rate differential on comparable 
+securities between the two countries involved. For example, if interest rates in 
+Switzerland are higher than those of the United States, the Swiss franc shows a 
+forward discount, which means the forward rate  is less than the spot rate. 
+Conversely, when Switzerland’s interest rates are lower than those of the United 
+States, the Swiss franc shows a forward premium, which means the forward rate 
+is higher than the spot rate. 
+Call Option Vs Put Option:  A call opti on gives its holder the right but not the 
+obligation, to buy the specified amount or quantity of a currency usually against 
+the U.S.A at the strike price. On the other hand, a put option give s its holder the 
+right to U.S.A. 
+Future: A future is a derivative transaction that exchanges derivatives on a 
+determined future date at a predetermined exchange rate. 
+Interest Rate Swap: An interest rate swap is a derivative agreement between two 
+parties that involves swapping interest rates where each party a grees to pay other 
+interest rates on their loans in different currencies. 
+Certificate of Deposit (CD) : This is a savings certificate generally issued by 
+commercial banks on which the bearer gets interest. A CD indicates three things 
+(i) a maturity date, (i i) a specified interest rate, and (iii) amount. The amount of 
+CD is not fixed and can be issued in any denomination.  
+Banker’s Acceptance: This is a short -term credit instruments created by a non -
+financial firm and guaranteed by a bank. The important featu re of such 
+acceptance is that it is traded at a discount from face value on the secondary 
+market. 
+
+
+--- Page 26 ---
+ 
+ 
+ 
+25 
+International 
+Financial Markets 
+and Instruments 
+11.6.2International Debt Instruments 
+Borrowers are the issuers of debt instruments in the form of Promissory Notes, 
+Bonds and Commercial Papers. There are various classes of borrowers (e.g. 
+companies, governments and other entities) having diversified needs for funds in 
+terms of: 
+i) Magnitude of amounts. 
+ii) The period for which borrowings are needed. Borrowers may need short term 
+or long term funds for capital exp enditure. Governments are known as 
+sovereign borrowers who raise long -term debt in the international market to 
+finance infrastructure and other developmental needs, etc. 
+iii) The currency in which borrowings are to be raised.  
+iv) The decision for debt finance depe nds on the costs, borrowing terms and 
+covenants imposed by lenders, project size, etc.  
+Let us now examine some common debt instruments used for short, medium and 
+long term. 
+Euro commercial Paper: This is an unsecured, short-term paper issued by a bank 
+or corporation for financing accounts receivables and inventories in the 
+international money market, denominated in a currency other than the 
+corporation’s domestic currency. It is usually issued at a discount reflecting 
+prevailing market interest rates. Normally, commercial papers have a maximum 
+maturity of 270 days. The most prominent markets for commercial paper are the 
+United States, Canada, UK, Japan and Australia. Euro market prominence for US 
+$ and Euro commercial paper are more popular in Singapore and the UK. 
+Commercial Paper (CP) is marketed either directly by the issuer or through a 
+dealer i.e. investment bank. A large majority of issuers market their CP directly. 
+In the case of dealer-placed CP, the issuers use the services of a securities firm or 
+an investment bank. CPs sold in this way is called dealer paper. Competitive 
+pressures have forced reductions in the fee charged by dealers. CPs are issued at 
+a discount. In other words, if an inve stor buys a CP with face value of US$ 1 
+million , he pays less than the face value, though he receives back on maturity the 
+total face value. The difference between the two represents 'interest'. The 
+difference between the purchase price and the redemption  amount makes up the 
+return to an investor. 
+Bonds: Supranational agencies like the World Bank and Asian Development 
+Bank raise bonds in the international market. National Governments issue 
+government bonds. Municipal or other local authorities issue munici pal bonds, 
+while companies issue corporate bonds. Bonds do not have one common interest 
+rate. Rates differ in terms of fixed -rate, floating-rate and convertible bonds. The 
+World Bank issued the global bonds for the first time in 1989. Since 1992, such 
+bonds are being issued also by companies. Presently, there are seven currencies 
+
+
+--- Page 27 ---
+ 
+ 
+ 
+26 
+International  
+Finance in which such bonds are denominated: the Australian dollar, Canadian dollar, 
+Japanese yen, DM, Finnish markka, Swedish krona and Euro. The special 
+features of the global bonds are:  
+i) They carry high ratings  
+ii) They are normally large in size  
+iii) They are offered for simultaneous placement in different countries  
+iv) They are traded on “home market” basis in different regions. 
+International bond market is defined as a market for bonds which are sold 
+anywhere in the world but not in the geographical territory of the country of 
+currency in which it is denominated. Mostly the funds raised by the borrowers in 
+such market consist of foreign currencies i.e., other than the borrowers own 
+currency for example, a U.S. company borrowing Euro – Dollars, outside U.S. 
+The bonds are generally denominated in amounts of US $ 100,000, $ 500,000 or 
+more. These are debt securities, normally having a maturity period of one to 10 
+years. The ‘notes’ mature in  less than one year and bonds have maturity up to 10 
+years. It is to be noted that often the terms ‘notes’ and ‘bonds’ are used 
+interchangeably. 
+Equity financing in the International Markets : Compared to debt financing 
+instruments, issuance of Euro equitie s stands out as a distinct source of raising 
+finance. Through equity issues, the issuing company offers ownership rights as 
+distinguished from creditorship rights in the form of debt. In recent times there 
+has been increase in cross border equity investmen t. This global trend is evident 
+from the behaviour of institutional investors of developed countries’ markets, 
+increasing their exposure to equity from emerging markets. Shares of these 
+overseas firms are often traded in stock exchanges like New York and L ondon. 
+The modus operandi is that such shares of overseas firms are traded indirectly in 
+the form of ‘depository receipts’. A depository holds the shares issued by the 
+firm in the form of ‘depository receipts’.  
+Indian companies have been raising finance through Euro -Bonds and Euro -
+Equities and have been floating ADR and GDR. In the case of US markets, this 
+type of issue is known as ‘American Depository Receipts (ADRs), while Global 
+Depository Receipts (GDRs) is an instrument to raise equity capita l in multiple 
+markets outside the issuer’s domestic market through one security - which is 
+traded in a foreign stock market. 
+11.7  FOREIGN EXCHANGE EXPOSURE/RISK 
+It is very common to encounter currency exchange rate movements regularly. 
+These unanticipated shifts present risks to the international business because they 
+represent unplanned for changes in the value of asset and liabilities. These risks 
+are usually categorised into three types: transactions exposure, translation 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+27 
+International 
+Financial Markets 
+and Instruments 
+exposure and economic exposure.  These exposures result in positions that are 
+either uncovered or covered, that is, hedged. Risk exposures should be 
+determined according to several possible degrees of severity of circumstances. 
+These risks depend on the nature of the item that is exposed , measurability of the 
+exposure and the timing of estimation of exposure. Let us understand various 
+types of risks: 
+i) Transaction risk  arises from foreign currency denominated transactions 
+which an entity is committed to complete. In other words, it arises f rom 
+contractual foreign currency, future cash flows, when export prices are fixed 
+in foreign currency, or imports invoiced in foreign currencies. The exposure 
+is due to currency exchange rate fluctuations between the time the 
+commitment is made and the tim e it is payable. There are approaches to 
+dealing with eliminating the risk of a transaction exposure or hedging at the 
+operations level. 
+ii) Translation Risk : Translation Exposure is concerned with the present 
+measurement of past events. It arises from the nee d to convert values of 
+assets and liabilities denominated in a foreign currency into the domestic 
+currency. Suppose a company has a different proportion of assets and 
+liabilities denominated in particular currencies. In that case, exchange rate 
+movements are likely to have varying effects on the value of these assets and 
+liabilities. It is also referred to as accounting exposure. This fact makes the 
+measurement of translation exposure dependent on the accounting policies 
+followed for the purpose of converti ng the foreign currency values of assets 
+and liabilities into the domestic currency.  
+“For reducing translation and transaction exposure, a number of tactics can 
+help firms minimize their transaction and translation exposure. These tactics 
+primarily protec t short -term cash flows from adverse changes in exchange 
+rates. In addition to buying forward and using swaps, firms can minimize 
+their foreign exchange exposure by leading and lagging payables and 
+receivables – paying suppliers and collecting payment from  customers early 
+or late depending on expected exchange rate movements. A lead strategy 
+involves attempting to collect foreign currency receivables (payments from 
+customers) early when a foreign currency is expected to depreciate and 
+paying foreign currenc y payables (to suppliers) before they are due when a 
+currency is expected to appreciate. A lag strategy involves delaying collection 
+of foreign currency receivables if that currency is expected to appreciate and 
+delaying payables if the currency is expecte d to depreciate.  Leading and 
+lagging involves accelerating payments from weak -currency to strong -
+currency countries and delaying inflows from strong -currency to weak -
+currency countries”(Hill and Jain, 2009). 
+iii) Economic Risk : Economic risk is referred to as the risk exposure of an 
+investment made in a foreign country due to changes in the business 
+
+
+--- Page 29 ---
+ 
+ 
+ 
+28 
+International  
+Finance conditions or adverse effect of  macroeconomic factors  like government 
+policies or collapse of the current government and significant swing in the 
+exchange rates (Ramachandran and Vaidya, n d).Many factors can cause 
+economic risk like sovereign default on its payments, political unrest and 
+change in the policies ma de by the government, and unexpected swings in 
+exchange rate. Change in inflation, interest rates, import -export duties, and 
+taxes also impact the exchange rate. Since this directly impacts 
+trade, exchange rates risk seeming to be a significant economic risk. 
+Economic exposure is concerned with the long -run effect of changes in 
+exchange rates on future prices, sales and costs. This is distinct from 
+transaction exposure, which is concerned with the effect of exchange rate 
+changes on the individual transactions, cost of which are short -term affairs 
+that will be executed within a few weeks or months.  
+Although economic risk can be mitigated, it cannot be elimina ted  entirely. 
+Economic risk is the most intricate risk to foresee, and hence mitigating or 
+formulating plans to control the  risk is a challenging task. The management of 
+economic exposure draws on hedging and swap contracts. Hedging activities 
+against exchange rate fluctuation will prove worthwhile to mitigate the risk.  
+Check Your Progress 3 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  What are the different types of international financial market instruments? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What do you understand by the Euro – Currency market? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) What is Global Depository Receipt (GDR)? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4) Explain the concept of financial risk. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+5) What are the types of financial risk? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 

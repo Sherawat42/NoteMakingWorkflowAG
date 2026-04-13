@@ -1,0 +1,330 @@
+--- Page 12 ---
+ 
+ 
+ 
+11 
+International 
+Financial Markets 
+and Instruments 
+ 
+ 
+ 
+ 
+BLOCK 5 
+ 
+ 
+INTERNATIONAL FINANCE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Unit 11 International Financial Markets and Instruments    
+Unit 12 Financial and Currency Crises 
+
+
+--- Page 13 ---
+ 
+ 
+ 
+12 
+International  
+Finance BLOCK INTRODUCTION 
+This block is on “ INTERNATIONAL FINANCE ”. It has two units i.e.,  
+Unit 11 - International Financial Markets and Instruments  and Unit 12 - Financial and 
+Currency Crises.  
+Unit 11 provides an idea of globalization of financial markets and then presents the concept 
+of International financial marke ts. The financial instruments available in the international 
+financial markets are also discussed. The learner also learns about the types and importance 
+of international financial markets. Various instruments (financial as well as debt instruments) 
+which help smooth functioning of the international financial markets are also highlighted. 
+Unit 12 provides an understanding of global financial crisis of the year 2008. To understand 
+this crisis better, some of the most devastating financial crises in history a re also presented 
+which will add to the understanding of the unfolding of the 2008 crisis. It becomes imperative 
+for the learner to understand the impact and effect of such a global crisis on the 
+macroeconomy. The unit completes by presenting the initial p olicy responses in terms of 
+monetary and fiscal policies, to combat this global crisis.  
+ 
+ 
+ 
+ 
+ 
+  
+
+
+--- Page 14 ---
+ 
+ 
+ 
+13 
+International 
+Financial Markets 
+and Instruments 
+UNIT 11  INTERNATIONAL FINANCIAL MARKETS 
+AND INSTRUMENTS  
+Structure 
+11.0 Objectives 
+11.1 Introduction 
+11.2 Globalisation of Financial Markets 
+11.3 Concept of International Financial Markets 
+ 11.3.1 Concept of International Financial Instruments 
+11.4 Types of International Financial Markets 
+11.5 Importance of International Financial Markets and Instruments 
+11.6 Instruments of International Financial Markets 
+11.6.1 Financial Instruments 
+11.6.2 International Debt Instruments 
+11.7 Foreign Exchange Exposure/Risk  
+11.8 Let Us Sum Up  
+11.9 Key Words 
+11.10 Some Useful references 
+11.11 Answer/Hints to Check Your Progress Exercises 
+11.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+• Explain the concepts of International Financial Markets and Instruments; 
+• Indicate the importance of International Financial Markets; 
+• Identify the participants in International Financial Markets; 
+• Distinguish between various instruments of International Financial Markets; 
+• Describe various International Financial Instruments used for raising finance ; 
+and 
+• Analyse different types of foreign exchange risk. 
+ 
+ Contributed by  Dr. Surendra Kumar, PGDAV College, Delhi University  
+
+
+--- Page 15 ---
+ 
+ 
+ 
+14 
+International  
+Finance 11.1   INTRODUCTION 
+Even the most cursory glance at the international economic trends since the 
+1980s shows revolutionary changes in world financial markets. The interaction of 
+several factors has produced huge capital flows across national boundaries. 
+Along with this, the structure and operation of global financial markets have been 
+transformed. 
+Financial markets describe where buyers and sellers participate in the trade of 
+assets such as equities, bonds, currencies and derivatives. In such markets, 
+companies get capita l to expand, as in the stock or bond markets, or hedge their 
+risks, like the foreign exchange or commodities markets.  
+The immense growth and spread of international financial markets and because 
+of their ups and downs affect the lives of people not only d uring times of crisis 
+but also daily. With globalization, deregulation, liberalization, financial and 
+technological innovation, the volume of financial transactions increased to 
+astronomical figures.  
+The financial market is a highly complex system in which rules, individuals and 
+institutions interact. This complexity increases even more in time and space, 
+particularly in the case of international financial markets. This phenomenon is so 
+pervasive that it created great interest among people in finance and fluctuations 
+in financial markets. 
+Because of substantial international capital movements, policies and 
+developments in other countries increasingly influence domestic economic 
+performance. With this backdrop, this unit is devoted to the discussion of 
+globalization of financial markets, concepts, functions and importance of 
+international financial markets, instruments used for raising finance from various 
+entities, and their description and analysis of foreign exchange risks.  
+11.2  GLOBALISATION OF FINANCIAL MARKETS 
+In the contemporary world, there has been globalisation of financial markets. In a 
+global financial market, technological advances in payment, settlement and 
+trading systems an d financial information systems can be made instantaneously 
+available to all market participants. In financial markets, globalisation opens 
+access to borrowing, lending and investing worldwide. In addition, it plays a 
+central role in disciplining policies.  This trend is very much evident from the 
+following development (Otmar, 2000): 
+i) There has been a steady increase in cross -border financial flows around the 
+world. Because various banks and institutional investors have expanded their 
+activities geographically. In this process, they acted as intermediaries to 
+channel funds from lenders to borrowers across national borders.  
+
+
+--- Page 16 ---
+ 
+ 
+ 
+15 
+International 
+Financial Markets 
+and Instruments 
+ii) The mature securities markets have gained cross -border orientation as they 
+design and offer securities which attract international investors. 
+iii) Since the 1980s , most countries have been following the policy of 
+liberalization, which led to the progressive dismantling of controls on cross -
+border financial flows. 
+iv) Throughout the world, borrowers and lenders find a wide range of funds 
+available for financing deficits and managing surpluses. 
+v) Both technological advances and fina ncial innovations are important 
+contributing factors as information systems have become able to compute and 
+store huge amount of data more rapidly. 
+vi) More reliable data exchange protocols have made it possible to connect 
+computing machines in more efficient ways. This development facilitated 
+cross-border financial deals both easier and more secure. Besides, it removes 
+the distance problem created by geography or other factors.  
+vii) There has been innovation of financial instruments like "derivative" which 
+has mad e it possible for borrowers and lenders to customise their risk 
+exposures as well as adjust them over time. This is particularly important for 
+international financial markets where information asymmetries exist. 
+Globalisation is a process that is not yet f inalised and will lead to a world in 
+which countries and economic areas become increasingly interdependent. As 
+such, Otmar (2000) remarked that “the globalisation of financial markets is better 
+seen as a process rather than as a fixed state of affairs”. It  is also important to 
+note that global financial markets are not free from crises as is evident from 1997 
+East Asian crises, US crisis of 2008 etc. There have been numerous occurrences 
+of financial crises. Some of these financial crises exerted disruptive and 
+protracted effects on the economy locally and globally. As a result, economic 
+policymakers and market participants have devoted considerable attention to the 
+issue of how best to avoid financial crises. 
+Similarly, very limited room for maneuver is avai lable for economic policy 
+pursuing specific objectives at the national level. This calls for overhauling the 
+architecture of the international financial system.  
+11.3  CONCEPT OF INTERNATIONAL FINANCIAL 
+MARKETS 
+The international financial markets consist of sources of finance and uses for 
+finance in several different countries.  Each of these is a capital market on its 
+own. The international financial market s are markets where different entities 
+(individuals, financial and non-financial institutions) buy and sell foreign assets 
+and assets are traded between agents in surplus and agents in de ficit. The 
+financial market comprises the markets  for stock market, bond market, currency 
+
+
+--- Page 17 ---
+ 
+ 
+ 
+16 
+International  
+Finance market, derivatives market, commodity market and money market . International 
+institutions lay down rules for the conduct of financial markets. 
+Borrowers/Issuers, Lenders/Investors and Intermediaries are the major players of 
+the international markets. Borrowers/Issuers are corporates, banks, financial 
+institutions, governm ent and quasigovernment bodies and supranational 
+organizations, which need Forex funds for various reasons. The institutions 
+which work in financial markets have different aims and functions like Central 
+Banks and Ministries of Economy and Finance of different countries.  
+The dynamism and depth of the foreign exchange market depend on the 
+behaviour pattern of the players.  Modern technology has provided full 
+information to players and how they decipher the market information and use; 
+their response determines the course of market movement. 
+Financial market does not refer to a physical location. Market participants are 
+linked by formal trading rules and communication networks for originating and 
+trading financial securities link market participants. In an env ironment of 
+deregulated and liberalized financial markets, international capital movements 
+have been driven mainly by economic fundamentals. The macroeconomic 
+conditions of various countries and their trade, monetary and fiscal policies are 
+important varia nts. Interactions among markets have been facilitated by 
+technological innovations, which provided market participants with opportunities 
+to diversify, hedge, and increase profits on their investments, thereby promoting 
+the use of new financial products and instruments. 
+Features of International Financial Markets : Let us consider some of the 
+important foreign exchange market features. They are as under: 
+i) In a business setting, there is a fundamental difference between making a 
+payment in the domestic market and making a payment abroad.  In a 
+domestic transaction, companies use only one currency.  In a foreign 
+transaction, companies can use two or more currencies. 
+ii) This market is the largest asset class in the world because of its enormous 
+volume of trading, representing high liquidity. 
+iii) It spans over a large geographical area. 
+iv) It is around the clock markets as it has continuous operation: 24 hours a day 
+throughout the week (Monday to Friday at each centre). i.e., trading from 
+22:00 GMT on Sunday (Sydney) until 22:00 GMT Friday (New York).  
+v) The variety of factors is responsible for fluctuations in exchange rates. 
+vi) As compared to other financial markets of fixed income instruments, this 
+market operates on the low margins of relative profit. 
+vii) Important foreign exchange trading centers are located in Hong Kong, 
+Singapore, Paris and Frankfurt, amongst others, while the biggest three are 
+New York, Tokyo and London, of which London is the largest. 
+
+
+--- Page 18 ---
+ 
+ 
+ 
+17 
+International 
+Financial Markets 
+and Instruments 
+Cross-border transactions occur through an exchange of curren cies between 
+buyers and sellers. The tendency of each country to prefer to use its own unique 
+currency complicates international business transactions. There are around 175 
+currencies in use around the world. International business would be impossible 
+without foreign exchange and the foreign exchange market. The foreign 
+exchange market refers to the organizational setting within which businesses, 
+governments, and banks buy and sell foreign currencies and other debt 
+instruments.  Only a small fraction of dai ly transactions in foreign exchange 
+actually involve the trading of currency. Most foreign -exchange transactions 
+involve the transfer of electronic balances between commercial banks or foreign 
+exchange dealers. The foreign exchange market has two major seg ments: the 
+over-the-counter market (OTC) and the exchange -traded market. The OTC 
+market is composed of commercial banks, investment banks and other financial 
+institutions.  The exchange-traded markets are composed of securities exchanges, 
+such as London In ternational Financial Futures and Options Exchange (LIFFE), 
+where certain types of foreign -exchange instruments, such as exchange -traded 
+futures and options, are traded. 
+The foreign exchange market serves two main functions:  
+i) To convert the currency of one country into the currency of another.   
+ii) To provide some insurance against foreign exchange risk, which means the 
+adverse consequences of unpredictable changes in exchange rates. 
+A given foreign-exchange market operates at three levels:  
+i) in transactions between commercial banks and their commercial customers, 
+who are the ultimate demanders and suppliers of foreign exchange;  
+ii) in the domestic interbank market conducted through brokers; and  
+iii) in active trading in foreign exchange with banks overseas. 
+These foreign exchange markets are very important for international businesses. 
+There are four main uses of foreign exchange markets in that sense: 
+i) The payments a company receives for its e xports, the income it receives from 
+foreign investments or the income it receives from licensing agreements with 
+foreign firms may be in foreign currencies. 
+ii) Businesses use foreign exchange markets when they are required to pay a 
+foreign company for its products or services in its country’s currency.   
+iii) When businesses have spare cash that they wish to invest for short terms in 
+money markets.   
+iv) Currency speculation is another use of foreign exchange markets.  Currency 
+speculation typically involves the short -term movement of funds from one 
+currency to another in the hopes of profiting from shifts in exchange rates. 
+
+
+--- Page 19 ---
+ 
+ 
+ 
+18 
+International  
+Finance In this market currencies of various countries are bought and sold against each 
+other. This is also called foreign currency market where an over-the-counter trade 
+takes place. This market has two wings wholesale market and retail market. In 
+retail market travelers and tourists exchange one currency for another in the form 
+of currency notes or travelers’ cheques. 
+11.3.1 Concept of International Financial Instruments 
+Foreign exchange instruments are financial instruments that are represented on 
+the foreign market. It is a real or virtual document representing a legal agreement 
+involving some sort of monetary value. Foreign exchange instruments primarily  
+consist of currency agreements and derivatives. Financial instruments can be 
+generally classified as: 
+i) Equity based, representing ownership of the asset, 
+ii) Debt based, representing a loan made by an investor, to the owner of the 
+asset, and 
+iii) Foreign exchange instruments are a unique type of instrument 
+Different subcategories of each instrument type exist. Financial instruments can 
+be considered as easily tradable packages of capital, each having unique 
+characteristics and structure. The wide array of financial instruments in the 
+contemporary marketplace allows for the efficient flow of capital amongst the 
+world's investors. Any financial instrument has three major functions: 
+i) Financial instruments act as a means of payment 
+ii) Financial instruments act as stores of value. They generate increases in 
+wealth that are larger than from holding money and can be used to transfer 
+purchasing power into the future. 
+iii) Financial instruments allow for the transfer of risk. Futures and insurance 
+contracts enable a person t o transfer risk to another. Information about 
+financial instruments is important to users, as it provides insight into the risks 
+related to financial assets and financial liabilities, including the exposure to 
+risks arising from these to the entity and how they are managed.  
+Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Write about globalization of financial markets in around 100 words. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 

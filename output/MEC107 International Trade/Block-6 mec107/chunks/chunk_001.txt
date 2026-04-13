@@ -1,0 +1,449 @@
+--- Page 1 ---
+ 
+ 
+ 
+53 
+Multilateral Trading 
+System: 
+Development and 
+Challenges 
+ 
+ 
+ 
+ 
+BLOCK 6 
+ 
+ 
+GLOBALISATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Unit 13 Multilateral Trading System: Development and 
+Challenges 
+Unit 14 Regional Trading Agreements 
+Unit 15 India and Multilateral Trading System 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+54 
+Globalisation BLOCK INTRODUCTION 
+This block is on Globalistaion.  
+It has three units, i.e., Unit 13 - Multilateral Trading System: Development and 
+Challenges, Unit 14 – Regional Trading Agreements  and Unit 15 – India and 
+Multilateral Trading System.  
+Unit 13 provides the understanding of the history and present status of multilateral trading 
+system in terms of GATT, WTO rounds. WTO negotiations have failed in certain aspects in 
+the past and hence the unit proceeds towards explaining the reasons of failed negotiations. At 
+the end, a way forward is provided.  
+Unit 14 throws light on the regional aspect of trading agreements. It explains the basic 
+characteristics of such agreements and then discusses the types of regional trading 
+agreements, preferential trading arrangements, free trade area a nd customs union to name a 
+few. For better understanding of such agreements, a brief history of the evolution of regional 
+agreements is also presented in the unit. The relevance of such regional agreements has been 
+explained through gains (static and dynam ic) received from such agreements. To move 
+further, the equilibrium structure of regional trading agreements has been discussed in terms 
+of horizontal expansion, vertical expansion and simultaneous expansion.  
+Unit 15 provides us with the understanding of how India is placed in these multilateral 
+trading systems. Basically, this unit explains the agreements of which India is an integral part 
+e.g., Asia-Pacific Trade agreement, ASEAN -India free trade area, SAFTA. Apart from these 
+agreements, the unit highlights the contribution of India in WTO and how India has 
+transformed itself with the change of GATT towards WTO regime. Agriculture sector in 
+terms of subsidies and other policy initiatives in context of trade has been discussed at the 
+end of the unit.  
+ 
+ 
+ 
+ 
+ 
+  
+
+
+--- Page 3 ---
+ 
+ 
+ 
+55 
+Multilateral Trading 
+System: 
+Development and 
+Challenges 
+UNIT 13  MUL TILATERAL TRADING SYSTEM: 
+DEVELOPMENT AND CHALLENGES 
+Structure 
+13.0 Objectives 
+13.1 Introduction 
+13.2 General Agreement on Tariffs and Trade (GATT)  
+13.3 The Uruguay Round 
+13.3.1 The Negotiations and the birth of the WTO 
+13.3.2 Achievements of the Uruguay Round 
+13.4 The WTO Rounds 
+13.4.1 Singapore Ministerial Conference 
+13.4.2 Ministerial Conference of Geneva 
+13.4.3 The Doha Round 
+13.4.4 The Bali Round 
+13.4.5 The Nairobi Round 
+13.4.6 The Geneva Round  
+13.5 Reasons for Failure of the WTO Negotiations 
+13.5.1 Internal Reasons 
+13.5.2 External Reasons 
+13.6 The Way Forward  
+13.6.1 Arguments for Stumbling Blocs 
+13.6.2 Arguments for Stepping Stones 
+13.7 Let us Sum Up 
+13.8 Key Words 
+13.9  Some useful References 
+13.10 Answers/Hints to Check your Progress Exercises 
+13.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+• explain multilateralism; 
+• present the history and evolution of GATT; 
+• discuss the issues and negotiations of the Uruguay round of negotiations; 
+• list the achievements of the Uruguay round of negotiations; 
+ 
+ Contributed by  Dr. Sunandam Ghosh, Centre for Development Studies, Kerala  
+
+
+--- Page 4 ---
+ 
+ 
+ 
+56 
+Globalisation • discuss the various WTO rounds of negotiations; 
+• elucidate the changing nature of WTO negotiations;  
+• identify the reasons for the failure of the Doha round of WTO negotiations; 
+• analyze the relationship between regionalism and multilateralism; and 
+• discuss the future prospects of multilateralism. 
+13.1   INTRODUCTION 
+The establishment of the General Agreement on Tariffs and Trade (GATT) in 
+1947 heralded the advent of a multilateral tradin g system in the world economy. 
+Before that, there were instances of economic cooperation among nations (for 
+example, the bilateral agreement between Belgium and Luxembourg in 1921); 
+however, such agreements were predominantly regional in nature. 
+Multilateralism can be broadly defined as an understanding between multiple 
+countries (three or more according to the definition proposed by Robert Keohane) 
+to achieve a common goal. In this unit we would stick to the idea of multilateral 
+trade liberalization and economic cooperation as the common goal. 
+We start with a brief discussion of the GATT and its chronological phases. Then 
+we spend some time understanding the nuances of the Uruguay Round of GATT 
+negotiations, the birth of the World Trade Organization and the achievements of 
+the Uruguay Round. The  next section is dedicated to the important rounds and 
+ministerial conference of the WTO negotiations. We would then move on to 
+understand the drawbacks of the multilateral negotiations and the reasons for the 
+failure of the WTO rounds, particularly the Do ha round.  Towards the end, we 
+would introduce the debate over whether regionalism acts as the “stumbling 
+blocs” or “stepping stones” to multilateralism and try to analyze the way forward 
+for multilateralism.  
+13.2  GENERAL AGREEMENT ON TARIFFS AND 
+TRADE 
+After World War II, the United States emerged as the economic and political 
+superpower and became proactive in creating a new international economic 
+system. However, the major bone of contention that continued between the USA 
+and the UK was preferential tre atment to trading partners. Agreement between 
+the two was reached with the formulation of the “Charter for the International 
+Trade Organisation”. According to the Charter, it was agreed that existing 
+preferential agreements would be excluded from the “gene ral rule”, but the 
+members must, by no means, increase trade restrictions and over time should 
+negotiate with each other to not only reduce the restrictions but eliminate them 
+altogether. The only condition under which trade restrictions could be imposed 
+was to overcome balance -of-payment difficulties. The Economic and Social 
+
+
+--- Page 5 ---
+ 
+ 
+ 
+57 
+Multilateral Trading 
+System: 
+Development and 
+Challenges 
+Council of the United Nations called for a conference to establish the 
+International Trade Organisation (ITO). Eighteen countries held four meetings 
+during October 1946 and March 1948 and the Charter for an ITO was signed by 
+53 nations in March 1948.  
+The General Agreement on Tariffs and Trade (GATT) emerged as a by -product 
+of the negotiations meant for the formulation of the ITO Charter. The idea was 
+that, once the Charter comes into e xistence, GATT would automatically expire. 
+The GATT was signed by 23 countries on October 30, 1947, during one of the 
+meetings of the preparatory committee for the ITO held in Geneva, and entered 
+into force on January 1, 1948. 
+The GATT was signed to establish a rules-based world trading system that would 
+facilitate mutually advantageous trade. Baldwin (2016) identifies four phases of 
+GATT based on the timing of GATT Rounds. 
+Phase 1 (1947 – 1960): The first phase of GATT rounds began with substantial 
+tariff reduction in the 1947 inaugural Geneva Round. However, the previous 
+rounds considered details of rules and accessions such as those of Germany 
+(1951) and Japan (1955) and not tariff reduction. Moreover, tariffs were not the 
+main trade hindrance to internat ional trade in the 1950s. Instead, restrictions 
+remaining from wartime, along with state trading and inconvertible currencies, 
+were the binding constraints. 
+Phase 2 (1960 – 1972): The second phase of the GATT rounds was triggered by 
+the European regional trade liberalization. The Dillon Round (1960 -61) dealt 
+with the tariff concessions European members had to make to other GATT 
+members in compensation for the formation of their customs union. The Kennedy 
+Round (1963-1967) was basically an effort b y the United States, Japan and other 
+large exporters to compensate for the trade diversion ensuing out of the European 
+customs union. There was substantial reduction in tariffs in the developed nations 
+by 1967. This was due to both GATT and non -GATT steps like elimination of 
+tariffs across much of Europe, and the US -Canada Auto Pact of 1965. This was 
+the phase when both regionalism and multilateralism thrived simultaneously. 
+However, tariffs in low -income nations did not fall since GATT rules excused 
+them from reciprocally cutting their tariff in GATT talks. This is an exception to 
+the non-discrimination principle called "Special and Differential Treatment" for 
+developing-nation members. 
+Phase 3 (1973 – 1979): This phase also witnessed simultaneous advanceme nt in 
+regionalism and multilateralism. The Tokyo Round of GATT coincided with the 
+expansion of the European Union. Several political and economic factors 
+emerged soon after the launch of the Tokyo Round of negotiations. Developed 
+countries experienced econ omic downturn and increasing difficulties with their 
+balance of payments. Rising unemployment and inflation led them to think about 
+bringing back protectionist trade policies and, as a result, trade liberalization 
+seemed impossible and the negotiations alm ost reached a standstill. 
+
+
+--- Page 6 ---
+ 
+ 
+ 
+58 
+Globalisation Consequently, the developed countries agreed to focus on making world trade 
+fairer rather than freer. It was recognized that tariffs were only one factor 
+influencing international trade and put non -tariff measures in the spotlight  of the 
+negotiations. The negotiations on agriculture presented the greatest difficulty 
+with the US and the EEC (European Economic Community) differing 
+considerably at the onset. However, by July 1977 both parties reconciled their 
+major differences regardi ng market access and subsidies. The Swiss formula, a 
+mathematical (non -linear) formula which would cut high tariffs to a greater 
+extent than lower tariffs, was adopted by the major participants and applied to a 
+wide range of products. It was decided that m ost of the tariff cuts would be 
+implemented in eight equal annual installments. Despite these reductions in tariff 
+and non-tariff barriers, the Tokyo Round of negotiations fell short of expectations 
+for the developing economies. 
+Phase 4 (Mid 1980s):  In 1986, GATT members launched the Uruguay Round. 
+The United States and Canada initiated a bilateral FTA (free trade agreement). 
+The EU expanded to include Spain and Portugal while launching the Single 
+Market Program. Effective tariffs fell gradually in t he developed nations, mostly 
+due to regional trading agreements rather than the multilateral negotiations. The 
+developing nations also initiated regional trading agreements (RTAs) like 
+MERCOSUR (Brazil, Argentina, Paraguay, Uruguay) and the South African 
+Customs Union (SACU). Thus, this phase predominantly saw tariff reductions by 
+developing countries – both with their regional trading partners and with the rest 
+of the world.  
+13.3  THE URUGUAY ROUND 
+The Uruguay round was launched at Punta del Este, Uruguay , in September 
+1986.  It ultimately led to the creation of the World Trade Organization (WTO). 
+The WTO officially commenced on 1 January 1995 under the Marrakesh 
+Agreement, signed by 123 nations on 15 April 1994, replacing the GATT. 
+13.3.1  The Negotiations and the birth of the WTO 
+In November 1982, a major new negotiation was intended at a ministerial 
+meeting of GATT members in Geneva which stalled on agriculture and ended up 
+in a failure. After four years of negotiations, the round was launched  in 
+September 1986, in Punta del Este, Uruguay. The negotiating agenda included 
+almost every outstanding trade policy issues. Two years later, in December 1988, 
+ministers met again in Montreal, Canada. The deadlock continued and the 
+officials met again in April, 1989 at Geneva. Some concessions on market access 
+for tropical products, aimed at assisting developing countries, were made. 
+Further, a streamlined dispute settlement system and the Trade Policy Review 
+Mechanism came into existence.  
+ 
+
+
+--- Page 7 ---
+ 
+ 
+ 
+59 
+Multilateral Trading 
+System: 
+Development and 
+Challenges 
+The ministers met once more in Brussels, in December 1990. But they disagreed 
+on how to reform agricultural trade and decided to extend the talks. This time the 
+multilateral negotiations were almost on the verge of collapsing. However, 
+amount of technical work continued in the background leading to the first draft of 
+a final legal agreement. This draft “Final Act” was compiled by Arthur Dunkel, 
+the then GATT director -general, and tabled in Geneva in December 1991. The 
+text fulfilled every part of the Punta del Este manda te, with one exception. It did 
+not contain the participating countries’ lists of commitments for cutting import 
+duties and opening their services markets. The draft became the basis for the final 
+agreement. Negotiations continued for the next two years. Apart from agriculture, 
+services, market access, anti -dumping rules and the proposed creation of a new 
+institution became the major points of disagreement, particularly between the US 
+and the EU.  
+In November 1992, the US and the EU settled most of their dif ferences on 
+agriculture in a deal known informally as the “Blair House accord”. By July 1993 
+the “Quad” (US, EU, Japan and Canada) announced significant progress in 
+negotiations on tariffs and market access. The negotiations continued till 15 
+December 1993 till every issue, including market access for goods and services, 
+was resolved. Finally, on 15 April 1994, the deal was signed by ministers from 
+most of the 123 participating governments at a meeting in Marrakesh, Morocco 
+and the World Trade Organization (WTO) came into existence. 
+13.3.2  Achievements of the Uruguay Round 
+According to the World Trade Report (2007), “the amount of ground covered by 
+the Uruguay Round was impressive: twenty -five thousand pages detailed all 
+aspects of the Agreement”. The ten -page WTO Charter, that precedes the 
+document, provides an “umbrella that embraces all parts” and “establishes the 
+WTO as international organization and defines its functions and structure”. 
+Further, it contains four annexure –  
+Annex 1: the three major agre ements, namely on goods (GATT 1994 and 
+eighteen related agreements), services (GATS and Annex 1 B), and 
+trade-related aspects of intellectual property rights 
+Annex 2:  the Dispute Settlement Understanding  
+Annex 3:  the Trade Policy Mechanism 
+Annex 4:  four Plurilateral Agreements that only apply to those Members who 
+signed them 
+The major achievement of the Uruguay Round in terms of tariff is that the 
+developed countries agreed to cut their tariffs on industrial goods from an 
+average of 6.3% to 3.8%, with m ost of the cuts to be phased in over five years 
+starting from 1 January, 1995. Another major achievement was the increase in 
+bindings of tariffs by all parties. Measured by the number of bound product lines, 
+
+
+--- Page 8 ---
+ 
+ 
+ 
+60 
+Globalisation developed countries increased their percentage f rom 78% to 99%, transition 
+economies from 73% to 98%, and developing economies from 21% to 73%. This 
+increase was in some measure because all tariffs on agricultural goods were 
+bound. The high percentage of bound tariffs culminated in a world trading system 
+that is more stable and predictable.  
+The Uruguay Round was the first time that the multilateral trading system 
+succeeded in covering agricultural trade in a substantive manner (World Trade 
+Report, 2007). The programme for liberalizing agriculture was se t for ten years. 
+The approach was segmented into three categories – market access, domestic 
+support and export subsidies. All agricultural tariffs were bound.  
+Another major achievement of the Uruguay Round was the Agreement of 
+Textiles and Clothing. All the parties agreed to remove all quantitative barriers in 
+this sector in the coming ten years.  
+Agreement on Safeguards provided more stringent rules on the temporary use of 
+safeguard measures as well as dealing with compensation issues. In addition, it 
+eliminated the use of so -called “grey -area” measures, such as voluntary export 
+restraints (VERs). For the first time a definition of subsidies was established, and 
+clearer rules and procedures were developed.  
+The new rules on anti-dumping further clarified the rules on the determination of 
+dumping, the use of anti -dumping measures and causality between dumping and 
+injury. Procedures for initiating and conducting anti -dumping investigations and 
+implementation of anti-dumping measures were elaborated. 
+The Dispu te Settlement System underwent a major overhaul in the Uruguay 
+Round. All trade disputes between members were to be handled by the Dispute 
+Settlement Body under the New Agreement with a more structured process and 
+stricter deadlines to ensure prompt dispute settlement. 
+The Trade Policy Review Mechanism (TPRM) was introduced as an instrument 
+to review trade policies and practices of WTO Members and thereby to 
+contribute to improved adherence to WTO rules through greater transparency. 
+Each review consists of two documents – a policy statement prepared by the 
+government under review, and a detailed report written independently by the 
+WTO Secretariat (World Trade Report, 2007). 
+Two very important results of the Uruguay Round were the establishment of the 
+General Agreement on Trade in Services (GATS) and the Agreement on Trade -
+Related Intellectual Property Rights (TRIPS). The GATS was introduced for a 
+freer and fairer trade in services among the WTO signatories. The GATS 
+distinguished between four modes of services trade: cross-border trade (Mode 1), 
+consumption abroad (Mode 2), commercial presence abroad (Mode 3), and 
+movement of natural persons (Mode 4). The TRIPS Agreement covers copyright 
+and related rights, trademarks including service marks, geographical indi cations 
+including appellations of origin, industrial designs and patents. The Agreement is 
+
+
+--- Page 9 ---
+ 
+ 
+ 
+61 
+Multilateral Trading 
+System: 
+Development and 
+Challenges 
+comprised of three main features – substantive intellectual property standards, 
+domestic enforcement provisions and dispute settlement.  
+Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Briefly discuss the four phases of GATT. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Explain how was WTO created and why? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Highlight any three achievements of the Uruguay round.  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+13.4 THE WTO ROUNDS 
+In this section, we will briefly discuss the different ministerial conferences and 
+rounds of negotiations that occurred after the formation of the WTO.  
+13.4.1  The Singapore Ministerial Conference 
+The First WTO Ministerial Conference was held in Singapore during 9 -13 
+December, 1996. Though the talk of a new round was already in the air (Chile 
+was calling for the initiation of discussions to prepare for a new round of 
+negotiations on agriculture), neither the Singapore Ministerial Conference, nor 
+the Ministerial Round of Geneva were directly associated with the launch or 
+conduct of the Doha Round. 
+The most important aspect of this ministerial conference is that it initiated 
+discussions on what was later christened as the Singapore issues. It initiat ed 
+debates on labour standards and the implementation of the Uruguay Round 
+agriculture and textile agreements. Achievement of this conference included the 
+near-completion of the Information Technology Agreement, adoption of the 
+Comprehensive and Integrated Plan of Action to assist least -developed countries 
+(LDCs) and the signing of a cooperation agreement with the International 
+Monetary Fund. 
+There were differences among the developed and developing nations from the 
+beginning in the WTO negotiations. Though  some nations tried to bridge these 
+gaps, the member nations predominantly clubbed together in a North -South 
+fashion on nearly all the issues. 
+
+
+--- Page 10 ---
+ 
+ 
+ 
+62 
+Globalisation The four issues which were initially proposed by Sir Leon (England) were –  
+1) Information Technology Agreement and the telecommunications negotiations  
+2) Financial services  
+3) Picking up of new subjects like investment and competition 
+4) Labour standards and environmental protection  
+However, the issues (Singapore Issues) that prevailed were –  
+1) Investment  
+2) Government procurement  
+3) Competition policy and  
+4) Trade facilitation 
+Labour was the most controversial of all the issues. Most of the ministers had 
+expressed some views on this issue at the Marrakesh Conference in 1994. 
+However, not much had changed between that valedictory GA TT ministerial and 
+this inaugural WTO ministerial. Both the International Labour Organization 
+(ILO) and the Organisation for Economic Co -operation and Development 
+(OECD) had taken up the issue of trade and labour standards in between. 
+However, this labour issue was not settled until the ministers decided on 
+collaboration between ILO and WTO. On the one hand, the developed countries 
+wanted to ensure legal compatibility between the multilateral environmental 
+agreements (MEAs) and the WTO system. On the other hand, developing 
+countries raised concerns over “green protectionism”. Malaysia, for example, 
+pointed out that the indiscriminate use of labelling schemes was instrumental in 
+undermining developing countries’ exports. Other developing nations proposed 
+that the best means of addressing labour and the environment is indirect – 
+through greater economic growth rather than direct instruments that may be 
+abused for protectionism. Despite these divisions, the ministerial declaration took 
+a more accommodating appro ach to the environment than it did to labour issues. 
+The ministers agreed to establish the Committee on Trade and Environment as a 
+permanent body of the WTO. 
+The Uruguay Round had earlier failed to meet the members' expectations on the 
+investment issue. Di ssatisfaction regarding the Trade -Related Investment 
+Measures (TRIMs) led the developed nations to pursue a Multilateral Agreement 
+on Investment in the OECD. Though negotiations were still underway at the time 
+of the Singapore Ministerial Conference, they collapsed two years later. 
+The issue of competition policy was more complex. Countries failed to chalk out 
+a single, accepted definition of the subject. It culminated with the formation of 
+the GATS and the Agreement on Trade -Related Aspects of Intellectual  Property 
+Rights (TRIPS Agreement). Both the agreements contained provisions relating to 
+fair conditions of competition and international cooperation to facilitate the 
+control of anticompetitive practices. 

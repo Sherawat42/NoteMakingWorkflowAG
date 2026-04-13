@@ -1,0 +1,472 @@
+--- Page 57 ---
+ 
+ 
+ 
+191 
+Approaches to 
+Balance of  
+Payments (BoP) UNIT 10  APPROACHES TO BALANCE OF 
+PAYMENTS  
+Structure 
+10.0 Objectives 
+10.1 Introduction 
+10.2 Approaches to BoP 
+10.2.1 Elasticity approach  
+10.2.2 The absorption approach 
+10.2.3 Keynesian Approach   
+ 10.2.4 The monetary approach   
+10.2.4.1  Tenets of the monetary approach 
+10.2.4.2  Monetary approach and fixed exchange rate 
+10.2.4.3  Monetary approach and flexible exchange rate 
+10.2.4.4 Criticisms of the monetary approach to the balance of 
+payments 
+10.2.5  Synthesising all the approaches  
+10.3 Let us sum up  
+10.4 Key Words 
+10.5 Some Useful Books and References  
+10.6 Answer/Hints to Check your Progress Exercises       
+10.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+• identify different approaches to BoP; 
+• explain the main ingredients of these approaches;  
+• distinguish between monetary approach under fixed and flexible exchange 
+rates; 
+• point out the main criticisms levelled against the monetary approach; 
+• make a synthesis of different approaches; and  
+• highlight the importance of these approaches in making BoP policy. 
+ 
+ Contributed by  Prof. S.K. Singh, Retd. Prof. IGNOU  
+
+
+--- Page 58 ---
+ 
+ 
+ 
+192 
+Exchange Rate and  
+Balance of Payments 10.1   INTRODUCTION 
+Some of the problems which policymakers generally face while analyzing the 
+balance of payments are related to the disequilibrium deficit or surplus and their 
+causes. Disequilibrium in the balance of payments is a general economic 
+phenomenon in most developing countries. In this context, it is important to 
+know the role of a country's ce ntral bank and the policy options it has for 
+maintaining equilibrium in the balance of payments. Many theories in the field of 
+international economics explain the balance of payments disequilibrium and the 
+movements of international reserves in one way or another. Mainly there are four 
+approaches. In the elasticities and absorption approaches, the focus is on the trade 
+balance with unemployed resources. These approaches are associated with 
+Keynesian theory. The distinctive feature of the monetary approach t o the 
+balance of payments is that it examines the implications for the stock equilibrium 
+of the continuing flow of financial assets required to finance a continuing balance 
+of payments surplus or deficit. A central proposition of the monetary approach to 
+the BoP is that the balance of payments is a monetary phenomenon requiring 
+analysis with the tools of monetary theory.  This unit reviews the major 
+approaches to BoP adjustments.  
+10.2  APPROACHES TO BoP 
+The alternative approaches to BoP adjustment are explained in this section. These 
+approaches are as under: 
+i) The Elasticity Approach;  
+ii) The Absorption Approach;  
+iii) The Keynesian approach; and 
+iv) The monetary approach.  
+Let us discuss all the approaches one by one. 
+10.2.1 Elasticity approach  
+We begin first by considering the elasticity approach. The elasticities approach is 
+based on the premise that relative prices determine exports and imports. In this 
+way elasticities approach argues that the number of exports and imports will 
+depend upon do mestic prices, foreign prices and the exchange rate. This 
+approach applies the Marshallian analysis of elasticities of supply and demand 
+for individual commodities to the analysis of exports and imports as a whole. It is 
+generally assumed that exports depe nd on the price of exports, and imports 
+depend on the price of imports. These relations are then translated into 
+elasticities.  
+ 
+
+
+--- Page 59 ---
+ 
+ 
+ 
+193 
+Approaches to 
+Balance of  
+Payments (BoP) 
+The effect of devaluation on the trade balance depends on four elasticities:     
+a) the foreign elasticity of demand for exports; 
+b) the home elasticity of supply;  
+c) the foreign elasticity of supply of imports; and 
+d) the home elasticity of demand for imports.  
+The immediate effect of devaluation is a change in relative prices. If a country 
+devalues by, for example, 20 percent, it means tha t import prices increase by 20 
+percent counted in home prices. An increase in import prices leads to a fall in the 
+demand for imports. At the same time, import -competing industries will be in a 
+better competitive situation. Exporters will receive 20 percen t more in the home 
+currency for every unit of foreign currency they earn. They can, therefore, lower 
+their prices counted in foreign currency and will become more competitive. How 
+much they can expand sales abroad depends primarily on the foreign demand 
+elasticities for their goods. 
+The larger the elasticity, the greater the fall in the volume of imports. The value 
+of the demand elasticity of imports depends, of course, on what types of goods 
+the devaluing country imports. When the exporters, because of dev aluation 
+receive more for every unit of foreign currency they earn, they can lower their 
+prices quoted in foreign currency. When they lower their prices they should be 
+able to sell more. How much the quantity exported increased depends on the 
+demand elasticity confronting the country's exporters.  
+The essence of the theory is embodied in the famous Marshall Lerner condition: 
+an improvement in competitiveness will improve the balance of payments if and 
+only if the sum of the price elasticities of demand for imports by residents and 
+exports by non -residents exceeds unity.  The crucial feature of the condition is 
+that it is the  sum of the elasticities which must exceed one, not each elasticity 
+separately. Hence both exports and imports can be price inelastic but for the 
+condition to be satisfied. In effect, the exchange rate clears the balance of 
+payments. A criterion for a change of the balance of trade in the desired direction 
+can be established, assuming that export and import prices adjust to equate the 
+demand for and supply of exports and imports. 
+The effect on the price level depends primarily on the economic policy 
+accompanying devaluation. The inflationary impact could be limited if a tight 
+monetary and fiscal policy is pursued jointly with devaluation. Another 
+consideration to take into account is the effect of devaluation on income 
+distribution. Again devaluation should result in a reallocation of resources away 
+from the sector producing non -traded goods and into exports and import -
+competing sectors. In general, we can say that the factors of production employed 
+in the export and import-competing sectors will benefit from devaluation. 
+
+
+--- Page 60 ---
+ 
+ 
+ 
+194 
+Exchange Rate and  
+Balance of Payments The Marshall-Lerner condition is built on some drastic simplifications. It roughly 
+assumes that the supply elasticities are large and that the trade balance is in 
+equilibrium when devaluation takes place. The sort of mechanism ignored by 
+Marshall-Lerner includes such processes as:  
+i) a change in relative prices increases exports; 
+ii) the increase in exports generates an increase in income; 
+iii) the higher level of income leads to more imports.  
+This latter increase in imports can be such that there is no improvement in the 
+balance of payments despite the rise in exports. However, none of these 
+assumptions invalidates the spirit of the Marshall-Learner condition, which says 
+that the larger the res pective demand elasticities, the more favourable the effect 
+of devaluation on the trade balance. So long as the sum of elasticities exceeds 
+unity, then an improvement in competitiveness will improve the balance of 
+payments i.e., the Marshall Lerner condition.  
+The significance of Marshall -Lerner condition : Opinion is divided about the 
+relevance of Marshall-Lerner, or competitiveness, to the balance of payments. On 
+the one hand, some economists believe that competitiveness is a major 
+determinant of the balance of payments. On the other hand, according to Johnson 
+“it should be emphasized that the analysis of the effects of devaluation is 
+completely independent of any critical magnitude condition applying to the 
+elasticities of international demand. The relevan t stability condition is monetary 
+theoretic. The familiar elasticity condition (sum -of-the-elasticities-of demand –
+greater-than-unity) is completely irrelevant”.  
+However, it should be noted that the elasticities approach in general can be 
+relevant to the analysis of inflation and unemployment. The income effect, whose 
+size does depend in part on Marshall-Lerner analysis, is not an unwelcome by -
+product but the objec t of the policy. Similarly, exogenous change in 
+competitiveness e.g. by income policy, as a means to reduce unemployment is 
+important in policymaking. The major flaw with the elasticities approach is that it 
+only looked at the current account balance, not the overall balance of payments. 
+10.2.2 The Absorption Approach  
+Sydney Alexander of the IMF first presented the absorption approach in 1952. He 
+sought to look at the balance of trade from the point of view of national income 
+accounting: 
+Y = domestic production of goods and services 
+E = domestic absorption of goods and services, or domestic total expenditure 
+BT = balance of trade 
+BT = Y - E  
+
+
+--- Page 61 ---
+ 
+ 
+ 
+195 
+Approaches to 
+Balance of  
+Payments (BoP) 
+The above identity is useful in pointing out that an improvement in the balance of 
+trade calls for an i ncrease in production relative to absorption. The absorption 
+approach can be said to work only in the presence of unemployed resources. This 
+approach argued that questions regarding the effects of changes in economic 
+variables on the balance of payments we re best assessed by ascertaining the 
+effects on output and absorption. It concentrates on the relationships between real 
+expenditure and real income and the relationships between these price levels. 
+Absorption here is the name given to the aggregate of dom estic demand (C + I  + 
+G), which is the number of goods and services taken off the market domestically. 
+To Alexander, the foreign balance ‘ B’ is the difference between the total output 
+of goods and services ‘ Y’ and the total absorption ‘ A’ of these goods and 
+services by the home economy. Thus, B =Y–A. 
+If the total output is larger than the total expenditure, the country will have a 
+surplus in its BoP and if the total expenditure is larger than the total output the 
+country will have a deficit, and if output equals expenditure, the BoP will be in 
+equilibrium. If a country has a deficit it can, in principle, close the deficit in one 
+of two ways; by reducing expenditure or by increasing output. It is often difficult 
+to increase output in the short run esp ecially if the country already has full 
+employment. Therefore, the chief means for reducing a deficit is usually an 
+expenditure-reducing or switching policy. A tighter monetary policy and fiscal 
+policy can be viewed as an efficient means of implementing an  expenditure-
+reducing policy. If the country has a deficit in the BoP, it can pursue a tighter 
+monetary and fiscal policy. Therewill be a deflationary effect on the national 
+income and lead to a fall in imports, or at last act as a brake on the increase in  
+imports. It will also have a positive effect on exports and import -competing 
+industries. 
+The criticisms against the absorption approach: The following are some of the 
+weaknesses of this approach:  
+i) Machlup has observed that certain elasticity consideration s in the model had 
+been ignored. Alexander had seen these situations in terms of different supply 
+and demand conditions for commodities, which necessarily involved 
+elasticities. However, Alexander’s analysis played down the role of elasticity 
+in his model.   
+ii) The estimation required to bring the ab sorption approach up to the 
+'operational' level was just as formidable as those involved in the elasticities 
+approach. In the case of the absorption approach the relevant propensities had 
+to be known before it was possible to say whether devaluation would be 
+beneficial to the trade balance. 
+iii) It was necessary to embody within the model the fact that an improvement in 
+the balance of trade of a devaluing country involved opposite changes in the 
+trade balance of the rest of the world.  
+
+
+--- Page 62 ---
+ 
+ 
+ 
+196 
+Exchange Rate and  
+Balance of Payments iv) This approach suffered fro m the difficulty that it was not suited for 
+examining changes that only indirectly affected output and absorption: 
+changes such as devaluation or inflation.  
+v) An important flaw and one shared with the elasticities approach is that it only 
+looked at the curr ent account balance and not at the overall balance of 
+payments. 
+The result of these criticisms of the absorption approach was a reformulation 
+which included elasticity effects and was more nearly a synthesis of the elasticity 
+and the income approaches. It is important to realise how neatly the absorption 
+model complements the elasticities approach. The traditional approach ignored 
+supply-side effects and income effects. The absorption approach looks only at 
+these two effects. The two approaches can be combi ned. In brief, the absorption 
+approach focuses on the key factors omitted from the traditional approach and 
+provides a general framework of analysis. Its single most virtue stems from its 
+very existence, the idea that the balance of payments is a macroecon omic 
+variable.  
+10.2.3 Keynesian Approach  
+The Keynesian balance of payments analysis is a coherent presentation of the 
+macroeconomic case for import controls and devaluation. The Keynesian balance 
+of payments theory was the absorption model of Alexander, of the IMF, in the 
+early 1950s. As in all Keynesian models, the balance of payments on the current 
+account, is analysed as a macroeconomic phenomenon in the goods market. The 
+current balanc e of payments will necessarily equal the difference between 
+aggregate domestic output and aggregate domestic expenditure (with a surplus if 
+the output is large and vice versa). This conclusion follows from a manipulation 
+of the basic national income; output ‘O’ and expenditure ‘E’, where O=E.  
+Although the part played by income changes in BoP adjustment is Keynesian in 
+approach and method, Keynes himself took no direct part in its formulation or 
+development. The Keynesian approach made possible the formulat ion of a new 
+approach to the adjustment process by Mrs Joan Robinson, R.F. Harrod, Fritz 
+Machlup and others . This new approach showed that an imbalance in BoP 
+involved an adjustment in income, employment and output irrespective of what 
+changes took place i n prices and of how the deficit was financed. It showed an 
+interaction between the BoP and national income which was a dual one: the 
+‘adjustment process’, by which a BoP is adjusted by changes in the income levels 
+of the home country and the rest of the wo rld; and the ‘ transmission process ’, 
+which shows how variations in the national income of one country may through 
+their balances of payments cause variations in the national incomes of other 
+countries. 
+ 
+
+
+--- Page 63 ---
+ 
+ 
+ 
+197 
+Approaches to 
+Balance of  
+Payments (BoP) 
+Thus, with the development of the income approach to BoP adjustment, a 
+marriage was effected between the theory of International trade and business 
+cycle theory from which much could be expected. It explains not only the 
+adjustment process but also the transmission process. It shows that since deficits 
+are adjustable by relative movements of national income, by reduction of income 
+in the deficit country and increase of income in the surplus country, correction of 
+a deficit must under static productivity conditions, necessarily involve a 
+reduction in national income. The full condition of equilibrium for a country was 
+now redefined as one in which total external receipts equalled total external 
+payments at full employment. This linkage of external equilibrium for a country 
+with its level of income and employmen t by the new approach enabled a much 
+clearer and most realistic view to be taken of BoP policy in modern times.  
+Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  What is meant by the Marshall-Lerner condition? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Explain the main features of the absorption approach. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) The main merit of the Keynesian approach lies in integrating national income 
+with BoP.  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4) What are the distinctive features of elasticity, absorption, and the Keynesian 
+approach to BoP? 
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+5) How do these three approaches differ?  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+
+
+--- Page 64 ---
+ 
+ 
+ 
+198 
+Exchange Rate and  
+Balance of Payments 10.2.4 The Monetary Approach  
+In this section, we examine the monetary approach to the balance of payments.  
+Evolution of monetary approach: Alan Barrett is of the view that some 
+controversy surrounds the early origins of the monetary approach to BoP. 
+Essentially the controversy is over whether David Hume or Richard Cantillon is 
+the true forefather of the approach. Ludwig von Mises can be considered a 
+forerunner of the monetary approach because he analysed the causes and cures of 
+a persistent balance-of-payments disequilibrium. Mises's contribution to balance-
+of-payments analysis should be hailed as a doctrinal milestone in the 
+development of the monetary approach and, much more importantly, as a shining 
+exemplar of methodological individualism in monetary theory.  
+The monetary approach was developed in the 1950s and 1960s by the 
+International Monetary Fund’s research department under Jacques J. Polak, and 
+by Harry G. Johnson, Robert A. Mundell, and their students at the University of 
+Chicago and became fully developed during the 1970s. The monetary approach 
+represents an extension of domestic monetarism (stemming from the Chicago 
+school) to the international economy in that it views the balance of payments as 
+an essentially monetary phenomenon. That is, money plays a crucial role in 
+payments.  
+Mundell included the capital account of BoP in the discussion, and incorporated 
+two policy instruments. One was the growing reluctance of countries to use 
+devaluation as a policy instrument, and the other was the growing constraints on 
+the use of trade barriers arising from G.A.T.T negotiations. While it was also 
+Mundell who recognized that, in a model of capital mobility, the central bank 
+controls not the money supply and employment but domestic credit and the 
+balance of payments, Harry Johnson popularized the concept of the 
+fundamentally monetary nature of the balance of payments. Jacques Polak’s 
+approach to monetary management in the context of the balance of payments 
+disequilibrium evolved in the 1950s in work concerned with Latin American 
+economies. The monetary approach to the balance of payments is an extension of 
+closed economy monetary theory, stressing the stability of the demand for money 
+function and considering the channels through which changes in the money 
+supply, out of line with changes in money demand, affect the economy.  
+10.2.4.1 Tenets of monetary approach  
+To start with let us understand the basic assumptions of this approach which are 
+as under: 
+i) Assumes flexible exchange rates. In other words, the currencies in question 
+are traded in foreign exchange markets with minimal or no government 
+intervention. 
+ii) It focuses exclusively on the behaviour of international investors trying to 
+decide between securities denominated in two different currencies. Based on 
+
+
+--- Page 65 ---
+ 
+ 
+ 
+199 
+Approaches to 
+Balance of  
+Payments (BoP) 
+this the monetary approach is also called the asset approach to exchange rate 
+determination. 
+iii) The approach emphasizes the relevance of the changes in monetary policy 
+and the resulting changes in real returns on securities denominated in 
+different currencies. After investors observe these changes in real returns, 
+they express their preference for security, which leads to buying or selling 
+certain currencies and, therefore, changes in the exchange rate. 
+iv) The demand for money is a stock demand and is a stable function of income, 
+prices, wealth and interest rate. 
+v) The supply of money is a multiple of the monetary base, including domestic 
+credit and the country’s foreign exchange reserves. 
+vi) The demand for nominal money balances is a positive function of nominal 
+income. 
+Given these assumptions, the BoP is regarded as a monetary phenomenon. The 
+very concept of a BoP implies the existence of money. The proponents of the 
+monetary approach regard the balance of payments as being fundamentally a 
+monetary phenomenon. An analysis which does not place money at the centre of 
+attention is seen as inferior. For them, the attraction of the monetary approach is 
+that it analyses the relationships directly relevant to the money account and not in 
+terms of other behavioural relationships which are only indirectly relevant to the 
+money account. Considerations of this relationship can lead us to the conclusion 
+of the monetary approach to explaining the relationship among monetary policy, 
+domestic credit policy, and the flow of international reserves in the context of 
+BoP. Most components of the balance of payments are directly or indirectly 
+affected by a country's domestic credit and monetary policy. The importance of 
+monetary policy is to restore equilibrium in the money market. Some of the 
+macro-variables such as nominal interest rate, GDP and inflation are affected by 
+contractionary/expansionary monetary policy. And, thus, it has a significant 
+effect on domestic credit as well as the balance of payments of a country. 
+This is based on the simple idea that the balance of payment surplus or deficit is 
+caused by disequilibrium in the money market. A BoP deficit or surplus 
+represents a transient stock-adjustment process evoked by an initial inequality 
+between actual and desired money stocks. The monetary approach to the BoP 
+assumes fixed exchange rates. Whenever the economy has disequilibrium in the 
+money market, it will result in a payments imbalance but this disequilibrium will 
+be self-correcting through time and there is no need for correcting the 
+disequilibrium through policy adjustments. The main reason for the self-
+correcting mechanism is that the stable demand function for money relates to 
+money as a stock, not as a flow. When the desired stock is reached, the inflow or 
+outflow of foreign funds stops and so does the balance of payment surplus or 
+deficit. According to Johnson, the central point of the monetary approach to BoP 
+
+
+--- Page 66 ---
+ 
+ 
+ 
+200 
+Exchange Rate and  
+Balance of Payments is that balance-of-payments deficits or surpluses reflect stock disequilibrium 
+between demand and supply in the market for the money.  
+Although real factors are not excluded, the demands for the supply of money are 
+the central theoretical relationships used in the analysis of the balance of 
+payments. An increase in domestic credit raises money supply relative to money 
+demand, other things being equal. So the balance of payments must go into 
+deficit to reduce the money supply and restore money market equilibrium. This 
+approach is an explanation of the overall balance of payments. It explains 
+changes in the balance of payments in terms of the demand for and supply of 
+money. According to this approach, a balance of payments deficit is always and 
+everywhere a monetary phenomenon. Therefore, it can only be corrected by 
+monetary measures. 
+10.2.4.2 Monetary approach and fixed exchange rate 
+The monetary approach implies that a country has no control over its money 
+supply under fixed exchange rates. The money supply is endogenous rather than 
+exogenous or a policy variable. The pursuit of any domestic objective, such as 
+price stability, by altering the domestic component of the monetary base will be 
+frustrated by offsetting changes in the international component through reserve 
+flows. If a country cannot pursue sterilization policies, all the government can do 
+is control the composition of the money supply, not it's level. This implies that 
+under the situation the government cannot determine the level of the monetary 
+base and hence money supply, but only the division of the base into its domestic 
+component, consisting of domestic credit created by the monetary authorities and 
+foreign components, that is, international reserves. 
+The money demand is defined as positively related to the nations’ nominal 
+national income and is assumed to be a stable function in the long run.  On the 
+other end of establishing equilibrium in the money market lies the money supply 
+in an economy which is to a large extent given by the monetary authorities of the 
+nation exogenously. The monetary equilibrium condition requires maintaining 
+stability in the money market.  
+If the disequilibrium results from the inflow of foreign nations’ currency it is 
+equivalent to having a balance of payment surplus whereby inflow outturns the 
+outflow of nations' currency abroad. Suppose the increased money demand is not 
+satisfied by the monetary authorities through a rise in the domestic component of 
+the money supply. In that case, the foreign exchange component shall increase 
+creating an imbalance in the external account of the nation. Similarly, suppose 
+the disequilibrium in the money market exists in the form of a higher money 
+supply or a shortage in money demand. In that case, the foreign component of the 
+monetary base flows out of the nation thereby creating a deficit in the nation's 
+balance of payments account. Thus a surplus in the balance of payments accounts 
+results from an excess in the stock of money demand, which is not satisfied by 
+the rise in domestic components of the nation's monetary base, and BoP deficit 

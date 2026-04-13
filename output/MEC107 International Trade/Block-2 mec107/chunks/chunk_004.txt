@@ -1,0 +1,398 @@
+--- Page 30 ---
+ 
+ 
+ 
+82 
+Modern Theories of  
+International Trade 2) Discuss the concept of product life cycle model. What are the various stages 
+in product life cycle? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Discuss the concept of economies of scale? How can economies of scale 
+define current pattern of international trade in recent years? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4.4 PRODUCT DIFFERENTIATION AND 
+INTERNATIONAL TRADE 
+Currently, most of the international trade is based on differentiated product rather 
+than homogeneous product in world market. For example, Audi is not identical to 
+a Hyundai, Land Rover, Honda or a BMW. Therefore, most of the international 
+trade occurred within differentiated products of the same industry or broad 
+product group in same HS code
+2 known as intra industry trade as opposed to 
+inter-industry trade in completely different products. We have already discussed 
+about Intra-industry trade in details in Unit 3. Let us discuss briefly here as a part 
+of alternative explanations of trade theories. Intra- industry trade models are 
+developed by various trade economists like Helpman, Krugman, Lancaster and 
+others since 1979. Intra-industry trade or trade of similar products remains 
+unexplained in the classical and Heckscher-Ohlin international trade models and 
+theories. Comparative advantage theory earlier only explained the pattern of 
+inter-industry trade. Intra- industry trade between countries occurred due to 
+economies of scale in production. Competition within market forces each firm, 
+plant or industry to focus on only few or one variety and styles of the same 
+product rather than several diversified varieties and styles. This strategy is 
+adopted by many firms to keep unit cost low as specialization decreases per unit 
+cost of production. Thus, country can import the other varieties and styles from 
+another country. Intra- industry trade lead to overall welfare of consumer as 
+consumer received wider range of products at lower prices due to economies of 
+scale in production. This can be explained with the example of European Union 
+(EU).
+ Before formation of EU, plant size of United States (US) firms and 
+European firms was similar, but the unit cost were much higher in Europe due to 
+many more varieties and styles of a product compared
+ to US firm. When EU 
+                                                 
+2The Harmonized Commodity Description and Coding System, also known as the Harmonized System (HS) 
+of tariff nomenclature is an internationally standardized system of names and numbers to classify traded 
+products. It came into effect in 1988 and has since been developed and maintained by the World Customs 
+Organization (WCO) (formerly the Customs  Co-operation Council), an independent intergovernmental 
+organization based in Brussels, Belgium, with over 200 member countries 
+
+
+--- Page 31 ---
+ 
+ 
+ 
+83 
+Alternative 
+Explanations of 
+Trade  
+formed and tariffs were reduced each plant specialized in the production of only 
+few goods which sharply declined per unit cost in European Union. 
+The main reason for inter-industry trade is when we aggregate trade data at 2 
+digit level or HS-2 level; many products are aggregated into one category. For 
+example, India imports and exports similar products like petroleum products, 
+automobiles and so on. Petroleum products like crude oil, petrol, and diesel are 
+aggregated into one category of product code under HS-2 code but actually India 
+imports crude oil from Middle East countries which is processed in coastal areas 
+of India and exported back to another country. Similarly, India imports 
+components of automobiles from Japan as Japan has a comparative advantage in 
+manufacturing of auto-components. These auto-components are assembled in 
+India and exported back to another country. Most of the assembly lines and crude 
+oil refineries are in India as labour is cheaper in India or India is labour-intensive 
+country. 
+However, since all these types are generally aggregated into one export or import 
+category, it could appear that the countries are exporting and importing 
+“identical” products when they are actually exporting one type of automobile o r 
+petroleum products and importing another type. When there are no differences in 
+resource endowments or technologies between countries‟ economies of scale , 
+discriminated products can explain intra-industry trade through is known as 
+monopolistic competition model. Monopolistic competition model emphasi se on 
+consumer demand for a multiplicity of characteristics embodied in the goods sold 
+in a same HS code category. In this model, trade is possible even when countries 
+are very comparable in their productive capabilities. 
+The level of intra-industry trade can be measured by the intra- industry trade 
+index by following formula: 
+           
+    
+Where T represent intra-industry trade index, X represent value of exports and M 
+represents value of imports of a particular industry or commodity group and the 
+vertical bars in the numerator of equation denote the absolute value. Intra 
+industry trade index (T) value ranges from 0 to 1.  T = 0 represent that a country 
+only exports or imports the good or there is no intra industry trade and T=1 
+represent that intra- industry trade is maximum or exports and imports of a goods 
+are equal. T index is calculated by various empirical research studies and found 
+that current most of the trade is guided by intra- industry trade. In 1967, Grubel 
+and Lloyd calculated T index for 10 industrial countries and found that combined 
+weighted average of T for all industries in all 10 countries was 0.48. This result 
+indicates that in 1967 nearly half of the trade among 10 industrial countries 
+involved the exchange of differentiated products of the same industry. 
+
+
+--- Page 32 ---
+ 
+ 
+ 
+84 
+Modern Theories of  
+International Trade 4.5 GRAVITY MODEL OF TRA DE 
+The Gravity Model of Trade is a key and robust empirical model in the 
+international trade used to understand the pattern of international trade. This 
+model was firstly introduced and used by Jan Tinbergen in 1962 employing 
+gravity equation which is derived from Newton‟s theory of gravitation. As globes 
+are attracted to each other in terms of their sizes and proximity similarly 
+countries are also attracted by their sizes and proximities. According to gravity 
+model, bilateral trade between two countries is proportional to size, measured by 
+GDP, and
+ inversely proportional to the geographic distance between them. The 
+main focus of this model is to forecasts on the bilateral trade flows and these 
+forecasts are based on the distance within two countries as well as their 
+respective economic dimensions. 
+It is important to note that, the gravity model was not based on any theory but 
+most of the trade economists empirically derived the impact of size and distance 
+of the country on bilateral trade flows. As most of the trade economists used 
+gravity model to explain pattern of trade therefore this model has been seen as a 
+significant development on previous trade theories of Ricardo and Heckscher-
+Ohlin. Before introduction of gravity model none of the theoretical trade model 
+used 
+the size of an economy significantly in their explanation. 
+This model is important in terms of forecasting the impact of changes in 
+trade policy on trade costs. This model is also flexible in terms of distance where 
+it can cover different variables like tariff imposed at a border, cultural, 
+institutional and political differences between trading nations. The Gravity model 
+has recently used for understand the impact of BREXIT on trade flows between 
+UK, EU and other countries. 
+Moreover, the gravity model is no longer concerned only with trade in goods, but 
+has recently been applied with success to trade in services. 
+Intuitive gravity model:  
+Firstly gravity model was introduced as an intuitive way of understanding trade 
+flows between countries. In its basic form, the gravity model can be written as 
+follows:  
+      = c + b1 log GDPi+b2log GDPj+b3     ij +eij…………………..(1a) 
+    ij = log (distanceij)-----------------------------------------------(1b) 
+In this model X ij represent exports from country i to country j, GDP represent 
+each country‟s gross domestic product,   ij indicates trade costs between the two 
+countries, distance represent the geographical distance between two counties, as 
+an observable proxy for trade costs  and eij is a random error term. The c term is a 
+regression constant, and the b terms are coefficients to be estimated.  
+
+
+--- Page 33 ---
+ 
+ 
+ 
+85 
+Alternative 
+Explanations of 
+Trade  
+The term “gravity” originates from the fact that the nonlinear form of equation 1a 
+look like Newton‟s law of gravity: bilateral trade between two countries is 
+proportional to size, measured by GDP, and  inversely proportional to the 
+geographic distance between them. Putting into another words, gravity model 
+explain that we expect similar countries trade more, but we assume countries 
+wither larger distance trade less, possibly because transport costs between them 
+are higher. 
+However, the intuitive gravity model has some limitation. For example, If India 
+enters into a Free Trade Agreement with EU that lowers tariffs on their respective 
+goods. Basic trade theory indicates that it will be also affect the trade with USA 
+even though it is not party to the agreement. One of the important concepts of 
+trade creation and trade diversion are examples of such effects. But intuitive 
+gravity model does not account the impact of preferential trade agreement or free 
+trade agreement on third country. This is clear from equation 1a which indicates 
+that, 
+       
+       
+   
+Therefore, decreasing trade costs on one bilateral route does not affect trade on 
+other routes in the basic model, which contradicts standard trade theory. 
+A second problem with intuitive gravity model rises if we consider equal 
+reductions in trade costs across all routes, including internal trade. For example 
+there is decline in the price of crude oil, which drops transport costs everywhere, 
+including inside countries. In the intuitive gravity model, this change would 
+result in proportionate increases in trade across all bilateral routes, including 
+internal trade. However, such an outcome is not considered in this model despite 
+the change in trade costs as relative prices have not changed at all. In the absence 
+of a change in relative prices, economic theory assumes that consumption 
+patterns to remain constant for a given amount of total production measured by 
+Gross Domestic Product.  
+As discussed in the previous sections there are problem with intuitive model of 
+gravity hence this model was alerted by some trade economist. The first attempt 
+in this regard was made by Anderson in 1979. However, the applied literature 
+considered theoretical gravity model after the famous “gravity with gravitas” 
+model of Anderson and Van Wincoop in 2003. This model is essentially a 
+demand function which assumes that utility of consumers increases from 
+consuming more variety of goods. From the production side, this model assumes 
+that firm produces a single, unique product variety under increasing return to 
+scale. 
+ 
+ 
+
+
+--- Page 34 ---
+ 
+ 
+ 
+86 
+Modern Theories of  
+International Trade Check Your Progress 2 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Critically discuss the concept of Intra-Industry Trade. How international trade 
+is based on product differentiation? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What is the Gravity model of trade? Explain with the help of formula and 
+examples. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4.6 KRUGMAN ALTERNATIVE THEORY OF 
+TRADE 
+Krugman explained his theory of international trade by considering internal 
+returns to scale and adopting a recent model of innovation under monopolistic 
+competition. Internal economies of scale suggest that per unit average output cost 
+will decrease as the total output increases. Most of the products have high fixed 
+costs, and as production increases, it spreads the fixed cost of product. According 
+to Krugman, if there are internal economies of scale, markets has fewer firms and 
+each firm will produce more and discriminate their product from their 
+competitors. Total number of firm is determined by average cost and price. When 
+the price is higher than average, new firms will enter the market. Krugman also 
+explained that larger economies have higher demand, hence these economies has 
+higher internal return to scale. 
+Internal returns to scale is also applicable to International trade when there is 
+more trade between countries. Suppose if trade between India and EU suddenly 
+emerged due to free trade agreement then production in both markets will grow. 
+There will be fewer total firms, and each persisting firm would produce more. 
+Consumers in both countries would be able to buy variety of the products with 
+low price. Per unit cost would also fall, because of the exploitation of further 
+internal economies of scale. Therefore, even if there is no absolute or 
+comparative advantage in trade, both countries will undertake trade to exploit the 
+benefits of internal economies of scale. Countries will, all else same export the 
+goods where market size or aggregate demand is highest or start their production 
+process in a country where market size is higher by undertaking foreign direct 
+investment. The main reason for this is that firms will be able to exploit higher 
+internal economies of scale than other countries in that market. Therefore, 
+
+
+--- Page 35 ---
+ 
+ 
+ 
+87 
+Alternative 
+Explanations of 
+Trade  
+according to Krugman countries will tend to export the product in which they 
+have specialization or they are able to produce more under the concept of internal 
+economies of scale. 
+When tariff and non-tariff barriers to trade are more, factors of production will 
+tend to move to countries where there are economies of scale in production. For 
+example, suppose labour is only one factor of production, trade barriers would 
+induce labour to move to the country with largest market as real wages will be 
+more and there will be extra product diversity in that market. Krugman also 
+explained his idea considering trade cost in the form of transaction costs. Under 
+transaction costs specialization will be more limited, as trade costs decline the 
+profitability or exporting. Severities of Internal economies of scale also decide 
+the degree of specialization. Country will be specializing more when internal 
+economies of scale will be more for products. Therefore, higher trade cost and 
+limits of internal economies of scale lead to intra-industry trade. 
+According to Krugman trade between countries is also dependent on difference in 
+factor endowments. Nation will export the good which are relatively abundant. 
+But if two countries are equally abundant, it will lead to intra-industry trade 
+between countries. If the countries are equally abundant,
+ the effects for changes 
+in the distribution of income as a result of trade then trade will be Pareto optimal. 
+The gains from the trade and income distribution depend on the severity of 
+difference between factor endowments. In case of more unique country‟s factor 
+endowment, the more relatively scarce factor will lose from trade and the 
+relatively abundant factor will gain. The international market scare factor will 
+lose from the trade because of the lower price of that product in that country as it 
+faces competition from foreign producers who have lower costs because of 
+relative abundance. Whether trade is Pareto optimal is determined by whether the 
+benefit increase from product difference is great enough to make up for the 
+comparative loss of income for the scarce 
+factor. 
+Comparative advantage theory fail to explain trade based on internal economies 
+of scale therefore Krugman explained the idea of internal economies of scale and 
+monopolistic competition. If there are no product differences in relative costs, 
+technology and tastes,
+ gains from trade can be generated from lower prices and 
+greater product diversity. This is an alternative approach to the division of labour 
+and trade theory. 
+4.7 COST OF LOGISTICS, ENVIRONMENTAL 
+STANDARDS, AND INTERNATIONAL TRADE 
+Classical trade theories assumed that there is no transportation cost or 
+transportation cost is zero, but in actual case significant cost is needed for 
+transporting good from one place to another place in international trade. Cost of 
+transportation or logistics cost includes freight charges, warehousing costs, costs 
+of loading and unloading, insurance premiums, and interest charges while goods 
+
+
+--- Page 36 ---
+ 
+ 
+ 
+88 
+Modern Theories of  
+International Trade are in transit. Trade between two countries will occur only if the pre-trade price 
+difference in the two countries exceeds the cost of transporting the good from one 
+country to another country. Most of the commodities are not traded 
+internationally due to high logistics costs. For example, Cement is not transacted 
+internationally due to high transportation cost because of its high weight to value 
+ratio. Cement is only traded to border areas due to high transportation cost.  
+Generally price of non-traded goods and services are determined by domestic 
+demand and supply, while price of traded goods and services are determined by 
+demand and supply in the world market. Currently, logistics cost between 
+countries are significantly declined which resulted in increase in international 
+trade. For example, Fish, Meat, fruits and vegetable found in many European 
+countries in winters are shipped from country like India. In the past, due to high 
+transportation cost and unavailability of refrigerator containers many perishable 
+goods used to spoil in the transportation phase. Logistics costs are much higher in 
+developing countries rather than developed countries and denote a significant 
+obstacle to international trade for industries in developing countries. 
+Transportation cost can be analysed by two methods. One is by general 
+equilibrium model and another by partial equilibrium analysis. Partial 
+equilibrium analysis assumes constant exchange rate and constant level of 
+income in two countries.  
+Logistics cost also influence the location of production under the international 
+trade. Industries can be classified as market seeking, resource seeking or 
+footloose industries. Resource seeking industries are establishing their production 
+near to the source of raw material used by the industry. The main reason for this 
+as the transporting raw material used by the industry is substantially higher than 
+for shipping the finished product to market. For example basic chemicals, 
+aluminium and steel which processes heavy and bulky raw material into lighter 
+finished products. On the other hand, market seeking industries established there 
+plant near to the markets. Market seeking industries normally produce goods that 
+become bulky to transport during the production process. For example, cold-
+drink industries like Coca-Cola, Pepsi established there manufacturing plant near 
+to market as bottling weight is higher than their raw material like concentrated 
+syrup. Finally footloose industries are producing the goods that face neither 
+substantial weight gain or lose during the production process. These industries 
+tend to established near to availability of cheaper input cost. An example is 
+provided by Japanese automobile industries which ship automobile machinery to 
+India to be assembled due to cheap labour availability in India. Currently most of 
+the countries are giving preferential tax treatment to attract these footloose 
+industries.  
+International trade is also affected by environmental standards in different 
+countries. Environmental standards refer to levels of air pollution, water 
+pollution, thermal pollution and pollution resulting from garbage disposal that a 
+
+
+--- Page 37 ---
+ 
+ 
+ 
+89 
+Alternative 
+Explanations of 
+Trade  
+nation allows. International trade which creates negative impact on environment 
+can lead to serious trade problems because the price of traded goods and services 
+often does not reflect the negative externalities or socio environmental costs. 
+Countries with lower environmental standards are able to attract more polluting 
+industries. For example, United States labour opposed NAFTA due to fear that it 
+would lead to job losses as industries might move to Mexico to take benefit of 
+more relax or less environmental laws compare to U.S market. According to 
+world bank study in 1992, exports of polluting industries expanded faster than 
+clean industries in the last two decades in the world market and mostly shifted to 
+underdeveloped and developing countries from developed nation (Lo
+w, 1992).  
+As country make progress,  people demand more clean industries rather than 
+polluting industries. Most of the developed countries are now taking help of 
+environmental standards to protect their economy from polluting industries which 
+also increased non-tariff barriers amongst the countries. 
+Check Your Progress 3 
+Note: 
+i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Discuss the Krugman‟s alternative theory of international trade. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Discuss the impact of environmental standards and logistics cost on location 
+of the production and international trade. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) What is meant by resource - seeking industries? Market seeking industries? 
+Footloose industries? What determine the classification of the industry? How 
+does this affect the pattern of international trade? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4.8  LET US SUM UP 
+In this unit, we discussed about alternative explanation of international trade 
+theories. Classical theories of International Trade unexplained significant portion 
+of real International trade flows between countries. The current unit fill this gap 
+by providing alternative explanation of international trade which is based on 
+empirical evidences of current trade flow with more relaxed and realistic 
+assumptions to explain current patterns of international trade. Alternative 
+explanation of trade theories are based on concept of increasing return to scale, 
+economies of scale, product life cycle theory, Gravity Model, Product 

@@ -1,0 +1,527 @@
+--- Page 11 ---
+ 
+ 
+ 
+63 
+Intra-Industry 
+Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 
+3.2: Effect of trade on real wage and consumption 
+The intersection of AB and PQ curves determine the equilibrium values of (p /w) 
+and c. The equilibrium number of products (N) is determined as follows:  
+ 
+ 
+                                                                                         (6) 
+where L is to total labour force in the country. The assumption of symmetry 
+means that all firms are alike and hence we can simply replace the summation 
+sign 
+
+
+
+
+
+
+
+N
+i 1  with N. The term y is replaced as L c as total output of each variety (y) 
+is equal to the total demand for each variety (L c). Therefore, given L and the 
+fixed parameters α and β, the value of N is endogenously determined once the 
+equilibrium value of c is known. Thus, equilibrium in the closed economy is fully 
+determined.  
+What will happen when the home country `A' opens trade with the foreign 
+country `B', which is identical with `A' in every way?  In the H-O-S setting, there 
+is no reason for these countries to engage in trade as firms in the two countries 
+are symmetric (prices and quantities are identical across varieties in the two 
+countries). But the story is different in the present model in that trade in 
+differentiated commodities will take place even if identical ranges of varieties are 
+p
+roduced in both countries in autarky. The reasoning for this goes as follows. In 
+the absence of trade barriers, countries A and B together constitute an `integrated 
+economy' (a term to represent two or more open economies combined), which is 
+equivalent to twice the size of either of the two countries. Firms in this 
+„integrated economy‟ have no incentive to produce the same varieties as other 
+firms because every variety enters into consumer's utility function symmetrically. 
+Since no two firms produce the same variety, each variety will be produced in 
+only one country. At the same time, all varieties are demanded in both the 
+countries, which necessitate international trade in different varieties of the same 
+commodity Y and hence IIT.   
+ 
+11
+( ) ( ) ( )
+11
+( ) ( ) /
+NN
+i i i
+ii
+L L y N y N Lc
+LN Lc Lc L Lc
+     
+    
+
+      
+   
+
+p/w 
+c 
+A 
+B 
+Q 
+P 
+Q* 
+P* 
+c0 
+c1 
+(p/w)
+(p/w)
+
+
+--- Page 12 ---
+ 
+ 
+ 
+64 
+Modern Theories of  
+International Trade Two identical countries trading is just like doubling the population L, which will 
+have no impact on AB curve. However, the PQ curve will shift down (see 
+equations 4 and 5).  As a result of this shift the following changes occur: (i) 
+consumption of each variety falls from c 0 to c 1 ; (ii) p/w falls from (p/w) 0 to 
+(p/w)1 which means that real wage w/p rises; (iii) number of varieties (N) 
+available to consumers in each country increases due to the rise in the total 
+number of consumers (L in integrated economy) and fall in the consumption of 
+each variety (see equation 6); (iv) output produced by each firm (y) increases
+1; 
+and (v) number of varieties produced in each country falls. The last result means 
+though the number of varieties available to consumers in each country go up, the 
+number of varieties produced in each country falls. The number of varieties 
+produced should necessarily decline in order to satisfy the employment condition 
+in each country.  
+ 
+                           (7) 
+ 
+Given that productive resources in each country (L) remains constant, an increase 
+in the value of y means that N should necessarily fall. While the number of 
+varieties produced in each country falls, the sum of varieties from both countries 
+under free trade exceeds the number in any single country before trade. Larger 
+number of varieties for consumption means that consumers in each country 
+clearly gains from trade. Higher real wages are another source of gains from 
+trade in this model. The model shows that trade liberalization leads to a „scale 
+effect‟ (surviving firms expand their outputs) as well as a „selection effect‟ (some 
+firms are forced to exit). 
+Ideal variety approach developed by Lancaster (1980) and Helpman (1981) differ 
+from Krugman's model in that the symmetry assumption of the utility function is 
+not used. Instead, in this approach, every consumer residing in the country A is 
+assumed to have preference for an ideal variety. Consumers differ in terms of the 
+most preferred variety, but the assumption of equal density of preferences implies 
+that the same aggregate demand exists for every variety. The supply side is 
+characterised by free entry and exit, identical cost function for all varieties, and 
+the existence of scale economies in the production of every variety.  Because of 
+the existence of scale economies, the number of varieties produced cannot be 
+infinite suggesting that some consumers will be unable to get their ideal variety. 
+Firms entering the market must decide on the particular variety and price. Profit 
+maximising behaviour will ensure that no two firms will produce the same 
+                                                 
+1 This is evident from equation (5). Since p/w falls while α and β remain constant , it is clear that 
+Lc =  y  should necessarily increase.   
+()
+()
+L N y
+LN y
+
+
+
+ 
+
+
+--- Page 13 ---
+ 
+ 
+ 
+65 
+Intra-Industry 
+Trade variety in equilibrium.  Also, in equilibrium, each variety will be produced in the 
+same quantity, will be sold at the same price and each firm will earn zero profit. 
+This situation is referred to as perfect monopolistic competition.  
+Now, consider the possibility of trade with a foreign country B which is identical 
+with `A' in every way. The symmetry assumption will ensure that the autarkic 
+equilibrium features of A and B are identical and the `integrated economy‟ is 
+equivalent to twice the size of either of the two countries. Also, in the „integrated 
+economy‟, each variety will be produced by only  one firm and therefore in only 
+one country. All varieties will, however, be consumed in both countries, giving 
+rise to IIT.  
+The basic models outlined above have been extended by integrating them with 
+the H-O-S approach to international trade. Generally, this has been done by 
+introducing a second output sector (such as, agriculture, producing a homogenous 
+good under conditions of constant returns) and cross-country differences in factor 
+endowments. The integrated models predict that trade based on comparative 
+advantage and trade based on scale economies will take place side by side. 
+Check Your Progress 3 
+Note: 
+i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  What is the effect of intra-industry trade on real wage and consumption? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What will happen when the home country „A‟ opens trade with the foreign 
+country `B', which is identical to „A‟? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3.3.3. IIT in Vertically Differentiated Commodities 
+The horizontal models are considered to be of greater relevance for 
+understanding the occurrence of bilateral IIT among developed countries. A 
+different approach pertaining to IIT between countries with clearly different 
+factor endowments takes its point of departure in vertical product differentiation. 
+Most economists formulated models of vertical IIT without recourse to 
+economies of scale. In general, these models predict the pattern of IIT along the 
+lines similar to the pattern of inter-industry trade predicted in the conventional 
+trade model, according the central role to factor endowment differences. What 
+follows is a brief discussion of the essential elements of the vertical models. 
+
+
+--- Page 14 ---
+ 
+ 
+ 
+66 
+Modern Theories of  
+International Trade Falvey (1981) adopt ed a partial equilibrium approach by concentrating on trade 
+within a single industry, which is assumed to posses a stock of industry specific 
+capital and produces a continuum of products differentiated by quality. Higher 
+quality products are characterised by higher capital labour ratio used in their 
+production. Therefore, the comparative advantages of capital abundant countries 
+lie on the higher ends of the quality spectrum and that of labour abundant 
+countries lie on the lower ends. Vertical IIT between two countries will arise 
+given an overlap in the demand for different qualities and this possibility is 
+enhanced the greater is the factor endowment difference between the countries. 
+Assuming that relative capital abundance is reflected in relative income per 
+capita, the model suggests a hypothesis contrary to what emerges from the 
+horizontal models. That is, the intensity of IIT will be positively correlated with 
+the per capita income differences between the trading partners. Another testable 
+hypothesis, which emerges from the model, is that the shares of IIT vary 
+inversely with the levels of trade restriction of partner countries. 
+The supply side in the Falvey and Kierzkowski (1987) model is a close 
+descendant of Falvey (1981), the demand side being fully elaborated in the 
+former. Each individual is assumed to demand only one type of differentiated 
+product and given relative prices,
+ this preferred quality is determined uniquely by 
+the individual's income. Since the aggregate income of an economy is not equally 
+distributed, there is, at any point in time, an aggregate demand for a variety of 
+differentiated goods. This holds well in the `integra ted economy‟ as well and 
+consequently vertical IIT will emerge, the intensity of which being higher the 
+more dissimilar (in income distribution) are the trading countries. The model also 
+suggests that the shares of IIT will be positively correlated with the market size 
+of countries.  
+In the preceding models, capital assumes the decisive role among the factors of 
+production in determining the product specification. Whereas, Flam and Helpman 
+(1987), in their model, ascribe the central role to labour. According to them, 
+population in every country is characterised by a non-degenerate distribution of 
+skills and differences in skills are reflected in differences in the endowment of 
+effective labour supply. Higher quality products are characterised by relatively 
+larger inputs of labour used in their production and the pattern of IIT reflects 
+differences in technology and in income distribution.  
+A strikingly different mode of analysis focuses on the markets where R&D 
+expenditure (considered a sunk cost) is a prerequisite to quality improvement. 
+Given that the average variable cost rises only slowly with quality, the number of 
+firms in the market is bounded; by extending the distribution of income the upper 
+bound on the number of firms increases, however. Thus, the `integrated economy' 
+can support a large number of firms if the two countries are more dissimilar in 
+income distribution. The higher income country specialises in higher quality 
+products and the lower income country specialises in lower quality products 
+resulting in vertical IIT.  
+
+
+--- Page 15 ---
+ 
+ 
+ 
+67 
+Intra-Industry 
+Trade 3.3.4. IIT in Intermediate Products 
+Ethier (1979, 1982) focuses on the significance of three important aspects to 
+international trade: international returns to scale, product differentiation in 
+producer goods and interdependence of world industrial activity. He points out 
+that scale economies resulting from an increased division of labour depend on the 
+size of the world market rather than the production level in any one country. The 
+interdependence of world industrial activity implies global dispersion of the 
+distinct operations consisting of production process in an industry, which in turn 
+depends on the efficiency gains from increased specialisation.   
+The analysis produces a model of IIT in intermediate products, wherein the desire 
+for product variety arises as a consequence of larger markets permitting greater 
+division of labour. This is in contrast with the models discussed earlier wherein 
+the desire for product variety arises from consumer preference. The analysis 
+further demonstrates that internal scale economies and product differentiation are 
+not the only factors determining the degree of intra-industry trade. 
+In agreement with the horizontal models, Ethier's model also predicts that 
+similarities of factor endowments between nations tend to promote IIT.  Also, if 
+differentiated intermediate goods are tradable, the analysis of trade pattern is 
+similar to that of differentiated final goods. 
+3.3.5. IIT in Identical Commodities 
+The usual approach to IIT is to assume that such trade arises because slightly 
+different commodities are produced and traded to satisfy the desire for variety.  
+However, Brander (1981) and Brander and Krugman (1983) have shown that 
+there are reasons to expect IIT even in identical products. In their models, the 
+pattern of trade is determined by the interaction of increasing returns to scale, 
+transport costs, and oligopolistic behaviour of international firms. A Cournot 
+strategy is assumed in which each firm maximises profit assuming the output of 
+other fi
+rms in each market (domestic and foreign) remains the same. The market 
+equilibrium involves IIT despite the fact that both countries A and B (symmetric) 
+produce identical commodities, and there is an obvious loss due to transport 
+costs. (Transport costs, h owever, should not be too high. As transport costs fall, 
+the proportion of foreign goods in domestic consumption increases.)  IIT is the 
+result of what is called “reciprocal dumping"(also called "cross -hauling"), i.e., 
+each firm dumps into other firm's hom e market. The term "dumping" is because 
+the f.o.b price of export is less than the domestic price. The firm's incentive to 
+bear the higher effective marginal cost (including transport costs) associated with 
+exporting stems from the possibility of its marginal revenue in the foreign market 
+exceeding that in the domestic market because the market share of each firm in 
+the foreign country is smaller than that in the home country. This is an 
+equilibrium situation because imperfectly competitive firms set margin al revenue 
+equal to marginal costs in different markets.  The drawback of this model is that 
+
+
+--- Page 16 ---
+ 
+ 
+ 
+68 
+Modern Theories of  
+International Trade the Cournot assumption ignores strategic interdependence of firms usually 
+observed in oligopolistic markets. In particular, the ability of this model to 
+explain the pattern of IIT in the context of developing countries is suspect.       
+Check Your Progress 4 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Describe Intra-Industry trade in Intermediate goods. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What could be the possible reasons behind IIT in identical products? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Discuss the relevance of vertical IIT. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3.4  MEASUREMENT OF IIT 
+Two major issues in the empirical analysis of IIT are concerned with: (i) the 
+definition of „industry‟ and (ii) measurement of IIT. The measurement issues 
+were subjected to controversies ever since they were first raised and now there 
+exists some professional consensus on most of the issues.  
+3.4.1  Defining `Industry’ and the Problem of Categorical 
+Aggregation 
+Operationalizing the concept of „industry‟ is vital for the empirical analysis of 
+IIT. It is, however, easier said than done, as there is no agreed single definition of 
+„industry‟. Mainly, two criteria have been followed in economic analysis. The 
+first considers different products as belonging to a single industry if they are 
+good substitutes in production, while the second criterion is related to the extent 
+of substitutability of products in consumption.  
+A major issue for the empirical analysis is that the criteria for official trade 
+classification do not coincide exactly with the criteria for products to constitute 
+IIT.  The problem of categorical aggregation arises as a result of the inclusion in 
+a single trade category of products, which either have different production 
+
+
+--- Page 17 ---
+ 
+ 
+ 
+69 
+Intra-Industry 
+Trade functions or have different end uses. Importantly, the extent of IIT, as estimated 
+by the usual measures is sensitive to the level of aggregation (of products) which 
+defines an industry: higher levels of aggregation usually give rise to greater 
+extent of recorded IIT. The use of a more detailed classification system for the 
+measurement of IIT does not necessarily solve the problem because it would tend 
+to separate commodities that are good substitutes in production and consumption.  
+Thus, the degree and kind of homogeneity of commodity items under each trade 
+category need to be considered for the purpose of empirical analysis. The most 
+common practice is to select a specific level of statistical aggregation in the 
+official classification as the best approximation to the concept of industry. Now, 
+there exists a professional consensus to consider the products grouped under 4 or 
+6
+-digit level of Harmonized System (HS) of Classification as roughly 
+corresponding with the concept of an industry. In general, commodities grouped 
+under a particular 4 or 6-digit code may be close substitutes in production, 
+consumption or both. First, there may be products traded having similar input 
+requirements, are close substitutes in production, but not in consumption. 
+Secondly, there are products traded that are close substitutes in consumption, but 
+not in production.  A third category involves very similar goods, which are close 
+substitutes in consumption and production. Finally, the exchange of absolutely 
+identical products can also be found. In practice, the simultaneous exchange in 
+these four types of commodities is considered as IIT, while other types of 
+transactions constitute inter industry trade. 
+3.4.2  Measuring the Intensity of IIT 
+The intensity of IIT is usually measured by using the well-known Grubel Lloyd 
+(GL) index: 
+ 
+  ,100M X
+M X M XGL
+i i
+i i i i
+i 
+  
+    (8) 
+where GLi is the IIT index for industry i , and X  i  and M  i  are  values of exports 
+and imports in industry i . The value of GL i  ranges from 0 to 100. If there is no 
+IIT (i.e., one of X i or M i  is zero) GLi  takes a value 0. If all trade is IIT (i.e., Xi  = 
+Mi), GLi takes a value of 100. Grubel and Lloyd (1975) proposed the following 
+weighted index to arrive at an aggregate measure of IIT: 
+  
+  .100M X
+M X M XGL
+i i
+i i i i
+ 
+   
+    (9) 
+The following features of Grubel Lloyd index are worth noting.  
+1) GLi is independent of the absolute value of exports and imports, thus it does 
+not allow conclusion on the absolute value of IIT. 
+2) GLi  is symmetric in the rise in exports and imports, thus it could rise due to a 
+rise in either exports or imports or both. 
+
+
+--- Page 18 ---
+ 
+ 
+ 
+70 
+Modern Theories of  
+International Trade 3) GLi is non-linear in changes, so a small alteration in the coefficient would 
+disguise a big change in trade volumes and vice versa. 
+4) GLi  i s subject to aggregation problems. Grubel and Lloyd argue that "…the 
+measure of IIT at a more aggregative level is greater than, or at least no less 
+than, the measured intra-industry trade with a finer commodity breakdown".   
+5) Grubel and Lloyd observed that GL is a biased downward measure of IIT if 
+the country's total commodity trade is not balanced or if the mean is an 
+average of some subset of all industries for which exports are not equal to 
+imports. They considered this an undesirable feature of a measure of average 
+IIT and suggested the need for correcting for trade imbalance. They proposed 
+to use an adjusted measure. Although, many economists disagree with the 
+idea of adopting adjusted measure. 
+Check
+ Your Progress 5 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Describe Grubel Lloyd (GL) index for Measuring the Intensity of IIT. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What were the major issues in the empirical analysis of IIT? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3.5  LET US SUM UP 
+In this unit, we discussed about Intra industry trade and how trade liberalization 
+has supported its growth. IIT means the simultaneous export and import of 
+products, which are very close substitutes for each other in terms of factor inputs 
+and consumption. Growth of IIT is an outcome of greater specialisation in the 
+manufacturing of unique varieties or product lines by the individual plants in 
+different countries.   In a liberalized environment, intensity of IIT has increased 
+in most of the countries. In absence of trade barriers,
+ IIT has increased in many 
+industries. 
+We also distinguished between the two types of IIT – horizontal and vertical IIT. 
+Horizontal IIT refers to the simultaneous export and import of the differentiated 
+products within an industry which are of a similar quality. Vertical IIT, on the 
+
+
+--- Page 19 ---
+ 
+ 
+ 
+71 
+Intra-Industry 
+Trade other hand, refers to the exchange of differentiated products that are of different 
+qualities. While discussing the theories of Intra-Industry Trade, we also discussed 
+about the need for separate theory for Intra-Industry Trade. We discussed about 
+„love for variety‟ and „ideal variety approach‟ in case of horizontal IIT. We also 
+discussed about IIT in identical goods and intermediate goods. We further 
+discussed about the major issues in the empirical analysis of IIT and Grubel 
+Lloyd (GL) index for measuring the Intensity of IIT. 
+3.6  SOME USEFUL REFERENCES 
+Abed-el-Rahman, K. (1991) „Firms‟ Competitive and National Comparative 
+Advantages as Joint Determinants of Trade Composition‟, Weltwirtschaftliches 
+Arch
+iv, 127, 83-97. 
+Aquino, A. (1978) „Intra-Industry Trade and Intra-Industry Specialisation as 
+Concurrent Sources of International Trade in Manufactures‟, 
+Weltwirtschaftliches Archiv, 114, 275-95.
+ 
+Balassa, B. (1966) „Tariff Reductions and Trade in Manufactures among the 
+Industrial Countries‟, American Economic Review, 56, 466
+-73.  
+Balassa, B. (1979) „Intra -Industry Trade and the Integration of the Developing 
+Countries in the World Economy‟, in Giers ch, H. (ed.) (1979) On the Economics 
+of Intra-Industry Trade (Tübingen: J.C.B. Mohr.). 
+Bernhofen, D. M. (1999) „Intra -Industry Trade and Strategic Interaction: Theory 
+and Evidence‟ Journal of International Economics, 47, 225-44. 
+Brander, J. A. (1981) „Intra-Industry Trade in Identical Commodities‟, Journal of 
+International Economics, 13, 313-21. 
+Brander, J. A. and Krugman, P. R. (1983) „A Reciprocal Dumping Model of 
+International Trade‟, Journal of International Economics, 13, 313-21. 
+Dixit, A.K. and Stigli tz, J. (1977) „Monopolistic Competition and Optimum 
+Product Diversity‟, American Economic Review, 67, 297-308. 
+Dixit, A. K. and Norman, V. (1980) Theory of International Trade (Cambridge: 
+Cambridge University Press). 
+Eaton, J. and Kierzkowski, H. (1984) „Oligopolistic Competition, Product Variety 
+and International Trade‟, in Kierzkowski, H (ed.), Monopolistic Competition and 
+International Trade (Oxford: Oxford University Press). 
+Ethier, W. J. (1979) „Internationally Decreasing Costs and World Trade‟, Journal of 
+International Economics, 9, 1-24.  
+Ethier, W. J. (1982) „National and International Returns to Scale in the Modern 
+Theory of International Trade‟, American Economic Review, 72, 389-405. 
+
+
+--- Page 20 ---
+ 
+ 
+ 
+72 
+Modern Theories of  
+International Trade Falvey, R. E. (1981) „Commercial Policy and Intra-I ndustry Trade‟, Journal 
+International Economics, 11, 495-511. 
+Falvey, R. E. and Kierzkowski, H. (1987) „Product Quality, Intra -industry Trade, 
+and Imperfect competition‟, In Kierzkowski, H (ed.), Protection and Competition in 
+International Trade (New York: Blackwell). 
+Finger, J.M. (1975) „Trade Overlap and Intra-Industry Trade‟, Economic Inquiry, 
+13, 581-89. 
+Flam, H. and Helpman, E. (1987) „Vertical Product Differentiation and North -
+South Trade‟, American Economic Review, 77, 810-822. 
+Fontagne, L., Freudenb erg, M. (2002), „Long-term Trends in Intra-Industry 
+Trade‟, in: Lloyd, P.J., Lee, H H. (eds.), Frontiers of Research on Intra-Industry 
+Trade, (New York: Palgrave Macmillan). 
+Fukao, K., Ishido , H and Ito, K (2003), „Vertical Intra -Industry Trade and 
+Foreign Direct Investment in East Asia‟, Journal of the Japanese and 
+International Economies 17, 468-506.   
+Gray, H. P. (1979) „Intra-Industry Trade: The Effects of Different Levels of Data 
+Aggregation‟, in Giersch, H. (ed.) (1979) On the Economics of Intra -Industry 
+Trade (Tübingen: J.C.B. Mohr.). 
+Greenaway, D., and Milner, C. R. (1986) The Economics of Intra-Industry Trade 
+(Oxford: Blackwell). 
+Greenaway, D., Hine, R. and Milner, C. R. (1994) „Countr y Specific Factors and 
+the Pattern of Horizontal and Vertical Intra- industry Trade in the UK‟, 
+Weltwirtschaftliches Archiv, 130, 77-100.
+ 
+Grubel, H. G., and Lloyd, P. J. (1975) Intra-Industry Trade (London: Macmillan). 
+Helpman, E. (1981) „International Trad e in the Presence of Product 
+Differentiation, Economies of Scale and Monopolistic Competition‟, Journal of 
+International Economics, 11, 305-40. 
+Helpman, E. and Krugman P. R. (1985) Market Structure and Foreign Trade: 
+Increasing Returns, Imperfect Competition, and the International Economy  
+(Cambridge: MIT Press).  
+Helpman, E. (1998) „Explaining the Structure of Foreign Trade: Where Do We 
+Stand‟, Weltwirtschaftliches Archiv, 134, 573-89. 
+Hoekman, B., Djankov , S. (1997) „Determinants of the Export Structure of 
+Countries in Central and Eastern Europe‟ The World Bank Economic Review  11, 
+471-487. 

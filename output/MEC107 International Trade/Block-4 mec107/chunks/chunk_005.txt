@@ -1,0 +1,374 @@
+--- Page 39 ---
+ 
+ 
+ 
+173 
+Impossible Trinity: 
+Alternative 
+Scenarios UNIT 9  IMPOSSIBLE TRINITY: AL TERNATIVE 
+SCENARIOS  
+Structure 
+9.0 Objectives 
+9.1   Introduction 
+9.2  The Concept of Impossible trinity 
+9.3 Theoretical underpinning: Mundell-Fleming model  
+9.4 Impossible Trinity: alternative scenarios countries’ experience 
+9.5 Importance of Impossible Trinity 
+9.6 Impossible trinity and demand for capital account convertibility of India’s 
+rupee 
+9.7  Let us sum up  
+9.8  Key terms 
+9.9  Some Useful Books 
+9.10 Answer/Hints to Check your Progress Exercises     
+9.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+• define the concept of the impossible trinity; 
+• identify the components of the impossible trinity; 
+• examine the impossibility of achieving all three components simultaneously; 
+• analyse the empirical evidence in the context of the impossible trinity; 
+• point out the problem of rupee convertibility in meeting the conditions of the 
+impossible trinity; and  
+• highlight the importance of the study of the impossible trinity. 
+9.1   INTRODUCTION 
+Macroeconomic policy trilemma, also called the impossible trinity, means that a 
+country must choose between free capital mobility, exchange -rate management 
+and an independent monetary policy. Only two of the three are possible. A 
+country that wishes to fix its currency's value and has an interest -rate policy free 
+from outside influence cannot allow capital to flow freely across its borders. The 
+ 
+ Contributed by  Prof. S.K. Singh, Retd. Prof. IGNOU 
+
+
+--- Page 40 ---
+ 
+ 
+ 
+174 
+Exchange Rate and  
+Balance of Payments articulators of the concept in the 1960s were J. Marcus Fleming  and Robert A. 
+Mundell. The impossible trinity is a simple rule with deep implications. This 
+trilemma is being faced by many countries. China faced this trilemma when the 
+exchange rate was fixed but the country was open to cross-border capital flows, it 
+cannot have an independent monetary policy. Similarly, Britain has this trilemma 
+when it chose free capital mobility and wanted monetary autonomy it had to 
+allow its currency to float. There are many findings from empirical studies where 
+governments that have tried to pursue all three goals simultaneously have failed.  
+This is the prevailing global monetary scenario where the two -from-three 
+combinations most modern economies choose.  
+9.2  THE CONCEPT OF IMPOSSIBLE TRINITY 
+The concept is derived from the academic works of Canadian e conomist Robert 
+Mundell and British economist Marcus Fleming in the early 1960s. This principle 
+is frequently called ‘ the Unholy Trinity ,’ the ‘ Irreconcilable Trinity ,’ the 
+‘Inconsistent trinity ’ or the Mundell -Fleming ‘ trilemma’. This is a concept 
+in international economics which states that it is impossible to have all three of 
+the following at the same time: 
+i) a fixed foreign exchange rate; 
+ii) free capital movement (absence of capital controls); 
+iii) an independent monetary policy. 
+Under the impossible trinity ( a play on ' dilemma’), two policy positi ons are 
+possible. If a nation were to adopt position  a, for example, it would maintain a 
+fixed exchange rate and allow free capital flows, the consequence of which 
+would be a loss of monetary independence. A central bank can only pursue two 
+of the three po licies mentioned above simultaneously. To see why consider this 
+example: 
+Assume that the world interest rate is at 5%. Suppose the home central bank tries 
+to set the domestic interest rate at a rate lower than 5%, for example at 2%. In 
+that case, there will be depreciation pressure on the home currency , because 
+investors would want to sell their low -yielding domestic currency and buy 
+higher-yielding foreign currency. I f the central bank also wants to have free 
+capital flows, the only way it could prevent the home currency's depreciation is to 
+sell its foreign currency reserves. Since the foreign currency reserves of a central 
+bank are limited, once the reserves are depl eted, the domestic currency will 
+depreciate.  Hence, all three of the policy objectives cannot be pursued 
+simultaneously. A central bank has to forgo one of the three objectives. Three out 
+of three are not possible, but two out of three are not bad.  
+
+
+--- Page 41 ---
+ 
+ 
+ 
+175 
+Impossible Trinity: 
+Alternative 
+Scenarios 
+9.3  THEORETICAL UNDERPINNING: MUNDELL – 
+FLEMING MODEL 
+The Mundell-Fleming model integrates international trade and finance into 
+macroeconomic theory. This approach was developed in the early 1960s by the 
+Canadian economist Robert Mundell (winner of the 1999 Nobel Prize in 
+economics) and the British economist J. Marcus Fleming (1911–1976). Both 
+authors were members of the IMF's research department. They independently 
+extended the traditional Keynesian model to an open economy set-up in which 
+the capital and goods markets are internationally integrated. The resulting 
+research constitutes the original version of the Mundell-Fleming model (Mundell 
+1963; Fleming 1962). The model states that, in the long run, a central bank that 
+hopes to conduct independent monetary policy must choose between maintaining 
+a fixed foreign exchange rate and allowing the free movement of capital. For 
+instance, a central bank that chooses to increase the total money supply by 
+adopting a loose monetary policy cannot hope to maintain the foreign exchange 
+value of its currency unless it resorts to restricting the sale of domestic currency 
+in the currency market.  
+Basic set -up*: The model is an extension of the IS -LM model. The traditional 
+IS-LM model deals with the economy under autarky (or a closed economy), 
+whereas the Mundell-Fleming model tries to describe an ope n economy. 
+Typically, the Mundell-Fleming model portrays the relationship between the 
+nominal exchange rate and an economy's output (unlike the relationship between 
+interest rate and the output in the IS -LM model) in the short run. The Mundell-
+Fleming model has been used to argue that an economy cannot simultaneously 
+maintain a fixed exchange rate, free capital movement, and an independent 
+monetary policy.  The traditional model is based on the following equations. 
+Y = C + I + G + NX (The IS Curve) 
+Where Y is GDP,  
+C is consumption,  
+I is investment,  
+G is government spending, and  
+NX is net exports. 
+M  
+= L (i, Y) (The LM Curve) P 
+Where M is the money supply,  
+P is the average price,  
+L is liquidity, i is the interest rate, and Y is GDP 
+
+
+--- Page 42 ---
+ 
+ 
+ 
+176 
+Exchange Rate and  
+Balance of Payments  BoP =CA+KA (The BoP Curve (Balance of Payments)) 
+Where CA is the current account and  
+KA is the capital account 
+IS components  
+C = C(Y – T, i – E(π)) 
+Where C is consumption,  
+Y is GDP,  
+T is taxes,  
+i is the interest rate,  
+E(π) is the expected rate of inflation 
+I = I (i – E(π), Y – 1) 
+Where I is investment,  
+i is the interest rate,  
+E(π) is the expected rate of inflation,  
+Y – 1 is GDP in the previous period 
+G = G  
+Where G is government spending, an exogenous variable 
+NX = NX(e, Y,Y*) 
+Where NX is net exports,  
+e is the real exchange rate,  
+Y is GDP,  
+Y* is the GDP of a foreign country 
+BoP components 
+ CA = NX   
+Where CA is the current account and  
+NX is net exports 
+KA = z(i - i  *) + k 
+Where z is the level of capital mobility,  
+i is the interest rate,  
+i* is the foreign interest rate,  
+k is capital investments not related to i, an exogenous variable 
+ 
+
+
+--- Page 43 ---
+ 
+ 
+ 
+177 
+Impossible Trinity: 
+Alternative 
+Scenarios 
+A critical assumption of the model is the equalization of the local interest rate to 
+the global interest rate. 
+Changes in money supply: An increase in the money supply shifts the LM curve 
+downward. This directly reduces the local interest rate and forces the local 
+interest rate to lower than the global interest rate. This depreciates the exchange 
+rate of local currency through capital outflow. Hot money flows out to take 
+advantage of higher interest rates abroad, so currency depreciates. This leads to 
+the shifting of the IS curve (Y = C + I + G + NX) to the right, where the local 
+interest rate equalizes with the global rate. A decrease in the money supply 
+causes the exact opposite of the process. 
+Changes in government spending : An increase in government expenditure 
+shifts the IS curve to the ri ght. The shift causes the local interest rate to go above 
+the global rate. The increase in local interest causes capital inflow, making the 
+local currency stronger than foreign currencies. A strong exchange rate also 
+makes foreign goods cheaper compared to  local goods. This encourages greater 
+import and discourages export and hence lower net export. As a result, the IS 
+returns to its original level, where the local interest rate is equal to the global 
+interest rate. The level of income of the local economy stays the same. The LM 
+curve is not at all affected. A decrease in government expenditure reverses the 
+process. 
+Changes in global interest rate : An increase in the global interest rate causes 
+upward pressure on the local interest rate. The pressure subside s as the local rate 
+closes in on the global rate. When a positive differential between the global and 
+the local rate occurs, holding the LM curve constant, capital flows out of the 
+local economy. This depreciates the local currency and helps boost net expo rt. 
+Increasing net export shifts the IS to the right. This shift continues to the right 
+until the local interest rate becomes as high as the global rate. A decrease in the 
+global interest rate causes the reverse to occur. 
+Changes in money supply : Under the  fixed exchange rate system, the local 
+central bank only changes the money supply to maintain a specific exchange rate. 
+Suppose there is pressure to depreciate the domestic currency's exchange rate 
+because the supply of domestic currency exceeds its demand  in foreign exchange 
+markets. In that case, the local authority buys a domestic currency with foreign 
+currency to decrease the domestic currency's supply in the foreign exchange 
+market. This returns the domestic currency's exchange rate to its original lev el. 
+Suppose there is pressure to appreciate the domestic currency's exchange rate 
+because the currency's demand exceeds its supply in the foreign exchange 
+market. In that case, the local authority buys a foreign currency with domestic 
+currency to increase the domestic currency's supply in the foreign exchange 
+market. This returns the exchange rate to its original level. A revaluation occurs 
+when there is a permanent increase in the exchange rate and hence, a decrease in 
+the money supply. Devaluation is the exact opposite of revaluation. 
+
+
+--- Page 44 ---
+ 
+ 
+ 
+178 
+Exchange Rate and  
+Balance of Payments i       IS1                    LM 
+            IS                                           LM1 
+ 
+         
+ 
+                     FE 
+iw 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    Y 
+An increase in government spending forces the monetary authority to flood the 
+market with local currency to keep the exchange rate unchanged. 
+Figure 9.1: Changes in IS-LM due to changes in Money supply 
+The local monetary authority in the framework of a fixed system controls the 
+exchange rate. To maintain the exchange rate and eliminate pressure from it, the 
+monetary authority purchases foreign currencies with local currency until the 
+pressure is gone, i.e., back to the original level. Such action shifts the LM curve 
+in tandem with the direction of the IS shift. This action increases the local 
+currency supply in the market and lowers the exchange rate—or rather returns the 
+rate to i ts original state. In the end, the exchange rate stays the same but the 
+general income in the economy increases.  
+If the global interest rate increases above the domestic rate, capital flows out to 
+take advantage of this  opportunity. Hot money flows out of  the economy. This 
+would depreciate the home currency, so the central bank may buy the home 
+currency and sell some of its foreign currency reserves to offset this outflow. 
+This decrease in the money supply shifts the LM curve to the left until the 
+domestic interest rate is the global interest rate. The opposite occurs if the global 
+interest rate declines below the domestic rate. Hot money flows in, and the home 
+currency appreciates. The central bank offsets this by increasing the money 
+supply (selling domestic currency, buying foreign currency), the LM curve shifts 
+to the right, and the domestic interest rate becomes the global interest rate.  
+Differences from IS -LM: It is worth noting that some of the results from this 
+model differ from the IS -LM because of  the open economy assumption. The 
+result for a large open economy on the other hand falls within the result predicted 
+by the IS -LM and the Mundell-Fleming models. The reason for such a result is 
+that a large open economy has both the characteristics of aut arky and a small 
+open economy. In the IS -LM, the interest rate is the key component in making 
+both the money market and the goods market in equilibrium. Under the Mundell-
+Fleming framework of a small open economy, the interest rate is fixed and 
+equilibrium in both markets can only be achieved by a change in the nominal 
+exchange rate. 
+
+
+--- Page 45 ---
+ 
+ 
+ 
+179 
+Impossible Trinity: 
+Alternative 
+Scenarios 
+Example: A much -simplified version of the Mundell-Fleming model can be 
+illustrated by a small open economy, in which the domestic interest rate is 
+exogenously predetermined by the world interest rate (r=r*). Consider an 
+exogenous increase in government expenditure, the IS curve shifts upward, with 
+LM curve intact, causing the interest rate and the output to rise (partial crowding 
+out effect) under the IS -LM model.  Nevertheless, as the interest rate is 
+predetermined in a small open economy, the LM 1 curve (of exchange rate and 
+output) is vertical, which means there is exactly one output that can make the 
+money market in the equilibrium under that interest rate. Even t hough the IS 1 
+curve can still shift up, it causes a higher exchange rate and the same level of 
+output (complete crowding out effect, which is different in the IS -LM model).  
+This example makes an implicit assumption of a flexible exchange rate. The 
+Mundell-Fleming model can have completely different implications under 
+different exchange rate regimes. For instance, monetary policy becomes 
+ineffective under a fixed exchange rate system, with perfect capital mobility. An 
+expansionary monetary policy resulting i n an outward shift of the LM curve 
+would in turn make capital flow out of the economy. The central bank under a 
+fixed exchange rate system would have to intervene by selling foreign money in 
+exchange for domestic money to depreciate the foreign currency an d appreciate 
+the domestic currency. Selling foreign money and receiving domestic money 
+would reduce real balances in the economy, until the LM curve shifts back to the 
+left, and the interest rates come back to the world rate of interest i*. 
+*This section is largely based on the contributions of over twenty authors 
+ (http://gobernanzamedioambiental.org/brugger/Mundell%E2%80%93Fleming%20model.pdf) 
+There is another way to understand the trilemma. Let us look at the diagram 
+given below:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9.2: The “Impossible trinity” of Capital, Money and exchange 
+The diagram represents the impossible trinity. In this schematic, the open capital 
+account is labelled "A", the fixed exchange rate is labelled "B," and the 
+independent monetary policy is labelled "C."  
+ 
+Open Capital Account` (A) 
+Independent 
+Monetary Policy (C) 
+Fixed Exchange 
+rate (B) 
+
+
+--- Page 46 ---
+ 
+ 
+ 
+180 
+Exchange Rate and  
+Balance of Payments In terms of the Figure 9.2 (Oxelheim, 1990), the following are the options: 
+i) “A”: A stable exchange rate and free capital flows (but not an independent 
+monetary policy because setting a domestic interest rate that is different from 
+the world interest rate would undermine a stable exchange rate due to 
+appreciation or depreciation pressure on the domestic currency). 
+ii) “B”: An independent monetary policy and free capital flows (but not a stable 
+exchange rate). 
+iii) “C”: A stable exchange rate and independent monetary policy (but no free 
+capital flows, which would require the use of capital controls). 
+The theory of the impossible trinity is that a country can't achieve A+B+C at the 
+same time. Any country that attempts this is doomed to fail. That's the crux of the 
+theory. Mundell was of the view that the effects of monetary and fiscal policy in 
+an open economy depend on capital mobility. In particular, he has highlighted the 
+importance of exchange r ate systems. Under floating exchange rates, monetary 
+policy is a powerful tool; fiscal policy is powerless. Under fixed exchange rates, 
+fiscal policy is effective.  
+Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  What do you mean by impossible trinity? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Describe the main components of the Mundell-Fleming model. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Explain the process involved in the Mundell-Fleming model.  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 

@@ -1,0 +1,454 @@
+--- Page 1 ---
+ 
+ 
+ 
+135 
+Exchange Rate 
+Regimes  
+ 
+ 
+BLOCK 4 
+ 
+ 
+EXCHANGE RATE AND  
+BALANCE OF PAYMENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Unit 7 Exchange Rate Regimes    
+Unit 8 Components of Balance of Payments 
+Unit 9 Impossible Trinity: Alternative Scenarios 
+Unit 10 Approaches to Balance of Payments 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+136 
+Exchange Rate and  
+Balance of Payments BLOCK INTRODUCTION 
+This block comprises of four units. 
+Unit 7: Exchange Rate Regimes  deliberates on the concepts of foreign exchange, exchange 
+rate, and exchange rate regimes. It distinguishes between different forms of exchange rate 
+regimes: fixed, floating, and managed float along with their advantages and disadvantages. 
+To delve deeper into the various exchange rate regimes, the unit traces briefly the historical 
+development of international exchange rate regimes and examine operational aspects of the 
+current exchange rate regimes. It also provides an overview of India’s current exchang e rate 
+regime. 
+Unit 8: Components of Balance of Payments  examines the framework used to summarize a 
+country’s international transactions: Balance of Payments (BOP). While explaining the 
+concept of BOP, the Unit describes the components of the current and capital account of BOP 
+and highlights the significance of autonomous and accommodating items. The unit also 
+provides comparison between BOP and BOT, current and capital account of BOP and 
+autonomous and accommodating transactions of BoP. The Unit also throws light on nature 
+and implications of BOP disequilibrium. Along with discussing the issues associated with 
+BOP disequilibrium, this Unit also suggests policy measures for correcting disequilibrium.  
+Unit 9: Impossible Trinity: Alternative Scenarios  elucidates Macroeconomic policy 
+trilemma, also called the impossible trinity. It explains the components of the impossible 
+trinity: free capital mobility, exchange-rate management and an independent monetary policy 
+and examines the impossibility of achieving all three components simultaneously. The unit 
+also digs deeper into impossible trinity by analysing the empirical evidence. It also points out 
+the problem of rupee convertibility in meeting the conditions of the impossible trinity.  
+Unit 10: Approaches to Balance of Payments  (BoP) throws light on various approaches to 
+BOP adjustment: The Elasticity Approach, the Absorption Approach, the Keynesian 
+approach; and the monetary approach. The unit delves deeper by explaining these approaches 
+and highlighting their importance in making BOP policy.   
+ 
+ 
+ 
+ 
+ 
+  
+
+
+--- Page 3 ---
+ 
+ 
+ 
+137 
+Exchange Rate 
+Regimes UNIT 7  EXCHANGE RATE REGIMES  
+Structure 
+7.0 Objectives 
+7.1 Introduction 
+7.2 Concepts  
+7.3 Importance of foreign exchange for the economy 
+7.4  Evolution of international exchange rate regimes 
+ 7.4.1  The Pre-World War I (WWI) financial order (1870 –1914) 
+ 7.4.2  Between the World Wars (1919 –1939) 
+ 7.4.3  The Bretton Woods Era (1945 –1971) 
+ 7.4.4  The post-Bretton Woods system (1971 –present) 
+ 7. 5  Forms of Exchange rate regime  
+ 7.5.1  Fixed exchange rate 
+ 7.5.2 Float ing exchange rate 
+ 7.5.3 Managed floating 
+ 7.5.4  Recurrence of instability suggests a new regime  
+7.6
+ India’s exchange rate regime 
+7.7    Let us sum up  
+7.8    Key Words 
+7.9    Some Useful References 
+7.10   Answer/Hints to Check your Progress Exercises     
+7.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+ explain the concepts of: 
+foreign exchange,  
+exchange rate, and exchange rate regimes;  
+ distinguish between different forms of exchange rate regimes;  
+ discuss the advantages and disadvantages of: fixed, floating, and managed 
+float; 
+ trace briefly the historical development of international exchange rate 
+regimes; 
+
+ examine operational aspects of the current exchange rate regimes; and 
+ provide an overview of India’s exchange rate regime. 
+                                                 
+ Contributed by  Prof. S.K. Singh, Retd. Prof. IGNOU  
+
+
+--- Page 4 ---
+ 
+ 
+ 
+138 
+Exchange Rate and  
+Balance of Payments 7.1   INTRODUCTION 
+The exchange rate regime greatly impacts world trade and financial flows. The 
+volume of such transactions and the speed at which they are growing highlight 
+the crucial role of the exchange rate in today’s world, thereby making the 
+exchange rate regime a central piece of any national economic policy framework. 
+The choice of an appropriate exchange rate regime —
+floating, managed or fixed 
+arrangements—for individual countries is important. After all, an exchange rate 
+regime that looks soft to one observer may look hard to another —which reflects, 
+among other things, a lack of information among different players about foreign 
+exchange markets and purchases or sales of foreign exchange by central banks. 
+Which exchange rate regime and associated policies are appropriate for a country 
+depending on its circumstances? No country can afford to be entirely indifferent 
+to the behaviour of its exchange rate as it is closely related to the country's 
+monetary policy, with both depending on common factors of influence and 
+impact. In this unit, we discuss various aspects of the foreign exchange regime.
+  
+7.2  CONCEPTS 
+It is important to understand terms such as ‘foreign exchange’, ‘exchange rate’, 
+and ‘exchange rate regime’ as they are central to understanding the economy 
+around. 
+Foreign Exchange : ‘Foreign exchange’ refers to money denominated in a 
+currency other than the domestic currency.  Foreign exchange can be cash, funds 
+available on credit cards and debit cards, and bank deposits. 
+Exchange rate : The rate at which a currency of one country exchanges for 
+another country's currency is called the ‘ exchange rate'. The exchange rate can 
+either be expressed in terms of the number of units of domestic currency per unit 
+of foreign currency (direct quotation) as in the case of most currencies such as 
+the Indian rupee. For example, if the exchange rate between the rupee and the US 
+dollar (USD) is  quoted as Rs.65, this means that Rs.65 is required to purchase 
+US$1.00.  Or the number of units of foreign currency per unit of domestic 
+currency (indirect quotation) as in the case of some major trading currencies such 
+as the pound sterling and the Australian dollar. When the value of the domestic 
+currency increases in terms of another currency, it is referred to as a nominal 
+appreciation of the domestic currency. In contrast, a decrease in the value of the 
+domestic currency in terms of a foreign currency is known as nomina l 
+depreciation.  
+Exchange rate regime : An exchange rate regime is the process by which a 
+country manages its currency with respect to foreign currencies. Exchange rate 
+regimes can broadly be categorized into  two extremes: fixed and floating. 
+Between these, there are several combinations of the two.  The exchange rate 
+system refers
+ to the arrangement for the movement of the exchange rate. 
+Countries in the world operate under different exchange rate regimes.  
+
+
+--- Page 5 ---
+ 
+ 
+ 
+139 
+Exchange Rate 
+Regimes 7.3  IMPORTANCE OF FOREIGN EXCHANGE FOR 
+THE ECONOMY 
+The exchange rate is a key financial variable that affects decisions made by 
+foreign exchange investors, exporters, importers, bankers, businesses, financial 
+institutions, policymakers and tourists in the developed and developing world. 
+Exchange rate fluctuations affect the value of international investment portfolios, 
+the competitiveness of exports and imports, the value of international reserves, 
+the currency value of debt payments, and the cost to tourists in terms of the value 
+of their currency. Thus, exchange rate movements have important implications 
+for the economy's business cycle, trade and capital flows and are therefore crucial 
+for understanding financial developments and changes in economic policy. 
+The exchange rate performs the same function as other prices in a mixed 
+economy market. It provides information and incentives to guide decisions about 
+what to produce and what to consume. Considered as a price, however, the 
+exchange rate has special qualities. It is probably the single most important price 
+in the economy. It affects numerous other prices and touches the interests of 
+many people. This makes it the centre of much controversy with major exchange 
+rate changes inviting popular attention. The exchange rate further links the 
+general level of prices in the national economy with prices in other countries.  
+Check Your Progress 1 
+Note: 
+i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Define Exchange Rate. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Why do exchange rates exist? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Why is it important to study the exchange rate regime?  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+
+
+--- Page 6 ---
+ 
+ 
+ 
+140 
+Exchange Rate and  
+Balance of Payments 7.4 EVOLUTION OF INTERNATIONAL 
+EXCHANGE RATE REGIMES 
+The first modern international exchange rate regime was the gold standard. The 
+adoption of the Gold Standard was a gradual process. There was no international 
+legal foundation—no treaties, agreements or conferences. The various versions of 
+the gold standard used were:   
+a) gold specie standard,  
+b) gold bullion standard, and  
+c) gold exchange standard.  
+Fiat currencies are the norm in today's national economies and the current 
+exchange rate regime.  Stages in the development of an exchange rate regime 
+may be grouped under the following  four heads:   
+7.4.1 The pre-World War I (WWI) financial order (1870–1914) 
+The gold standard  widely adopted in this era rested on converting paper notes 
+into pre-set quantities of gold. From the 1870s to the outbreak of World War I in 
+1914, the world benefited from a well-integrated financial order, sometimes 
+known as the first age of globalisation
+. Transactions were facilitated by 
+widespread participation in the gold standard  by independent nations and their 
+colonies. This era saw mostly steady growth and a relatively low level of 
+financial crises. The pre –
+World War I financial order was not created at a single 
+high-level conference; rather it evolved organically in a series of discrete steps.  
+7.4.2 Between the World Wars (1919–1939) 
+The years between the world wars have been described as a period of  
+de-globalisation, as both international trade and capital flows shrank compared to 
+the period before World War I. During World War I, countries had abandoned 
+the gold standard and, except for the United States, returned to it only briefly. By 
+the early '30s, the prevailing order was essentially a fragmented system of 
+floating exchange rates.  In this era, the experience of Great Britain and others 
+was that the gold standard ran counter to the need to retain domestic policy 
+autonomy.  
+By the end of World War I, Great Britain was heavily indebted to the United 
+States, allowing the USA to largely displace her as the world's number one 
+financial power. As the Great Depression  intensified in 1930, financial 
+institutions were hit hard along with trade. Frequent changes in exchange rates 
+introduced considerable uncertainty and made things difficult for the smooth 
+conduct of international trade. This was amply proved by the experience of 
+countries during the inter-war period, i.e., 1919-1939, which was marked by:  
+i) competitive devaluation of currencies;  
+ii) chaos in foreign exchange markets;  
+iii) the decline in world trade;  
+
+
+--- Page 7 ---
+ 
+ 
+ 
+141 
+Exchange Rate 
+Regimes iv) imposition of trade restrictions; and  
+v) widespread unemployment.   
+The lessons of the inter-war experience with exchange rates are:  
+a) exchange rates should be reasonably stable for the smooth conduct of 
+international trade;  
+b) this can be achieved if countries, particularly advanced countries, cooperate; 
+and 
+ 
+c) International cooperation is the basis of a sound international monetary 
+system or international exchange arrangement.   
+7.4.3 The Bretton Woods Era (1945–1971)  
+The principal architects of the new system, John Maynard Keynes and Harry 
+Dexter White created a plan which was endorsed by the 42 countries attending 
+the 1944 Bretton Woods conference , formally known as the United Nations  
+Monetary and Financial Conference. The plan involved nations agreeing to a 
+fixed but adjustable exchange rate system where the currencies were pegged 
+against the dollar, with the dollar itself convertible into gold. So in effect, this 
+was a gold-dollar exchange standard. There were several improvements to the old 
+gold standard. Two international institutions, the International Monetary Fund  
+(IMF) and the World Bank were created. The new exchange rate system allowed 
+countries facing economic hardship to devalue their currencies by up to 10% 
+against the dollar (more if approved by the IMF) –
+ thus they would not be forced 
+to undergo deflation to stay in the gold standard. A system of capital controls was 
+introduced to protect countries from the damaging effects of capital flight and to 
+allow countries to pursue independent macroeconomic policies while still 
+welcoming flows intended for productive investment. However, pressing 
+circumstances caused President Nixon to end all convertibility into gold on 15 
+August 1971. This event marked the effective end of the Bretton Woods system 
+resulting in a system of floating exchange rates.    
+7.4.4 The post-Bretton Woods system (1971–present) 
+President Nixon is credited with ending the Bretton Woods Accord, and fixed 
+rates of exchange, eventually creating a free-floating currency system . The 
+current era has seen huge and turbulent flows of capital between nations. The 
+transition away from Bretton Woods was marked by a switch 
+from a state led to a 
+market-led system. The Bretton Woods system is considered by economic 
+historians to have broken down in the 1970s.  Crucial events being:  
+i) Nixon suspended the dollar's convertibility into gold 
+in 1971,  
+ii) the United States abandonment of capital controls in 1974, and  
+iii) the UK's ending of capital controls in 1979 which was swiftly copied by most 
+other major economies.  
+
+
+--- Page 8 ---
+ 
+ 
+ 
+142 
+Exchange Rate and  
+Balance of Payments The contemporary exchange rate regime popularly known as ‘ non-system’ is 
+profoundly different from those envisaged at the 1944 meeting at Bretton Woods. 
+The IMF officially endorsed the non-system at a meeting in Jamaica in January 
+1976.  In the current system, exchange rates among the major currencies 
+(principally the U.S. dollar, the euro, and the Japanese yen) fluctuate in response 
+to market forces, with short-run volatility and occasional large medium-run 
+swings. The IMF's approach continues to advise member countries on the 
+implications of adopting different exchange rate regimes, consider the regime's 
+choice to be a matter for each country to decide, and provide policy advice that is 
+consistent with the maintenance of the chosen regime.
+ 
+Check Your Progress 2 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Briefly outline the historical development of the exchange rate regime before 
+World War II. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Examine the exchange rate regime from the Bretton Woods era to the present. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+7.5 FORMS OF EXCHANGE RATE REGIME 
+7.5.1 Fixed exchange rate 
+Under a fixed exchange rate system, a country's monetary authority agrees to 
+manage its affairs to maintain a fixed ratio between the value of its own currency 
+and that of other countries. A country's currency, therefore, has a definite 
+objective value in terms of the other currencies into which it can be freely 
+converted. The domestic currency is tied to another foreign currency, mostly 
+more widespread currencies such as the U.S. dollar, the euro, the Pound Sterling 
+or a basket of currencies. The government (or the central bank acting on the 
+government's behalf) intervenes in the foreign exchange market to ensure that the 
+exchange rate stays close to a predetermined 
+target.  
+Under this system, exchange rate stability is achieved but if the exchange rate is 
+fixed at the wrong rate, it may be at the expense of domestic economic stability.  
+In a fixed exchange rate system, a rise in the exchange rate of the domestic 
+currency vis-à
+-vis another foreign currency is called a devaluation. This means 
+
+
+--- Page 9 ---
+ 
+ 
+ 
+143 
+Exchange Rate 
+Regimes that more of the domestic currency is needed to buy 1 unit of a given foreign 
+currency. On the other hand, when the exchange rate falls, it is termed as a 
+revaluation. These terms imply a deliberate decision on the government's part to 
+change the exchange rate level. For example, a government's policy decision to 
+devalue the domestic currency vis-à-vis the US dollar from Rs.65 to Rs.70.  
+It is important to realize that fixity cannot be achieved by simple government 
+decree. There are powerful economic forces at work in the foreign exchange 
+markets; restricting the movement of currencies requires equally decisive 
+countervailing action by the authorities. This can take two broad forms: direct 
+intervention in the foreign exchange using so-called open market operations, or 
+the less direct option of interest rate manipulation.  Fixing an exchange rate very 
+rarely involves establishing a single point away from which a currency is not 
+permitted to move. The usual approach is to define a target zone for the currency. 
+The authorities then respond with appropriate measures when market forces 
+threaten to move the currency above or below the zone. Theoretically, then, it is 
+possible to hold a currency at any given rate, so long as the associated excess 
+demand or supply of the currency at that rate can be met. The other policy 
+measure that can be used as an alternative or supplement to open market 
+operations involves the noted use of interest rates. 
+Advantages 
+i) Provides greater certainty for exporters and importers as there are no or 
+limited exchange rate risks. Hence it promotes long-term capital flows. 
+ii) There is no fear of the adverse effect of speculation on the exchange rate.  
+iii) Businesses have the knowledge that the price is fixed and therefore not going 
+to change; it is relatively easier for them to plan.  
+iv) Encourages international trade by making prices of goods involved in trade 
+more predictable. It leads to low inflation.  
+v) Imposes the discipline necessary for exchange rate stability; monetary policy 
+must be coordinated.  Keynes was a chief architect of Bretton Woods and a 
+strong proponent of fixed rates. Many Keynesians agree that government 
+intervention is necessary to promote exchange rate stability. However, the 
+question remains how to attain a stable exchange rate system? 
+Disadvantages 
+i) Have a high administration cost. Needs a complicated exchange control 
+mechanism which 
+may lead to the misallocation of resources. 
+ii) A significant gap between the official rate and that determined by the market 
+can promote black markets.  In a black market, most foreign exchange 
+transactions are carried out outside the banking system.  
+iii) This may force the government to draw down on reserves to meet its 
+obligations and cause a scarcity of foreign exchange.  
+
+
+--- Page 10 ---
+ 
+ 
+ 
+144 
+Exchange Rate and  
+Balance of Payments iv) Restricts the ability of countries to conduct policy autonomously.   
+v) Inimical to the very desirable objective of free trade.  
+vi) May achieve exchange rate stability but at the expense of domestic economic 
+stability. 
+7.5.2 Floating exchange rate 
+A flexible system follows free market principles. Exchange rate determination is 
+left entirely to the currency supply and demand processes, and governments do 
+not attempt to manipulate the market to have particular exchange rate outcomes. 
+Popular regimes run the gamut from currency boards and traditional pegs to 
+crawling pegs, target zones and floats with varying degrees of intervention .  It is 
+closely related to monetary policy and the two are  generally dependent on many 
+of the same factors. The broad system of flexible exchange rates prevailing in the 
+world economy since 1973.   
+Since mark
+et forces determine the exchange rate, the upward and  downward 
+movements in the value of the rupee are appreciation and  depreciation . 
+Depreciation of the rupee refers to the decrease in the external value of the 
+domestic currency that occurred due to the operation of market forces. 
+Appreciation of the rupee refers to the increase in the external value of the 
+domestic currency that occurred due to the operation of market forces. The 
+exchange rate is determined in the open market through the pressure of buying 
+and selling foreign currencies. 
+Advantages   
+i) A flexible exchange rate system confers several advantages upon economies 
+that adopt it: 
+ii) Continuous changes are easier to adjust to. 
+iii) Less likely to permit a payments crisis to develop. Appropriate corrective 
+exchange rate movements will swiftly dissipate any early or ‘incipient’ deficit 
+or surplus that might arise.  This system automatically provides for a balance 
+of payments stability without the need for any action whatsoever by policy-
+makers. 
+iv) Less politicized and authorities do not intervene in the market for foreign 
+exchange and there is minimal need for international reserves. 
+v) Less likely to have adverse domestic repercussions. Provides fewer incentives 
+for destabilizing speculation. Financial instruments are available to  hedge the 
+risks posed by a fluctuating exchange rate.  
+vi) Allows nations to pursue their own  independent economic goals in respect of 
+the other objectives of macro policy. Gives the government/monetary 
+authorities flexibility in determining interest rates. This is because interest 

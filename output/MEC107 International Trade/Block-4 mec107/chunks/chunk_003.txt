@@ -1,0 +1,372 @@
+--- Page 21 ---
+ 
+ 
+ 
+155 
+Components of 
+Balance of Payments UNIT 8  COMPONENTS OF BALANCE OF PA YMENTS  
+Structure 
+8.0  Objectives 
+8.1 Introduction 
+8.2 Importance of balance of payments (BoP) for a country 
+8.3 Concept of BoP 
+8.4 Some related concepts 
+8.4.1  Balance of trade and Balance of payments   
+8.4.2  Autonomous and accommodating transactions  
+8.4.3  Balance of payments always balances  
+8.5 Components of BoP  
+8.6 BoP Accounting: An example of India‟s BoP 
+8.7 Nature and implications of disequilibrium  
+8.8 Policy measures for correcting disequilibrium  
+8.9 Let us sum up  
+8.10 Key Words 
+8.11 Some Useful Books 
+8.12 Answer/Hints to Check Your Progress Exercises     
+8.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+ appreciate the importance of the balance of payments (BoP) for a country; 
+ explain the concepts related to BoP; 
+ distinguish between: 
+i) balance of trade and balance of payments;   
+ii) current and capital account of BoP;  
+iii) autonomous and accommodating transactions of BoP; 
+ describe the components of the current and capital account of BoP; 
+ highlight the significance of autonomous and accommodating items; 
+ discuss the nature and implications of  disequilibrium in the form of „ surplus‟ 
+and „deficit‟ of BoP; and 
+ examine the policy measures required for removing disequilibrium in BoP. 
+                                                 
+ Contributed by  Prof. S.K. Singh, Retd. Prof. IGNOU  
+
+
+--- Page 22 ---
+ 
+ 
+ 
+156 
+Exchange Rate and  
+Balance of Payments 8.1   INTRODUCTION 
+This unit examines the framework used to summarize a country‟s international 
+transactions. The scorecard is the balance of payments, the set of accounts 
+recording all flows of value between a nation‟s residents and the rest of the world 
+during a period of time. The balance of payments shows a wealth of information 
+about a country‟s international economic transactions. An international 
+transaction is an exchange of goods, services, or assets between residents of one 
+country and those of another. It is also a key to understanding how people trade 
+one country‟s money for that of another country. In addition, the exchanges 
+documented in the balance of payments have major implications for 
+macroeconomic concerns like growth, inflation and unemployment. Trends in the 
+balance of payments as a whole, including trade, need to be analyzed to assess 
+the interactions and inter-relations between an economy's domestic and external 
+sectors.
+  
+8.2  IMPORTANCE OF BALANCE OF PAYMENTS 
+(BoP) FOR A COUNTRY 
+BoP is one way to measure a country‟s international economic situation.  It 
+indicates a country's status in international trade. Persistent disequilibrium in the 
+balance of payments, particularly the deficit balance, is undesirable because it (a) 
+weakens the country's economic position at the international level, and (b) affects 
+the economy's progress adversely. BoP accounting highlights a country's 
+competitive strengths and weaknesses and helps achieve balanced economic 
+growth. It can significantly affect a government's economic policies and the 
+economy itself. Capital receipts and payments indicate the country‟s external 
+debt position and changes in it.  BoP data are of interest because they reveal 
+demand for the country‟s currency and  BoP trend helps to predict what sort of 
+economic environment may develop in the country.  
+The transaction to floating exchange rate regimes in the 1970s changed the focus 
+from the total BoP to its various subaccounts like the Current and Financial 
+Account balances. These are the indicators of economic activities and currency 
+repercussions to come. The balance of payments can be used to forecast 
+economic conditions and, in some cases, the likelihood of an economic crisis. 
+International crises have occurred for as long as there have been international 
+trade and commerce. And they will occur again. Each crisis has its unique 
+characteristics, but all follow some of the economic fundamentals.  
+8.3  CONCEPT OF BoP 
+The balance of payments of a country is a systematic record of all economic 
+transactions during the period between residents of the reporting country and 
+residents of other countries.  It is a summary of the monetary value of all 
+exchanges and transfers of goods, services and evidence of debt or ownership –
+ 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+157 
+Components of 
+Balance of Payments suitably classified and aggregated between the residents, businesses and 
+government and other institutions of one country and the rest of the world for a 
+given period of time, usually a year. Exports and imports of goods and services, 
+and all the other items, are flow items. That has all dimensions of an amount per 
+day, month, year, or whatever the period in question may be. The International 
+Monetary Fund (IMF) has developed a standardized BoP system and form of 
+presentation. All transactions entering the balance of payments can be grouped 
+into three broad accounts within the balance of payments: 
+i) the current account  -   records transactions in goods and services and  
+transfer payments; 
+ii) the capital account  - represents a change in a country‟s foreign 
+assets and liabilities; and 
+iii) the official international - records transactions in monetary gold and other 
+reserve account         reserve assets (notably convertible currencies, 
+the country‟s „reserve tranche‟ at the IMF and 
+SDRs. 
+The BoP is often misunderstood because many people believe it to be a balance 
+sheet, rather than a cash flow statement. By recording all international 
+transactions over a period of time, it is tracking the continuing flow of purchases 
+and payments between a country and all other countries. It does not add up the 
+value of all assets and liabilities of a country like a balance sheet does for an 
+individual firm.  In short, BoP means:  
+i) record of all international economic transactions;  
+ii) the type of economic transactions that dominate are real assets, financial 
+assets, and services;  
+iii) it is not a balance sheet; 
+iv) it is a flow statement; and  
+v) during a period of time, usually one year. 
+In a tabular form structure of BoP transactions may be presented as under:   
+Balance of payments 
+ 
+ 
+Current Account          
+Capital Account  
+     
+ 
+ 
+ 
+Exports (X)   Remittances and  Asset Transactions, FDI, 
+Imports (M)   Transfers Receipts 
+     External Borrowings  
+    and Payments  
+(Balance of Trade 
+= X – M).  
+
+
+--- Page 24 ---
+ 
+ 
+ 
+158 
+Exchange Rate and  
+Balance of Payments 8.4  SOME RELATED CONCEPTS 
+For the sake of clarity in understanding, three important concepts are explained in 
+this section. They are: (i) the distinction between the balance of trade and the 
+balance of payments, (ii) autonomous and accommodating transactions, and (iii) 
+the balance of payments always balances.  
+8.4.1 Balance of Trade and Balance of Payments  
+A marked distinction exists between the concepts of balance of trade and balance 
+of payments. BoP transactions take the form of trade in goods and services, 
+capital movements or financial flows. These three forms of transaction give rise 
+to a compartmentalization of the balance of payments accounts. Balance of trade 
+refers to the visible items only. Import or export of goods is a visible item 
+because it is an open trade among the countries and can be easily certified „by the 
+customs officials ‟.
+ The net receipts from exports and imports of merchandise 
+constitute the balance of trade (BoT). A trade deficit for a country arises in a 
+particular year if the value of its exports is smaller than the value of its imports. 
+The balance of trade need not always balance. The important point to remember 
+is that there may be a balance of trade deficit and still a balance of payment 
+surplus or vice versa. In other words, a trade deficit does not necessarily imply 
+that the country is losing reserves, etc.; long-term movements account for the 
+difference.  
+The merchandise trade is only a portion of the thousands of different 
+international transactions that occur in the country each year. It is the official 
+term for net exports that makes up the balance of payments. It is just one part of 
+the balance of payments. The official balance of trade is separated into the 
+balance of merchandise trade for tangible goods and the balance of services. BoP 
+is more comprehensive than the balance of trade. Balance of payments includes 
+apart from the balance of trade or merchandise account, the invisible account 
+which is again composed of the services sector and the gifts and charities account 
+comprising a variety of invisible items, plus a record of the capital account. Thus, 
+the balance of trade is only a partial study of the balance of payments. However, 
+the balance of trade is nothing but a major component of the balance of 
+payments. In short, the balance of trade is a partial picture, while the balance of 
+payments is a complete picture of the country's international economic relations. 
+Further, in the accounting sense, the balance of trade may be a deficit or surplus. 
+It may, thus, be imbalanced. But the balance of payments as a whole must always 
+balance. For that reason, there is an item like "Errors and Omissions" in its 
+structure. 
+
+
+--- Page 25 ---
+ 
+ 
+ 
+159 
+Components of 
+Balance of Payments 8.4.2 Autonomous and accommodating transactions 
+A double-entry accounting principle leads to the distinction generally made 
+between underlying, originating or „ autonomous‟ transactions, and those which 
+are merely the financial counterparts or the „ accommodating‟ transaction. This 
+distinction is usually attributed to James Edward Meade. Autonomous 
+transactions such as trade flows, direct investment, and portfolio investment are 
+independent of other items and not restricted by the size of other balance of 
+payments transactions. These items are also called above-the-line items in BoP 
+accounts.  Autonomous transactions are undertaken solely to make international 
+trade possible. „Autonomous‟ refers to transactions undertaken spontaneously for 
+their own sake.  
+Accommodating transactions depend on the other items and should be shown as 
+identically equal to the autonomous transaction such that total credits equal total 
+debits. Accommodating items reflect government actions aimed at altering the 
+size and the composition of the balance of payments, and they are sometimes 
+referred to as below-the-line items . Representing each entry independently will 
+not guarantee equality between credits and debits. As such, it is important to 
+identify the counterpart entries or „ accommodating‟ items to ensure total credits 
+equal total debits. It should be clear that net autonomous transactions are 
+counterbalanced by equivalent net accommodating transactions. A balance of 
+payments surplus or deficit refers only to autonomous transactions.   
+8.4.3 Balance of payments always balances 
+The balance of payments is strictly an accounting term used to describe  a record 
+of all of the transactions between one country and the rest of the world. A 
+balance of payments problem is, accordingly, a problem about how the balance 
+of payments balances . In practice, it is difficult to achieve where receipts equal 
+payments. In reality, total receipts may diverge from total payments because of: 
+ 
+i) the difficulty of collecting accurate trade information;  
+ii) the difference in the timing between the two sides of the balance; and 
+iii) a change in the exchange rates. 
+To say that the „ balance of payments always balances ' is to say that a net credit 
+balance in one of these accounts must have a counterpart net debit balance in one 
+of the other accounts.  The algebraic sum of the three accounts' net credit and 
+debit balances must equal zero.  Thus, a net credit balance on the current account 
+of say, (+) Rs. 100 crores, may have a counterpart net debit balance on the capital 
+account of say (-) Rs.100 crores (that is, an outflow of capital), a net inflow of 
+gold by Rs.100 crores or a combination of capital outflow and gold inflow equal 
+to the Rs. 100 crores surplus on the current account. It simply results from the 
+double-entry book-keeping procedure which is used to record the transactions.   
+
+
+--- Page 26 ---
+ 
+ 
+ 
+160 
+Exchange Rate and  
+Balance of Payments Because of measurement problems, recourse is made to „ balancing item ' that 
+intends to eliminate measurement errors. The purpose of incorporating this item 
+in the BoP account is to adjust the difference between the sums of the credit and 
+the sums of the debit items in the BoP accounts so that they add up to zero by 
+construction. Hence the proposition: ' the BoP always balances '. It is a truism. It 
+only suggests that the two sides of the accounts must always show the same total. 
+It implies only equality. In this bookkeeping sense, BoP always balances. 
+„Balance of payments always balances’ 
+has no economic significance.  
+Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Define the balance of payments. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Distinguish between autonomous and accommodating transactions in the 
+balance of payments. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Why must a country‟s balance of payments always be balanced in theory?  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4) How does the balance of payments differ from the balance of trade?  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+5) Highlight the importance of BoP for an economy.  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+8.5 COMPONENTS OF BoP 
+There are a wide variety of accounts that determine the BoP, but for purposes of 
+analysis, they can be grouped into three broad categories:  current account items, 
+capital account items, and reserves.  
+
+
+--- Page 27 ---
+ 
+ 
+ 
+161 
+Components of 
+Balance of Payments Current account 
+The current account consists of merchandise trade, services , and unrequited 
+transfers.  Merchandise trade is typically the first part of the current account.  It 
+receives more attention than any of the other accounts because this is where the 
+imports and exports of goods are reported , and these are often the largest single 
+component of all international transactions.  Merchandise trade transactions can 
+affect a country's BoP in several ways .  The transactions in the current account 
+affect national income and, in terms of income analysis, the level of output and 
+employment. 
+The second type of transaction in the current account is a payment (or receipts) 
+for which there are no corresponding receipts (or payments). These are called 
+unrequited payments and receipts. These transactions are unilateral transfers. The 
+net receipts from these transactions and the transactions in the trading account 
+constitute the balance of the current account. Thus, positive net receipts imply a 
+current account surplus and negative net receipts-payments exceeding receipts 
+imply a current account deficit.  
+Services 
+The services category includes many payments such as freight, banking and 
+insurance on international shipments; tourist travel; profits and income from 
+overseas investment; personal expenditures by government, civilians, and 
+military personnel overseas; and payments for management fees, royalties, film 
+rental, and construction services. Purchases of these services are recorded as 
+debits, while sales of these services are similar to exports and are recorded as 
+credits. 
+ 
+The balance of the current account, is a larger concept than the balance of trade, 
+as it includes the balance of trade, the balance of services, and the balance of 
+unrequited transfers. The balance of the current account need not be equal but 
+can show a surplus or a deficit. The balance of the current account is a very 
+important concept, as it shows the flow aspect of a country's international 
+transactions.  
+Capital account 
+The capital account records all international purchases and sales of assets such as 
+money, stocks, bonds, etc. Capital account items are  transactions that involve 
+claims in ownership.  It shows the net change in foreign -asset ownership of a 
+nation. Direct investment  involves managerial participation in a foreign 
+enterprise and some control. A portfolio investment  is an investment designed t o 
+obtain income or capital gains. Transactions in the capital account affect the 
+country's international debtor or creditor position and the distribution of wealth 
+and debt. Capital account transactions give rise to future claims such as acquiring 
+foreign assets or shares in companies located abroad.  
+
+
+--- Page 28 ---
+ 
+ 
+ 
+162 
+Exchange Rate and  
+Balance of Payments The capital account consists of the  reserve account (the net change of foreign 
+exchange of a nation's central bank in market operations),  loans and 
+investments made by the nation (excluding the future interest  payments and 
+dividends yielded by loans and investments). If net foreign exchange is negative, 
+the capital account is said to be in deficit. The capital account transactions are 
+difficult to measure. The capital and financial accounts could run a large en ough 
+surplus to offset a trade deficit.  
+Reserves or monetary movements 
+This refers to a record of the transaction with the International Monetary Fund 
+(IMF) and foreign exchange reserve that mainly consists of holding gold and 
+foreign currency assets. Drawings (treated as a kind of borrowing) from the IMF 
+is a credit items, whereas repayments made to IMF are debit items. Drawing 
+down of reserve, which is an inflow into the balance of payments from the 
+reserve account, is a credit item. Like any other inflow, these reserves can be 
+used to support a deficit elsewhere in the balance of payments. Similarly, 
+additions to the reserve account are an outflow from the balance of payments to 
+the reserve account and are, therefore, a debit item. Reserves are used for 
+bringing BoP accounts into balance. When all the components of the balance of 
+payments are taken together, the balance of payments should be in balance. 
+Credits should equal debits.  
+Balancing item of BoP 
+Given that millions of rupees in transactions are reported in BoP statements, it 
+should come as no surprise that the number of recorded debits is never equal to 
+the number of credits. This is why there is an entry for net errors and omissions 
+in the reserve account.  Net errors and omissions reflect the imbalances resulting 
+from imperfections in source data and compilation of the balance of payments 
+accounts. This is also known as a balancing item. 
+Check Your Progress 2 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Explain the components of BoP. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What are merchandise trade and service trade? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 

@@ -1,0 +1,526 @@
+--- Page 22 ---
+ 
+ 
+ 
+114 
+Free Trade versus 
+Protectionism levied on goods like wheat, rice, fertilizers, cement, sugar, cloth etc. 
+Specific duties are quite easy to administer, as they do not involve the 
+evaluation of the goods. Imposition of specific duties enables the 
+government to keep out of the complexities of prices. 
+However, specific duties cannot be levied on high-valued goods such as 
+diamonds, jewellery, watches, T.V. sets, motor cars, works of art like 
+paintings etc. These articles can be taxed either based on weight, the 
+surface area covered or the number of articles. 
+b) 
+ Ad Valorem Tariff: 
+‘Ad Valorem’ is the Latin word that means ‘on the value.’  
+When the duty is levied as a fixed percentage of the value of the traded 
+commodity, it is called an Ad Valorem tariff. Such duties are levied on the 
+products the value of which is disproportionately higher compared to their 
+physical characteristics such as weight or measurement. These duties are 
+more equitable as the costly goods, generally consumed by the rich, bear a 
+greater burden of duty, while the cheaper goods bought by the poor, bear a 
+lesser 
+burden of tariff.  
+c)  Compound Tariff: 
+The compound tariff is a combination of specific and ad valorem tariffs. 
+The compound tariff includes specific duty on each unit of the 
+commodity along with a percentage of ad valorem duty. Compound 
+tariffs bring a greater elasticity to revenues. They also ensure more 
+effective protection for domestic industries. 
+2) 
+ Classification based on the Purpose which a Tariff serves: 
+Based on the purpose that tariff serves, Tariffs can be of two types: 
+a) Revenue Tariff and 
+b) Protective Tariff. 
+a) Revenue Tariff: 
+Sometimes the intention of the government behind imposing tariffs is 
+revenue generation. Especially in developing countries, the government 
+sometimes rely on tariffs as a source of revenue. 
+However, many times imposing tariffs also doesn't generate revenue. 
+Tariff imposition may also lead to a shift of consumer demand from 
+imported goods to domestic products, thus reducing the tariff collection. 
+Usually, the rate of revenue tariff is kept low so that the revenue generated 
+from the tariff is not curtailed because of reduced imports. 
+ 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+115 
+Instruments of 
+Protectionism b)  Protective Tariff: 
+When the purpose behind the imposition of a tariff is the protection of 
+domestic industries from foreign competition, the tariff is called a 
+protective tariff. As against revenue tariff, the rate of protective tariff is 
+kept higher to reduce the imports. When the tariff rate is higher the 
+protective effect of the tariff is also greater. A perfect protective tariff will 
+prohibit imports. However, a case against protective tariffs is that because 
+of zero competition from foreign producers, domestic producers will 
+become inefficient and they might not be able to face competition even in 
+long run.  
+3) 
+ Classification based on Discrimination: 
+Tariff systems can be classified into three categories based on their 
+application in different countries. 
+a) Single-Column tariff 
+b) Double-Column tariff 
+c) Triple-Column tariff 
+a)  Single-Column Tariff: 
+The Single-Column Tariff also known as the uni-linear tariff system 
+provides  uniform tariff rates to all commodities irrespective of the 
+country of origin. It is a simple tariff system and is easy to administer. 
+It is a non-discriminatory tariff which sometimes becomes inelastic to 
+adjust to the changing needs of the domestic industries. 
+b)  Double-Column tariff:  
+Different tariff rates are charged for different countries in the Double-
+Column tariff system.  The double-column tariff system is divided into 
+two different types of tariffs: (a) General and conventional tariffs. The 
+legislature fixes the general schedule fixes the general schedule at the 
+very start while the conventional schedule is based on commercial 
+treaties with other countries. (b) There are two autonomously 
+determined schedules of tariff-the maximum and the minimum.  
+The minimum schedule applies to those countries who have taken the 
+MFN (most favoured nation) pledge or signed an agreement. The 
+maximum schedule applies to all other countries.  
+c)  Triple-column tariff:   
+The triple-column tariff system consists of three autonomously 
+determined tariff schedules-the general, the intermediate and the 
+preferential. The general and intermediate tariff rates are like the 
+maximum and minimum rates mentioned above under the Double-
+
+
+--- Page 24 ---
+ 
+ 
+ 
+116 
+Free Trade versus 
+Protectionism Column tariff system. Preferential tariffs were once imposed between 
+nations and their colonies.  
+4)  Classification based on Products: 
+Tariffs can be classified on the basis whether a product is imported or 
+exported. On this basis, the tariffs can be of two types: 
+a) Import duties and 
+b) Exports duties. 
+a)  Import Duties: 
+If the home country imposes a tariff upon the products of foreign 
+countries as they are imported, the tariff is known as an import tariff or 
+import duty. 
+b)  Export Duties: 
+Export duties are imposed on the commodities exported to be sold in 
+foreign market, it is called an export tariff or export duty. 
+6.2.2 Effective Rate of Protection 
+Tariffs can be imposed on both final goods and intermediate goods as well. 
+Tariffs on raw materials and intermediates impact the cost of production for 
+domestic industry. Thus, we must consider tariff on raw material while assessing 
+the extent of protection provided to the domestic industry in prevailing tariff 
+structure. The extent of protection granted to the domestic industry by the given 
+structure of nominal tariff rates is measured by the Effective Rate of protection 
+(ERP). Under free trade, value added in the domestic industry would be 
+determined by world market prices of the final good and imported inputs. And 
+thus, effective rate of protection will be same as tariff rate. Also, if production of 
+the final good does not need any intermediate goods, then the ERP equals the 
+nominal rate of tariff on the final good. When a tariff is imposed, domestic prices 
+can exceed the world market prices. Here, domestic value added and ERP would 
+depend on the extent of price increase of the final good vis-à-vis that of 
+intermediates along with the need of the intermediate goods in the production 
+process. 
+ERP measures the change in value added in the domestic industry due to tariff 
+protection. By definition, 
+ERPF 
+= (VT-VW)/VW, 
+ERPF is the ERP on the final good F; V T is a value-added in the production of F 
+after tariff; and V W, is a value-added in the production of F at world market 
+prices, i.e. VW is the value added under 'free trade'. Remember, value added is the 
+difference between the price of the 'final good produced by an industry, less the 
+cost of inputs required per unit of production of the final good.  
+
+
+--- Page 25 ---
+ 
+ 
+ 
+117 
+Instruments of 
+Protectionism Let us consider a few examples to understand the concept of ERP clearly. 
+Consider a final good F whose world market price is Rs.10000. To produce one 
+unit of F, you require one unit of an intermediate good I, whose world market 
+price is Rs.5000. Thus Vw, in this case, is Rs.5000 (i.e. 10000-5000).  
+Case 1 Suppose a tariff of 20% is imposed on the final good F, while there is no 
+tariff on the intermediate, I. Assuming a small open economy, post tariff, the 
+price of F in the domestic market rises by 20% (to Rs.12000) and V T is Rs. 7000 
+(i.e., 12000-5000). Hence ERP is 40% [i.e. ((7000
+-5000) / 5000)* 100, which is 
+much higher than the nominal rate of protection of 20%.  
+Case 2  Suppose there is no tariff on the final good F and a tariff of 10% is 
+imposed on intermediate I. The small economy assumption means there will be 
+no change in the world market price of I after the tariff, while its domestic price 
+will increase by 10% (to Rs.5500). Now, V T is Rs. 4500 (i.e., 10000-5500) and 
+ERP is - 10% [i.e. ((4500 -5000) / 5000) * 100]. 
+Following points can be kept in mind regarding ERP: 
+ if production of the final good does not need any intermediate goods, then the 
+ERP will be equal to the nominal rate of tariff on the final good.  
+ if the tariff on final goods is higher than that on intermediate goods, then the 
+ERP would be higher than the nominal rate of protection.  
+ ERP could be negative when tariffs on imports are too high compared to the 
+tariff on the final good. When ERP is negative, it means that tariffs are 
+reducing domestic value added as compared to free trade. 
+The measurement of ERP sometimes gets difficult because various inputs with 
+different tariff rates are used to produce one commodity. Some other limitations 
+of the concept of ERP is that it assumes fixed coefficients of production which do 
+not allow for factor substitution possibilities. Also, the assumption of small open 
+economy which cannot 
+influence world prices is sometimes unrealistic. 
+Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1) Consider the following cases and describe whether ERP will be higher, lower 
+or equal to the nominal rate of tariff: 
+Case I: If the production of the final good requires no 
+intermediates:_______________ 
+Case II: If the tariff on final goods is higher than that on 
+intermediates:______________ 
+Case III: If the tariff on intermediate goods is higher than that on final goods. 
+ 
+
+
+--- Page 26 ---
+ 
+ 
+ 
+118 
+Free Trade versus 
+Protectionism 2) Differentiate between Single column tariffs and double-column tariffs. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) List different categories of tariff barriers. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+6.2.3  Economic Impact of Import Tariff in partial equilibrium 
+analysis 
+Using Figure 6.1, we will examine the impact of a tariff on various economic 
+agents like consumers, producers and the government in a partial equilibrium 
+framework. We assume that the country is a small open economy that cannot 
+affect world market prices. This assumption implies that the tariff leaves the 
+world market price of the good unaffected while raising its price in the domestic 
+market. In Figure 6.1, we consider the domestic demand and supply curves of the 
+imported good. The world market price of the good is P w, which would prevail in 
+the domestic market under free trade. Thus,
+ with free trade, domestic production 
+of the good would be Q 1, domestic demand Q 2, and the difference Q 1 Q2 would 
+be imported. A specific tariff rate of t per unit drives a wedge between the world 
+price and the domestic market price of the imported good. Post-tariff prices in the 
+domestic market rise to (P w + t). As a result, domestic production increases from 
+Q1 to Q3 while consumption falls from Q2 to Q4.  
+Now let us consider the costs imposed by the tariff. Owing to the tariff, domestic 
+consumers suffer a loss in consumer surplus equal to the area (a + b + c + d), 
+compared to free trade. This loss arises because consumers must now pay a 
+higher price (P w + t) for the good and also because they now consume Q 4Q2 
+amount less of the good than with free trade. However, domestic producers gain 
+from the price rise, with the area representing the increase in producer surplus. 
+The government also gains from the tariff as it earns revenue. The imports are 
+now Q3Q4 units, each paying a tariff of t per unit, so the tariff revenue is given by 
+the rectangle with area c. The loss to consumers exceeds the gain to producers 
+and the government taken together, indicating that the tariff results in a net social 
+loss to society equal to the sum of areas b and d. In Figure 6.1,
+ Area b measures 
+the loss in social welfare from the production distortion due to the tariff. It 
+represents the higher cost of producing Q 1Q3 domestically rather than importing 
+this amount; Area d is the welfare loss due to the consumption distortion created 
+by the tariff. It represents the cost of not consuming Q 4Q2, an amount whose 
+value to consumers exceeds the cost of importing it.  
+
+
+--- Page 27 ---
+ 
+ 
+ 
+119 
+Instruments of 
+Protectionism You should note that our partial equilibrium analysis of the impact of a tariff 
+focuses simply on the market for the imported good. Repercussions on several 
+important issues like terms of trade, BOP, factor markets etc., are left out of this 
+framework, as in the case of our analysis of the benefits of free trade. In 
+particular, our analysis does not attach any weight to employment in the sector 
+being granted tariff protection. If the import-competing sector accounts for a 
+significant share of total employment, the measures of welfare loss would have to 
+be adjusted accordingly. In reality, employment is often the most important 
+reason underlying the imposition of protectionist trade policies.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source:  Figure 6.3 in Sikdar (2003) 
+Figure 6.1: Economic impact of Import tariff in a partial Equilibrium analysis 
+6.2.4  General Equilibrium Analysis: Impact of Tariff on Volume 
+of Trade and Terms of Trade (TOT) 
+When a country imposes a tariff, not only a specific product or sector but 
+every sector of the economy gets affected in one way or the other. Import 
+tariff changes the production and the consumption of other goods which in 
+turn affect the composition of production and the allocation of resources 
+across different sectors. Eventually, the volume of trade changes 
+correspondingly. Further, a change in the Volume of trade may change the 
+country's TOT (depending upon the size of the country and how the 
+government spends the tax revenue). Let us examine the impact of the tariff 
+on the Volume of trade and Terms of trade (TOT) in a small country and a 
+large country.  
+1) General Equilibrium Analysis of Tariff in a Small Country: 
+When the tariff-imposing country is small, the domestic price of the 
+importable commodity will rise by the full amount of tariff for the individual 
+Pw +t 
+P 
+Pw 
+Q 
+Q1 
+ Q 3 
+ Q4 
+ Q2 
+B2 
+D 
+S 
+d 
+c 
+b 
+a 
+O 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+120 
+Free Trade versus 
+Protectionism consumers and producers in that small tariff-imposing country. The 
+international price of the commodity will, however, remain unaffected. Let us 
+assume that a small economy produces two commodities: Machinery (being 
+imported) and textiles (being exported). When an import tariff is imposed, it 
+will increase the price of machinery, which will encourage domestic 
+production. But, if all the resources are fully employed, expansion in the 
+production of machinery will require contraction in the production of textiles. 
+Thus an import tariff will expand the machinery sector and contracts the 
+export sector. On the other hand, the higher domestic price of machinery will 
+shift consumption from machinery to textiles. Consequently, both the volume 
+of exports and the volume of imports will decline. Thus the Volume of trade 
+will fall. 
+Import tariff leads to welfare losses for a small country on two fronts: 1. 
+Import tariff reallocates the resources from exporting the commodity to 
+importing the commodity in which the country has a comparative 
+disadvantage. 2. It alters the consumption pattern of the consumers as they 
+have to pay a higher price for importing goods. 
+The general equilibrium analysis of tariffs in the case of a small country can 
+be understood with the help of Fig. 6.2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6.2:  General Equilibrium Analysis of Tariff in a Small Country 
+In Fig. 6.2., the production possibility curve related to two commodities Textile 
+and Machinery is AB. Under the assumptions of CRS technology and 
+diminishing marginal productivities, PPF is drawn strictly concave downwards.  
+Initially, in the case of free international trade, P 1P1 is the international exchange 
+ratio line and the production equilibrium point is E. 
+The consumption equilibrium point is R 1 which lies on the community 
+indifference curve C1. In this situation, country A exports OE quantity of textiles 
+E1 
+R2 
+O1 
+R1 
+E 
+C1 
+C2 
+A 
+B 
+P1 
+Textiles 
+(Exportable) 
+Machinery 
+(Importable) 
+P2 
+P1 
+O 
+
+
+--- Page 29 ---
+ 
+ 
+ 
+121 
+Instruments of 
+Protectionism and imports OR1 quantity of machinery. If a tariff is imposed but the world prices 
+of commodities remain the same, the international exchange ratio line is P 2E1, 
+parallel to the original international exchange ratio line P1P1. 
+Now production equilibrium shifts to E 1 where country A produces a large 
+quantity of domestic machinery (importable goods). This is the production or 
+protective effect of tariffs. The consumption equilibrium shifts from R 1 to 
+R2 where the international exchange ratio line P 2E1 becomes tangent to a lower 
+community indifference curve C2. 
+It shows that tariff has caused a reduction in the welfare of the tariff-imposing 
+small country. The shift in consumption point from R 1 to R 2 sign ifies the 
+consumption effect of the tariff. After the tariff, the country exports the O 1E1 
+quantity of textiles and imports the R2O1 quantity of machinery. Both exports and 
+imports are smaller than the free trade levels. Thus, tariffs for a small country is 
+welfare reducing. 
+2) General Equilibrium Analysis of Tariff in a Large Country: 
+For a large tariff-imposing country, a tariff changes its TOT along with VOT. 
+If the tariff-imposing country is large, reduced demand for imports due to 
+tariff imposition may reduce the world demand for the concerned commodity 
+to a great extent. Since the extent of reduced demand is high, it may reduce 
+the international price of the concerned commodity. Thus, the price of an 
+exporting commodity remains unchanged while that of importing commodity 
+falls. This will cause a change in the international price ratio and will bring an 
+improvement in the terms of trade of the tariff-imposing large country. 
+The production effect, consumption effect and terms of trade effect due to 
+tariff can be explained through Fig. 6.3. Continuing with the example in 
+Figure 6.2, a country produces two commodities: Machinery (being imported) 
+and textiles (being exported) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6.3: 
+General Equilibrium Analysis of Tariff in a Large Country 
+O1 
+R2 
+R1 
+R3 
+E1 
+E 
+C3 
+C1 
+C2 
+A 
+B 
+P1 
+Textiles 
+(Exportable) 
+Machinery  
+(Importable) 
+P1 
+P2 
+
+
+--- Page 30 ---
+ 
+ 
+ 
+122 
+Free Trade versus 
+Protectionism When a large country imposes a tariff, the World price of the importable 
+commodity falls (while the price of the exportable commodity is the same), 
+shifting the international exchange price line to P 3E1. As you can observe in 
+Figure 6.3, price line P 3E1 is steeper than the exchange ratio line P 1P1 or P2E1. It 
+simply means that the country can now buy its imports cheaper and sell its 
+exports at the same price. 
+In this case, the production equilibrium occurs at E 1 and consumption 
+equilibrium occurs at R 3 where P 3E1 becomes tangent to the higher community 
+indifference curve C3. The large tariff-imposing country imports R3O1 quantity of 
+machinery and exports O 1E1 quantity of textiles. A higher ratio of imports to 
+exports indicates that the terms of trade have become favourable for the tariff 
+imposing-country A. 
+The large country experiences production or protective effect as the domestic 
+production of machinery increases owing to a shift in the production equilibrium 
+from E to E 1. Although, increased domestic production required the reallocation 
+of resources the country has gained because of positive consumption and terms of 
+trade effects.  
+The large country also experiences a welfare effect despite a reduction in 
+specialisation and reallocation of resources towards import-substitute production. 
+The welfare effect is reflected in the shift of consumption equilibrium to the 
+highest community indifference curve C 3. This is the positive consumption 
+effect. Thus, large country imposing tariff benefits from the favourable TOT, 
+despite the reduction in the volume of international trade. 
+Check
+ Your Progress 2 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Describe the economic impact of Import tariff in a partial Equilibrium 
+analysis. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What is the Impact of tariff on the Volume of trade and Terms of trade (TOT) 
+in the case of a small country? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+
+
+--- Page 31 ---
+ 
+ 
+ 
+123 
+Instruments of 
+Protectionism 3) Does a large country gain or lose from imposing a tariff? Justify. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+6.3  EXPORT SUBSIDIES 
+Export subsidies are government policies that are implemented to encourage the 
+export of goods by incentivizing local producers through easy and cheaper loans, 
+direct payments, tax benefits etc. Like a tariff, an export subsidy can be either 
+specific i.e. a fixed sum per unit or ad valorem i.e. the proportion of value 
+exported. When the government provides an export subsidy, producers export up 
+to a point where the domestic price is greater than the foreign price by the 
+amount of subsidy. While export subsidies indeed help increase exports, there are 
+costs associated with them. The effects of export subsidies on producers, 
+consumers and the economy are explained in Figure 6.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source:  Figure 
+6.4 in Sikdar (2003) 
+Figure 6.4: Effects of an export subsidy 
+When a country provides subsidies to exporters, the price will rise from P w to Ps. 
+At the same time, the price in importing countries falls from P s to P a., thus the 
+price rise is less than the subsidy. In the exporting country, consumer loss is the 
+area a+b in Figure 6.4 as they have to pay higher. Producers' gain is reflected in 
+the area a+b+c; the government subsidy is the area b+c+d+e+f+g. The net 
+welfare loss is, therefore the sum of the area b+d+e+f+g. Also, unlike in the case 
+of tariff, export subsidies worsens the terms of trade by lowering the International 
+d 
+a` 
+ b 
+ c 
+e 
+ f 
+ g 
+Pa 
+Pw 
+Ps 
+  Price (P) 
+Exports 
+ Quantity (Q) 
+S 
+D 

@@ -1,0 +1,477 @@
+--- Page 29 ---
+ 
+ 
+ 
+135 
+Trade and 
+Environment 2) Write down a short note on Environmental Kuznets Curve hypothesis. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Write down a short note on relationship between Consumption and 
+production externalities with international trade.  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+17.3 TRADE AND CLIMATE CHANGE 
+Since nineties, the globalizing forces have significantly enhanced trade flows. 
+The growing trade has often been linked to environmental degradation (Copeland 
+and Taylor 2004) and climate change concerns (WTO -UNEP 2009). The 
+influence of trade flows on cli mate change can be explained with help of three 
+effects. First, rise in production and exports may necessitate greater use of energy 
+products leading to higher emissions of GHGs, which result in scale effect . 
+Secondly, if a country specializes in manufactu ring sectors in general and 
+polluting sectors in particular, adverse environmental consequences may follow, 
+leading to composition effect. Finally, if economic growth is accompanied by 
+stricter emission abatement standards and stronger regulatory policies to contain 
+the adverse climate change concerns, a more sustainable scenario might emerge 
+through technique effect.  
+While literature on trade flows -climate change interrelationship is quite vast, the 
+empirical evidence does not offer a clear conclusion. Cross -country studies 
+indicate that increased outward orientation generally leads to higher GHGs 
+emissions and environmental degradation. In addition to merchandise trade, trade 
+in services can also significantly influence CO 2 emissions. Several country -
+specific studies have also analyzed the relationship between trade and climate 
+change through time series models or case  study-based approach. Evidence on 
+emission of methane and other GHGs from agricultural and livestock exports 
+have been noted both in developed and developing countries . Positive 
+relationship between growing merchandise exports and increased CO 2 emissions 
+in several developing countries has also been reported. The possible trade -
+emission correlation receives further support from the Pollution Haven 
+Hypothesis (PHH) literature, which argues that FDI inflows in a developing 
+country may target the pollution-intensive sectors, thereby strengthening both the 
+scale and composition effects.   
+Another section of the literature however disagrees with these results. For  
+instance, while intra -European trade flows results innovation and technology 
+
+
+--- Page 30 ---
+ 
+ 
+ 
+136 
+Trade, Growth  
+and Development spillovers, their trade with developing countries might lead to GHGs emissions. 
+The PHH has been rejected by several studies arguing that it is in the best interest 
+of the foreig n investor to bring ‘greener’ technology , rather than extracting the 
+advantage of lax environmental standards. Awareness is rising in many 
+developing countries in recent period for reducing carbon emissions from trade -
+related activities through ISO 14000 certifications, technology upgradation etc. In 
+all, while growing importance of technique effect in OECD and other high -
+income countries has been noted, the same might be relatively weaker for their 
+lower income counterparts. 
+17.4 TRADE AND ENVIRONMENT: POLICY AND 
+PRACTICE 
+The findings of the existing literature indicates that the choice of environmental 
+policy instruments for international trade is often constrained by identification of 
+stage of pollution generation, i.e., whether the pollution is production-based and / 
+or consumption -induced in nature. In addition, environmental externalities of 
+international trade could also turn out to be both production and consumption 
+related. Trade induced composition effects  influence pollution from pr oduction 
+and consumption differently. Moreover, sourcing inputs for production often 
+causes environmental problems, which are mostly local. In practice, many of the 
+environmental impacts of international trade are local in nature (e.g., water and 
+air pollu tion, land degradation, deforestation) and often exporting firms ignore 
+local environmental problems to achieve export competitiveness. This in effect 
+enables them to have a lower compliance cost for doing business. However, this 
+perspective offers a moral  argument to the importing countries for laying 
+stringent certification criteria for their imports. It is argued that right choice of 
+environmental policy instruments depends on the characteristic of the imported 
+goods, in particular, whether they are subs titutes (perfect / imperfect) or 
+complements as well as the underlying international market condition for that 
+product, i.e., whether perfect competition or monopoly prevails. 
+The implications of using environmental tax as a policy instrument have been a 
+widely researched area. However, the advantages of linking such measures with 
+trade have been debated. If environmental policy instruments are introduced to 
+address the causes of environmental degradation based on the principles of 
+environmental law (e.g., ‘rectification at source’, ‘precautionary action’, 
+‘prevention action’, ‘polluter -pays’), the intervention should occur either at the 
+production level and/ or at the consumption level rather than at the trade level. 
+While imposition of environmental taxes improves welfare, direct setting of 
+standards under certain circumstances may lead to welfare loss. Given the 
+institutional capacity, input taxes on polluting inputs could achieve substantial 
+abatement while minimizing monitoring costs. These instruments a re, ‘much 
+more targeted in the sense that they are likely to achieve substantial abatement of 
+pollution while inducing smaller welfare losses, because they have a less -
+
+
+--- Page 31 ---
+ 
+ 
+ 
+137 
+Trade and 
+Environment distorting impact on the rest of the economy’. The roles of structured fiscal 
+policies ( emissions taxes or their cap -and-trade equivalents with allowance 
+auctions) for promoting greener economies are desirable. There are 
+recommendations to impose tax on coal, oil products, and natural gas, given the 
+potential CO2 and local emissions from these sectors. 
+Import tariff reduction makes inputs cheaper, which in turn promotes production. 
+As such a policy increases the marginal social cost; there is an incentive to 
+impose stricter environmental regulations. Conversely, as tariff reduction lowers 
+the revenue collection, a case for maintaining a set of weaker regulations arises 
+that will lower the compliance cost for domestic players. While the relative 
+strengths of the two opposing forces are ambiguous, it is expected that import 
+tariff liberalization may not necessarily degrade the environmental scenario. 
+One major constraint to implement environmental policy instruments with trade 
+objective is that they may lead to capital flight and relocation of firms, with 
+growth implications for the host country. The perceived consequences might be 
+more severe in case of developing countries and LDCs in general and the Asian 
+context in particular. Evidence shows that FDI inflows have often targeted 
+polluting industries in line with the PHH phenomenon in several Sou th  
+(e.g., India), East (e.g., China) and Southeast (e.g., Malaysia, Thailand, the 
+Philippines) Asian countries. In addition, developing economies have limited 
+institutional capacity to implement environmental policies which often constrains 
+their ability to choose from available policy instruments for environmental 
+protection. In face of institutional limitations, developing economies often choose 
+tariff / trade barrier to protect domestic environment, though it cannot target 
+pollution adequately and it ha s opposite effects on consumption -induced and 
+production-based pollution.  
+As the converse of the tax policies, there exist a rich literature on provisions of 
+subsidies and their implications on exports. Provision of subsidies per se does not 
+imply a challenge to environmental sustainability. However, countries often 
+provide subsidies in the area of agricultural products and natural resources, as 
+well as offering energy subsidies to manufacturing products. Both the routes may 
+exert an adverse impact on local sustainability as well as global climate change 
+concerns. For instance, subsidy -led adverse environmental impacts are often 
+noted in resource -intensive sectors like primary activities (e.g., agriculture, 
+fisheries), transport, energy and water, etc. Also, greater fiscal devolution is often 
+associated with rise in increasing forest land clearing for agricultural production . 
+Fuel subsidies received by fishing trawlers and other vessels often lead to 
+overuse of mineral fuels and over -fishing. , The provision of fuel subsidies to the 
+iron and steel industries in China, is another case in point. On the whole, it is 
+observed that higher budgetary spending generally leads to rise in CO2 emissions.  
+In the existing literature there is no com mon consensus that international trade is 
+detrimental for environment and the results are sensitive to different countries 
+
+
+--- Page 32 ---
+ 
+ 
+ 
+138 
+Trade, Growth  
+and Development and pollutants. For instance, there are many studies which support PHH but many 
+studies refute it too. Often the findings are conting ent on choice of methodology 
+for data analysis. Larger data availability for a broad set of pollutants for many 
+years and countries could facilitate generalization of the findings. In presence of 
+these constraints, adopting proactive actions to mitigate gl obal environmental 
+problems like GHGs emissions often lead to adoption of environmental policy 
+instruments to negate the environmental impacts of international trade. 
+Underlying economic rationality behind adoption of these environmental policy 
+instruments is that they could take into account the differences between social 
+and private marginal costs of production relating to international trade -related 
+activities and at the best could capture the marginal cost of abatement of 
+pollution. However, the design of environmental policy instrument plays an 
+important role, given its potential to distort the market conditions and possible 
+emergence as trade barriers.  
+The compliance cost related concerns on competitiveness may overshadow the 
+actions of key players, t hereby affecting the process of both trade as well as 
+climate change negotiations.  
+The perceived need for imposing border trade adjustments (BTAs) on imports for 
+tackling global climate change concerns are increasingly being explored by the 
+countries in this context and a rich literature on this front has come up. BTAs can 
+be defined as, ‘requiring trade taxes to partially reflect emission leakage effect 
+arising from asymmetric environmental policies or, more narrowly, as requiring 
+trade taxes to specifically embody a nation’s carbon tax on the carbon content of 
+imports’. BTAs are instruments to provide a level playing field to domestic 
+producers where environmental standards are stringent. In practice, BTAs are 
+charged on imports equivalent to what domesti c producers pay to protect the 
+environment and exporters are rebated for the cost they incur.  
+The impacts of BTAs are ambiguous as on one hand, they can potentially solve 
+the problem of carbon leakage, encourage developing countries to protect global 
+environment, help to achieve economic efficiency in carbon abatement, improve 
+global welfare as it transfers carbon pricing, address the competitiveness 
+concerns of developed countries, but also may inflict damage upon the trade of 
+developing countries on the other. Many scholars acknowledge the importance of 
+intervention on the part of the importing country given the fact that carbon prices 
+differ internationally and carbon taxes in some countries might be constrained. It 
+further argued adding to the policy de bate that the, ‘efficiency case for BTA 
+depends critically on whether climate policies are pursued by carbon taxation or 
+by cap -and-trade’. Scholars also support the imposition of BTAs, given the 
+potential incentive for countries to weaken their standards to enhance their 
+market access.  
+
+
+--- Page 33 ---
+ 
+ 
+ 
+139 
+Trade and 
+Environment Check Your Progress 2 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Explain the role of an effective environment policy in reducing 
+environmental hazards. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Explain the major constraint to implement environmental policy instruments. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+17.5  ROLE OF WTO TO SAFEGUARD 
+ENVIRONMENT 
+The role of WTO in achieving sustainable development and protecting 
+environment is explained in the following WTO statement:  
+“Allowing for the optimal use of the world’s resources in accordance 
+with the objective of sustainable development and seeking to protect and 
+preserve the environment are fundamental to the WTO. These goals, 
+enshrined in the Preamble of the Marrakesh Agreement, go hand in hand 
+with the WTO’s objective to reduce trade barriers and eliminate 
+discriminatory treatment in international tr ade relations. For WTO 
+members, the aims of upholding and safeguarding an open and non -
+discriminatory multilateral trading system, on the one hand, and acting 
+for the protection of the environment and the promotion of sustainable 
+development, on the other, can and must be mutually supportive.”3 
+Ensuring that trade contributes to sustainable development is an explicit objective 
+of the WTO and the 2030 Agenda for Sustainable Development (including the 
+Sustainable Development Goals or ‘SDGs’). However, one area of concern is that 
+the legal provisions of the multilateral trade regime, i.e., World Trade 
+Organization (WTO), were not originally created to deliberate on climate change 
+policies and sustainability challenges . While on one hand the text of the WTO 
+Sanitary and Phytosanitary (SPS) and Technical Barriers to Trade (TBT) 
+agreements advocate against the use of unilateral trade policies and base the 
+ 
+3 An introduction to trade and environment in the WTO, available online at: https://www.wto.org/english/tratop_e/envir_e/envt_intro_e.htm (last 
+accessed on 31 July 2017).  
+
+
+--- Page 34 ---
+ 
+ 
+ 
+140 
+Trade, Growth  
+and Development actions on ‘scientific evidence’, the ‘precautionary principles’ based on the 
+occurrence of ‘irreversible dama ge’ are also enshrined among the provisions. 4 
+The non -recognition of ‘polluter -pays-principle’ by international trade 
+institutions pose a challenge for imposing unilateral policies addressing cross -
+border sustainability challenges. The analysis further noted that as such bodies do 
+not recognize the economic equivalence of emission tax and permit regimes, the 
+resulting complexities make certain environmental policies susceptible to 
+influence by protectionist motives. Hence the WTO-compatibility of BTAs is still 
+open to debate.  
+So far, the analysis presents a case for importing countries to impose stricter 
+environmental standards to support the climate change concerns and to protect 
+the competitive concerns of the domestic players on the other. Nevertheless,  the 
+possibility of such measures functioning as de facto non-tariff barriers (NTBs) on 
+exports of developing countries has been raised at times. In order to comply with 
+strict environmental standards in the ‘North’, the producers in ‘South’ need to 
+undertake compliance costs on multiple fronts, which may lead to loss of their 
+competitiveness. If a developing country is forced to adopt a stricter 
+environmental standard set by an external entity for exporting, its export sector 
+suffers adversely. The underlying motive behind imposition of such standards has 
+also been questioned. Higher standards imposed by developed countries always 
+increase their domestic firms' profitability, but reduce the same for firms located 
+in developing countries. In addition, it has  been argued that unilateral 
+environmental actions / sanctions are generally ineffective as an enforcement 
+device. 
+The other branch of literature has noted that the stringent environmental 
+standards have significantly improved the sustainability scenario i n the South. 
+For instance, ISO 14001 certification on environmental management awards has 
+witnessed a 1,500 per cent increase between 1999 and 2009. The adverse effects 
+on exports have also been questioned. It has been shown in the Chinese context 
+that barring the exception of chemical industry, stricter environmental regulation 
+has not adversely influenced the export potential. On the contrary, the quality of 
+exports from both resource -intensive primary and high -value-added 
+manufacturing sectors has improved. 
+In the past, trade and environment related disputes have been raised at the WTO 
+dispute settlement forums and a ‘North’ move towards BTAs would only 
+increase the number further. Given the absence of a clear understandings and 
+agreement at the global le vel on managing the climate change effects through 
+trade instruments, it is clear that the discord over environmental issues may lead 
+ 
+4 In principle, sanitary and phytosanitary (SPS) measures aim to protect the health of humans, plants and animals, while technical barriers to 
+trade (TBT) ensure product quality and safety. However, governments may overshoot the requirements of health and consumer safety and use 
+SPS and TBT to shield domestic producers from fair competition. 
+
+
+--- Page 35 ---
+ 
+ 
+ 
+141 
+Trade and 
+Environment to welfare loss. The WTO case law has provided a mixed view so far. For 
+instance, certain aspects of the verdict in DS 58 5 pave the way for increasing 
+incidence of unilateral trade sanctions in the future. On the other hand, by 
+disapproving the unilateral action of the EU in the biotech case (DS 291 -293)6, a 
+strong message against adoption of such measures has been sent. Ta king note of 
+the legal issues yet to be resolved under WTO, the need to enable and encourage 
+good policymaking is warranted. 
+The potential for a country to use voluntary export restraints (VERs) on its 
+exports with sustainability undercurrent has recently been observed at WTO in 
+the rare earth  dispute. China’s decision to limit export of rare earth materials, 
+which are crucial sub -components for electronics and other high -tech products, 
+citing their overexploitation was met by protests from countries where the 
+domestic industries were crucially dependent on Chinese imports. Disputes were 
+lodged at the WTO against the Chinese adoption of various policy instruments to 
+further this goal: export duties, export quotas, export licensing and minimum 
+export price requirements. WTO Dispute Settlement Panel ruled against China by 
+noting that some of their instruments were geared to achieve industrial policy 
+objectives rather than sustainability. 7  The precedence of this case will have 
+profound implications for other trade-environment disputes lodged at the WTO in 
+days to come.  
+Protection of environment and promotion of sustainable development (SD) is one 
+of the mandates of WTO (WTO undated). The e nvironmental provisions are also 
+enshrined under several WTO agreements. A change in the existing provisions is 
+however the need of the hour. There are four specific areas for this purpose – 
+allowing production subsidies for certain green products and tech nologies; 
+arriving at a possible compromise on BTA based on carbon content in domestic 
+production, removing / relaxing existing restrictions on exports of natural gas to 
+facilitate substitution of dirtier substitutes like oil and coal, and tightening 
+compulsory license mechanism for green technologies in emerging economies. 
+The third point becomes particularly important, as a number of Asian countries 
+ 
+5 See, Dispute Settlement Case No. 58, United States — Import Prohibition of Certain Shrimp 
+and Shrimp Products (complaint by India; Malaysia; Pakistan; Thailand) for details. 
+6 See, Dispute Settlement Case No. 291-293, European Communities — Measures Affecting 
+the Approval and Marketing of Biotech Products (complaint by United States; Canada; 
+Argentina) for details. 
+7 For details see, Dispute Settlement Case No. 431, China – Measures related to the 
+Exportation of Rare Earths, Tungsten and Molybdenum (Complainant: United States); 
+Dispute Settlement Case No. 432, China – Measures related to the Exportation of Rare 
+Earths, Tungsten and Molybdenum (Complainant: European Union); Dispute Settlement 
+Case No. 433, China – Measures related to the Exportation of Rare Earths, Tungsten and 
+Molybdenum (Complainant: Japan). 
+
+
+--- Page 36 ---
+ 
+ 
+ 
+142 
+Trade, Growth  
+and Development have recently been at the WTO dispute settlement forums on the ground of 
+support to the renewable energy sector.8 
+17.6  MULTILATERAL ENVIRONMENT 
+AGREEMENTS AND TRADE 
+The role of international cooperation (agreement) is inevitable for many 
+environmental problems. The first international treaty on trade and environment 
+was the Phylloxera Agreement of 1978 to restrict trade in grapevines to prevent 
+the spread of pests tha t damage vineyards. In response to emerging 
+environmental challenges, a large number of multilateral environmental 
+agreements (MEAs) were mooted to minimize the trade related impacts on 
+environment and natural resources. These agreements played important r ole in 
+conservation of natural resources and biodiversity, protecting endangered 
+species, and minimizing spillover of hazardous substances and environmental 
+problems across countries. About 17 MEAs were identified by GATT (1992) to 
+contain trade measures, starting in 1933. However, each of these have not ratified 
+by all the countries. Major MEAs having bearing on trade and environment are as 
+follows:  
+• International Convention for the Protection of Birds (1950) 
+• International Plant Protection Agreement (1951) 
+• Convention on Conservation of North Pacific Fur Seals (1957) 
+• Agreement Concerning Cooperation in the Quarantine of Plants and their 
+Protection against Pests and Diseases (1959) 
+• Rio International Convention for the Conservation of Atlantic Tunas 
+(ICCAT) (1966) 
+• Phyto-sanitary Convention for Africa (1967) 
+• The African Convention on the Conservation of Nature and Natural 
+Resources (1968) 
+• The Benelux Convention of on the Hunting and Protection of Birds (1970) 
+• Convention on International Trade in Endangered Speci es (CITES) of Wild 
+Fauna and Flora (1973)     
+• Montreal Protocol on Substances that Deplete the Ozone Layer (1987) 
+ 
+8 For details see, Dispute Settlement Case No. 412, Canada — Certain Measures Affecting the 
+Renewable Energy Generation Sector (complaint by Japan); Dispute Settlement Case No. 
+419, China — Measures concerning wind power equipment  (complaint by United States); 
+Dispute Settlement Case No. 456, India — Certain Measures Relating to Solar Cells 
+and Solar Modules (Complainant: United States).  
+
+
+--- Page 37 ---
+ 
+ 
+ 
+143 
+Trade and 
+Environment • Basel Convention on the Control of Transboundary Movements of Hazardous 
+Wastes and their Disposal (1989) 
+• Convention for the Prohibition of Fishing with Long Driftness in the South 
+Pacific (Wellington Convention) (1990) 
+• Antarctica Treaty (1991)  
+• Convention on Biological Diversity (1992) 
+• Convention on Straddling and Highly Migratory Fish Stocks (1995)  
+• Kyoto Protocol on Climate Change (1997)  
+• Stockholm Convention on Persistent Organic Pollutants (2001) 
+• Convention on Biological Diversity (2002)  
+• Cartagena Protocol on Biosafety (2003)      
+Since all MEAs are not compatible with WTO rules, the precedence of 
+international agreements in case of conflict is a matter of debate.  
+Check Your Progress 3 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Comment on the role of WTO in safeguarding environment.. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Explain the major multilateral agreements to control environmental 
+degradation. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+17.7  LET US SUM UP 
+In this unit , we discussed about linkages between trade and environment.  
+International trade itself may not automatically correct the distortions in prices, 
+thereby making environmental policy instruments one of the options available. 
+Achieving high economic growth and exports, creating jobs, etc. are often the 
+foremost priorities compared to protecting the environment for many developing 
+and emerging economies in the world, and the Asian economies are no exception 
+to this trend. Therefore, there is lack of seriousness to implement commitments 
+made in multilateral environmental agreements. Though regional forums exist to 
+discuss sustainability concerns, the working of the same in the South is still in the 
+
+
+--- Page 38 ---
+ 
+ 
+ 
+144 
+Trade, Growth  
+and Development evolving stage. While environmental sustainability has been included among the 
+areas of cooperation in the Asian regional trad e agreements (RTAs), they are still 
+not appropriate forums to hold a country for particular domestic environmental 
+concerns. The contrast with inclusion of environmental provisions under North 
+American Free Trade Agreement (NAFTA) or the EU Economic Partne rship 
+Agreements (EPAs) is clearly observed. This is one area for the Asian countries 
+to deepen regional cooperation. Regional Comprehensive Economic Partnership  
+(RCEP) may play a key role in this regard.   
+As several Asian countries are now facing environmental compliance 
+requirements in developed countries, which often function as NTBs their exports, 
+there is a visible move towards carbon tax regimes - e.g., pilot emissions trading 
+schemes (ETS) at municipa l and provincial levels in China, introduction of ETS 
+in South Korea, introduction of the tax for climate change mitigation and 
+voluntary emissions trading scheme in Japan, implementation of clean 
+development mechanism (CDM) projects and a domestic volunta ry carbon 
+market in Vietnam, introduction of coal cess and pilot ETS for air pollutants in 
+India, the proposed ETS in Indonesia and Thailand. It is expected that in the 
+coming days, more Asian countries would be interested to tread along the path of 
+environmental policy instruments for two reasons. First, as the United Nations 
+Framework Convention on Climate Change (UNFCCC) negotiation intensifies, 
+the Asian countries would also be compelled to fulfill their commitments. 
+Second, the need to secure the expor t market may cause them to tighten their 
+environmental norms and policy instruments, increasingly aligning the same with 
+the requirements prevailing in their developed counterparts. 
+17.8  KEY WORDS 
+Environmental hazards  An environmental hazard  is a substance, state 
+or event which has the potential to threaten the 
+surrounding natural environment / or adversely 
+affect people's health, including pollution and 
+natural disasters such as storms and 
+earthquakes. 
+Greenhouse gases A greenhouse gas is a  gas in an atmosphere 
+that absorbs and emits radiant energy within 
+the thermal infrared range. This process is the 
+fundamental cause of the greenhouse effect.  
+Environmental Kuznets 
+Curve hypothesis 
+The Environmental Kuznets Curve  (EKC) 
+hypothesis postulates an inverted -U-shaped 
+relationship between different pollutants and 
+per capita income, i.e., environmental pressure 
+increases up to a certain level as income goes 
+up; after that, it decreases 

@@ -1,0 +1,510 @@
+--- Page 32 ---
+ 
+ 
+ 
+124 
+Free Trade versus 
+Protectionism price from P w to P a. This leads to additional terms of trade loss e+f+g. Thus, 
+export subsidy negatively affects the national welfare.  
+Table 6.1 Welfare Effects of an Export Subsidy 
+ Exporting Country 
+Consumer Surplus − (a + b) 
+Producer Surplus + (a + b + c) 
+Govt. Revenue − (b + c + d + e+ f + g ) 
+National Welfare − (b + d +e+ f + g ) 
+ 
+6.4  NON-TARIFF BARRIERS 
+Besides tariff barriers, various non-tariff barriers are also prevalent in various 
+countries. Just like tariff barriers, non-tariff barriers also influence the global 
+economy by limiting free trade. Various non –
+tariff barriers include quantitative 
+restrictions like import quotas, Voluntary export restraints, Exchange controls, 
+Import deposit schemes, Health and safety standards, Customs valuation 
+procedure, Local content requirements etc. This section will discuss these non-
+tariff barriers and their impact on the economy. 
+6.4.1 Import Quota 
+Import quotas impose direct restrictions on the quantum of imports into a 
+country.  
+In practice, quotas are administered through a system of import licenses. Only 
+license holders can import specified quantities of the imported goods into the 
+domestic market. When imports are limited, domestic demand for the good 
+exceeds domestic supply plus imports.  
+Thus, you will see that with a quota the domestic price of an imported good will 
+always be higher than its world market price. License holders buy the imported 
+goods at world market prices and then sell at higher prices in the domestic 
+market. Import quota raises the domestic prices by the same amount as a tariff 
+that limits the imports to the same level except when it is a monopoly in the 
+domestic market.  
+In what follows we will examine the impact of an import quota under different 
+market structures in the domestic economy. We first discuss the case of perfectly 
+competitive markets and then that of monopoly.  
+1) Import Quotas with Perfect Competition  
+Figure 6.5 demonstrates the effect of an import quota when markets are perfectly 
+competitive. D and S represent the demand and supply curves for the good before 
+
+
+--- Page 33 ---
+ 
+ 
+ 
+125 
+Instruments of 
+Protectionism quota imposition. Under free trade, the world price P w prevails, total domestic 
+production is Q1, demand is Q 2, and Q1 Q2 amount is imported. Now suppose an 
+import quota is imposed, which restricts imports to Q 1 Q3 (where, Q1Q3 < Q1Q2). 
+Immediately with quota imposition, at the world price P w, domestic demand falls 
+short of total domestic production plus imports. This excess domestic demand 
+drives up prices in the domestic market, till the market clears.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source:  Figure 6.5 in Sikdar (2003) 
+Figure 6.6: Effect of an import quota when markets are perfectly competitive 
+The quota effectively shifts the domestic supply curve to S', by the amount of the 
+quota. The economy moves to the new equilibrium E', where the price has risen 
+from Pw to P', domestic production has increased from Q 1 to Q 4 while domestic 
+demand has fallen from Q 2 to Q 5. At E', imports, restricted by the quota, are 
+equal to the amount Q 4 Q5 (note that Q 3Q1 = Q 5Q4 = import quota). A tariff rate 
+equal to P'- P w, is the tariff equivalent of the quota. It would have restricted 
+imports to the same level as the quota and had the same effect on domestic 
+prices. However, implementing the tariff equivalent of a quota may not always be 
+feasible, as the rate may be too high to be acceptable. You should see that in the 
+case of a tariff, a quota involves a loss in consumer surplus equal to the area (a + 
+b + c + d). This is offset by a rise in producer surplus equal to the area a. But an 
+important difference between tariffs and quotas arises from the fact that with a 
+quota the government does not earn revenues as in the case of a tariff. The area c, 
+therefore, does not accrue to the government, rather it represents the quota rent, 
+which may be captured by the import-license holders, who buy at the world price 
+Pw and sell at a higher price P', making a profit of (P' - P w) per unit of imports. If 
+c accrues to the license holders and is counted as part of the social gain, then the 
+social loss from the quota is equal to the area (b+ d), the same as in the case of a 
+tariff.  
+Often foreign exporters have the right to sell directly in the domestic market. In 
+that case, the quota rent c would accrue to foreigners and it would be a social loss 
+from the domestic country's point of view.  
+P’ 
+Pw 
+O 
+   Q4  Q3 
+ 
+Q5 
+ Q2 
+ Q 
+E 
+E’ 
+ S’ 
+S 
+a 
+ b 
+ c 
+ d 
+D 
+Q1 
+ 
+P 
+
+
+--- Page 34 ---
+ 
+ 
+ 
+126 
+Free Trade versus 
+Protectionism Another disturbing possibility, and one that is often observed in practice, is that 
+the quota rent may not accrue to license holders. Rather it may be dissipated in 
+rent-seeking activities, like paying bribes to acquire import licenses. In that case, 
+area c would be a social loss and the total cost imposed by the quota would equal 
+the area (b+c+d), which is more than in the case of an equivalent tariff.  
+Governments in developing countries have the option to auction import licenses. 
+A competitive bidding process would drive the price of licenses up to (P' - P w) 
+per unit of imports and the government would earn revenue equal to the area c. If 
+this process worked smoothly, the effects of a tariff and quota would be 
+equivalent. However, sometimes, the auctions may not be competitive and 
+collusion among bidders might subvert the entire process.  
+2) Import Quotas with Monopoly  
+When there is a domestic monopoly, an import quota leads to a greater loss in 
+social welfare, as compared to perfect competition. We will see that in the 
+presence of a monopoly, an import tariff should be preferred to a quota from the 
+efficiency and social welfare point of view. 
+When there is a tariff t, imports are freely available at a price (P w + t). So the 
+monopolist cannot charge a higher price than this level, for if he did domestic 
+consumers would go for imports and his sales would be reduced to zero. Thus, a 
+tariff effectively imposes a price ceiling. However, with a quota, the monopolist 
+can charge a price higher than the import price. In this case, he will not lose his 
+entire market share, since imports cannot exceed the limit set by the quota. Thus 
+a quota preserves the monopolist's price-setting power to a large extent. 
+This argument is illustrated in Figure 6.6. Under free trade, D is the demand 
+curve facing the monopolist and the domestic price of the good is the world 
+market price, Pw. Suppose, an import quota is set, limiting imports to the amount 
+Q1Q2. With the quota, the demand curve facing the monopolist shifts inwards by 
+the amount of the quota, at all prices above P w, because imports have reduced the 
+monopolist’s market by Q 1Q2. Post quota imposition, the relevant marginal 
+revenue curve facing the monopolist is MR, corresponding to the new demand 
+curve.  
+In this situation, the monopolist will maximise profits by producing an output of 
+Qm, at which marginal revenue equals marginal cost. This output will be sold at 
+the price Pm, read off the demand curve. Now (P m - Pw) is the tariff equivalent of 
+the quota or the quota rent earned by the import license holders. Note that with 
+perfect competition in the domestic market, the MC curve would have been the 
+supply curve, and the market price would have been P' and output, Q'. Clearly 
+with a monopoly the outcome is more inefficient, compared to perfect 
+competition. The monopoly output is lower (Q m < Q') and the price is higher  
+(Pm > P'), leading to greater welfare losses. From this analysis it should be clear 
+to you why tariffs are preferred to quotas, especially when the domestic producer 
+
+
+--- Page 35 ---
+ 
+ 
+ 
+127 
+Instruments of 
+Protectionism wields monopoly power. GATT negotiations have tried to phase out quantitative 
+restrictions and replace quotas with tariffs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source:  Figure 6.5 in Sikdar (2003) 
+Figure 6.5: Effect of an import quota when the market is a monopoly 
+6.4.2 Voluntary Export Restraint 
+A variant of the import quota is the voluntary export restraint (VER), also known 
+as a voluntary restraint agreement (VRA). A VER is a quota on trade imposed 
+from the exporting country's side instead of the importers. This is a self-imposed 
+restriction on the quantity of a good permitted to export to another country.  
+VERs are export quotas negotiated by an importing country with its trading 
+partners. Under this, importing countries request other countries to voluntarily 
+lower their exports to protect domestic businesses. Under the negotiation, 
+exporting country voluntarily agrees to restrict the quantity of exports. VERs had 
+been a popular way for importing countries to protect their domestic industries 
+without going into a trade war with exporting countries.  
+Historically, it was used largely by developed countries on textiles, footwear, 
+steel, automobiles, etc to impose their own restrictions rather than facing tariffs 
+and quotas. It was one of the popular measures of protectionism during the 
+1980s. But the WTO members agreed to not use any new VERs in 1994. As per 
+many economists, Voluntary Export Restraints are ineffective over a longer 
+period. For instance, The U.S. automobile companies were facing more 
+competition from efficient Japanese automobiles so Japan imposed Voluntary 
+Export Restraints (VERs) on the exports of cars manufactured in Japan to the 
+U.S. but this non-tariff measure proved to be ineffective. 
+MR 
+ D 
+O 
+Pm 
+P’ 
+Pw 
+MC 
+Q 
+Q’ 
+Qm 
+Q1 
+ Q2 
+
+
+--- Page 36 ---
+ 
+ 
+ 
+128 
+Free Trade versus 
+Protectionism In Uruguay's negotiation round, World Trade Organization (WTO) does not 
+prevent governments from imposing VERs on exporters through negotiation. 
+However, the governments of the importing and exporting countries are 
+sometimes able to convince exports to put VERs on the quantity of the exports. A 
+VER is always more costly to the importing country than a tariff that limits the 
+imports by the same amount.  
+Table 6.2 Summary of Impact of Tariff and quantitative restrictions on the 
+Economy 
+ Tariff Export 
+subsidy 
+Import Quota Voluntary 
+export 
+restraint 
+Producer 
+Surplus 
+Increases Increases Increases Increases 
+Consumer 
+surplus 
+Falls Falls Falls Falls 
+Government 
+revenue 
+Increases Falls 
+(government 
+spending 
+rises) 
+No change 
+(rent to 
+license 
+holders) 
+No change 
+(rent to 
+foreigners) 
+Overall 
+national 
+welfare 
+Ambiguous 
+(falls for a 
+small 
+country) 
+Falls Ambiguous 
+(falls for a 
+small 
+country) 
+Falls 
+Source: Krugman, P. R., & Obstfeld, M. (1997). International economics: 
+Theory and policy. Addison Wesley. 
+6.4.3 Other Non-Tariff Barriers 
+The following are some of the other important NTBs commonly used by 
+countries following protectionist policies:  
+1) Exchange controls:  
+Exchange controls are restrictions imposed by countries' Central Banks that 
+directly limit domestic residents' ability to acquire foreign currency in 
+exchange for domestic currency. For instance, one method of imposing 
+exchange controls involved acquiring the Central Bank's permission to hold 
+foreign currency bank accounts. 
+2) Import deposit schemes:  
+These are rules imposed by countries' Central Banks, which tend to restrict 
+imports by making them more expensive. For instance, under the rules 
+importers are required to deposit a certain amount (usually in proportion to 
+the value of the imported good) with the Central Bank, which effectively 
+raises the cost of importing.  
+
+
+--- Page 37 ---
+ 
+ 
+ 
+129 
+Instruments of 
+Protectionism 3) Health and safety standards:  
+Often importing countries insist that imported goods meet certain minimum 
+health, safety and environmental standards. Meeting the standards would 
+raise costs for the exporting country. Presumably, the underlying motive for 
+standard imposition is to safeguard the health and general welfare of domestic 
+residents of the importing nation. However, in practice, these standards are 
+often used by developed nations to restrict imports originating from low wage 
+developing countries. For instance, faced with cheap manufacturing imports 
+from low-wage countries like Malaysia, Indonesia and Thailand, developed 
+countries now insist that these counties comply with certain minimum labour 
+and environmental standards, which would raise their production costs.  
+4) Customs valuation procedure: 
+Under this procedure, the importing country would artificially enhance the 
+value of the imported goods under some pretext, which would raise its duty 
+under a system of ad valorem tariffs. For instance, Sikdar (2003, p.141) cites 
+the example of the US valuing certain chemical imports at the 'American 
+selling price' (rather than at the 'invoice' price or the 'world market' price) in 
+the post-war period. However, this practice was discontinued since the Tokyo 
+Round of negotiations.  
+5) Local content 
+requirements:  
+This is a practice followed especially in developing countries, which requires 
+that some stipulated portion of a final good be produced domestically. Or it 
+may be stated that a certain specified fraction of the final goods price must 
+represent domestic value added. The underlying logic is to promote the local 
+production of certain intermediate goods. From the importing firm’s 
+viewpoint, there is no restriction on imports. For they can import more, if 
+they also buy more from local firms. From the domestic intermediate 
+industries' point of view, a local content requirement provides trade 
+protection in the same way as an import quota.
+  
+Check Your Progress 3 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  What are the effects of an import quota, when there is perfect competition in 
+the domestic market?? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+
+
+--- Page 38 ---
+ 
+ 
+ 
+130 
+Free Trade versus 
+Protectionism 2) What are the effects of an import quota, when there is a monopoly in the 
+domestic market? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) List various non-tariff barriers that countries use to restrict trade flows. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4) What do you mean by Voluntary Export restraints? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+6.5  LET US SUM UP 
+After understanding the theories of protectionism in the previous unit, we 
+discussed various instruments countries use to protect their domestic industries 
+from free trade and international competition. We discussed tariffs and various 
+non-tariff barriers to trade in this unit.  
+In this unit, we discussed various categories of a tariff like import tariffs, export 
+tariffs, Specific tariffs, Ad Valorem tariffs, Compound tariffs, revenue tariffs, 
+protective tariffs, Single-Column tariffs, Double-Column tariffs and Triple-
+Column tariffs. We also discussed the effective rate of protection, which 
+measures the extent of protection granted to the domestic industry by the given 
+structure of nominal tariff rates. Tariffs on raw materials and intermediates would 
+raise the cost of production for domestic industry and will affect the effective rate 
+of protection vis-à-vis nominate rate of tariff.  
+We also discussed the economic impact of Import tariffs in partial equilibrium 
+analysis on various economic agents like consumers, producers and the 
+government. We found out that while tariff increases producer surplus and 
+government revenue, it hurts consumer surplus. We also examined the impact of 
+the tariff on the Volume of trade and Terms of trade (TOT) in general 
+equilibrium analysis in the case of a small country and a large country. Overall 
+the national welfare falls for the small country.  
+We also discussed Export subsidies as government policies that are implemented 
+to encourage the export of goods by incentivizing local producers through easy 
+and cheaper loans, direct payments, tax benefits etc. We analysed its impact on 
+the economy and compared it with the effect of the tariff on the economy. We 
+analysed that while export subsidy is beneficial for the producer, it hurts 
+
+
+--- Page 39 ---
+ 
+ 
+ 
+131 
+Instruments of 
+Protectionism Consumer surplus and government revenue. Overall, export subsidies negatively 
+affect the overall national welfare. 
+We also discussed quantitative restrictions like import quota and Voluntary 
+export restraints and their impact on the economy. We identified that import 
+quota and VER increase producer surplus and reduce consumer surplus. We also 
+discussed about other non-tariff barriers like exchange controls, import deposit 
+schemes, health and safety standards, customs valuation procedure and local 
+content requirements 
+We also identified that tariffs lead to more efficient outcomes compared to non-
+tariff barriers like quotas, as in addition to restricting the flows of imported 
+goods; tariffs also impose a price discipline on domestic firms. Further, while the 
+government directly benefits from tariff revenues, the quota rent may be 
+completely dissipated in wasteful rent-seeking activities, leading to a social loss. 
+6.6  KEY WORDS 
+Consumer Surplus The gain to consumers when the price they 
+are willing to pay for a given quantity of a 
+good exceeds the amount they have to pay 
+for that quantity. 
+Effective Rate of protection (ERP) It measures the extent of protection granted 
+to the domestic industry by the given 
+structure of nominal tariff rates. 
+Free Trade When countries engage in international 
+trade without imposing any policy 
+restrictions on the free flow of goods and 
+services across international boundaries. 
+Non-tariff barriers A non-tariff barrier is any measure other 
+than a customs tariff, that acts as a barrier to 
+international trade. 
+Perfect Competition Perfect Competition is a market condition 
+characterised by perfect information among 
+buyers and sellers. It consists of a large 
+number of firms that are price takers and 
+who sell a homogeneous product to a large 
+number of buyers.  
+Producers Surplus The gain to producers arises from the 
+difference between the minimum price at 
+which they are willing to supply a given 
+quantity of a good and the price they 
+receive by selling that quantity in the 
+market. 
+
+
+--- Page 40 ---
+ 
+ 
+ 
+132 
+Free Trade versus 
+Protectionism Quota A quantitative restriction on the quantum of 
+imports is permissible that is often 
+administered via the distribution of import 
+licenses. 
+Tariff A tax imposed on imported goods raises the 
+price of such goods in the domestic market. 
+Terms of Trade The ratio of the price received for a 
+country's exports to the price paid for its 
+imports. 
+Voluntary export restraint It is a self-imposed trade restriction at the 
+request of the importing country whereby 
+an exporting country limits the number of 
+goods of a particular nature that it can 
+export to a specific country or 
+region. 
+6.7  SOME USEFUL REFERENCES 
+Acharyya, Rajat (2014). International Economics: An introduction to theory and 
+policy. Oxford University Press. Chapters 9 and 10.  
+Cherunilam, Francis (1997). International Economics.  Tata McGraw-Hill 
+Publishing Company Ltd. Chapter 10.  
+Krugrnan, P. and M. Obstfeld (2000). International Economics: Theory and 
+Policy, Addison Wesley Longman: Singapore. Chapters 8, 9 and 10. 
+Salvatore, D. (2004). International Economics,  Eighth Edition, John Wiley & 
+Sons: Singapore. Chapter 8.  
+Sikdar, S. (2003). Contemporary Issues in Globalisation: An Introduction to 
+Theory and Policy in India, Oxford University Press: New Delhi. Chapter 6. 
+6.8  ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES  
+Check your progress 1 
+1) Case I: Equal, Case II: Higher. Case III: Lower 
+2) The Single-Column Tariff also known as the uni-linear tariff system 
+provides uniform tariff rates to all the commodities irrespective of the 
+country of origin while in the Double-Column tariff system, different tariff 
+rates are charged for different countries. 
+3) Refer to section 6.2.1 
+
+
+--- Page 41 ---
+ 
+ 
+ 
+133 
+Instruments of 
+Protectionism Check your progress 2 
+1) Refer to section 6.2.3 
+2) Refer to section 6.2.4 
+3) Refer to section 6.2.4 
+Check your progress 3 
+1) Refer to section 6.4.1 
+2) Refer to section 6.4.1 
+3) Refer to section 6.4.3 
+4) Refer to section 6.4.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

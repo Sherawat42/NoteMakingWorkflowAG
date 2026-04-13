@@ -1,0 +1,451 @@
+--- Page 29 ---
+ 
+ 
+ 
+163 
+Components of 
+Balance of Payments 3) Distinguish between the current and capital account of BoP. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4) What is the significance of balancing items of the BoP account? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+8.6 BoP ACCOUNTING: AN EXA MPLE OF INDIA’S 
+BoP 
+Let us understand various components of BoP by having an example of India‟s 
+BoP. The following table illustrates the items mentioned in BoP of India and a 
+brief account of the items is explained below the table.   
+Table 
+8.1: India's Overall Balance of Payments - US Dollar 
+ 
+(US $ Million) 
+Item/Year  2021-22  
+Credit Debit Net 
+1 17 18 19 
+A. Current account       
+1. Merchandise 429164 618623 -189459 
+2. Invisibles (a+b+c) 369600 218906 150694 
+a) Services 254527 147011 107516 
+b) Transfers 89322 8875 80447 
+c) Income 25751 63020 -37269 
+Total Current account (1+2) 798764 837529 -38766 
+B. Capital account       
+1. Foreign investment  478000 456191 21809 
+2. Loans  105457 71851 33605 
+3. Banking capital  102886 96217 6669 
+4. Rupee debt service 0 71 -71 
+5. Other capital 75059 51265 23794 
+Total capital account (1 to 5) 761402 675595 85807 
+C. Errors & omissions 1433 974 459 
+D. Overall balance  1561599 1514098 47501 
+E. Monetary movements (i+ii) 16024 63524 -47501 
+i) I.M.F. 0 0 0 
+ii) Foreign exchange reserves (Increase - / 
+Decrease+) 16024 63524 -47501 
+G.n.i.e.: Government not included elsewhere. 
+Notes: 1. Data for 2021-22 are preliminary estimates 
+2. Total may not tally due to rounding off. 
+Source:  The Handbook of Statistics  on the  Indian Economy 2021 -22, RBI, 
+Mumbai 
+
+
+--- Page 30 ---
+ 
+ 
+ 
+164 
+Exchange Rate and  
+Balance of Payments The Table 8.1, exemplifies India‟s BoP account for the financial year 2021 -22. It 
+shows the main items of transactions with some simplifications. The total 
+receipts in the trading account show the balance from exports and imports of 
+merchandise only. These include the physical movement of goods, i.e. 
+manufacturing products, semi-finished goods, capital goods, raw materials, 
+agricultural products, etc. During 2021-22, India has a deficit in trade account to 
+the extent of -189459 million $. This trade account deficit is because of excess 
+merchandise imports (debit) over merchandise exports (credit). The next item is 
+Invisibles which are divided into three components: (i) services, (ii) transfer 
+payments, and (c) investment income.  
+Services include (a) travel and tourism; (b) transportation; (c) financial and other 
+services including insurance; (d) government; (e) software services exports, etc.  
+Investment income refers to receipts (credit) and payments (debit) of dividends, 
+interests, and profits arising out of Indian investments abroad and foreign 
+investments in India.  
+Transfer payments do not represent payment for any direct service rendered or 
+any physical transfer of goods. They are like foreign aid, gifts, foreign workers' 
+remittances to their home countries, etc. Workers‟ remittances are sizable 
+amounts ($80447 million) and form a very important component of transfer 
+payment accounts in India. It is to be noted that mainly on account of this a 
+surplus of $107516 million was achieved under this head during 2021-22.  
+The current account 
+balance of $ 38766 million (a sum of items I and II) refers to 
+the balance in flows of goods (merchandise) and services and other current 
+receipts and payments (investment income and transfer payments) between 
+countries. India had a deficit in the trading account (item –I) and a surplus in the 
+invisible account (item –II) but owing to the large deficit in the trading account 
+India had a net deficit in the current account (item III) to the tune of $ 38766 
+million. 
+The capital account is a miscellaneous account. The two main types of 
+transactions in the capital account on the credit (or receipt) side are foreign 
+investments and borrowing abroad. These are the import of capital, but unlike the 
+import of goods and services, these are mentioned on the credit side because the 
+import of capital means foreign exchange earned. The corresponding debit (or 
+payments) items are investments abroad and leading. Taking all the items into 
+account one gets total capital account payments and receipts. The table shows 
+that India had a capital account surplus during 2021-22 to the tune of $ 85807 
+million.  
+Despite transactions being recorded, based on the double-entry method 
+discrepancies crop up between debits and credits because of data lags and other 
+estimation problems. These discrepancies are captured under ' errors‟ and 
+„omissions‟. A negative value indicates that receipts are overstated, payments are 
+
+
+--- Page 31 ---
+ 
+ 
+ 
+165 
+Components of 
+Balance of Payments understated, or both, and vice versa. The overall balance is obtained as a sum of 
+the current account and capital account after adjusting for errors and omissions. 
+India had an overall surplus balance of $47501 million in 2021-22. An overall 
+surplus means that India has a claim on the rest of the world.  
+The monetary movement account of BoP records changes in the amount of 
+„official‟ reserve assets. Official reserve assets include gold, foreign currencies, 
+and the IMF's special drawing rights (SDRs) reserve positions.  The deficit 
+means that the rest of the world has a claim on India, which is an asset for the rest 
+of the world. The deficit is officially settled by corresponding entry on the credit 
+side as import of capital or increase in foreign currency reserves. 
+Check Your Progress 3 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Briefly explain the elements of BoP accounting. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) What do you mean by the monetary movement account of BoP? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) What is the overall balance? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4) What are transfer payments? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+8.7 NATURE AND IMPLICATIONS OF 
+DISEQUILIBRIUM 
+The problem of judging the equilibrium position of a country‟s balance of 
+payments becomes fairly complicated and takes outside the sphere of 
+bookkeeping. According to Czinkota, the mechanics of disequilibrium in BoP 
+often follow a similar path of development: 
+i) A country that experiences a rapidly expanding current account deficit will 
+simultaneously build financial account surpluses. 
+
+
+--- Page 32 ---
+ 
+ 
+ 
+166 
+Exchange Rate and  
+Balance of Payments ii) The capital that flows into a company, giving rise to the financial account 
+surplus, acts, as the „financing‟ for the growing merchandise/services deficits-
+the constituent components of the current account deficit.  
+iii) Some events, whether it is a report, a speech, or an action by a government or 
+business inside or outside the country, raises questions about the country's 
+economic stability. Investors of many kinds, portfolio and direct investors in 
+the country fearing economic problems in the near future, withdraw capital 
+from the country rapidly to avoid any exposure to this risk. This is prudent of 
+the individual but catastrophic for the whole if all individuals move similarly.  
+iv) The rapid withdrawal of capital from the country, also known as  „ capital 
+flight‟, results in the loss of the financial account surplus, creating severe 
+deficits in the country‟s overall balance of payments. This is typically 
+accompanied by rapid currency depreciation (if a floating-rate currency) or 
+currency devaluation (if a fixed-rate currency).   
+International debt and economic crises have occurred for as long as there have 
+been international trade and commerce.  And they all will occur again.  Each 
+crisis has its unique characteristics , but all follow some of the economic 
+fundamentals. There are several causes and each country will have a unique set 
+of circumstances. In short, some of the common wider economic effects of the 
+BoP crisis or disequilibrium are:  
+i) need to import financial capital to achieve balance;   
+ii) currency weakness  and higher inflation;  
+iii) may run short of vital foreign currency reserves; 
+iv) lack of price/non-price competitiveness; 
+v) can lead to capital flight/loss of investor confidence.  
+A current account deficit, if persistent, is not sustainable because, on the one 
+hand, foreign capital may take a dim view of the country‟s ability to meet its 
+foreign obligations and, therefore, cut down the flows, and on the other hand, 
+monetary movements, particularly domestic reserve account may also find the 
+deficit unmanageable and get drained. Since a deficit represents an imbalance 
+between demand for and supply of foreign exchange, a persistent presence of this 
+imbalance can destabilize the currency.  
+A persistent surplus in the current account is also not desirable because it means 
+that either the country invests the surplus abroad for another country's 
+development or it allows its currency to appreciate. The former does not add to 
+GDP; the latter slows down GDP growth by crowding out exports. What is 
+desirable is a current account surplus, as it enhances the capacity of the country 
+to generate an excess of exports over imports, sufficient to pay for charges on 
+account of interest or dividends on foreign capital.
+ 
+
+
+--- Page 33 ---
+ 
+ 
+ 
+167 
+Components of 
+Balance of Payments 8.8 POLICY MEASURES FOR CORRECTING 
+DISEQUILIBRIUM 
+Several policies can be introduced to improve a country's trade balance. The 
+measures are:  
+i) Adjustment through Exchange Depreciation.  
+ii) Devaluation or Expenditure-Switching Policy.  
+iii) Direct Controls. 
+iv) Adjustment through Capital Movements.  
+v) Adjustment through Income Changes.  
+vi) Stimulation of Exports and Import Substitutes.  
+vii) Expenditure-Reducing Policies. 
+Some of these measures focus on changing the growth of demand while others 
+look to improve an economy's supply-side competitiveness. As with any 
+macroeconomic „problem,' effective policies are those that target the underlying 
+causes. The real solution lies in earning more foreign exchange through 
+additional exports or reducing imports. Quantitative changes in exports and 
+imports require policy changes. Such policy measures are in the form of 
+monetary, fiscal and non-monetary measures. Non-monetary methods are more 
+effective than monetary methods and are normally applicable in correcting an 
+adverse balance of payments.  
+There are two possible courses of action: expenditure reduction policy or 
+expenditure-switching policy  or some combination of both. The expenditure 
+reduction policy aims to dampen the level of aggregate demand in the domestic 
+economy so that the demand for imported goods and services is reduced. 
+Unfo
+rtunately, dealing with a balance of payments deficit in this way has 
+deleterious consequences for some of the other major macroeconomic objectives. 
+Thus a lower level of demand is likely to constrain and affect an increase in 
+unemployment. Balance of payments equilibrium should not be relentlessly 
+pursued at the expense of other goals or objectives.  
+Expenditure-switching policies  intend to switch domestic and foreign demand 
+away from foreign goods and towards home-produced goods. The objective is to 
+encourage overseas residents to buy more exports and to induce domestic 
+residents to purchase home-produced goods and services instead of imports. This 
+requires modifications in consumption behaviour. The most obvious method is to 
+devalue the domestic currency. Currency devaluation induces relative price 
+changes that favour the products of the devaluing economy. There must be a 
+reasonable degree of price elasticity of demand for exports and imports. It is 
+generally recognized that the price elasticity of demand for exports plus the price 
+
+
+--- Page 34 ---
+ 
+ 
+ 
+168 
+Exchange Rate and  
+Balance of Payments elasticity of demand for imports must be greater than 1 (the noted Marshall-
+Lerner condition).  
+It should be noted that several additional measures are available to governments, 
+each of which also has expenditure-switching properties. These include import 
+controls, export promotion, and the promotion of domestic industry by fiscal or 
+other means. A realistic exchange rate, low tariffs, and minimal trade transaction 
+costs should guide exports. To sum up,
+ the correction of disequilibrium calls for a 
+judicious combination of the following measures: 
+i) Monetary and fiscal changes affecting income and prices in the country; 
+ii) Exchange rate adjustment, i.e., devaluation or appreciation of the home 
+currency; 
+iii) Trade restrictions, i.e., tariffs, quotas, etc.; and 
+iv) Capital movement, i.e., borrowing or lending aboard. 
+No reliance can be placed on any single tool. There is room for more than one 
+approach and more than one device. But the application of the tools depends on 
+the nature of the disequilibrium. Countries can be in very different positions 
+concerning the balance of payments. It is, important to understand a countr y‟s 
+balance-of-payments situation intelligently. To understand the nature of a deficit 
+one has to judge it against the background of the general economic policy of a 
+country and the policy means a country has at its disposal. The country must in 
+general try to implement policy measures aimed at reducing the deficit. Surpluses 
+do not usually create great problems. International capital flows play an 
+important part in equilibrating the balance of payments.
+ 
+Check Your Progress 4 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  What are the common wider economic effects of BoP disequilibrium? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) Why is a persistent surplus in the current account not desirable? Give reasons.  
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+
+
+--- Page 35 ---
+ 
+ 
+ 
+169 
+Components of 
+Balance of Payments 3) Why is a persistent deficit in the balance of payments undesirable? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+4) What policy measures are available for a country to achieve an improvement 
+in a country‟s BoP? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+8.9  LET US SUM UP 
+In this unit, we discussed about various components of Balance of Payments.  
+Balance of payments (BoP) is a record of the values of all economic transactions 
+of a country with the rest of the world in a particular year. Two types of 
+transactions dominate the balance of payments. One is real assets  like the 
+exchanges of goods and services and the other is financial assets 
+consisting of the 
+exchange of financial claims (for example, stock, bonds, loans, purchases or sales 
+of companies) in exchange for other financial claims or money. The Balance of 
+Trade deals only with the export and import of merchandise or visible items. It is 
+just one part of the balance of payments.   
+The current account of the balance of payments refers to the monetary value of 
+international flows associated with transactions in goods and services, income 
+flows and unilateral transfers. Capital transactions consist of capital transfers and 
+the acquisition and disposal of certain nonfinancial assets. Under capital account, 
+there is only inflow and outflow of capital and the difference between the two 
+represents a country's capital account 
+balance.  
+Balance of payments accounts is constructed using a double entry accounting 
+principle such that total credits equal total debits. Showing each credit and debit 
+entry independently will not ensure that total credits equal total debits. 
+Autonomous transactions are the transactions, undertaken for their own 
+transactions. Accommodating transactions are the counterpart entries that total 
+credits equal total debits and will usually be the financial counterpart or means of 
+payment for the original autonomous transaction. Current account transactions 
+are all autonomous, capital movements are capital account transactions can be 
+both autonomous and accommodating transactions.  
+A deficit in BoP must be settled. A way to settle is by a transaction on the capital 
+account. Contrary to the general perception, a current account deficit is not a sign 
+of bad economic policy or bad economic conditions.  
+
+
+--- Page 36 ---
+ 
+ 
+ 
+170 
+Exchange Rate and  
+Balance of Payments BoP is one of the major indicators of a country's status in international trade. 
+International managers can use the balance of payments to forecast economic 
+conditions and, in some cases, the likelihood of economic crises. The accounts do 
+not tell what is good or bad, nor do they tell what is causing what. But they show 
+what is happening so one can reach one‟s conclusions.  
+A deficit in BoP must be rectified by taking appropriate measures.  There are 
+many methods, important among them are monetary and non-monetary measures.  
+The non -monetary category includes trade policy for promoting exports and 
+reducing imports.   Capital inflows and Fiscal policy measures. Monetary 
+measures include expenditure-switching policies which work through changes in 
+relative prices. An important form of expenditure switching policy is the 
+reduction in the foreign exchange rate of the national currency, namely, 
+devaluation. The objective of expenditure-reducing policy in the economy relates 
+to the fall in aggregate expenditure which works to reduce imports. 
+8.10 KEY WORDS 
+Accommodating transaction One undertaken for the balance of payments 
+purpose. 
+Autonomous transaction One undertaken for its own sake.  
+Balance of payment (BoP) This is a record of the value of all economic 
+transactions of a country with the rest of the 
+world for a particular year. It is the sum of 
+current account and capital account 
+transactions including the term of the 
+official settlement.  
+Balance of trade Refers to merchandise trade only i.e. 
+receipts from exports less payment for 
+imports of a country.  
+BoP account Follows the double-entry bookkeeping 
+method, which balances both the credit and 
+debit sides. By this accounting method, th e 
+BoP of a country is always in balance.  
+Counterpart items Certain items in the balance of payments 
+exist only as counterpart items, introduced 
+to balance the inclusion of other items that 
+do not  fall naturally into the double-entry 
+system. The  allocation of Special Drawing 
+Rights (SDRs) is an example of an artificial 
+counterpart item introduced into the balance 
+of payments to offset  the corresponding 
+increase in SDRs holdings  within official 
+
+
+--- Page 37 ---
+ 
+ 
+ 
+171 
+Components of 
+Balance of Payments reserves (as SDRs are no one  sector‟s 
+liabilities).  
+Expenditure reduction policy Involves a reduction in aggregate demand 
+in the domestic economy to improve the 
+balance of payments position on the current 
+account.  
+Expenditure-switching policy Switches domestic and foreign demand 
+away from foreign goods and towards 
+ho
+me-produced goods.  
+Monetary movements The items making monetary movements are 
+as follows:  miscellaneous capital, change 
+in external liabilities and claims, change in 
+the account with the I.M.F., and change in 
+the gold and convertible currency reserves. 
+Rupee debt service Interest payments on and principal 
+repayments on account of civilian and non-
+civilian debt in respect of Rupee Payment 
+Area (RPA), are clubbed together and 
+shown separately under this item. 
+8.11  SOME USEFUL REFERENCES 
+Acharyya, Rajat (2014): International Economics, Chapter 22, 1st edition, Oxford 
+University Press, New Delhi  
+Ball, Donald A, et, al, (2009): International Business: The Challenge of Global 
+Competition, 11 th edition, Tata McGraw-Hill Publication Company Ltd., New 
+Delhi  
+Carbaugh, Robert J (2009): International Economics , 11 th editions, Cengage 
+Learning Indian Pvt., Ltd., New Delhi  
+Czinkota, Michael, et, al., (2008): International Business, 7 th editions, Cengage 
+Learning Indian Pvt., Ltd., New Delhi  
+Pugel, Thomas A (2008): International Economics, 13 th edition, Tata McGraw-
+Hill Publication Company Ltd., New Delhi  
+Roy, Shyamal (2010): Macroeconomic Policy Environment , 2 nd edition, Tata 
+McGraw-Hill Publication Company Ltd., New Delhi  
+Sodersten, Bo (1974): “ International Economics ”, Macmillan Press Ltd., 
+London, UK. 
+
+
+--- Page 38 ---
+ 
+ 
+ 
+172 
+Exchange Rate and  
+Balance of Payments 8.12  ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES  
+Check your progress 1 
+1) See section 8.3 
+2) See section 8.4.2 
+3) See section 8.4.3 
+4) See section 8.4.1 
+5) See section 8.2 
+Check your progress 2  
+1) See section 8.5  
+2) See section 8.5  
+3) See section 8.5  
+4) See section 8.5  
+Check your progress 3 
+1) See section 8.6  
+2) See section 8.6  
+3) See section 8.6  
+4) See section 8.6  
+Check your progress 4  
+1) See section 8.7  
+2) See section 8.7  
+3) See section 8.8 
+4) See section 8.8  
+ 

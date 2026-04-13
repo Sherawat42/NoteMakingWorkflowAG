@@ -1,0 +1,471 @@
+--- Page 1 ---
+ 
+ 
+ 
+107 
+Debate on the Trade 
+and Growth Nexus  
+ 
+ 
+ 
+BLOCK 7 
+ 
+ 
+TRADE, GROWTH  
+AND DEVELOPMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Unit 16 Debate on the Trade and Growth Nexus 
+Unit 17 Trade and Environment 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+108 
+Trade, Growth  
+and Development BLOCK INTRODUCTION 
+This block is on Trade, Growth and Development. It has two units, i.e., Unit 16 - Trade 
+and Economic Growth Nexus and Unit 17 – Trade and Environment.  
+Unit 16 provides us an understanding of the link between the economic growth and trade. In 
+order to do so, the unit starts with the discussion on the importance of economic growth with 
+reference to the theoretical underpinnings in terms of classical and endogenous models, trade 
+and Solow model, trade and productivity growth. The unit moves in the direction of 
+explaining various trade policy regimes vis -à-vis growth in developing countries wherein the 
+import substitution and outward oriented development strategies are discussed. At the end of 
+the unit, India’s experience with the inward -oriented and outward -oriented regime is 
+presented.  
+Unit 17 takes the  theme ahead by providing us the link between trade and environment 
+wherein the role of externalities has been outlined. The unit also discusses the link of trade 
+with climate change and the policies and practices in that regards. The relevance of WTO in 
+safeguarding the environment has been highlighted and, in the end, the multilateral 
+environmental agreements in relation to trade are discussed.  
+ 
+ 
+ 
+ 
+ 
+  
+
+
+--- Page 3 ---
+ 
+ 
+ 
+109 
+Debate on the Trade 
+and Growth Nexus UNIT 16  DEBATE ON THE TRADE AND GROWTH 
+NEXUS  
+Structure 
+16.0 Objectives 
+16.1  Introduction  
+16.2 Importance of Economic Growth 
+16.3 Sources of Economic Growth: Theoretical Underpinnings 
+ 16.3.1 Theories of Growth: Classical and Endogenous Growth Models  
+ 16.3.2 Trade and Growth in the Solow Model 
+ 16.3.3 Trade and Productivity Growth: Theoretical Links 
+16.4 Trade Policy Regime and Growth in Developing Economies 
+ 16.4.1 Criticism of Primary-Export-Led Growth Policies 
+ 16.4.2 Import Substitution Industrialisation Strategy 
+  16.4.2.1  Country Experiences  
+  16.4.2.2  Criticism of ISI 
+ 16.4.3 Outward Oriented Development Strategies 
+  16.4.3.1Country Experiences  
+  16.4.3.2Critical Evaluation 
+16.5 Indian Experience 
+16.5.1 Experience with the Inward-Oriented Industrialisation Regime 
+16.5.2  Experience with the Outward Oriented Liberalisation Regime  
+16.6     Let Us Sum Up 
+16.7 Key Words 
+16.8 Some Useful References 
+16.9 Answers/Hints to Check Your Progress Exercises 
+16.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+• Explore the relevance, nature and determinant of economic growth in general; 
+• Examine the relationship between international trade and economic growth in 
+classical and endogenous growth theories; 
+• Identify the link between international trade and productivity growth; 
+ 
+ Contributed by  Dr. Rijesh Raju, Institute for Studies in Industrial Development (ISID). 
+
+
+--- Page 4 ---
+ 
+ 
+ 
+110 
+Trade, Growth  
+and Development • Discuss the issue of trade and growth nexus in the light of trade policy regime 
+in developing countries; 
+• Highlight the transition and country-level experiences of import substitution 
+and outward-oriented policy regimes; and 
+• Provide an overview of the trade policy regime and growth experience of 
+Indian economy since economic planning. 
+16.1   INTRODUCTION 
+Economic growth is of fundamental significance for any economy. An economy 
+is said to grow when the amount of goods and services produced in the country 
+expands over time. The total amount of output produced for final consumption in 
+a particular period, normally a year or the economy's income level is referred to 
+as Gross Domestic Product (GDP). Since every economy experiences growth in 
+labour force/population, improving the ra te of growth of GDP matters most for 
+achieving sustained higher standards of living in the long run. In this sense, GDP 
+is measured by the rate of change of real income per capita or simply, output per 
+labour input (i.e., labour productivity). In this unit, we will learn how growth rate 
+of an economy is related with its trade volume. We will try to understand how it 
+affects each other.  
+16.2  IMPORTANCE OF ECONOMIC GROWTH 
+Economists argue that growth in GDP enables an economy to improve the overall 
+welfare of the people and economic development. We know that the welfare of 
+the citizen ultimately depends on improvement in  the quality of life, including 
+higher levels of cons umption, better educational achievements, quality housing 
+and better access to valuable health facilities.Since a sustained level of economic 
+growth is highly correlated with higher standard of living and economic welfare, 
+GDP growth is often considered as  a key instrument (or means) for achieving 
+economic development (the end goal).  
+Rather than the level of GDP, it is the rate of increase in GDP which matters 
+most. This is because of the well -established evidence that points out that 
+prolonged differences in GDP growth rates result in dramatic changes in living 
+standards. One useful summary measure to appreciate the significance of rate of 
+GDP growth is to find out the number of years it will take the size of the 
+economy to double over time. According to a  simple approximation of time, the 
+number of years it takes for an economy to double its level is equal to 70 divided 
+by the growth rate. This is known as "Rule of 70" . According to this rule, an 
+economy with a GDP growth rate of 1 per cent doubles its liv ing standard (i.e., 
+doubles the economy's overall size) every seventy years, while an economy with 
+a rate of growth of 5 per cent per annum doubles its size and living standard 
+every fourteen years.  
+
+
+--- Page 5 ---
+ 
+ 
+ 
+111 
+Debate on the Trade 
+and Growth Nexus Examples of such drastic differences in growth rates among countries are 
+numerous. For example, in the mid-1950s, the per capita GDP of El Salvador and 
+Japan were roughly similar. However, by 1993, the income of one Japanese 
+person was approximately equal to that of 24 Salvadorans, which was achieved 
+through a sustained level of per capita growth rate of less than 9 per cent per 
+annum maintained over 38 years by the Japanese economy. This example 
+illustrates that a percentage point drop in the growth rate makes a huge difference 
+in the long period. Therefore, it  is important to appreciate and understand the 
+factors determining the rate of growth in GDP in an economy. In the following 
+Section, we will attempt to provide an answer based on the standard theories of 
+economic growth.  
+16.3  SOURCES OF ECONOMIC GROWTH: 
+THEORETICAL UNDERPINNINGS 
+16.3.1 Theories of Growth: Classical and Endogenous Growth 
+Models 
+Identifying the sources of income generation is one of the main focuses of the 
+growth and development theories. An early attempt to understand the principal 
+source of economic growth is attributed to the work of Prof. Robert Solow1 in the 
+early 1950s. The Classical Growth Theory , based on the work of Solow and 
+many others, have tried  to disentangle the contribution of growth in physical 
+capital stock, growth in the labour supply and state of technology in generating 
+income per capita over time.  
+Using the standard production function approach, the classical theories argue that 
+in the long period, the rate of savings determines the size of capital stock and 
+thus the level of output. The model predicts that an increase in saving rates will 
+have a correspondin g level effect on income per person (labour productivity) as 
+output expands, but will eventually reach a steady state 2  equilibrium level. 
+Alternatively, an increase in labour supply or population growth will negatively 
+impact the steady -state levels of bo th capital per worker and output per worker. 
+The Solow model predicts that regardless of the availability of factor inputs, the 
+economy will tend to move towards a steady state long run equilibrium level. 
+Since the level of savings determines the stock of capital, a large supply of 
+savings allows the accumulation of productive capital and a higher output level in 
+the steady state. However, once the economy reaches the steady state, policy 
+ 
+1The Solow growth model is named after Robert M. Solow on his work on the accounting the 
+sources of economic growth in the 1950s. The model was introduced in the paper Solow, R. M. 
+(1956). A Contribution to the Theory of Economic Growth. The Quarterly Journal of 
+Economics, 70(1), 65-94. In 1987, Solow won the Nobel Prize in economics for his work on 
+economic growth. 
+2 Steady state is a condition in which the key economic variables are constant and does not 
+deviate.  
+
+
+--- Page 6 ---
+ 
+ 
+ 
+112 
+Trade, Growth  
+and Development instruments are needed to alter the steady -state growth rate of incom e per person 
+to have a growth-effect over time. In effect, the policy option is to choose the 
+steady state that provides maximum welfare to the society in terms of the 
+availability of goods and services for consumption. The steady -state level of 
+capital stock that maximises the level of consumption is called Golden Rule Level 
+of Capital. The classical models show that if the level of capital stock is larger 
+than the Golden rule steady state, then policies that reduce saving will increase 
+consumption at all time periods. 
+However, since the capital stock is subject to decreasing returns, the capital 
+accumulation itself cannot sustain the growth rate, as a continuous rise in output 
+per worker requires a far greater increase in capital per worker. Naturally, ove r 
+time, the economy may be subject to saving rate constraint and limit further 
+accumulation of productive capital. In this case, for sustainable economic 
+growth,it is necessary to have a continuous progress in the state of art of 
+technology in production. Accordingly, the classical theories build models 
+including exogenous technological progress, which over time expands the 
+society’s production capabilities. 
+A fundamental way to incorporate exogenous technological change is to assume 
+that technology is embo died in workers skill that increases the efficiency of 
+labour. As society’s knowledge pool increases, the efficiency of labour increases 
+and the labour per hour output of goods and services expands considerably. The 
+exogenous rise in labour efficiency can result from new assembly line production 
+methods, labour training, health, education skills, etc. In this labour augmenting 
+technological progress model, the technological change causes the effective 
+number of productive labours to increase over time. Ther efore, at the steady state 
+level of capital per effective labour, the rates of actual output per labour increases 
+at the rate of labour augmenting technical progress. Thus, according to the Solow 
+model, once the economy reaches the steady state equilibrium , the rate of growth 
+of output per worker depends only on the rate of technological progress. In the 
+long run, the level of technological progress  explains sustained growth and 
+persistent rise of standard of living in an economy. 
+The classical growth theor ies show clearly that the sustained output growth per 
+worker requires continuous progress in the state of art of technology. The Solow 
+model, however, considered technical change as exogenous; the model does not 
+explain the determinant of technology. As such, the model often failed to account 
+for many empirical realities such as cross -country income convergence, 
+international migration pattern and large flow of capital across countries.  The 
+limitation of the Solow model in explaining the growth experience s of both the 
+developed and the developing world prompted economists to formulate models 
+that treat as endogenous the generation and diffusion of technology. The models 
+that reject the over simplifying assumption of exogenous technology and explain 
+
+
+--- Page 7 ---
+ 
+ 
+ 
+113 
+Debate on the Trade 
+and Growth Nexus the determinant of technological advances is known as the Endogenous Growth 
+Theory. 
+The endogenous theoretical models were developed since the 1980s by the 
+scholarly writings of Paul M. Romer, Robert E. Lucas, Jr, among others. 3Instead 
+of assuming diminishing returns for physical capital stock, the basic endogenous 
+model incorporates knowledge as a form of capital with constant returns to scale. 
+These models try to explain the decisions that determine knowledge creation 
+through Research and Development (R&D). A main feature of the endogenous 
+growth model is that they treat research as an economic activity that requires 
+productive input resources that respond to profit opportunities. In the earlier 
+models of Romer and others, techn ological progress arises from purposeful 
+investment by the profit -seeking firms in R&D and externalities (spill over 
+effects) from such activities. Since technological knowledge is a non -rival and 
+partially excludable commodity, the spill over channel play s an important role in 
+determining the rate of growth of economies over time. 
+16.3.2  Trade and Growth in the Solow Model 
+We can use the Solow model to depict the effect of international trade on 
+economic growth. Here we will follow the model proposed by B aldwin (1992)4. 
+Under the standard models of international trade, a shift from autarky to free 
+trade increases the real income and welfare in an economy. Assuming the country 
+produces two commodities, the Heckscher -Ohlin (H -O) model of trade shows 
+that opening up of tra de increases the real income. This is depicted by the 
+production Possibility Frontier (PPF) movement where the nation specialises and 
+reallocates resources in commodities that have a relative (comparative) cost 
+advantage, determined by factor endowments. T he specialisation pattern also 
+allows consumer welfare to rise because compared to the situation in autarky, the 
+consumption points of both commodities in free trade lie under a higher 
+indifference curve. 
+According to Baldwin (1992), a one -time improvement in welfare from autarky 
+to free trade generates a secondary improvement in real output. The secondary 
+improvement results from increased productive efficiency that transforms 
+available (given) inputs into welfare -enhancing final products. This productivit y 
+improvement shifts the PPF in the Solow model and generates economic growth 
+as economy shifts up to a higher steady state equilibrium level of capital and 
+output.  
+ 
+ 
+3 See Romer, P. M. (1986). Increasing Returns and Long-Run Growth. Journal of Political 
+Economy, 94(5), 1002-1037; and Lucas, R. E. (1988). On the Mechanics of Economic 
+Development. Journal of Monetary Economics, 22(1), 3-42. 
+4The full reference for the paper is: Baldwin, R. E. (1992). Measurable Dynamic Gains from 
+Trade,. Journal of Political Economy, 100(1), 162-174. 
+
+
+--- Page 8 ---
+ 
+ 
+ 
+114 
+Trade, Growth  
+and Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 16.1 International Trade and Solow Growth Model 
+Source: Adapted from Berg and Lewer (2007) 
+The process of trade under the Solow growth model is represented in Figure 16.1. 
+The international exchange of goods induces the PPF curve to shift from f(k) to 
+g(k). This changes the economy's steady state capital -output ratio and per capita 
+income from 𝑘1
+∗ and 𝑦1
+∗ to 𝑘2
+∗ and 𝑦2
+∗, respectively. These changes are the result of 
+an immediate increase in per worker output from 𝑦1
+∗ to 𝑦2
+∗ before the changes in 
+capital-output ratio. The change in 𝑦1
+∗ to 𝑦2
+∗ is the Static Gains from participating 
+in International Trade. However, the economy may further increase the gains 
+from trade provided an increase in real income is associated with a rise in 
+economy's saving functions. In this case, the steady state equilibrium shifts 
+upward and g enerates a secondary spurt of medium -run growth that allows the 
+economy to move to the new steady state equilibrium at 𝑘2
+∗ and 𝑦3
+∗. The medium-
+run spurt may be influenced by the composition of trade, namely, whether a 
+country’s comparative advantage belo ngs to the production of capital goods or 
+consumer goods. However, this model shows that the traditional gains from trade 
+is not permanent as the economy eventually reaches and settles at the new steady 
+state equilibrium.  
+However, instead of the level eff ects, the new growth theory and theoretical 
+advancements in trade provides several plausible channels through which 
+international trade can induce sustained growth effects. Based on the theoretical 
+literature, we provide a brief overview of the plausible c hannels through which 
+trade impacts productivity in the following sub-section. 
+𝝈 g (k) 
+ 
+𝒚𝟐
+∗ 
+ 
+g (k) 
+ 
+𝒚𝟑
+∗ 
+ 
+𝒚𝟏
+∗ 
+ 
+𝒌𝟏
+∗  
+ 
+𝒌𝟐
+∗  
+ 
+f (k) 
+ 
+𝜹 (k) 
+ 
+𝝈 f (k) 
+ 
+
+
+--- Page 9 ---
+ 
+ 
+ 
+115 
+Debate on the Trade 
+and Growth Nexus 16.3.3  Trade and Productivity Growth: Theoretical Links 
+The theoretical literature has identified several channels through which 
+international trade impacts domestic productivi ty growth 5. International trade 
+allows domestic producers to achieve economies of scale effects relative to 
+autarky. Economies of scale are realised as production moves at a lower average 
+unit cost curve through the reduction of average fixed cost per unit of output and 
+a downward shift of cost curve resulting from additional fixed investments made 
+to meet the additional expectation of market opportunities abroad. Compared to 
+autarky, a liberal trade regime induces market competition effects that boost firm 
+efficiency. The entry of foreign competitive products acts as a market 
+disciplining effect on i mport-competing domestic firms. For market survival, 
+firms will be forced to invest in cost reducing activities such as technology 
+upgradation, skill development and reduce managerial slackness. The exit of 
+inefficient firm and reduction in monopoly power will eliminate X -inefficiency. 
+The lower priced imports improve productivity through investment in R&D, 
+corporate restructuring, and learning from foreign products.  
+Trade allows countries to specialise and follow their true comparative advantage. 
+The trad itional trade theory envisages inter -industry specialisation, whereas 
+recent theories predict large scale within sector production reallocation from less 
+efficient and more productive firms. The resource reallocation effects , induced 
+by plant -level heterog eneity, will provide substantial dynamic productivity 
+benefits. Since exporting involves heavy sunk -cost, it is argued that only 
+productive firms will enter in the export market. As exporting firms share 
+increases, the average industry productivity improve s. Finally, international trade 
+acts as a vehicle of transmission of knowledge to the recipient economy. As we 
+noted in the earlier section, trade provides technology spill over effects  that 
+augment aggregate knowledge stock.  
+So far, we have discussed the  theoretical channels through which international 
+trade augments economic growth in an economy. In practice, countries use 
+different policy instruments to either participate or restrict the flow of goods and 
+services across borders. As such, the nature of trade policy initiatives adopted by 
+the government has important implications on the pattern of trade and growth for 
+the development of catch-up developing economies.  
+ 
+ 
+5For a detailed discussion and literature survey, see the following articles (a) Rijesh, R. (2017) 
+International Trade and Productivity Growth: Evidence from the Organised Manufacturing Sector 
+in India’, ISID Working Paper 198, Institute for Studies in Industrial Development, New Delhi; 
+and (b) Singh, T. (2010). Does International Trade Cause Economic Growth? A Survey. The 
+World Economy, 33(11), 1517-1564.  
+
+
+--- Page 10 ---
+ 
+ 
+ 
+116 
+Trade, Growth  
+and Development Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Why is it important to understand the factors determining the rate of growth 
+in GDP in an economy? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+2) How can we use the Solow model to depict the effect of international trade on 
+economic growth? 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+3) Highlight the theoretical links between trade and productivity growth.  
+ …………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+16.4 TRADE POLICY REGIME AND GROWTH IN 
+DEVELOPING ECONOMIES 
+The successful industrialisation of the western economies has forced the policy 
+makers in the less developed economies to plan appropriate strategy for catch -up 
+and development. Since, by definition, the less income countries have low 
+purchasing power, the industrial development process is naturally constrained by 
+insufficient market demand. The market constraints will lead to underutilisation 
+of economic resources, especially in which the country has comparative 
+advantage, especially from the availability of fertile land and resources. We know 
+that most of the low -income countries have abundant natural resources that are 
+ideal for producing resource -or labour -intensive products. Since increasing 
+market access allows countries to specialise according to comp arative advantage, 
+producing and exporting labour -intensive products involves a Primary-Export-
+Led Development Strategy . This involves the support of the government to 
+design policies that favour exploitation of natural comparative advantage in 
+exchange of manufactured goods produced in the rest of the world.  
+The primary export -led growth strategy based on a country’s natural economic 
+resources is perceived to improve economic welfare as the production sector 
+specialises and resources are reallocated accor ding to the static gains from trade. 

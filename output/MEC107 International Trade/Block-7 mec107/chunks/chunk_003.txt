@@ -1,0 +1,517 @@
+--- Page 21 ---
+ 
+ 
+ 
+127 
+Debate on the Trade 
+and Growth Nexus Malaysia, Singapor e, South Korea, Taiwan 
+and Thailand as This High -Performance 
+Asian Economies. 
+16.8 SOME USEFUL REFERENCES 
+Gerber, James (2014) ‘ International Economics ’, Sixth Edition, Pearson 
+Education, Inc. 
+Helpman, Elhanan (2004) 'The Mystery of Economic Growth' , The Beknap Press 
+of Harvard University Press, Cambridge, Massachusetts and London, England. 
+Mankiw Gregory N. (2016) " Macroeconomics", 9 th Edition, Worth Publishers, 
+USA. 
+Pugel, A.Thomas (2007), 'International Economics'  16th Edition, McGraw -Hill 
+Education, , New York 
+Sodersten Bo and Geoffrey Reed (1994) ' International Economics' , Third 
+Edition, Macmillan Press Limited. 
+Steven Husted and Michael Melvin (2013) ‘ International Economics’ , Ninth 
+Edition, Pearson Education, Inc., publishing as Addison-Wesley.  
+Van den Berg, H., &  Lewer, J. J. (2007) ' International Trade and Economic 
+Growth', Me Sharpe, Inc. 
+World Bank. (1993). ' The East Asian Miracle: Economic Growth and Public 
+Policy'. New York: Oxford University Press.  
+16.9 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES  
+Check Your Progress 1 
+1) See Section 16.2 
+2) See sub-section 16.3.2 
+3) See sub-section 16.3.3 
+Check Your Progress 2 
+1) See sub-section 16.4.2 
+2) See sub-section 16.4.3 
+3) See sub-section 16.5.1 
+ 
+
+
+--- Page 22 ---
+ 
+ 
+ 
+128 
+Trade, Growth  
+and Development 
+UNIT 17 TRADE AND ENVIRONMENT  
+Structure 
+17.0  Objective  
+17. 1  Introduction  
+17. 2  Trade and Environment: Linkages 
+17.2.1 Trade and Externalities 
+17. 3  Trade and Climate Change  
+17.4  Trade and Environment: Policy and Practice  
+17.5  Role of WTO to Safeguard Environment  
+17.6  Multilateral Environment Agreements and Trade  
+17.7  Let us Sum Up 
+17.8  Key Words 
+17.9  Some Useful Readings  
+17.10  Answers/Hints to Check Your Progress Exercises 
+17.0  OBJECTIVES 
+After studying this Unit, you should be able to:  
+• Explain how trade and environment are related to each other;  
+• Describe the impact of trade on the environment; 
+• Discuss the policies related to trade and environment;  
+• Explain the role of the international agencies in protecting trade and 
+environment; and 
+• Describe the various agreements signed between various nations on the area 
+of trade and environment. 
+17.1   INTRODUCTION 
+With the increase in the volume of the world po pulation, many issues have 
+evolved. One of them is the relationship between trade and the environment. Is 
+trade good or bad for the environment? The answer is not that straight. There are 
+some environmental effects when producing goods that are exported to  other 
+nations or imported from other nations. But will these effects increase or decrease 
+with expanded trade? What is their impact on the exporting nation, the importing 
+ 
+ Contributed by  Prof. S.N. Mukherjee, National Institute of Public Finance and Policy 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+129 
+Trade and 
+Environment nation, or the world? And whose responsibility is it to respond to environmental 
+hazards associated with trade? How international trading community is 
+responding to this issue? These are some of the questions this unit will try to 
+address.  
+Many emerging and developing economies often consciously adopt the export -
+led growth strategy in their quest for economic prosperity. A number of countries 
+over the last two decades have achieved their economic growth by responding to 
+the high external demand for merchandise products as well as knowledg e-based 
+services or through foreign d irect investment (FDI) inflows. International trade 
+and investment are the channels through which environmental policies transmit 
+from one country or region to another.  Although international trade is expected 
+to harmonize environmental policies across co untries in the long run, the growth 
+process in a country may trigger sustainability challenges through various 
+channels. The sustainability challenges may originate in various manners, namely 
+- concentration of environmentally damaging industries (e.g., sh ip-breaking, 
+toxic chemical processing), overexploitation of natural resources (e.g., surge in 
+ﬁshing, forestry, and mining activities), emission of greenhouse gases (GHGs) 
+etc. 
+Linkages between international trade and environment are bidirectional. On one  
+hand, stringent domestic environmental policies / regulations are often criticized 
+for creating distortions in international trade patterns owing to the associated cost 
+of compliance escalation and the consequent adverse implications on 
+competitiveness. On the other hand, international trade and export liberalization 
+policies may influence environmental sustainability through three different but 
+integrated pathways, namely scale effect  (attributed to accelerating economic 
+growth), composition effect  (attributed to structural changes in production / 
+economy) and technique effect  (attributed to technological progress). However, 
+trade liberalization may not be necessarily detrimental for environment.1 
+17.2  TRADE AND ENVIRONMENT: LINKAGES 
+First, in line with the predictions of the Environmental Kuznets Curve hypothesis 
+(EKCH), the growing income level of a country can significantly influence its 
+environmental sustainability. Given the availability of natural resources and 
+labour cost advant age, foreign investment in the ‘South’ often extends the 
+frontier of production and exportable surplus and brings in other concern areas. 
+The shift in economic activities from agriculture (primary sector) to 
+manufacturing (industrial activities) leads to l arge scale exploitation of both 
+renewable (e.g., water, land, air, forest) and non -renewable (e.g., minerals, fossil 
+fuels) natural resources, resulting in their large -scale depletion and / or 
+ 
+1 For comprehensive of literature reviews on environmental impacts of international trade, see 
+Jayadevappa and Chhatre (2000), Jeppesen et al. (1998), Thompson and Strohm (1996). 
+
+
+--- Page 24 ---
+ 
+ 
+ 
+130 
+Trade, Growth  
+and Development degradation, if adequate pollution abatement measures are not t aken. The 
+development experience of several developing countries and LDCs in Asia 
+indicates that the industrialization drive, if not accompanied by environmental 
+governance, often lead to sustainability challenges. Second, the Pollution Haven 
+Hypothesis (P HH) deals with environmental degradation scenario originating 
+from FDI inﬂows towards the pollution -intensive sectors / regions . Third, the 
+Factor Endowment Hypothesis (FEH) argues that a country will specialize in the 
+most abundantly available resource an d accordingly lead to sustainability 
+challenges. For instance, a relatively capital -abundant country may specialize in 
+dirty capital -intensive industries, in presence of trade. However, the PHH and 
+FEH work in opposite directions, as specialization pattern s for rich (capital -
+abundant) and poor (labour -abundant) countries differs accordingly. Finally, 
+over-reliance on a natural resource may lead to policy myopia and compromise 
+the broad-based growth path, resulting in the Natural Resource Curse Hypothesis 
+(NRCH) phenomenon. While the existence of NRCH in itself may not 
+necessarily involve environmental challenges, specialization in ‘brown’ 
+activities, particularly in mining or quarrying industries, may lead to serious 
+concerns. These effects, either in isolation or cumulatively, often lead to not only 
+local (e.g., release of chemical effluents) environmental problems but also trans -
+boundary (either regional or global) concerns (e.g., climate change concerns). 
+The nature of public goods of environmental problems results in market failure. It 
+demands government interventions to set the property rights correctly and / or 
+adopt economic policies to internalize the environmental costs. 2 However, inter-
+jurisdiction competitions to attract investment and industries, by providing 
+economic incentives in addition to weak environmental rules and regulations and/ 
+or lenient enforcement of the rules, often result in ‘race to the bottom’ 
+competition. In other words, the lax national environmental standard in a country 
+might function as an implicit subsidy to the local players (vis -à-vis foreign 
+players from a country characterized by stringent environmental standards) in the 
+sense that the marginal cost of abatement would remain below the marginal 
+damage from pollution . Howev er, if the export partners of a country enhance 
+their demand for quality (e.g., through adoption of ISO 14001 standards), such 
+trade linkages may then nullify the ‘race to the bottom’ forces. It has been argued 
+that adoption of a strong environmental stand ard may be an optimal policy for 
+governments, where the marginal cost of abatement would exceed the marginal 
+environmental damage . Apart from indirect environment policy -led incentives, 
+ 
+2 Non-inclusion of environmental costs in private marginal cost often results in shifting of 
+environmental incidence (impacts / problems) to a large section of the society as they have to 
+bear the costs in terms of adoption of environmental averting practices (e.g., water purifier, 
+air purifier) and / or costs of morbidity and mortality due to environmental pollution. 
+Therefore, the centralised private costs (the cost of pollution abatement) are shifted to public 
+at large who may not get any benefits from the economic activity that generates pollution.    
+
+
+--- Page 25 ---
+ 
+ 
+ 
+131 
+Trade and 
+Environment tax incentives-cum-subsidies are often used to attract investments whi ch are not 
+always conducive for sustainability scenario.  
+Since the basic trade theory does not consider environmental externalities 
+associated with the production and/ or consumption of goods, following Harris 
+and Roach (2017) a graphical approach of trad e and environment is presented 
+below to familiarize underlying basic concepts of trade with environmental 
+externalities.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 17.1 Gains and Losses from Importing Automobiles 
+In the absence of international trade, domestic supply and demand will be in 
+equilibrium at 'a' and corresponding equilibrium output will be Q* and domestic 
+price will be P*. If there are no barriers to trade, automobiles can be imported at 
+the world price P w. Domestic production will fall to Q 1, as domestic automobile 
+manufacturers will lose market share due to availability of cheaper imported 
+automobiles. Domestic consumption will increase to Q 2, as more consumers will 
+find affordable to purchase imported automobiles. The quantity of import will be 
+Q2-Q1.           
+The domestic automobile manufacturers will lose an area P*abPw as they sell 
+fewer units and that also in lower price. Domestic manufacturers will also incur 
+loss of output equivalent to Q* -Q1. Domestic consumers will gain an area of 
+P*acPw as price of automobiles fall and purchase more units. The net gain from 
+trade will be area abc.    
+ 
+ 
+           
+S’ 
+ 
+Q2 
+ 
+Quantity of Timber 
+ 
+Price 
+ 
+Pw 
+ 
+S 
+ 
+c 
+ 
+d 
+ 
+g 
+ 
+a 
+ 
+b 
+ 
+e 
+ 
+f 
+ 
+P* 
+ 
+Q1 
+ 
+Q* 
+ 
+Private Costs of 
+Supply 
+ 
+Social Costs: Private + External 
+ 
+
+
+--- Page 26 ---
+ 
+ 
+ 
+132 
+Trade, Growth  
+and Development  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 17.2: Environmental Impacts of Importing Automobiles 
+17.2.1  Trade and Externalities 
+1However, this trade is not free from environmental externalities. There are two 
+types of externalities may arise due to such trade - a) production externalities 
+caused by production of / manufacturing of automobiles and b) consumption of 
+externalities associated with usage of automobiles. Therefore, the gain from trade 
+reduces if we include such externalities. Manufacturers do not include the 
+environmental costs of production in their private cost function as a result they 
+pass on the costs to the society in terms of air and water pollution and dumping 
+of industrial wastes on land and water bodies. If one includes the costs associated 
+with pollution abatement and resource recovery, costs of production will increase 
+and the new supply curve is shown as S' in Figure 17.2. Similarly, consumers do 
+not take into consideration the environmental externalities associated with usage 
+of the automobile as a result it causes air pollution. If consumers are not charged 
+for the production of externalities (exhaust emission), they pass on the costs to 
+the society in terms of air pollution and related costs of morbidity and mortality. 
+Therefore, benefit that accrues to consumers is re duced, as they need to incur 
+costs to avoid exposure from pollution and/ or investing in pollution control 
+devices (e.g., catalytic converter). Therefore, the new demand curve shifts 
+downward at D'.            
+The resulting welfare impacts from trade would  be area abde and afgc in Figure 
+17.2, where reduction in domestic production will result in saving in 
+environmental costs (or environmental space) of area abde. In other words, the 
+country will shift these costs to exporting country(ies) by importing cars . By 
+importing more automobiles, the country will incur additional environmental 
+costs of the area afgc in terms of air pollution. Since, relative size of the areas 
+(abde and afgc) may vary depending on the environmental impacts. Therefore, it 
+would be difficult to draw conclusions unequivocally whether trade will result in 
+net gain or loss for a country. Moreover, it will depend on goods/commodities 
+S
+’ 
+D’ 
+ 
+Q2 
+ 
+Q1 
+ 
+Q* 
+ 
+g 
+ 
+Quantity of Automobiles 
+ 
+Pric
+e 
+Pw 
+ 
+S 
+ 
+c 
+ 
+d 
+ 
+b 
+ 
+f 
+ 
+P* 
+ 
+D Domestic 
+  Demand 
+ 
+Private Costs of 
+Supply 
+ 
+e 
+ 
+ a 
+ 
+Social Costs: Private + 
+External 
+ 
+
+
+--- Page 27 ---
+ 
+ 
+ 
+133 
+Trade and 
+Environment involved in trade. Importing those goods whose manufacturing is detrimental for 
+environment and there is no consumption related environmental impacts will 
+benefit importing countries. On the other hand, importing goods whose 
+consumption leads to environmental impacts and there is no production related 
+environmental implication will benefit exporting countries.     
+To clarify consumption and production related environmental externalities and 
+their impacts on international trade, we describe them individually below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 17.3: Production Externalities and International Trade 
+Exports of natural resources like timber and minerals result in environmental 
+costs associated with development (extraction) of natural resources. Higher price 
+of such natural resources in international market may lead to over -exploitation 
+and therefore may cause large scale deforestation and rapid drawing down of 
+mineral resources. There fore, social costs of such natural resources are higher 
+than private costs. Since domestic consumers have to pay higher price (P w), they 
+will lose consumer surplus by the area PwcbP* and producers of such natural 
+resources will gain by the area PwfaP*. The additional gains of the producers are 
+supported by higher price (P w) as well as additional production of natural 
+resources (Q2-Q*). Additional social cost associate with such export will be the 
+area equivalent to adef. There may have some social costs (ex ternalities) 
+associated with consumption (processing) of such natural resources in the 
+importing countries, however for simplicity we have not considered them here. 
+The gain from the trade - equivalent to the area abcf will be weighed against 
+additional social cost of the export - equivalent to the area adef. Therefore, the 
+ultimate gain or loss from the trade will depend on relative size of the areas abcf 
+and adef. This example is also applicable for exports of all commodities where 
+environmental externalities arise in the production (e.g., manufacturing textiles, 
+leather, and metals).       
+         
+S’ 
+ 
+Q2 
+ 
+Quantity of Timber 
+ 
+Pric
+e 
+Pw 
+ 
+S 
+ 
+c 
+ 
+d 
+ 
+g 
+ 
+a 
+ 
+b 
+ 
+e 
+ 
+f 
+ 
+P* 
+ 
+Q1 
+ 
+Q* 
+ 
+D Domestic 
+Demand 
+ 
+Private Costs of 
+Supply 
+ 
+Social Costs: Private + External 
+ 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+134 
+Trade, Growth  
+and Development  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 17.4: Consumption Externalities and International Trade 
+Import of hazardous wastes (say electronic waste) for processing and disposal is 
+an example where severe environmental externalities are associated with demand 
+or consumption. In the absence of  international market for e -waste, domestic 
+recyclers will pay a price P* to procure the waste from domestic suppliers (say 
+aggregators / waste handlers) and recycle up to Q*(Figure 17.4). If international 
+e-waste is available at a price of P w (< P*), dome stic recyclers will import e -
+waste and process up to Q 2 (> Q*). The gains of domestic recyclers will be the 
+area adPwP*, where domestic aggregators will lose by the area bPwP*c. 
+However, recycling of such wastes is associated with substantial environmental  
+externalities as well as health costs to recyclers (due to exposure to heavy metals 
+and poisonous gases). Therefore, the benefits from recycling are lower and costs 
+associated with the externalities will be the area equivalent to adef. Therefore, 
+ultimate benefits or loss associated with such type of e -waste trade will depend 
+on relative size of the areas adbc and adef. However, it is to be kept in mind that 
+unless government intervenes and impose an environmental tax/ fee on such 
+recyclers, they will succ eed to retain the benefits of additional recycling of 
+wastes and pass on the costs to the society in terms of environmental and public 
+health impacts.  
+Check Your Progress 1 
+Note: i) Use the space given below for your answers. 
+ii) Check your progress with those answers given at the end of the unit. 
+1)  Explain the relationship or linkages between International Trade and 
+Environment. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+…………………………………………………………………………………. 
+Q2 
+ 
+Quantity of Fertiliser 
+ 
+Pric
+e 
+Pw 
+ 
+S 
+ 
+c 
+ 
+ d 
+ 
+a 
+ 
+b 
+ 
+f 
+ 
+P* 
+ 
+Q1 
+ 
+Q* 
+ 
+D Domestic 
+  Demand 
+ 
+Domestic 
+Supply 
+ 
+D’ 
+ 
+e 
+ 
