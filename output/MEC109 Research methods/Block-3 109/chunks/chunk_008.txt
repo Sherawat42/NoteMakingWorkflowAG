@@ -1,0 +1,555 @@
+--- Page 66 ---
+ 
+ 67
+I Measures of Inequality7) What is the message from the Kolm’s index? Calculate  the Kolm index for 
+a distribution, which frequency 5 for value Rs.5 lakh and frequency 5 with 
+value Rs.10 lakh and therefore total size 10 and the arithmetic mean 7.5. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+11.3  GINI INDEX 
+This coefficient of concentration, as it is usually called, owes to an Italian 
+statistician by the name of Corrado Gini (1912). Modern practice is to call it 
+just Gini. This index in its origin is positive. There are a number of ways in 
+which this coefficient can be expressed.  There are also a number of ways in 
+which it can be interpreted.  People have also derived it as a measure of 
+inequality under plausible axioms in welfare theoretic framework. The index 
+satisfies many axioms proposed in literature for an index of inequality. 
+First, we shall discuss those definitions and expressions, which can be derived 
+as a measure of dispersion.  Besides giving its expressions for its frequency 
+data for grouped observations, we shall discuss its welfare theoretic 
+interpretations. 
+11.3.1  Gini as a Measure of Dispersion 
+Recall that mean deviation and standard deviation, w hich are measures of 
+dispersion, seek the deviation from arithmetic mean. Also recall that one of the 
+logarithmic measure sought deviation from the geometric mean. However, one 
+may ask why to seek dispersion in terms of deviations from any mean? Why 
+not compare all pairs and seek the differences. In order to consider positive 
+values of differences, we either take modal values of deviations before 
+averaging (mean deviation) or sum the squares of deviations and take root of 
+the mean of the squared differences.  
+Corrado Gini (1912) proposed to consider all the differences, that is all pairs of 
+values. By contrast, the range measure of dispersion considers only one pair of 
+highest value and lowest value. When xi and xj denote it h and jth incomes 
+respectively and i, j=1, 2,…, N, we can see that the aggregate of absolute 
+differences is given by 
+∑∑
+= =
+−
+N
+i
+N
+j
+j ix x
+1 1
+        (G.1) 
+a
+nd because total number of differences is N2, the mean of absolute differences 
+c
+an obviously be written as 
+∑ ∑
+=
+−
+=
+N
+i
+j i
+N
+i
+x x
+N 1 1
+2
+1        (G.2) 
+
+
+--- Page 67 ---
+ 
+ 
+Quantitative Methods-I 
+68 
+Measures of Inequalitywhere the differences with the self have also been counted and the difference of 
+xi with xj   is treated as separate from that of xj and xi   though numerically they 
+a
+re the same.  This is also said to be the case with replacement.  Expression 
+(G.2) ranges between 0 and 2µ. 
+I
+n the case of without replacement, the sum is obviously to be divided by  
+N(N-1) as there are N deviations with the self.  It is not difficult to s ee that the 
+numerical value of the sum remains the same. 
+In order to make it serve as a measure of inequality, (G.2) can be divided by µ 
+t
+o produce what can be called coefficient of mean difference (CMD):  
+∑ ∑
+= =
+−=
+N
+i
+j i
+N
+i
+x xNCMD
+1 1
+2
+1
+µ       (G.3) 
+CMD fulfils the idea of scale independence.  However, the expression (G.3) 
+ranges between 0 when everybody has the same income and 2[=2 N/(N-1)] 
+when only one person has all the income. In order to make it satisfy the interval 
+(0,1), we can further divide it by 2. The result is Gini coefficient of 
+concentration or Gini index of inequality: 
+ 
+∑ ∑
+= =
+−=
+N
+j
+j i
+N
+i
+x xNG
+1 1
+22
+1
+µ       (G.4) 
+or  
+) (1
+1
+2 j i
+N
+x x
+N
+i
+x xNG
+i j
+−= ∑ ∑
+≤ =µ       (G.5) 
+conceived as an aggregate of only positive differences, though normalized by 
+the number of all differences and the mean income.  Kendall and Stuart define 
+this as ‘one half of the average value of absolute differences between all pairs 
+of incomes divided by the mean income’. 
+The index can also be defined in terms of population proportions and income 
+shares.  If the income-share of individual i is denoted by qi, that is, 
+,µN
+xq i
+i =         (G.6) 
+then the expression (G.4) can also be written as 
+∑ ∑
+= =
+−=
+N
+j
+j i
+N
+i
+q qNG
+1 1
+22
+1       (G.7) 
+In the case of a discrete distribution, each individual constitutes (1/N)th of the 
+population, that is, 
+.1
+Npi =         (G.8) 
+Therefore one can also write (G.7) as  
+
+
+--- Page 68 ---
+ 
+ 69
+I Measures of Inequality
+.1
+1 1
+j i i j
+N
+j
+N
+i
+q p q pNG −= ∑ ∑
+= =
+     (G.9) 
+An obvious question is: why not j j i iq p q p− in the expression (G.9)? For 
+u
+nderstanding this, let us consider the Gini coefficient for the groups. 
+Let µr and µs denote mean incomes of rth and sth groups (say, families) 
+respectively and r,s=1,2…g.  Then, Gini for the groups can be defined as 
+s r s r
+Ng
+s
+g
+r
+f fNG µ µµ −= ∑ ∑
+= =1 1
+22
+1      (G.10) 
+where fr and fs are frequencies of the groups r and s respectively. This can 
+obviously be written as 
+s r
+s r
+g
+s
+g
+r
+p pG µ
+µ
+µ
+µ −= ∑ ∑
+= =1 12
+1       (G.12) 
+where 
+N
+fp andN
+fp s
+s
+r
+r ==       (G.12) 
+Now, let us note the share of total income with the group r: 
+µ
+µ
+µ
+µ r
+r
+r r
+r pN
+fq = =        (G.13) 
+Then, the expression (G.12) can be written in either of the two ways (G.14) and 
+(G.15) 
+s
+s
+r
+r
+g
+s
+g
+r p
+q
+p
+qG −= ∑ ∑
+= =1 12
+1       (G.14) 
+or 
+s r r s
+g
+s
+g
+r
+q p q pG −= ∑ ∑
+= =1 12
+1       (G.15) 
+It is easy to see that g=N and ps=pr=(1/N) when fr and fs are all equal to1.    
+In statistics literature we emphasize frequency aspects, in economics literature 
+we find it convenient, expression-wise, to treat each individual with single 
+income though there is no bar for xi=xj. 
+11.3.2    Simple Computational Device 
+Two years after giving his index to terms of relative mean differences, Gini 
+(1914) showed that the index is exactly equal to one minus twice the area under 
+Lorenz curve (to be discussed later).  That is, 
+A G2 1−=        (LG.1) 
+where A  is the area under the Lorenz curve, as shown in Fig. 11.1  
+ 
+
+
+--- Page 69 ---
+ 
+ 
+Quantitative Methods-I 
+70 
+Measures of Inequality
+L 
+(0,1)                            (1,1) 
+ B  
+ 
+ 
+                                                                  -- 
+                                                                 --- 
+                                                               ---- 
+                                                             ----- 
+ --------- 
+                                                     ------------ 
+                                                ---------------- 
+ ------------------- 
+ ------------------------ 
+O              -------------------------------------  A 
+(0,0) (1,0)  
+ 
+Fig. 11.1 
+ 
+H
+owever, normally, we do not specify and estimate a smooth relationship 
+between Q and P. Instead, we obtain the curve by plotting cumulative 
+proportions of people in classes and cumulative shares of their incomes, where 
+classes are arranged according to increasing per capita income values: 
+ 
+. ... ....3 2 1 gr µµµµµ ≤≤≤≤≤≤      (LG.4) 
+ 
+strictly speaking, equality sign is useless in this presentation.(We have written 
+it in deference to Theil (1967).  Plotting Pr and Qr, we obtain the Fig. 11.2. We 
+can see that the area below the Lorenz curve can be conceived as consisting of 
+several trapeziums. A trapezium could be seen as consisting of a rectangle and 
+a triangle. Summing the areas of all trapeziums (say g in number), we can get 
+the area A . Substituting it in (LG.1), we get the following expression for 
+computing Gini coefficient G: 
+ 
+∑
+=
+−− + − − =
+g
+r
+r r r rQ Q P PG
+1
+11 ) ) ( ( 1       (LG.5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Qr 
+ 
+ 
+ 
+ 
+ Tr 
+       
+ 
+ 
+ Pr 
+ 
+Fig. 11.2 
+ 
+
+
+--- Page 70 ---
+ 
+ 71
+I Measures of InequalityCheck Your Progress 2 
+ 
+1) Define Gini ratio.  
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) Show the difference in approach in defining Gini from other measures of 
+dispersion. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) Write the expression for computing Gini. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+4) How can you compute Gini ratio? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+ 
+11.4 LORENZ CURVE 
+ 
+Lorenz curve is a powerful geometrical device to compare two situations of 
+distribution with regard to their level of inequality. Devised some hundred 
+years ago by Max O.  Lorenz (1905) to measure concentration of wealth, it is 
+still very widely used in empirical studies on inequality. The device can be 
+used for comparing inequality of distribution of any measurable entity such as 
+
+
+--- Page 71 ---
+ 
+ 
+Quantitative Methods-I 
+72 
+Measures of Inequalityincome, wealth (land, capital), consumption, expenditure on an item (say, food 
+or education), etc. The distribution may be over persons or households.  But the 
+device can also be used to measure inequality of tax collection or expenditure 
+incurred by states or federal grants received by different states. We can 
+compare pre-tax and post-tax distributions in order to study the efficacy of 
+instrument of tax. 
+Lorenz (1905) studied a number of methods then in use to gauge the level of, 
+or change in the level of, inequality. Most of these measures used fixed-income 
+classes in data tabulation and made inter-temporal comparison, employed 
+changes in percentage of recipients of class incomes in each of the fixed-
+income classes or movement of persons from one class to another and so on.  
+Finding them unsatisfactory, he comes to the conclusion that changes in 
+income and changes in population both have to be simultaneously taken into 
+account and in a manner that ‘fixed-ness’ of income classes gets neutralized. 
+In fact, this measurement relates to comparison and in most cases, we are in a 
+position to compare but there are situations of non-comparability.  However, a 
+few of inequality measures that are capable of numerical representation in 
+terms of a scalar number, and therefore called summary measure, are found to 
+be based on the Lorenz curve. 
+It may be pointed out that the curve was independently introduced by Gini 
+(1914).  It is therefore, quite often referred to as Lorenz-Gini curve as well. We 
+shall, however, stick to more common usage and call it Lorenz Curve. 
+11.4.1   Geometrical Definition 
+The Lorenz curve of concentration of incomes is the relationship between the 
+cumulative proportions of recipients, usually plotted on the abscissa, and the 
+corresponding cumulative shares of total income with the recipients, usually 
+plotted on the ordinate.  If population proportions and income shares of class j 
+are denoted by pj and qj and cumulative proportions and shares upto class i, by 
+Pi and Qi then  
+0 1 ,
+1
+≥ ≥= ∑
+=
+j
+i
+j
+ji pp P      (GD.1) 
+and 
+0 1 ,
+1
+≥ ≥= ∑
+=
+j
+i
+j
+ji qq Q      (GD.2) 
+The relationship between Pi and Qi is given by the curve 
+0 1 , 0 1 ), (≥≥≥≥= iiii QPP L Q    (GD.3) 
+and the point on the curve by (Pi , Qi ).  Naturally, the first point is (0,0) and the 
+last one on the curve, (1,1).  It is also clear that Qi ≤  Pi   i=1, 2,…, N-1 if there 
+are N classes of incomes.  It means no point will make an angel of more than 
+45˚ with the abscissa at the origin.  Then, one can be sure that the Lorenz curve 
+lies in the lower triangle of Lorenz Box of the unit square. See Fig. 11.3 in 
+which OLB shows the Lorenz curve (Fig. 11.3).  
+
+
+--- Page 72 ---
+ 
+ 73
+I Measures of Inequality(0,1)                        (1,1) 
+ B 
+ 
+Qr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O A 
+(0,0) Pr (1,0)   
+ 
+                              Fig. 11.3 
+ 
+11.4.2   Properties of the Lorenz Curve 
+ 
+Now it is easy to see that the extreme case of perfect equality is given by the 
+diagonal OB which represents Pi=Qi, i=1, 2,…, N. The other extreme of perfect 
+inequality will be given by a curve OAB. The diagonal OB is often designate 
+as the egalitarian line or line of equality. The other diagonal CA is known as 
+the alternative diagonal and is useful to study the symmetry of the curve. The 
+tringle OAB with sharp kink of 90˚ at A can be said to be the line of perfect 
+inequality. See Fig. 11.4. 
+ 
+ 
+Fig. 11.4 
+ 
+We can finally note the following properties: 
+ 
+i)  N i q pii ,..., 2 , 1 , 0 1 ; 0 1=≥≥≥≥  
+ii)  1 ,..., 2 , 1 , 0 1 ; 0 1 −=≥≥≥≥ N i Q Pii  
+iii)  1; 00 0 ==== N NQ P Q P 
+iv)  1 ,.., 2 , 1 ,−=≥ Ni Q Pi i  
+L 
+
+
+--- Page 73 ---
+ 
+ 
+Quantitative Methods-I 
+74 
+Measures of InequalityBy drawing a Lorenz Curve, we can know whether a given distribution is equal 
+or unequal. We do not yet know how much unequal a given distribution is. 
+When we draw two or more Lorenz Curves, we can compare the distributions 
+as regards their levels of inequality. The curve closer to the diagonal of 
+equality has lower level of inequality than the one away from it (Fig. 11.5). But 
+we do not know yet the level of inequality. And even this comparison is 
+possible only when the curves do not intersect (Fig. 11.6). 
+ 
+ 
+  
+Fig. 11.5 Fig. 11.6 
+ 
+ 
+ 
+However we can devise some measures, which are based  on the Lorenz curve.  
+In case the Lorenz curves intersect, reducing the distributions into single real 
+number is the only option.  So we shall discuss only two such proposals.   
+11.4.3   A Measure Based on Area  
+We have noted that if Lorenz curve coincides with the diagonal of equality, the 
+inequality is nil and if Lorenz curve coincides with the two sides of the square, 
+the inequality is full.  
+In the case of non-intersecting Lorenz curves, it is clear that the curve closer to 
+the diagonal of equality will circumscribe smaller area between itself and the 
+diagonal of equality than the one, which is farther. Which is what it should be. 
+We can therefore devise a measure of inequality by dividing the area OLB 
+(Fig. 11.4) by the area of triangle OAB, which is the maximum possible area 
+between the diagonal of equality and Lorenz curve. As the area of OAB is 
+(1/2), the measure turns out to be twice the area between the diagonal of 
+equality and the Lorenz curve. In other words, Lorenz coefficient of 
+concentration (LCC) is: 
+OLB AreaOAB
+OLB AreaLCC 2=∆=  
+Since this turns out to be exactly equal to Gini coefficient, we are not 
+elaborating it any further. 
+11.4.4  A Measure Based on Length 
+This is a measure proposed by Kakwani (1980). The length of the Lorenz 
+curve, denoted by ℓ, cannot fall below √2, which is the length of the egalitarian 
+line and cannot exceed 2, which is the sum of the lengths of the two arms of the 
+lower triangle. In order to produce a measure with the minimum value 0 and 
+the maximum value 1, following exercise can be suggested: 
+
+
+--- Page 74 ---
+ 
+ 75
+I Measures of Inequality
+ Minimum Actual Maximum 
+Length of the Curve √2 ℓ 2 
+Length of the Curve - √2 0 ℓ-√2 2- √2 
+Length of the Curve -√2 
+Maximum length -√2 
+0 ℓ-√2 
+2-√2 
+1 
+So this measure is clearly: 
+LK= (ℓ-√2)/ (2-√2) 
+In both the cases, one can draw actual graphs and actually measure the area and 
+the length and calculate the indices for level of inequality. Those who wish to 
+carry out a more sophisticated exercise will have to estimate smooth functions. 
+Check Your Progress 3 
+1) Enumerate the properties of Lorenz curve. 
+ ……………………………………………………………………………. 
+ ……………………………………………………………………………. 
+ ……………………………………………………………………………. 
+ ……………………………………………………………………………. 
+2) When will comparison between two Lorenz curve fail to compare 
+inequality in two distribution? 
+ ……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+3) What is the relationship between Lorenz curve and Gini coefficient. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+4) What is Kakwani’s measure of inequality, which is based on the Lorenz 
+curve. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 

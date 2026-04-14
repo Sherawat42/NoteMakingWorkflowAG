@@ -1,0 +1,555 @@
+--- Page 103 ---
+ 
+ 103
+I Construction of Composite 
+Index in Social Sciences
+ 
+Table 12.5: Index Value in Mean Standardization Method 
+District 
+Percentage of  other than agrictural 
+labour to all labour 
+Percentage of net irrigated area 
+Per capita value of agrictural output 
+Per capita consumption expenditure 
+Female Literacy rate  
+women work force participation rate 
+Percentage of household getting safe 
+drinking water 
+Percentage of villages having access to 
+paved road 
+Percentage of villages having access to 
+primary health centre 
+Average  casual  wage rate 
+Composite Index 
+Malkangiri   1.237  1.332 1.899 0.808 0.561 1.079 1.379 0.614 0.775 1.003 1.069 
+Rayagada  0.847  0.988 0.697 0.808 0.561 1.079 1.312 0.995 0.630 1.030 0.895 
+Sundargarh 1.034  0.816 0.782 1.126 1.340 0.934 0.959 1.112 1.357 0.891 1.035 
+Nabarangapur  0.780 0.258 1.222 0.808 0.561 1.063 1.346 1.316 1.357 1.030 0.974 
+Kandhamal 1.051  0.602 0.597 0.808 1.028 1.095 0.538 0.614 0.921 1.003 0.826 
+Koraput 0.932  1.332 0.890 0.808 0.499 1.079 1.127 0.644 1.066 1.114 0.949 
+Mayurbhanj 1.017  1.289 0.833 1.126 1.091 0.999 0.740 1.229 1.018 0.863 1.020 
+Gajapati  0.881  1.074 0.770 1.331 0.748 1.240 0.723 0.848 0.969 0.947 0.953 
+Sambalpur 1.051  1.461 1.565 1.126 1.558 0.999 0.942 0.907 0.630 1.086 1.132 
+Kendujhar 1.017  0.988 0.782 1.126 1.371 0.741 0.875 1.346 0.727 0.947 0.992 
+Jharsuguda   1.153  0.859 0.964 1.126 1.683 0.693 1.060 1.375 1.551 1.086 1.155 
+12.5.4 Range Equalization Method 
+Range Equalization (RE) method otherwise known as max-min approach is 
+adopted by UNDP in computation of Human Development Index. Under this 
+approach, an index is constructed for each variable by applying Range 
+Equalization formula derived by UNDP. This is worked out by subtracting an 
+indicator’s minimum value from each observation and then dividing it by its 
+range.  
+RE Index =    
+/g3025/g3284/g2879/g3014/g3036/g3041 /g3025
+/g3014
+/g3028/g3051 /g3025/g2879/g3014/g3036/g3041 /g3025 
+where /g1850/g3036 Value of the variable, min X- Minimum value of X in the scaling , 
+max X- Maximum value of X in the scaling. The RE index is also a 
+normalization technique. Without it, a composite index can be biased towards 
+an indicator with very high range. For example the per capita value of 
+agricultural output which is measured in rupees ranges from Rs. 410/- to  
+Rs. 1304/-. On the other hand, the variable proportion of female literacy rate is 
+measured in percentage. Different variables measured in different units 
+sometimes give upward or downward biases. To ensure the index value  
+biasfree, we convert all the variables into equal scaling from 0 to 1.  
+
+
+--- Page 104 ---
+ 
+ 
+Quantitative Methods-I 
+104 
+Construction of Composite In RE method, as a first step we undertake scaling exercise. In undertaking the 
+scaling procedure, desirable norms are followed for each indicator. In some 
+cases, scaling of indicators is self-selected, while in others element of value 
+judgment is involved. This scaling exercise is called goal post where we 
+identify the maximum and minimum goal. The goalpost basically visualizes the 
+extent of minimum value and maximum value in the future time period (say 
+next 5 years). The scaling norm that we have adopted is given in Table 12.6. In 
+the table the third and fourth column shows the maximum and minimum 
+district value of selected 10 indicators. The first and second column is the 
+maximum and minimum goal post. 
+Table 12.6: Construction of Food Security Radar 
+Variable Description of Variables Goalposts District Value 
+  
+Minimum 
+Maximum 
+District 
+ Minimum 
+District 
+ Maximum 
+Oth_agl Percentage of  other than 
+agricultural labour  to all labour 
+30 85 46 73 
+Irr Percentage of net irrigated area 
+to net cropped area 
+2 55 6 34 
+pcvao Per capita value of agricultural  
+output 
+200 2500 410 1304 
+Mpcce_ia Inequality adjusted per capita 
+consumption expenditure 
+150 450 201 331 
+Lit_f Female Literacy (adult) rate 10 70 16 54 
+Wfpr_f women work force participation 
+rate 
+30 85 43 77 
+Hhsdw Percentage of household having 
+access to safe drinking water 
+20 90 32 82 
+Paved_r Percentage of villages having 
+access to paved road 
+10 60 21 47 
+v_phcs Percentage of villages having 
+access to Primary health centre 
+10 50 13 32 
+Wage_c average Casual wage rate 25 70 31 40 
+Based on the goalpost, we normalize the value of the variable for all the 
+districts and all the indicators. In  our example, the values have been presented 
+in Table 12.7. 
+  
+
+
+--- Page 105 ---
+ 
+ 105
+I Construction of Composite 
+Index in Social Sciences
+Table 12.7: Index Value in Range Equalization Method 
+District 
+Percentage of  other than 
+agrictural labour to all labour 
+Percentage of net irrigated 
+land to net sown area 
+Per capita value of  
+agrictural output 
+Per capita consumption 
+expenditure 
+Female Literacy rate 
+women work force 
+participation rate 
+Percentage of households 
+getting safe drinking water 
+Percentage of villages having 
+access to paved road 
+Percentage of villages  
+having access to primary 
+health centre 
+Average  casual  wage rate 
+Composite Index 
+Malkangiri   0.782  0.547 0.480 0.170 0.133 0.673 0.886 0.220 0.150 0.244 0.429 
+Rayagada  0.364  0.396 0.121 0.170 0.133 0.673 0.829 0.480 0.075 0.267 0.351 
+Sundargarh 0.564  0.321 0.147 0.433 0.550 0.509 0.529 0.560 0.450 0.156 0.422 
+Nabarangapur   0.291 0.075 0.278 0.170 0.133 0.655 0.857 0.700 0.450 0.267 0.388 
+Kandhamal 0.582  0.226 0.091 0.170 0.383 0.691 0.171 0.220 0.225 0.244 0.300 
+Koraput 0.455  0.547 0.179 0.170 0.100 0.673 0.671 0.240 0.300 0.333 0.367 
+Mayurbhanj 0.545  0.528 0.162 0.433 0.417 0.582 0.343 0.640 0.275 0.133 0.406 
+Gajapati  0.400  0.434 0.143 0.603 0.233 0.855 0.329 0.380 0.250 0.200 0.383 
+Sambalpur 0.582  0.604 0.380 0.433 0.667 0.582 0.514 0.420 0.075 0.311 0.457 
+Kendujhar 0.545  0.396 0.147 0.433 0.567 0.291 0.457 0.720 0.125 0.200 0.388 
+Jharsuguda   0.691  0.340 0.201 0.433 0.733 0.236 0.614 0.740 0.550 0.311 0.485 
+After calculating the index of each variable, we have averaged them to give 
+each of the five dimensions of food security. The composite food security 
+index is again derived by averaging the five dimensions. 
+The normalized value for the variable percentage of other than agricultural 
+labour to total worker’ for Malkangiri district is found out in the following 
+manner. 
+       (Actual value (73) – Minimum goalpost (30)) 
+ ————————————————————— = 0.782 
+ (Maximum goalpost (85) – Minimum goalpost (30)) 
+Likewise we have converted and worked out the normalized value of all the 
+variables and for all the districts shown in Table 12.7. 
+Comparing MS Method and RE Method 
+The composite index value worked out by both the RE and MS methods can be 
+compared and analyzed (Table 12.8). We can also examine correlation between 
+two indices. Here the correlation between final index value worked out by both 
+the methods is very high (0.991). 
+  
+
+
+--- Page 106 ---
+ 
+ 
+Quantitative Methods-I 
+106 
+Construction of Composite Table 12.8: Comparison between RE and MS Methods 
+District 
+Composite Index Value by 
+RE method 
+Composite Index Value by 
+MS method 
+Jharsuguda   1.155 0.485 
+Sambalpur 1.132 0.457 
+Malkangiri   1.069 0.429 
+Sundargarh 1.035 0.422 
+Mayurbhanj 1.020 0.406 
+Kendujhar 0.992 0.388 
+Nabarangapur   0.974 0.388 
+Gajapati  0.953 0.383 
+Koraput 0.949 0.367 
+Rayagada  0.895 0.351 
+Kandhamal 0.826 0.300 
+Note: Correlation of index value is 0.991 
+The high degree of the correlation between the values of composite index 
+computed by applying both methods separately indicate the high degree of 
+homogeneity between the two approaches. However, the Range equalization 
+method is preferred because it accounts for wider variations and strong 
+correlations to the PCA composite. 
+One important point should be kept in mind that the index value as discussed 
+above are based on equal weight. We can also give weights to variables/ 
+components discussed in section 12.5. 
+Check Your Progress 2 
+1) State the procedure to workout Composite Index by way of Simple Ranking 
+Method. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) How will you compute the final value of Composite Index by Indices 
+Method? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+3) What is the Distinction between Range Equalization Method and Mean 
+Standarisation Method? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+……………………………………………………………………………. 
+
+
+--- Page 107 ---
+ 
+ 107
+I Construction of Composite 
+Index in Social Sciences12.6  PRINCIPAL COMPONENT ANALYSIS (PCA) 
+PCA is one of the important composite index method used to analyse the various 
+problems in social sciences. PCA is a mathematical technique that transfers a 
+number of correlated variables into smaller number of uncorrelated variables 
+called the principal components. For our analysis we have an array of variables 
+which may have high correlation with each other. In case where there is high 
+relation between variables, the PCA is a suitable technique where the correlation 
+between different components is low. 
+Categorical data are not suitable for PCA analysis because in such cases 
+categories converted into quantitative scale has no meaning. To avoid this type 
+of problems, we should recode these variables into binary variables. Let us take 
+an example of social category of household that are Scheduled caste (1), 
+Scheduled tribe (2), Other backward caste (3) and General (4). In PCA analysis 
+such type of variables have no meaning. Such type of categorical variables can 
+be converted into a bianary variable. For example if we want to study the dalit 
+status, variable can be converted to a bianary variable as dalit (code 2) and non-
+dalit (code 2, 3, and 4). Likewise, if we want to study the impact of reservation 
+for other backward castes we can categorize as OBC (code 3) and other than 
+OBC (code 1, 2 and 4). 
+The PCA is a data reduction technique. Under this technique, the original data 
+set is transformed into a new set of uncorrelated variables called principal 
+components. PCA reduces the number of variables in a data set to smaller 
+number of dimension/s. In a series of variables if a mn is the weight of m th 
+principal component and nth variable then the matrix will be:  
+1 11 12 13 1 1
+2 21 22 23 2 2
+3 3
+1 2 3
+.......
+.......
+.
+. .
+. .
+.
+.......
+n
+n
+n m m m mn
+n
+PC a a a a X
+PC a a a a X
+PC X
+PC a a a a X
+     
+     
+     
+     
+     =     
+     
+     
+     
+          
+ 
+The matrix can be transformed into equation for principal component i.e. 
+1 11 1 12 2 1
+2 21 1 22 2 2
+1 1 2 2
+.....
+.....
+........
+.....
+n n
+n n
+n m m mn n
+PC a x a x a x
+PC a x a x a x
+PC a x a x a x
+= + + +
+= + + +
+= + + +
+ 
+The components are ordered so that the first component (PC 1) explains the 
+largest possible amount of variation in the original data, subject to the constraint 
+that the sum of the squared weights of the vectors  is 
+equal to one. 
+
+
+--- Page 108 ---
+ 
+ 
+Quantitative Methods-I 
+108 
+Construction of Composite In the output the eigen value is one of the important determinant of PCA. The 
+eigen value is a number that tell you how much variance there is in the data set. 
+In other words the eigen value is a number telling us how spread out the data is 
+on the line. The eigen vector with the highest eigen value is therefore the 
+principal component. 
+As the sum of the Eigen values equals the number of variables in the initial 
+data set, the proportion of the total variation in the original data set accounted 
+by each principal component is given by λi/n. The second component (PC 2) is 
+completely uncorrelated with the first component, and explains additional but 
+less variation than the first component, subject to the same constraint. Each 
+subsequent component captures additional dimension in the data and adds 
+smaller and smaller proportion of variation in the original variables.  
+Before conducting PCA, we should run correlation between variables. If the 
+correlation between two variables is very high, we may remove one of those 
+variables. The reason being that the two variables seem to measure same thing. 
+The higher the degree of correlation among variables, the lower will be the number 
+of components required to capture common information. Sometimes two variables 
+may be combined in some ways (taking average).  The PCA can be applied either 
+to the original values of variables or to the normalized values of the variables. 
+In general, normalization can be done by three methods, i.e (i) by deviation of 
+the variables from their respective means (i.e.); (ii) by dividing the actual 
+values by their respective means; (iii) and deviation of value of a variable from 
+the mean which is then divided by standard deviation {i.e. ()/ σ}.We are 
+applying here the second method.  
+Let us try to apply and analyse PCA by using the database given in Table 12.1. 
+We are applying here the second method for normalization that is found out in 
+Table 12.5 column 2 to 10. 
+Table 12.9: KMO and Bartlett’s Test 
+Kaiser-Meyer-Olkin Measure of Sampling Adequacy. .394 
+Bartlett's Test of Sphericity Approx. Chi-Square 47.933 
+  Df 45 
+  Sig. .355 
+When the normalized database is prepared, you have to apply Kaiser-Meyer-
+Olkin (KMO) technique and Measure of Sampling Adequacy and Bartlett's 
+Test of Sphericity (BTS). In KMO technique, the value varies between 0 and 1 
+and the value closer to1 is better. However, according to some statisticians, the 
+minimum value should be 0.6. The BTS tests the null hypothesis that the 
+correlation matrix is an identity matrix. Let us remember that identity matrix is 
+a matrice in which the main diagonal elements are 1 and off-diagonal elements 
+are 0.  
+The above two tests provide the minimum standard before conducting any PCA. 
+12.6.1    Conducting PCA and Analyzing Results 
+For the purpose of Principal Component analysis and interpreting its results, 
+SPSS is user friendly software. However, you can try to run the same in 
+STATA also. Let us take our previous example of Table 12.5. In the table, 
+there are 10 standardised variables and we can run our PCA model. Table 
+12.10 give the first output called ‘communalities’ 
+
+
+--- Page 109 ---
+ 
+ 109
+I Construction of Composite 
+Index in Social Sciences
+Table 12.10:  (Output 1) Communalities: Extraction by Principal Component 
+Analysis. 
+Variable name Initial Extraction 
+% of other than agricultural labour to all labour 1.000 .721 
+% of net irrigated area to net sown area 1.000 .748 
+Per capita value agricultural output 1.000 .710 
+Monthly per capita consumption expenditure 1.000 .702 
+Female Literacy rate (adult) 1.000 .876 
+women work force participation rate 1.000 .858 
+% of household access to safe drinking water 1.000 .789 
+% of villages having access to paved road 1.000 .773 
+% of villages having access to primary health centres 1.000 .572 
+Average Casual  wage rate 1.000 .491 
+Communalities represent the percentage of variance explained by the extracted 
+components. This explains the proportion of each variable’s variation 
+explained by PCA. The short notation of communalities is ‘h 2’ and defined as 
+sum of squared factor loading. In table 12.10, the first column is the name of 
+variables used in our PCA. The second column is the ‘initials’. The initial value 
+of the communalities in PCA is 1. The second column ‘extraction’ shows the 
+proportion of each variable’s variation captured by PCA. This value ranges 
+between 0 and 1. When the value is near to 1 that means the variable is well 
+represented and the reverse for value is closer to ‘0’.  
+If the communality is low for an item, the reason might be that the item was 
+poorly designed. If the item has very little variance the communality is low. If 
+the different items usually resulting from large positive or negative skewed the 
+communalities is low. We can take an example that if everyone ticks strongly 
+agree, the variation within the variable is low and the communality is low. If 
+the communality is low, we can either remove the item from the analysis to 
+exclude it from any further analyses or we can treat it as a stand alone variable. 
+Table 12.11: (Output 2) Total Variance Explained: Extraction Method: Principal 
+Component Analysis. 
+Component 
+Initial Eigen values Extraction Sums of Squared Loadings 
+Total 
+% of 
+Variance 
+Cumulative 
+% Total 
+% of 
+Variance 
+Cumulative 
+% 
+1 3.141 31.413 31.413 3.141 31.413 31.413 
+2 2.182 21.820 53.233 2.182 21.820 53.233 
+3 1.919 19.195 72.428 1.919 19.195 72.428 
+4 .866 8.658 81.086       
+5 .750 7.502 88.587       
+6 .593 5.927 94.514       
+7 .365 3.645 98.160       
+8 .098 .976 99.135       
+9 .062 .625 99.760       
+10 .024 .240 100.000       
+ 10.0      
+
+
+--- Page 110 ---
+ 
+ 
+Quantitative Methods-I 
+110 
+Construction of Composite The Table 12.11 shows ‘total variance explained’. The first column shows the 
+number of components. The number of components should be equal to number 
+of variables used for PCA. In our example, we have used 10 variables and 
+hence the total number of component is 10. The second part of the table reflect 
+initial Eigen value which consists of three columns i.e. Total, percentage of 
+Variance, Cumulative percentage. The initial Eigen values are the variances of 
+principal components. Here as we use the standardized values of variable, the 
+variance becomes equivalent to 1 and the total variance is equal to the total 
+number of variables i.e. ‘10’. The second column ‘total’ contains the Eigen values. 
+Here it can easily be seen that the Eigen values of subsequent components 
+gradually reduce implying that the successive components add less and less 
+variation. The third column shows the percentage variation on the components and 
+the fourth column explains the cumulative addition of percentage variation of 
+cumulative percentage components. In our example the first component explain 
+31.4 per cent of total variation and the second component explain 21.8 percent of 
+total variation and so on. The third row of fourth column shows that the first three 
+components explain 72 per cent of total variation. 
+The second part of the table is ‘Extraction Sums of Squared Loadings’ which 
+consists of three columns – Total, percentage of Variance and Cumulative 
+percentage. This has actually reproduced the three rows of figures of the first 
+part of table reflecting the components whose eigen value is greater than 1. 
+ 
+Graph 12.1: Scree plot 
+10987654321
+Component Number
+3
+2
+1
+0
+Eigenvalue
+
+
+--- Page 111 ---
+ 
+ 111
+I Construction of Composite 
+Index in Social Sciences
+The ‘scree plot’ is a graph whose ‘X axis’ represent the component number and 
+‘Y axis’ represents ‘Eigen values’. In other words scree plot demonstrates the 
+graph of first two column of ‘output 2’ table. From the graph one can select the 
+number of components to be taken for analysis. It can be clearly seen from the 
+above graph that from the fourth component onward the line becomes flat 
+indicating that when the successive addition is less and less, the line of the 
+graph becomes more and more flatter. 
+Table 12.12: (Output 4) Component Matrix(a) 
+  Componenta 
+  1 2 3 
+Percentage of  other than agricultural labour to all 
+labour .202 .807 .174 
+Percentage of net irrigated area to total sown area. -.185 .793 -.293 
+Per capita value of agricultural output -.403 .596 .438 
+Monthly per capita consumption expenditure .717 .217 -.378 
+Female Literacy rate  .837 .406 .105 
+women work force participation rate -.721 -.233 -.533 
+Percentage of households having access to safe 
+drinking water -.504 -.041 .730 
+Percentage of villages having access to paved road .733 -.291 .389 
+Percentage of villages having access to primary 
+health centre .441 -.417 .451 
+Average Casual  wage rate -.430 .145 .535 
+Extraction Method: Principal Component Analysis. 
+a  3 components extracted. 
+Table 12.12 (output 4) shows Component Matrix of first three components. 
+The first column is the name of variable used in PCA. The values in the output 
+table are the component loading which are the correlation between the 
+variables and components. The values in the tables range from -1 to +1. One 
+can note that the sum of square of all three component matrix of a variable is 
+equal to the extraction value of the communalities of that variable. In this 
+example three component has been extracted as the eigen value for these 
+component is greater than 1.  
+  
+
+
+--- Page 112 ---
+ 
+ 
+Quantitative Methods-I 
+112 
+Construction of Composite Table 12.13: (Output 5) Reproduced Correlations 
+  
+Percentage of  other than 
+agricultural labour to all labour 
+Percentage of net irrigated area 
+to total sown area 
+ Per capita value of agrictural 
+output 
+Per capita consumption 
+expenditure 
+Female Literacy rate  
+women work force participation 
+rate 
+Percentage of of households 
+getting safe drinking water 
+Percentage of villages having 
+access to paved road 
+Percentage of villages having 
+access to primary health centre 
+Average  casual  wage rate 
+Reproduced Correlation 
+Percentage of  other than agrictural  
+labour to all labour 0.721 0.554 0.477 0.253 0.512 -0.424 -0.007 -0.022 -0.171 0.120 
+Percentage of net irrigated to total sown 
+area 0.554 0.748 0.419 0.151 0.137 0.102 -0.152 -0.479 -0.543 0.032 
+Per capita value of agrictural output 0.477 0.419 0.710 -0.324 -0.049 -0.083 0.500 -0.297 -0.228 0.491 
+Per capita consumption expenditure 0.253 0.151 -0.324 0.702 0.648 -0.366 -0.645 0.314 0.055 -0.479 
+Female Literacy rate 0.512 0.137 -0.049 0.648 0.876 -0.754 -0.362 0.536 0.247 -0.246 
+women work force participation rate -0.424 0.102 -0.083 -0.366 -0.754 0.858 -0.015 -0.668 -0.460 -0.010 
+Percentage of households having access 
+to safe drinking water -0.007 -0.152 0.500 -0.645 -0.362 -0.015 0.789 -0.074 0.123 0.603 
+Percentage of villages having access to 
+paved road -0.022 -0.479 -0.297 0.314 0.536 -0.668 -0.074 0.773 0.620 -0.144 
+Percentage of village access to primary 
+health centre -0.171 -0.543 -0.228 0.055 0.247 -0.460 0.123 0.620 0.572 -0.005 
+Average Casual  wage rate 0.120 0.032 0.491 -0.479 -0.246 -0.010 0.603 -0.144 -0.005 0.491 
+Residual(a) 
+Percentage of  other than agrictural  
+labour to all labour   -0.149 -0.039 -0.161 -0.040 0.002 -0.087 -0.161 0.154 -0.134 
+Percentage of net irrigated area to total 
+sown area -0.149   -0.069 0.096 -0.066 -0.030 0.121 0.111 0.016 0.033 
+Per capita value of agrictural  output -0.039 -0.069   0.139 -0.028 0.145 0.045 0.089 0.046 -0.180 
+Monthly per capita consumption 
+expenditure -0.161 0.096 0.139   -0.039 0.119 0.120 0.084 0.067 0.045 
+Female Literacy rate -0.040 -0.066 -0.028 -0.039   0.008 -0.082 -0.054 -0.052 0.151 
+women work force participation rate 0.002 -0.030 0.145 0.119 0.008   0.001 -0.016 0.147 -0.025 
+Percentage of households having access 
+to safe drinking water -0.087 0.121 0.045 0.120 -0.082 0.001   0.143 -0.070 -0.173 
+Percentage of villages having access to 
+paved road -0.161 0.111 0.089 0.084 -0.054 -0.016 0.143   -0.183 -0.113 
+Percentage of villages having access to 
+primary health centre 0.154 0.016 0.046 0.067 -0.052 0.147 -0.070 -0.183   -0.007 
+Average Casual  wage rate -0.134 0.033 -0.180 0.045 0.151 -0.025 -0.173 -0.113 -0.007   
+Extraction Method: Principal Component Analysis. 
+a) Residuals are computed between observed and reproduced correlations. There are 29 (64.0%) no redundant residuals with absolute 
+values greater than 0.05. 
+b) Reproduced communalities 
+ 

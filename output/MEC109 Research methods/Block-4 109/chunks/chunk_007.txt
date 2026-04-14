@@ -1,0 +1,564 @@
+--- Page 60 ---
+ 
+ 
+ 
+Correspondence 
+Analysis 
+61 
+-II 4) Except rectangular data matrix with non-negative entries, its data requirement 
+is highly flexible. 
+16.3 STEPS AND ALGORITHM INVOLVED IN 
+CORRESPONDENCE ANALYSIS 
+TECHNIQUE 
+CA technique involves the following steps and algorithm: 
+1) Construction of the primitive matrix. 
+2) Calculation of the row profile and the column profile. 
+3) Computation of the correspondence matrix. 
+4) Obtain total row mass & total column mass. 
+5) Construction of the augmented correspondence matrix. Sometimes for the 
+sake of simplicity, it is also named as correspondence matrix. 
+6) Obtain the chi-square distance & inertia. 
+7) Reduction of the dimension of the data. 
+8) Obtain the biplots. 
+16.4  BASIC CONCEPTS AND DEFINITIONS 
+Let us understand the basic concepts and definitions of correspondence 
+analysis with the help of an illustration. We are taking up a worked out 
+example to understand some of the points involved in the correspondence 
+analysis technique.  
+Let us consider 2 qualitative variables: Educational Status and Employment 
+Status. Correspondence analysis technique will help us to examine the 
+association between these two qualitative variables. For the purpose of our 
+analysis, we have divided employment status into six categories: Employer, 
+regular, pensioner/earning income from assets, temporary, contractual/own 
+account worker and unemployed. Similarly, educational attainment of the 
+persons have been categorized as illiterate, upto medium education, between 
+medium and higher education, upto graduation, uptopost graduation or any 
+technical degree and Ph.D and above.  
+Before examining the association between these two categorical variables, let 
+us first understand the basic terms and definitions involved in the 
+correspondence analysis technique. 
+16.4.1   Primitive Matrix 
+Primitive Matrix is the information which has been collected and classified in 
+the tabular form. It is a cross tabulation of row and column variables. Table no. 
+16.1 offers a good example of Primitive Matrix. The information about 
+employment status and educational attainment with their sub categories in rows 
+and columns respectively has been provided in this table. 
+
+
+--- Page 61 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+62 
+Table 16.1: Correspondence Between Educational Attainment and Employment Status 
+Primitive Matrix (A = aij) 
+Educational Attainment 
+Employment_Status 
+unemployed                                                      Contractual                                                     Temporary                                                       Pensioner                                                    Regular                                                         Employer                                                        
+Active 
+Margin 
+Illiterate                                                      22 16 1 1 0 1 41 
+Upto Middle                                                     27 7 0 1 7 2 44 
+Middle to Higher 
+Secondary                                      69 8 3 2 4 12 98 
+Graduation                                                      51 2 4 4 22 20 103 
+Post grad/Technical 
+degree                                      13 11 7 0 46 14 91 
+PhD & Above                                                     1 3 4 0 28 3 39 
+Active Margin 183 47 19 8 107 52 416 
+Source: Assessment of Human Wellbeing: A Multidimensional Approach, a research study (unpublished) 
+undertaken in 2015 by Prof. Narayan Prasad. 
+16.4.2    Profiles 
+Profiles display the characteristics of a particular category which is determined 
+by their respective frequencies. As shown in the table no. 16.2a, row profile 
+describes the educational status while the column profile displays the 
+employment status.  
+Row profiles give the frequency of each row point such that summation for row 
+will be equal to 1. Row profile are calculated by taking individual row point 
+divided by their corresponding row total (active margin). That is,  
+row profile for the ith row =: 
+/g2915/g2932/g2915/g2928/g2935 /g2915/g2924/g2930/g2928/g2935 /g2925/g2916 /g2930/g2918/g2915 /g2919/g3178/g3166 /g2928/g2925/g2933 /g2925/g2916 A
+/g2929
+/g2931/g2923 /g2925/g2916 /g2930/g2918/g2915 /g2915/g2924/g2930/g2928/g2919/g2915/g2929 /g2925/g2916 /g2930/g2918/g2915 /g2919/g3178/g3166 /g2928/g2925/g2933 /g2925/g2916 A 
+   = 
+/g3028/g3284/g3285
+∑ /g3028/g3284/g3285/g3285/g3128/g3117
+   
+Column profiles are calculated in similar manner. 
+Column profile for the ithcolumn =:
+/g2915/g2932/g2915/g2928/g2935 /g2915/g2924/g2930/g2928/g2935 /g2925/g2916 /g2930/g2918/g2915 /g2919/g3178/g3166 /g2913/g2925/g2922/g2931/g2923/g2924 /g2925/g2916 A
+/g2929
+/g2931/g2923 /g2925/g2916 /g2930/g2918/g2915 /g2915/g2924/g2930/g2928/g2919/g2915/g2929 /g2925/g2916 /g2930/g2918/g2915 /g2919/g3178/g3166 /g2913/g2925/g2922/g2931/g2923/g2924 /g2925/g2916 A 
+ = 
+/g3028/g3284/g3285
+∑ /g3028/g3284/g3285/g3284/g3128/g3117
+ 
+The only difference is that in this case, each column point is divided by their 
+corresponding column total (active margin) as shown in table 16.2b. 
+  
+
+
+--- Page 62 ---
+ 
+ 
+ 
+Correspondence 
+Analysis 
+63 
+-II 
+Table 16.2a: Correspondence Between Educational Attainment and Employment 
+Status 
+Row Profiles 
+Educational 
+Attainment 
+Employment_Status 
+unemployed                                                      Contractual                                                     Temporary                                                       Pensioner                                                       Regular                                                         Employer                                                        
+Active 
+Margin 
+Illiterate                                                      .537 .390 .024 .024 .000 .024 1.000 
+Upto Middle                                                     .614 .159 .000 .023 .159 .045 1.000 
+Middle to 
+Higher 
+Secondary                                      
+.704 .082 .031 .020 .041 .122 1.000 
+Graduation                                                      .495 .019 .039 .039 .214 .194 1.000 
+Post 
+grad/Technical 
+degree                                      
+.143 .121 .077 .000 .505 .154 1.000 
+PhD & Above                                                     .026 .077 .103 .000 .718 .077 1.000 
+Mass .440 .113 .046 .019 .257 .125  
+Table 16.2b: Correspondence Between Educational Attainment and Employment Status 
+Column Profiles 
+Educational Attainment 
+Employment_Status 
+unemployed                                                      Contractual                                                     Temporary                                                       Pensioner                                                       Regular                                                      Employer                                                        Mass 
+Illiterate                                                      .120 .340 .053 .125 .000 .019 .099 
+Upto Middle                                                     .148 .149 .000 .125 .065 .038 .106 
+Middle to Higher Secondary                                      .377 .170 .158 .250 .037 .231 .236 
+Graduation                                                      .279 .043 .211 .500 .206 .385 .248 
+Post grad/Technical degree                                      .071 .234 .368 .000 .430 .269 .219 
+PhD & Above                                                     .005 .064 .211 .000 .262 .058 .094 
+Active Margin 1.000 1.000 1.000 1.000 1.000 1.000  
+16.4.3   Masses 
+The mass of the i th row is the marginal frequency of i throw divided by grand 
+total. Marginal frequency of the i th is the sum of the entries of the i th row.Mass 
+for each row and column points are depicted in table no. 16.2a & 16.2b 
+respectively.Grand total in this particular illustration is total sample size which 
+is 416. Similarly mass for j th column is marginal frequency of j th column 
+divided by grand total. 
+16.4.4     Correspondence Matrix 
+Correspondence matrix is defined as the original matrix divided by grand total. 
+The correspondence matrix shows how value of mass is distributed across the 
+cells. The row total and the column total of the correspondence matrix are the 
+row mass and column mass respectively as shown in table 16.3. 
+
+
+--- Page 63 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+64 
+Table 16.3: Correspondence Between Educational Attainment and 
+Employment Status  
+Correspondence  Matrix 
+Educational 
+Attainment 
+Employment_Status 
+unemployed                                                      Contractual                                                     Temporary                                                       Pensioner                                                       Regular                                                      Employer                                                         
+Illiterate                                                      0.053 0.038 0.002 0.002 0.000 0.002  
+Upto Middle                                                     0.065 0.017 0.000 0.002 0.017 0.005  
+Middle to Higher 
+Secondary                                      0.166 0.019 0.007 0.005 0.010 0.029  
+Graduation                                                      0.123 0.005 0.010 0.010 0.053 0.048  
+Post grad/Technical 
+degree                                      0.031 0.026 0.017 0.000 0.111 0.034  
+PhD & Above                                                     0.002 0.007 0.010 0.000 0.067 0.007  
+16.4.5    Augmented Correspondence Matrix 
+Having computed the correspondence matrix, we now append this 
+correspondence matrix by adding the column of row masses and the row of 
+column masses in the table 16.4a. 
+Table 16.4 a: Correspondence Between Educational Attainment and 
+Employment Status  
+Augmented Correspondence  Matrix 
+Educational 
+Attainment 
+Employment_Status 
+unemployed                                                      Contractual                                                     Temporary                                                       Pensioner                                                       Regular                                                         Employer                                                     
+Row 
+Mass 
+Illiterate                                                      0.053 0.038 0.002 0.002 0.000 0.002 0.099 
+Upto Middle                                                     0.065 0.017 0.000 0.002 0.017 0.005 0.106 
+Middle to Higher 
+Secondary                                      0.166 0.019 0.007 0.005 0.010 0.029 0.236 
+Graduation                                                      0.123 0.005 0.010 0.010 0.053 0.048 0.248 
+Post grad/Technical 
+degree                                      0.031 0.026 0.017 0.000 0.111 0.034 0.219 
+PhD & Above                                                     0.002 0.007 0.010 0.000 0.067 0.007 0.094 
+Column Mass 0.440 0.113 0.046 0.019 0.257 0.125 1.000 
+16.4.6    Inertia 
+The term inertia, in the correspondence analysis explains the degree of 
+variation. The value of inertia is high when there is large deviation of row and 
+column profiles from their averages. The method to compute the total inertia is 
+as follows: 
+Total inertia = ( )
+2
+-
+åå
+ij i j
+i j i j
+p rc
+rc   
+Where pij = (i, j)th entry of correspondence matrix 
+
+
+--- Page 64 ---
+ 
+ 
+ 
+Correspondence 
+Analysis 
+65 
+-II  
+Ri = ith row profile 
+Cj = jth column profile 
+The inertia in table no. 16.3 gives the total variance explained by each 
+dimension in the model. In this illustration value of inertia is0.480. This value 
+of inertia indicates that in this model knowing something about education 
+attainment explains around 48% of something about employment status and 
+vice versa. This association is highly significant as indicated by chi square 
+statistic. 
+16.4.7 Distance 
+Independence and association between the two variables is measured by chi 
+square. Chi square distances are weighted Euclidean distance between the 
+profile points. Weights here refers to weights of dimension and not to the 
+weights of profile points. Chi square is calculated as follows: 
+Formula to compute the chi-square distance: 
+Suppose the correspondence matrix of the primitive matrix is mxn. Then, we 
+define: 
+Chi-square distance between rth and sth rows is:= 
+ /g1856/g4666/g1870, /g1871/g4667/g3404/g3495∑ /g2869
+/g3028/g3285
+/g4672
+/g3028/g3293/g3285
+/g3028/g3293
+/g3398
+/g3028/g3294/g3285
+/g3028/g3294
+/g4673/g3041
+/g3037
+/g2880/g2869
+2 
+whereaj = marginal frequence of jth column 
+ = ∑ /g1853/g3036/g3037
+/g3040
+/g3036/g2880/g2869 
+ 
+ar = marginal frequenceofrth column 
+ = ∑ /g1853/g3045/g3037
+/g3041
+/g3037
+/g2880/g2869 
+ 
+as = marginal frequence of sth column 
+ = ∑ /g1853/g3046/g3037
+/g3041
+/g3037
+/g2880/g2869 
+1
+6.5  REDUCTION OF DIMENSIONALITY 
+Another way of looking at correspondence analysis is to consider it as a 
+method for decomposing the overall inertia by identifying a small number of 
+dimensions in which the deviations from the expected values can be 
+represented. This is similar to the goal of factor analysis, where the total 
+variance is decomposed, so as to arrive at lower – dimensional representation 
+of variables that allows one to reconstruct most of the variance/covariance 
+matrix of variables. 
+Notice the tables 16.4 given below. The educational attainment column shows 
+only 5 categories. Also notice that employment status has been condensed into 
+two categories only – employed and unemployed. This reduction of 
+dimensionalities is not arbitrary. It is a result of classification of sub categories 
+in distances from same point of reference. This will further help in pictorial 
+presentation of correspondence between the two variables – namely education 
+attainment and employment status. Correspondence analysis aims to 
+decompose the overall inertia so as to arrive at a lower dimensional space. 
+Only those dimensions are included in the model which can easily be 
+
+
+--- Page 65 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+66 
+interpreted. That is why the value of inertia does not always add up to 1 as all 
+dimensions are not included in the model. 
+Table 16.4: Correspondence Between Educational Attainment and 
+Employment Status 
+Summary 
+Dimension 
+Singular 
+Value Inertia 
+Chi 
+Square Sig. 
+Proportion of Inertia 
+Confidence Singular 
+Value 
+Accounted 
+for Cumulative 
+Standard 
+Deviation 
+Correlation 
+2 
+1 .594 .353   .735 .735 .035 .009 
+2 .329 .108   .226 .960 .054  
+3 .113 .013   .026 .987   
+4 .069 .005   .010 .996   
+5 .041 .002   .004 1.000   
+Total  .480 199.660 .000a 1.000 1.000   
+a. 25 degrees of freedom      
+16.6  BIPLOTS 
+The biplot is concerned with data reconstruction in a joint map of the rows and 
+columns, rather than distance reconstruction. In the simple case of a two-way 
+table one can think of reconstructing different variants of the table depending 
+on the way we think of the table: either as a set of rows, or a set of columns, or 
+just a two-way table of entries where rows and columns are symmetric entities.  
+A biplot is a graphical representation of the information in an n x p data matrix. 
+The bi- refers to the two kinds of information contained in a data matrix. The 
+information in the rows pertains to samples or sampling units and that in the 
+columns pertains to variables. When there are only two variables, scatter plots 
+can represent the information on both the sampling units and the variables in a 
+single diagram. This permits the visual inspection of the position of one 
+sampling unit relative to another and the relative importance of each of the two 
+variables to the position of any unit.  
+With several variables, one can construct a matrix array of scatter plots, but 
+there is no one single plot of the sampling units. On the other hand, a two-
+dimensional plot of the sampling units can be obtained by graphing the first 
+two principal components. The idea behind biplots is to add the information 
+about the variables to the principal component graph.  
+ 
+
+
+--- Page 66 ---
+ 
+ 
+ 
+Correspondence 
+Analysis 
+67 
+-II 
+ 
+Fig.16.1:  Biplots showing correspondence between Educational Attainment and Employment 
+Status 
+Data has been graphically represented by the biplot in two dimensional space 
+as shown in figure 1. However, there is one caution in this particular model that 
+this model explains only 48% of employment status based on educational 
+attainment. From the above biplot some general trends can be seen. Two points 
+closer to each other shows greater degree of association between them as 
+compared to others. This plot is offering us significant insight into direction of 
+correspondence between the level of educational attainment and employment 
+status. For example, we see that illiterate individuals are more likely to be 
+employed on the contractual basis or they are mostly engaged in low level of 
+own account work. Those individuals  who have studied upto middle school are 
+mostly found to be unemployed. Those with  Ph.D and above education  has 
+higher possibilities of regular employment.The status of employment can be 
+seen improving for individuals who have completed graduation and post-
+graduation as they are one who provides employment opportunities to others 
+also.Therefore , this plot clearly reflects a greater degree of association 
+between educational attainment and employment status which is also 
+significant as confirmed by the value of chi-square. 
+16.7 INTERPRETATION OF THE RESULTS OF 
+CORRESPONDENCE ANALYSIS 
+The interpretation of the results of correspondence analysis comprises the 
+interpretation of numerical results and factor graphics yielded by CA. The 
+former implies selection of significant axes and significant points. 
+
+
+--- Page 67 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+68 
+We are taking up a worked out example for Correspondence Analysis to 
+illustrate some of the points involved in the interpretation of the results of the 
+correspondence analysis. Table 16.1 has information on 416 persons, their 
+educational status and their employment status. The data originated from the 
+study entitled ‘Assessment of Human Wellbeing: A Multidimensional 
+Approach’ based on a sample survey conducted in Delhi in 2015. Through this 
+technique, an attempt was made to find out correspondence between 
+educational attainment and employment status among the respondents selected 
+for the study. Educational status is subdivided into 6 categories, ranging from 
+illiterate to Ph.D and above. The employment status varies from outright 
+unemployed to contractual, temporary, regular, pensioner and also where 
+respondents are employers rather than employees. 
+The table 16.4 shows summary of our calculation. The first column shows the 
+five dimension – notice that as we are looking at distance from some dimension 
+– the number of dimension declines from 6 to 5. The singular value and inertia 
+are reported in column 2 to 3 respectively. Column 6 shows proportion of 
+inertia accounted for by the first dimension which is highest at 0-735 of the 
+total. As we move through dimension 2 onwards, inertia falls rather sharply. 
+Notice the similarity with principal components analysis – there too, the first 
+component explained largest variation. The column 7 shows cumulative 
+proportion of inertia accounted for. 
+The table 16.5 gives an overview of row points. Column 2 shows mass & 
+column 3 & 4 respectively show scores in dimension 1 & 2. Column 5 records 
+inertia of respective categories in column 1. Column 6 & 7 record contribution 
+of a point to inertia of dimension 1 & 2 respectively, while column 8 & 9 
+describe contribution of two dimension to inertia of the point concerned last 
+column show total inertia. 
+Table 16.5: Correspondence Between Educational Attainment and 
+Employment Status 
+Overview Row Pointsa 
+EducationAttainment Mass Score in 
+Dimension 
+Inertia Contribution 
+1 2 Of Point to 
+Inertia of 
+Dimension 
+Of Dimension to 
+Inertia of Point 
+1 2 1 2 Total 
+illiterate .099 -
+1.534 
+.948 .179 .350 .321 .860 .137 .997 
+upto middle .106 -.771 .275 .046 .095 .029 .912 .048 .960 
+middle to higher 
+secondary 
+.236 -.458 -
+.503 
+.050 .074 .216 .654 .328 .982 
+graduation .248 .108 -
+.511 
+.022 .004 .235 .085 .798 .883 
+post graduation .219 .975 .295 .146 .313 .069 .941 .036 .977 
+PhD and above .094 1.074 .619 .085 .163 .130 .840 .116 .956 
+Active Total 1.000   .528 1.000 1.000    
+ 
+
+
+--- Page 68 ---
+ 
+ 
+ 
+Correspondence 
+Analysis 
+69 
+-II The table 16.6 sums up similar information for column points. 
+Table 16.6 
+Overview Column Pointsa 
+EmploymentStatus Mass Score in 
+Dimension 
+Inertia Contribution 
+1 2 Of Point to 
+Inertia of 
+Dimension 
+Of Dimension to 
+Inertia of Point 
+1 2 1 2 Total 
+unemployed .440 -.684 .180 .129 .346 .043 .948 .036 .984 
+contractual .113 -.292 -
+1.510 
+.091 .016 .782 .063 .926 .989 
+temporary .046 .766 .003 .019 .045 .000 .858 .000 .858 
+pensioner .019 -.679 .529 .011 .015 .016 .472 .158 .630 
+regular .257 1.151 .002 .204 .574 .000 .992 .000 .992 
+employer .125 .128 .645 .026 .003 .158 .046 .658 .705 
+Active Total 1.000   .480 1.000 1.000    
+a. Symmetrical normalization 
+The figure 16.1 presents symmetrical normalization of the row and the column 
+points in form of a picture in two dimension plane. 
+We must note that in our table 16.2a as we move up the educational attainment 
+ladder, initially unemployment proportion is rising from 53.7% for illiterates to 
+61.4% for middle school educated and then 70% for middle to higher 
+secondary level of education. For graduates, the proportion of unemployed 
+come down to 49.5%.For post graduates, it is merely 14.3% and for highest 
+educational category, it is barely 2.6%. Even, this data alone is offering us 
+significant insight into direction of correspondence between the levels of 
+educational attainments and employment status. The sub-categories of 
+employment – contractual, temporary, regular, employer are shown separately 
+and the data further tends to support the hypothesis that higher level of 
+education attainment leads to higher possibilities of regular employment. 
+However, the sub-category of ‘graduates’ also performs credibly as employers, 
+while Ph.D and above get more regular employment. 
+Our correspondence analysis tends to provide us ‘concrete’ evidence in support 
+of our tentative ‘conclusion’ from inspection of data described above. 
+16.8 MULTIPLE CORRESPONDENCE ANALYSIS 
+In a two-way contingency table, simple correspondence analysis provides 
+association between two categorical variables. On the other hand, multiple 
+correspondence analysis, an extension of the simple correspondence analysis, 
+tackles the more general problem of associations among a set of more than two 
+categorical variables. Generalization to more than two variables is neither 
+obvious nor well-defined. In other areas of multivariate analysis, such as 
+regression and log linear modelling, the situation is less complicated: for 
+example, the transition from the regression of a response variable on a single 
+predictor variable to the case of several predictors is quite straightforward.  
+
+
+--- Page 69 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+70 
+The main problem is that the notion of association between two categorical 
+variables is already a complex concept and there are several ways to generalize 
+this concept to more than two variables. 
+Many different approaches exist in literature to define multiple correspondence 
+analysis. Important among them are two main approaches: first, the correlation 
+between sets of variables, known as canonical correlation, and second, the 
+geometric approach, which is directly linked to data visualization, and which 
+has many similarities to Pearson-style principal component analysis. In the 
+explanation of each approach, one can consider the case of two variables only 
+and then describe possible generalizations to more than two variables. 
+Check Your Progress 1 
+1) What is correspondence matrix? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) A sample of n= 416 people is given in the following table showing the 
+annual income and level of education: 
+Table:Income level and level of educational attainment 
+Educational 
+Attainment 
+Annual Income 
+Upto 
+2.50 
+Lakh 
+2.50 lakh 
+to 5.00 
+lakh 
+5.00 lakh to 
+10.00 lakh 
+10.00 lakh 
+to 20.00 
+lakh 
+Above 
+20.00 lakh 
+Illiterate 
+ 
+40 1 0 0 0 
+Up to Middle 28 3 8 3 2 
+Middle to 
+higher 
+secondary 
+44 18 23 11 2 
+Graduation 
+ 
+26 18 25 27 7 
+Post 
+Graduation 
+ 
+2 6 25 31 27 
+Ph.D& Above 1 2 6 18 12 
+Compute the value of chi-square statistics and inertia from the above table. 
+Also interpret the results. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 

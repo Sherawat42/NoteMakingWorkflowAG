@@ -1,0 +1,583 @@
+--- Page 21 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+22 
+13.8  OBLIQUE ROTATION 
+Orthogonal rotations are appropriate for a factor model in which the common 
+factors are assumed to be independent. Many investigators in social sciences 
+consider oblique (non-orthogonal) rotations, as well as orthogonal rotations. 
+The former rotations are often suggested after one view of the estimated factor 
+loadings that do not follow the assumption made in the factor model. 
+Nevertheless, an oblique rotation is frequently a useful aid in factor analysis. 
+In other words, oblique rotation is suitable when the factors are considered to 
+be correlated. Oblique rotation is more complex than orthogonal rotation, since 
+it can involve one of two coordinate systems, a system of primary axes or a 
+system of reference axes. Additionally, oblique rotation produces a pattern 
+matrix that contains the factor or item loadings and factor correlation matrix 
+that includes the correlations between the factors. The commonly used oblique 
+rotation techniques are Direct Oblimin and Promax. Direct Oblimin attempts to 
+simplify the structure and the mathematics of the output of the problem under 
+consideration, while Promax is used because of its speed in larger datasets. 
+Promax involves raising the loadings to a power of four which ultimately 
+results in greater correlations among the factors and achieves a simple 
+structure. 
+13.9  FACTOR SCORES 
+A factor score can be considered to be a variable describing how much an 
+individual would score on a factor. One of the methods to produce factor score 
+is called Bartlett method (or regression approach) which produces unbiased 
+scores that are correlated only with their own factor. Another method is called 
+the Anderson-Rubin method which produces scores that are uncorrelated and 
+standardized. In factor analysis, interest is usually centered on the parameters 
+in the factor model. However the estimated value of the common factors, called 
+factor scores, may also be required. These quantities are often used for 
+diagnostic purposes, as well as inputs to a subsequent analysis. 
+Factor scores are not estimates of unknown parameters in the usual sense. 
+Rather, they are estimates of values for the unobserved random factors Fj, j = 1, 
+2,……,m. We try to find out the vectors of m unobserved common factors that 
+underlie our model to estimate those factors. Therefore, for the factor model 
+  X igjj98µ igjmpm L F igjj97ε 
+We may wish to estimate the vectors of the factor scores F1, F2,…….,Fm. 
+13.10 METHODS FOR ESTIMATING FACTOR 
+SCORE 
+A number of different methods are used for estimating factor scores from the 
+data. These include 
+1) Ordinary Least Square Method 
+2) Weighted Least Square Method 
+3) Regression Method 
+Now, the above methods are discussed below in brief. 
+
+
+--- Page 22 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+23 
+-II 13.10.1   Ordinary Least Squares Method 
+If the factor loadings are estimated by the principal component method, it is 
+customary to generate factor scores using an unweighted (ordinary) least 
+squares procedure. The L’s are factor loading and the f are unobserved 
+common factors. The vector of common factors for subject i, is found by 
+minimizing the sum of the squared residuals: 
+igj5jjεig2919ig292p
+ig287pigjmpm igj5jj igm672Xig2919ig292pigjj98µig292pigjj98 lig292pig2869F ig2869igjj98 lig292pig287pF ig287pigjj98 ig171p igjj98 lig292pig292jF ig292jigm67j
+ig287p
+igjmpmigm666X igjj98µ igjj98 L Figm667′
+ig2926
+ig292p
+ig288pig2869
+ig2926
+ig292pig288pig2869
+igm666X igjj98µ
+igjj98 L Figm667 
+This is like a least squares regression, except in this case we already have 
+estimates of the parameters (the factor loadings), but we wish to estimate the 
+explanatory common factors. In matrix notation the solution is expressed as: 
+                                        F ig292pigjmpmigm666L′Ligm667ig2879ig2869 L′igjmj5Xig292pigjj98µigjmj9                     (13.16) 
+In practice, the parameters are unknown in nature so we take the estimates of 
+the factor loadings as follows: 
+                                         F igj552ig292pigjmpmigjmj5Ligj552′ Ligj552igjmj9
+ig2879ig2869
+Ligj552′igjmj5Xig292pigjj98 Xigjj65igjmj9 
+o
+r 
+   Figj552ig292pigjmpmigjmj5Ligj552ig29j6
+′ Ligj552ig29j6igjmj9
+ig2879ig2869
+Ligj552ig29j6
+′ zig292p           (13.17) 
+ 
+F
+or the standardized data, since L= igm67migjm9jλigj552ig2869eig2869ig17p9  igjm9jλigj552ig287peig287pig17p9  ig171p  ig17p9  igjm9jλigj552ig292jeig292jigm675,  we have 
+Figj552ig292pigjmpm
+ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m11
+igjm9jλigj552ig2869
+ e igj5m8ig2869
+′igjmj5Xig292pigjj98 Xigjj65igjmj9
+1
+igjm9jλigj552ig287p
+ e igj5m8ig287p
+′igjmj5Xig292pigjj98 Xigjj65igjmj9
+ig17p9
+1
+igjm9jλigj552ig292j
+ e igj5m8ig292j
+′ igjmj5Xig292pigjj98 Xigjj65igjmj9
+ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+ 
+We see that the Figj552ig292p a re approximately same as that of obtained in the principal 
+component method with the unrotated factor loadings. Here, we have for the 
+factor scores 
+ig2869
+ig292m∑ Figj552ig292p
+ig292m
+ig292pig288pig2869igjmpm 0  (sample mean) 
+ig2869
+ig292m
+ig2879ig2869∑ Figj552ig292pFigj552ig292p
+′ig292m
+ig292p
+ig288pig2869igjmpm I (sample variance) 
+ 
+13.10.2    Weighted Least Squares Method 
+The difference between weighted least square and the ordinary least square is 
+that the squared residuals are being divided by the specific variances as shown 
+below. Let us suppose that the mean vector µ, the factor loading L, and the 
+specific variance Ψ are known for the factor model 
+   X igjj98µ igjmpm L F igjj97ε 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+24 
+Further, regard the specific factors ε′igjmpmigjm27εig2869,  εig287p, … … ,εig2926igjmj1 as errors. Since, 
+Varigm666εig2919igm667igjmpmΨig2919;  i= 1, 2,……,p, need not be equal. Bartlett [2] has suggested th at 
+weighted least squares be used to estimate the common factor values. 
+The sum of squares of the errors, weighted by the reciprocal of their variance is 
+igj5jjεig2919
+ig287p
+Ψig2919
+igjmpmigj5jjε′Ψig2879ig2869εigjmpmigm666Xigjj98µ igjj98LFigm667′Ψig2879ig2869
+ig2926
+ig292pig288pig2869
+ig2926
+ig2919ig288pig2869
+igm666Xigjj98µ igjj98LFigm667 
+ 
+ 
+(13.18) 
+The solution is given by the expression where Ψ is the diagonal matrix whose 
+diagonal elements are equal to the specific variances. 
+Figj552igjmpmigjmj5L′Ψig2879ig2869Ligjmj9
+ig2879ig2869
+L′ Ψ ig2879ig2869igm666X igjj98µigm667 
+We take the estimates Ligj552,Ψigj55j and µigj5m8 igjmpm Xigjj65  as the true values and obtain the factor 
+scores for the jth case as 
+               Figj552ig292pigjmpm igm672Ligj552′ Ψ igj55jig2879ig2869
+Ligj552igm67j
+ig2879ig2869
+Ligj552′ Ψigj55jig2879ig2869
+igjmj5Xig292pigjj98 Xigjj65igjmj9               (13.19) 
+When Ligj552 and Ψigj55j are determined by the maximum likelihood method, these 
+estimates must satisfy the uniqueness condition, Ligj552′Ψigj55jig2879ig2869
+Ligj552igjmpm∆igj55j,  a diagonal 
+matrix. 
+13.10.3   Regression Method 
+This method is used when you are calculating maximum likelihood estimates 
+of factor loadings. A vector of the observed data, supplemented by the vector 
+of factor loadings for the ith subject, is considered. 
+In factor model X igjj98µ igjmpm L F igjj97ε, we initially treat the loadings matrix L and 
+specific variance matrix Ψ is known. When the common factors F and specific 
+factors ε are jointly distributed with means and covariances, the linear 
+combination X igjj98µ igjmpm L F igjj97ε has an Nig2926igm6660 , LL′igjj97Ψigm667 distribution. Moreover, the 
+joint distribution of igm666X igjj98µigm667 and F is Nig292jig2878ig2926igm6660 ,Σig1m99igm667,  where 
+ 
+ Σig1m99igjmpmigjm29
+Σigjmpm
+LL′igjj97Ψ ig17p9 L
+… … … … … … ig17p9 … …
+L′ ig17p9 I
+igjmjj                                                      (13.20) 
+ 
+and 0 is an (m×p)×1 vector of zeros. We find that the condi tional distribution 
+of igm666F |xigm667 is multivariate normal with 
+mean = Eigm666F |xigm667igjmpm L′Σig2879ig2869igm666x igjj98µigm667igjmpm L′igm666LL′igjj97Ψigm667ig2879ig2869igm666x igjj98µigm667          (13.21) 
+and 
+    Covariance = Eigm666F |xigm667igjmpm I igjj98 L′Σigj127igj117
+L igjmpm I igjj98 L′igm666LL′igjj97Ψigm667ig2879ig2869L          (13.22) 
+The quantities L′igm666L L′igjj97Ψigm667ig2879ig2869 are the coefficients in a multivariate regression of  
+the factors on the variables. Estimates of these coefficients produce factor 
+scores that are analogous to the estimates of the conditional mean values in 
+multivariate regression analysis. Consequently, given any vector of 
+observations x j, and taking the maximum likelihood estimates Ligj552 and Ψigj55j as the 
+true values, we see that the jth factor score vector is given by 
+
+
+--- Page 24 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+25 
+-II figm6j2ig292pigjmpm Ligj552′Σigj55jig2879ig2869
+igjmj5xig292pigjj98 x igjj6migjmj9igjmpm L igj552′igjmj5Ligj552Ligj552′igjj97Ψigj55jigjmj9
+ig2879ig2869
+igjmj5xig292pigjj98 x igjj6migjmj9;         j igjmpm 1,2, … … . n         (13.23) 
+The calculation of figm6j2ig292p in equation (13.23) can be simplified by using the matrix 
+i
+dentity 
+ Ligj552′igjmj5Ligj552Ligj552′igjj97Ψigj55jigjmj9
+ig2879ig2869
+igjmpm igm672I igjj97 Ligj552′ Ψigj55jig2879ig2869
+ Ligj552igm67j
+ig2879ig2869
+Ligj552′ Ψigj55jig2879ig2869
+          (13.24) 
+T
+his identity allows us to compare the factor scores in equation (13.23), 
+generated by the regression argument, with those generated by the weighted 
+least squares method in equation (13.19). Temporarily, If we denote the former 
+by Figj552j
+R
+ and the latter by Figj552j
+L
+S
+. Then by using equation ( ), we have 
+Figj552j
+L
+S
+igjmpm igm672Ligj55j′ Ψigj55jig28791
+ Ligj55jigm67j
+ig28791
+ igm672Iigjj97Ligj55j′ Ψigj55jig28791
+ Ligj55jigm67j  Figj552j
+R
+igjmpm igjmj6Iigjj97
+igm672Ligj55j′ Ψigj55jig28791
+ Ligj55jigm67j
+ig28791
+igjmmp Figj552j
+R
+         (13.25) 
+F
+or maximum likelihood estimates igm672Ligj55j′ Ψigj55jig28791
+ Ligj55jigm67j
+ig28791
+igjmpm∆igj55jig28791
+ and if the elements of 
+t
+his diagonal matrix are close to zero, the regression and generalized least 
+squares methods will give nearly the same factor scores. 
+There may be made an attempt to reduce the effect of a incorrect determination 
+of the number of factors, to calculate the factor scores in equation (13.23) by 
+using S (the sample covariance matrix) instead of  Σigj55jigjmpmLigj55j Ligj55j′
+igjj97Ψigj55j.  Then we have 
+the following results: 
+ figm6j2jigjmpmLigj55j′
+Sig28791igjmj5xjigjj98xigjj6migjmj9;         jigjmpm1,2, … … .n           (13.26) 
+or, if a correlation matrix is factored 
+ figm6j2jigjmpmLigj55jz
+′
+ Rig28791zj;               jigjmpm1,2,
+ … … .n            (13.27) 
+where 
+ zjigjmpmDig28791 2⁄  igjmj5xjigjj98xigjj6migjmj9   and     ρigj5m8 igjmpmLigj55jz Ligj55jz
+′
+igjj97Ψigj55jz 
+A
+gain, if rotated loadings Ligj55jig1m99
+igjmpmLigj55j T are used in place of the original loadings in 
+eq (13.26), the subsequent factor scores figm6j2j
+ig1m99
+ are related to figm6j2j by 
+figm6j2j
+ig1m99
+igjmpmT′figm6j2j ;            jigjmpm1,2, … . . ,n 
+A numerical measure between the factor scores generated from two different 
+calculation methods is provided by the sample correlation coefficient between 
+scores on the same factor. 
+Source: Adapted from Applied multivariate statistical analysis by Johnson R.A. and Wichern 
+D.W. (2002) 
+Check Your Progress 2 
+1) The correlation matrix for chicken- bone measurements is 
+ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m11.000
+.505 1.000
+.569 .422 1.000
+.602 .467 .926 1.000
+.621 .482 .877 .874 1.000
+.603 .450 .878 .894 .937 1.000ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+ 
+The following estimated factor loadings were extracted by the maximum 
+likelihood procedure: 
+
+
+--- Page 25 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+26 
+Variable Estimated 
+factor loadings 
+Varimax rotated 
+estimated factor loadings 
+ F1 F 2   F1
+ig1m99 F1
+ig1m99 
+Skull length .602 .200 .484 .411 
+Skull breadth .467 .154 .375 .319 
+Femur length .926 .143 .603 .717 
+Tibia length 1.000 .000 .519 .855 
+Humerus length .874 .476 .861 .499 
+Ulna length .894 .327 .744 .594 
+Using the unrotated estimated factor loadings, obtain the maximum 
+likelihood estimates of the following: 
+a) The specific variances 
+b) The communalities 
+c) The proportion of variance explained by each factor 
+d) The residual matrix R igjj98Ligj55jz Ligj55jz
+′
+igjj98Ψigj55jz 
+………………………………………………………………………… 
+………………………………………………………………………… 
+………………………………………………………………………… 
+………………………………………………………………………… 
+………………………………………………………………………… 
+………………………………………………………………………… 
+1) F
+rom the above exercise 1, Compute the value of the varimax criterion 
+using both unrotated and rotated estimated factor loadings Also interpret 
+the result. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) The following table provides data of the Students entering in a certain 
+MBA program must take three required courses in Finance, Marketing and 
+Business policy. Let X 1, X 2, and X 3, respectively, represent a student's 
+grades in these courses. The available data consist of the grades of five 
+students (in a 10-point numerical scale above the passing mark), as shown 
+in Table 13.1. Using an appropriate statistical package (SPSS, Minitab, 
+SAS etc) run a factor analysis and interpret the results. 
+
+
+--- Page 26 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+27 
+-II Table: 13.1: Students Grade 
+ig1781ig1818ig18p1ig18pmig18p5 ig18p9ig181m igm666ig1j72igm667 
+Student No.igm666ig1j7jigm667 
+Finance (X1) Marketing (X 2) Business Policy 
+(X3) 
+1 3 6 5 
+2 7 3 3 
+3 10 9 8 
+4 3 9 7 
+5 10 6 5 
+(Example adapted from Peter Tryfos, 1997, version printed: 14-3-2001). 
+13.11 LET US SUM UP 
+Factor analysis is something like an art. Factor analysis is used to study the 
+patterns of relationship among many dependent variables to have an idea about 
+the nature of the independent variables not measured directly. 
+Factor analysis is used to identify latent constructs or factors. It is commonly 
+used to reduce variables into a smaller set factors to save time and facilitate 
+easier interpretations. There are many extraction techniques such as Principal 
+component method and Maximum Likelihood. The factor analysis and the 
+principal component analysis are among the oldest of the multivariate 
+statistical methods of data reduction. Mathematically, factor analysis is 
+complex and the criteria used to determine the number and significance of 
+factors are vast. There are two types of rotation techniques – orthogonal 
+rotation and oblique rotation. Orthogonal rotation (e.g., Varimax and 
+Quartimax) involves uncorrelated factors whereas oblique rotation (e.g., Direct 
+Oblimin and Promax) involves correlated factors. The interpretation of factor 
+analysis is based on rotated factor loadings, rotated eigenvalues, and scree test. 
+In reality, investigators often use more than one extraction and rotation 
+technique based on pragmatic reasoning rather than theoretical reasoning. 
+13.12 KEY WORDS 
+Communality : It shows the variance of an observed variable 
+accounted for by the common factors; in an 
+orthogonal factor model. It is equivalent to 
+the sum of the squared factor loadings. 
+Common Factor : It implies the unmeasured (or hypothetical) 
+underlying variable which is the source of 
+variation in at least two observed variables 
+under consideration. 
+Confirmatory Factor 
+Analysis (CFA) 
+: This technique of the factor analysis attempts 
+to confirm hypotheses and uses path analysis 
+diagrams to represent variables and factors. 
+Exploratory Factor 
+Analysis (EFA) 
+: The Exploratory Factor Analysis technique 
+tries to uncover complex patterns by 
+exploring the dataset and testing predictions. 
+
+
+--- Page 27 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+28 
+Diagonal Matrix : It is a square matrix in which the entries 
+outside the main diagonal are all zero. 
+Eigenvalue 
+(characteristic root) 
+: It is a mathematical property of a matrix; used 
+in relation to the decomposition of a 
+covariance matrix, both as a criterion of 
+determining the number of factors to extract 
+and a measure of variance accounted for by a 
+given dimension. 
+Eigenvector : It is a vector associated with its respective 
+eigenvalue; obtained in the process of initial 
+factoring; when these vectors are appropriately 
+standardized, they become factor loadings. 
+Factor Extraction : It is the initial stage of factor analysis in 
+which the covariance matrix is resolved into a 
+smaller number of underlying factors or 
+components. 
+Factors : It implies hypothesized, unmeasured, and 
+underlying variables which are presumed to 
+be the sources of the observed variables; often 
+divided into unique and common factors. 
+Factor Loading : It is a general term referring to a coefficient in 
+a factor pattern or structure matrix. 
+Factor Pattern Matrix : It refers to a matrix of coefficients where the 
+columns usually refer to common factors and 
+the rows to the observed variables; elements 
+of the matrix represent regression weights for 
+the common factors where an observed 
+variable is assumed to be a linear combination 
+of the factors; for an orthogonal solution, the 
+pattern matrix is equivalent to correlations 
+between factors and variables. 
+Kaiser criterion : I
+ n this criterion, first we can retain only 
+factors with eigenvalues greater than 1 when 
+factors are calculated from correlation matrix. 
+In essence this is like saying that, unless a 
+factor extracts at least as much as the 
+equivalent of one original variable, we drop it. 
+This criterion was proposed by Kaiser (1960), 
+and is probably the one most widely used. 
+Orthogonal Factors : I t indicates the factors that are not correlated 
+with each other; factors  obtained through 
+orthogonal rotation. 
+Orthogonal Rotation : It refers to the operation through which a 
+simple structure is sought under the restriction 
+that factors be orthogonal (or uncorrelated); 
+factors obtained through this rotation are by 
+definition uncorrelated. 
+Principal Axis : It is a method of initial factoring in which the 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+29 
+-II Factoring adjusted correlation matrix is decomposed 
+hierarchically; a principal axis factor analysis 
+with iterated commonalities leads to a least 
+squares solutions of initial factoring. 
+Principal Components : It reflects linear combinations of observed 
+variables, possessing properties such as being 
+orthogonal to each other, and the first 
+principal component representing the largest 
+amount of variance in the data, the second 
+representing the second largest and so on; 
+often considered variants of common factors, 
+but more accurately they are contrasted with 
+common factors which are hypothetical. 
+Scree Test : It is a rule of thumb criterion for determining 
+the number of significant factors to retain; it 
+is based on the graph of roots (eigenvalues); 
+claimed to be appropriate in handling 
+disturbances due to minor (unarticulated) 
+factors. 
+Varimax : It is a method of orthogonal rotation which 
+simplifies the factor structure by maximizing 
+the variance of a column of the pattern matrix.
+ 
+13.13 SOME USEFUL BOOKS 
+1) Anderson, T. W. (1984); An Introduction to Multivariate Statistical 
+Analysis, John Wiley & Sons, Second Edition. 
+2) Bartlett, M.S. (1954); A note on Multiplying factors for various Chi-
+squared Approximations, Journal of the Royal Statistical Society, 16, 296-
+298. 
+3) Johnson R.A., & Wichern D. W. (2002); Applied Multivariate Statistical 
+Analysis, Pearson Education, Inc. 
+4) Johnson, Dallas E. (1998); Applied Multivariate Methods for Data 
+Analysis, International Thomson Publishing Inc. 
+5) Kaiser, H.F. (1958); The Varimax criterion for analytical rotation in factor 
+analysis, Psychometrica, 23, 187-200. 
+6) https://onlinecourses.science.psu.edu
+ 
+7) https://en.wikipedia.org/wiki/Factor_Analysis 
+8) http://www.researchgate.net/file.PostFileLoader.html?id=53c50b3fd5a3f21
+40c8b465e&assetKey=AS%3A271747469774848%401441801053551. 
+13.14 ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1  
+1) See Section 13.1  
+2) See Section 13.4  
+
+
+--- Page 29 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+30 
+3) See Section 13.4 
+4) See Section 13.4  
+ Check Your Progress 2  
+1) See Section 13.6  
+2) See Section 13.7 
+3) Hints: How to run Factor Analysis in SPSS? 
+After opening the SPSS windows sheet in your computer system, the 
+following are the steps which can be used for performing, evaluating and 
+analyzing the factor analysis solution: 
+Step 1 :  Feed the entries in the SPSS work sheet. 
+Step 2 :  Go to “Analyze” in the menu available at the top of the window 
+screen. 
+Step 3 :  Click on “Data Reduction” 
+Step 4 :  Click on “Factor” 
+Step 5 :  Click on “Extraction” and select “principal axis factoring” and 
+press “Continue” 
+ Step 6 :  Click on “OK” 
+13.15 EXERCISES 
+1) What do you understand by the Factor score? Describe the different 
+methods for the estimation of factor score. 
+2) Write a short note on Factor rotation and Oblique rotation. 
+3) What do you understand by the methods of estimation? Describe in details, 
+the principal component and maximum likelihood methods. 
+4) With suitable example, explain communality in context to factor analysis. 
+5) Define the following terms: 
+a) Correlation matrix 
+b) Specific variance 
+c) Factor loadings 
+d) Specific factors 

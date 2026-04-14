@@ -1,0 +1,449 @@
+--- Page 63 ---
+63
+Debates on Models of
+Explanation in Economics
+independent contribution suggested that testing of assumptions as such was not
+an important issue. However, such a proposition did lead to much controversy as
+we shall see in the next section.
+4.5 MILTON FRIEDMAN AND
+INSTRUMENTALISM IN ECONOMICS
+Milton Friedman’s “The Methodology of Positive Economics”, the lead article
+in his book Essays in Positive Economics (1953), is among the best-known pieces
+of methodological writings in economics. For over two decades the
+methodological prescriptions advanced in his essay became widely accepted
+among many working economists, in spite of wide controversy it generated.
+Rightly, as observed by Caldwell, it was a remarkable masterpiece of marketing
+certain notions of explanation as the basis of the methodology of positive
+economics. In what follows, we shall discuss in brief Friedman’ s contribution
+including some of the major points of criticism. Friedman sets out by stating that
+the purpose of his essay is to counter criticism of two pillars of neo-classical,
+economics viz.,1) the maximization behaviour and 2) The model of perfect
+competition. He goes on to establish the methodological foundations of neo-
+classical economics by posting his own version of positivism which later came
+to be branded as “instrumentalism”.
+4.5.1 Goal of Science
+According to Milton Friedman, the ultimate goal of positive science “is the
+development of a ‘theory’ or ‘hypothesis’ that yields valid and meaningful
+…..predictions about the phenomenon”. The criteria for acceptability of theory
+or hypothesis are three:
+1) that theory / hypothesis be logically consistent and contain categories
+which have meaningful empirical counterparts;
+2) that there are ‘substantive hypotheses’ which are testable; and
+3) that “the only relevant test of the validity of a hypothesis is comparison of
+its predictions with experience”.
+Further, when an infinite number of hypotheses generally consistent with an
+observed set of facts generally exist, other criteria-simplicity and fruitfulness-be
+invoked to chose among competing hypotheses.
+4.5.2 Relationship Between Significance of Theor y and
+‘Realism’ of Assumptions
+Friedman is critical of those who instead of testing a theory for predictability, try
+to evaluate theory by the ‘realism of their assumptions? For Friedman, disparaging
+a theory for having ‘unrealistic assumptions’ is ridiculous. He tries to show that
+most significant theories are actually characterized by descriptively inaccurate
+assumptions. He observes: “Truly important and significant hypotheses will be
+found to have “assumptions” that are widely inaccurate, descriptive
+representations of reality, and, in general, the mor e significant the theor y, the
+more unrealistic the assumptions”. (emphasis added).
+
+
+--- Page 64 ---
+64
+Research Methodology:
+Issues and Perspectives
+Realism of assumptions does not matter except when certain hypotheses are
+derived from assumptions, and when there is no test available, realist description
+is in order. With these two exceptions, realism of assumptions do not matter for
+the following reasons:
+1) Theory is supposed to lead to simplification of complex reality by abstraction.
+There is inverse relationship between realism and abstraction. The more
+realism one insists upon, the more abstract and the complex the explanation.
+2) The uninformativeness of knowledge of discrepancies between assumptions
+and facts, makes one to treat realism of assumptions as of no importance.
+He cites the example of Galileo’s Law of Falling Bodies:
+“If a body falls toward the earth in vacuum, its instantaneous acceleration is
+constant, s =½gt2. The realism of vacuum need not be tested. Since the
+prediction is true, then the assumption be treated as if true. Turning to
+economic theory, Friedman cites the “Billiard Ball Player” example and
+where once the ball reaches the pouch one could assume as if the player
+knew all the laws of time and motion and extends it to profit maximization:
+‘under behave as if they were seeking rationally to maximize their expected
+returns……and have full knowledge of the data needed to succeed in this
+attempt”.
+3) The presence of ‘undesigned’ classes of implications can be avoided by as
+if assumption.
+Milton Friedman concludes his essay by asserting unity of method in all positive
+sciences. For him there are no methodological differences between natural and
+social sciences. He regards economics as “objective” as physical sciences. His
+main conclusions are:
+1) that realism of assumptions is “largely” irrelevant to validation of theories,
+which ought to be judged ‘almost’ solely in terms of their instrumental value
+in generating accurate predictions.
+2) standard economic theory has an excellent predictive record as judged by
+countless application to specific problems.
+3) the dynamics of competition over time accounts for this splendid track record.
+4.5.3 Critical Appraisal of Friedman’s Instrumentalism
+Milton Friedman’s methodological approach is criticized widely . The major
+criticism relates to the proposition that realism of assumptions does not matter.
+Friedman’s assertion that not only the realism of assumptions is necessary but
+“in general, the more significant the theory, the more unrealistic the assumptions”
+is called by Samuelson as a flamboyant exaggeration, as the extreme version of
+“F-Twist” (meaning Friedman-Twist). It is one thing to say that proving realism
+of all assumptions is dif ficult, but altogether dif ferent to say that further the
+assumptions move away from realism, closer is the theory to predictions. Even
+Fritz Machlup, L. Qsoland and Nagel, who were generally in defence of
+Friedman’s methodology, would insist on the realism of at least second order
+assumptions. It is pointed out that direct evidence about assumptions is not
+
+
+--- Page 65 ---
+65
+Debates on Models of
+Explanation in Economics
+necessarily more dif ficult than testing a theory . Test assumptions may yield
+important insights into the theory . Caldwill points out that philosophically ,
+Friedman’s insistence on prediction not explanation may result in correlation
+not causation, i.e., it may result in “measurement without theory”. Blaug points
+out that accurate predictions are not the only relevant test of the validity of a
+theory and it would be impossible to distinguish between genuine and spurious
+correlations. Further, Friedman’s instrumental attitude to theories, ignores ‘truth
+value’ of theories as many philosophers of science would insist upon.
+Check Your Progress 2
+1) Identify the important features of methodological view point of L. Rabins.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) What is the important contribution of Hutchison in the area of logical
+empiricism?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3) Which criteria have been laid down by Milton Friedman for acceptability of
+theory or hypothesis?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+4) Identify the basis of the major criticism against Friedman’s instrumentalism
+proposition.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+4.6 PAUL SAMUELSON AND OPERATIONALISM
+Paul Samuelson’s methodological contribution, though not comparable to his
+substantial work in economic theory, does offer certain insights into the turn of
+economics towards logical empiricism. Samuelson is against a priorism. He is
+more akin to logical empiricism of Hutchison’s kind. He does show the influence
+of Popper’s variety of ‘rational reconstruction’. His contribution to economic
+methodology could be seen in terms of two theses, which he advances. One has
+come to be described as ‘operationalism’ and the other as ‘descriptivism’. W
+e
+shall elaborate these two theses.
+
+
+--- Page 66 ---
+66
+Research Methodology:
+Issues and Perspectives 4.6.1 Operationalism
+According to him, economists should seek to discover ‘operationally meaningful
+theorems’. Theories are strategically simplified description of observable and
+refutable empirical regularities. He begins with the criticism of Friedman for the
+latter ’s F-T wist on realism of assumptions and emphasizes the need for
+methodological clarity. He proposes the thesis of “logical equivalence” as the
+basis for methodological consistency. According to “logical equivalence:, theories
+are merely equivalent restatements of assumptions and conclusions, i.e., A=B=C,
+where A is defined as ‘assumptions’, B is defined as theory and C as consequences
+or predictions.
+Theory (B) consists of “a set of axioms, postulates or hypotheses that stipulate
+something about observable reality… “ The set is either confirmable or refutable
+in principle by observation. A theory has a set of consequences (C) which are
+logically implied by theory, and a set assumptions (A) which logically implies
+the theory. The degree of “realism”, “factual conrrectness”, “empirical validity”
+or “truth” of any one of A,B,C is shared by the other two. Referring to ‘F-Twist’,
+he observes first, it is a contradiction to maintain all consequences (C) are valid
+and the theory (B) and the assumptions (A) are not valid. Second, it is absurd to
+maintain, in case where only some of the consequences (C) are valid, that the
+theory (B) and assumptions (A) are important though invalid. The part of the
+theory set and assumptions set corresponding to the invalid part of the
+consequence set should be eliminated.
+4.6.2 Descriptivism
+Samuelson has certain exalted view of explanation, which he considers different
+from the usual notion in science. He observed, “scientists never” explain” any
+behaviour, by theory or any other hook. Every description that is superseded by
+a “deeper explanation” turns out …to have been replaced by still another
+description ….” An explanation, as used legitimately in science, is a better kind
+of description and not something that goes ultimately beyond description. It is
+this emphasis and elaboration of ‘description’ that earns Samuelson’s approach
+the title of ‘descriptivism’. Why only description? First, a theory is just description
+of observable experience, a convenient mnemonic representation of empirical
+reality. Second, knowledge consists essentially of observational reports. A theory
+expressible in observational language is superior to those which are not.
+Explanations are ultimate. Apriorisms must be avoided; hence theories should
+be expressed in observational language. All known theories in science are
+expressible in terms of observational statements, i.e., basic statements.
+Samuelson is criticized for not practicing what he preaches methodologically .
+Machlup, citing Samuelson’s famous work on ‘factor price equalisation’, accuses
+him for not following his own norm of deriving “operationally meaningful
+theorem” based on unrealistic assumptions. Another famous criticism is that of
+Stanley Wong’s against the methodological foundations of Samulson’s revealed
+preference theory.
+
+
+--- Page 67 ---
+67
+Debates on Models of
+Explanation in Economics4.7 THEORY – ASSUMPTIONS DEBATE IN
+ECONOMICS: A LONG VIEW
+The spectacular advance of modern science is usually attributed very largely to
+the development of deductively related statements known as theories. Theories
+in science brought improvements in order and clarity , broadened the scope of
+generalizations and scored extraordinary predictive success. However, economic
+theory does not command as much respect as theories in physical sciences. Ever
+since the classical economics, there has been criticism of unrealistic assumptions
+of economic theory. There have been reasoned replies from time to time. Jack
+Melitz (1965), in one of his classic papers on the theory – assumptions controversy,
+provides an account of the response to the criticism since late Twentieth century.
+Here is a brief summary, which helps us to understand the problems of explanation
+that persist in economics.
+During 1880-1920 advocates of economic theory adopted a moderate and
+conciliatory stance. They agreed that economic theory made false assumptions,
+and admitted that the value of the theory depended greatly on the degree of
+accord between the assumptions and the facts. Yet they insisted, first, that the
+assumptions did correspond broadly with events. Second sacrifice of some
+accuracy for simplicity was justified in view of complexity of reality . Further,
+they emphasized importance of combining the use of simplifying assumptions
+with protective measures:
+1) The need to pursue more inductive studies in all areas of economics.
+2) The determination of reasonable proximity between major assumptions and
+facts before application of economic theory.
+3) The alteration of assumptions to suit the particular case involved.
+During 1920s and 1930s with notable advance of purely logical branch of
+economics, the advocates of economic theory lost appeal. The practitioners of
+economic theory with the support of Robbins and the Austrians turned to a
+priorism. There was a stance that economic theory is its own reward.
+In 1948-1953, as we have seen earlier, Milton Friedman tried to supply a logical
+foundation for the developing attitude that the realism of assumptions is not a
+genuine, or only a secondary concern. False assumptions in economics do not
+result in a handicap. Assumptions must simply work, and yield reliable results.
+The criticism that assumptions in economics do not correspond with facts is
+besides the point. In 1955 Firtz Machlup joined forces with Friedman, claiming
+to bring with him the support of experts in the philosophy of science and the
+whole tradition of political economy. The result is that economics continues to
+live with a certain methodological inadequacy. The other reasons for this disquiet
+in explanation in economics are summed up in the next section.
+4.8 AMARTYA SEN ON HETEROGENEITY  OF
+EXPLANATION IN ECONOMICS
+By now it is clear that explanation in economics is nowhere near being in a
+satisfactory state. In a broad based critique of contemporary economic
+
+
+--- Page 68 ---
+68
+Research Methodology:
+Issues and Perspectives
+methodology, Amartya Sen (1989) draws attention to the heterogeneity of the
+subject matter of economics. Any attempt to think of mono-method for all the
+diverse concerns of economics is bound to cause the kind of disquiet that we
+experience today . He cogently ar gues for heterogeneity of methodological
+approaches in economics.
+4.8.1 Heterogeneity of Substance and Methods of Economics
+According to Sen, economics as a subject is concerned with many different types
+of problems. The diversity of the discipline of economics should be kept in view
+to achieve an adequate grip on the methodological issues in the subject. The
+subject of economics includes three diverse, though interrelated, exercises:
+1) Predicting the future and causally explaining the past events.
+2) Choosing appropriate descriptions of states and events in the past and the
+present, and
+3) Providing normative evaluations of states, institutions, and policies.
+These exercises are interrelated but each requires a dif ferent methodological
+approach. For instance, the method of scientific explanation that insists on
+prediction is concerned only with the first set of exercises. The ‘methodology of
+economics’ has to admit enough diversity to be able to deal with other classes of
+problems as well.
+4.8.2 Testing and Verification
+Testing and Verification are important for many types of economic analyses since
+they are concerned with causal relationships and with making predictions. But
+these are not suitable for all economic theories. For instance evaluative exercises
+are not open to testing. Normative evaluation is a different discipline from that
+of making predictions on the basis of causal hypotheses. Similarly , some
+descriptive propositions do not have predictive content, and “testing” would be
+the wrong operation to seek. As far as causal theories are concerned, the need for
+testing them with empirical information is fairly accepted in principle by
+economists. Conceptual and analytical issues need to be explored very
+substantially to understand what types of relationships might be involved.
+Analyses at this stage are not meant for testing and verification. Of course, one
+should not end at this stage and move up to the next where testing is possible.
+4.8.3 Value Judgments and Welfare Economics
+Sen draws attention to the fact that following Robbins value judgments are kept
+out of economics. “The decision to keep economics ‘value-free’ would, of course,
+militate against the subject of welfare economics as such”. Welfare economics
+still is accepted as important and in this domain to keep economics value-free
+may not be a value that would be appreciated. In evaluative exercises in welfare
+economics descriptive methods becomes indispensable.
+4.8.4 Formalisation and Mathematics
+Mathematics helps to an extent in formal reasoning and helped in systematization
+of many economic propositions. However, there are severe limitations of formal
+language of mathematics. Not all economic propositions can be reduced into
+mathematics. Lack of balance often has resulted in certain degree of over -
+
+
+--- Page 69 ---
+69
+Debates on Models of
+Explanation in Economics
+formalization of economics. While recognizing the positive contribution of
+mathematics in lending rigour to certain economic propositions, the negative
+contribution is through over concentration on mathematics to the exclusion of
+other disciplines. Such excesses of formalization need to be corrected.
+Check Your Progress 3
+1) What do you mean by the term ‘logical equivalence’?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) Do you agree that different methodological approaches are needed in
+Economics?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3) To what extent mathematics should be allowed to use in systematization
+of economic proposition?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+4.9 LET US SUM UP
+Keeping in view that the subject matter of economics is complex and
+heterogeneous, any single model of explanation is bound to face serious
+limitations. Yet there has been an ambition in the profession from the times of
+classical political economy, which has turned towards a kind of arrogance that
+economics is a science like any physical sciences and should conform to the rule
+of one methodological approach, viz., logical positivism. This has been subjected
+to severe criticism on its limitations.
+The mainstream economics is not able to come out of this obsession “It is about
+the one methodological rule which has dominated economics since early 1960s.
+The rule at issue is the methodological requirement that economic models or
+theories, if they are going to be given serious consideration by practicing
+economists, must be shown to be testable, where successful test of theory is
+defined as a falsification of that theory. A testable theory is a falsifiable theory”.
+The exploratory lesson on explanation that we had should help a student of
+economics to move out of this obsession. It is not that abandon testing but we
+must abandon the habit of considering evaluation, description, and even advocacy
+as not being part of pursuing knowledge in economics. Heterogeneity of
+economics needs diversity of approaches if the disquiet of disaf fection that
+pervades economics is to be overcome.
+
+
+--- Page 70 ---
+70
+Research Methodology:
+Issues and Perspectives 4.10  KEY WORDS
+Determinism : A term used to describe an ar gument or
+methodology that simply reduces casuality to a
+single set of factors acting more or less directly
+to produce outcomes.
+Hypothesis : Hypothesis refers to a tentative statement that can
+be tested by applying the methods of particular
+science.
+Empiricism : Empiricism is generally regarded as being at the
+heart of the modern scientific method that our
+theories should be based on our observations of
+the world rather than on intuition or faith; that is,
+empirical research and a posteriori inductive
+reasoning rather than purely deductive logic.
+Ideology : A systematic body of concepts about human life
+or culture; a manner or the content of thinking
+characteristic of an individual or group or culture;
+also refers to the integrated assertion and theories
+that constitute a socio-political programme.
+Methodological Dualism : Referring to positivist belief in separation of the
+knower from the known or of the subject from
+object.
+Methodological Monism : In contrast to the compartmentalization of
+dualism,  monism views the world as a “seamless
+web”. In terms of Gouldner ’s ar gument, the
+separation between the knower and the known
+must be overcome.
+Nomothetic : Relating to discovery of general laws or relating
+to the discovery of universal law.
+Pseudo Science : Pseudo science refers to any body of knowledge
+or practice, which purports to be scientific or
+supported by science but which is judged to fall
+outside the domain of science.
+4.11 SOME USEFUL BOOKS
+Blaug, Mark (1980); Methodology of Economics, Cambridge Univeristy Press,
+Cambridge.
+Caldwell, Bruce (1982); Beyond Positivism: Economic Methodology in the
+Twentieth Centrury, George Allen and Unwin, London.
+Friedman, Milton (1953); Essays in Positive Economics, University of Chicago
+Press, Chicago.
+
+
+--- Page 71 ---
+71
+Debates on Models of
+Explanation in Economics
+Hausman, Daniel M. (1994); The Philosophy of Economics: An Anthology,
+Cambridge University Press, Cambridge, 2nd Edition.
+Melitz, Jack (1965); “Friedman and Machlup on the Significance of Testing
+Economic Assumptions”, Journal of Political Economy, pp.37-60.
+Sen, Amartya (1989); “Economic Methodology: Heterogeneity and Relevance”,
+Social Research, Vol.56, No.2 (Summer 1989), pp. 299-329.
+4.12 ANSWERS OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+Check Your Progress 1
+1) Positive, abstract and deductive briefly called hyupothetico-deductive
+model of explanation.
+2) See Sub-section 4.2.2.
+3) Methodological pluralism refers to comprehensive reconciliation of different
+methods and acceptance of the idea that different methods are appropriate
+depending upon the object in view, the stage of investigation reached and
+the material available.
+Check Your Progress 2
+1) Stress on pure theory bases on a priori truth of experience and without any
+need for testing, no room for ethical consideration, rationality as maximizing
+behaviour and as consistency of choice.
+2) The insistence of testing both theory as well as assumptions.
+3) See Sub-section 4.5.1
+4) The proposition that realism of assumption does not matter.
+Check Your Progress 3
+1) Theories are merely equivalent restatements of assumptions and conclusions.
+2) See Section 4.8
+3) See Sub-section 4.8.4
+
+
+--- Page 72 ---
+72
+Research Methodology:
+Issues and Perspectives UNIT 5 FOUNDATIONS OF  QUALIT ATIVE
+RESEARCH: INTERPRET ATIVISIM
+AND CRITICAL THEORY PARADIGM
+Structure
+5.0 Objectives
+5.1 Introduction
+5.2 Interpretive Paradigm
+5.3 Critical Theory Paradigm
+5.4 Applications in Research: Illustrative Cases
+5.5 Let Us Sum Up
+5.6 Exercises
+5.7 Key Words
+5.8 Some Useful Books
+5.9 Answers or Hints to Check Your Progress Exercises
+5.0 OBJECTIVES
+This unit introduces the two widely used and well-established paradigms namely,
+interpretive and critical theory. Unlike post-positivism, these paradigms are the
+pillars of qualitative research. After going through this unit, you will be able to:
+• describe the essence of interpretive and critical theory paradigm;
+• discuss their theoretical framework;
+• elucidate the nature of reality and methodology underlying these two
+paradigms; and
+• state the examples and applications of interpretive and critical theory
+paradigm in economics.
+5.1 INTRODUCTION
+As has been discussed earlier in Unit 1, you have come to know that a paradigm
+essentially refers to a comprehensive belief system or theoretical framework/
+world view that guides research and practice in a particular field. At its basic
+level, it has a philosophy of science that makes a number of fundamental
+assumptions about the nature of truth and what it means to know . Unlike
+positivism, that is based on empiricism and deductive reasoning for verification
+of truth, interpretive and critical theory paradigms are based on subjectivism
+and substantialism for the search of truth. The underlying ontological and
+epistemological assumptions of interpretitivism and critical theory paradigms
+have been discussed in the subsequent sections. It is important to note that these
+two paradigms form the backbone of philosophical science of qualitative research.

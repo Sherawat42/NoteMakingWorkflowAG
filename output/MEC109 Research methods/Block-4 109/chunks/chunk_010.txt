@@ -1,0 +1,624 @@
+--- Page 90 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+91 
+-II • Maximum likelihood (ML) is usually the default method in most programs 
+because it yields the most precise (smallest variance) estimates when the 
+data are normal. 
+• Generalized least squares  (GLS) has the same optimal properties as ML 
+under normality. 
+• The asymptotically distribution free (ADF) method has no distributional 
+assumptions and hence is most general, but it is impractical with many 
+variables and inaccurate without very large sample sizes. 
+Satorra and Bentler (1988, 1994, and 2001) and Satorra (2000) also developed 
+an adjustment for non-normality that can be applied to the ML, GLS, or EDT 
+chi-square test statistics. Briefly, the Satorra–Bentler scaled χ2 is a correction 
+to the χ2 test statistic (Satorra & Bentler, 2001). EQS also corrects the standard 
+errors for parameter estimates to adjust for the extent of non-normality (Bentler 
+& Dijkastra, 1985). 
+Sample size and plausibility of the normality and independent assumptions 
+must be considered while choosing the suitable estimation technique. ML, the 
+Scaled ML, or GLS estimators may be good choices with medium (over 120) 
+to large samples and evidence of the plausibility of the normality assumptions. 
+ML estimation is currently the most frequently used estimation method in 
+SEM. In medium (over 120) to large samples the scaled ML test statistic is a 
+good choice with non-normality or suspected dependence among factors and 
+errors. In small samples (60 to 120) the Yuan–Bentler test statistic appears 
+best. The test statistic based on the ADF estimator (without adjustment) is 
+inappropriate choice under all conditions unless the sample size is very large (> 
+2,500).  
+17.10.3   Model Evaluation 
+A central issue addressed by SEM is how to assess the fit between observed 
+data and the hypothesized model ideally operationalized as an evaluation of the 
+degree of discrepancy between the true population covariance matrix and that 
+implied by the model’s structural and non structural parameters. As the 
+population parameter values are rarely identified, the difference between an 
+observed, sample-based covariance matrix and that implicit by parameter 
+estimates must serve to approximate the population discrepancy. The observed 
+data will fit the model perfectly for a just identified model. The system of 
+equations expressing each model parameter as a function of the observed 
+(co)variances is uniquely solvable; thus, the sample estimate of the model-
+implied covariance matrix will, by default, equal the sample estimate of the 
+population covariance matrix. However, if a model is over identified, it is 
+unlikely that these two matrices are equal as the system of equations 
+(expressing model parameters as functions of observed variances and 
+covariances) is solvable in more than a single way. 
+Abiding by a universal desire for parsimony, over identified models tend to be 
+of more substantive interest than just identified ones because they characterize 
+simpler potential explanations of the observed associations. While data-model 
+fit for such models was initially conceived as a formal statistical test of the 
+discrepancy between the true and model-implied covariance matrices, such a 
+test now is often viewed as overly strict given its power to detect even trivial 
+deviations of a proposed model from reality. Hence, many alternative 
+
+
+--- Page 91 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+92 
+assessment strategies have emerged and continue to be developed. Data-model 
+fit indices for such assessment can be categorized roughly into three broad 
+classes: 
+• Absolute indices assess the overall discrepancy between observed and 
+implied covariance matrices; fit improves as more parameters are added to 
+the model and degrees of freedom decrease: for example, the standardized 
+root mean square residual (SRMR), the chi-square test(recommended to be 
+reported mostly for its historical significance), and the goodness-of-fit 
+index (GFI). 
+• Parsimonious indices assess the overall discrepancy between observed and 
+implied covariance matrices while taking into consideration a model’s 
+complexity; fit improves as more parameters are added to the model, as 
+long as those parameters are making a useful contribution: for example, the 
+root mean square error of approximation(RMSEA) with its associated 
+confidence interval, the Akaike information criterion (AIC) for fit 
+comparisons across non-nested models, and the adjusted goodness-of-fit 
+index (AGFI). 
+• Incremental indices  assess absolute or parsimonious fit relative to a 
+baseline model, usually the null model (a model that specifies no relations 
+among measured variables): for example, the comparative fit index (CFI), 
+the normed fit index (NFI), and the non-normed fit index (NNFI). 
+SEM software programs routinely report a handful of goodness-of-fit indices. 
+Some of these indices work better than others under certain conditions. It is 
+generally recommended that multiple indices be considered simultaneously 
+when overall model fit is evaluated. For instance, Hu and Bentler (1999) 
+proposed a 2-index strategy that is, reporting SRMR along with one of the fit 
+indices (e.g., RNI, CFI, or RMSEA). The authors also suggested the following 
+criteria for an indication of good model-data fit using those indices: RNI (or 
+CFI) ≥ .95, SRMR ≤ .08, and RMSEA ≤ .06. Despite the sample size 
+sensitivity problem with the chi-square test, reporting the model chi-square 
+value with its degrees of freedom in addition to the other fit indices is 
+recommended. If, after considering several indices, data model fit is deemed 
+acceptable (and judged best compared to competing models, if applicable),the 
+model is reserved as rational, and individual parameters may be interpreted. If, 
+however, evidence suggests unacceptable data-model fit, the next and often 
+final stage in the SEM process is considered: modifying the model to improve 
+fit in hopes of also improving the model’s correspondence to reality. 
+17.10.4   Model Modification 
+Any hypothesized model is only an approximation to reality; the question 
+remains is one of degree of that misspecification. With regard to external 
+specification errors—when irrelevant variables are included in the model or 
+substantively important ones remain left out—remediation can only occur by 
+respecifying the model based on more relevant theory. On the other hand, 
+internal specification errors—when unimportant paths among variables were 
+included or when important paths were omitted—can potentially be diagnosed 
+and remedied using Wald statistics (predicted increase in chi-square if a 
+previously estimated parameter were fixed to some known value, e.g., zero) 
+and Lagrange multiplier statistics (also referred to as modification indices; 
+estimated decrease in chi-square if a previously fixed parameter were to be 
+estimated).  All are asymptotically equivalent under the null hypothesis but 
+
+
+--- Page 92 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+93 
+-II approach model modification differently. As these tests’ recommendations are 
+directly motivated by the data and not by theoretical considerations, any 
+resulting respecifications must be viewed as exploratory in nature and might 
+not lead to a model that resembles reality any more closely than the one(s) 
+initially conceptualized. 
+Chi-square difference test 
+If models are nested, that is, models are subsets of each other, the χ2 value for 
+the larger model is subtracted from the χ2 value for the smaller, nested model 
+and the difference, also χ2, is evaluated with degrees of freedom equal to the 
+difference between the degrees of freedom in the two models. When the data 
+are normally distributed, the chi-squares can simply be subtracted. However, 
+when the data are non normal and the Satorra–Bentler scaled chi-square is 
+employed, an adjustment is required (Satorra, 2000; Satorra &Bentler, 2001) so 
+that the S–B χ2 difference test is distributed as a chi-square.  
+Chi-square difference tests are popular methods for comparison of nested 
+models especially when, as in this example, there are two nested a priori 
+models of interest; however, a potential problem arises when sample sizes are 
+small. Because of the relationship between sample size and χ2, it is hard to 
+detect a difference between models with small sample sizes. 
+Lagrange Multiplier (LM) test 
+The LM test also compares nested models but requires estimation of only one 
+model. The LM test asks would the model be improved if one or more of the 
+parameters in the model that are currently fixed were estimated. Or, equivalently, 
+what parameters should be added to the model to improve the fit of the model? 
+There are many approaches to using the LM tests in model modifications. It is 
+possible and often desirable to look only at certain parts of the model for 
+possible change although it is also possible to examine the entire model for 
+potential additions. 
+The LM test can be examined either univariately or multivariately. There is a 
+danger in examining only the results of univariate LM tests because overlapping 
+variance between parameter estimates may make several parameters appear as if 
+their addition would significantly improve the model. All significant parameters 
+are candidates for inclusion by the results of univariate LM tests, but the 
+multivariate LM test identifies the single parameter that would lead to the largest 
+drop in the model χ2 and calculates the expected change in χ2 if this parameter 
+was added. After this variance is removed, the next parameter that accounts for the 
+largest drop in model χ2 is assessed, similarly. After a few candidates for 
+parameter additions are identified, it is best to add these parameters to the model 
+and repeat the process with a new LM test, if necessary. 
+Wald test 
+While the LM test asks which parameters, if any, should be added to a model, 
+the Wald test asks which, if any, could be deleted. Are there any parameters 
+that are currently being estimated that could instead be fixed to zero? Or, 
+equivalently, which parameters are not necessary in the model? The Wald test 
+is analogous to backward deletion of variables in stepwise regression, in which 
+one seeks a non significant change in R 2 when variables are left out. However,  
+if the goal had been the development of a parsimonious model, the Wald test 
+could have been examined to evaluate deletion of unnecessary parameters. 
+
+
+--- Page 93 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+94 
+Finally, no matter how complex the model under study, it is always 
+conceivable that other variables or causal assumptions that the researcher had 
+failed to consider can account for the observed relationships. To enhance the 
+theoretical value of their investigations, researchers are well advised to 
+consider also models that are almost equivalent to the one reported. These are 
+models that fit the analyzed data set almost as well as the reported model and 
+that may offer interesting alternative theoretical interpretations.  
+Comparison of Nested Models 
+In addition to evaluating the overall model fit and specific parameter estimates, 
+it is also possible to statistically compare nested models to one another. Nested 
+models are models that are subsets of one another. When theories can be 
+specified as nested hypotheses, each model might represent a different theory. 
+These nested models are statistically compared, thus providing a strong test for 
+competing models. Some of the common variance among the items may be due 
+to wording and the general domain area (e.g., health problems, relationships 
+problems), not solely due to the underlying constructs. We can compare our 
+model to a model that also includes paths that account for the variance 
+explained by the general domain or wording of the item. The model with the 
+added paths to account for this variability would be considered the full model. 
+To test this hypothesis, the chi-square from the model with paths added to 
+account for domain and wording would be subtracted from the chi-square for 
+the nested model in that does not account for common domains and wording 
+among the items. The corresponding degrees of freedom for these two models 
+would also be subtracted. Given nested models and normally distributed data, 
+the difference between two chi-squares is a chi-square with degrees of freedom 
+equal to the difference in degrees of freedom between the two models. The 
+significance of the chi-square difference test can then be assessed in the usual 
+manner. If the difference is significant, the fuller model that includes the extra 
+paths is needed to explain the data. If the difference is not significant, the 
+nested model, which is more parsimonious than the fuller model, would be 
+accepted as the preferred model.  
+17.10.5   Reporting the Results 
+The final step is to precisely and completely describe the analysis in written reports. 
+How authors structure the results section obviously is dictated by the particular 
+model(s) and research questions under study. It is the researcher’s responsibility to 
+provide access to data in order to facilitate verification of the obtained results: If 
+moment-level data were analyzed, a covariance matrix (or correlation matrix with 
+standard deviations) should be offered in a table or appendix; if raw data were used, 
+information on how to obtain access should be provided. 
+Results from both the measurement and structural phases should be presented. 
+Judging the overall quality of a hypothesized model usually is presented early 
+in the results section or overidentified models. Given that available data-model 
+fit indices can lead to inconsistent conclusions, researchers should consider fit 
+results from different classes so readers can arrive at a more complete picture 
+regarding an model’s acceptability. Also, a comparison of fit across multiple, a 
+priori specified alternative models can help in weighing the relative merits of 
+preferring one model over others. As illustrated, when competing models are 
+nested, a formal chi-square difference test is available to judge if a more 
+restrictive-but also more parsimonious-model can elucidate the observed data 
+equally well, without a considerable loss in data-model fit (alternative models that 
+
+
+--- Page 94 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+95 
+-II are not nested have traditionally been compared only descriptively—relative 
+evaluations of values are recommended, with smaller values indicating better fit—
+but recent methodological developments suggest statistical approaches as well). 
+If post hoc model modifications are performed following unacceptable data-model 
+fit from either the measurement or structural phase of the analysis, authors should 
+give a thorough account of the nature and reasons (both statistical and 
+theoretical)for the respecification(s), including summary results from Lagrange 
+multiplier tests and revised final fit results. If data-model fit has been assessed and 
+believed to be satisfactory, with or without respecification ,more detailed results 
+are offered, usually in the form of individual unstandardized and standardized 
+parameter estimates for each structural equation of interest, together with 
+associated standard errors and/or test statistics and coefficients of determination. 
+When latent variables are part of a model, estimates of their construct reliability 
+should be presented, with values ideally falling above .70 or .80. 
+Researcher should provide a logic of what implications the results from the SEM 
+analysis have on the theory or theories that gave rise to the initial model(s). Claims 
+that a well-fitting model was “confirmed” or that a particular theory was proven to 
+be “true,” especially after post hoc respecifications, should be avoided. Such 
+statements are greatly deceptive given that alternative, structurally different, yet 
+mathematically equivalent models always exist that would produce identical data-
+model fit results and thus would explain the data equally well. At most, a model 
+with acceptable fit may be interpreted as one reasonable explanation for the 
+associations observed in the data. From this perspective, a SEM analysis should be 
+evaluated from a disconfirmatory, rather than a confirmatory perspective. Based 
+on unacceptable data model fit results, theories can be shown to be false but not 
+proven to be true by acceptable data-model fit. 
+If evidence of data-model misfit was presented and a model was modified 
+based on statistical results from Lagrange multiplier tests, readers must be 
+made aware of potential model overfitting and the capitalization on chance. 
+Statistically rather than theoretically based respecifications are purely 
+exploratory and might say little about the true model underlying the data. 
+While some model modifications seem appropriate and theoretically justifiable 
+(usually, minor respecifications of the measurement portion are more easily 
+defensible than those in the structural portion of a model), they only address 
+internal specification errors and should be cross-validated with data from new 
+and independent samples. Finally, the interpretation of individual parameter 
+estimates can involve explicit causal language, as long as this is done from 
+within the context of the particular causal theory proposed and the 
+possibility/probability of alternative explanations is raised unequivocally. 
+Though some might disagree, we think that explicit causal statements are more 
+honest than implicit ones and are more useful in articulating a study’s practical 
+implications; after all, is not causality the ultimate aim of science. 
+In the end, SEM is a powerful disconfirmatory tool at the researcher’s disposal 
+for testing and interpreting theoretically derived causal hypotheses from within 
+an a priori specified causal system of observed and/or latent variables. 
+However, we urge authors to resist the apparently still popular belief that the 
+main goal of SEM is to achieve satisfactory data-model fit results; rather, it is 
+to get one step closer to the “truth.” If it is true that a proposed model does not 
+reflect reality, then reaching a conclusion of misfit between data and model 
+should be a desirable goal, not one to be avoided by careless respecifications 
+until satisfactory levels of fit are achieved. 
+
+
+--- Page 95 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+96 
+17.11 AN EXAMPLE OF SEM  
+For example, we take some fictitious data in which anxiety was measured.  We 
+performed an confirmatory factor analysis in which we defined anxiety as 
+consisting of four components, namely, affective, behavioral, cognitive and 
+physiological symptoms. Thus, we specified a model which looked like as the 
+figure below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANX 
+     cognitive 
+affective 
+behavioural 
+physiological 
+fearfulness 
+obsession 
+ 
+Poor 
+concentratio
+n 
+anger 
+reduced  
+QOL 
+avoidance 
+compulsion 
+isolation 
+heart rate 
+dry mouth 
+sweating 
+C1 
+C2 
+C3 
+A1 
+A2 
+A3 
+B1 
+B2 
+B3 
+p1 
+p2 
+P3 
+sadness 
+
+
+--- Page 96 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+97 
+-II The next step is to estimate the parameters of the model. The software 
+performs this step and provides final results of parameters that produce best fit 
+to data possible.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 shows only 2 of the 4 components of anxiety. Above each arrow from 
+a latent variable to a variable is a number, called the path coefficient. This can 
+range from –1.0 to 1.0, with higher numbers (positive or negative) showing a 
+stronger association. As can be seen, the variable “obsessions” doesn’t fit very 
+well with the cognitive trait; and the variable “anger” doesn’t seem to go with 
+the affective trait. The numbers over the variable names are the SMRs, which 
+are the squared values of the path coefficients; they are interpreted in the same 
+way as R2 multiple regression-in terms of how much of the variance in one 
+variable is explained by, or are in common with, the other variable. Finally, the 
+numbers over the arrows between the error terms and the variables are the 
+variances of the errors. You’ll note that the sum of the SMR plus the error 
+variance for each variable is 1.0; that is, all the variance of a variable is divided 
+between that shared with the latent variable and error. The cognitive domain is 
+correlated more highly with the latent trait of anxiety than is the affective 
+realm, as reflected in their respective path coefficients. 
+The next step is model specification stage. Although no mathematics is 
+involved, it is probably the most difficult—and most important—part. It is the 
+most difficult because it requires the most thought and understanding of the 
+C 0.6
+.97 
+.7
+.35 
+.03 
+ANX 
+     cognitive 
+affective 
+fearfulness 
+obsession 
+ 
+poor 
+concentration 
+sadness 
+ 
+anger 
+ 
+reduced  
+QOL 
+ 
+0.73 
+0.24 
+C1 
+C2 
+C3 
+A2 
+A3 
+0.63 
+0.6
+0.21 
+0.72 
+0.18 
+0.55 
+.60 
+.65 
+.96 
+.48 
+.97 
+.7
+.40 
+.35 
+.04 
+.52 
+.03 
+.3 
+
+
+--- Page 97 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+98 
+theoretical model of the purported influences. No computer program can help 
+us at this stage, only our knowledge of the field. It is the most important step 
+because everything depends on how well we specify the model. The computer 
+programs may help us in determining whether some variables aren’t important, 
+we can play with different paths to see whether they improve the model or not. 
+However, the primary cause of poorly fitting is the omission of crucial 
+variables. 
+The next step is relatively easy. The main focus is on the paths—from the 
+latent variable to the measured variables and from that latent variable to the 
+next one in the path. Once we have cleaned up the model by pruning 
+noncontributory paths, we can examine the fit of the overall model. The most 
+common index of how well the data match the model is RMSEA.  it sees how 
+much the data deviate from the model. Values over 0.10 are considered to be a 
+bad fit, those less than 0.08 reflect a reasonable fit, and values less than 0.05 
+indicate a good fit. 
+Given is the table showing RMSEA of the model:  
+RMSEA 
+Model RMSEA LO 90 HI 90 PCLOSE  
+Independence model .100 .087 .115 .000 
+PCLOSE = .000 for the Independence model. Under the hypothesis of “close 
+fit” (i.e., that RMSEA is no greater than .05 in the population), the probability 
+of getting a sample RMSEA as large as .100 is .000. 
+17.12 SOFTWARE PROGRAMS FOR SEM  
+Most SEM analyses are conducted using one of the specialized SEM software 
+programs. However, there are many options, and the choice is not always easy. 
+Below is a list of the commonly used programs for SEM. Special features of 
+each program are briefly discussed. It is important to note that this list of 
+programs and their associated features is by no means comprehensive. This is a 
+rapidly changing area and new features are regularly added to the programs.  
+17.12.1 LISREL 
+LISREL (linear structural relationships) is one of the earliest SEM programs 
+and perhaps the most frequently referenced program in SEM articles. Its 
+version 9.1 has three components: PRELIS, SIMPLIS, and LISREL. PRELIS 
+(pre-LISREL) is used in the data preparation stage when raw data are available. 
+Its main functions include checking distributional assumptions, such as 
+univariate and multivariate normality, imputing data for missing observations, 
+and calculating summary statistics, such as Pearson covariances for continuous 
+variables, polychoricor polyserial correlations for categorical variables, means, 
+or asymptotic covariance matrix of variances and covariances (required for 
+asymptotically distribution-free estimator or Satorra and Bentler’s scaled chi-
+square and robust standard errors). PRELIS can be used as a stand-alone 
+program or in conjunction with other programs. 
+Summary statistics or raw data can be read by SIMPLIS or LISREL for the 
+estimation of SEM models. The LISREL syntax requires understanding of 
+
+
+--- Page 98 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+99 
+-II matrix notation while the SIMPLIS syntax is equation-based and uses variable 
+names defined by users. Both LISREL and SIMPLIS syntax can be built 
+through interactive LISREL by entering information for the model construction 
+wizards. Alternatively, syntax can be built by drawing the models on the Path 
+Diagram screen. 
+LISREL 9.1 allows the analysis of multilevel models for hierarchical data in 
+addition to the core models. A free student version of the program, which has 
+the same features as the full version but limits the number of observed 
+variables to12, is available from the web site of Scientific 
+SoftwareInternational,Inc. (http://www.ssicentral.com). This web site also 
+offers a list of illustrative examples of LISREL’s basic and new features. 
+17.12.2 EQS 
+Version 6.1 of EQS (Equations) provides many general statistical functions 
+including descriptive statistics, t-test, ANOVA, multiple regression, 
+nonparametric statistical analysis, and EFA. Various data exploration plots, 
+such as scatter plot, histogram, and matrix plot are readily available in EQS for 
+users to gain intuitive insights into modelling problems. Similar to LISREL, 
+EQS allows different ways of writing syntax for model specification. 
+The program can generate syntax through the available templates under the 
+“Build_EQS” menu, which prompts the user to enter information regarding the 
+model and data for analysis, or through the Diagrammer, which allows the user 
+to draw the model. Unlike LISREL, however, data screening (information 
+about missing pattern and distribution of observed variables) and model 
+estimation are performed in one run in EQS when raw data are available. 
+Model-based imputation that relies on a predictive distribution of the missing 
+data is also available in EQS. Moreover, EQS generates a number of alternative 
+model chi-square statistics for non normal or categorical data when raw data 
+are available. The program can also estimate multilevel models for hierarchical 
+data. Visit http://www.mvsoft.com for a comprehensive list of EQS’s basic 
+functions and notable features. 
+17.12.3 Mplus 
+Version 7.3 of the Mplus program includes a Base program and three add-on 
+modules. The Mplus Base program can analyze almost all single-level models 
+that can be estimated by other SEM programs. Unlike LISREL or EQS, Mplus 
+version 7.33 is mostly syntax-driven and does not produce model diagrams. 
+Users can interact with the Mplus Base program through a language generator 
+wizard, which prompts users to enter data information and select the estimation 
+and output options. Mplus then converts the information into its program-
+specific syntax. However, users have to supply the model specification in 
+Mplus language themselves. 
+Mplus Base also offers a robust option for non-normal data and a special full-
+information maximum likelihood estimation method for missing data (see 
+footnote 4). With the add-on modules, Mplus can analyze multilevel models 
+and models with latent categorical variables, such as latent class and latent 
+profile analysis. The modelling of latent categorical variables in Mplus is so far 
+unrivalled by other programs. The official web site of Mplus 
+(http://www.statmodel.com) offers a comprehensive list of resources including 
+
+
+--- Page 99 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+100 
+basic features of the program, illustrative examples, online training courses, 
+and a discussion forum for users. 
+17.12.4 Amos 
+Amos (Analysis of Moment Structure) version 22 is distributed with IBM 
+SPSS. It has two components: Amos Graphics and Amos Basic. Similar to the 
+LISREL Path Diagram and SIMPLIS syntax, respectively, Amos Graphics 
+permits the specification of models by diagram drawing whereas Amos Basic 
+allows the specification from equation statements. A notable feature of Amos is 
+its capability for producing bootstrapped standard error estimates and 
+confidence intervals for parameter estimates. 
+An alternative full-information maximum likelihood estimation method for 
+missing data is also available in Amos. The program is available at 
+http://www.smallwaters.com or http://www.spss.com/amos/. 
+17.12.5 Mx 
+Mx (Matrix) version 6 is a free program downloadable from 
+http://www.vcu.edu/mx/
+. The Mx Graph version is for Microsoft Windows 
+users. Users can provide model and data information through the Mx 
+programming language. Alternatively, models can be drawn in the drawing 
+editor of the Mx Graph version and submitted for analysis. Mx Graph can 
+calculate confidence intervals and statistical power for parameter estimates. 
+Like Amos and Mplus, a special form of full-information maximum likelihood 
+estimation is available for missing data in Mx. 
+17.12.6 Others 
+In addition to SPSS, several other general statistical software packages offer 
+built-in routines or procedures that are designed for SEM analyses. They 
+include the CALIS (covariance analysis and linear structural equations) 
+procedure of SAS (SAS Institute Inc., 2000; http://www.sas.com/
+), the 
+RAMONA (Reticular Action Model Or Near Approximation) module of 
+SYSTAT (Systat Software, Inc., 2002;http://www.systat.com/), and SEPATH 
+(structural equation modeling and path analysis) of Statistica (StatSoft, 
+Inc.,2003; http://www.statsoft.com/products/advanced.html
+). 
+17.13 ADVANTAGES AND DISADVANTAGES OF 
+SEM 
+17.13.1 Advantages of SEM 
+1) SEM allows researcher to identify direct and indirect effects. Direct effects 
+are principally the relationship between a dependent variable we are 
+interested in explaining and an independent variable we think is causing or 
+related to the dependent variable. Thus this establishes links directly from a 
+cause to an effect. An indirect effect occurs when one variable goes through 
+another variable on the way to some dependent or independent variable. 
+2) It is possible to have multiple indicators of a concept. With multiple 
+regression analysis we only evaluate the effect of individual independent 
+variables on the dependent variable.  It creates farily a simple path model 

@@ -1,0 +1,410 @@
+--- Page 20 ---
+ 
+ 
+1 
+21 
+Two Variable Regression 
+Modelsestimators αˆ  and βˆ  are the unbiased estimators of the unknown population 
+parameters α  and β . 
+Here the regression coefficient β  measures the rate of change of Y per unit 
+change of X. 
+Example 9.2 
+In this example we shall consider the issue of fitting a Keynesian consumption 
+function to the Indian data. Table 9.2 presents the GDP at factor cost and final 
+consumption expenditure (FCE) figures for the Indian economy during the 
+period 1980-2001 at 1993-94 prices. 
+Table 9.2: GDP and Final Consumption Expenditure (Rs. Crore) 
+Year GDP FCE Year GDP FCE 
+1980 401128 390671 1991 701863 620806 
+1981 425073 407728 1992 737792 637307 
+1982 438079 415924 1993 781345 666950 
+1983 471742 446396 1994 838031 695825 
+1984 492077 461675 1995 899563 740109 
+1985 513990 485090 1996 970082 794093 
+1986 536257 504854 1997 1016595 826834 
+1987 556778 525558 1998 1082747 888513 
+1988 615098 557527 1999 1148367 952489 
+1989 656331 584970 2000 1198592 972932 
+1990 692871 610169 2001 1267945 1027254 
+       
+Fig. 9.3: Scatter of Final Consumption Expenditure against GDP 
+FCE 
+GDP 
+
+
+--- Page 21 ---
+ 
+ 
+Quantitative Methods-1 
+22 
+Two Variable Regression The above scatter of final consumption expenditure against GDP been obtained 
+from Table 9.2. The scatter makes it clear that there seems to be a linear 
+relationship between the two variables. Consequently, we have run a linear 
+regression between the variables by using the data of Table 9.2. The results are 
+presented below: 
+( ) ( )
+( ) ( )
+2
+108206 4 0 719674 
+6233 203        0 007865
+ 17 35968            91 50314
+R 0 997617              20
+FCE . . GDP
+ˆˆs.e. . s.e. .
+ˆˆt . t .
+. d . f .
+a b
+a b
+= +
+= =
+= =
+= =
+ 
+A high 2R of more than 0.99 implies a tight fit. The estimated 719674 . 0ˆ =β  
+indicates a marginal propensity to consume of about 72 percent and this can be 
+quite expected in the Indian economy. We shall explain the significance of 
+degrees of freedom and t values later in the issue of tests of hypotheses. 
+However, we shall continue to present these two statistics in our subsequent 
+examples also. 
+2) Log-linear Model 
+This model is also known as log-log, double-log or constant elasticity model. 
+Its original form is given by 
+Ue X Y
+βα= , Where, e is the base of natural log ( e is approximately equal to 
+2.718). In the original form, the model is non linear in nature. However, by 
+applying the log transformation, the model is transformed to 
+ln ln lnY X Uα β= + +   
+If we put ln ,  ln ,   and lnY y a b X xα β= = = = , the model reduces to 
+U bx a y++=  
+From the above transformation, it is very clear that the model now becomes 
+linear in parameter and linear in log of the variables; and thus, can be estimated 
+by the ordinary least square method. Here, a will be estimating 
+lnα  and then 
+by taking the antilog of a, we shall obtain the estimate for α . The regression 
+coefficient β=b  deserves our special attention. It measures a change in log Y 
+per unit of a change in log X. In the language of calculus, ln
+ln
+d Y
+d Xβ = . Now, a 
+change in the log of some variable implies a proportional change in it. Thus, β  
+is the ratio of a proportional change in Y to a proportional change in X. in other 
+words, β  measures the elasticity of Y with respect to X. This is the rationale 
+for the log linear regression model being termed as the constant elasticity 
+model.          
+Example 9.3 
+This is an example from Gujrati (2003). The table below presents the quarterly 
+data on total personal consumption expenditure (PCExp) and expenditure on 
+durables (ExpDur) for the U.S. economy measured in 1992 billions of dollar 
+for the period 1993:1-1998:3. 
+ 
+
+
+--- Page 22 ---
+ 
+ 
+1 
+23 
+Two Variable Regression 
+Models
+Table 9.3:  Personal Consumption Expenditure and Expenditure on Durables in 
+U.S.A. 
+ 
+Source: Damodar Gujrati (2003), Basic Econometrics 
+ We have plotted the log of expenditure on durables against the log of total 
+personal consumption expenditure in Figure 9.4 below.  
+Year PCExp ExpDur 
+1993:1 4286.8 504 
+1993:2 4322.8 519.3 
+1993:3 4366.6 529.9 
+1993:4 4398 542.1 
+1994:1 4439.4 550.7 
+1994:2 4472.2 558.8 
+1994:3 4498.2 561.7 
+1994:4 4534.1 576.6 
+1995:1 4555.3 575.2 
+1995:2 4593.6 583.5 
+1995:3 4623.4 595.3 
+1995:4 4650 602.4 
+1996:1 4692.1 611 
+1996:2 4746.6 629.5 
+1996:3 4768.3 626.5 
+1996:4 4802.6 637.5 
+1997:1 4853.4 656.3 
+1997:2 4872.7 653.8 
+1997:3 4947 679.6 
+1997:4 4981 648.8 
+1998:1 5055.1 710.3 
+1998:2 5130.2 729.4 
+1998:3 5181.8 733.7 
+
+
+--- Page 23 ---
+ 
+ 
+Quantitative Methods-1 
+24 
+Two Variable Regression 
+      
+ 
+ 
+Fig. 9.4: Scatter of Log of Exp on Durables against Log of Personal Con Exp 
+The scatter above is clearly indicative of a linear relationship between the log 
+of the two variables. As a result, we fit in a log linear model to the data on total 
+personal consumption expenditure and the expenditure on consumer durables. 
+We present some of the results from the fit below. 
+( ) ( )
+( ) ( )
+2
+ln 9.697098 1.905633 ln
+ˆˆ. . ln 0.434127         . . 0.051370
+ˆˆ ln 22.33702            37.09622
+R 0.984969                   . . 21            
+ExpDur PCExp
+s e s e
+t t
+d f
+a b
+a b
+= - +
+= =
+= - =
+= =
+ 
+We have an 2R of about 0.99. This is indicative of a good fit. In this fit, the 
+slope coefficient is an estimate of the elasticity of expenditure on durables with 
+respect to personal consumption expenditure. Thus, 905633 . 1ˆ =β  indicates 
+that the expenditure on durables is highly elastic to total personal consumption 
+expenditure. 
+3) Semi-Log Model 
+One of the common forms of semi-log regression models is the so-called 
+growth rate model. The model is expressed as 
+U t Y++= βαlog  
+In this model the dependent variable is expressed in log, whereas, the 
+independent variable is the time period, and it is measured in absolute term. 
+Since, log operator is applied only to the left hand side of the equation, the 
+model is called the semi-log model. In this model, the slope coefficient 
+β  is a 
+measure of the proportional change in the dependent variable for a unit change 
+in the time period. Thus it measures the growth rate of the dependent variable. 
+Log PCExp 
+Log Exp Dur 
+
+
+--- Page 24 ---
+ 
+ 
+1 
+25 
+Two Variable Regression 
+Models
+Example 9.4 
+In this example, we are going to verify the so-called ‘Hindu Rate of Growth’ of 
+about 3.5 per cent that Indian economy consistently witnessed in 1960s and 
+1970s. 
+In Table 9.4, we present India’s GDP at 1993-94 prices for the period 1960-
+1980. 
+Table 9.4: India’s GDP during 1970-1980 
+Year GDP Year GDP 
+1960 206103 1971 299269 
+1961 212499 1972 298316 
+1962 216994 1973 311894 
+1963 227980 1974 315514 
+1964 245270 1975 343924 
+1965 236306 1976 348223 
+1966 238710 1977 374235 
+1967 258137 1978 394828 
+1968 264873 1979 374291 
+1969 282134 1980 401128 
+1970 296278   
+Figure 9.5 presents the scatter of the log of GDP against the time period 
+denoted by the letter t. 
+       
+ 
+Fig. 9.5: Scatter of India’s GDP against Time 
+The scatter above suggests a linear relationship between the log of GDP and 
+the time period. Therefore, we run a regression of log GDP on time period t. 
+we present the result below.
+Time 
+Log GDP 
+
+
+--- Page 25 ---
+ 
+ 
+Quantitative Methods-1 
+26 
+Two Variable Regression 
+( ) ( )
+( ) ( )
+            19 . .             983675 . 0 R
+83607 . 33ˆ            2658 . 974ˆ 
+000997 . 0ˆ. .        012517 . 0ˆ. .
+ 033729 . 0 19473 . 12log
+2 ==
+==
+==
++=
+f d
+tt
+e se s
+tGDP
+βα
+βα
+ 
+The value of 2R  is quite high. The estimated slope coefficient of 0. 034 
+indicates a rate of growth of 3.4 per cent during the period 1960-1980. This 
+adequately supports the phenomenon of ‘Hindu rate of Growth’ in the 60s and 
+the 70s. 
+4) R eciprocal Model  
+I
+n the reciprocal model, the dependent variable is regressed on the reciprocal of 
+the independent variable. Its functional from is 
+UXY + + =1β α  
+Although the model is non-linear in variable (because the power of X is –1), it 
+is linear in parameter. Hence, it can be estimated by the OLS method. The 
+model has an important characteristic. As the independent variable X increases 
+indefinitely, the term 
+X
+1β  approaches zero, β  being a constant. Consequently, 
+the dependent variable Y approaches a limiting value or an asymptotic value 
+equal to the intercept α . An application of this model can be in the relationship 
+between per capita GNP and the child mortality. As per capita GNP increases, 
+the infant mortality rate is expected to fall but we cannot expect it to fall 
+independently if per capita GNP continues to increase indefinitely. In such a 
+situation, in all probability, the mortality rate will tend to a limiting value. 
+Gujrati (1993) presents an example of applying the reciprocal model to study 
+the relationship between the per capita GNP and the infant mortality rate by 
+using the cross-section data for 64 countries. His results are presented below. 
+( ) ( )
+( ) ( )
+4590 . 0 R
+2535 . 7ˆ            5511 . 7ˆ 
+999 . 3759ˆ. .        8321 . 10ˆ. .
+117 . 2723779436 . 81
+2 =
+==
+==
++=
+βα
+βα
+tt
+e se s
+XY
+ 
+where, Y is the child mortality rate (the number of deaths of children under the 
+age of 5 per year per 1000 live births) and X is the per capita GNP at constant 
+prices. The above-mentioned results show that if per capita GNP increases 
+indefinitely, the infant mortality approaches a limiting rate of about 82 deaths 
+per 1000 children born. 
+Another application of the reciprocal model can be in the estimation of the 
+Phillips curve. This curve proposes an inverse relationship between the change 
+in unemployment rate and that in inflation rate. With a growth in 
+unemployment rate, the growth in inflation rate is expected to fall. In fact 
+Phillips curve postulates that if the unemployment rate increases beyond its so-
+called natural rate, the growth in the inflation rate should become negative. 
+However, with an indefinite increase in the unemployment rate, the inflation 
+
+
+--- Page 26 ---
+ 
+ 
+1 
+27 
+Two Variable Regression 
+Models
+growth cannot be expected to fall indefinitely. It s hould stabilize at some 
+negative limiting value. Thus, Phillips Curve can be an appropriate case for the 
+use of the reciprocal model. 
+9.9  CLASSICAL NORMAL REGRESSION MODEL 
+We have already seen that a two variable classical linear regression model can 
+be presented as 
+U X Y++= βα  
+In this model, U is the population disturbance term. We can estimate the 
+unknown parameters of this regression model from the sample information by 
+using the least square or, as it is sometimes called, ordinary least square 
+method. The least square estimates possess some desirable properties if the 
+population disturbance U satisfies some five assumptions that we have 
+discussed in Section 9.3. These five assumptions are adequate for the 
+estimation purposes. But the scope of a regression model is just not restricted 
+to the estimation of the parameters. An important purpose of the sample 
+estimates is to test some hypotheses about the unknown population regression 
+parameters with their help. And we can do this if we make some assumption 
+about the distribution of U. This we do by making the assumption of normality 
+for U. The assumption essentially means that the population regression 
+disturbance term follows normal distribution with mean zero, a constant 
+variance equal to 2
+σ and a zero covariance. In fact U has a conditional 
+distribution, in the sense, that, for each of the given values of the non-
+stochastic independent variable X, we might have a distribution of different 
+values of U. This will be clear if we reproduce the diagram of Figure 9.1 with 
+the unknown population regression line fitted into it. 
+ 
+ 
+Fig. 9.6: Bi-Variate Population with the Unknown Regression Line  
+I
+n Figure 9.6, we can see that for a given observed value of income, we can 
+have different observed values of consumption represented by the bold dots on 
+each of the vertical lines. The vertical distance between an observed value of 
+consumption and the corresponding estimated value from the regression line 
+for a given income level measures the value of the disturbance term. Thus there 
+Income 
+Consumption 
+
+
+--- Page 27 ---
+ 
+ 
+Quantitative Methods-1 
+28 
+Two Variable Regression are many possible values of U for each of the given income levels. As a result, 
+there are conditional distributions of U for different levels of income. 
+The significance of the normality assumption is that these conditional 
+distributions of U should all be independently normally distributed with the 
+same mean equal to zero and, the same variance equal to 2σ . Mathematically 
+speaking, 
+( )
+( )
+( ) j iU U Cov
+iU V
+iU E
+j i
+i
+i
+≠ =
+=
+=
+for   0
+s  all for        
+s  all for           0
+2σ  
+In other words, the population disturbance variable should have independent 
+and identical normal distribution. 
+If we make this additional normality assumption along with the earlier-
+mentioned five assumptions about the disturbance term U, then the regression 
+model is called the classical normal regression model. 
+It may be mentioned here that the normality assumption is important not only 
+for hypothesis testing but also for the fact that under this assumption we can 
+use an alternative procedure for estimating the population regression 
+parameters. This procedure is known as the method of maximum likelihood 
+estimation. Although for regression parameters the method gives the same 
+estimates as the least square estimates, the approach followed is quite different. 
+In fact this procedure has some stronger theoretical characteristics than the 
+least square method. However, we are not discussing this procedure here 
+because it is beyond our scope. 
+In the next section, we shall discuss the issue of hypothesis testing and see how 
+the normality assumption plays a crucial role there. 
+9.10  HYPOTHESIS TESTING 
+Considering the two variable regression model 
+U X Y++= βα  
+We might be interested in examining whether the unknown parameter α  or β  
+assumes a particular value or not. This is what is known as hypothesis testing 
+in statistics. We can conduct such a test from the sample estimate of α  or β  as 
+the case might be. Although we may test some hypothesis about the intercept 
+α , our main concern in regression model is the slope coefficient β . We have 
+the estimated sample regression function 
+U X Yˆˆˆˆ + + =β α  
+Here, βˆ  is the sample estimate of β  and we shall use it for estimating the 
+unknown β . As mentioned earlier that βˆ  might vary from sample to sample 
+collected from the same population. As a result, βˆ  is a random variable with 
+some probability distribution. Now, for the purpose of hypothesis testing, we 
+need to know the form of this distribution of βˆ . 

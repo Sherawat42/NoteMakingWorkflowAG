@@ -1,0 +1,662 @@
+--- Page 48 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+48 
+national/domestic product. NAS also provides information on value of output 
+of various agricultural crops including those of drugs and narcotics, fibers, 
+fruits and vegetables, livestock products like milk group products, meat group 
+products, eggs, wool and hair, dung, silkworm cocoons and honey, forestry 
+products like industrial wood, firewood and minor forest produce, inland fish 
+and marine fish. It also furnishes data on capital formation in agriculture and 
+animal husbandry, forestry and logging and fishing. 
+Check Your Progress 2 
+1) How can you access the data on per-capita availability of milk, egg, wool, 
+cow and buffaloes? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+2) What do you mean by the term ‘cropping intensity’? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+3) Which document contains the data on subsidy given to agriculture? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+4) Name the document which contains the data on food and non food credit 
+provided by Scheduled Commercial Banks. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+
+
+--- Page 49 ---
+ 
+ 
+ 
+49
+Agricultural and 
+Industrial Data22.3 INDUSTRIAL DATA  
+The industrial sector can be divided into a number of subgroups. This grouping 
+is different from grouping by economic activity. Such divisions arise from 
+framework factors like applicability or coverage or certain laws, employment 
+size of establishments of groupings for purposes of promotional support by 
+Government. Such groupings are the organized and unorganized sectors, the 
+factory sector (covered by the Factories Act, 1948 and the Bidi and Cigar Workers 
+Condition of Employment Act, 1966), small-scale industries, cottage industries, 
+handicrafts, khadi and village industries (KVI), directory establishments (DE), non-
+directory establishments (NDE), own account enterprises (OAE)13. Attempts have 
+been made to get at a detailed look at the characteristics of some of these sub-
+sectors of the industrial sector, as the data sources covering the whole sector 
+often do not provide information in such detail. Let us now examine the kind of 
+data available for such individual subgroups of the industrial sector and those 
+that cover the entire industrial sector.14 
+22.3.1 Data Sources Covering the Entire Industrial Sector 
+There are five sources that cover the whole spectrum of economic activity or 
+non-agricultural activities and therefore, the entire industrial sector. However, 
+four of these sources give data only on levels of industrial employment: 
+i) The first source is the decennial Population Census . This provides data 
+on the levels of employment in various economic activities across the 
+economic spectrum, and therefore, the industrial sector, down to the latest 
+NIC15 three-digit code levels. Thus, Census 1991 provides data at 3-digit 
+level of NIC 1987, Census 2001 provides data at 3-digit level of NIC 1998 
+and Census 2011 will be providing data at 3-digit level of NIC 2008. It 
+also provides (i) employment levels in each of the three-digit NIC code 
+classified by Occupational Divisions [the first digit of the National 
+Classification of Occupations 1968 (NCO 1968)], (ii) industrial 
+employment in broad industrial sectors (a nine-fold classification of 
+economic activities is considered 16) classified by broad age groups, and 
+(iii) industrial employment in broad sectors (nine-fold classification, as 
+above) by levels of education. Such details are available up to district 
+levels. These data, however, become available after a time lag of 4-5 years 
+after completion of the Census field-work.  
+ii) The second source consists of the quinquennial sample surveys relating 
+to labour force,employment and unemployment conducted by the National 
+Sample Survey Office (NSSO). These surveys also provide similar type of 
+data on industrial employment, down to State levels, separately for rural 
+and urban and males and females. Data by the districts can also be 
+tabulated, with a suitable caution for the district level sample sizes, as the 
+                                                            
+ 
+13  DEs are those establishments that employ at least six persons. NDEs are establishments that 
+employ at least one but not more than five employees. OAEs are the self-employed. 
+14  One distinction between the economic activity classification and the industrial sector 
+classification is the placement of Mining and Quarrying industries. Although this is a part 
+of “primary sector” under the economic activities, it is considered as a part of industrial 
+sector. 
+15 See the section on India Statistical System in Unit 20 on Macro-Variable Data: National 
+Income etc. 
+16  Same as footnote 15 given above. 
+
+
+--- Page 50 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+50 
+primary data collected (unit record data) can be obtained on CDs from 
+NSSO17. Key results from the NSSO surveys are available after about six 
+months, while the final report becomes available one year after the surveys 
+are completed. 
+iii) The third source is the Economic Census , which has been conducted in 
+1977, 1980, 1990, 1998, 2005 and 2012. The Economic Census covers all 
+economic enterprises in the country except those engaged in crop 
+production and plantation and provides data on employment in these 
+enterprises18. This provides a frame for the conduct of more detailed 
+follow up (enterprise) surveys covering different segments of the 
+unorganized non-agricultural sectors, which in turn throw up data on 
+production and employment in these segments, useful for an analytical 
+study of these segments and in the compilation of national accounts. 
+iv) The fourth source is the Employment Market Information (EMI) 
+programme of the Directorate General of Employment & Training 
+(DGE&T), Union Ministry of Labour & employment and the 
+Directorate of Employment under the State Governments. This is based 
+on the statutory quarterly employment returns furnished by non- agricultural 
+establishments in the private sector employing 10 or more persons and all 
+public sector establishments. This source of industrial employment 
+provides data at quarterly intervals down to district level. The quarterly 
+data are available with a time lag of about a year. Detailed data at the level 
+of three digit NIC 1987 codes are available in the Annual Employment 
+Reviews based on this programme with a time lag of about two years. 
+While data at national and State levels would be available from the 
+National reports, district level data would be available from the State 
+reports. This source or course covers only the organized sector. 
+v) The fifth source consists of the periodic unorganized sector surveys of the 
+NSSO, which covers the unorganized non-agricultural enterprises. These 
+surveys, usually conducted as follow-up surveys of the Economic Census, 
+provide data on characteristics of the enterprises, its 5-digit NIC code, 
+operating expenses, receipts, gross value added, fixed assets, liabilities and 
+the number of workers working on a regular basis in the enterprise. 
+Similar characteristics for the informal sector enterprises are also tabulated 
+and published from these survey data by the NSSO. These data are 
+tabulated and published at State levels, separately for rural and urban. Data 
+by the districts can also be tabulated, with a suitable caution for the district 
+level sample sizes, as the primary data collected (unit record data) can be 
+obtained on CDs from NSSO 19. Key results from the NSSO surveys are 
+available after about six months, while the final report becomes available 
+one year after the surveys are completed. 
+                                                            
+ 
+17  You can see the rate list of NSSO unit level survey data from http://mospi.nic.in/ 
+Mospi_New/upload/nsso/ratelist_UnitData.pdf.  
+18  The report on the Economic Census 1998 is available on the website of the Ministry of 
+Statistical and Programme Implementation (MoSPI) www.mospi.nic.in . The website of 
+MoSPI announces that the site’s new address is www.mospi.gov.in . The report on the 
+Economic Census 2005 has been released by the Ministry on the 12th June, 2006, according 
+to news item “Rural enterprises growing faster – Employment rate high in J & K: Economic 
+Census 2005” appearing on page 11 of The Hindu, Chennai Edition, dated Tuesday the 13th 
+June, 2006. The Ministry’s website does not say anything about the 2005 report till 14/6/06. 
+19  You can see the rate list of NSSO unit level survey data from http://mospi.nic.in/ 
+Mospi_New/upload/nsso/ratelist_UnitData.pdf.  
+
+
+--- Page 51 ---
+ 
+ 
+ 
+51
+Agricultural and 
+Industrial Data
+There are, however, other sources that provide data on production or on a 
+variety of interrelated aspects of industry like employment, output, inputs and 
+so on. Let us consider these sources. 
+22.3.2 Factory Sector – Annual Survey of Industries (ASI) 
+Collections of industrial statistics on aspects like output, employment, input 
+and value added was initiated as early as 1944, when an annual Census of 
+Manufacturing Industries (CMI) was launched, covering factories registered 
+under the Indian Factories Act, 1934 and employing 20 or more persons and 
+using power. Subsequently, a Sample Survey of Manufacturing Industries 
+(SSMI) was started from 1949. While the former was restricted to only 29 of 
+the 63 groups of industries, SSMI covered the remaining 34 groups of 
+industries. As soon as the Factories Act, 1948 came into force, the coverage of 
+both CMI and SSMI was extended to cover factories registered under the 
+Factories Act, 1948 employing 10 or more persons and using power and those 
+employing 20 or more persons without using power. The CMI and SSMI 
+reports constituted the main source of data on different aspects of the factory 
+sector up to 1958 20. A brief coverage of the ASI can be seen at the site 
+http://www.csoisw.gov.in/CMS/En/1024-asi-manual.aspx and at http://www. 
+csoisw.gov.in/cms/cms/Files/572.pdf.  
+The annual Survey of Industries (ASI) replaced the CMI and the SSMI in 1960 
+after the Collection of Statistics Act, 1953 and the Collections of Statistics 
+Rules, 1953 came into force. Detailed industrial statistics relating to industrial 
+units in the country 21 like capital, output, input, value added employment and 
+factor shares are collected in ASI. The survey was launched in 1960 and has 
+been conducted every year since then except in 1972. From 2011, the ASI is 
+conducted under the Collection of Statistics Act 2008 and the Collection of 
+Statistics Rules 2011, except in the State of Jammu and Kashmir, where it is 
+conducted under the State Collection of Statistics Act, 1961 and the rules 
+framed thereunder in 1964. The frames used for the survey consists of: 
+a) all factories registered under Sections 2m(i) and 2m(ii) of the Factories 
+Act, 1948 employing 10 or more workers using power as well as those 
+employing 20 workers but without using power; 
+b) bidi and cigar manufacturing establishments registered under the Bidi and 
+Cigar Workers (Conditions of Employment) Act, 1966 with coverage of 
+units as in (i) above; 
+c) certain servicing activities like water supply, cold storage, repair of motor 
+vehicles and other consumer durables like watches etc. Though servicing 
+industries like motion picture production, personal services like laundry 
+services, job of dyeing, etc., are covered under the Survey but data are not 
+tabulated separately, as these industries do not fall under the scope of 
+industrial sector defined by the United Nations. Defence establishments, 
+oil storage and distribution depots, restaurants, hotels, café and computer 
+services and the technical training institutes, etc., are excluded from the 
+purview of the Survey.   
+                                                            
+ 
+20 The ASI section of the CSO website. 
+21 The coverage was extended to Jammu & Kashmir with the passing of the Collection of 
+Statistics Act, 1961 (Jammu & Kashmir) and the notification of the Collection of Statistics 
+Rules, 1964 under that Act. 
+
+
+--- Page 52 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+52 
+The frames for the ASI are revised every year. At the time of revision, the 
+deregistered factories are removed and newly registered factories are added in 
+the frame. In ASI 2013-14, more than 2.65 lakh units were in the ASI frame, up 
+from about 2.52 lakh units in ASI 2012-13. The “factory sector” thus consists 
+of factories, bidi and cigar manufacturing units, electricity sector and some 
+service units. Electricity units registered with the CEA, the departmental units 
+such as railway workshops, Road Transport Corporation workshops, Government 
+Mints, sanitary, water supply, gas storage, etc., are not covered from 1998-99 
+as there are alternatives sources of data for CSO for purposes of compiling 
+GDP estimates in respect of these segments of industry. 
+The reference period for the survey is the accounting year April to March 
+preceding the date of the survey. The sampling design and the schedules for  
+the survey were revised in 1997-98, keeping in view the need to reduce the 
+time lag in the availability of the results of the survey. The survey will not, 
+however, attempt estimates at the district level. The survey used NIC 1987 for 
+classifying economic activities before ASI 1997-98 and shifted to NIC 1998 
+with effect from ASI 1998-99 22. From ASI 2009-10, the NIC 2008 codes are 
+being used. 
+CSO has released the final results of ASI 2011-12 and provisional results 
+of ASI 2012-13. Results in respect of selected characteristics are available in 
+electronic media at various levels of aggregation23: 
+• All India by 4-digit level of NIC 2008, 
+• State by 3-digit level of NIC, 
+• Unit level with suppressed identification, etc. 
+All the reports of previous years can be accessed on the website of the 
+Ministry of Statistics and Programme Implementation (MoSPI) . These 
+results are: 
+1) Time series data (1980-81 to 2007-08) of principal characteristics24 of the 
+factory sector; 
+2) principal characteristics by major industry group; 
+3) principal characteristics by major States; 
+4) estimates of some important characteristics by States for 2002-03; 
+5) estimates of some important characteristics by 3-digit code of NIC 1998; 
+6) rural-urban break-up of principal characteristics; and 
+                                                            
+ 
+22  NIC 1987 and NIC 1998 contain concordance tables to enable data users to recast data of 
+earlier years from one NIC structure to another. 
+23 You can download the ASI 2011-12 reports from the ASI portal of the CSO at 
+http://www.csoisw.gov.in/CMS/cms/Home.aspx.  
+24 The principal characteristics are: 1) no. of factories, 2) fixed capital, 3) working capital, 4) 
+invested capital, 5) outstanding loans, 6) no. of workers, 7) mandays of workers, 8) no of 
+employees, 9) mandays – employees, 10) total persons engaged, 11) wages to workers, 12) 
+total emoluments, 13) old age benefits, 14) social security benefits, 15) other benefits, 16) 
+fuels consumed, 17) total inputs, 18) products, 19) value of output, 20) depreciation, 21) net 
+value added, 22), rent paid, 23) interest paid, 24) net income, 25) gross fixed capital 
+formation (GFCF) 26) (a) material, fuels, etc., (b) semi-finished goods, (c) finished goods, 
+27) total, 28) gross capital formation (GCF), 29) profits. 
+
+
+--- Page 53 ---
+ 
+ 
+ 
+53
+Agricultural and 
+Industrial Data
+7) principal characteristics by type of organization25. 
+8) estimates for structural ratios and technical coefficients for factory sector 
+from 2006-07. 
+Data users can find out from the website (click on ASI DATA COST)  to find 
+out what data – tables or unit record data –are available and the cost of 
+obtaining the same from CSO. 
+CSO had earlier published ASI 2010-11 final (detailed) results in two 
+volumes. These volumes present data at the 3-digit and 4-digit level of NIC 
+1998 codes for the national level and at the 3-digit level of NIC 1987 codes for 
+individual States. Data on the following aspects of the industries forming part 
+of the factory sector are presented: 
+i) Capital employed, input, output and gross value added (GVA), 
+ii) Employment, mandays and wages, 
+iii) Fuel consumed, 
+iv) Material consumed, 
+v) Products and by-products. 
+These volumes as well as those relating to earlier years are available also on 
+electronic media. In addition, CSO has also released time series data on ASI 
+in 5 parts – Volumes I relates to ASI 1959-71, Volume II, Series A to ASI 
+1973-74 to 1981-82, Volume II, Series B to ASI 1982-83 to 1988-89, Volume 
+III, Series A to ASI 1989-90 to 1993-94 and Volume III, Series B to  
+1994-95 to 1997-98 . These volumes present data on important characteristics 
+for all-India at two-digit and three-digit NIC code levels and for the States at 
+two-digit NIC code levels. These publications are also available in electronic 
+media on payment. 
+The database on the Annual Survey of Industries, 1973-74 to 2009-10 also 
+provides time series ASI data on the principal characteristics of the factory 
+sector, along with concepts and definitions used. The data can be procured 
+from the EPWRF on payment. 
+The data available from ASI can be used to derive estimates of important 
+technical ratios like capital-output ratio, capital-labour ratio, labour cost per 
+unit of output, factor shares in net value added and productivity measures for 
+different industries as also trends in these parameters. The most important use 
+of the detailed results arises from the fact that these enable derivation of 
+estimates of 
+i) the input structure per unit of output at the individual industry; and 
+ii) the proportions of the output of each industry that are used as inputs in 
+other industries, enabling us to use the technique of input-output analysis 
+to evaluate the impact of a change effected in (say) the output of an 
+industry on the rest of the economy. The construction of the Input-Output 
+                                                            
+ 
+25 Types of organization are 1) proprietorship, 2) joint family (HUF), 3) partnership, 4) public 
+limited company, 5) private limited company, 6) govt departmental enterprises, 7) public 
+corporations, 8) corporate sector (4+5+6+7), 9) Khadi& Village Industry, 10) handloom 
+industry, 11) cooperative sector, 12) others (including ‘not recorded’). 
+
+
+--- Page 54 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+54 
+Transaction Tables (I-OTT) for the Indian economy is largely based on 
+ASI data. As we know, I-OTT provides the basic ratios required for Input-
+Output Analysis, which has a wide range of uses, from analysis of economic 
+structure and backward and forward linkages of different industries to the 
+setting up of targets of production, investment, employment and so on at the 
+macro level. 
+22.3.3 Monthly Production of Selected Industries and Index of 
+Industrial Production (IIP) 
+CSO prepares and releases monthly indices of industrial production (IIP) 
+and also the monthly use-based index of industrial production (base year 
+2004-05). IIP with base year 2004-05 was first released in April 2005. The base 
+year for IIP was earlier 1993-94 26. IIP with the new base year has (i) a wider 
+coverage of items than the IIP with base year 1993-94, (ii) the weighting 
+diagram of the new index has taken into account the contribution of the 
+unorganized manufacturing sector, (iii) small scale industry items have been 
+given individual weights in the weighting diagram of the new index, (iv) the 
+revised IIP series follows NIC 2004 (the earlier one followed NIC 1987) and 
+(v) the new IIP is released within six weeks of the reference month. The IIP 
+(2004-05) is a quantitative index based on production data received from 16 
+source agencies covering 682 items clubbed into 399 item groups in the basket 
+of items of the index.  
+The Directorates of Statistics and Economics of the State Governments 
+and Union Territory Administrations (DESs) had been preparing IIPs for 
+their respective areas . These IIPs were not comparable with each other or 
+with that prepared by CSO for the country as a whole because of differences in 
+the base year, basket of items, data and methodology used for the construction 
+of the indices. The question of preparing State-wise IIPs that are comparable 
+with the national IIP was, therefore, examined and State Governments and 
+Union Territory Administrations have initiated work I this regard on the basis 
+of the recommendations made in this regard. The preparation and release of IIP 
+is at different stages in different States and Union Territories. For example the 
+Governments of Tamil Nadu, Andhra Pradesh, West Bengal, Assam, Goa, 
+Punjab, Haryana, Rajasthan and Maharashtra have released the new IIP 
+prepared as a result of these efforts and others are in the process of 
+preparing such IIPs. 
+CSO releases Quick Estimates of IIP within six weeks of the closing of the 
+reference month. CSO has released the IIP for December, 2014 through the 
+Press Release dated 12th February 2015. The Release provides estimates of 
+• monthly IIP – overall index and for sectors (mining, manufacturing and 
+electricity) – for the period April, 2014 to December, 2014; 
+• monthly IIP at 2-digit level NIC 2004 code for December 2013 and 
+December 2014 and the cumulative index for the period April-December 
+2014; and 
+                                                            
+ 
+26  Change in the base of IIP is necessary to measure the real growth in the industrial sector. 
+The United nations Statistical Office (UNSO) recommends that the base year should be 
+changed quiquennially. IIP was first prepared in India with the base year as 1937. The base 
+year was then changed to 1946, 1951, 1956, 1960, 1970, 1980-81, 1993-94 and 2004-05. 
+
+
+--- Page 55 ---
+ 
+ 
+ 
+55
+Agricultural and 
+Industrial Data
+• monthly IIP use-based index (basic goods, capital goods, intermediate 
+goods, consumer goods, consumer durables, consumer non-durables) for 
+the period April, 2014 to December, 2014. 
+CSO follows the SDDS norms of the International Monetary Fund (IMF) 27 in 
+respect of estimates of IIP and, accordingly, the Press Release of the 12 th 
+February 2015 announces that IIP for January 2015 would be released on the 
+12thMarch 2015. This Press Release is accessible in the MoSPI website . The 
+website also has time series data at 2-digit level NIC code on (a) monthly IIP 
+from April, 1994 (b) annual averages from 1994 and also on the monthly use-
+based IIP. Similar time series data on (a) monthly IIP with base year 1980-81 at 
+2-digit level of NIC 1970, and (b) monthly use-based IIP (base year 1980-81) 
+are also available from April,1990. 
+The Reserve Bank of India’s (RBI) “Handbook of Statistics on the Indian 
+Economy” also presents IIP at two-digit-level, the use-based IIP and index 
+numbers of Infrastructure Industries 28 as also data on production in selected 
+industries. Monthly statistics of mineral production are published by the 
+Indian Bureau of Mines (IBM), Nagpur in their publication “Monthly 
+Statistics of Mineral Production”. It also releases mineral group-wise and 
+State-wise value of mineral products. The latest data available while writing 
+this chapter was from March 2013 29. The CSO publication “Energy 
+Statistics” bring together important data on different sources of energy in the 
+country at one place. It presents time series data that give a broad picture of the 
+trends in production, consumption and price indices of major sources of 
+conventional energy in the country for last 30 years. The ministries of 
+Petroleum and Gas, Power and Non-Conventional Energy provide 
+information in their respective spheres of activity. The Economic Intelligence 
+Services (EIS) of CMIE, Mumbai has volumes on Energy and 
+Infrastructure that present detailed data on the trends in these sectors. A visit 
+to the EPWRF website (click with words EPWRF through the Google search 
+engine) would also be rewarding in terms of time series data on industrial 
+production. At the global level, the International Energy Agency (IEA) is 
+considered as one of the most authoritative organisations in dealing with 
+energy issues. The IEA publishes the world Energy Outlook. The latest one, 
+World Energy Outlook 2014, was published in November 2014. The IEA 
+portal http://www.iea.org/statistics/ also provides for search of statistics by 
+country. IEA online data services provide monthly data on oil and gas, 
+quarterly energy prices, etc. However, data from this site are to be purchased, 
+be it hard copy, CD-RoM or pdf files. The UNSD also compiles and publishes 
+energy statistics in a comparable manner for 224 countries of the world. The 
+reports, although a bit dated, can be downloaded free of charge from their 
+website30. 
+                                                            
+ 
+27  See Indian Statistical System in Unit 18 on “Macro Variable Data: National Income, 
+Saving, Investment”. 
+28  Infrastructure industries are electricity, coal, steel, cement, crude petroleum and refined 
+petroleum products. These industries are part of the basket of items of IIP and the Index 
+for Infrastructure Industries can be computed from the indices for the individual 
+infrastructure industries. 
+29  These can be accessed from the IBM website http://ibm.nic.in/msmpmar13.htm. 
+30  You can visit the link http://unstats.un.org/unsd/energy/yearbook/2011/004-10.pdf and 
+read the introduction to the Yearbook to have an idea of the data being made available by 
+them. 
+
+
+--- Page 56 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+56 
+Check Your Progress 3 
+1) Indicate the major sources of data on levels of industrial employment. 
+Which one is the most and which one the least frequent? Which of the 
+sources shall you use for your analysis, if the analysis are to be done i) for 
+backward districts and ii) for major States of India?  
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) How can you access the report of the economic census 1998? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) What do you understand by quarry based system developed by CSO? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+4) List two important uses of ASI data. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+5) From which document can you have data pertaining to various sources of 
+energy? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+
+
+--- Page 57 ---
+ 
+ 
+ 
+57
+Agricultural and 
+Industrial Data22.3.4 Data on the Unorganised Industrial Sector 
+The Development Commissioner for Small Scale Industries (DCSSI) in the 
+Ministry of Small Scale Industries, in the Central Government and the 
+Directorates of Industries of State Government and Union Territory 
+Administration provide data on small-scale industrial units registered with the 
+latter set of agencies. The DCSSI has conducted a census of small scale 
+industrial units thrice – in 1973-74 (reference year 1972), 1990-91 (reference 
+year (1987-88) and in November, 2002 (reference year 2001-02). The results of 
+the third census can be seen in the publication “Final Results: Third all India 
+Census of SSI – 2001-02” released by the Ministry of Small Scale 
+Industries. Broad details of the performance of small-scale industries are 
+available in the Annual Reports of the Ministry of Small Scale Industries. Time 
+series data on employment, production, labour productivity in small-scale 
+industries (SSI) and value of exports of the products of small-scale industry 
+are also available in the RBI Handbook . Data on some parts of Khadi and 
+Village Industries Commission (KVIC) , handlooms and handicrafts do get 
+included in ASI but data relating exclusive to these sub-sectors are available in 
+the Annual Reports of these organizations or in the Annual Reports of the 
+Ministries under which these Boards/Commissions function. 
+Surveys of unorganized sector enterprises conducted once in five or six years 
+contribute to the strengthening of the database of the unorganized sector. The 
+following rounds of the NSSO provide data on input, output, value added, 
+fixed assets, liabilities, number of working owner, hired worker and other 
+worker (most of whom would be unpaid family workers) and related data on 
+the unorganized non-agricultural sector. You can become a user in the website 
+of the MoSPI and download relevant reports for your research, free of cost. 
+You can also purchase relevant micro data from the MoSPI. 
+NSS Round 
+No. 
+Reference Year Subject coverage 
+67th July 2010 – June 2011 Unorganised Non-agricultural Enterprises 
+(excluding cconstruction) 
+63rd July 2006 – June 2007 Unorganised service sector enterprises 
+(excluding construction) 
+62nd July 2005 – June 2006 Unorganised manufacturing Enterprises 
+57th July 2001 – June 2002 Unorganised service sector enterprises 
+(excluding construction and finance) 
+56th July 2000 – June 2001 Unorganised manufacturing Enterprises 
+55th July 1999 – June 2000 Informal sector non-agricultural enterprises 
+(excluding finance) 
+53rd January – December 
+1997 
+Unorganised trading Enterprises 
+51st July 1994 – June 1995 Unorganised manufacturing Enterprises 
+46th July 1990 – June 1991 UnorganisedNDTE and DTE (trading) 
+Enterprises 
+45th July 1989 – June 1990 Unorganised manufacturing Enterprises 
+
+
+--- Page 58 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+58 
+At the global level, the UN International Labour Organisation (ILO) supports 
+surveys on employment and child labour related issues. The Laborsta database 
+and the Key Indicator of Labour market (KILM) of the ILO contains 
+comprehensive country level comparable estimates on labour force 31, 
+employment and unemployment, forced labour, informal economy and labour 
+migration related data. The UN Industrial Development Organisation (UNIDO) 
+has recently developed the world productivity database, providing total factor 
+productivity and related indicators. 
+We have looked at data sources that provide data on production and also on 
+certain related variables like capital employed, employment etc. How is the 
+capital financed? Let us look at some of the sources that throw light on these 
+matters. 
+22.3.5 Industrial Credit and Finance 
+The RBI Handbook on Statistics of the Indian Economy provides time 
+series data on the sectoral deployment of non-food gross bank credit provided 
+by Scheduled Commercial Banks to different sectors of the economy which 
+enables you to study trends in the flow of bank credit to small-scale industry, 
+medium and large industries, wholesale trade other than food production and 
+export credit. This would enable you to evaluate the implementation of the 
+policy regarding allocation of bank and institutional credit to the priority 
+sector, which includes small-scale industries. It also provides time series data 
+on deployment of bank credit to some 25 industrial categories and power. In 
+addition, it presents time series data on the health of SSI and non-SSI units – 
+(a) the number of SSI units that are sick, (b) the number that are weak, (c) the 
+number of non-SSI units that are sick, and (d) the amounts outstanding (loans) 
+from each of these categories of units. 
+The ASI provides, as you have seen, some data on financial aspects of 
+industries – fixed capital, working capital, invested capital, loans outstanding 
+and also the interest burden of industrial units (up to the 4-digit NIC code 
+level). From where and how have the industries raised capital needed by them? 
+We have looked at one source of capital or working capital, namely, bank 
+credit. Time series data on new capital issues and the kinds of 
+shares/instruments issued (ordinary, preference or rights share or debentures, 
+etc.,) and the composition of those contributing to capital (like promoters, 
+financial institution, insurance companies, government, underwriters and the 
+public) are also presented. Data on assistance sanctioned and disbursed by 
+financial institutions like Industrial Development Bank of India (IDBI), 
+Industrial Credit and Investment Corporation of India (ICICI), Small Industrial 
+Development Bank of India (SIDBI) and Life Insurance Corporation (LIC) of 
+India can also be obtained from the Handbook. Similarly, some data on the 
+financing of project costs of companies are available in the Handbook. All 
+these data of course relate to companies, which may include non-industrial 
+ventures too. The primary source of such data is the Ministry of Company 
+Affairs. The publication of the Securities Exchange Board of India (SEBI) 
+“Handbook of Statistics on the Indian Securities Market”(the latest one 
+published in 2012) provides annual and monthly time series data on industry-
+wise classification of capital raised through the securities market – the 
+industrial sector activities by which the classification is being made are, cement 
+                                                            
+ 
+31 See the website http://labordoc.ilo.org/ . 
+
+
+--- Page 59 ---
+ 
+ 
+ 
+59
+Agricultural and 
+Industrial Data
+and construction, chemical, electronics, engineering, entertainment, finance, 
+food processing, health care, information technology, leather, metal mining, 
+packaging, paper and pulp, petrochemical, plastic, power, printing and rubber. 
+A reference to the two volumes of EIS, CMIE, one “Industry: Financial 
+Aggregates” and the other “Industry: Market Size and Shares” would be 
+rewarding. 
+Foreign direct investment (FDI) is another important source of capital finance 
+for industrial expansion. Availability of data on FDI is dealt with in Unit 22 on 
+Trade and Finance. 
+22.3.6 Contribution of Industrial Sector to GDP 
+The National Accounts Statistics (NAS), as we have seen in UNIT 18 on 
+National Income, Saving, Investment, furnishes information on the contribution 
+of the industrial sector to GDP. NAS presents a short time series of estimates of 
+(i) value of output and GDP of each two-digit NIC code level industry in the 
+registered and the unregistered sub-sector of the manufacturing sector, (ii) 
+value of output of major and minor minerals and GDP and NDP of the mining 
+& quarrying sector, and (iii) GDP and NDP of the sub-sectors electricity, gas 
+and water supply. 
+Check Your Progress 4 
+1) Name the agencies which generate the data on small scale industries. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+2) How can you get the data on deployment of bank credit to SSI units? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+3) From which sources you can get the data on credit flowing to small scale 
+sector? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 

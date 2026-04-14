@@ -1,0 +1,267 @@
+--- Page 113 ---
+ 
+ 113
+I Construction of Composite 
+Index in Social Sciences
+Table 12.13 (Output 5) has two parts of analysis: reproduced correlation and 
+residuals. The reproduced correlation is the correlation among the extracted 
+components. From this table, we intend to ensure that the correlation between 
+the original variables and reproduced matrix should be as close as possible. The 
+lower part of the table ‘residual matrix’ shows the difference between original 
+variable and residual matrix. For a good PCA, it was expected that the 
+difference between original variable and extracted matrix should be near to 
+zero. Once the difference is near to zero, it can be said that the extracted 
+components accounted a larger variation in the original correlation matrix. 
+Here we can take an example from the table that the original correlation 
+between irrigation and other than agricultural labour is 0.403, Whereas the 
+extracted correlation between these two variable is 0.554 and the difference 
+between the two correlation given in residual part is 0.403-0.554= -0.149. 
+Final PCA Index Value 
+The final index is calculated by the addition of multiplication of normalized 
+value of the variable and the Eigen vector of that variable (first component). In 
+our example the PCA index value for all the 11 selected district can be 
+calculated by using two Table 12.5 and Table 12.12 given above. The final 
+PCA index of first district (Malkangiri) is   
+PCA index Malkangiri District = a11x1+a12x2+……+a1nxn 
+= (0.202*1.237) + (-0.185*1.332) + (-0.403*1.899) + (0.717*0.808) + 
+(0.837*0.561) + (-0.721*1.079) +  (0.504*1.379) + (0.733*0.614) + 
+(0.441*0.775) + ( -.430*1.003)= 0.049 
+Likewise the PCA Index value of all other districts can be calculated as given 
+in Table 12.14 
+Table 12.14: PCA Index Value 
+District PCA Index 
+Malkangiri   0.049 
+Rayagada  1.273 
+Sundargarh 1.322 
+Nabarangapur   1.145 
+Kandhamal 1.641 
+Koraput 0.517 
+Mayurbhanj 1.333 
+Gajapati  1.757 
+Sambalpur 0.465 
+Kendujhar 0.290 
+Jharsuguda   1.551 
+
+
+--- Page 114 ---
+ 
+ 
+Quantitative Methods-I 
+114 
+Construction of Composite The table 12.14 reveals that Gajapati is the most developed district followed by 
+Kandhamal district. On the other hand, Malkangiri is most backward district.  
+12.6.2   Use of Output Indicators 
+After finding out the Index findings need to be validated. This can be done by 
+comparing the result with some output indicators. Let us illustrate with 
+example discussed in section 12.6. District wise final index as arrived out by 
+PCA method is given in Table 12.14. This finding can be validated be taking 
+an output indicator say infant mortality rate (IMR). We can run a correlation 
+between PCA index and the output indicator ‘Infant mortality rate’. This has 
+been provided in Table 12.15 which is 0.893. The table shows that the most 
+backward district has a higher degree of mortality. Hence our final index is 
+validated. If suppose the correlation between these two variable is -0.120, then 
+our index is not validated as the correlation between the two variable is very 
+low.  
+Table 12.15: PCA Index and Comparing with Output Indicators 
+District PCA Index Infant Morality Rate*  
+Malkangiri   0.049 120 
+Kendujhar 0.290 100 
+Sambalpur 0.465 110 
+Koraput 0.517 92 
+Nabarangapur   1.145 89 
+Rayagada  1.273 100 
+Sundargarh 1.322 80 
+Mayurbhanj 1.333 75 
+Jharsuguda   1.551 65 
+Kandhamal 1.641 60 
+Gajapati  1.757 55 
+Note: Imaginary numbers  
+12.6.3    Use of Weight 
+Assigning weight i.e. all the indicators/dimensions are treated equally or 
+differentially is an important issue in construction of composite index.. 
+Sometimes different dimensions are given differential weight but in 
+construction of overall index, an equal weight approach is followed. The 
+human development index assigns differential weights to indicators/dimension 
+but for overall index, an equal weight approach is followed. In construction of 
+human development index, in 2001 by Planning Commission, the overall index 
+was calculated by using equal weight whereas the different sub-indices like 
+Composite indicator on educational attainment, Composite indicator on health 
+attainment differential weights were given. In calculating educational 
+attainment, two variables i.e. ‘literacy rate for the age group 7 years and 
+‘adjusted intensity of formal education’ were used where the first and second 
+variable were given 1/3 and 2/3 weight respectively. The other ‘health 
+attainment was calculated by taking two variables ‘life expectancy at age one,’ 
+
+
+--- Page 115 ---
+ 
+ 115
+I Construction of Composite 
+Index in Social Sciences
+and ‘infant mortality rate’. The first variable has a weight of 2/3 whereas the 
+second variable 1/3. But the overall weight is calculated by taking equal weight 
+for both the variables. Take another example of our range equalization method 
+where we have given equal weight to all variables. In some other cases, the 
+individual variables of sub indices were given equal weights but the overall 
+index was calculated by giving differential weights to sub-indicators.  
+Let us denote the weight in mathematical notation: 
+I=XW, 
+where ‘X’ is a matrix with m rows and n column, ‘I’ is identity matrix and ‘W’ 
+is weight. Hence the final indices can be arrived at by taking the weighted 
+component/variables. There are basically two ways in assigning weights. 
+According to Munda and Nardo (2005), we can define weight by taking the 
+importance of the particular variable or group of variables. In this process, the 
+weights are arrived at by the past knowledge or observation of individual and 
+the probable effects of that variable in the overall analysis. Let us illustrate 
+with an example. Suppose we want to find out the sanitation and hygiene 
+Index. For this we have selected some variables like ‘proportion of people 
+having access to toilet’, ‘proportion of people having drainage’, ‘proportion of 
+people with wash hand’, ‘proportion of people safely disposed child exgratia’ 
+etc . Here either on the basis of literature or on the basis of our observation 
+from some villages, we found that not having toilet is very important then wash 
+hand before eating. In this case we can put higher weight for having toilet and 
+less weight for washing hand.  
+In case of literature, weights are derived from on the basis of theoretical or 
+statistical consideration. 
+12.6.4 Limitations of Principal Component Analysis 
+The major criticisms against the use of PCA is that the technique is arbitrary in 
+constructing indices. The number of components and the number of variables 
+used are not well defined. This method entirely depends on the first 
+component. If the first component does not explain large variation, this method 
+is not useful. Such possibility depends on nature of data and on relationship of 
+variable.  
+Alternative methods to PCA that can reduce the dimensionality of the data 
+include: correspondence analysis, multivariate regression or factor analysis. 
+The details about these methods have been provided in Unit 13 and Unit 16 of 
+Block 4. 
+12.7 MERITS AND LIMITATIONS OF 
+COMPOSITE INDEX 
+One of the important merits of a composite index is that this can summarize the 
+complex and multidimensional indicators into one indicator which helps the 
+policy makers for implementation of a particular programme or policy 
+decision. A composite index can easily be taken to interpret about the 
+development or backwardness of a particular region or area or sector. The 
+progress of a state in India say, e.g. Bihar can easily be accessed and we can 
+compare the status of Bihar at two or more points of time. The composite index 
+
+
+--- Page 116 ---
+ 
+ 
+Quantitative Methods-I 
+116 
+Construction of Composite can reduce the number of indicators without reducing the underlying 
+information base. The composite index facilitates communication to general 
+public and promote accountability. The composite index is not free from 
+limitations. It has the risk of misleading policy message if it is poorly 
+constructed or misinterpreted. The calculation may be misleading and faulty if 
+sound statistical or conceptual principle is not applied. The assignment of 
+weight many times creates a debate. One of the principles of assigning weight 
+is on the basis of value judgment. This always being a source of criticism.  
+Again allocation of upper and lower bound (mainly in range equalization 
+method) is a point of criticism.  
+Check Your Progress 3 
+1) In the context of Composite Index, what are the uses of Principal 
+Component Analysis (PCA). 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) What is explained by the term ‘communality’? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+3) How is Final Index Value calculated? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+4) In construction of Human Development Index, how weights are assigned to 
+the different indicators? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+
+
+--- Page 117 ---
+ 
+ 117
+I Construction of Composite 
+Index in Social Sciences
+5) State the limitations of Composite Index. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+12.8  LET US SUM UP 
+Composite index is an important analytical technique to analyse the 
+developmental related issues like status of development, food security, human 
+development etc. at the district/region/state level. It is an expression of single 
+score made of different scores measuring the various dimensions and indicators 
+of particular issue. This Unit describes the process to derive composite index 
+by applying the various methods. These methods include simple ranking 
+method, indices method, mean standarisation method, and range equalization 
+method. The main advantage of the rank and indices method is that they are 
+easy to understand and interpret. The RE, MS and PCA methods uses all the 
+variables in reducing the dimensionality of the data. These methods are very 
+much useful in comparing across districts, states, countries or areas such as 
+rural and urban. Again these methods are useful to compare over time by 
+constructing composite index at two points of time by taking same 
+indicators/variables. The principal component analysis enables the students to 
+reduce the indicators that are uncorrelated to explain the variation in the 
+original data set. To run the PCA, SPSS and STATA softwares are preferred.  
+12.9     EXERCISES 
+1) Think and collect some gender related variables from the data sources like 
+women literacy, women workforce participation rate in the age group 15-
+59, mean year schooling, mortality rate, immunization rate etc and find out 
+the gender development index. 
+ 
+2) Explain the process of using Principal Component Analysis (PCA) to 
+reduce the number of variables in a data set to smaller number of 
+dimensions. 
+3) By using range equalization method find out the food security index from 
+the report prepared by IHD-WFP given in website 
+‘http://122.180.7.122/displaymorePub.asp?itemid=84&subchkey=11&chna
+me=Publications.‘ 
+12.10 SOME USEFUL BOOKS/REFERENCES 
+A. Saltelli, G. Munda and M. Nardo (2006), ‘From Complexity to 
+Multidimensionality: the Role of Composite Indicators for Advocacy of EU 
+Reform’, Tijdschrift voor Economie en Management Vol. LI, 3 
+
+
+--- Page 118 ---
+ 
+ 
+Quantitative Methods-I 
+118 
+Construction of Composite Downloaded from http://www.econ.kuleuven.be/rebel//jaargangen/2001-
+2010/2006/TEM%202006-3/TEM_2006-3_03_Saltelli.pdf 
+Planning Commission (2001), ‘National Human Development Report’, 
+Government of India downloaded from http://planningcommission. 
+nic.in/reports/genrep/index.php?repts=nhdcont.htm 
+OECD (2008), ‘Handbook on Constructing Composite Indicators Methodology 
+and User Guide’, Organization For Economic Co-operation and Development. 
+12.11  ANSWER OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) See Section 12.2 
+2) See Section 12.2 
+3) See Section 12.3 
+4) See Section 12.4 
+Check Your Progress 2 
+1) See Sub-section 12.4.1 
+2) See Sub-section 12.4.2 
+3) See Sub-section 12.5.4 
+Check Your Progress 3 
+1) See the heading ‘conducting PCA and analyzing result’ under Section 12.6 
+2) See Sub-section 12.6.1 (Under the head conducting the PCA and analyzing 
+results) 
+3) See Sub-section 12.6.1 (Under the head final PCA index value) 
+4) See Sub-section 12.6.3  
+5) See Section 12.7 
+ 

@@ -1,0 +1,627 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+ 
+ 
+ 
+QUANTITATIVE METHODS-II 
+UNIT 13 
+Multivariate Analysis: Factor Analysis         5 
+UNIT 14 
+Canonical Correlation Analysis 31 
+UNIT 15 
+Cluster Analysis 43     
+UNIT 16 
+Correspondence Analysis 59  
+UNIT 17 
+Structural Equation Modeling 75  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEC-109
+Research Methods 
+in EconomicsIndira Gandhi  
+National Open University 
+School of Social Sciences 
+4 
+
+
+--- Page 2 ---
+Expert Committee 
+ 
+Prof. D.N. Reddy     Prof. Romar Korea 
+R
+td. Professor of Economics    Professor of Economics 
+University of Hyderabad, Hyderabad   University of Mumbai, Mumbai 
+ 
+Prof. Harishankar Asthana    Dr. Manish Gupta   
+P
+rofessor of Psychology    Sr. Economist 
+Banaras Hindu University    National Institute of Public Finance and Policy 
+Varanasi      New Delhi 
+ 
+Prof. Chandan Mukherjee    Prof. Anjila Gupta    
+P
+rofessor and Dean     Professor of Economics 
+School of Development Studies   IGNOU, New Delhi   
+Ambedkar University, New Delhi   
+ 
+Prof. V.R. Panchmukhi    Prof. Narayan Prasad (
+ Convenor) 
+Rtd. Professor of Economics    Professor of Economics 
+Bombay University and Former   IGNOU 
+Chairman, ICSSR, New Delhi   New Delhi 
+ 
+Prof. Achal Kumar Gaur    Prof. K. Barik   
+P
+rofessor of Economics    Professor of Economics 
+Faculty of Social Sciences    IGNOU  
+Banaras Hindu University, Varanasi   New Delhi 
+ 
+Prof. P.K. Chaubey     Dr. B.S. Prakash    
+P
+rofessor, Indian Institute of    Associate Professor in Economics  
+Public Administration, New Delhi   IGNOU, New Delhi 
+ 
+Shri S.S. Suryanarayana    Shri Saugato Sen  
+F
+ormer Joint Advisor    Associate Professor in Economics 
+Niti Ayoug, New Delhi    IGNOU, New Delhi 
+Course Coordinator and Editor: Prof. Narayan Prasad 
+Block Preparation Team 
+ 
+Unit Resource Person     IGNOU Faculty   
+      (Format and Language Editing) 
+13 Dr. Darvinder Kumar (Sr. Scale)  Prof. Narayan Prasad   
+ Assistant Professor in Statistics  Professor of Economics   
+ PGDAV College (University of Delhi), Delhi IGNOU, New Delhi 
+ 
+14 Vivek N. Sharma    Prof. Narayan Prasad   
+ 
+Assistant Professor in Mathematics  IGNOU, New Delhi 
+ SGTB Khalsa College, (Univ. of Delhi), Delhi    
+ 
+ Ms. Neha 
+ 
+Research Assist., IGNOU, New Delhi 
+ 
+15 Dr. Nausheen Nizami   Prof. Narayan Prasad 
+ 
+Assistant Professor in Economics  Professor of Economics 
+ Gargi College (University of Delhi), Delhi IGNOU, New Delhi 
+ 
+ Ms. Neha Bailwal 
+ 
+Research Assistant, IGNOU, New Delhi 
+ 
+16 Mr. Vivek N. Sharma   Shri B.S. Bagla 
+ Assistant Professor in Mathematics  PGDAV College  
+ SGTB Khalsa College (Univ. of Delhi)  (University of Delhi) 
+ 
+17 Prof. Hari Shankar Asthana   Prof. Narayan Prasad 
+P
+rofessor of Psychology, BHU, Varanasi Professor of Economics, IGNOU, New Delhi 
+ 
+Print Production    Secretarial Assistance  
+Mr. Manjit Singh     Shri Vinay Kumar 
+Section Officer (Pub.), SOSS, IGNOU, New Delhi 
+December, 2015 
+© Indira Gandhi National Open University, 2015 
+ISBN-978-93-85911-28-6 
+All rights reserved. No part of this work may be reproduced in any form, by mimeograph or any other 
+means, without permission in writing from the Indira Gandhi National Open University. 
+Further information on Indira Gandhi National Open University courses may be obtained from the 
+University's office at Maidan Garhi. New Delhi-110 068. 
+Printed and published on behalf of the Indira Gandhi National Open University, New Delhi by the 
+Director, School of Social Sciences. 
+Laser Typeset by : Tessa Media & Computers, C-206, A.F.E.-II, Okhla, New Delhi 
+Printed at : 
+Block Editor 
+ 
+Prof. G.K. Shukla  
+Rtd. Prof. of Statistics 
+IIT, Kanpur 
+
+
+--- Page 3 ---
+BLOCK 4 QUANTITATIVE METHODS-II 
+Many a times a social scientist or a policy maker is required to identify the 
+factors causing variation in any social or economic issue of policy importance 
+like food security, child deprivation etc. in order to take corrective policy 
+measures. To handle such issues, factor analysis technique, in case of interval 
+scale or ratio scale data and correspondence analysis method in nominal or 
+categorized variables are used. Another Multi-Variate statistical model namely 
+canonical correlation analysis is used to examine the interrelationships among 
+set of multiple dependent variables and multiple independent variables. Cluster 
+analysis enables us to classify the units or observations into sub-groups or 
+clusters based on characteristics or information contained in the variables. 
+Structural Equation Modeling (SEM) attempts to examine the causal relations 
+by including directly observed variables and latent variables. Keeping in view 
+the widening role of interdisciplinary nature of economics, the mixed methods 
+research is gaining popularity among researchers. All these five Multi-Variate 
+statistical techniques are increasingly being used in Mixed Methods Research 
+and hence have been covered in this block. 
+Unit 13 on ‘ Multivariate Analysis: Factor Analysis ’ throws light on various 
+concepts used in factor analysis, algorithm involved in factor analysis and the 
+process to interpret the results of factor analysis. 
+Unit 14 on ‘ Canonical Correlation Analysis ’ deals with the procedure to 
+compute the canonical correlation, its application in social sciences, interpretation 
+of its results and limitation. 
+Unit 15 entitled ‘ Cluster Analysis ’ discusses the concept and purpose of 
+cluster analysis, the various steps and algorithm in computation of its results 
+and the different approaches followed in it. 
+Unit 16 on ‘ Correspondence Analysis ’ covers the concept and special 
+features of correspondence analysis, its computation algorithm, interpretation 
+of its results and the process of application of this technique in social sciences. 
+Unit 17 entitled ‘ Structural Equation Modeling (SEM) ’ throws light on the 
+meaning and importance of SEM, its various models, steps involved in it, its 
+advantages and disadvantages.  
+ 
+ 
+
+
+--- Page 4 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+5 
+-II 
+UNIT 13 MULTIVARIATE ANALYSIS: 
+FACTOR ANALYSIS 
+ 
+Structure 
+13.0 Objectives 
+13.1 Introduction 
+13.2 Factor Analysis: Concept and Meaning 
+13.3 Historical Background of Factor Analysis 
+13.4 The Orthogonal Factor Model 
+13.4.1 Notations and Terminology 
+13.4.2 The Factor Model 
+13.4.3 Model Assumptions 
+13.5 Communalities 
+13.6 Methods of Estimation 
+13.6.1 Principal Component Method 
+13.6.2 Maximum Likelihood Method 
+13.7 Factor Rotation 
+13.8  Oblique Rotation 
+13.9 Factor Scores 
+13.10 Methods for Estimation of Factor Scores 
+ 13.10.1 Ordinary Least Square Method 
+13.10.2 Weighted Least Square Method 
+13.10.3 Regression Method 
+13.11 Let Us Sum Up 
+13.12 Key Words 
+13.13 Some Useful Books 
+13.14 Answers or Hints to Check Your Progress Exercises 
+13.15 Exercises 
+13.0 OBJECTIVES 
+After going through this unit, you will be able to: 
+• explain the terms used in factor analysis model like factor loadings, specific 
+variances, communalities, factor rotation and oblique rotation; 
+• know the various uses of factor analysis model; 
+• elucidate how to apply principle component analysis and maximum 
+likelihood methods for estimating the parameters of a factor model; 
+• discuss methods for estimating factor score; and 
+• learn how to interpret the results of factor analysis based on rotated factor 
+loadings, rotated eigenvalues and scree test. 
+ 
+
+
+--- Page 5 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+6 
+13.1 INTRODUCTION 
+We have seen in Unit 12 that how the principal component analysis (PCA) is a 
+useful technique to reduce the indicators or data for construction of composite 
+index and identify the variables for policy decisions. Factor analysis is a further 
+extension of principal component analysis. Many a times, a researcher in social 
+sciences is confronted with entangled human behaviour, unknown 
+interdependencies and masses of qualitative and quantitative variables. In such 
+situations, he may intend to uncover major social, institutional and 
+international pattern. Factor analysis enables him to manage over a hundred 
+variables, explore a content area, structure a domain, map unknown concepts, 
+classify or reduce data, illuminate causal nexus, define relationships, test 
+hypotheses, formulate theories and make inferences. In short, a social scientist 
+can discern the regularity and order in a phenomena under investigation by 
+applying factor analysis. Factor analysis takes thousands of measurements and 
+qualitative observations and resolves them into distinct patterns of occurrence. 
+Factor analysis as a constituent of multi-variate analysis involves a large 
+number of issues ranging from conceptual, application, modeling, inference 
+and interpretation, factor rotation etc. Keeping in view, the limited scope of this 
+unit, we shall confine here to explain the concepts used in factor analysis, 
+methods of estimation in factor model and the techniques of extraction such as 
+principal component method and maximum likelihood method. Let us begin 
+with explaining the concept of factor analysis. 
+13.2 FACTOR ANALYSIS: CONCEPT AND 
+MEANING 
+The term factor analysis refers to anyone of a number of similar but distinct 
+multi-variate statistical models that model observed variables as linear 
+functions of a set of latent or hypothetical variables (also known as factors) not 
+directly observed. 
+Factor analysis models are similar to regression models in the sense that both 
+types of models possess dependent variables as linear functions of independent 
+variables. However, they are distinct to each other in the sense that in factor 
+analysis models, the independent variables are not observed independently of 
+the observed dependent variables. 
+The factor variables contained in factor analysis models may be determinate or 
+indeterminate. The determinate models encompass the various component 
+analysis models such as Principal Components Analysis, weighted principal 
+components and Gultman’s image analysis. Indeterminate models are 
+represented by the common factor model that seeks to account for co-variation 
+between the observed variables and a set of common factor variables. 
+Determinate factor analysis are more useful in data reduction role by finding a 
+smaller number of variables that capture most of the information of variation 
+and co-variation among the observed variables. In contrast, the common factors 
+in the indeterminate models are indeterminate from the observed variables and 
+are not linear combinations of them. In this unit, we shall confine our 
+discussion to determinate factor analysis. 
+Factor analysis is based on a model in which the observed vector is partitioned 
+into an unobserved systematic part and an unobserved error part. The 
+
+
+--- Page 6 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+7 
+-II components of the error vector are considered as uncorrelated or independent, 
+while the systematic part is taken as a linear combination of a relatively small 
+number of unobserved factor variables. The analysis separates the effects of the 
+factors, which are of the basic interest from the errors. From another point of 
+view the analysis gives a description or explanation of the interdependence of a 
+set of variables in terms of the factors without regard to the observed variability. 
+13.3 HISTORICAL BACKGROUND OF FACTOR 
+ANALYSIS 
+The early development of factor analysis was due to Charles Spearman in the 
+year 1904. He published a paper that is thought to be where factor analysis 
+originated. Spearman was working with examination scores of school children 
+and he was able to notice certain systematic effects in the matrix of correlation 
+between the scores the children made on different tests. For example, in one 
+case he obtained the following matrix of correlations for school children in a 
+preparatory school for their scores on tests in Classics (C), French (F), English 
+(E), Mathematics (M), Discrimination of pitch (D), and Music (Mu) as follows: 
+      C      F      E     M      D   Mu  
+C
+F
+E
+M
+D
+Mu ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m11.00 0.83 0.78 0.70 0.66 0.63
+0.83 1.00 0.67 0.67 0.65 0.57
+0.78 0.67 1.00 0.64 0.54 0.51
+0.70 0.67 0.64 1.00 0.45 0.51
+0.66 0.65 0.54 0.45 1.00 0.40
+0.63 0.57 0.51 0.51 0.40 1.00
+ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+ 
+ 
+It can be noted out that this matrix has the interesting property that any two 
+rows are almost proportional if the diagonals are ignored. Thus for rows C and 
+E there are ratios: 
+0.83
+0.67ig15mp0.70
+0.64
+ig15mp0.66
+0.54
+ig15mp0.63
+0.51
+ig15mp 1.2 
+ 
+Spearman proposed the idea that the six test scores are all of the form 
+                            Xig2919igjmpm lig2919F igjj97εig2919 
+W
+here Xig2919 is the i t h standardized score with a mean of zero and a standard 
+deviation of one, lig2919 is a constant, F is a factor value which has mean zer o and 
+standard deviation one for individuals as a whole and εig2919 is the part of  Xig2919 that is 
+s
+pecific to the i th test only. On the basis of his work Spearman formulated his 
+two-factor theory of mental tests i.e each test result is made up of two parts, 
+one that is common to all tests is general intelligence and another that is 
+specific to the test. Later on this theory was modified to allow for each test 
+result to consist of a part due to several common factors plus a part specific to 
+test. This gives the general factor analysis model 
+Xig2919igjmpm lig2919ig2869F ig2869igjj97 lig2919ig287pF ig287pigjj97 ig171p igjj97 lig2919ig292jF ig292jigjj97εig2919 
+1
+3.4 THE ORTHOGONAL FACTOR MODEL 
+In this section, first we will define some notations and terminology along with 
+the underlying assumptions.  
+
+
+--- Page 7 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+8 
+13.4.1    Notations and Terminology 
+Multivariate population and sample can be defined by mean vector µ and 
+covariance matrix Σ. These are defined as follows. Suppose that there are p 
+variables X1, X2,……Xp then the vector of sample mean is given by 
+  Xigjmpm  
+ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m1Xig2869
+Xig287p
+ig17p9
+Xig2926ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+ 
+This can be thought of as the centre of the sample. It is an unbiased estimate of 
+the population vector of means 
+  µ igjmpm  igjmjp
+µig2869
+µig287p
+ig17p9
+µig2926
+igjmjm 
+T
+he matrix of the sample variance and covariances is 
+  S igjmpm  
+ig17mj
+ig17m2
+ig17m2
+ig17m1Sig2869ig2869Sig2869ig287pig171p Sig2869ig292j
+Sig287pig2869Sig287pig287pig171p Sig287pig292j
+ig17p9 ig17p9 ig17p9
+Sig2926ig2869Sig2926ig287pSig2926ig292jig17m6
+ig17m5
+ig17m5
+ig17mm
+ 
+where S is called the sample covariance matrix or sometimes sample dispersion 
+matrix. It is an unbiased estimate of the population covariance matrix Σ. 
+Consider m unobserved common factors F 1, F2,……Fm. The ith common factor 
+is Fi. Generally, m is substantially less than p. 
+The common factors are also formed into a vector as 
+  F igjmpm  igjmjp 
+F ig2869
+F ig287p
+ig17p9
+F ig292j
+ igjmjm 
+13.
+4.2    The Factor Model 
+The factor model can be observed as a series of multiple regressions, predicting 
+each of the observable variable Xi from the unobservable common factors Fi. In 
+general the factor analysis model is given by 
+  Xig2869igjmpmµig2869igjj97 lig2869ig2869F ig2869igjj97 lig2869ig287pF ig287pigjj97 ig171p lig2869ig292jF ig292jigjj97εig2869 
+ 
+                       Xig287pigjmpmµig287pigjj97 lig287pig2869F ig2869igjj97 lig287pig287pF ig287pigjj97 ig171p lig287pig292jF ig292jigjj97εig287p 
+ 
+ ig17p9 
+  Xig2926igjmpmµig2926igjj97 lig2926ig2869F ig2869igjj97 lig2926ig287pF ig287pigjj97 ig171p lig2926ig292jF ig292jigjj97εig2926 
+H
+ere, the means µig2869,µig287p, … . . ,µig2926 can be regarded as the intercept for the multiple 
+r
+egression models. The regression coefficients lig2919ig292p (slopes) for all the multiple 
+r
+egressions are called factor loadings. Here, lig2919ig292p is the loading of the i t h variable 
+on the jth factor. These will be shown in the matrix form as follows: 
+
+
+--- Page 8 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+9 
+-II Matrix of the factor loading 
+  L igjmpm  
+ig17mj
+ig17m2
+ig17m2
+ig17m1lig2869ig2869lig2869ig287pig171p lig2869ig292j
+lig287pig2869lig287pig287pig171p lig287pig292j
+ig17p9 ig17p9 ig17p9
+lig2926ig2869lig2926ig287plig2926ig292jig17m6
+ig17m5
+ig17m5
+ig17mm
+   
+and finally the error s εig2919 are called the specific factors. Here, εig2919 is the specific 
+f
+actor for variable i. The specific factors are also shown into a vector form as 
+Vector of specific factors 
+  εigjmpmigjmjp
+εig2869
+εig287p
+ig17p9
+εig2926
+igjmjm  
+In general, the basic factor analysis model is like a regression analysis model. 
+Each of our response variable X is expressed as a linear function of the 
+unobserved common factors F 1, F2,….Fm. Therefore, here one can say that we 
+have m unobserved factors that control the variation among the data. 
+We will write the above factor model in matrix notation as  
+X igjmpmµ igjj97 L F igjj97ε (13.1) 
+In general we want m < p 
+13.4.3  Model Assumptions 
+Some assumptions are necessary to uniquely estimate the parameters. 
+Otherwise, an infinite number of equally well fitted models with different 
+values for the parameters may be obtained if these assumptions are not made. 
+Therefore, the following assumptions are made about the unobserved random 
+vectors F and ε and its certain covariance relationships: 
+i) The specific factors or random errors all have mean zero i.e., 
+ Eigm666εig2919igm667igjmpm
+ 0;          i igjmpm 1, 2, … . . , p 
+ii) The common factors also have mean zero i.e., 
+ Eigjmj5F ig292pigjmj9igjmpm 0;          j igjmpm 1, 2, … . . , m 
+iii) The variance of specific factor i is Ψig2919, where Ψig2919 is called the specific 
+v
+ariance, and they are independent, i.e. ig1829ig1867ig187m igjmj5εig2919,εig2919
+′igjmj9igjmpm 0. for ig1861 igjmp5 ig1861′. 
+ Cov igm666εig2919igm667igjmpm Eigjmj5εig2919,εig2919
+′igjmj9igjmpmΨ igjmpm
+ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m1ψig28690 ig171p 0
+0 ψig287pig171p 0
+ig17p9
+ig17p9 ig17p9
+0 0 ig171p ψig2926ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+;     i igjmpm 1, 2, … . . , p  
+iv) The common factors F ig292p have variance one and are uncorrelated, i.e. 
+ig18m8igjmj5F ig292pigjmj9igjmpm Cov igjmj5F ig292p, Fig292p
+′igjmj9igjmpm 0 for ig1862 igjmp5 ig1862′. 
+T
+hus co-variance matrix of F is an identify matrix I, i.e. cov (F) = I 
+
+
+--- Page 9 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+10 
+v) Since the common factors and specific factors are independent, then the 
+specific factors are uncorrelated with the common factors i.e 
+Cov igjmj5εig2919, Fig292pigjmj9igjmpm Eigjmj5εig2919, Fig292p
+′igjmj9igjmpm 0;     i igjmpm 1, 2, … . . , p;   j igjmpm 1, 2, … . . , m 
+Now, the factor analysis model implies a covariance structure for the random 
+variable X is given by equation  
+ igm666X igjj98µigm667 igm666X igjj98µigm667 igjmpmigm666L F igjj97εigm667 igm666L F igjj97εigm667            (13.1) 
+      igjmpmigm666L F igjj97εigm667 igm666igm666L Figm667 igjj97εigm667 
+      igjmpm L Figm666L Figm667 igjj97εigm666L Figm667 igjj97 L F εigjj97εε 
+so that 
+   Σ igjmpm Cov igm666Xigm667igjmpm Eigm666X igjj98μigm667 igm666X igjj98μigm667 
+     igjmpm L Eigm666F F igm667L igjj97 Eigm666ε Figm667L igjj97 LEigm666F εigm667igjj97 Eigm666εεigm667 
+   ig1525        Σigjmpm L L igjj97Ψ     (13.2) 
+This is the matrix of factor loadings, times its transpose plus a diagonal matrix 
+containing the specific variances. Hence a simplified model for the covariance 
+matrix is obtained which is used for estimation. 
+Also, on multiplying F  in equation (13.1) on both sides, we have 
+  igm666X igjj98µigm667F igjmpmigm666L F igjj97εigm667F  
+    igjmpm L F F igjj97ε F 
+so,   Cov igm666X, Figm667igjmpm Eigm666X igjj98µigm667F igjmpm LEigm666F F igm667igjj97 Eigm666εFigm667igjmpm L 
+or  Cov igjmj5Xig2919, Fig292pigjmj9igjmpm lig2919ig292p 
+U
+nder this model, the variance for the i th observed variable is equal to the sum 
+of the squared loadings for that variables and specific variance. The variance of 
+variables Xi is:  
+ σig2919ig2919igjmpm∑ lig2919ig292p
+ig287p ig292j
+ig292p ig288pig2869igjj97ψig2919    ( 13.3) 
+This is a derivation which is based on the previous assumptions and the 
+quantity  ∑ lig2919ig292p
+ig287p ig292j
+ig292p ig288pig2869 is called the communality for variable i. 
+I
+mportant Remarks: 
+1) The model Xigjj98µ igjmpmL F igjj97ε assumes that the data is a linear function of 
+the common factors. However, since the common factors are not 
+observable, we cannot check the linearity of the model. 
+2) The covariance matrix is a symmetric matrix, that is the variance between 
+variables i and j is the same as the variance between j and i. For this 
+model: 
+                    Σigjmpm L L′igjj97Ψ 
+T
+he covariance matrix is going to have p(p+1)/2 unique elements of Σ 
+which are approximated by mp factor loadings in the matrix L and the p 
+specific variances ψig2919. When m= p, any covariance matrix Σ can be 
+reproduced exactly as L L′, so Ψ can be the zero matrix. However, when 
+m is smaller relative to p, that factor analysis is most useful. In this case, 
+
+
+--- Page 10 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+11 
+-II the factor model provides a simple explanation of the covariation in X 
+with fewer parameters than the p(p+1)/2 parameters in Σ.  
+For example, if X contains p=12 variables and the factor model with m= 
+2 is appropriate, then the p(p+1)/2= 78 elements of Σ are described in 
+terms of the mp+ p= 36 parameters lig2919ig292p and ψig2919 of the factor model. 
+U
+nfortunately, for the factor analyst, most covariance matrices cannot be 
+factored as L L′igjj97Ψ,  where the number of factors m is much less than p. 
+There are some problems, where it is not possible to get a unique 
+consistent solution for the parameters lig2919ig292p and ψig2919 from the variances and 
+c
+ovariances of the observable variables. 
+3) If m > 1, there is always some inherent ambiguity associated with the 
+factor model. To explain that, let T be any m × m orthogonal matrix. A 
+matrix is orthogonal if its inverse is equal to the transpose of the original 
+matrix. 
+TT′igjmpm T′T igjmpm I 
+H
+ence, we can write the factor model in matrix notation as: 
+   X igjj98µ igjmpm L F igjj97εigjmpm L T T′F igjj97εigjmpm L ig1m99 F ig1m99igjj97ε 
+N
+ote that this does not change the calculations since the identity matrix 
+times any matrix just gives back the original matrix. This results in an 
+alternative factor model, where the relationship between the new factor 
+loadings and the original factor loadings is:   
+ Lig1m99igjmpm L T 
+a
+nd the relationship between the new common factors and the original 
+common factor is: 
+  F ig1m99igjmpm T′F  
+T
+his gives a model that fits equally well. Moreover, since there are 
+infinite numbers of orthogonal matrices, then there are an infinite number 
+of alternative models. This model, as it turns out, satisfied all the 
+assumptions that we discussed earlier as: 
+       Eigm666F ig1m99igm667igjmpm Eigm666T′F igm667igjmpm T ′Eigm666F igm667igjmpm 0  
+    Cov igm666Fig1m99igm667 igjmpm Cov igm666T′F igm667igjmpm T ′Covigm666F igm667T igjmpm T ′I T igjmpm T′T igjmpm I 
+a
+nd 
+Cov igm666Fig1m99,εigm667 igjmpm Cov igm666T′F,εigm667igjmpm T ′Covigm666F , εigm667igjmpm T′0 igjmpm 0 
+O
+n the basis of observations on X, it is impossible to distinguish the 
+loadings L from the loadings Lig1m99. That is, the factors F and F ig1m99igjmpm T′F  have 
+the same statistical properties, and even though the loadings Lig1m99 are, in 
+ge
+neral different from the loadings L, they both have the same covariance 
+matrix Σ. That is 
+Σigjmpm L L′igjj97Ψ igjmpm L T T ′L′igjj97Ψ igjmpmigm666Lig1m99igm667 igm666Lig1m99igm667′igjj97Ψ                              (13.4) 
+This ambiguity is going to be used to justify the factor rotation, since 
+orthogonal matrices correspond to rotation of the coordinate system for 
+X. We will use later to obtain more thrifty description of the data. 
+ 

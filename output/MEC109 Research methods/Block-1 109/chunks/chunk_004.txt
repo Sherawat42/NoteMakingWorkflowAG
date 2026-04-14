@@ -1,0 +1,572 @@
+--- Page 31 ---
+31
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+1) Science is qualitatively distinct from, superior to and ideal for all other
+areas of human endeavour (scientism).
+2) The distinction, superiority and idealhood that science enjoys is traceable
+to its possession of a method (Methodologism).
+3) There is only one method common to all science irrespective of their subject
+matter (Methodological Monism).
+4) That method which is common to all sciences, natural and human, is the
+method of Hypothetico-Deduction (Hypothetico-Deductivism).
+5) The hallmark of science (i.e., the distinguishing mark of science) consists
+in the fact that its statements are systematically falsifiable (falsifiability).
+6) Scientific observations are not and cannot be shown to be pure; that is, they
+are theory-dependent.
+7) Theories are not winnowed from observations or facts; they are pure
+inventions of human mind i.e., only conjectures and not generalizations
+based on ‘pure observations’.
+8) The relation between observation and theory is one of interdependence.
+9) To a given set of observation-statements there might correspond more than
+one theory.
+10) Our factual judgements may have value commitments and our value
+judgements may have cognitive content (hence fact-value dichotomy is
+unacceptable); science is not value neutral but the value commitments can
+be critically discussed and therefore they are not subjective.
+11) All scientific explanations must have deductive-nomological pattern and
+thus the thesis of Deductive-Nomologism is acceptable.
+12) The aim of science is to provide an account of observable world in terms of
+unobservable entities and to provide accounts of those unobservable entities
+in terms of further unobservable entities. Unobservable entities are,
+therefore, real and our theories are putative descriptions of such real entities
+(‘Realism’).
+13) Unlike other areas of human activity , there is progress in science which
+consists in going from one theory to a better theory . Here, ‘better ’ means
+‘more true’. ‘More to true’ means ‘the world of unobservables’. In short,
+science is progressive in the sense our successive theories in any domain of
+science exhibit greater and greater verisimilitude or truth-nearness i.e. the
+match between our theories and reality . Unlike positivists, Popper rejects
+the idea that progress of science is characterized by cumulative growth of
+theories. According to him, a new theory is entirely new and not an old
+theory plus an epsilon as Positivists thought. Thus, in Popper’s scheme, the
+growth of science is essentially discontinuous. Of course, Popper makes
+some room for continuity also when he says that old theory (at least true
+part of it) is a limiting case of the new theory.
+14) Science is not objective in the sense scientific theories are based on pure
+observations as positivists thought because there are no pure observations.
+Science is objective in the sense its theories are inter-subjectively testable.
+
+
+--- Page 32 ---
+32
+Research Methodology:
+Issues and Perspectives
+15) Lastly, science is not rational in the sense the principle of Induction can be
+rationally justified as Positivists thought. The principle of Induction cannot
+be rationally justified; nor is it used by science. Science is rational in the
+sense it embodies critical thinking. Apart from insisting that our theories be
+falsifiable, science has institutional mechanisms for practicing and promoting
+critical thinking. What is rationality other than critical thinking? Positivists
+and Popper differ from each. The theses (1), (2), (3) and (11) are common
+to both Positivists and Popperians. Popper rejects most of other theses of
+Positivists, especially their central thesis which concerns the idea of pure
+observation. Finally, he agrees with the Positivists that science is uniquely
+progressive, objective and rational; but his notions of progressiveness,
+objectivity and rationality of science are entirely dif ferent from those of
+Positivists.
+2.5 CRITICISM AGAINST KARL POPPER’S
+PHILOSOPHY OF SCIENCE
+A serious lacuna in Popper’s position concerns his idea of scientific progress.
+First of all, according to Popper, the growth of science is essentially discontinuous
+in the sense that a new theory which displaces an old theory is not the old theory
+plus an epsilon because it is entirely new. Yet, he seeks to make room for continuity
+in the growth of science by insisting that the old theory is a limiting case of the
+new theory. In this connection he cites an example of Newtonian mechanics and
+Relativistic mechanics. The former is the limiting case of the latter in the sense
+that in a certain domain both give the same results. Thus the former is contained
+in the latter. Hence there is some continuity in the growth of science. But Popper
+overlooks the fact that such examples of an old theory being a limiting case of
+the new one are rare. For example, it is absurd to say that Phlogiston theory is a
+limiting case of oxygen theory or that Ptolemy’ s theory is limiting case of
+Copernican theory.
+Secondly, Popper says that successive theories in any domain exhibit increasing
+verisimilitude i.e., truth nearness. That is, reality constituted by unobservable
+entities is more like what a new theory says than what its immediate predecessor
+says. This means that following Popper we have to say that the ultimate
+constituents of matter are more like fields as the present physical theory says
+than like particles (atoms) as claimed by Newtonian theory. This is unintelligible.
+What does it mean to say that the ultimate constituents of matter are more like
+fields than particles called atoms? Either they are like fields or like particles.
+Thirdly, when Popper says a new theory is better than the old one (in the sense
+it is more true), he assumes that the two theories can be compared. This means
+that they have something common which makes them comparable. But this has
+been ably questioned by Thomas Kuhn who sought to show that when one
+fundamental theory replaces another, the two theories are so radically different
+as to make any talk of comparison between them highly questionable. We shall
+now turn to his views.
+
+
+--- Page 33 ---
+33
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+Check Your Progress 2
+1) On what basis, according to Popper, a line can be demarked between science
+and rest of knowledge:
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) Identify the main differences between Inductive Model and Hypothetico-
+Deduction Model.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3) What are the Central components of Hypothetico-Deductive Model?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+4) In what sense, science is rationale?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2.6 THOMAS KUHN’S PHILOSOPHY OF SCIENCE
+Thomas Kuhn’s work The Structure of Scientific Revolutions is a milestone
+in the history of the 20th century of philosophy of science. A brief exposition of
+his basic ideas are given below.
+According to Kuhn, in the life of every major science there are two stages (1)
+Pre-paradigmatic stage, and (2) paradigmatic stage. In the pre-paradigmatic
+stage one finds more than one mode of practicing that science. That is, there was
+a time in the history of Astronomy when different schools of Astronomy practised
+Astronomy differently. So is the case with Physics, Chemistry and Biology. In
+that stage their situation was similar to that which obtains today in areas like art,
+philosophy and even medicine wherein diver gent modes of practicing these
+disciplines co-exist. Today, we speak of schools of Art (e.g., painting), schools
+of Philosophy and systems/schools of medicine. But today we do not speak of
+Schools of Astronomy or Physics or Chemistry or Biology.
+
+
+--- Page 34 ---
+34
+Research Methodology:
+Issues and Perspectives
+This is, according to Kuhn, in areas like art, philosophy and medicine that did
+not, and cannot make a transition from pre-paradigmatic stage to paradigmatic
+stage, which marks the disappearance of plurality , that is, disappearance of
+schools. In other words, the transition means replacement of plurality by monolith
+i.e., a uniform mode of practice.
+Such a transition is made possible, Kuhn claims, by acquisition of a paradigm.
+When a science makes such a transition, we may say, it has bcome ‘mature’ or
+‘science’ in the proper sense of the term. Astronomy was the first to make such a
+transition followed by Physics, Chemistry and Biology in that order . Social
+Sciences are still, according to him, in the pre-paradigmatic stage, though
+Economics is showing signs of such a transition. This is evident from the fact
+that in Social Sciences there is no consensus on fundamentals as we can see
+prevalence of distinct schools in every Social Science.
+So, the transition to maturity is effected by acquiring a paradigm by a science.
+The question is “What is a paradigm?”.
+We all know that Ptolemy’s Almagest Newton’s Principia and Darwin’s Origin
+of the Species are path-breaking works in the areas of Astronomy, Physics and
+Biology respectively. According to Kuhn, these works provided paradigms for
+these disciplines. They did so by specifying the exact manner in which these
+disciplines ought to proceed. They laid the ground rules regarding what problems
+these disciplines must tackle and how to tackle them. Hence, paradigms are
+Universally recognized achievements that for a time provide model problems
+and solutions to community of practitioners. Hence, in the first place, a paradigm
+specifies what that ultimate constituents of that sphere of reality, which a particular
+science is inquiring into, are.
+Secondly, it identifies the model problems. Thirdly, it specifies the possible
+range of solutions. Fourthly, it provides the necessary strategies and techniques
+for solving the problems. Lastly, it provides examples which show how to solve
+certain problems. In other words, a paradigm is a disciplinary matrix of a
+professional group. Once a science possesses a paradigm, it develops what Kuhn
+calls, a ‘normal science tradition’. Normal science is the day-to-day research
+activity purporting to force of nature into conceptual boxes provided by the
+paradigm. The practitioners of normal science, that is, a scientist who engages in
+day-to-day research, internalizes the paradigm by professional education. This
+explains the prevalence of textbook culture in science education.
+Of course, scientific practice is not exhausted in terms of day-to-day research or
+‘normal science’. When a paradigm fails to promote fruitful, interesting and
+smooth normal science, it is considered to be in a crisis. The deepening of the
+crisis leads to the replacement of the existing paradigm by a new one. This process
+of replacement is called ‘scientific revolution’. Therefore, scientific revolutions
+are “the tradition-shattering complements to the tradition bound activity of normal
+science.” Thus, once a science enters the paradigmatic stage, it is characterized
+by (1) normal science, and (2) revolutions. In sheer temporal terms, normal science
+occupies much larger span than revolutionary science. That is to say, science is
+revolutionary once a while and mostly it is non-revolutionary or normal. Also
+the scientific activity engaged in by most of the practitioners can be characterized
+aptly in terms of noral science. On account of this temporal and numerical
+
+
+--- Page 35 ---
+35
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+magnitude we can say that much of the scientific activity as we ordinarily
+encounter is normal though this normal course is occasionally interrupted by
+revolutions which change the form, content and direction of the process of the
+scientific activity , which is basically normal by which we mean a non-
+revolutionary committed and tradition bound activity. Normal science demands
+a through going convergent thinking and hence is preceded by an education that
+involves ‘a dogmatic initiation in a pre-established tradition that the student is
+not equipped to evaluate’. “Normal science is an activity that purports not to
+question the existing paradigm but to (1) “Increase the precision of the existing
+theory by attempting to adjust the existing theory or existing observation in order
+to bring the two into closer and closer agreement”, and (2) “to extend the existing
+theory to areas that it is expected to cover but in which it has never before been
+tried”. In other words, normal science consists of solving puzzles that are
+encountered in forcing nature into the conceptual boxes supplied by the reigning
+paradigm.
+It is in this way Kuhn attempts to account for the smooth, defined and directional
+character of day-to-day scientific research in terms of the features of what he
+calls “Normal Science”. Normal Science has no room for any radical thinking. It
+is limited to the enterprise of solving certain puzzles in accordance with the
+rules specified by the paradigm. These rules are never questioned but only
+accepted and followed. The aim of scientific education is to ensure that the
+paradigm is internalized by a student. In other words, the professional training in
+science consists in accepting the paradigm as given and equipping oneself to
+promote the cause of paradigm by giving a greater precision and further
+elaboration. The day-to-day scientific research does not aim at anything
+fundamentally new but only at the application of what has already been given,
+namely the theoretical ideas and the practical guidelines for solving certain
+puzzles. It is in this sense that normal science is a highly tradition-bound
+activity.
+As pointed out earlier, normal science purports to force nature into the conceptual
+boxes provided by the reigning paradigm by solving puzzles in accordance with
+the guidelines provided by the paradigm whose validity is accepted without
+question. During this process of puzzle solving, certain hurdles may be
+encountered. We than speak of “anomalies”. That is, an anomaly arises when a
+puzzle remains puzzle defying every attempt to resolve it within the framework
+of the paradigm. But, appearance of one or two anomalies is not suf ficient to
+overthrow a paradigm. The ushering in of the ear of a new paradigm has to be
+preceded by the appearance of not one or two minor anomalies, but many major
+ones. In order to declare a paradigm to be crisis-ridden, what is needed is an
+accumulation of major anomalies. But there is no clear cut and objective criterion
+to decide which anomalies are major and how many anomalies must accumulate
+to declare a paradigm to be crisis-ridden. In other words, there is no criterion
+which decides whether a perceived anomaly is only a puzzle or the symptom of
+a deep crisis. The issue will be decided by the community of the practitioners of
+the discipline through the judgment of its peers. Once the scientific community
+declares the existing paradigm to be crisis-ridden, the search for the alternative
+begins. Of course the crisis-ridden paradigm will not be given up unless a new
+theory is accepted in its place. It is only during this transitional period of search
+for the new paradigm that the scientific debates become radical.
+
+
+--- Page 36 ---
+36
+Research Methodology:
+Issues and Perspectives
+During the process of search for an alternative, the scientific community has to
+make a choice between competing theories. In this choice, the evaluation
+procedures of normal science are of no help, “for these depend in part upon a
+particular paradigm and that paradigm is at issue.” The issue concerning the
+paradigm choice can not be settled by logic and experiment alone. What ultimately
+matters is the consensus of the relevant scientific community. Kuhn points out,
+“that question of value can be answered only in terms of criteria that lie outside
+of normal science altogether, and it is that recourse to external criteria that most
+obviously makes paradigm debates revolutionary.” Thus a paradigm choice cannot
+be explicated in the neutral language of mathematical equations and experimental
+procedures, but in terms of specific perceptions which a scientific community as
+a social entity entertains about what it considers to be the basic values of its
+professional enterprise. In other words, the ultimate explanation of a theory choice
+is not methodological but sociological. Hence in Kuhn’ s scheme, the idea of
+scientific community as a social entity is axiomatic. That is to say, according to
+him, “If the term “paradigm” is to be successfully explicated, scientific
+communities must first be recognized as having an independent existence”. This
+means that one must explain scientific practice in terms of paradigms and
+paradigmatic changes and the latter are to be explicated in terms of a particular
+scientific community which shares the paradigms and brings about paradigmatic
+changes. Thus, the concept of scientific community is basic to the concept of
+paradigm. The concept of scientific community can be explicated in sociological
+terms. Hence, the ultimate terms of explication of scientific activity are
+sociological.
+What is the relation between the old paradigm, which is overthrown and the new
+paradigm which succeeds it? Kuhn’s answer to this question is extremely radical.
+According to him, in no obvious sense one can say that the new paradigm is
+better or truer that the old one. Kuhn maintains that the two successful paradigms
+cut the world differently. They speak different languages. In fact when a paradigm
+changes, to put it metaphorically , the world changes. With his characteristic
+lucidity he says, “the transition from a paradigm in crisis to new one from which
+a new tradition of normal science can emerge is far from accumulative process,
+one that is achieved by an articulation or extension of the old paradigm. Rather,
+it is a reconstruction of the field from new fundamentals, a reconstruction that
+changes some of the field’s most elementary theoretical generalizations as well
+as many of its,… methods and applications.” This apart Kuhn contends that the
+two paradigms talk different languages. Even if the same terms are used in two
+paradigms, the terms have different meanings. What can be said in the language
+of one paradigm can not be translated into the other language. Based on these
+reasons, Kuhn claims that the relation between two successive paradigms is
+incommensurable. No wonder Kuhn compares paradigm shift to gestalt shift.
+With this, the idea of scientific progress as a continuous process and the idea of
+truth as the absolute standard stand totally repudiated. Kuhn advances what might
+appear to be an undiluted relativism according to which truth is intro-paradigmatic
+and not inter-paradigmatic. That is to say what is true is relative to a paradigm
+and there is no truth lying outside all paradigms.
+
+
+--- Page 37 ---
+37
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+2.7 POPPER VERSUS KUHN
+Some of the radical implications of Kuhn’ s position can be brought about by
+juxtaposing his views with those of Popper.
+Firstly, the hallmark of science according to Popper is critical thinking. In fact
+science exemplifies critical thinking at its best. Since critical thinking considers
+nothing to be settled and lying beyond all doubt, fundamental disagreements and
+divergent thinking must and in fact do characterize science. As we have seen,
+according to Kuhn, what constitutes the essence of scientific practice is normal
+science and we have also seen why normal science is a highly tradition-bound
+activity, an activity made possible by a consensus among the practitioners who
+share a paradigm. Thus if Popper sees the essence of science in divergent thinking
+and fundamental disagreements, Kuhn sees the essence of science in convergent
+thinking and consensus. In other words, the hallmark of science according to
+Kuhn is tradition-bound thinking. In fact, according to Kuhn, what distinguishes
+science from other areas of creative thinking is that whereas in science one finds
+institutional mechanisms of enforcing consensus, the other areas suf fer from
+perpetual disagreements even on fundamentals.
+Secondly, if Popper considers the individual to be the focus of scientific activity,
+Kuhn bestows that status upon the scientific community . Both positivists and
+Popper looked upon science as the sum total of the work of individual scientists
+working in accordance with a method though the Positivists and Popper
+fundamentally differed on the characterization of that method. As opposed to
+this individualistic account of scientific enterprise, Kuhn propounds a
+collectivistic view of scientific activity . In Kuhn’s scheme, it is the scientific
+community, which constitutes the pillar of stability and locomotive of change.
+This is borne out by the fact that according to Kuhn the scientific community has
+institutional mechanism, like peer review , by which it can settle all the issues
+such as whether an anomaly is a symptom of crisis, how many anomalies suffice
+to warrant the search for an alternative paradigm, what factors are to be considered
+in choosing a new theory for the status of the paradigm etc.
+Thirdly, Popper and Kuhn dif fer fundamentally in their attitude towards the
+transition from one theory to another theory in science. According to Popper, we
+can explain every case of change of theoretical framework in terms of certain
+norms which science always adopts and follows meticulously. In fact, scientific
+rationality consists in following these norms. But Kuhn contends that an adequate
+explanation of change of theoretical framework must be in terms of the value
+judgments made by a community while making the choice. According to Kuhn,
+recourse to the so-called methodological norms explains nothing. From the point
+of view of Popper, Kuhn is an irrationalist because he sets aside methodological
+norms and seeks to explain theory change exclusively in terms of non-rational or
+sociological factors like value commitments of a professional group. Whatever
+be the merit of Popper’s attack on Kuhn as an irrationalist, we can say that Kuhn’s
+construct of scientific practice is sociological. That is to say, according to him,
+scientific activity can not be understood by trying to find out the absolute standards
+which have guided the scientific activity in all ages. It can only be understood in
+terms of the specific judgments which a community makes at a particular juncture
+regarding what it considers to be its value commitments as a professional group.
+
+
+--- Page 38 ---
+38
+Research Methodology:
+Issues and Perspectives
+The above juxtaposition of Popper and Kuhn brings out the radical implications
+of Kuhn’s views regarding the nature of scientific practice. However , in one
+respect Kuhn is very close to Popper. Both, like positivists, content that there is
+something unique to science though they differ in their explanation of what that
+uniqueness consists of. Positivists maintain that the hallmark of science is the
+systematic verifiability of its claims. According to Popper , the uniqueness of
+science consists in the systematic falsifiability of theories. Accounting to Kuhn,
+it is consensus which marks out science from other areas of human endeavour.
+That is to say , Kuhn, like Positivists and Popper , does not question whether
+science is really unique. That is to say, instead of raising critical questions about
+the status that science has acquired in the contemporary culture, Kuhn only seeks
+to provide an alternative account of how it has acquired that status. In that sense
+Kuhn’s position is quite conservative.
+In this unit, we had a brief look at the 20 th century thinking on the nature of
+science. It is very dif ficult to decide which view is the correct one, though
+Positivist view has been shown to be highly inadequate. The question is “How
+should we practise social sciences so as to make them scientific”?
+Some social scientists take the Positivist recommendation: “collect data, extract
+a generalization, verify the generalization and formulate a law”. Those social
+scientists who are inspired by the Popperian view, take seriously the Popperian
+advice “Formulate a problem, provide a tentative solution, try to falsify it, if the
+solution survives treat it as a corroborated theory but not as a confirmed one”.
+Still others go by Kuhn’s view of science and think that the task of social sciences
+today is to arrive at paradigms in different social scientific disciplines. This will
+enable social sciences to overcome ideological commitments which generate
+differences even at a fundamental level. According to them, the consensus so
+generated will bring social sciences close to natural sciences.
+Check Your Progress 3
+1) Which two stages come in the life of every major science?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) What do you understand by the term ‘Paradigm’?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+
+
+--- Page 39 ---
+39
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+3) What is scientific revolution?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+4) How did Popper differ with Kuhn about essence of science?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+5) Match the following:
+A B
+1) Individual as the locus of scientific study i) Positivists
+2) Explanation of theory in terms of value judgment ii) Popper
+3) Theory changes in terms of certain norms iii) Kuhn
+4) Verification as the hall mark of science iv) Popper
+2.8 LET US SUM UP
+By virtue of shaping our mode of living and our ways of thinking about the
+world, science has acquired a central place in intellectual world. Three disciplines
+namely history of science, sociology of science and philosophy of science have
+made science itself their object of inquiry . Philosophy of science deals with
+broadly two questions: what is the aim of the science and what are the methods
+of science? Different scholars have answered these questions differently.
+Regarding aims and methodology two views have been dominant. ‘inductivism’
+by Francis Bacon and ‘Hypothesism’ by Rene Decartes. Positivism has been a
+movement in the philosophy of the first half of the 20th Century. Inductivitism,
+systematical verifiable statements, pure scientific observations, unilateral
+relationship between observation and theory , value neutral theory , precise
+prediction of facts as aim of science, progressive/objective/rational ar guments
+as essentials of science are some of the important central tenets of positivism.
+The concept of pure observation in positivist philosophy has been attacked on
+several grounds.
+Karl Popper and Thomas Kuhn are the two most important philosophers of mid
+20th century. They offered alternatives to positivism and shaped the contemporary
+debate on theory of scientific knowledge. Popper rejected the central thesis of
+positivism i.e., idea of ‘pure observation’. He propounded the Hypothetico-
+Deductive model as an adequate and superior model of scientific method.
+According to him, the scientific statements are systematically falsifiable. The
+scientific observations are theory-dependent. Theories are pure inventions of
+human mind. The theory and observation are interdependent. Science is not value
+
+
+--- Page 40 ---
+40
+Research Methodology:
+Issues and Perspectives
+neutral and therefore values are not subjective. Science is progressive. Science
+is objective in the sense that its theories are inter-subjectivity testable. Science,
+according to Popper, is rational in the sense that it embodies critical thinking.
+Owing to commonality of views of Popper with those of positivists regarding
+scientism, methodologism, methodological monism and Deductive Nomologism,
+Popper is sometimes viewed as semi-positivist.
+Karl Popper’s ideas of scientific progress, verisimilitude and comparison of old
+theory with new theory have been criticized.
+Thomas Kuhn sees the life of major sciences in two stages – Pre-paradigmatic
+stage and paradigmatic stage. In the pre-paradigmatic stage, more than one mode
+are practised. In the process of transition a discipline acquires the stage of
+paradigm. When a paradigm fails to promote fruitful, interesting and smooth
+normal science, It is considered in crisis. Deepening of crisis leads to replacement
+of the existing paradigm, which is termed as scientific revolution.
+Thus, on the question how we should practise social sciences so as to make them
+‘scientific, three views have so far been propounded. Positivist recommendation
+is to ‘collect data, extract generalization, verify the generalization and formulate
+a law’. Popper’s view is “formulate a problem, provide a tentative solution, try
+to falsify it, if solution survives, treat it as a corroborated theory but not as a
+confirmed one’. Which one out these three is correct – is dif ficult to decide?
+Consensus on the three models will bring social science close to natural sciences.
+2.9 KEY WORDS
+Inductivism : A scientific method of knowledge focusing that
+scientific knowledge is generated by arriving
+at generalizations on the basis of pure
+observations using the principle of induction.
+Hypothesisism : Hypothesisism is a method of knowledge which
+envisages that knowledge is created or
+generated by putting forth the hypothesis having
+test implications. Hypothesis is a statement
+describing the unobservable entities which lie
+behind observations.
+Realists : Those who support Hypothesis are realist in
+connection with the status of theoretical/
+unobservable entities.
+Anti-Realists Inductivists are also called as Anti-Realists.
+Paradigm : Paradigm refers to the scientific practice
+comprising of a particular a world view, concept,
+assumptions, theories, models used by the
+researcher in carrying out the research studies.
+The concept was introduced by Thomas Kuhn.
+Deductive : Derivation of a conclusion by reasoning or by
+inference in which the conclusion follows
+necessarily from the premises.
+
+
+--- Page 41 ---
+41
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+Methodological Dualism : Referring to positivist belief in separation of
+the knower from the known or of the subject
+from object.
+Methodological Monism : In contrast to the comparatmentalisation of
+dualism, monism view the world as a “seamless
+web”. In terms of Gouldner ’s ar gument, the
+separation between the knower and the known
+must be overcome.
+Pseudo Science : Pseudo science refers to any body of knowledge
+or practice, which purports to be scientific or
+supported by science but which is judged to fall
+outside the domain of science.
+2.10 SOME USEFUL BOOKS
+Mark Blang (1992): The Methodology of Economics, Cambridge University Press,
+London.
+Uma Devi. S. (1994): Economic Theory and Methods of Reasoning, Har-Anand
+Publication, New Delhi.
+Williams, M., & May , T. (1996): Introduction to the Philosophy of Social
+Research, London: UCL Press.
+Kuhn, Thomas, (1970); The Structure of Scientific Revolutions. The University
+of Chicago Press: Chicago.
+Popper, Karl (1972); Conjectures and Refutations : The Growth of Scientific
+Knowledge, Rutledge and Kegan Paul: London.
+2.11 ANSWERS OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+Check Your Progress 1
+1) The aim of science is two fold: Definition and Demonstrations.
+2) See Sub-section 2.2.1
+3) See Sub-section 2.2.1
+4) A B
+i) iv)
+ii) i)
+iii) ii)
+iv) iii)
+5) See Section 2.3
+
+
+--- Page 42 ---
+42
+Research Methodology:
+Issues and Perspectives
+Check Your Progress 2
+1) On the basis of falsifiability of scientific theories.
+2) Inductivist model’s basic proposition is that observations are pure i.e. theory
+– independent and theories are derived from pure observations. In
+Hypothetico-deductive model, theories are perceived as our mental (own)
+constructions and are not the functions of pure observations.
+3) Hypothetico-Deductive model’s central components are: (i) theories are our
+own constructions reflecting unobservable entities, (ii) science is progressive
+in terms of increasing very similitude, (iii) science is rational in terms of
+critical rationalism and objective in terms of inter-subjectivity.
+4) Science embodies critical thinking.
+Check Your Progress 3
+1) (i) Pre-paradigmatic stage, (ii) Paradigmatic stage
+2) The constituents of reality, model problems, range of solutions, necessary
+strategies and techniques for solving the problems together constitute the
+paradigm.
+3) The process of replacement of existing paradigm is known as ‘scientific
+revolution’.
+4) According to Popper, the essence of science lies in divergent thinking and
+fundamental disagreements whereas Kuhn sees essence of science in
+convergent thinking and consensus.
+5)
+(1) ii, (2)  iii, (3)  iv,    (4) i.

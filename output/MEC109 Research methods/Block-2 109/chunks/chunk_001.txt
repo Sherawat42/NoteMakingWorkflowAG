@@ -1,0 +1,507 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+ 
+ 
+ 
+RESEARCH DESIGN AND MEASUREMENT 
+UNIT 6 
+Research Design and Mixed Methods Research         5 
+UNIT 7 
+Data Collection and Sampling Design 25 
+UNIT 8 
+Measurement and Scaling Techniques 53  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+MEC-109
+Research Methods 
+in EconomicsIndira Gandhi  
+National Open University 
+School of Social Sciences 
+2 
+
+
+--- Page 2 ---
+Expert Committee 
+ 
+Prof. D.N. Reddy     Prof. Romar Korea 
+Rtd. Professor of Economics    Professor of Economics 
+University of Hyderabad, Hyderabad   University of Mumbai, Mumbai 
+ 
+Prof. Harishankar Asthana    Dr. Manish Gupta   
+Professor of Psychology    Sr. Economist 
+Banaras Hindu University    National Institute of Public Finance and Policy 
+Varanasi      New Delhi 
+ 
+Prof. Chandan Mukherjee    Prof. Anjila Gupta    
+Professor and Dean     Professor of Economics 
+School of Development Studies   IGNOU, New Delhi   
+Ambedkar University, New Delhi   
+        
+Prof. V.R. Panchmukhi    Prof. Narayan Prasad ( Convenor) 
+Rtd. Professor of Economics    Professor of Economics 
+Bombay University and Former   IGNOU, New Delhi 
+Chairman ICSSR, New Delhi 
+ 
+Prof. Achal Kumar Gaur    Prof. K. Barik   
+Professor of Economics    Professor of Economics 
+Faculty of Social Sciences    IGNOU, New Delhi  
+Banaras Hindu University, Varanasi 
+ 
+Prof. P.K. Chaubey     Dr. B.S. Prakash    
+Professor, Indian Institute of    Associate Professor in Economics  
+Public Administration, New Delhi   IGNOU, New Delhi 
+ 
+Shri S.S. Suryanarayana    Shri Saugato Sen  
+Rtd. Joint Advisor     Associate Professor in Economics 
+Planning Commission, New Delhi   IGNOU, New Delhi 
+Course Coordinator and Editor: Prof. Narayan Prasad 
+Block Preparation Team 
+ 
+Unit Resource Person     Editor    
+      (Format, Language and Content) 
+ 
+6 Prof. Narayan Prasad   Prof. Narayan Prasad   
+ 
+Professor of Economics   Professor of Economics   
+ IGNOU, New Delhi   IGNOU, New Delhi 
+ 
+7 Sai S.S. Suryanarayan   Prof. Narayan Prasad 
+ 
+Rtd. Joint Advisor    Professor of Economics 
+ Planning Commission, New Delhi  IGNOU, New Delhi 
+ 
+8 Prof. A.K. Gaur    Prof. H.S. Asthana 
+Professor of Economics   Professor of Psychology 
+ BHU, Varanasi    BHU, Varanasi 
+           & 
+ Prof. Narayan Prasad  
+ Professor of Economics, IGNOU, New Delhi 
+ 
+Print Production 
+Mr. Manjit Singh 
+Section Officer (Pub.) 
+SOSS, IGNOU, New Delhi 
+October, 2015 
+© Indira Gandhi National Open University, 2015 
+ISBN-978-81-266- 
+All rights reserved. No part of this work may be reproduced in any form, by mimeograph or any other 
+means, without permission in writing from the Indira Gandhi National Open University. 
+Further information on Indira Gandhi National Open University courses may be obtained from the 
+University's office at Maidan Garhi. New Delhi-110 068. 
+Printed and published on behalf of the Indira Gandhi National Open University, New Delhi by the 
+Director, School of Social Sciences. 
+Laser Typeset by : Tessa Media & Computers, C-206, A.F.E.-II, Okhla, New Delhi 
+Printed at : 
+
+
+--- Page 3 ---
+ 
+BLOCK 2 RESEARCH DESIGN AND 
+MEASUREMENT 
+Research design is a logical structure of an enquiry and its formulation is 
+guided and determined by the research questions raised in the problem under 
+investigation. Apart from specifying the logical structure of data, research 
+design also test and eliminate alternative explanation. Broadly, the 
+observational design sampling design and statistical design are covered in 
+Research Design. The various attributes of people, objects or concepts are 
+being increasingly included in explanation of human behaviour in Economics. 
+Hence, these individual traits, attitudes need to measure for deeper analysis. 
+Research Design and measurement issues, therefore constitute the theme of this 
+block. The block comprises of 3 Units. 
+Throwing light on the concept of research design and various types of research, 
+Unit 6 covers the rationale and forms of mixed methods research with 
+illustration of three case studies. 
+Unit 7 provides comprehensive knowledge of all the elements for collecting 
+the quantitative data for research study. It covers the methods and tools of data 
+collection and the various issues related to sampling design. 
+Unit 8 deals with the various measurement scales, scaling techniques, and 
+criteria for good measurement and sources of errors in measurement. 
+ 
+
+
+--- Page 4 ---
+ 
+ 
+5
+Research Design and 
+Mixed Methods 
+ResearchUNIT 6 RESEARCH DESIGN AND MIXED 
+METHODS RESEARCH                 
+Structure 
+6.0 Objectives  
+6.1 Introduction 
+6.2 Types of Research 
+6.2.1 Theoretical and Applied Research 
+6.2.2 Descriptive and Explanatory Research 
+6.2.3 Quantitative and Qualitative Research  
+6.2.4 Conceptual and Empirical Research 
+6.2.5 Other Types of Research 
+6.3 Research Design 
+6.4 Research Design vs. Research Methods 
+6.5 Research Methods 
+ 6.5.1 Quantitative Methods 
+ 6.5.2 Qualitative Methods 
+ 6.5.3 Mixed Methods 
+6.6 The Rationale for Mixed Methods Research 
+6.7 Forms of Mixed Methods Research Designs 
+6.8 Case Studies of Mixed Methods Research Design 
+6.9 Let Us Sum Up 
+6.10 Some Useful Books 
+6.11 Answers or Hints to Check Your Progress Exercises 
+6.0 OBJECTIVES 
+After going through this Unit, you will be able to: 
+• state the various types of research; 
+• explain the concept and meaning of research design; 
+• make a distinction between research design and research methods; 
+• delineate the characteristics of quantitative research and qualitative research; 
+• discuss the purposes of mixed methods research; and 
+• appreciate the application of mixed methods research in conducting 
+research studies in social sciences in general and economics in particular. 
+6.1 INTRODUCTION 
+Due to confusion or lack of clarity between research design and research 
+methods, we often use these two terms interchangeably. As a result, the 
+research design is evaluated on the basis of strengths and weakness of the 
+method rather its ability to draw relatively unambiguous conclusions. Hence 
+ 
+
+
+--- Page 5 ---
+ 
+ 
+Research Design and 
+Measurement 
+6 
+efforts have been made here to throw light on the distinction between these two 
+terms. Traditionally two approaches – quantitative research (QN) associated 
+with post positivist paradigm and qualitative research (QL) associated with 
+interpretative paradigm have been followed in social sciences. However, in 
+recent years increasing reliance on mixed methods research by combining 
+quantitative and qualitative methods in a single research project has been 
+observed. Hence in this unit, the concept of mixed method research, its types 
+and application have been covered. Application of mixed method research in a 
+subject like economics which is essentially quantitative in nature have been 
+illustrated by case studies. Before taking up the issue of research design and 
+research method, it is desirable to have an idea about various types of research. 
+Hence let us begin to introduce the various types of research.   
+6.2 TYPES OF RESEARCH 
+There are different ‘types of research’ depending on their nature and field of 
+specialization. While a classification based on a dichotomous distinction (like, 
+theoretical/applied, descriptive/analytical, conceptual/empirical, etc.) is 
+possible, it is necessary to recognize that there may be overlapping features 
+rendering such a classification less perfect to that extent.  It is, therefore, useful 
+to first of all take a look at the underlying basic features so as to be able to 
+identify the different types of research within their respective connotations and 
+usage. 
+A variable which can be measured can take values or scores either in 
+quantitative or qualitative terms.  For instance, yield of an agricultural output, 
+height/weight of individuals, etc. can be measured and expressed in 
+quantitative terms. On the other hand, characteristics like one’s feelings or 
+opinion (e.g., good/bad, male/female, agreeing/disagreeing, yes/no, etc.) are 
+attributes on which a choice can be expressed (and a score assigned) depending 
+on the possible alternatives or choices.  Thus, variables like the performance of 
+an artist, respondent’s gender, etc. on which responses can only be categorized 
+or grouped are ‘qualitative variables’ . From this angle, variables on which 
+data can be collected and expressed in quantified terms may be called as 
+‘quantitative variables ’. Even variables which are expressed in qualitative 
+terms can be counted whereupon their total numbers become quantified 
+expressions. A popular example of developmental economics which ranks 
+different countries based on their status attained in a number of 
+areas/variables(some of which like the political freedom/choice enjoyed by the 
+country, though expressed in some quantitative measure, is qualitative in its 
+nature) is the human development index.  In actual research (particularly 
+research in the field of social sciences), it is important to note that variables of 
+both the nature normally co-exist.  In view of this, the analysis pertaining to 
+each type of variable/data needs different methods and techniques. 
+The type of research would also vary depending on the objectives of the study.  
+Research design varies with the type of research one likes to pursue.  With this 
+background, we can now proceed to know the distinctions between different 
+types of research. 
+6.2.1 Theoretical and Applied Research 
+Research can either be theoretical or applied. The former i.e., theoretical 
+research can also be considered as ‘fundamental research’ as its outcome serves 
+
+
+--- Page 6 ---
+ 
+ 
+7
+Research Design and 
+Mixed Methods 
+Research
+as a foundation for all subsequent development in the field.  Fundamental (or 
+basic) research mainly concerns with formulation of theory with knowledge 
+perceived as an end in itself. It, thus, aims at obtaining knowledge of the 
+logical processes involved in a phenomenon. It pertains to the quest for 
+knowledge about a phenomenon without concern for its practical use. Such a 
+research may either verify the old theory or establish a new one.  For example, 
+fundamental research in economics may consist of research to develop and 
+improve economic theories or evolve quantitative techniques to measure 
+parameters such as multiplier effect, elasticity of demand and supply, etc.  
+Fundamental research is essentially positive in nature. 
+Applied research, on the other hand, aims at finding a solution for a problem 
+facing society or industry. It is, thus, applied to practical situations or contexts.   
+While pure research discovers principles and laws, applied research discovers 
+ways of applying them to solve specific problems.  It is useful to test the 
+theories developed empirically and can as a result also contribute to improving 
+the tools and techniques of measurement. Basic research, therefore, can be 
+treated as building blocks for applied research. Illustrations of applied research 
+in economics can be measurement of poverty, employment, rural development, 
+agriculture, environment, etc. 
+6.2.2 Descriptive and Explanatory Research 
+Descriptive research describes a situation, events or social systems. It aims to 
+describe the state of affairs as it exists. Surveys and fact-finding enquiries of 
+different kinds are part of descriptive research. Survey methods of all kinds 
+including comparative and correlational methods are used in descriptive 
+research studies.  A survey of socio-economic conditions of rural/urban labour 
+is an area of descriptive research. In descriptive research studies, the 
+researchers have no control over variable. They can report only what has 
+happened or is happening.  Descriptive research deals with questions like ‘how 
+does X vary with Y?  or ‘how does malnutrition vary with age and sex?, etc. 
+Explanatory research, aims at establishing the cause and effect relationship.  
+The researcher uses the facts or information already available to analyse and 
+make a critical evaluation of the data/information. An example of explanatory 
+research is: ‘whether increase in agricultural productivity is explained by 
+improved rural roads?’ 
+6.2.3 Quantitative and Qualitative Research 
+Quantitative Research  is the systematic and scientific investigation of 
+quantitative properties and phenomena and their relationships. The objective of 
+quantitative research is to develop mathematical models, and to test 
+hypotheses. Based on ontological and epistomological premises, quantitative 
+research is characterized by the following attributes: 
+• A belief in a single reality. 
+• The pursuit of identifying universal laws. 
+• Separation of knower (researcher) from known (researched). 
+• The possibility and necessacity of value free research. 
+• Pursuit of universal laws (findings) beyond the limit of research/social 
+context. 
+
+
+--- Page 7 ---
+ 
+ 
+Research Design and 
+Measurement 
+8 
+• The tendency to work with large, representative sample. 
+• An emphasis on deductive research via falsifiable hypothesis. 
+• Formal hypothesis testing. 
+In contrast,  Qualitative Research  captures a set of purposes associated with 
+meaning and interpretation. Stress is laid on the socially constructed nature of 
+reality, the intimate relationship between the research and researched and 
+situational constraints that shape the enquiry. The key attributes associated with 
+qualitative research are: 
+• A belief in a constructed reality, multiple realities, co-existence realities. 
+• An interdependence between the knower and the known. 
+• Impossibility to separate the researcher from the research subject. 
+• Heavy role of context in research process. 
+• The impossibility to generalize research findings beyond the limits of the 
+immediate context. 
+• Non-separation of cause and effect. 
+• The explicit focus on inductive, exploratory research approaches. 
+• The tendency to work with small and purposely chosen sampling. 
+• Analyses holistic system. 
+6.2.4 Conceptual and Empirical Research 
+Conceptual research is related to abstract ideas or theory.  It is generally used 
+by philosophers and thinkers to develop new concepts or to reinterpret the 
+existing theories. 
+Empirical research relies on experience or observation. It is data based. It is 
+subject to verification by observation and experiment. This type of research is 
+particularly useful when validation or verification of an aspect is required. 
+6.2.5  Other Types of Research 
+Research may be exploratory or formalized. Exploratory research aims at 
+developing the hypothesis rather than testing a pre-conceived hypothetical 
+contention or notion. Formalised research studies deal with a definitive 
+structure within which specific hypotheses are tested. Historical research  
+utilizes existing documents to study events of the past. Research can also be 
+experimental or evaluative. Experimental research aims at identifying the 
+causal factors by means of experiments. In evaluative research , the cost 
+effectiveness of a programme is examined. Such research addresses the 
+question of the efficiency of a programme and are useful in taking policy 
+decisions on issues like whether the programme is effective and/or needs 
+modification or re-orientation?  Whether it should be continued? 
+Action research is another type of research. It deals with real world problems 
+aimed at finding out practical solutions or answers to them.  It gathers feedback 
+which is then used to generate ideas for improvement. You will find details on 
+Action Research in Unit 20. 
+
+
+--- Page 8 ---
+ 
+ 
+9
+Research Design and 
+Mixed Methods 
+Research
+Check Your Progress 1 
+1) Distinguish between quantitative variable and qualitative variable. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+2) State the main objectives of applied research? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+3) In what sense quantitative research is different from qualitative research? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+4) What is the distinction between explanatory and descriptive research? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+6.3 RESEARCH DESIGN 
+Research design is a logical structure of an enquiry. Given the research 
+question or theory, what type of evidence is needed to answer the question (or 
+to test the theory) in a convincing way – constitutes the essence of the research 
+design. Let us use an analogy to understand the term ‘research design’. While 
+constructing a building, the first decision to be arrived at is: whether we need a 
+high rise office building, a factory, a school or a residential apartment etc.? 
+Until this is decided, we cannot sketch a plan and order material or setting 
+critical dates for completion of the project dates. Similarly, a social researcher 
+needs to be clear about the research questions and then the research design will 
+flow from the research questions. The function of a research design is to ensure 
+that the evidence obtained enables us to answer the initial research questions as 
+unambiguously as possible. Obtaining relevant evidence entails specifying the 
+type of evidence we need to answer the research question, to test a theory, to 
+evaluate a programme or to accurately describe some phenomenon. The issues 
+of sampling, method of data collection (e.g. questionnaire, observation, 
+document analysis), design of questionnaire etc. are all subsidiary to what 
+constitute the evidences that need to collect to answer the research questions. 
+Thus the research design ‘deals with a logical problem and not a logistical 
+problem. Apart from specifying the logical structure of the data, it also aims to 
+test and eliminate alternative explanation of results. 
+ 
+  
+
+
+--- Page 9 ---
+ 
+ 
+Research Design and 
+Measurement 
+10 
+The research design comprises of the following components: 
+i) the sampling design; (the type of sampling method i.e. random or non 
+random sampling); 
+ii) the statistical design (i.e. the sample size and the method to draw the 
+sampling to be adopted); 
+iii) the observational design (i.e. the instrument of collection of data); 
+iv) the operational design i.e. the specific details by which the procedure in 
+(i), (ii) & (iii) above are to be carried out. 
+6.4 RESEARCH DESIGN VS. RESEARCH 
+METHODS 
+Research design is different from the research methods. The research methods 
+are made of data collection and techniques of data analysis whereas the 
+research design is a logical structure of an enquiry. There is nothing intransic 
+about any research design that requires a particular method of data collection. 
+How the data are collected is irrelevant to the logic of the research design. 
+Confusing research designs with research methods leads to poor evaluation of 
+designs. For example equating cross sectional designs with questionnaires or 
+case studies with participant observation result in evaluation of research 
+designs against the strengths and weakness of the method rather than their 
+ability to draw relatively unambiguous conclusion or to select between rival 
+plausible hypothesis. 
+6.5 RESEARCH METHODS 
+Research methods as explained in Unit 1 refers to tools and techniques of data 
+collection and data analysis. Broadly Research Methods are put under two 
+categories: (i) Mono Methods, (ii) Mixed Methods. Within mono methods, 
+there are two approaches (i) quantitative (QN) methods (ii) qualitative (QL) 
+methods. Since quantitative methods are associated with positivist and post-
+positivist paradigm, quantitative method is also termed as (QN) method 
+research. Similarly by virtue of the fact that QL methods are associated with 
+interpretativist paradigm and critical theory paradigm, research conducted by 
+the qualitative method is also termed as qualitative methods research. 
+Research Methods 
+ 
+ 
+  
+ 
+ 
+ 
+   
+  
+Mono-Methods Mixed Methods of 
+Quantitative and 
+Qualitative Methods 
+Quantitative 
+Methods 
+Qualitative 
+Methods 
+
+
+--- Page 10 ---
+ 
+ 
+11
+Research Design and 
+Mixed Methods 
+Research
+6.5.1 Quantitative Methods 
+The researcher using this approach tests theory through empirical observations 
+and inclines to establish cause and effect relationship. Well predesigned 
+structured questionnaire and structured interviews are resorted as tool to collect 
+the data. The variables that can be measured are emphasized. The descriptive, 
+analytical and inferential statistical techniques are used to analyse the data. 
+Experimental research design is used to make the logical structure of the 
+research study. Generalization of laws and their replication is emphasized. 
+6.5.2  Qualitative Methods 
+Under qualitative approach, a researcher starts with observation as a basis for 
+generating theory and concentrates on meaning of observations. He studies 
+events as they occur in naturalistic settings. He allows interview topics to 
+emerge during conversation and listens to others’ interpretation and 
+perspectives. 
+Under qualitative method, open-end questionnaire, key informants, group 
+discussion and unstructured interviews, documents, interview transcripts etc. 
+are used as tools to collect data. Content analysis, Case study, Action research 
+participatory method, Cluster analysis, Factor analysis, Correspondence analysis, 
+Context analysis, are used in analyzing qualitative data. You will find details of 
+these techniques in Unit 13, 14, 15, 16 and 17 of Block 4 and 18, 19 and 20 of 
+Block 5 of this course. 
+6.5.3 Mixed Methods 
+The combination of at least one qualitative and at least one quantitative 
+component related to measurement scale, tools of data collection or data 
+analysis technique in a single research study/project is known as mixed 
+methods research. For example it can be in the following forms: 
+• Employment of more than one measurement procedure in different kind of 
+situations such as different ways of measuring levels of job satisfaction. 
+• Employment of two or more methods of data collection. For example we 
+may employ observation, interview and questionnaire to collect the data 
+about decent work. 
+• Employment of two or more data analysis techniques for example, content 
+analysis and factor analysis.  
+M
+ixed methods research has gained a tremendous popularity in social, 
+behavioural and related sciences in recent years. The rationale for mixed 
+method design research is to take the best of qualitative (QL) and quantitative 
+methods (QN) and combine them. However, many debates on mixed method 
+research design are based on methodological arguments due to the ways QN 
+method is linked to positivist paradigm and QL method to Interpretative and 
+critical theory paradigm. 
+As discussed above, keeping in view the diametrical oppositional attributes of 
+QL and QN methods, one may argue that these methods are not compatible to 
+each other and in such a situation how a truce between two kinds of approaches 
+be useful to conduct the meaningful research? 
+Notwithstanding the philosophical debate between QN and QL approach. 
+Mixed methods research designs are justified primarily by exploiting the 

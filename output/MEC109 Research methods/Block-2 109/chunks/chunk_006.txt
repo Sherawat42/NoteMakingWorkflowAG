@@ -1,0 +1,529 @@
+--- Page 52 ---
+ 
+ 
+53
+Measurement and 
+Scaling TechniquesUNIT 8 MEASUREMENT AND SCALING 
+TECHNIQUES  
+Structure 
+8.0 Objectives  
+8.1 Introduction  
+8.2 Concept of Measurement 
+8.3 Measurement Issues in Research 
+8.4 Scales of Measurement 
+8.5 Criteria for Good Measurement  
+ 8.5.1 Reliability  
+ 8.5.2 Validity 
+ 8.5.3 Practicality 
+8.6 Errors in Measurements 
+8.7 Scaling Techniques 
+ 8.7.1 Comparative Scaling Techniques 
+ 8.7.2 Non-Comparative Scaling Techniques 
+8.8 Let Us Sum Up 
+8.9 Key Words 
+8.10 Some Useful Books 
+8.11 Answers or Hints to Check Your Progress Exercises 
+8.0 OBJECTIVES 
+After going through this Unit, you will be able to: 
+• state the concept of measurement and its need; 
+• explain the various scales of measurement; 
+• discuss the various scaling techniques; and 
+• identify the criteria for good measurement. 
+8.1 INTRODUCTION 
+Measurement is the foundation of scientific enquiry. As we know that  research 
+begins with a ‘problem’ or topic. Thinking about a problem results in 
+identifying concepts that capture the phenomenon being examined. Concepts 
+are mental ideas representing the phenomenon. The process of 
+conceptualization involves defining the concepts abstractly in theoretical terms. 
+Operationalisation of concepts for research purpose involves moving from the 
+abstract to the empirical level. This underlines the need to measure the various 
+attributes of the people, the characteristics of objects or phenomenon. Further 
+issues like decent work, human wellbeing, happiness, quality of education etc. 
+which have several qualitative and quantitative dimensions are emerging 
+important issues of research in economics. Such issues are being probed 
+ 
+
+
+--- Page 53 ---
+ 
+ 
+Research Design and 
+Measurement 
+54 
+through development of indicators and composite indexes which necessarily 
+involve measurement of such indicators. Hence, a student of economics is 
+expected to be well versed in the measurement scales, criteria of good 
+measurement, and important scaling techniques. This unit throws light on these 
+issues. Let us begin to discuss the concept of measurement. 
+8.2 CONCEPT OF MEASUREMENT 
+Simply speaking the process of assigning numbers to various attributes of 
+people, objects or concepts is known as measurement. Technically, 
+measurement is a process of mapping aspects of a domain to other aspects of a 
+range according to some rule of correspondence. Tyler(1963) defines 
+measurement as, “assignment of numerals according to rules”. Nunally 
+(1970)viewed that, “Measurement consists of rules, for assigning numbers to 
+objects in such a way to represent quantities of attributes”. Thus, Nunally 
+focuses on both rules and manner in which numbers are assigned to an object.  
+According to Campbell, “Measurement is defined as the assignment of 
+numerals to objects or events according to rules”. The fact that numerals can be 
+assigned under different rules leads to different kinds of scales and different 
+kinds of measurement. 
+Thus, measurement is a process to assign numbers or other symbols to 
+characteristics of objects according to certain rules. Assigning numbers permit 
+statistical analysis of the resulting data and facilitate the communication of 
+measurement rules and results. The rules for assigning numbers hence need to 
+be standardized and uniformly applicable. In the assignment process, there 
+must be one to one correspondence between the numbers and characteristics 
+being measured. In this process, variables can be divided into two basic types –
+quantitative andqualitative variables. 
+8.3 MEASUREMENT ISSUES IN RESEARCH 
+A number of concerns arise in the process of measurement which need to be 
+addressed by the researcher. Some of the important issues include the following: 
+1) Whether the underlying characteristics of the concept allows ordering 
+(ordinal level) or  categorizing  (nominal level)? 
+2) Whether the features of the concept are discrete or continuous with fine 
+gradation? 
+The answer of these two questions will enable to determine the level of 
+measurement  inherent to the concept. As a general rule, efforts should be 
+made that measurement represent the highest scale of measurement for a 
+concept because it allows the use of more powerful statistical techniques 
+for analysis. 
+3) Another important issue pertains to number of indicators for measurement 
+of a concept. Some simple concepts can be measured by one indicator 
+whereas abstract concepts are measured with more than one indicators. 
+How many indicators are appropriate to measure a concept is to be decided 
+by the researcher. 
+4) Another measurement issue concerns the source of valid and reliable 
+measure. Hence, considerable attention should be given to identify valid 
+and reliable measures for the study. 
+
+
+--- Page 54 ---
+ 
+ 
+55
+Measurement and 
+Scaling Techniques
+5) Measurement should be free from measurement errors like invalidity error 
+and unreliability. 
+6) Measurement validity is distinct from internal validity and external validity 
+because these two are separate research design issues. 
+7) A final measurement issue concerns the proper use of available data. For 
+that, a research should be well aware of all available data sources and the 
+types of data available with the various data compilation agencies. 
+8.4 SCALES OF MEASUREMENT 
+Before discussing different levels of measurement, let us remember that there 
+are three postulates of measurement: (i) Equalities or identities, (ii) Rank order, 
+(iii) Additivity.  
+You were introduced the elementary concept and types of scales of 
+measurement in Unit 1. Even at the cost of repetition let us recall that Stanley 
+S.Stevens (1946) in his seminal paper, “On the theory of scales of 
+measurement” published in “Science” classified types of scales into four 
+categories: (1) Nominal, (2) Ordinal, (3) Interval, (4) Ratio. 
+1) Nominal Scale  
+A qualitative scale without order is called nominal scale. In nominal scale 
+numbers are used to name identity or classify persons, objects, groups, 
+gender, industry type. Even if we assign unique numbers to each value, the 
+numbers do not really mean anything. This scale neither has any specific 
+order nor it has any value. In case of nominal measurement, statistical 
+analysis is attempted in terms of counting or frequency, percentage, 
+proportion, mode or coefficient of contingency. Addition, subtraction, 
+multiplication and division are not possible under this scale. 
+2) Ordinal scale  
+A qualitative scale with order is called ordinal scale. In ordinal scale 
+numbers denote the rank order of the objects or the individuals. Numbers 
+are arranged from highest to lowest or lowest to highest. For example, 
+students may be ranked I st, 2 nd and 3 rd in terms of their academic 
+achievement. The statistical operations which can be applied in ordinal 
+measurement are median, percentiles and rank correlation coefficient. 
+Ordinal scales do not provide information about the relative strength of 
+ranking. This scale does not convey that the distance between the different 
+rank values is equal. Ordinal scales are not equal interval measurement. 
+Further this scale does not incorporate absolute zero point.  
+3) Interval scale  
+Interval scale includes all the characteristics of the nominal and ordinal 
+scale of measurement. In interval scale numerically equal distance on the 
+scale indicate equal distances in the attributes of the object being measured. 
+For example, a scale represent marks of students using the attributes range 
+0 to 10, 10 to 20, 20 to 30, 30 to 40 and 40 to 50, and so forth. The mid 
+point of each range (ie. 5, 15, 25, 35 and 45 etc.) are equidistance from 
+each other. The data obtained from an interval scale is known as interval 
+data. The appropriate measures used in this scale are: arithmetic mean, 
+standard deviation, Karl Pearson’s coefficient of correlation and tests like t-
+test and f-test. We cannot apply coefficient of variation in the interval scale. 
+
+
+--- Page 55 ---
+ 
+ 
+Research Design and 
+Measurement 
+56 
+4) Ratio Scale 
+Ratio scale has all the characteristics of nominal, ordinal and interval scale. 
+It also possesses a conceptually meaningful zero point in which there is a 
+total absence of the characteristic being measured. Ratio scales are common 
+among physical sciences rather than among social sciences. The examples 
+of ratio scales are the measures of height, weight, distance and so on. All 
+measures of central tendencies that can be used in this scale include 
+geometric and harmonic means. 
+The properties of these four scales can be summarized in following tabular 
+form: 
+Properties
+ 
+Scale    
+Category  Ranking Equal 
+interval 
+Zero Point 
+Nominal      
+Ordinal     
+Interval     
+Ratio     
+ 
+         Properties 
+Scale 
+Indicates 
+Difference 
+Indicates 
+Direction of 
+Difference 
+Indicates 
+Amount of 
+Difference 
+Absolute 
+Zero 
+Nominal  ×    
+Ordinal × ×   
+Interval × × ×  
+Ratio × × × × 
+You will notice in the above tables that only the ratio scale meets the criteria for 
+all four properties of scales of measurement. Interval and Ratio scale data are 
+sometimes referred to as parametric and Nominal and Ordinal data are referred to 
+as non-parametric. 
+Examples of Scales of Measurement – 
+Scale  Example    Statistics  
+Nominal Gender  
+Yes-no 
+Students roll number 
+Objects/Groups 
+Frequency, percentage, proportion Mode, 
+Coefficient of contingency, chi-square (x2)  
+Ordinal  Class Rank, 
+Socio Economic status  
+Academic  Achievement 
+Median, percentile, rank, correlation, 
+Range 
+Interval  Student grade point, 
+Temperature, Calendar 
+dates, Rating Scale  
+Mean, correlation, Range, Standard 
+deviation, rank order variance, Karl 
+pearson’s correlation,  t-test, f-test etc. 
+Ratio Weight, Height, Salary, 
+Frequency of buying a 
+product 
+Mean, Median, Mode, Range, Variance, 
+Standard deviation, coefficient of variation, 
+rank order variance, Karl pearson’s 
+correlation, t-test, f-test 
+
+
+--- Page 56 ---
+ 
+ 
+57
+Measurement and 
+Scaling Techniques8.5 CRITERION FOR GOOD MEASUREMENT 
+There are three major criteria for evaluating measurement: 
+1) Reliability 
+2) Validity 
+3) Practicality 
+8.5.1    Reliability 
+Reliability refers to the degree to which the measurement or scale is consistent 
+or dependable. If we use same construct again and again for measurement, it 
+would lead to same conclusion. Reliability is consistency in drawing conclusion.  
+Reliability and Validity 
+      
+ 
+ 
+   Reliable and Valid                Valid but not Reliable       Reliable but not valid 
+8.5.2   Validity 
+Validity refers to the extent an instrument or scale tests or measures what it 
+intends to measure. This means validity is the extent to which differences 
+found with a measuring instrument reflect true differences among those being 
+tested. This can be done by seeking other relevant evidences. There are three 
+types of validity: content validity; criterion validity and construct validity. 
+Content validity indicates the extent to which it provides coverage of the issues 
+under study. Criterion validity examines how well a given measure relates to 
+one or more external criterion based on empirical observations. And, construct 
+validity explains the variation observed in tests conducted on several 
+individuals. Construct validity is closely related with factor analysis.  
+8.5.3    Practicality 
+From practical view point, measure should be economical, convenient and 
+interpretable. The measure should not be lengthy and difficult. The measure 
+can be done by highly specialized persons. 
+8.6 ERRORS IN MEASUREMENTS 
+Measurement need to be precise and unambiguous for validity and reliability of 
+any research study. Hence, measurement should be either free from errors or 
+have minimum error. Any measurement usually involves two types of errors: 
+• Measurement invalidity 
+• Unreliability 
+Measurement invalidity refers to the degree to which the measure incorrectly 
+captures the concept. 
+.  .   .. 
+.   .  . . 
+
+
+--- Page 57 ---
+ 
+ 
+Research Design and 
+Measurement 
+58 
+Unreliability refers to inconsistency in what the measure produces under 
+repeated uses. If any measure, on average give some score for a case on 
+variable and gives other score, when it is used again, it is said to be unreliable. 
+The possible sources of error are: 
+a) Respondent by not expressing strong negative feelings. 
+b) Situation wherein interviewer and respondent are not in good rapport. 
+c) Measurer – errors may also creep because of incorrect coding, faulty 
+tabulations and statistical calculations or behavior or attitude of the 
+interviewer. 
+d) Instrument errors may also arise because of the defective measuring 
+instrument. 
+Check Your Progress 1 
+1) What do you mean by measurement? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) Give examples of interval scale and ratio scale. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) How will you examine the validity of a measurement? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+4) Identify three measure concerns that need to be addressed in the process of 
+measurement. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+
+
+--- Page 58 ---
+ 
+ 
+59
+Measurement and 
+Scaling Techniques8.7 SCALING TECHNIQUES 
+Scaling describes the way of generation of a continuum upon which measured 
+objects are located. Broadly, scaling techniques can be classified into two 
+categories: comparative, and non comparative scaling.  
+Scaling Techniques 
+ 
+ 
+ Comparative       Non-comparative  
+         Scaling Techniques      Scaling Techniques 
+ 
+ 
+ 
+ 
+ 
+8.7.1 Comparative Scaling Techniques  
+C
+omparative scales involve the comparison of objects directly with one 
+another. For example, in a study of consumer preferences for different telecom 
+services, a respondent may be asked to rank choice according to his 
+preferences. In this technique, data must be interpreted in relative terms and 
+have only ordinal or rank order properties. In comparative scales small 
+differences between stimulus objects can be detected.  
+Example  
+Rank the following factors in order of your importance in choosing mobile 
+services (Assign 1 to most important and 5 to least important factor. Please do 
+not repeat the ranks.) 
+Factor: Price, connectivity, call drop, Internet, Download speed.  
+Rank :……… ……… ……  ……. ………. 
+There are various comparative scaling techniques. Three most commonly used 
+comparative scaling techniques are discussed here. 
+a) Paired comparison  
+b) Rank order  
+c) Constant sum 
+a) Paired Comparison  
+The paired comparison is most commonly used scaling technique. This 
+method is simply a binary choice. In this method respondents choose the 
+stimulus or items in each pair that has the greater magnitude on the choice 
+dimension they are instructed to use. This method is used when the study 
+requires to distinguish between the two objects. The data obtained in this 
+method is ordinal in nature.  
+ 
+Paired 
+Comparison 
+Rank  
+order 
+Constant  
+Sum 
+Continuous 
+Rating Scale 
+Itemised 
+Rating Scale 
+Category  
+Scale 
+Cumulative 
+Scale 
+
+
+--- Page 59 ---
+ 
+ 
+Research Design and 
+Measurement 
+60 
+Example 
+In a study of consumer preferences for the two brands of milk product i.e. 
+Amul and Mother Dairy, a consumer is asked to indicate which one of the 
+two brands he would prefer for personal use: 
+1) Which milk product of the following you prefer on the basis of taste. 
+Please tick mark (√). 
+ 
+Amul Mother Dairy 
+  
+2) Which milk product will you prefer on the basis of packaging? Please 
+tick mark (√). 
+Amul Mother Dairy 
+  
+ 
+3) Which product will you prefer on the basis of price? Please tick mark (√). 
+Amul Mother Dairy 
+  
+ 
+This technique is useful when the researcher wants to compare two or 
+more than two objects. If there are more than two objects (for example 
+n objects) to compare, the total comparison will be; 
+Number of comparison =
+[ ] 1 ;2
+n n -  
+n= number of objects. 
+b) Rank Order 
+This method is very popular among researchers and provides ordinal data. 
+In this method, respondents are provided various objects and asked to rank 
+the objects in the list. Rank order method is less time consuming. In this 
+method, if there are n objects, only (n-1) decisions need to be made. 
+Respondent can easily understand the instructions for ranking. This 
+technique produces ordinal data. 
+Example  
+Rank the various brands of mobile phone in order of preference. The most 
+preferred can be ranked 1, the next as 2 and so on. The least preferred will 
+have the last rank. No two brands should receive the same rank number. 
+ 
+ 
+
+
+--- Page 60 ---
+ 
+ 
+61
+Measurement and 
+Scaling Techniques
+ 
+Sl. No. Brand Rank 
+1 Nokia  
+2 Motorola  
+3 Samsung  
+4 HTC  
+5 Karbonn  
+6 Spice  
+7 Xolo  
+8 Gionee  
+9 LG  
+10 Sony  
+ 
+c) Constant Sum 
+In constant sum scaling, respondents are asked to allocate a constant sum 
+of units to a specific set of objects on the basis of pre-defined criterion. If 
+an object is not important, the respondent can allocate zeropoint and if an 
+object is most important may allocate maximum points out of the fixed 
+points. The total fixed points are 100. The total may be taken as some 
+other value depending on the study.  
+Example 
+Allocate preferences regarding a movie based on various predefined 
+criteria. Respondents were asked to rate each criteria in such a way that the 
+total becomes 100. 
+Criteria Respondent Preference 
+Content Quality 20 
+Music 20 
+Sound 15 
+Story 30 
+Breadth of Coverage (local, regional 
+Supplements, national & global) 
+15 
+Total 100 
+The data obtained in this method is considered an ordinal scale. The advantage 
+of this method is that it provides fine discrimination among objects without 
+consuming too much time. However, allocation over large number of objects 
+may create confusion for the respondent. This method cannot be used as a 
+response strategy with illiterate people and children. 
+  
+
+
+--- Page 61 ---
+ 
+ 
+Research Design and 
+Measurement 
+62 
+8.7.2 Non Comparative Scaling Techniques 
+Non-comparative scaling techniques involve scaling of objects independent to 
+some specific standard. Respondent evaluate only one object at a time. For 
+example, in a study of consumer preferences for different telecom services, a 
+consumer may be asked to rate a list of factors that he/she would consider 
+while choosing a particular telecom company. 
+Example 
+Please rate the following factors you think important in choosing mobile 
+service. Rate 1 to least important and 5 to most important (rating could be on 
+any scale. In this example, we have used a 5 point scale). 
+Factor Price Connectivity  Call 
+Drop 
+Download 
+Speed 
+Internet 
+Rating      
+ 
+In this scaling technique, data is usually in interval scale. It can be continuous, 
+metric/numeric also. Some of the commonly used non-comparative scaling 
+techniques are – 
+i) Continuous Rating Scale 
+ii) Itemised Rating Scale 
+iii) Category Scale   
+iv) Cumulative Scale 
+i) Continuous Rating Scale  
+This rating scale is also known as graphic rating scale.In continuous 
+rating scale, respondents indicate their rating by marking at appropriate 
+position on a line. The line is labeled at both ends from one extreme 
+criterion to the other. The line may contain points 0,10,20,…..,100. 
+Example 
+How would you rate a magazine with regard to its quality. 
+Quality 
+Indicators 
+Scale Measurement 
+Content 
+Coverage 
+Most_________________x__________________Least 
+Above 80               60             40              20              0    
+Language Most__________x_________________________Least 
+ 
+Presentati
+on Style 
+Most_________________x__________________Least 
+A very large number of ratings are possible if the respondents are literate 
+to understand and accurately differentiate the objects. The data generated 
+from continuous rating scale can be treated as numeric and interval data. 
+The researcher can divide the line into as many categories as desired and 
+assign scores based on the categories under which the ratings fall.  

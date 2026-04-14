@@ -1,0 +1,490 @@
+--- Page 11 ---
+11
+Research Methodology:
+Conceptual Foundation
+4) Explain the term ‘ontology’ and ‘epistomology’.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+1.6 RESEARCH PROCESS
+Research process refers to dif ferent steps involved in a desired sequence in
+carrying out research. However, this does not mean that these steps are always in
+a given sequence. The various steps involved in research can be illustrated in a
+flow chart as shown in the figure below:
+Fig. 1.1: Flowchart of Research Process
+The above activities or steps overlap continuously rather than following the
+prescribed sequence strictly. The steps are not mutually exclusive. The order
+illustrated is meant only to provide a procedural guideline for research. The steps
+are briefly elaborated below:
+a) Defining the r esearch pr oblem: Selecting and properly defining the
+research problem is the first foremost step. The problem to be investigated
+must be defined categorically. It is important to identify the general area of
+interest or a particular aspect of a subject matter desired to be studied. Initially,
+the problem may be stated in a borad way and later it can be narrowed down
+in operational terms. Essentially two steps are involved in formulating the
+• Objectives
+• Research Questions
+Formulation of Hypothesis
+Research Design
+Collection of Data: Source, tools, and methods
+Analysis of Data
+Report Writing
+Defining Research Problem
+Review of Literature
+
+
+--- Page 12 ---
+12
+Research Methodology:
+Issues and Perspectives
+research problem: (i) Understanding the problem thoroughly; and (ii)
+rephrasing it into meaningful terms from operational/analytical point of
+view.
+It is better to select the subject that is familiar with easy access to research
+material and data sources. Apart from the topic, following points need to be
+stated clearly in the research problem:
+1) rationale behind the research problem;
+2) the aims and objectives as per the requirements of the research questions.
+The statement of the objectives determines the data to be collected,
+hypothesis to be tested, techniques for data collection and analysis to
+be adopted, and the relations intended to be explored;
+3) the research questions in the light of the objectives and the theoretical
+arguments/foundation on which it rests;
+4) developing the ideas through discussions; and
+5) re-phrasing the research problems identified in (i) above into a working
+proposition.
+The different steps to be followed while defining the research problem,
+therefore are:
+• statement of the problem first in a general way to be later sharpened
+with the help of literature review,
+• understanding the nature of the problem, and
+• surveying the available literature.
+In addition to the above, the following points should also be observed while
+defining the research problem:
+• Technical terms and words or phrases used in the research problem
+should be explicitly defined.
+• Basic assumptions or postulates relating to the research problem need
+to be clearly stated.
+• A clear and unambiguous statement of the investigation should be
+provided.
+• The time-period required and the scope of the study must be duly
+stated.
+• The sources of data and its limitations must be explicitly mentioned.
+b) Review of Literature: The review of literature is meant to gain insight on
+the topic and gain knowledge on the availability of data and other materials
+on the theme of proposed area of research. The literature reviewed may be
+classified into two types viz. (i) literature relating to the concepts and theory
+
+
+--- Page 13 ---
+13
+Research Methodology:
+Conceptual Foundation
+and (ii) empirical literature consisting of findings in quantitative terms by
+studies conducted in the area. This will help in framing research questions
+to be investigated. Academic journals, conference proceedings, government
+reports, books etc. are the main sources of literature. With the spread of IT,
+one can access a large volume of literature through internet.
+c) Formulation of Hypothesis: Specification of working hypothesis (or
+hypotheses) is the next step of research process. A hypothesis is a tentative
+statement made which needs to be tested for its logical and empirical
+confirmation. Hypothesis can be formulated as a proposition or set of
+propositions providing most probable explanation for occurrence of some
+event or specified phenomenon. Hypotheses when empirically tested may
+either be accepted or rejected. A hypothesis must, therefore, be capable of
+being tested. A hypothesis stated in terms of a relationship between the
+dependent and independent variables are suitable for econometric treatment.
+The manner in which hypothesis is formulated is important as it provides
+the required focus for research. It also helps in identifying the method of
+analysis to be used.
+Prior thinking about the subject, examination of the available data and
+material related to the study, discussion with colleagues and experts help
+the researcher in formulation of hypothesis. Exploratory or descriptive
+research can be carried out even without hypothesis.
+d) Research Design: Research design is the logical conceptual structure within
+which research is conducted. It is the blueprint for the collection,
+measurement and analysis of data. Detailed discussion on Research Design
+has been provided in Unit 6 of Block 2.
+e) Collection of Data: Collection of data is an essential part of the research
+process. Data can be primary or secondary. Data collected by the researcher,
+say by a survey, is primary. The data already collected by some agency and
+available in some published form is secondary. There are two main techniques
+of data collection – (i) census and survey (ii) observation method. Primary
+data can also be collected by means of experiments (e.g., yield under certain
+conditions, observation at many time points of a certain phenomena, etc.).
+Intensive fieldwork methods include observation, interview, case study, etc.
+A survey is usually conducted by the canvassing of a questionnaire. Issues
+of data collection and sampling design have been discussed in detail in
+Unit 7 of Block 2.
+f) Analysis of Data:  Analysis involves steps like categorization, coding,
+tabulation, etc. The principle for classification or categorization of data has
+to be based on the problem under study or the hypothesis formulated. The
+category must be exhaustive and suf ficient for classifying all responses.
+They must be distinct, separate and mutually exclusive. Coding involves
+grouping of responses falling under a particular category. Tabulation is a
+means of organizing the responses to facilitate comparisons bringing up the
+inherent relations between two or more variables. It is an orderly arrangement
+of data in columns and rows. Analysis and inference is usually aided by the
+application of different statistical and econometric techniques. Some of the
+major techniques usually employed in research have been reflected in the
+summary chart 1.2
+
+
+--- Page 14 ---
+14
+Research Methodology:
+Issues and Perspectives
+Most of these analytical techniques have been covered in Units 9,10,11 and 12
+of Block 3 and Units 13,14,15,16 and 17 of Block 4 of this course.
+Summary Chart 1.2
+ANALYSIS OF DAT
+A
+Analysis of DataProcessing of Data
+(Preparing data for analysis)
+Inferential analysis/
+Statistical analysis
+Descriptive and
+Causal Analyses
+Editing
+Coding
+Classification
+Tabulation
+Using
+Percentages
+Testing of
+hypotheses
+Estimation of
+parameter values
+Non-
+parametric
+tests or
+Distribution
+free tests
+Parametric test
+Interval
+estimate
+Point
+estimate
+Multi – variate analysis
+(simultaneous analysis of
+more than two variables
+/ attributes in a multiway
+classification
+Bivariate analysis
+(Analysis of two
+variables or
+attributes in a two –
+way classification)
+Uni-
+dimensional
+analysis
+Multiple regression*
+and multiple
+correlation/partial
+correlation in respect
+of variables
+Multiple discriminant
+analysis (in respect of
+attributes)
+Multi-ANOV A (in
+respect of variables)
+Canonical analysis
+(in respect of both
+variables and
+attributes)
+Other types of
+analyses (such as
+factor analysis,
+cluster analysis)
+Simple regression and
+simple correlation (in
+respect of variables)
+Association of
+attributes
+(through
+coef ficient of
+association and
+coef ficient of
+contingency)
+Two-way ANOVA
+(Calculation of several measures
+mostly concerning one variable)
+i) Measures of Central
+Tendency;
+ii) Measures of dispersion;
+iii) Measures of skewness;
+iv) One-way ANOVA, Index
+numbers, Time series
+analysis; and
+v) Others (including simple
+correlation and regression in
+simple classification of paired
+data)
+
+
+--- Page 15 ---
+15
+Research Methodology:
+Conceptual Foundation
+Report Writing: Originality and clarity are the two vital components of research
+report. It is the ultimate test of one’s analytical ability and communication skills.
+It is an exercise involving the organization of ideas. The research report needs to
+be presented in such a manner that the readers can grasp the context, methodology
+and findings easily. The report comprise of two parts: the preliminary pages and
+the main text. In the preliminary pages, the report should indicate the title of the
+research study, name of the researcher (and his team members) and the name of
+the institution and/or the month/year of preparation of the report. This should be
+followed by a ‘preface’ in which the main context of preparing the report along
+with key findings must be presented. Towards the end of the ‘preface’, the
+important sources/persons can suitably be acknowledged.
+The main text begins with an introductory chapter followed by the major aspects
+of the study organized into different chapters. The introductory chapter should
+contain a clear statement of the objectives of the study , rationale behind the
+study, a brief summary of the literature review, hypotheses tested (if any) and the
+definitions of the major concepts employed in the study. The methodology adopted
+in conducting the study must also be fully explained along with an explicit mention
+of the limitations of the study . The subsequent parts of the main text, should
+present the major aspects of the study arranged in a logical sequence splited into
+appropriate sections and subsections. The inter-connection between dif ferent
+sections should be properly maintained so that the report reads smoothly.
+The implications of the results of the study should be stated towards the end of
+the report. The implications may comprise of:
+i) the inferences drawn from the study;
+ii) the conditions which may limit the extent of generalizations of the inferences
+drawn; and
+iii) the questions that remain unanswered along with new areas for further
+research identified. The conclusion drawn from the study should be clearly
+related to the objectives/hypotheses stated in the introductory section.
+The report may also include an ‘executive summary’ outlining the context and
+methodology, and major findings of the study. The ‘executive summary’ is placed
+right at the beginning (i.e. before the introductory chapter) so as to provide a
+concise picture of the entire report.
+1.7 HYPOTHESIS: ITS TYPES AND SOURCES
+Hypothesis are potential explanations that can account for our observations of
+the external world. They usually describe cause and effect relationships between
+a proposed mechanism or process (the cause) and our observations (the effect).
+In quantitative research, there are two methods of hypothesis generation: deductive
+method and inductive method.
+If hypothesis is generated from a theory, it is called deductive approach. On the
+other hand, if it is generated from observation, it is termed as inductive approach.
+Deductive approach: Theory → Hypothesis→Observation→Confirmation.
+Inductive approach: Observation→Pattern→Tentative Hypothesis→Theory.
+
+
+--- Page 16 ---
+16
+Research Methodology:
+Issues and Perspectives
+In qualitative research, a hypothesis might be framed in terms of social setting
+having certain features, which through observation, can be confirmed or falsified.
+In survey or experimental research or otherwise hypothesis testing establishes
+the statistical significance of a finding.
+1.8 THE NATURE, SOURCES AND TYPES OF DAT A
+For undertaking any meaningful research in terms of situational assessment,
+testing of models, development of theory, evaluation of economic policy, data is
+essential. The availability of data therefore, determines the scope of analysis. In
+any research, the researcher is expected to state the sources of the data used in
+the analysis, their definitions, and methods of collection.
+The data may be of three types; Time series, Cross-section and Pooled.
+1) Time Series Data: It is a set of observations on the values that a variable
+takes at different times. Such data may be collected at regular time intervals
+such as daily (i.e. prices, whether reports etc.), weekly (like money supply
+figures), monthly (i.e. consumer price index etc.) quarterly (i.e. GDP),
+annually (i.e. government budget etc.).
+2) Cross Section Data: Cross-section data are data on one or more variables
+collected at the same point of time. For example the data on the census of
+population collected by the Registrar General of India.
+3) Pooled Data: In pooled data, the elements of both time series and cross
+section are clubbed. For example, over a period of time say from 2000 to
+2013, we have data on saving, investment and GDP across Indian states.
+Panel, Longitudinal or Micro Panel Data: This is a special type of pooled data
+in which the same cross-sectional (say a family or firm) is surveyed overtime.
+The Sources of Data: The data used in empirical analysis may be collected by a
+governmental agency (e.g. CSO, NSSO, RBI, Labour Bureau etc.), an
+international agency (e.g. International Monetary Fund (IMF) or a private
+organization. Such data is called secondary data because these are collected from
+secondary sources. The details about the kind of secondary data compiled by the
+different data collecting agencies have been presented in Block 6 of this course.
+The data collected by the investigator or researcher through field work is termed
+primary data. Such data is collected by using different tools like questionnaire,
+schedule, interview etc. under quantitative approach and participant observation,
+open ended interview, group discussion, key information etc. ( under qualitative
+approach). The methods for collecting the primary data have been discussed in
+Unit 7 of Block 2.
+1.9 MEASUREMENT SCALES OF VARIABLES
+Measurement is the process of observing and recording the observation that are
+collected. A variable can be measured at four levels: ratio scale, interval scale,
+ordinal scale and nominal scale. The suitability of analytic technique depends on
+the measurement scale. A particular econometric/statistical technique that may
+be suitable for ratio scale variables may not be suitable for nominal scale variables.
+
+
+--- Page 17 ---
+17
+Research Methodology:
+Conceptual Foundation
+It is therefore desirable to know the distinctions among the four types of
+measurement scales. These are discussed below:
+1) Nominal Scale: Under the nominal scale, the data is recorded into categories,
+without any order or structure. In other words, if against any question/
+statement, response is recorded simply yes/no, then the scale will be nominal.
+It has no order and there is no distance between yes and no.
+The statistical techniques that can be used with nominal scales data are:
+Mode, cross tabulation – with chi-square. Other highly sophisticated
+modeling techniques available for nominal scale data are – logistic Linear
+Regression Model, Principal component analysis, factor analysis etc.
+2) Ordinal Scale: In terms of power of measurement, ordinal scale comes
+next to nominal scale. Recording Ranks against various options/choices is
+the simplest ordinal scale. If you are asked by a researcher to rank 5 fruits
+from most favorable to least favorable, he is essentially asking you to create
+an ordinal scale of preference.
+Median, Mode, rank order correlation, non-parametric correlation and
+modeling techniques are used with ordinal data.
+3) Interval Scale: In a situation when we not only talk about differences in
+order but also differences in the degree of order, it is referred to as interval
+scale. For example, if we are asked to rate our satisfaction with a piece of
+software on a 7 point scale, from dissatisfied to satisfied, we are using an
+interval scale.
+Mean and stardard deviation, correlation, regression, analysis of variance,
+factor analysis techniques can be used with interval scale data.
+4) Ratio Scale: A ratio scale is the top level of measurement and satisfies the
+following properties:
+i) Measurement of each observation of a variable in numerals (quantitative
+terms) and hence possible to work out the ratio of two observations.
+For a variable X taking two values X1 and X2 the ratio will be X1 / X2.
+ii) Measurement of distance between two observation X1 and X2 i.e. (X2 – X1).
+ii) Indication of the natural ordering (ascending or descending) of the
+elements of a variable. Therefore, comparison such as X2 
+> X1 or X2 > X1
+are meaningful.
+The statistical techniques used in interval scale can easily be used in ratio scale
+also. You will find elaborate discussion on measurement scales and scaling
+techniques in Unit 8 of Block 2.
+Check Your Progress 2
+1) In what way review of literature helps a researcher?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+
+
+--- Page 18 ---
+18
+Research Methodology:
+Issues and Perspectives
+2) What is meant by a hypothesis?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3) Distinguish between time series data and cross section data.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+4) State the various measurement scales of data.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+1.10  LET US SUM UP
+Research plays a significant role in human progress. It inculcates scientific temper
+and logical thinking. Research refers to a scientific and systematic enquiry aiming
+either to discover new facts or to verify the old facts. The theoretical perspectives,
+tools and techniques of data collection and methods of data analysis together
+constitute the Research Methodology. Broadly there are two basic approaches of
+research; quantitative and qualitative. Quantitative approach generates the data
+in quantitative terms. This can, therefore, be subjected to quantitative analysis.
+Subjective assessment of attitudes, opinions and behaviour are tackled by the
+qualitative approach to research. Research process involves seven steps –
+identification of research problem, review of literature, objectives, formulating
+the hypothesis, finalizing research design, collection of data, analyzing the data
+and report writing. Data can be of three types: time series, cross section and
+panel data. A variable can be measured at four levels: ratio scale, interval scale,
+ordinal scale and nominal scale. The suitability of analytic technique depends on
+the measurement scale. Hypothesis is a tentative explanation of any event or
+phenomenon in the external world. There are two methods of hypothesis
+generation: deductive method and inductive method. Thus, this unit provides an
+overview of the conceptual foundation of Research Methodology and enables
+the learner to comprehend the various processes involved in carrying out the
+research study.
+1.11 KEY WORDS
+Coding : A system of symbols, letter or words used in
+transmitting messages.
+Epistemology : Epistemology refers to the theory of knowledge of
+how human beings come to have knowledge of the
+world around them – of how we know what we know.
+Broadly there are two theories: Rationalism and
+Empiricism.
+
+
+--- Page 19 ---
+19
+Research Methodology:
+Conceptual Foundation
+Rationalism : Rationalism is based on the idea that reliable
+knowledge is derived from the use of “pure” reason.
+Empiricism : Empiricism envisages that the knowledge of the world
+can be obtained only through direct sense-experience.
+Experimental : Research in which independent variables are
+Testing Research manipulated.
+Ontology : It is a branch of philosophy that is concerned with the
+nature of reality. It deals with the theories about what
+makes up reality.
+Induction : Induction is a process for moving from particular
+statements to general statements. This logic is used
+in social sciences to produce theory from data.
+Deduction : Deduction is a process used to derive particular
+statements from general statements. A hypothesis is
+deduced from a theory and is tested by empirical data.
+Abduction : Abduction refers to the process of moving from the
+way social actors describe their way of life to
+technical, social scientific description of that social
+life. It has two stages: (a) describing these activities
+and meaning and (b) deriving categories and concepts
+that can form the basis of an understanding or an
+explanation of the problem at hand.
+Retroduction : Retroduction refers to the process of going back from,
+below, or behind observed patterns or regularities to
+discover what produces them. This logic of enquiry
+focuses to locate the structures and mechanisms that
+have produced the regularity . These structures and
+mechanisms envisage the tendencies or powers of
+things to act in a particular way.
+Research Hypothesis : Research hypothesis is a predictive statement that
+relates an independent variable to a dependent
+variable. Such a hypothesised relationship is usually
+meant to be tested by research method. Predictive
+statements, which cannot be objectively verified, or
+the relationships that are assumed which cannot be
+tested do not qualify as research hypothesis.
+Tabulation : Setting out the data/information in tabular form.
+1.12 SOME USEFUL BOOKS
+1) Kothari C.R. (1985): Research Methodology – Methods and T echniques,
+Wiley Eastern Publication Chapter 1-3 pp 1 to 67.
+2) LeWis-Beck Michael S; Bryman Aan, Tim Futing, Liao (Ed) (2004): The
+Sage Encyclopedia of Social Sciences Research Method, Volumes 1,2 and
+3, Sage Publications, New Delhi.
+
+
+--- Page 20 ---
+20
+Research Methodology:
+Issues and Perspectives
+3) David L. Morgan (2014): Integrating Qualitative and Quantitative Methods,
+Sage Publications, New Delhi
+1.13 ANSWERS OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+Check Your Progress 1
+1) See section 1.2
+2) See section 1.3
+3) See section 1.5
+4) See section 1.3
+Check Your Progress 2
+1) Review of literature enables the researcher to know about the availability of
+relevant material and data. It also helps in framing the research questions.
+2) See section 1.7.
+3) A set of values of a variable at different times is time series data whereas a
+set of values of one or more variables collected at a point of time is cross
+section data.
+4) Various measurement scales of a variable are: ratio scale, interval scale,
+ordinal scale and nominal scale.

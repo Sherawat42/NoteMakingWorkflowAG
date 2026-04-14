@@ -1,0 +1,486 @@
+--- Page 28 ---
+ 
+ 
+1 
+29 
+Two Variable Regression 
+Models
+It is here that the assumption of normality helps us . Let us consider it. From 
+Section 9.6, we know that ∑= kYβˆ and thus, it is a linear function of the 
+observed values of Y. But, U X Y++= βα . Consequently, we can 
+see, ( )∑ + + =U X kβ α βˆ . Now, we already know that the ks, the Xs and the 
+parameters are all given. As a result, finally, βˆ  becomes a linear function of the 
+random disturbance variable U. Thus, βˆ  has the same distribution as U. 
+Therefore, the assumption of normality U, implies that ˆβ  is distributed as 
+normal. 
+We have already seen that ( ) β β=ˆE  and ( ) ( )∑ −
+=
+2
+ˆ
+X X
+s e σβ . It follows 
+t
+hen that  
+βˆ  ~ N 
+( ) 
+
+
+
+
+
+
+
+−∑
+2
+,
+X X
+σβ  
+You must have learnt from your compulsory course in quantitative methods, 
+that now a standard normal variable can be formed with mean equal to zero and 
+standard deviation equal to one and it can be used for testing of hypotheses 
+regarding β . But the problem here is that the population standard deviation σ  
+is unknown and we have to use an estimate for it. However, we know that an 
+unbiased estimate of σ  is given by 2
+ˆ
+ˆ
+2
+2
+−= ∑
+n
+Uσ , where ,Uˆ  is the sample 
+r
+egression error term and is therefore, computable, and n is the size of the 
+sample. Again you must be knowing that when we standardize βˆ  by 
+subtracting its mean from it and divide it by its estimated standard deviation, it 
+no longer follows normal distribution and it in fact follows a student-t 
+distribution with n-2 degrees of freedom. This student-t distribution has a mean 
+equal to zero and a standard deviation equal to one. Thus, it is this standard 
+student-t distribution that is used for testing of hypothesis about
+β . We have a 
+table for such a standard student-t distribution for different degrees of freedom. 
+And like the standard normal table, this table is put into use for such tests of 
+hypotheses.  
+Let us see now how we can conduct some test of hypothesis regarding the 
+unknown population regression coefficient by considering some examples that 
+we have already discussed in Section 9.7. Consider Example 9.2. In this 
+example, we have considered the issue of the consumption function in the 
+Indian economy by regressing final consumption expenditure on GDP. To 
+begin with, we might be interested in examining whether the relationship is 
+significant or not. Thus, our focus is on the regression coefficient 
+β  and by the 
+nature of the inquiry, we have to conduct a two-tailed test.  We can proceed by 
+setting our null hypothesis and the alternative hypothesis in the following 
+manner:    
+0 :       hypothesis  e Alternativ
+0 :                  hypothesis  Null
+1
+0
+≠
+=
+β
+β
+H
+H  
+
+
+--- Page 29 ---
+ 
+ 
+Quantitative Methods-1 
+30 
+Two Variable Regression The acceptance of the null hypothesis implies the rejection of the alternative 
+hypothesis and this in turn implies that on the basis of the sample information 
+there does not seem to be any significant relationship between GDP and the 
+final consumption expenditure. On the other hand, the rejection of the null 
+hypothesis implies the acceptance of the alternative hypothesis and this in turn 
+implies that on the basis of the sample information there seems to exist 
+significant relationship between GDP and the final consumption expenditure. 
+The next step is to construct our test statistic, which is conventionally denoted 
+by t. Thus 
+( )
+( )
+2 2
+ˆ ˆ
+ˆ.
+Under the null hypothesis,
+ˆ ˆ0
+ˆ ˆ
+2 2
+E
+t
+s e
+t
+U U
+n n
+b b
+b
+b b
+-
+=
+-= =
+- -å å
+ 
+A
+nd this is distributed as a student-t with n-2 degrees of freedom. From the 
+results of the Example 9.2 we can easily compute the value of this t statistic 
+since, both the values of the estimated regression coefficient (0.719676) and 
+the standard error of the estimated regression coefficient (0.007865) are 
+mentioned there. In fact, even the computed value of the t statistic (91.50314) 
+is given. In addition, the degree of freedom is also given (20). Normally, any 
+test of hypothesis is conducted either at 1 per cent level of significance or at 
+5% level of significance. From the student-t distribution table we can find out 
+the critical values of the test statistic t for both 1 per cent level of significance 
+and at 5% level of significance at a degree of freedom of 20 for two-tailed test. 
+The values are 2.845 and 2.086 respectively. Thus, the computed value of t far 
+exceeds both the critical values. Thus, on the basis of the sample information 
+we cannot accept the null hypothesis. This amounts to accepting the alternative 
+hypothesis. Consequently, personal consumption expenditure does seem to be 
+dependent upon GNP in India during the sample period 1980-2001. 
+Once the relationship between GDP and personal consumption expenditure has 
+been established some further test can be conducted about the likely value of 
+the marginal propensity to consume out of GNP. For example we can conduct a 
+test regarding whether the marginal propensity to consume is 80 per cent or 
+not. Thus we have 
+80 . 0 :       hypothesis  e Alternativ
+80 . 0 :                  hypothesis  Null
+1
+0
+≠
+=
+β
+β
+H
+H  
+Thus our t statistic in this case is given by 
+( )
+( )
+212841 . 10007865 . 0
+080324 . 0
+007865 . 0
+80 . 0 719676 . 0
+ˆ.
+ˆ ˆ
+=−=−=−=
+β
+β β
+e s
+Et . 
+Now this value of the test statistic also exceeds the critical values of 2.845 and 
+2.086 for a degree of freedom of 20 at 1 per cent and 5 per cent levels of 
+significance respectively. Thus, on the basis of the sample information the 
+
+
+--- Page 30 ---
+ 
+ 
+1 
+31 
+Two Variable Regression 
+Models
+difference between estimated value of β  and its mean is so much that even in 
+1 out 100 cases or 5 out of 100 cases we do not expect to obtain such a 
+difference. Thus on the basis of the sample information, we are not in a 
+position to accept the null hypothesis. Hence, in all probability during the 
+sample period of 1980-2001, India’s marginal propensity to consume out GDP 
+has not been as high as 80 per cent. 
+In the above example, we considered two-tailed tests of hypotheses. This 
+however, does not rule out the possibility of conducting one-tiled tests. It all 
+depends upon the type of inquiry that we intend conducting.  
+Thus, a discussion on the test of hypotheses finally marks the end of our 
+discussion on two variable regression model. 
+Check Your Progress 2  
+1) When will you use a log linear regression model? 
+…
+……………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) How do you interpret the estimated slope coefficient
+  of a log linear 
+regression model? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+3) If you want to estimate India’s rate of growth of pe r capita income during 
+the period 1980-2000, what should be the functional form of your 
+regression model? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+
+
+--- Page 31 ---
+ 
+ 
+Quantitative Methods-1 
+32 
+Two Variable Regression 4) Explain the concept of a classical normal regression  model. What is its use? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+5) Explain briefly the steps for testing the significan ce of the regression 
+coefficient. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+9.11  LET US SUM UP 
+Our focus has been exclusively on the two variable regression model. The 
+purpose of this unit has been to specify what is known as the classical 
+regression model in the literature for the population. It is essentially a linear in 
+parameter regression model. This regression model is stochastic in nature in the 
+sense that here the dependent variable is taken as a random variable as against 
+the independent variable being considered as non-random in nature. The 
+element of stochasticity is introduced by including a random error or 
+disturbance term in the model. Our major concern has been to estimate the 
+unknown parameters of the population regression model from the known 
+sample information and tests some hypotheses about these parameters. In this 
+regression model we usually make five assumptions about the disturbance term 
+in order to effectively estimate the parameters by implementing the ordinary 
+least square procedure. The estimates thus obtained satisfy some desirable 
+properties as enunciated in the Gauss-Markov Theorem. In this connection, it 
+may be mentioned here that if some of these assumptions are not fulfilled, 
+some problems regarding the sample estimates of these unknown parameters 
+arise. These problems and their solutions have not been discussed in this unit. 
+We have also considered different functional forms of the regression model 
+that might be relevant to use in different situations. For the purpose of 
+hypothesis testing, we have to extend the assumptions of the classical 
+regression model to include one more assumption about the probability 
+distribution of the disturbance term. The resultant regression model is then 
+known as the classical normal regression model. We have considered the use of 
+this model for the tests of hypotheses. 
+
+
+--- Page 32 ---
+ 
+ 
+1 
+33 
+Two Variable Regression 
+Models9.12 EXERCISES 
+1) The following table presents the data for broad mone y supply 3M  (Rs. 
+C
+rore) for India during 1980-2002. Fit in an appropriate regression model 
+and estimate the rate of growth of money supply in India during this 
+period. 
+Table 9.5: India’s Broad Money Supply 1980-2002 
+Y
+ear M3 
+1980 50966 
+1981 59793 
+1982 68515 
+1983 80577 
+1984 95295 
+1985 111096 
+1986 130653 
+1987 153207 
+1988 179687 
+1989 213856 
+1990 249493 
+1991 292403 
+1992 344238 
+1993 399048 
+1994 478196 
+1995 552953 
+1996 642631 
+1997 752028 
+1998 901294 
+1999 1056025 
+2000 1224092 
+2001 1420025 
+2002 1647976 
+2) Consider the following hypothetical data. Fit in a l og linear regression 
+model and interpret the estimated regression coefficient. Show all the 
+calculations. 
+
+
+--- Page 33 ---
+ 
+ 
+Quantitative Methods-1 
+34 
+Two Variable Regression Dependent Variable (Y) Independent Variable (X) 
+189.8 173.3 
+172.1 165.4 
+159.1 158.2 
+135.6 141.7 
+132.0 141.6 
+141.8 148.0 
+153.9 154.4 
+171.5 163.5 
+183.0 172.0 
+173.2 161.5 
+188.5 168.6 
+205.5 176.5 
+236.0 192.4 
+257.8 205.1 
+277.5 210.1 
+291.1 208.8 
+284.5 202.1 
+274.0 213.4 
+279.9 223.6 
+297.6 228.2 
+297.7 221.3 
+328.9 228.8 
+351.4 239.0 
+360.4 241.7 
+378.9 245.2 
+Adapted from Maddala (2001) 
+3) In Example 9.4, the sample estimate of India’s rate of growth during the 
+period 1960-80 has been obtained to be about 3.4 per cent per year. Test 
+the hypothesis that during the same period the rate of growth has in fact 
+been 4 per cent per year. 
+9.13  KEY WO RDS 
+Assumptions of the Classical Regression Model:  
+1) The disturbance term U has a zero mean for all the values of X, i.e., E (U) = 0. 
+2) Variance of U is constant for all the values of X, i.e., 2) ( σ=X V .  
+
+
+--- Page 34 ---
+ 
+ 
+1 
+35 
+Two Variable Regression 
+Models
+3) The disturbance terms for two different values of X are independent i.e., 
+j iU Uj i ≠ =f or  , 0 ) , cov(. 
+4
+) X is non-stochastic. 
+5) The model is linear. 
+C
+lassical Normal 
+Regression Model 
+: A linear regression model, in which, in 
+a
+ddition to the five assumptions of the classical 
+regression model, one more assumption of the 
+error term being normally distributed is made. 
+C
+lassical Regression 
+Model 
+: The conventional regression model whose 
+p
+arameters are estimated by the ordinary least 
+square procedure. 
+Functional Forms of 
+L
+inear Regression 
+Model 
+: Different kinds of linear regression models. 
+Gauss-Markov 
+T
+heorem 
+: Under the assumptions of the classical 
+r
+egression model, among all the linear 
+unbiased estimators, the least square estimators 
+have the minimum variance. In other words, 
+the least square estimators are the best linear 
+unbiased estimators or BLUE. 
+Goodness of Fit : The ratio of the explained sum of squares to 
+t
+he total sum of squares. Also known as the 
+coefficient of determination. 
+Hypothesis Testing : Conducting tests regarding hypotheses made 
+a
+bout the unknown parameters of the 
+population regression model with the help of 
+the estimated sample regression function. 
+Linear Regression 
+M
+odel 
+: A regression model that is essentially linear in 
+p
+arameter. 
+Non-Deterministic 
+R
+egression Model 
+: A regression model in which the dependent 
+v
+ariable is random or probabilistic but the 
+independent variable is non-random. 
+Parameters : Unknown intercept and the slope coefficient of 
+a
+ population regression model. 
+Population Regression 
+F
+unction 
+: A linear regression model with a stochastic 
+e
+rror term for a given population. 
+Sample Regression 
+F
+unction 
+: The sample regression function that is fitted 
+i
+nto the sample data for estimating the 
+population regression model. 
+Standard Errors of 
+E
+stimate 
+: Standard deviations of the estimated sample 
+r
+egression intercept and slope coefficient. 
+Two Variable 
+R
+egression Model 
+: A regression model with one explanatory 
+v
+ariable. 
+
+
+--- Page 35 ---
+ 
+ 
+Quantitative Methods-1 
+36 
+Two Variable Regression 
+9.14  SOME USEFUL BOOKS 
+Gujrati, Damodar N. (2003); Basic Econometrics , McGraw-Hill, New York, 
+U.S.A. 
+Maddala, G.S. (2002): Introduction to Econometrics , John Wiley & Sons 
+(Asia), Singapore. 
+Pidyck, Robert S. & Rubinfeld, Daniel L. (1991); Econometric Models & 
+Economic Forecasts, McGraw-Hill, New York, U.S.A.  
+9.15  ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) See Section 9.2 
+2
+) See Section 9.3 
+3
+) See Section 9.4 
+4
+) See Section 9.6 
+5
+) See Section 9.7 
+Check Your Progress 2 
+1
+) See Section 9.8 
+2
+) Measures the elasticity of the dependent variable wi th respect to the 
+independent variable. 
+3) See Section 9.8 
+4
+) See Section 9.9 
+5
+) See Section 9.10 
+9.16 A NSWERS OR HINTS TO EXERCISES 
+1) 15.9 per cent 
+2
+) Do Yourself 
+3
+) Do yourself 
+ 

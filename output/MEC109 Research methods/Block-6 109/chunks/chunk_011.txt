@@ -1,0 +1,559 @@
+--- Page 101 ---
+ 
+ 
+101
+Social Sector
+24.4  HEALTH 
+One of the important dimensions of quality of life is health. A healthy 
+individual can contribute effectively to production of goods and services. 
+Investment in health is, therefore, an essential instrument of raising the quality 
+of life of people and the productivity of the labour force. What is the health 
+status of the population? What are the challenges to the health of the population 
+and how are these being tackled? What kind of data is available about these 
+aspects of the population, the health infrastructure and the efforts being made 
+to deal with problems of health? What is the impact of these on the health 
+situation, especially of women and children? The World Health Organisation 
+(WHO), India website (http://www.who.int/countries/ind/en/ ) provides country 
+statistics on health profile, nutrition, mortality and burden of disease and risk 
+factors like those of alcohol and tobacco. The Central Bureau of Health 
+Intelligence of the Ministry of Health and Family Welfare publishes the 
+“National Health Profile (NHP) of India” every year. The publications 
+“Sample Registration System (SRS): Statistical Reports”, “SRS 
+Compendium of India’s Fertility & Mortality Indicators, 1971-2001”, 
+Mortality Statistical and Cause of Death”, SRS Bulletin and the Social & 
+Cultural Tables (C Series Tables) of Census 2001 of the Office of the 
+Registrar General of India (RGI), Ministry of Home Affairs and the “Report 
+on the National Family Health Survey (NFHS-4) – 2014-15” of the Ministry 
+of Health and Family Welfare contain a large amount of information on these 
+aspects of health, at the State level. For district level information, you can see 
+the reports of the Annual Health Survey (AHS) of the ORGI and the District 
+Level Health Survey (DLHS) of the MoH&FW. The Government of India 
+launched the National Rural Health Mission in 2005, which has now been 
+expanded to cover urban areas and called the National Health Mission. From 
+2005, the MoH&FW publishes, as an offshoot of the NHM, the Rural Health 
+Statistics (RHS) report each year. 
+24.4.1 Health Infrastructure 
+The RHS of the MoH&FW provide the following types of data: 
+i) Demographic indicators – state-wise number of villages, rural and urban 
+population, population growth rates and density, estimates of crude birth 
+rates, crude death rates and infant mortality rates; 
+ii) Rural health infrastructure – number of health sub-centres in each 5-year 
+plan period, number of Primary Health Centres, number of community 
+Health Centres, number of sub-centres, PHCs and CHCs functioning at the 
+end of the year, number of sub-divisional hospitals, district hospitals and 
+mobile medical teams, shortfall in health infrastructure, building position 
+of sub-centres, PHCs and CHCs; 
+iii) Health manpower in rural areas – Health workers (female)/ANM at sub 
+centre, PHCs, Health workers (male) at sub centre, number of sub-centres/ 
+PHCs without ANMs/Health worker (Male), health assistants/LHVs at 
+PHCs, doctors at PHCs, number of PHCs without doctors/ lab technicians/ 
+pharmacists, number of PHCs with AYUSH facility, surgeons at CHCs, 
+obstrreticians and gynaecologists at CHCs, physicians at CHCs, 
+paediatricians at CHCs, general dutty medical officers at CHCs, 
+radiographers at CHCs, pharmacists at CHCs and PHCs, lab technicians at 
+CHCs, nursing staff at PHCs and CHCs, etc.; 
+
+
+--- Page 102 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+102 
+iv) Facilities available at sub centre – number of sub centres functioning, with 
+ANM quarter, ANMs living in sub centre quarters, number of sub centres 
+functioning as per IPHS norms, number of sub centres with regular water 
+supply, with electricity, with all-weather motorable approach road, number 
+of PHCs functioning, with labour room, with operation theatre, with at 
+least 4 beds, regular water supply, with electricity, with all-weather 
+motorable approach road, with telephone, with computer, with referral 
+transport, registered RKS, functioning as per IPHS (Indian Public Health 
+Standard) norms; 
+v) Facilities available at CHCs - number of CHCs functioning, with all four 
+specialists, with computer/ statistical assistant for MIS/ Accountant, with 
+functional laboratory, with functional OT, with functional labour room, 
+with at least 30 beds, with functional X-ray machine, with quarters for 
+specialist doctors, with referral transport, registered RKS, functioning as 
+per IPHS norms, number of CHCs having a regular supply of allopathic 
+drugs for common ailments, with AYUSH drugs for common ailments;  
+vi) Training of medical and paramedical personnel –ANM/ HW (F) training 
+schools funded by Government of India, established by Government of 
+India, health and family welfare training centres, MPW (M) training 
+centres;  
+vii) Rural health care – some parameters of achievement – classification of 
+States/UTs by average rural population covered by a sub centre, by a PHC, 
+by a CHC, average radial distance covered by PHCs, ratio of LHV/ health 
+assistant training schools to LHV/ health assistant, etc.; 
+viii) Expenditure on health and family welfare – overall and on individual 
+programmes like malaria control, filarial control and national leprosy 
+eradication programme. 
+24.4.2 Public Health, Morbidity and Mortality Indicators 
+i) Progress of the programme for vaccination of children and pregnant 
+women; 
+ii) Time series on the number of notified/reported cases of and deaths due to 
+diseases like cholera, small pox, acute diarrhoeal diseases, malaria, 
+kalaazar, Japanese encephalitis and meningitis; 
+iii) The number of cases detected, treated and discharged in respect of 
+diseases like leprosy and tuberculosis; 
+iv) The number of patients treated, discharged and deaths due to (a) different 
+types of cancer in specialized cancer hospitals, (b) different types of 
+mental diseases, and (c) communicable diseases like diphtheria, 
+poliomyelitis, tetanus (neonatal and others), hepatitis and rabies; 
+v) Progress in the National Aids Control Programme and other National 
+Control/Eradication programmes; 
+vi) Utilization by beneficiaries of facilities provided by CGHS, ESI scheme, 
+Control/Eradication programmes; 
+vii) Incidence of morbidity and mortality by causes in zonal Railway 
+hospitals; 
+
+
+--- Page 103 ---
+ 
+ 
+103
+Social Sectorviii) Incidence of morbidity by diseases in the ESI scheme; 
+ix) Causes of death statistics: distribution of deaths due to (a) selected 
+diseases by age and sex, (b) specific causes under the group of diseases 
+peculiar to infancy, and (c) causes related to childbirth, (d) causes related 
+to childbirth and pregnancy (maternal mortality) and (e) accidents due to 
+different types of natural and other causes (RGI); 
+x) Medical certification of cause of death – distribution of such deaths by 
+age, sex and major cause groups (18 groups of causes) and the extent of 
+coverage of such certification to total deaths in each of the 18 groups 
+(RGI); 
+xi) Birth Rates (BRs), Death Rates (DRs) and natural growth rates and State-
+wise BRs and DRs (from SRS, RGI); 
+xii) Mortality Indicators like the Crude Death Rate (CDR), Infant Mortality 
+Rate (IMR) 34, Nano-Natal Rate (NNR) 35, Post-Natal Rate (PNR) 36, Still 
+Birth Rate (SBR) 37, Age-Specific Death Rates (ASDRs) and Maternal 
+Mortality Rates (MMR) (from SRS, RGI); 
+xiii) Fertility data – 2001 (F series Tables) (census 2001); 
+xiv) Disabled population in India by type of disability, sex and age in 
+general/SC/ST population and a further classification by marital status for 
+the general population (from Census 2001); and 
+xv) Expectation of Life at Birth (e 0) 38, expectation of life at ages 10, 20, 30, 
+40, 50 and 60 for males, females and persons (from RGI). 
+24.4.3 National Family Health Survey (NFHS) 
+What is the impact of the efforts made to expand the size and reach and also 
+enhance the quality of the health services on the health status of the family, 
+especially of women and children? The first National Family Health Survey 
+(NFHS-1) conducted in 1992-93 succeeded in answering this question and also 
+in building up an important demographic and health database in India. This 
+success paved the way for the conduct of the second National Family  
+Health Survey in 1998-99 (NFHS-2), third NFHS in 2005-06 and NFHS-4 
+in 2014-15, to strengthen this database further and facilitate implementation 
+and monitoring of population and health programmes in the country. NFHS – 4 
+is covering, for the first time, all the 35 States and UTs as per Census 2011. 
+The survey is based on a representative sample of 5,60,000 households, up 
+from about 1,90,000 households of NFHS-3. The survey provides State-level 
+estimates of demographic and health parameters and also data on various socio-
+economic and programmatic factors that are crucial for bringing about desired 
+changes in India’s demographic and health situation.NFHS-1 and NFHS-2 
+were funded by the United States Agency for International Development, with 
+supplemental funding from UNICEF. NFHS-3 funding was provided by the 
+United States Agency for International Development, the Department for 
+                                                            
+ 
+34 Relates to the number of children who die before their first birthday. 
+35 Relates to the number of children who die in the first month of their life. 
+36 Relates to children who die after the first month of life but before their first birthday. 
+37 Relates to children who are born dead. 
+38 The number of years that a person born today will, on the average live. Similary, e i., (i=10, 
+20, 30, 40, 50, 60 ….) is the number of years that a person aged i years today will, on an 
+average live. 
+
+
+--- Page 104 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+104 
+International Development (United Kingdom), the Bill and Melinda Gates 
+Foundation, UNICEF, the United Nations Population Fund, and the 
+Government of India. Assistance for the HIV component of the NFHS-3 survey 
+was provided by the National AIDS Control Organisation and the National 
+AIDS Research Institute 39. The field data collection in the NFHS is conducted 
+by different research organisations. A total of 18 such organisations collected 
+data in NFHS-3 during December 2005 to August 2006. It has been planned to 
+conduct the NFHS-4 through 11 reputed field agencies like the AMS, DRS, 
+EHI, GFK, GIM, IIHMR, NIELSON, SPVM, RDI, SPYM and VIMARSSH. 
+NFHS-3 provides 
+a) urban and rural estimates for most States, (b) separate estimates for 8 cities, 
+and (c) estimates for the slum areas. Besides a national report, reports are 
+prepared for the States . The NFHS reports can be downloaded free from the 
+site http://www.rchiips.org/nfhs/sub_report.shtml. The kind of data on health 
+and nutrition status of women and children and estimates of parameters related 
+to these presented by the NFHS, are indicated in brief below: 
+i) Educational level of the household population, school attendance of boys 
+and girls and reasons for not attending school; 
+ii) Distribution of housing by availability of basic amenities 40, ownership of 
+agricultural land, house and livestock and durable goods; standard of 
+living indicators based on these and habits like drinking, tobacco and 
+smoking; 
+iii) Distance of households from the nearest health facility and distribution of 
+rural residents living in villages that have selected facilities and services; 
+iv) Age at first marriage of (women) respondents, their exposure to mass 
+media, their employment status and aspects of their empowerment or lack 
+of it, including domestic violence; 
+v) Current fertility, variation in current fertility by various factors, fertility 
+trends, pattern of outcome of pregnancy, median number of children ever 
+born and living to ever married women, patterns of birth order and birth 
+intervals, median age of women at the first birth and the last birth of 
+child, patterns of fertility preference and sex (of the child) preference; 
+vi) Knowledge of use and time of first use of contraception, reasons for 
+discontinuation of, or for not using contraception; 
+vii) Estimates of age-specific death rates, crude death rates, infant and child 
+mortality41; 
+viii) Morbidity by selected diseases and its variation over States; 
+ix) Vaccination of children, vitamin A supplementation for children, 
+prevalence of acute respiratory infection, fever and diarrhoea, treatment 
+of diarroea and awareness of treatment like ORS packets; 
+                                                            
+ 
+39  See the website http://www.rchiips.org/nfhs/nfhs3.shtml which provides details of all the 4 
+NFHS surveys conducted so far. 
+40  Electricity, source of drinking water, time taken to get water, method of purifying water, 
+sanitation facility, fuel for cooking, type of house (pucca , semi-pucca and kutcha) and 
+persons per room. 
+41  Child mortality relates to children who die between their first and 4 th birthday. Under-five 
+mortality relates to children who die between their 4th and 5th birthdays. 
+
+
+--- Page 105 ---
+ 
+ 
+105
+Social Sectorx) Knowledge about AIDS and ways of avoiding it; 
+xi) Food consumption of women, nutritional status of women, anaemia 
+among them, iodisation of salt consumed in households and body mass 
+index42 - an indicator of the heath status of women; 
+xii) Median duration of breastfeeding – overall and in different States, type of 
+food consumed by children, nutritional status of children, anaemia among 
+them and indicators of acute and chronic malnutrition among children – 
+weight for age index, height for age index and weight for height index43; 
+xiii) Health problems of pregnancy, antenatal care, assistance during delivery, 
+place of delivery, post-partum care, and care and treatment of reproductive 
+health problems; and 
+xiv) Couple protection rate44. 
+It is necessary to make a reference here again to the NHDR 2001 of the 
+Planning Commission and the HDRs of the State Governments for their 
+importance in the field of health, education and other sectors. 
+Check Your Progress 3 
+1) Indicate the publications which contain the data on different aspects of 
+health. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) What type of database is provided by National Family Health Survey? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+                                                            
+ 
+42  “Body mass index (BMI) = [weight in kgms.] / [height in metres)(height in metres)]. See 
+Unit 4 on Poverty & Inequality – Policy Implications” (section on human development 
+indicators) in Block 1 of MEC – 005 on Indian Economic Policy in your first year course. 
+43  The National Institute of Nutrition, Hyderabad has recommended that the nutritional status 
+of the international reference population recommended by the WHO could be used as the 
+standard for India. The Weight for Age Index  is a composite measure that takes into 
+account both chronic and acute malnutrition. Children who are more than 2 standard 
+deviations (s.d.) below the median value of the index for the reference population are 
+“underweight”. The Height for Age Index  measures linear growth retardation. Children 
+who are more than 2 s.d. below the median value of the index for the reference population 
+are considered short for their age, or are “stunted”. This is chronic undernutrition. The 
+Weight for Height Index examines body mass in relation to body height. Children who are 
+more than 2 s.d. below the median value of the index for the reference population are 
+considered too thin or “wasted”. This is acute undernutrition. (NFHS – II). See the 
+preceding footnote on BMI also. 
+44  The percentage of currently married women aged 15 to 49 years using family planning 
+methods at the time of the survey. 
+
+
+--- Page 106 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+106 
+………………………………………………………………………………. 
+3) What do you mean by the term ‘weight for age index’? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+24.5 SHELTER AND AMENITIES 
+Another important dimension of the quality of life is shelter and access to 
+amenities like safe drinking water, toilet, adequate lighting and safe fuel for 
+cooking. We have already discussed this in sub-section (d) under the section on 
+“Levels of Inequality in Non-income Aspects of Life” in Unit 4 on “Poverty 
+and Inequality: Policy Implications” in Block 1 of MEC – 005 on “Indian 
+Economic Policy” in your first year course. The population Census, from 1991 
+onwards, have collected data on housing and amenities of the population 
+during the house-listing and housing census phase, i.e., in the years 1990, 2000 
+and 2010. From Census 2001 onwards, results on parameters related to this 
+aspect is disseminated for the urban slums as well. While Census 2001 results 
+on urban slums relate to the towns with 20,000 or more population, all statutory 
+towns were considered for identifying the urban slums and disseminating 
+results for them. The results based on Census 2011 on housing stock, amenities 
+and assets, at district level can be downloaded from http://www.censusindia. 
+gov.in/2011census/hlo/HLO_Tables.html. This site alsso provides such tables 
+for the urban slums. While the Population Census provides data at a much 
+disaggregated level, a higher quantum of information is provided by the 
+surveys conducted by the NSSO in their surveys on housing condition and 
+condition of urban slums. The NSS survey reports based on surveys conducted 
+in the 49th round (1993), 58th round (2002) and 69th round (2012)provide results 
+at State/UT level on these parameters. The 69 th round of NSS survey has 
+published three reports – (i) “ Key indicators of drinking water, sanitation, 
+hygiene and housing condition in India”, (ii) “Drinking water, sanitation, 
+hygiene and housing condition in India” and (iii) “Housing condition and 
+amenities in India” – contain the latest data on housing conditions including 
+those of dwelling in slums. The NFHS also gives some data on housing and 
+amenities. These sources of data provide the following kind of information 
+(data presented for rural/urban/urban slum/other urban areas in the case of 
+items a to f): 
+a) Distribution of households by type of structure –pucca, semi – pucca and 
+kutchha; 
+b) Access to toilet facility – SC/ST/other households – within the premises or 
+not; type of latrine; 
+c) Access to safe drinking water – SC/ST/other households, major source of 
+drinking water; 
+d) Use of electricity for lighting – SC/ST/other households; 
+e) SC/ST/other households with no access to electricity, safe drinking water 
+and toilet; 
+
+
+--- Page 107 ---
+ 
+ 
+107
+Social Sectorf) SC/ST/other households with access to electricity, safe drinking water and 
+toilet; 
+g) Percentage of villages connected by roads45; 
+h) Type of slum – notified or non-notified -, availability of infrastructure like 
+sewerage system, drainage system, means of garbage disposal and pucca 
+road(s) within and approaching the slum, how has the slum been there, and 
+whether the land on which the slum is located is owned by Local Bodies, 
+State Government, etc.; 
+i) Duration of residence of the household in the slum, reasons for coming to 
+the slum, the place from which the household came, whether the 
+household had any document of identification and whether it had at any 
+time tried to leave the slum; 
+j) Possession of durable goods and rent being paid for the premises; and 
+k) Workforce participation rates, female workforce participation rates, 
+workers and non-workers and workers by broad categories of economic 
+activity, including household, industry; and demographic features of the 
+slum population like sex ratio – overall and for children in the age group 
+0-6, etc. 
+24.6 SOCIAL CONSEQUENCES OF 
+DEVELOPMENT 
+The development experience of the last few decades show that the cost of 
+development is not shared equally by all sections of the society. Often the 
+burden of the cost falls almost entirely on the poor and the voiceless. The best 
+example of inequitable sharing of the burden of the cost of development 
+programmes is provided by the current controversy over the Sardar Sarovar 
+Project (SSP) over the river Narmada and the struggle of the Narmada Bachao 
+Andolan (NBA) on behalf of the people displaced by the construction of the 
+dam and the consequent submerging of their villages and their lands or are 
+likely to be displaced with each installment of rise in the height of the dam. 
+The other recent example that invited wide attention is the acquisition of the 
+lands of tribals in Orissa for the industries in Kalinganagar in the State. The 
+problem of people ousted from the land submerged by the water filling the 
+reservoirs created by the dams or, for that matter, people whose lands are 
+acquired by the State for purposes of development (building factories, dams 
+etc.,), called “oustees”, has been coming up ever since the first development 
+projects were taken up in 1951. The State promised jobs to the oustees in the 
+industries that came up in their lands in addition to compensation for the land 
+acquired or alternative land to prevent loss of their livelihood. The question 
+that has continued to agitate the minds of most development analysts is about 
+the extent to which the rehabilitation of the displaced or the “oustees” has been 
+successfully completed. What data are there on this vital question? 
+It may be mentioned that “oustees” were one of the priority categories for 
+registration as jobseekers in the employment exchanges and placement in 
+employment. The  DGE&T, the organization concerned with employment 
+exchange at the national level, is one source where some information on (i) 
+                                                             
+45  Roads are all categories of roads surfaced or unsurfaced, district road, highways and rural 
+roads. (Basic Road Statistics of India, Ministry of Surface Transport, New Delhi.) 
+
+
+--- Page 108 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+108 
+how many of them were registered as job seekers under these categories, (ii) 
+how many of these were actually placed in a job and (iii) how many languished 
+on the “live registers” of employment exchanges for a long time before passing 
+into oblivion, because if he or she did not renew her registration at specified 
+intervals he or she would have ceased to be on the “live” register of job 
+seekers. Past data with the DGE&T in the Ministry of Labour might show the 
+proportion of those who just ceased to be on the register. This source of data, 
+however, would have represented a very small part of whatever rehabilitation 
+was done, because the kind of vacancies that can be filled through employment 
+exchanges is restricted to jobs in Government not filled through competitive 
+examinations, public service commission and other commissions/recruitment 
+boards and jobs up to a specified salary level in public sector undertakings. The 
+private sector is not obliged to fill its vacancies through the employment 
+exchanges. Other than this source, Government – the Central or the State 
+Governments – do not seem to have any data on the number of families which 
+were displaced and the number rehabilitated. Data maintained by the State 
+Governments concerned with the implementation of rehabilitation under, for 
+example, the Sardar Sarovar Project, do not seem to reflect the actual situation 
+on the ground, as has been shown by the Report of the Group of Ministers 
+which toured some of the affected areas in Madhya Pradesh in April, 200646. 
+It was in 1994 that a study supported by the Indian Council of Social 
+Science Research (ICSSR)  attempted estimates of the extent of displacement 
+of families between 1951 and 1990 due to projects like mines, dams, industries 
+and wild life sanctuaries. It also estimated the proportion of those displaced in 
+the Fifties and the Sixties who were resettled till 1980. It pointed out that there 
+was practically no improvement in the Eighties. A study on development-
+induced displacement in West Bengal, between 1947 and 2000, conducted by 
+a team led by Walter Fernandes has made estimates of (a) the number of 
+people adversely affected by projects, (b) the number physically displaced, (c) 
+the number resettled by the projects, (d) the rest that had been left to fend for 
+itself following displacement, and (e) the proportion of those in (d) who were 
+dalits and tribals. Yet another study published in Economic and Political 
+Weekly by Manipadma Jena quotes official figures (of the Government of 
+Orissa) of families displaced due to development projects between 1950 and 
+1993 and of the extent of land that had to be acquired by the Government for 
+the purpose. Jena’s study also presents data on (a) the number of villages 
+affected by the Hirakud Dam that was constructed between 1948 and 1957, (b) 
+the number of families and people whose livelihood was disrupted due to 
+displacement, (c) the number of families (all belonging to Scheduled 
+Castes/Tribes) which were displaced forcibly by police, and (d) the number of 
+families resettled in rehabilitation camps47. 
+This aspect of development projects will cast greater responsibilities on the 
+respective project authorities in these matters and closer monitoring of the 
+implementation of resettlement plans. These will necessarily require the setting 
+                                                            
+ 
+46  The Hindu, Chennai edition of Monday, the 17 th April, 2006 carried the full text of ‘the 
+Group of Ministers’ (GoM’s) Report on the OP-ED page. 
+47  The studies referred to in this paragraph and their contents are taken from the article 
+“Creating Dispensable Citizens” by Usha Ramanathan, in the Chennai edition of The 
+Hindu of Friday April 14, 2006 .UshaRamanathan is an Honorary Fellow of the Centre for 
+the Study of Developing Societies, New Delhi. The estimates made by the studies are given 
+in the article. These have not been indicated here as the purpose of this Unit is only to 
+indicate the very few sources of data that are available on this important social aspect of 
+development and not to discuss the problem. 
+
+
+--- Page 109 ---
+ 
+ 
+109
+Social Sectorup of a reliable and transparent system of collection, compilation and analysis 
+of statistics relating to displacement of people due to the project, their 
+demographic, social, cultural and economic profiles, their resettlement in 
+alternative livelihood, number absorbed in employment in the industrial 
+establishment(s) for which the lands of the oustees were acquired, details 
+relating to the levels of living of the oustees in the area of resettlement in terms 
+of parameters like incomes, access to basic needs of life like water, shelter, 
+education for their children and health and medicare at least until a reasonable 
+number of years after resettlement, the time taken and the expenditure incurred 
+for resettlement and so on. 
+24.7  ENVIRONMENT 
+The process of development adversely affects the environment and through it 
+the quality of life of society. For instance the excessive use of fertilizers and 
+pesticides rob the soil of its nutrients. Letting sewers and drainage and industrial 
+effluents without prior treatment into rivers and water bodies pollute these water 
+bodies causing destruction of aquatic life and endanger the health of people using 
+such polluted water. The recent outcry in Tirupur, near Coimbatore, a place well 
+known for garment exports, against untreated effluents from garment factories 
+being let into the river used for drinking purposes is a case in point. The exhaust 
+fumes containing Carbon Monoxide (CO) and lead (Pb) particles let in to the 
+air we breathe by vehicles using petrol or diesel is an example of air pollution. 
+The best example of industrial pollution through insufficient safety measures is 
+the Bhopal gas disaster where lethal gases leaking from a factory’s storage 
+cylinder killed many people immediately and maimed many others for life. The 
+forest cover of the country is continuously getting reduced due to 
+indiscriminate felling of trees leading to reduction in rainfall and changes in 
+rainfall pattern, besides climatic changes. The destruction of mangroves along 
+seacoasts for housing/tourism development often leads to soil erosion along the 
+coast by the sea. The adverse effects of current models of development on 
+environment and the realization of the need to take note of the cost to 
+development represented by such effects have now led to the development of 
+environmental economics as a new discipline in economics. 
+The system of national accounts currently in use throughout the world, suffers 
+from extreme narrowness. Vast quantities of information relevant for economic 
+evaluation do not appear in them. Some don't because the appropriate data are 
+hard, even impossible, to collect; but others don't because until recently the 
+theory and practice of economic evaluation didn't ask for them. The demand for 
+green national accounts has arisen because of a growing recognition that 
+contemporary national accounts are an unsatisfactory basis for economic 
+evaluation. The qualifier “green” signals that we should be especially 
+concerned about the absence of information on society's use of the natural 
+environment. As an extension of national accounting, the development of green 
+accounting framework and related researches are therefore being undertaken 
+around the world. The CSO, for the first time in India, have published the 
+Report “Green National Accounts in India” in the year 2013. You can 
+download a copy of this report from the Social Statistics Division of the CSO. 
+The Central and State Pollution Control Boards and the Ministry of 
+Environment and Forests (MOEF) evolve and, monitor implementation of 
+policies to protect the environment. Statistics on environment are collected 
+through this process by the agencies mentioned above and the CSO. The 
+
+
+--- Page 110 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+110 
+annual reports of the MOEF 48 and the Compendium on Environment 
+Statistics, India 2003 published by the CSO from time to time are excellent 
+sources of data on environment. The latter especially is very comprehensive 
+and includes a very informative write up. The Compendium (and the annual 
+report of MOEF) can be accessed in the respective website of the two 
+organizations. The type of data on environment available from these 
+publications are mentioned below by way of illustration: 
+a) Ambient Air Quality Status [concentration of Sulphur di-oxide, Nitogen 
+di-oxide and Solid Particulate Matter 49 (SPM) in air] in major cities of 
+India; 
+b) Percentage of petrol-driven two-wheelers, three wheelers and four-
+wheelers meeting CO emission standards; and 
+c) Water quality of Yamuna river (in the Delhi stretch) in respect of selective 
+physio-chemical parameters between April, 1998 and March, 1999 – 
+dissolved oxygen (milligrams/litre), Biological Oxygen Demand (BOD) 
+(mg/l), faecal coliforms50 (number/100ml), total coliforms (number/100ml) 
+and ammonical nitrogen (mg/l). 
+24.8  QUALITY OF LIFE 
+We have already looked at several of the factors determining the quality of life 
+of the people – education, health, employment, shelter and amenities and 
+environment. We have also referred to the plight of displaced people uprooted 
+from their normal life by development projects. One other factor, an important 
+one, is the level of income or consumption. We have already looked at the data 
+available on this aspect of life in the Unit on “Poverty and Inequality: Policy 
+Implications” in Block 1 of MEC-005 on “Indian Economic Policy” – A 
+compulsory course in first year. The relevant data are available from successive 
+quiquennial surveys of the NSSO on consumer expenditure, namely, those on 
+levels of consumption of different MPCE classes. That Unit also discusses 
+dimensions of poverty and inequalities in income (consumption) and non-
+income aspects of life and about HDIs measuring shortfalls in human 
+development in the population, Gender Development Indices (GDI) measuring 
+gender discrimination, BMIs evaluating the health status of women and the 
+measures, Weight for Age Index Height for Age Index and Weight for Height 
+Index gauging the nutritional status of children. All these measures are also 
+available from these sources, namely, NSSO, the Planning commission and the 
+National Human Development Report 2001 and those of the State 
+Governments for judging the quality of life of the Scheduled Castes and Tribes. 
+The reports (prepared every year) of the Commission for Scheduled Castes and 
+Tribes provide (review) data on: 
+i) the progress in education of these sections of society; 
+ii) Progress in the utilization of the reservation quotas in different services of 
+the Governments and the public sector undertakings and the efficacy of 
+measures taken by Government in enabling members of the weaker 
+sections of society in gaining access to these opportunities; 
+                                                            
+ 
+48 The latest report of 2013-14 can be accessed at http://www.moef.nic.in/sites/default/files/ 
+annual_report/AR-2013-14-Eng.pdf.  
+49  SPM consists of metallic oxide silicon, calcium and other deleterious metals. 
+50  The most common contamination in water is from disease-bearing human wastes which is 
+usually detected by measuring faecal coliform levels. 

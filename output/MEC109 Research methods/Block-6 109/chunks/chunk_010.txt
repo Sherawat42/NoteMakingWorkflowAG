@@ -1,0 +1,501 @@
+--- Page 92 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+92 
+k) UPS/UPSS/CWS/CDS unemployment rates (can be easily estimated from 
+the tables on distribution of 1000 persons by various characteristics, as 
+indicated in the main paragraph) for all groups together and for different 
+groups like gender, age group, educational level, MPCE classes, 
+household type, household land cultivated class and principal household 
+economic activity, etc.; 
+l) Average daily salary/wage earnings of regular wage/salaried employees 
+aged 15-59 by sex, sector of work and education; a similar distribution by 
+occupational groups and education; and 
+m) Average daily wage/earnings per day received by casual labour by sex, age 
+group, type of operation, and sub-round15. 
+Data on employment are thus available from several sources. Estimates of 
+employment derived from different sources for the same sector or sub-sector 
+will differ. While this may be frustrating to a lay person, it opens up an exciting 
+and challenging opportunity to an analyst to unravel the factors responsible for 
+such variations and to find ways and means of tackling such factors. Such 
+factors could be differences in the concepts, definitions and mode of collection 
+of data (sample survey, census or administrative/statutory reporting systems) 
+used by the different sources. There may be other factors causing the 
+divergence in estimates. Some steps could be taken to remove at least a few of 
+these factors. Data collecting agencies should adopt the same concepts and 
+definitions for enquiries on the same or similar subjects, as far as possible. The 
+use of trained personnel in data collection does have a favourable impact on the 
+quality of data and should receive consideration. Estimates based on sample 
+surveys should accompanied by estimates of the standard error to which the 
+estimates from the survey are subject16. 
+24.2.2 Quality/Adequacy of Employment 
+NSSO survey data (items above) can be used to analyse the quality and 
+adequacy of employment. Besides underemployment among the employed, other 
+aspects of quality can also be looked at. One is the proportion of the employed by 
+employment status, especially the proportion of the work force in ‘casual 
+employment’. The second is a comparison of the average daily earnings of male and 
+female, regular and casual workers in different sectors and operations with the 
+prevailing statutory minimum wage and the poverty line. The third is a look at the 
+pattern of employment status of the workers belonging to poor households. These 
+will throw light on the quality of employment enjoyed by the workforce, quality in 
+terms of the intermittent nature of work, tenure of employment, employment 
+security and low wages and above all, the prevailing gender differences in these 
+aspects of quality. Gender differences in access to employment in different 
+occupations and sectors of economic activity would be clear from a perusal of the 
+tables listed in the preceding section. Even aspects of the question of the 
+invisibility of the female worker, leading to underestimation of the female 
+workforce can be examined17. 
+                                                            
+ 
+15  One year long round of the Survey has four sub-rounds to take note of the seasonal effect 
+on the variables under investigation. 
+16  Reports on NSSO surveys do provide information on the concepts, definitions, coverage, 
+sampling design and estimation procedures adopted and the standard errors of estimates 
+presented in the reports.  
+17  NSSO Report No. 554 referred to in an earlier footnote. See also “Gender and 
+Employment in India”, T.S. Papola & Alakh N. Sharma (Ed), published by Indian 
+Society of Labour Economics and Institute of Economics Growth in association with 
+Vikas Publishing House Ltd, New Delhi. (1999). 
+
+
+--- Page 93 ---
+ 
+ 
+93
+Social SectorThe Labour Bureau, Shimla under the Ministry of Labour also publishes 18 data 
+on wage levels in the organized sector and on the welfare of labour. Data on 
+total earnings of factory workers are collected through the statutory returns 
+under the Payment of Wages Act, 1936 from establishments defined as 
+factories under the Factories Act, 1948. The Act was applicable to employees 
+with earnings19 up to Rs. 200. This limit has been increased from time to time 
+to 1600 in 1982. These returns are, however, not received from all factories. 
+The Bureau also conducts Occupational Wage Surveys in selected industries at 
+regular intervals (called first round, second round and so on) and publishes 
+reports20 on these surveys) that provide the distribution of workers by levels of 
+earnings and by occupations for each industry. These reports facilitate analysis 
+of variation in levels of earnings within occupations, across gender within 
+occupations, across regions and industries and to judge the adequacy of such 
+employment opportunities in the light of statutory minimum wages and the 
+poverty line. We have seen in the Unit on Agricultural and Industrial Data that 
+the ASI gives information on the total wages, total emoluments and employee 
+compensation along with mandays of workers and mandays of employees in 
+different industries in the factory sector. These thus help in deriving the 
+average wage per worker-manday and the average emoluments per employee-
+manday and the average employee compensation per employee-manday. 
+As for the unregistered sector and the unorganized part of other sectors, the 
+DE, NDE and OAE Surveys 21 and other Establishment Surveys of the 
+CSO in different sectors (till the early 1990s) and the unorganized sector 
+surveys of the NSSO 22provide data on average annual earnings for men, 
+women and children in such establishments. Regular reports like “Wage 
+Rates in Rural India” (the latest published relates to 2004-05) and the Report 
+on the Working of the Minimum Wages Act, 1948 (the latest is for 2003), of 
+Labour Bureau enable an analysis of rural/unorganized sector wage levels vis-
+à-vis statutory minimum wages and poverty line. 
+The prevalence of child labour, which depicts an exploitative dimension of the 
+economic system, can be seen from the Census and NSSO tables on the 
+distribution of the work force by age groups and activity, the former down to 
+the district level and the latter up to the State level (technically down to NSS 
+regions due to availability of the unit record data on floppies/CDs). Such data 
+may not fully reflect the ground level realities because surveys may not be able 
+to extract information on employment of children, for various reasons. Further, 
+such data are also dated. These can help only in drawing attention to the areas 
+where child labour is prevalent so that the authorities concerned can initiate 
+further action. It is usually the Non-Government Organisations (NGOs) active 
+in the field of the rights of children that succeed in locating establishments 
+employing children and press the Government to take further action. 
+                                                            
+ 
+18 Yearbooks of Labour Statistics, (various years), Ministry of Labour, Shimla. 
+19 Earnings include basic wages, dearness allowance, money value of concessions, annual or 
+prepaid bonus, and arrears. 
+20Reports on Occupational Wage Surveys (Successive Rounds – the latest publications relate 
+to the sixth round), Ministry of Labour, Labour Bureau, Shimla. 
+21Directory Establishments, Non Directory Establishments and Own Account Enterprises. The 
+first two employ at least one hired worker and a total of 6 or more persons and 1 to 5 persons 
+respectively. In Own Account Enterprises, no hired worker works on a regular basis. These 
+surveys are now being conducted by the NSSO. The of NSS Report 549, for the year 2010-
+11 is the latest report on unorganized non agricultural enterprises (excluding construction), 
+which provide data on DE, NDE and OAE. 
+22Besides the reports listed in Sub-section 21.3.4 of unit 21.  
+
+
+--- Page 94 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+94 
+24.2.3 Labour Welfare 
+The Labour Bureau publishes23 data on several aspects of labour welfare – data 
+on industrial injuries, injuries in mines, compensation to workers for injuries 
+and death, industrial disputes, health insurance, provident fund and trade 
+unions of employers and workers. Statistics on industrial injuries are collected 
+through statutory returns under the Factories Act, 1948 that provides that 
+industrial accidents due to which the affected persons are prevented from 
+attending to work for at least 48 hours should be reported to the inspector of 
+factories. These depend on returns, and the sizeable non-response in the 
+submission of these mars the quality of this source of data on incidence of fatal 
+and non-fatal injuries in factories in mines under the Mines Act, 1952, as 
+amended in 1983. Initially, data on the number of serious accidents and the 
+accident rate were classified as ‘fatal’ and ‘serious’. Subsequently, from 1984, 
+accidents and the accident rate (accidents per 100 employees) were classified 
+as ‘fatal’ ‘spot serious’ 24 and ‘reportable serious’ 25. Complete statistics are not 
+available for the same reasons mentioned earlier. Statistics on ‘compensated 
+injuries’ and the amount of compensation paid, both classified as (resulting in) 
+‘death’ and (leading to) ‘disability’ – ‘permanent’ and ‘temporary’, are 
+collected under the Workmen’s Compensation (WC) Act, 1923 on the basis of 
+annual returns received from the State Governments, Posts & Telegraph 
+Departments and the Railway Board for different Zonal Railways under the 
+Act. Compensation is payable to workers employed in ‘scheduled 
+employments’26 for injuries due to accidents resulting in death or disablement 
+for more than three days, provided that it is not caused through the fault of the 
+worker himself. The number of injuries reported in the returns does not reflect 
+the total number of injuries that occur, as all the injuries are not compensated 
+for. Further, many of the establishments covered by the Act fail to submit 
+returns and, therefore, the information received by the State Governments 
+about the compensated injuries and the amount of compensation paid is 
+incomplete. Compensation for injuries in establishments covered by the 
+Employees State Insurance (ESI) Act, 1948 are paid under the ESI Act and not 
+under WC Act. These limitations affect the trends and comparability over time 
+of compensated accidents. 
+Statistics on the number of (a) industrial disputes 27, (b) workers involved in the 
+disputes, (c) mandays lost and (d) causes of disputes – (i) wages and 
+allowances, (ii) bonus, (iii) personnel matters, (iv) retrenchment, (v) leave and 
+hours of work/shift working, (vi) indiscipline and violence, (vii) others, and 
+(viii) cause not known. Completeness of these data would depend on the extent 
+to which outside authorities are involved in the resolution of the disputes. How 
+are the workers and the employers, the two pillars of industrial progress, 
+organized to fight for their rights? The Trade Unions Act, 1926 regulates the 
+formation and functioning of such organizations. The annual returns under the 
+                                                            
+ 
+23  Yearbooks of Labour Statistics referred to in an earlier footnote. 
+24  This is one where one or more persons have received serious bodily injury. This means any 
+injury which involves, or in all probability will involve, (a) the permanent loss of any part 
+or section of the body or use of any part or section of the body or (b) the permanent loss of, 
+or injury to, sight or hearing or (c) any permanent incapacity or (d) the fracture of any bone 
+or one or more joints or bones of any phalanges of hand or foot. 
+25  This is one where one or more persons have received “reportable injury”. This means any 
+injury other than a serious bodily injury, which involves, or in all probability will involve, 
+the enforced absence of the injured person from work for a period of 72 hours or more. 
+26  Employments specified in the Schedule appended to the Act under reference. 
+27 Disputes resulting in work-stoppages involving 10 or more workers. 
+
+
+--- Page 95 ---
+ 
+ 
+95
+Social SectorAct received from the State Governments relate only to those organizations that 
+have been registered with the State Governments under the Act. And it is not 
+obligatory on these organizations to secure registration under the Act. The 
+response rate even among the registered ones is less than 50 per cent. The data 
+provided in the Yearbooks of Labour Statistics relates to the number of (i) 
+workers’ organizations on the register (ii) those submitting returns, (iii) 
+percentage response, (iv) membership at the end of the year, (v) income 
+including balance carried over from the previous year, (vi) expenditure, and 
+(vii) balance of funds at the close of the year and similar data for employers’ 
+organizations. Information on the membership of the employers’ and workers’ 
+organizations by NIC 1987 is available in the Yearbooks. Statistics relating to 
+the working of various welfare funds like the Coal, Mica etc., Mines Welfare 
+Funds and the ESI Corporation and the Employees Provident Fund 
+Organisation (EPFO) – number of beneficiaries/members, etc., - are also 
+provided by Yearbooks and the annual reports of the ESIC and EPFO28. 
+As for the unorganized sector, the Labour Bureau’s reports on their ongoing 
+programme of surveys on (i) the working and living conditions of Scheduled 
+Caste/Tribe workers, (ii) living conditions of unorganized workers, and (iii) 
+contract labour provide information on the qualitative aspects of employment 
+in terms of variables like wage levels, working and living conditions, work 
+place safety and amenities at the work place of these classes of unorganized 
+workers in rural and urban areas. 
+Check Your Progress 1 
+1) Name the sources that provide data on employment. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) Explain the kind of data on employment and unemployment available 
+from the population census 2001. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) State the different measures of employment/unemployment/labour force 
+used by NSSO in different quinquennial surveys. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+                                                            
+ 
+28 See also the Section on Health in this Unit. 
+
+
+--- Page 96 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+96 
+4) Identify the different aspects of labour welfare on which data are compiled 
+by the Labour Bureau. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+24.3  EDUCATION 
+Education is an important instrument for empowering people, especially 
+women. Education nurtures and develops their innate talents and capabilities 
+and enables them to contribute effectively to the development process and reap 
+its benefits. It is also an effective instrument for reducing social and economic 
+inequalities. We have built up over the years a vast educational system in an 
+attempt to provide education for all, to ensure that the skill and expertise needs 
+of a developing economy are met satisfactorily and at the same time, to 
+monitor the functioning of the educational system as an effective instrument for 
+tackling inequalities. We would, therefore, like to look at data on different 
+aspects of the educational and training system such as its size and structure, the 
+physical inputs available to it for its effective functioning, its geographical 
+spread, the type of skills and expertise it seek to generate, the access of 
+different sections of society and areas of the country to it and the progress 
+made towards the goals like ‘total literacy’, ‘universalisation of secondary 
+education’, ‘education for all’ and ‘removal of inequalities’. 
+The United Nations, in the year 2000, has put achieving of universal primary 
+education as one of the eight Millennium Development Goals, to be achieved 
+by 2015. Education plays an important role in shaping the post 2015 
+development agenda as well. The Government of India has enacted the Right to 
+Education Act in August 2009. Therefore, the importance of research on the 
+progress of the nation towards achieving these goals and its effects on the other 
+social and economic goals is increasing by day.  
+The Department of School Education and the Department of Higher Education 
+of the Ministry of Human Resources Development (MHRD), the National 
+University of Educational Planning and Administration (NUEPA), National 
+Council for Educational Research and Training (NCERT) and the University 
+Grants Commission (UGC) collect and publish educational statistics, conduct 
+research studies and surveys in the area of education. The International 
+Standard Classification of Education (ISCED) is used worldwide to compile 
+and compare cross-country statistics of education. In 2014, for the first time, 
+the MHRD has developed the Indian Standard Classification of Education 
+(InSCED), as a part of collection, dissemination and presentation of statistical 
+data on education. Educational activities have been first classified into 16 
+broad levels from A through O and X. Levels A to E pertain to School 
+Education, levels F to L pertains to Higher Education, levels M, N and O 
+pertain to Certificate Courses, In-service training and Adult Education. The 
+detailed structure can be accessed at http://mhrd.gov.in/sites/upload_files/ 
+mhrd/files/statistics/InSCED2014_0.pdf.  
+
+
+--- Page 97 ---
+ 
+ 
+97
+Social SectorThe annual publication “Educational Statistics at a Glance” provide a host of 
+information on school education, like number of educational institutions, level 
+and Stage-wise enrollment in school and higher education, teacher-student 
+ratio, drop-out rates, examination results, public expenditure on education, etc. 
+The MHRD also publishes a compendium on Universities in India, providing 
+University-wise data on student enrollment, number of teachers, staff quarters, 
+hostels, etc. The Annual Report of the MHRD also provides information on 
+school and higher education in India. All these reports can be accessed free of 
+charge at the website www.mhrd.gov.in in the sections documents and reports 
+and the section statistics. 
+The NUEPA has developed a  District Information System of Education 
+(DISE, can be accessed at www.dise.in ) to record data from the schools and 
+junior colleges in all districts of India. Analytical reports based on this data, 
+like school and facility related indicators, enrollment based indicators, teacher 
+related indicators and EDI and analytical tables can be accessed at 
+http://www.dise.in/AR.htm. These reports are available from the period 200-02 
+onwards, although the time series varies among topics. Provisional results of 
+the “Report of the eighth AIES”, (http://www.aises.nic.in/surveyoutputs) 
+published by the NCERT, for the year 2009, in spite of being a bit dated, 
+provides important data on school education statistics. While the data in the 
+publication of MHRD are based on returns from the State Governments and 
+Union Territory Administrations, the last one is based on a field survey. The 
+University Grants Commission and MHRD provide data on university level 
+courses in professional and technical courses. The MHRD has set up a 
+National Technical Manpower Information System (NTMIS) – 
+(seehttp://www.iamrindia.gov.in/_aboutNTMIS.htm) with lead centre at the 
+Institute of Applied Manpower Research (IAMR), New Delhi and 21 nodal 
+centres located at different States. It provides data on technical manpower – 
+intake in and output from institutions and the utilization patterns of such output 
+in detail through Tracer Studies 29 and other studies. These are disseminated 
+through reports released from time to time by IAMR. The Employment-
+Unemployment surveys of the NSSO and Education surveys conducted in 
+the 52 nd (1995-96), 64 th (2007-08) and 71 st (2014) Round of NSSO and the 
+social and cultural tables of the population Census (ORGI) also provide 
+useful data on literacy and educational composition of the population or stocks 
+of educated manpower of different levels of education and their utilization 
+patterns – snapshots, at specific points of time, of the impact of the efforts in 
+the area of education. 
+The kind of data available in these publications and sources are indicated below: 
+24.3.1 Educational Infrastructure 
+a) Levels of literacy and progress of efforts under literacy campaigns; (MHRD) 
+b) The number of institutions – colleges (including universities, deemed 
+universities and institutions of national importance) and all types of 
+general, technical and professional schools; (MHRD & UGC) 
+                                                            
+ 
+29 Tracer Studies are, as the name suggests, trace or follow up specific cohorts or batches of 
+students passing out of institutions to find out their present activity status. This helps in 
+evaluating the trends over time in (a) the capacity of the economy to absorb the specific 
+category of manpower in employment, (b) the waiting time for employment for the category 
+of manpower, and (c) market value, in terms of salary levels in first employment, of the 
+manpower category. These surveys are also called Cohort Studies. 
+
+
+--- Page 98 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+98 
+c) The number of universities, deemed universities and institutions of 
+national importance, the distribution of number of colleges by categories 
+like those teaching arts, science & commerce, oriental learning and 
+different categories of professional subjects like law, agriculture, 
+engineering & technology and medicine and the distribution of schools in 
+the area of general education (and stages like pre-primary and primary 
+etc.,) and different categories such as those dealing with vocational, 
+professional, special education etc. (MHRD & UGC); 
+d) Teacher (male and female and those belonging to SC/SCcommunities), the 
+proportion trained among the, terms and conditions of their employment 
+and attrition of the stock of teachers by cause. (AIES); 
+e) Patterns of management of colleges including professional colleges and 
+deemed universities, recognition by appropriate bodies, availability of 
+teachers and facilities like laboratory and equipment etc. (UGC); 
+f) Patterns of management (Government, local bodies, private management, 
+religious and linguistic minority trusts/organizations and so on), medium 
+of instruction, type of school buildings ( pucca, kutcha, thatched hut etc.,), 
+crowding (number of rooms in the building and the number used for 
+instructional purposes), availability and adequacy of facilities like drinking 
+water, labatories and urinals (and whether these are available separately 
+for girls). (Sixth AIES); 
+g) Teachers in professional and technical institutions and the number of 
+technical teacher training institutions. (MHRD & UGC); 
+h) The number of Industrial Training Institutions (ITIs) and Advanced 
+Training Institutes, and the training capacity for apprenticeship training in 
+industry under the Apprenticeship Act, 1961 for those passing out of ITIs 
+and the vocational stream of schools. (MoLE and MHRD); 
+i) The number of institutions for training instructors for it is. (MoLE)30; 
+j) The number of Vocational Rehabilitation Centres (VRCs) for the 
+Physically Handicapped 31 set up by the DGE&T all over the country for 
+giving adjustment training and placement in suitable employment through 
+the Special Employment Exchanges for this group of people. (DGE&T32); 
+k) Expenditure on education by programmes like the Sarva Siksha Abhiyan, 
+the Total Literacy Campaign and Adult Education; direct and indirect 
+expenditure on recognized institutions of education. (MHRD). 
+24.3.2 Infrastructure Utilisation and Access to Educational 
+Opportunities 
+a) Literacy rates – overall and age-specific, among SC/ST and adults; 
+(Census – Social & Cultural Tables; NSSO & MHRD); 
+b) The number of students and the number of female students in the 
+institutions specified in item ‘b’ above; 
+                                                            
+ 
+30 Annual Reports of the Ministry of Labour, the part relating to DGE&T. 
+31 The phrase “physically challenged” instead of the phrase “physically handicapped” is being 
+brought into use nowadays in public discussions on the subject. 
+32 See the preceding footnote. 
+
+
+--- Page 99 ---
+ 
+ 
+99
+Social Sectorc) The number of students and the number of girl students by courses and 
+stages of education in recognized institutions – from the nursery class to 
+the high/higher secondary level and in schools for vocational & 
+professional education and special education and similar data for rural 
+areas. (MHRD); 
+d) The number of male and female workers and marginal workers in the age 
+group 5-9 and 10-14 – working children; (Census and NSSO); a 
+comparison of this with the population in these age groups and data on 
+school enrolment would lead to an assessment of the number of children 
+who are neither in school nor in the workforce; 
+e) Enrolment and output in institutions specified in items ‘h’, ‘I’ and ‘j’ 
+above; 
+f) Enrolment (and enrolment of female students) in university level general 
+education courses by stages (degree, post graduate degree, 
+diploma/certificate, research) and university level professional and 
+technical education courses by faculty. (MHRD & UGC); 
+g) Similar information of the kind mentioned above for Scheduled Castes and 
+Tribes (SC/ST) and females belonging to such sections of society. (MHRD 
+& UGC); 
+h) Teacher-Pupil ratios at different levels of education. (MHRD); 
+i) Intake and output of graduates and post graduates in different disciplines 
+and faculties. (MHRD & UGC); 
+j) Coverage of population in appropriate age groups by different stages of 
+education. (MHRD); 
+k) Dropout rates at different stages of education. (MHRD); 
+l) Distribution of population attending educational institution by age, sex and 
+type of educational institution for general and SC/ST population; 
+m) Access of the general and SC/ST population to (or availability of) facilities 
+for different levels of education in rural habitations and urban settlements 
+belonging to different population slabs, in terms of distance of the 
+habitation from the facility; similar information regarding non-formal 
+education (NFE) centers. (Sixth AIES); 
+n) Availability of special institutions suited to different types of disability of 
+children in different villages and towns and the enrolment of disabled 
+children in such institutions. (Sixth AIES); 
+o) Utilization patterns of different categories of professional and technical 
+manpower in general and trends in waiting time for employment, 
+utilization patterns and bargaining power for employees’ compensation 
+(salary etc.,) through tracer studies. (IAMR); 
+p) The disabled among main workers, marginal workers and non-workers by 
+type of disability, age and sex. (Census); 
+q) Stocks of educated manpower and also selected categories of technical 
+manpower for the general population, SC/ST and by religious communities; 
+
+
+--- Page 100 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+100 
+r) The distribution of population by different levels of educational attainment 
+(including illiterates, literates without any educational attainment) for 
+population groups like SC/ST/Backward Classes (BC)/general households 
+and those belonging to different religions, household types like (a) those 
+with different sizes of land holdings; (b) households self-employed in 
+agriculture, households self-employed outside agriculture, agricultural 
+labour households, other labour households and households depending 
+largely on regular wage/salaried employment outside agriculture; and (c) 
+households belonging to different monthly per capita consumption 
+expenditure (MPCE) classes. (NSSO and Census)33. 
+One should not forget to mention in this context the National Human 
+Development Reports (NHDR) prepared by the Planning Commission (now 
+rechristened as NitiAyog) and the HDRs prepared by different State 
+Governments as very useful sources for the manner in which available data on 
+education, health, and other areas have been utilized to compute human 
+development indicators and also as important sources for basic data on these 
+sectors. 
+Check Your Progress 2 
+1) Name the organizations/institutions that collect and publish the data on 
+different aspects of education. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) What do you understand by the term ‘Tracer Studies’? How are these 
+useful? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) Prepare a chart stating the kind of educational data available in the various 
+documents published by MHRD and UGC. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+                                                            
+ 
+33 See also the sub-section (b) on education in the Section on ‘Level of Inequality on Non-
+income Aspects of Life in Unit 4 on Poverty & Inequality: Policy Implications in Block 1 of 
+MEC – 005 on Indian Economic Policy in your first year course. 

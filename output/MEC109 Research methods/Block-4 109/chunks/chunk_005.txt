@@ -1,0 +1,548 @@
+--- Page 40 ---
+ 
+ 
+ 
+Canonical Correlation 
+Analysis 
+41 
+-II 2) Canonical weights derived in computing canonical functions are subject to great 
+deal of instability. 
+3) The interpretation of canonical variates is different due to the efforts to maximize 
+the relationship. 
+4) It is difficult to identify meaningful relationship between the subset of independent 
+and dependent variables because precise statistics is yet to be developed. 
+14.9  LET US SUM UP  
+Canonical correlation analysis is a useful and powerful technique for exploring the 
+relationships among multiple dependent and independent variables. The technique is 
+primarily descriptive, although it may be used for predictive purposes. In this 
+technique, weighted sums of variables are selected from each of the two sets to form 
+new variables in each of the sets so that the correlation between the new variables in 
+different sets in maximized while the new variables within each set are constrained to 
+be uncorrelated with mean zero and unit variance. Results obtained from a canonical 
+analysis suggest answers to questions concerning the number of ways in which the two 
+sets of multiple variables are related, the strengths of the relationships, and the nature 
+of the relationships defined. Canonical analysis enables the students to combine into a 
+composite measure what otherwise might be an unmanageably large number of 
+bivariate correlations between sets of variables. It is useful for identifying overall 
+relationships between multiple independent and dependent variables, particularly 
+when we have little a priori knowledge about relationships among the data for two sets 
+of variables. Essentially, we can apply canonical correlation analysis to a set of 
+variables that appear to be significantly related.  
+The CCA is based on two statistical assumptions. First, the correlation coefficient 
+between any two variables is based on a linear relationship. Second, the parent 
+population from which the sample has been drawn is normally distributed. CCA has 
+several advantages and limitations. 
+14.10 KEY WORDS  
+Canonical correlation : Measure of the strength of the overal l relationships 
+between the linear composites (canonical variates) 
+for the independent and dependent variables. In 
+effect, it represents the bivariate correlation 
+between the two canonical variates. 
+Canonical correlation 
+analysis 
+: It is a multivariate statistical analysis that facilitates 
+the study of interrelationships among  the sets of 
+multiple dependent variables and multiple 
+independent variables. 
+Canonical cross-loadings : Correlation of each observed independent or 
+dependent variable with the opposite canonical 
+variate. For example, the independent variables are 
+correlated with the dependent canonical variate. 
+They can be interpreted like canonical loadings, 
+but with the opposite canonical variate. 
+Canonical function : Relationship (correlation) between two linear 
+composites (canonical variates). Each canonical 
+function has two canonical variates, one for the set 
+of dependent variables and one for the set of 
+independent variables. The strength of the 
+relationship is given by the canonical correlation. 
+
+
+--- Page 41 ---
+ 
+ 
+ 
+Canonical Correlation Quantitative Methods-II 
+42 
+Canonical loadings : Measure of the simple linear correlation between 
+the independent variables and their respective 
+canonical variates. These can be interpreted like 
+factor loadings, and are also known as canonical 
+structure correlations. 
+Canonical roots : Squared canonical correlations , which provide an 
+estimate of the amount of shared variance between 
+the respective optimally weighted canonical 
+variates of dependent and independent variables. It 
+is also known as eigenvalues. 
+Canonical variates : Linear combinations that represent the  weighted 
+sum of two or more variables and can be defined 
+for either dependent or independent variables. It is 
+also known as linear composites, linear 
+compounds, and linear combinations. 
+Multiple regression 
+analysis 
+: Multiple regression analysis predicts a single  
+dependent variable from a set of multiple 
+independent variables. 
+14.11 SOME USEFUL BOOKS  
+1) Alissa Sherry, Robin K. Henson (2005); Conducting and Interpreting Canonical 
+Correlation Analysis in Personality Research. Journal of Personality Assessment. 
+2) Hotelling, H. (1936); Relations between two sets of variables, Biometrika 28, 321-377 
+3) Johnson, R.A. & Wichern, D.W. (2002); Applied Multivariate Statistical Analysis, 
+Pearson Education, Inc. 
+4) Johnson, Dallas E. (1998); Applied Multivariate Methods for Data Analysis , 
+International Thomson Publishing Inc. 
+5) Michael S. Lewis-beck Alan Bryman Tim Futing Liao (2004); The sage 
+encyclopedia of Social Sciences Research Methods vol. 1 page no. 83 
+6) Magnus Borga; Canonical Correlation. A tutotial www.cs.cmu.edu/~tom/10701-
+spll/sides/cca-totorial.pdf 
+7) S. Press James (2005): Applied Multivariate Analysis. Dover publication.inc. 
+14.12 ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS 
+Check Your Progress I  
+1) See Section 14.1  
+2) See Section 14.6  
+3) See Section 14.6  
+14.13   EXERCISES 
+1) Under what circumstances would you select canonical correlation analysis instead 
+of multiple regressions as the appropriate statistical technique? 
+2) Discuss in details the procedure for computation of the canonical correlation. 
+3) What are the limitations associated with canonical correlation analysis? 
+
+
+--- Page 42 ---
+ 
+ 
+ 
+Cluster Analysis 
+43 
+-II 
+UNIT 15 CLUSTER ANALYSIS 
+ 
+Structure 
+15.0 Objectives 
+15.1 Introduction 
+15.2 Cluster Analysis: Concept and Meaning 
+15.3 Steps and Algorithm Involved in Cluster Analysis 
+15.4 Methods of Cluster Analysis 
+15.5 Partitioning Cluster Methods 
+15.6 Hierarchical Cluster Methods 
+15.7 Other Approaches: Two-step Cluster Analysis 
+15.8 Interpretation of the Results  
+15.9 Let Us Sum Up 
+15.10 Key Words 
+15.11 Some Useful Books 
+15.12 Answers or Hints to Check Your Progress Exercises 
+15.13 Exercises 
+15.0 OBJECTIVES 
+After going through this unit, you will be able to: 
+• state the concept and purpose of cluster analysis; 
+• list the steps to be followed in cluster analysis; 
+• explain the different approaches to cluster analysis; and 
+• to learn how to apply cluster analysis in analyzing economic problems and 
+interpret its results. 
+15.1  INTRODUCTION 
+In social sciences, data set usually take the form of observations on unit of 
+analysis for a set of variables. You as a student of economics may be interested   
+to identify groups of similar objects like countries, enterprises, households on 
+the basis of selected variables like unemployment rate of men and women in 
+different countries, deprivation indicators of households etc. Similarly you may 
+need to segment customers into a small number of groups for additional 
+analysis and marketing activities. Further researcher may aim to find out spatial 
+or temporal pattern in human developments, educational development etc. In 
+such cases, a simple classification of units into sub-groups is required for the 
+purpose of analysis because classes or conceptually meaningful groups 
+(clusters) share common characteristics and play an important role in analysis 
+and description of the world. Cluster analysis is a useful technique in such 
+situations for data analysis. For example, cities can be grouped or clustered in 
+ 
+
+
+--- Page 43 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+44 
+terms of their social, economic and demographic characteristics. Similarly, 
+people can be clustered in terms of their psychological profiles or other 
+attributes they possess. Hence, in this unit, we shall discuss various clustering 
+methods and algorithm involved in cluster analysis. Let us begin with 
+explaining the concept of cluster analysis. 
+15.2 CLUSTER ANALYSIS: CONCEPT AND 
+MEANING 
+Classes or conceptually meaningful groups of objects sharing common 
+characteristics, play an important role in how people analyze and describe the 
+world. The creation of groups of similar objects or variables based upon 
+measured characteristics is an important method of analysis which we call 
+cluster analysis. This is an important method of multi-variate analysis. After 
+collecting the data, we divide the observations into groups (clustering) and 
+assign the labels to these groups. Thus cluster analysis is the study of 
+techniques for automatically finding classes. Cluster analysis is a strong tool of 
+the multivariate exploratory data analysis. It involves a great amount of 
+techniques, methods and algorithms which can be applied in various fields of 
+social sciences including economics. 
+Let us remember that Grouping, or clustering, is distinct from the classification 
+methods. Classification pertains to known number of groups with the purpose 
+to assign new observations to one of these groups. Cluster analysis is a more 
+primitive technique in the sense that no assumptions are made concerning the 
+number of groups or the group structure. Grouping is done on the basis of 
+similarities or distances (dissimilarities). The inputs required are similarity 
+measures or data from which similarities can be computed. The general 
+practical application of cluster analysis is whether the investigator knows 
+enough about the problem to distinguish "good" groupings from "bad" 
+groupings. This can be done by enumerating all the possible groupings and 
+select the "best" ones for further study. 
+Cluster analysis aims to discover natural groupings of the items (or variables). 
+For this, we need to first   develop a quantitative scale to measure the 
+association (similarity) between objects. Since clustering involves a collection 
+of data objects which are similar to one another within the cluster and 
+dissimilar to objects in other clusters, a cluster of data objects can be treated as 
+an implicit class. Due to this it is also sometimes referred to as ‘automatic 
+classification’. In some applications, it is also known as ‘data segmentation’ 
+because clustering divides large data sets into groups based on their 
+similarities. Cluster analysis enables us to detect outliers. As a branch of 
+statistics, cluster analysis has been extensively studied with the main focus on 
+distance-based cluster analysis and has been built into statistical analysis 
+software packages or systems such as SPSS, SAS and S-Plus. An illustration of 
+cluster analysis using SPSS shall be discussed towards the end of the unit. It is, 
+however, first important to understand the steps and algorithm involved in 
+conducting cluster analysis and the main methods used under this analytic 
+technique in research. 
+
+
+--- Page 44 ---
+ 
+ 
+ 
+Cluster Analysis 
+45 
+-II 15.3 STEPS AND ALGORITHIM INVOLVED IN 
+CLUSTER ANALYSIS 
+The following five broad steps are involved in conducting cluster analysis: 
+1) Measuring the relevant variables (both quantitative and categorical) that 
+can be included, 
+2) Creating a (dis) similarity Matrix for an appropriate measure of (dis) similarity, 
+Distances are used to measure (dis) similarity between the samples of two 
+variables. To determine the extend of (dis) similarity we construct what is 
+known as (dis) similarity matrix. Every entry of (dis) similarity matrix 
+determine using the notion of distance, more formally metric. Various sort of 
+metric can be employed each being suitable to suit the particular sort of data set.  
+The metric that is usually employed is known as minskowi metric, the 
+formula of which is as under: 
+/g1856/g4666/g1876, /g1877/g4667/g3404/g3437/g3533
+/g3041
+/g3036
+/g2880/g2869
+|/g1876/g3036/g3398 /g1877/g3036|/g3038/g3441
+/g3117
+/g3286
+ 
+where /g1876/g3036/g3404 /g4666/g1876/g2869,/g1876/g2870, /g1876/g2871, . . . , /g1876/g3041/g4667 and /g1877/g3036/g3404 /g4666/g1877/g2869,/g1877/g2870, /g1877/g2871, . . . , /g1877/g3041/g4667 are two n – 
+dimensional data objects and k is a positive integer. 
+For k = 1 and k = 2 the M inskowi metric becomes equal to Manhattan and 
+Euclidean metric respectively. 
+3) Creating one or more clustering’s via a clustering algorithm. An example 
+for clustering algorithm: 
+For the sake of convenience, we shall consider a sub matrix from the table 
+of (dis) similarity matrix shown in table  1. 
+Let us take 
+A = 
+0
+1 0
+0 1 0
+1 2 1 0
+0 1 0 1 0
+16 17 16 9 16 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Now, we implement the algorithm. 
+Step 1: The entries in A are squared Euclidean distances. We first take their 
+positive square root and call the new matrix as D1 
+D1 = 
+01
+1 02
+0 1 03
+4 1 2 1 0
+5 0 1 0 1 0
+6
+4 17 4 3 4 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+
+--- Page 45 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+46 
+We label rows as 1, 2, 3, 4, 5, 6. Taking the row 1 as a fixed variable, we 
+now locate the variable closest to it. We observe that there are two such 
+choices (1,3) & (1,5) as both have distance zero. We take (1,3) and put 1 & 
+3 in the same cluster. Now we calculate the distance of (1,3) from 
+remaining rows with the understanding that 
+/g1856/g3036/g3037/g3404/g3627/g1856/g3036/g3037/g3398 /g1856/g3037/g3036/g3627       /g1482 /g1861, /g1862 /g3404 1/g46661/g46675 
+/g1856/g4666/g2869 /g2871/g4667/g2870/g3404 min/g4668/g1856/g2869/g2870, /g1856/g2871/g2870/g4669/g3404 min/g46681,1/g4669/g3404 1 
+/g1856/g4666/g2869 /g2871/g4667/g2872/g3404 min/g4668/g1856/g2869/g2872, /g1856/g2871/g2872/g4669/g3404 min/g46681,1/g4669/g3404 1 
+/g1856/g4666/g2869 /g2871/g4667/g2873/g3404 min/g4668/g1856/g2869/g2873, /g1856/g2871/g2873/g4669/g3404 min/g46680,0/g4669/g3404 0 
+/g1856/g4666/g2869 /g2871/g4667/g2874/g3404 min/g4668/g1856/g2869/g2874, /g1856/g2871/g2874/g4669/g3404 min/g46684,4/g4669/g3404 4 
+Hence, now D2 becomes 
+D2 = 
+013
+1 02
+4 1 2 0
+5 0 1 1 0
+6
+4 17 3 4 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We observe that because 1 & 3 were clustered together, therefore, 3 rd row 
+so does the 3rd column from D1 gets deleted. 
+Step 2: We now see that taking (13) as the fixed variable, the variable 
+closest to (13) in the matrix D 2 is row 5 as their distance is zero. Hence, we 
+cluster together (13) & 5. 
+Now we calculate distance of (13)5 from the remaining variable to 
+construct matrix D3. 
+Hence now D3 becomes 
+D3 = 
+0(13)5
+1 02
+4 1 2 0
+6 17 1 17 3 0
+ 
+ 
+ 
+ 
+  − 
+ 
+We can continue like this and it is entirely up to us when to stop depending 
+on how many clusters we want.This method of creating clusters is 
+applicable in both hierarchical as well as non hierarchical approach to 
+cluster analysis. 
+4) providing some assessment of the obtained clustering(s), and 
+5) Interpreting the clustering(s) in substantive terms. 
+Assessment and interpretation of the obtained clustering (s) has been explained 
+in section 15.8 with the help of an illustration. 
+
+
+--- Page 46 ---
+ 
+ 
+ 
+Cluster Analysis 
+47 
+-II 15.4 METHODS OF CLUSTER ANALYSIS 
+Imagine you are going to undertake fieldwork in Uttar Pradesh next week and 
+for doing so you wish to divide your group into 5 teams and assign 10 villages 
+under one team each.  Strategically, you would like to identify those set of 10 
+villages to bear somewhat similar characteristics as much possible. Suppose 
+that the district information is also unavailable leaving manual grouping 
+difficult. You need a clustering tool to help you in this scenario. Clustering is a 
+process of grouping a set of objects into multiple groups or clusters so that 
+objects having high similarity are in same cluster but having dissimilarity in 
+other clusters. Similarities and dissimilarities are generally assessed based on 
+attribute values describing objects and involve distance measures. 
+Creation of simple group structure from a complex data set require a measure 
+of “closeness” or “similarity”. Often a great deal of subjectivity is involved in 
+the choice of a similarity measure. Important considerations include the nature 
+of the variables (discrete, continuous, binary), scales of measurement (nominal, 
+ordinal, interval, ratio), and subject matter knowledge. When items (units or 
+cases) are clustered, proximity is usually indicated by some sort of distance. On 
+the other hand, variables are usually grouped on the basis of correlation 
+coefficients or like measures of association.  
+An advantage of using Cluster analysis is to represent data in graphical way as 
+it offers several possibilities to do that. Dendrogram or other graphical 
+solutions can be used to visually examine linkages between observations. A 
+dendrogram is a tree-like structure commonly used to represent the process of 
+hierarchical clustering. It shows how objects are grouped together (in an 
+agglomerative method) or partitioned (in a divisive method) on a step-by-step 
+basis. 
+Two types of clustering algorithms are generally reported, namely non-
+hierarchical and hierarchical. Partitioning is the most extensively used non-
+hierarchical method and would be discussed in detail in this unit. While 
+partitioning method classifies objects into a specified number of groups (say k), 
+hierarchical method does not construct a single partition with k clusters, but 
+deals with all values of k in the interval [1,n] where  n is the total number of 
+objects. Other types of non-hierarchical clustering methods are density-based 
+and grid-based which are beyond the scope of this unit.Non-hierarchical cluster 
+analysis tends to be used when large data sets are involved. It is sometimes 
+preferred because it allows subjects to move from one cluster to another (this is 
+not possible in hierarchical cluster analysis where a subject, once assigned, 
+cannot move to a different cluster). The two major disadvantages of non-
+hierarchical cluster analysis are: 
+1)  It is often difficult to know how many clusters you are likely to have and 
+therefore the analysis may have to be repeated several times, and  
+2)  It can be very sensitive to the choice of initial cluster centres.  
+15.5 PARTITIONING CLUSTERING METHODS 
+As introduced earlier, a partitioning method classifies objects into say, k groups 
+which together must satisfy the following criteria:  
+
+
+--- Page 47 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+48 
+Each group must contain at least one object and each object must belong to one 
+group. To put it simply, it implies that k should be less than or equal to n, 
+where n is the total number of objects. In other words, partitioning methods 
+conduct one-level partitioning on data sets. The basic partitioning methods 
+typically adopt ‘exclusive cluster separation’ i.e. each object must belong to 
+exactly one group. Stratified random sampling lend an interesting example of 
+partitioning methods. Suppose a household sample size of  100 has to be 
+collected from Delhi representing all five geographical zones of Delhi i.e. East, 
+West, North, South and Central zones. In this case the five zones are the 5 
+groups and are pre-specified in number. Each zone must contain at least one 
+household and each household in the sample must belong to one zone. Clearly 
+in this example, the number of groups k (here 5) are less than the number of 
+objects n (here 100).  
+In general, after initial partitioning, the ‘iterative relocation technique’ attempts 
+to improve the partitioning by moving objects from one group to another. 
+When it comes to judging a good partitioning, it can be inferred on the basis of 
+whether objects in the same cluster are ‘close’ or related to each other whereas 
+objects in different clusters are ‘far apart’.  
+We shall now discuss one of the most frequently used partitioning method in 
+social sciences and in statistical analysis and that is the  K-means method. It is 
+a Centroid based technique. K-means clustering is used to split the 
+observations into K clusters/groups and test what are the main characteristics of 
+these clusters/groups. To understand it in simple words, let us assume that we 
+have a data set D which contains n objects in Euclidian space i.e. two 
+dimensional space. Partitioning methods first distribute the objects in data set 
+D into k clusters such as X 1, X2,…Xk,wherein each X i is an element of D and X i 
+∩ Xj = Ø. Thereafter an objective function is defined to assess the partitioning 
+quality so that within a cluster there are similar objects while other clusters 
+have dissimilar objects.  
+As mentioned earlier, K-means is a centroid based method which uses the 
+centroid of a cluster to represent that cluster. Conceptually, centroid is nothing 
+but its center point or mean. It is, many a times, defined as the mean of the 
+objects assigned to the cluster. After calculating the mean, this methods 
+measures the distance of objects from the centroid in the Euclidian space. The 
+quality of a cluster is measured by the within-cluster variation, which is the 
+sum of squared error between all objects in Xi and the centroid ci. 
+How does the k-means algorithm work? Han, Kember and Pei have explained 
+the workings in a very simple manner. The k-means algorithm defines the 
+centroid of a cluster as the mean value of the points within the cluster. 
+a) First, it randomly selects k objects in D, each of which initially represent a 
+cluster mean or center. 
+b) For each of the remaining objects, an object is assigned to the cluster to 
+which it is most similar, based on the Euclidian distance between the object 
+and the cluster mean. 
+c) K-means algorithm thereafter improves the intra-cluster variation iteratively. 
+d) For each cluster, it computes the new mean using the objects assigned to 
+the cluster in the previous iteration. 
+e) All objects are then reassigned using updated means as the new cluster 
+centers. 
+
+
+--- Page 48 ---
+ 
+ 
+ 
+Cluster Analysis 
+49 
+-II f) Iterations continue until the assignment is stable i.e. clusters formed in the 
+current step are equal to the clusters formed in previous step. 
+Check Your Progress 1 
+1)  Explain the concept and intuition of Cluster analysis. What are the steps 
+involved in carrying out cluster analysis? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2)  Which are the broad methods used in cluster-analysis? Explain the k-means 
+method clearly indicating the steps involved in it. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+15.6 HIERARCHICAL CLUSTERING METHODS 
+In some situations, you may like to partition data into groups at different levels 
+as in a hierarchy. A Hierarchical clustering method works by grouping data 
+objects into a hierarchy or ‘tree’ of clusters. By doing so it becomes easy to 
+summarize data. This will enable you to visually interpret it. For example, the 
+employees of a college may be divided on the basis of their nature of 
+appointment: Permanent or Temporary and one may further partition them into 
+smaller sub-groups like Professor, Associate Professor, Reader, Assistant 
+Professor, etc. All these groups form a hierarchy. You can easily characterize 
+or summarize the data in a hierarchy and can use it to find the average working 
+experience or salaries of Professors and of Assistant Professors.  
+You may use hierarchical clustering methods to analyze the hierarchical 
+structure in an organization or dataset or may also use to discover an 
+underlying hierarchical structure. In the study of evolution, hierarchical 
+clustering has been used to group animals according to their biological features 
+which has enabled scientists to discover evolutionary paths, which are a 
+hierarchy of species. 
+Hierarchical algorithms do not construct a single partition with k clusters, but 
+they deal with all values of k in the interval [1, n]. Hierarchical clustering 
+methods are of two types: Agglomerative and Divisive. Agglomerative 
+hierarchical methods start with each unit in its own cluster and systematically 
+merges units and clusters until all units form a single cluster. Thus, there are 
+initially as many clusters as objects. The most similar objects are first grouped, 
+and these initial groups are merged according to their similarities. Eventually, 
+as the similarity decreases, all subgroups are fused into a single cluster. An 
+agglomerative hierarchical method uses a bottom-up strategy. Han, Kamber 
+
+
+--- Page 49 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+50 
+and Pei  explain that it typically starts by letting each object form its own 
+cluster and iteratively merges clusters into larger and larger clusters, until all 
+objects are in a single cluster. The single cluster becomes the hierarchy’s root. 
+For merging, it finds two clusters closest to each other and combines to form 
+one cluster. It requires at most n iterations as two clusters are merged per 
+iteration and each cluster contains atleast one object.  
+Divisive hierarchical methods work in the reverse direction. Initially all objects 
+belong to the same cluster; then, iteratively, a cluster is chosen according to a 
+selection criterion and bi-partitioned such that the objects in one subgroup are 
+“far from” the objects in the other. These subgroups are then further divided 
+into dissimilar subgroups; the process continues until there are as many clusters 
+as objects that is, until each object forms a group. Thus it employs a top-down 
+approach. It starts by placing all objects in one cluster, which is the hierarchy’s 
+root. It then divides the root cluster into several smaller sub-clusters and 
+repeatedly partitions them into smaller clusters. 
+In other words, hierarchical clustering techniques proceed by either a series of 
+successive mergers or a series of successive divisions. In either agglomerative 
+or divisive hierarchical clustering, a user can specify the desired number of 
+clusters as a termination condition. The results of both agglomerative and 
+divisive methods may be displayed in the form of a two- dimensional diagram 
+known as dendrogram.  However, this graph is generally useful for relatively 
+small data sets only. In case of large data sets or sample size, individual objects 
+cannot be identified. As we shall see, the dendrogram illustrates the mergers or 
+divisions that have been made at successive levels. 
+Illustration: Suppose we take a sample of size 15 and wish to examine the inter-
+relationship of employment status and educational attainment as shown in Figure 
+15.1. Cluster Analysis helps in clustering objects which are similar in attributes.  
+ 
+Fig. 15.1: Sample data for Cluster Analysis 
+Source: Assessment of Human wellbeing: A Multidimensional Approach un published study 
+undertaken by prof. Narayan Prasad  

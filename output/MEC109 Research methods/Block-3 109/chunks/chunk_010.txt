@@ -1,0 +1,352 @@
+--- Page 85 ---
+ 
+ 
+Quantitative Methods-I 
+86 
+Measures of Inequality
+11.9 SOME USEFUL BOOKS 
+Chaubey, P. K. (2004), Inequality: Issues and Indices , Kanishka Publishers, 
+Distributors, Delhi. 
+Cowell, Frank A. (1995), Measuring Inequality , Prentice Hall/Harvester 
+Wheatsheaf, London; 
+Sen, A.K. (1997) On Economic Inequality , Oxford University Press, Oxford. 
+(with Annexe by James E. Foster. 
+11.10  ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Range is the difference between the maximum and minimum value. With 
+a view to ensuring that the index of inequality based on this measure of 
+dispersion is unit-free and/or is confined in the interval of (0,1), various 
+ways of normalizations could be considered. See Sub-section 11.2.1. 
+2) In the relative range only extreme values are considered, which may not 
+be representatives of the distribution. It is like comparing the poorest 
+(who may be a few) with the richest (who may be one). Inter-quartile 
+measures take into account the middlemost distribution with 50 percent 
+recipients. See Sub-section 11.2.2 
+3) In the mean deviation, all values in a way are considered. The mean of 
+absolute deviations is divided by the mean of the distribution to yield 
+relative mean deviation. See Sub-section 11.2.3. Since the sum of 
+deviations on one side of the mean will not change with the transfer of 
+income contemplated, the magnitude of the index would not change. 
+4) See Sub-section 11.2.4. In one version the deviations are taken with 
+respect to logarithm of geometric mean and in the other with respect to 
+that of arithmetic mean. With some mathematical manipulation, one can 
+find out that former is smaller than the latter by square of the difference 
+between the logarithms of geometric mean and arithmetic mean.  
+5) It is a straight application of the fact that geometric mean of a distribution 
+is smaller than its arithmetic mean. Of course, when the values are greater 
+than 1! 
+6) Hirfindahl index is sum of squares of the shares with each recipient, 
+which of course varies with the number of recipients. Equal distribution 
+of shares between two recipients will yield a value of 0.5 and between 
+three recipients, 0.333. It is therefore more used as a measure of 
+concentration. See Sub-section 11.2.5.  
+7) The message is that one can try on one’s own to devise new methods. See 
+Sub-section 11.2.6. For second part, the answer is 5/9. Try it out. 
+ Check Your Progress 2 
+1) Gini ratio is one half of the average value of absolute differences between 
+all pairs, including with self, of values divided by the arithmetic mean. 
+
+
+--- Page 86 ---
+ 
+ 87
+I Measures of InequalitySee the definition by Kendall and Stuart in Sub-section 11.3.1. Have a 
+look at expression (g.4) and (G.7). 
+2) The basic difference lies Gini index from other measures based on 
+dispersion that in articulating all differences are considered while in others 
+either few differences are considered or deviations from arithmetic/ 
+geometric means are considered. 
+3) See Sub-section 11.3.2. 
+4) By writing out in a table, columns for class intervals or values, 
+frequencies, class total values, cumulative frequencies, cumulative total 
+values, cumulative proportions and cumulative shares in respect of each 
+class. For using expression (LG.5), consecutive moving differences (or 
+sums) of proportions and consecutive moving sums (or differences) need 
+to be computed in two additional columns. MS-Excel will do well. 
+Check Your Progress 3 
+1) Look at the Fig. 11.4 and Sub-section 11.4.2. Try writing the properties in 
+language. 
+2) When the two Lorenz curve will intersect, it will not be possible to say on 
+balance which distribution is more unequal. In fact, one section in that 
+case will be more unequal and the other section less unequal in 
+distribution 1 in comparison to their counterparts in the distribution 2. 
+3) The value of Gini coefficient is equal to twice the areas inscribed between 
+line of equality and the Lorenz curve. It is equivalent to saying that G is 
+equal to (1-A) where A is the areas below Lorenz curve in the unit box.  
+4) Kakwani’s measure of inequality is normalized length of the Lorenz curve. 
+Check Your Progress 4 
+1) Dalton’s social welfare function is a simple aggregation of welfare (utility) 
+functions of the individuals constituting the society. In addition, all 
+individuals are supposed to have the same income utility function. 
+2) Sub-section 11.5.1. Write Dalton’s proposal and its modern version. Also 
+point out that though conceived in terms of utility, Dalton held that the 
+index has to be measured in terms of income only. 
+3) An inequality measure should not change with linear transformation of 
+personal utility function. Since Dalton’s index does not respect this 
+property, Atkinson is not happy. He therefore devises a new artifact called 
+‘equally distributed equivalent income’ and suggests a new utility function 
+called iso-elastic marginal utility function. 
+4) Sen index is different from the Atkinson’s index in one respect that he opts 
+for a social welfare function, which has as individual incomes its arguments 
+and is symmetric and quasi-concave. See Sub-section 11.5.3. 
+5) See Sub-section 11.5.5. 
+
+
+--- Page 87 ---
+ 
+ 
+Quantitative Methods-I 
+88 
+Measures of Inequality
+Appendix 
+AXIOMS OF INEQUALITY MEASURES 
+For any statistical measure, some of the desirable properties that are described 
+in standard textbooks are (i) simplicity of comprehension, (ii) ease of 
+computation, (iii) range of variation, and (iv) amount of information needed.  
+However, we discuss below only those properties, which are peculiar to the 
+measures of economic inequality. 
+We are often faced with situations where we have to compare two distributions 
+with the help of an index with regard to their level of inequality.  The two 
+distributions may belong to two different countries at a point of time, to a 
+country at two points of time, or to two situations—say, one before tax and the 
+other after tax or before and after interpersonal transfers etc.  
+People have set up some intuitively appealing properties in order to judge the 
+efficacy of an inequality index. The first set of properties was given as 
+‘principles’ by Dalton (1920).  Today, in literature, they are known as axioms.  
+We propose to discuss some common axioms.  It may be pointed out at the 
+outset that these axioms almost ignore the question whether inequality is an 
+issue, which matters more (or less) in an affluent society or in a poor one. The 
+whole discussion will assume that all incomes are positive though we know for 
+sure in case of business failure or crop failure, incomes can well be negative or 
+zero. 
+1) Axiom of Scale Independence 
+If there are two distributions of equal size such (N) that each element of one 
+distribution is a multiple θ of the corresponding element of the other 
+distribution, i.e., 
+1
+1
+2
+1 x xθ=                       i=1,2,…,N, 
+then the numerical magnitudes of inequalities of both the distributions should 
+be the same, i.e., 
+) ,..., , ( ) ,..., , (2 2
+2
+2
+1
+1 1
+2
+1
+1 NN x x x I x x x I=  
+w
+here the inequality measure I is shown as a function of the distribution   
+ 
+Obviously, it also satisfies the idea that the level of inequality should not 
+change when the scale of measurement changes, say, from rupees to paise or 
+bushels to quintals.   
+It does also mean that equal proportionate additions to all incomes would not 
+change the level of inequality for 
+xxi θλ =+ ) 1 ( i  i =1,2,….,N, 
+The proportionate addition could even be negative.  Thus, it is a question of 
+shares in the cake, not the size of the cake.  It is very obvious that an inequality 
+). ...., , (, 2 1 Nx x x
+
+
+--- Page 88 ---
+ 
+ 89
+I Measures of Inequalitymeasure is defined in terms of shares si because a proportionate change in all 
+incomes leaves the shares unchanged. 
+However, this axiom goes against Dalton’s principle of proportionate additions 
+to income, which stated that equal proportionate additions (subtractions) should 
+diminish (increase) the level of inequality. Perhaps, Dalton could not see that, 
+equal proportionate addition is theoretically, equivalent to change in the scale 
+of measurement. It should so happen in the case of a measure of relative 
+dispersion is obvious enough. 
+The axiom covers the cases of proportionate taxation/subsidies.  It may be 
+noted that such additions do not change individual (class) shares of total 
+income and, therefore, the Lorenz curve remains unchanged. All measures 
+based on the Lorenz curve shall therefore satisfy this axiom. 
+It should not mean that change in the size of cake is immaterial.  In the social 
+welfare, size of cake and distribution of cake both matter.  It is only in a limited 
+context of measurement of inequality that this property is considered desirable.  
+Lorenz (1997) mentions an objection raised against this axiom in terms of non-
+proportionate increase in well-being of different income holders, which means 
+diffusion of well-being when incomes increase but concentration when 
+incomes decrease. Thus, this idea existed much before Dalton mentioned it.  
+One could easily see that this objection incorporates the idea of diminishing 
+marginal utility. The true province of the axiom then is the unit of 
+measurement. 
+2) Axiom of Population Size Independence 
+The level of inequality remains unaffected if a proportionate number of persons 
+is added to each income level. 
+This suggests that the magnitude of inequality in the distribution of the cake 
+should depend on the relative number of receivers with different levels of 
+income.  If we merge two economies of identical distributions of the same size 
+N, then, in the consequent economy of size 2N, there shall be the same 
+proportion of the merged population for any given income.  Such replications 
+will leave the inequality level unchanged. The axiom is also known as the 
+Principle of Population Replication. 
+This exactly corresponds to Dalton’s principle of proportionate additions of 
+persons.  Since the Lorenz curve remains unchanged so long as proportions of 
+people in each class remains the same, the measures based on the Lorenz curve 
+would satisfy this axiom. 
+Let us have however a counter-intuitive example. Let us a have two-person 
+world in which one person is having no income and the other having is having 
+all. Let us replicate the economy.  Now there is a four-person world in which 
+two are sharing destitution with zero income but the other two are sharing 
+positive income equally. Earlier there was no equality; now each 50 per cent of 
+population is sharing the income equally.  So, some scholars do not accept it. 
+ 
+ 
+
+
+--- Page 89 ---
+ 
+ 
+Quantitative Methods-I 
+90 
+Measures of Inequality3) Axiom of Equal Income Addition 
+If the distribution 2 2
+ix , i=1,2,….,N is obtained by addition of equal amount d 
+(say, through pension) to each element of  distribution 1 1
+ix ,  i= 1,2,…N, i.e., 
+d x xi i + =1 2  
+t
+hen inequality level of distribution 2 should be lower than that of distribution 1 
+i.e., 
+) ,..., , (2 2
+2
+2
+1 Nx x x I< ) , .... , (1 1
+2
+1
+1 Nx x x I 
+n
+aturally, subtractions (say, taxation) of equal amount from each income would 
+reverse the inequality sign.  It can be noted that in the former situation, the 
+shares of the poorer persons increase and in the latter, they decrease. This 
+axiom exactly corresponds to Dalton’s principle of equal additions to incomes. 
+Now, we propose to discuss two very important axioms relating to transfer of 
+an income from a person to another when other things remain the same.  The 
+former may be called Pigou-Dalton condition and the latter, Sen condition. 
+4) First Axiom of Income Transfer (Pigou-Dalton Condition) 
+If an equal transfer from a richer person to a poorer person takes place, then the 
+level of inequality is strictly diminished, provided that the equalizing transfer 
+amount is not more than the difference between two incomes involved. Any 
+number of such transfers taking place between any two consecutive income 
+units will not cause any change in the ranking of income units and therefore 
+such a process of transfers may be called the rank-preserving equalization.  
+This axiom requires an inequality measure to be sensitive to transfers at all 
+levels of income and, thus, at least a function of all incomes. 
+This axiom corresponds to Dalton’s principle of income transfer.  Dalton 
+(1920) argued that an inequality measure must have this minimal property. 
+Since in this context Pigou’s contribution (1912) is found significant, Sen 
+(1973) designated this axiom as Pigou-Dalton condition.  Following him, a 
+number of contributors in the field have given it the name of ‘P-D condition’. 
+Most of the indices, barring relative range and relative mean deviation, pass 
+this test.  This axiom is also known as weak transfer axiom because it suggests 
+the direction but not the magnitude of change in the level of inequality. 
+5) Second Axiom of Income Transfer (Sen Condition) 
+If we consider two transfers, one at a time, at different points of scale, then the 
+transfer at lower end of scale should have greater impact than its counterpart at 
+higher end of the scale.  According to Sen, (1973), the impact on the index 
+should be greater if the transfer takes place from a person with an income level 
+of, say Rs.1000 to someone with Rs.900 than a similar transfer from a man 
+with Rs.1000100 to someone with Rs.1000000. 
+We may see many measures do not satisfy any of the two conditions of transfer 
+and some satisfy only the first one. Those that satisfy the second transfer axiom 
+automatically satisfy the first transfer axiom. 
+
+
+--- Page 90 ---
+ 
+ 91
+I Measures of Inequality6) Axiom of Symmetry 
+If distribution ) ,..., , (2 1
+p
+N
+p p x x x were a permutation of distribution ) ,..., , (2 1 Nx x x,  
+then the inequality level of both the distributions would be the same. 
+This implies that if two persons interchange their income positions, inequality 
+measure does not change. Thus the axiom ensures impartiality between 
+individuals for non-income characteristics: The evaluator does not distinguish 
+between Amar, Akabar and Anthony; nor between Shiela and Peter; or between 
+Mr. Pygmy and Ms. Dwarfy.  Further, it means that the inequality depends only 
+on the frequency distribution of incomes. 
+7) Axiom of Interval 
+The inequality measure should lie in the closed interval of (0,1). 
+The measure is supposed to assume the value of zero when all incomes are 
+equal, which means when all persons have equal income and the value of unity 
+when only one individual gets all the income (and other have zero incomes, not 
+negative incomes). 
+Most people tend to agree with the axiom.  A few, notably Theil (1967) and 
+Cowell (1995), disagree.  They hold that the situation of one person grabbing 
+all the income in a society of 2 persons cannot be described by the same level 
+of inequality as that of one person doing so in a society of 2 crore persons.  It 
+would not be easy to assert that in the case of 2-person society the level of 
+inequality is unity when one person has all the income and the other has none. 
+In one case, 50 percent population is having positive income, in the other only 
+0.00000005 percent. Some people therefore qualify the axiom by saying that 
+when one person gets all the income the measure approaches unity in the limit 
+as the number increases. 
+When a measure has a finite maximum, it is easy to transform such an index 
+into the one, which has maximum value 1. Most measures, though not all, have 
+zero as their minimum value. But question that Cowell (1995) raises is that 
+there are many ways in which the measure could be transformed so that it lies 
+in the zero-to-one range but each transformation has different cardinal 
+properties. 
+8) Axiom of Decomposability 
+Suppose population can be sub-divided into several groups and an over-all 
+index of inequality was a function of group-wise indexes and if the population 
+mean can be expressed as weighted average of group means, the population 
+index of inequality can be regarded as decomposable. The groups might be 
+defined as comprising of people in different occupations, residents of different 
+areas, with different religious or educational backgrounds etc.  
+However we find a lot of overlapping in these groups. This leads sum of the 
+weights to differ from unity.  
+Not all indices are found to be decomposable. Gini coefficient, a very popular 
+measure is decomposable only if the constituent groups are non-overlapping. 
+Cowell (1995) has conducted a beautiful experiment. First, he computes four 
+inequality measures for two distributions of same size and same mean-each 
+divided into two groups of equal size in a manner that there is no overlapping: 
+
+
+--- Page 91 ---
+ 
+ 
+Quantitative Methods-I 
+92 
+Measures of InequalityPopulation A: (60,70,80), (30,30,130) 
+Population B: (60,60,90), (10,60,120) 
+Now, it is found that the group means and population means in two 
+distributions are the same and group inequalities in B are higher than their 
+counterparts in A. But when we compute overall inequalities, one of the 
+measures suggests that the magnitude of inequality in B is lower than that in A.  
+And the measure used is Gini, which is very popular among economists. As he 
+says, ‘strange but true’.  If the component inequality magnitudes are higher and 
+the weights are the same, how could overall measure be lower? It is therefore 
+impossible to express overall inequality (change) as some consistent function 
+of inequality change in the consisted groups. 
+These are all intuitively appealing axioms. There does remain scope for 
+formulating other axioms.  In the literature on poverty measurement one finds a 
+plethora of axioms developed by a number of contributors working in that 
+areas. But we shall be content with these only. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 92 ---
+ 
+ 93
+I Measures of Inequality 

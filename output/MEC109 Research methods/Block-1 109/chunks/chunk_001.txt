@@ -1,0 +1,514 @@
+--- Page 1 ---
+MEC-109
+Research Methods
+in Economics
+RESEARCH METHODOLOGY: ISSUES AND
+PERSPECTIVES
+UNIT 1
+Research Methodology: Conceptual Foundation 7
+UNIT 2
+Approaches to Scientific Knowledge: Positivism and Post
+Positivism 21
+UNIT 3
+Models of Scientific Explanation 43
+UNIT 4
+Debates on Models of Explanation in Economics 57
+UNIT 5
+Foundations of Qualitative Research: Interpretativism and
+Critical Theory Paradigm 72
+Block
+1
+Indira Gandhi
+National Open University
+School of Social Sciences
+
+
+--- Page 2 ---
+Prof. D.N. Reddy
+Rtd. Professor of Economics
+University of Hyderabad, Hyderabad
+Prof. Harishankar Asthana
+Professor of Psychology
+Banaras Hindu University, Varanasi
+Prof. Chandan Mukherjee
+Professor and Dean
+School of Development Studies
+Ambedkar University, New Delhi
+Prof. V.R. Panchmukhi
+Rtd. Professor of Economics
+Bombay University and Former
+Chairman ICSSR, New Delhi
+Prof. Achal Kumar Gaur
+Professor of Economics
+Faculty of Social Sciences
+Banaras Hindu University, Varanasi
+Prof. P.K. Chaubey
+Professor, Indian Institute of Public
+Administration, New Delhi
+Shri S.S. Suryanarayana
+Rtd. Joint Advisor
+Planning Commission, New Delhi
+Expert Committee
+Prof. Romar Korea
+Professor of Economics
+University of Mumbai
+Mumbai
+Dr. Manish Gupta
+Sr. Economist
+National Institute of Public
+Finance and Policy
+New Delhi
+Prof. Anjila Gupta
+Professor of Economics
+IGNOU, New Delhi
+Prof. Narayan Prasad (Convenor)
+Professor of Economics
+IGNOU, New Delhi
+Prof. K. Barik
+Professor of Economics
+IGNOU, New Delhi
+Dr. B.S. Prakash
+Associate Professor in Economics
+IGNOU, New Delhi
+Shri Saugato Sen
+Associate Professor in Economics
+IGNOU, New Delhi
+Print Production
+Mr. Manjit Singh
+Section Officer (Pub.)
+SOSS, IGNOU, New Delhi
+October, 2015
+ Indira Gandhi National Open University , 2015
+ISBN-978-81-266-
+All rights reserved. No part of this work may be r eproduced in any form, by mimeograph or any other
+means, without permission in writing fr om the Indira Gandhi National Open University .
+Further information on Indira Gandhi National Open University courses may be obtained fr om the
+University's office at Maidan Gar hi. New Delhi-1 10 068.
+Printed and published on behalf of the Indira Gandhi National Open University , New Delhi by the
+Director, School of Social Sciences.
+Laser Typeset by : Tessa Media & Computers, C-206, A.F.E.-II, Okhla, New Delhi
+Printed at :
+Course Coordinator: Prof. Narayan Prasad
+Block Preparation Team
+Units Resource Person
+1 Prof. Narayan Prasad
+Professor of Economics
+IGNOU, New Delhi
+2 Prof. S.G. Kulkarni
+Professor of Philosophy
+University of Hyderabad, Hyderabad
+3,4 Prof. D. Narshimha Reddy
+Rtd. Professor of Economics
+University of Hyderabad, Hyderabad
+5 Dr. Nausheen Nizami
+Assistant Professor in Economics
+Gargi College, University of Delhi
+New Delhi
+IGNOU Faculty
+(Format, Language and Conent editing)
+Prof. Narayan Prasad
+Professor of Economics
+IGNOU, New Delhi
+Prof. Narayan Prasad
+Professor of Economics
+IGNOU, New Delhi
+Prof. Narayan Prasad
+Professor of Economics
+IGNOU, New Delhi
+Prof. Narayan Prasad
+Professor of Economics
+IGNOU, New Delhi
+Block Editor
+(Content)
+Prof. Prem Vashistha
+NCAER, New Delhi
+
+
+--- Page 3 ---
+MEC-109 RESEARCH METHODS IN
+ECONOMICS
+After completion of Master’s degree in Economics, many of you may intend to
+start your career as professional economist. As professional economists, you
+would be required to carry out the task of analyzing many specific economic
+situations and indicate their impact on economic policy framework. Some of
+you may also pursue research degree programmes. In order to perform these
+tasks, you need to be quipped with the various constituents of Research Methods
+and the different techniques applied in data collection/analysis. The present course
+aims to cater to this need. The theoretical perspectives that guides research, tools
+and techniques of data collection and methods of data analysis together constitute
+the research methodology. Quantitative Research and Qualitative Research are
+associated with different paradigms. Accordingly approaches to social enquiry
+varies. Mixed methods by combining of at least one quantitative method and
+one qualitative method in measurement, collection or analysis of data is
+increasingly being used to strengthen the validity of research findings. The present
+course deals with all these aspects. The course comprises of 6 Blocks.
+Block 1: This block deals with the theoretical perspectives/foundations guiding
+both quantitative and qualitative research. The essence of three paradigms i.e.
+positivism and post positivism. Interpretitivism and critical theory associated
+with different research strategies and methodologies have been discussed. This
+block covers the entire breadth of main trends of development in the philosophy
+of science and debates in the methodology of economics. The block has been
+divided into 5 units. Unit 1  deals with the conceptual foundation related to
+Research Methodology and its constituents, approaches to social enquiry, research
+strategy, research process, an elementary idea of hypothesis and measurement
+scales of variables. Unit 2  is devoted to scientific methodology covering
+Positivists’ verification approach, Pauper ’s critical rationalism, and Thomas
+Kuhan’s paradigm’ s shift approach. The fundamental dif ferences between
+Popper’s and Positivists’ views at the one hand, and differences between Popper’
+s
+view and Kuhan’ s views on the other , have also been explained. Model of
+scientific explanation broadly within the framework of positivist theory of
+scientific method constitutes the core of Unit 3. Basic rules of formal reasoning,
+models of explanation, role of logical reasoning in the formulation of research
+problem, and the problems involved in systematic explanation of phenomenon
+have been discussed in this unit. Unit 4 presents the view of different economists
+about the models of explanation in economics in the positivists mainstream
+framework and a brief discussion on the alternative methods of explanation.
+Unit 5 throws light on essentials of interpretativism and critical theory paradigm
+guiding the frameworks of qualitative research. Based upon different ontological
+and epistemological positions, these paradigms analyse the nature of reality
+differently.
+Block 2 on research design and measurement issues sets the tone and context to
+provide balanced treatment to quantitative and qualitative research. The block
+comprises of three units. Research design and mixed methods, the characteristics
+of quantitative methods and qualitative methods, sampling design, the various
+issues relating to measurement of variables have been covered in this block.
+
+
+--- Page 4 ---
+4
+Research Methodology:
+Issues and Perspectives
+Block 3:  In order to validate the economic theory , we need their empirical
+verification. Further, in order to examine disparity in income, the inequality
+measures are important. Similarly in order to describe the development status of
+an area in terms of several dimensions, we need to develop skill to construct
+composite index numbers. For all these purposes, good exposure to methods of
+regression models, in-equality measures and composite index is required.
+Block 3 meets this requirement.
+Block 4: In order to analyse the quantitative and qualitative data, more analytical
+techniques like Multi Variate Analysis: Factor Analysis, Canonical Correlation
+Analysis, Cluster Analysis, Correspondence Analysis, and Structural Equation
+Models are being increasingly used under either mono method or mix methods.
+Block 4 explains all these techniques.
+Block 5: 
+A large range of data analysis techniques are used in carrying out
+qualitative research. However , three important methods namely participatory
+methods, content analysis, and action research – relevant for conducting the
+qualitative research studies in the area of Economics have been covered in this
+Block.
+Block 6: The availability of data is crucial for undertaking research. For this,
+one is expected to be familiar with the dif ferent databases, and sources, the
+concepts used in data compilation and the agencies involved in data collection.
+Block 6 focuses on these aspects of database of Indian Economy.
+
+
+--- Page 5 ---
+5
+Research Methodology:
+Conceptual FoundationUNIT 1 RESEARCH METHODOLOGY:
+CONCEPTUAL FOUNDATION
+Structure
+1.0 Objectives
+1.1 Introduction
+1.2 Research Methodology and its Constituents
+1.3 Theoretical Perspectives
+1.4 Approaches to Social Enquiry
+1.5 Research Strategies
+1.6 Research Process
+1.7 Hypothesis: Its Types and Sources
+1.8 The Nature, Sources and Types of Data
+1.9 Measurement Scales of Variables
+1.10 Let Us Sum Up
+1.11 Key Words
+1.12 Some Useful Books
+1.13 Answer or Hints to Check Your Progress Exercises
+1.0 OBJECTIVES
+After going through this unit, you will be able to:
+• Explain the research methodology and its constituents;
+• State the various philosophical perspectives that guide research in social sciences;
+• Describe various research approaches and strategies that are applied to answer
+the research questions;
+• Describe the various steps involved in the research process; and
+• Discuss the various types of research designs appropriate for different types
+of research.
+1.1 INTRODUCTION
+Research plays a significant role in human progress. It inculcates scientific and
+inductive thinking and promotes the development of logical thinking and
+organization. The role of research in several fields of applied economics has
+increased in modern times. As an aid to economic policy, it has gained importance
+for policy makers in understanding the complex nature of the functioning of the
+economy. It also occupies special significance in analysing problems of business
+and industry. Social scientists study the relationships among many variables
+seeking answers to complex issues through research. In short, research aids the
+process of knowledge formation and serves as an important source of providing
+policy suggestions to dif ferent business, government and social or ganization.
+The knowledge of the critical perspectives or philosophy of science, techniques
+
+
+--- Page 6 ---
+6
+Research Methodology:
+Issues and Perspectives
+of data collection and tools or methods of analyzing data are essential for
+undertaking research in a systematic manner . In this unit, we shall focus our
+attention on important constituents of research methodology i.e., research
+perspectives, research approaches and strategies and data types and its sources,
+hypothesis formulation and measurement scale of variables. At the initial stage
+of research, several questions may arise in your mind – what do we mean by
+research? How is the term ‘research methodology’ distinct from ‘research
+techniques’ or ‘research methods’? Which type of research approach can be
+applied to a particular situation or context? What are the steps involved in the
+research process and how to design a research project? We shall take up these
+issues in this unit. Let us begin by explaining the term research methodology
+and its constituents.
+1.2 RESEARCH METHODOLOGY AND ITS
+CONSTITUENTS
+Research in common parlance refers to a search for knowledge. It can be defined
+as a scientific and systematic enquiry either to discover new facts or to verify old
+facts, their sequences, interrelationships, causal explanation and the adherence
+to natural laws governing them. It thus aims to discover the truth by applying
+scientific methods.
+Research Methodology is a wider term. It consists of three important elements:
+i) theoretical perspectives or orientation to guide research and logic of enquiry,
+ii) tools and techniques of data collection, and
+iii) methods of data analysis.
+Research Methods, comprises of research techniques and tools. Research
+techniques refer to the practical aspects of collecting data and the way the
+information/data obtained/collected is or ganized and analysed. Tools are the
+instruments that are used for data collection and its analysis. It includes
+questionnaire/schedules, dairies, check lists, maps, photos, drawings etc. Census
+and survey methods are mainly used to collect quantitative data. In qualitative
+research, data is generated/complied by way of participant observation, semi
+structured interviews, life histories, experiments, pilot studies, scenarios etc. Data
+analysis involves a set of statistical techniques used in establishing relationships
+between the different variables and in evaluating the accuracy of the results.
+Thus, methodology, methods and tools/techniques are three distinct elements of
+the research process. Any one of these three elements by itself may not be adequate
+in many situations. For instance, no data can be systematically collected without
+adequate knowledge of techniques of data collection. Similarly, data can not be
+explained without comprehending the philosophy or perspective behind the
+characteristics underlying the variables to which the data relates. A sound
+knowledge of statistical techniques is also necessary to analyse the data efficiently.
+1.3 THEORETICAL PERSPECTIVES
+Theoretical perspectives relate to theories of knowledge which lies within the
+domain of philosophy of social science. The key concept associated with the
+perspectives is the paradigm. Let us start to discuss with the concept of paradigm.
+
+
+--- Page 7 ---
+7
+Research Methodology:
+Conceptual Foundation
+Paradigm:  
+A paradigm is a comprehensive belief system, world view or
+framework that guides research and practice. It consists of
+• At the basic or fundamental level, a philosophy of science that makes a
+number of assumptions about fundamental issues relating to nature and
+characteristics of truth or reality (ontology) and the theory of knowledge
+dealing with how can we know the things that exist (epistemology).
+• World view, conceptual and theoretical framework that guides research and
+practices used in the field.
+• General methodological prescriptions including tools to be used for
+information/data collection and data analysis to conduct the work within
+the paradigm.
+The exact number of world views and the names associated with a particular
+paradigm vary from author to another but four paradigms in the context of research
+approaches in social sciences, are important:
+• Positivism and post positivism
+• Critical theory
+• Interpretivism
+• Pragmatism.
+The peculiar features of these paradigms are:
+• They differ on the question of reality,
+• They offer different reasons or purposes for doing research,
+• They use dif ferent types of tools for data collection and sources of
+information also vary,
+• They resort different ways of deriving meaning from the collected data,
+• They vary in the relationship between research and practice.
+Some authors have classified these paradigms into three categories by re-naming
+them as:
+• Realism begins by assuming that there is a real world that is external to the
+experience of any particular person and the goal of research is to understand
+that world.
+• Constructivism begins by assuming that everyone has unique experience
+and beliefs and it posits that no reality exists outside of those perceptions.
+• Pragmatism considers realism and constructivism as two alternate ways to
+understand the world. However, the questions about the nature of reality are
+less important than questions about what is meant to act and experience the
+consequence of those actions.
+Realism Constructivism Pragmatism
+
+
+--- Page 8 ---
+8
+Research Methodology:
+Issues and Perspectives
+The knowledge of all these perspectives enable a researcher to make a meaningful
+choice about
+1) the research problem;
+2) the research questions to investigate this problem;
+3) the research strategies to answer these questions;
+4) the approaches to social enquiry that accompany these strategies;
+5) the concept and theory that direct the investigation;
+6) the sources, forms and types of data;
+7) the methods for collecting and analyzing the data to answer these questions.
+The characteristics of positivism and post positivism as theoretical and
+methodological perspectives to scientific knowledge have been provided in the
+next unit i.e. Unit 2 of this course. Similarly the characteristics of interpretivisms
+and critical theory perspective to conduct social research will be taken up in
+Unit 5 of this course.
+1.4 APPROACHES TO SOCIAL ENQUIRY
+Broadly two types of approaches are used in conducting research in social
+sciences: quantitative and qualitative. The studies conducted within the
+perspective (framework) of positivism/post-positivism/realism generally resort
+the quantitative approach and are termed as ‘quantitative research’. Quantitative
+research integrates purposes and procedures that are deductive, objective and
+generalized. Emphasis is laid on the construction of general theories which are
+applied universally. Well controlled procedures with large number of cases are
+followed in conducting the studies.
+On other hand, the studies conducted within the perspective of critical theory
+and interpretivism paradigms are termed as qualitative research. By using
+induction as a research strategy , qualitative research creates the theory and
+discovery through flexible, emergent research designs. It tries to evolve meaning
+and interpretation based on closer contacts between researchers and the people
+they study. Thus qualitative research consists of purposes and procedures that
+integrate inductive, subjective and contextual approaches. Based on the above
+outlines on the types of research – we may say that there are two basic approaches
+to research viz., quantitative approach and qualitative approach.
+Mixed methods research by combining quantitative methods and qualitative
+methods are being used in social sciences. Hence, mixed method design by
+integrating quantitative and qualitative approach has also emerged as an approach
+to social enquiry.
+Quantitative approach can be further sub-classified into: inferential approach;
+experimental approach; and simulation approach.
+In Inferential approach, database is established through survey method and
+inference is drawn about characteristics or relationship of variables. In
+experimental approach, greater control is exercised over research environment.
+Some variables are manipulated to observe their ef fect on other variables.
+
+
+--- Page 9 ---
+9
+Research Methodology:
+Conceptual Foundation
+Simulation approach refers to the operation of a numerical model that represents
+the structure of a dynamic process. It involves the construction of an artificial
+environment in which relevant information/data can be generated. Given the
+values of initial conditions, parameters and exogenous variables, a simulation is
+run to represent the behaviour of the process over time.
+Qualitative approach deals with the subjective assessment of attitudes, opinions
+and behaviour of respondents in the field. Results are generated either in non-
+quantitative form or in a form which are subjected to relatively less rigorous
+quantitative treatment. Various techniques like group discussions, projective
+techniques, in-depth interviews etc., are used. The typical characteristics of both
+these approaches may be summarized in the following Table:
+Table 1.1: Typical Characteristics of Qualitative and Quantitative Approach
+1.5 RESEARCH STRATEGIES
+Four basic strategies can be adopted in social research depending upon the
+researcher’s belief/reliance on perspective/paradigm about the nature of reality.
+Characteristics
+1) Typical data
+collection
+methods
+2) Formulation of
+questions and
+answers
+3) Selection of
+respondents
+4) Timing of
+analysis
+5) Application of
+standard
+methods of
+analysis
+6) The role of
+theories in the
+analysis
+Qualitative Approach
+Participant observation, semi-
+structured interviews, group
+discussion report cards etc.
+Open/loosely specified questions
+and possible answers. Questions
+and answers are exchanged in
+two way communication between
+researcher and respondent.
+Information maximization guides
+the selection of respondent.
+Every respondent may be unique
+(key person).
+Parallel with data collection
+Descriptive methods of analysis
+are used. Mixed methods are also
+used.
+Existing theories are typically
+used only as point of departure
+for the analysis. Theories are
+further developed by forming
+new concepts and relations. The
+contents of the new concepts are
+studied and illustrated. Practical
+application of theory is
+illustrated by cases.
+Quantitative Approach
+Laboratory observations,
+questionnaire, schedule or
+structured interviews.
+Closed questions (hypothesis)
+and answer categories to be
+prepared in advance.
+Representativeness as
+proportion of population N.
+Randam sample selection,
+sample size according to
+assumptions about distribution
+in population N.
+After data collection
+Standard statistical methods
+are frequently used.
+A-priori deducted theories are
+opeationalised and tested on
+data. The process of analysis
+is basically deductive.
+
+
+--- Page 10 ---
+10
+Research Methodology:
+Issues and Perspectives Paradigm Research Strategy
+Positivism Induction
+Post positivism/Realism Deduction
+Critical realism Retroduction
+Interpretativism Abduction
+Each strategy has different starting points (Lewis-Beck, 2004):
+1) The inductive strategy begins with collection of data from which
+generalisation is made and can be used as an elementary explanation;
+2) The deductive strategy starts out with a theory that provides a possible answer.
+The theory is tested in the context of a research problem by collection of
+relevant data;
+3) The retroductive strategy starts out with a hypothetical model of a mechanism
+that could explain the occurance of a phenomenon under investigation;
+4) The abductive strategy starts with laying the concepts and meanings that
+are contained in social quarters account of activities related to a research
+problem.
+Check Your Progress 1
+1) Distinguish between Research Methodology and Research Methods.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) How does the knowledge of research perspectives help a researcher to
+undertake research studies in social sciences?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3) How is retroductive research strategy different from abductive strategy?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................

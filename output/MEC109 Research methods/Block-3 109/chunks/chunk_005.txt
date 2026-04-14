@@ -1,0 +1,731 @@
+--- Page 36 ---
+ 
+ 
+37
+I Multivariable Regression 
+ModelsUNIT 10  MULTIVARIABLE REGRESSION 
+MODELS 
+Structure 
+10.0  Objectives 
+10.1  Introduction 
+10.2  Regression Model with Two Explanatory Variables 
+         10.2.1  Estimation of Parameters  
+           10.2.2  Variance and Standard Errors  
+10.3  Interpretation of Regression Coefficients 
+         10.3.1  Goodness of Fit: Multiple Coefficient of Determination: R 2 
+         10.3.2  Analysis of Variance (ANOVA)  
+10.4  Inclusion and Exclusion of Variables 
+10.5  Generalisation to n-explainatory Variables  
+10.6  Problem of Multi-co-linearity 
+10.7  Problem of Hetero-scedasticity 
+10.8  Problem of Autocorrelation 
+10.9  Maximum Likelihood Estimations 
+10.10  Let Us Sum Up 
+10.11  Key Words 
+10.12  Answers or Hints for Check Your Progress Exercises 
+10.0   OBJECTIVES 
+This Unit aims at equipping the learners with techniques of multiple regressions 
+which come handy in analysing a number of situations where one is required to 
+study impact of a number of independent variables (factors) on some particular 
+dependent variable. After going through this unit, you will be able to: 
+• have a fairly good comprehension of technique of multiple regression 
+analysis; 
+• appreciate the need for extending the basic idea of regression as discussed 
+in Unit 8; 
+• apply those techniques for more realistic model formulation of explaination 
+of economic phenomena; and 
+• spot and avoid pit falls which may arise (in quantitative analysis). 
+on accounts of auto-correlation, hetero-scedasticity and multi-co-linearity on 
+the one hand and mis-specification of the model, (in the sense of including 
+irrelevant as well as excluding relevant variables from the model) on the other. 
+10.1 INTRODUCTION  
+In Unit 8, you have studied basics of the Classical Linear Regression Model. 
+You regressed dependent variable Y on independent variable X. In other 
+ 
+
+
+--- Page 37 ---
+ 
+ 
+Quantitative Methods-I 
+38 
+Multivariable Regression words, you tried to explain changes in Y in terms of the changes in X. You had 
+hypothesised a linear relationship between Y and X of this type: 
+ X Yβα +=  
+Then, you went on to ‘estimate’ the two constants 
+∧
+α  and 
+∧
+β  . Once the 
+estimates were ready, you had the estimated model or ‘relationship’ with you 
+given by  
+x
+∧ ∧∧
++ = Υ
+β α          
+In the present unit we are going to extend this type of analysis further to make 
+it more ‘realistic’ and ‘comprehensive’. We will do it in a number of steps:  
+first of all, we shall introduce one more explainatory variable and re-examine’ 
+the model. Next step will be to generalise the model to n-explainatory 
+variables. At the next stage, we try to interpret the partial regression co-
+efficients. After that, we will try to examine how large should the number ‘n’ 
+be – that is how many explainatory variables must be included in the model 
+and what should be the statistical touch stone for arriving at such a decision. 
+Then, we examine the conditions, or ‘assumptions’, which make these 
+extensions and generalisations possible. We also examine the possible effects 
+of violation of one or more assumptions. We shall, in particular, pay attention 
+to problems of multi-co-linearity, Hetero-scedasticity and auto-correlation. 
+Then, we take a look at another class of estimates, the Maximum Likelihood 
+Estimators. Finally, we give a brief exposition to some uses of multiple 
+regression analysis in economics. 
+10.2 REGRESSION MODEL WITH TWO 
+EXPLANATORY VARIABLES 
+At the outset, please note one small change in notation: in section 10.1 – the 
+introduction to the present unit, we have used the specification of model as  
+X Yβα +=  
+However, now onwards, we will write the model in slightly different form:  
+ 1 1 0XY ββ +=   This form helps us in presentation in the sense that as and 
+when, we add more explanatory variables X 2, X3, etc. we simply indicate their 
+coefficients with respective β1, β2, β3, etc. 
+So the model that we consider in the present section has two explanatory 
+variables X1, and X2.  The non-stochastic specification will be:  
+0 1 1 2 2E(Y ) X Xb b b= + +  (10.1) 
+The same model in stochastic form will have ‘error terms’ included: 
+0 1 1 2 2Y X Xb b b m= + + +  (10.2) 
+   E(Y ) m= +  (10.3) 
+We can use subscripts‘t’ with Y 0, X 1, X 2 and µ  to denote ‘t th’ observation. 
+Thus, the above equations can be written as  
+
+
+--- Page 38 ---
+ 
+ 
+39
+I Multivariable Regression 
+Models0 1 1 2 2
+0
+1 1 2 2  and
+( )  respectively
+t t t
+t
+t t t
+t t t
+Y X X
+Y
+X X
+Y E Y
+b b b
+b b b m
+m
+= + +
+= + + +
+= +
+ 
+In the relationships above, the component ( tt X X2 2 1 1 0
+βββ ++ ) is systematic 
+or deterministic component, which is equal to mean value E( Yt ) ─ or a point 
+on the regression line.  
+The component µt  is non-systematic random component determined by factors 
+other than X1 and X2. 
+The model specified by equations 10.1 and 10.2 is a linear regression model 
+which is linear in parameters. 
+10.2.1 Estimation of Parameters: The Ordinary Least Squares 
+Approach 
+The Ordinary Least Squares Approach 
+We collect a sample of observations on  Y1, X1 and X2 and write down sample 
+regression function 
+0 1 1 2 2t t t tY b b X b X e= + + +  (10.4) 
+Note that b 0, b1, b2 have replaced the corresponding population parameters β1, 
+β2, β3 here. The random component µt replaced by et or the sample error term. 
+So, simply speaking: 
+b0  = the estimator for β0 
+b1 = the estimator for β1 
+b2  = the estimator for β2  
+We know from the Unit 8 that the principle of ordinary least squares  selects 
+those values for unknowns (b 0, b1, b2 ) such that residual sum of squares (RSS) 
+= 2
+te∑  is minimum. We can develop this idea by rewriting equation 10.4 as 
+0 1 1 2 2t t t te Y b b X b X= - - -   (10.5) 
+Square on both sides and sum up to get RSS: 
+[ ]
+22
+0 1 1 2 2t t t te Y b b X b Xå = å - - -   (10.6) 
+Differentiating the (10.6) w.r.t   b 0, b 1, b 2 and equating to zero gives us the 
+three normal equations: 
+1 20 1 2t t tY b b X b X= + +  (10.7) 
+2
+1 0 1 1 1 2 1 2t t t t t tY X b X b X b X Xå = å + å + å  (10.8) 
+2
+2 0 2 1 1 2 2 2t t t t t tY X b X b X X b Xå = å + å + å  (10.9) 
+
+
+--- Page 39 ---
+ 
+ 
+Quantitative Methods-I 
+40 
+Multivariable Regression These three equations give us the following expressions for b 0, b 1, and b 2                          
+respectively: 
+0 1 2 2b Y b X b X= - -  (10.10) 
+( ) ( ) ( )( )
+( )( ) ( )
+2
+1 2 2 1 2
+1 22 2
+1 2 1 2
+t t t t t t t
+t t t t
+y x x y x x x
+b
+x x x x
+å å - å å
+=
+å å - å
+ (10.11) 
+and 
+( ) ( ) ( )( )
+( )( ) ( )
+2
+2 1 1 1 2
+2 22 2
+1 2 1 2
+t t t t t t t
+t t t t
+y x x y x x x
+b
+x x x x
+å å - å å
+=
+å å - å
+ (10.12) 
+The lower case letters denote, as usual, the deviations from the respective 
+means. Thus ). (  and  ) ( ), (22211 X X x X X x Y y yttttt t − =− = − = . 
+10.2.2 Variance and Standard Errors  
+The variances of OLS estimators given in 10.10, 10.11 and 10.12 above are 
+given in terms of means and deviations of X 1 and X 2 and the variance of 
+population error terms µt. Thus,  
+2 22 2
+1 2 1 2 22 1 1 2
+0 2 2 2
+1 2 1 2
+21 t t t t
+t
+t t t
+X x X x X X x xV ar( b ) n x x ( x x ) s
+æ öç ÷å + å - åç ÷= +ç ÷å å - åç ÷ç ÷è ø
+ (10.13) 
+Standard Error of  0 0   b Var( b )=  (10.14) 
+2
+22
+1 2 2 2
+1 2 1 2
+( ) .( )
+t
+t t t t
+xVar b x x x x så= å å - å  (10.15) 
+1 1( ) ( )  SE b Var b=  (10.16) 
+and 
+2
+21
+2 2 2 2
+1 2 1 2
+( ) .( )
+t
+t
+t t t
+xV ar b x x x x så= å å - å  (10.17) 
+2 2( ) ( )SE b Var b=  
+ (10.18) 
+When σ2  is unknown and its t unbiased OLS estimator is obtained, we find that  
+2
+2ˆ
+3
+ie
+ns å= -  (10.19) 
+The denominator of 10.19 shows the degrees of freedom. In a sample of size 
+‘n’ we exhaust 3 degrees of freedom in estimating   b0, b1, and b2. Note that this 
+reasoning is quiet general, in the sense that if out of a sample of size ‘n’, we 
+
+
+--- Page 40 ---
+ 
+ 
+41
+I Multivariable Regression 
+Models
+estimate ‘k’ parameters, remaining degrees of freedom will be n ─ k. We call   
+2ˆ ˆσ σ= , the standard error of estimate/regression.  
+The residual sum of squares in 10.19 is 22 )ˆ( t tt Y Y e− ∑ = ∑.   This expression is 
+equivalent to the following.  
+2 2
+1 1 1 2 2t t t t te y b y x b y xå = å - å - å  (10.20 
+10.3 INTERPRETATION OF REGRESSION 
+COEFFICIENTS 
+Mathematically, b1 and b 2 represent the partial slopes of regression plan with 
+respect to X 1 and X2 respectively. In other words,  b 1 shows the rate of change 
+in Y as X 1 alone undergoes a unit change, keeping all other thing, constant. 
+Similarly, b2 represents rate of change of Y as X2 alone changes by a unit while 
+other things are held constant.  
+Note: This interpretation is quite similar to what you have been doing in 
+economic theory. Recall the law of demand: quantity demanded of a 
+commodity varied inversely with its price, ‘ceteris paribus’ that is when other 
+things were kept ‘constant’.  What were those other things? Those were prices 
+of complements and substitutes, income of the consumer, and tastes/likings/ 
+disliking etc.  
+10.3.1  Goodness of Fit: Multiple Coefficient of 
+Determination:R2 
+Recall that is case of a single independent variable, r 2 measured goodness of fit 
+of the fitted sample regression line. It gave you the percentage total variation in 
+dependent variable Y which has been explained by the single explanatory 
+variable X. Correspondingly, when we have two explanatory variables X 1 and 
+X2, we would like to know the proportion of total variation in 2
+ty Y∑ =  
+e
+xplained by X 1 and X 2 jointly. This information is conveyed by R 2 ─ the 
+multiple coefficient of determination. Thus,  
+TSS
+ESSR =2  
+When ESS is explained sum of squares and TSS is total sum of squares.  You 
+are familiar with the relationship between TSS, ESS and RSS from Unit 8. 
+You know that t tt t x y b x y b ESS22 11 ∑+∑=  
+and t tt tt x y b x y b y RSS 22 11
+2 ∑ − ∑ − ∑ = 
+Therefore R2 can be computed as  
+(10.21)                                                                        2
+22 112
+t
+t tt t
+y
+x y b x y bR ∑
+∑+∑=  
+You can get the quantities in the above formula from your computation sheet 
+for the normal equations.  The R2 lies between 0 and 1. Closer it is to one; 
+
+
+--- Page 41 ---
+ 
+ 
+Quantitative Methods-I 
+42 
+Multivariable Regression better is the fit – implying estimated regression line is capable of explaining 
+greater proportions of variation in Y.  The positive square root of R2 is called 
+c
+oefficient of multiple correlation. 
+10.3.2    Analysis of Variance (ANOVA) 
+We know the relationship:  
+T
+SS = ESS +RSS 
+This is equivalent to saying: 
+ 2
+tyå      1 1 2 2 t t t tb y x b y xå + å     2
+teå  
+ (TSS)  ( ESS)    ( RSS) 
+A study of the components of TSS is called analysis of variance in the context 
+of regression. You know that every sum of squares has some degrees of 
+freedom (df) associated with it.  In our above 2-explainatory variable case, the 
+degrees of freedom will be  
+TSS = n–1 
+RSS = n–3 
+ESS = 2 
+We can put this information in form of a table: 
+Table 10.1: ANOVA Table for 2-Explainatory Variable Regression 
+Source of Variation Sum of Squares (SS) d f Mean S.S = f
+S
+d
+δ  
+Due to regression 
+(ESS) 
+1 2 2t t t tb y x b y x∑ + ∑     2 
+2
+ESS  
+Due to residuals 2
+te∑                             n- 3 
+3
+2
+−
+∑
+n
+et  
+TSS 2
+1y∑                             n- 1  
+One may be interested in testing a null hypothesis H0: B1 = B2=0.  In such a 
+c
+ase we find that  
+df RSS
+df ESS
+/
+/   that is ratio of the variance explained by X 1 and X 2 to unexplained 
+v
+ariance follows F distribution with 2 and n-3 degrees of freedom. In general, 
+if regression equation estimates ‘k’ parameters including intercept, than F ratio 
+has (k-1) df in numerator and (n-k) df in the denominator. 
+Interpretation: Larger the variance explained by fitted regression line, larger 
+the numerator will be in relation to denominator.  Thus a larger F value is 
+evidence against the ‘truthfulness’ of H 0: B1 = B 2=0.  That is, F values larger 
+t
+han one will indicate that hypothesis of both the variables X1 and X2
+ having no 
+e
+ffect on Y cannot sustain.   
+= + 
+
+
+--- Page 42 ---
+ 
+ 
+43
+I Multivariable Regression 
+Models
+We can also express F values in terms of R2. 
+ 
+ 
+ 
+Check Your Progress 1 
+1) What is multiple regression? Explain with an exam ple. 
+ ……………………………………………………………………………. 
+ ……………………………………………………………………………. 
+ ……………………………………………………………………………. 
+ ……………………………………………………………………………. 
+ ……………………………………………………………………………. 
+2) State the assumptions of classical linear multiple r egression model. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+3) What do you mean by linearity of regression model? E
+ xplain? 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+4) How do you interpret coefficients of multiple regres sion model? 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+2
+2
+/( 1)
+(1 ) /( )
+R kF R n k
+−= − −
+
+
+--- Page 43 ---
+ 
+ 
+Quantitative Methods-I 
+44 
+Multivariable Regression 
+10.4  INCLUSION AND EXCLUSION OF 
+EXPLANATORY VARIABLES 
+The Adjusted 2 2: R R 
+I
+t has been noted that as we add more and more explanatory variables X s , the 
+e
+xplained sum of squares keeps on rising. Thus, R 2 goes on increasing as we 
+i
+ncrease X s, the explained sum of squares keeps on rising.  Thu s, R 2 goes on 
+i
+ncreasing as we increase X s. But, notice that adding each additional variable 
+‘
+eats up’ one degree of freedom and our definition of R 2 makes no allowance 
+f
+or loss of degrees of freedom. Hence, the thinking that you can improve the 
+goodness of fit by suitably increasing the number of variables may not be 
+justified  We know that TSS always has (n-1) degrees of freedo m. Therefore, 
+comparing two regression models with same dependent variable but 
+differencing number of independent variables will not be justified. Therefore, 
+we must adjust our measure of goodness of fit for degrees of freedom. This 
+measure is called adjusted R 2, denoted by  2R .  It can be derived from R 2 as 
+f
+ollows: 
+2 2 ( 1)1 (1 ) ( )
+nR R n k
+-= - - -  (10.22) 
+Therefore, it is recommended that, one must include new variables only if 
+(upon inclusion) 2R increases and not otherwise. A general guide is provided 
+by ‘t’ statistic, if absolute value of the co-efficient of added variable is greater 
+than one, retain it (Note that ‘t’ value is calculated under the hypothesis that 
+population value of that co-efficient is zero). 
+10.5 GENERALISATION TO N-EXPLANATORY 
+VARIABLES  
+In general, our regression model may have a large number of independent 
+variables. Each of those variables can, on priority grounds, be expected to have 
+some influence over the ‘dependent’ or ‘explained’ variable. Consider a very 
+simple example. What can be determinants of demand for potatoes in a 
+vegetables market? One obvious choice will be the price of potatoes. What else 
+can affect the quantity demanded? Could it be availability of vegetables which 
+can be paired off with potatoes? In that case, prior of a large number of 
+vegetables which are cooked along with potatoes will become ‘relevant 
+explanatory variables’. You cannot ignore income of the community that 
+patronizes the particular market. Needless to say, the dietary preferences of 
+members of the households can also affect the demand and so on. In the next 
+Unit, we shall discuss techniques which help us restrict the analysis to a 
+selected ‘few variables, though theoretic considerations may find a huge 
+number of them to be ‘useful’ and ‘powerful’ determinants. In fact, in 
+economic theory, we usually append the phrase Ceteris paribus, with many a 
+s
+tatements. This phrase means keeping all other things constant. That means, 
+we may focus on impact of only a few selected variables on the dependent 
+variable while assuming that all other variables remain ‘unchanged’ during the 
+period of analysis. This assumption may not hold so, we have to juggle the 
+need to include more and more variables in our model with the ‘gains’ in 
+
+
+--- Page 44 ---
+ 
+ 
+45
+I Multivariable Regression 
+Models
+explainatory power of the model. We have developed, in previous section 
+(10.4) a working touchstone for inclusion of more variables in terms of 
+improvement in 2R and have tried to give it ‘practical’ shape in form of 
+magnitude of ‘t’ values of the relevant slope parameters. 
+With these considerations in mind we can generalise the linear regression 
+model as follows: 
+We hypothesize that in population, the dependent variable Y depends upon n 
+explainatory variables, X 1, X 2, ………..X n. We also assume that the 
+r
+elationship is linear in parameters. Three more assumptions are made and they 
+have very significant bearing on the analysis. These are: 
+a) Absence of Multi-co-linearity; 
+b
+) Absence of Hetero-scedasticity; and 
+c
+) Absence of Autocorrelation 
+W
+e will discuss the complications, which arise because of violations of these 
+assumptions in section 10.6, 10.7 and 10.8 respectively. So our Classical 
+Linear General Regression Model is :  
+nt ntt XXY βββ +++= ⋯⋯⋯⋯⋯1 1 0  
+or 
+w
+here it is understood that Y and each X will have a large numbers of values 
+t=1………….N, forming (n+1) ‘tuples’ (Y11 X11, X21, ……………..Xn1).  
+W
+e can simply write  
+1 1 2 2 ....................... n nY X X Xb b b m= + +  (10.23) 
+in Matrix equation form, we get 
+Y
+ = Xβ+U   ( 10.24) 
+Where 
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+=
+nnn U
+U
+U
+Y
+Y
+Y ⋮⋮ ⋮
+111
+ a
+nd  ,
+β
+β
+β  
+also  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+knn n n
+k
+k
+XX X X
+XX X X
+XX X X
+X
+⋯ ⋯ ⋯ ⋯ ⋯
+⋮
+⋮
+⋯ ⋯ ⋯ ⋯ ⋯
+⋯⋯⋯⋯⋯
+, , ,
+, , ,
+, , ,
+3 2 1
+232 22 12
+131 21 11
+ 
+W
+e assume that (1) expected values of error terms are equal to zero; that is 
+E(ui) = 0 for all ‘i’. In matrix notation  
+
+
+--- Page 45 ---
+ 
+ 
+Quantitative Methods-I 
+46 
+Multivariable Regression 
+0
+0
+0
+0
+) (
+) ( E
+) (
+i
+=
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+= ⋮⋮
+nu E
+u
+u E  
+2
+)  The error terms are not correlated with one another and they all have 
+same variance for σ 2 all sets values of the variables X. That is,  
+i u E
+j i u u Ej i
+∀ =
+≠∀=
+2 2
+1 ) (
+  and      ; 0 ) (
+σ
+ 
+in matrix notation: 
+2
+1 2 1
+2 2
+' 21 2 2 2
+2
+22
+1 2
+( ), ( ) ( ) 0 0 0
+( ), ( ) ( ) 0 0
+0 0 0
+0 0 0( ), ( ) ( )
+n
+n
+n
+n n n
+E u E u u E u u
+E
+u u E u E u uE UU I
+E u u E u u E u
+σ
+σ σ σσ
+σ
+           = = =            
+2
+1 ⋯⋯⋯⋯⋯
+⋯
+⋯⋯⋯⋯
+⋮
+⋯⋯⋯⋯
+ 
+3)  Number X 1i……………..Xk are all real numbers and are free of random 
+e
+rrors or disturbances. 
+4)  The matrix X has been linearly independent columns. It implies that 
+number of observations exceeds number of co-efficient to be estimated. It 
+also implies there exists no exact linear relationships between any of the X 
+variables.  
+Note: Assumptions that E(U iUj) = 0 means that error terms are not correlated. 
+T
+he implication of diagonal terms in matrix E(UU
+′
+) being all equal to σ 2  is 
+t
+hat all error terms have same variance, σ 2 . This is also called assumption of 
+h
+omo-scedasticity. The last assumption implies absence of multi-co-linearity. 
+We can write the regression relation for the sample as: 
+e = Y – Xb 
+where e,  Y, X and b are appropriate matrices.  
+S
+um of squared residuals will be  
+[ ] [ ]
+XbXbYXbYY
+Xb Y Xb Y e e
+X bX b Y e ki kii
+′′+′′−=
+−′− =′=
++− ∑ = ∑ =
+2
+(10.25)                                                    )(
+1
+2
+1 1
+2
+1 ⋯⋯⋯φ
+ 
+Note: b
+′
+ X'Y is scalar and is therefore equal to its transpose Y
+′ Xb. 
+by equating 1 st order partials of  φ w.r.t each b i, to zero, we get k normal 
+equations. This set of equations in matrix form is: 

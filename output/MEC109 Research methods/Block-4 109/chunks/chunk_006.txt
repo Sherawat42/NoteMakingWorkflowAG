@@ -1,0 +1,451 @@
+--- Page 50 ---
+ 
+ 
+ 
+Cluster Analysis 
+51 
+-II In Figure15.2, a dendrogram is constructed using SPSS which clusters sample 
+data. A dendrogram is a branching diagram that represents the relationships of 
+similarity among a group of entities. Each branch is called a clade. The 
+terminal end of each clade is called a leaf. Clades can have just one leaf (these 
+are called simplicifolious, a term from botany that means “single leafed”) or 
+they can have more than one. Two-leaved clades are bifolious, three-leaved are 
+trifolious, and so on. There is no limit to the number of leaves in a clade. The 
+arrangement of the clades tells us which leaves are most similar to each other. 
+The width of the branch points indicates how similar or different they are from 
+each other: the greater the width, the greater the difference. In this particular 
+dendrogram, we see that chunk 6, 10 and 13 are completely separate from all 
+the others as they are clustered through a separate leaf of the clade. We 
+interpret its placement as indicating that the distribution in that chunk is 
+substantially different from the distribution in the remaining chunks. By closer 
+inspection, it can be observed that these 3 individuals are post-graduates as 
+well as employed on either contractual basis or unemployed i.e. it reflects that 
+higher educational attainment has not improved their job status as well as job 
+security. 
+If we are trying to identify which individual segments are most similar to each 
+other, we read the dendrogram from the left to right, identifying the first clades 
+to join together as we move from left to right. By closer inspection we find 4 
+clusters which have most similar objects. The first cluster is of 2 and 15 
+indicating better job status after graduation, the second cluster is of 1 and 3 
+(both are employers and post-graduates), the 3 rd cluster is of 4,8,9 and 12 
+which has linked post-graduates and the regularity of their employment while 
+the 4th cluster is made up of 6 and 10 indicating contractual work despite being 
+post-graduate. The further the clades away from the observations/objects, less 
+is the similarity between them. 
+Table 15.1: Similarity between level of education and level of employment  
+Proximity Matrix 
+Obser
+vation 
+ Squared Euclidean Distance  
+1:A 2:B 3:C 4:D 5:E 6:F 7:G 8:H 9:I 10:J 11:K 12:L 13:M 14:N 15:O 
+1:A .000 1.000 .000 1.000 .000 16.000 1.000 1.000 1.000 16.000 5.000 2.000 29.000 2.000 2.000 
+2:B 1.000 .000 1.000 2.000 1.000 17.000 2.000 2.000 2.000 17.000 4.000 5.000 26.000 1.000 1.000 
+3:C .000 1.000 .000 1.000 .000 16.000 1.000 1.000 1.000 16.000 5.000 2.000 29.000 2.000 2.000 
+4:D 1.000 2.000 1.000 .000 1.000 9.000 .000 .000 .000 9.000 2.000 1.000 20.000 1.000 1.000 
+5:E .000 1.000 .000 1.000 .000 16.000 1.000 1.000 1.000 16.000 5.000 2.000 29.000 2.000 2.000 
+6:F 16.000 17.000 16.000 9.000 16.000 .000 9.000 9.000 9.000 .000 5.000 10.000 5.000 10.000 10.000 
+7:G 1.000 2.000 1.000 .000 1.000 9.000 .000 .000 .000 9.000 2.000 1.000 20.000 1.000 1.000 
+8:H 1.000 2.000 1.000 .000 1.000 9.000 .000 .000 .000 9.000 2.000 1.000 20.000 1.000 1.000 
+9:I 1.000 2.000 1.000 .000 1.000 9.000 .000 .000 .000 9.000 2.000 1.000 20.000 1.000 1.000 
+10:J 16.000 17.000 16.000 9.000 16.000 .000 9.000 9.000 9.000 .000 5.000 10.000 5.000 10.000 10.000 
+11:K 5.000 4.000 5.000 2.000 5.000 5.000 2.000 2.000 2.000 5.000 .000 5.000 10.000 1.000 1.000 
+12:L 2.000 5.000 2.000 1.000 2.000 10.000 1.000 1.000 1.000 10.000 5.000 .000 25.000 4.000 4.000 
+13:M 29.000 26.000 29.000 20.000 29.000 5.000 20.000 20.000 20.000 5.000 10.000 25.000 .000 17.000 17.000 
+14:N 2.000 1.000 2.000 1.000 2.000 10.000 1.000 1.000 1.000 10.000 1.000 4.000 17.000 .000 .000 
+15:O 2.000 1.000 2.000 1.000 2.000 10.000 1.000 1.000 1.000 10.000 1.000 4.000 17.000 .000 .000 
+Source: Assessment of Human Wellbeing: A Multidimensional Approach, a research study 
+(unpublished) undertaken in 2015 by Prof. Narayan Prasad. 
+ 
+
+
+--- Page 51 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+52 
+DENDROGRAM USING WARD METHOD 
+Rescaled Distance Cluster Combine 
+                      
+ 
+               0         5        10        15        20        25 
+               +---------+---------+---------+---------+---------+ 
+ 
+  N       14   ─┐ 
+  O       15   ─┼─┐ 
+  B        2   ─┘ ├───┐ 
+  K       11   ───┘   │ 
+  C        3   ─┐     ├─────────────────────────────────────────┐ 
+  E        5   ─┼─┐   │                                         │ 
+  A        1   ─┘ │   │                                         │ 
+  H        8   ─┐ ├───┘                                         │ 
+ 
+ I        9   ─┤ │                                             │ 
+ 
+ D        4   ─┤ │                                             │ 
+  G        7   ─┼─┘                                             │ 
+  L       12   ─┘                                               │ 
+  F        6   ─┬───┐                                           │ 
+  J       10   ─┘   ├───────────────────────────────────────────┘ 
+  M       13   ─────┘ 
+ 
+Fig.15.2: Dendrogram 
+15.7 OTHER APPROACHES: TWO-STEP 
+CLUSTER ANALYSIS 
+Among the other widely used non-hierarchical approaches is the approach of 
+Two-step cluster analysis. The Two Step Cluster Analysis procedure is an 
+exploratory tool designed to reveal naturalgroupings (or clusters) within a data 
+set that would otherwise difficult to find. The Algorithm employed by this 
+procedure has several desirable features that differentiate it from traditional 
+clustering techniques: 
+• The ability to create clusters based on both categorical and continuous 
+variables. 
+• Automatic selection of the number of clusters. 
+• The ability to analyze large data files efficiently. 
+In order to handle categorical and continuous variables, the TwoStep Cluster 
+Analysis procedure uses a likelihood distance measure which assumes that 
+variables in the cluster model are independent. Further, each continuous 
+variable is assumed to have a normal (Gaussian) distribution and each 
+categorical variable is assumed to have a multinomial distribution.  
+The two steps of the Two Step Cluster Analysis procedure's algorithm can be 
+summarized as follows: 
+Step 1 The procedure begins with the construction of a Cluster Features (CF) 
+Tree. The tree begins by placing the first case at the root of the tree in a leaf 
+node that contains variable information about that case. Each successive case is 
+then added to an existing node or forms a new node, based upon its similarity 
+to existing nodes and using the distance measure as the similarity criterion. A 
+
+
+--- Page 52 ---
+ 
+ 
+ 
+Cluster Analysis 
+53 
+-II node that contains multiple cases contains a summary of variable information 
+about those cases. Thus, the CF tree provides a capsule summary of the data 
+file. 
+Step 2 The leaf nodes of the CF tree are then grouped using an agglomerative 
+clustering algorithm. The agglomerative clustering can be used to produce a 
+range of solutions. To determine which number of clusters is “best”, each of 
+these cluster solutions is compared using Schwarz's Bayesian Criterion (BIC) 
+or the Akaike Information Criterion (AIC) as the clustering criterion. 
+15.8 INTERPRETATION OF THE RESULTS 
+We shall now discuss this method with the help of an example based on  416 
+observations collected through primary survey for the purpose of research 
+study entitled “Assessment of Human Wellbeing in Delhi :Multidimensional 
+Approach”. The researcher in this study attempted to find out the clusters on 
+the basis of household level of income and their  educational status.  Four 
+income levels have been used to classify the sample into four categories: 
+income up to 2.5 lakhs, between 2.5 and 5 lakhs, between 5-10 lakhs and above 
+10 lakhs. The educational attainment has been take as : illiterate (no education), 
+upto middle education level, between middle to higher secondary education, 
+upto graduation, upto post-graduation and PhD and above. The hypothesis was 
+that higher the level of education, higher will the level of income meaning 
+thereby a positive association between level of education and the level of 
+income. Let us examine this hypothesis by applying the two-step cluster 
+analysis technique. 
+Figure 15.3 shows results of cluster 1 wherein educational attainment of post-
+graduation has been found to be inter-linked with income category of 10 lakhs 
+and above. This is logically also true as higher levels of educational attainment  
+are associated with higher income levels. In Figure 15.4,  it can be observed 
+that graduation is associated with income-levels of 5-10 lakhs and these two 
+sub-groups have been clustered together. 
+ 
+Fig.15. 3: Cluster 1 
+
+
+--- Page 53 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+54 
+ 
+Fig.15.4: Cluster 2 
+Figure 15.5 finds another cluster linking illiterate individuals with the lowest 
+income category (i.e. less than 2.5 lakhs) while  Figure 15.6 finds the fourth 
+cluster consisting of middle to higher secondary education and income level 
+upto 2.5 lakhs. Thus intuitively also, two-step cluster analysis has formed 
+clusters of similar attributes. 
+ 
+Fig.15.5: Cluster 3 
+ 
+ 
+
+
+--- Page 54 ---
+ 
+ 
+ 
+Cluster Analysis 
+55 
+-II 
+ 
+Fig.15.6: Cluster 4 
+Thus, by using Two step cluster analysis technique , we have  separated 416 
+individuals into 4 broad clusters based on their income category  and level of 
+educational attainment which, in turn , has enabled us to test the hypothesis 
+whether an association exist between the level of education and level of 
+income. Thus the hypothesis that higher the level of education, higher the level 
+of income has been accepted by the results of the cluster analysis. 
+Check Your Progress 2 
+1) What are the hierarchical methods used in cluster analysis? Critically 
+explain how dendrograms help in visual interpretation of clustered data. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) Explain the application of two-step cluster analysis in research. What are its 
+advantages? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+15.9 LET US SUM UP 
+The objective of cluster analysis is to assign observations to groups (clusters)so 
+that observations within each group are similar to one another with respect to 
+variables or attributes of interest and the groups themselves stand apart from 
+
+
+--- Page 55 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+56 
+one another. Cluster analysis embraces a variety of methods aiming to group 
+observations or variables into homogeneous and distinct clusters. For 
+groupings based on variables, frequently used measures of the similarity of 
+observations are the Euclidean. Squared Euclidean are applied to the original, 
+standardized, or weighted variables. For groupings based on attributes, a 
+measure of the similarity of two observations is the ratio of the number of 
+matches (identical categories) to the number of attributes.  
+Hierarchical methods begin with as many clusters as there are observations and 
+end with a single cluster containing all observations.  All clusters formed by 
+these methods are mergers of previously formed clusters. Other types of 
+clustering methods are the hierarchical divisive (beginning with a single cluster 
+and ending with as many clusters as there are observations) and the non-
+hierarchical methods. In recent years, some other clustering methods have also 
+evolved like the two-step cluster analysis discussed above which are efficient 
+in handling large data sets of continuous and categorical variables as well. 
+Cluster analysis technique gives a different angle of viewing and interpreting 
+data which may help the researcher to discover significant new relationships 
+between the variables used in a study. 
+15.10 KEY WORDS 
+Cluster analysis : It is the task of grouping a set of objects in 
+such a way that objects in the same group 
+(called a cluster) are more similar (in some 
+sense or another) to each other than to those in 
+other groups (clusters). 
+Agglomerative method : In which subjects start in their own separate 
+cluster. The two ’closest’ (most similar) 
+clusters are then combined and this is done 
+repeatedly until all subjects are in one cluster. 
+At the end, the optimum number of clusters is 
+then chosen out of all cluster solutions. 
+Divisive method : In which all subjects start in the same cluster 
+and the above strategy is applied in reverse 
+until every subject is in a separate cluster. 
+Agglomerative methods are used more often 
+than divisive methods, so this handout will 
+concentrate on the former rather than the latter. 
+Dendrogram : When carrying out a hierarchical cluster 
+analysis, the process can be represented on a 
+diagram known as a dendrogram. This diagram 
+illustrates which clusters have been joined at 
+each stage of the analysis and the distance 
+between clusters at the time of joining. 
+Centroid method : Here the centroid (mean value for each 
+variable) of each cluster is calculated and the 
+distance between centroids is used. Clusters 
+whose centroids are closest together are 
+merged. This method is also fairly robust. 
+
+
+--- Page 56 ---
+ 
+ 
+ 
+Cluster Analysis 
+57 
+-II Ward’s Method : In this method all possible pairs of clusters are 
+combined and the sum of the squareddistances 
+within each cluster is calculated. This is then 
+summed over all clusters. The combination 
+that gives the lowest sum of squares is chosen. 
+This method tends to produce clusters of 
+approximately equal size, which is not always 
+desirable. It is also quite sensitive to outliers. 
+Despite this, it is one of the most popular 
+methods, along with the average linkage 
+method. 
+K-Means Clustering : The k-means algorithm was popularized and 
+refined by Hartigan (1975). The basic 
+operation of that algorithm is relatively simple. 
+Given a fixed number of (desired or 
+hypothesized) k clusters, assign observations to 
+those clusters so that the means across clusters 
+(for all variables) are as different from each 
+other as possible. 
+Euclidean Distance : The straight line distance between two points 
+in a Cartesian coordinate system. The 
+Euclidean distance can be determined using 
+the Pythagorean Theorem. In two dimensions, 
+the Euclidean distance is [( x1-x2)2 + (y1-y2)2]0.5. 
+Usually, the points represent samples and the 
+axes of the Cartesian coordinate system 
+represent the abundances of species. 
+Exploratory Analysis : A general term for an analysis in which the 
+chief objectives is to find pattern in the data. 
+Often, exploratory analysis conflicts with 
+hypothesis testing. For example, stepwise 
+regression is permissible in exploratory 
+analysis, but can cause serious problems if you 
+are interested in testing hypotheses. 
+15.11 SOME USEFUL BOOKS 
+1) Data Mining, Concepts and Techniques: Jiawei Han, Micheline Kamber, 
+Jian Pei, 3rd Edition, Morgan Kaufmann, 2012. 
+2) Cluster Analysis of Economic Data, Hana Rezankova, Statistika, 94 (1), 
+Czech Republic, 2014 
+3) http://wheatoncollege.edu/lexomics/files/2012/08/How-to-Read-a-
+Dendrogram-Web-Ready.pdf 
+4) https://en.wikipedia.org/wiki/Cluster_Analysis
+ 
+5) https://arifkamarbafadal.files.wordpress.com/2011/09/ebook-038-tut orial-
+spss-two-step-cluster-analysis.pdf 
+
+
+--- Page 57 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+58 
+15.12 ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) See Section 15.2 and 15.3 
+2) See Section 15.4 and 15.5 
+Check Your Progress 2 
+1) See Section 15.6 
+2) See Section 15.7 
+15.13 EXERCISES 
+1) For what purposes and situations would you choose to undertake cluster 
+analysis?  
+2) Explain in your own words briefly what hierarchical cluster analysis does. 
+Check your answer against the material above. 
+3) Explain the difference between hierarchical methods and non-hierarchical 
+methods of clustering citing their advantages and disadvantages. 
+4) Is clustering same as classification? What is the essential difference 
+between classification and clustering? 
+ 
+
+
+--- Page 58 ---
+ 
+ 
+ 
+Correspondence 
+Analysis 
+59 
+-II 
+UNIT 16 CORRESPONDENCE ANALYSIS 
+ 
+Structure 
+16.0 Objectives 
+16.1 Introduction 
+16.2 Correspondence Analysis: Concept and Its Features 
+16.3 Steps and Algorithm Involved in Correspondence Analysis Technique 
+16.4 Basic Concepts and Definitions 
+ 16.4.1 Primitive Matrix 
+ 16.4.2 Profiles 
+ 16.4.3 Masses 
+ 16.4.4 Correspondence Matrix 
+ 16.4.5 Augmented Correspondence Matrix 
+ 16.4.6 Inertia 
+ 16.4.7 Distances 
+16.5 Reduction of Dimensionality  
+16.6 Biplots 
+16.7 Interpretation of the Results of Correspondence Analysis 
+16.8 Multiple Correspondence Analysis 
+16.9 Let Us Sum Up 
+16.10 Key Words 
+16.11 Some Useful Books 
+16.12 Answers or Hints to Check Your Progress 
+16.13 Exercises 
+16.0  OBJECTIVES 
+After going through this unit, you will be able to: 
+• state the concept of Correspondence Analysis (CA) as a special case of 
+principal component analysis; 
+• discuss the special features and applications of CA technique; 
+• explain the computational algorithm of Correspondence Analysis; 
+• elucidate the process of interpretation of Correspondence Analysis results; and 
+• learn how to apply Correspondence Analysis technique in conducting 
+research in social sciences. 
+16.1 INTRODUCTION 
+Understanding data is the ultimate problem of statistics and no one 
+technique/method can satisfactorily answer all our curiosities regarding any 
+particular set of data. Given a set of data, we often formulate hypothesis 
+regarding it. This formulation is motivated by our information regarding the 
+variables of the data. We then apply various statistical tools to test our 
+hypothesis. 
+ 
+
+
+--- Page 59 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+60 
+In such traditional methods of hypothesis testing, we verify a priori hypothesis, 
+that is, the hypothesis pre-assumed regarding the relations between variables 
+involved in the data. However, these methods naturally suffer from a 
+limitation. The pre-assumed hypotheses may not be the only possibility. There 
+can be other hidden relationships among the variables of the data. How do we 
+find them?  
+You have studied in Unit 1 and 8 that from measurement scale point of view, 
+data can be of four types – nominal, ordinal, interval and ratio scale. Principal 
+Component Analysis (PCA) technique is used to identify the relative 
+importance of factors or components responsible for variance in the dependent 
+variable. PCA, however, pre-supposes tables consisting of continuous 
+measurement (i.e. interval or ordinal scale of data). If a situation arises when 
+one is interested to know association between two or more categorized 
+variables, search for an alternative analytic technique is needed. For example, 
+you may be interested to examine how the level of education is related to the 
+nature of employment (i.e. regular, casual, contract etc.). Similarly how the 
+quality of employment is associated with different levels of income? In such 
+situation, you need a data analytic technique which can help you in detecting 
+structural relationships among the categorized variables. Correspondence 
+Analysis (CA) is analytic technique which helps to examine such structural 
+relationship. This technique is very useful to analyze simple two way and 
+multi-way tables containing some measure of correspondence between the 
+rows and columns. Hence, in this unit, we shall throw light on various concepts 
+used in correspondence analysis, its pre-requisites, its computation algorithm, 
+interpretation of its results, etc. Let us begin with stating the meaning of 
+correspondence analysis. 
+16.2 CORRESPONDENCE ANALYSIS: CONCEPT 
+AND ITS  FEATURES 
+Correspondence Analysis (CA) is a descriptive exploratory technique of 
+multivariate statistical analysis, allowing to define the nature and structure of 
+the relationship between qualitative variables measured in nominal and ordinal 
+scales. CA is a way of seeing the association in a two way – cross tabulation 
+rather than measuring it. In general, CA as a method is used to decomposes the 
+overall chi-square statistics by defining a system with a smaller number of 
+dimensions, in which the deviation from the expected values are presented. In 
+brief, CA may be defined as a special case of Principal Component Analysis of 
+the rows and columns of a table especially applicable to a cross tabulation. The 
+primary goal of CA is to transform a table of numerical information into a 
+graphical display, in which each row and each column is depicted as a point. 
+The important features of correspondence analysis are: 
+1) CA provides the multivariate treatment of the data through simultaneous 
+consideration of multiple categorical variables. 
+2) This technique can reveal relationships that would not be detected in a 
+series of pair wise comparison of variable. 
+3) It also provides graphical display of row and column points in biplots to 
+dectect structural relationships among the variable categories and objects. 

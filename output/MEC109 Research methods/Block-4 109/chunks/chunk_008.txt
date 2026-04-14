@@ -1,0 +1,496 @@
+--- Page 70 ---
+ 
+ 
+ 
+Correspondence 
+Analysis 
+71 
+-II 16.9 LET US SUM UP 
+Correspondence analysis is a data analytic technique that helps to detect 
+structural relationships among the categorized variables. It allows to define the 
+nature and structure of the relationship between qualitative variables measured 
+in nominal and ordinal scales. This technique can be considered a special case 
+of principal component analysis of the rows and columns of a table especially 
+applicable to a cross tabulation. Determination of the correspondence matrix, 
+row and column profiles and masses, calculation of the distances between the 
+rows and columns, presentation of row and column profiles, determination of 
+the average row and column profiles, reducing the dimension of spaces, and 
+plotting the correspondence map in terms of biplots are the various steps 
+involved in correspondence analysis technique. 
+Correspondence analysis facilitates the visualization of the associations 
+between the rows and columns of a contingency table. This technique can be 
+applied across the desciplines ranging from social sciences (including 
+economics, psychology etc.) to health sciences, biometry etc. It is a versatile 
+method of data analysis in the situations where exploratory or more indepth 
+data analysis of categorical data is required. 
+By virtue of being primarily a graphical technique designed to represent 
+associations in a low-dimensional space, correspondence analysis can be 
+regarded as a scaling method.This technique is also viewed as a complement to 
+other methods such as biplots and multidimensional scaling. Correspondence 
+analysis also has links to principal component analysis and canonical 
+correlation analysis.  
+16.10 KEY WORDS 
+Correspondence 
+Analysis 
+: It is a multivariate statistical technique by Hirschfeld and 
+later developed by Jean-Paul Benzecri. It is conceptually 
+similar to principal component analysis, but applies to 
+categorical rather than continuous data. In a similar 
+manner to principal component analysis, it provides a 
+means of displaying or summarizing a set of data in 
+two-dimensional graphical form. 
+Inertia :
+ The inertia of the whole table is a function of the Chi-
+square statistic (/g2031/g2870/g4667.  
+If  /g2031/g2870/g3404∑ ∑
+/g3435/g3016/g3284/g3285/g2879/g3006/g3284/g3285/g3439/g3118
+/g3006/g3284/g3285/g3037 /g3036 
+w
+here /g1841/g3036/g3037is the count of row ia nd column j of the 
+contingency table, /g1831/g3036/g3037is the expected value  under the 
+a
+ssumption of row-by-column independence, and N is 
+the total table count, then the total inertia of the table is 
+given by 
+Total Inertia = 
+/g3102/g3118
+/g3041 
+The inertia value reported is the proportion of the total 
+inertia that is due to this profile. Another way to 
+interpret the inertia is that it is the weighted average of 
+
+
+--- Page 71 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+72 
+the Chi-square distances between the row profiles and 
+their average profile. 
+Centroid :  The (weighted) mean of a multivariate data set which 
+can be represented by a vector. For many ordination 
+techniques, the centroid is a vector of zeros (that is, the 
+scores are centered and standardized). In a direct 
+gradient analysis, a categorical variable is often best 
+represented by a centroid in the ordination diagram. 
+Categorical 
+Variable 
+:
+ A variable that is represented by several different types; 
+for example: lake/river/stream, farm/pasture/ unmanaged, 
+pitfall trap/fence trap/direct sighting. For most multivariate 
+analyses, categorical variables must be converted to k-1 
+dummy variables (where k = the number of categories). 
+Classification :
+ The act of putting things in groups. Most commonly in 
+community ecology, the “things” are samples or 
+communities. Classification can be completely subjective, 
+or it can be objective and computer-assisted (even if 
+arbitrary). 
+Correlation :  A method which determines the strength of the 
+relationship between variables, and/or a means to test 
+whether the relationship is stronger than expected due to 
+the null hypothesis. Usually, we are interested in the 
+relationship between two variables, x and y. The 
+coefficient of correlation r is one measure of the 
+strength of the relationship. 
+Correlation 
+Coefficient 
+:
+ Usually abbreviated by r, and a number which reflects 
+the strength of the relationship between two variables. It 
+varies between -1 (for a perfect negative relationship) to 
++1 (for a perfect positive relationship). If variables are 
+standardized to have zero mean and a unit standard 
+deviation, then r will also be the slope of the relationship. 
+The value r2 is known as the coefficient of determination; 
+it varies between 0 and 1. The coefficient of determination 
+is loosely interpreted as “the proportion of variance 
+in y which can be explained by x”. 
+Multiple 
+Correspondence 
+Analysis(MCA) 
+:
+ Multiple correspondence analysis applied to the general 
+problem of associations among a set of more than two 
+categorical variables. We shall see that the generalization 
+to more than two variables is neither obvious nor well-
+defined. In other areas of multivariate analysis, such as 
+regression and log linear modelling, the situation is less 
+complicated. The main problem is that the notion of 
+association between two categorical variables is already a 
+complex concept and there are several ways to generalize 
+this concept to more than two variables. 
+Singular Value 
+Decomposition 
+:
+ The Singular Value Decomposition is the fundamental 
+mathematical result for Correspondence Analysis, as it is 
+for other dimension reduction techniques such as principal 
+component analysis, canonical correlation analysis etc. 
+This matrix decomposition expresses any rectangular 
+
+
+--- Page 72 ---
+ 
+ 
+ 
+Correspondence 
+Analysis 
+73 
+-II matrix as a product of three matrices of simple structure, 
+i.e. D/g2928
+/g2879/g2869/g2870⁄ PD/g2913
+/g2879/g2869/g2870⁄ . The columns of the matrices D/g2928
+/g2879/g2869/g2870⁄ and 
+D/g2913
+/g2879
+/g2869 /g2870⁄ are the left and right singular vectors respectively, 
+a
+nd the positive values of the diagonal of P, in descending 
+order are the singular values. The SVD is related to the 
+more well-known eigenvalue- eigenvector decomposition 
+of a square symmetric matrix. If a generalized form of the 
+SVD were defined, where the singular vectors are 
+normalized with weighting by the masses, then the CA 
+solution can also be easily obtained. 
+16.11 SOME USEFUL BOOKS 
+1) Greenacre, M. J. (1984); Theory and applications of Correspondence 
+analysis, London Academic Press. 
+2) Gifi, A. (1990). Nonlinear Multivariate Analysis. Chichester, UK: Wiley. 
+3) Johnson R.A., &WichernD. W. (2002); Applied Multivariate Statistical 
+Analysis, Pearson Education, Inc. 
+4) Manly, B.F.J. (2005), Multivariate Statistical Methods : A Primer, Third 
+edition, Chapman and Hall. 
+5) Rencher, A.C. (2002), Methods of Multivariate Analysis , Second edition, 
+Wiley. 
+6) https://onlinecourses.science.psu.edu 
+7) https://en.wikipedia.org/wiki/Factor_Analysis 
+8) Young, F.W, and R.M Hamer (1987); Multidimensional scaling: History, 
+Theory and Applications, Lawrence Associates Publishers. 
+9) http://www.unesco.org/webworld/idams/advguide/Chapt6_5.htm 
+10) Laura Doey and Jessica Kurta (2011); Correspondence Analysis applied to 
+psychological research, Tutorials in Quantitative Methods for Psychology, 
+2011, Vol. 7(1), Page 5-14. 
+11) Michael S. Lewis-Beck Alan Bryman Tim Futing Liao (Ed.) (2004); The Sage 
+Encyclopedia of Social Science Research Methods Vol. 1, Page 203-205. 
+16.12 ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS 
+Check Your Progress 1 
+1) See Section 16.4.6 
+2) The value of chi square is 219.816 and the value of inertia 0.528. 
+16.13 EXERCISES 
+1) What is Correspondence Analysis? Why do we use Correspondence Analysis? 
+2) What do you understand by multidimensional scaling? How it differ from 
+correspondence analysis. 
+
+
+--- Page 73 ---
+ 
+ 
+ 
+Quantitative Methods-II 
+74 
+3) A sample of 901 individuals was cross classified according to three 
+categories of income and four categories of job satisfaction. The results are 
+given in the following table: 
+Table: Income and Job Satisfaction 
+Income Job Satisfaction 
+Very               Somewhat           Moderately          Very  
+Dissatisfied       Dissatisfied      Satisfied              Satisfied 
+< $ 25,000 
+< $ 25,000 - $ 50,000 
+>$ 50,000 
+42                      62                          184                   207 
+13                      28                          81                     113 
+7                        18                          54                      92 
+Perform a correspondence analysis of these data. Also interpret the results. 
+
+
+--- Page 74 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+75 
+-II 
+UNIT 17 STRUCTURAL EQUATION 
+MODELING 
+ 
+Structure 
+17.0 Objectives 
+17.1 Introduction 
+17.2  History of  Structural Equation Modelling (SEM) 
+17.3 Why do we Conduct Structural Equation Modelling? 
+17.4 Assumptions of SEM 
+17.5 Similarities between Traditional Statistical Methods and SEM 
+17.6 Differences between Traditional Statistical Methods and SEM 
+17.7 Concepts and Terminology used in SEM 
+  17.7.1 Path Diagrams 
+  17.7.2 Classical SEM Notations 
+17.8 SEM Models Spepecification 
+  17.8.1 Based on Reflective Indicators 
+  17.8.2 Based on Formative Indicators 
+  17.8.3 Based on on both Reflective and Formative Indicators 
+17.9 Issues in SEM Tecnique 
+ 17.10.1 Sample Size and Power  
+ 17.10.2 Missing Data  
+ 17.10.3 Multivariate Normality and Outliers 
+17.10 Steps in SEM 
+ 17.10.1 Initial Model Conceptualization  
+ 17.10.2 Model Estimation  
+ 17.10.3 Model Evaluation  
+ 17.10.4 Model Modification 
+ 17.10.5 Reporting the Results 
+17.11 An Example of SEM 
+17.12 Software Programs for SEM 
+ 17.12.1 LISREL   
+ 17.12.2 EQS   
+ 17.12.3 Mplus 
+ 17.12.4 Amos 
+ 17.12.5 Mx 
+ 17.12.6 Others 
+17.13 Advantages and Disadvantages of SEM 
+ 17.13.1 Advantages of SEM 
+ 17.13.2 Disadvantages of SEM  
+17.14 Let Us Sum Up 
+17.15 Key Words 
+17.16 References 
+17.0  OBJECTIVES  
+After going through the unit, you will be able to: 
+• State the meaning and importance of Structural Equation Modeling (SEM); 
+• Describe the basic concepts and terminology of SEM; 
+• Explain why do we conduct the SEM; 
+ 
+
+
+--- Page 75 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+76 
+• Discuss the various models of SEM; 
+• Learn the steps involved in  SEM; 
+• Know the different softwares used in SEM; and 
+• Discuss the advantages and disadvantages of SEM. 
+17.1 INTRODUCTION  
+SEM techniques are considered today to be a major component of applied 
+multivariate statistical analysis and are used by education researchers, 
+economists, marketing researchers, medical researchers, and variety of other 
+social and behavioural scientists.  Although the statistical theory that underlies 
+the techniques appeared decades ago, a considerable number of years passed 
+before SEM received widespread attention it hold today. There are two reasons 
+for the recent attention: (1) the availability of specialized SEM programme and 
+(2) publication of several introductory and advanced text books on SEM.  
+Structural equation modelling (SEM) does not designate a single statistical 
+technique but instead refers to a family of related procedures. SEM is a 
+collection of statistical techniques that allow a set of relations between one or 
+more independent variables (IVs), either continuous or discrete, and one or 
+more dependent variables (DVs), either continuous or discrete, to be examined. 
+Both IVs and DVs can be either measured variables (directly observed), or 
+latent variables (unobserved, not directly observed).  
+ 
+SEM is an attempt to model causal relations between variables by including all 
+variables that are known to have some involvement in the process of interest. It 
+can be viewed as a combination of factor analysis and regression or path 
+
+
+--- Page 76 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+77 
+-II analysis. The interest in SEM is often on theoretical construct, which are 
+represented by the latent factors. The relationship between theoretical construct 
+are represented by regression or path coefficients between the factors. 
+The SEM implies a structure for the covariance between the observed variables 
+which provides the alternative names like Covariance structural model. SEM 
+provides a very general and convenient framework for statistical analysis that 
+includes several traditional multivariate procedure for example, factor analysis, 
+regression analysis, and canonical correlation as special case. Structural 
+Equation Models are often visualized by a graphical path diagram. The 
+statistical model is usually represented in a set of matrix equations. 
+Structural equation models, also called simultaneous equation models, refers to 
+multi equation systems that include continuous latent variables each 
+representing a concept or construct , multiple indicators of a concept or 
+construct that may be continuous, ordinal, dichotomous or censored, errors of 
+measurement and errors in equations. One may also view it as an interrelated 
+system of regression equations where some of the variables (latent or 
+observable) have multiple indicators and where measurement error is taken into 
+account when estimating relationships. From a different point of view, these 
+are factor analysis models in which factor loadings are restricted to zero or 
+some other constants, and the researcher allows factors to influence each other, 
+directly and indirectly. The most general form of the structural equation model 
+includes Analysis of Variance, Analysis of Covariance, Multiple Linear 
+Regression, Multivariate Multiple Regression, Recursive and Non-recursive 
+Simultaneous Equations, Path Analysis, Confirmatory Factor Analysis and 
+many other procedures as special cases.  
+Structural equation modeling (SEM) uses various types of models to depict 
+relationships among observed variables, with the same basic goal of providing 
+a quantitative test of a theoretical model hypothesized by the researcher. More 
+specifically, various theoretical models can be tested in SEM that hypothesize 
+how sets of variables define constructs and how these constructs are related to 
+each other. For example, an educational researcher might hypothesize that a 
+student’s home environment influences her later achievement in school. A 
+marketing researcher may hypothesize that consumer trust in a corporation 
+leads to increased product sales for that corporation. A health care professional 
+might believe that a good diet and regular exercise reduce the risk of a heart 
+attack. 
+In each example, the researcher believes, based on theory and empirical 
+research, sets of variables define the constructs that are hypothesized to be 
+related in a certain way. The goal of SEM analysis is to determine the extent to 
+which the theoretical model is supported by sample data. If the sample data 
+support the theoretical model, then more complex theoretical models can be 
+hypothesized. If the sample data do not support the theoretical model, then 
+either the original model can be modified and tested, or other theoretical 
+models need to be developed and tested. Consequently, SEM tests theoretical 
+models using the scientific method of hypothesis testing to advance our 
+understanding of the complex relationships among constructs. 
+SEM has been defined by different researchers in different ways. 
+According to Holey (1995) it is a comprehensive statistical approach to testing 
+hypotheses about relations among observed and latent variables. 
+
+
+--- Page 77 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+78 
+Rigdon, (1998):  SEM is a methodology for representing, estimating, and 
+testing a theoretical network of (mostly) linear relations between variables. 
+MacCallum & Austin (2000): it tests hypothesized patterns of directional and 
+non directional relationships among a set of observed (measured) and 
+unobserved (latent) variables.  
+So, the term “Structural Equation Model” (SEM) refers to a comprehensive 
+statistical methodology for testing and estimating causal relations using a 
+combination of cross-sectional statistical data and qualitative causal 
+assumptions. Unlike the usual multivariate linear regression model, the 
+response variable in one regression equation in a structural equation model may 
+appear as a predictor in another equation. Indeed, variables in a structural 
+equation model may influence one-another reciprocally, either directly or 
+through other variables. 
+Two goals in SEM are: 
+1)  to understand the patterns of correlation/covariance among a set of 
+variables and 
+2)  to explain as much of their variance as possible with the model specified 
+(Kline, 1998). 
+This is the family tree of SEM 
+ 
+ 
+ 
+
+
+--- Page 78 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+79 
+-II 17.2 HISTORY OF STRUCTURAL EQUATION 
+MODELLING (SEM) 
+To discuss the history of structural equation modelling, it is better to explain 
+the chronological order of following four models: regression, path, 
+confirmatory factor, and structural equation models. 
+The first model  involves linear regression models that use a correlation 
+coefficient and the least squares criterion to compute regression weights. 
+Regression models were made possible because Karl Pearson created a formula 
+for the correlation coefficient in 1896 that provides an index for the 
+relationship between two variables (Pearson, 1938). The regression model 
+permits the prediction of dependent observed variable scores (Y scores), given 
+a linear weighting of a set of independent observed scores (X scores) that 
+minimizes the sum of squared residual error values. Regression analysis 
+provides a test of a theoretical model that may be useful for prediction.  
+Some years later, Charles Spearman (1904, 1927) used the correlation 
+coefficient to determine which items correlated or went together to create the 
+factor model. His basic idea was that if a set of items correlated or went 
+together, individual responses to the set of items could be summed to yield a 
+score that would measure, define, or infer a construct. Spearman was the first 
+to use the term factor analysis in defining a two-factor construct for a theory of 
+intelligence. D.N. Lawley and L.L. Thurstone in 1940 further developed 
+applications of factor models, and proposed instruments (sets of items) that 
+yielded observed scores from which constructs could be inferred. The term 
+confirmatory factor analysis (CFA) is used today based in part on earlier work 
+by Howe (1955), Anderson and Rubin (1956), and Lawley (1958). The CFA 
+method was more fully developed by Karl Jöreskog in the 1960s to test 
+whether a set of items defined a construct. 
+Factor analysis has been used for over 100 years to create measurement 
+instruments in many academic disciplines, while today CFA is used to test the 
+existence of these theoretical constructs.  
+Sewell Wright (1918, 1921, 1934), a biologist, developed the third type of 
+model, a path model. Path models use correlation coefficients and regression 
+analysis to model more complex relationships among observed variables. The 
+first applications of path analysis dealt with models of animal behavior. 
+Unfortunately, path analysis was largely overlooked until econometricians 
+reconsidered it in the 1950s as a form of simultaneous equation modeling (e.g., 
+H. Wold) and sociologists rediscovered it in the 1960s (e.g., O. D. Duncan and 
+H. M. Blalock). In many respects, path analysis involves solving a set of 
+simultaneous regression equations that theoretically establish the relationship 
+among the observed variables in the path model.  
+The final model type is structural equation modeling (SEM). SEM models 
+essentially combine path models and confirmatory factor models, that is, SEM 
+models incorporate both latent and observed variables. The early development 
+of SEM models was due to Karl Jöreskog (1969, 1973), Ward Keesling (1972), 
+and David Wiley (1973). This approach was initially known as the JKW 
+model, but became known as the linear structural relations model (LISREL) 
+with the development of the first software program, LISREL, in 1973. Since 
+then, many SEM articles have been published; for example, Shumow and 
+
+
+--- Page 79 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+80 
+Lomax (2002) tested a theoretical model of parental efficacy for adolescent 
+students. For the overall sample, neighbourhood quality predicted parental 
+efficacy, which predicted parental involvement and monitoring, both of which 
+predicted academic and social-emotional adjustment. 
+Jöreskog and van Thillo originally developed the LISREL software program at 
+the Educational Testing Service (ETS). The first publicly available version, 
+LISREL III, was released in 1976. Later in 1993, LISREL8 was released; it 
+introduced the SIMPLIS (SIMPLE LISREL) command language in which 
+equations are written using variable names. In 1999, the first interactive version 
+of LISREL was released. LISREL8 introduced the dialog box interface using 
+pull-down menus and point-and-click features to develop models, and the path 
+diagram mode, a drawing program to develop models.. The field of structural 
+equation modelling across all disciplines has expanded since 1994.  
+17.3 WHY DO WE CONDUCT STRUCTURAL 
+EQUATION MODELLING? 
+Why is structural equation modelling popular? There are at least four major 
+reasons for the popularity of SEM.  
+The first reason  suggests that researchers are becoming more aware of the 
+need to use multiple observed variables to better understand their area of 
+scientific inquiry. Basic statistical methods only utilize a limited number of 
+variables, which are not capable of dealing with the sophisticated theories 
+being developed. The use of a small number of variables to understand 
+complex phenomena is limiting. In contrast, structural equation modelling 
+permits complex phenomena to be statistically modelled and tested.  
+The second reason  involves the greater recognition given to the validity and 
+reliability of observed scores from measurement instruments. Specifically, 
+measurement error has become a major issue in many disciplines, but 
+measurement error and statistical analysis of data have been treated separately. 
+Structural equation modelling techniques explicitly take measurement error 
+into account when statistically analyzing data.  
+The third reason  pertains the ability to analyze more advanced theoretical 
+SEM models. For example, group differences in theoretical models can be 
+assessed through multiple-group SEM models. In addition, analyzing educational 
+data collected at more than one level—for example, school districts, schools, and 
+teachers with student data—is now possible using multilevel SEM modelling. 
+These advanced SEM models and techniques have provided many researchers 
+with an increased capability to analyze sophisticated theoretical models of 
+complex phenomena, thus requiring less reliance on basic statistical methods. 
+Finally, SEM software programs have become increasingly user friendly. For 
+example, until 1993 LISREL users had to input the program syntax for their 
+models using Greek and matrix notation. Today, most SEM software programs 
+are Windows-based therefore, the SEM software programs are now easier to 
+use and contain features similar to other Windows-based software packages.  
+17.4 ASSUMPTIONS OF SEM  
+Four basic  assumptions must be met for SEM to be appropriate. These are: 

@@ -1,0 +1,507 @@
+--- Page 21 ---
+21
+Research Methodology:
+Conceptual FoundationUNIT 2 APPROACHES TO SCIENTIFIC
+KNOWLEDGE: POSITIVISM AND
+POST POSITIVISM
+Structure
+2.0 Objectives
+2.1 Introduction
+2.2 Positivist Philosophy of Science
+2.2.1 Central Tenets of Positivist Philosophy
+2.3 Attack on Positivist Philosophy of Science
+2.4 Karl Popper’s Philosophy of Science
+2.5 Criticism against Karl Popper’s Philosophy of Science
+2.6 Thomas Kuhn’s Philosophy of Science
+2.7 Popper Versus K
+uhn
+2.8 Let Us Sum Up
+2.9 Keywords
+2.10 Some Useful Books
+2.11 Answer or Hints to Check Your Progress Exercises
+2.0 OBJECTIVES
+After going through this unit, you will be able to:
+• Describe the aim of science as a cognitive enterprise;
+• Explain the basic ideas of positivism;
+• Appreciate the arguments or criticisms leveled against positivist philosophy
+of science;
+• Explain the central tenets of Popper’s philosophy of science;
+• State the fundamental differences between Popper’s and positivists’ views
+about theory of scientific method;
+• Assess Karl Popper’s philosophy of science;
+• Describe the essentials of Kuhn’s philosophy; and
+• Discuss the basic differences between the Popperian and the Kuhnian models
+of science.
+2.1 INTRODUCTION
+Science has not only shaped our mode of living in the world but also our ways of
+thinking about the world. It is for this reason it has acquired a central place in the
+intellectual life of our times. Because of its central place in the modern culture,
+three disciplines have emer ged which has made science itself their object of
+inquiry. These three disciplines are: History of Science, Sociology of Science
+and Philosophy of Science. Whereas science studies the world natural or social
+
+
+--- Page 22 ---
+22
+Research Methodology:
+Issues and Perspectives
+or psychological, these three disciplines study science itself. History of Science
+and Sociology of Science are essentially twentieth century disciplines. No doubt,
+Philosophy of Science has a great past built by the contributions of individual
+philosophies in different centuries. However, as a widespread and coordinated
+discipline, it is also an essentially twentieth century phenomenon.
+History of Science is a study of the development of scientific ideas and institutions
+in a chronological order. Sociology of Science is the study of the relation between
+social factors and forces on the one hand and the growth of scientific ideas and
+institutions, on the other. In short, it is an inquiry into the relation between science
+and society. History of Science deals with science as a historical phenomenon
+and sociology of science is concerned with science as a social institution.
+Philosophy of Science is a study of Science as a cognitive enterprise, that is, as a
+knowledge-seeking activity. The enquiry we call Philosophy of Science addresses
+questions like “What is the aim of Science?”, “What is the method of Science?”
+In what sense, if any, is Science objective, rational and progressive?”
+It is obvious that answers to questions such as these are of importance in figuring
+out how if at all, and in what sense, if any, social sciences including Economics,
+can claim to be scientific.
+2.2 POSITIVIST PHILOSOPHY OF SCIENCE
+Positivism (which is also called “logical positivism”) is a movement in Philosophy
+of the first half of the 20th century. Positivists debunked the whole of traditional
+Philosophy by attacking Metaphysics which was the most important branch of
+Philosophy. Metaphysics was so central to Philosophy that Philosophy was
+virtually identified with Metaphysics. Metaphysics sought to answer most general
+and basic questions like “What is Ultimate Reality?” “Does God exist? And is
+so what is God’ s relation with the world?”, “Is there a soul?”, “What is the
+relation between the mind and the body?”, “Is man free or are human actions
+determined?” etc., Positivists maintained that Metaphysics was a spurious
+discipline because metaphysical statements (such as “Matter is Ultimate reality”
+or “Ultimate Reality is Spiritual” etc.,) are meaningless since they are not
+verifiable in experience. “A statement” they claimed “is meaningful if and only
+if it is verifiable.” Apart from being anti-metaphysical, they were empiricists
+i.e., according to them, experience is the source of knowledge. They called
+themselves “Neo-Empiricists” to distinguish themselves from the Traditional
+Empiricists of 17th and 18th centuries like Locke, Berkeley and Hume.
+2.2.1 Central Tenets of Positivist Philosophy
+In science we start with particular observations regarding what is the case. Using
+the method of induction, we arrive at definitions which are statements about the
+essential nature of things. We, then, using the method of deduction, on the basis
+of definitions, arrive at demonstrations which show why things must be what
+they are. Thus, the aim of science is two fold: Definition and Demonstration.
+The method of science, broadly, is of two types: Induction and Deduction. All
+science must proceed from “What is” given to us in particular observations to
+“what must be” as shown by the demonstrations. The path of science is an arch
+whose two end points are observation and demonstration.
+
+
+--- Page 23 ---
+23
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+In the whole span of three centuries – from the beginning of the 17th century till
+the end of the 19th century – two views stand out prominently as answer to the
+question regarding the aim and method of science. The first view is called
+Induction. The second view is called Hypothesisism, according to which the
+method of science is the method of Hypothesis. Francis Bacon is the Father of
+Inductivism and Rene Dercartes is the Father of Hypothesisism. The two views
+provide two distinct models of scientific practice, which we may call Baconian
+and Cartesian models of Scientific practice.
+Positivists worked out a well-knit philosophy of science. Here are some of the
+central tenets of the Positivist Philosophy of Science:
+1) Science is qualitatively distinct from, superior to and ideal for all other
+areas of human endeavor (Scientism).
+2) The distinction, superiority and idealhood that Science enjoys is traceable
+to its possession of method (Methodologism).
+3) There is only one method common to all sciences, irrespective of their subject
+matter (Methodological monism).
+4) That method which is common to all sciences, natural or human, is the
+method of Induction (Inductivism).
+5) The hallmark of science consists in the fact that its statements are
+systematically verifiable.
+6) Scientific observations are or can be shown to be “pure” in the sense that
+they are theory-free.
+7) The theories are winnowed from facts or observations.
+8) The relation between observation and theory is unilateral in the sense theories
+are dependent on observations whereas observations are theory-independent.
+9) To a given set of observation based statements, there corresponds uniquely
+only one theory (just as from a given set of premises in an argument, only
+one conclusion follows).
+10) Our factual judgments are value-neutral and our value judgments have no
+factual content (Fact-Value Dichotomy thesis); hence, science being the
+foremost instance of factual inquiry, does not have value commitments.
+11) That all scientific explanation must have the following pattern:
+L1…………………………………….Ln
+I2……………………………………….In
+Therefore, E.
+Where L1……………………………………..Ln is a set of laws, I2………………………………In is a
+set of statements describing initial conditions and E is the statement
+describing phenomenon to be explained. That is to say , to explain a
+phenomenon scientifically is to deduce its description from a set of laws
+(which are called “Covering Laws”) via a set of statements describing initial
+conditions. In sum, all explanation worthy to be called ‘ scientific’ must
+contain laws and involve deduction (Hence, this is called Deductive-
+Nomologism where ‘nomological’ means ‘concerning laws’).
+
+
+--- Page 24 ---
+24
+Research Methodology:
+Issues and Perspectives
+12) The aim of science is either economical description of phenomena or precise
+prediction of facts and not providing an account of observations in terms of
+unobservables. Hence, scientific theories are not putative descriptions of
+the unobservable world. The aim of science has nothing to do with alleged
+reality of such a world (Anti-Realism).
+13) Unlike other areas of activity, science is progressive in the sense that scientific
+change is always change for better, whereas other areas exhibit just change:
+the progress of science consists in the accumulation of observations on the
+one hand, and, cumulative growth of theories,on the other hand. The latter
+means that any new theory includes the old theory(plus something). Thus
+the growth of science essentially exhibits continuity.
+14) Science is objective in the sense that its theories are based on ‘pure’
+observations or facts which as theory free. Interpretations may be subjective
+but observations/facts are objective because they are free from interpretation/
+theory.
+15) Science is rational because the principle of Induction which is central to the
+method of science is rationally defensible, in spite of Hume’ s skepticism
+regarding its rational defensibility.
+Positivists tried to justify the principle of Induction by invoking the concept of
+pure observation. According to them, theories are arrived at on the basis of the
+Principle of Induction. If we can show that theories are very closely related to
+pure observations, the Principle of Induction stands rationally justified. They
+tried to work out a whole project to demonstrate rational justification of the
+Principle of Induction on these lines.
+2.3 ATTACK ON THE POSITIVIST PHILOSOPHY
+OF SCIENCE
+It must be noted that the concept of pure observation is necessary for positivist
+philosophy of science for showing that science is objective and that science is
+rational. Hence, the centrality of this concept to the positivist philosophy of
+science. Therefore, the collapse of this concept to the positivist philosophy of
+science though other theses of positivist philosophy of science listed above also
+were demolished by its opponents. Let us briefly look at the ar guments which
+demolished the positivist thesis of pure observations i.e., thesis at Sl.No.6 in the
+list above.
+Firstly, observations presuppose some principle of selection. We need relevant
+observations. In science it is the problem that decides what is a relevant
+observation and thus provides the principle of relevance. Hence, there can not
+be observations without a – prior problem.
+As Popper says “Before we can collect data, our interest in data of a certain kind
+must be aroused; the problem always comes first”. It may be objected that we
+become aware of the problems because of observations and hence observations
+come first and therefore positivists are right. But this objection does not hold.
+Two persons might make same observations but one may come out with a problem
+and the other may not. Therefore, mere observations would not generate problems
+in science. Usually problems are generated when there is a clash between what
+
+
+--- Page 25 ---
+25
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+we observe and what we expect. Of the two persons making the same observations,
+one comes out with a problem because he sees a conflict between what he observes
+and what he expects whereas the other observer may have not expectation which
+conflicts with what he observes. The former believes in a theory which produces
+certain expectations which conflict with his observations and hence he comes
+out with a problem. In other words, a – prior belief in a theory is necessary for a
+problem to be generated and a – prior awareness of the problem is necessary for
+making relevant observations. Thus, theory precedes observations.
+Secondly, in science observations are taken into account only if they are described
+in a language that is currently used in a particular science. An observation,
+however, genuine, is no observation unless it is expressed in a recognized idiom.
+It is the theory which provides the idiom or language to be used to describe facts
+or observations. It is relevant to quote the words of Pierre Duhem, a distinguished
+physicist and philosopher:
+“Enter a laboratory. The table crowded with an assortment of apparatus: an electric
+cell, silk covered copper wire, small cups of mercury, spools, a mirror mounted
+on an iron bar; the experimenter is inserting into small openings the metal ends
+of ebony-headed pins: the iron bar oscillates and the mirror attached to it throws
+a luminous band upon a celluloid scale: the forward backward motion of this
+spot enables the physicist to observe the minute oscillations of the iron bar. But
+ask him what he is doing. Will he answer “I am studying the oscillations of an
+iron bar which carries a mirror?” No, he will say that he is measuring the electrical
+resistance of the spools. If you are astonished, if you ask him what his words
+mean, what relation they have with the phenomenon he has been observing and
+which you have noted at the same time as he, he will answer that your question
+requires a long explanation and that you should take a course in electricity”.
+Thirdly, most of the observations in science are made with the help of instruments.
+These instruments are constructed or designed in accordance with the
+specifications provided by some theories. These theories, one may say, form the
+software of these instruments. Belief in the reliability of these instruments implies
+the acceptance of these theories which has gone into the making of these
+instruments. This observations presuppose prior acceptance of theories.
+Fourthly, observations in science need to be legitimized i.e., ratified by a theory.
+An example makes the point clear. We all know that Galileo used some telescopic
+observations to support the Helio-centric theory against the geo-centric theory
+of Ptolemy and his followers. His opponents did not consider the telescopic
+observations adequate. Why did they not? No doubt, they had belief in the
+reliability of telescope; they had no problem in using telescope for terrestrial
+purposes i.e., making observations of earthly objects. They opposed the extension
+of telescopic observations to the celestial sphere i.e., regarding heavenly bodies.
+Their argument was that the normal factors like background and neighbourhood
+which help our normal perceptions are absent in the sky. Further, it is impossible
+to directly verify whether telescopic observations of heavenly bodies are accurate.
+They rightly demanded from Galileo a theory of light which would justify the
+extension of the telescope from terrestrial to celestial sphere. Galileo had no
+such theory. But he rightly believed that such a theory could be provided in
+future so that telescopic observations would get justification. Thus, while the
+opponents of Galileo insisted that the telescopic observations be justified by an
+
+
+--- Page 26 ---
+26
+Research Methodology:
+Issues and Perspectives
+optical theory at the same time as their acceptance, Galileo maintained that the
+justification could be provided subsequent to their acceptance. It may be noted
+that both sides accepted that the telescopic observations needed justification in
+term of a theory of light.
+All this does not mean that observations are theory-dependent whereas theories
+are observation-independent. Observations and theory are interdependent though
+it is not easy to clarify what the nature of this interdependence is. However ,
+positivists were wrong in claiming that observations are theory –independent.
+To say that observations are theory dependent is to say that observation is not a
+passive reception but an active participation of our cognitive faculties equipped
+with prior knowledge which we call theory. After all, observations are not ‘given’
+but ‘made’.
+Check Your Progress 1
+1) What is the aim of science?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) What do you mean by the term ‘inductivism’?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3) What are the features of hypothesis?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+4) Match the following:
+A B
+i) The relation between observation i) Value judgments
+and theory
+ii) Factual inquiry under positivist ii) Precise prediction of facts
+approach does not have
+iii) The aim of Science is iii) Objective
+iv) Science is iv) Unilateral
+
+
+--- Page 27 ---
+27
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+5) Give two counter arguments against the positivist thesis of pure observation.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2.4 KARL POPPER’S PHILOSOPHY OF SCIENCE
+Karl Popper was the first to react against the positivist philosophy of science. In
+fact he started attacking it quite early . But his attack on positivists and his
+alternative to the positivist philosophy of science came to be widely known at
+the beginning of the second half of the 20th century. Popper’s theory of science,
+particularly his theory of scientific method has won a lot of admirers among
+scientists and philosophers. As we know , positivists tried to work out a
+sophisticated version of Inductivism . Popper worked out a sophisticated
+version of Hypothesisism. We shall briefly consider his views on the nature of
+science.
+According to Popper , the central task of philosophy is not to solve Hume’ s
+problem or problem of Induction as thought by Positivists. This is because (1)
+the problem of Induction cannot be solved, and (2) it need not be solved because
+the method of science is not the method of Induction. The central task of
+philosophy of science, Popper maintains, is to solve what he calls the problem of
+demarcation or Kant’ s problem i.e., the problem of identifying the line of
+demarcation between science and non-science. Popper maintains that what
+distinguishes science fr om the r est of our  knowledge is the systematic
+falsifiability of scientific theories. This falsifiability is the line of demarcation
+between science and non-science. Falsifiability is the criterion of scientificity. A
+statement is scientific if and only it is falsifiable.
+In accordance with what he considers to be the hallmark of scientific theories,
+Popper puts forward what he considers to an adequate model of scientific method.
+He characterizes his model of scientific method as Hypothetico-Deductive
+model. According to him, the method of science is not method of Induction but
+the method of Hypothetico-Deduction. What are the fundamental differences
+between these methodological models”? Firstly, the inductivist model maintains
+that our observations are theory-independent and therefore are indubitable.
+That is to say , since observations ar e theor y-independent, they have
+probability Value 1. It also says that our theories are only winnowed from
+observations and therefore our scientific theories have the initial probability
+value 1 in principle. Of course, inductivists admitted that in actual practice, the
+theories may contain something more than what observation based statements
+say, with the result that our actual theories may not have been winnowed from
+observations.
+Hence, the need for verification arises. Popper rejects the inductivist view that
+our observations are theory-free and hence rejects the idea that our observation
+statements have probability equal to 1. More importantly , he maintains that
+theories are not winnowed from observations or facts, but are free creations of
+human mind. Our scientific ideas, in other words, are not extracted from our
+observations; they are pure inventions. Since our theories ar e our  own
+
+
+--- Page 28 ---
+28
+Research Methodology:
+Issues and Perspectives
+constructions, not the functions of anything like pur e observations, which
+according to Popper are anyway myths, the initial probability of our scientific
+theories is zero.
+From this it follows that whereas according to the inductivists what scientific
+tests do is to mrely find out whether our scientific theories are true, according to
+Popper scientific tests cannot establish the truth of scientific theories even when
+the tests give positive results. If a test gives a positive result, the inductivists
+claim that the scientific theory is established as true, whereas according to Popper
+all that we calim is that our theory has not yet been falsified. In Popper’s scheme
+no amount of positive result of scientific testing can prove our theories. Whereas
+the inductivists speak of confirmation of our theories in the face of positive
+results of the tests, Popper only speaks of corroboration. In other words, in the
+inductivist scheme we can speak of scientific theories as established truths,
+whereas in the Popperian scheme, a scientific theory, however, well supported
+by evidence remains permanently tentative. We can bring out the fundamental
+difference between verificationism (inductivism) and falsificationism
+(Hypothetico-Deductivism) by drawing on the analogy between two systems of
+criminal law. According to one system, the judge has to start with the assumption
+that the accused is innocent and consequently unless one finds evidence against
+him, he should be declared innocent. According to the other , the judge has to
+start with the assumption that the accused is a culprit and consequently, unless
+evidence goes in his favour, he should be declared to be a culprit. Obviously the
+latter system of criminal law is harsher than the former. The inductivist scheme
+is analogous to the former kind of criminal law , where as the Hypothetico-
+Deductive scheme is akin to the latter one.
+The steps of Scientific Procedure
+In the Popperian scheme we begin with a problem, suggest a hypothesis as a
+tentative solution, try to falsify our solution by deducing the test implications of
+our solution, try to show that the implications are not borne out and consider our
+solution to be corroborated if repeated attempts to falsify it fail. Thus, problem,
+tentative solution, falsification and corroboration constitute the steps of scientific
+procedure. Popper ’s theory of scientific method is called Hypothetico-
+Deductivism because, according to him, the essence of scientific practice consists
+of deducing the test implications of our hypothesis and attempting to falsify the
+latter by showing that the former do not obtain, whereas according to Inductivism
+the essence of scientific practice consists of searching for instances supporting
+the generalization arrived on the basis of some observations and with the principle
+of induction.
+Popper claims that the Hypothetico-Deductive model of scientific method is
+superior to inductivist model for the following reasons:
+Firstly, it does justice to the critical spirit of science by maintaining that the aim
+of scientific testing is to falsify our theories and by maintaining that our scientific
+theories are, however corroborated, going to permanently remain tentative. In
+other words, the Hypothetico-Deductivist view presents scientific theories as
+permanently vulnerable with the sword of possible falsification always hanging
+on their head. The inductivist view of scientific method makes science a safe
+and defensive activity by portraying scientific testing as a search for confirming
+instances and by characterizing scientific theories as established truths. According
+
+
+--- Page 29 ---
+29
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+to Popper, the special status accorded to science is due to the fact that science
+embodies an attitude which is essentially open-minded and anti-dogmatic.
+Hypothetico-Deductivism is an adequate model of scientific practice because it
+gives central place to such an attitude.
+Secondly, Popper thinks that if science had followed the inductivist path; it would
+not have made the progress it has. Suppose a scientist has arrived at a
+generalization. If he follows the inductivist message, he will go in search of
+instances which establish it as a truth. If he finds an instance which conflicts
+with his generalization, what he does is to qualify his generalization saying that
+the generalization is true except in the cases where it has to be held unsupported.
+Such qualifications impose heavy restrictions on the scope of the generalization.
+This results in scientific theories becoming extremely narrow in their range of
+applicability. But if a scientist follows the Hypothetico-Dedectivist view, he will
+throw away his theory once he comes across a negative instance instead of pruning
+it and fitting it with the known positive facts. Instead of being satisfied with a
+theory, tailored to suit the supporting observations, he will look for an alternative
+which will encompass not only the observations which supported the old theory
+but also the observations which went against the old theory and more importantly
+which will yield fresh test implications. The theoretical progress science has
+made can be explained only by the fact that science seeks to come out with
+bolder and bolder explanations rather than taking recourse to the defensive method
+of reducing the scope of the theories to make them consistent with facts. Hence,
+Popper claims that the Hypothetico-Deductive model gives an adequate account
+of scientific progress. According to him, if one accepts the inductivists account
+of science one fails to give any explanation of scientific progress.
+Thirdly, the Hypothetico-Deductive view according to Popper avoids the
+predicament encountered by inductivist theory in the face of Hume’s challenge.
+As we have seen, Hume conclusively showed that the principal of induction
+could not be justified on logical grounds. If Hume is right, than science is based
+upon an irrational faith. According to Hypothetico-Deductivist view , science
+does not use the principle of induction at all. Hence, even though Hume is right,
+it does not matter since science follows the Hypothetico-Deductivism are so
+radically different that the latter in no way face any threat akin to the one faced
+by the former. In this connection, he draws our attention to the logical asymmetry
+between verification, the central component of the inductivist scheme, and
+falsification, the central component of the Hypothetico-Deductivist scheme. They
+are logically asymmetrical in the sense that one negative instance is suf ficient
+for conclusively falsifying a theory, whereas no amount of positive instances are
+sufficient for conclusively falsifying a theory , whereas no amount of positive
+instances are sufficient to conclusively verify a theory. It may be recalled that
+Hume was able to come out with the problem of induction precisely because a
+generalization (all theories according to Inductivism are generalizations) cannot
+be conclusively verified.
+How does Popper characterize scientific progress? According to him, one finds
+in the history of science invariable transitions from theories to better theories.
+What does the work ‘better ’ stand for? It may be recalled that, according to
+Popper, no scientific theory, however, corroborated can be said to be ‘true’. Hence,
+Popper drops the very concept of truth and replaces it by the concept of
+Verisimilitude (truth-likeness or truth-nearness) in his characterization of the
+
+
+--- Page 30 ---
+30
+Research Methodology:
+Issues and Perspectives
+goal of science. In other words, through science cannot attain truth, i.e., though
+our theories can never be said to be true, science can set for itself the goal of
+achieving higher and higher degrees of Verisimilitude, i.e., successive scientific
+theories can progressively approximate to truth. So, in science we go from theory
+to better theory and the criterion for betterness is Verisimilitude. But what is the
+criterion for Verisimilitude? The totality of the testable implications of a
+hypothesis constitutes what he calls ‘the empirical content’ of the hypothesis.
+The totality of the testable implications which are borne out constitute the truth
+content of the hypothesis and the totality of the testable implications which are
+not borne out is called the falsity content of the hypothesis. The criterion of the
+Verisimilitude of a theory is nothing but truth content minus the falsity content
+of a theory. In the actual history of science we always find, according to Popper,
+theories being replaced by better theories, that is, theories with higher degree of
+Verisimilitude. In other words, of the two successive theories, at any time in the
+History of Science, we find the successor theory possessing greater Verisimilitude
+and is therefore better than its predecessor. In fact, according to him, a theory is
+rejected as false only if we have an alternative which is better than the one
+at hand in the sense that it has more testable implications and a greater number
+of its testable implications are already borne out. The growth of science is
+convergent in the sense that the successful part of the old theory is retained in the
+successor theory with the result the old theory becomes a limiting case of the
+new one. The growth of science thus shows continuity. In other words, it is the
+convergence of the old theory into the new one that provides continuity in the
+growth of science. It must also be noted in this connection that unlike the
+Inductivists or Positivists, Popper is a Realist  in the sense, according to him,
+scientific theories are about an unobservable world. This means that the real
+world of the unobservable thought can never be captured entirely by our theories,
+evidence that through the gap between Truth and our theories can never be
+completely filled, it can be progressively reduced. Consequently, the real world
+of unobservable will be more and more like what our theories say though not
+completely so.
+How does Popper establish the objectivity of scientific knowledge? Inductivists
+sought to establish the objectivity of science by showing that scientific theories
+are based upon pure observations. The so-called ‘pure’  observations were
+supposed to be absolutely theory-free. They are only ‘given’  and hence, free
+from subjective interpretations. Popper, as we have seen, rightly rejects the idea
+of pure observations. Consequently, he cannot accept the inductivist account of
+the objectivity of science. What engenders scientific objectivity, according Popper,
+is not the possibility of pure observation, but the possibility of inter-subjective
+testing. In short, science is objective because it is public and it is public because
+its claims are inter-subjectively testable.
+To the question, “Which comes first, observation or theory?” the Inductivist
+answers ‘observation’. Popper answers ‘earlier observation or earlier theory’.
+To him the question is as illegitimate as the question, “which comes first, egg or
+hen?” which can be answered only by saying ‘earlier egg or earlier hen?’
+It will be convenient if we list the main theses of Popper’s philosophy of science
+arranged in a manner with our list of the theses of the positivist philosophy of
+science:

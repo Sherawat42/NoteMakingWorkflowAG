@@ -1,0 +1,417 @@
+--- Page 1 ---
+MEC-109
+Research Methods
+in Economics
+QUALITATIVE METHODS
+UNIT 18
+Participatory Method 5
+UNIT 19
+Content Analysis 21
+UNIT 20
+Action Research 37
+Block
+5
+Indira Gandhi
+National Open University
+School of Social Sciences
+
+
+--- Page 2 ---
+Prof. D.N. Reddy
+Rtd. Professor of Economics
+University of Hyderabad, Hyderabad
+Prof. Harishankar Asthana
+Professor of Psychology
+Banaras Hindu University, Varanasi
+Prof. Chandan Mukherjee
+Professor and Dean
+School of Development Studies
+Ambedkar University, New Delhi
+Prof. V.R. Panchmukhi
+Rtd. Professor of Economics
+Bombay University and Former
+Chairman ICSSR, New Delhi
+Prof. Achal Kumar Gaur
+Professor of Economics
+Faculty of Social Sciences
+Banaras Hindu University, Varanasi
+Prof. P.K. Chaubey
+Professor, Indian Institute of Public
+Administration, New Delhi
+Shri S.S. Suryanarayana
+Rtd. Joint Advisor
+Planning Commission, New Delhi
+Expert Committee
+Prof. Romar Korea
+Professor of Economics
+University of Mumbai
+Mumbai
+Dr. Manish Gupta
+Sr. Economist
+National Institute of Public
+Finance and Policy
+New Delhi
+Prof. Anjila Gupta
+Professor of Economics
+IGNOU, New Delhi
+Prof. Narayan Prasad (Convenor)
+Professor of Economics
+IGNOU, New Delhi
+Prof. K. Barik
+Professor of Economics
+IGNOU, New Delhi
+Dr. B.S. Prakash
+Associate Professor in Economics
+IGNOU, New Delhi
+Shri Saugato Sen
+Associate Professor in Economics
+IGNOU, New Delhi
+Print Production
+Mr. Manjit Singh
+Section Officer (Pub.)
+SOSS, IGNOU, New Delhi
+October, 2015
+ Indira Gandhi National Open University , 2015
+ISBN-978-81-266-
+All rights reserved. No part of this work may be r eproduced in any form, by mimeograph or any other
+means, without permission in writing fr om the Indira Gandhi National Open University .
+Further information on Indira Gandhi National Open University courses may be obtained fr om the
+University's office at Maidan Gar hi. New Delhi-1 10 068.
+Printed and published on behalf of the Indira Gandhi National Open University , New Delhi by the
+Director, School of Social Sciences.
+Laser Typeset by : Tessa Media & Computers, C-206, A.F.E.-II, Okhla, New Delhi
+Printed at :
+Course Coordinator and Editor: Prof. Narayan Prasad
+Block Preparation Team
+Units Resource Person
+18 Prof. Shalina Mehta
+Professor
+Department of Anthropology
+Panjab University
+Chandigarh
+19-20 Prof. H.S. Asthana
+Professor
+Department of Psychology
+Banaras Hindu University
+Varanasi
+IGNOU Faculty
+(Format, Language and Conent Editing)
+Prof. Narayan Prasad
+Professor of Economics
+IGNOU, New Delhi
+Prof. Narayan Prasad
+Professor of Economics
+IGNOU, New Delhi
+
+
+--- Page 3 ---
+BLOCK 5 QUALITATIVE METHODS
+As explained in Block 1 of this course, the major dif ference between the
+quantitative approach and qualitative approach is not the type of data used or
+preferred but is much broader and deeper. The quantitative research is associated
+with positivist and post-positivist paradigm whereas qualitative research is
+associated with interpretative paradigm and critical theory paradigm.
+Notwithstanding with the debate about quantitative research vs. qualitative
+research, a researcher may use either quantitative methods or qualitative methods
+or mixed methods blending the techniques of the two. In Block 3 and 4 we have
+covered various quantitative methods of data analysis. In this block you will
+find the qualitative methods exclusively associated with interpretative paradigm
+and critical theory paradigm. This block comprises of 3 units.
+Unit 18  on Participatory Method throwing light on the limitations of the
+methods to collect quantitative data either through primary survey or secondary
+sources covers the various tools and techniques used in collection and analysis
+of qualitative data under participatory method and its advantages.
+Unit 19 on Content Analysis deals with the conceptual and methodological
+issues related to content analysis as a research method to undertake research
+studies in social sciences in general and in economics in particular.
+Unit 20 entitled Action Research throws light on Action Research as an offshoot
+to emancipatory method associated with critical theory paradigm wherein
+knowledge is generated in the process of knowing through doing rather through
+conceptualization and theorizing. This unit covers the various models of action
+research and the different steps involved in conducting action research.
+
+
+--- Page 4 ---
+4
+Qualitative Methods
+
+
+--- Page 5 ---
+5
+Participatory Method
+UNIT 18 PARTICIPA TORY METHOD
+Structure
+18.0 Objectives
+18.1 Introduction
+18.2 What is Participatory Research?
+18.3 Methods of Participatory Research: Observation Method
+18.3.1 Participant Observation
+18.3.2 Non-Participant Observation
+18.3.3 Quasi-participant Observation
+18.4 Focused Interview
+18.5 Oral Histories
+18.6 Life History
+18.7 Case Study Method
+18.8 Narratives
+18.9 Focus Group Discussion
+18.10 Grounded Theory
+18.10.1 Data Sources and Sampling
+18.10.2 Subjectivity
+18.10.3 Transcription
+18.11 Analysis of Qualitative Data
+18.12 Report Writing
+18.13 Criticism of Participatory Methods
+18.14 Advantages of Participatory Research
+18.15 Let Us Sum Up
+18.16 Key Words
+18.17 Some Useful Books/Readings
+18.18 Answers or Hints to Check Your Progress Exercises
+18.0 OBJECTIVES
+After going through this Unit, you will be able to:
+• state the concept of participatory research;
+• state the distinction between data collection and data generation;
+• explain the various tools of participatory research;
+• discuss the grounded theory as a method of inductive theorising;
+• identify the various steps involved in the analysis of qualitative data;
+• pinpoint the major criticisms against participatory methods; and
+• draw the lessons for participatory researchers.
+
+
+--- Page 6 ---
+6
+Qualitative Methods
+18.1 INTRODUCTION
+As discussed in Unit 6, traditionally two approaches – quantitative research
+associated with post positivist paradigm and qualitative research associated with
+interpretative paradigm have been followed in undertaking research in social
+sciences. The researchers working in the area of economics (both in micro and
+macro) generally rely upon the inferences drawn from the large pool of data. The
+data for these studies are collected either by the data compiling agencies or by
+the individuals hired for data collection without involvement of individual
+researchers in the field. The results of such quantitative research are insensitive
+to context and ignore the people’ s voices or their views about which studies
+have been undertaken. Instead researcher’s opinion is imposed on what people
+say and want. The collection of quantitative data through sampling survey and
+its analysis involving several steps is time consuming. In the situation of natural
+calamities and disasters like tsunami, we cannot wait for the outcome of
+quantitative research. Further, quantitative research has not been very effective
+in evaluation of poverty alleviation schemes and programmes. In such situation,
+alternative method i.e. participatory method is increasingly being used in social
+sciences to generate and analyse the data.
+Hence, in this unit, we shall take up the various issues related to participatory
+methods like concept of participatory research, the various tools to collect
+qualitative data, analysis of qualitative data, advantages, limitations and important
+lessons for participatory research etc. Let us begin with explanation of the concept
+of participatory research.
+18.2 WHAT IS PARTICIPA TORY RESEARCH?
+The fundamental premise of participatory research involves the direct participation
+of researcher in the process of data generation. Important distinction is made
+here between data collection and data generation. When data is collected by an
+agency on lar ge sample populations, standardizations are made with the
+assumption that all those being interviewed will understand and respond to the
+questions in the manner in which the primary researcher has conceptualized it.
+In the field situation this may or may not be the case. Each field researcher
+asking those questions may convey a different meaning and the respondent may
+give answer that may not fit into any of the standard categories, but the field
+researcher will reduce the answer and fit it in any of the given categories in a
+structured schedule. Hence, the results obtained may not necessarily reflect the
+market sentiments or the opinion of the people involved in the study. It is for this
+reason that this process of procuring data using survey method and questionnaire
+is called data collection.
+In participatory research, the primary researcher is always in contact with the
+respondent and has a face-to-face interaction. If the researcher thinks that the
+respondent has not understood the query , he has the freedom to change the
+language or reconstruct his probe question or collect information from other
+indirect source. In this approach called data generation, the researcher has the
+flexibility to generate multiple answers to a single query and then use his/her
+interpretative skills to draw inference or meaning out of it to arrive at a
+generalization. In participatory method of data generation, the process of data
+
+
+--- Page 7 ---
+7
+Participatory Methodcollection and analysis proceeds simultaneously , making it more reliable and
+presenting plurality of responses and possibilities. It is this flexibility and its
+ability to generate reliable generalizations that participatory methods of research
+have acquired importance in research methodology being used by present day
+economists.
+Let us first try and understand what participatory research is and how and where
+it began? Methods of participatory research first find mention in anthropological
+empirical research commonly known as ethnography. Ethnography is defined as
+a method used to generate qualitative data from an insider’s perspective known
+as EMIC view. In simple terms it implies that the people about whom we are
+writing, must tell their stories and the researcher simply interprets them as “thick
+description” (Geertz, 1973). People’s voices are critical to research instead of
+researcher’s imposition of his opinion on what people say and want.
+18.3 METHODS OF PARTICIPA TORY RESEARCH:
+OBSERV A TION METHOD
+Bronislaw Malinowski is regarded as the founding father of this methodology.
+He described this method as “participant observation”. He stayed for more than
+three years among the “Trobriand Islanders” and described their lifeway’s in a
+classic ethnographic work titled Argonauts of Western Pacific first published in
+1922. Methods of participatory research in the last ninety years or more have
+been defined and redefined in many dif ferent ways. Malinowski’s method of
+participant observations demands the researcher ’s stay in the field area for
+prolonged periods and become a part of the society that he/she is researching.
+Later researchers realized that it was always not possible to stay for extended
+duration  (from three months to three years and in some cases even longer) in the
+field and some problems can require immediate and urgent interventions. Another
+critique of participant observation is that an interviewer is always an outsider
+and even when he lives at a particular field site for long periods, there is no
+guarantee that the community will view him as an insider and share every aspect
+of their private lives with the researcher.
+Nonetheless, none of these limitations influenced the importance of using
+observations as one of the most important tools of participatory researches. Balki
+(2009:206) calls it as “qualitative method par excellence”. Bryman (1998, 47-9)
+puts forward a case for method of observation by saying that it is not a single
+method but can combine several ways of doing observations. Given the significance
+of method of observation, the techniques went in for some modifications. There
+are three important ways of doing observations that are now recognized: (i)
+Participant Observations, (ii) Quasi-Participant Observations, (iii) Non-
+Participant Observations.
+18.3.1 Participant Observations
+Uncontrolled Participant observation is defined by Goode & Hatt (1981: 121) as
+a procedure in which “the investigator can so disguise himself as to be accepted
+as a member of the group”. When researchers live at a field site for long duration,
+the assumption is that they are regarded as member of the community or the
+group. A researcher wanting to study consumer behaviour may not disclose his
+identity as a researcher and pretend to be a consumer, sharing their experiences
+
+
+--- Page 8 ---
+8
+Qualitative Methods and concerns. While doing participant research, researchers often assume insider
+identity. Sometimes researchers take neutral positions without disclosing the
+real purpose of their being there.
+Advantages of Participant Observation Method
+Researcher can record all the information relevant for his work without disturbing
+the community and intruding upfront into their privacy . Instead of sitting in a
+corner in the market, an organization or any other work or field situation writing
+notes, the researcher participates in these activities. In doing so, he collects relevant
+information without disturbing the normal activities and records his observations
+in a work diary. Thereafter, he makes a mental note of it and returns to his/her
+workplace and records these observations immediately. The community or people
+may not be aware that they are being researched. This helps obtain unhindered
+and unbiased information.
+Participant observation helps to obtain detailed information without any subject
+bias. Many researchers regard it as a better tool for data gathering vis-à-vis
+questionnaire and in-depth interviews.
+Drawbacks of Participant Observation Method
+One of the major drawbacks of participant observation is its inability to develop
+procedures for standardization. Researcher doing participant observation acquires
+a specific position in the community and observes from this vantage point. His
+recordings are personal or individual specific. Another observer observing the
+same situation may not be able to view it with the same perspective.
+In participant observation method, the researcher may get emotionally involved
+with the issues and tends to loose his/her objectivity . This often happens on
+issues of dowry, bride burning, female foeticide, student agitations, price rise,
+public-private partnership, trade union activities etc.
+To overcome some of these drawbacks, researchers proposed method of non-
+participant observations.
+18.3.2 Non-Participant Observation
+The qualitative researchers innovate in several ways to do non-participant
+observations. Many of them would participate in some activities and observe
+others from the outside. Some others would use video- recordings and analyse
+these recordings later for generalizations. While doing so, it was possible to take
+into account people’s gestures and non-verbal movements for detailed scrutiny.
+However, critics of the method thought that as one is not fully participating in
+this situation, he/she is not in a position to attribute right meaning to these
+observations.
+Sometimes, researchers use hidden cameras and record individual observations
+separately. But there are several problems with this method of observations too.
+Many regard use of hidden camera for research unethical. Participating in some
+activities and not in others amounted to what researchers later called as Quasi-
+participant observation.
+
+
+--- Page 9 ---
+9
+Participatory Method18.3.3 Quasi- Participant Observation
+Most researchers these days prefer to use quasi-participant method of
+observations. In this method, the researcher can follow the dual entry system.
+For instance, if you are trying to examine labour management relations, it is
+imperative that you obtain permission from the management and also establish
+rapport with the trade union leaders to have access to the union meetings. Many
+a times, one has to conduct interviews in different locations. In one such study in
+Punjab and Uttar Pradesh, we found that the workers preferred to talk to the
+researcher outside the factory . The researcher would talk to the mangers and
+supervisors in the factory and had lunch in the workers canteen. Appointments
+were fixed with the workers while having lunch and then researcher went to
+their houses, often spent hours there and after completing the interviews with
+the supervisors and mangers hired a small room in the same slum area, where
+most of the workers lived and shared their daily experiences.
+In addition to the important research tool of observations, qualitative researchers
+often use Focused interview, in-depth interviews, narratives and oral /Life case
+histories, Focus group discussion/interviews’, and content analysis. These tools
+have been discussed in next sections.
+Check Your Progress 1
+1) What is the distinction between data collection and data generation?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) What do you mean by the term EMIC view?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) How is participant observation method dif ferent from non-participant
+observation method?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+18.4 FOCUSED INTERVIEW
+In a focused interview, the researcher and the respondent are engaged in face-to-
+face or one to one conversation in which the researcher poses questions and the
+respondent provides detailed or precise answers. Talking to people or a specified
+group of people selected randomly, using an interview schedule, interview guide
+or a structured questionnaire is standard method of data collection. For qualitative
+
+
+--- Page 10 ---
+10
+Qualitative Methods research, focused interviews are often unstructured and questions are invariably
+open ended. This gives the respondent liberty to provide extensive answers.
+It is important to remember that interview is “fundamentally a process of social
+interaction” and involves developing a social relationship. In an interview situation
+it is not only the interviewer but also the interviewee who makes an opinion
+about the researcher. Respondent’s responses can be determined by what he thinks
+what the researcher may expect from him and also the amount of trust and faith
+he invests in the researcher . We will repeatedly stress the importance of
+confidentiality and researcher ’s ability to convey the same as hallmarks of
+participatory research.
+18.5 ORAL HISTORIES
+Uninterrupted long interviews giving space to the respondents to express his
+opinion or experiences at length is the preferred method by several qualitative
+researchers. The interviewee is encouraged to share his life experiences, to express
+his opinion, to recollect and recount their antecedents or lives of their
+contemporaries, “and to discuss their perceptions of the processes involved and
+the changes they have seen”(Balki, 2010:207). Collecting oral histories or
+narratives requires skill of being a good listener. Many a times, you may assume
+that the information provided by the respondent is not directly related to the area
+of your focused interest. But that subsidiary information can provide certain
+reference for a better understanding of the problem, issues or question that you
+are exploring. In oral histories, one may pose probing questions in the beginning
+and then occasionally intervene to ask a lead question for seeking any detailed
+answer to specific query.
+18.6 LIFE HISTORY
+Another important tool that ethnographic and qualitative researchers have in
+their kit is called the life history method. In this method life histories of individuals
+are reconstructed to understand the historical events of that period. Many a times
+researchers would use diaries and autobiographies to construct chronology of
+events of that period. Recording experiences of individuals facilitates
+understanding of how and what happened in certain circumstances. Life history
+approach is largely dependent on the ability of the respondent to recall and share
+that memory with the researcher . With the help of the respondent, researcher
+gradually determines the social processes. In the context of economics, rise and
+fall of a particular model is determined by prevalent social processes of that
+period, e.g. popularity and weakening of models of conservative and liberal
+economics in the last fifty years. It also helps to understand different perspectives
+based on gender and class. While recollecting their life history , many a times
+respondents may fall silent. This silence also provides data as it tells the researcher,
+how that particular event may have caused anxiety , anguish or an intense
+emotional experience to the respondent.
+18.7 CASE STUDY METHOD
+To study firms and organization’s behaviour, Business economists use the case
+study method. The researcher can focus on one company or or ganization and

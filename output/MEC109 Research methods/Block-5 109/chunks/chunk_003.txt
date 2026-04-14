@@ -1,0 +1,466 @@
+--- Page 21 ---
+21
+Participatory Method
+UNIT 19 CONTENT ANALYSIS
+Structure
+19.0 Objectives
+19.1 Introduction
+19.2 Historical Background of Content Analysis
+19.3 Content Analysis: Concept and Meaning
+19.4 T erms Used in Content Analysis
+19.5 Approaches of Content Analysis
+19.5.1 Conceptual Content Analysis
+19.5.2 Relational Content Analysis
+19.6 Procedure Involved in Content Analysis
+19.6.1 Formulation of Research Question
+19.6.2 Determining Materials to be Included
+19.6.3 Developing Content Categories
+19.6.4 Selecting Units of Analysis
+19.6.5 Code the Materials
+19.6.6 Analyze and Interpret the Results
+19.7 Uses of Content Analysis
+19.8 Advantages and Disadvantages of Content Analysis
+19.8.1 Advantages
+19.8.2 Disadvantages
+19.9 Let Us Sum Up
+19.10 Key Words
+19.1
+1 References and Suggested Books
+19.12 Answers or Hints to Check Your Progress Exercises
+19.0 OBJECTIVES
+After going through this Unit, you will be able to:
+• explain the concept and meaning of the content analysis;
+• identify the areas of research in social sciences wherein content analysis can
+be used;
+• discuss the various types of content analysis;
+• state the various approaches of content analysis;
+• describe the various steps involved in using the content analysis;
+• enable you to analyse and interpret the results; and
+• discuss the advantages and disadvantages of the content analysis.
+19.1 INTRODUCTION
+Many research Scholars take up historical overviews of economics as an area of
+research. They probe the research questions like how the dif ferent streams of
+
+
+--- Page 22 ---
+22
+Qualitative Methods economics like institutional economics, Neo-classical economics, behavioural
+economics etc. have evolved over a period of time and how researcher ’s focus
+had shifted from one area to another isolating a particular paradigm change.
+Sometimes a researcher aims to lay concepts and meanings from the social actors’
+account of realities related to his identified research problem. They use the sources
+like recorded interviews, letters, journals, newspaper stories and verbal materials.
+In such situations, content analysis as data (information) analysis technique is
+used by the social scientists. Much of the subject matter of social sciences
+including consumer studies is in the form of verbal and nonverbal behaviour .
+The exchange process in the market place and the communication of the values
+of the exchange depends upon the written or spoken words. Much of consumer
+research has concentrated on the characteristics, opinion, or behaviour of the
+interpreter of communication messages. In media economics, issues like
+monopolistic competition in TV channels, competition and diversity in newspaper
+industry, effects of group ownership on daily newspaper content etc. can be probed
+by content analysis alongwith other statistical techniques. Similarly content
+analysis can also be used to analyse the cultural issues in cultural economics to
+capture pattern form of explanation. Hence, in this unit, we will discuss the
+concept of content analysis, its various types and approaches, the procedures
+involved in its application, and its advantages and disadvantages. Let us begin
+with historical background of content analysis followed by describing its concept
+and meaning.
+19.2 HISTORICAL BACKGROUND OF CONTENT
+ANALYSIS
+We find different approaches to analysis and comparison of texts in hermeneutic
+contexts (e.g. bible interpretations) like newspaper analysis, graphological
+procedures, content analysis, and the dream analysis by Freud etc. The basis of
+quantitative content analysis had been laid by Lazarsfield and Lasswell in the
+USA during 1920’s and 30’s. Historically, content analysis was a time consuming
+process. Analysis was done either manually, or by slow mainframe computers to
+analyze punch cards containing data punched by human coders. Single study
+could employ thousands of these cards. Human error and time constraints made
+this method impractical for large texts. However, despite its impracticality, content
+analysis was utilized as research method by 1940’s. Although initially limited to
+studies that examined texts for the frequency of the occurrence of identified
+terms (word counts), by mid-1950’s researchers started to consider the need for
+more sophisticated methods of analysis, focusing on concepts rather than simply
+words, and on semantic relationships rather than just presence. The first textbook
+about this method was published by Berelson in 1952. In the sixties of 20th
+century, content analysis found its way into linguistics, psychology, sociology,
+history, arts etc. The procedures involved in content analysis were refined by
+incorporating models of communication; analysis of non-verbal aspects,
+contingency analysis, computer applications.  Since the middle of 20th century
+objections had been raised against a superficial analysis without respecting latent
+contents and contexts, working with simplifying and distorting quantification
+(Kracauer, 1952). Subsequently qualitative approaches to content analysis had
+been developed. Today, the use of modern computers makes content analysis
+much simpler and the data less vulnerable to human error.
+
+
+--- Page 23 ---
+23
+Content Analysis
+19.3 CONTENT ANALYSIS: CONCEPT AND
+MEANING
+Content analysis is a set of procedures for collecting and organizing information
+in a standardized format that allows analysts to make inferences about the
+characteristics and meaning of written and other recorded materials.
+Content analysis is a multipurpose research method developed specifically for
+investigating a broad spectrum of problems in which the content of communication
+serves as the basis of inference. Content analysis covers both the content of the
+material and its structure. Content refers to the specific topics or themes in the
+material. Structure refers to form. Whether an article is prominently featured on
+the first page of a newspaper or buried in the middle section is a structural question.
+Careful reading of the written materials is necessary for all kinds of researches
+in social sciences. But content analysis is something different from careful reading
+of written materials in many ways.
+According to Berelson, content analysis is a research technique for the objective,
+systematic, and quantitative description of the manifest content of communication.
+The term content analysis is used here to mean the scientific analysis of
+communication messages. The method being “scientific” catholic in nature,
+requires that the analysis be rigorous and systematic. According to Paisley, content
+analysis is a phase of information processing in which communication content is
+transformed through objective and systematic application of categorization rules
+into data that can be summarized and compared.
+This definition underlines the point that content analysis is a systematic technique
+for analyzing message content and message handling. It is a tool for observing
+and analyzing the overt communication behaviour of selected communicators.
+Content analysis , while certainly a method of analysis, is more than that, it is a
+method of observation. Instead of observing people’s behaviour directly, or asking
+them to respond to scales or interviewing them, the investigator takes the
+communications that people have produced and asks questions of the
+communication ( Kerlinger,  1968, p.544).
+Content analysis refers to any procedure for answering the relative extent to
+which specified references, attitudes or themes permeate a given message or
+document ( Stone, 1964).
+Neuendorf defines content analysis as “ the systematic, objective, quantitative
+analysis of message characteristics”.
+Based on the above definitions, the following characteristics of content analysis
+emerge:  objectivity, systematic and generality.
+Objectivity: To have objectivity, the analysis must be carried out on the basis of
+explicitly formulated rules which will enable two or more investigators to obtain
+the same results from the same documents. This requirement of objectivity gives
+scientific standing to content analysis and differentiates it from literary crtiticism.
+Systematic: In a systematic analysis, the inclusion and exclusion of content or
+categories is done according to consistently applied criteria of selection. This
+
+
+--- Page 24 ---
+24
+Qualitative Methods requirement is meant to eliminate elements in the content which do not fit in the
+analyst’s thesis.
+Generality: By generality , we  mean that the findings must have theoretical
+relevance, purely descriptive information about content, unrelated to other
+attributes of content or to the characteristics of communicator or recipient of the
+message, is of little scientific value.
+Thus, content analysis can be defined as a research technique for collecting and
+organizing information in a standardized format for making inference
+systematically and objectively about the characteristics of message.
+19.4 TERMS USED IN CONTENT ANALYSIS
+The following concepts and terms are frequently used in content analysis. Let us
+understand these terms.
+Manifest Content Analysis:  It involves simply counting words, phrases, or
+“surface” features of the text itself. It provides reliable quantitative data that can
+easily be analyzed using inferential statistics.
+Latent Content Analysis: It involves interpreting the underlying meaning of
+the text. Latent analysis is different to manifest analysis because researcher must
+have a clearly  stated idea about what is being measured. The value of the latent
+content analysis actually depends upon the researcher ’s ability to expose
+previously marked themes, messages and cultural values within the text. This
+analysis is widely used in qualitative content analysis.
+Content Units: There are two types of content units i.e. the unit of analysis and
+unit of observation. The unit of analysis concerns the general idea or phenomenon
+being studied. The unit of observation concerns the specific item measured at an
+individual level.
+Coding: Coding is the process whereby raw data are systematically transformed
+and aggregated into units which permit precise description of relevant content
+characteristics. There are two methods of coding: (i) deductive measurement,
+(ii) inductive measurement.
+Deductive Measur ement: It requires the development of specific coding
+categories before a researcher starts a content analysis. Deductive measurement
+is useful with an established set of coding categories or if a clear hypothesis or
+research question exists at the outset of the analysis.
+Inductive Measurement: This method supports the practice of emergent coding,
+which means that the basic research question or hypothesis for a formal content
+analysis emerges from the units of observation. It entails creating coding categories
+during the analysis process. Emer gent coding is useful in exploratory content
+analysis.
+Coding Scheme: Every analysis begins with an existing coding scheme. Coding
+scheme is another phrase of coding categories and coding book, within which all
+instances of the content are analyzed or noted. Every coding scheme consist of
+the following statements.
+
+
+--- Page 25 ---
+25
+Content AnalysisMaster Code Book: It provides the coders with explicit instructions and defines
+each word/ phrase/ aspect to be analyzed. It explains how to use code sheet.
+Code Sheet: Code sheet provides the coders with a form on which they note
+every instance of every word/ phrase/ aspect being analyzed. The code sheet lists
+all the coding categories.
+Coding Dictionary: It is used with computer based content analysis. A set of
+words/ phrases, part of speech …. That is used as the basis for a search text.
+Check Your Progress 1
+1) Identify the areas of research in economics wherein content analysis can be
+used.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) What is the distinction between manifest content analysis and latent content
+analysis?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+19.5 APPROACHES OF CONTENT ANALYSIS
+Instead of being a single technique, content analysis is a collection of different
+approaches to the analysis of texts or more generally of messages of any kind.
+Important approaches frequently used in Social Sciences are discussed below:
+19.5.1 Conceptual Content Analysis
+Traditionally, content analysis has most often been thought in terms of conceptual
+analysis. In conceptual analysis, a concept is chosen for examination and the
+analysis involves quantifying and tallying its presence. It is also known as thematic
+analysis. The focus here is on looking at the occurrence of selected terms within
+a text or texts, although the terms may be implicit as well as explicit. While
+explicit terms obviously are easy to identify, coding for implicit terms and deciding
+their level of implication is complicated by the need to base judgments on a
+somewhat subjective system.
+19.5.2 Relational Content Analysis
+Relational content analysis, like conceptual analysis, begins with the act of
+identifying concepts present in a given text or set of texts. However, relational
+analysis seeks to go beyond presence by exploring the relationships between the
+concepts identified. Relational analysis has also been termed semantic analysis.
+
+
+--- Page 26 ---
+26
+Qualitative Methods In other words, the focus of relational analysis is to look for semantic, or
+meaningful relationships. Individual concepts, in and of themselves, are viewed
+as having no inherent meaning. Carley (1992) asserts that concepts are ‘ideational
+kernels.’ These kernels can be thought of as symbols which acquire meaning
+through their connections to other symbol. Relational content analysis approach
+can be of three types:
+i) Affect extraction: This approach provides an emotional evaluation of
+concepts explicit in a text. It is problematic because emotion may vary across
+time and populations. Nevertheless, when extended, it can be a potent means
+of exploring the emotional/psychological state of the speaker and/or writer.
+ii) Proximity analysis: This approach, on the other hand, is concerned with
+the co-occurrence of explicit concepts in the text. In this procedure, the text
+is defined as a string of words. A given length of words, called a window, is
+determined. The window is then scanned across a text to check for the co-
+occurrence of concepts. The result is the creation of a concept determined
+by the concept matrix. In other words, a matrix, or a group of interrelated,
+co-occurring concepts, might suggest a certain overall meaning.
+iii) Cognitive mapping: This approach is one that allows for further analysis of
+the results from the two previous approaches. It attempts to take the above
+processes one step further by representing these relationships visually for
+comparison. Whereas affective and proximal analysis function primarily
+within the preserved order of the text, cognitive mapping attempts to create
+a model of the overall meaning of the text. This can be represented as a
+graphic map that represents the relationship between concepts. In this manner,
+cognitive mapping lends itself to the comparison of semantic connections
+across texts. This is known as map analysis which allows for comparisons to
+explore “how meanings and definitions shift across people and time”.
+19.6 PROCEDURE INVOLVED IN CONTENT
+ANALYSIS
+The various steps involved in content analysis are: (i) Formulation of research
+questions, (ii) Determining materials to be included, (iii) Developing content
+categories, (iv) Selecting and Finalizing units of analysis, (v) Code the materials,
+(vi) Analyze and interpret the results. These are discussed below:
+19.6.1 Formulation of Research Questions
+Content analysis begins with a specific statement of the objectives or research
+questions. The objective of content analysis is to convert recorded “raw”
+phenomenon into data, which can be treated essentially in a scientific manner so
+that body of knowledge may be built up. Objectives are precisely worded questions
+that investigator/s is/are trying to answer . By making a clear statement of the
+research question, the researcher can ensure that the analysis focuses on those
+aspects of content   which are relevant for the research. The question should be
+based on a clear understanding of research needs and the available data. Therefore,
+the selection of the topic should be such that can be answered by analyzing the
+appropriate communication content.
+
+
+--- Page 27 ---
+27
+Content AnalysisIn general content analysis can be used to answer “ What” but not “ Why” question.
+It helps analysts to describe or summarize the content of written material , the
+attitudes or perceptions of its writers, or its effects on the audience. For example,
+if analysts want to assess the effects of different women empowerment programmes
+on the lives of younger and middle aged women in rural and urban area. Content
+analysis of open–ended interview / responses could be used to identify their
+outlook, attitudes and security about their life.
+19.6.2 Determining Materials to be Included
+The next step of content analysis is to decide relevant communication content to
+answer the research question and to determine the time period to be covered.
+Content analysis can be used to study any recorded materials as long as the
+information is available to be  reanalyzed for reliability checks. It is used  most
+frequently to analyze written materials to study any recorded communication
+including TV programmes, movies, photographs,  regulations, other public
+documents, workplaces, case studies,  reports, answer to survey questions,
+newspapers, news release, books, Journals article, letters etc. Speeches and
+discussions can also be analyzed.
+Sampling: Sampling is necessary if the population is too extensive to be analyzed.
+Thus a sample should be selected from the population in order to make valid
+conclusion and generalization about a population. Simple random sampling,
+interval sampling, cluster sampling and multistage sampling techniques are used
+in content analysis.
+19.6.3 Developing Content Categories
+Content analysis is no better than its categories., since they reflect the formulated
+thinking , hypotheses, and the purpose of the study. Categories provide structure
+for grouping  and recording units. Developing the category system to classify the
+text is the heart of content analysis. Berelson (1952) has emphasized the
+importance of formulating coding categories by quoting that “ content analysis
+stands or falls by its categories. Particular studies have been productive to the
+extent that categories were clearly formulated and well adequate to the problem
+and to the content”.
+To be useful, every content category must be thoroughly defined, indicating  what
+type of material be and not to be included. Chadwick et.al. (1984) have also
+emphasized the following three characteristics of content categories i.e. (i)
+Categories should be exhaustive so that all relevant items in the material being
+studied can be placed within a category. (ii) It should be  mutually exclusive so
+that no item can be coded in more than one category . (iii) Thirdly categories
+should be independent so that recording of unit’ s category assignment is not
+affected by the category assignment of other recording units.
+Category format: Categories can be conceptualized in many ways. Some
+common category formats are grouping, scales, and matrices. Structured category
+format increase coding efficiency especially when the number of categories are
+large.  Scales provide the rank ordering information. Matrices are useful formats
+when analysts  seek more  information about issues than simply whether they are
+present or absent.
+
+
+--- Page 28 ---
+28
+Qualitative Methods 19.6.4 Selecting Units of Analysis
+Once the categories have been identified, the analyst would be interested in
+determining the unit of content for classification under the content categories
+and the system of enumeration for the same.  The unit of analysis is the smallest
+unit of content that is coded under the content category. The unit of analysis vary
+with the nature and objective of the analysis. Thus, the unit of analysis might be
+a single word, a theme, a letter, a symbol, a news story, a short story, a character
+or an entire article etc. There are two kinds of unit of analysis : Recording unit
+and Context unit.
+The Recording Unit is the specific segment of content in which the occurance
+of a referene /fact is counted or the unit can be broken down so that reference/
+facts can be placed in different categories.
+The Context Unit  is the lar ger body of the content that may be searched to
+characterize the recording unit. Context units set limits on the portion of written
+material that is to be examined for categories of words or statements. A recording
+unit is the specific segment of  context unit in written material that is placed in a
+category. For example, if the coding unit is the word, then the context unit may
+be the sentence or the pargraph in which the word appears and characterizes the
+recording unit.
+Word: The smallest unit generally used in the content analysis as a unit is a
+word. Lasswell(1952) calls word as a symbol and may include word compounds
+e,g, phrases as well as single word. In this type of research one might study the
+relative occurrence  of  key symbols or value laden terms until the content has
+been systematically examined relevant to the hypotheses of the study.
+Theme: The theme is a single assertion about a subject. The theme is among the
+most useful units of  content analysis because issues, values, beliefs, and attitudes
+are usually discussed in this form.
+Character: Character may be defined as  a use of fictional or historical character
+as the recording unit is also employed.
+Item: The item is the whole natural unit employed by procedures of symbolic
+material. It may be the entire speech, radio programme, letter to the editors,  or
+news story.
+Space and Time Measures: Some studies have classified content by physical
+division such as column inch, the line or paragraph, the minutes or the foot film.
+Finalizing units of analysis:  In content analysis,  the counting or quantification
+of the units is performed by using three methods of enumeration : 1)  Frequency,
+2) Intensity or Direction, and Space/ Time.
+Frequency: Frequency simply means counting whether or not something occurs
+and how often (how many times).
+Direction: Direction is nothing but the direction of messages in the content
+along some continuam e,g, positive, negative, supporting or opposed.
+
+
+--- Page 29 ---
+29
+Content AnalysisIntensity: Intensity is the strength or power of a message in a direction. For
+example, the characteristic of forgetfulness can be minor (e.g. not remembering
+to take the keys when leaving home, taking time to recall the name of someone
+whom you have not seen in years) or major (e.g. not remembering your name,
+not recognizing your children).
+Space: 
+A researcher can record the size of the text messages or the amount of
+space or volume allocated to it. Space in written text is measured by counting
+words, sentences, paragraphs, or space on a page (e.g. square inches) for video
+or audio text. Space can also be measured by the amount of time allotted.
+To explain the differences among the above described quantification levels and
+how they relate to constructing categories, let us give a hypothetical example of
+‘Importance of FDI in public sector organizations’. The analyst has a major source
+of information as newspaper, articles, public documents, transcripts of interview
+with political leaders, and public officials. For each issue of each newspaper in
+the sample, the analysts add together number of column inches from all news
+articles/editorials to find he total number of space for each position in addition
+to the coding, the name , location, and date of each newspaper. The analyst who
+use this level of quantification have to assure that the dif ferences they find in
+amounts of space are valid indicators of relative emphasis or importance. At the
+next level of quantification, the analyst can code the frequency of recording
+units by tallying the number of times each issues or statements occurs in the text.
+At the third level of quantification, analyst provide code for intensity. Frequencies
+are counted but each coded statement or issues is also adjusted by a weight that
+measures related intensity.
+19.6.5 Code the Materials
+Coding the unit of analysis into content category is called coding. Defining
+categories and preparing coding schedule for analysis and coding of the content
+are almost simultaneous steps. Material can be coded either manually or by
+computers, depending on the sources available and format of the material. After
+deciding how the material will be coded, the analyst writes the instructions for
+coding. According  to Kripendorff (1980), the  guidelines for coding instructions
+include definition of recording units and procedures for identifying theme,
+descriptions of variables and categories, outline of cognitive procedures used in
+placing data in categories, and instructions for using and administering data sheets.
+Pre-testing: Pretesting is an important step before actual coding begins. It involves
+coding a small portion of the material to be analyzed. A pretest enables the analyst
+to determine whether (1) the categories are clearly specified and meet the necessary
+requirement, (2)  the coding instructions are adequate and, (3) the coders are
+suitable for coding. These are determined on the basis of reliability among coders
+band consistency in individual coding decision. If analyst find that material can
+be coded with high reliability then actual coding begins.
+19.6.6 Analyzing and Interpreting the Results
+The main objective of content analysis is to analyze the collected information
+with regard to the proposed objective of the analysis. The analysis involves
+summarizing the coded data, discovering patterns and relationships within the
+data, testing hypotheses about the patterns and relationship to assess the validity
+of the analysis.
+
+
+--- Page 30 ---
+30
+Qualitative Methods The absolute and relative frequencies are most commonly used for summarizing
+the data. Absolute frequency might be the number of times statements or issues
+are found in the sample. A relative frequency might be represented by a percentage
+of the sample size.
+Another way of analyzing content analysis is to examine relations among variables
+by cross tabulating the cooccurrence of variables. Other techniques for discovering
+patterns of relationship in data include  contingency analysis, cluster analysis
+and factor analysis.
+One important development in analyzing content analysis of the data is the use
+of computer. Computer programme like “General Inquirer” can identify within a
+body of text , those  words and phrases that belong to specified categories (Stone
+et.al., 1996). Other computer programme like SPSS, Atlas titi, Minitab etc. are
+also very useful in both quantitative and qualitative content analysis.
+Whatever the technique used, a final and important task is to assess the validity
+of the result by relating them to other data that are known to reasonably valid.
+The  inference a researcher can or cannot make on the basis of research is critical
+in content analysis. Content analysis describes what is in the text. It cannot reveal
+the intentions of those who created the text or the ef fects that messages in the
+text have on those who receive them.
+Check Your Progress 2
+1) State the different sources of content analysis.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Which methods are used to quantify the units of analysis?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) Briefly describes the dif ferent steps involved in the process of content
+analysis.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................

@@ -1,0 +1,707 @@
+--- Page 10 ---
+ 
+ 
+1 
+11 
+Two Variable Regression 
+Models
+parameters. It should be clear that due to sampling fluctuations, we might 
+obtain different values of αˆ  and βˆ  from different samples. What we have to 
+ensure is that on the average, they represent the population parameters. Thus, 
+the entire issue now boils down to the estimation of 
+αˆ  and βˆ . This is what is 
+known as the estimation of the sample regression function and we are going to 
+discuss it in the next section. 
+9.6 ESTIMATION OF SAMPLE REGRESSION 
+FUNCTION 
+The commonly used procedure is the least square method that we discussed in 
+the previous unit. To recapitulate, we have a sample of observations 
+represented by a cluster of points in the sample space and we have to pass a 
+regression line through this cluster in such a fashion that the sum of the squares 
+of the deviations of the observed values of Y from their estimated values from 
+the regression line for different values of X is minimum. We are reproducing 
+the two relevant diagrams from Unit 8 for the sake of convenience. 
+ 
+Fig. 9.2: Sample Scatter-Plot 
+Thus, we have a scatter of sample values as shown in the above diagram and 
+we have to pass a regression line through it. We can summarise the least square 
+procedure for obtaining such a line now. Putting mathematically the procedure 
+amounts to Minimize 
+                      2u∑ = ( )
+22
+)ˆˆ(ˆ ∑∑ − − = −X Y Y Yβ α with respect to αˆ  and βˆ . 
+Following the usual minimization procedure, we obtain two normal equations 
+given by 
+ˆˆ
+Y n Xα β= +∑ ∑  
+and 
+2ˆˆXY X Xα β= +∑ ∑ ∑ .  
+X 0
+Y
+
+
+--- Page 11 ---
+ 
+ 
+Quantitative Methods-1 
+12 
+Two Variable Regression Solving the two normal equations simultaneously, we obtain 
+( )
+( )( )
+( )∑
+∑
+∑ ∑
+∑ ∑ ∑
+−
+− −=
+−
+−= 222
+ˆ
+X X
+Y Y X X
+X X n
+Y X X Y nβ  
+and 
+( )
+X Y
+X X n
+XY X Y X βα ˆˆ 22
+2
+− =
+−
+−=
+∑ ∑
+∑ ∑ ∑ ∑ . 
+Let us now derive an important result for the estimated slope coefficient βˆ . 
+Writing lower case letters for deviations 
+( ) ( )
+( )
+∑
+∑
+∑
+∑
+∑
+∑
+∑ ∑
+∑
+∑
+∑
+∑
+=
+=
+=
+= −
+− −=−= =
+kY
+x
+x
+xk
+x
+xY
+X X
+x
+X X Y xY
+x
+Y Y x
+x
+xy
+β
+β
+β
+ˆ
+have  We
+given.  are  s  as  ,  putting  Now
+ˆ Thus
+0But 
+ˆ
+2
+2
+222
+ 
+T
+hus, βˆ  is a linear function of the observed values of Y. This is an important 
+result, which we shall use later in the issue of hypothesis testing.  
+The following diagram shows a regression line, with the values of αˆ  and βˆ  
+given by the above expressions fitted into our sample scatter. 
+ 
+Fig. 9.3: Sample Scatter-Plot with the Sample Regression Line 
+X 0
+Y
+as x’s are given. 
+
+
+--- Page 12 ---
+ 
+ 
+1 
+13 
+Two Variable Regression 
+Models
+It may be noted here that the sample regression line has the equation, 
+X Yβ αˆˆ + =  with the values of αˆ  and βˆ  obtained from the above-mentioned 
+least square method. It can be clearly seen that the values of αˆ  and βˆ  can be 
+calculated in terms of sample observations only and no other information that 
+is not known is required for this purpose. As we can see, both αˆ  and βˆ  are 
+linear functions of X and Y. Consequently, they are called linear estimators. 
+ Gauss-Markov Theorem 
+The least square estimators αˆ  and βˆ  can be taken as the estimators of the 
+unknown population parameters α  and β  because they satisfy certain desirable 
+properties. We can state them without proofs below. 
+Under the assumptions of the classical regression model as mentioned earlier,  
+1) Least square estimators are linear. As we have already seen from the 
+expressions of αˆ  and βˆ , they are linear functions of the variables.    
+2) Least square estimators are unbiased i.e., E (αˆ ) = α  and E ( βˆ ) = β . This 
+means, if we consider different values of the least square estimates  
+obtained from a number of random samples for a given population on the 
+average, they will be equal to the unknown population parameters. They 
+will not be systematically overestimating or underestimating the population 
+parameters. 
+3) Among all the linear unbiased estimators, least square estimators have  
+the minimum variance. In this sense, they are termed as the efficient 
+estimators. 
+All these properties of the least square estimators lead to what is known as the 
+Gauss-Markov Theorem. The theorem states: 
+Under the assumptions of the classical linear regression model, 
+among all the linear unbiased estimators, the least square estimators 
+have the minimum variance. In other words, the least square 
+estimators are the best linear unbiased estimators or in short, BLUE. 
+Standard Error of the Regression Estimate 
+We have already stated that due to sampling fluctuations, we should expect to 
+obtain different values of the least square estimates 
+αˆ  and βˆ  from sample to 
+sample. Consequently, if we measure the standard deviations of these values of 
+the two least square estimates from their respective expectation or mean, we 
+shall get an idea about the extent to which these estimates are affected by the 
+sampling fluctuations. In other words, the standard deviations of the least 
+square estimates can be taken as a measure of the precision of these estimates. 
+The standard deviations of the least square estimates are known as the 
+standard errors of the estimates.  It should be clear that the standard errors 
+are the standard deviations of the sampling distributions of the least square 
+estimates. The standard deviations or standard errors are obtained by taking the 
+positive square root of the variances of 
+αˆ  and βˆ . The expressions for both the 
+variance and standard of the least square estimators are given below. 
+
+
+--- Page 13 ---
+ 
+ 
+Quantitative Methods-1 
+14 
+Two Variable Regression 
+( ) ( )
+( ) ( )
+( ) ( )
+( ) ( )∑
+∑
+∑
+∑
+∑
+∑
+−
+=
+−
+=
+−=
+−=
+2
+2
+2
+2
+2
+2
+2
+2
+2
+ˆ
+ˆvar
+ˆ
+ˆvar
+X X
+se
+X X
+X X n
+Xse
+X X n
+X
+σβ
+σβ
+σα
+σα
+  
+It should be recollected that σ  is the standard deviation of the error term U in 
+our population regression model and we assume that it is a constant. However, 
+since the population regression model is unknown, it follows that σ  is also 
+unknown. As a result, for the calculation of variance and standard error of the 
+least square estimates αˆ  and βˆ , we need to estimate σ . It can be proved that 
+an unbiased estimator of σ  is 2
+ˆ 2
+−
+∑
+n
+U . Here, n – 2  is what is known as the 
+degrees of freedom in statistics. This concept you must have studied in your 
+compulsory course in statistics. Now, Y Y Uˆ ˆ
+−=  is the sample regression error 
+term and accordingly we can calculate it. Thus, by replacing σ  by its unbiased 
+estimator we can compute the standard errors of both αˆ  and βˆ . It should be 
+noted here that we can write the unbiased estimator of σ  as  
+( )
+2
+ˆ ˆ
+2
+ˆ
+ˆ
+2
+2
+−
+−=−= ∑ ∑
+n
+U U
+n
+Uσ  
+This is, because, Uˆ is the mean of the sample regression errors. Now, while 
+calculating it, the positive errors will tend to cancel the negative errors and as a 
+result, it will be reduced to zero. From above expression of the estimator of σ , 
+it can easily be interpreted as the standard deviation of the sample observations 
+about the estimated sample regression line. The sample estimator 2
+ˆ
+ˆ
+2
+−= ∑
+n
+Uσ  
+is known as the standard error of estimate or the standard error of the 
+regression.  
+9.7 GOODNESS OF FIT 
+In the earlier section, we have discussed the procedure for fitting the sample 
+regression line and its purpose. Once such a regression line is fitted, we may be 
+interested in examining how good has been the fit in the sense how faithfully it 
+can describe the unknown population regression line. This is known as the 
+issue of goodness of fit. In this matter, the regression error term or residual Uˆ  
+
+
+--- Page 14 ---
+ 
+ 
+1 
+15 
+Two Variable Regression 
+Models
+plays an important role. Small quantities of residuals imply that a large 
+proportion of variation in the dependent variable has been explained by the 
+regression equation and consequently, the fit is good. Similarly, large quantities 
+of residuals obviously point to a poor fit. At this stage, what we are interested 
+in is to obtain a quantitative measure of the goodness of fit that is free of any 
+unit for the purpose of comparability. In the previous unit, we have referred to 
+the coefficient of determination, which is the square of the correlation 
+coefficient. It can be shown that this coefficient of determination acts as a 
+measure of goodness of fit. We may consider it now. The variation in the 
+dependent variable Y about its mean can be conceptualized as 
+( ) ( )
+2
+var ∑ − =Y Y Y  
+We can decompose it into two components. The first is the variation explained 
+by the regression. The second is the portion that remains unexplained by the 
+regression. Thus we can write 
+( ) ( ) ( )
+( ) ( ) ( ) ( ) ( )Y Y Y Y Y Y Y Y Y Y
+Y Y Y Y Y Y
+ˆ ˆ2ˆˆ
+sides  both the on summation  applying  and  Squaring
+ˆ ˆ
+222
+− − + − + − = −
+− + − = −
+∑∑∑∑
+ 
+Now let us try to find the value of ( )( )Y Y Y Yˆ ˆ− −∑ . We have the regression 
+equation 
+( )
+ ˆˆ
+form  in theequation  regression  sample   the have  we
+mean,  their from   variables the of  deviations  for the  letters  case lower  Writing
+0.ˆ as  0,  
+ˆˆ because  ,ˆˆ
+equationfirst   the fromequation  second   the g Subtractin
+ˆˆˆor 
+ˆ ˆˆ
+u x y
+Un
+UUU X X Y Y
+U X Y
+U X Y
++ =
+== =+ − = −
++ + =
++ + =
+∑∑
+β
+β
+β α
+β α
+        
+Now 
+( )( )
+( )
+( )
+ˆ ˆ
+ˆ ˆ
+ˆ ˆ ˆ
+ˆ ˆ ˆ, because 0 
+ˆ ˆˆ X
+ˆˆ ˆ ˆˆ 0
+ˆ ˆ
+Y Y Y Y
+Y Y U
+YU Y U
+YU U
+U
+U XU U
+XU
+a b
+a b
+b
+- -
+= -
+= -
+= =
+= +
+= + =
+=
+å
+å
+å å
+å å
+å
+å å å
+å
+∵
+   
+We have 
+
+
+--- Page 15 ---
+ 
+ 
+Quantitative Methods-1 
+16 
+Two Variable Regression 
+( )
+( )
+( )
+( ) ( )
+( )
+2
+2
+2
+2
+or 
+N
+ow
+We know, 
+Putting the value of  in the above expre ssion for  
+0
+x X X
+x X X
+ˆ ˆ ˆ ˆ ˆxU X X U XU X U XU
+ˆ ˆˆxU x y x xy x
+X X Y Y xyˆ
+xX X
+ˆ ˆxU ,
+xyˆxU xy x xy xy x
+b b
+b
+b
+= -
+Þ = -
+= - = - =
+= - = -
+- -
+= = -
+= - = - =
+å å
+å å å å å
+å å å å
+å å
+åå
+å
+åå å å å åå
+ 
+Hence, 
+( )( ) 0ˆ ˆ= − −∑ Y Y Y Y 
+Thus, 
+( ) ( ) ( )∑∑∑ − + − = −
+222 ˆˆ Y Y Y Y Y Y 
+If ( )∑ −
+2
+Y Y  is defined as the total sum of squares (TSS), ( )∑ −
+2ˆ Y Y  as the 
+explained sum of squares (ESS) and ( )∑ −
+2ˆY Y  as the residual sum of squares 
+(RSS), 
+We have 
+TSS = ESS + RSS 
+Dividing both the sides by TSS, 
+2
+2
+TSS ESS RSS
+T
+SS TSS TSS
+Defining the ratio of ESS to TSS as R  we  have 
+RSS ESSR 1 TSS TSS
+,
+= +
+=
+- =
+   
+It should be clear now that 2R  or coefficient determination can be interpreted 
+as the proportion of total variation in Y explained by the regression of Y on X. 
+Let us now consider a numerical example to fix the concepts and ideas that we 
+have discussed so far. 
+Example 9.1 
+T
+he hypothetical figures for the total labour force and the number of employed 
+out of that for the period 1991-2000 are given below in Table 9.1. Run a 
+regression of the number of employed on the total labour force. 
+
+
+--- Page 16 ---
+ 
+ 
+1 
+17 
+Two Variable Regression 
+Models
+Table 9.1: Actual Employment and Labour Force 
+Year 
+Employed 
+(million) 
+Labour Force 
+(million) 
+1991 100 120 
+1992 125 140 
+1993 140 165 
+1994 160 185 
+1995 175 200 
+1996 195 210 
+1997 230 250 
+1998 245 255 
+1999 270 305 
+2000 295 320 
+Let Y be the dependent variable employed and X be the independent variable 
+labour force. The detailed calculation for working out the regression is shown 
+below: 
+Year Y  X  XY  2X  Y Y y− =  X X x−=  2x  
+2y  xy  
+1991 100 120 12000 14400 -93.5 -95 9025 8742.25  8882.5 
+1992 125 140 17500 19600 -68.5 -75 5625 4692.25  5137.5 
+1993 140 165 23100 27225 -53.5 -50 2500 2862.25  2675 
+1994 160 185 29600 34225 -33.5 -30 900 1122.25  1005 
+1995 175 200 35000 40000 -18.5 -15 225 342.25  277.5 
+1996 195 210 40950 44100 1.5 -5 25 2.25  -7.5 
+1997 230 250 57500 62500 36.5 35 1225 1332.25  1277.5 
+1998 245 255 62475 65025 51.5 40 1600 2652.25  2060 
+1999 270 305 82350 93025 76.5 90 8100 5852.25  6885 
+2000 295 320 94400 102400 101.5 105 11025 10302.25  10657.5 
+Sum 1935 2150 454875 502500   40250 37902.5  38850 
+Mean 193.5 215        
+( )2
+38850ˆ ˆˆ0.965217 and 193.5 0.965217 215 –14.217 40250
+xy Y Xxb a b= = = = - = - ´ =å
+å
+ 
+
+
+--- Page 17 ---
+ 
+ 
+Quantitative Methods-1 
+18 
+Two Variable Regression 
+Year X Yβ αˆˆˆ − =  Y Y Uˆ ˆ−= 2ˆU  YY −ˆ  ( )
+2ˆ Y Y−  
+1991 101.8043 -1.80434  3.255643 -91.6957 8408.094 
+1992 121.1087 3.89132 15.14237  -72.3913 5240.503 
+1993 145.2391 -5.23911  27.44822 -48.2609 2329.114 
+1994 164.5434 -4.54344  20.64289 -28.9566 838.4821 
+1995 179.0217 -4.0217 16.17407  -14.4783 209.6212 
+1996 188.6739 6.32613 40.01992  -4.82613 23.29153 
+1997 227.2826 2.71745 7.384535  33.78255 1141.261 
+1998 232.1086 12.89137  166.1873 38.60864 1490.627 
+1999 280.3695 -10.3695  107.5262 86.86949 7546.307 
+2000 294.8477 0.15226 0.023183  101.3477 10271.36 
+Sum  0.00045 403.8043   37498.67 
+In the next stage we compute the following: 
+( ) ( ) ( )
+( )∑
+∑
+∑
+∑
+∑ −
+−= === 2
+2
+22
+2
+2
+2
+2 ˆ
+T
+SS
+ESSR  and  ˆ  ,ˆ
+Y Y
+Y Y
+x n
+XVxV σασβ . 
+But the population variance σ2 is unknown. So we have to use an unbiased 
+s
+ample estimator σ2 for the same. Such an unbiased estimator is given by  
+2
+2
+2
+ˆUˆ
+ns = -
+å , where n – 2 is the degrees of feedom. Here, n – 2 = 10 – 2 = 8. 
+Therefore, 
+2
+2 403.8043
+2 8
+ˆUˆ
+ns = = -
+å = 50.475537. 
+( )
+( ) ( )
+( )
+( ) ( )
+2
+2
+2
+2
+2
+2
+50 475537Thus, 0 00125440250
+0 001254 0 0354118
+502500 50 475537 63 01604210 40250
+63 016042 7 9382644
+ESS 37498 67R 0 989345TSS 37902 5
+ˆ .ˆV . x
+ˆ ˆs.e. V . .
+Xˆ ˆV . . n x
+ˆ ˆs.e. V . .
+. ..
+sb
+b b
+a s
+a a
+= = =
+= = =
+= = ´ = ´
+= = =
+= = =
+å
+å
+å
+ 
+F
+inally, we present a summary of all the important results concerning the 
+above-mentioned question. 
+
+
+--- Page 18 ---
+ 
+ 
+1 
+19 
+Two Variable Regression 
+Models
+ 
+( ) ( )
+( ) ( )
+( )
+XY
+f d
+e sV
+e sV
+965217.00217.14ˆ
+by given  is  line  regression  estimated  The
+8 . .  Freedom  of  Degrees        989345 . 0 R
+475537 . 50ˆ
+9382644 . 7ˆ. .           and         016042 . 63ˆ         0217 . 14ˆ
+0354118 . 0ˆ. .           and           001254 . 0ˆ         965217 . 0ˆ
+2
+2
++−=
+==
+=
+==− =
+===
+σ
+ααα
+βββ
+ 
+It may be mentioned here that it is this kind of a summary of the results that is 
+generally used for the further analysis of the regression model. Let us now 
+interpret some of the results from the above summary. The regression line 
+estimates the average employment (Y) for a given level of labour force (X). The 
+slope coefficient 965217 . 0ˆ =β estimates the rate of change of employment 
+with respect to labour force. For example, if 100 more persons start looking for 
+jobs, about 97 of them actually get employed. The intercept 0217 . 14ˆ −=α  can 
+be interpreted as the average combined effect of all those variables that might 
+also affect employment but have been omitted for the purpose of the above-
+mentioned regression. The coefficient of regression 989345 . 0 R2 =  indicates 
+that about 99 per cent of the variation in employment can be explained by a 
+variation in the labour force, which is indeed high and indicates a good fit to 
+the given sample. 
+Check Your Progress 1 
+1) Discuss the meaning of linearity in the regression model.   
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) How is the regression model non-deterministic in nature? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+
+
+--- Page 19 ---
+ 
+ 
+Quantitative Methods-1 
+20 
+Two Variable Regression 3) Discuss the assumptions of the classical regression model. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+4)  State the Gauss-Markov Theorem. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+5) Explain the concept of goodness of fit. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+9.8 FUNCTIONAL FORMS OF REGRESSION 
+MODEL 
+We have already mentioned that our focus is on a linear regression model. The 
+issue of linearity has also been considered in Section 9.2. It is in fact linear in 
+parameter regression model that is relevant for us. However, linear in 
+parameter regression models may also have different functional forms. We 
+shall now briefly discuss four such regression models. 
+1) Linear Model 
+This functional form is the most common one and we have already discussed 
+it. Its equation is given by 
+U X Y++= βα  
+As we know, it is both linear in parameter and linear in variable. This model 
+can be estimated by the ordinary least square (OLS) method. The least square 

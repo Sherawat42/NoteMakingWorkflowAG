@@ -1,0 +1,572 @@
+--- Page 42 ---
+ 
+ 
+43 
+Data Collection and 
+Sampling Design 
+A sample of n ( > 1) units with pps can be drawn with or without replacement. 
+Let us consider a pps-wr sample. Let {y i , p i} be respectively the sample 
+observation on the selected unit and the initial probability of selection at the i–
+th draw, i = 1,2,----n. Each (y i / pi) , i = 1,2,----- n in the sample is an unbiased 
+estimate [Yi(pps-wr)*] of the population total Y and V(Y i(pps-wr)*) =  i (Yr 
+2 /Pr) – 
+Y2,  r , r  = 1 to n. (see 2.60). Estimates from pps-wr samples are: 
+Y*pps-wr = (1/n)  i (yi / pi) = (1/n)  i Y*(i)pps-wr ;  i  ,  i = 1 to n.                 (2.62) 
+V(Y*pps-wr ) = (1/n)[  r (Yr 
+2 /Pr) – Y2] ;  r , r = 1 to N.                              (2.63) 
+V(mpps-wr ) = (1/N2 )(1/n)[  r (Yr 
+2 /Pr) – Y2] ;   r , r = 1 to N.                    (2.64) 
+v (Y*pps-wr )= [1/{n(n – 1)}][ r (yr
+2
+ / pr
+2 –  nY*2];  r , r = 1 to n;  
+ (using 2.51)                   (2.65)  
+Operational procedure for drawing a pps-wr sample: The steps are:  
+ 1) Cumulate the sizes of the units to arrive at the cumulative totals of the 
+unit sizes. Thus  
+Ti - 1 = X1 + X2 + -----+ Xi –1  ; Ti = X1 + X2 +---+ Xi - 1 + Xi = Ti - 1 + Xi ;  
+i = 1, 2,……..., N. 
+ 2)  Then choose a random number R between 1 and T N = X 1 + X 2 
++………..+ XN = X . 
+ 3) Choose the unit U i if R lies between T i - 1 and Ti, that is, if Ti - 1 < R ≤ Ti . 
+The probability P(U i) of selecting the i-th unit will thus be P(U i) =  (T i - 
+Ti – 1) /TN = Xi / X = Pi  
+4)  Repeat the operation ‘n’ times for selecting a sample of size n with pps-wr. 
+7.5.5.6  Stratified Sampling 
+The Method: We might sometimes find it useful to classify the universe into a 
+number of groups and treat each of these groups as a separate universe for 
+purposes of sampling. Each of these groups is called a stratum and the process 
+of grouping stratification. Estimates obtained from each stratum can then be 
+combined to arrive at estimates for the entire universe. This method is very 
+useful as (i) it gives estimates not only for the whole universe but also for the 
+sub-universes and (ii) it affords the choice of different sampling methods for 
+different strata as appropriate. It is particularly useful when a survey organistion has 
+regional field offices. This method is called Stratified Sampling.  
+Let us divide the population (universe) of N units into k strata. Let N s be the 
+number of units in the s-th stratum. Y si be the value of the i-th unit in the s-th 
+stratum. Let the population mean of the s-th stratum be M s. M s = (1/N s) Ysi, 
+ i, i = 1,2,----,N s (that is over the units within the s-th stratum) and the 
+population M is =(1/N) sNs Ms =  sWs Ms , where W s = (Ns / N) and  s being 
+over the strata s = 1,2,……,k). Suppose that we select random samples from 
+each stratum and the sampling method for different strata are different. Let the 
+unbiased estimate of the population mean M s of the s-th stratum be m s. 
+Denoting ‘st’ for stratified sampling, an unbiased estimator of M is given by  
+mst = s Ws ms  = (1/N)  s Ns ms,     s , s = 1 to k.                                      (2.66) 
+V(mst) =  sWs
+2 V(ms) = (1/N2 ) s Ns
+2 V(ms),   s , s= 1 to k                   (2.67) 
+
+
+--- Page 43 ---
+ 
+ 
+Research Design and 
+Measurement 
+44 
+Cov.(ms,mr) = 0 for s ⋅≠ r ; (samples from diff. strata are independently  
+chosen) ..                   (2.68) 
+Yst* =  sYs* ;  s , s = 1 to k.                                                                       (2.69)  
+V(Yst*) =  sV(Ys*),  s , s = 1 to k.                                                              (2.70) 
+Thus estimators with smaller variance (efficient estimators) can be obtained in 
+stratified sampling if we form the strata in such a way as to minimise intra-
+strata or within-strata variation, that is, variance within strata. This would 
+mean maximising between-strata or inter-strata variation, since the total 
+variation is made up of within-strata and between-strata variation. In other 
+words, units in a stratum should be homogeneous. 
+Stratified sampling enables us to choose the sample we wish to select by 
+drawing independent samples from each of the different strata in to which we 
+have grouped the universe. How do we allocate the total sample size ‘n’ among 
+the different strata? One way is to allocate the sample size to different strata in 
+proportion to the size of individual strata measured by the number of units in 
+these strata, namely, N s, [  s N s = N, (s= 1 to k)]. This method is especially 
+appropriate in situations where no information is available except the sizes of 
+the strata. The sample sizes for the samples from the stratum, say, the s-th 
+stratum, would then be ns = n(Ns/N) and  s ns can easily seen to be equal to ‘n’. 
+There are other methods like allocation of the sample size among strata in 
+proportion to the stratum totals of the variable under study, that is, Y s , the 
+stratum total of the s-th stratum, ‘s’ = 1 to k. We shall not go into the details of 
+other methods here except one situation, namely, when we have a fixed budget 
+F sanctioned for the survey. Let the cost function F be of the form F0 +  nsFs , 
+( s , s = 1 to k), where F 0 , n s and F s are respectively the overhead cost, the 
+sample size in stratum ‘s’ and the per unit cost of surveying a unit in stratum 
+‘s’ (s = 1,2,-----, k). We can determine the optimum stratum-wise-sample-size 
+by minimising the sampling variance of the sample mean ( 2.67) subject to the 
+constraint that the cost of the survey is fixed.  The stratum-wise optimum 
+sample size is given by  
+ns = [(F - F0)] [Ws√(Vs / Fs )] / [  s Ws√(VsFs)]   , s = 1, k.                (2.71)   
+The stratum sample size should, therefore, be proportional to W s
+√(Vs / Fs). The 
+minimum variance with the ns so determined is,  
+Min. V(mst ) = [ Ws√(VsFs)]2 / (F - F0)]                  (2.72)   
+Check Your Progress 4 
+1) When is PPS method adopted? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) When will the sampling variance of Ypps * be small? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+
+
+--- Page 44 ---
+ 
+ 
+45 
+Data Collection and 
+Sampling Design 
+3) Say True (T) and False (F): 
+a) PPS and stratified sampling can be combined with other sampling 
+methods.          (T/F) 
+b) V(m st) is reduced by ensuring that units within individual strataare 
+heterogeneous.          (T/F) 
+c) The size of a stratified sample can be allocated among the strate,  
+the size being the number of population units in a stratum.        (T/F) 
+4) A systematic sample of size 18 has to be selected from a population of 124. 
+What problems do you face in selecting the sample? Is the sample mean the 
+unbiased estimator of the population mean M? How do you overcome these 
+problems? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+7.5.4.7 Cluster Sampling 
+The method: Supposing we are interested in studying certain characteristics of 
+individuals in an area. We would naturally select a random sample of 
+individuals from all the individuals residing in the area and collect the required 
+information from the selected individuals. We might also think of selecting a 
+sample of households out of all the households in the area and collect the 
+required details from all the individuals in the selected households. The 
+households in the area are clusters of individuals and what we have done is to 
+select a sample of such clusters and to collect the information needed from all 
+the individuals in the selected clusters instead of selecting a random sample of 
+individuals from all persons in the area.  What we have done is cluster 
+sampling. Cluster Sampling is a process of forming suitable clusters of units 
+and surveying all the units in a sample of clusters selected according to an 
+appropriate sampling method. The clusters of units are formed by grouping 
+neighbouring units or units that can be conveniently surveyed together . 
+Sampling methods like srswr, srswor, systematic sampling, pps and stratified 
+sampling discussed earlier can be applied to sampling of clusters by treating 
+clusters themselves as sampling units. The clusters can all be of equal size or 
+varying sizes, that is, the number of units can be the same, or vary from cluster 
+to cluster. Clusters can be mutually exclusive, that is, a unit belonging to one 
+cluster will not belong to any other cluster. They could also be overlapping. 
+Estimates from cluster sampling:  Let us consider a population of NK units 
+divided into N mutually exclusive clusters of K units each – a case of clusters 
+of equal size. The population mean M and the cluster means are given 
+respectively by M = (1/N)  sms,  s being over clusters s = 1 to N and m s =  
+(1/K) i Y si,  i being from i = 1 to K within the s-th cluster. Let us draw a 
+sample of one cluster by srs. The cluster mean m c-srs (the subscript c-srs 
+denotes cluster sampling with srs) is an unbiased estimate of M. The 
+sampling variance of the sample cluster mean is  
+V(mc-srs) = (1/N)    s (ms – M)2 = σσ σσ b
+2 = Variance between clusters;     s ,  
+s = 1 to N;                   (2.73) 
+
+
+--- Page 45 ---
+ 
+ 
+Research Design and 
+Measurement 
+46 
+Let us compare V(m c-srs) with the sampling variance of the sample mean when 
+K units are drawn from NK units by SRSWR method. How does the “sampling 
+efficiency” of cluster sampling compare with that of SRSWR?. The sampling 
+efficiency of cluster sampling compared to that of SRSWR, Ec/srswr , is defined 
+as the ratio of the reciprocals of the sampling variances of the unbiased 
+estimators of the population mean obtained from the two sampling methods . 
+The sampling variances and sampling efficiency are  
+V(msrswr) = (1/K) [(1/NK) s iYsi
+2 – M2] = σ2/K                            (2.74)   
+σ2 = σw
+2 + σb
+2 = within-cluster variance + between-cluster variance.         (2.75) 
+Ec/srswr > 1  if  σw
+2 > (K – 1)σb
+2                                                     (2.76) 
+Thus, cluster sampling is more efficient than SRSWR if the within-cluster 
+variance is larger than (K –1) times the between-cluster variance. Is this likely? 
+This is not likely as the between-cluster variance will usually be larger than the 
+within-cluster variance due to within-cluster homogeneity. Cluster sampling is 
+in general less efficient than sampling of individual units from the point of 
+view of sampling variance . Sampling of individuals could provide a better 
+cross section of the population than a sample of clusters since units in a cluster 
+tend to be similar. 
+7.5.4.8 Multi-Stage Sampling 
+We noted in the sub-section on cluster sampling that random sampling of units 
+directly is more efficient than random sampling of clusters of units. But cluster 
+sampling is operationally convenient. How to get over this dilemma? We may 
+first select a random sample of clusters of units and thereafter select a random 
+sample of individual units from the selected clusters. We are thus selecting a 
+sample of units, but from selected clusters of units. What we are attempting is a 
+two-stage sampling. This can thus be a compromise between the efficiency of 
+direct sampling of units and the relatively less efficient sampling of clusters of 
+units. This type of sampling would be more efficient than cluster sampling but 
+less efficient than direct sampling of individual units. In the sampling 
+procedure now proposed, the clusters of units are the first stage units (fsu) or 
+the primary stage units (psu). The individual units constitute the second stage 
+units (ssu) or the ultimate stage units (usu).  
+This procedure of sampling can also be generalised to multi-stage sampling. 
+Take for instance a rural household survey. The fsu’s in such a survey may 
+consist of districts, the ssu’s may be the tehsils or taluks chosen from the 
+districts selected in the first stage, the third stage units could be the villages 
+selected from the tehsils or taluks  selected in the second stage and the fourth 
+and the ultimate stage units (usu’s) may be the households selected from the 
+villages selected in the third stage. Such multi-stage sampling procedures help 
+in utilising such information related to the variable under study as may be 
+available in choosing the sampling method appropriate at different stages of 
+sampling. In a multi-stage sampling, estimates of parameters are built up stage 
+by stage. For instance, in two-stage sampling, estimates of the sample 
+aggregates relating to the fsu’s  are built up from the ssu’s using the sampling 
+method adopted for selecting the ssu’s. These estimates are then used with the 
+sample probabilities of selection of fsu’s to build up estimates of the relevant 
+population parameters. 
+
+
+--- Page 46 ---
+ 
+ 
+47 
+Data Collection and 
+Sampling Design 7.6 THE CHOICE OF AN APPROPRIATE 
+SAMPLING METHOD   
+We have considered a number of random sampling methods in the foregoing 
+sub-sections. A natural question that arises now is – which method is to be 
+adopted in a given situation? Let us consider this question, although the 
+answer to it lies scattered across the foregoing sub-sections. The choice of a 
+sampling design depends on considerations like a priori information available 
+about the population, the precision of the estimates that a sampling design can 
+give, operational convenience and cost considerations. 
+1) When we do not have any a priori  information about the nature of the 
+population variable under study, SRSWR and SRSWOR would be 
+appropriate. Both are operationally simple. However, SRSWOR is to be 
+preferred, since V(msrswor) < V(m srswr). This advantage holds only when the 
+sampling fraction is not small, or N and n are not large.  
+2) Systematic sampling is operationally even simpler than SRSWR and 
+SRSWOR, but it should not be used for sampling from populations where 
+periodic or cyclic trends/variations exist, though this difficulty can be 
+overcome if the period of the cycle is known. V(m sys) can be reduced if the 
+units chosen in the sample are as heterogeneous as possible.  But this will 
+call for a rearrangement of the population units before sampling.  
+3) When additional information is available about the variable ‘y’ under study, 
+say, on a variable (size variable) ‘x’ related to ‘y’, the pps method should 
+be preferred. The sampling variance of Y* (or m) gets reduced when the 
+probability of selection of units P i = ( X i /N) are proportional to Y i , that is, 
+the size Xi is proportional to Y i or the variables x and y are linearly related 
+to each other and the regression line passes through the origin. In such 
+cases pps is more efficient than SRSWR. Further, this method can be 
+utilised along with other sampling methods and their relative efficiencies. 
+pps is operationally simple. Pps-wor combines the efficiency of SRSWOR 
+and the efficiency-enhancing capacity of pps. However, most of the 
+procedures of selection available, estimators and their variance for pps-wor 
+are complicated and are not commonly used in practice. This is particularly 
+so in large-scale sample surveys with a small sampling fraction, as in such 
+cases sampling without replacement does not result in much gain in 
+efficiency. Hence unless the sample size is small, we should prefer pps-wr. 
+4) Stratified sampling comes in handy when we wish to get estimates at the 
+level of sub-populations or regions or groups. This method also gives us the 
+freedom to choose different sampling methods/designs in different strata as 
+appropriate to the group (stratum) of the population and the opportunity to 
+utilise available additional information relating to the stratum. The 
+sampling variance of estimators can also be brought down by forming the 
+strata in such a way as to ensure homogeneity of units within individual 
+strata. In fact, the stratum sizes can be so chosen as to minimise the 
+variance of estimators, when there is a ceiling on the cost of the survey. 
+Stratified sampling with SRS, SRSWOR or pps-wr presents a set of 
+efficient sampling designs.  
+5) Sometimes, sampling of groups of individual units than direct sampling of 
+units might be found to be operationally convenient. Supposing it is easier 
+to get a complete frame of clusters of individual units than that of units or, 
+
+
+--- Page 47 ---
+ 
+ 
+Research Design and 
+Measurement 
+48 
+only such a frame, and not that of the units, is available. (e.g. households 
+are clusters of individuals). In such circumstances, cluster sampling is 
+adopted. This is in general less efficient than direct sampling of 
+individual units, as clusters usually consist of homogeneous units. A 
+compromise between operational convenience and efficiency could be 
+made by adopting a two-stage sampling design , by selecting a sample of 
+individual units (second stage units) from sampled clusters (the first stage 
+units). A multi-stage design would be useful in cases where clusters have to 
+be selected at more than one stage of sampling.    
+6) Finally, we can use the technique of independent I-PSS in conjunction with 
+the chosen sampling design to get at (i) an unbiased estimate of V(m) for 
+any sampling design or estimator of V(m), however complicated, (ii) a 
+confidence interval for ‘M’ based only on the I-PSS estimates (when the 
+population distribution is symmetrical) and (iii) a tool for monitoring the 
+quality of work of the field staff and agencies.  
+7) SRSWOR, stratified sampling with SRSWOR and, when available 
+information permits, pps-wr and stratified sampling with pps-wr, turn out 
+to be a set of the more efficient and operationally easy designs to choose 
+from. I-PSS can also be used in these designs where possible and 
+necessary. 
+Check Your Progress 5 
+1) We wish to study the wage levels of factory labour. What type of sampling 
+method would you adopt for the study and why if (a) just a list of factories 
+is available with the Chief Inspector of Factories of different State 
+Governments, (b) if the list in (a) above also gives the total number of 
+employees in the individual factories at the end of last year and (c) the list 
+also indicates both the kind of product manufactured in the factory along 
+with the information specified in (b) above. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+7.7 LET US SUM UP  
+There are broadly three methods of collecting data. The array of tools used for 
+data collection by such methods has expanded over time with the advent of 
+modern technology. Confining data collection efforts to a sample from the 
+population of interest to the study inevitably leads to questions like the use of 
+random and non-random samples. Judgment sampling, convenience sampling, 
+purposive sampling, quota sampling and snowball sampling all belong to the 
+latter group. The absence of a clear relationship between a non-random sample 
+and the parent universe and the presence of the researcher’s bias in the 
+selection of the sample render such samples useless for drawing valid 
+conclusions about the parent population. But these methods are inexpensive 
+and quick ways of getting a preliminary idea of the universe for use in 
+designing a detailed enquiry and in exploratory research. Random samples, on 
+the other hand, are free from such drawbacks and have properties that help in 
+arriving at valid conclusions about the parent population.   
+
+
+--- Page 48 ---
+ 
+ 
+49 
+Data Collection and 
+Sampling Design 
+The simplest of the sampling methods – SRSWR - ensures equal chance of 
+selection to every unit of the population and yields a sample in which one or 
+more units may occur more than once. ‘m srswr’ is an unbiased estimator of M. 
+Its precision as an estimator of M increases as the sample size increases. 
+SRSWOR yields a sample of distinct units. ‘m srswor’ is also unbiased for ‘M’. 
+SRSWOR is a more efficient than SRSWR as V(m srswor) < V(m srswr). But this 
+advantage disappears when the sampling fraction is small (< 0.05). Both 
+provide an unbiased estimator of V(m). An operationally convenient procedure 
+- interpenetrating sub-samples (I-PSS) – also provides an unbiased estimator 
+of V(m) for any sampling design and estimator for V(m), however complicated.  
+Systematic sampling is a simple and operationally convenient method used in 
+large-scale surveys that requires only a random start and the sampling interval 
+k = [N/n] for drawing the sample. A slight variant of ‘m’ is unbiased for ‘M’. 
+Circular systematic sampling takes care of problems that arise when N/n is not 
+an integer.. An unbiased estimate of V(m) is not possible but this problem can 
+be tackled easily. Systematic sampling is not recommended when there is a 
+periodic or cyclic variation in the population. This problem too can be 
+overcome if the period of the cycle is known. 
+An example of methods where the probability of selection varies from unit to 
+unit is pps. The “size” could be the value of a variable related to the study 
+variable. In pps, each y i / p i , where y i is the value of the study variable 
+associated with the selected unit and p i  the probability of selection of the unit, 
+is an unbiased estimate (Y*) of the population total Y and [(1/N) Y*] an 
+unbiased estimator of M. As V(Y*) is small if the probabilities P i are roughly 
+proportional to Y i , pps sampling is more efficient than SRS if the size 
+variable x is proportional to y, that is,  x and y are linearly related and the 
+regression line passes through the origin. pps sampling can be done  with 
+SRSWR, SRSWOR or systematic sampling. In pps-srswr, [(1/n)  i(yi / pi)], ( i 
+i = 1 to n), is an unbiased estimator of Y. This being the mean of n independent 
+unbiased estimates with the same variance V(Y*), v(Y*) can be derived using 
+the I-PSS technique. 
+Stratified Sampling is used when (i) estimates are needed for subgroups of a 
+universe or (ii) the subgroups could be treated as sub-universes. It gives us the 
+freedom to choose the sampling method as appropriate to each stratum. 
+Estimates of parameters are available for the sub-universes (strata) and these 
+can then be combined over the strata to get estimates for the entire universe. SE 
+of estimates based on stratified sampling can be small if we form the strata in 
+such a way as to minimise intra-strata variance. Each stratum should thus 
+consist of homogeneous units, as far as possible. Stratum-wise sample sizes 
+can also so chosen as to minimise the variance of estimators.  
+Another operationally convenient sampling method, cluster sampling, is to 
+sample groups of units or clusters of units at random and collect data from all 
+the units of the selected clusters. For example, the household is a cluster of 
+individuals. SRSWR, SRSWOR, pps or systematic sampling can be used for 
+sampling clusters. Cluster sampling is, in general, less efficient than direct 
+sampling of units from the point of view of sampling variance.  The question 
+here is one of striking a balance between operational convenience and cost 
+reduction on the one hand and efficiency of the sampling design on the other.  
+We could improve the efficiency of cluster sampling by selecting a random 
+sample of units from each of the selected clusters - introduce another stage of 
+
+
+--- Page 49 ---
+ 
+ 
+Research Design and 
+Measurement 
+50 
+sampling. This is two-stage sampling. This would be more efficient than 
+cluster sampling but less efficient than direct sampling of units.  Multi-stage 
+sampling can also be done. Such designs are commonly used in large-scale 
+surveys as these facilitate the utilisation of information available and the choice 
+of appropriate sampling designs at different stages.        
+Thus while non-random sampling methods are useful in exploratory research 
+and preliminary work on planning of enquiries, random sampling techniques 
+lead to valid judgments regarding the universe. Among random sampling 
+methods, SRSWOR, stratified sampling with SRSWOR and, when available 
+information permits, pps-wr and stratified sampling with pps-wr, turn out to 
+be a set of the more efficient and practically useful designs to choose from. I-
+PSS can also be used in these designs where possible and necessary.  
+7.8 SOME USEFUL BOOKS  & REFERENCES 
+Burgess, R.G.(ed) 
+(1982) 
+:
+ Field Research: A Sourcebook and Field 
+Manual. (Contemporary Social Research 4), 
+George Allen and Unwin, London. 
+Des Raj & Chandok 
+P(1998)  
+:
+ Sampling Theory, Narosa Publishing House, 
+New Delhi. 
+Levin, Richard I. & 
+Rubin, David S. (1991) 
+:
+ Statistics for Mangement, Fifth Edition, 
+Prentice-Hall of India (Private) Limited, M-97 
+Connaught Circus, New Delhi – 110001. 
+Krishniah, P.R. & Rao, 
+C.R. (Eds.) (1988) 
+:
+ Handbook of Statistics – Vol. 6 : Sampling, 
+North Holland, Amsterdam. 
+Mukhopadhyay, 
+Parimal (1998) 
+:
+ Theory & Methods of Survey Sampling, 
+Prentice-Hall of India Pvt. Ltd., New Delhi. 
+Murthy, M.N.  (1967) :
+ Sampling Theory and Methods, Statistical 
+Publishing Society, 204, Barrackpore Trunk 
+Road, Kolkota-700108. 
+Rao, C.R., Mitra, S.K. 
+and Matthai, A.  (1966) 
+:
+ Formulae and Tables for Statistical Work, 
+Statistical Publishing Society, Kolkota – 
+700108. 
+Sampath, S. (2005) :
+ Sampling Theory & Methods, Second Edition, 
+Narosa Publishing House, New Delhi, Chennai, 
+Mumbai, Kolkata. 
+Singh, Kultar (2007) :  Quantitative Social Research Methods, Sage 
+Publications (Pvt.) Limited, New Delhi 
+Singleton Jr., Royce A. 
+& Straits, Bruce C. 
+(2005) 
+:
+ Approaches to Social Research, 4 th Edition, 
+Oxford University Press, New York – Oxford. 
+Viswanathan, P.K.    
+(2007) 
+: Business Statistics – An Applied Orientation, 
+Darling Kindersely (India) Pvt. Ltd. – licensees 
+of Pearson Education in South Asia. 
+
+
+--- Page 50 ---
+ 
+ 
+51 
+Data Collection and 
+Sampling Design 7.9 ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1)  Three methods of data collection are: the census and survey method, the 
+observation method, and the experimental method. 
+2)  A function of population values is a parameter; a function of sample 
+observations is a statistic. 
+2 2 2 2 2 21 1 1 1,  ,  ,  and i i i iM Y m y Y M s y mN N N Ns= = = - = -å å å å , 
+where M/m is the mean of the population/sample values are the 
+expressions of population/sample means and population/sample variance. 
+3)  The purpose of drawing/studying a sample is to arrive at inferences about 
+the characteristics of the unknown population.  Thus, the sample mean is 
+an estimator of the population mean (of the variable under study). The actual 
+value of the estimator when computed from a sample is the estimate.   
+4)  A representative sample is one that possesses the characteristics of the 
+population in the same proportion as in the population. A conscious or 
+subjective selection of units introduces a bias that erodes the sample’s 
+capacity to be a true representative of the characteristics of the population. 
+It is for this reason that a random sampling procedure is preferred.  Although 
+non-random sampling is drawn without any regard to the rigors of a random 
+sampling procedure, it gives a rough idea of the unknown features of the 
+population under focus. Implemented judiciously, it can serve the objectives 
+of providing preliminary inputs for planning a detailed enquiry later.   
+Check Your Progress 2 
+1) Sample observations in a random sample are random variables. A statistic 
+is a function of sample observations and is, therefore, also a random 
+variable. This random variable assumes different values in repeated 
+random samples. These values form a frequency distribution of the 
+statistic. This frequency distribution will, in the limit, tend to a probability 
+distribution that gives the probabilities of the statistic assuming different 
+values. This probability distribution is called the sampling distribution of 
+the statistic. Let a statistic ‘t’ be an estimator of a population parameter, 
+say, T. The estimator ‘t’ is an unbiased estimator of the parameter ‘T’, if 
+the mean of the sampling distribution of ‘t’ is ‘T’. Since the mean of the 
+sampling distribution of ‘t’ can also be denoted by E(t), we can express 
+this condition as E(t) = T.  
+2) Let ‘t’ be an estimator of ‘T’. The sampling distribution of the statistic ‘t’ 
+can be derived only if the statistic is based on a random sample selected 
+from the population with a parameter ‘T’. The mean of the sampling 
+distribution can then be derived from the sampling distribution of ‘t’. That 
+is, E(t) can be derived. If E(t) is ≠ T and E(t) = KT or T+K, we can correct 
+the estimator ‘t’ as (t/K) or (t – K) to arrive at an unbiased estimator of T. 
+An example is the unbiased estimator of σ2. 
+3) See Sub-section 7.5.3 A  
+
+
+--- Page 51 ---
+ 
+ 
+Research Design and 
+Measurement 
+52 
+Check Your Progress 3 
+1) The answer for (i) would be 4.41 2.1 0.52516 4= = . The answer for (ii) is 
+4.41 2.1 0.4225 5= = . The percentage decrease in SE works out to [(0.525 
+– 0.42)x 100] / [0.525] = 20%. The percentage increase in the sample size 
+is 9 100 56.25%*16= = . The extent of increase is larger than the extent of 
+decrease in the standard error. Try to work out (iii) and the compare the 
+results of (ii) & (iii). 
+2) Use the formula 2.39 for variance of the sample mean under SRSWOR. 
+Note that, for the same sample size, 
+1( ) ( ) 1 ( ). 1 1
+srswor srswr srswr
+N n nV m V m V mN N
+− −− = −− −  
+ For n =16 and using SRSWOR sampling, SE works out to 64 0.525 0.425*79 = . 
+Compare it with the SE for n = 25 in problem 1. SE of the sample mean 
+was reduced to more or less this level by increasing the size of the SRSWR 
+sample from 16 to 25. Work out (ii) & (iii)  
+3)  a)  F. SE(m) decreases in inverse proportion to the square root of the 
+sample size. 
+     b)  F. SRSWOR is more advantageous if the sampling fraction is > 0.5. 
+     c)  F. V(Y*) = N 2 V(m). 
+Check Your Progress 4  
+1) When information on an auxiliary variable ‘x’ related to the variable ‘y’ 
+under study is available for each unit of the population. 
+2) When P i are proportional toYi . That is, when the variable ‘x’ and ‘y’ are 
+linearly related to each other and the regression line passes through the origin.  
+3) (a) T; (b) F: they should be homogeneous; (c) T. 
+4) The integer ‘k’ nearest to 124/18 is 7. Choose a random start between 1 
+and 7 for selecting the sample. Since N = 124 is not a multiple of n = 18, 
+two problems arise. (i) Samples with random start 1 to 5 are of size 18 and 
+others of size 17. The statistic 
+7
+124
+i i
+k y yN =∑ ∑  and not the sample 
+mean is an unbiased estimate of M. Both the problems at (i) and (ii) are 
+overcome by adopting the circular systematic sampling procedure. 
+Check Your Progress 5 
+1) a) State-wise lists are available. Stratified sampling with each State (or part 
+of it depending on the number of factories) being a stratum is an obvious 
+choice. We need to collect details relating to workers in the factories. 
+Within each stratum a cluster of factories can be selected and wage data 
+relating to all the workers in each selected factory may be collected. 
+Alternatively, we could adopt a two-stage sampling – select a sample of 
+factories (fsu’s) and a sample of workers (ssu’s) from the selected 
+factories, to enhance the efficiency of sampling. SRSWOR would be 
+appropriate for each stage of selection.  

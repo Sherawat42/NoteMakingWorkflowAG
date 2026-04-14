@@ -1,0 +1,494 @@
+--- Page 29 ---
+ 
+ 
+29
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+21.4  SAVING 
+As you are aware, broadly speaking, GNP is made up of consumption, saving 
+exports net of imports, besides net factor income from abroad. Saving is 
+important in as much as it goes to finance investment, which in turn brings 
+about growth of GNP. What is the volume of Saving relative of GNP? How 
+much of it is consumed by the needs of depreciation? Who all contribute, and 
+how much, to the total volume of Saving? Let us see what kind of data is 
+available on such questions. 
+Estimates of Gross Domestic Saving (GDS) and Net Domestic Saving (NDS) 
+in current prices and the Rate of Saving are made by CSO and published in the 
+National Accounts Statistics (NAS) every year and the Press Note of 
+January of every year releasing First Revised Estimates . These are first 
+made for any year along with First Revised Estimates of GDP, etc., and revised 
+and finalized along with its subsequent revisions. The structure of Savings, that 
+is, the distribution of GDS and NDS by type of institution – household sector, 
+private corporate sector and public sector are also available in this publication. 
+Also presented in this document is the distribution of: 
+i) GDS, NDS and consumption of fixed capital (depreciation) by public 
+sector, private corporate sector and household sector; 
+ii) Public sector GDS, consumption of public sector fixed capital and public 
+sector NDS by type of institutions22; 
+iii) Public sector GDS – by public authorities [sub-divided further into 
+government administration and departmental (commercial) enterprises], 
+non-departmental enterprises (broken up further into government 
+companies and statutory corporations, the latter including port trusts 
+also); 
+iv) Private sector GDS, consumption of fixed capital and NDS by private 
+corporate sector and household sector; 
+v) Private corporate sector GDS by joint stock companies (distributed 
+further into financial and non-financial companies) and cooperative banks 
+and societies; 
+vi) GDS of the household sector into (net) financial saving and saving in 
+physical assets and that of (net) financial saving, that is, currency, net 
+deposits, shares and debentures, net claim on Government, life insurance 
+funds and provident and pension funds; 
+vii) Financial assets [in greater detail than in (vi) above] and liabilities of the 
+household sector leading to net financial saving of the household sector; 
+and 
+viii) Item (xiii) in the list in sub-section (a) of Section 20.3.2 – these indicate 
+estimates of net saving in these entities. 
+NAS 2014 presents the above estimates for 2012-13 and for the period 2004-05 
+to 2012-13. The Press Note dated the 31 st January, 2014 of MoSPI releasing 
+Quick Estimates provides estimates of GDS, NDS, and all the estimates 
+referred to at (i) to (vii) above for 2012-13. Time series of estimates of GDS 
+and NDS in current prices are, however, available from 1950-51 onwards. The 
+                                                            
+ 
+22 See footnote 12. 
+
+
+--- Page 30 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+30 
+National Income, Saving 
+time series on the structure of GDS by institutions (public, private corporate 
+and household sectors) are presented in the Pre-Budget Economic Survey 
+(2014) of the Ministry of Finance. The Handbook of Statistics on the Indian 
+Economy of RBI presents time series data from 1952-53 on GDS and NDS 
+and from 1970-71 onwards on (i) their components by institutions, and (ii) 
+financial assets and liabilities of the household sector, item-wise, at current 
+prices. The EPWRF publication on NAS (fifth edition) gives time series data 
+from 1950-51 on all these variables and on Domestic Saving in public sector by 
+type of institutions. The CMIE publication referred to earlier also contains time 
+series data on GDS and NDS, though for a shorter period of time. 
+Estimates of Gross and Net Domestic Saving at the State and Union Territory 
+levels are not being made at present by DESs of State/Union Territories. 
+The CSO publishes “ Sources and Methods”,  an additional publication 
+showing the detailed methodology followed and data sources used for 
+preparation of the National Income aggregates in the base year and the 
+methodology to be followed since the change in base year. It may be added that 
+estimates of Savings suffer from a number of limitations due largely to 
+deficiency of data. This is particularly so in respect of estimates of various 
+financial instruments from the private corporate sector and the household 
+sector. Saving being the excess of income over expenditure, the major gaps in 
+data relate to the household sector, non-profit institutions serving households 
+(NPISH) and local bodies. Quality of data relating to the private corporate 
+sector poses an additional problem. The estimate of Savings of the household 
+sector in physical assets is thus derived as a residual, in the absence of direct 
+data.23 
+21.5  INVESTMENT 
+Investment is Capital Formation (CF). Investment of money in the shares of a 
+company or purchase of land is not investment but buying a house or 
+machinery is investment. In other words, investment is creation of physical 
+assets like machinery, equipment, building, inventories and so on, called 
+“produced assets”, adding to the capital stock (of such assets) in the economy, 
+enhances the productive capacity of the economy. Investment or CF is another 
+important component of GNP and the rate of investment – expressed as a 
+proportion of GNP – largely determines the rate of growth of the economy. 
+How is capital formation financed by the economy? What is the contribution of 
+different sectors to capital formation or, how much is used up by different 
+sectors? What is the capital stock available in the economy? These are all the 
+questions that rise in one’s mind when considering strategies for economic 
+growth. What kind of data is available? 
+The annual NAS publication of the CSO presents estimates of Gross 
+Domestic Capital Formation (GDCF), Gross Domestic Fixed Capital 
+Formation (GDFCF), Change in Stocks, Consumption of Fixed Capital (CFC), 
+Net Domestic Capital Formation (NDCF) and Net Domestic Fixed Capital 
+Formation (NDFCF) in current prices and at constant prices. These estimates 
+are made along with First Revised Estimates of National Income in January 
+every year and the process of revision of these estimates proceeds along with 
+that of the estimates of national income aggregates. The estimates of capital 
+formation are presented in the NAS through two alternate approaches, namely, 
+                                                             
+23Report of the National Statistical Commission, Chapter 13, Section 13.6  
+
+
+--- Page 31 ---
+ 
+ 
+31
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+through the flow of funds approach and through the commodity flow approach. 
+The flow of funds approach is gross domestic savings plus net capital inflows 
+from abroad, while the commodity flow approach, derived by the types of 
+assets. The successive issues of NAS and the Press Note of MoSPI of 
+January every year also present estimates of the distribution of the following 
+aggregates at current and constant prices: 
+i) GDCF, GDFCF, Change in Stocks, CFC, NDCF and NDFCF by type of 
+institutions (public sector, private corporate sector and household sector); 
+ii) GDFCF in the public sector, private corporate sector and household 
+sector by type of assets (construction and machinery & equipment); 
+iii) GDCF, GDFCF, Change in Stocks, CFC, NDFCF and NDCF by 
+economic activity24; 
+iv) Net Capital Stock (NCS), Net Fixed Capital Stock (NFCS) and Inventory 
+as on the 31 st march of each calendar year by type of institutions 
+(Government administrative departments, Departmental enterprises, Non-
+departmental enterprises, joint stock companies of the private corporate 
+sector, cooperative and household sector); 
+v) NCS, NFCS and Inventory as on the 31 st March of each calendar year by 
+economic activity; 
+vi) Consolidated Account of the Nation – How Capital Formation is financed 
+(current prices); 
+vii) Consolidated Account of the Nation – External Transactions showing 
+current and capital transactions (in current prices); 
+viii) GDCF, GDFCF and Change in Stock in the public sector by economic 
+activity and type of institutions; 
+ix) NDCF, NDFCF and Change in Stock in the public sector by economic 
+activity and type of institutions; 
+x) GDFCF in each type of public sector institutions by type of assets (at 
+current prices); 
+xi)  (v) above for the public sector; 
+xii) Financing of Capital Formation in (a) Railways, (b) Public Sector 
+Communication and (c) Administrative Departments including Departmental 
+Enterprises other than (a) and (b), (d) Non-Departmental Financial and 
+Non-Financial Enterprises (in current prices); and 
+xiii) Time series of GDCF and GFCF from 1951 to latest financial year. 
+NAS 2014 presents estimates of aggregates listed above at current and constant 
+(2004-05) prices for the period 2004-05 to 2012-13. The MoSPI Press Note of 
+the 31st January, 2015 provide estimates of GCF, GFCF and consumption of 
+fixed capital in current and constant (2011-12) prices as also of the distribution 
+of these by industry of use and by institutional sectors of the economy, as 
+defined in the SNA, namely, Public non-financial corporations, private non-
+financial corporations, public financial corporations, private financial corporations, 
+general Government and Households for the period 2011-12 to 2013-14. 
+ 
+                                                            
+ 
+24 See footnote 10. 
+
+
+--- Page 32 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+32 
+National Income, Saving 
+Other publications providing time series of CSO data on capital formation are: 
+Sl. 
+No. 
+Publication  Variable Time Series 
+From 
+1) Pre-Budget Economic 
+Survey (2006) 
+ #GDCF, GFCF and 
+Change in Stocks and their 
+structure by by institutions 
+1950-51 
+2) RBI Handbook of 
+Statistics on the Indian 
+Economy – 2005 
+*i) GDCF and NDCF 1950-51 
+  *ii) GDCF, GFCF and Change 
+in Stocks and their 
+structure by institutions. 
+1970-71 
+  #iii) Financial assets and 
+liabilities of the household 
+sector (item-wise) 
+1970-71 
+3) EPWRF publication 
+on NAS (Fifth 
+Edition) 
+*i) data of the type in items (i) 
+to (ix) and (xi) of NAS 
+listed in the preceding 
+paragraph of this section 
+are generally given. 
+1950-51 
+  *ii) Capital-output ratios by 
+institutions; 
+1950-51 
+  *iii) Average NFCS to Output 1950-51 
+4) CMIE  *GDCF and GFCF 1960-61 
+# at current prices   *at current and constant (1993-94) prices 
+The publications/documents of CSO and other documents like the Report of 
+the National Statistical Commission referred to in the section on National 
+Income contain the methodology and the data utilized for preparing estimates 
+of Capital Formation and related aggregates also. 
+Estimates of GFCF at the State level are being prepared by 14 States, namely, 
+Punjab, Haryana, Himachal Pradesh, Madhya Pradesh, Orissa, Meghalaya, 
+Assam, Andhra Pradesh, Tamil Nadu, Kerala, Karnataka, Maharashtra, Gujarat 
+and Rajasthan. The status of these estimates are indicated in the EPWRF 
+publication on NAS, referred to in the sub-section 20.3.4. 
+Gaps in data for the estimation of capital formation exist in a number of 
+relevant areas25. Some of these are: 
+i) Non-availability of regular data on equipment and machinery (part of 
+GFCF) in domestic production in unregistered manufacturing; 
+ii) Lack of annual enterprise surveys and surveys on NPISHs for estimating 
+GFCF by institutional sectors of the economy; 
+iii) Complete accounts of local bodies are not available for some States/ UTs; 
+iv) Bank advances and other indirect approaches form the basis of estimation 
+of Changes in Stocks, with benchmark estimates coming from 
+quinquennial enterprise surveys; and 
+                                                            
+ 
+25Report of the National Statistical Commission, Chapter 13, Section 13.6. 
+
+
+--- Page 33 ---
+ 
+ 
+33
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+ 
+v) Inadequacies in (a) the representative character of the sample of 
+companies and (b) the blow-up factor used for estimation of saving and 
+investment of the private corporate sector. 
+Check Your Progress 3 
+1) What approaches are followed by CSO to compile the saving data in 
+National Accounts Statistics? Which estimates of investment are prepared 
+by the CSO? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) Go through the methodology contained in NAS 2015 and the data utilized 
+for preparing estimates of capital formation and related aggregates. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) From where can you get the data on contribution of different sectors to 
+capital formation? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+21.6  LET US SUM UP 
+The Indian Statistical System with the Ministry of Statistics and Programme 
+Implementation (MoSPI) at its apex collects, compiles and disseminates an 
+enormous amount of data on diverse aspects of the Indian economy, to the 
+extent feasible, international standards prescribed by the United Nations and 
+other international bodies. MoSPI sets standards to be followed by statistical 
+agencies in the country and coordinates statistical activities carried out by these 
+agencies. It also developes standardized classification of economic activities, 
+namely, NIC, revising it from time to time keeping pace with the structural 
+changes taking place in the economy. Data published by various Government 
+agencies can be accessed through the portal www.data.gov.in . Other agencies 
+also bring together and publish comprehensive data on some or all sectors of 
+the economy, these publications being, the annual Economic Survey of the 
+Ministry of Finance, the Budget documents, the Five-Year Plan documents, 
+RBI’s Statistical Handbook on the Indian Economy,  its monthly bulletin, 
+the website on the database of the Indian Economy,  and the Human 
+Development Reports prepared by the Planning Commission and the State 
+Governments. Most of these data are available in electronic format – and/or on 
+
+
+--- Page 34 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+34 
+National Income, Saving 
+the websites of the agencies concerned. One can usually download the 
+published reports of the Government agencies from their respective websites 
+free-of-charge. Various agencies also give anonymized data for analysis 
+purposes. The CMIE (EIU), Mumbai and the EPWRF, Mumbai also bring 
+together and publish comprehensive data on different sectors/aspects of the 
+economy regularly. The Statistical Handbooks of the State/Union Territory 
+DES and the District Census Handbooks published by the Census 
+Directorates/Registrar general of India provide comprehensive information 
+across sectors at the State and sub-State levels. Finally, the website of the 
+United Nations Statistics Division provide access to methodological 
+documents, data and report of various UN organisations which can be used for 
+cross-country comparisons. The search for any kind of data can thus very well 
+start from one of these sources and move on, if necessary, to the primary 
+source. 
+National Accounts Statistics (NAS) , which consists of estimates of National 
+Income (NNI), GNI, GDP, NDP and related macroeconomic aggregates like 
+Consumption Expenditure, Personal Disposable Income and Factor Incomes 
+constitute an important tool for analyzing the performance of an economy. 
+These compiled by CSO, MoSPIand published every year. In compiling these, 
+CSO follows the guidelines given in 1993 SNA of the United Nations to the 
+extent feasible. These estimates are published in great detail in CSO’s annual 
+publication National Accounts Statistics (NAS) . The latest issue of this 
+publication – NAS 2014 – is also available on the MoSPI website. In addition, 
+Advance Estimates of GNI, GDP, NNI and per capita income for a financial 
+year are released two months before the end of the financial year through a 
+Press Note and in the MoSPI website . First Revised Estimates of these 
+aggregates relating to a financial year and revised estimates of earlier years are 
+released by January of the next year, that is, within ten months after the close 
+of the financial year through a Press Note and on the MoSPI website. Quartly 
+Estimates of GDP are also prepared and released, generally within 45 days 
+from the close of a quarter.  
+NAS estimates are presented in current and constant (base year) prices. CSO 
+changes the base year from time to time to take note of structural changes in 
+the economy and to depict a true picture of the economy. The base year was 
+changed to 2004-05 in January, 2010 and to 2011-12 in January, 2015. Thus, as 
+of the 1 st March, 2015, Advance Estimates of GDP, etc., for 2014-15, First 
+Revised Estimates of GDP, etc., for 2013-14, estimates of GDP for the quarter 
+ending December, 2014 and for the period April-December, 2014, all in current 
+and constant (2011-12) prices, have been released. 
+Estimates of Saving and Capital Formation form part of the National Accounts 
+Statistics. These estimates are presented in detail in the publication National 
+Accounts Statistics, published in May of each year . The press note of 
+January, 2015, has provided the estimates referred to above with a changed 
+base year 2011-12. The detailed estimates presented in NAS enable an analysis 
+of various aspects of Saving and Capital Formation like the structure of Saving 
+and Capital Formation, the manner in which Capital Formation is financed, the 
+role of the public sector in Capital Formation and trends in the rate of Saving 
+and Capital Formation and net capital flow from abroad. 
+Estimates of State Income are made and released by DES of all States and 
+Union Territories except Dadra & Nagar Haveli, Daman & Diu and 
+Lakshadweep. Estimates of GFCF are being made by 14 state DESs. District 
+
+
+--- Page 35 ---
+ 
+ 
+35
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+Income estimates are made and released by DES of States. Estimates of State 
+Income are also available in MoSPI website, besides the Economics Survey, 
+RBI Statistical Handbook on the Indian Economy and the CMIE and 
+EPWRF (State Income) publications referred to earlier. The last publication 
+also give the State level GFCF estimates. The RBI Handbook, the Economic 
+Survey, the EPWRF publication on NAS and the CMIE publication referred 
+to earlier also present the national level estimates of GDP, etc., estimates of 
+Saving and Capital Formation made by CSO. The CMIE and the EPWRF 
+publications also contain almost as much detail as the publication NAS and in a 
+time series format. 
+We have also noted the limitations and inadequacies to which estimates of 
+national and state income and those of capital formation and saving are subject. 
+Improvement in methodology and efforts to fill gaps in data constitute a 
+continuous process. 
+21.7 EXERCISES 
+1) What type of data will you need to assess the performance of Indian 
+Economy? Explain the various sources of such data? 
+2) State the difference between “Gross” and “Net” in the context of domestic 
+and national income. How can one arrive at “Net National Income” from 
+“Gross Value Added at basic prices”? 
+3) What are the relationships depicted in Input-Output Table? How are these 
+tables useful in research work? 
+4) With the help of NAS 2014, explain the structure of saving in India. 
+5) What do you mean by the term capital formation? What is the capital stock 
+available in India? 
+21.8  SOME USEFUL BOOKS  
+Central Statistics Office (2012): National Income Statistics  – Sources and 
+Methods, Ministry of Statistics and Programme Implementation, Government 
+of India, New Delhi. 
+_________(2008): Methods of estimating State and District Domestic Product. 
+_________(2014): National Accounts Statistics, 2014, 
+_________(2007): Input Output Transactions Table2007-08 
+_________(2015): Press Note New Series estimates of national income, 
+consumption expenditure, saving and capital formation (base year 2011-12) 
+International Labour Organisation (ILO) (1993) : Resolution Concerning 
+Statistics of Employment in the Informal Sector, 15thInternational Conference 
+of Labour Statisticians (ICLS), January, 1993. Geneva. 
+Indian Association for Research in National Income and Wealth & 
+Institute of Economic Growth (1998): Golden Jubilee Seminar on Data Base 
+of the Indian Economy, Delhi. A look at the Bulletins of the Association would 
+also be useful. 
+http://mospi.gov..in : website of the Ministry of Statistics and Programme 
+Implementation, Govt. of India. 
+http://rbi.org.in : website of the Reserve Bank of India. 
+
+
+--- Page 36 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+36 
+National Income, Saving 
+http://unstats.un.org : website of the United Nation’s Statistics Division. 
+Katyal, R.P., Sardana, M.G. and Satyanarayana, J. (2001): Estimates of 
+DDP, Discussion Paper 2, National Workshop on State HDRs and the 
+Estimation of District Income Poverty Under the State HDR Project Executed 
+by the Planning Commission (GOI) with UNDP Support held in Bangalore in 
+July, 2001, UNDP, New Delhi. 
+Ministry of Statistics & Programme Implementation (2001): Report of the 
+National Statistical Commission, Ministry of Statistics and Programme 
+Implementation, New Delhi. 
+System of National Accounts 1993 (SNA 1993) Commission of the European 
+Communities, International Monetary Fund, Organisation for Economic 
+Cooperation and Development United Nations, World Bank, Brussels/ 
+Luxembourg, New York, Paris, Washington, D.C. www.mospi.nic.in : 
+Website of the Ministry of Statistics and Programme Implementation. 
+21.9 ANSWERS ON HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Coordination of statistical activities in the country maintenance of 
+statistical norms and standards, providing liaison with control, state and 
+international statistical agencies. 
+2) See Section 21.2 
+3) See Section 21.2 
+4) See Section 21.2 
+Check Your Progress 2 
+1) The data like estimates of national income and related macro economic 
+aggregates (for example Personal Disposable Incomes, Saving, Consumption, 
+Capital Formation etc.) which provide a comprehensive view of the 
+internal and external transactions of the economy over a period form the 
+system of National Accounts. 
+2) 1948-49, 1960-61, 1970-71, 1980-81, 1993-94, 1999-2000. 
+3) RBI – The Handbook of Statistics on the Indian Economy, CMIE – 
+National Income Statistics, EPWRF publication on NAS and SDP etc. 
+4) Directorates of Statistics and Economics. 
+Check Your Progress 3 
+1) See Section 21.4 
+2) The annual document of NAS published by CSO. 
+3) See Section 21.5 
+
+
+--- Page 37 ---
+ 
+ 
+ 
+37
+Agricultural and 
+Industrial DataUNIT 22 AGRICULTURAL AND 
+INDUSTRIAL DATA 
+Structure 
+22.0 Objectives 
+22.1 Introduction 
+22.2 Agricultural Data 
+ 22.2.1 Agricultural Census 
+ 22.2.2 Studies on Cost of Cultivation 
+ 22.2.3 Annual Estimates of Crop Production 
+ 22.2.4 Livestock Census 
+ 22.2.5 Data on Production of Major Livestock Products 
+ 22.2.6 Agricultural Statistics at a Glance (ASG) 
+ 22.2.7 Another Source of Data on Irrigation 
+ 22.2.8 Other Data on the Agricultural Sector 
+22.3 Industrial Data 
+ 22.3.1 Data Sources Covering the Entire Industrial Sector 
+ 22.3.2 Factory Sector – Annual Survey of Industries (ASI) 
+ 22.3.3 Monthly Production of Selected Industries and Index of Industrial Production (IIP) 
+ 22.3.4 Data on Unorganised Industrial Sector 
+ 22.3.5 Industrial Credit and Finance 
+ 22.3.6 Contribution of Industrial Sector to GDP 
+22.4 Let Us Sum Up 
+22.5 Exercises 
+22.6 Some Useful Books 
+22.7 Answer or Hints to Check Your Progress Exercises 
+22.0  OBJECTIVES  
+After going through this Unit, you will be able to: 
+• know the kind of agricultural data available; 
+• explain the different sources of agricultural data and different data 
+generating agencies; 
+• describe the characteristics of multivariable industrial data; and 
+• know how to access the different types of agricultural and industrial data. 
+22.1  INTROCUTION  
+In the previous unit, we have looked at data on macro variables like National 
+Income, Saving and Investment, which tell us about the dimension and broad 
+structure of the economy and the direction in which the economy is moving. 
+ 

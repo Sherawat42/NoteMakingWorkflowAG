@@ -1,0 +1,782 @@
+--- Page 11 ---
+ 
+ 
+Research Design and 
+Measurement 
+12 
+strength of each method and by combining their respective strengths within one 
+single research design. The argument of incompatibility between two methods 
+on philosophical ground is not valid because of the following reasons: 
+(Bergman, 2008) 
+i) The QL and QN methods represent large and heterogeneous familities of 
+methods which vary within their own family to such an extent that it is 
+difficult to identify unique set of qualities or attributes that encompasses the 
+characteristics of one family of methods, clearly distinct from the 
+characteristics of the members of the other family. Most characteristics 
+encompass either only a subgroup of members of the family or are also 
+applicable to some members of other family. Hence there is a need to re-
+think the division of labour between QL and QN methods in order to better 
+understand the possibilities and functions of methods to better justify and 
+apply mixed method design. 
+ii) The proposition of existence of one single reality under QN method is 
+inconsistent with research applications. The emergent structures are based 
+on co-construction between the researchers’ selection and understanding of 
+items in a questionnaire, their choice of analytic strategy and their 
+interpretation of the statistical output on the one hand, and the way the 
+respondents interpreted the survey questions with the given social, political, 
+historical and economic context, on the other hand. 
+From a methodological perspective, it is not proper to declare one approach 
+more or less valid, valuable or scientific. Instead how to understand and 
+analyze data need to be based to a large extent on the consistency formed 
+between how to understand data in conjunction with the specific research 
+question, rationale, aim etc. only in connection with the specificities of the 
+research goals it makes sense to delimit the nature of reality. Thus, the 
+decision on whether the researcher deals with one single reality, a 
+constructed reality, multiple realities, multiple constructed realities or a co-
+constructed reality is unrelated to whether patterns in the data are detected 
+via statistical analysis or otherwise. 
+iii) A small vs large samples : The sample size for many QN studies is often 
+quite small and sample size for some QL studies can indeed be large. 
+iv) Regarding hypothesis testing, many researchers engaged in QL research, 
+pursue conjectures that are embedded either in their research questions, the 
+kind and the way they collect data, the way they analyse the data and the 
+way, they protect themselves from selective reportings of their findings. In 
+many types of well-established statical analyses, the QN methods like 
+cluster analysis, factor analysis, correspondence analysis, multi-
+dimensional scaling are used in exploring data structures. 
+In order to avoid misconceptions and mistakes while deciding the research 
+design issues, the following points need to be kept in mind. 
+a) We refrain ourselves from making specific argument for or against the QL 
+and QN method for a specific research project. We need to focus our efforts 
+more explicitly on embedding and justifying our selected methods 
+according to our research questions, data needs, theoretical grounding and 
+research design. 
+
+
+--- Page 12 ---
+ 
+ 
+13
+Research Design and 
+Mixed Methods 
+Research
+b) Data collection methods (i.e. unstructured narrative interview, survey 
+research based on closed-ended questions) and data analysis methods 
+(qualitative content analysis, discourse analysis, quantitative content 
+analysis) should be differentiated. 
+c) We ought to be more aware of the actual inductive and deductive analytic 
+phases of our research projects. 
+Check Your Progress 2 
+1) Which constituent of research study does guide the research design? 
+ ……………………………………………………………………………… 
+ ……………………………………………………………………………… 
+ ……………………………………………………………………………… 
+2) State the functions of research design? 
+ ……………………………………………………………………………… 
+ ……………………………………………………………………………… 
+ ……………………………………………………………………………… 
+3) What is the distinction between Mono Method and Mixed Method? 
+ ……………………………………………………………………………… 
+ ……………………………………………………………………………… 
+ ……………………………………………………………………………… 
+ ……………………………………………………………………………… 
+6.6 THE RATIONALE FOR MIXED METHODS 
+RESEARCH 
+Mixed methods research has gained tremendous popularity in the social, 
+behavioural and related sciences in recent years. This increasing popularity of 
+mixed methods research is reflected in terms of the claims by mixed method 
+researchers, increase in the publications on this topic and the inclusion of 
+mixed methods designs in the text books. The argument for combining 
+qualitative and quantitative methods is put forwarded on the following grounds. 
+i) The research methods associated with both quantitative and qualitative 
+research have their own strengths and weaknesses. Combining them 
+allows the researchers to offset their weakness to draw on the strengths of 
+both. 
+ii) Mixed methods designs enable the researcher to provide a comprehensive 
+account of the area of the enquiry in which he or she is interested if both 
+quantitative and qualitative methods are used. for example, causal 
+explanation of any event or phenomena can be captured by quantitative 
+methods whereas the reason explanation and pattern explanation or the 
+explanation involving processes can better be captured by qualitative 
+methods. 
+
+
+--- Page 13 ---
+ 
+ 
+Research Design and 
+Measurement 
+14 
+iii) Quantitative and qualitative methods be used to answer different 
+questions in a study. Further mixed methods can be utilized in order to 
+gain complementary views about the same phenomenon or relationship. 
+Research question for the two strands of the mixed study address related 
+aspects of the same phenomenon. 
+iv) Mixed methods design can be used to develop the research further. 
+Questions for one strand emerge from the inferences of a previous one 
+(sequential mixed methods), or one strand provides hypothesis to be 
+tested in the next one. 
+v) Mixed methods may also be used to assess the credibility of inferences 
+obtained from one approach (strand). Exploratory and explanatory/ 
+confirmatory questions in such situation, may be useful. 
+vi) Mixed methods are also used to obtain divergent pictures of the same 
+phenomenon. These divergent findings can ideally be compared and 
+contrasted. 
+vii) Quantitative research provides an account of structures in social life but 
+qualitative research provides sense of process. 
+viii) Mixed methods research entails to generate hypothesis by using 
+qualitative method and testing the hypothesis resorting quantitative 
+method within a single project. 
+ix) Mixed methods research enables to present diversity of views i.e. combining 
+researchers’ and participants’ perspectives through quantitative and 
+qualitative research respectively by way of uncovering relationships between 
+variables through quantitative research and revealing meaning among 
+research participants through qualitative research. 
+6.7 FORM OF MIXED METHODS RESEARCH 
+DESIGNS 
+Connecting qualitative and quantitative methods through sequencing and 
+prioritising, there can be four forms of mixed methods research designs. 
+1) Preliminary qualitative inputs to core quantitative method (qual-
+QUANT): With a view to use the strengths of qualitative methods to 
+contribute to core quantitative methods, preliminary qualitative methods are 
+used for collecting and interpreting the quantitative data. Preliminary 
+qualitative methods can also be used as an input to generate hypotheses, 
+develop content for questionnaires etc. 
+2) Supplementary qualitative method as a follow up to core quantitative 
+method (QUANT-qual): Supplementary qualitative method as a follow up 
+to core quantitative method can be used to extend what is learned from 
+quantitative study. It can demonstrate bases for results, examine reasons for 
+failed hypotheses, explore the theoretical significance of outliers and so on. 
+3) Preliminary quantitative inputs to core qualitative methods design 
+(quan-QUAL): The study undertaken by using core quantitative method 
+design gets inputs by way of using preliminary quantitative method for 
+collecting and interpreting the qualitative data. Preliminary quantitative 
+
+
+--- Page 14 ---
+ 
+ 
+15
+Research Design and 
+Mixed Methods 
+Research
+method can also locate major differences between sub-groups, guide 
+purposive sampling, establish results to pursue and so on. 
+4) Supplementary quantitative method to core qualitative method design 
+(QUAL-quan): Supplementary qualitative method as a follow up to core 
+qualitative method can be used to develop measures of key concepts and 
+relationships across different samples. 
+6.8 CASE STUDIES OF MIXED METHODS 
+RESEARCH DESIGN 
+i) Studies where the quantitative component is dominant in terms of the 
+framework of positivism and post positivism paradigm and inductive and 
+deductive logic of enquiry guides the study, quantitative approach is more 
+dominant and the researchers specialize in quantitative work. In such 
+studies, qualitative data and their manipulation are shaped by the nature of 
+research questions raised in the quantitative part of the project. The 
+qualitative data are treated and transformed in effect into quantitative 
+variables with the purpose of fleshing out the explanations required for the 
+quantitative results. In such cases quantitative component follows 
+qualitative component mixed methods. An illustration of a Research Study 
+which has used Mixed Method pre dominated by the Quantitative Method 
+is given below in the box: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CASE 1:  Mixed Method Research Design: Conducted the study within 
+the framework of post positivist paradigm using inductive 
+logic of inquiry and analyzing the qualitative data by 
+quantitative technique of data analysis 
+Study: ‘Decent Work: Concept, Measurement and Status in India’: 
+Ph.D thesis by Ms. Nausheen Nizami Ph.D Research Scholar, 
+(Economics) IGNOU, N. Delhi  
+ 
+The study was conducted within the framework of positivist paradigm using 
+inductive logic of enquiry with the objectives to (i) examine the applicability 
+of indicators of ‘decent work in India (ii) develop indicators and tools to 
+measure ‘decent work (iii) evaluate the status of decent work in IT 
+companies and to identify the socio-economic attributes influencing status of 
+decent work, and (iv) know the employer’s perspective in provision of 
+decent work’. 
+Methodology: Decent work sums up the aspirations of the people in their 
+professional life and is a revolutionary agenda of International Labour 
+Office. Decent work is any such work which ensures provision of fair and 
+free employment to all men and women of economically productive age-
+group in conditions of fairness, equity, security and dignity. It is a 
+multidimensional concept that applies to both formal and informal sectors of 
+an economy. The study is based on primary data collected through well 
+designed questionnaire and telephonic interviews. Measurement of decent 
+work was undertaken using both quantitative and qualitative methods of data 
+analysis. A characteristic feature of this study was to transform the 
+qualitative data in a manner so as to be able to use quantitative techniques of 
+data analysis. 
+ 
+
+
+--- Page 15 ---
+ 
+ 
+Research Design and 
+Measurement 
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quantitative Techniques to analyse qualitative data 
+a) Composite Index construction for Decent Work 
+With a view to measure the extent and range of decent work 
+provision, decent work indices were constructed. These indices have 
+been made for all the indicators of decent work used in this study by 
+coding, normalising and aggregating the responses as the data was 
+qualitative in nature.  Thereafter, the standard formula developed by 
+United Nation’s Development Pr ogramme (UNDP) for the 
+construction of HDI and other indices was applied.  
+b)  Factor analysis of decent work indicators 
+The technique of factor-analysis was adopted to short-list the most 
+relevant and reliable indicators of decent work. The principal 
+component method was used to outline components (i.e. indicators in 
+this study) explaining the maximum variance in the dependent 
+variable. 
+c) Phi ф Coefficient of Correlation Analysis 
+Since the variables were dichotomous in nature, correlation analysis 
+was attempted  to test whether there was statistically significant 
+associations between the responses on different decent work 
+indicators. Partial correlation analysis examined the relationship 
+between few socio-demographic variables and composite Decent 
+work Index keeping the effect of other variables constant. 
+d) Chi-square test for independence 
+Chi-square test was conducted to test the independence of the results 
+between the two scales of Decent work index (For example, 0 and 
+ 
+0-1) and results of each decent work indicator for those two scales.  
+Thus an efficient mix of quantitative and qualitative methods 
+were used to deal with the key issues related to decent work in 
+this doctoral thesis. 
+Major Results: 
+1) Composite decent work index reflects deficit in the status of 
+decent work for a vast majority (94%) of IT employees. 
+2) Adequacy of earnings and productive employment are directly 
+associated with decent work which is in consonance with the 
+features of search and matching theory of employment. 
+3) Longer working hours have a significant impact on the physical 
+and emotional well-being of an employee. A vast majority of IT 
+employees (95%) were found to be working for longer hours. 
+4) Work-life balance and adequate earning and productive 
+employment were found to be correlated. Majority of the 
+employees in IT sector were found to be earning adequate 
+earnings but their work-life balance was disrupted owing to 
+several reasons including longer working hours. This implies that 
+higher earnings of the employees in the  IT industry are necessary  
+
+
+--- Page 16 ---
+ 
+ 
+17
+Research Design and 
+Mixed Methods 
+Research
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii) S
+tudies where qualitative component had priority in terms of the frame 
+work of interpretative paradigm and abductive logic of enquiry. In such 
+situations, the researchers identify themselves primarily as qualitative 
+researchers. In such studies, the tools used for data/information collection is 
+mixed in nature. The modalities of the different types of data are 
+maintained and are not treated as commensurate. Integration of data takes 
+place as a part of interpretative process referred to as analytic or 
+interpretative integration. In such studies quantitative techniques can be 
+used to analyse the perceptions of the people which may be qualitative in 
+nature. An illustration of the research study using mix of qualitative and 
+quantitative methods in the manner discussed here in is given below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+but not a sufficient condition for the employees. Their higher earnings 
+are not resulting into their well-being (mental) as reflected in their 
+deteriorating health status and imbalance between professional and 
+personal lives.  
+5) Social security mechanisms, social dialogue and fair treatment at work 
+places are major aspects of decent work owing to ensure sustainability 
+of economic well-being of the employees. 
+6) Decent work reflects decent work place but a decent work place may 
+not always translate into decent work because of the gap of the nature 
+of work and work amenities and environment. This implies that deficit 
+in decent work to the employees is correlated with deficit in decent 
+work places. 
+7) Age and social class are the prominent attributes in influencing decent 
+work status.  
+8) Despite the presence of premier educational institutions like IITs, 
+RECs, etc. demand-supply gap in the available manpower for IT 
+industry is the major concern of the employers pushing them to face the 
+problem of adverse selection. A direct implication of this situation  is 
+the low employment elasticity of IT industry with respect to its growth 
+and increasing contribution to GDP.  
+CASE 2: Mixed Methods Research Design: Conducted the study 
+within the framework of Qualitative Research Approach 
+using Quantitative Methods for data analysis 
+Study: Gender specific impacts of climate variation in Agriculture: 
+By Mamta Mehar, Ph.D Research Scholar, IGNOU, N. Delhi 
+The Main Objective of the study was to understand the gender differences 
+in agriculture and analyse the linkages between gender and climate 
+variation using mixed method approach. The research questions addressed 
+in this study were: (i) Does there exist difference in gender perception on 
+climate variability? (ii) Whether male and female farmers follow similar 
+coping strategies to mitigate risk and shocks in agriculture? The study 
+focused on to understand how gender and climate variation in agriculture 
+are interrelated with the support of empirical evidences.  
+
+
+--- Page 17 ---
+ 
+ 
+Research Design and 
+Measurement 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Methodology 
+This study was conducted within the framework of qualitative approach 
+anchored in interpretative paradigm using quantitative methods – 
+questionnaire as a tool and survey as a method to collect the data and 
+multivariate probit model to find out probability in deciding adaption 
+strategy by male and female to climate variability. 
+This research study used case study method within a socio-cultural 
+framework. Case study methodology derives much of its rationale and 
+methods from ethnography characterized by  “an instance in action” in a 
+“real life context when the boundaries between the phenomenon and 
+context are not clear”. Keeping in view, the logic of enquiry, the research 
+questions were analysed using both qualitative and quantitative methods. 
+The qualitative analysis was done within the framework of “Interpretative 
+paradigm of qualitative research”. Since the research objective was to 
+understand human behaviour within the surrounding context of climate 
+change, where it was difficult to isolate  the phenomena of climate 
+variation and perception of males and females towards it, conducting of the 
+present study under interpretive paradigm was appropriate. The associated 
+research strategy used in this study was abduction. Abduction is the logic 
+used to construct descriptions and explanations that are grounded in the 
+everyday activities as well as in the language and meanings used by social 
+actors. The social actors in the present proposal are men and women 
+farmers, and their activities to be analysed are specific to decision making 
+in climate change situation. The interpretative paradigm using abduction 
+strategy was done via literature review as well as synthesis from findings 
+of focus group discussion during the survey. In the wake of theoretical 
+understanding, it was tried to quantify the impact using appropriate 
+empirical analysis and using data from a baseline survey conducted by 
+CCAFS in 2013 of 641 farm households in twelve villages of Vaishali 
+districts in Bihar, India; it was attempted to quantify the gender 
+differentiated impact. 
+Results 
+The linkage between gender and climate variation in agriculture was more 
+influenced from subjective experiences of individuals or society. The 
+movement of understanding “is constantly from the whole to the part and 
+back to the whole” (Gadamer, 1976). According to Gadamer, it is a 
+circular relationship. Since the study aims to understand the perception of 
+human in context of climate variation, it cannot be explained entirely by 
+any scientific paradigm where hypothesis are pre-structured and to some 
+extent results are known. The interpretative paradigm points out that 
+positivism, in its first attempt to model the social after the natural sciences, 
+fails to see that unlike nature, social reality exists only insofar as lay 
+members create that reality in meaningful interaction (Fuchs S., 1992: 
+198). But the point of interpretive paradigm is that we must first 
+understand social worlds from within, before we develop scientific models 
+and explanations (Fuchs, S. 1992: 205). According to Willis (1995) 
+interpretivists are anti-foundationalists, who believe there is no single 
+correct route or particular method to knowledge. Walsham (1995) argues 
+that in the interpretive tradition there are no ‘correct’ or ‘incorrect’ 
+theories. Instead, they should be judged according to how ‘interesting’ they 
+are to the researcher as well as those involved in the same areas. 
+
+
+--- Page 18 ---
+ 
+ 
+19
+Research Design and 
+Mixed Methods 
+Research
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The linkages between gender and climate variation in context of 
+agriculture are bi-directional. Changes in climate event effect agriculture 
+through reduction in yield, increase in occurrence of pests or crop disease, 
+changes in time of activities for example, changes in winter time could 
+result in change in harvesting or sowing days of respective crops. All this 
+affects farmers’ livelihood and work activity in different ways. For 
+example, women (and children) being the ones traditionally charged with 
+water collection roles, have to travel longer distances after drought. 
+Evidences suggest decrease in yield and thereby total availability of food 
+consumption in a household basket usually has been seen as 
+complemented by reduction in meals of female. This exposes them to 
+health issues. Male farmers are usually seen to migrate in search of 
+nonfarm opportunities outside their village domain, putting all burden or 
+responsibilities on women.  Moreover mostly in rural areas women are 
+less likely to get education as compare to male, they are less allowed to 
+mobile and do more household related activities, and they have less 
+control over the family assets.  
+The other direction of gender differentiated impacts in context of climate 
+events in agriculture can be viewed through understanding their coping 
+strategies. The adaption of particular strategies are often influenced by the 
+priorities and options available for women and men for coping these 
+strategies. Constraints on women’s mobility, and behavioural restrictions 
+hinders their ability to make decision on various matters and thus they 
+have less choices of coping strategies available. Additionally inequitable 
+access to assets and resources such as land, knowledge, technology, 
+limited power in decision-making, education, health care and food have 
+been identified as determinant factors behind adaptation of different 
+coping  strategies of male versus female. The results of quantitative 
+analysis also supports this argument. 
+The females are mostly illiterate (71 per cent) and have little access to 
+resources. Only 9 per cent of farm household have reported to provide 
+land entitlement to at least one female member. Additionally the gender 
+power dynamics is seen to favour only one gender i.e. male. The decision 
+making role in different household related expenditures as well as in 
+agriculture activities is dominated by male. Considering the perception of 
+male vis-à-vis female farmer about effects of climate change has shown a 
+similar pattern. More than 90 per cent of farmers are aware about climate 
+variation and feels that weather conditions adversely affect their 
+agriculture activities. However again, the decisions to cope with the risk 
+due to climate have suggested different behaviour, priorities by male and 
+female. Survey results suggest that almost 60 per cent of surveyed farmers 
+have adapted at least one coping strategy and in total adoption of more 
+than 30 coping strategies are reported. The results of multivariate probit 
+model suggest that male farmers have higher probability in deciding 
+adaptations through additional jobs as well as specific agriculture 
+strategies such as crop rotation and use of hybrid seed in farming 
+practices. 
+
+
+--- Page 19 ---
+ 
+ 
+Research Design and 
+Measurement 
+20 
+iii) Studies presenting diversity of views i.e. combining researcher’s and 
+participants’ perspectives through quantitative and qualitative research. 
+Researchers uncover relationship between variables through quantitative 
+methods and reveal meaning among research participants through 
+qualitative methods. Thus a comprehensive account of the area of the 
+enquiry is presented. An illustration of the study using this form of mixed 
+method research is given below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CASE 3:  Mixed Method Research –used Quantitative Methods for data 
+analysis and Qualitative Methods for revealing and 
+understanding participants’ perspective on quality of education 
+Study: ‘Measuring Quality of Education and Its Determinants: Indian 
+Context’: Ph.D thesis submitted by Ms. Charu Jain, Ph.D 
+Research Scholar, (Economics) IGNOU, New Delhi 
+The study was carried out with the objectives to (i) examine the linkages of 
+secondary education with various socio-economic outcomes at all India 
+level and state level, (ii) identify various determinants (including students’ 
+family background characteristics, and schools’ characteristics) affecting 
+students’ performances and teaching efficiencies in senior secondary 
+schools in Delhi.  To fulfill these objectives, both quantitative and 
+qualitative research approaches were applied.  
+Quantitative Method: The quantitative approach was used to test the 
+hypothesis generated. Two set of questionnaires one related to the teachers 
+and the other to students were got filled up through in-depth face to face 
+interviews with the respondents. The student questionnaire was translated in 
+Hindi language to enhance the understanding level of students in Hindi 
+medium government schools in Delhi. Within translation procedure, the 
+student questionnaire was first translated in Hindi and thereafter re-
+translated in English to re-check the accuracy and meaning of questions. 
+The teachers’ questionnaire was provided in English language only. The 
+information thus retrieved from these questionnaires was used to measure 
+the performance of students and teacher analyzing thereby the overall 
+quality of education at lower secondary and senior secondary levels of 
+education. The information collected through quantitative approach was 
+statistically analyzed and tested using various statistical softwares like 
+SPSS and STATA? 
+Qualitative Method: In the qualitative approach, direct observation 
+method and key informer interviews were used to supplement the 
+information/data collected through quantitative method by way of two sets 
+of structured questionnaires. Qualitative research method enabled the 
+researcher to approach the research topic from the perspective of teachers 
+and students. Further,  the qualitative techniques were used to examine 
+social processes which otherwise could not have been captured by 
+traditional quantitative measures. 
+The direct observation technique  enabled researcher to learn about the 
+behaviour of the people under study: students and teachers in the natural 
+setting i.e. schools through observing. It gave the researcher the first hand 
+information on the quality aspects of school and classrooms and working 
+conditions for teachers, which were quite useful in doing the analysis.  
+
+
+--- Page 20 ---
+ 
+ 
+21
+Research Design and 
+Mixed Methods 
+Research
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The field notes, which were taken down during the period of fieldwork, were 
+instrumental during analysis and interpretation of the results, as they helped in 
+recalling the incidents that took place at the time of data collection. Face-to-
+face interviews with the key informants were also conducted within 
+qualitative approach.  Key informant interviews were qualitative informal 
+interviews with people who knew what was going on in the community. Our 
+purpose of conducting key informant interviews was to collect information 
+from people who had firsthand knowledge about the overall functioning of 
+school. The key informers in the sample schools were selected using 
+purposive sampling technique and in this case the key informants were either 
+senior teacher in school or senior administrative person in schools. 
+Interviewing key informants enabled the researcher to look at the underlying 
+issues and problems with varying perspectives. These interviews were 
+conducted using an informal approach. Initially the questions were drafted in 
+a form of well designed open ended short questionnaire for conducting face 
+to face interviews with the respondents. One respondent or a group of 2-3 
+people from each school were selected purposively for gathering this 
+information, depending upon how well they were informed about the school.  
+Apart from these informal interviews, the school guards/receptionists were 
+also contacted informally to gather the information on schools. The 
+information thus collected through qualitative approach was first entered in 
+Excel in a pre-designed format and then coded so that it can be further 
+analysed statistically. Moreover, the responses to few open ended questions 
+were reviewed and inferences were drawn which were quite useful in 
+providing suggestions and recommendation for this study. 
+Main Results 
+1) Secondary education increases income level of individuals to a significant 
+extent. One unit increase in Gross Enrollment Ratio (GER) at secondary 
+level leads to increase in the personal disposable income by 0.65 units. 
+2) The educational background of households determine their occupational 
+pattern. The households with at least secondary education are either 
+salaried or business class, while those with elementary level of education 
+are more concentrated in agricultural/wage earning activities. Higher the level 
+of education among females, greater the proportion of female work 
+participation rate. 
+3) Secondary education bears highest impact on improving health 
+indicators. Secondary education has high potential for bringing 
+demographic transitions in terms of decline in maternal mortality rates, 
+infant mortality rates, fertility rates, death rates etc. 
+4) Secondary education attainment brings behavioral changes in individuals 
+in terms of higher savings and diversion in the expenditure pattern. 
+5) School resources, teachers and teaching quality, student’s family 
+background, mass media exposure and self motivational factors of 
+students determine their outcome to significant extent.  
+6) Within school characteristics, cleanliness in school, well qualified 
+teachers their friendly and supportive attitude with students and quality 
+of school infrastructure influence students performance positively. Lack 
+of student motivation, large class size, lack of school resources and 
+facilities, lack of adequate teaching material affect the teaching abilities 
+adversely. 
+
+
+--- Page 21 ---
+ 
+ 
+Research Design and 
+Measurement 
+22 
+Check Your Progress 3 
+1) Give two situations where Mixed Method research is superior to Mono 
+Method? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) Give an example of Mixed Method where qualitative method pre-
+dominates quantitative method? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) State the different forms of Mixed Methods? 
+ ……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+6.9 LET US SUM UP 
+Traditionally two distinct research approaches – Quantitative (QN) and 
+Qualitative (QL) – have been followed in undertaking research in social 
+sciences. The former is associated with positivism and post positivism 
+paradigm and the latter principally with interpretative paradigm and critical 
+theory paradigm. Depending upon the nature and field of specialization 
+research studies may be of various types. Important among these are – 
+theoretical and applied, descriptive and explanatory, conceptual and empirical, 
+exploratory and experimental etc. 
+Research design is a logical structure of enquiry specifying the types of 
+evidences needed to answer the research questions. Research methods are made 
+of tools for data collection, type of data, sampling design, sample size, 
+techniques for data analysis etc. There is nothing intransic about any research 
+design that requires a particular method of data collection. Research Methods 
+can broadly be of two types – Mono Methods and Mixed Methods. Within 
+mono methods, it can be either quantitative or qualitative. The combination of 
+at least one qualitative and at least one quantitative component in a single 
+research project is known as mixed methods research. The mixed methods have 
+gained popularity in carrying out research in social and behavioral sciences 
+because combining them allows the researchers (i) to offset their (QN and QL 
+methods) weaknesses, (ii) provide comprehensive account of the area of the 
+enquiry, (iii) to answer different types of questions. Studies undertaken under 
+mixed methods can be of four types – (i) preliminary quantitative methods 

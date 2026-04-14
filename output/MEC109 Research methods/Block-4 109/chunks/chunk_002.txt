@@ -1,0 +1,744 @@
+--- Page 11 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+12 
+13.5 COMMUNALITIES 
+The communalities are computed by taking the sum of squares of the loadings 
+for the ith variable on the m common factors. This can be shown as below 
+Variance due to the specific factor is often called the uniqueness or specific 
+variance. It is denoted by hig2919
+ig287p, we have from equation (13.2) 
+ 
+                            σig2919ig2919igjmpm lig2919ig2869
+ig287pigjj97 lig2919ig287p
+ig287pigjj97 ig171p igjj97 lig2919ig292j
+ig287pigjj97Ψig2919 
+o
+r   σig2919ig2919igjmpm hig2919
+ig287pigjj97Ψig2919 ;  i = 1, 2,…….,p           (13.5) 
+h
+ere,   hig2919
+ig287pigjmpm lig2919ig2869
+ig287pigjj97 lig2919ig287p
+ig287pigjj97 ig171p igjj97 lig2919ig292j
+ig287p 
+Now, to understand the computation of communalities in a simple way, let us 
+have the table of three factor loadings. The following dataset involves the 
+Places Rated Almanac (Boyer and Savageau) rates 329 communities according 
+to nine criteria: 
+These data are only recorded for the first three factors only. It should also note 
+that these factor loadings are the correlations between the factors and the 
+variables. For example, the correlation between the Arts and the first factor is 
+about 86%. Similarly the correlation between climate and that factor is only 
+about 28%. 
+ 
+ 
+For example, to compute the communality for climate, the first variable which 
+is given in the above table, we square the factor loadings for climate and then 
+add the results: 
+hig2869
+ig287pigjmpm 0.286ig287pigjj97 0.076ig287pigjj97 0.841ig287pigjmpm 0.795 
+I
+n the similar way we can obtain the communalities for all the 9 variables and 
+the total communality is obtained as 5.617. Therefore, all the communalities 
+computed are placed into a table shown below: 
+ 
+           Factor 
+Variable 1 2 3 
+Climate 0.286 0.076 0.841 
+Housing 0.698 0.153 0.084 
+Health 0.744 -0.410 -0.020 
+Crime 0.471 0.522 0.135 
+Transportation 0.681 -0.156 -0.148 
+Education 0.498 -0.498 -0.253 
+Arts 0.861 -0.115 0.011 
+Recreation 0.642 0.322 0.044 
+Economics 0.298 0.595 -0.533 
+
+
+--- Page 12 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+13 
+-II Variable Communality 
+Climate 0.795 
+Housing 0.518 
+Health 0.722 
+Crime 0.512 
+Transportation 0.510 
+Education 0.561 
+Arts 0.754 
+Recreation 0.517 
+Economics 0.728 
+Total 5.617 
+These values are as similar as multiple R 2 values for regression models 
+predicting the variables of interest from the 3 factors. The communality for a 
+given variable can be interpreted as the proportion of variation in that variable 
+explained by the three factors. In other words, if we perform multiple 
+regression of climate against the three common factors, we obtain an R 2= 
+0.795, indicating that about 79% of the variation in climate is explained by the 
+factor model. The results suggest that the factor analysis does the best job of 
+explaining variation in climate, the arts, economics, and health. 
+One assessment of how well this model is doing can be obtained from the 
+communalities. What you want to see is values that are close to one. This 
+would indicate that the model explains most of the variation for those variables. 
+In this case, the model does better for some variables than it does for others. 
+The model explains Climate the best, and is not bad for other variables such as 
+Economics, Health and the Arts. However, for other variables such as Crime, 
+Recreation, Transportation and Housing the model does not do a good job, 
+explaining only about half of the variation. If you take all of the communality 
+values and add them up you can get a total communality value: 
+igj5jj hig2919
+ig287p
+ig2926
+ig2919
+ig288pig2869
+igjmpm igj5jjλig2919
+ig292j
+ig2919
+ig288pig2869
+ 
+Here, the total communality is 5.617. The proportion of the total variation 
+explained by the three factors is 
+5.617
+9 igjmpm 0.624 
+This gives us the percentage of variation explained in our model. This might be 
+looked at as an overall assessment of the performance of the model. However, 
+this percentage is the same as the proportion of variation explained by the first 
+three eigenvalues, obtained earlier. The individual communalities tell how well 
+the model is working for the individual variables, and the total communality 
+gives an overall assessment of performance. These are two different 
+assessments that can be used. 
+Since the data are standardized in this case, the variance for standardized data 
+is going to be equal to one. Then the specific variances can be computed by 
+subtracting the communality from the variance as expressed below: 
+
+
+--- Page 13 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+14 
+Ψig2919igjmpm 1 igjj98 hig2919
+ig287p 
+R
+ecall, that the data were standardized before analysis, so the variances of the 
+standardized variables are all equal to one. For example, the specific variance 
+for Climate is computed as follows: 
+Ψig2869igjmpm 1 igjj98 0.795 igjmpm 0.205 
+The specific variance for housing is Ψig287pigjmpm0. 482 and the other values of specific 
+variances can be calculated accordingly. 
+Source: http://onlinecourses.science.psu.edu 
+EXAMPLE 1 Calculating Correlations from Factors 
+Factor analysis aims to explain the correlations among the observed variables 
+in terms of small number of factors. To estimate the success of factor solution, 
+we reproduce the original correlation matrix by using the loadings on the 
+common factors and see how large a discrepancy is there between the original 
+matrix and reproduced correlation matrix. The greater the discrepancy, the less 
+successful the factor solution in preserving the information in the original 
+correlation matrix. And, lesser the discrepancy, more successful the factor 
+solution in preserving the information in original correlation matrix. 
+In order to calculate the correlations from the factor solution the process is 
+quite simple when the factors are uncorrelated. The correlation between any 
+two variables ig185pig2869 and ig185pig287p is obtained by adding products of coefficients for these 
+v
+ariables ( ig185pig2869 and ig185pig287p) across all the common factors. Let us say for the t hree 
+factor solution ig18j2ig2869, ig18j2ig287p and ig18j2ig2871 the quantity would be igm666ig186mig2869ig2869igjmpp ig186mig287pig2869igm667igjj97igm666ig186mig2869ig287pigjmpp ig186mig287pig287pigm667igjj97
+igm666
+ig186mig2869ig2871igjmpp ig186mig287pig2871igm667.  This process will become clearer in the description of the 
+hypothetical two-factor solution based on five observed variables as follows: 
+A Hypothetical Solution 
+Variables Loadings/ Correlations Communality  Reproduced Correlations 
+ Factor 1 Factor 2   X 1 X 2 X 3 X 4 X 5 
+X1 .5 .2 .29 X 1      
+X2 .6 .3 .45 X 2 .36     
+X3 .7 .4 .65 X 3 .43 .54    
+X4 .3 .6 .45 X 4 .27 .36 .45   
+X5 .4 .7 .65 X 5 .34 .45 .56 .54  
+          
+ ∑ xig287p = 1.35 ∑ xig287pigjmpm 1.14        
+The Coefficients: According to the above solution, 
+X1 = 0.5F1 + 0.2F2 
+X2 = 0.6F1 + 0.3F2 
+ ig17p9 
+X5 = 0.4F1 + 0.7F2  
+ 
+
+
+--- Page 14 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+15 
+-II As well as being weights, the coefficients above show that the correlation 
+between X1 and F1 is .50, and that of between X1 and F2 is .20, and so on. 
+Variance Accounted For: The quantities at the bottom of each factor column 
+are the sums of the squared loadings for that factor, and show how much of the 
+total variance of the observed variables is accounted for by that factor. For 
+Factor 1, the quantity is .5 2 + .6 2 + .7 2 + .3 2 + .4 2 = 1.35. Because in the factor 
+analyses discussed here, the total amount of variance is equal to the number of 
+observed variables (the variables are standardized, so each has a variance of 
+one), the total variation here is five, so that Factor 1 accounts for (1.35/5)×100 
+= 27% of the variance.  
+The quantities in the communality column show the proportion of the variance 
+of each variable accounted for by the common factors. For X 1 this quantity is 
+.52 + .22 = 0.29, for X2 it is .62 + .32 = 0.45, and so on. 
+Reproducing the Correlations: The correlation between variables ig185pig2869 and ig185pig287p 
+a
+s derived from the factor solution is equal to (.7 X .8) + (.2 X .3) = 0.36, while 
+the correlation between variables ig185pig2871 and ig185pig287j is equal to (.7 X .4) + (.4 X .7) = 
+.
+56. These values are shown in right-hand side of the above table. 
+EXAMPLE 2 To verify the relation Σigjmpm L L′igjj97Ψ for two factors: 
+Consider the following covariance matrix 
+                                    Σigjmpmigjmjp
+19 30 2 12
+30 57 5 23
+2 5 38 47
+12 23 47 68
+igjmjm 
+The equality equation of the model is 
+igjmjp
+19 30 2 12
+30 57 5 23
+2 5 38 47
+12 23 47 68
+igjmjmigjmpmigjmjp
+4 1
+7 2
+igjj981 6
+1 8
+igjmjm igm67m4 7 igjj981 1
+1 2 6 8 igm675igjj97igjmjp
+2 0 0 0
+0 4 0 0
+0 0 1 0
+0 0 0 3
+igjmjm 
+ 
+or 
+ Σigjmpm L L′igjj97Ψ 
+m
+ay be verified by the matrix algebra. Therefore, Σ has the structure produced 
+by an m= 2 orthogonal factor model. Since 
+  L igjmpmigjmjp
+lig2869ig2869lig2869ig287p
+lig287pig2869lig287pig287p
+lig2871ig2869lig2871ig287p
+lig2872ig2869lig2872ig287p
+igjmjmigjmpmigjmjp
+4
+1
+7 2
+igjj981 6
+1 8
+igjmjm 
+ 
+  Ψ igjmpm
+ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m1ψig28690 0 0
+0 ψig287p0 0
+0
+0 ψig28710
+0
+0 0 ψig2872ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+igjmpmigjmjp
+2 0 0 0
+0 4 0 0
+0 0 1 0
+0 0 0 3
+igjmjm 
+The communality of Xi can be obtained by using equation (13.5), we have 
+ 
+
+
+--- Page 15 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+16 
+                                      h ig2919
+ig287pigjmpm lig2869ig2869
+ig287pigjj97 lig2869ig287p
+ig287pigjmpm 4ig287pigjj97 1ig287pigjmpm 17 
+a
+nd the variance of Xi can be decomposed as 
+                                       σig2869ig2869igjmpm igm666lig2869ig2869
+ig287pigjj97 lig2869ig287p
+ig287pigm667 igjj97ψig2869igjmpm hig2869
+ig287pigjj97ψig2869 
+o
+r 
+   19  =   4 2   +   12   +   2  =  17 + 2 
+i.e.    variance = communality+ specific variance 
+Similarly, we can find out the results for the other variables also.  
+Check Your Progress 1 
+1) What do you mean by a factor in the context of factor analysis? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) Show that the covariance matrix 
+   Σigjmpmigjm29
+1.0 . 63 . 45
+. 63 1.0 . 35
+. 45 . 35 1.0
+igjmjj 
+For the p=3 standardized random variables Z 1, Z2 and Z 3 can be generated 
+by the m=1 factor model: 
+    Z ig2869igjmpm .9Fig2869igjj97εig2869 
+ 
+                                             Z ig287pigjmpm .7Fig2869igjj97εig287p 
+ 
+                                             Z ig2871igjmpm .5Fig2869igjj97εig2871 
+ w
+here,             Var igm666F ig2869igm667igjmpm 1,    Cov igm666ε, Fig2869igm667igjmpm 0  
+       and                  Ψ igjmpm Cov igm666εigm667 igjmpmigjm29
+. 19 0 0
+0 . 51 0
+0 0 . 75
+igjmjj 
+Formulate the factor model for the given problem and also calculate 
+(a) Communalities hig2919
+ig287p;  i= 1, 2, 3 and interpret the result. 
+(
+b) Cor (Zi, Fi) for i= 1, 2, 3. Which variable carry the greatest weight in 
+naming the common factor? And why? 
+………………………………………………………………………....... 
+………………………………………………………………………....... 
+………………………………………………………………………....... 
+………………………………………………………………………....... 
+3) Let the factor model with p=2 and m=1. Show that 
+  σig2869ig2869igjmpm lig2869ig2869
+ig287pigjj97ψig2869 
+ 
+                 σig2869ig287pigjmpmσig287pig2869igjmpm lig2869ig2869lig287pig2869 
+ 
+                 σig287pig287pigjmpm lig287pig2869
+ig287pigjj97ψig287p 
+
+
+--- Page 16 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+17 
+-II for given σig2869ig2869,σig287pig287p and σig2869ig287p, there is an infinite choices for L and Ψ i.e., 
+the factor model need not be unique. 
+………………………………………………………………………....... 
+………………………………………………………………………....... 
+………………………………………………………………………....... 
+………………………………………………………………………....... 
+………………………………………………………………………....... 
+4) Consider an m=1 factor model for the population with covariance matrix 
+   Σigjmpmigjm29
+1 . 4 . 9
+. 4 1 . 7
+. 9 . 7 1
+igjmjj 
+Show that there is a unique choice of L and Ψ with Σigjmpm L L′igjj97Ψ,  but that 
+ψig2871igjmp7 0,  so the choice is not admissible i.e., the solution is unique but 
+improper. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+13.6 METHODS OF ESTIMATION 
+For the observations x 1, x2,……,xn on p generally correlated variable, does the 
+factor model of equation (13.1) with a small number of factors, effectively 
+represent the data? The solution of such kind of statistical problems may be 
+tackled by using the covariance relationships. The sample covariance matrix S, 
+is an unbiased estimate of the unknown population covariance matrix Σ . If Σ 
+appears to deviate significantly from a diagonal matrix, then a factor model can 
+be entertained, and the initial problem is one of estimating the factor loadings 
+lig2919ig292p and specific variances ψig2919. 
+ 
+In this section, we shall consider two of the most popular methods of parameter 
+estimation, the principal component (and the related principal factor) method 
+and the maximum likelihood method. The solution from either method can be 
+rotated in order to simplify the interpretation of factors.  
+13.6.1  Principal Component Method 
+A vector of observations for the Xi variable may be defined as 
+ 
+   X igjmpmigjmjp
+Xig2869
+Xig287p
+ig17p9
+Xig2926
+igjmjm 
+ 
+T
+he sample covariance matrix is denoted by S and is expressed as 
+
+
+--- Page 17 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+18 
+                                       S igjmpm1
+n igjj98 1igj5jjigm666Xig2919igjj98 Xigjj65igm667 igm666Xig2919igjj98 Xigjj65igm667′
+ig292m
+ig2919
+ig288pig2869
+ 
+W
+e have p eigenvalues for the covariance matrix S as well as corresponding 
+eigenvectors for this matrix. Let the eigenvalues of the covariance matrix S are 
+λigj552ig2869,λigj552ig287p, … … .λigj552ig2926 an d eigenvectors of the covariance matrix S are e igj5m8ig2869, e igj5m8ig287p, … … . e igj5m8ig2926. 
+T
+he covariance matrix can be re-expressed in the following form as a function 
+of the eigenvalues and the eigenvectors: 
+Spectral Decomposition of ig27j7: The spectral decomposition allows us to express 
+the inverse of a square matrix in terms of its eigenvalues and eigenvectors, and 
+this leads to a useful square-root matrix. Let the population covariance matrix 
+Σ have eigenvalues and eigenvectors pairs igm666λig2919, eig2919igm667 with λig2869igjm1pλig287pigjm1p ig171p igjm1pλig2926igjm1p 0, 
+t
+hen 
+Σigjmpmλig2869eig2869eig2869
+′ igjj97λig287peig287peig287p
+′ igjj97 ig171p igjj97λig2926eig2926eig2926
+′ igjmpm igj5jjλig2919eig2919eig2919
+′
+ig2926
+ig2919
+ig288pig2869
+ 
+ 
+                
+ igjmpmigjm27igjm9jλig2869eig2869 ig17p9  igjm9jλig287peig287p ig17p9  ig171p ig171p  ig17p9  igjm9jλig2926eig2926igjmj1 
+ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m1igjm9jλig2869eig2869
+′
+ig171p ig171p
+igjm9jλig287peig287p
+′
+ig171p ig171p
+ig17p9
+ig171p
+ig171p
+igjm9jλig2926eig2926
+′ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+              (13.6) 
+This fits the prescribed covariance structure for the factor analysis model 
+having as many factors as variables i.e., m= p and specific variances Ψig2919igjmpm 0 for 
+all i. The loading matrix has jth column given by igjm9jλig292peig292p. Then we can write 
+ 
+                      Σigjmpm L L igjj97 0 igjmpm L L               (13.7) 
+Apart from the scale factor igjm9jλig292p, the factor loadings on the j th factor are the 
+coefficients for the j th principal component of the population. The factor 
+analysis representation of  Σ in equation (13.7) is exact, it is not particularly 
+useful. It employs as many common factors as there are variables and does not 
+allow any variation in the specific factors ε in the main model of equation 
+(13.1). But we prefer models that explain the covariance structure in terms of 
+just a few common factors. One approach when the last p igjj98 m eigenvalues are 
+small is to neglect the contribution of  λig292jig2878ig2869eig292jig2878ig2869eig292jig2878ig2869
+′ igjj97 ig171p igjj97λig2926eig2926eig2926
+′ to Σ 
+in 
+eq (13.6), we obtain the approximation 
+Σigjmpmigjm27igjm9jλig2869eig2869 ig17p9  igjm9jλig287peig287p ig17p9  ig171p ig171p  ig17p9  igjm9jλig292jeig292jigjmj1 
+ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m1igjm9jλig2869eig2869
+′
+ig171p ig171p
+igjm9jλig287peig287p
+′
+ig171p ig171p
+ig17p9
+ig171p
+ig171p
+igjm9jλig292jeig292j′ ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+igjmpm L L           (13.8) 
+ 
+
+
+--- Page 18 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+19 
+-II The approximation shown in eq (13.8) assumes that the specific factors ε in eq 
+(13.1) are of minor importance and can also be ignored in the factoring of Σ. 
+Allowing for specific factors, we find that the approximation becomes 
+   Σigjmpm L L′igjj97Ψ 
+ 
+igjmpmigjm27igjm9jλig2869eig2869 ig17p9  igjm9jλig287peig287p ig17p9  ig171p ig171p  ig17p9  igjm9jλig292jeig292jigjmj1 
+ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m2
+ig17m1igjm9jλig2869eig2869
+′
+ig171p ig171p
+igjm9jλig287peig287p
+′
+ig171p ig171p
+ig17p9
+ig171p
+ig171p
+igjm9jλig292jeig292j
+′ ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+igjj97
+ig17mj
+ig17m2
+ig17m2
+ig17m2
+ig17m1ψig28690 ig171p 0
+0 ψig287pig171p 0
+ig17p9
+ig17p9 ig1712 ig17p9
+0 0 ig171p ψig2926ig17m6
+ig17m5
+ig17m5
+ig17m5
+ig17mm
+  (13.9) 
+where 
+ ψig2919igjmpmσig2919ig2919igjj98∑ lig2919ig292p
+ig287p ig292j
+ig292p ig288pig2869;         i igjmpm 1, 2, … … . , p 
+T
+his yields the following estimator for the factor loadings 
+                               ligm6j2ig2919ig292pigjmpm e igj5m8ig2919ig292pigjm95λigj552ig2919 
+When the units of the variables are not appropriate, it is better to use the 
+standardized variables. If the standardized measurements are used, we replace 
+sample correlation matrix S by R. This in turn suggests that the specific 
+variances, which are the diagonal elements of the matrix Ψ, can be estimated 
+by using the expression: 
+                                ψigj5m9ig2919igjmpm Sig2919ig2919igjj98∑ ligm6j2ig2919ig292p
+ig287p ig292j
+ig292p
+ig288pig2869;         i igjmpm 1, 2, … … . , p          (13.10) 
+Here, the estimated specific variances are equal to the sample variance for the 
+ith variable minus the sum of the squares of factor loadings (i.e the 
+communality). 
+The equation (13.10), when applied to the sample covariance matrix S or the 
+sample correlation matrix R, is known as the principal component solution. 
+13.6.2  Maximum Likelihood Method 
+Maximum likelihood estimation requires that the data are sampled from a 
+multivariate normal distribution. But if the data have been collected on a likert 
+scale, which is most often the case in the social sciences, these kinds of data 
+cannot really be normally distributed. This is the main drawback of this 
+method. Therefore, using the maximum likelihood estimation method we must 
+assume that the data are independently sampled from a multivariate normal 
+distribution with mean vector µ and the covariance matrix Σ that takes the 
+particular form 
+   Σigjmpm L L′igjj97Ψ 
+w
+here L is the matrix of factor loadings and Ψ is the diagonal matrix of 
+specific variances. 
+Again, let us assume that the p×1 vectors X 1, X2,……Xn represents a random 
+sample which is drawn from a multivariate normal population Nig2926igm666µ,Σigm667,  then 
+the joint probability function or the likelihood function is given by 
+
+
+--- Page 19 ---
+ 
+ 
+ 
+Multivariate Analysis: Quantitative Methods-II 
+20 
+ligm666µ,Σigm667igjmpm igj5j7igjm2p1
+igm6662πigm667ig2926 ig287p⁄ |Σ|ig2869 ig287p⁄  eig2879igjmj5ig29jmigj168ig2879µigjmj9′Σigj127igj117igjmj5ig29jmigj168ig2879µigjmj9 ig287p igjm15igjm2m
+ig292m
+ig292p
+ig288pig2869
+ 
+ 
+                  igjmpm
+ig2869
+igm666ig287pπigm667igj172igj17m igj118⁄ |Σ|igj172 igj118⁄  eig2879∑ igjmj5 ig29jmigj168ig2879µigjmj9′Σigj127igj117igjmj5ig29jmigj168ig2879µigjmj9igj172
+igj168
+igj128igj117 ig287p igjm15        (13.11) 
+M
+aximum likelihood estimation involves estimating the mean, the matrix of 
+factor loadings and the specific variances. 
+The maximum likelihood estimator for the mean vector µ , the factor loadings 
+L and the specific variances Ψ are obtained by finding the values of µigj5m8, Ligj552 and Ψigj55j 
+that maximizes by taking logarithm of the likelihood function in equation 
+(13.11) which is given by the following expression: 
+Log ligm666µ, L,Ψigm667igjmpm igjj98np
+2 log 2π
+igjj98n
+2logigj627LL′igjj97Ψigj627igjj981
+2
+igj5jjigjmj5xig292pigjj98µigjmj9
+′
+igm666L L′igjj97Ψ igjj98 1 igm667 igjmj5xig292pigjj98µigjmj9
+ig292m
+ig292p
+ig288pig2869
+ 
+(
+13.12) 
+The log of the likelihood function of the data is to be maximized. We want to 
+find the values of the population parameters  µ, L and Ψ. As mentioned earlier, 
+the solution for these factor models are not unique. Equivalent models can be 
+obtained by rotation. To obtain a unique solution an additional constraint to be 
+imposed is that L′ Ψig2879ig2869 L is a diagonal matrix. 
+Computationally this process is complex. In general, there is no closed- form 
+solution to this maximization problem, so iterative methods must be applied. 
+Source: Adapted from Applied Multivariate Statistical analysis by the Johnson R.A. and 
+Wichern D.W. (2002).  
+13.7 FACTOR ROTATION 
+Broadly speaking, there are two kinds of rotations i.e. orthogonal rotation and 
+oblique rotation. Orthogonal rotation assumes that the factors are uncorrelated. 
+This is less realistic since factors generally are correlated with each other to 
+some extent or the other. Two commonly used orthogonal rotation techniques 
+are Quartimax and Varimax rotation. Quartimax involves the minimization of 
+the number of factors needed to explain each variable whereas Varimax 
+minimizes the number of variables that have high loadings on each factor and 
+works to make small loadings even smaller. 
+All factor loadings obtained from the initial loadings by an orthogonal 
+transformation have the same ability to reproduce the covariance matrix. From 
+matrix algebra, we know that an orthogonal transformation corresponds to a 
+rigid rotation of the coordinate axis. For this reason, an orthogonal 
+transformation of the factors is called factor rotation. 
+If Ligj552 is the p×m matrix of estimated factor loadings obtained by any one of the 
+method i.e., principal component or maximum likelihood, then 
+                          Ligj55jig1m99igjmpm Ligj552 T   where  TT′igjmpm T′T igjmpm I          (13.13) 
+is a p×m matrix of rotated loadings. Moreover, the estimated covariance matrix 
+remains unchanged, since 
+ Ligj552Ligj552′igjj97Ψigj55jigjmpm L igj552TT′Ligj552igjj97Ψigj55jigjmpm L igj552ig1m99Ligj552ig1m99′igjj97Ψigj55j            (13.14) 
+
+
+--- Page 20 ---
+ 
+ 
+ 
+Multivariate Analysis:  
+Factor Analysis 
+21 
+-II Equation (13.14) shows that the residual matrix, Sig292migjj98 Ligj552Ligj552′igjj98Ψigj55jigjmpm S ig292migjj98 Ligj552ig1m99Ligj552ig1m99′igjj98
+Ψigj55j,
+ remains unchanged. Moreover, the specific variances Ψigj55jig2919 and hence the 
+c
+ommunalities higj552ig2919
+ig287p are unaltered. Thus from a mathematical viewpoint, it i s 
+immaterial whether Ligj552 or Ligj552ig1m99 is obtained. 
+T
+he various factor rotation methods have, as a guiding principle, the simple 
+structure concepts. That is to say, the results after rotation should become 
+simple in their appearance. To put it another way, these simple structure 
+concepts should be considered when trying to determine whether or not a given 
+factor rotation has clarified the underlying structure of the data. 
+Factors are rotated for better interpretation since un-rotated factors are 
+ambiguous. The goal of rotation is to attain an optimal simple structure which 
+attempts to have each variable load on as few factors as possible, but 
+maximizes the number of high loadings on each variable. Ultimately, the 
+simple structure attempts to have each factor define a distinct cluster of 
+interrelated variables so that interpretation becomes easier. For example, 
+variables that relate to language should load highly on language ability factors 
+but should have close to zero loadings on mathematical ability.  
+Varimax Rotation: Perhaps the most widely used is the varimax criterion. It 
+seeks the rotated loadings that maximize the variance of the squared loadings 
+for each factor; the goal is to make some of these loadings as large as possible, 
+and the rest as small as possible in absolute value. The varimax method 
+encourages the detection of factors each of which is related to few variables. It 
+discourages the detection of factors influencing all variables. The quartimax 
+criterion, on the other hand, seeks to maximize the variance of the squared 
+loadings for each variable, and tends to produce factors with high loadings for 
+all variables. 
+Kaiser [5] has suggested an analytical measure of simple structure known as 
+the varimax (normal varimax) criteria. Let us define ligm6jmig2919ig292p
+ig1m99
+ig2872igjmpm ligm6j2ig2919ig292p
+ig1m99higj552ig2919⁄  
+ to be the 
+rotated coefficients scaled by the square root of the communalities. Then the 
+(normal) varimax procedure selects the orthogonal transformation T that makes 
+ V igjmpm
+ig2869
+ig2926
+∑ igm67m∑ ligm6jmig2919ig292p
+ig1m99
+ig2872igjj98igjmj5∑ ligm6jmig2919ig292p
+ig1m99
+ig287pig2926
+ig2919ig288pig2869igjmj9
+ig287p
+pigjm15ig2926
+ig2919
+ig288pig2869 igm675ig292j
+ig292p
+ig288pig2869             (13.15) 
+a
+s large as possible. 
+Scaling the rotated coefficients ligm6j2ig2919ig292p
+ig1m99 has the effect of giving variables with small 
+c
+ommunalities relatively more weight in the determination of simple structure. 
+After the transformation T is determined, the loadings ligm6jmig2919ig292p
+ig1m99 are multiplied by higj552ig2919 so 
+t
+hat the original communalities are preserved. 
+In the above equation, it has a simple interpretation. In words 
+V ig15pj igj5jjigjmj5variance of the squares of igm666scaledigm667loadings for jig29jpig2918 factorigjmj9
+ig292j
+ig292p
+ig288pig2869
+ 
+O
+ne can maximize V that corresponds to the squares of the loadings on each 
+factor as much as possible. Therefore, we hope to find groups of large and 
+negligible coefficients in any column of the rotated loadings matrix Ligj552ig1m99. 

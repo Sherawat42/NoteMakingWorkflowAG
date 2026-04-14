@@ -1,0 +1,557 @@
+--- Page 38 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+38 
+We shall now look at two of the sectors of the economy in this unit. One is the 
+agricultural sector that provides livelihood to roughly two-thirds of the total 
+workforce in the country. The other is the industrial sector, which consists of 
+manufacturing, power, gas and water supply. 
+22.2  AGRICULTURAL DATA  
+You are already aware of the importance of agriculture to the Indian economy 
+and indeed to the Indian way of life. You would, therefore, like to examine 
+several aspects of agriculture like the level of production of different crops and 
+commodities, the availability and utilization of important inputs for agricultural 
+production, incentives, availability of post-harvest services and the role of 
+agriculture in development. Similarly, you would like to know about the livestock 
+and their products, fisheries and forestry, people engaged in these activities and so 
+on. All these analyses require enormous amount of data over time and space. Let us 
+have a look at what kind of data are available and where. 
+The Directorate of Economics and Statistics (DESMOA) in the Department of 
+Agriculture and Cooperation (website http://eands.dacnet.nic.in ) and the 
+Animal Husbandry Statistics Division (AHSD) of the Department of Animal 
+Husbandry, Dairy and Fisheries (website http://dahd.nic.in/dahd/statistics/ 
+animal-husbandry-statistics.aspx) in the Ministry of Agriculture are the major 
+sources of data on agriculture and allied activities. Among the major efforts at 
+collection of data mounted at regular intervals, the following are the major 
+ones: 
+i) the quiquennial agricultural census and the input survey; 
+ii) the cost of cultivation studies; 
+iii) annual estimates of crop production; 
+iv) the quinquennial livestock census; and 
+v) integrated sample survey to estimate the production of major livestock 
+products. 
+DESMOA releases statistics on agriculture and allied activities flowing from 
+its work and also collected from other division (like the Agricultural Census 
+Division) and Departments of the Ministry of Agricultural and other Ministries 
+and agencies in their comprehensive annual publication Agricultural Statistics 
+at a Glance (ASG) 1. Other publications include, “Cost of Cultivation in 
+India”, the monthly bulletin “Agricultural Situation In India”. AHSD 
+publishes the data flowing from its activities [which include the activities 
+mentioned at (iv) and (v) above] and those collected from other divisions of the 
+Department of Animal Husbandry, Dairy and Fisheries and other agencies in 
+its biennial publication Basic Animal Husbandry Statistics (BAHS). 
+22.2.1 Agricultural Census 
+Agriculture Census forms part of a broader system of collection of Agricultural 
+Statistics. It is a large-scale statistical operation for the collection and derivation of 
+quantitative information about the structure of agriculture in the country. An 
+                                                            
+ 
+1 This can be accessed in the Ministry of Agriculture (Department of Agriculture) website . 
+One can also access www.data.gov.in and click on  
+
+
+--- Page 39 ---
+ 
+ 
+ 
+39
+Agricultural and 
+Industrial Data
+agricultural operational holding is the ultimate unit for taking decision for 
+development of Agriculture at micro level. It is for this reason that an 
+operational holding is taken as the statistical unit of data collection for 
+describing the structure of agriculture. Through Agriculture Census it is 
+endeavored to collect basic data on important aspects of agricultural economy 
+for all the operational holdings in the country. Aggregation of data is done at 
+various levels of administrative units. The agricultural census started in  
+1970-71. The ninth of these censuses relates to the reference year 2010-11. 
+Periodic Agriculture Censuses are important as these are the main source of 
+information on basic characteristics of operational holdings such as land use 
+and cropping patterns, irrigation status, tenancy particulars and the terms of 
+leasing. This information is tabulated by different size classes and social 
+groups including Scheduled Castes/Scheduled Tribes which are needed for 
+development planning, socio-economic policy formulation and establishment 
+of national priorities. The census also provides the basis for the development of 
+a comprehensive integrated national system of agricultural statistics and has 
+links with various components of the national statistical system. The whole 
+project of Agriculture Census in the country is implemented in three distinct 
+phases, which are statistically linked together but focus on different aspects of 
+agricultural statistics. In Phase-I, a list of holdings with their area and social 
+characteristics and gender of the holders is prepared. In Phase-II, detailed data 
+on agricultural characteristics of holdings are collected from selected villages. 
+Thus the whole operation of Agriculture Census in India is not really a 
+complete Census. In fact, it is a combination of Census and Sample Survey.2 
+The third phase, which is better known as the Input Survey and conducted in 
+the year following the census year 3, relates to collection of data on the pattern 
+of input-use across crops, regions and size-groups of holdings. The main 
+objective of the input survey is to generate data on consumption of various 
+agricultural inputs, according to major size-groups of operational holdings, 
+viz., marginal (below 1 ha.), small (1- 1.99 ha.), semi-medium (2- 3.99 ha.), 
+medium (4- 9.99 ha.) and large (10 ha. and above), for getting an insight into 
+the consumption pattern of inputs by various categories of farmers. This 
+information is vital for planning production, imports and distribution of 
+fertilizers. The inputs covered in the survey include chemical fertilizers, HYV 
+seeds, pesticides, farmyard manures/compost, bio-fertilizers, agricultural 
+implements and machinery, livestock and agricultural credit besides data on 
+input use including use of certified/notified seeds, high yielding variety seeds, 
+pest control measurements adopted by cultivators, educational qualification, 
+age and size of households of operational holders are captured through Input 
+Survey. The results of the first phase, including the all-India report of the first 
+phase of the ninth agricultural census can be accessed at http://agcensus.nic.in/ 
+agcen201011.html. The provisional results of the second phase have also been 
+released. Data collection and processing of the third phase is progressing in the 
+different States and UTs. Selective information is also available on the 
+internet4 through a query-based facility and can provide data on operational 
+                                                            
+ 
+2 This part is reproduced from http://agcensus.dacnet.nic.in/, which can be accessed to get the 
+latest data, up to tehsil level from Agricultural Census 2013. 
+3 The input survey was initiated in the 1975-76 Agricultural Census and conducted in 1976-77. 
+4 On the website http://agcensus.dacnet.nic.in/nationalholdingtype.aspx, one can access tables 
+related to agricultural census years 1995-96 to 2010-11. Further, On the website 
+http://inputsurvey.dacnet.nic.in/nationalsummary.aspx one can access the tables related to 
+1996-97 to 2006-07 so far. 
+
+
+--- Page 40 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+40 
+holdings at the national, State, district and tehsil levels by type, characteristics 
+and size class/group. You can, for example, get information on operational 
+holdings by size class of the holding, social group (Scheduled Caste, Scheduled 
+Tribe, Other and all groups) and tenancy characteristics of the holding (lease 
+terms, land use, irrigation status, irrigation by sources, wells and tube wells, 
+gross cropped area, cropping pattern, and area dispersal. Clearly, there is a time 
+lag in the availability of agricultural census and Input Survey results. 
+22.2.2 Studies on Cost of Cultivation 
+DESMOA implements a comprehensive scheme for studying the cost of 
+cultivation of principal crops in India and this results in the collection and 
+compilation of field data on the cost of cultivation and production in respect of 
+29 principal crops leading to estimates of crop-wise and State-wise costs of 
+cultivation and also computation of the index of the terms of trade between 
+agriculture and non-agricultural sectors . The scheme covers 19 States and 
+foodgrain crops, oil seeds and commercial crops and selected vegetables. 
+Statistics of cost of cultivation of principal crops are published by DESMOA 
+in its publication “Cost of Cultivation in India” and also in ASG. The 
+Commission for Agricultural Costs and Prices (CACP) makes use of the 
+estimates of cost of cultivation and production and the structure of cost of 
+cultivation flowing from these studies, along with an analysis of a wide spectrum 
+of data on variables like market prices, productivity of the crops concerned, 
+domestic and global inter-crop price parity, the terms of trade between the 
+agricultural and the non-agricultural sectors and the supply-demand situation in 
+arriving at their recommendations to Government on Minimum Support Prices 
+(MSP). The CACP reports thus contain not only the data thrown up by the cost of 
+cultivation studies but also those assembled by it from various sources for its work. 
+For example any of the CACP report presents: 
+i) estimates of cost of cultivation per hectare, cost of production per quintal, 
+and the value of the main product and the byproduct; 
+ii) the breakup of the cost by inputs like human labour, bullock labour, 
+machine labour, seed, fertilizers and manures, insecticides, irrigation 
+charges and so on; 
+iii) a variable input price index; and 
+iv) month-end wholesale prices of the commodities concerned by variety and 
+location. 
+for all the commodities dealt with in the report and for all states. In addition, it 
+gives information on the index number of whole sale prices for farm inputs, 
+index numbers of whole sale prices of cereals, pulses, etc., and data on a host 
+of aspects relevant to the subject matter of the report like area, production, 
+yield of major crops, buffer stock of cereals and month-wise and area-wise 
+daily wage rates for agricultural labour 5. MSPs for different commodities are 
+also published in ASG. 
+                                                            
+ 
+5 The cost of cultivation studies reports and related data can be accessed at 
+http://eands.dacnet.nic.in/Cost_of_Cultivation.htm. Now, the data is available for reference 
+years 2004-05 to 2011-12. The details regarding the work of CACP and the data presented in 
+CACP reports are based on the information available in the CACP website 
+http://cacp.dacnet.nic.in . The MSP up to agricultural year 2014-15 can be viewed in the 
+link http://cacp.dacnet.nic.in/ViewContents.aspx?Input=1&PageId=36&KeyId=0A .  
+
+
+--- Page 41 ---
+ 
+ 
+ 
+41
+Agricultural and 
+Industrial Data
+The other useful outcome of the cost of cultivation studies, as already 
+mentioned, is the index of the terms of trade between the agricultural and 
+non-agricultural sectors. This is defined as 
+           IPR [Index of Prices Received] 
+ Index of the Terms of Trade = ——————————————— 
+                        IPP [Index of Prices Paid] 
+             (Base Year : the triennium ending 1991-92) 
+The numerator relates to the prices that the agricultural sector gets for its 
+produce while the denominator relates to the prices that the sector pays for 
+products it purchases for final consumption, intermediate consumption and 
+capital formation. The time series of ITT from 1981-82 onwards, complete with 
+individual values of IPR and IPP and those of the component indices of IPP, 
+namely, final consumption (weight in IPP 73.54), intermediate consumption 
+(weight in IPP 21.63) and capital formation (weight in IPP 4.83) are published 
+in ASG. 
+The Terms of Trade, specifically, the terms of trade between agriculture and 
+industry is the ratio of agricultural prices to industrial prices, both measured as 
+price indices. The terms of trade between agricultural and industry lies at the 
+heart of the government's policy in the agricultural sector. A rise in the ratio 
+(agricultural prices divided by industrial prices) means that the agricultural 
+sector is better off in terms of its purchasing power of industrial goods. 
+Suppose there are just two goods in the economy, bananas and pins and you 
+produce and sell bananas. Both initially cost Rs. 10. If now both prices go up 
+by 100 per cent, nothing happens to the terms of trade and purchasing power 
+remains unchanged. If instead, banana prices go up by 100 per cent and the 
+price of pins doesn't, then as a banana manufacturer you are better off since one 
+banana can now buy two pins instead of one. The ratio or the terms of trade 
+between bananas and pins has doubled. Substitute agriculture for bananas and 
+industry for pins and you can get what a rise in agriculture's terms of trade does 
+for farmers.6 
+The National Statistical Commission has pointed out that there is a sizeable 
+time lag in the availability of results for use in the work of CACP and that steps 
+should be taken to cut down delays in the release of the results of these 
+studies7. 
+22.2.3 Annual Estimates of Crop Production 
+DESMOA makes and releases annual estimates of area, production and yield 
+in respect of principal crops of foodgrains, oil seeds, sugar cane, fibres and 
+important commercial and horticulture crops. These crops account for about  
+87 per cent of the total agricultural output. Estimates of area are based on a 
+reporting system that is a mix of complete coverage and coverage by a sample, 
+those of yield are based on a system of crop cutting experiments and General 
+Crop Estimation Surveys . The preparation of these estimates takes time. 
+Estimates of crop production are, however, needed earlier and in fact even 
+                                                            
+ 
+6 This part is taken from an article published in the economic times ET classrooms series, 
+which can be accessed at http://articles.economictimes.indiatimes.com/2002-02-04/news/ 
+27340862_1_bananas-issue-prices-trade.  
+7 Report of the national Statistical Commission, Chapter 4. 
+
+
+--- Page 42 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+42 
+before the crops are harvested, for policy purposes. Advance estimates of crop 
+production are, therefore, made. The first assessment of the kharif crop is made 
+in the middle of September, that is, when the South-West Monsoon is about to 
+be over. The second advance estimate – a second assessment of the earlier 
+estimate of the kharif crop and the first assessment of the rabi crop – is made in 
+January. The third advance estimate is made at the end of March or the 
+beginning of April and the fourth in June. The methodology for estimating area 
+and yield of crops and for making advance estimates are given in ASG. 
+Estimates of annual 8 production of the principal crops mentioned above, gross 
+area under different crops and yield per hectare of these crops and Index 
+Numbers on these variables with base year the triennium ending 2007-08 = 
+1009 are also available in ASG in the form of a time series. So are estimates of 
+production of crops by States. 
+Check Your Progress 1 
+1) Give two major sources of data on Agriculture and allied activities like 
+dairy and fisheries. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) How can you retrieve the agricultural census data at district and tehsil 
+level? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) How are annual estimates of crop production made by the Directorate of 
+Statistics and Economics? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+                                                            
+ 
+8   Season-wise in some cases. 
+9 The base of these index numbers is a triennium in order to even out year to year to 
+fluctuations of the underlying variable(s). The earlier base TE 1981-82 for these index 
+number series was changed to TE 1993-94 in 2000-01 in order to update the index numbers 
+and also for these to be in harmony with the index numbers of wholesale prices and 
+industrial production with base 1993-94 = 100. 
+
+
+--- Page 43 ---
+ 
+ 
+ 
+43
+Agricultural and 
+Industrial Data22.2.4 Livestock Census 
+The last quinquennial livestock census, the nineteenth in the series, was 
+conducted in 2012. The census has collected information, district-wise on 
+livestock, poultry, fishery and also agricultural implements. Livestock covers 
+cattle, buffaloes, sheep, goats, pigs, horses and ponies, mules, donkeys, camels, 
+yak, mithun and also, dogs and rabbits. These are classified by age (appropriate 
+for the species). sex, breed, function (‘breeding’, ‘work’, ‘both’ and ‘others’ for 
+males and ‘in milk’ or ‘dry’ in the case of females). Poultry covers cock, hen, 
+duck, and drake, which are classified as desi and ‘improved’ varieties. Fishery 
+covers fishing activity (inland capture, inland culture, marine capture and 
+marine culture), members involved in fishing (male, female and child), persons 
+engaged in fishing (part time male, full time male, part time female and full 
+time female) craft/gear, namely, trawlers, gin-netters, liners, seiners, motorized 
+canoe/maran, non-motorized canoe/maran, and miscellaneous gears like trawler-
+net, gill netter-net, cast-net, drag-net, hook lines, set barriers and others. Each 
+of these classes except the last one is further classified into size (length) and 
+horsepower. Agricultural implements cover annually operated implements, 
+animal operated implements, plant protection equipment, water lifting devices, 
+tractor and power operated implements, equipment for livestock and poultry 
+and horticulture tools. Each group provides further data on four or five specific 
+equipments like for example, thresher under the first group, ST Plough under 
+the second, TPO Spray under the third, diesel under the fourth, Crawler Tractor 
+under the fifth, incubator under the sixth and power operated tools under the 
+seventh group. 
+The provisional results of the 2012 census are available on the website of the 
+Department of Animal Husbandry, which can be accessed at http://dahd.nic.in/ 
+dahd/WriteReadData/Livestock.pdf. ASG and BAHS also present some data 
+from the livestock census. 
+22.2.5 Data on Production of Major Livestock Products 
+AHSD is responsible for collection of statistics on animal husbandry, dairy and 
+fisheries. These are published, as already mentioned, in BAHS. The latest 
+relates to 2004. This presents data up to 2003-04, on 
+i) long time series of estimates of production of milk, eggs, meat and wool; 
+ii) State-wise short time series of such estimates; 
+iii) State-wise and national estimates of per capita availability of milk and 
+eggs; 
+iv) contribution of cows, buffaloes and goats to milk production and of fowls 
+and ducks to egg production in different States in 2003-04; 
+v) average annual growth rates of production of major livestock products, 
+milk, eggs and wool; 
+vi) short time series on imports and exports of livestock and livestock 
+products; 
+vii) short time series on area under fodder crops, pastures and grazing in 
+different States; 
+viii) estimates of dry and green fodder production in different States during the 
+three-year period ending 2002-03; 
+
+
+--- Page 44 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+44 
+ix) a short time series on the no. of artificial inseminations performed in 
+different States; 
+x) achievements in key components of dairy development; 
+xi) livestock and poultry (numbers) in India and in different States – 1992, 
+1997 and 2003; and 
+xii) time series on world livestock production and milk production. 
+22.2.6 Agricultural Statistics at a Glance (ASG) 
+The pocket book on agricultural statistics and the agricultural statistics at a 
+glance are two annual publications available in the website http://eands.dacnet. 
+nic.in/latest_2006.htm. One of the most important statistics, which is the 
+statistics on Land utilization, is available in the ASG. As for inputs and access 
+of individual operational holdings to such inputs, ASG provides data on: 
+i) Methodology of crop estimation, 
+ii) Socio-economic indicators: population and growth rates, State-wise 
+classification of cultivators, Gross State Domestic Product for agriculture 
+and allied activities,  
+iii) Outlays, expenditure and capital formation in agriculture, 
+iv) Area, production and yield of principal crops: target and achievement of 
+production of major crops, three largest producing States of important 
+crops, season-wise area, production and yield of food grains (rice, wheat, 
+jowar, bajra, maize, total pulses, gram, tur, masur, nine oilseeds, groundnut, 
+rapseed and mustard, soyabean, sunflower), cotton, jute, mesta, sugarcane, 
+tobacco, guarseeed, etc.; yield rates of principal crops, area and yield under 
+the high yielding varieties, area and production of horticulture and plantation 
+crops (potato, onion, coconut, cashewnut, arecanut, garlic, ginger, sweet 
+potato, turmeric, chillies, cardamom, pepper); 
+v) All-India index numbers of area, production and yield of principal crops; 
+vi) Area, production and yield of major crops in different countries; 
+vii) Minimum support prices/marketed surplus ratios of various agricultural 
+commodities; 
+viii) Procurement by public agencies, per capita net availability of foodgrains, 
+consumption and stocks of foodgrains and raw jute,  
+ix) Import and export .of agricultural commodities, tariffs and bound rates of 
+major agricultural commodities, trends in wholesale price index of 
+foodgrains and commercial crops; 
+x) Land use statistics: agricultural land by use in India, selected categories 
+of land use; 
+xi) Inputs: production and use of agricultural inputs (fertilizers, crop-wise 
+distribution of certified/quality seeds, consumption of electricity for 
+agricultural purposes, flow of institutional credit for agricultural sector, 
+state-wise number of kisan credit cards, state-wise/season-wise national 
+agricultural insurance scheme, etc. 
+
+
+--- Page 45 ---
+ 
+ 
+ 
+45
+Agricultural and 
+Industrial Data
+xii) Agricultural census data: number and area of operational holdings by size 
+group – marginal (size less than one HA 10 area), small (1 to 2 HA), semi-
+medium (2 to 4 HA), medium (4 to 10 HA) and large (more than 10 HA), 
+area irrigated by different source of irrigation and by size class  and the 
+position in different States; 
+xiii) Estimated number of rural households, farmer households, indebted 
+farmer households by size class of land possessed; 
+xiv) Ceiling on land holding and wages for agricultural work; 
+xv) Livestock population in India, all-India and State-wise production of 
+milk, eggs, meat and wool; 
+xvi) Fish production in India and States; 
+xvii) Rainfall scenario and management of natural disaster. 
+The subjects Subsidies is a much-debated subject nowadays and agricultural 
+subsidies in developing countries and developed countries of Europe and in 
+USA are also much in the news. The Ministry of Agriculture provides a time 
+series of the amount of subsidy given to agricultural with its break-up into 
+subsidy for (i) fertilizers (ii) electricity, and (iii) irrigation 11, (iv) other 
+subsidies given to marginal farmers and Farmers Cooperative Societies in the 
+form of seeds, development of oil seeds, pulses, etc. One can easily derive the 
+size of the total subsidy relative to GDP in current prices. The limitations to 
+which these figures are subject need to be kept in mind.  
+22.2.7    Another Source of Data on Irrigation 
+The data on irrigation presented in ASG (referred to the proceeding sub-
+section) is based on crop statistics collected by DESMOA from village through 
+a mix of a reporting system and sample surveys. The Central Water 
+Commission (CWC) under the Ministry of Water Resources collects 
+hydrological data on the important river systems in the country through 877 
+hydrological observation sites. The Ministry also conducts periodic Censuses 
+of Minor Irrigation Works along with a sample check to correct the Census 
+data. The five Census conducted so far related to 1986-87, 1993-94, 2000-01,  
+2006-07 and 2013-14. This is conducted in all States/UTs except in Daman & 
+Diu and Lakshadweep. The reports can be seen in the website of the Ministry 
+http://micensus.gov.in.The Report of the Minor Irrigation Census 2006-07 
+provides information on the 20.7 million minor irrigation works in the country 
+like the share of ground water and surface water works, crop-wise utilization of 
+the irrigation potential created, the manner in which the water is distributed in 
+the field – sprinkler, drip, open channel or underground water irrigation and 
+state-wise distribution of these variables. 
+The National Commission on Statistics had in their report made the following 
+observations12 on irrigation data available from DESMOA and the Ministry of 
+Water Resources: 
+                                                            
+ 
+10 HA: abbreviation for hectare. 
+11 The rates for supply of water to farmers are kept low as a matter of policy. This results in a 
+loss to the Government Irrigation System. The excess of operating costs over gross revenue 
+is treated as imputed irrigation subsidy. 
+12 Chapter 4 of the Report. 
+
+
+--- Page 46 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+46 
+i) The CWC had a large volume of data on various aspects of irrigation 
+without any statistical analysis of such data being carried out. The CSO 
+and the CWC need to get together and ensure that the data collected in 
+analysed and put to use by the statistical machinery. 
+ii) There is a large variation between the statistics on the “area irrigated” 
+published by DESMOA and the “irrigation potential actually utilized” 
+published by the Ministry of Water Resources. 
+iii) Data users should be made aware of the reasons for such variation – 
+differences (if any) in concepts, definition etc. 
+iv) The reluctance on the part of the State Governments to furnish data in 
+view of their vested interest in the sharing of water is an added problem. 
+v) Data from both the sources – DESMOA and the Ministry of Water 
+Resources – are available after a large time lag and this needs to be 
+reduced. 
+22.2.8 Other Data on the Agricultural Sector 
+Data on forest cover is, already mentioned, as part of land-use statistics 
+presented on the basis of nine fold land-use classification in ASG. Forest 
+Survey of India (FSI) also collects data on forest cover (dense forest, open 
+forest and mangroves) through a biennial survey by making of Remote Sensing 
+(RS) technology since 1987. The latest survey relates to 2013. Digital 
+interpretation has reduced the time lag in the availability of such data obtained 
+earlier through periodic reports from field formations. There are discrepancies 
+between the data on forest area given by ASG and those given by FSI due to 
+differences in the concepts and definitions used by the two organizations in 
+collecting data. Data on production of industrial wood, minor forest produce 
+and fuel wood are available with the Principal Chief Conservator of Forests 
+in the Ministry of Environment and Forests. 
+The National Bank for Agriculture and Rural Development (NABARD)  is 
+another agency that is closely involved in agriculture, especially in the matter 
+of credit to the sector through cooperatives. The annual reports of NABARD 
+and its publication like “Statistical Statements Relating to the Cooperative 
+Movement in India” (Part I deals with credit societies and the other with non-
+credit societies) and “Key Statistics on Cooperative Banks”, besides 
+NABARD’s website (https://www.nabard.org/english/home.aspx) would be 
+useful source of information on agricultural credit. 
+Statistics on area, production and yield of crops and subsidies given to 
+agriculture are also available as time series in the Economic Survey, 
+expenditure budget documents of the Ministry of Finance and the RBI 
+Handbook of Statistics on Indian Economy (http://rbidocs.rbi.org.in/ 
+rdocs/Publications/PDFs/000HSE13120914FL.pdf). The third source is 
+important in the context of the policy direction to banks and all financial 
+institutions to ensure that 40 per cent of the total institutional credit should flow 
+to the priority sector of which agricultural sector forms a part. The data 
+warehouse of the RBI can be accessed at http://dbie.rbi.org.in. The RBI 
+Handbook of Statistics on Indian Economy – 2013-14 publishes time series 
+data on: 
+i) National income, saving and employment from 1952-53 onwards; 
+
+
+--- Page 47 ---
+ 
+ 
+ 
+47
+Agricultural and 
+Industrial Data
+ii) Output and prices of agricultural production, from 1956-57 onwards; 
+iii) Assets and liabilities of the RBI, components of money stock, etc. from 
+1962-63 onwards; 
+iv) Select aggregates of Scheduled Commercial Banks (SCBs), like demand 
+deposit, time deposit, borrowings from RBI, liabilities to banks, 
+investment in Government securities, food credit, non-food credit, cash in 
+bank, balance with RBI, assets with banks from 1956-57 onwards; 
+v) Sectoral deployment of non-food gross bank credit; industry-wise 
+deployment of gross bank credit; 
+vi) Direct and indirect institutional credit to agriculture and allied activities, 
+1975-76 onwards; 
+vii) SCB’s direct finance to farmers according to size of land holdings, 1985-
+86 onwards; 
+viii) the distribution of non-food credit by priority sector credit and credit for 
+other sectors;  
+ix) the share of agriculture in priority sector credit; 
+x) Financial market: structure of interest rate, etc.; 
+xi) Public finances: key deficit indicators of central Government, major 
+components of receipts of central Government, key deficit indicators of 
+state governments, pattern of receipts of state governments, etc.; 
+xii) Trade and balance of payment, etc. 
+Direct credit to agriculture is also available from other institutions and the 
+Handbook furnishes data on: 
+i) the short and long term loans issued by each of the institutions – 
+Cooperatives, Scheduled Commercial Banks (SCBs), Regional Rural 
+Banks (RRBs) and the State Governments directly to beneficiaries or 
+borrows for agriculture and activities allied to it during a year; and 
+ii) the loans outstanding at the end of each year. 
+Institutions like SCBs, Cooperative, RRBs and the Rural Electrification 
+Corporation (REC) provide indirect credit to agriculture and allied activities. 
+This is routed through some other agency, conduit or tier like the Electricity 
+Boards (EBs), the Primary Agricultural Credit Societies (PACS), the Farmers’ 
+Service Societies (FSS), the Large-sized Adivasi Multi-Purpose Societies 
+(LAMPS) and State-supported corporations and agencies. Such indirect credit 
+is designed to promote agricultural productivity or to increase the agricultural 
+income of the ultimate beneficiary, through a number of steps like distribution 
+of fertilizers and other inputs to these activities, loans to EBs and loans to 
+farmers through PACS, FSS and LAMPS. Other types of indirect credit include 
+advances to State-supported corporations and agencies for onward lending of 
+funds (up to Rs. 10,000/-) to weaker sections of society engaged in agriculture, 
+namely, small and marginal farmers and those engaged in activities allied to 
+agriculture. 
+We have already seen in the preceding Unit (on Macro-variable like national 
+income) that National Accounts Statistics (NAS) publishes data on the 
+contribution of agriculture and its sub-sectors to GDP and other measures of 

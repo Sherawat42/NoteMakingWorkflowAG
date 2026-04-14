@@ -1,0 +1,349 @@
+--- Page 62 ---
+ 
+ 
+63
+Measurement and 
+Scaling Techniques
+ii) Itemized Rating Scale  
+In this scale, respondents are provided with a scale having numbers/ 
+descriptions associated with each category. The respondents are asked to 
+select the best fitting category with the object.The commonly used 
+itemised rating scale are: 
+a) Likert Type Scale (Summated Scale) 
+b) Semantic Differential Scale  
+c) Stapel Scale 
+a) Likert Type Scale (Summated Scale) 
+Likert (1932) proposed a simple and straight forward method for scaling 
+attitudes that is most frequently used today. This scale is also known as 
+summated rating scale. Summated scales consist of a number of 
+statements which express either a favourable or unfavourable attitude 
+towards the given object to which the respondant is asked to respond to 
+each of the statements in terms of several degrees of agreement or 
+disagreement. Let us understand this method with an example. 
+Against the following statements relating to psychological well-being, please 
+tick mark any one of the following options shown against the statement 
+Sl. 
+No. 
+Statements Strongly 
+Agree 
+Agree Undecided Disagree Strongly 
+Disagree 
+5 4 3 2 1 
+1 I always live in present 
+and do not worry about 
+future. 
+     
+2 Many people think without 
+purpose in life but I am not 
+such type of persons. 
+     
+3 I generally feel sense of 
+perfection during the 
+moments I live in. 
+     
+4 I am very well in 
+managing and discharging 
+most of my 
+responsibilities. 
+     
+5 I give importance to the 
+innovative ideas and 
+experiences that challenge 
+my thought about me and 
+the world. 
+ 
+ 
+ 
+ 
+    
+Depending on the wording of an individual item, an extreme answer of strongly 
+agree or strongly disagree will indicate the most favorable response on the 
+underlying attitude measured by the questionnaire. This scale is relatively easy 
+and quick to compute. The data in this scale is of interval scale.  
+Some of the important advantages of this scale are: (i) it is relatively easy to 
+construct as it can be performed without a panel of judges, (ii) it is considered 
+more reliable because respondents answer each statement included in the 
+
+
+--- Page 63 ---
+ 
+ 
+Research Design and 
+Measurement 
+64 
+instrument, (iii) it can easily be used in respondent centred and stimulus 
+centred studies, (iv) this takes less time to construct. However, there are several 
+limitations of this type of scale i.e. (i) with this scale, we can simply examine 
+whether respondents are more or less favourable to a topic but it is difficult to 
+tell how much more or less they are, (ii) This does not rise more than to a 
+ordinal scale structure, (iii) the total score of an individual respondent has little 
+clear meaning since a given total score can be secured by a variety of answer 
+patterns. 
+b) Semantic Differential Scale  
+This scale was developed by Osgood, suit &Tannenbaum (1957). Semantic 
+differential scale includes a seven point scale in comparison to Likert’s five 
+point scale. The semantic differential scale is based on the proposition that an 
+object can have several implied or suggestive meanings to an expressed 
+opinion. The semantic differential scale can be scored on either  -3 to +3  or 1 
+to 7. This scale can also provide interesting comparison between products 
+organizations and so on. The results of this scale are further analysed by the 
+factor analysis. 
+Example: A researcher has developed an item seeking your perceptions 
+regarding magazine. Please mark √on each line that best indicates your 
+perception. Please be sure to mark every scale and do not omit any scale. 
+India Today Magazine is 
+ +3       +2         +1       0       -1      -2      -3  
+Easy to read ____  : ____ : ____:____:_√ __:____:____ Hard to read 
+Modern ____  : ____ : ____:____:_√ __:____:____ Old fashion 
+Rational ____  : ____ : ____:____:____:____:____ Emotional 
+Unreliable ____  : ____ : ____:____:____:____:____ Reliable 
+Worthless ____  : ____ : ____:____:____:____:____ Valuable 
+Unorganized ____  : ____ : ____:____:____:____:____ Organized 
+Orthodox ____  : ____ : ____:____:____:____:____ Liberal 
+Vain ____  : ____ : ____:____:____:____:____ Modest 
+Semantic differential scale provides a very convenient and quick way of 
+gathering impressions on one or more than one concept. The data generated 
+from this scale can be considered as numeric in some cases, and can be 
+summed to arrive total scores adjectives. It must define a single dimension and 
+each pair must be bipolar opposites labeling the extremes. 
+Like Likert Type Scale, this scale has also several advantages: (i) it is an 
+efficient and easy way to secure attitude from a large sample, (ii) the total set 
+of responses (both direction) gives a comprehensive picture of the meaning of 
+an object as well as a measure of the subject of the rating, (iii) it is a 
+standarised technique that can be easily repeated. 
+However, this technique escapes many of the problems of response distortion 
+found with more direct methods. 
+
+
+--- Page 64 ---
+ 
+ 
+65
+Measurement and 
+Scaling Techniques
+c) Stapel Scale 
+Stapel scales are named after John stapel who developed these scales. Stapel 
+scale consists of a single criterion in the centre with 10 categories numbered 
+from -5 to +5 without a neutral point (zero). The scale is usually presented 
+vertically. Negative rating indicates that the respondent inaccurately describes 
+the object and positive rating indicates that the respondent describes the object 
+accurately.  
+Example  
+Rate the Departmental store by marking ( √) on the following factors. +5 
+indicate that the factor is most accurate for you and -5 indicate that the factor is 
+most inaccurate for you. 
++5  -5  
++4  -4  
++3  -3  
++2  -2  
++1  -1  
+Services  Products   
+-1  +1  
+-2  +2  
+-3  +3  
+-4  +4  
+-5  +5  
+In this scale, data generated is interval data. In this method, data can be 
+collected through telephonic interview. The data obtained from Stapel 
+scale can be analysed in the same way as semantic differential scale. 
+iii) Category Scale  
+In Category scaling method, objects are grouped into a predetermined 
+number of categories on the basis of their perceived strength along certain 
+dimension. This scale is a dichotomous scale. This method is useful for 
+socio demographic questions. The response is this category we get, 
+typically ‘Yes’ or ‘No’ type. Data in this category is either nominal or 
+ordinal. Under this category scale, instructions and response tasks are 
+quick and simple, and many options can be included. 
+Example   
+A) Single Category Scale  
+1)  Do you own a house? 
+Yes No 
+  
+ 
+
+
+--- Page 65 ---
+ 
+ 
+Research Design and 
+Measurement 
+66 
+2) Do you own a car? 
+Yes No 
+  
+3) Do you own a Mobile phone? 
+Yes No 
+  
+b) Multiple Category 
+1)  Please indicate your income by marking ( √) in the income 
+group you fall 
+5000  -  10000  
+10000 -  15000  
+15000 -  20000  
+20000 -  25000  
+iv) Cumulative Scale (Guttman Scale) 
+Like other scales, it consists of series of statements to which a respondent 
+expresses his agreement or disagreement. The statements are in a form of 
+cumulative series i.e. in a way, an individual who replies favourably to 
+say item no. 3 also replies favourably to item no. 2 and 1 and so on. The 
+individual’s score is worked out by counting the number of points 
+concerning the number of statements he answers favourably. Knowing 
+the total score, we can estimate as to how a respondent has answered 
+individual statements constituting cumulative scales. 
+Let us understand with the illustration of an example.  
+Here is an example of a Guttman scale - the Bogardus Social Distance 
+Scale: 
+(Least extreme) 
+1) Are you willing to permit immigrants to live in your country? 
+2) Are you willing to permit immigrants to live in your community? 
+3) Are you willing to permit immigrants to live in your neighbourhood? 
+4) Are you willing to permit immigrants to live next door to you? 
+5) Would you permit your child to marry to an immigrant? 
+(Most extreme) 
+Cumulative scale (scalogram analysis) like any other  scaling technique has 
+several advantages as well as limitations. The advantages are – It assures that 
+only a single dimension of attitude is measured, (ii) Researcher’s subjective 
+judgement is not allowed to creep in the development of scale since the scale is 
+determined by the replies of respondents. 
+
+
+--- Page 66 ---
+ 
+ 
+67
+Measurement and 
+Scaling Techniques
+Its main limitation is that (i) In practice perfect cumulative or unidimesional 
+scale are very rarely found and approximation is used, (ii) Its developmental 
+procedure is cumbersome in comparison to other scaling methods. 
+Check Your Progress 2 
+1) What is the distinction between comparative measuring scale and non 
+comparative measuring scale? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) What do you mean byLikert Scale? Give its two examples. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+3) What are the sources of measurement errors?  
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+8.8 LET US SUM UP 
+Operationalisation of concepts for research purpose need measurement of 
+various attributes of the people, the characteristics of objects or phenomenon. 
+Measurement is a process to assign numbers to the characteristics according to 
+certain rules. Measurement scales are of four types – nominal, ordinal, interval 
+and ratio. A number of concerns arise in the process of measurement. 
+Important among them are: the scale measurement i.e. the validity, reliability 
+and practicality, number of indicators for measurement etc. Scaling techniques 
+are broadly of two types – comparative, and non-comparative. Within 
+comparative category, paired, rank order and constant sum are important 
+techniques. Within non-comparative techniques, four sub-categories i.e. 
+continuous rating scale, itemized rating scale, category scale and cumulative 
+scale have been covered in this unit. All these scaling techniques have their 
+relative advantages and limitations and are used depending upon the goal and the 
+nature of characteristics of objects/phenomenon to be measured. 
+8.9 KEY WORDS 
+Measurement : The assignment of numerals to objects or events 
+according to rules. 
+Nominal : Numbers are used to name identity or classify 
+persons, objects, groups or gender. 
+
+
+--- Page 67 ---
+ 
+ 
+Research Design and 
+Measurement 
+68 
+Ordinal Scale : Scale with order is called ordinal scale. 
+Interval Scale : In this scale numerically equal distance on the 
+scale indicate equal distances in the attributes of 
+the object being measured. 
+Ratio Scale : A conceptually meaningful zero point in which 
+there is a total absence of the characteristics 
+being measured. 
+Validity : The extent to which an instrument or scale tests 
+or measures what the measurement or scale i.e. 
+consistent or dependent. 
+Reliability : The degree to which the measurement or scale 
+i.e. consistent or dependent. 
+Practicality : Measure should be economical convenient and 
+interpretable. 
+Errors in 
+Measurement 
+: Discrepancies between the obtained scores and 
+the corresponding scores. 
+Scaling : The way of generation of a continuum upon 
+which measured objects are located. 
+Comparative Scaling  The comparison of objects directly with one 
+another. 
+Paired Comparison : A binary choice, respondents choose the objects 
+in each pair that has the greater magnitude on 
+the choice dimension. 
+Rank Order : Respondents are provided with various objects 
+and asked to rank the list of objects. 
+Constant Sum : Respondents are asked to allocate a constant 
+sum of units to a specific set of objects with 
+respect to predefined criterion. 
+Non Comparative 
+Scaling 
+: Scaling of object independently to some specify 
+standard. 
+Continuous Rating 
+Scale 
+ Respondents indicate their rating by marking at 
+appropriate position on a line. 
+Itemised Rating Scale  Respondents are asked to select the best fitting 
+category with the object. 
+Likert Scale : Respondents are asked to select the best fitting 
+category with the object. 
+Semantic Differential 
+Scale 
+ Seven point scale based on the proposition that 
+an object can have several implied or 
+suggestive meanings to an expressed opinion. 
+Stapel Scale : A single criterion in the centre with 10 
+categories numbered from -5 to +5 without a 
+neutral point. 
+Category Scale : Objects are grouped in to a predetermined 
+number of categories on the basis of their 
+perceived strength along certain dimension. 
+
+
+--- Page 68 ---
+ 
+ 
+69
+Measurement and 
+Scaling Techniques8.10  SOME USEFUL BOOKS/PAPERS 
+Stevens S.S. (1946): On Theory of Scales of Measurement, Science New Series, 
+Vol. 103, No. 2684, pp 77-680. 
+Kothari C.R. (2008): Research Methodology Methods and Techniques,  New 
+Age International Publishers. Chapter 5 page 69 to 82. 
+Babbie Earl, (2010): The Practice of Social Research, 12 th Edition, 
+WodsworthCengage Learning, CA, USA. 
+Malhotra, N.K. and S. Dash (2009): Marketing Research, An Applied 
+Orientation, Pearson Education, New Delhi. 
+Singh, A.K.: Tests Measurements and Research Method in Behavioural 
+Sciences, Bharti Bhawan Publishers and Distributors, Patna. 
+Gregory R.J. (2006): Psychological Testing History, Principles and Applications, 
+Pearson Education, New Delhi, India. 
+Michael S. Lewis-Beck (ed) (2004): The Sage Encyclopedia of Social Science 
+Research Methods, Vol. 2, Page no. 161 to 165, Sage Publications, New Delhi, 
+India. 
+8.11 ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) See Section 8.2 
+2) See Section 8.4 
+3) See Section 8.5 
+4) See Section 8.3 
+Check Your Progress 2 
+1) See Sub-section 8.7.1 and 8.7.2 
+2) See Sub-section 8.7.2 under the subhead Itemised Rating Scale 
+3) See Section 8.6. 

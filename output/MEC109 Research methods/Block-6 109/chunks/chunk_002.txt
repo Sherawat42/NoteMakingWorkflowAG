@@ -1,0 +1,575 @@
+--- Page 9 ---
+ 
+ 
+9
+Macro-Variable Data: 
+National Income, Saving 
+and InvestmentUNIT 21 MACRO-VARIABLE DATA: 
+NATIONAL INCOME SAVING  
+AND INVESTMENT 
+Structure 
+21.0 Objectives    
+21.1 Introduction 
+21.2 The Indian Statistical System 
+21.3 National Income and Related Macro Economic Aggregates 
+21.3.1 System of National Accounts (SNA) 
+21.3.2 Estimates of National Income and Related Macroeconomic Aggregates 
+21.3.3 The Input-Output Table 
+21.3.4 Regional  Accounts – Estimates of State Income and Related Aggregates 
+21.3.5 Regional Accounts – Estimates of District Income 
+21.3.6 National Income and Levels of Living 
+21.4 Saving 
+21.5 Investment 
+21.6 Let Us Sum Up 
+21.7 Exercises 
+21.8 Some Useful Books 
+21.9 Answers or Hints to Check Your Progress Exercises 
+21.0  OBJECTIVES 
+After going through this Unit, you will be able to: 
+• know the various approaches followed by the Indian statistical system in 
+generating data on various economic and social phenomena; 
+• explain the SNA (System of National Accounts) methodology of data 
+compilation; 
+• identify the various aggregates on which estimates are made by the 
+National Accounts System; 
+• compare the interrelationship among different sectors of the economy 
+through input-output transaction table (I-OTT) compiled by CSO; and  
+• describe the data on National Income, Saving, Investment and other 
+related macro economic variable and the estimates of the state income 
+which enable analysis of various aspects of economy. 
+21.1  INTRODUCTION 
+You would soon be a professional economist and would possibly be engaged in 
+research or would function as an economic analyst or adviser in a Government 
+or non-Government organization. As a professional economist, you will have 
+to analyse situations and arrive at conclusions about them or develop solutions 
+ 
+
+
+--- Page 10 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+10 
+National Income, Saving 
+for further action to tackle such situations.  You will, for this purpose, identify 
+the variables that, in your opinion, shape or affect the problem at hand, 
+incorporate these in a suitably chosen model, test the efficacy of the model in 
+reflecting the situation under examination and proceed further with the 
+analysis.  A basic input for such activity is data on the variables incorporated in 
+the model.  The availability of data relevant to the proposed analysis enhances 
+or restricts the scope of your analysis and the reliability of the conclusions 
+arrived at on the basis of the analysis.  Indeed, it might even restrict the kind of 
+variables and model you would like to use in your analysis, unless you want to 
+conduct a survey yourself to collect the data that are not available. Your 
+technical and professional equipment as an economist is, therefore, incomplete 
+without knowledge of where data on the variables in question are available and 
+how good they are for the purpose of the analysis at hand.  This knowledge 
+should naturally cover the entire data base of the Indian economy since an 
+economist’s work can cover any part or the whole of the Indian economy. 
+We shall look at the data base of the Indian economy in this Block. This Unit 
+deals with data available on National Income, Saving and Investment – the 
+major macro variables relating to the economy and associated macroeconomic 
+aggregates.  Agricultural and Industrial data, data relating to the Social Sector, 
+Trade and Finance will be discussed in the subsequent units of this block. 
+Let us begin by taking a look at the Indian statistical system. 
+21.2  THE INDIAN STATISTICAL SYSTEM 
+The Indian Statistical System generates data on a variety of economic and 
+social phenomena, essentially through six approaches. First, Central Acts like 
+the Census Act, 1948; and the Collection of Statistics Act, 2008, etc. enable the 
+Government agencies to conduct large-scale sample surveys for collection of 
+data at regular intervals. Second, statutory returns prescribed under several 
+other Acts like the Factories Act, 1948 the Companies Act, 1956, the Reserve 
+Bank of India Act, 1953; the Registration of Births and Deaths Act, 1969 and 
+the implementation of these Acts generate data on matters not covered by the 
+surveys. Third, data collected by individual Ministries, Departments and 
+organizations of the Central and State Governments as part of their specific 
+functions reflect the emerging situation in different sectors and sub-sectors of 
+the economy and administrative divisions of the country. Fourth, the 
+administrative reports of these organizations supplement such data.  Next, 
+information derived from the data flows mentioned above, like the National 
+Accounts Statistics (NAS) , index numbers of prices and production and 
+indices like the Human Development Index and Gender Development Index 
+provide readily usable inputs for research and policy and evaluation of the 
+impact of policies and programmes of development in terms of the health of the 
+economy and the well-being of the society.  Lastly, a large number of surveys 
+and research studies conducted by various institutions, public and private, on a 
+variety of subjects constitute another flow of data and information. 
+The Ministry of Statistics and Programme Implementation of the Government 
+of India is the apex body in the official statistical system of the country.  The 
+Ministry is headed by the Chief Statistician of the country. The Ministry 
+consists of the Central Statistics Office (CSO), the National Sample Survey 
+Office (NSSO) and the Computer Centre (CC).  The Directorates of Economics 
+and Statistics function at the level of the State/UT Governments. The CSO 
+
+
+--- Page 11 ---
+ 
+ 
+11
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+coordinates the statistical activities in the country, lays down and maintains 
+statistical norms and standards and provides liaison with Central, State and 
+International statistical agencies. There is also a National Statistical Commission 
+(NSC), comprising of Chairman and Members, who are eminent economists 
+and statisticians from research institutions, representatives of Central Ministries 
+and Departments and the State Directorates of Economics and Statistics, to 
+provide (i) guidance for an overall perspective for statistical development in the 
+country, (ii) guidance to Government on policy issues, and (iii) ensure effective 
+coordination of all statistical activities of the Government of India. CSO is the 
+Secretariat of the NSC. 
+The CSO, as the Central Statistical Authority, is responsible for coordination of 
+statistical activities in the country and for evolving and maintaining statistical 
+standards. Mention should be made in this connection of three publications of 
+CSO, namely, the Sources and Methods of National Accounts Statistics, the 
+National Industrial Classification and the Consumer Price Index. The first two 
+are adhoc while the third a monthly one. The first one covers the methods and 
+classification principles to be followed for preparation of the macro economic 
+aggregates, the second one gives the classification principle to be followed for 
+national and international comparability and the third one provides State/UT 
+wise price indices. 
+Certain other agencies concerned with economic development also bring out 
+publications that cover data relating to most of all the sectors of the economy at 
+one place.  These are the Reserve Bank of India (RBI) Bulletin (monthly), 
+the Financial Stability Report (including Trend and Progress of Banking 
+in India), RBI’s Handbook of Statistics on the Indian Economy and the 
+website of the RBI, the pre-Budget Economic Survey and the Budget presented 
+to Parliament  by the Finance Minister every year. The Five-Year Plan 
+documents of the Planning Commission of the Government of India used to 
+make up yet another set of data sources that provides important data across 
+sectors. The Human Development Report was prepared by the Planning 
+Commission for the first time in the year 2001. This and similar reports 
+prepared subsequently by many of the State Governments for individual 
+States and for district constituted another set of sources for data across sectors 
+at the national, State, district and even sub-district levels.  The District Census 
+Handbooks published after successive population censuses by the Office of 
+the Registrar General of India (ORGI) and the Directorates of Census of 
+different States and Union Territories provide comprehensive information 
+across sectors on individual districts, sub-districts, towns and villages. The 
+ORGI, in the year 2014 has also launched a digital library of all census tables 
+published since Census 1991 in their website www.censusindia.gov.in. These 
+tables together provide a very useful time series data on demographic 
+characteristics of the country and its States/ UTs. Most of the data and reports 
+published by Government agencies are available in electronic format, that is, in 
+DVDs/CDs and are accessible at the websites of the agencies concerned. In the 
+year 2013, the Planning Commission has also set up a central web-based 
+repository, namely, www.data.gov.in to bring published data of different 
+Government agencies under one roof. 
+The Indian statistical system has also recently been reviewed so as to bring 
+about improvements in it. A National Statistical Commission was appointed by 
+the Government of India to examine critically the deficiencies of the existing 
+statistical system from the point of view of timely availability, reliability and 
+adequacy of data and to recommend measures to correct these deficiencies and 
+
+
+--- Page 12 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+12 
+National Income, Saving 
+revamp the statistical system to generate reliable statistics for the purpose of 
+policy and planning at different levels of Government. The Commission 
+submitted its report to Government in September, 2001. The Report of 
+National Statistical Commission (2001), published by the Ministry of 
+Statistics and Programme Implementation (MoSPI) , is itself a useful 
+reference book on the database of the Indian economy.  This can be viewed or 
+downloaded from the website www.mospi.nic.in/nscr/hp.htm. Most of data 
+available in Government websites can be downloaded free of cost, either 
+directly or as a registered user. In most cases, this registration is free of charge. 
+For example, one can make a free registration in the website of the MoSPI and 
+with the username, freely download all the reports and tables published by 
+different offices under the MoSPI. For the Office of the RGI, one can simply 
+visit its website www.censusindia.gov.in click on the link digital library and 
+download all the census tables published from 1991 census onwards. 
+There are also non-Government sources that publish these for the use of 
+researchers and other data users (Certain private websites like www.indiastat. 
+com provide India centric, sector specific and state specific data for the 
+research fraternity, usually for a fee). The Centre for Monitoring Indian 
+Economy (CMIE), Mumbai and its Economic Intelligence Services (EIS) 
+provide detailed and up-to-date information on the Indian economy through a 
+Monthly Review of Indian Economy and annual documents each covering a 
+specific sector or subject in great detail. These publications bring together at 
+one place not only data available with Government statistical agencies but also 
+data collected by CMIE itself. The Economic and Political Weekly Research 
+Foundation (EPWRF), Mumbai is another organization that publishes 
+detailed time series data on a variety of subjects along with a description of 
+related conceptual and methodological issues and quality of data, besides 
+presenting statistics on specific areas in subject-specific Special Issues of the 
+Economic and Political Weekly.  The search for data by an analyst like you 
+can well start from one or more of the comprehensive sources enumerated 
+above and move on, as necessary, to the primary agency concerned with the 
+specific area of your interest. 
+Data on any variable have to be classified suitably for facilitating analysis.  
+And the classification system needs to be standardized when data on any 
+variable are collected by several agencies and utilized by many in order to 
+ensure meaningful collection of data and comparability of data across space 
+and time.  At the international level, different agencies of the United Nations, 
+like, the United Nations Statistics Division (UNSD), the OECD, the 
+International Labour Office (ILO), etc. prepares these classifications for cross-
+country comparison. For individual countries, these classification systems are 
+recommended. The countries are advised to maintain full compatibility up to a 
+certain level and then make additions/ alterations to suit the country specific 
+needs. In India, usually, such classifications are expanded to suit the need of 
+the country, while maintaining international comparability. Two important 
+classificatory systems developed for use may be referred to here, as its utility 
+cuts across sectors. One is the National Industrial Classification (NIC), 
+developed by the Central Statistics Office (CSO) in consultation with all 
+concerned.  It groups the entire spectrum of economic activities by means of a 
+five-digit code structure. NIC has been revised from time to time in keeping 
+with changes in the structure and variety of economic activities over the years.  
+A Standard Industrial Classification, 1962 (SIC 62) developed by CSO was 
+being used in the Sixties until NIC 70 was introduced. This was replaced by 
+NIC 1987, which in turn was replaced by NIC 98 in December 1998.  The most 
+
+
+--- Page 13 ---
+ 
+ 
+13
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+recent revision of the NIC series is NIC 2008. All the NIC classifications are 
+based on the relevant UN International Standard Industrial Classification 
+(ISIC). NIC 2008 was, for instance, based on ISIC- Revision 4.  NIC 2008 has 
+been developed and released for use in the place of NIC 04 in September, 
+2008. NIC 2008 classifies the whole range of economic activity into 21 
+Sections, 88 Divisions, 238 Groups, 403 Classes and 1,304 Sub-classes. NIC 
+2008 is comparable completely with ISIC-Rev.4 up to the four-digit level.  The 
+fifth digit (sub-class) inside each of the class (4 thdigit) takes care of the special 
+features of the Indian economy. NIC is used for classifying data on variables 
+like output, employment and income by economic activity.  In each release of 
+the NIC, concordance tables are made available to facilitate recasting of past 
+data as per the new classification, to the extent possible. 
+The other classificatory system is the National Classification of Occupations 
+(NCO), developed by the Directorate General of Employment & Training 
+(DGE&T) of the Ministry of Labour & Employment . NCO 1958, a five-
+digit code structure, was developed in the Fifties.  This was revised to NCO 
+1968.  This was in use till recently.  This has now been replaced by NCO 2004 
+(NCO04). The Indian NCOs have been based on the international occupational 
+classification system developed by the International Labour Organisation (ILO) 
+and revised from time to time.  NCO 1968 was patterned on the International 
+Standard Classification of Occupations 1966 – ISCO 66 – of the ILO . 
+While revising ISCO 66 to prepare ISCO 88, ILO incorporated the concept of 
+skill for effective performance in the relevant occupation, utilizing for the 
+purpose the International Standard Classification of Education (ISCED) .  
+NCO 04 has followed the approach adopted in ISCO 88. It takes note of the 
+skill required for satisfactory performance in the relevant occupations and has a 
+six-digit code structure.  NCO 04 has 8 occupational divisions (the first digit of 
+the code), 95 occupational groups (the second digit), 462 occupational families 
+(the third digit) and 2484 occupations (the fifth and the sixth digits).  NCO is 
+usuful for classification of the job seekers, the jobs and employment, thereby 
+facilitating analysis of trends in the labour market and in the employment 
+potential of the economy.  Past data can be recast as per NCO 04 with the help 
+of concordance tables provided in NCO 04. 
+A word of caution is necessary while using data assembled from sources other 
+than one’s own. Data extracted from printed publications or websites have to 
+be checked for printing errors/errors that occur while data are being posted on 
+the websites. A check of the row and column totals of the tables and other 
+identity relations relevant to the data under reference in the tables should take 
+care of such errors. More importantly, you should also look into aspects of the 
+data, like the concepts, definitions and methodology adopted by the source-
+agency for collecting and compiling the data, coverage of data (like, whether 
+data was collected from entire country or some specific areas, whether the 
+sample drawn was based on a statistically reliable random sample or it was a 
+purposive sample of a few selected locations, etc.), the methods used for 
+collecting data, reliability and so on periodicity and timeliness in the 
+availability of data, integrity (confidentiality), the data are firmly moored to 
+what the data are actually supposed to reflect. These aspects are collectively 
+referred to as “ metadata”. All these details are generally available in the 
+publication containing the data or in a related publication of the agency 
+publishing the data or in the relevant website of the agency. 
+It would sometimes be useful and instructive to judge the Indian situation in an 
+international setting. Publications of the United Nations and its agencies as also 
+
+
+--- Page 14 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+14 
+National Income, Saving 
+agencies like the International Monetary Fund (IMF) and the World Bank and 
+regional agencies such as the Organisation for Economic Cooperation and 
+Development (OECD)1 provide data on different facets of the economies of the 
+member countries including India along with information regarding 
+comparability of country-wise data.  The IMF has formulated a “ Special Data 
+Dissemination Standards ” (SDDS) covering the real sector (national 
+accounts, production index, price indices, etc.), Fiscal Sector, Financial Sector, 
+External Sector and Socio-demographic data for different countries to facilitate 
+transparency in the compilation and dissemination of data on important aspects 
+of the economy of individual countries and cross-country comparison of such 
+data. Countries like India who have accepted the SDDS provide to IMF a 
+National Summary Data Page  in respect of each of the areas and sub-areas 
+listed in SDDS and metadata relating to such data, as per a Dissemination 
+Format prescribed in SDDS. In addition, individual country agencies concerned 
+disseminate an advance release calendar, which gives notice of the precise 
+dates of release of data three months ahead of the date of release of the data, on 
+the internet of the IMF’s Data Dissemination Bulletin Board (DSBB). Such 
+information, as provided by any country covered by SDDS, can be accessed on 
+the internet with the help of the Google search engine using the search 
+parameter Special Data Dissemination Standards IMF. You can also visit the 
+site of the United Nation’s Statistical Division databases at http://unstats.un.org/ 
+unsd/databases.htm to access data compiled by different UN agencies on a host 
+of economic and social parameters. 
+Your capacity to utilize the vast amount of data available in the Indian 
+Statistical System and examine critically the state of the society can be 
+enhanced considerably by an intelligent combination of data across data 
+domains. You have already come across some examples of such efforts – 
+poverty ratios, concentration ratios for measuring the level of inequality, 
+employment elasticity, labour productivity and capital productivity.  (Unit 4 on 
+Poverty and Inequality – Policy Implications and Unit 5 on Employment and 
+Unemployment – Policy Implications in Block 1 of MEC-005 on Indian 
+Economic Policy in your first year Course). Other examples are the Human 
+Development Index and Gender Development Index (Units 3 and 4 in the same 
+Block of MEC-005). 
+Check Your Progress 1 
+1) State the major functions of CSO. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+                                                            
+ 
+1 India is not a member of OECD, which is an organization in which several countries in 
+Europe are members. 
+
+
+--- Page 15 ---
+ 
+ 
+15
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+2) Name any three web sources where you can get data for your research, 
+free of cost. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) Which precautions should be taken care of while using data assembled 
+from various sources? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+4) What do you understand by the term Special Data Dissemination 
+Standard? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+Let us now turn our attention to data on macroeconomic variables like national 
+income, saving and investment. 
+21.3 NATIONAL INCOME AND RELATED 
+MACRO ECONOMIC AGGREGATES 
+21.3.1 System of National Accounts (SNA) 
+How do you assess the performance of an economy?  You may be able to look 
+at the trend in the production of rice or wheat to be able to say something about 
+the performance of paddy or wheat crop.  You can make a similar assessment 
+about the production of steel.  If you want to say something on agricultural 
+production, where you find that some crops have done well and others have 
+not, you think of making an overall assessment of agricultural performance by 
+constructing an index of agricultural production to review the performance of 
+agricultural production. But we should like to go beyond levels of output or 
+production and look at performance in terms of incomes flowing from output in 
+the form of rent, wages, interest and profit to those participating in the creation 
+of output namely the factors of production – land, labour, capital and 
+entrepreneurship (Since 1993, the role of the Government in influencing the 
+economy, through various taxes and subsidies have also become an important 
+item of analysis). Alternatively, we would like to base our judgment of 
+
+
+--- Page 16 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+16 
+National Income, Saving 
+performance on value addition made by the production system namely, value 
+of output net of the (intermediate) costs incurred in creating the output.  It is (i) 
+this overall value addition computed for all sectors/activities of the economy, 
+that is referred to as the National Product, (ii) macro-aggregates related to it, 
+and (iii) trends in (i) and (ii), that can help you in analyzing the performance of 
+an economy. 
+As you know, National Income (NI) is the Net National Income (NNI). It is 
+also used to refer to the group of macroeconomic aggregates like Gross 
+National Income (GNI), Gross Domestic Product (GDP), Gross Value Added 
+(GVA) and Net Value Added (NVA).  All these of course refer to the total 
+value (in the sense mentioned above) of the goods and services produced 
+during a period of time, the only differences between these aggregates being 
+depreciation and/or net factor income from abroad. There are other 
+macroeconomic aggregates related to these that are of importance in relation to 
+an economy.  What data would you, as an analyst, like to have about the health 
+of an economy?  Besides a measure of the National Income every year or at 
+smaller intervals of time, you would like to know how fast it is growing over 
+time.  What are the shares of the national income that flow to labour and other 
+factors of production? How much of the national income goes to current 
+consumption, how much to saving and how much to building up the capital 
+needed to facilitate future economic growth?  What is the role of the different 
+sectors and economic activities – in the public and private sectors or in the 
+organized and unorganized activities or the households in the processes that 
+lead to economic growth?  How does the level and pattern of economic growth 
+affect or benefit different sections of society? How much money remains in the 
+hands of the households for consumption and saving after they have paid their 
+taxes (Personal Disposable Income) – an important indicator of the economic 
+health of households?  What is the contribution of different institutions to 
+saving?  How is capital formation financed? Such a list of requirements of data 
+for analyzing trends in the magnitude and quality of, and also the prospects of, 
+efforts for economic expansion being mounted by a nation can be very long.  
+Such data, that is, estimates of national income and related macroeconomic 
+aggregates from part of a system of National Accounts that gives a 
+comprehensive view of the internal and external transactions of an economy 
+over a period, say, a financial year and the interrelationships among the 
+macroeconomic aggregates. National Accounts thus constitute an important 
+tool of analysis for judging the performance of an economy vis-à-vis the aims 
+of economic and development policy. 
+The United Nations (UN) has been recommending guidelines in the form of a 
+System of National Accounts (SNA) in order to promote international 
+standards for the compilation of national accounts as an analytical tool and 
+international reporting of comparable national accounting data. The first 
+version of SNA was recommended in 1953.  This was revised in 1968 and then 
+in 1993.  The fourth version (2008 SNA) was prepared under the auspices of 
+the Inter-Secretariat Working Group on National Accounts consisting of the 
+Commission of the European Communities (Eurostat), International Monetary 
+Fund (IMF), Organisation for Economic Cooperation and Development 
+(OECD), the UN and the World Bank and adopted by the UN Statistical 
+Commission in 2008. This system has been harmonized with other major 
+statistical systems like the Balance of Payments Statistics and Government 
+Finance Statistics of the IMF . The 2008 SNA contains a coherent, consistent 
+and integrated set of macroeconomic accounts based on a set of internationally 
+agreed concepts, definitions, classifications and accounting rules.  It provides a 
+
+
+--- Page 17 ---
+ 
+ 
+17
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+comprehensive accounting framework within which data can be compiled and 
+presented in a format that is designed to facilitate economic analysis, formulation 
+of policy and decision-making. You can read the entire SNA by accessing it at 
+http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf.  
+The informal sector or the unorganized sector occupies an important place in 
+our economy, in terms of contribution to national income, employment and 
+exports.  It is necessary, therefore, to bestow adequate attention to unorganized 
+sector in the compilation of National Accounts and in other data domains and 
+in international efforts at promoting collection of data on informal sector 
+activities. The 15 th International Conference of Labour Statisticians (ICLS) 
+(January, 1993) adopted a resolution on informal sector statistics with a view to 
+helping member countries of the International Labour Organisation (ILO) in 
+reporting comparable statistics of employment in the informal sector.  The 
+resolution was endorsed by the UN Statistical Commission and by 1993 SNA. 
+National Accounts are compiled in India using a mix of 1968 SNA and 1993 
+SNA. India is also in the process of moving towards the full implementation of 
+SNA methodology to the extent feasible. 
+21.3.2  Estimates of National Income and Related 
+Macroeconomic Aggregates 
+a) Estimates Released by CSO 
+The Central Statistics Office (CSO) in the Ministry of Statistics and Programme 
+Implementation (MoSPI), Government of India compile and publish National 
+Accounts, which include estimates of National Income and related 
+macroeconomic aggregates like NNP, GNP, GDP and NDP, PFCE (private 
+final consumption expenditure), saving, capital formation and so on for the 
+country and for the public sector for every financial year.  Quarterly estimates 
+of GDP are also prepared and released.  Estimates prepared for any year at the 
+prices prevailing in that year are called estimates at current prices.  Estimates 
+of national income and other aggregates at current prices is generally not used 
+in analyzing changes in the magnitude of these aggregates over time, as price 
+levels over time gets affected by inflation or deflation of an economy.  Suppose 
+we need to compare the performance of the economy in terms of national 
+income or other macroeconomic aggregates, over a period of time, say, five 
+years. A comparison of estimates of, say, national income at current prices in 
+the opening year and the final year of the five-year period will give us the 
+increase or decrease, as the case may be, in national income at current prices.  
+We can easily note that the quantum of change observed in national income is 
+the composite measure of the change in national income and the changes in the 
+prices of goods and services between the two points of time.  How then to get at 
+the actual change, or the change in real terms in national income (or any other 
+macroeconomic aggregate) over the period? This is done by removing the 
+effect of changes in prices while comparing the aggregate in question at 
+different points of time. Estimates of the aggregate for different years are, 
+therefore, prepared at the estimates of the aggregate at constant (base year) 
+prices.  The comparison of estimates of the aggregate at constant (base year) 
+prices at different points of time is comparison of the magnitude of the 
+aggregate in real terms and measures the real change over time in the 
+magnitude of the aggregate.  The base year now in use is 2011-12. 
+
+
+--- Page 18 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+18 
+National Income, Saving 
+CSO changes the base year from time to time in order to take into account the 
+structural changes that take place in the economy and depict a true picture of 
+the economy. It was 1948-49, initially, when estimates of National Income 
+were first prepared by CSO and published in 1956.  It was shifted to 1960-61 in 
+August, 1967, to 1970-71 in January, 1978, to 1980-81 in February,1988, to 
+1993-94 in February,1999 to 1999-2000 in January, 2006; to 2004-05 in 
+January 2010and to 2011-12 in January 2015.  Note that, in the beginning, the 
+base years were the years in which the decennial population census was 
+conducted, that is, the first year of every decade from 1961 to 1981.  The 
+choice of the subsequent base years, namely, 1993-94, 1999-00 and 2004-05 
+were a departure from this practice.  What are the reasons for this?  Estimates 
+of workforce participation rates (WPR), that is, the proportion of workers to 
+population for the benchmark years play an important role in the compilation 
+of estimates of national income.  CSO had been making use of data on WPR 
+available from decennial population censuses till 1981 while compiling 
+national income estimates and for this reason the base year was the relevant 
+decennial census year. It was, however, observed that the Employment and 
+Unemployment Surveys of the National Sample Survey Organisation (NSSO) 
+captured WPR better than the population censuses.  The base years chosen after 
+1981 were thus 1993-94, 1999-2000 and 2004-05, making use of data on 
+employment based on the NSSO 50 th, 55 th, 61 stRound and 68 th round Surveys 
+on Employment and Unemployment 2 conducted during July ‘93 – June ’94, 
+July ’99 – June 2000, July ‘03 – June ‘04 and July 2011- June 2012 respectively. 
+After every revision of base year, the CSO publishes a set of results which 
+provide comparable estimates of the years prior to the base year, so that a long 
+time series data on national income aggregates can be analysed by the 
+researchers and policy makers.  
+Base year revisions differ from annual revisions in National Accounts 
+primarily because of nature of changes. In annual revisions, changes are made 
+only on the basis of updated data becoming available without making any 
+changes in the conceptual framework or using any new data source, to ensure 
+strict comparison over years. In case of base year revisions, apart from a shift 
+in the reference year for measuring the real growth, conceptual changes, as 
+recommended by the international guidelines, are incorporated. Further, 
+statistical changes like revisions in the methodology of compilation, adoption 
+of latest classification systems, and, inclusion of new and recent data sources 
+are also made. Changes are also made in the presentation of estimates to improve 
+ease of understanding for analysis and facilitate international comparability.  
+Estimates of national accounts aggregates for different years are published in 
+considerable detail in CSO’s Annual Publication “National Accounts Statistics 
+(NAS)”.  The latest available NAS estimates are detailed in the publication 
+NAS 2014 and the Press Notes of MoSPI dated the 31st January, 2015 3. The 
+prerss note of January 2015 provides, for the first time, estimates of macro-
+economic aggregates using the base year 2011-12. Note that in this release, for 
+the first time, Gross Domestic Product (GDP) “at factor cost” has been 
+discontinued. As is the practice internationally, industry-wise estimates have 
+been presented as Gross Value Added (GVA) at basic prices, while “GDP at 
+market prices has been referred to as GDP. Estimates of GVA at factor cost 
+                                                            
+ 
+2  Some employment data from Census 1991/2001 have also been used to supplement the data 
+from NSSO. 
+3  This publication and these Press Notes can also be accessed in the Ministry of Statistics 
+and Programme Implementation website www.mospi.nic.in 

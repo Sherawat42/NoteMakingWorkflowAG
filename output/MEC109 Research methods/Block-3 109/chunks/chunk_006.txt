@@ -1,0 +1,762 @@
+--- Page 46 ---
+ 
+ 
+47
+I Multivariable Regression 
+Models
+(10.27)                                                                                                             
+(10.26)                                                                                        0 2 2
+Y X Xb X
+Xb X Y Xb
+′=′
+=′+′− =∂
+∂φ
+ 
+when X has rank equal to k , the normal equation 10.27 will have a unique 
+solution and least squares estimator b is equal to: 
+[ ] [ ] (10.28)                                                                                                       
+1
+Y X X X b′ ′=
+−
+ 
+We have assumed b to be estimator for β  and thus E(b) = β  , therefore we 
+can rewrite 10.28 as  
+[ ] [ ]
+[ ] [ ]
+[ ]
+[ ][ ] [ ]
+β
+µµβ
+β
+β
+β
+=
+′ ′+ =+ = ∴
++ =
+′ ′+′ ′=
++′ ′ ′=
+−
+−−
+−
+) ( . ) ( ) () ( ) ( 111
+111
+11
+1
+E X X X B E E X X X E E b E
+U X X X
+U X X X X X X X
+u X X X X b
+ 
+V
+ariance of 12 ) (−′= X X bσ  
+Notes 
+1) In this course our objective is simply to introduce the concepts. Those who 
+plan to pursue the concepts at much more rigorous level can study our 
+course on Econometric Methods (MEC) – included as optional course of 
+M.A.(Economics) Programme.  
+2) The other ideas regarding coefficient of determinati on R 2 and adjusted R 2 
+remain the same as they were developed for two expla inatory variable case.  
+Now we can safely turn to discussions about non-satisfaction or violation of 
+assumptions.  
+10.6   THE PROBLEM OF MULTI-CO-LINEARITY 
+Many a times our X variables may be found to have some other linear 
+relationships among themselves. This vitiates our classical regression model.  
+Let us illustrate it with help of our 2 explainatory variable model. 
+1 2 2 1 1 0U X XY iii +++= βββ  
+Let us give specific names to variables, say, X 1 is price of commodity  Y and X 2 
+i
+s family income.  We expect β1 to be negative and β2 to be positive. Now we go 
+o
+ne step further. Let Y be demand for milk, X 1 be price of milk and let the 
+f
+amily wise demand for milk is being estimated for a family, which produces and 
+sells milk! Clearly, larger the value of X1 higher the magnitude of X2 will be.  
+I
+n such situations, the estimation of co-efficient will not be possible. Recall, we 
+wanted variables X in our matrix equations to be linearly independent. If that 
+conditions is not satisfied X matrix becomes singular, that is its determinant 
+tends to vanish. Thus, there will be no solution to the normal equation 10.26 
+(
+or 10.27). 
+
+
+--- Page 47 ---
+ 
+ 
+Quantitative Methods-I 
+48 
+Multivariable Regression However, if co-linearity not perfect, we can still get OLS estimates and they 
+remain best linear unbiased estimates (BLUE) – though one or more partial 
+regression co-efficient may turn out to be individually insignificant. 
+Not only this, the OLS estimates still retain property of minimum variance. 
+Further, it is found that multi co-linearity is essentially a sample regression 
+problem. The X variables may not be linearly related in population but some of 
+our suppositions while drawing a sample may create a situation of multiple 
+linear relations.  
+The practical consequences of multi-co-linearity. Gujarali, (D.N.) has listed 
+t
+he following consequences of multiplicity of linear relationships: 
+1) Large variances /SEs of OLS estimates 
+2
+) Wider confidence intervals 
+3
+) Insignificant ‘t’ ratios for β  parameters 
+4) A high R2 despite few significant  t values  
+5
+) Instability of OLS estimators: The estimators and th eir standard errors 
+(SEs) become very sensitive to small changes in data.  
+6) Sometimes, even signs of some of the regressions may  turn out to be 
+theoretically unacceptable like a rise in income having negative impact on 
+demand for milk. 
+7) When many regressions have insignificant coefficient s, their individual 
+contributions to the explained sum of squares cannot be assessed properly.  
+The multi-co-linearity can be detected by:  
+1) high R2 but few significant  ‘t’ ratios,  
+2
+) high pair wise correlation between explainatory vari ables. One can try 
+partial correlations, subsidiary or auxiliary regressions as well. But each 
+such technique increases burden of calculations.  
+Check Your Progress 2 
+1) When do you decide to drop a variable from the regre ssion equation? Why? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) When do you include more variable(s) into your model ?  Why? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+
+
+--- Page 48 ---
+ 
+ 
+49
+I Multivariable Regression 
+Models
+3)  “Inclusion of more variables always increases R2 the goodness of fit. So to 
+m
+ake a regression model ‘good’ what we need to do is simply increase the 
+number of explanatory variables”.  Do you agree/disagree with this 
+statement?  Give reasons. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+4) What is multi-co-linearity? What are its consequence s? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+10.7   PROBLEM OF HETERO-SCEDASTICITY 
+The Classical Linear Regression Model has a significant underlying assumption 
+in homo scedasticity, that is, all the error terms are identically distributed with 
+mean equal to zero and standard deviation equal to σ (or variance equal to σ2). 
+σ2 What happens when this second part of assumption r egarding distribution of 
+variance does not hold? As a result, in symbolic terms 2 2) ( iiu E σ= , that is, if the 
+e
+xpectation of squared errors is no longer equal to σ2  each error term has its 
+own σ2, or variance varies from observation to observation .  
+It has been observed that usually time series data does not suffer from this 
+problem of hetero scedasticity but in cross-section data, the problem may 
+assume serious dimensions. The consequences of hetero scedasticity:  If the 
+a
+ssumption of homoscedasticity does not hold, we observe the following 
+impact on OLS estimators.  
+1) They are still linear 
+2
+) They are still unbiased 
+3
+) But they no longer have minimum variance – that is w e cannot call them 
+BLUE: the Best Linear Unbiased Estimators. In fact, this point is relevant 
+both for small as well as large samples.  
+4) Reason for this problem hinted at in (3) above is th at generally, OLS 
+estimators have some bias built into their formulae. We try to rectify that 
+making use of degrees of freedom.  
+For instance 2ˆ
+σ ,  (the estimator for true population σ2) given by df e2
+1∑  
+n
+o longer remains unbiased. And this very 2ˆσ  enters into calculation of 
+standard errors of OLS estimates. 
+
+
+--- Page 49 ---
+ 
+ 
+Quantitative Methods-I 
+50 
+Multivariable Regression 5) Since, estimates of standard errors are themselves no longer reliable, we 
+may end up drawing wrong conclusions using conventional reasoning 
+based on procedures for testing the hypothesis. 
+How to detect Hetero scedasticity 
+In applied regression analysis, plotting the residual terms can give us important 
+clues about whether or not one or more assumptions underlying our regression 
+model hold. The pattern exhibited by  2
+ie  plotted against the concerned variable 
+can provide important clue. If no pattern is detected – homoscedasticity holds 
+or hetero scedasticity is absent. On the other hand, if errors form a pattern with 
+variable  expanding, increasing linear or changing is some no n-linear manner 
+thus hetero scedasticity is certainly present. 
+Some tests have been designed to detect presence of Hetero scedasticity, using 
+various statistical techniques. Prominent ones are: Park Test, Glejser Test, 
+Whites General Test, Spearman’s Rank correlation Test, Goldfield - Quadnt 
+Test etc. But in this unit, the limitation of space does not permit us to go into 
+their details. We are forced to refer the learners again the course on 
+Econometric Method for details in this regard. 
+How to tackle the hetero scedasticity?  
+Our ability to tackle the problem will depend upon the assumptions. We can 
+really make about error variance. Thus, the following situations may emerge 
+i)   When  2
+1σ   is known 
+Here the CLRM 
+ii u XY ++= 1 1 0ββ can be transformed, dividing each value by 
+corresponding σ1 thus,   
+i
+i
+i
+ii U XY
+σ σβσβσ +
+
+
+
+
+
++
+
+
+
+
+= 1
+1
+0
+1
+1  
+This effectively transforms error terms to 
+1
+i
+i
+UU σ= which is homo-scedastic 
+and therefore, the OLS estimators will be free of disability caused by 
+hetero scedasticity. The estimates of β0 and β1 in this situation are called 
+Weighted Least Squares Estimators (WLSEs). 
+ii)  When σ2 is unknown:  we make some further assumptions about error 
+variance: 
+iia) Error variance proportional to the X i s. Here, the Square Root 
+transformation is enough. We divide on both sides by iX . Thus, our 
+r
+egression line looks like: 
+0
+1
+i i i
+i i i i
+Y X U
+X X X X
+b b= + +  
+
+
+--- Page 50 ---
+ 
+ 
+51
+I Multivariable Regression 
+Models0 1
+1
+i i
+i
+X U
+X
+b b= + +  
+Here U i
+i
+i
+U
+X
+= and this is sufficient to address the problem. 
+iib)  Error Variance proportional to X 1
+2. Here, instead of division by iX , we 
+d
+ivide by Xi on both the sides and estimate 
+0 1
+0 1
+1
+1
+i i
+i i i
+i
+i
+Y U
+X X X
+UX
+b b
+b b
+= + +
+= + +
+ 
+T
+he error term will be i
+i
+i
+UU X=  and this will be free of hetero scedasticity, 
+facilitating use of CLS techniques. 
+iii)  Respecification of Model : Assigning a different functional form to the 
+model, in place of speculating about the nature of variance may be found 
+expedient. We can estimate this model: 
+i ii U XY ++= lnln 1 0ββ  
+This loglinear model is usually adequate to address our concerns. 
+10.8  PROBLEM OF AUTOCORRELATION 
+The classical regression model also assumes that disturbance terms Uis   do not 
+have any serial correlation. But, in many situations this assumption may not 
+hold. The consequences of the presence of serial or auto correlation are similar 
+to those of hetero scedasticity: the OLS are no longer BLUE. 
+Symbolically no autocorrelation means E(Ui U j)= 0 when i ≠ j                . 
+A
+utocorrelation can arise in economic data on account of many factors: 
+i) there may be various reasons which cause cyclical up and down swings in 
+economic time series. These tendencies continue till something happens 
+which reverse them. This is called inertia. 
+ii) Misspecification of model in the form of under specification can be a 
+cause of autocorrelation: you have fewer X variables in the model, 
+leaving out rather large systematic components to be clubbed with errors. 
+iii) Cob-web phenomenon is another factor which may create this problem in 
+certain types of economic time series (especially agricultural output etc.). 
+iv) Polishing of data – like adding monthly data to make quarterly or 
+quarterly to make half yearly series etc. can also be responsible for the 
+autocorrelation – as the averaging involved dampens the fluctuations of 
+the original data.  
+
+
+--- Page 51 ---
+ 
+ 
+Quantitative Methods-I 
+52 
+Multivariable Regression The consequences of autocorrelation are not different from those of hetero 
+scedasticity listed in 10.7 above. Here too OLS estimators are biased or are not 
+BLUE,  t & F tests are no longer reliable. Therefore, comput ed value of R 2 is 
+not reliable estimate of true goodness of fit. 
+There are many tests for detecting autocorrelation – varying from visual 
+inspection of error plots, the Runs Test, Swed-Eisenhart critical runs test. But 
+most commonly used in Durbin-Watson d test defined as 
+∑
+∑
+=
+=
+−−
+= n
+t
+t
+n
+t
+t t
+e
+e e
+d
+1
+2
+2
+2
+1) (
+ 
+H
+owever, again, we are holding back information on practical detections and 
+avoidance of problem of autocorrelation for the reasons of limitation of space 
+here. 
+10.9 THE MAXIMUM LIKELIHOOD 
+ESTIMATIONS 
+Sometimes another class of estimators is used in place of OLS. This class of 
+estimators is called maximum likelihood estimators  (MLEs). The MLEs 
+possess some stronger theoretical properties. But it also requires a stronger 
+assumption about distribution of error terms. Moreover, when errors follow 
+normal distribution, we find that OLS and MLE methods give identical 
+estimates of β parameters, both in simple and in multiple regressions. 
+However, MLE estimate of σ2 is biased. Hence, if one uses assumption of 
+normal distribution of Uis
+  and persists with OLS, one does not miss out on any 
+thing that may be advantageous in MLE.   
+The Method: Simple Regression Illustration 
+In the model iU XY ++= 1 1 0 1ββ , the Y 1 is normally and independently 
+distributed with means β0 + β1Xi and variance σ2. Therefore, the joint 
+probability density function of  
+Y1, Y2, Y3…………………….Yn with above mean and variance will be   
+( ) 1 - ML                                                                 ,....... .......... 2
+1 01 σ β βin XYY f +
+ 
+B
+ut given the independence of Ys, this function can be written as product of ‘n’ 
+i
+ndividual density functions, or  
+( )
+( )
+2
+0 1
+2 2
+2
+1 0 1
+2
+0 1
+................. ,                                                           ML-2
+,
+1where    ( ) .                                    
+2
+i i
+n i i
+i i i
+Y XY
+i
+f Y Y X U
+π Y X U
+f Y e
+b b
+s
+b b s
+b b s
+s p
+é ù- -ê ú-ê úê úë û
++ +
+é ù= + +ë û
+=                        ML-3
+ 
+
+
+--- Page 52 ---
+ 
+ 
+53
+I Multivariable Regression 
+Models
+Putting this value for each Yi, in ML-2. We get the likelihood function (LF): 
+( )
+( )
+4 - ML                                                     .
+2
+1) , , (
+2
+2
+1 0
+2
+1
+2
+1 0
+
+
+
+
+
+
+
+ − − −− ∑
+=
+σ
+β β
+π σ
+σ β β
+ii UY
+nn
+eL F
+ 
+The method of maximum likelihood estimation is nothing but maximization of 
+the (LF) given in ML-4 above. We can differentiate logarithms of (LF) with 
+respect to β0, β1 and σ2 and equate the respective partials to zero to get t he 
+requisite estimation relations. So as  
+( )
+8 - ML                                                    0 )(2
+1
+2
+(LF) ln
+7 - ML                                                         0 ) )((1 (LF) ln
+6 - ML                                                            0 ) 1 )((1 (LF) ln
+ therefore
+5 - ML                                    2
+1) 2 ln(2) ln(
+2
+1 0 1422
+1 1 0 12
+1
+1 0 12
+0
+2
+2
+1 1 02
+∑
+∑
+∑
+= − −+−=∂
+∂
+= − − −−=∂
+∂
+= − − −−=∂
+∂
+∑ − − −− − =
+i
+i
+i
+ii
+XYn
+X XY
+XY
+U XYnn n LF
+β βσσσ
+β βσ β
+β βσ β
+σ
+β βπσ
+ 
+Simplification of ML-6 and ML-7 give us 
+0 1i iY n X b bå = + å           ML-8a 
+2
+0 1i i i iX Y X Xb bå = å + å          ML-9 
+ 
+Which are same as OLS normal equations. 
+Substituting values of ML (=OLS) estimates obtained by simultaneously 
+solving ML-8 and ML-9 into ML-7 gives us  
+22
+2
+222
+2
+2
+1 0
+2
+2
+2
+) (1)~( ,~ o
+f n Expectatio
+10 - ML                                                                                                         1
+)(1
+σ σ
+σ
+σ σ
+β βσ
+n
+n
+n
+U EnE
+Un
+XYn
+i
+i
+ii
+−
+
+
+
+
+ −=
+∑ =
+=
+− − =
+∑
+∑
+ 
+or  2~σ  is biased downwards. 
+Multiple Regression: An example : The following regression were run on 
+SPSS. Edited summary of results is as follows: 
+
+
+--- Page 53 ---
+ 
+ 
+Quantitative Methods-I 
+54 
+Multivariable Regression India’s Imports, Exports and Foreign Investment Inflows 
+                                                              All figures are in Millions of US dollars 
+Year var00001 var00002 var00003 
+1991-1992 19411.00 17865.00 133.00 
+1992-1993 21882.00 18537.00 559.00 
+1993-1994 23306.00 22238.00 4153.00 
+1994-1995 28654.00 26330.00 5138.00 
+1995-1996 36678.00 31797.00 4892.00 
+1996-1997 39133.00 33470.00 6133.00 
+1997-1998 41484.00 35006.00 5385.00 
+1998-1999 42389.00 33218.00 2401.00 
+1999-2000 49671.00 36822.00 5181.00 
+2000-2001 50536.00 44560.00 5862.00 
+2001-2002 51413.00 43827.00 6693.00 
+2002-2003 61412.00 52719.00 4555.00 
+ 
+var00001=Imports 
+v
+ar00002=Exports 
+var00003=Foreign Investment Inflow 
+ 
+Regression of Imports on Exports and Foreign Investment Inf low 
+R R2 2
+R  Standard error 
+of Estimate 
+0.983 0.966 0.958 2726.228 
+Coefficients 
+ B                           Standard Error t 
+Constant -1655.737 2658.578 -0.623 
+var00002 1.263 0.104 12.192 
+var00003 -0.288 0.522 -0.552 
+Coefficients Correlation 
+Correlation  Var00003 Var00002 
+Var00003 1.0000 -0.670 
+Var00002 -0.670 1.0000 
+Covariance  Var00003 0.272 -3.625E-02 
+Var00002 -3.625E-02 1.073E-02 
+ 
+
+
+--- Page 54 ---
+ 
+ 
+55
+I Multivariable Regression 
+Models
+ANOVA 
+Sum of Sqrs. df Mean sqrs. F 
+Regression1.9E+09 2 9.4E+08 127.097 
+Residual 6.7E+07 9 7432320  
+Total 2.0E+09 11   
+Regression of Foreign Investment Inflow on Exports and Imports 
+R R2  R-2 Standard error 
+of Estimate 
+0.684 0.468 0.349 1712.334 
+Coefficients 
+ B Standard Error t 
+Constant -321.545 1702.075 -0.189 
+var00001 -0.114 0.206 -0.552 
+var00002 0.272 0.257 1.060 
+Coefficients Correlation 
+Correlation 
+ 
+ 
+Covariance  
+ Var00002 Var00001 
+Var00002 1.0000 -0.982 
+Var00001 -0.982 1.0000 
+Var00002 6.590E-02 -5.92E-02 
+Var00001 -5.192E-02 4.24E-02 
+ANOVA 
+ Sum of Sqrs.  df Mean sqrs. F 
+Regression 2.3E+07 2 1.2E+07 3.952 
+Residual  2.6E+07 9 2932089  
+Total  5.0E+07 11   
+The above regressions are based on certain ‘a prior’ expectations.  We expect 
+that imports into India during the period 1991-92 to 2002-03  depend upon 
+exports from India and foreign investment inflows into the country. The idea is 
+that exports pay for imports and foreign investment inflow ‘facilitates’ the 
+country to import more. Our results confirm our theoretic expectations.  
+Regression on imports on exports and investment inflows shows that R 2 = 
+0.966 and 958 . 02 =R .  This shows that model has high explanatory power.  It 
+explains over 95 per cent of the variation.  Typical computer output gives 
+information on coefficients, correlation and co-variances, co-linearity diagnostics, 
+residual analysis of variance etc. We have run another regression too − the 
+results of which are reported above. This is regression of foreign investment 
+
+
+--- Page 55 ---
+ 
+ 
+Quantitative Methods-I 
+56 
+Multivariable Regression inflows on exports and imports. Theoretic expectation was that investment 
+inflows are determined by magnitudes of exports and imports. However, this 
+model gives rather disappointing results.  R 2 = 0.468 and 349 . 02 =R  only. In 
+other words, our model explains less than 35 per cent of the variations. It is not 
+desirable to persist with it. The same is reflected in low values of β1 & β2 
+parameters and their high standard errors. 
+Check Your Progress 3 
+1) What is hetero-scedasticity? What are its consequences? 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+2) What is auto-correlation?  When does it arise? What are its consequences? 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+3) What are maximum likelihood estimations?  Why do we persist with least 
+squares estimators most of the time. 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+10.10  LET US SUM UP  
+We began with extension of the simple linear regression model to incorporate 
+one more explanatory variable.  Our next step was to interpret the coefficients 
+of partial regression. Afterwards, we tried to design statistical touch stone for 
+
+
+--- Page 56 ---
+ 
+ 
+57
+I Multivariable Regression 
+Models
+inclusion of more variables into the model.  This also gave us some guidelines 
+to drop the ‘undesirable’ variable as well.  We then moved on to more tedious 
+and mathematically more demanding extension to ‘n’ variable model.  We then 
+attempted to analyse the effects of multi-co-linearity, hetero scedasticity and 
+auto-correlation respectively. We also made comments on techniques of 
+identification of these problems and some strategies to get rid of the problems 
+as well. Further, we discussed the class of estimators called maximum 
+likelihood estimators (MLEs).  We made comparison between MLEs and Least 
+square estimators as well.  Finally, we ran some regressions on SPSS package 
+between India’s imports, exports and foreign investment inflows to illustrate 
+some of the points, which arose in course of our discussions.  However, we 
+must again draw the attention of learners to the fact that limitations of space 
+did not permit us to go in for an exhaustive discussion of the concepts touched 
+upon.  Those who want to have detailed knowledge about the issues and 
+concepts involved in multiple regression models are advised to go through our 
+optional course MECE-001 Econometric Methods.  
+10.11  KEY WORDS 
+Multiple Regressions :  Regression of one dependent variable on more 
+than one independent variables. 
+Partial regression 
+Coefficients 
+:
+ Coefficients of individual predictors in multiple 
+regressions. 
+Coefficient of multiple 
+determination   R2 
+:
+ Ratio of variation explained or accounted for by 
+the regression model to the total variation. 
+Adjusted coefficient of 
+multiple determination 
+  2R  
+: It is coefficient of determination adjusted for the 
+loss of degrees of freedom. It helps us against 
+increasing 2R  by incorporating unnecessary 
+explanatory variables. 
+Multi-co-linearity :  Existence of linear relationships between 
+explanatory variables in addition to one between 
+dependent variable and them. 
+Hetero scedasticity :  Differences between variances of the error 
+terms. This problem is more serious in cross-
+sectional data. 
+Auto-co-relation :
+ Correlations between the errors and their 
+previous values. This problem is encountered 
+very often when dealing with time series data. 
+10.12 ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES  
+1) Read Section 10.2 
+2) Read Section 10.2 
+3) Read Section 10.2 
+
+
+--- Page 57 ---
+ 
+ 
+Quantitative Methods-I 
+58 
+Multivariable Regression 4) Read Section 10.3 
+5) Read Section 10.4 
+6) Read Section 10.4 
+7) Read Section 10.4 
+8) Read Section 10.6 
+9) Read Section 10.7 
+10) Read Section 10.8 
+11) Read Section 10.9 

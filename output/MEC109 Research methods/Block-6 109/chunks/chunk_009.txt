@@ -1,0 +1,520 @@
+--- Page 82 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+82 
+3) Identify 3 different sub-sectors of financial market and name a few major 
+sources of data for each of these sub-sectors of financial markets. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+23.4  LET US SUM UP  
+We have, in this Unit, surveyed the data available in the area of trade and 
+finance. We noted that data on the volume of merchandise trade by 
+commodities and countries, direction of trade, trade balance, quantity and unit 
+value index numbers of imports and exports and indices depicting different 
+measures of the terms of trade are available from the DGCI&S and are also 
+presented as a time series in the RBI Handbook 2013-14, besides the 
+Handbook of Statistics of the SEBI . Data on trade in services and on 
+merchandise are available as part of BoP data of the RBI. There is a divergence 
+between merchandise trade deficit/surplus data provided by DGCI&S and that 
+shown by BoP data of RBI and the reasons for such a discrepancy are related to 
+the manner in which the two sources collect the basic data. 
+Data are available in the RBI Handbook (long time series) on public finances 
+such as receipts and expenditure of the Central and the State Governments, the 
+manner in which these Governments mobilize resources through taxes and non-
+tax revenue borrowings, the patterns of their expenditure – developmental 
+outlays, debt servicing, economic and social services and so on – and the 
+various types of (fiscal) deficits that they run and the manner in which these are 
+financed. Data on balance of payments, inflow of foreign investment, foreign 
+aid/borrowings, assistance and the size of foreign debt are also available in the 
+RBI Handbook. So are the data on the money stock, the different monetary 
+aggregates like M 0, M 1 and M 3, and the new monetary aggregates NM 2 and 
+NM3 and “C” components of the money stock, the sources of change in the 
+money stock and their “S” components and liquidity aggregates L 1, L2 and L 3. 
+The role of the banks and financial institutions in the mobilization of savings 
+and the deployment of credit to different economic activities, their functional 
+and operational efficiency in terms of indicators like NPA and CRAR can be 
+examined well with the time series data available in the RBI Handbook and 
+such an effort can be supplemented with information on profitability provided 
+by the RBI’s Report on Trends in Banking. Similarly, the functioning of the 
+financial market in terms of the structure of interest rates in different markets, 
+resources mobilized through different modes like capital issues, private 
+placement, equities with and without premium, preference shares and CCPS, 
+total resources raised from the primary market, trends in trading in stock 
+exchanges, share price indices and market capitalization, indicators of liquidity 
+like traded value ratio and market capitalization to GDP ratio and measures of 
+comparative evaluation of indices (BSE SENSEX, BSE 100 Index, etc.,) like 
+Price to Earnings Ratio and Price to Book Ratio, can be analysed adequately 
+
+
+--- Page 83 ---
+ 
+ 
+83
+Trade and Finance with the data available on these aspects in the RBI Handbook and the 
+Handbook of Statistics , published by SEBI. The RBI Handbook, especially 
+with the special features incorporated in its website version, stand out as an 
+invaluable source of data on finance and also trade. 
+23.5 EXERCISES  
+1) How can you analyse trend in foreign trade? Discuss the role of unit value 
+index and quantum index in this regard. 
+2) Discuss the kind of time series data on money and banking compiled by 
+RBI. How this data can be useful for research? 
+3) List the types of data on financial market compiled by SEBI. To what 
+extent is it adequate to analyse the financial markets? 
+23.6 SOME USEFUL BOOKS  
+Ministry of Finance, 
+Govt. of India 
+:
+ Economic Survey – 2005-06 and earlier years, 
+Ministry of Finance, Govt. of India, New Delhi. 
+Budget Documents, Ministry of Finance, Govt. 
+of India, New Delhi. 
+Reserve Bank of 
+India 
+:
+ Report on Currency and Finance – 2005, RBI, 
+Mumbai. 
+Report on Trends in Banking – 2005, RBI, 
+Mumbai. 
+World Trade 
+Organization 
+:
+ International Trade Statistics – 2005, WTO, 
+Geneva. 
+Also accessible at http://www.wto.org/english/res_e/statis_e.htm 
+23.7 ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) See Sub-section 23.2.1 
+2) 1998-99. 
+3) See Sub-section 23.2.1 
+4) See Sub-section 23.2.2 
+Check Your Progress 2 
+1) The budget documents of the central and the state governments, the pre-
+budget economic survey, RBI Indian Economy 2005, Monthly Bulletin of 
+the RBI. 
+2) The excess of total expenditure including loans over revenue receipts – net 
+lending of the central government. 
+3) See Sub-section 23.3.1 (sub head and ‘d’) 
+
+
+--- Page 84 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+84 
+Check Your Progress 3 
+1) RBI Bulletin, Nov. 2000 under the title ‘New Monetary and Liquidity 
+aggregates’. 
+2) See Sub-section 23.3.2 
+3) The RBI Handbook of Statistics of Indian Economy 2005 and the 
+Handbook of Statistics on Indian Securities Market 2005 provide 
+comprehensive data on the financial market. 
+
+
+--- Page 85 ---
+ 
+ 
+85
+Social Sector
+UNIT 24 SOCIAL SECTOR 
+Structure 
+24.0 Objectives 
+24.1 Introduction 
+24.2 Employment, Unemployment and Labour Force 
+ 24.2.1 Magnitude of Employment and Unemployment 
+ 24.2.2 Quality/Adequacy of Employment 
+ 24.2.3 Labour Welfare 
+24.3 Education 
+ 24.3.1 Educational Infrastructure 
+ 24.3.2 Infrastructure Utilization and Access to Educational Opportunities 
+24.4 Health 
+ 24.4.1 Health Infrastructure 
+ 24.4.2 Public Health, Morbidity and Mortality Indicators 
+ 24.4.3 National Family Health Survey (NFHS) 
+24.5 Shelter and Amenities 
+24.6 Social Consequences of Development 
+24.7 Environment 
+24.8 Quality of Life 
+24.9 Let Us Sum Up 
+24.10 Some Useful Books 
+24.11 Answers or Hints to Check Your Progress Exercises 
+24.0 OBJECTIVES 
+After going through this Unit, you will be able to: 
+• know the sources of data on various aspects of employment and unemployment, 
+labour welfare, education, health, shelter, safe drinking water, etc., which 
+determine the quality of life of the people; 
+• Identify the various organization/agencies involved in the compilation of 
+data on different aspects of social sector; 
+• describe the different concepts used in collection of data on social sector; 
+and 
+• explain the kind of data/information available in the various publications 
+containing data on social sector. 
+24.1  INTRODUCTION 
+Social Sector consists of education, health, employment, shelter, sanitation, 
+other housing amenities, environment, and adverse consequences of 
+development and levels of living or quality of life in general. Investments in 
+ 
+
+
+--- Page 86 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+86 
+this sector pay rich dividends in terms of rising productivity, distributed 
+growth, reduction in social and economic inequalities and levels of poverty 
+although after a relatively longer time span than in the case of investment in 
+physical sectors. Let us look at the kind of data available in this sector. 
+24.2 EMPLOYMENT, UNEMPLOYMENT AND 
+LABOUR FORCE 
+Employment is the means to participate in the development process. Creation 
+of employment opportunities is an important instrument for tackling poverty 
+and to empower people, especially women. Regarding data on employment, 
+firstly, we should know how many are employed and how many are ready to 
+work but are unable to gain access to employment opportunities. How do 
+women fare in these matters? Or, for that matter, what is the experience of men 
+and women belonging to different social/religious/disadvantaged groups? Are 
+children employed in any economic activity that is not only hazardous to their 
+health but which also adversely impacts on our dream of a golden future for 
+them through efforts to ensure their mental and physical well-being? What is 
+the quality of employment opportunities available to the work force? What are 
+the conditions in which people work? Let us first look at data on the magnitude 
+of employment and unemployment. 
+24.2.1 Magnitude of Employment and Unemployment 
+Data on employment in selected sectors are available from several sources. 
+Data on Employment in the organized sector of the economy is available from 
+the Employment Market Information (EMI) programme of the Directorate 
+General of Employment & Training (DGE&T), in the Ministry of Labour . 
+This is based on statutory returns submitted 1 to the employment exchange of 
+the area every quarter by non-agricultural establishments in the private sector 
+employing at least 25 persons and all public sector establishments (excluding 
+defense forces and Indian missions posted abroad) irrespective of their size. 
+Smaller establishments, that is, those employing 10 to 24 persons submit such 
+returns on a voluntary basis. Data on employment levels in the organized sector 
+of the economy (as defined above) is thus available every quarter at district 
+levels through Quarterly Employment Reviews released by the DGE&T and 
+the Directorates of Employment (DEs) in the State Governments and Union 
+Territory Administrations. The Annual Employment Reviews released by the 
+DGE&T and the DEs provide more detailed data on employment at the three 
+levels of NIC code. The returns also provide data on the number of vacancies 
+occurring in the establishment during the quarter and the number filled. This is 
+the only source of employment data on the organized sector of the economy 
+that is available at quarterly intervals. This is, however, subject to several 
+limitations. First of all, it excludes the entire agricultural sector, self employed 
+persons and part-time workers. In addition, adjustments are to be made to take 
+care of non-response in the submission of the returns. Incompleteness of the 
+employers’ register is also an impediment. Establishments in the organized 
+sector of the economy also submit statutory biennial returns providing the 
+occupational distribution of their employees and the educational profile of 
+those employed in selected occupations. These returns provide the basis for the 
+preparation of biennial reports on the occupational pattern of employment and 
+                                                            
+ 
+1  These statutory returns are submitted under the Employment Exchanges (Compulsory 
+Notification of Vacancies) Act, 1959 and the Rules of 1960 made there under. 
+
+
+--- Page 87 ---
+ 
+ 
+87
+Social Sectorthe educational profile of selected occupations in the public and private sectors. 
+However, non-response in the submission of these returns has over the years 
+deteriorated so much that the data on the occupational/education pattern has 
+now lost its utility. 
+The DGE&T and the DEs in the State Governments and Union Territory 
+administrations also provide data on the number of job seekers by age, sex and 
+education qualifications, and the socially and physically challenged and their 
+distribution by sex and education on the live register of employment 
+exchanges, the number of vacancies notified to the employment exchanges 
+under the Act referred to in the preceding paragraph and the number of job 
+seekers placed in jobs by the employment exchange. It would not at all be fair 
+to measure the efficiency of the employment exchanges by comparing the 
+number of placements with the number of vacancies notified to the exchanges 
+or with the number on the live register for several reasons. First, vacancies 
+being filled through public service commissions, other commissions, recruitment 
+boards and the like and those filled through competitive examinations need not be 
+notified to employment exchanges. Second, public sector undertakings need to 
+fill from the Employment Exchanges only vacancies carrying salaries below a 
+certain level specified by Government. Finally, establishments in the private 
+sector need to only notify their vacancies to the employment exchanges. They 
+are not obliged to confine their choice of candidates for recruitment to the 
+nominees of the exchanges and are free to fill their vacancies through the open 
+market. Sample surveys of those on the live register at any point of time have 
+shown that a sizeable proportion of the job seekers are already employed, some 
+are unemployed and some have registered at more than one exchange. At the 
+same time, surveys of employment and unemployment like the NSSO 
+quinquennial surveys (see below) have shown that not all the unemployed are 
+registered in the employment exchanges. Thus, the size of the live register can 
+overestimate unemployment and, from another angle, can also underestimate 
+unemployment. These factors may not also cancel each other and it is, 
+therefore, difficult to consider the size of the live register as a reasonably 
+accurate estimate of the level of unemployment. Nevertheless, it does represent 
+the extent of pressure in the job market, especially for government and public 
+sector jobs. 
+The second source is the Economic Census. This has been conducted in 1977, 
+1980, 1990, 1998, 2003 and 2013 covering all economic enterprises in the country 
+except those engaged in crop production and plantation and provides data on 
+employment in these enterprises 2. These thus include also the unorganized 
+sector outside crop production, animal husbandry and plantations. The third 
+source is the Annual Survey of Industries (ASI) , which gives us estimates of 
+factory sector employment, i.e., all factories registered under the Factories Act, 
+1948 and the Bidi and Cigar Workers Condition of Employment Act, 1966 3. 
+The ASI presents estimates of levels of employment by industries at the three-
+digit level of NIC 2008 codes along with industry level aggregates like 
+investment, output, inputs, value added and so on 4 so that one can derive useful 
+technical ratios to facilitate analysis of the role of the factors of production in 
+                                                            
+ 
+2  The first report on the Economic Census 2013 is available on the website of the Ministry 
+of Statistics and Programme Implementation (MoSPI) www.mospi.gov.in . 
+3  See the Sub-section 21.3.3 titled “Factory Sector – Annual Survey of Industries” in Unit 21 
+on Agricultural and Industrial Data. 
+4  See the list of principal characteristics given in footnote 22 in the section referred to in the 
+preceding footnote. Sub-section 21.3.3 referred to therein also gives an idea of the kind of 
+data on employment available from ASI. 
+
+
+--- Page 88 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+88 
+industry. The quality of ASI data is thus tied to the completeness of the frame 
+of factories, which, in turn depends on the quality of the enforcement of the 
+Factories Act, 1948 and the Bidi and Cigar Workers (Conditions of 
+Employment) Act, 1966. Data on employment in Railways is available from 
+the Railway Board, Ministry of Railways , those on employment in the 
+Banking Sector from the Reserve Bank of India (RBI) , those on employment 
+in posts and telecommunications respectively by the  Department of Posts and 
+the Ministry of Telecommunications  and those on employment in insurance 
+by the Ministry of Finance . The reports on the Census of Central 
+Government Employees conducted by the DGE&T every year and the 
+Census of Central Government Employees conducted by the respective State 
+Governments provide a time series data of employment in Government sector. 
+The publications 5 of the Labour Bureau (Ministry of Labour), Shimla present 
+estimates of average daily number of workers in Government and local fund 
+factories and other factories – male and female adults (those who have 
+completed 18 years of age), male and female adolescents (those who are aged 
+between 15 to 18) and boys and girls (those who are not yet 15 but not below 
+14) – and employment in factories by industry groups. These also provide 
+estimates of average daily employment in mines and quarries for different 
+minerals. The first is based on the statutory returns received from factories 
+through the State Governments under the Factories Act, 1948 and the second 
+on similar returns received by the Director General of Mines Safety (DGMS) 
+under the Mines Act, 1952 as amended in 1983. The third set of data that they 
+provide is employment in shops, commercial establishments and restaurants, 
+theatres, etc., based on the returns submitted to the State Governments under 
+the Shops & Establishments Act and Weekly Holidays Act, 1942. All suffer 
+from inadequacy of response in the matter of submitting statutory returns. 
+Further, the last one suffers from an added limitation arising from the fact that 
+these Acts are in force only in certain urban areas, towns and cantonments. Of 
+late, similar returns are being collected by some of the Gram Panchayats, who 
+work under the Department of Rural Development of the respective State 
+Governments. Lastly, the publications give data on employment in tea, coffee 
+and rubber plantations on the basis of data received from the Tea, Coffee and 
+Rubber Boards and the Ministry of Agriculture. It must be mentioned here that 
+employment in these specific sectors will also be covered by the EMI 
+programme to the extent establishments in these sectors are covered by the 
+Act governing the EMI programme and the extent to which these 
+establishments submit the relevant statutory returns. 
+Comprehensive data on employment and unemployment covering the 
+entire country at regular intervals  are available from two sources, namely, 
+the Population Census conducted by the Office of the Registrar General and 
+Census Commissioner, India every ten years and the quinquennial sample 
+surveys on employment and unemployment conducted by the National 
+Sample Survey Office (NSSO) . The former is based on a complete 
+enumeration of the population. Workers in the Census are enumerated as main 
+workers and marginal workers. The Census 2011 presents data, at the 
+village/urban block level (for slums in all statutory towns also, which have 
+been treated as separate enumeration blocks in Census 2011), on the number 
+employed (male and female) or the size of the male and female workforce 
+                                                            
+ 
+5  Indian Labour Yearbooks (the latest is for 2009 and 2010) and Annual Employment 
+Unemployment Survey (the 4 th report of this pertaining to 2012-13 is the latest ) Labour 
+Bureau (Ministry of Labour and Employment), Shimla. 
+
+
+--- Page 89 ---
+ 
+ 
+89
+Social Sector(main workers and marginal workers) and its distribution by four economic 
+activity categories – (i) cultivators, (ii) agricultural labourers, (iii) household 
+industries and (iv) other activities. The rest of the population, namely, those 
+who are neither main workers nor marginal workers, are categorized as non-
+workers. All other data on employment and unemployment are available at the 
+district level upwards for rural and urban areas and the urban data by urban 
+agglomerations and size classes of cities and towns. In Census 2011, till 
+December 2014, the following data has been published: 
+a) The Primary Census Abstract (PCA), published for each village and urban 
+ward, provide, among others, the number of female and male main 
+workers, marginal workers and non-workers for overall, SC and ST for 
+each of the four-fold classification of economic activity, i.e., cultivators, 
+agricultural labourers, household industry and other workers; 
+b) The number of female and male main workers, marginal workers and non-
+workers in each single year of age, classified further by four-fold 
+classification of economic activity and social group disaggregated at India, 
+State and district level. 
+The kinds of data on employment and unemployment available from the 
+Census 2001, and to be published in Census 2011 for rural (R) and urban (U) 
+and (R+U) is shown below:6 
+a) The distributions of the male and female main workers by economic 
+activity (the first digit level of the NIC code) – ten categories of economic 
+activities7 and classified further by age groups and educational level (for 
+the all India table) and by educational level 8 for the table on India, States 
+and Union Territories; 
+b) Similar distributions for male and female marginal workers; 
+c) Main workers, marginal workers, non workers, those marginal workers 
+that are available for or are seeking work (unemployed) and those non- 
+workers that are available for or are seeking work (unemployed), by sex, 
+social group and educational level; 
+                                                            
+ 
+6  Census tables released so far are available on CDs for users on payment of the prices 
+indicated in the Census website http://www.census.nic.in. Most of the India and State/UT 
+level tables can be viewed in / downloaded from the census website. Highlights of and 
+introductions to tables, concepts and definitions and an advance release calendar are also in 
+the website. Tables are also available at State/Union Territory/District City level on CDs. 
+7  In Census 2001, the NIC 1998 was used for dissemination of the results. In NIC ’98, the first 
+level had the following categories: a) Agriculture, Hunting & Forestry, b) Fishing, c) Mining 
+& Quarrying, d) Manufacturing, e) Electricity, Gas and Water Supply, f) Construction,  
+g) Wholesale and Retail Trade, h) Hotels and Restaurants, i) Transport, Storage and 
+Communications, j) Financial Intermediation, k) Real Estates and Business Activities,  
+l) Public Administration and Defence, and Compulsory Social Security, m) Education,  
+n) Health & Social Work, o) Other Community, Social and Personal Service Activities,  
+p) Private Households with Employed Persons, q) Extra-Territorial Organizations and 
+Bodies. In Census 2001 tables, Categories A& B were grouped together, J & K were grouped 
+together and L to Q were grouped together. 
+8  1)Illiterate, 2) literate but below metric, 3) metric/secondary but below graduate, 4) technical 
+diploma or certificate not equal to degree, 5) graduate and above other than technical degree, 
+and 6) technical degree or diploma equal to degree or post graduate degree and a further sub-
+classification of item 6 into engineering and technology, medicine, agriculture and others. 
+
+
+--- Page 90 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+90 
+d) Similar distributions for unemployed SC population, ST populations and 
+further classification of the distribution for unemployed general population 
+by religious communities; 
+e) Distributions of (i) main workers, (ii) marginal workers, and (iii) non- 
+workers by main activity, educational levels, age and sex; and 
+f) Similar distributions for SC population, ST population, further classification of 
+the distribution in item “e” above for the general population by religious 
+communities; 
+g) The number of main workers, marginal workers and non-workers among 
+the disabled by type of disability, age and sex; and 
+h) The male and female workforce by detailed economic activities at the 
+three or four digit levels, distribution by industrial categories (according to 
+National Industrial Classification – 1998 (NIC 1998) and a separate 
+table by occupations (as per the National Classification of Occupations – 
+1986 (NCO 1968) and educational profile and; 
+i) The number of marginal and non-workers who are seeking/available for 
+work; 
+j) The major non-economic activity of the non-workers, namely, student, 
+pensioner, household duties, etc. by age and sex. This category also provide 
+information on vulnerable sections of the society like beggars,  etc.  
+The NSSO quinquennial surveys on employment and unemployment 
+constitute the other major source of data on employment and unemployment. 
+The last survey for which results have been published is the 68th Round survey 
+conducted during July, 2011 and June, 2012. The earlier surveys related to 
+October, 1972 to September, 1973, July, 1977 to June, 1978, January – December, 
+1983, July 1987 to June, 1988 July, 1993 to June, 1994, July 1999 – June 2000 and 
+July 2004- June 2005. These measure employment/unemployment/labour force 
+status on the basis of the Usual Status and Current Status and arrived at four 
+measures of employment/unemployment/labour force, namely, the Usual 
+Principal Status (UPS), the Usual Principal and Subsidiary Status (UPSS), the 
+Current Weekly Status (CWS) and the Current Daily Status (CDS) employment/ 
+unemployment/labour force status. These concepts and the measures have been 
+discussed in the Unit on “Employment and Unemployment: Policy 
+Implications” in Block 1 of MEC – 005  on Indian Economic Policy in your 
+first year course. These surveys provide the per thousand distribution of 
+variables by characteristics along with estimated number of persons and/or the 
+sample number of persons for each column and row characteristic. These can 
+be used to estimate new proportions – like for example the worker participation 
+rate or the unemployment rate among the poor (those below a certain income 
+class) and the non-poor – and also estimates of the magnitude of employment 
+or unemployment using the estimated sample proportions and the relevant 
+population projection for the midpoint of the survey period. The surveys 9 
+                                                            
+ 
+9  Some of the reports relating to employment and unemployment on the 68th round are Report 
+No. 554 on “Employment and Unemployment Situation in India” and Report No. 557 
+on “Informal Sector and Conditions of Employment in India”. All these can be 
+downloaded from the MoSPI website: www.mospi.gov.in by becoming a registered user, 
+which is free of charge. 
+
+
+--- Page 91 ---
+ 
+ 
+91
+Social Sectorprovide the following type of data 10 for Rural (R), Urban (U) and (R+U) at 
+national and State levels11: 
+a) Distribution of male and female UPS/UPSS/CWS/CDS workforce by 
+employment status – self-employed, regular wage/salaried employment 
+and casual labour – and by age group, educational level and primary, 
+secondary and tertiary economic activity12; 
+b) Distribution of UPS/UPSS male and female workforce by economic 
+activity up to the three-digit code of NIC; and similar distribution by 
+occupation up to the three-digit code of NCO 1968; 
+c) Distribution of male and female UPS/UPSS/CWS/CDS workforce by 
+employment status and by primary, secondary and tertiary economic 
+activity and by MPCE classes; 
+d) Distribution of UPS workers in each employment status by usual 
+subsidiary economic activities; 
+e) Distribution of UPSS employed by place of work (same village/town, 
+another village/town) and by distance of the place of work from the place 
+of residence; 
+f) Proportion of persons who are more or less regularly employed and the 
+distribution of persons who are not regularly employed by duration for 
+which they are available for work; (underemployment) 
+g) Distribution of UPS employed by “CWS employed”, “CWS unemployed”, 
+“out of the labour force by the CWS criterion”, showing underemployment 
+among the UPS employed; 
+h) Similarly distribution of the CWS “employed”, “unemployed,” and “out of 
+the labour force” on each half-day of the reference week giving the 
+underemployment among the CWS employed; 
+i) Distribution person-day of employment by (i) principal 13  economic 
+activity of the household, (ii) household type 14, and (iii) household land 
+cultivated class, [distribution at (iii) only for rural areas]; 
+j) Distribution of households and female-headed households by the number 
+of male and female adults (aged 15+) employed under the UPS criterion – 
+households with no adult UPS employed, number with one male adult 
+UPS employed, number with one female adult employed, number with one 
+male adult and one female adult employed and so on; 
+                                                            
+ 
+10 The unit record data, that is the basic data collected in the surveyed households, are 
+available in CDs from the Computer Centre of the MoSPI on signing an undertaking and 
+making a payment. The details can be seen at http://mospi.nic.in/Mospi_New/upload/ 
+nsso/ratelist_UnitData.pdf.  
+ 
+11  Technically, data should be available by 70 and odd NSS regions being made up of one or 
+more contiguous districts. As the unit record data are available on floppies from NSSO 
+on payment, one can make any kind of tabulation for any region or regions. However, one 
+should be checking the sample size while preparing such estimates, as that affects the 
+reliability of an estimate. 
+12  In some cases, only by agricultural sector and the non-agricultural sector. 
+13  The economic activity that accounted for the maximum of the income of the household in 
+the 365 days preceding the date of the survey. 
+14  The nature and type of work from which a household derives its major income is an 
+important indicator of the activity pattern of its members. The classification of households 
+by household type is based on the major economic activity of the household during the 365 
+days preceding the date of the survey. 

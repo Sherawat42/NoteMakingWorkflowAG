@@ -1,0 +1,102 @@
+{
+  "source_pdf": "/Users/manishsherawat/Workplace/NoteMakingWorkflowAG/output/MEC109 Research methods/Block-1 109/input/Block-1 109.pdf",
+  "source_filename": "Block-1 109.pdf",
+  "total_pages": 86,
+  "chunk_size": 10,
+  "smart_split": true,
+  "total_chunks": 9,
+  "chunks_directory": "/Users/manishsherawat/Workplace/NoteMakingWorkflowAG/output/MEC109 Research methods/Block-1 109/chunks",
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "filename": "chunk_001.pdf",
+      "text_filename": "chunk_001.txt",
+      "page_range": [
+        1,
+        10
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 2,
+      "filename": "chunk_002.pdf",
+      "text_filename": "chunk_002.txt",
+      "page_range": [
+        11,
+        20
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 3,
+      "filename": "chunk_003.pdf",
+      "text_filename": "chunk_003.txt",
+      "page_range": [
+        21,
+        30
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 4,
+      "filename": "chunk_004.pdf",
+      "text_filename": "chunk_004.txt",
+      "page_range": [
+        31,
+        42
+      ],
+      "pages": 12
+    },
+    {
+      "chunk_id": 5,
+      "filename": "chunk_005.pdf",
+      "text_filename": "chunk_005.txt",
+      "page_range": [
+        43,
+        52
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 6,
+      "filename": "chunk_006.pdf",
+      "text_filename": "chunk_006.txt",
+      "page_range": [
+        53,
+        62
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 7,
+      "filename": "chunk_007.pdf",
+      "text_filename": "chunk_007.txt",
+      "page_range": [
+        63,
+        72
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 8,
+      "filename": "chunk_008.pdf",
+      "text_filename": "chunk_008.txt",
+      "page_range": [
+        73,
+        82
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 9,
+      "filename": "chunk_009.pdf",
+      "text_filename": "chunk_009.txt",
+      "page_range": [
+        83,
+        86
+      ],
+      "pages": 4
+    }
+  ],
+  "created_at": "2026-04-14T03:28:00.983760+00:00"
+}

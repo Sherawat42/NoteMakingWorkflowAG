@@ -1,0 +1,218 @@
+--- Page 100 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+101 
+-II while SEM allows for the estimation of the combined effects of 
+independent variable into concepts/ construct. 
+3) SEM includes measurement error into the model. A problem for path 
+analyses using regression as its underlying analysis not adequately control 
+for measurement error.  SEM analyses do account for measurement error, 
+therefore providing a better understanding of how good the theoretical 
+model predicts actual behaviour. 
+17.13.2 Disadvantages of SEM  
+1) Most of the procedures that have been suggested involve nonstandard and 
+complex model specifications that are challenging for the average user and 
+thus susceptible to error. Indeed, errors have even been noted in the 
+specifications developed by SEM specialists. 
+2) Because products of normally distributed observed and latent variables are 
+themselves not normally distributed, standard errors and estimates of fit 
+might not be accurate. This problem will be more severe to the extent that 
+the latent exogenous variables used to form the product term are highly 
+correlated. 
+3)  If the latent variables that denote main effects are not normally distributed, 
+the parameter estimates yielded by several procedures are not consistent.  
+4) Most of the methods proposed in the literature are applicable to a restricted 
+class of measurement models.  
+5) Although a number of alternative procedures and options have been 
+proposed, the selection of an optimal approach is made difficult by the 
+absence of any one study or set of studies that compares all the viable 
+alternatives that have been proposed to date under a variety of conditions. 
+6)  Some of the more promising approaches are not easily available in 
+conventional SEM software. 
+17.14 LET US SUM UP  
+SEM techniques are considered today to be a major component of applied 
+multivariate statistical analysis and are used by education researchers, 
+economists, marketing researchers, medical researchers, and variety of other 
+social and behavioural scientists. SEM is a collection of statistical techniques 
+that allow a set of relations between one or more independent variables(IVs), 
+and one or more dependent variables (DVs). SEM is an attempt to model 
+causal relations between variables by including all variables that are known to 
+have some involvement in the process of interest. It can be viewed as a 
+combination of factor analysis and regression or path analysis. Structural 
+equation modeling (SEM) uses various types of models to depict relationships 
+among observed variables, with the same basic goal of providing a quantitative 
+test of a theoretical model hypothesized by the researcher. Two goals in SEM 
+are (1) to understand the patterns of correlation/covariance among a set of 
+variables and (2) to explain as much of their variance as possible with the 
+model specified. 
+
+
+--- Page 101 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+102 
+To discuss the history of structural equation modeling, it is better to explain the 
+chronological order of following four models : regression, path, confirmatory 
+factor, and structural equation models.  
+One of the easiest ways to communicate a structural equation model is to draw 
+a diagram of it, referred to as path diagram, using special graphical notation. A 
+path diagram is a form of graphical representation of a model under 
+consideration. Such a diagram is equivalent to a set of equations defining a 
+model (in addition to distributional and related assumptions), and is typically 
+used as an alternative way of presenting a model pictorially. Path diagrams not 
+only enhance the understanding of structural equation models and their 
+communication among researchers with various backgrounds, but also 
+substantially contribute to the creation of correct command files to fit and test 
+models with specialized programs. Five steps are involed in SEM:  Initial 
+model conceptualization, Model estimation, Data-model fit assessment,    
+Potential model modification and Reporting the Results. Most SEM analyses 
+are conducted using one of the specialized SEM software programs. These 
+include LISREL, EQS, Mplus, Amos and Mx. The SEM has certain advantages 
+and disadvantages also. 
+17.15 KEY WORDS  
+SEM : Collection of statistical techniques that allow a set 
+of relations between one or more independent 
+variables (IVs), and one or more dependent 
+variables (DVs). 
+Path Diagrams : Pictorial representation of a model. 
+Observed variables : Variables that are directly measured. 
+Unobserved 
+variable 
+: Latent variable in terms of multiple indicators that 
+are in common with each other. 
+Residual or error 
+terms 
+: Can be associated with either observed variables or 
+factors specified as outcome (dependent) variables. 
+Measurement 
+model 
+: The part of the model that relates the measured 
+variables to the factors. 
+ξ (ksi) : Latent construct associated with observed x i 
+indicators.  
+η (eta) : Latent construct associated with observed y i 
+indicators. 
+δ (delta) : Error term associated with observed xi indicators. 
+ε (epsilon) : Error term associated with observed x i, y i 
+indicators. 
+ζ (zeta) : Error term associated with the formative construct. 
+Λij : Factor loading in the i-th observed indicator that is 
+explained by the j-th latent construct. 
+Γij : Weight in the i-th observed indicator that is 
+explained by the j-th latent construct. 
+
+
+--- Page 102 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+103 
+-II Reflective indicator : The construct is the cause of the observed 
+measures, so a variation in the construct leads to a 
+variation in all its measures. 
+Formative or 
+causal indicator 
+: The direction of causality goes from the indicators 
+(measures) to the construct and the error term is 
+estimated at the construct level. 
+Model specification : Involves using all available relevant theory, 
+research,  and information to construct the 
+theoretical model. 
+Model 
+identification 
+: A model is said to be identified if there is a unique 
+numerical solution for each of the parameters in the 
+model. 
+Underidentified : If one or more parameters cannot solved uniquely 
+on the basis of the covariance matrix S (more 
+unknown parameters than equations). 
+Just-identified : There is just enough information in the covariance 
+matrix S to solve the parameters of the model 
+(equally number of equations as unknown 
+parameters). 
+Over-identified : More than one way to estimate the unknown 
+parameters (more equations than unknowns). 
+Model estimation : Minimize the difference between the structured and 
+unstructured estimated population covariance 
+matrices. 
+Model evaluation : Assess the fit between observed data and the 
+hypothesized model ideally operationalized as an 
+evaluation of the degree of discrepancy between the 
+true population covariance matrix and that implied 
+by the model’s structural and non structural 
+parameters. 
+Model modification : Respecifying the model based on more relevant 
+theory. 
+Nested models : Models that are subsets of one another. 
+17.16 REFERENCES  
+Anderson, J.C., & Gerbing, D.W. (1988). Structural Equation Modeling in 
+Practice: A Review and Recommended Two-Step approach. Psychological 
+Bulletin, 103(3), 411-423. 
+Bentler, P.M. (1990). Comparative fit indexes in structural models. Psychology 
+Bulletin, 107, 256–259. 
+Bentler, P.M. (2001). EQS 6 structural equations program manual . 
+Encino,CA: Multivariate Software. 
+Bentler, P. M., & Dijkstra, T. (1985). Efficient estimation via linearization 
+instructural models. In P. R. Krishnaiah (Ed.), Multivariate analysis 6 (pp.9–
+42). Amsterdam: North-Holland. 
+
+
+--- Page 103 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+104 
+Bentler, P. M., & Raykov, T. (2000). On measures of explained variance 
+innonrecursive structural equation models. Journal of Applied Psychology, 85, 
+125–131. 
+Bentler, P. M., &Weeks, D. G. (1980). Linear structural equation with latent 
+variables. Psychometrika, 45, 289–308. 
+Bentler, P. M., & Yuan, K.-H. (1999). Structural equation modeling withsmall 
+samples: Test statistics. Multivariate Behavioral Research, 34,181–197. 
+Fox, J. (2006). Structural equation modelling with the sem package  in R. 
+Structural equation modelling, 13(3), 465-486.  
+Hu, L., & Bentler, P.M. (1998). Fit indices in covariance structural equation 
+modeling: Sensitivity to underparameterized model misspecification. 
+Psychological Methods, 3, 424–453. 
+Hu, L., &Bentler, P. M. (1999). Cut off criteria for fit indexes in covariance 
+structure analysis: Conventional criteria versus new alternatives . Structural 
+Equation Modeling, 6, 1–55. 
+Kline RB. (1998). Principles and Practice of Structural Equation Modeling. 
+New York: Guilford 
+Lei, P., & Wu, Q. (2007). Introduction to Structural Equation Modeling: Issues 
+and Practical Considerations . Instructional topics in educational 
+measurement, fall, 33-43. 
+Paxton, P., Curran, P.J., Bollen K.A., Kirby, J.,Chen, F.(2001). Monte carlo 
+experiments: design And implementation. Structural Equation  
+Modeling8:288–312 
+Satorra, A. (2000). Scaled and adjusted restricted tests in multi-sample 
+analysisof moment structures . In D. D. H. Heijmans, D. S. G. Pollock, & 
+A.Satorra (Eds.), Innovations in multivariate statistical analysis: Afestschrift 
+for Heinz Neudecker (pp. 233–247). Dordrecht, The Netherlands: Kluwer 
+Academic. 
+Satorra, A., & Bentler, P. M. (1988). Scaling corrections for chi-square 
+statistics in covariance structure analysis . Proceedings of the American 
+Statistical Association, 308–313. 
+Satorra, A., &Bentler, P. M. (1994). Corrections to test statistics and standard 
+errors in covariance structure analysis . In A. von Eye & C. C. Clogg (Eds.), 
+Latent variables analysis: Applications for developmental research (pp. 399–
+419). Thousand Oaks, CA: Sage. 
+Satorra, A., &Bentler, P. M. (2001). A scaled difference chi-square test 
+statisticfor moment structure analysis. Psychometrika, 66, 507–514. 
+Tomarken, A. J., & Waller, N. G. (2005). Structural equation modeling: 
+strengths, limitations, and misconceptions . Annual review of clinical 
+psychology, 1, 31-65. 
+Ullman, J. B., (2006). Structural Equation Modeling: Reviewing the Basics and 
+Moving Forward. Journal of personality assessment, 87(1), 35–50. 
+Valluzi, J.L., Larson, S.L., Miller, G.E. (2003). Indications and Limitations of 
+Structural Equation Modeling in Complex Surveys: Implications for an 
+Application in the Medical Expenditure Panel Survey (MEPS) . Joint Statistical 
+Meetings - Section on Survey Research Methods. 

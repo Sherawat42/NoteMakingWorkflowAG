@@ -1,0 +1,393 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+ 
+ 
+ 
+DATA BASE OF INDIAN ECONOMY 
+UNIT 21 
+Macro-Variable Data: National Income, Saving and  
+Investment         9 
+UNIT 22 
+Agricultural and Industrial Data 37 
+UNIT 23 
+Trade and Finance 63  
+UNIT 24 
+Social Sector 85  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEC-109
+Research Methods 
+in EconomicsIndira Gandhi  
+National Open University 
+School of Social Sciences 
+6 
+
+
+--- Page 2 ---
+Expert Committee 
+ 
+Prof. D.N. Reddy     Prof. Romar Korea 
+Rtd. Professor of Economics    Professor of Economics 
+University of Hyderabad, Hyderabad   University of Mumbai, Mumbai 
+ 
+Prof. Harishankar Asthana    Dr. Manish Gupta   
+Professor of Psychology    Sr. Economist 
+Banaras Hindu University    National Institute of Public Finance and Policy 
+Varanasi      New Delhi 
+ 
+Prof. Chandan Mukherjee    Prof. Anjila Gupta    
+Professor and Dean     Professor of Economics 
+School of Development Studies   IGNOU, New Delhi   
+Ambedkar University, New Delhi   
+        
+Prof. V.R. Panchmukhi    Prof. Narayan Prasad (Convenor) 
+Former Professor of Economics   Professor of Economics 
+Bombay University and Former   IGNOU, New Delhi 
+Chairman ICSSR, New Delhi 
+ 
+Prof. Achal Kumar Gaur    Prof. K. Barik   
+Professor of Economics    Professor of Economics 
+Faculty of Social Sciences    IGNOU, New Delhi  
+Banaras Hindu University, Varanasi 
+ 
+Prof. P.K. Chaubey     Dr. B.S. Prakash    
+Professor, Indian Institute of    Associate Professor in Economics  
+Public Administration, New Delhi   IGNOU, New Delhi 
+ 
+Shri S.S. Suryanarayana    Shri Saugato Sen  
+Rtd. Joint Advisor     Associate Professor in Economics 
+Planning Commission, New Delhi   IGNOU, New Delhi 
+Course Coordinator and Editor: Prof. Narayan Prasad 
+Block Preparation Team 
+ 
+Unit Resource Person     IGNOU Faculty   
+      (Format, Language and Content Editing) 
+ 
+21-24 Shri S.S. Suryanarayan   Prof. Narayan Prasad   
+ 
+Ex Joint Advisor    Professor of Economics   
+ Planning Commission   IGNOU, New Delhi 
+ Renamed as Niti Ayog 
+ New Delhi 
+ 
+ Updated by 
+M
+r. Purnendu Kishore Banerjee 
+Dy. Registrar General and Census Commissioner 
+New Delhi 
+ 
+Print Production 
+Mr. Manjit Singh 
+Section Officer (Pub.) 
+SOSS, IGNOU, New Delhi 
+October, 2015 
+© Indira Gandhi National Open University, 2015 
+ISBN-978-81-266- 
+All rights reserved. No part of this work may be reproduced in any form, by mimeograph or any other 
+means, without permission in writing from the Indira Gandhi National Open University. 
+Further information on Indira Gandhi National Open University courses may be obtained from the 
+University's office at Maidan Garhi. New Delhi-110 068. 
+Printed and published on behalf of the Indira Gandhi National Open University, New Delhi by the 
+Director, School of Social Sciences. 
+Laser Typeset by : Tessa Media & Computers, C-206, A.F.E.-II, Okhla, New Delhi 
+Printed at : 
+ 
+  
+
+
+--- Page 3 ---
+BLOCK 6 DATA BASE OF INDIAN ECONOMY 
+For undertaking any meaningful research in terms of situational assessment, 
+testing of models, development of theory, evolving economic policy, assessing 
+the impact of such policy etc., data is crucial. Data on different variables is thus 
+an essential input for assessment and analysis of economic situations. The 
+availability or otherwise of data, therefore, determines the scope of analysis. 
+The reliability of the conclusions arrived at also depends on the availability and 
+veracity of data. Hence, researcher’s knowledge about the availability of data is 
+important for conducting a meaningful research. Keeping in view that a student 
+of economics at postgraduate level is expected to know the available databases, 
+the present block deals with the different databases of Indian Economy. 
+The block comprises of 4 units. Unit 21 deals with the data available on major 
+macro variables relating to the economy – national income, saving and 
+investment, etc. Unit 22 throws light on the kind of agricultural and industrial 
+databases. Unit 23 deals with data on trade and finance. 
+Unit 24 discusses the availability of data on other social sectors like 
+employment and unemployment, education, health, shelter and amenities, 
+environment, quality of life etc. These four units lay particular emphasis on the 
+different concepts used in data collection including the agencies involved in the 
+compilation of data. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 4 ---
+   Abbreviations Used in the Block 
+ 
+ADR - American Deposit Receipt 
+AHSD - Animal Husbandry Statistics Division 
+AIES - All India Educational Survey 
+ANM - Auxiliary Nurse-Midwife 
+ASI - Annual Survey of Industries 
+ASDR - Age – Specific Death Rate 
+ASG - Agricultural Statistics at a Glance 
+BAHS - Basic Animal Husbandry Statistics 
+BC - Backward Classes 
+BD - Budgetary Deficit 
+BMI - Body Mass Index 
+BOD - Biological Oxygen Demand 
+BoP - Balance of Payments 
+BR - Birth Rate 
+CACP - Commission on Agricultural Costs and Prices 
+CAD - Current Account Deficit 
+CAS - Current Account Surplus 
+CB - Commodity Boards 
+CBHI - Central Bureau of Health Intelligence 
+CCPS - Cumulative Convertible Preference Shares 
+cfc - Consumption of Fixed Capital (depreciation) 
+CGHS - Central Government Health Scheme 
+CGWB - Central Ground Water Board 
+CHC - Community Health Centre 
+CIF - Cost, Insurance and Freight 
+CIS - Commonwealth of Independent States 
+CMI - Census of Manufacturing Industries 
+CMIE (EIS) - Centre for Monitoring Indian Economy (Economic 
+Intelligence Services) 
+CPI-AL - Consumer Price Index – Agricultural labour 
+CPI-IW - Consumer Price Index – Industrial Workers 
+CPI-UNME - Consumer Price Index – Urban Non-Manual Employees 
+CSO - Central Statistical Organisation 
+CWC - Central Water Commission 
+CWS - Central Weekly Status 
+DCI - Dental Council of India 
+DDP - District Domestic Product 
+DE - Directory Establishments 
+DEs - Directorates of Employment 
+DESMOA - Directorate of Economics & Statistics, Ministry of 
+Agriculture 
+
+
+--- Page 5 ---
+DES(s) - Directorate(s) of Economics & Statistics 
+DGE&T - Directorate General of Employment & Training 
+DIPP - Department of Industrial Policy and Promotion 
+DR - Death Rate 
+EBs -  Electricity Boards 
+EMI - Employment Market Information 
+EPC - Export Promotion Council 
+EPFO - Employees Provident Fund Organisation 
+EPW - Economic and Political Weekly 
+EPWRF - Economic and Political Weekly Research Foundation 
+ESI Act - Employees’ State Insurance Act 
+ESIC - Employees State Insurance Corporation 
+EXIM Bank - Export Import Bank 
+FDI - Foreign Direct Investment 
+FIs - Financial Institutions 
+FIIs - Foreign Institutions Investors 
+FIPB - Foreign Investments Promotion Board 
+FISIM - Financial Intermediation Services Indirectly Measured 
+f.o.b. - free on board 
+FRG - Federal Republic of Germany 
+FSI - Forest Survey of India 
+FSS - Farmers’ Service Societies 
+GDI - Gender Development Index 
+GDCF - Gross Domestic Capital Formation 
+GDFCF - Gross Domestic Fixed Capital Formation 
+GDI - Gender Development Index 
+GDP - Gross Domestic Product 
+GDR - Global Deposit Receipt 
+GDS - Gross Domestic Saving 
+GFCE -  Government Final Consumption Expenditure 
+GFD - Gross Fiscal Deficit 
+GNP - Gross Primary Deficit 
+GPD - Gross Primary Deficit 
+GSDP - Gross State Domestic Product 
+GTT - Gross Terms of Trade 
+HA - Health Assistant 
+HDFC - Housing Development Finance Corporation 
+HDI - Human Development Index 
+IAMR - Institute of Applied Manpower Research 
+IBM - Indian Bureau of Mines 
+ICICI - Industrial Credit and Investment Bank of India 
+ICSSR - Indian Council of Social Science Research 
+
+
+--- Page 6 ---
+IDBI - Industrial Development Bank of India 
+IIP - Index of Industrial Production 
+IIPS - International Institute for Population Sciences 
+IMF - International Monetary Fund 
+IMR - Infant Mortality Rate 
+I-O TT - Input Output Transaction Table 
+IPO - Initial Public Offering 
+IPP - Index of Prices Paid 
+IPR - Index of Prices Received 
+ISCED - International Standard Classification of Education 
+ISCO - International Standard Classification of Occupations 
+ISIC - International Standard Industrial Classification 
+ISIC – Rev. 3 - International Standard Industrial Classification – 
+Revision 3 
+ISM - Indian Systems of Medicine 
+ITC (HS) - Indian Trade Classification (based on Harmonised 
+Commodity Description and Coding System) 
+ITC – Rev. 2 - Indian Trade Classification – Revision 2 
+ITES - Information Technology Enabled Services 
+ITT - Income Terms of Trade 
+KVIC - Khadi and Village Industries Commission  
+LAMPS - Large – sized Adivasi Multi-Purpose Societies 
+LHV - Lady Health Visitor 
+LIC - Life Insurance Corporation of India 
+MCI - Medical Council of India 
+MF - Mutual Fund 
+MHA - Male Health Assistant 
+MHRD - Ministry of Human Resource Development 
+MI - Minor Irrigation 
+MMR - Maternal Mortality Rate 
+MOEF - Ministry of Environment and Forests 
+MoLE - Ministry of Labour & Employment 
+MoSPI - Ministry of Statistics & Programme Implementation 
+MPCE - Monthly Percapita Consumption Expenditure 
+MSP - Minimum Support Price 
+NABARD - National Bank for Agricultural and Rural 
+Development 
+NABS - National Advisory Board on Statistics 
+NAS - National Accounts Statistics 
+NBFC - Non-Banking Finance Companies 
+NBNFC - Non-Banking Non-Finance Companies 
+NCERT - National Council for Educational Research and 
+Training 
+
+
+--- Page 7 ---
+NCO - National Classification of Occupations 
+NCI - Nursing Council of India 
+NCS - Net Capital Stock 
+NDC - National Development Council 
+NDE - Non-Directory Establishments 
+NDCF - Net Domestic Capital Formation 
+NDFCF - Net Domestic Fixed Capital Formation 
+NDP - Net Domestic Product 
+NDS - Net Domestic Saving 
+NEER - Nominal Effective Exchange Rate 
+NFCS - Net Fixed Capital Stock 
+NFD - Net Fiscal Deficit 
+NFHS - National Family Health Survey 
+NFE - Non-Formal Education 
+NHB - National Housing Bank 
+NIC - National Industrial Classification 
+NNP - Net National Product 
+NNR - Nano-Natal Rate 
+NPA - Non-Performing Assets 
+NPD - Net Primary Deficit 
+NPISH - Non-Profit Institutions Serving Households 
+NRI - Non-Resident Indian 
+NSDP - Net State Domestic Product 
+NSE - National Stock Exchange 
+NSRC - National Statistical Commission Report 
+NSSO - National Sample Survey Organisation 
+NTMIS - National Technical Manpower Information System 
+NTT - Net Terms of Trade 
+OAE - Own Account Enterprises 
+OECD - Organisation for Economic Co-operation and 
+Development 
+OPEC - Oil and Petroleum Exporting Countries 
+PACS - Primary Agricultural Credit Society 
+PCI - Pharmacy Council of India 
+PFCE - Private Final Consumption Expenditure 
+PHC - Public Health Centre 
+PHSC - Public Health Sub-Centre 
+PISS - Priced Information Service Systems 
+PLR - Prime Lending Rate 
+PNR - Post – Natal Rate 
+PPF - Public Provident Fund 
+PRD - Primary Revenue Deficit 
+
+
+--- Page 8 ---
+QI - Quantum Index 
+RAS - Regional Accounts Statistics 
+RBI - Reserve Bank of India 
+REC - Rural Electrification Corporation 
+REER - Real Effective Exchange Rate 
+RD - Revenue Deficit 
+RGI - Registrar General of India 
+RRBs - Regional Rural Banks 
+RS - Remote Sensing 
+SAS - State Accounts Statistics 
+SCBs - Scheduled Commercial Banks 
+SBR - Still Birth Rate 
+SC & ST - Scheduled Casts & Scheduled Tribes 
+SDDS - Special Data Dissemination Standards 
+SDP - State Domestic Product 
+SDR - Special Drawing Rights 
+SEBI - Securities Exchange Board of India 
+SIA - Secretariat for Industrial Approvals 
+SIC - Standard Industrial Classification 
+SIDBI - Small Industries Development Bank of India 
+SITC – Rev. 2
+ - Standard International Trade Classification – 
+Revision 2 
+SLR - Statutory Liquidity Ratio 
+SNA - System of National Accounts 
+SPM - Solid Particulate Matter 
+SRS - Sample Registration Scheme 
+SSMI - Sample Survey of Manufacturing Industries 
+UGC - University Grants Commission 
+UN - United Nations 
+UPS - Usual Principal Status 
+UPSS - Usual Principal and Subsidiary Status 
+UTI - Unit Trust of India 
+UVI - Unit Value Index 
+VRC - Vocational Rehabilitation Centre 
+WC Act - Workmen’s Compensation Act 
+WPI - Wholesale Price Index 
+WPR - Worker-Population Ratio 
+WTO - World Trade Organisation 
+ 

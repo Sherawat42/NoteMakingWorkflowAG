@@ -1,0 +1,742 @@
+--- Page 75 ---
+ 
+ 
+Quantitative Methods-I 
+76 
+Measures of Inequality
+11.5   NORMATIVE MEASURES 
+The measures that essentially involve judgement about values through 
+specification of social welfare function are called normative measures.  The 
+arguments of this nature were first advanced by Dalton, pretty eight decades 
+ago in 1920 for constructing what are today called normative measures of 
+inequality. 
+Reacting to an observation by Pearsons (1909) that ‘the statistical problem 
+before the economists in determining upon a measure of inequality in the 
+distribution of wealth is identical with that of the biologist in determining upon 
+a measure of the inequality in the distribution of any physical characteristic’, 
+Dalton (1920) pointed out that ‘economist is interested, not in distribution as 
+such, but in effects of the distribution upon the distribution (and total amount) 
+of economic welfare which may be derived from income’.  The objection to 
+great inequality of income, he further points out, is due to the resulting loss of 
+potential economic welfare that could accrue to people in the absence of it. 
+Yet, it has to be noted that inequality though defined in terms of economic 
+welfare, has to be measured in terms of income. This idea due to Dalton has 
+been conceded by subsequent contributions. Using the notion of social welfare 
+function in construction gives rise to normative measures of inequality. 
+It may be instructive to remember that the discussion would revolve around 
+three issues: 
+1) the relationship between income of a person and his welfare; 
+2) the relationship between personal income-welfare functions; and 
+3) the relationship between personal welfare and social welfare. 
+It may be noted that utility is the word mostly used for personal welfare 
+whereas for welfare of society the phrase social utility is rarely used. 
+There are two major indices in this category: Dalton’s index and Atkinson’s 
+index. In Atkinson’s index a new idea is introduced and that is of equally 
+distributed equivalent income. Actually there are two sub-approaches within 
+normative approach.  One is Dalton’s and the other is Atkinson’s.  While in 
+Dalton’s approach present social welfare is compared with that could be 
+obtained by equally distributing the total income, in Atkinson’s approach the 
+present level of income is compared with that of equally distributed level of 
+income, which generates the present level of social welfare.  Sen has 
+generalised the Atkinson’s index. Theil’s index based on information theory 
+could be suggested here only to sort of complete the unit.  
+11.5.1  Dalton Index 
+For each individual, Dalton assumes, marginal economic welfare diminishes as 
+income increases.  It means income-welfare function  
+N i x U Ui i i ,... 2 , 1 ), (
+==       (D.1) 
+(where Ui is welfare of person i possessing income xi) 
+
+
+--- Page 76 ---
+ 
+ 77
+I Measures of Inequalityis concave, suggesting that ( ∂ iU /xi) >0 but ( ∂2
+iU /xi
+2) < 0. Dalton further 
+assumes that economic welfare of different persons is additive.  Thus, in his 
+scheme, social welfare is a simple aggregation of personal welfares.  In other 
+words, social welfare W is given by 
+∑
+=
+=
+N
+i
+i ix U W
+1
+) (       (D.2) 
+He further assumes that the relation of income to economic welfare is the same 
+for all members of the community. That is, 
+) (ii x U U
+= , i=1,2,…,N     (D.3) 
+In that case, the relation (D.2) can be expressed as 
+∑
+=
+=
+N
+i
+ix U W
+1
+) (        (D.4) 
+which makes it clear that whosoever gains in welfare, the addition to the social 
+welfare is the same.  For any given level of social welfare, any distribution of 
+welfare among the members of the society is permissible. However, one must 
+remember that the relation of individual income to their welfares is concave. 
+Therefore, transfer of income from A to B will not lead to symmetric change in 
+welfares of those two persons involved in the transaction. The result is some 
+impact on W the measure of social welfare. 
+From Fig. 11.7, we may compare the situation when two individuals, both 
+possessing the same relation, have two different income levels, with that when 
+they have the same (mean) income.  We may note that the sum of the welfare 
+of person 1(BB’) and the welfare of person 2(DD’) is less than the twice of 
+CC’ which is the level of welfare enjoyed by both the persons when they have 
+equal income.  It is easy to see that the loss suffered by person 2, that is D’E, is 
+overcompensated by the gained by person 1, which is C’F. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 11.7 
+ 
+F 
+C D 
+B’ 
+C’ 
+D’ 
+E 
+B 
+X1 µ  X2 
+
+
+--- Page 77 ---
+ 
+ 
+Quantitative Methods-I 
+78 
+Measures of InequalityThis demonstrates that, under assumptions by Dalton, an equal distribution is 
+preferable to an unequal one for a given amount of total income from the 
+viewpoint of social welfare.  In fact, for a given total of income, the economic 
+welfare of the society will be maximum when all incomes are equal. The 
+inequality of any given distribution may therefore be defined as  
+ 
+∑ ∑
+∑
+==
+= == N
+i
+i
+N
+i
+i
+N
+i
+x U
+NU
+x U
+U
+D
+11
+1
+1
+) (
+) (
+) (
+) ( µµ
+ (D.7) 
+ 
+which is equal to unity for an equal distribution and greater than unity for an 
+unequal one.  It may therefore be preferred to define the Dalton’s index as 
+ 
+∑
+=
+= N
+i
+ix U
+NUD
+1
+2
+) (
+) (µ   (D.8) 
+ 
+which is obviously zero for an equal distribution.  How large can it be? It will 
+depend on the values of U(0), U(µ) and U(Nµ) when N and µ are given,  not 
+necessarily 1. Later writers have therefore preferred to define Dalton’s index in 
+the following form, which inverts the arguments of D2 subtract it from 1: 
+ 
+) (1) (
+) (
+1 1
+µµ U
+U
+NU
+x U
+D
+N
+i
+i
+− =− =
+∑
+=   (D.9) 
+ 
+It looks as if the index is contained in the interval (0,1).  However, there are 
+many valid concave functions where it may not hold true.  For example, if we 
+have ) ( ix U= log ix ,  then D=1– }{ µµ log /ˆlog . Given the fact that µ ˆ < µ, D 
+would turn out to be a negative number for µ<1.  And µ could be less than 1 as 
+x can be measured in any unit. It would be the same case ) ( ix U= 1/ ix .    
+ 
+However, in order to obtain numerical magnitude, it is not sufficient to define 
+the index.  Dalton (1920) points out that though defined in terms of economic 
+welfare, inequality has to be measured in terms of income. Then, no unique 
+measure of inequality will emerge. It will verily depend on the particular 
+functional relationship assumed.  Dalton himself considered two such functions 
+for the purpose of illustration.  The first is related to Bernaulli’s hypothesis.  It 
+holds that proportionate additions to income (in excess of that required for bare 
+subsistence-poverty line) make equal additions to personal welfare, That is, 
+ 
+i ii
+i
+i
+i c x orUx
+dxdU + == log  (D.10) 
+ 
+Under the assumption that every person has the same functional relationship, 
+the Dalton’s index can be given as 
+ 
+c
+cD +
++− = µ
+µ
+log
+ˆlog1  (D.11) 
+where µ ˆ  is the geometric mean of personal incomes. The other formulation he 
+discusses is given as 
+
+
+--- Page 78 ---
+ 
+ 79
+I Measures of Inequality
+i
+i
+i
+i
+xc o rUx
+dxdU 1
+2
+1
+− ==  ( D.12) 
+ 
+where c is the maximum welfare one can obtain when ∞→x . Dalton’s index 
+in this case would turn out to be: 
+ 
+) / 1 (
+)~/ 1 (1 µ
+µ
+−
+−− =C
+cD  (D.13) 
+ 
+where µ ~  is the harmonic mean. 
+ 
+11.5.2 Atkinson Index 
+Atkinson (1970) objects to Dalton’s measure because D is not invariant with 
+respect to positive linear transformations of personal income-welfare functions. 
+This was pointed out by Dalton himself but he could not resolve it. 
+Atkinson seeks to redefine the index in such a way that measurement would be 
+invariant with respect to permitted transformations of welfare numbers.  
+Atkinson does it through devising what he calls 'equally distributed equivalent 
+income'.  Both the distributions, the original and the new one, are supposed to 
+yield the same level of welfare. 
+In order to make the concept clear, we put a few artifacts along with the actual 
+distribution.  Let us first note that for an actually distributed income vector xi, 
+i=1,2…,N (call it vector a), there is only one equally distributed income vector 
+with each element equal to µ (call it vector b) but there are a number of 
+equivalently distributed, vectors (call them vectors c). See Chart 1. An 
+equivalent income distribution is one, which has the same level of welfare as 
+that of currently given distribution. However, one of these equivalent 
+distributions (vectors c) is `equal’ as well.  This is called equally distributed 
+equivalent income vector, shown as vector (d) in the Chart 1.  As µ is the mean 
+level of current distribution, µ* may be used for designating the level of 
+equally distributed equivalent income. 
+CHART-I 
+Vector (a) Actually distributed income vector      x1,   x2     ….,     xi,   ….,  xN. 
+Vector (b) Equally distributed income vector        µ,    µ,   …., µ,   …,  µ. 
+Vector (c) Equivalently distributed income vector       *
+1x ,
+  *
+2x ,  …, *
+1x ,  …, *
+Nx .  
+Vector (d) Equally distributed equivalent income vector  µ*, µ*, …, µ*, …, µ* 
+If should be obvious that .. , d ad cc a b W W T hen W W and W W W=== ≥  W 
+represents social welfare with respective distributions of income vectors. It is 
+clear that . * µµ ≥ *µ is defined by the additive social welfare function having 
+symmetric individual utility functions such as: 
+∑
+=
+=
+N
+i
+ix UNU
+1
+) (1) (µ   (A.1) 
+ 
+or equivalently 
+ 
+
+
+
+= ∑
+=
+−
+N
+i
+ix UNU
+1
+1 ) (1*µ   (A.2) 
+
+
+--- Page 79 ---
+ 
+ 
+Quantitative Methods-I 
+80 
+Measures of InequalityThe index due to Atkinson is then defined as the additive inverse of the ratio of 
+equivalent mean income to actual mean income: 
+µ
+µ *1 − =A   (A.3) 
+which is said to lie between zero (complete equality) and 1 (complete 
+inequality).  We can see that A cannot be 1 unless µ* is zero, which is an 
+impossibility for any distribution with µ>0.  If complete inequality is defined as 
+the situation when only one person grabs all the income, we can see that 
+µ
+µ *
+1 mA − =   (A.4) 
+where 
+∑
+=
+=
+N
+i
+ix UN U
+1
+) ( * ) (µ  
+and 
+). ( ) 0 ( ) 1 ( ) * (µµ N U U NNU m +−=  
+This index is not scale independent unless some restriction is imposed on the 
+relationship U.  If this requirement has to be met, Atkinson points out, we may 
+have to have the following form  
+
+
+
+=
+≠−+=
+−
+1, log
+1 ,1) (
+1
+ε
+εε
+βα ε
+i e
+i
+i
+x
+xx U   (A.5) 
+Note that we need є ≥0 for ensuring concavity and є >0 for ensuring strict 
+concavity.  This is a homothetic function and is linear when є=0.  We may note 
+that є cannot exceed 1 as in that case the varying component assumes inverse 
+relationship. α is usually negative so that U( xi) is not positive for xi = 0. 
+Otherwise, when xi = 0,  Ui =  α which means that welfare is positive even 
+when income is zero. This is generally not acceptable.  On the contrary, a 
+negative α would be more acceptable. When є =1, α is infinitely large and 
+negative. 
+Since є can be zero, Atkinson’s requirement is not strict concavity. Sen (1973) 
+has a question. He asks to consider two distributions (0,10) and (5,5) along 
+with 
+) ( ) (ii xx U βα +=   (A.6) 
+Then, he points out the level of social welfare would be ( βα 10 2+ ) whatever 
+the distribution. µ* would be 5 in both the cases. µ is of course 5.  The measure 
+of inequality A is therefore zero. So, both the distributions are ethically equal.  
+This is obviously absurd. Therefore, the relation (A.5) should be defined with 
+the restriction є>0. We should also note that (A.4) is an iso-elastic marginal 
+utility function. 
+
+
+--- Page 80 ---
+ 
+ 81
+I Measures of Inequalityє is the inequality-aversion parameter and has close resemblance with risk-
+aversion premium. Atkinson proposed to draw on the parallel formally with the 
+problem of measuring risk. He finds his concept of equally distributed 
+equivalent income very closely resembles with risk-premium or certainty 
+equivalent income as used in the theory of decision-making under uncertainty. 
+In case we seek to introduce this restrictive personal income-welfare function 
+along with simple aggregation of individual welfares to constitute the social 
+welfare, into the inequality measure A, we will have 
+1 ,11
+) 1 / ( 1
+1
+1
+≠
+
+
+
+
+
+
+
+
+
+
+
+
+
+− =
+−
+=
+−
+∑ εµ
+εεN
+i
+ix
+NA   (A.7) 
+The question is now narrowed down to choosing є.  As є rises, more weight is 
+a
+ttached to transfers at the lower end of the distribution and less to that at the 
+top. When є rises, (A.7) assumes the function min i ( xi), which only takes 
+a
+ccount of transfers to the very lowest income group (and is therefore not 
+strictly concave). When є = 0,Ui is linear.  As a consequence, A is always zero.  
+This means A has no descriptive content at all.  When є→1, A turns out to be 
+µ
+µ
+µ
+ˆ11
+/ 1
+1
+− =
+
+
+
+
+
+− =∏
+=
+N
+i
+N
+i
+xA  (A.8) 
+which is the same as Champernowne index (CII.1). For values of є between 0 
+and 1, the expressions may not be very neat. Parameter є is often chosen to be 
+½ or 1/3 or 2/3. 
+11.5.3    Sen Index 
+There are people who feel rather strongly that the social valuation of the 
+welfare of individuals should depend crucially on the incomes of their 
+neighbours too.  Then, why should society add simply individual welfares? 
+One may also question the assumption of one welfare function for all 
+individuals.  If we do so, we should go for broad social welfare function such 
+as 
+) ,..., , (2 Ni x x x W W=   (S.1) 
+which is just symmetric, quasi-concave and increasing in individual income 
+levels.  Then, a more general normative measure of inequality can be defined 
+by devising the concept of ‘generalized equally distributed equivalent income’.  
+This is obviously the level of per capita income x* which, if shared by all, 
+would produce the same level of W as is generated by the present actual 
+distribution. That is,  
+) ,..., ( *) *,.., *, ( *2 1 Nx x x W x x x W x x==   (S.2) 
+Under the assumption that (S.1) is quasi-concave, x* ≤  µ for every distribution 
+of income.  The index S would then be 
+µ
+*1 xS − =   (S.3) 
+
+
+--- Page 81 ---
+ 
+ 
+Quantitative Methods-I 
+82 
+Measures of Inequalitywhich is but a generalized version of A.  If utilitarian framework is employed, 
+then S and A turn out to be indistinguishable. 
+These measures, it may be noted, clearly suggest that there exists a 
+redistribution equivalent of growth so far as the concern is about raising the 
+welfare. 
+11.5.4 Theil Entropy Index 
+Theil (1967) poses a question: Does information theory supply us with a 
+‘natural’ measure of income inequality among N individuals, which is based on 
+income shares? He answers: Yes. Here is a short introduction.   
+Let us start with income share of individual i: 
+1
+1
+=> = ∑
+=
+N
+i
+i
+i
+i q t hat such oN
+xq
+µ
+  (T.1) 
+When xi = µ, i=1, 2,…, N, that is, when distribution is equal, we have 
+N iNqi ,... 2 , 11 = =   (T.2) 
+We have complete inequality when some xi=Nµ and . , 0i j xj ≠ =  It implies 
+that  qi=1 for some i and  j i qj ≠ =, 0 . 
+In information theory, one way of defining entropy of probabilities pi  is 
+∑
+=
+=
+N
+i i
+i
+Pp H
+1
+.
+.
+1l og   (T.2) 
+Replacing probabilities by shares, we have 
+∑
+=
+=
+N
+i i
+i
+qq H
+1
+.
+.
+1l og   (T.3) 
+which can be taken as a measure of equality. For the situation of complete 
+equality, we can see that H is equal to logN and for that of complete inequality 
+H is zero. We can therefore define Theil index T as 
+∑
+=
+=
+N
+i i
+i
+qq N T
+1
+.
+.
+1l oglog  
+∑ ∑
+= =
+−=
+N
+i
+N
+i i
+ii
+qq N q
+1 1
+.
+1l oglog   
+∑
+=
+=
+N
+i
+ii q N q
+1
+. l og   (T.4) 
+This measure is motivated by the notion of entropy in information theory.  But 
+one can see that it can be interpreted in the traditional normative framework 
+with 
+
+
+--- Page 82 ---
+ 
+ 83
+I Measures of Inequality
+i
+i i
+qq U 1log=   (T.5) 
+and 
+W=∑
+=
+N
+i
+i iq U
+1
+). (   (T.6) 
+We may note that (T.5) depends on xi as well as on µ along with N and U that it 
+is concave with respect to xi. 
+While the lower limit of T is zero, its upper limit log N increases as the number 
+of individuals increases.  To many people, it is objectionable.  However Theil 
+(1967) chooses to defend it.  When society consists of two crore persons and 
+one grabs all and when society consists of two persons and one grabs all, 
+cannot have the same level of inequality. The former case is equivalent to the 
+situation in which one crore out of two crore people have nothing and the other 
+one crore have equal income.  Maximum value for two-person society is log 2, 
+and that for two crore-person society is 7 log 2.  Some researchers still insist 
+that the measure should be normalized by dividing it by log N. 
+Check Your Progress 4 
+1) What is social welfare function, according to Dalton? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) Discuss Dalton index of inequality. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) Give the logic behind Atkinson index. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+
+
+--- Page 83 ---
+ 
+ 
+Quantitative Methods-I 
+84 
+Measures of Inequality4) How is Sen index distinct from Atkinson’s index? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+5) Discuss Theil’s entropy index of inequality. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+ 
+11.6 LET US SUM UP 
+ 
+Owing to adverse impacts of economic inequality both on poverty and on 
+growth, reducing inequality has been a priority of public policy.  Various 
+measures of income inequality can be put under two categories: positive 
+measures and normative measures. The positive measures capture the 
+inequality of income without value judgements.  These include range quartile 
+range, standard deviation, Gini ratio, etc. Lorenz curve belongs to this 
+category. It measures inequality to the extent of comparing two distributions. 
+The measures, which essentially involve value judgements about social 
+welfare, are normative measures.  These include indices propounded by Dalton, 
+Atkinson, Sen, and Theil.  
+ 
+Easy comprehension and easy computation, range of variation and amount of 
+information needed the desirable properties of the measures of economic 
+inequality.  In order to judge the efficacy of an inequality index, several axiom 
+have been set up.  However, these axioms have been relegated to the Appendix. 
+ 
+11.7 KEY WORDS 
+ 
+Co-efficient of Mean 
+Difference 
+: Mean of all pair-wise differences divided by the 
+mean of differences has been termed as 
+coefficient of mean difference in this text. 
+Dispersion : The fact that values of a variable are not all the 
+same is known as dispersion. The spread or 
+scattering of the distribution is measured by a 
+measure of dispersion. 
+
+
+--- Page 84 ---
+ 
+ 85
+I Measures of InequalityExtreme Disparity 
+Ratio 
+: The ratio of the highest value to the lowest 
+value is known as extreme disparity ratio. 
+Normative Measures of 
+Inequality 
+: Measures of inequality, which are articulated 
+through the explicit incorporation of social 
+welfare function or social welfare 
+considerations, are known as the normative 
+measures of inequality. 
+Positive Measures of 
+Inequality 
+: Measures of inequality, which are based in 
+statistical properties of distribution, are known 
+as the positive measures of inequality. 
+Relative Standard 
+Deviation 
+: Standard deviation of a distribution divided by 
+its mean is known as Relative Standard 
+Deviation. 
+Standard Logarithmic 
+Deviation 
+: Standard deviation of logarithms of values in a 
+distribution is known as Standard Logarithmic 
+Deviation. Though logically the deviations of 
+logarithmic values should be taken from the 
+logarithm of geometric mean but at times they 
+are taken from logarithm of arithmetic mean. 
+Therefore, there are two versions. 
+Social Welfare 
+Function 
+: An index of social well-being, often articulated 
+as a function of individual utilities or individual 
+incomes or individual consumption baskets, 
+with or without labour disposition, or individual 
+rankings of potential state of affairs. 
+11.8     EXCERCISES 
+ 
+1) Following the adapted distribution of monthly per capita expenditure (in 
+Rs.) in rural India in the 60th round of the NSS over January to June 2004: 
+Class 50-
+225 
+225-
+255 
+255-
+300 
+300-
+340 
+340-
+380 
+380-
+420 
+420-
+470 
+470-
+525 
+525-
+615 
+615-
+755 
+755-
+950 
+950-
+1200 
+Avg. Exp. 100 240 280 325 365 405 450 500 580 700 850 1100 
+Percentage 
+of persons 
+2.4 2.7 6.4 8.3 9.6 9.6 10.8 10.0 12.2 12.6 6.7 8.8 
+ Calculate as many positive measures as you can. 
+2) Following is distribution data of operational holdings from agriculture 
+census 1976-77: 
+ Holding Marginal Small Semi-
+medium 
+Medium Large All 
+Definition Unit 0.0-1.0 
+Ha 
+1.0-2.0 
+Ha 
+2.0-4.0 Ha 4.0-10.0 
+Ha 
+Above 
+10.0 Ha 
+ 
+Number ’000 44523 14728 11666 8212 2440 81569 
+Area ’000 Ha 17509 20905 32428 49628 42673 163343 
+Draw Lorenz curve and compute Gini ratio. 

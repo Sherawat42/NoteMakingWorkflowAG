@@ -1,0 +1,436 @@
+--- Page 11 ---
+11
+Participatory Methodcollect a detailed case history of the or ganization. Yin (1984:23) defines case
+study research method “as an empirical inquiry that investigates a contemporary
+phenomenon within its real life context; when the boundaries between
+phenomenon and context are not clearly evident and in which multiple sources
+of evidence are used”. In an organization, there are multiple players and a detailed
+case study will take into account perspective of each stakeholder there. You can
+use more than one method to collect evidence from dif ferent stakeholders e.g.
+the supervisors, workers etc. A schedule or a questionnaire can be used to talk to
+the workers. The interview method can be used, to collect history of the
+organization and organogram depicting position and functions of each member
+of the organization. Content analysis can be done by examining available records
+of the organization. This provides a holistic picture of the or ganization. Case
+study as an approach is holistic, inductive and idiographic. It takes complete
+account of the organization from all perspectives; theorizing moves from general
+to specific and individual cases are located in their particular context. Case study
+can take cross-sectional or longitudinal data.
+The researcher must remember that generalizations drawn for one organization
+are not necessarily applicable to the other. Each organization is a distinct unit.
+Six important steps are involved in conducting a study by using case study method:
+• Determine and define the research question
+• Select the cases and determine data gathering and analysis techniques
+• Prepare to collect the data
+• Collect data in the field
+• Evaluate and analyse the data
+• Prepare the report
+18.8 NARRATIVES
+Social science research in anthropology, sociology, political science, history and
+now economics is moving from the positivist position of research to narrative
+approach. The positivist position also popularly known as scientific approach
+was the tradition in which researchers from 50’s to 80’s were generally trained.
+The standardized tools of survey research, questionnaire approach or even
+interviews with a standardized set of questions was expected to produce if not
+same, similar responses. Narrative research emphasizes that this is not true.
+Different respondents may interpret each question asked in the same words
+differently. In structured interviews both meaning and plurality of responses are
+lost. Researcher -using method of narrative understands that there can be
+standardized questions but there are no ‘standardized meanings’.
+18.9 FOCUS GROUP DISCUSSION
+One of the methods of qualitative research that found ready acceptance by
+economists was that of focus group. It is frequently used in market surveys for
+quick appraisal of response to an economic programme, for evaluation studies
+and for media and health research.  In focus group discussion, a small group of
+six to eight (market researchers prefer groups of 10-12 participants in each group)
+targeted audiences is gathered at a suitable location. They are encouraged to
+
+
+--- Page 12 ---
+12
+Qualitative Methods have a frank discussion on a given topic and a recorder sitting outside the group
+will either audio record or take notes on the discussion. The researcher acts as a
+prompter posing questions on the subject of inquiry. Kruger (1988: 18) defines
+focus group as a “carefully planned discussion designed to obtain perceptions
+on a defined area of interest in a permissive, non-threatening environment”.
+Bloor et al. (2001) cautions that ‘focus groups are the method of choice only
+when the purpose of the research is ‘to study group norms, group meanings and
+group processes’ (cf. Barbour, 2008:133)
+Steps for focus group
+• Topic for focus group should be of general interest to all the participants in
+the group.
+• Number of participants can vary depending on the requirements of your
+research. Sampling is the key to data generation.
+• ‘Stimulus material’ for initiating the discussion should be brief and encourage
+a free flowing conversation. Use of video clips, leaflets, cartoons, brief
+recollection of event or topic being discussed etc.
+• Moderator must mange the discussion in a manner that without sounding
+intrusive, long extensive talks are avoided.
+• Barbour (2008) suggests ‘anticipate the analysis through attentive moderating’.
+• Locate themes visible in the form of repetitive patterning of the responses.
+• Second stage sampling could be considered to further explore any emerging
+theories, paradigms or even trends from the data.
+These are some of the tools that participatory researchers frequently use to gather
+primary data. In this brief discussion, there are two more important steps that a
+participatory researcher must remember. First is Grounded Theory and second
+is Data Sources and Sampling procedure. We shall discuss these steps in next
+sections.
+Check Your Progress 2
+1) Make a distinction between focused interview and focused group discussion.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) State the uses of Case Study Method.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 13 ---
+13
+Participatory Method3) Identify the steps involved in focus group discussion.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+18.10 GROUNDED THEORY
+Quantitative researchers are familiar with the procedure of preparing a research
+design that lists various steps of research including hypothesis and sample
+selection. Average participatory researcher will first go to the field, explore various
+research questions that he/she may have problematized and engage in casual
+conversations with the people on the ground. A research design is generally not
+prepared before empirically exploring the field situation. The research problem
+is then structured keeping in view the perspective, people’s priorities and that of
+the researcher.
+Glaser and Strauss (1967) proposed grounded theory as a method of inductive
+theorizing. In their opinion, theories are not to be tested but to be generated as
+research proceeds. They were of the opinion that “‘good theory’ is systematically
+discovered from and verified with the data of social research”. Researchers further
+clarified ‘generating a theory from data means that most hypotheses and concepts
+not only come from the data, but are systematically worked out in relation to the
+data during the course of research’  (cf. Blaikie 2010:141). In this kind of analysis,
+comparative analysis is continuously generated along with theory building. Two
+kinds of theories are generated namely substantive and formal. Substantive
+theories are located in a specific context and are related to a specific process.
+Formal theories are generated at a higher level of generalization and can apply to
+number of substantive areas. Blaikie sums it brilliantly “research conducted from
+a grounded theory point of view is not a pre-planned linear process of testing
+hypotheses, but rather an evolving process in which what has been ‘discovered’
+at any point will determine what happens next. An understanding of any
+phenomenon is seen as a developing process involving the collection of variety
+of data, by a variety of methods’. In simple terms, it suggests that you do not
+have to go to the field with a pre-decided hypothesis with the intent of verifying
+it but evolve your theory from the empirical evidence that was collected.
+18.10.1 Data Sources and Sampling
+Three types of data sources are recognised:
+Primary Data – Data collected by researcher or researchers working on the
+project and they are responsible for collecting/generating, analysis and reporting.
+Majority of participatory researchers work with primary data.
+Secondary Data – Data that is already collected by some other researchers,
+agencies, individuals (raw data) and is available in the public domain e.g. Census,
+National Sample Survey, NCAER Data, Economic Survey Data etc.
+Tertiary Data – Analysed data either by the researcher or other researchers,
+institutions, agencies and its results are available for comparisons or reinterpretation.
+
+
+--- Page 14 ---
+14
+Qualitative Methods Data for research can come from number of sources: (i) Individuals, (ii)
+Populations.
+Samples from populations
+Once data source is identified and it happens to be a population, it is not always
+possible to cover the entire population. In these situations a representative sample
+is identified. There are several methods of sampling. Probability and
+nonprobability sampling are commonly used. A sample is expected to contain
+one or more elements of the population/universe of study. Sampling frame using
+probability sampling is able to ensure elements of representation but that may
+not be possible in nonprobability sampling. Probability samples are selected using
+simple random and systematic random sampling. Non-probability sampling
+methods frequently used by participatory researchers are:
+• Accidental or Convenience sampling – interviewing any individual, any
+where at any time without keeping research population in focus. This method
+is to be used only when no other method is feasible. This is often used in
+market research for quick feedback or for consumer surveys.
+• Quota sampling – frequently used after selecting certain criterion to be
+explored in the research study . Quota is taken to represent the population
+and problem being researched. For doing an evaluation study for a product
+to be launched target the population e.g. for the launch of a new video game-
+target audience can be adolescents in the age group of 15-20 that come to a
+video store enquiring about new video games.
+• Judgemental or purposive sampling – is another popular non-probability
+sampling method used for studying previously identified sub-set of population
+e.g. to analyse models for successful organizational management, a sample
+is selected from or ganizations that have shown successful management
+background.
+• Snowball method – as the term suggests, this method of sampling works on
+the principle of networks, chain referral or reputational sampling. Researcher
+identifies an individual or a key respondent and he/ she may lead him to
+others having similar interests – the focus of the research. Internet networks,
+members of mac-book or Mercedes clubs etc. are few illustrative examples.
+Participatory researchers are often criticized for using these sampling procedures
+arguing that these are not necessarily representative, as the sample is not
+objectively selected. One must remember that qualitative participatory research
+is invariably resource intensive and requires smaller samples as compared to
+large quantitative surveys.
+18.10.2 Subjectivity
+Qualitative researchers are not shy of admitting that there is always an element
+of subjectivity in research. Hollway and Jef ferson (2000:3) draw attention to
+this important element of research: “ As researchers, we cannot be detached but
+must examine our subjective involvement because it will help us to shape the
+way in which we interpret interview data”.
+
+
+--- Page 15 ---
+15
+Participatory Method18.10.3 Transcription
+One of the important components of qualitative method of research or
+participatory approaches is rewriting the data procured from the field.  The data
+is usually recorded in memory or sometimes on paper, and if circumstances permit
+it can be recorded using an audio or wherever possible a video recording. The
+data has to be transcribed for the purpose of analysis. This is one of the most
+difficult steps that many qualitative researchers have to learn to deal with.
+18.11 ANALYSIS OF QUALITATIVE DAT A
+The findings collected with the help of qualitative tools involve a continuous
+process of data generation and analysis. ‘It is iterative rather than being linear’
+(Barbour, 2008:189). Unlike quantitative methods in which first data is collected
+and subjected to statistical tool to obtain results and analysis follows the outcomes,
+in qualitative data, we do not generate results but detail ‘findings’. While talking
+to people either in focused or in-depth interviews or in focus group discussions
+and case studies, people provide the answers through the process of reconstruction
+of these narratives. Qualitative data analysis uses ‘ constant comparative
+method’. It involves constant comparing and contrasting of notes meaning thereby
+that the researcher must focus on ‘who is saying what and in what context’ (ibid:
+217).
+Steps for doing analysis of qualitative data:
+• Compilations of field notes and observations recorded in the field diary.
+• Some scholars prefer to have complete verbatim account of data transcribed
+but others opt to use ‘indexed recordings and notes’ (ibid: 192).
+• Interrogation of the data and diligence shown by the researcher is the key to
+producing good transcripts and reliable generalizations.
+• Codes and themes have to be developed to capture meaning.
+• Grounded theory that uses concepts developed in the field by the respondent
+is an important way of theorizing and analysing in qualitative research.
+• Both computer and Manual analysis can be done.
+• NUD*IST, ATLAS/TI are some of the Computer software used for qualitative
+analysis.
+18.12 REPORT  WRITING
+Richardson (2000: 923) refers to writing as “a method of inquiry, a way of finding
+out about yourself and your topic”. A “personal tale of what went on in the
+backstage of doing research” (Ellis & Bochner , 2000: 741). Writing research
+differs in style depending on whether one is writing for a project agency for a
+journal or a dissertation/ thesis. S tandard format comprises of intr oduction/
+backgr ound, methods, sample, r esults, discussion, and conclusion/
+recommendations. In qualitative research writing discussion is a challenge
+because the data collected is iterative or repetitive. Many qualitative researchers
+
+
+--- Page 16 ---
+16
+Qualitative Methods prefer to use subtitle ‘findings’ to combine discussion and conclusions. As young
+researcher, you can always evolve your own style of writing but remember that
+when you are writing for an indexed journal, you are expected to conform to the
+writing style and referencing style of that particular journal which is always
+given at the back of the journal as instructions to the authors.
+18.13 CRITICISM OF PARTICIPA TORY METHODS
+Opinions on the efficacy of participatory methods are widely divided. There is a
+growing demand for bringing in participatory methods of research in disciplines
+like economics, political science, management studies and law because standard
+methods of quantitative research have not yielded the desired results. There are
+others opposing reliance on participatory research ar guing that there is every
+possibility of personal bias impacting the objectivity of research. It is restricted
+to a very small area and generalizations arrived on the basis of data generated by
+it may not be applicable to other areas. The methods of participatory research are
+slow. Many others call these studies impressionistic and unreliable and call it a
+‘soft’ method of doing research.
+To overcome some of the limitations of participatory research mentioned above,
+many researchers prefer to use a mixed methods approach. Let us remember that
+the details on mixed methods research have already been covered in Unit 6.
+18.14 ADVANTAGES OF PARTICIPA TORY
+RESEARCH
+One of the important advantages of qualitative method of research is that it is
+“reflexive, flexible and iterative” (Cornwell & Jewkes: 1668; Chambers 1992).
+Diane Watt (2007:82) rightly points out that “since the researcher is the primary
+instrument of data collection and analysis, reflexivity is deemed essential”– this
+is a position supported by almost all researchers using participatory methods.
+Reflexive means that the researcher can take stock of his/her own reservations,
+prejudices and resolve them before recording responses obtained from the field.
+In simpler terms, it implies that in participatory researche, we deal with other
+human beings that look like us but may have differently acquired social values.
+The answer that they may give to an enquiry posed by us may be very different
+from the response that we expect or believe is the correct answer. Reflexivity in
+participatory research methods helps to distinguish qualitative research methods
+from quantitative methods of research. It teaches us to delineate subjectivity
+from objectivity. One of the strongest planks of quantitative researchers and
+scientific (positivist) methods of research was their claim that the results derived
+by these methods are ‘objective’. Qualitative researchers accepted the charge of
+being ‘subjectively objective’ arguing that when a researcher interacts in the
+field with his respondents, he always carries a sense of subjectivity with him/her
+but in quantitative researches it is not admitted and dismissed by counting in
+sampling error. It was thus considered imperative to admit that bias by the
+qualitative researchers. They accepted that one must recognise it in terms of
+one’s reflexivity. Qualitative/Participatory researchers have recognised the
+limitations and persistence practice that is required in recognising, admitting
+and becoming aware of this bias, particularly while writing their research report
+(Borochowitz, 2005; Denzin and Lincoln, 2005; Harding, 1991).
+
+
+--- Page 17 ---
+17
+Participatory MethodWe discussed ‘reflexivity’  and ‘flexibility’  given in Cornwell and Jewkes
+statement describing advantages of participatory research. We now examine the
+third attribute of participatory research ‘iterative’ that means ‘ability to repeat’–
+this can be inferred in several ways. One can repeatedly seek answers to the
+same query by enquiring about it in different ways to establish the validity of the
+response. Detailed narratives generated from the respondents may have responses
+that are repetitive of the statements made by other respondents and the common
+thread running through these conversations provides the window to ascertain
+the public opinion. It facilitates “ ‘bottom up’ approach with a focus on locally
+defined priorities and local priorities”(Cornwell & Jewkes, 1995:1667).
+Prior to the popularity and acceptance of participatory approaches, most planning
+was based on the philosophy of ‘trickle down effect’– implying that the experts
+plan and enrich the upper crust and its impact will automatically get transferred
+to the lower stratum of the society. Felt needs of the people were not taken into
+consideration and the planning was top heavy. Many intervention projects with
+large funding failed because they failed to meet the immediate requirements of
+the local people. For example – several housing projects for the adivasi in remote
+parts of tribal heartland remained unutilized or underutilized, as the houses were
+not built in accordance with the tribal worldview and customary lifestyle.
+Participatory approach first explores people’s immediate needs as perceived by
+the ‘local people’ and then suggests policies for meeting those needs.
+Participatory researchers argue, “that the key element of participatory research
+lies not in methods but in the attitudes of researchers, which, in turn, determine
+how, by and for whom research is conceptualized and conducted” (ibid) If the
+researcher is not able to establish rapport with the respondent, he will not be able
+to generate good data. It is also important in participatory researches that the
+researcher takes keen interest in the problems that are addressed in his research
+query.
+It is important to remember that you cannot become a good participatory
+researcher by learning these methods only through a formal lesson in a classroom.
+It requires personal experience in the field and repeated interactions with a large
+number of individuals to master the craft of participatory research. A lesson on
+participatory research empowers you with tools like the necessity to respect
+confidentiality of your respondents, to refrain from encroaching on their privacy,
+to respect their distinct traditions and cultural values, to conduct your interviews
+without offending or getting into an argument with them, respecting their opinion
+and recording it objectively and being ethical at all times. Your honesty in data
+generation and data analysis will give the necessary quality weightage to your
+research. In this context, it is worth to remember that one may encroach on the
+respondent’s time and privacy. While writing your research never disclose the
+name and location of your respondents. Seeking their consent for interviewing
+and writing about them is equally important.
+Participatory Research: An Illustration
+You enquire from an individual in the market about the price of onions in the
+month of July 2014, when the market sentiment suggests, that the price of
+onions is very high. Contrary to the assumed answer the respondent suggests
+that “no, it is not as high as last year because last year in the same month, I
+
+
+--- Page 18 ---
+18
+Qualitative Methods
+bought onions for Rupees ninety a kilogram but this year it is much cheaper,
+as I have paid only rupees forty per kilogram”. His response is relative to his
+experience in the past and similarly other responses may differ depending on
+the experiences of dif ferent individuals. But when you ask standardized
+question in a yes or no format and ask a direct question with only two options
+of ‘yes’ or ‘no’, your results will not reflect ‘actual sentiments’ in the market.
+In the participatory approach, you will have flexibility of questioning as also
+response. On the contrary in the non-participatory approach you will get only
+two kinds of responses either saying ‘the price of onions is very high’ or
+some saying ‘no it is not high’. Thus there is inbuilt flexibility in the
+participatory approaches. They provide a better understanding of the real
+market situation, giving more options for planning and interventions.
+Check Your Progress 3
+1) Enlist the various methods of sampling used in participatory research.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) What is inductive theorizing?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) State the steps involved in analysis of qualitative data.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+18.15 LET US SUM UP
+In participatory research, data is generated from an insider’s perspective known
+as EMIC view. Unlike quantitative research, in this approach, people provide
+answers through the process of reconstruction of the narrations. The tools used
+in data collection are – participation observation, non-participation observation,
+quasi participation observation, in-depth interview , oral and life histories,
+narratives, case study method and focus group discussion etc. Qualitative
+researchers use various non-random sampling techniques, these include –
+convenience sampling, quota sampling purposive sampling, and snowball
+sampling. The qualitative data is analysed by ‘constant comparative method’.
+The personal bias is the important criticism levelled against this method.
+Reflexivity, flexibility and iterative are the key advantages of this method and
+hence, participatory research by using mixed methods approach is increasingly
+being used to address complex issues in social science research.
+
+
+--- Page 19 ---
+19
+Participatory Method
+18.16 KEY WORDS
+Focus Group Discussion : It is a technique for a eliciting descriptive
+information/data from specific population
+subgroups (a group of 8 to 12 persons).
+Reflexivity : Reflexivity refers to a situation where an
+individual becomes a self by being able to take
+the attitude of others and thereby reflect on his
+or her own behaviour.
+Snowball Sampling : A technique for gathering subjects through the
+identification of an initial subject who is used
+to provide the names of other actors.
+Quota Sampling : A method of selecting respondents for service
+by assigning quotas to the interviewers that
+define groups of respondents by using a few key
+demographic characteristics.
+Iteration : It is an act of repeating a process with the aim of
+approaching a desired goal, target or result.
+18.17 SOME USEFUL BOOKS/READINGS
+Borochowitz, Dalit Yassour. (2005). “Teaching a Qualitative Research Seminar
+on Sensitive Issues”. Qualitative Social Work 4:347-62.
+Bogdan, R.C. and Taylor, S.J. (1975). Introduction to Qualitative Resear ch
+Methods: A Phenomenological Approach to the Social Sciences. New York: John
+Wiley.
+Barbour, Rosaline. (2008). Introducing Qualitative Research: A Student Guide
+to the Craft of Doing Qualitative Research. London: Sage Publications.
+Denzin, Norman. K. & Lincon, Yvonna. S. (eds) (2000). Handbook of Qualitative
+Research (2nd ed.). Thousand Oaks, CA: Sage Publications.
+Denzin, Norman K. and Yvonna S. Lincoln (2005). “Introduction: The Discipline
+and Practice of Qualitative Resear ch.” Pp. 1-33 in The SAGE Handbook of
+Qualitative Research edited by Norman K. Denzin, and Yvonna S. Lincoln,
+California: Sage Publications.
+Harding, Sandra. (1991). Whose Science? Whose Knowledge?: Thinking fr om
+Women’s Lives. Ithaca, New York: Cornell University Press.
+Watt, Daine. (2007). On Becoming a Qualitative Resear cher: The V alue of
+Reflexivity. The Qualitative Report.  Volume 12 Number 1 March 2007. Pp 82-
+101.
+Yin, R.K. (1984) Case S tudy Research: Design and Method.  Newbury Park,
+CA: Sage.
+Websites:
+http://www.nova.edu/ssss/QR
+
+
+--- Page 20 ---
+20
+Qualitative Methods
+18.18 HINTS/ANSWERS OR HINTS TO CHECK
+YOUR PROGRESS EXERCISES
+Check Your Progress 1
+1) See Section 18.2
+2) See Section 18.2
+3) See Section 18.3
+Check Your Progress 2
+1) See Section 18.4 and 18.9
+2) See Section 18.7
+3) See Section 18.9
+Check Your Progress 3
+1) See Sub-section 18.10.1
+2) See Section 18.10
+3) See Section 18.12

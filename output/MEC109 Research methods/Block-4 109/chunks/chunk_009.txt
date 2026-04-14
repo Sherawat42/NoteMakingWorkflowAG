@@ -1,0 +1,484 @@
+--- Page 80 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+81 
+-II 1) The relationship between the coefficients and the error term must be linear. 
+2) The residuals must have a mean zero, be independent, be normally 
+distributed, and have variances that are uniform across the variable. 
+3) Variables in SEM should be continuous, interval level data. This means 
+SEM is not appropriate for censored data. 
+4) No specification error. If necessary variables are omitted or unnecessary 
+variables are included in the model, there will be measurement error and 
+the measurement model will not be accurate. Variables included in the 
+model must have acceptable level of kurtosis. 
+17.5 SIMILARITIES BETWEEN TRADITIONAL 
+STATISTICAL METHODS AND SEM 
+SEM is similar to traditional methods like correlation, regression and analysis 
+of variance in many ways. First, both traditional methods and SEM are based 
+on linear statistical models. Second, statistical tests associated with both 
+methods are valid if certain assumptions are met. Traditional methods assume a 
+normal distribution and SEM assumes multivariate normality. Third, neither 
+approach offers a test of causality. 
+17.6 DIFFERENCES BETWEEN TRADITIONAL 
+METHODS AND SEM  
+Traditional approaches differ from the SEM approach in several areas. First, 
+SEM is a highly flexible and comprehensive methodology. This methodology 
+is appropriate for investigating achievement, economic trends, health issues, 
+family and peer dynamics, self-concept, exercise, self-efficacy, depression, 
+psychotherapy, and other phenomenon. 
+Second, traditional methods specify a default model whereas SEM requires 
+formal specification of a model to be estimated and tested. SEM offers no 
+default model and places few limitations on what types of relations can be 
+specified. SEM model specification requires researchers to support hypothesis 
+with theory or research and specify relations a priori. 
+Third, SEM is a multivariate technique incorporating observed (measured) and 
+unobserved variables (latent constructs) while traditional techniques analyze 
+only measured variables. Multiple, related equations are solved simultaneously 
+to determine parameter estimates with SEM methodology. 
+Fourth, SEM allows researchers to recognize the imperfect nature of their 
+measures. SEM explicitly specifies error while traditional methods assume that 
+measurement occurs without error. 
+Fifth, traditional analysis provides straightforward significance tests to 
+determine group differences, relationships between variables, or the amount of 
+variance explained. SEM provides no straightforward tests to determine model 
+fit. Instead, the best strategy for evaluating model fit is to examine multiple 
+tests (e.g., chi-square, Comparative Fit Index (CFI), Bentler-Bonett Non-
+normed Fit Index (NNFI), Root Mean Squared Error of Approximation 
+(RMSEA)). 
+
+
+--- Page 81 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+82 
+Sixth, SEM resolves problems of multicollinearity. Multiple measures are 
+required to describe a latent construct (unobserved variable). Multicollinearity 
+cannot occur because unobserved variables represent distinct latent constructs.  
+Finally, a graphical language provides a convenient and powerful way to 
+present complex relationships in SEM. Model specification involves 
+formulating statements about a set of variables. A diagram, a pictorial 
+representation of a model, is transformed into a set of equations. The set of 
+equations are solved simultaneously to test model fit and estimate parameters. 
+17.7 CONCEPTS AND TERMINOLOGY USED IN 
+SEM 
+The key elements of essentially all structural equation models are their 
+parameters (often referred to as model parameters or unknown parameters). 
+Model parameters reflect those aspects of a model that are typically unknown 
+to the researcher, at least at the beginning of the analyses, yet are of potential 
+interest to him or her.  
+Parameter is a generic term referring to a characteristic of a population, such 
+as mean or variance on a given variable, which is of relevance in a particular 
+study. 
+A model is a statistical statement about the relations among variables. 
+A path diagram is a pictorial representation of a model. 
+A measured variable (MV) is a variables that is directly measured whereas a 
+latent variable (LV) is a construct that is not directly or exactly measured. 
+A latent variable (LV) could be defined as whatever its multiple indicators 
+have in common with each other. LVs defined in this way are equivalent to 
+common factors in factor analysis and can be viewed as being free from error 
+of measurement. 
+Direct effect is a directional relation between two variables, e.g., independent 
+and dependent variables. 
+Indirect effect is the effect of an independent variable on a dependent variable 
+through one or more intervening or mediating variables. 
+Specification is formulating a statement about a set of parameters and stating a 
+model. 
+Fit indices indicate the degree to which a pattern of fixed and free parameters 
+specified in the model is consistent with the pattern of variances and 
+covariances from a set of observed data. Examples of fit indices are chi-square, 
+CFI, NNFI, and RMSEA. 
+Components of a general structural equation model are the measurement model 
+and the structural model.  
+The measurement model prescribes latent variables, e.g., confirmatory factor 
+analysis. The structural model prescribes relations between latent variables 
+and observed variables that are not indicators of latent variables. 
+Identification involves the study of conditions to obtain a single, unique 
+solution for each and every free parameter specified in the model from the 
+observed data.  
+
+
+--- Page 82 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+83 
+-II The purpose of estimation is to obtain numerical values for the unknown (free) 
+parameters. 
+Exogenous variable—Independent variables not presumed to be caused by 
+variables in the model. 
+Endogenous variables— variables presumed to be caused by other variables in 
+the model. 
+Recursive models assume that all causal effects are represented as 
+unidirectional and no disturbance correlations among endogenous variables 
+with direct effects between them. 
+Non-recursive models are those with feedback loops Model Specification—
+Formally stating a model via statements about a set of parameters. 
+Model Identification—Can a single unique value for each and every free 
+parameter be obtained from the observed data. 
+Evaluation of Fit—Assessment of the extent to which the overall model fits or 
+provides a reasonable estimate of the observed data. 
+Model Modification—adjusting a specified and estimated model by freeing or 
+fixing new parameters. 
+17.7.1 Path Diagrams 
+One of the easiest ways to communicate a structural equation model is to draw 
+a diagram of it, referred to as path diagram, using special graphical notation. A 
+path diagram is a form of graphical representation of a model under 
+consideration. Such a diagram is equivalent to a set of equations defining a 
+model (in addition to distributional and related assumptions), and is typically 
+used as an alternative way of presenting a model pictorially. Path diagrams not 
+only enhance the understanding of structural equation models and their 
+communication among researchers with various backgrounds, but also 
+substantially contribute to the creation of correct command files to fit and test 
+models with specialized programs.  
+For constructing the path diagrams, widely accepted set of conventions for the 
+graphical display of structural equation models can be used. According to these 
+conventions, unobserved variables, also known as latent variables or constructs 
+are represented as circles or ovals and measured variables also known as 
+observed variables, indicators or manifest variables are represented by squares 
+or rectangles. Lines indicate relations between variables; lack of a line 
+connecting variables implies that no direct relationship has been hypothesized. 
+Lines have either one or two arrows. A line with one arrow represents a 
+hypothesized direct relationship between two variables. The variable with the 
+arrow pointing to it is the DV. A line with an arrow at both ends indicates a 
+covariance between the two variables with no implied direction of effect. 
+Latent variables in SEM generally correspond to hypothetical constructs or 
+factors, which are explanatory variables, supposed to reflect a range that is not 
+directly observable. An example is the construct of intelligence. There is no 
+single, definitive measure of intelligence. Instead, researchers use different 
+types of observed variables, such as tasks of verbal reasoning or memory 
+capacity, to assess various facets of intelligence. Latent variables in SEM can 
+represent a wide range of phenomena. For example, constructs about attributes 
+of people (e.g., intelligence, neuroticism), higher-level units of analysis (e.g., 
+
+
+--- Page 83 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+84 
+groups, geographic regions), or measures, such as method effects (e.g., self-
+report, observational), can all be represented as latent variables in SEM. An 
+observed variable used as an indirect measure of a construct is referred to as an 
+indicator. The explicit distinction between factors and indicators in SEM 
+allows one to test a wide variety of hypotheses about measurement. 
+ 
+ 
+1.7.2  Classical SEM Notations 
+These are the c “classical” SEM notation that needs some consideration. ξ (ksi) 
+represents a latent construct associated with observed xi indicators, η (eta) 
+stands for a latent construct associated with observed yi indicators, the error 
+terms δ (delta) and ε (epsilon) are associated with observed xi and yi indicators, 
+respectively. ζ (zeta) is the error term associated with the formative construct. 
+λij represents factor loading in the i-th observed indicator that is explained by 
+
+
+--- Page 84 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+85 
+-II the j-th latent construct. γij represents weight in the i-th observed indicator that 
+is explained by the j-th latent construct. 
+Table 17.1: Summary of abbreviations and descriptions used in the SEM study 
+Symbol Name Description 
+ξ ksi  A latent construct associated with observed x i indicators 
+η eta A latent construct associated with observed y i indicators 
+δi delta The error term associated with observed x i indicators 
+εi epsilon The error term associated with observed y i indicators 
+ζ zeta The error term associated with formative construct 
+λij lambda Factor loading in the i-th observed indicator that is explained by the  
+j-th latent construct 
+γij gamma Weight in the i-th observed indicator that is explained by the j-th latent 
+construct 
+xi  An indicator associated with exogenous construct, i.e. vector of 
+observed exogenous variable 
+yi  An indicator associated with endogenous construct, i.e. vector of 
+observed endogenous variable. 
+17.8  SEM MODELS SPEPECIFICATION  
+There are three diffeerent SEM models based on different specifications. 
+17.8.1   Based on Reflective Indicators 
+The following figure depicts the “classical” SEM case where the model is 
+specified in the reflective mode known as Type A model specification. The 
+case illustrates a path diagram between the two latent constructs ( ξ – 
+exogenous and η – endogenous), with three indicators per construct (xi and yi). 
+This case can be represented by equations 1 and 2:  
+1)  xi = λijξ + δi 
+2)  yi = λijη + εi 
+ 
+This specification assumes that the error term is unrelated to the latent variable 
+COV(η, εi) = 0, and independent COV(εi, εj) = 0, for i ≠ j and expected. 
+ 
+Reflective indicators 
+17.8.2   Based on Formative Indicators 
+Type B model specification, is known as a formative (Fornell&Bookstein 
+1982; cf. Edwards 2001) or causal indicator (Bollen and Lennox 1991), 
+
+
+--- Page 85 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+86 
+because the direction of causality goes from the indicators (measures) to the 
+construct and the error term is estimated  at the construct level. This type of 
+model specification can be represented by equations 3 and 4:  
+3)  ξ = γijxi + ζ   
+4)  η = γijyi + ζ  
+ 
+ 
+ 
+Formative Indicators 
+This specification assumes that the indicators and error term are not related, i.e. 
+COV(yi, ζ) = 0, and E( ζ) = 0 . Formative indicators were introduced for the 
+first time by Curtis and Jackson (1962) and extended by Blalock (1964). This 
+type of model specification assumes that the indicators have an influence on (or 
+that they cause) a latent construct. In other words, the indicators as a group 
+“jointly determine the conceptual and empirical meaning of the construct.  
+The type B model specification would give better explanatory power, in 
+comparison to the type A model specification, if the goal is the explanation of 
+unobserved variance in the constructs. A model is identified if model parameters 
+have only one group of values that create the covariance matrix. In order to resolve 
+the problem of indeterminacy that is related to the construct-level error term, the 
+formative-indicator construct must be associated with unrelated reflective 
+constructs. This can be achieved if the formative construct emits paths to: 
+i) at least two unrelated reflective indicators; 
+ii) at least two unrelated reflective constructs; and 
+iii) one reflective indicator that is associated with a formative construct and 
+one reflective construct. 
+From an empirical point of view, the latent construct captures  
+i) the common variance among indicators in the type A model specification; and  
+ii) the total variance among its indicators in the type B model specification, 
+covering the whole conceptual domain as an entity (cf. Cenfetelli & 
+Bassellier 2009; MacKenzie et al. 2005). 
+Reflective indicators are expected to be interchangeable and have a common 
+theme. Interchangeability, in the reflective context, means that omission of an 
+indicator will not alter the meaning of the construct. In other words, reflective 
+measures should be unidimensional and they should represent the common theme 
+of the construct. Formative indicators are not expected to be interchangeable, 
+because each measure describes a different aspect of the construct’s common 
+theme and dropping an indicator will influence the essence of the latent 
+   x1                         x2                      x3    y1                         y2                      y3 
+
+
+--- Page 86 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+87 
+-II variable. The behavior of measures of the construct with regards to the same 
+antecedents and consequences is an important criterion for the assessment of 
+the construct-indicator relationship. Reflective indicators are interchangeable, 
+which means that measures are affected by the construct, and they must have 
+the same antecedents and consequences. The formative constructs are affected by 
+the measures, thus are not necessarily interchangeable, and each measure can 
+represent a different theme. For the formative indicators, it is not necessary to 
+have the same antecedents and consequences.  
+Internal consistency is implied in the reflective indicators because correlation 
+between variables is must. High correlations among the reflective indicators are 
+essential, because they represent the same underlying theoretical concept. This 
+means that all of the items are measuring the same phenomenon within the 
+latent construct. On the contrary, within the formative indicators, internal 
+consistency is not implied because the researcher does not expect high 
+correlations among the measures. Because formative measures are not required 
+to be correlated, validity of construct should not be assessed by internal 
+consistency and reliability as with the reflective measures, but with other 
+means such as nomological and/or criterion-related validity. 
+17.8.3    Based on both Reflective and Formative Indicators 
+The researcher can create a model that uses both formative and reflective 
+indicators. It is possible for a structural model to have one type of latent 
+construct at the first-order (latent construct) level and a different type of latent 
+construct at the second-order level (Fornell&Bookstein 1982; MacKenzie et al. 
+2005; Diamantopoulos & Siguaw 2006; Wetzels et al. 2009). In other words, 
+the researcher can combine different latent constructs to form a hybrid model 
+(Edwards & Bagozzi 2000; McDonald 1996; Tenenhaus et al. 2005). 
+Development of this model type depends on the underlying causality between 
+the constructs and indicators, as well as the nature of the theoretical concept. 
+The researcher should model exogenous constructs in the formative mode and 
+all endogenous constructs in the reflective mode, 
+i) if one intends to explain variance in the unobservable constructs (Fornell 
+& Bookstein 1982; cf. Wetzels et al. 2009); and 
+ii) in case of weak theoretical background (Wold 1980). 
+Conducting a VBSEM approach in this model, using a PLS algorithm, is equal 
+to redundancy analysis (Fornell et al. 1988; cf. Chin 1998b), because the mean 
+variance in the endogenous construct is predicted by the linear outputs of the 
+exogenous constructs. 
+ 
+
+
+--- Page 87 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+88 
+17.9 ISSUES IN SEM TECHNIQUE  
+17.9.1    Sample Size and Power  
+SEM is based on covariance. Covariance is less stable when estimated from 
+small samples. Therefore, large sample sizes are needed for SEM analyses. 
+Parameter estimates and chi-square tests of fit are also very sensitive to sample 
+size; therefore, SEM is a large sample technique. However, it may be possible 
+to estimate small models with fewer participants if variables are highly reliable. 
+In addition, although SEM is a large sample technique and test statistics are 
+affected by small samples, promising work has been done by Bentler and Yuan 
+(1999) who developed test statistics for small samples sizes. 
+17.9.2    Missing Data 
+Problems of missing data are repeatedly exaggerated in SEM due to the large 
+number of measured variables employed. The researcher who relies on using 
+complete cases only is often left with an inadequate number of complete cases 
+to estimate a model. Therefore missing data attribution is particularly important 
+in many SEM models. When there is evidence that the data are missing at 
+random (MAR; missing data on a variable may depend on other variables in 
+the dataset but the missing data does not depend on the variable itself) or 
+missing completely at random  (MCAR; missing data is unrelated to the 
+variable missing data or the variables in the dataset), the EM (expectation 
+maximization) algorithm to obtain maximum likelihood  (ML) estimates, is 
+appropriate method of imputing missing data. Some of the software packages 
+now include procedures for estimating missing data, including the EM algorithm. 
+EQS 6.1 (Bentler, 2004) produces the EMbased maximum likelihood solution 
+automatically, based on the Jamshidian–Bentler (Jamshidian & Bentler, 1999) 
+computations. 
+LISREL and AMOS also produce EM-based maximum likelihood estimates. 
+but, if the data are not normally distributed, maximum likelihood test 
+statistics— including those based on the EM algorithm—may be quite 
+inaccurate.Multiple imputationis is another option for treatment of missing data. 
+17.9.2    Multivariate Normality and Outliers 
+The most commonly employed techniques for estimating models assume 
+multivariate normality in SEM. It is always useful to examine both univariate 
+and multivariate normality indexes to assess normality. Univariate distributions 
+can be examined for outliers and skewness and kurtosis. Multivariate 
+distributions are examined for normality and multivariate outliers. Multivariate 
+normality can be evaluated through the use of Mardia’s (1970) coefficient and 
+multivariate outliers can be evaluated through evaluation of Mahalanobis 
+distance. Mardia’s (1970) coefficient evaluates multivariate normality through 
+evaluation of multivariate kurtosis. Mardia’s coefficient can be converted to a 
+normalized score (equivalent to az score), often normalized coefficients greater 
+than 3.00 are indicative of non-normality. Mahalanobis distance is the distance 
+between a case and the centroid (the multivariate mean with that data point 
+removed). Mahalanobis distance is distributed as a chi-square with degrees of 
+freedom equal to the number of measured variables used to calculate the 
+centroid. Therefore, a multivariate outlier can be defined as a case that is 
+associated with a Mahalanobis distance greater than a critical distance specified 
+typically by a p < .001.  
+
+
+--- Page 88 ---
+ 
+ 
+•  
+Structural Equation 
+Modeling 
+89 
+-II 17.10 STEPS IN SEM  
+Many contemporary treatments introduce SEM not just as a statistical 
+technique but as a process involving several stages:  
+1) Model specification,  
+2) Model estimation,  
+3) Data-model fit assessment, and  
+4)  Potential model modification, 
+5) Reporting the Results. 
+17.10.1   Initial Model Specification 
+The first step in SEM is model conceptualization or specification. This stage 
+consists of gaining knowledge of the underlying theory on which the particular 
+model will be based. This stage begins with stating the hypothesis in both 
+diagrams and equation form then statistically identifying the model and then 
+evaluating the statistical assumptions that underlie the model.  
+In this phase the model is specified through a diagram. The relations in the 
+diagram are directly translated into equations and the model is then estimated. 
+One method of model specification is the Bentler–Weeks method (Bentler& 
+Weeks, 1980). In this method every variable in the model, latent or measured, 
+is either an IV or a DV. The parameters to be estimated are the (a) regression 
+coefficients, and (b) the variances and the covariances of the independent 
+variables in the model (Bentler, 2001). In the Bentler–Weeks model only 
+independent variables have variances and covariances as parameters of the 
+model. 
+A normally tricky and often confusing topic in SEM is identification. In SEM, 
+a model is specified, parameters (variances and covariances of IVs and 
+regression coefficients) for the model are estimated using sample data, and the 
+parameters are used to produce the estimated population covariance matrix. 
+However, only models that are identified can be estimated. A model is said to 
+be identified if there is a unique numerical solution for each of the parameters 
+in the model. The first step consists of counting the number of data points and 
+the number of parameters that we want to estimate. The data in SEM are the 
+variances and covariances in the sample covariance matrix. The number of data 
+points is the number of non redundant sample variances and covariances, 
+where p equals the number of measured variables. The number of parameters is 
+established by adding together the number of regression coefficients, variances, 
+and covariances that are to be estimated. There should be more data points than 
+parameters to be estimated for the estimation of model. 
+Hypothesized models are said to be over identified if there are more data than 
+parameters to be estimated. The model is said to be just identified if, there are 
+the same numbers of data points as parameters to be estimated. In this case, the 
+estimated parameters perfectly reproduce the sample covariance matrix and the 
+chi-square test statistic and degrees of freedom are equal to zero, hypotheses 
+about the adequacy of the model cannot be tested. However, hypotheses about 
+specific paths in the model can be tested. The model is said to be under 
+identified if there are fewer data points than parameters to be estimated, and 
+parameters cannot be estimated. The number of parameters needs to be reduced 
+
+
+--- Page 89 ---
+ 
+ 
+•  
+Quantitative Methods-II 
+90 
+by fixing, constraining, or deleting some of them. A parameter may be fixed by 
+setting it to a specific value or constrained by setting the parameter equal to 
+another parameter. Examining the measurement portion of the model is the 
+second step in determining model identifiability. The measurement part of the 
+model deals with the relationship between the measured indicators and the 
+factors. 
+Factors, are hypothetical constructs and consist of common variance, as such 
+they have no intrinsic scale and therefore need to be scaled. Measured variables 
+have scales, for example, income may be measured in dollars or weight in 
+pounds. To establish the scale of a factor, the variance for the factor is fixed to 
+1.00, or the regression coefficient from the factor to one of the measured 
+variables is fixed to 1.00. Fixing the regression coefficient to 1 gives the factor 
+the same variance as the common variance portion of the measured variable. If 
+the factor is an IV, either alternative can be applied. If the factor is a DV the 
+regression coefficient is set to 1.00. Not setting the scale of a latent variable is 
+easily the most common error made when first identifying a model. Next, to 
+establish the identifiability of the measurement portion of the model the 
+number of factors and measured variables are examined. If there is only one 
+factor, the model may be identified if the factor has at least three indicators 
+with nonzero loading and the errors (residuals) are uncorrelated with one 
+another. If there are two or more factors, again consider the number of 
+indicators for each factor. 
+If each factor has three or more indicators, the model may be identified if errors 
+associated with the indicators are not correlated, each indicator loads on only 
+one factor and the factors are allowed to co-vary. If there are only two 
+indicators for a factor, the model may be identified if there are no correlated 
+errors, each indicator loads on only one factor, and none of the covariances 
+among factors is equal to zero. 
+17.10.2   Model Estimation 
+The next step in SEM is to evaluate and estimate population parameters. The 
+purpose of estimation is to minimize the difference between the structured and 
+unstructured estimated population covariance matrices.  
+F = (s – s(Q))W(s – s(Q)),  
+To accomplish this goal a function, F, is minimized where, s is the vector of 
+data (the observed sample covariance matrix stacked into a vector); s is the 
+vector of the estimated population covariance matrix (again, stacked into a 
+vector) and(Q) indicates that s is derived from the parameters (the regression 
+coefficients, variances and covariances) of the model. W is the matrix that 
+weights the squared differences between the sample and estimated population 
+covariance matrix. 
+In EFA the observed and reproduced correlation matrices are compared. This 
+idea is extended in SEM to include a statistical test of the differences between 
+the estimated structured and unstructured population covariance matrices. If the 
+weight matrix, W, is chosen correctly, at the minimum with the optimal, F 
+multiplied by (N – 1) yields a chi-square test statistic. 
+There are many different estimation techniques in SEM, these techniques vary 
+by the choice of W.  

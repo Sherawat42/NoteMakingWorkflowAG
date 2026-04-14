@@ -1,0 +1,641 @@
+--- Page 70 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+70 
+2) What is the existing base year for constructing unit value Index and 
+quantum index by DGCI&S? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) What are the reasons for divergence between two sources of trade data? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+4) List the various transactions covered in the ‘net invisibles’. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+23.3 FINANCE  
+The finance sector consists of public finances, the central bank or the Reserve 
+Bank of India, the scheduled banks, urban and rural cooperative banks and 
+related institutions. The financial market consists of the stock exchanges 
+dealing with scripts like shares, bonds and other debt instrument, the primary 
+and secondary markets, the foreign exchange market, the treasury bills market 
+and the securities market where financial institutions, mutual funds, foreign 
+institutional investors, market intermediaries, the market regulator the 
+Securities Exchange Board of India (SEBI), the banking sector and the RBI all 
+play important roles.  It also has the insurance (life and general) and pension 
+funds as well as their respective regulators, i.e., the Insurance Regulatory and 
+Development Authority (IRDA) and the Pension Funds Regulatory and 
+Development Authority (PFRDA). It has the holding companies, which invest 
+in various subsidiaries and controls its operations through its stocks 11. There is 
+also the unorganized sector made up of financial operators like individual 
+money-lenders and pawn shops, insurance agents, unregistered stock brokers/ 
+                                                            
+ 
+11  One example of a Holding Company is Tata Sons, whose subsidiaries include TISCO, TCS, 
+Tata Motors, Tata Housing, etc. 
+
+
+--- Page 71 ---
+ 
+ 
+71
+Trade and Finance sub-brokers, etc. In the System of National Accounts, 2008 (SNA 2008) 12, the 
+financial sector has been sub-divided into nine sub-sectors, depending on its 
+type of business. 
+23.3.1 Public Finances 
+What would we like to know about public finances? We would like to know 
+how they are managed. What are the sources of such finances and how and on 
+what are they spent? Does the Government restrict its expenditure within its 
+means or does it spend beyond the resources available to it? Does it, in the 
+process, borrow heavily to finance its expenditure? The Budget documents of 
+the Central and State Governments, the pre-Budget Economic Survey of the 
+ministry of finance and the Reserve Bank of India (RBI) Handbook of 
+Statistics on the Indian Economy 2005 and the Monthly Bulletin of the RBI 
+provide a variety of data on public finances. The National Accounts Statistics 
+of the CSO, MoSPI also provides the output, GVA, gross savings, etc. of the 
+financial sector and its various sub-sectors. EPWRF website will also help to 
+access data in a time series format on public finances.The Economic Survey, 
+for instance, gives an overall summary of the budgetary transactions of the 
+Central and State governments and Union Territory Administrators. This 
+includes the internal and extra-budgetary resources of the public sector 
+undertakings for their plans. It indicates the total outlay, the current revenues, 
+the gap between the two, the manner in which the gap is financed by net 
+internal and external capital receipts and finally, the overall budgetary deficit. 
+It gives the break-up of the outlay into developmental and non-developmental 
+outlays and the components of the latter, the components of current revenues-
+tax revenue and non-tax revenue – and sub-components of these and the 
+components of internal and external capital receipts. The RBI Handbook 
+2013-14 presents the following time series data in respect of public finances. 
+a) Central Government Finances 
+i) Key deficit indicators 13 of the Central Government – gross fiscal 
+deficit, gross primary deficit, net primary deficit, revenue deficit, 
+primary revenue deficit, drawdown of cash balances, net RBI credit 
+from 1975-76 onwards; 
+ii) Major components of Central Govt. Receipts – tax revenue (direct and 
+indirect taxes and their components) non-tax revenue (one of its 
+important components is interest receipts) and capital receipts; 
+                                                            
+ 
+12  Discussed in Unit 20 in the discussion on National Accounts Statistics. 
+13  GFD  = total expenditure including loans (net of recovery) – revenue receipts (including 
+external grants and non-debt capital receipts); NFD = GFD – net lending of the Central 
+Govt; GPD = GFD – interest payment; NPD = net interest payments; RD = revenue 
+receipts – revenue expenditure; PRD = RD – interest payment; BD (Conventional Deficit) 
+= all expenditure (revenue and capital) – all receipts (revenue and capital); with the 
+discontinuation of ad hoc treasury bills and 91-day treasury bills, the concept of 
+conventional budget deficit has lost its relevance since 1/4/97. The figures shown against 
+BD from 1997-98, therefore, represent draw down of cash balances from RBI; Net RBI 
+Credit to Govt.  = the sum of variations in the RBI’s holdings of (i) Central Govt. dated 
+securities, (ii) treasury bills, (iii) Rupee coins, and (iv) loans and advances from RBI to the 
+Central Govt. since 1/4/97 adjusted for changes in the Central Govt.’s cash balances with 
+the RBI in the case of the Centre.  
+
+
+--- Page 72 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+72 
+iii) Major14 heads of capital receipts of the Central Government – market 
+borrowings, small savings, provident funds15, special deposits, recoveries 
+of loans, disinvestments receipts16, external loans (net);  
+iv) Major heads of Central Govt. expenditure – revenue expenditure and 
+its important components (defence, interest payments and subsidies), 
+capital expenditure including loans and advances and defence 
+expenditure; also the breakup of expenditure into developmental and 
+non-developmental heads and the shares of economic services and 
+social services in developmental expenditure; 
+v) Centre’s gross fiscal deficit and its financing – GFD receipts, GFD 
+expenditure, Gross Fiscal Deficit, financing of GFD through external 
+financing and internal financing (market borrowings, other borrowings, 
+draw down of cash balances); 
+vi) Gross capital formation from budgetary resources of the Central 
+Government – fixed assets, work stores, increase in stocks of foodgrains 
+& fertilisers, gross financial assistance for capital formation to State 
+Governments, Non-Departmental Commercial Undertakings (NDCUs)17 
+and others; 
+vii) Public sector Plan outlay, its sectoral profile and the manner in which 
+it is financed – from sources like own resources, domestic market 
+borrowings and net capital inflow from abroad; 
+viii) Financing of Public Sector Plan – balance from current revenue, 
+contribution of public enterprises, borrowings (including long and 
+medium term borrowings), small savings, deficit financing, net capital 
+inflow from abroad, central assistance and others. 
+b) Finances of the State Governments 
+i) Key deficit indicators of the State Governments – fiscal deficit, gross 
+primary deficit, revenue deficit, primary revenue deficit, overall deficit, 
+net RBI credit to States (annual variation) from 1975-76 onwards; 
+ii) Pattern of receipts of the State Government – total Revenue receipts: 
+tax receipts (like sales tax and State excise duties), the share of Central 
+taxes like income tax and union excise duties; and non-tax receipts like 
+interest receipts, grants from the Centre, total capital receipts; 
+iii) Pattern of major capital receipts of the State Government – loans from 
+centre, recovery of loans and advances, market loans, State provident 
+fund (net), special securities issued to NSSF; 
+iv) Expenditure pattern – revenue and capital expenditure; capital outlay, 
+loans and advances by State Government, developmental expenditure 
+and the shares of economic services and social services in it and non-
+developmental expenditure and the shares of interest payments, 
+administrative services and pension and miscellaneous general 
+services; 
+                                                            
+ 
+14  Adjusted for changes in classification effected in 1974-75 and 1987-88. 
+15  Only Govt. provident funds, as the Public Provident Fund (PPF) is part of small savings 
+since 1998-99. 
+16  These are not to be treated as budgetary receipts as these are to be credited to a separate 
+fund. 
+17 NDCU means the Central and State Public Sector Units 
+
+
+--- Page 73 ---
+ 
+ 
+73
+Trade and Finance v) States’ Gross Fiscal Deficit and its financing – loans from Central 
+Government, market borrowings, special securities issued to NSSF and 
+others, 
+vi) Outstanding liabilities of the State Governments. 
+c) Combined Finances of Central and State Governments 
+i) Combined deficit; 
+ii) Receipts and Disbursements; 
+iii) Direct and Indirect tax revenues; 
+iv) Developmental and non-developmental expenditure; 
+v) Market borrowings; 
+vi) Interest rates on dated securities (Range and weighted averages) of 
+Central and State Government; 
+vii) Outstanding liabilities; 
+viii) Ownership of Central and State Govt Securities – 11 categories like 
+RBI, scheduled commercial banks, cooperative banks, primary 
+dealers, insurance companies, financial institutions, mutual funds, 
+provident funds, corporates, foreign institutional investors and others; 
+d) Transactions with the Rest of the World 
+We have enumerated the kind of data available on Central and State 
+Government finances. But these relate mainly to domestic finances and 
+transactions. What about our transactions with the rest of the world? We 
+have looked at one of these, namely, trade in merchandise and services in 
+the section on trade. There are a number of other areas in which India 
+interacts with the rest of the world. Foreign exchange flows into the country 
+as a result of exports from India, external assistance/aid/loans/borrowings, 
+returns from Indian investments abroad, remittance and deposits from Non-
+Resident Indians (NRI) and foreign investment (foreign direct investment – 
+FDI – and portfolio investment) in India. Foreign exchange reserves are 
+used up for purposes like financing imports, retiring foreign debts and 
+investment abroad. What is the net result of these transactions on the 
+foreign exchange reserves? What are the trends in these flows and their 
+components? What is the size of the current account imbalance relative to 
+GDP and its composition? If it is a deficit is it investment-driven? What is 
+the size of foreign exchange reserves relative to macro-aggregates like 
+GDP, the size of imports and the size of the short-term external debt 18?  
+                                                             
+18  One can measure the size of the forex reserves as equivalent to so many weeks or months of 
+imports. Alternatively, one can relate it to financial stability. The Guidotti-Greenspan Rule 
+sets a standard for this. According to this rule, reserves should equal one year’s short-term 
+debt. Yet another way of examining the size of the reserves is to look at it is terms of its 
+opportunity cost. The reserves earn a zero real return measured in domestic terms. If on the 
+other hand, these are invested either domestically in infrastructure or in a fully diversified 
+long-term way in global markets, substantial incremental benefits would accrue to the 
+domestic economy. [see the Hindu, April 3, 2006, page 17 “Intriguing Pattern of Global 
+Capital Flows” excepts from the L.K. Jha Memorial Lecture delivered recently 
+(March 24, 2006) in Mumbai by Prof. Lawrence Summers. President of Harvard 
+University and former Secretary of the Treasury in the Clinton Administration, at the 
+invitation of the RBI.] The full text of the lecture may also be published in the RBI 
+Monthly Bulletin. The lecture discusses the implications of the rising forex reserves of the 
+developing countries and the opportunities and challenges that these present.  
+
+
+--- Page 74 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+74 
+The RBI Handbook 2013-14 gives time series data (which are often in 
+US$ as well as in Indian Rupees) on a number of these parameters: 
+i) India’s overall BoP showing current account and capital account and key 
+components of these like trade balance, invisible 19, types of foreign 
+investment, net external assistance, net commercial borrowing, rupee debt 
+service and net NRI deposits. It also shows monetary movements in terms 
+of increase/decrease in forex/reserves, IMF and SDR allocation, 
+ii) Exchange rate of Indian Rupee vis-à-vis US $, UK £, DM/ € and Japanese 
+¥ from 1975 onwards (calendar year – annual average, financial year – 
+annual average and end year rates), 
+iii) Real Effective Exchange Rate (REER) and Nominal Effective Exchange 
+Rate (NEER) of Indian Rupee based on 36 country bilateral weights with 
+base 2004-05 from calendar year 2005 onwards, 
+iv) Indices of REER and NEER, 
+v) External assistance in the form of loans and grants from 1985-86 onwards 
+(in US $ and Indian Rupees), authorization, utilization and debt service 
+payments, 
+vi) NRI deposits outstanding (in US $ and Indian Rupees) from 1996 
+onwards in different types of accounts like NR (E)RA, FCNR(A), 
+FCNR(B), NR(NR)RD, NRO, FC (B&O)D, FC(O)N and total. It has 
+increased from US $17.446 billion in 1996 to US $103.844 in 2014, 
+vii) Foreign investment inflows (in US $ and Indian Rupees) namely, gross 
+investments, repatriation/ disinvestment, FDI by India, net foreign direct 
+investment, net portfolio investment from 2000-01 onwards, 
+viii) Foreign exchange reserves (in US $ and Indian Rupees) from 1956-57 
+onwards, 
+ix) India’s external debt (in US $ and Indian Rupees) from 1996 onwards 20, 
+which, inter alia, provides concessional debt as percentage of total debt, 
+short term debt as % to total debt, debt stock-GDP ratio (%) and debt 
+service ratio (%). 
+FDI has assumed importance in the context of the country’s efforts to meet the 
+increasing need for investment capital for its expanding economy. Data on FDI 
+are important. These are available from August, 1991 onwards. FDI data 
+collected by RBI and the Department of Industrial Policy & Promotion 
+(DIPP) in the Ministry of Commerce & Industry before 2000 related only to 
+equity capital. The coverage of the data has since then has been expanded so 
+that these are in accordance with the best international practices. FDI data 
+collected by RBI now cover (a) equity capital, (b) reinvested earnings (retained 
+earnings of FDI companies); and (c) other capital (inter-corporate debt 
+transaction between related entities). FDI data from 2000-01 onwards are, 
+therefore, not comparable with data of earlier years. The Department of 
+                                                            
+ 
+19  The component transactions that make up ‘invisible’ have been enumerated in the section 
+on Trade – Services. 
+20  The debts are classified into I. Multilateral, II. Bilateral, III. International Monetary Fund, 
+IV. Trade credit, V. Commercial borrowing, VI. NRI & FC (B&O) deposits, VII. Rupee 
+debt, VIII. Total long-term debt, IX. Short-term debt and X. Gross total debt. Most of the 
+groups have sub-groups A. Government borrowing, and B. Non-Government borrowing, 
+further disaggregated into concessional and non-concessional borrowing. 
+
+
+--- Page 75 ---
+ 
+ 
+75
+Trade and Finance Industrial Policy and Promotion of the Ministry of Commerce and Industries 
+publishes monthly data on FDI inflow in India 21. It presents time series data on 
+the break-up of FDI flows by 
+1) Cumulative FDI inflows (equity inflows + reinvested earnings + other 
+capital) from 2000 – 2014, 
+2) Cumulative amount of FDI equity inflows (excluding amount remitted 
+through RBI’s + NRI schemes), 
+3) FDI inflows during the financial year till that month, 
+4) FDI equity inflows (month-wise) during that financial year and that 
+calendar year, 
+5) Share of top investing countries FDI equity inflows, 
+6) Sectors attracting highest FDI equity inflows, showing 10 different areas, 
+like service sector, construction development, telecommunication, 
+computer software and hardware, drugs and pharmaceuticals, automobile 
+industry, chemicals (other than fertilisers), power, metallurgical industries, 
+hotel and tourism, 
+7) Statement of RBI’s regional offices (with State covered) received FDI 
+equity inflows, 
+8) Country-wise FDI equity inflows from April 2000 onwards (from 140 
+countries, FIIs, NRI), 
+9) Sector-wise FDI equity inflows from April 2000 onwards (showing 63 
+industrial sectors). 
+The RBI handbook 2013-14 and the SEBI Handbook of Statistics of Indian 
+Securities Market22 present time series on FII. The SEBI handbook, gives 
+i) Foreign Investment Inflows, 
+ii) Trends in FII to portfolio investment, 
+iii) Trends in resource mobilization by mutual funds, 
+iv) International Securities Market (market capitalization, no. of listed 
+companies, value of shares traded, no. of trading days,  
+v) International Fixed Income Market (no. of bonds listed, value. of bonds 
+listed, value of bonds traded), 
+vi) International Derivatives market (stock options, stock futures, stock index 
+options, stock index futures). 
+FDI data can also be accessed in the RBI website www.rbi.org.in. 
+  
+                                                            
+ 
+21  You can visit the site 
+http://dipp.gov.in/English/Publications/FDI_Statistics/FDI_Statistics.aspx#MainContent to 
+get the monthly FDI inflow. 
+22  http://www.sebi.gov.in/sebiweb/home/list/4/32/0/0/Handbook%20of%20Statistics 
+
+
+--- Page 76 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+76 
+Check Your Progress 2 
+1) Name the documents that provide different kinds of data on public finances. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) What is the difference between Gross Fiscal Deficit (GFD) and Net Fiscal 
+Deficit (NFD)? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) Identify the transactions other than trade in merchandise that India has 
+with the rest of world. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+23.3.2 Currency, Coinage, Money and Banking 
+Economic transactions need a medium of exchange. We have come a long way 
+from the days of barter and come to the use of money and equivalent financial 
+instruments as the medium of exchange. Banks function as important financial 
+intermediaries not only in this process but also in matters of resource 
+mobilization and the deployment of such resources. The central bank of the 
+country (the RBI in India) regulates the functioning of banking system. In 
+addition, it issues currency notes and takes steps to regulate the money supply 
+in the economy in order to achieve the objectives of ensuring adequate credit to 
+development activities and at the same time to maintain stability in prices. We 
+should, therefore, be interested in data on money supply or the stock of money 
+and its structure and the factors that bring about changes in these, the kind of 
+aggregate that need monitoring, the transactions in the banking system in 
+pursuance of the nation’s development objectives, the flow of credit to 
+different activities, indicators of the health and efficiency of banks which are 
+the custodians of the savings of the public. We should also be interested in data 
+on prices as price level affects the purchasing power of money and indices of 
+
+
+--- Page 77 ---
+ 
+ 
+77
+Trade and Finance prices appropriate for the purpose/group in question – consumer prices for 
+producers and different groups of consumers. 
+Most of these of data are compiled by the RBI on the basis of its records and 
+those of NABARD and returns that it receives from banks and can be found in 
+RBI Bulletins and RBI handbook . The wholesale Price Index (WPI) is 
+compiled by the Economic Advisor’s Officer in the Ministry of Industry, the 
+Consumer Price Index for Industrial Workers (CPI – IW) and CPI for 
+Agricultural Labour (CPI -  AL) by the Labour Bureau, Shimla, Ministry of 
+Labour and CPI for rural and urban (CPI – Rural, CPI-Urban and CPI 
+Rural+Urban) by the CSO. All these are published by the agencies concerned 
+and also presented in the RBI and CSO publications mentioned above. The 
+Consumer Price Index released on 12 th of each month by the CSO also 
+provides retail prices of selected commodities/services, separately for the rural 
+and urban areas in India. Two other reports of the Reserve Bank of India 
+published every year – the Report on Currency and Finance and the Report 
+on Trends in Banking provide a wealth of information of use to analyse. The 
+RBI also maintains an online database in searchable format, where one can 
+select the parameters for which one need to use the data. You can also right 
+click on the selected page, copy the data necessary for your analysis and paste 
+it on a blank excel workbook to carry out your own analysis 23. The EPWRF 
+website also provides data on Banking, Money and Finance. 
+The RBI Handbook 2013-14 presents time series data on 
+i) Liabilities and assets of the RBI, 1980 onwards. The liabilities are deposits 
+from Central Government, State Governments, Scheduled Commercial 
+Banks, Scheduled State Co-operative Banks, Non-Scheduled Co-operative 
+Banks, other Banks and others. The assets are notes and coins, balances 
+held abroad, loans and advances to Central and State Govts. banks and 
+other agencies,  bills purchased and discounted, investments and other 
+assets; 
+ii) Components of money stock, namely, Reserve Money (M 0) made up of 
+currency in circulation, other deposits with RBI and bankers’ deposits with 
+RBI, currency with the public (= currency in circulation – cash with bank), 
+Narrow Money (M1) consisting of currency with the public, other deposits 
+with RBI and demand deposits and Broad Money (M3) comprising Narrow 
+Money and time deposits; 
+iii) Sources of money stock consisting of net RBI credit to Central Government, 
+net RBI credit to State Government, other banks’ investments in Government 
+securities, RBI credit to commercial sector, Other banks’ credit to 
+commercial sector, net foreign exchange assets of the RBI, net foreign 
+exchange assets of other banks, Government’s currency liabilities to 
+public, net non-monetary liabilities of RBI, net non-monetary liabilities of 
+other banks, RBI’s gross claims on banks;  
+iv) Average monetary aggregates, like currency with the public, demand 
+deposits, time deposits, other deposits with the RBI, reserve money, 
+narrow money, broad money, net bank credit to Government, bank credit 
+to governmental sector, net foreign exchange assets of the banking sector, 
+                                                            
+ 
+23 See the link http://dbie.rbi.org.in/DBIE/dbie.rbi?site=home 
+
+
+--- Page 78 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+78 
+Government’s currency liabilities to the public, banking sector’s net non-
+monetary liabilities; 
+v) Major monetary policy rates and reserve requirements: bank rate, LAF 
+(REPO, reverse REPO, and MSF) rates, CRR and SLR; 
+vi) Monthly data series on the detailed composition of each of the components 
+of the money stock (the “C” components) and the composition of 
+individual sources of change in the money stock; also defining new 
+monetary aggregates 24 NM 2 and NM 3, these being respectively equal to 
+“M1 + short-term time deposits” and “[NM 2+ long-term deposits + 
+call/term funding from Financial Institutions (FIs)] = [domestic credit + 
+Government’s currency liability to the public + net forex assets of the 
+banking sector – capital account – other items (net)]; 
+vii) Monthly data series on Liquidity Aggregates 25, namely, L1= NM3 + Postal 
+deposits26; L 2 = L 1 + liabilities 27 of FIs; L 3 = L 2 + public deposits with 
+NBFCs28 (L3 is compiled on a quarterly basis); 
+viii) Monthly average price of gold and silver in domestic (Mumbai) and 
+foreign markets; 
+ix) Selected Aggregates of Scheduled Commercial Banks (SCBs) like 
+outstanding demand and time deposits, investment in Govt. and other 
+securities, bank credit (food and non-food), cash in hand and balance with 
+the RBI. 
+x) Deployment of non-food credit to priority sector and its sub-sectors (like 
+agriculture, small scale industries), industry and its groups, whole sale 
+trade and export credit; and short and long term direct and indirect 
+institutional credit to agriculture and allied activities and to farmers by size 
+of holdings; 
+xi) Consolidated balance sheets of SCBs; Gross and net Non-Performing 
+Assets (NPAs) of SCBs by bank groups 29; Distribution of SCBs and 
+different sub-group of SCBs by Capital to Risk-weighted Assets Ratio 
+(CRAR);30 and 
+xii) Important banking indicators of Regional Rural Banks (RRBs), State 
+Cooperative Banks, Primary Agricultural Coop. Societies (PACS), State 
+Coop. Agricultural and Rural Development Banks and Primary Coop. 
+(A&RD) Banks; 
+                                                            
+ 
+24 See footnote 19. 
+25  The methodology for compiling liquidity aggregates is available in the “New Monetary and 
+Liquidity Aggregates” in the RBI Bulletin of November, 2000. The acronyms NM2and NM3 
+are used to distinguish the new monetary aggregates from the existing monetary aggregates. 
+26  Post office SB deposits + PO time deposits + PO recurring deposits + other deposits + PO 
+Cumulative Time Deposits. 
+27  Term money borrowings + CDs + term deposits. 
+28  Non-Banking Financial Companies. Estimates of public deposits are generated on the basis 
+of a sample study of more than 1000 NBFCs with public deposits of Rs. 20 crores or more. 
+29 1) public sector banks, 2) old private sector banks, 3) new private sector banks, and 4) 
+foreign banks in India. 
+30  The detailed instructions issued by the RBI on CAR (Capital Adequacy Ratio) or CRAR 
+can be seen at http://rbi.org.in/scripts/BS_ViewMasCirculardetails.aspx?Id=8133&Mode=0. 
+SCBs had to comply with a minimum CRAR of 8 per cent up to the end of March, 1999 and 
+9 per cent from the end of March, 2000. The sub-group 1 in the footnote 25 is split into two 
+sub-groups – SBI group and nationalized banks. 
+
+
+--- Page 79 ---
+ 
+ 
+79
+Trade and Finance 23.3.2 Financial Markets 
+What would we like to know about the financial market and its functioning? 
+We should like to know about the ways in which financial resources can be 
+accessed and at what cost. What are the prevailing interest rates payable for 
+funds to meet short-term or long-term requirements? How do new ventures 
+access the large amount of resources that are need for the new ventures? How 
+do term lending institutions access funds required for their operations? What 
+are the sources of funds? 
+The RBI, which regulates banking operations and the operations of the NBFCs 
+and FIs and the Securities Exchange Board of India (SEBI), which regulates 
+the capital market, and the Department of Company Affairs that administers 
+the Companies Act, are the major sources of data on financial markets. The 
+RBI Handbook of Statistics of the India Economy – 2013-14 31 and the 
+Handbook of statistics on the Indian Securities Market - 2014 32 published 
+by SEBI contain comprehensive data on the financial market. The two together 
+provide annual time series data on several aspects of the financial market: 
+i) The structure of interest rates – call/notice money rates, commercial bank 
+rate, lending rates of banks, prime lending rates (PLR) of term lending 
+institutions like IDBI, dividend and yields of the units of UTI, annual 
+gross redemption yields of Govt. Securities and average annual price and 
+yield rate of Central Govt. securities (SGL transactions); 
+ii) Financial assistance sanctioned and disbursed and financing of project 
+cost of companies by FIs, loans sanctioned by HDFC and NABARD, and 
+refinancing operations of National Housing Bank (NHB); 
+iii) Aggregate deposits of NBFCs and Non-Banking Non-Financial Companies 
+(NBNFCs)33 ; 
+iv) Taxable and tax-free bonds issued by public sector undertakings – both 
+public issue of bonds and privately placed bonds; 
+v) Resource mobilization in the Private Placement Market – financial and 
+non-financial institutions in the public and private sector; 
+vi) Net resources mobilized by mutual funds (MFs) – MFs sponsored by 
+banks, financial institutions (FIs), UTI and the private sector; 
+vii) New capital issues (number and amount mobilized) by non-govt. public 
+Ltd. Companies; 
+                                                            
+ 
+31  Also available on the RBI website http://www.rbi.org.in . In fact, the entire Handbook is 
+available on the website. The web version can be downloaded from the website. For some 
+of the financial market data longer time series are provided in the CD ROM and web 
+versions. The CD ROM now incorporates intelligent search features that allows for searches 
+across tables, enabling users to select one or more of any data series for any selected time 
+period from any table in the handbook in a user-friendly manner. The data can be 
+downloaded in the form of a user-defined spreadsheet table that can be read by most 
+standard econometric software. 
+32  Copies can be had from Research Deptt., SEBI, World Trade Centre I, 29 th floor, Cuffe 
+Parade, Mumbai-400 005. This is also available on the website of SEBI – 
+www.sebi.gov.in
+and can be downloaded from the website. 
+33  After the new regulatory framework for NBFCs came into force in 1998, the NBFCs and 
+Residuary NBCs. 
+
+
+--- Page 80 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+80 
+viii) Absorption of private capital issues – the no. of issuing companies, the 
+number of shares and amount subscribed by promoters etc., and Govt., 
+FLs etc., and the number of shares and amount subscribed by public, 
+other than underwriters and other groups; 
+ix) Investments of LIC by sector and instrument and of UTI by instrument; 
+x) Assets and liabilities of institutions like IDBI, NABARD, EXIM Bank, 
+NHB and SIDBI; 
+xi) Annual averages share price indices – BSE SENSEX (base 1978-79 
+=100), BSE National (base 1983-84 = 100) and RBI Index (base 1980-81 
+= 100) and Market Capitalisation34; 
+xii) Market intermediaries like stock exchanges (cash and derivatives 
+market), brokers, corporate brokers, sub-brokers, custodians, FIIs, 
+depositories, merchant bankers, bankers to issues and underwriters 
+registered with SEBI; and registered brokers by stock exchanges and by 
+ownership categories – proprietary, partnership and corporate; (SEBI); 
+xiii) Long-term capital raised during 1957-90 (pre-reform period) through 
+shares, debt and loans; (SEBI); 
+xiv) Annual and monthly data series on resources raised by the corporate 
+sector through (i) equity issues and (ii) debt issues (public issues and 
+private placement) and the share of private placement in total debt and 
+total resource mobilization and the share of debt in total resource 
+mobilization; (SEBI); 
+xv) Pattern of funding for non-govt, non-financial public limited companies – 
+I. Internal sources [(i) reserves and surplus, and (ii) depreciation], and II. 
+External sources [(paid up capital through new issues and premium), 
+borrowings (debentures, from loans and from FIs) and trade dues and 
+other current liabilities]; (SEBI); 
+xvi) Annual and monthly series on resources mobilized, instrument wise, from 
+the primary market – number and amount mobilized by category of issue 
+(public issue and rights issue); by type of issues [by listed companies and 
+initial Public Offerings (IPO)]; by equities at par and equities at a 
+premium; cumulative convertible preference shares (CCPS); bonds; and 
+others; (SEBI); 
+xvii) Annual and monthly series of data on capital raised by (i) industrial 
+(economic activity) classification (banks/FIs), industries like electronics, 
+and engineering, entertainment, finance etc.; (ii) size of capital raised; 
+(iii) sector (public and private); and (iv) region (north, east, south and 
+west); (SEBI); 
+xviii) Annual and monthly data series on the number and quantum of Euro 
+Issues; (SEBI); 
+                                                            
+ 
+34 The compilation of the RBI Index was discontinued from 1999-00. The compilation of 
+market capitalization – all India was discontinued by BSE since 1999-00. The SEBI 
+Handbook provides data on market capitalization – all India from 1999-00 as given in the 
+publication of the National Stock Exchange (NSE). 
+
+
+--- Page 81 ---
+ 
+ 
+81
+Trade and Finance xix) Annual and monthly data series on transactions of MFs on the Stock 
+Exchanges – gross purchases and sales and net purchase/sales in (a) 
+equity, and (b) debt; (SEBI); 
+xx) Trends on trading on stock exchanges – the number of shares traded and 
+the number and value of shares delivered; (SEBI); 
+xxi) Indicators of liquidity – Market capitalization – GDP ratio (BSE), market 
+capitalization – GDP ratio (NSE), turnover ratio – BSE, traded value ratio 
+– BSE, traded value ratio – NSE; (SEBI); 
+xxii) Trends in foreign investment flows – direct and portfolio investment; 35 
+(SEBI); 
+xxiii) Annual and monthly series on trends in FII investment – gross purchases 
+and sales and net investment; (SEBI); 
+xxiv) Comparative evaluation of Indices through Price to Earnings Ratio and 
+Price to Book Ratio (these are monthly averages of closing values) for 
+BSE SENSEX, BSE 100 Index, S&P CNX NIFTY, CNK NIFTY Junior; 
+(SEBI); and 
+xxv) Survey of investor households – a joint effort of SEBI and the National 
+Council of Applied Economic Research – result giving an estimate of 
+investor and non-investor households by type of investment, household 
+by type of instruments invested in and so on. 
+Check Your Progress 3 
+1) Which document does contain the methodology for compiling liquidity 
+aggregates? 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+2) List the kind of time series data available in RBI Handbook 2013-14. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+………………………………………………………………………………. 
+                                                            
+ 
+35 Figures from 1995-96 include acquisition of shares of Indian companies by non-residents 
+under S/6 of FEMA, 1999. Those from 2000-01 have been revised with expanded coverage 
+to approach international best practices and are, therefore, not comparable with earlier data. 

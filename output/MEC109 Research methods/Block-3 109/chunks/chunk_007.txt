@@ -1,0 +1,474 @@
+--- Page 58 ---
+ 
+ 59
+I Measures of Inequality
+UNIT 11   MEASURES OF INEQUALITY 
+ 
+Structure 
+11.0 Objectives 
+11.1 Introduction 
+11.2 Positive Measures 
+11.2.1 Relative Range 
+11.2.2 Relative Inter-Quartile Range 
+11.2.3 Relative Standard Variation 
+11.2.4 Standard Deviation of Logarithms 
+11.2.5 Champernowne Index 
+11.2.6 Hirschman-Herfindahl Indices 
+11.2.7 Kolm’s Index 
+11.3 Gini Index 
+11.3.1 Gini as a Measure of Dispersion 
+11.3.2 Simple Computational Device 
+11.4 Lorenz Curve 
+11.4.1 Geometrical Definition 
+11.4.2 Properties of Lorenz Curve 
+11.4.3 A Measure Based on Area 
+11.4.4 A Measure Based on Length 
+11.5 Normative Measures 
+11.5.1 Dalton Index 
+11.5.2 Atkinson Index 
+11.5.3 Sen Index 
+11.5.4 Theil Entropy Index 
+11.6 Let Us Sum Up 
+11.7 Key Words  
+11.8 Exercises 
+11.9 Some Useful Books 
+11.10 Answers or Hints to Check Your Progress Exercises 
+11.0 OBJECTIVES 
+After going through this Unit, you will be able to: 
+• explain the various positive measures of inequality; 
+• discuss the computational device for construction of Gini index; and 
+• describe the normative measures of inequality propounded by Dalton, 
+Atiknson, Sen and Theil.  
+ 
+
+
+--- Page 59 ---
+ 
+ 
+Quantitative Methods-I 
+60 
+Measures of Inequality11.1  INTRODUCTION 
+Improvement in well-being of the poor has been one of the important goals of 
+economic policy and to a significant extent it is determined by the growth and 
+distribution of its income. Distribution patterns have an important bearing on 
+the relationship between average income and poverty levels. Extreme 
+inequalities are economically wasteful. Further, income inequalities also 
+interact with other life-chance inequalities. Hence reducing inequalities has 
+become priority of public policy. 
+It therefore, becomes pertinent to measure income inequalities. Various 
+measures have been developed over a period of time to study the level of 
+inequalities in different situations. Broadly these measures can be put under 
+two categories (i) positive measures, and (ii) normative measures. The 
+measures which capture the inequality of income without value judgment about 
+social well-being are known as positive measures. Range, quartile range, 
+standard deviation, Gini ratio, Lorenz curve etc. are positive measures of 
+inequality. On the other hand, the measures that essentially involve value 
+judgement about social welfare are called normative measures. The index 
+propounded by Dalton, Atkinson, Sen, Theil and Kakwani are normative 
+measures. We shall discuss all these measures one by one in this unit. Gini 
+Coefficient of Inequality and Lorenz Curve will receive particular attention, as 
+they are very popular in literature. 
+11.2   POSITIVE MEASURES 
+If all values in a distribution are not equal, which means that there is dispersion 
+in the distribution, hence, there exists inequality in the distribution. If a 
+measure is developed to capture this non-equality in values without giving 
+explicit consideration to its consequences with respect to social well-being or 
+economic significance in a particular context, the measure is known as 
+positive. It means that the measure is bothering about the fact whether it is 
+measuring inequality of lengths of iron nails or incomes of wage earners in a 
+village. Nevertheless, many of them are standard statistical measures and their 
+social implications and/or social consequences can still be studied. Some of 
+these measures can be arrived from normative approach as well. 
+Let us consider an income distribution xi i=1,2,…,N over N persons and with 
+mean income 
+.  Let the relative share of total income with person i be 
+designated as qi, which is naturally given by xi/N.  The cumulative share of 
+total income with the persons not having more than xi income can be given as 
+Qi. However, when we have an income having frequency more than one, the 
+proportion of people with income xi can be denoted by pi and the cumulative 
+proportion of people with income no less than xi as Pi.  In this case, obviously 
+the relative share of total income would be given by µN x fi i/  where if  
+denotes the frequency of occurrence of income ix  and N= if . It will not be 
+necessary to use two different subscripts for distinguishing the two cases for 
+the purpose as the context would make it clear whether subscript i stands for a 
+person with income ix  or for the group of persons with income ix . 
+
+
+--- Page 60 ---
+ 
+ 61
+I Measures of InequalityWe have implicitly assumed that the data are arranged in the increasing (non-
+decreasing) order by magnitude of income so that symbolic representation is 
+easy. The same could be accomplished by decreasing (non-increasing) order. 
+We intend to cover important measures along with their variants in this Unit.  
+We shall also, albeit briefly, discuss their properties and weaknesses. 
+To recapitulate, we recount what we said above in a formal way 
+∑
+∑
+−
+−
+=
+=
+=
+=
+i
+i
+ii
+i
+i
+i
+i
+ii
+i i i
+p P
+N
+forNp
+q Q
+N
+x forN
+xq
+i
+1
+,
+1
+,
+1
+µ µ
+ 
+11.2.1  Relative Range 
+A measure of relative dispersion can be taken a measure of inequality. It is 
+defined as the relative range by 
+µ
+i ii i x Min x MaxRR −=1       (RR.1) 
+that is, the relative difference between the highest income and the lowest 
+income. If income is equally distributed, then 1RR = 0 and if one person 
+received all the income, then RR1 is maximum. If one wants to make the index 
+lie in the interval between 0 and 1, one can define it as 
+µN
+x Min x MaxRR i ii i−=2       (RR.2) 
+which means it is the gap between the maximum share and the minimum share.  
+That is, 
+i ii i q Min q Max RR−=2       (RR.3) 
+Though Cowell has suggested division of range by Mini xi,, which does not 
+serve, in our view, any purpose. Two other normalization or standardization 
+procedures that make it unit-free and contain it in (0,1) interval are suggested 
+below: 
+i i
+i ii i
+x M ax
+x Min x MaxRR −=3       (RR.4) 
+and 
+ 
+i ii i
+i ii i
+x M in x Max
+x Min x MaxRR +
+−=4       (RR.5) 
+
+
+--- Page 61 ---
+ 
+ 
+Quantitative Methods-I 
+62 
+Measures of InequalityThe basic weaknesses of these range-based measures are that they are not 
+based on all values and therefore they do not reflect the change in inequality if 
+there is any transfer of income between two non-extreme recipients.  
+Instead of considering extreme values at either end, which may not be even 
+known, some scholars have toyed with the idea of the ratio between the mean 
+income of the highest fractile (percentile, quintile or decile) and that of the 
+lowest counterpart. They term it as the extreme disparity ratio (EDR).  
+Naturally, this ratio is not contained in the interval (0.1). This ratio is 
+independent of µ as well. The measure will not reflect the transfer of income 
+that does not involve the extreme fractiles. 
+11.2.2  Relative Inter-Quartile Range 
+Sometimes, extremism of the relative range is sought to be moderated by 
+restricting the distribution between the 10 th and 90 th percentile or sometimes to 
+interquartile range.  Bowley (1937) suggested relative quartile deviation as the 
+index of inequality: 
+13
+13
+q q
+q q
+x x
+x xB
++
+−=         (B.1) 
+w
+here 
+rqx represents the income level which divides the popula tion in r and  
+(
+4-r) quartiles. B is zero for degenerate distribution where everybody  has the 
+same income and unity if the lowest 75 per cent people have no income at all. 
+Though the extremes are moderated in comparison to the measure of range, it 
+has an obvious weakness that the measure takes into account only 50 per cent 
+of the distribution.  Further, a transfer of income between two persons without 
+causing either or both of them cross 1qx  or 3qx  would not change the measured 
+level of inequality. Thus, the index suffers from all weaknesses of the earlier 
+proposals except that of extremism.  Its highest value reaches when the lowest 
+75 per cent people do not possess any income. 
+A variant of this measure is inter-quartile ratio, which can be defined as the 
+75th percentile (3 rd quartile) income minus 25 th percentile (1 st quartile) income 
+divided by the median ( 2qx ) income. 
+11.2.3  Relative Standard Variation 
+The standard deviation divided by the mean can be used as one measure of 
+dispersion. It is:  
+µ
+σ=RSD         (RSD.1) 
+where σ and µ  are standard deviation and mean of the distribution. 
+It can be equivalently defined as the standard deviation of relative incomes. 
+Using definition of σ , one can find out that it lies in the interval of 0 and  
+(N –1)1/2, not in (0,1). The highest value depends on the size of distribution.   
+ 
+
+
+--- Page 62 ---
+ 
+ 63
+I Measures of InequalitySince the measure uses all values, any transfer of income would be reflected in 
+the measure. However, it should be noted that the measure is equi-sensitive to 
+transfers at all levels. Whether a given amount d is transferred 
+between jx =Rs.400 and kx =Rs.500, or between jx =Rs.10,000 and kx = 
+Rs.10,100, the changed in RSD is exactly the same.   
+We may finally note that the square of RSD is also quite often used as another 
+measure of inequality, which is known as the coefficient of variance. Quite a 
+few scholars suggest use of variance as a measure of inequality but we have not 
+considered it here primarily because it is not unit-free. We think that an 
+inequality measure must be unit-free. 
+11.2.4   Standard Deviation of Logarithms 
+One way of attaching greater importance to transfers at lower end (as required 
+by Sen) is to consider some transformation of incomes.  This transformation 
+can easily be attained by considering the logarithms that stagger the income at 
+lower levels. 
+This measure is defined in either of the following two ways: 
+2 / 1
+1
+2
+1 ) log (log1 
+
+
+
+ −= ∑
+=
+N
+i
+ixNSDL µ       (SDL.1) 
+2 / 1
+1
+2
+2 ) logˆ(log1 
+
+
+
+ −= ∑
+=
+N
+i
+ixNSDL µ      (SDL.2) 
+where µ  and µ ˆ are the arithmetic and geometric means respectively. While 
+standard statistical literature prefers use of geometric mean the more common 
+practice in literature on income inequality is one of using arithmetic means.  
+Cowell (1995) prefers to define these in terms of variance and calls the square 
+of 1SDL  as the logarithm variance (V1) and the square of 2SDL  as the variance 
+of logarithms (V2).  Name of the second is clear from the expression but that of 
+the first is derived from the fact that ( log x-log x ) could be written as log 
+(x/ x ). One can see that 1V  is equal to 2V  plus log ( µ ˆ  /µ).  
+As these measures are in terms of ratios of incomes, any proportionate change 
+in incomes would leave the magnitude of inequality unchanged when measured 
+by these indices.  But, unfortunately, a transfer from a richer person to a poorer 
+person may raise the magnitude of inequality, particularly if the poorer person 
+has income more than 2.72 times the mean of the distribution.  
+While the lower limit, irrespective of formula, is zero when everybody has the 
+same income, the upper limit depends on the size of distribution and 
+approaches infinity when N is large and when everybody except the richest, 
+receives income equal to one unit (as zero is inadmissible in logarithmic 
+transformation.) Further, if we face grouped data, it is convenient to use µ in 
+place of 
+µ ˆ  and iµ in place of ix . 
+
+
+--- Page 63 ---
+ 
+ 
+Quantitative Methods-I 
+64 
+Measures of InequalityThe variance of logarithms is however decomposable. It is a property that is 
+being given emphasis of late. It can be shown that 2V  is the sum of between-
+group component and within group component, latter being population-
+weighted sum of within-group 2V ’s. 
+11.2.5   Champernowne Index 
+Champernowne (1973) makes use of the idea of geometric mean.  It is a well 
+known fact of an unequal distribution that its geometric mean is smaller than 
+the arithmetic mean.  The additive inverse of the ratio of geometric mean to 
+arithmetic mean can duly be considered as an index of inequality. Formally, the 
+index could be written as: 
+µ
+µ ˆ1 − =CII        (CII.1) 
+where µ and µ ˆ  are, as stated earlier, arithmetic and geometric means of the 
+income distribution.  It is easy to see that its value is bound between 0 and 1. 
+One can obviously think of another measure where geometric mean is replaced 
+by harmonic means.   
+These measures are sensitive to transfer to income and change is greater when 
+the transfer takes place at lower end of the distribution.  They are sensitive to 
+transfer of income between two persons. One can try it by replacing jx and kx  
+by ( jx -d) and ( kx +d) respectively and finding out the direction of the change. 
+Or, one can use differential calculus.   
+The trouble with these indices is that they cannot be defined when any of the 
+income is zero. 
+11.2.6   Hirschman-Herfindahl Indices 
+These indices were developed in the course of studying the commodity 
+concentration in trade by Hirschman (1945) and in characterizing market 
+monopoly in industry by Herfindahl (1950).  Later, they were more used in 
+capturing autonomy and dependence of units in a federation. 
+If each unit is a class in itself, ip =1/N, i=1,2…,N. Then concentration could be 
+captured through use of iq ’s .  As the sum of iq ’s is always 1, Hirschman 
+devised a measure which would capture the inequality among them. He 
+proposed square root of the sum of squares of shares iq  i=1,2…,N. That is,  
+2 / 1
+1
+2
+1 
+
+
+
+= ∑
+=
+N
+i
+iq N H        (H.1) 
+which could be generalized as 
+ 
+     (H.2) 1 ,
+/ 1
+1
+*
+1 >
+
+
+
+= ∑
+=
+a q N H
+aN
+i
+a
+i
+
+
+--- Page 64 ---
+ 
+ 65
+I Measures of InequalityHerfindahl devised a very similar measure, which has been more popular than 
+the original (H.1). This is just the sum of share squares: 
+∑
+=
+=
+N
+i
+iq H
+1
+2
+2         (H.3) 
+.
+1 ,
+1
+*
+2 ≥ =∑
+=
+a q H
+N
+i
+a
+i               (H.4) 
+I
+t is clear that, besides inequality among the shares, the value of these measures 
+depends on N—the fewness or largeness of the number of units.  For N=2, it 
+has been suggested that (1/N) could be subtracted from (H.3) 
+Nq H
+N
+i
+i
+1
+1
+2
+3 − =∑
+=
+       (H.5) 
+T
+he minimum value of 3H  is zero.  But it serves no great purpose.  When N=2, 
+for 1q = 0.99 and 2q = 0.01, while 2H = 0.98, 3H = 0.48. 2H  scores definitely 
+better than 3H  in characterizing the scene of monopoly.  
+11.2.7   Kolm’s Index 
+Let there be N incomes such that N= nm where n is the number of different 
+incomes and each income has m recipients.  The number of equal pairs with a 
+given income would be m(m-1)/2 and total number of equal pairs would be 
+n.m(m-1)/2. Total number of all pairs would obviously be N(N-1)/2-nm(nm-
+1)/2.  One can think of an `equality’ index in terms of nm(m-1)/nm(nm-1)=(m-
+1)/(N-1). The inequality index could then be constructed by subtracting it 
+from1: 1-( m-1)/(N-1)-(N-m)/(N-1)=m(n-1)/(nm-1)=(nm-m)/(nm-1). In case, 
+income 1x has if  recipients, the measure is: 
+) 1 ( ) 1 (1
+2 22
+−
+Σ −=−
+− Σ− = N N
+f N
+N N
+N fK ii      (K.1) 
+T
+he purpose of developing this curiosum due to Kolm (1996) is just to make 
+one feel that there could be a variety of simple ways to approach the issue of 
+measurement of inequality. 
+Check Your Progress 1 
+1
+) Define relative range measures of inequality. List o ut relative merits. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+
+
+--- Page 65 ---
+ 
+ 
+Quantitative Methods-I 
+66 
+Measures of Inequality2) How relative inter-quartile range is better than rel ative range? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+3) What is the relative mean deviation? If a transfer o
+ f income is between two 
+persons both having income lower than the mean, will it change the 
+magnitude of this index? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+4) Compare the two versions of standard logarithmic dev
+ iations. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+5) What is import of Champernowne Index? 
+…
+………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+6) What is Hirfindahl index? What are its areas of appl
+ ication?  
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 

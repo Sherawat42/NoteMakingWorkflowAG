@@ -1,0 +1,454 @@
+--- Page 53 ---
+53
+Models of Scientific
+Explanation3.6 EXPLANATION IN NON-PHYSICAL SCIENCES
+There is a view that explanation in biology, psychology, and the social sciences
+has the same structure as in the physical sciences. But the causal type of
+explanation is essentially inadequate in fields other than physics and chemistry.
+And it is more so in the case of social sciences which involve explanation of
+purposive behaviour.
+Hempel and Oppenheim point out to some of these limitation of applying models
+of scientific explanation to social sciences. First, events involving the activities
+of humans singly or in groups have a peculiar uniqueness and irrepeatability
+which make them inaccessible to causal explanation. Causal explanation
+presupposes uniformities and repeatability which may not hold for phenomena
+in social sciences.
+Second, the establishment of scientific generalizations and explanatory principles
+for human behaviour is impossible because the reactions of an individual in a
+given situation depend not only upon that situation, but upon the previous history
+of the individual.
+Third, the explanation of any phenomenon involving purposive behaviour calls
+for reference to motivations and thus for teleological rather than causal analysis.
+Many of the explanations which are offered for human actions involve reference
+to goals and motives. Motivational explanations often tend to have less cognitive
+significance.
+Attempts to extend scientific models of explanation to non-physical sciences
+without closer understanding of the context often lead to inappropriate
+explanations. One possibility is that there are contexts or areas within social
+sciences like economics where there is room for application of scientific or to be
+specific, positivist models of explanations. But at the same time there are vast
+aspects of economics where such application may not be easily amenable.
+Check Your Progress 3
+1) State the difference between laws and ordinary statement.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) Describe two limitations of application of scientific models to social sciences.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+
+
+--- Page 54 ---
+54
+Research Methodology:
+Issues and Perspectives 3.7 LET US SUM UP
+Positivism as an approach to the pursuit of knowledge is procrustean in nature.
+It has passed through several stages from radical empiricism to logical positivism
+to logical empiricism. Its propositions, often contested, evolved over a long period.
+The main characteristics (unified view) of positivism lie in a set of its four rules-
+phenomenalism, nouminalism, the rule of value free statements and the rule of
+unity of science.
+Testability under the positivism has been basic criteria for distinguishing scientific
+knowledge from non-scientific or meaningless statement. In early phase, emphasis
+was on verification. Later on Karl Popper suggested falsification testing in place
+of verification. Subsequently, emphasis shifted from falsification to confirmation.
+Rules of logic have become important part of the whole structure of scientific
+explanation under positivism. There are two types of deductive reasoning-
+categorical syllogism and hypothetical syllogism.
+Theories are the basic building blocks of scientific explanation. Hence the status,
+structure and functions of theories and theoretical terms are essential parts of
+scientific explanation.
+The basic modes of scientific explanation within the positivist approach are:
+Hypothetico-Deductive Model (HD), Deductive-Nomological (DN) Model, and
+Inductive Probabilistic (IP) models. The DN and IP models are subject to several
+limitations. The application of scientific models to social sciences has several
+limitations; peculiar uniqueness of human activities, dif ficulty in scientific
+generalizations and explanatory principles for human behaviour , etc. Hence
+applications of scientific models to non-physical sciences without closer
+understanding of the context often lead to inappropriate explanation.
+3.8 KEY WORDS
+Deduction : Deduction is a process used to derive particular
+statements from general statements.
+Empiricism : ‘Empiricism’ refers to distinctive approach that
+envisages that all knowledge comes from the senses.
+Falsification : The concept developed by Karl Popper (1959) is a
+philosophy of Science also known as critical
+rationalism. It uses the logic of deduction to provide
+the foundation for the Hypothetico-Deductive
+Method. He rejected the idea that observation
+provides the formulation for scientific theories.
+Theories are invented to account for observation, not
+derived from them. Observations are used to try to
+reject false theories. Theories that survive this critical
+process are provisionally accepted but never proven
+to be true.
+
+
+--- Page 55 ---
+55
+Models of Scientific
+Explanation
+Induction : Induction is a logical process of moving from
+particular statements to general statements. This is
+used in the social sciences to produce theory from
+data.
+Logical Positivism : An approach to philosophy of science that envisages
+that all meaningful statements are either empirical
+or logical in character. This means that they are either
+open to test by observational evidence or are matches
+of definition and therefore, tautological. According
+to this approach, no fundamental dif ference exists
+between natural and social sciences.
+Modelling : Refers to a process of creating a simplified
+representation of a System or phenomena with
+hypotheses to describe the system or explain the
+phenomenon.
+Theory : Refers to set of general laws that are related in
+networks and are generated by inductive or deductive
+form of logic. In other words, theory can be described
+as a set of propositions of dif ferent levels of
+generality.
+Verification : Refers to the use of empirical data, observation, test
+or experiment to confirm the truth or rational
+justification of a hypothesis.
+3.9 SOME USEFUL BOOKS
+Brody, Baruch A. (1970); Readings in the Philosophy of Science, Prentice Hall
+Inc., Englewoodcliffs, New Jersey.
+Bryant, C.G.A (1985); Positivism in Social Theor y and Resear ch, London,
+Macmillan.
+Caldwell, Bruce J (1984); Beyond Positivism: Economic Methodology in the
+Twentieth Century, George Allen and Unwin, Boston.
+Hausman, D.M (1994); The Philosophy of Economics: An Anthology, Second
+Ed., Cambridge University Press, Cambridge.
+Popper, Karl (1959); The Logic of Scientific Discovery, Basic Books, New York.
+Stewart, F. (1979); Reasoning and Method in Economics, McGraw-Hill Book
+Co., London.
+3.10 ANSWERS OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+Check Your Progress 1
+1) Scientific explanation refers to give causes of phenomenon to be explained.
+
+
+--- Page 56 ---
+56
+Research Methodology:
+Issues and Perspectives
+2) Phenomenon refers to a situation in which facts and objective facts based
+on experience forms the basis of knowledge. It is existence, not essence.
+On the other hand, nouminalism is insight representative of facts. It envisages
+that any abstract concepts used in scientific explanation must also be derived
+from experience.
+3) Broadly there are two rules of logic. Categorical syllogism, and hypothetical
+syllogism.Logical formulation of two categorical statements serving as
+premises is categorical syllogism.
+4) See Sub-section 3.4.4.
+Check Your Progress 2
+1) Facts, testing and formal logic.
+2) See Sub-section 3.5.1
+3) See Sub-section 3.5.2.1
+Check Your Progress 3
+1) Laws refer to universal statements expressing necessary truths whereas
+ordinary statement refers to particular statements of mere facts and express
+‘contingent truths’.
+2) See Section 3.6
+
+
+--- Page 57 ---
+57
+Models of Scientific
+ExplanationUNIT 4 DEBATES ON MODELS OF
+EXPLANATION IN ECONOMICS
+Structure
+4.0 Objectives
+4.1 Introduction
+4.2 Classical Political Economy and Ricardo’s Method
+4.2.1 Ricardo’s Method
+4.2.2 N.W.Senior
+4.2.3 J.S.Mill
+4.2.4 J.E.Cairnes
+4.2.5 J.N.Keynes
+4.3 Robbins, Positivism and Apriorism in Economics
+4.4 Hutchison and Logical Empiricism in Economics
+4.5 Milton Friedman and Instrumentalism in Economics
+4.5.1 Goal of Science
+4.5.2 Relationship Between Significance of Theory and ‘Realism’ of Assumptions
+4.5.3 Critical Appraisal of Friedman’s Instrumentalism
+4.6 Paul Samuelson and Operationalism
+4.6.1 Operationalism
+4.6.2 Descriptivism
+4.7 Theory – Assumptions Debate in Economics: A Long View
+4.8 Amartya Sen on Heterogeneity of Explanation in Economics
+4.8.1 Heterogeneity of Substance and Methods of Economics
+4.8.2 Testing and Verification
+4.8.3 Value Judgements and Welfare Economics
+4.8.4 Formalisation and Mathematics
+4.9 Let Us Sum Up
+4.10 Key Words
+4.11 Some Useful Books
+4.12 Answers or Hints to Check Your Progress Exercises
+4.0 OBJECTIVES
+The unit aims at tracing the broad contours of the debate relating to bringing
+explanation in Economics closer to the Models of Positive Science. Patterning
+explanation in Economics on the lines of Positivist Models of Explanation has
+been a major methodological obsession in Economics. But the subject matter of
+Economics is not as easily amenable as physical science for application of rules
+of Positivism. After going through this unit, you will be able to:
+• state the ef forts made by mainstream economists to adopt the model of
+explanation of Positivism;
+
+
+--- Page 58 ---
+58
+Research Methodology:
+Issues and Perspectives
+• explain the limitations, difficulties and differences in adopting ‘scientific’
+models of explanation; and
+• appraise the present state of explanation in Economics.
+4.1 INTRODUCTION
+The urge to model Economics or Political Economy as a science on the lines of
+physical sciences dates back to the period of Classical Economics. David Ricardo
+claimed that the principles of Political Economy were as accurate as the laws of
+gravity. Though Ricardo did not write much on the methods or models of
+explanation, his theories of political economy reflected abstract-deductive
+thinking which was claimed later as constituting basic methodology of Political
+Economy. It is ‘Ricardo’s habit of thinking’ equated with hypothetico-deductive
+model of explanation that set the tone for the classical writers on methodology
+to carry forward the view of Political Economy as a pure science. We shall begin
+by briefly examining the views on the nature of Political Economy and its Method
+of Explanation in the Ricardian tradition as enunciated in the writings of
+N.W.Senior, J.S.Mill, J.E.Cairnes and J.N.Keynes. Then, we shall turn to Lionel
+Robbins who asserted that Economics was a pure positive science and emphasized
+apriorism as its method of explanation. This will be followed by T. Hutchison’s
+insistence on empiricism if Economics were to be called science at all. The next
+two sections will discuss the foundations for present day mainstream practice of
+Economics in the form of ‘instrumentalism’ and ‘operationalism’ in the writings
+of Milton Friedman and Paul Samuelson respectively. Throughout, the focus is
+on the limitations of these approaches and the ad-hoc means by which problems
+are sought to be overcome. Though the unit is confined to the explanation in
+Economics in the Positivist mainstream, towards the end, a brief discussion of
+the alternative methods of explanation will be presented with a view to expose
+the student to the potential of plurality of methods of explanation in Economics.
+4.2 CLASSICAL POLITICAL ECONOMY AND
+RICARDO’S METHOD
+4.2.1 Ricardo’s Method
+The right method of economic enquiry as such was not discussed by Adam Smith.
+Smith’s approach to methodology was, as it was analysed by later economists,
+somewhat enigmatic. There are instances which make some to point out that he
+was the first to raise political economy to the state of deductive science. But in
+the same breath there are many instances in his writings to as the founder of
+inductive historical method. Yet his overall approach often tends to be moral and
+ethical, distancing him from the attributes of any positivist explanation. For these
+reasons, on issues of methodology of Classical political economy, one invariably
+turns to David Ricardo.
+Ricardo did not write on methodology of economics but his method explaining
+the principles of political economy is clearly discerned as positive, abstract and
+deductive, and it has come to be called ‘ hypothetico-deductive model of
+explanation’. It vigorously denies that facts can speak for themselves and
+contends that it is theory that can make sense. Ricardo died in 1823, leaving
+behind the claim that political economy was a science. His ‘Principles of Political
+
+
+--- Page 59 ---
+59
+Debates on Models of
+Explanation in Economics
+Economy’, which was a set of laws based on deductive reasoning, measures up
+to that claim. Questions were raised soon whether a deductive body of laws
+without empirical content could claim the status of science. The task of defending
+Ricardo’s method and the claim of political economy as a science was left to his
+followers of classical political economy. The defence came from the writings of
+N.W.Senior, J.S.Mill, J.E.Cairnes and J.N.Keynes.
+4.2.2 N.W. Senior
+It was N.W.Senior in his 1927 lecture, which was later elaborated as outline of
+the Science of Political Economy , (1936), that first made a statement on the
+distinction between a pure and strictly positive science, and an impure and
+inherently normative art of economics. He went on to claim scientific status for
+the Ricardian system. Science of Political Economy , according to him, rests
+essentially on “a very few general propositions, which are the result of observation,
+or consciousness, and which almost every man, as soon as he hears them, admits,
+as being familiar to his thoughts”. From this conclusions are drawn which hold
+true only in the absence of “particular disturbing causes”.
+Senior reduced these “very few general propositions” of political economy into
+the following four:
+1) that every person desires to maximize wealth with as little sacrifice as
+possible;
+2) that population tends to increase faster than the means of subsistence;
+3) that labour working with machines is capable of producing a positive net
+product; and
+4) that agriculture is subject to diminishing returns.
+4.2.3 J.S. Mill
+It is senior, who for the first time introduces the concept of ‘economic man’ or
+‘maximizing man’, as could be seen from the first proposition above. J.S.Mill,
+though staunch advocate of inductive method and a stout defender of
+methodological monism in science, was nonetheless sympathetic to Ricardo’ s
+deductive method of political economy. Mill, in his essay on the Definition of
+Political Economy and on the Method of Investigation Proper to It (1936), treats
+political economy as an “inexact science: and a ‘separate science:, and thereby
+defends deductive method in economics. Elaborating on Senior ’s notion of
+‘economic man’, Mill observes “political economy proceeds….under the
+supposition that man is a being who is determined, by the necessity of his nature,
+to prefer a greater proportion of wealth to a smaller in all cases…” Mill does
+consider “economic man” as fictional man to facilitate the propositions of political
+economy. The pages on ‘economic man’ in Mill’s essay are followed immediately
+by the characterization of political economy as “essentially an abstract science;
+that employs “the method of a priori”. The “disturbing causes” and “the tendency
+laws” in political economy necessitate ceteris paribus clauses.
+4.2.4 J.E. Cairnes
+J.E.Cairnes in his Character and Logical Method of Political Economy (1875),
+goes on to argue that political economy is a hypothetical, deductive science, and
+its conclusions “will correspond with facts only in the absence of disturbing
+
+
+--- Page 60 ---
+60
+Research Methodology:
+Issues and Perspectives
+causes, which is, in other words, to say that they represent not positive but
+hypothetical truths”. By late 19th century there were growing doubts on the method
+of political economy. J.N.Keynes tried to argue that what is referred to as deductive
+reasoning in political economy was indeed preceded by inductive inferences
+based on observation of human behaviour.
+4.2.5 J. N. Keynes
+J.N. Keynes, in The Scope and Method of Political Economy (1890), argued
+that deductive reasoning was indeed preceded by concrete observations. Deductive
+reasoning comes at a later stage drawing upon specific individual experiences.
+J.N.Keynes is known for comprehensive reconciliation of the classical
+methodological approaches.
+The following observation stands as a testimony to his comprehensive
+understanding of the methodological approaches underlying a complex subject
+like economics. He observes “…economic science deals with phenomena that
+are more complex and less uniform than those with which the natural sciences
+are concerned; and its conclusions, except in their most abstract form, lack both
+the certainty and the universality that pertain to physical laws. There is a
+corresponding difficulty in regard to the proper method of economic study; and
+the problem of defining preconditions and limits of the validity of economic
+reasonings become one of exceptional complexity. It is, moreover, impossible to
+establish the sight of any one method to hold the field to the exclusion of others.
+Different methods are appropriate, according to the material available, the
+stage of investigation reached, and the object in view; and hence arises the
+special task of assigning to each its legitimate place and relative importance”.
+One could read this even to this day, as a manifesto of methodological pluralism,
+that is increasingly thought of as appropriate for economics. This aspect is further
+discussed, when we turn to Sen on economic methodology.
+Check Your Progress 1
+1) Explain the characteristics of Ricardo’s method of explanation.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) State the general prepositions advanced by N.W.Senior in support of scientific
+status of the Ricardion system.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3) What is methodological pluralism?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+
+
+--- Page 61 ---
+61
+Debates on Models of
+Explanation in Economics4.3 ROBBINS, POSITIVISM AND APRIORISM IN
+ECONOMICS
+Lional Robbins in his classic tract, An Essay on the Nature and Significance of
+Economic Science (1935 ed.) presented the dominant methodological view point
+of the early twentieth century economic thought, which stressed subjectivism,
+methodological individualism, and the self-evident natur e of the basic
+postulates of economic theory. His objective was to counter the criticism from
+the historical and institutional schools that basic economic propositions were
+not amenable for Quantification, therefore not testable and hence not eligible to
+be called a science. Robbins countered by suggesting that basic propositions of
+Economics were deductions from a series of postulates. Chief of these postulates
+include the assumption involving the experience of the way in which scarcity of
+goods shows itself in the world of reality and how individuals order their
+preferences.  These are universally acknowledged facts of experience. Robbins
+offers a coherent account of the status of terms used in economic theory . The
+fundamental assumptions are combined with subsidiary hypotheses which allow
+us to apply the theory to actual situations.
+For Robbins rationality as a postulate in economics doesn’ t merely mean
+maximizing behaviour , but implies consistency of choice. Rationality as
+consistency of choice is stated in the sense that if A is preferred to B and B to C,
+A will be preferred to C. Robbins asserts that the assumption of rational conduct,
+and with it the assumption of perfect foresight in Economics, are ‘expository
+devices’. They are not realistic assumptions. According to Robbins, empirical
+studies may be of use for the short-term prediction of possible trends, but they
+do not provide the grounds for discovering ‘empirical laws’. The proper uses of
+realistic (empirical) studies are three: to check on the applicability of theoretical
+constructions to particular concrete situations, to suggest auxiliary postulates to
+be used with the fundamental generalizations, and to bring to light areas where
+pure theory can be reformulated or extended.
+Robbin’s insistence on Economics being based on true postulates born out of
+experience, which need not be tested, brings him closer to apriorism of the
+Austrian School. Economic laws are derived from postulates based on a priori
+truths of experience and therefore there is no need for testing them. Robbins’
+claim that Economics is a pure theory and still a Positive science may be somewhat
+puzzling. His claim of Positivism for Economics appears to be based more on
+his insistence that Economic laws are value- free. He ar gued that there was no
+room for ethical considerations in Economics, and in that sense too it is ‘pure
+theory’.
+Robbins’ claim of ‘pure theory’ or apriorism status to Economics provoked
+devastating criticism, especially from T. Hutchison. The point of criticism is the
+‘emptiness of the propositions of pure theory’. If Economics is to be called as a
+positive science, Hutchison insisted that it should be testable. Otherwise it would
+end up as a ‘pseudo-science’. Second, the assumption of ‘perfect expectations’
+is baseless and therefore the rationality postulate is unrealistic. Third, there is
+need for more extensive use of empirical techniques in Economics instead of
+merely claiming all postulates are prior truths. Finally, Hutchison calls the use of
+‘psychological method’ (or introspection) as ground for asserting the fundamental
+postulates.
+
+
+--- Page 62 ---
+62
+Research Methodology:
+Issues and Perspectives 4.4 HUTCHISON AND LOGICAL EMPIRICISM IN
+ECONOMICS
+Terence Hutchison’s The Significance and Basic Postulates of Economic Theory
+(1938)  marks a clear turning point in the Twentieth Century Economic
+methodology and laid the foundation for a clear logical positivist turn to the
+practice of Economics. Hutchison, in his book, sets out on search for and making
+clear the foundations of modern economic theory. He states that economics is a
+science and as such it must appeal to facts, otherwise one would be engaging in
+‘pseudo-science’. What sets apart the empirical propositions of science from
+those of other intellectual endeavours is their testability.
+According to Hutchison, science contains statements which are either conceivably
+falsifiable by empirical observation or are not. Those which are not falsifiable
+are tautologies and are thus devoid of empirical content. The primary reason
+why the propositions of pure theory have no empirical content is that they are
+posed in the form of deductive inferences. In Economics, widespread use of
+ceteris paribus clause robs empirical content. Irresponsible use of ceteris paribus
+clause make microeconomic theory effectively unfalsifiable.
+Hutchison examines the formal structure of economic theory which consists of a
+series of deductions from basic postulates. These deductions are analytical in
+nature. These analytical statements are logical statements without any empirical
+content. Therefore, pure economic theory is empty and thus there is need for
+more empirical content. Hutchison insisted on the need for testability , and
+falsification tests even for the basic assumptions. The insistence of testing not
+only the theory, but the assumptions as well, for validity sparked-of f a wider
+debate in economics later. But the immediate response was to describe Hutchison
+as an ‘ultra-empiricist’.
+Hutchison’s attempt to establish the analyticity of fundamental generalizations
+of economic theory and to wean economists away from pure theory did not
+succeed very much. But his proposal to make economics increasingly testable or
+falsifiable form; to increase empirical investigations of various aspects of
+economics, and the need for economists to abandon their psychological method
+received universal acceptance by economists.
+One of the interesting aspects of Hutchison’s contribution relates to the issue of
+testing assumptions as well as the theory or hypothesis. This provoked a debate
+between Hutchison and Fritz Machlup. Machlup believes that only deduced or
+‘lower level’ hypotheses require ‘verification’, and he outlines how such testing
+could be carried out. While Hutchison does not require that every statement in a
+theory be tested, he does insist that each be ‘testable’ and one should be able to
+conceive how a test could be carried out. Further , Hutchison prefers that the
+behavioural postulates of economics reflect the actual observed and statistically
+recorded behaviour of economic agents. Machlup requires no such
+correspondence. The crucial behavioural postulate is the assumption of rational,
+maximizing behaviour. And Machlup is more reasonable in ar guing that this
+assumption need not be tested directly , which was insisted by Hutchison, but
+indirect testing of the same could be done. Much before the debate on testing of
+assumptions sparked-of f by Hutchison’ s contribution, Milton Friedman’ s

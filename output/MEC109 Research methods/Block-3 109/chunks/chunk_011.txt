@@ -1,0 +1,603 @@
+--- Page 93 ---
+ 
+ 93
+I Construction of Composite 
+Index in Social Sciences UNIT 12 CONSTRUCTION OF COMPOSITE 
+INDEX IN SOCIAL SCIENCES 
+Structure 
+12.0 Objectives 
+12.1 Introduction 
+12.2 Composite Index: The Concept 
+12.3 Steps in Constructing Composite Index 
+12.4 Dealing with Missing Values and Outliers 
+12.5  Methods to Construct Composite Index 
+ 12.5.1 Simple Ranking Method 
+ 12.5.2 Indices Method 
+ 12.5.3 Mean Standardization Method 
+ 12.5.4 Range Equalization Method 
+12.6 Principal Component Analysis (PCA) 
+ 12.6.1 Conducting PCA and Analyses of Results 
+ 12.6.2 Use of Output Indicators  
+ 12.6.3 Use of Weight 
+ 12.6.4 Limitations of Principal Component Analysis 
+12.7 Merits and Limitations of Composite Index 
+12.8 Let Us Sum Up 
+12.9 Exercises 
+12.10 Some Useful Books/References 
+12.11 Answer or Hints to Check Your Progress Exercises 
+12.0 OBJECTIVES 
+After going through this Unit, you will be able to: 
+• state the concept of composite index; 
+• describe the process of constructing the composite index; 
+• explain the various methods of composite index; 
+• discuss the merits and limitations of composite index; and 
+• learn how to interpret the results derived from composite indexes. 
+12.1 INTRODUCTION 
+In social sciences research, many a times the complex social and economic 
+issues like child deprivation, food security, human well-being, human 
+development etc. are difficult to measure in terms of single variable. The 
+reason being that such issues have several dimensions and indicators. For 
+example, it is difficult to explain the status of development of a district in terms 
+ 
+
+
+--- Page 94 ---
+ 
+ 
+Quantitative Methods-I 
+94 
+Construction of Composite of a single variable because development is reflected in terms of several 
+indicators. Some of such variables/indicators are quantitative type while others 
+are of qualitative nature. In such situations, Composite index plays an 
+important role to express the single value of several inter-dependent or 
+independent variables. Further, the composite index makes it possible to 
+compare the performance among region/states or districts etc. Hence, 
+composite indexes are being recognized as a useful tool for policy analysis. 
+Composite indexes can also be resorted to make comparison among different 
+regions/sectors where wide range of variables are used. 
+In this Unit, we shall therefore discuss the concept of composite index, the 
+process of their construction, various methods, their uses, and limitations. The 
+study of the unit will also enable you to learn how to interpret the results. Let 
+us begin to explain the concept of composite index. 
+12.2 COMPOSITE INDEX: THE CONCEPT 
+A composite index is an expression of a single score made by combination of 
+different scores to measure a given variable or a group of variables. It 
+expresses quantity or place (position) of multi facet aspects of a concept. The 
+UNDP (2005) has explained that ‘a composite index expresses a quantity or a 
+position on a scale of qualitative multi-faceted aspects….. which is relevant for 
+information of the society’. An index can be a combination of independent 
+indicators, or the average of an accumulation of selected indicators. The index 
+represent specific concept or highlighting specific sector or areas like status of 
+dalit (dalit deprivation index), food situation (food security/insecurity index), 
+status of child (child deprivation/development index), quality of human 
+development (human development index) etc. 
+The index that we construct is the outcome of some unidirectional variables or 
+indicators. If an index is constructed by taking positive indicators,  the higher 
+value of index implies higher development and lower values imply lower 
+development. For example, in case of index related to child development, if the 
+variables are positive directional, the final index can be termed as ‘child 
+development index’. On the other hand, if the variables are negative 
+directional, it is called ‘Child Deprivation Index’. Let us take an example that 
+child mortality is a negatively directional variable whereas percentage of 
+children immunized is a positively directional variable. Such index is very 
+useful in case of qualitative data. An index is more robust than a single 
+indicator or variable.  
+The choice of indicator is a big challenge for researchers. The major issues in 
+identifying measurable indicators are: whether data are available or not, 
+whether we have reliable data, whether the data are cross-section or time series, 
+and minimization of double counting raised from overlap or redundancy. Again 
+if the variables to be chosen are easy to understand, they are more acceptable to 
+a wider audience. 
+12.3 STEPS IN CONSTRUCTING COMPOSITE 
+INDEX 
+The following steps are required to follow in construction of composite index:  
+
+
+--- Page 95 ---
+ 
+ 95
+I Construction of Composite 
+Index in Social Sciences
+ 
+Step Why it is needed 
+1. Theoretical framework 
+A theoretical framework need to be 
+developed because it provides the basis 
+for the selection and combination of 
+variables into a meaningful composite 
+indicator under a fitness-for-purpose 
+principle (involvement of experts and 
+stakeholders is envisaged at this step). 
+• To get clear understanding and 
+definition of the multidimensional 
+phenomenon to be measured. 
+• To structure the various sub-groups 
+of the phenomenon (if needed). 
+• To compile a list of selection 
+criteria for the underlying variables, 
+e.g., input, output, process. 
+2. Data selection 
+Indicators should be selected on the 
+analytical soundness, measurability, 
+country coverage, and relevance of 
+the indicators to the phenomenon 
+being measured and relationship to 
+each other. The use of proxy variables 
+should be considered when data are 
+scarce (involvement of experts and 
+stakeholders is envisaged at this 
+step). 
+• To check the quality of the 
+available indicators. 
+• To discuss the strengths and 
+weaknesses of each selected 
+indicator. 
+• To create a summary table on data 
+characteristics, e.g., availability 
+(across country, time), source, type 
+(hard, soft or input, output, 
+process). 
+3. Imputation of missing data 
+Consideration should be given to 
+different approaches for imputing 
+missing values. Extreme values 
+should be examined as they can 
+become unintended benchmarks. 
+• To estimate missing values. 
+• To provide a measure of the reliability 
+of each imputed value, so as to assess 
+the impact of the imputation on the 
+composite indicator results. 
+• To discuss the presence of outliers 
+in the dataset. 
+4. Multivariate analysis 
+Should be used to study the overall 
+structure of the dataset, assess its 
+suitability, and guid subsequent 
+methodological choices (e.g., 
+weighting, aggregation). 
+• To check the underlying structure 
+of the data along the two main 
+dimensions, namely individual 
+indicators and countries (by means 
+of suitable multivariate methods, 
+e.g., principal components analysis, 
+cluster analysis). 
+• To identify groups of indicators or 
+groups of countries that are 
+statistically “similar” and provide 
+an interpretation of the results. 
+• To compare the statistically-
+determined structure of the data set 
+to the theoretical framework and 
+discuss possible differences. 
+5. Normalisation 
+Should be carried out to render the 
+variables comparable 
+• To select suitable normalization 
+procedure(s) that respect both the 
+theoretical framework and the data 
+properties. 
+
+
+--- Page 96 ---
+ 
+ 
+Quantitative Methods-I 
+96 
+Construction of Composite • To discuss the presence of outliers 
+in the dataset as they may become 
+unintended benchmarks. 
+• To make scale adjustments, if 
+necessary. 
+• To transform highly skewed 
+indicators, if necessary. 
+6. Weighting and aggregation 
+Should be done along the lines of the 
+underlying theoretical framework. 
+• To select appropriate weighting and 
+aggregation procedure(s) that 
+respect both the theoretical 
+framework and the data properties. 
+• To discuss whether correlation 
+issues among indicators should be 
+accounted for. 
+• To discuss whether compensability 
+among indicators should be 
+allowed. 
+7. Uncertainty and sensitivity 
+analysis 
+Should be undertaken to assess the 
+robustness of the composite indicator 
+in terms of e.g., the mechanism for 
+including or excluding an indicator, 
+the normalization scheme, the 
+imputation of missing data, the choice 
+of weights, the aggregation method. 
+• To consider a multi-modeling 
+approach to build the composite 
+indicator, and if available, 
+alternative conceptual scenarios for 
+the selection of the underlying 
+indicators. 
+• To identify all possible sources of 
+uncertainty in the development of 
+the composite indicator and 
+accompany the composite scores 
+and ranks with uncertainty bounds. 
+• To conduct sensitivity analysis of 
+the inference (assumptions) and 
+determine what sources of 
+uncertainty are more influential in 
+the scores and/pr ranks. 
+8. Back to the data 
+Is needed to reveal the main drivers 
+for an overall good or bad 
+performance. Transparency is 
+primordial to good analysis and 
+policymaking. 
+• To profile country performance at 
+the indicator level so as to reveal 
+what is driving the composite 
+indicator results. 
+• To check for correlation and 
+causality (if possible). 
+• To identify if the composite 
+indicator results are overly 
+dominated by few indicators and to 
+explain the relative importance of 
+the sub-components of the 
+composite indicator. 
+9. Links to other indicators 
+Should be made to correlate the 
+composite indicator (or its 
+• To correlate the composite indicator 
+with other relevant measures, taking 
+into consideration the results of 
+sensitivity analysis. 
+
+
+--- Page 97 ---
+ 
+ 97
+I Construction of Composite 
+Index in Social Sciences
+dimensions) with existing (simple or 
+composite) indicators as well as to 
+identify linkages through regressions. 
+• To develop data-driven narratives 
+based on the results. 
+10. Visualisation of the results 
+Should receive proper attention, 
+given that the visualization can 
+influence (or help to enhance) 
+interpretability. 
+• To identify a coherent set of 
+presentational tools for the targeted 
+audience. 
+• To select the visualization 
+technique which communicates the 
+most information. 
+• To present the composite indicator 
+results in a clear and accurate 
+manner. 
+Source:  OECD (2008), ‘Handbook on Constructing Composite Indicators Methodology and 
+User Guide’ 
+Caution on choosing variable 
+1) Whenever we choose any variable or a particular dimension for the index, 
+we have to justify the inclusion of the variable into the index. This 
+justification should come from empirical evidences or policy based 
+research studies or from theoretical explanation. 
+2) If the variable is not unidirectional, the entire variables used should be 
+converted to unidirectional. For example, in construction of the food 
+security index, two variables like ‘proportion of agricultural worker to 
+total workers’ and per capita value of agricultural output’ is used for 
+index. Here the first variable is a negatively directional whereas the second 
+variable is positively directional. In this case we have to convert the entire 
+variables into either positive direction or negative direction. If we want to 
+convert this to positive direction, the first variable which has a negative 
+direction should be deducted from 100. On the other hand, if we want to 
+convert the entire variables into negative direction, we have to work out 
+the reciprocal of per capita value of agricultural output. 
+12.4 DEALING WITH MISSING VALUES AND 
+OUTLIERS 
+After selecting the indicators, you have to have a clear idea on missing values 
+for each selected variable. Data can be missing in a random or non random 
+fashion. In such situation, easy solution is to drop cases for which data is 
+missing. However, before dropping the variable, you have to see the number of 
+cases for which values are missing, because exclusion of such households for 
+which data is missing could significantly lower sample size. Further, deleting 
+such household may lead to some biases also. For example, in livelihood study 
+of households, if there is a missing value, we have to find out the frequency of 
+missing value because in many cases, the chances of missing value is high for 
+lower economic class as compared to upper economic class. In such cases if we 
+delete the households having missing value, it may result biases towards upper 
+economic classes of household.  In case, inclusion or exclusion of households 
+having missing value put a little impact on the final result, we can delete such 
+cases.  
+
+
+--- Page 98 ---
+ 
+ 
+Quantitative Methods-I 
+98 
+Construction of Composite The second solution is to impute the missing value by applying some 
+methodology or logic. But use of imputation is more common in academic 
+indices and datasets. Here you can try to impute the missing value which 
+should be as accurate as possible..For example, in calculating the consumption 
+expenditure of 50 households of which about 5 cases are missing. In this case 
+in imputing we can substitute the average value of consumption expenditure 
+and replace the missing value by the averages. But for a more accurate 
+estimation we can group theses 50 households on the basis of value of assets 
+holding and see to which asset category these ‘MPCE missing’ households 
+belonged to. Then we can substitute the average consumption expenditure of 
+the respected asset group. 
+Such approach has been used in a number of more recent indices such as the 
+Corruptions Perceptions Index (CPI) developed by Transparency International 
+and the World Bank’s Worldwide Governance Indicators (WGI). Such 
+approaches carry a dual advantage. They allow scores to be estimated for a 
+maximal number of countries, and can use a broader range of indicators to 
+triangulate indices for nebulous constructs.  
+Many a time,outliers may also disturb the analysis. For example if the income 
+of four persons is 18000, 17000, 18500 and 19000 then the average is 18125. If 
+we include the income of fifth person as 60000 then the average turns out to be 
+26500. In such matters, you have to drop the cases with high extreme value.  
+Both in case of missing value and outlier you are expected to document and 
+explain the selected imputation procedures and the results in detail. 
+Check Your Progress 1 
+1) What do you understand by the term Composite Index? 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+2) Give some examples of Composite Index. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+3) List the steps involved in construction of Composite Index. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+
+
+--- Page 99 ---
+ 
+ 99
+I Construction of Composite 
+Index in Social Sciences
+4) State the alternative methods to deal with the missing values of the selected 
+variables. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+…………………………………………………………………………….. 
+12.5 DIFFERENT METHODS OF COMPOSITE 
+INDEX 
+The various methods are used in construction of composite index. These 
+include: Simple Ranking Method, Indices Method, Mean standardization 
+method, Range Equalization Method, and Principal Component Analysis 
+Method. Let us discuss one by one with simple examples. 
+12.5.1 Simple Ranking Method 
+Rank Method is one of the simplest methods to analyse the status of a 
+region/district/state/country. In this method, the first step is to arrange/convert 
+the variable into unidirectional for each district or state. Let us take an example 
+of development status of different districts in Orissa state. First, we have to 
+convert the relevant variables in either positive or negative direction. For 
+example, the variable says ‘the proportion of agricultural labour is negatively 
+associated with the development of a region. Hence we have to convert this 
+variable to positive direction by deducting this variable from 100 and change 
+the labeling of variable as ‘proportion of other than agricultural labour to total 
+labour’. Higher the value of this variable, higher the development of the district 
+or region. Depending on the value, each variable was ranked in the similar 
+manner. Highest rank (1st ) was given to the variables with high value and vice-
+a-versa. Alternatively, we can do reverse ranking of the variable i.e. highest 
+rank is given to the variables with lowest value.  The individual ranks are 
+added to get the total rank value for the district. This has been illustrated in the 
+example given in table 12.1. Our objective is to find out most backward tribal 
+district in Odisha (having more than 50 per cent of tribal population to total 
+population). A total of 11 districts qualify for tribal dominant area having 50 
+per cent or more proportion of population. We have selected 10 variables for 
+identifying most backward tribal areas. Each of the variables for 11 tribal 
+dominated districts was ranked according to total value of variable. The 
+individual rank of all the variables of all the districts is given in table 12.2. As 
+all the variable are unidirectional, rank 1 is given to district having higher value 
+and vice-a-versa. After doing so we can add together the value of all the 
+variables and find out the average rank for each district (Sum of total rank 
+divided by number of variable i.e. 10). The average value of variable shows the 
+status of district on development indicators. 
+
+
+--- Page 100 ---
+ 
+ 
+Quantitative Methods-I 
+100 
+Construction of Composite Table 12.1:  Districtwise Development Indicators of Tribal Concentrated 
+Districts in Odisha 
+Table 12.2: Districtwise Development Scenario of Tribal Orissa by Simple Ranking Method  
+District 
+% of other than 
+agricultural labour to all 
+labour 
+% of net irrigated area to 
+total sown area 
+Per capita value of 
+agrictural output 
+Per capita consumption 
+expenditure 
+Female Literacy rate  
+women work force 
+participation rate 
+% of household getting 
+safe drinking water 
+Percentage of villages 
+having access to paved 
+road 
+Percentage of villages 
+having access to Phcs 
+Average  casual  wage rate 
+Actual Value 
+Malkangiri   73 31 1304 201 18 67 82 21 16 36 
+Rayagada  50 23 479 201 18 67 78 34 13 37 
+Sundargarh 61 19 537 280 43 58 57 38 28 32 
+Nabarangapur   46 6 839 201 18 66 80 45 28 37 
+Kandhamal 62 14 410 201 33 68 32 21 19 36 
+Koraput 55 31 611 201 16 67 67 22 22 40 
+Mayurbhanj 60 30 572 280 35 62 44 42 21 31 
+Gajapati  52 25 529 331 24 77 43 29 20 34 
+Sambalpur 62 34 1075 280 50 62 56 31 13 39 
+Kendujhar 60 23 537 280 44 46 52 46 15 34 
+Jharsuguda   68 20 662 280 54 43 63 47 32 39 
+Average 59 23 687 249 32 62 60 34 21 36 
+District 
+%  of other than agrictural 
+labour to all labour 
+% of net irrigated area to total 
+sown area 
+Per capita value of agrictural 
+output 
+Per capita consumption 
+expenditure 
+Female Literacy rate 
+women work force participation 
+rate 
+% of household getting safe 
+drinking water 
+Percentage of villages having 
+access to paved road 
+Percentage of villages having 
+access to primary health centre 
+Average  casual  wage rate 
+Average Rank/indices 
+Malkangiri   1 2 1 7 8 5 1 10 8 7 5.0 
+Rayagada  10 7 10 7 9 3 3 6 11 4 7.0 
+Sundargarh 5 9 7 2 4 9 6 5 3 10 6.0 
+Nabarangapur   11 11 3 7 10 6 2 3 2 5 6.0 
+Kandhamal 3 10 11 7 6 2 11 11 7 6 7.4 
+Koraput 8 3 5 7 11 4 4 9 4 1 5.6 
+Mayurbhanj 7 4 6 2 5 7 9 4 5 11 6.0 
+Gajapati  9 5 9 1 7 1 10 8 6 8 6.4 
+Sambalpur 4 1 2 2 2 8 7 7 10 3 4.6 
+Kendujhar 6 6 8 2 3 10 8 2 9 9 6.3 
+Jharsuguda   2 8 4 2 1 11 5 1 1 2 3.7 
+
+
+--- Page 101 ---
+ 
+ 101
+I Construction of Composite 
+Index in Social Sciences
+By this method, the most developed tribal district is Jharsuguda and most 
+backward district is kandhamal. 
+12.5.2 Indices Method 
+The indices method is another simple method for calculating the status of 
+development of an area/district or state. Like rank method, here also, at the first 
+stage the variables are converted into one direction. After converting the 
+variable into one (positive or negative) direction, we calculate the index. In this 
+method we have to convert the district figures based on the average figure for 
+the entire 11 districts as 100. Let us take an example of table 12.1. If the 
+proportion of other than agricultural labour to total labour in malkangiri district 
+is 73 and the average of that variable for all the 11 districts is 59, then the 
+indices of that variable for Malkangiri district will be: 
+/g2869/g2868/g2868
+/g2873
+/g2877/g187673 /g3404 124 
+In the same manner, we can find out the indices for all the variables for 11 
+districts as is given in Table 12.3. The final index of development for the 
+districts can be obtained by taking the arithmetic mean for all the indicators 
+(given in last column of table 12.3). After working out the average indices 
+value for all the districts, we can rank all the districts. The district with highest 
+indices will be most developed and the district with lowest indices will be least 
+developed. 
+Table 12.3: Districtwise Development Scenario of Tribal Orissa by Indices Method 
+District 
+% of other than agrictural 
+labour to all labour 
+% of net irrigated area to total 
+sown area 
+Per capita value of agrictural 
+output 
+Per capita consumption 
+expenditure 
+Female Literacy rate  
+women work force 
+participation rate 
+% of households getting safe 
+drinking water 
+Percentage of villages having 
+access to paved road 
+Percentage of villages having 
+access to primary health centre 
+Average  casual  wage rate 
+Average Rank/indices 
+Malkangiri 124 133 190 81 57 108 138 62 78 99 107.0 
+Rayagada 85 99 70 81 57 108 131 98 64 103 89.6 
+Sundargarh 104 83 78 113 135 93 96 111 135 90 103.6 
+Nabarangapur 78 25 122 81 56 107 135 132 137 102 97.4 
+Kandhamal 106 59 60 81 102 109 54 60 92 100 82.3 
+Koraput 93 133 89 81 49 108 113 65 108 113 95.1 
+Mayurbhanj 101 129 83 113 109 101 74 123 103 86 102.2 
+Gajapati 89 106 77 133 76 123 73 86 95 95 95.3 
+Sambalpur 105 147 157 113 155 100 95 90 65 108 113.3 
+Kendujhar 102 99 78 113 136 74 88 136 71 94 99.1 
+Jharsuguda 114 88 96 113 167 69 105 138 153 109 115.3 
+
+
+--- Page 102 ---
+ 
+ 
+Quantitative Methods-I 
+102 
+Construction of Composite In our example Kandhamal is the most backward with indices (82.3) and 
+Jharsuguda (115.3) is the most developed district.   
+Let us make a comparison between the results obtained by rank method and 
+indices method. Results in Table 12.4 shows that Jharsuguda, Sambalpur, and 
+Malkangiri are most developed in both the methods whereas Raygada and 
+Kandhamal are most backward in both the methods. While comparing both 
+rank and indices method, we can also run correlation between the two set of 
+indices. If the correlation is high then we can say that the finding in both 
+methods is almost similar. 
+Table 12.4: A Comparison of Simple Ranking Method and Indices Method 
+District 
+Status of District in 
+Rank Method District 
+Status of District in 
+indices Method 
+Jharsuguda   3.7 Jharsuguda   115 
+Sambalpur 4.6 Sambalpur 113 
+Malkangiri   5.0 Malkangiri   107 
+Koraput 5.6 Sundargarh 104 
+Sundargarh 6.0 Mayurbhanj 102 
+Nabarangapur   6.0 Kendujhar 99 
+Mayurbhanj 6.0 Nabarangapur   97 
+Kendujhar 6.3 Gajapati  95 
+Gajapati  6.4 Koraput 95 
+Rayagada  7.0 Rayagada  90 
+Kandhamal 7.4 Kandhamal 82 
+Note: Correlation of status of district in both rank and indices method is 0.927 
+12.5.3 Mean Standardization Method 
+Mean standardization Method is another simple method used both as a process 
+of normalization and also a composite index. In this method we normalize the 
+value of each variable and than work out the average of the normalized value 
+for all the variables. The average of normalized value will be the composite 
+index value. The normalization is done by dividing the actual value of variables 
+by their respective means. Let us take an example from Table 12.1. For 
+example the standardized value of the variable ‘% of other then agricultural 
+labour to all workers’ for Malkangiri district can be found out by  
+Normalized value MS Method=Actual value (73)/Mean value (59) =1.237 
+In the same process we can find out the normalized value of the entire variable 
+for 11 selected districts. The standardized value of each selected indicator for 
+different district is given in Table 12.5. The composite index value of each 
+district given in the last column of Table 12.5 has been worked out by taking 
+average of all the 10 selected indicators (row vector of the each district). 
+ 

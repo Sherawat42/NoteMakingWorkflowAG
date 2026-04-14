@@ -1,0 +1,531 @@
+--- Page 32 ---
+ 
+ 
+33 
+Data Collection and 
+Sampling Design 
+ 
+A) Precision of Estimates – Standard Errors and Confidence Intervals 
+We noted earlier (the last paragraph of sub-section 7.5.1) that the sample mean 
+(an estimate of the population mean ‘ µ ’) will have different values in repeated 
+samples drawn from the population and none of these may be equal to ‘ µ ’. 
+Suppose that the repeated samples drawn from the population are random 
+samples.  The sample mean computed from a random sample is a random 
+variable. So is the sampling error, that is, the difference between‘ µ ’ and the 
+sample mean. The values of the sample means (and the corresponding errors in 
+the estimate of ‘ µ ’) computed from the repeated random samples drawn from 
+the population are the values assumed by this random variable with 
+probabilities associated with drawing the corresponding samples. These will 
+trace out a frequency distribution that will approach a probability distribution 
+when the number of random samples drawn increases indefinitely. The 
+probability distribution of sample means computed from all possible random 
+samples from the population is called the sampling distribution of the sample 
+mean. The sampling distribution of the sample mean has a mean and a standard 
+deviation. The sample mean is said to be an  unbiased estimator of the 
+population mean if the mean of the sampling distribution of the sample mean is 
+equal to the mean of the parent population, say, 
+µ . In general, an estimator “t” 
+of a population parameter “ θ” is an unbiased estimator of “ θ” if the mean of 
+the sampling distribution of “t”, or the expected value of the random variable 
+“t”, is equal to “θ”. In other words, the mean of the estimates of the parameter 
+made from all possible samples drawn from the population will be equal to the 
+value of the parameter. Otherwise, it is said to be a biased estimate. Supposing 
+the mean of the sampling distribution of sample mean is K µ  or K+ µ , where K 
+is a constant.  The bias in the estimate can be easily corrected in such cases by 
+adopting m/K or (m – K) as the estimator of the population mean.  
+The variance of the sampling distribution of the sample mean is called the 
+sampling variance of the sample mean . The standard deviation of the 
+sampling distribution of sample means is called the standard error (SE) of the 
+sample mean . It is also called the standard error of the estimator (of the 
+population mean), as the sample mean is an estimator of the population mean. 
+The standard error of the sample mean is a measure of the variability of the 
+sample mean about the population mean or a measure of the precision of the 
+sample mean as an estimator of the population mean. The ratio of the standard 
+deviation of the sampling distribution of sample means and the mean of the 
+sampling distribution is called the coefficient of variation  (CV) of the sample 
+mean or the relative standard error (RSE) of the sample mean. That is, 
+CV or RSE = C = standard deviation / mean                       (2.14) 
+CV (or RSE) is a free number or is dimension-less, while the mean and the 
+standard deviation are in the same units as the variable ‘y’. (These definitions 
+can easily be generalised to the sampling distribution of any sample statistic 
+and its SE and RSE.) 
+We have talked about the unbiasedness and precision of the estimate made 
+from the sample. What more can we say about the precision of the estimate and 
+other characteristics of the estimate? This is possible if we know the nature of 
+the sampling distribution of the estimate.   
+
+
+--- Page 33 ---
+ 
+ 
+Research Design and 
+Measurement 
+34 
+The nature of the sampling distribution of, say, the sample mean, or for that 
+matter any statistic, depends on the nature of the population from which the 
+random sample is drawn. If the parent population has a normal distribution 
+with mean µ  and variance σ2 or, in short notation, N ( µ , σ2), the sampling 
+distribution of the sample mean, based on a random sample drawn from this, is 
+N (µ , σ2/n). In other words, the variability of the sample mean is much smaller 
+than that of the variable of the population and it also decreases as the sample 
+size increases.  Thus, the precision of the sample mean as an estimate of the 
+population mean increases as the sample size increases. 
+As we know, the normal distribution N (µ , σ2) has the following properties: 
+i) Approximately 68% of all the values in a normally distributed population 
+lie within a distance of one standard deviation (plus and minus) from the 
+mean, 
+ii) Approximately 95% of all the values in a normally distributed population 
+lie within a distance of 1.96 standard deviation (plus and minus) of the 
+mean, 
+iii) Approximately 99% of all the values in a normally distributed population 
+lie within a distance of 2.576 standard deviation (plus and minus) of the 
+mean. 
+The statement at (iii) above, for instance, is equivalent to saying that the 
+population mean µ  will lie between the observed values (y – 2.576 σ) and (y + 
+2.576 σ) in 99% of the random samples drawn from the population N( µ , σ2). 
+Applying this to the sampling distribution of the sample mean, which is N( µ , 
+σ2/n), we can say that 
+Pr.[(m – 2.576 σ / √n) < µ  < (m+ 2.576 σ / √n )] = 0.99           (2.15) 
+or that the population mean µ  will lie between the limits computed from the 
+sample, namely, (m – 2.576 σ/√n) and (m+ 2.576 σ√n) in 99% of the samples 
+drawn from the population. This is an interval estimate,  or a confidence 
+interval, for the parameter with a confidence coefficient of 99%  derived from 
+the sample.  
+The general rule for constructing a confidence interval of the population 
+mean with a confidence coefficient of 99% is: the lower limit of the 
+confidence interval is given by the “estimate of the population mean minus 
+2.576 times the standard error of the estimate” and the upper limit of the 
+interval by the “estimate plus 2.576 times the standard error of the estimate”.   
+                   (2.16) 
+B) Assessment of Precision – Unknown Population Variance 
+If the parent population is distributed as N (M, σ2) and σ2 is not known, we 
+make use of an estimate of σ2. The statistic ‘s 2 ‘ given in formula 2.6 can be 
+one such, but this is not an unbiased estimate of σ2 as E (s 2) = [(n – 1)/ n] σ2. 
+We, therefore, by using (2.6) and (2.7) have: 
+v(y)=[ns2 /(n – 1)] as an unbiased estimate of σ2.                                        (2.17)  
+v(y) = [1/(n – 1)] [ss]2   or, v(y) = [(1/(n - 1)][  i yi 
+2 – nm2 ]             (2.18) 
+
+
+--- Page 34 ---
+ 
+ 
+35 
+Data Collection and 
+Sampling Design 
+As the sampling variance of the sample mean ‘m’ is σ2/n, an unbiased estimate 
+v(m) of the sampling variance will be v(y)/n.  Let us now consider the statistic 
+defined by the ratio,  
+t = (m – M) / [√v(y) / √n]              (2.19)   
+The numerator is a random variable distributed as N(0, σ2/n) and the 
+denominator is the square root of the unbiased estimate of its variance . The 
+sampling distribution of the statistic ‘t’ is the Student’s t-distribution with  
+(n – 1) degrees of freedom. It is a symmetric distribution. A confidence interval 
+can now be constructed for the population mean M from the selected random 
+sample, say with a confidence coefficient of (1 - α )%. The values of  ‘t α ‘ for 
+different values of α = Pr.[t > t α ] + Pr.[(- t) < (- t α)] = 2 Pr.[ t > t α ] and 
+different degrees of freedom have been tabulated in, for instance, Rao, C.R. 
+and Others (1966). The   confidence interval with a confidence coefficient  
+(1 - α) for the population mean M would be as in 2.19 below – easily computed 
+from the sample observations. 
+ [m – tα v(m) < M < m + tα v(m)]              (2.20) 
+We note that the rule 2.16 applies here also except that we use (i) the square 
+root of the unbiased estimate of the sampling variance of the estimate of the 
+population mean in the place of the standard error of the estimate of the 
+population mean, and (ii) the relevant value of the ‘t’ distribution instead of 
+the normal distribution  ………                    (2.21) 
+We have so far dealt with parent populations that are normally distributed. 
+What will be the nature of the sampling distribution of the sample mean when 
+the parent population is not normally distributed? We examine this question in 
+the next sub-section C.  
+C) Assessment of Precision–Parent Population has a Non-Normal 
+Distribution  
+The Central Limit Theorem ensures that, even if the population distribution is 
+not normal, 
+• the sampling distribution of the sample mean will have a mean equal to the 
+population mean regardless of the sample size, and 
+• as the sample size increases, the sampling distribution of the sample mean 
+approaches the normal distribution.  
+Thus for large ‘n’ (sample size), say 30 or more, we can proceed with the steps 
+mentioned in sub-section A  above. Further, the Student’s t-distribution also 
+approaches the normal distribution as ‘n’ becomes large so that we can use the 
+statistic ‘t’ in sub-section B as a normally distributed variable with mean 0 and 
+unit variance for samples of size 30 or more. We may then adopt the procedure 
+outlined in sub-section A. 
+D) Determination of Sample Size 
+Random sampling methods also help in determining the sample size that is 
+required to attain a desired level of precision. This is possible because the 
+standard error and the coefficient of variation C.V. of the estimate, say, sample 
+mean ‘m’, are functions of ‘n’, the sample size. C.V. is usually very stable over 
+the years and its value available from past data can be used for determining the 
+
+
+--- Page 35 ---
+ 
+ 
+Research Design and 
+Measurement 
+36 
+sample size. We can specify the value of C.V. of the sample mean that we 
+desire as, say, C(m) and calculate the sample size with the help of prior 
+knowledge of the population C.V., namely, C. That is, 
+C(m) = C /√n ; so that √n = C/C(m), or, n = [C/C(m)]2              (2.22) 
+Or we can define the desired precision in terms of the error that we can 
+tolerate in our estimate of ‘M’ (permissible error) and link it with the desired 
+value of C(m). Then,    
+n = [2.576C / e]2 , where the permissible error e = (m – M)/ M.            (2.23) 
+If the sanctioned budget is F for the survey:  Let the cost function be of the 
+form F0 + F1n, consisting of two components – overhead cost and cost per unit 
+to be surveyed. As   this is fixed as F, F = F 0 + F 1n, and the sample size 
+becomes n = (F – F 0 )/F 1. The coefficient of variation of C(m) is not at our 
+choice in this situation since it gets fixed once ‘n’ is determined. We can, 
+however, determine the error in the estimate of ‘m’ from this sample ( in terms 
+of the RSE of m ), if the population CV, C is known. If further we suppose that 
+the loss in terms of money is proportional to the value of RSE of m, say, Rs. ‘ l’ 
+per 1% of RSE of ‘m’, the total cost of the survey becomes, L(n) =  F0 + F1n + 
+l (C/ √√ √√n). We can then determine the sample size that minimises this new cost 
+(which includes the cost arising out of loss) . Differentiating L(n) w.r.t n and 
+equating to zero and simplifying,         
+   n = [(l/2) (C/F1)]2/3                    (2.24)  
+See also the sub-section below on stratified sampling. 
+7.5.4  Methods of Random Sampling 
+We have so far dealt with random samples drawn form a population. We did 
+not specify the size of the population. We had assumed that the population is 
+infinite in size. In practice, a population may have a size N, however, large. Let 
+us, therefore, consider drawing random samples of size ‘n’ from a population 
+of size ‘N’. We shall consider the following methods of random sampling: 
+a) Simple Random Sampling (With Replacement) [SRSWR], 
+b) Simple Random Sampling (Without Replacement) [SRSWOR] 
+c) Interpenetrating Sub-Samples (I-PSS),  
+d) Systematic Sampling (sys), 
+e) Sampling with Probability Proportional to Size (pps) 
+f) Stratified Sampling (sts), 
+g) Cluster Sampling (cs) and 
+h) Multi-Stage Sampling (mss) 
+We shall indicate in the following sections a description of the above methods, 
+the relevant operational procedure for drawing a sample and the expressions/ 
+formulae for (a) the estimator of the population mean/total/ proportion, (b) the 
+sampling variance of the sample mean/total/population and (c) unbiased 
+estimate of the sampling variance.  
+  
+
+
+--- Page 36 ---
+ 
+ 
+37 
+Data Collection and 
+Sampling Design 
+Check Your Progress 2 
+1) Briefly describe the meaning of the terms ‘sampling distribution of a 
+statistic’ and also what is meant by unbiased estimator of a parameter. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) How is random sampling procedure helpful in correcting for the bias of an 
+estimate? Illustrate this with the help of an example. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) Explain the terms ‘coefficient of variation’ and ‘relative standard error’. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+7.5.4.1 Simple Random Sampling with Replacement (SRSWR) 
+The method: This method of drawing samples at random ensures that (i) each 
+item in the population has an equal chance of being included in the sample and 
+(ii) each possible sample has an equal probability of getting selected. Let us 
+select a sample of ‘n’ units from a population of ‘N’ units by simple random 
+sampling with replacement (SRSWR). We select the first unit at random, note 
+its identity particulars for collection of data and place it back in the population. 
+We choose at random another unit – this could turn out to be the same unit 
+selected earlier or a different one, note its identity particulars and place it back. 
+We repeat this process ‘n’ times to get an SRSWR sample of size ‘n’. In such a 
+sample one or more units may occur more than once. A sample of ‘n’ distinct 
+units is also possible. It can be shown that the number of possible samples that 
+can be selected by SRSWR method is N n and that the probability of any one 
+sample being chosen is 1/ N n.  
+Operational procedure for selection of the sample by SRSWR method: 
+Tables of Random Numbers are used for drawing random samples. These 
+tables contain a series of four-digit (or five-digit or ten-digit) random numbers. 
+Supposing a sample of 30 units is to be selected out of a population of 3000 
+units. First allot one number from the set of numbers to 0001 to 3000 as the 
+identification number to each one of the population units. The problem of 
+drawing the sample of size 30 then reduces to that of selecting 30 random 
+numbers, one after another, from the random number tables. Turn to a page of 
+the Tables at random and start noting down, from the first left-most column of 
+(four or five or ten-digit) random numbers, the first four digits of the numbers 
+from the top of the column downwards. Continue this operation on to the 
+second column till the required sample size of 30 is selected. If any of the 
+random numbers that comes up is more than 3000, reject it. If some numbers  
+(< 3000) get repeated in the process, it means that the corresponding units of 
+the population would be selected more than once, this being sampling with 
+replacement.    
+
+
+--- Page 37 ---
+ 
+ 
+Research Design and 
+Measurement 
+38 
+Estimators from SRSWR samples (using notations set down earlier):   
+msrswr = (1/n) i yi  ( i , i = 1 to n) is an unbiased estimator for M              (2.25) 
+Note: If a unit gets selected in the sample more than once, the corresponding 
+value of y i will also have to be repeated as many times in the summation for 
+calculating msrswr . 
+Sampling Variance of msrswr : V(msrswr) = σ2/n = [1/n] [E(yi 
+2 ) – M2 ]       (2.26) 
+Standard Error of  msrswr  : SE(msrswr) =  σ / √n                                          (2.27)  
+CV or RSE of msrswr : C(msrswr) = (1/ √n)(σ / M) = C(y)/√n.                       (2.28) 
+Note that the sampling variance, SE and CV(RSE) of the sample mean in 
+SRSWR is much less than SE and CV of the variable y and these decrease as 
+the sample size increases. The precision of the sample mean in SRSWR, as an 
+estimator of M increases as the sample size increases. However, the extent of 
+decrease in the standard error will not be commensurate with the size of the 
+increase in the sample size. We would need an unbiased estimator of σ2, as σ2 
+may not be known. This is 
+v(y) = [1/(n – 1)][ss]2                             (2.29);  
+Therefore,       v(msrswr) = v(y)/n                        (2.30)  
+an unbiased estimate of Y, or, Y*srswr =  Nm                                             (2.31) 
+V(Y*srswr) = N2 (σ2 /n)                                    (2.32)   
+v(Y*srswr) = N2 (1/n)[1/(n – 1)]  (yi – msrswr)2                                     (2.33) 
+the sample proportion ‘psrswr’ is an unbiased estimate of P                         (2.34) 
+V(psrswr) is PQ/n           (2.35);       and      v(psrswr) = npq/(n – 1)                (2.36) 
+C(psrswr )-( = √[(1/n)(PQ)]/ P = [1/√n)]√[Q/P].                                            (2.37)  
+Confidence intervals for the population mean/proportion and the sample size 
+for a given level of precision and/or permissible error can now be derived easily. 
+7.5.4.2 Simple Random Sampling without Replacement (SRSWOR) 
+The Method:  This method of sampling is the same as SRSWR but for one 
+difference. If a unit is selected, it is not placed back before the next one is 
+selected. This means that no unit gets repeated in a sample. Operationally, we 
+draw random numbers between 1 and N and if a random number comes up 
+again, it is rejected and another random number is selected. This process is 
+repeated till ‘n’ distinct units are selected. It can be shown that the number of 
+samples of size n that may be selected from a population of ‘N’ units by this 
+method is NCn  = N ! /[ (N – n) ! n ! ] =[N(N –1) (N – 2) …(N – n + 1)] / [n(n – 1) 
+(n – 2)…….1]. The probability P srswor(S) of any one of the samples being 
+chosen is, 1/ NCn  . 
+Estimators from SRSWOR samples:  
+msrswor = (1/n) i yi ,  i  ,  i =1 to n, is an unbiased estimator of M             (2.38)    
+V(msrswor) = [(N – n)/ (N – 1)] [σ2/n]  
+                 = [(N – n)/(N – 1)][1/n][(1/N)  i(Yi – M)2],     i, i=1 to N        (2.39) 
+
+
+--- Page 38 ---
+ 
+ 
+39 
+Data Collection and 
+Sampling Design 
+V(m)srswor  < V(msrswr)  since (N – n) / (N – 1) is less than 1 for n > 1,       (2.40) 
+Both m srswor and m srswr are unbiased estimators of M but m srswor is a more 
+efficient estimator of M than m srswr .  The factor [(N – n)/(N – 1)] in (2.40) is 
+called the finite population correction or finite population multiplier. The 
+finite population correction required for finite population need not, however, 
+be used when the sampling fraction (n / N) is less than 0.05.  
+v(msrswor) = [(N – n)/N][1/n][1/(n – 1)][ i (yi – m)2] ,      i , i= 1 to n 
+                 =[(N– n)/N][1/n][1/(n – 1)][ss]2,                                               (2.41)       
+Unbiased estimate of population total Y, that is Y*
+srswor = Nmsrswor             (2.42) 
+V(Y*srswor) = N2 V(msrswor )                                                      (2.43)     
+unbiased estimate of V(Y*srswor), namely, v(Y*srswor) = N2 v(msrswor                   (2.44) 
+C(Y*srswor) = C(msrswor )                  (2.45) 
+the sample proportion ‘p’ is an unbiased estimate of  ‘P’ in SRSWOR  
+also.                    (2.46)  
+V(p) = [(N – n)/ (N – 1)] [PQ/n]    , where P + Q =1                                   (2.47)  
+v(p) = [(N – n)/N] [pq/(n – 1)]  , where p + q = 1                        (2.48) 
+C(p) = √[(N – n)/(N – 1)] √[(1/n) √[Q/P]   and             (2.49)  
+Check Your Progress 3 
+1) A population has 80 units. The relevant variable has a population mean of 
+8.2 and a variance of 4.41. These SRSWR samples of size (i) 16, (ii) 25 and 
+(iii) 49 are drawn from the population. What is the standard error (SE) of 
+the sample means from the three samples? Is the extent of reduction in SE 
+commensurate with that of the increase in sample size? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) What are the results when the sampling method in drawing the three 
+samples in problem 1 above is changed to SRSWOR? What is your advice 
+regarding the choice between increasing the sample size and changing the 
+sampling method from SRSWR to SRSWOR? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) Indicate whether the following statements are true (T) or false (F). If false, 
+what is the correct position? 
+1) The standard error of the sample mean decreases in direct proportion  
+to the sample size.      (T/F) 
+2) SRSWOR method of sampling is more advantageous than SRSWR  
+for a sampling fraction of 0.02    (T/F) 
+3) If Y* = Nm and Variance of m is V(m), the variance of Y* is NV(m).
+        (T/F) 
+
+
+--- Page 39 ---
+ 
+ 
+Research Design and 
+Measurement 
+40 
+7.5.4.3 Interpenetrating Sub-Samples (I-PSS) 
+Suppose a sample is selected in the form of two or more sub-samples drawn 
+according to the same sampling method so that each such sub-sample provides 
+a valid estimate of the population parameter. The sub-samples drawn in this 
+way are called interpenetrating sub-samples (I-PSS).  This is operationally 
+convenient, as the different sub-samples could be allotted to different 
+investigators.  The sub-samples need not be independently selected. There is, 
+however, an important advantage in selecting independent interpenetrating 
+sub-samples. It is then possible to easily arrive at an unbiased estimate of the 
+variance of the estimator even in cases where the sampling method/design is 
+complex and the formula for the variance of the estimator is complicated. 
+Let {t i}, i = 1,2,…,h be unbiased estimates of a parameter θ based on ‘h’ 
+independent interpenetrating sub-samples. Then,  
+t = (1/h) i  t i  , ( i  , i = 1 to h) is an unbiased estimate of θ                      (2.50)  
+v(t) = [1/h(h – 1)] [ i (t i – t)2 ], ( i  , i = 1 to h) is an unbiased  
+estimate of V(t)                  (2.51)       
+If the unbiased estimator ‘t’ of the parameter θ is symmetrically distributed (for 
+example, normally distributed), the probability of the parameter θ lying 
+between the maximum and the minimum of the ‘h’ estimates of θ obtained 
+from the ‘h’ sub-samples is given by: 
+Prob.[Min of {t1, t2 ,---- t h }< θ < Max of {t1, t2,-----t h}] = [1–(1/2)( h – 1)](2.52) 
+This is a confidence interval for θ from the sample. The probability increases 
+rapidly with the number of I-P sub-samples – from 0.5 (two sub-samples) to 
+0.875 (four sub-samples).   
+7.5.4.4 Systematic Sampling  
+The Method: Let {Ui}, i = 1,2,………. N be the units in a population. Let ‘n’ 
+be the size of the sample to be selected. Let ‘k’ be the integer nearest to N/n - 
+denoted usually as [N/n] — the reciprocal of the sampling fraction. Let us 
+choose a random number from 1 to k, say, ‘r’. We then choose the r th unit, that 
+is, Ur . Thereafter, we select every k th unit. In other words, we select the units 
+Ur, U r+k , U r+2k ,………… This method of sampling is called systematic 
+sampling with a random start . ‘r’ is known as the random start and ‘k’  the 
+sampling interval. There would thus be ‘k’ possible systematic samples, each 
+corresponding to one random start from 1 to k. The sample corresponding to 
+the random start ‘r’ will be 
+ {Ur+jk },       j = 0,1,2, r+jk ≤≤ ≤≤ N. 
+The sample size of all the ‘k’ systematic samples will be ‘n’ if N = nk. All the 
+‘k’ systematic samples will not have a sample size ‘n’ if N ≠ nk. For example, 
+if we have a sample of 100 units and we wish to select systematic samples of 
+size 14, the sampling interval is k =  [100/15] or 7 The samples with the 
+random starting 1 and 2 will be of size 15 while the other 5 systematic samples 
+(with random starts 3 to 7) will be of size 14.  
+In systematic sampling, units of a population could thus be selected at a 
+uniform interval that is measured in time, order or space. We can for instance 
+choose a sample of nails produced by a machine for five minutes at the interval 
+
+
+--- Page 40 ---
+ 
+ 
+41 
+Data Collection and 
+Sampling Design 
+of every two hours to test whether the machine is turning out nails as per the 
+desired specifications. Or, we could arrange the income tax returns relating to 
+an area in the order of increasing gross income returned and select every 
+fiftieth tax return for a detailed examination of the income of assesses of the 
+area. Systematic samples are thus operationally easier to draw than SRSWR or 
+SRSWOR samples. Only one random number needs to be chosen for selecting 
+a systematic sample. 
+Estimators from Systematic Samples: 
+An unbiased estimator of the population mean M based on a systematic 
+sample is given by a slight variant of the sample mean, namely, 
+msys* = (k/N)  i yi ,  i , i =1 to n*, n* is the size of the selected sample  
+and k the sampling interval                                  v(2.53) 
+If N = nk, m sys* = m the sample mean. If N ≠ nk, there is a bias in using the 
+sample mean as the estimator for M, and  
+the bias in using the sample mean as an estimator of M is likely to be small in 
+the case of systematic samples selected from a large population.           (2.54) 
+The disadvantages, referred to above, in systematic sampling, namely, N not 
+being a multiplier of the sample size n and the sample mean not being an 
+unbiased estimator of the population mean can be overcome by adopting a 
+procedure called Circular Systematic Sampling (CSS). If ‘r’ is the random 
+start, and k the integer nearest to N / n, we choose the units.  
+{Ur+jk },  if r+jk ≤≤ ≤≤ N and {Ur+jk - N }, if r+jk > N ;   j = 0,1,2,………… ( n - 1).    
+Taking the earlier example of selecting a systematic sample of size 14 from a 
+population of 100 units (N == 100, k = 7 and n = 15) all the samples can be 
+made to have a size of 15 by adopting the CSS.  A random start of 5 will lead 
+to the selection of a sample of the 15 units 5,12,19,26,33,40,47,54,61, 
+68.75,82,89,96 and 3 (96 + 7 – 100). This procedure ensures equal probability 
+of selection to every unit in the population.  
+Besides constancy of the sample size from sample to sample, the CSS 
+procedure ensures that m r the sample mean is an unbiased estimate of the 
+population mean.                    (2.55)  
+Let nk = N. Then m* = m. There are k possible samples, each sample with a 
+probability of 1/k. Let the sample mean of the r-th systematic sample be m r = 
+(1/n) i y ir, where y ir is the value of the characteristic under study for the i-th 
+unit in the r-th systematic sample, summation is from i = 1 to n. As already 
+noted mi is an unbiased estimator of M or E(m r) = M. We thus have k possible 
+unbiased estimates of M. Denoting the sample mean in systematic sampling as 
+msys, the sampling variance of msys, and related results of interest are: 
+V(msys)= σb
+2   (the between-sample variance).                        (2.56)  
+V(msys) = V(y) – σw
+2 , where σw
+2 is within-sample variance.                      (2.57) 
+Equation 2.57 shows that (i) V(m sys) is less than the variance of the variable 
+under study or the population variance, since  σw
+2 is > 0 and (ii) V(m sys) can be 
+reduced by increasing σw
+2, or by increasing the within-sample variance. (ii) would 
+happen if the units within each systematic sample are as heterogeneous as 
+
+
+--- Page 41 ---
+ 
+ 
+Research Design and 
+Measurement 
+42 
+possible. Since we select a sample of ‘n’ units from the population of N units 
+by selecting every k-th element from the random start ‘r’, the population is 
+divided into ‘n’ groups and we select one unit from each of these ‘n’ groups of 
+population units. Units within a sample would be heterogeneous if there is 
+heterogeneity between the  ‘n’ groups. This would imply that units within each 
+of the n groups would have to be as homogeneous as possible. All these 
+suggest that the sampling variance of the sample mean is related to the 
+arrangement of the units in the population. This is both an advantage and 
+disadvantage of systematic sampling. An arrangement that conforms to the 
+conditions mentioned above would lead to a smaller sampling variance or an 
+efficient estimate of the population mean while a ‘bad’ arrangement would lead 
+estimates that are not as efficient.   
+7.5.4.5     Sampling with Probability Proportional to Size (PPS) 
+The Sampling Method: We have so far considered sampling methods in 
+which the probability of each unit in the population getting selected in the 
+sample was equal. There are also methods of sampling in which the probability 
+of any unit in the population getting included in the sample varies from unit to 
+unit. One such method is sampling with probability proportional to size (pps) in 
+which the probability of selection of a unit is proportional to a given measure 
+of its size. This measure may be a characteristic related to the variable under 
+study. One example may be the employment size of a factory in the past year 
+and the variable under study may be the current year’s output. Does this 
+method lead to a bias in our results, as units with smaller sizes would be under 
+represented in the sample and those with larger sizes would be over 
+represented. It is true that if the sample mean ‘m’ were to be used to estimate 
+the population mean M, m would be a biased estimator of M. However, what is 
+done in this method of sampling is to weight the sample observations with 
+suitable weights at the estimation stage to obtain unbiased estimates of 
+population parameters, the weights being the probabilities of selection of the 
+units.   
+Estimates from pps sample of size 1: Let the population units be  {U 1,U2, ----
+---UN}.Let the main variable Y and the related size variable X  associated with 
+these units be{Y 1, X1; Y2, X2; …………YN, XN}. The probability of selecting 
+any unit, say, U i in the sample will be P i = (X i / X), where  iX i = X, where  
+ i  , i = 1 to N. Let us select one unit by pps method. Let the unit selected thus 
+have the values y 1 and x 1 for the variables y and x. The variables y and x are 
+random variables assuming values Yi and X i respectively with probabilities Pi , 
+i = 1,2,…………N. The following results based on the sample of size 1 can be 
+derived easily:    
+An unbiased estimator of population total Y is Y*(1) pps = y1 /p1                    (2.58) 
+An unbiased estimator of M is m*(1)pps  = (1/N) Y*(1)pps = (1/N)(y1 /p1)     (2.59)  
+V[Y*(1) pps] =  i (Yi
+2
+ /Pi ) – Y2                                                                     (2.60) 
+V[m*(1)pps ] = (1/N2) V[Y*
+(1)pps] = (1/N2) [  i (Yi
+2
+ /Pi ) – Y2]                       (2.61) 
+These show that the variance of the estimate will be small if the P i are 
+proportional to Yi.  
+Estimators from pps sample of size > 1 [pps with replacement (pps-wr)] 

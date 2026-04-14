@@ -1,0 +1,507 @@
+--- Page 30 ---
+ 
+ 
+ 
+Canonical Correlation 
+Analysis 
+31 
+-II 
+UNIT 14 CANONICAL CORRELATION 
+ANALYSIS 
+ 
+Structure 
+14.0 Objectives 
+14.1 Introduction 
+14.2 Canonical Correlation Analysis (CCA): Concept and Meaning 
+14.3 Assumptions of Canonical Correlation 
+14.4 Canonical Correlation Analysis as Generalization of the Multiple 
+Regression Analysis 
+14.5 Steps and Procedure Involved in Computation of CCA Results 
+14.6 Illustration of CCA 
+14.7 Interpretation of CCA Results 
+14.8 Limitations of Canonical Correlation 
+14.9 Let Us Sum Up 
+14.10 Key Words 
+14.11 Some Useful Books 
+14.12 Answers or Hints to Check Your Progress 
+14.13 Exercises 
+14.0  OBJECTIVES 
+After going through this unit, you will be able to: 
+• explain the concept of canonical correlation analysis; 
+• state the similarity and difference between multiple regression and canonical 
+correlation; 
+• discuss the steps and procedure involved in canonical correlation; 
+• elucidate how to interpret the results of canonical correlation; 
+• point out the limitations of canonical correlation analysis. 
+14.1  INTRODUCTION 
+The conventional wisdom that the economic agents are rational and are guided by self-
+interest in decision making is being questioned as it ignores the psychological and 
+social factors influencing decision making process. The research findings from many 
+disciplines like neuroscience, cognitive science, psychology, behavioral economics, 
+sociology, anthropology etc. indicate that the decisions made by the individuals in 
+many aspects of development (like savings, investment, energy consumption, health 
+etc.) are influenced by social contexts, local social networks, cultural factors, social 
+norms and shared mental models etc. (World Development Report, 2015). Hence, 
+inter-disciplinary perspective is being recognized as research approach to analyze 
+human behavior so as to improve the predictive power of economics. Canonical 
+ 
+
+
+--- Page 31 ---
+ 
+ 
+ 
+Canonical Correlation Quantitative Methods-II 
+32 
+correlation analysis is a powerful analytical tool to analyze the association between 
+two sets of variables belonging to different disciplines. This method measures the 
+strength of association between the two sets of variables. An attempt is made in this 
+method to concentrate a high-dimensional relationship between two sets of variables 
+into a few pairs of canonical variables. Hence, in this unit, we shall throw light on 
+various issues relating to canonical correlation like concept and meaning of canonical 
+correlation, its similarity and differences with multiple regression, procedure involved 
+in the analysis of canonical correlation, and its advantages and limitations. 
+14.2 CANONICAL CORRELATION ANALYSIS (CCA): 
+CONCEPT AND MEANING 
+Canonical correlation analysis is a multivariate statistical model used to study the 
+interrelationships among sets of multiple dependent variables and multiple 
+independent variables. This technique is distinct from the multiple regression model in 
+the sense that multiple regression predicts a single dependent variable from a set of 
+multiple independent variables whereas canonical correlation simultaneously predicts 
+multiple dependent variables from multiple independent variables. 
+Let us understand the concept with an example. As a student of economics, you may 
+like to know the association between economic inequality X/gP499and political instability 
+Y/gP499. The economic inequality can be measured by five variables i.e. (i) the division of 
+farmland /g4666X/g2869/g4667, (ii) the gini coefficient /g4666X/g2870/g4667, (iii) the percentage of tenant farmers 
+/g4666X/g287P/g4667, (iv) the gross national product /g4666X/g2872/g4667, and (v) the percentage of farmers /g4666X/g2873/g4667. 
+Similarly the political instability can be measured by four variables (indicators) i.e. (i) 
+the instability of leadership /g4666Y/g2869/g4667, (ii) the level of internal group violence /g4666Y/g2870/g4667, (iii) the 
+occurrence of internal war /g4666Y/g287P/g4667, (iv) stability of democracy /g4666Y/g2872/g4667. These two 
+theoretical concepts X/gP499 and Y/gP499 can be called two sets of variables or canonical 
+variables. These can be shown in the following figure: 
+ 
+ 
+  
+ 
+ 
+ .  . 
+ . . 
+ 
+ 
+Fig. 14.1: Canonical Correlation 
+Source: The sage encyclopedia of Social Sciences Research Methods vol. 1 (2004) page no. 83. 
+The first canonical variable X/gP499 is measured by five variables (P = 5) and can be 
+considered as a linear combination (a weighted sum) of these X variables. The second 
+canonical variable Y/gP499 is a linear combination of the q = 4 indicators, Y/g2869 to Y/g2872. The 
+double side curved arrow indicates that the question of casualty remains open. 
+The purpose of canonical correlation analysis is to find the correlation between a 
+linear combination of the variables in one set and a linear combination of the variables 
+in another set. The idea behind this approach is first to determine the pair of linear 
+combinations having the largest correlation. Next, we determine the pair of linear 
+combinations having the largest correlation among all pairs uncorrelated with the 
+X1 
+X2 
+X5 
+Y1 
+Y2 
+Y4 
+X* Y* 
+
+
+--- Page 32 ---
+ 
+ 
+ 
+Canonical Correlation 
+Analysis 
+33 
+-II initially selected pair, and so on. As stated in the above para, the pairs of linear 
+combinations are called the canonical variables and their correlations are called 
+canonical correlations. 
+Thus, canonical correlation aims to (i) identify the dimensions among the dependent 
+and independent variables, and (ii) maximize the relationship between the dimensions. 
+In this manner, in canonical correlation, we can distinguish three types of correlations: 
+1) Correlation between X variables, the correlation matrix is R/g2934/g2934. 
+2) Correlation between Y variables, the correlation matrix is R/g2935/g2935. 
+3) Correlation between X and Y variables, the correlation matrix is R/g2934/g2935/g3404 R′/g2935/g2934. 
+14.3 ASSUMPTIONS OF CANONICAL 
+CORRELATION 
+1) The correlation coefficient between any two variables is based on linear 
+relationship. 
+2) The canonical correlation is the linear relationship between the variates. 
+3) The distribution of variables is normal. 
+4) Hetro-scedasticity, to the extent it decreases the correlation between variables.  
+14.4 CANONICAL CORRELATION ANALYSIS AS 
+A GENERALIZATION OF MULTIPLE 
+REGRESSION ANALYSIS 
+Multiple regression analysis is a multivariate technique which can predict the value of 
+a single dependent variable from a linear function of a set of independent variables. 
+But this is not always the case. There are real life problems, however, when interest 
+may not center on a single dependent variable. Rather, the researcher may be 
+interested in relationships between sets of multiple dependent and multiple 
+independent variables. Canonical correlation analysis is a multivariate statistical model 
+that facilitates the study of interrelationships among sets of multiple dependent 
+variables and multiple independent variables. Whereas multiple regression predicts a 
+single dependent variable from a set of multiple independent variables, canonical 
+correlation simultaneously predicts multiple dependent variables from multiple 
+independent variables. Therefore, canonical correlation analysis is said to be a 
+generalization of multiple correlation used in multiple regression problems.  
+The coefficient of determination R 2, in regression problems is the proportion of the 
+variability in a dependent variable that is accounted for by a set of predictor variables 
+and /gP844 /g3404 √/gP844/g2870
+ is called the multiple correlation coefficient. The multiple correlation 
+coefficient can also be interpreted as a measure of the maximum correlation that is 
+attainable between the dependent variable and any linear combination of the predictor 
+variable. Canonical correlation places the fewest restrictions on the types of data on 
+which it operates. Because the other techniques impose more rigid restrictions, it is 
+generally believed that the information obtained from them is of higher quality and 
+may be presented in a more interpretable manner. For this reason, many researchers 
+view canonical correlation as a last effort, to be used when all other higher-level 
+techniques have been exhausted. But in situations with multiple dependent and 
+independent variables, canonical correlation is the most appropriate and powerful 
+multivariate technique. It has gained acceptance in many fields and represents a useful 
+tool for multivariate analysis, particularly while considering multiple dependent 
+variables. 
+
+
+--- Page 33 ---
+ 
+ 
+ 
+Canonical Correlation Quantitative Methods-II 
+34 
+14.5 STEPS AND PROCEDURE INVOLVED IN 
+COMPUTATION OF CCA 
+In 1935-36, Hotelling proposed a method, known as Canonical Correlation Analysis to 
+investigate “linear” relationship between the two sets of variates. 
+James Press (2005) has expressed the whole idea of this Canonical Correlation 
+Analysis in the following words: 
+“The Canonical correlation” model selects weighted sums of variables from each of 
+the two sets to form new variables in each of the sets, so that the correlation between 
+the new variables in “different sets” is maximized while the new variables within each 
+set are constrained to be uncorrelated with mean zero and unit variance. 
+We shall adhere to Press’s approach. 
+Let  
+  α: p/g2869 /g3400  1 
+and 
+  γ: p/g2870 /g3400  1 
+be two unknown vectors to be determined such that the correlation between α′Y and 
+γ′Z be as large as possible. 
+So, let 
+  U/g2869/g3404α′Y 
+V/g2869/g3404γ′Z 
+and 
+/g2025/g4666U/g2869, V/g2869/g4667 /g3404 Correlation coefficient between U/g2869 and V/g2869. 
+The problem of correlation coefficient now amounts to the following:  
+   maximize /g2025/g4666U/g2869, V/g2869/g4667  
+Subject to  
+   Var /g4666U/g2869/g4667/g3404 Var /g4666V/g2869/g4667/g3404 1  
+and  
+   E /g4666U/g2869/g4667/g3404  E/g4666V/g2869/g4667/g3404 0. 
+Hotelling solved this problem using the celebrated method of Lagrange Multipliers. 
+However, we shall just state the final results. Hotelling showed that this maximization 
+problem is equivalent to following algorithm: 
+Step 1: Solve for /g20P9 the equation 
+/g3628/g3398/g20P9Σ/g2869
+ /g2869Σ/g2869/g2870
+Σ/g2870/g2869/g3398/g20P9Σ/g2870 /g2870
+/g3628/g3404 0    -----------------  (A) 
+Here, Σ/g2869 /g2869/g3404 Var /g4666Y/g4667 
+ Σ/g2870 /g2870/g3404 Var /g4666Z/g4667 
+ Σ/g2869 /g2870/g3404Σ/g2870/g2869/g3404 Var /g4666Y, Z/g4667 
+Let /g20P9/g2869 be the largest positive root of the above equation. 
+ 
+
+
+--- Page 34 ---
+ 
+ 
+ 
+Canonical Correlation 
+Analysis 
+35 
+-II Step 2: Now, solve the system of equations: 
+/g3436/g3398 /g20P9/g2869Σ/g2869 /g2869Σ/g2869/g2870
+Σ/g2870/g2869/g3398/g20P9/g2869Σ/g2870 /g2870
+/g3440/g4672/g2009
+/g20PP/g4673/g3404 0  
+for α and γ.  
+Mathematically, it is not so simple to solve the above system of linear equations. 
+However, there is an equivalent formulation. To compute α and γ, we solve the pair of 
+equations: 
+/g3435Σ/g2869 /g2870Σ/g2870/g2870
+/g2879/g2869Σ/g2870/g2869/g3398/g20P9/g2869
+/g2870Σ/g2869
+/g2869/g3439α/g3404 0 
+/g3435Σ/g2870 /g2869Σ/g2869/g2869
+/g2879/g2869Σ/g2869/g2870/g3398/g20P9/g2869
+/g2870Σ/g2870
+/g2870/g3439γ/g3404 0 
+Step 3: We now call these α and γ as α/g2869 and γ/g2869 respectively; and  
+U/g2869/g3404α/g2869
+′γ  
+and 
+V/g2869/g3404γ/g2869
+′Z 
+as First Canonical Variates.  
+It will turn out that /g20P9/g2869will be the correlation coefficient between U/g2869and V/g2869. We, 
+therefore, write  
+/g20P9/g2869/g3404ρ/g4666U/g2869, V/g2869/g4667 
+and call this as First Canonical Correlation. 
+Step 4: We now proceed to the next iteration. We now define: 
+U/g2870/g3404α/g2870
+′γ 
+V/g2870/g3404γ/g2870
+′Z,
+ 
+where /g2009/g2870 and /g20PP/g2870 are to be determined. 
+maximize /g2025/g4666U/g2870, V/g2870/g4667  
+subject to  
+Var /g4666U/g2870/g4667/g3404 Var /g4666V/g2870/g4667/g3404 1  
+and  
+E /g4666U/g2870/g4667/g3404  E/g4666V/g2870/g4667/g3404 0. 
+We repeat the above procedure to compute α/g2870 and γ/g2870 as solution of 
+/g3436/g3398 /g20P9/g2870Σ/g2869 /g2869Σ/g2869/g2870
+Σ/g2870/g2869/g3398/g20P9/g2870Σ/g2870 /g2870
+/g3440/g4672/g2009/g2870
+/g20PP/g2870
+/g4673/g3404/g46720
+0/g4673 
+w
+here /g20P9/g2870 is the second largest positive root of the equation (A). 
+Step 5: We continue this procedure uptil the smallest positive root. 
+Step 6: The result is now to be collected in a vector format:  
+1
+2
+1
+p
+.
+.
+.
+U
+U
+U
+U
+ 
+ 
+ 
+ 
+=  
+ 
+ 
+   
+  = /g3435U/g2869… /gP847/g3043/g3PP7/g3439
+′
+  
+
+
+--- Page 35 ---
+ 
+ 
+ 
+Canonical Correlation Quantitative Methods-II 
+36 
+and 
+ 
+1
+2
+1
+p
+.
+.
+.
+V
+V
+V
+V
+ 
+ 
+ 
+ 
+=  
+ 
+ 
+   
+ /g3404  /g4666V/g2869… VP/g2869/g4667′. 
+The elements of U and V are called Canonical Variates  and /g20P9/g3036 is corresponding 
+canonical correlation. 
+14.6 ILLUSTRATION OF CCA  
+Let us now understand the canonical correlation analysis technique with the help of an 
+illustration. 
+This example is based on 416 observations collected through primary survey for the 
+purpose of research study entitled “Assessment of Human Well-being in Delhi: 
+Multidimensional Approach”. The researcher attempted to study the relationship 
+between economic well-being variables and overall life satisfaction variables. One of 
+the questions raised in this study was to examine how does economic well-being 
+influence the overall life satisfaction of the people or more specifically, to know 
+whether economic well-being indicators are predictive of overall life satisfaction of 
+people. 
+The main characteristic of canonical analysis is the investigation of the relationship 
+between two sets of variables. One set is the predictor set or, say, analytically, the set 
+of independent variables. The second consists of the criteria or dependent variables.  
+In our example, the set of economic well-being variables constitutes the set of 
+independent variables. This set of economic well-being variables consist of 5 
+indicators of economic  well-being: 
+1) Annual Income 
+2) Movable Assets 
+3) Fixed Assets 
+4) Employment Status 
+5) Educational Attainment 
+Next, the set of criteria variables constitute the overall life satisfaction indicators: 
+1) My life closer to my ideal life 
+2) Circumstances of my life are best to my choice 
+3) I am satisfied with my life 
+4) I have achieved the things in my life I aspired 
+5) I would not prefer to make any drastic change in my rest of life till I survive 
+The data on these two sets of variables was collected through primary survey for the 
+above said study.  
+ 
+
+
+--- Page 36 ---
+ 
+ 
+ 
+Canonical Correlation 
+Analysis 
+37 
+-II Let us now learn to run the Canonical Correlation Analysis for our example using 
+SPSS 
+Step 1: Click file, new and syntax sequence. 
+ 
+Step 2: Then type the following syntax :  
+ 
+
+
+--- Page 37 ---
+ 
+ 
+ 
+Canonical Correlation Quantitative Methods-II 
+38 
+Note that the criterion set of variables are listed before WITH and predictor variables 
+are listed afterwords 
+Step 3: This command can be implemented using RUN button on toolbar menu.  
+ 
+The results of above illustration using SPSS has been presented in this section. The 
+table 1 below shows an overall multivariate test of the entire model using different 
+multivariate criteria. 
+Table 14.1:  Multivariate Tests of Significance 
+Test Name Value Approx. F Hypoth. DF Error DF Sig. of F 
+Pillais .14258 2.40693 25.00 2050.00 .000 
+Hotellings .15845 2.56302 25.00 2022.00 .000 
+Wilks .86055 2.49153 25.00 1509.72 .000 
+Roys .11708    .000 
+Table 14.2: Eigenvalues and Canonical Correlations 
+Root No. Eigenvalue Pct. Cum. Pct. Canon Cor. Sq. Cor 
+1 .13260 83.69055 83.69055 .34217 .11708 
+2 .01720 10.85381 94.54437 .13003 .01691 
+3 .00698 4.40258 98.94695 .08323 .00693 
+4 .00167 1.05222 99.99917 .04080 .00166 
+5 .00000 .00083 100.00000 .00115 .00000 
+
+
+--- Page 38 ---
+ 
+ 
+ 
+Canonical Correlation 
+Analysis 
+39 
+-II In this example, we are not only interested to know whether there is a relationship 
+between the predicator and criterion variables but also wanted to know which 
+indicators of economic well-being are more or less useful in explaining the 
+relationship between life satisfaction and economic well-being. This is exactly where 
+CCA comes into play. The interpretation and evaluation of the results has been 
+discussed in next section. 
+14.7  INTERPRETATION OF CCA RESULTS  
+We now come to the conclusive stages of the Canonical Correlation Analysis. 
+To draw the right conclusions amounts to the correct interpretation of the 
+results obtained by conducting the CCA. 
+The first step is to evaluate the overall statistical significance of the full 
+canonical model. This is done by testing the Null hypothesis. The Null 
+hypothesis is that there is no relationship between the two set of variables. The 
+alternative hypothesis is that the two sets of variables are related.  
+The interpretation of CCA is now accomplished by computing the F-statistic 
+value using the Wilks-/g20P9 test. 
+We now come to the actual interpretation of the CCA as conducted in our example. 
+Here, the value of the computed value of the F-statistic is high and significant. This 
+is given in table 1 as 0.860. This means that we can reject the Null hypothesis. 
+That is to say that we accept the alternative hypothesis. Thus, statistically significant 
+relationship exists between life satisfaction and economic well-being indicators. 
+Let us recall, that the first root (function) is created in such a manner that the canonical 
+correlation between the new variable is maximized and these new variables within 
+each set are uncorrelated with zero mean and unit variance. 
+Let us interpret only those functions which explain reasonable amount of variance 
+between variable sets. In our illustrations, we interpret only the first function as it 
+explains 12% variance within the function as shown in table no. 2.  All other functions 
+explain less than 10% of variance in their functions, hence we can ignore them. 
+So, what we have concluded so far is that there is a statically significant relationship 
+between our two set of variables. Further, this relationship is largely captured by the 
+first root (function) in the canonical model. Next, we want to identify those variables 
+which contribute significantly to explain this relationship between economic well-
+being and overall life satisfaction. 
+In multiple regression analysis, we often look at Beta weights to identify the relative 
+contribution of one independent variable to explain dependent variable. In CCA, we 
+look at the structure coefficient to decide which variables are useful for the model. 
+Therefore, we examine the standardized weights and structure coefficients to interpret 
+the first root (function). Let us underline the point that we are only concerned with the 
+first function and will ignore other functions as they are not significant. 
+To understand the pattern among two set of variables, we have created table 3 showing 
+coefficients which presents the standardized canonical function coefficients (i.e. 
+weights) and structure coefficients for all variables. The squared structure coefficient 
+(r/g2929
+2) are also given, which represent the percentage of shared variance between 
+observed variable and the new variable created from the observed variables set. 
+
+
+--- Page 39 ---
+ 
+ 
+ 
+Canonical Correlation Quantitative Methods-II 
+40 
+Table 14.3: Canonical Solution for Economic Well-being Indicator Predicting 
+Overall Life Satisfaction for Function 1 
+Variable Coef /gP8P8/gP8P9 /gP8P8/gP8P9
+2 (%) 
+Life closer to ideal life .221 -.502 25.20 
+Circumstances of life best to my choice -.692 -.905 81.90 
+Satisfied with life -.223 -.729 53.14 
+Achieved things in life -.400 -.746 55.65 
+Want no drastic change in life -.054 -.427 18.23 
+Annual Income -.381 -.857 73.44 
+Fixed Assets .029 -.256 6.55 
+Movable Assets -.210 -.696 48.44 
+Educational Attainment -.668 -.895 80.10 
+Employment status .219 -.286 8.17 
+Coef: Standized Canonical Function Coefficient, r/g2929 = Structure Coefficient, r/g2929
+2 = 
+Squared Structure Coefficient 
+Looking at the coefficient, we find that relevant dependent variables are: the 
+circumstances of life are best to my choice, I am satisfied with my life and I have 
+achieved things in my life I aspired, because all these variables high squared structure 
+coefficient which indicates the amount of variance the observed variable can 
+contributed to new latent criterion variable. Looking at the other side of the equation 
+on function 1 which involves predicator set, we find that Annual Income, Movable 
+Assets and Educational Attainment variables were primary contributors. You must 
+note that this process for interpretation of function is same as identifying the useful 
+predictors in regression analysis with the exception that in canonical correlation 
+analysis we have two set of equations for consideration.  
+Check Your Progress I 
+1) What do you mean by the term ‘inter-disciplinary perspective’ 
+……………………………………………………………………………………… 
+……………………………………………………………………………………… 
+……………………………………………………………………………………… 
+2) How is CCA useful to address the inter-disciplinary nature of research questions? 
+……………………………………………………………………………………… 
+……………………………………………………………………………………… 
+……………………………………………………………………………………… 
+3) State the steps involved in computation of CCA through SPSS software. 
+……………………………………………………………………………………… 
+……………………………………………………………………………………… 
+……………………………………………………………………………………… 
+14.8 LIMITATIONS OF CANONICAL 
+CORRELATION 
+1) The canonical correlation express the variance shared by the linear composites of 
+the set of variables and not the variance extracted from the variables. 

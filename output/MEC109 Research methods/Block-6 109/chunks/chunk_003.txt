@@ -1,0 +1,589 @@
+--- Page 19 ---
+ 
+ 
+19
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+(earlier called “GDP at factor cost”) can be compiled by using the estimates of 
+GVA at basic prices and production taxes less subsidies. These have been 
+given in Statement 3.1 of this note. For the years 2011-12, 2012-13 and  
+2013-14, GVA at factor cost have been compiled and are presented in 
+Statements 10.1 & 10.2 of the press release. 4Note that GVA at basic prices = 
+GVA at factor cost + net taxes on production and GDP at market prices = GVA 
+at basic prices + net taxes on products. 
+CSO releases, every January, “first revised estimates”, earlier called the “Quick 
+Estimates” of GDP, National Income, per capita National Income, Private Final 
+Consumption Expenditure, Saving and Capital Formation by broad economic 
+sectors5 for the financial year that ended in March of the preceding year.  Quick 
+Estimates for any financial year are thus available with a time lag of ten 
+months. It also releases, along with Quick Estimates for any financial year, 
+revised estimates of national accounts aggregates for earlier financial years.  
+Further, CSO brings out Advance Estimates of GDP, GNI , NNI and per 
+capita NNI. The GDP, from the base year 2011-12,  is published at market 
+prices, as per the latest international norms . Previously, it was published 
+at factor cost . Advance estimates of the GDPfor the current financial year is 
+published in February, two months before the close of the financial year.  
+These advance estimates are revised thereafter and the undated advance 
+estimates are released by the end of June, three months after the close of the 
+financial year. Meanwhile, by the end of the March, Quarterly Estimates of 
+GDP for the quarter ending December of the preceding year are also released.  
+Thus by the end of March every year, that is, by the end of every financial year, 
+advance estimates of national income for the financial year that just ended, first 
+revised estimates of national income for the preceding financial year and the 
+quarterly estimates of national income up to the preceding quarter, that is, up to 
+the quarter that ended in December of the financial year that just ended become 
+available. 
+CSO sets before itself an advance release calendar for the release of national 
+accounts statistics over a period of two years. 6  For instance, the Advanced 
+Release Calendar for the years 2015 indicates that the Quarterly Estimate of 
+GDP for any quarter during the period January, 2015 to end of September, 
+2015 would be available at the end of the next quarter. It also indicates the 
+dates on which Advance Estimates, Quick Estimates and Revised Advance 
+Estimates pertaining to the financial years ending on the 31 st March, 2006, 30 th 
+June, 2006, 29th September, 2006 and 29th December, 2006, respectively would be 
+released.  Similarly, Revised  Advance Estimates for the financial year 2004-05, 
+Quick Estimates for the financial year 2004-05, Advance Estimates for the 
+financial year 2005-06 and Revised Advance Estimates for the financial year 
+2005-06 would be released on the 30 th June, 2005, the 31 st January, 2006, the 
+7th February, 2006 and the 30th June, 2006, respectively.  CSO has already (30th 
+January, 2015) released the following estimates, as proposed: 
+i) First Revised Estimates for 2013-14 at current and constant (2011-12) prices, 
+                                                            
+ 
+4  These 2 paragraphs have been taken from the Press release of the CSO dated 30 th January 
+2015. 
+5  1. Agriculture, Forestry & Fishing. 2. Mining & Quarrying, 3. Manufacturing, 4. Electricity, 
+Gas & Water Supply, 5. Construction, 6. Trade, Hotels & Restaurants, 7. Transport, Storage 
+& Communication, 8. Financing, Insurance, Real Estate & Business Services, 9. Community, 
+Social & Personal Services. 
+6  This also takes care of SDDS referred to earlier. 
+
+
+--- Page 20 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+20 
+National Income, Saving 
+ii) First revised Estimates of GDP, National Income, per capita National 
+Income, Consumption Expenditure, Saving and Capital Formation for 
+2013-14 (along with revised estimates of the earlier two years)at current 
+and constant (2011-12) prices, 
+iii) Advance Estimates of GDP, GNP and NNP and per capita NNP for  
+2014-15 at current and constant (2011-12) prices (on the 9th February, 2015). 
+The NAS 2014 presents estimates of GNP, NNP and the corresponding 
+domestic products GDP andNDP at factor cost and market prices at current and 
+constant (2004-05) prices7. Besides giving estimatesof the components of GDP, 
+estimates like Government Final Consumption Expenditure(GFCE), Private 
+Final Consumption Expenditure (PFCE) in the domestic market, Gross 
+Domestic Saving (GDS), Gross Domestic Capital Formation (GDCF), Exports, 
+Imports, net factor income from abroad and the share ofthe public sector in 
+GDP it presents8, estimates of the following aggregates at current and constant 
+prices(2011-12 prices) for 2013-14 and the period 2011-12 to 2013-14: 
+i) The contribution to GDP and NDP of different economic activities 9. 
+ii) Quarterly estimates of GDP by broad economic sectors; 
+iii) GDP of sub-groups of each of the economic activities (see footnote 9) 1.1 
+and also separately for its livestock sub-sector 10, 1.2,1.3,3.1,3.2,4, the sub-
+sectors of 4 namely, electricity, gas and water supply. 
+iv) NDP for the sub-group 10, namely, Public Administration & Defence, by 
+(a) Central Government and Union Territories; (b) individual State 
+Governments; (c) local authorities; and (d) quasi government bodies. 
+v) Factor incomes (compensation for employees and operating surplus/mixed 
+income) of NDP for each economic activity (at current prices). 
+vi) Factor incomes of NDP of the unorganized segment of each economic 
+activity (at current prices). 
+vii) Property incomes (rent and interest) and Financial Intermediation Services 
+Indirectly Measured (FISIM) in the organized and unorganized segments 
+of each economic activity (at current prices). 
+viii) Net National Disposable Income, Private Income, Personal Income and 
+Personal Disposable Income. 
+                                                            
+ 
+7 As mentioned earlier, the shift in the base for constant prices to 1999-00 was made in 
+January, 2006, that is, after the publication of NAS 2005 in May, 2005. NAS 2006, due in 
+June, 2006, would be presenting estimates at constant prices at 1999-00. Besides the press 
+note of MoSPI referred to in the text, the Economic Survey 2006 of the Ministry of 
+Finance presented by the Finance Minister to Parliament on the 27 th February, 2006 also 
+contains estimates released by CSO at current and constant (1999-00) prices for the years 
+2005-06 (Advanced Estimates), 2004-05 (Quick Estimates), 2003-04 and 2002-03.  
+8  Estimates of some of these macro aggregates are also published in the Monthly Bulletin of 
+RBI. 
+9 1. Agriculture and Allied Activities; 1.1. Agriculture; 1.2. Forestry& Logging; and 1.3. 
+Fishing; 2. Mining & Quarrying; 3. Manufacturing; 4. Electricity, Gas, Water Supply and 
+other utility services; 5. Construction; 6. Trade, Repair, Hotels & Restaurants; 7. Transport, 
+Storage, Communication and services related to broadcasting; 8. Financial services, 9. Real 
+Estate Ownership of dwelling &Professional Services; 10. Public administration and defence 
+and 11 Other Services; 
+10The livestock sub-sector is a sub-sector of the sub-group ‘agriculture’ (1.1 in the preceding 
+footnote) and includes animal husbandry, (fuel & manure), silk worm cocoons and honey. 
+
+
+--- Page 21 ---
+ 
+ 
+21
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+ix) GDP and NDP of the Public Sector by type of public sector institutions 11 
+and economic activity. 
+x) Factor incomes of Public Sector NDP for each economic activity by type 
+of institutions (current prices). 
+xi) Property incomes and FISIM in each economics activity of Public Sector 
+by type of institutions. 
+xii) Value of output, inputs and consumption of fixed capital (CFC) for a 
+number of economic activities. 
+xiii) Financial Assets and Liabilities of the Household sector. 
+xiv) Economic and Purpose Classification of Current and Capital Expenditure 
+of Administrative Departments (current prices). 
+xv) Production Accounts of (a) Railways, (b) Communication, (c) Departmental 
+Enterprises other than (a) and (b), and (d) Producers of Government 
+Services. 
+xvi) Detailed external transactions accounts. 
+xvii) Depreciation as provided in the books of accounts of public sector 
+institutional groups12 and private corporate sector; and 
+xviii) Time series of GNI, GDP NNP, NDP, Per capita NNI and other 
+macroeconomic aggregates like CFC, net factor income from abroad, 
+PFCE in the domestic market, GFCE exports, imports and mid-year 
+population from 1950-51 to 2013-1413. 
+Estimates of the aggregates referred to at (i), (vii), (xiii), (xvi) and PFCE and 
+its distribution by object and by type of goods, GFCE for the period 2004-05 to 
+2012-13 at current and constant (2004-05)Prices and the time series estimates 
+referred to at (xvii) above at current and constant (2004-05) prices have been 
+released by CSO in NAS 2014 by the end of May 2014 and posted on the 
+MoSPI website. 
+What about separate estimates of National Income aggregates for rural and 
+urban areas? CSO publishes estimates of NDP for rural and urban areas for 
+each economic activity (see footnote 8) at current prices for each of the base 
+year, namely, 1970-71, 1980-81, 1993-94, 1999-2000 and 2004-05.  
+b)  Other Publications Giving CSO’s Estimates 
+The Handbook of Statistics on the Indian Economy 14 – 2013-14, published 
+by the Reserve Bank of India (RBI) also publishes time series from 1952-53 
+of macro economic aggregates (that would otherwise have to be compiled from 
+different issues of the NAS document) like GDP at factor cost, CFC, NDP at 
+factor cost, indirect taxes less subsidies, NDP at market prices, net factor 
+income from abroad, GNP at factor cost, NNP at factor cost, GNP at market 
+price, NNP at market price, personal disposable income, GDP and NDP of 
+                                                            
+ 
+11  Administrative Departments, Departmental Enterprises, Non-departmental Enterprises and 
+Quasi-Government Bodies. 
+12 Administrative Departments, Public Sector departmental Enterprises subdivided into (i) 
+Railways, (ii) Communication; and (iii) others and Public Sector Non-Departmental 
+Enterprises subdivided into (i) financial companies; and (ii) non-financial companies. 
+13 The Pre-budget Economic survey also presents the time series on GNP, GDP, NNP and per 
+capita NNP and mid year population. 
+14 Published annually. This can downloaded from the RBI WEBSITE http://rbidocs.rbi.org.in/ 
+rdocs/Publications/PDFs/000HSE13120914FL.pdf 
+
+
+--- Page 22 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+22 
+National Income, Saving 
+public sector (from 1960-61), gross and net domestic capital formation, per 
+capita GNP and NNP, at one place. The Economic and Political Weekly 
+research Foundation (EPWRF) also presents comprehensive national income 
+statistics in a time series format from time to time along with details of 
+concepts, methodology and data sources for ready use by researchers. It 
+provides data from 1950-51 to 2011-12 with 2004-05 as the base year 
+(http://www.epwrfits.in/TimeSeriesDataResearch.aspx)” is the latest. This 
+can be obtained from EPWRF either as a subscriber or through a pay per 
+module mode.  National Accounts Statistics of most countries and areas of the 
+world can be accessed at the UNSD website http://unstats.un.org/ 
+unsd/nationalaccount/madt.asp. At the time of writing the module, the latest 
+year for which this data is available is 2013. 
+c)  Limitations of the Estimates 
+The concepts and methodology used and the data sources utilized for making 
+these estimates are set out in two publications of the CSO, namely, “National 
+accounts statistics : Sources and Methods” (available for the base 2004-05 
+series, published by the CSO in 2012)  and “New Series on National 
+Accounts (Base 2004-05)” (CSO, 2010). The MoSPI Press Note dated the 
+31st January, 2006 releasing Quick Estimates of National Income, etc., for 
+2004-05 indicates briefly the changes in the new series of National Accounts 
+Statistics with base year 2004-05. The publication NAS- Manual of estimating 
+state and District Income, 2008 provide the methodology for making estimates 
+of GSDP and GDDP. Besides, the publication “National Accounts Statistics” 
+brought out every year has a chapter titled “Notes on Methodology and 
+Revision in the Estimates”. This chapter in the NAS also contains tables 
+explaining, sector-wise, reasons for the revision in GDP growth rate as per the 
+different types of estimates (like revised advance, quick, etc., estimates) 
+released in the preceding year. For instance, NAS 2014 gives the reasons for 
+revision in GDP growth rate during. 
+i) 2012-13 between the provisional Estimates released in May, 2013 and first 
+revised estimates released in January, 2014; 
+ii) 2011-12 between First Revised Estimates released in January, 2013 and 
+Estimates released in January, 2014; and 
+iii)  2010-11 between Estimates released in January, 2013 and Estimates 
+released in January, 2014. 
+Limitations of estimates of national income aggregates arise from insufficiency 
+of data or the choice of data in capturing adequately income flows. Estimates 
+of GDP/NDP at factor cost by sectors can be classified into two broad 
+categories from the point of view of differences in the data base – direct 
+estimates and indirect estimates. Direct estimates are based on statistics 
+available annually on a regular basis so that these reflect year-to-year variations 
+in the volume of the economic activities concerned. The translation of such 
+annual statistics into National Accounts aggregates requires the use of certain 
+norms and ratios or other assumptions. Resort to readily available indications 
+of the economic activity in question has often to be made when and if there are 
+delays on the part of the data-generating agencies in supplying the required 
+regular annual data. As a result, revisions made in the estimates of national 
+accounts aggregates when regular annual data become available later lead to 
+major changes in the provisional estimates released earlier. Direct estimates  
+mostly cover the institutional groups, (i) the public sector (and the Government 
+
+
+--- Page 23 ---
+ 
+ 
+23
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+component within it), and (ii) the private corporate sector, or what is usually 
+referred to as the ‘organised’ segment of the economy. On the other hand, 
+indirect estimates  require to be made when regular annual statistics are not 
+available in respect of any economic activity. How are these made? Estimates 
+based on periodic benchmark surveys are first derived for the survey year. 
+These are then extrapolated forward or backward, as required, on the basis of 
+physical indicators of the economic activities concerned. The degree of 
+approximation involved in this procedure depends critically on the sensitivity 
+of the indicator in reflecting year-to- year variations in the volume of the 
+economic activity concerned. Indirect estimates are used in respect of the 
+institutional groups, (a) households, and (b) non-profit institutions serving 
+households (NPISH) and the “unorganized” segment of the economy. The 
+share of direct estimates in aggregate GDP has increased from 57.6 per cent in 
+the series with 1970-71 as the base year to 63.7 per cent in the series with 
+1980-81 as the base year and to 89.6 per cent in the series with 1993-94 as the 
+base year. The share of direct estimates in different sectors in the GDP series 
+with 2004-05 as the base year varied from 100 per cent in Mining, Registered 
+Manufacturing, Electricity, Gas & Water Services, Railways and Public 
+Administration &Defence sector to about 21 per cent in trade sector 15. As such, 
+the share of organized sector in 2012-13 had become only 44.7 per cent of the 
+economy (with base year 2004-05, page 1i, NAS 2014). 
+The intention of this sub-section is not to comment adversely on the admittedly 
+complex task of compiling national accounts statistics but to draw attention to 
+limitations that need to be kept in mind by users as economists/statisticians/ 
+analysts utilizing these data while carrying out their research, analytical and 
+advisory work. Improvements in data and methodology for estimating national 
+accounts aggregates constitute a continuous process, calling for efforts across 
+sectors, in which Ministries in the central Government, regulatory agencies, the 
+CSO, the State Directorates of Economics & Statistics and other research 
+institutions participate. The interesting reader may like to familiarize 
+himself/herself with the work being done by the Indian Association for 
+Research in National Income and Wealth, New Delhi. Their Bulletin would 
+show the efforts underway to bring about further improvements in national 
+accounts methodologies and statistics. The recommendations of the  National 
+Statistical Commission (2001) will also pave the way to further enhancement 
+of the quality of these estimates. 
+21.3.3 The Input-Output Table 
+Any economic activity is dependent on inputs from other economic activities 
+for generating its output and the output from this economic activity serves as 
+inputs for producing the output from other activities. Data relating to the 
+interrelationship among different sectors of the economy and among different 
+economic activities are thus important for analyzing the behavior of the 
+economy and, therefore, for formulation of development plans and setting 
+targets of macro variables like output, investment and employment. Such an 
+input-output table will also be useful for analyzing the impact of changes in a 
+sector of the economy or economic activity on other sectors of the economy 
+and indeed the entire economy. An Input-Output Transactions Table 
+(IOTT) is prepared by CSO from time to time. The latest to be published is the 
+one relating to 2007-0816. It gives, besides the complete table, the methodology 
+                                                            
+ 
+15 This paragraph is based on Section 13.2 Chapter 13 of the Report of the National Statistical 
+Commission.  
+16  This can be accessed at http://mospi.nic.in/Mospi_New/upload/iott-07-08_6nov12.htm 
+
+
+--- Page 24 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+24 
+National Income, Saving 
+adopted, the database made use of, analysis of the results and the 
+supplementary tables derived from the IOTT giving the input structure and the 
+commodity composition of the output. The Planning Commission updates and 
+recalibrates the IOTT and prepares an Input-Output table for the base period of 
+a Five Year Plan being formulated and another Input-Output table for the 
+terminal year of the Five Year Plan. The detailed results of this exercise, 
+carried out in the Planning Commission for the formulation of any Five Year 
+Plan, are published by the Planning Commission as the Technical Note to the 
+Five Year Plan. The Technical Note contains the relevant Input-Output Table, 
+the methodology adopted and related material. The latest available in this series 
+is the Technical Note tothe Tenth Five Year Plan. The IOTT of CSO and the 
+Input-Output Table of the Planning Commission would be useful to researchers 
+interested in exploiting the power of the input-output technique in economic 
+and econometric analysis in their research work. 
+21.3.4 Regional Accounts – Estimates of State Income and 
+Related Aggregates 
+a) Estimates of States Domestic Product (SDP) Prepared and Released 
+by State Governments and Union Territory Administrations 
+State Accounts Statistics (SAS) consist of various accounts showing the flows 
+of all transactions between the economic agents constituting the State economy 
+and their stocks. The most important aggregate of SAS is the State Domestic 
+Product (SDP) (State Income). Estimates of GSDP and NSDP at constant and 
+current prices are being prepared and published by the Directorates of 
+Economics and Statistics (DES) of all State Governments and Union 
+Territory Administrations except the Union Territory Administrations of 
+Dadra & Nagar Haveli, Daman & Diu and Lakshadweep.  
+b) Other Publications Giving Estimates of SDP Made by State/UT DES 
+The State Governments and Union Territory Administrations send their 
+estimates of SDP to the CSO. These estimates at current and constant prices are 
+available in the CSO website. The pre-Budget Economic Survey presented to 
+Parliament by the Finance Minister every year contains these estimates (as a 
+time series from 1993-94) of Net State Domestic Product (NSDP) at current 
+prices. The RBI Handbook  referred to above provides more detailed data 
+drawn from the CSO website. It presents: 
+i)  estimates of NSDP at current and constant prices – one set with the 
+constant prices base 1980-81 for the period 1980-81 to 1998-99 and the 
+other with the constant prices base 1993-94 for 1993-94 to 2003-04; and 
+ii)  estimates of NSDP by economic activity and per capita NSDP at current 
+and constant (1993-94) prices for the period 1993-94 to 2003-04; (new 
+series). 
+Estimates of State Income (gross State Domestic Product) made by States and 
+Union Territories by economic activity at current as well as constant prices are 
+readily available in a (short) time series format at one place in the publication 
+of the CMIE (EIS), Mumbai referred to above. These estimates at current and 
+constant prices by sectors for the period 1960-61 to 2000-01 have also been 
+brought together at one place for the use of research scholars by the EPWRF in 
+their publication Domestic Product of States of India: 1960-61 to 2000-01 
+
+
+--- Page 25 ---
+ 
+ 
+25
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+(EPWRF, June , 2003) . These are also available on the website of the 
+EPWRF and in user-friendly and interactive CD ROMS.17 
+c) Limitations of Estimates of SDP 
+The preparation of estimates of SDP call for much more detailed data than for 
+the preparation of national level estimates, especially on flows of goods and 
+services and incomes across geographical boundaries of States/ Union 
+Territories. Conceptually, estimates of SDP can be prepared by adopting two 
+approaches. These are the income originating approach and the income 
+accruing approach. In the former case, the measurement relates to the income 
+originating to the factors of production physically located within the area of a 
+state. In other words it is the net value of goods and services produced within a 
+state. In the latter case, the measurement relates to the income accruing to the 
+factors of production physically located within the area of a State. Here,  the 
+measurement relates to the income accuring to the normal residents of a State. 
+The income accruing approach provides better measure of the welfare of the 
+residents of the State. Preparation of estimates of SDP using the income 
+accruing approach is not possible because data on inter-State flow of goods and 
+services are not available. Compilation of other aggregates of State accounts is 
+also problematic because the data required for the purpose, especially on inter-
+State flows of incomes, are not available. 18 Thus only the income originating 
+approach is used in preparing estimates of SDP. This has to be kept in mind 
+while using estimates of SDP. 
+Efforts have been made by the CSO over the years to bring about a good 
+degree of uniformity across States and Union Territories in SDP concepts and 
+methodology. The major milestones in these efforts are:19 
+i) the recommendations of the First report of the Committee on Regional 
+Accounts (CSO, 1974) set up by the Government of India and the Final 
+Report of the Committee (CSO , 1976) in the form of a set of Standard 
+Tables to be prepared and a system of regional accounts, besides 
+suggestions regarding steps to fill gaps in data vis a vis  those needed for 
+compilation of SDP, for the guidance of DES of States/Union Territories; 
+ii)  the article “ Mahabaleshwar Accounts of States” in the October, 1976 
+issue of the Journal of Income & Wealth; 
+iii) the article “ The Status of State Income Estimates” appearing in the 
+October, 1980 issue of the Monthly Abstract of Statistics (CSO); and 
+iv) the article “Comparable Estimates of SDP – 1970-71 to 1975-76”  appearing 
+NAS, January, 1979 of CSO, which described the methodology of 
+preparing estimates of SDP. 
+v) the publication “ National Accounts Statistics: Manual of Estimating 
+State and District Income, 2008” published by the CSO in 2008. 
+Are the estimates of SDP of different States/Union Territories comparable? 
+Probably not. The successive Finance Commissions have found it necessary to 
+get comparable estimates of NSDP and per capita NSDP made for their use for 
+periods relevant to their work. These comparable estimates of SDP are 
+published in the Reports of the successive Finance Commissions from the 
+                                                            
+ 
+17  E-mail id for queries to EPWRF: epwrf@vsnl.com . 
+18  The Report of the National Statistical Commission, Chapter 13 section 13.7. 
+19  ibid.  See also the Preface to EPWRF publication on SDP in the preceding sub-section (b) on 
+other publications giving SDP estimates. 
+
+
+--- Page 26 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+26 
+National Income, Saving 
+sixties. The EPWRF publication on SDP referred to earlier also provides 
+comparable estimates of SDP and evaluates these with reference to those made 
+for the periods 1960-61 to 1964-65, 1976-77 to 1978-79, 1982-83 to 1984-85, 
+1987-88 to 1989-90 and 1994-95 to 1996-97 for the use of the Finance 
+Commissions. The question of comparability of estimates of SDP of different 
+States/Union Territories is important from the point of view of their use in 
+econometric work involving Inter-State or regional comparisons or the 
+contribution of the regions or the States to the national product. 
+21.3.5 Regional Accounts – Estimates of Districts Income 
+The need for preparing estimates of district income has become urgent in the 
+context of decentralization of governance and the importance of, and the 
+emphasis on, decentralized planning or planning from below. Of late, it has 
+gained a special importance, as this is one of the three indicators to compile the 
+district-wise Human Development Index, prepared by some of the States. The 
+State Governments have realized this need and estimates of District Domestic 
+Product (DDP) are being prepared by a number of State DES and published by 
+them in State Statistical Handbooks/Abstracts/Economic Surveys and are 
+also posted on their websites . The position in different States and Union 
+Territories (zone-wise) is as follows: 
+Type of estimate of DDP State/ UT Base 
+year 
+1. for all years till 2013-14 Rajasthan 2004-05 
+2. for all  years till 2012-
+13 
+Andhra Pradesh, Arunachal Pradesh, 
+Assam, Madhya Pradesh, Maharashtra, 
+Meghalaya, West Bengal 
+2004-05 
+3. for all  years till 2011-
+12 
+Bihar, Haryana, Himachal Pradesh, 
+Karnataka, Kerala, Chhattisgarh, Punjab, 
+Tamil Nadu, Telangana, Uttar Pradesh 
+2004-05 
+4. for all years till 2010-11 Nagaland, Odisha, Uttarakhand 2004-05 
+5. Up to 2005-06/ 2006-
+07/ 2007-08 
+Jharkhand, Mizoram, Andaman &Nicobar 
+Islands/ Manipur / Sikkim 
+1999 – 
+2000 
+6. Not available Goa, Gujarat, Jammu & Kashmir, Tripura, 
+Delhi, Puducherry 
+ 
+7. Not required Chandigarh, as the UT has only 1 district  
+For some of the States in 6, it might be available with the State Directorate of 
+Economics and Statistics, but not available centrally at one location. 
+The methodology for preparing estimates of district income at present is based 
+on20 
+i) The recommendations of the Report21 of the Technical Group set up by 
+the Department of Statistics for recommending a suitable methodology 
+for preparing estimates of district income;  
+ii) The methodology developed in August, 1996 jointly by the DES of Uttar 
+Pradesh and Karnataka – a task entrusted to these organization by CSO in 
+1995. 
+                                                             
+20 See Methodology of estimating State and District Domestic Product, CSO, 2008. 
+21 Submitted in January, 1987. 
+
+
+--- Page 27 ---
+ 
+ 
+27
+Macro-Variable Data: 
+National Income, Saving 
+and Investment
+The income originating approach is adopted for compiling district income 
+estimates in the light of the kind of data that is available. As mentioned earlier, 
+the income accrual approach can measure the welfare of the normal residents 
+of the district in a more reliable manner. However, as flow of funds from 
+district to district is not available and difficult to estimate, the income 
+originating approach is followed. It is necessary to make adjustments, in the 
+estimates based on the income originating approach, for flow of incomes 
+across territories of districts that are rich in resources like minerals or forest 
+resources and where there is a daily flow of commuters from other districts. 
+There are a lot of problems in the context of data availability separately for 
+each district. For most of the commodity producing sectors, like agriculture, 
+mining and registered manufacturing, data is fairly available. But, in remaining 
+sectors, it is very scanty. Even within the agricultural sector, even if one can 
+get the district-wise production, prices at each district sometimes may not be 
+available. In case of entire unorganized sector, where national and State level 
+estimates are based on periodic surveys, reliable district level estimates from 
+these data cannot be prepared due to limitations in sample size.  
+21.3.6 National Income and Levels of Living 
+The foregoing paragraphs have talked about the availability of estimates of 
+macroeconomic aggregates at the national and state levels, in different 
+economic activities, in segments of economic and geographic spaces like 
+public and private sectors, and households and rural and urban areas. What do 
+trends in the magnitude of these variables say about the welfare of different 
+sections of society? Precious little, perhaps, especially when these are 
+considered without information on the manner in which the macroeconomic 
+aggregates are distributed among these sections of society. Per-capita national 
+income or even per-capita personal disposable income can only indicate overall 
+(national) averages. Distribution of population by levels of income can be a big 
+step forward in understanding how well the performance in the growth of GDP 
+has translated into or has not translated into, improvements in levels of living 
+for sections of society below levels considered the minimum desirable level. It 
+would also help us analyse whether inequalities in levels of living have 
+worsened or abated. What about the level of unemployment or levels and 
+quality of employment? What about the health status of people? Or, to consider 
+all these indicators of the state of a society and different sections of society, 
+what are the levels of human development and gender discrimination? Such 
+lines of analysis and the data required for the purpose are important from the 
+point of view of planning for a strategy of growth with equity. 
+The Quinquennial Consumer Expenditure Surveys of the NSSO provides 
+such data. These provide the distribution of households by monthly per capita 
+consumption expenditure (MPCE) classes. You have already looked at such 
+data and their implications for planning and policy in Unit 4 on “Poverty and 
+Inequality – Policy Implications” in Block 1 on “Framework of the Indian 
+Economy” in Course MEC-105 on “Indian Economic Policy” in your first year 
+course. As you have seen there, the latest available data on this relate to  
+2011-12, flowing from the 68 th round NSSO survey of 2011-12. The next 
+such comprehensive survey (74 thRound of NSS)is planned in 2016-17. You 
+have also looked at the data on recent trends on growth rate of employment and 
+the growth rate of the economy (employment elasticity) in Unit 5 on 
+“Employment and Unemployment: Policy Implications” and comprehensive 
+indicators like Human Development Index and the Gender Development Index 
+
+
+--- Page 28 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+28 
+National Income, Saving 
+in Units 3 and 4 in Block 1 of Course MEC-005. You would have noted that 
+the Human Development Reports prepared by the Planning Commission 
+(available on its website) and several State Governments contain detailed 
+data on these questions. 
+Check Your Progress 2 
+1) List the various components of the system of National Accounts. 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+2) Which have been the base years for compilation of national accounts 
+statistics (NAS)? What is the difference between base year revision and 
+revision of estimates in annual series of the NAS? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+3) In addition to CSO, which other agencies bring out the data on macro 
+economic aggregates? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+4) By whom the estimates of state income and related aggregates are made? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+……………………………………………………………………………… 

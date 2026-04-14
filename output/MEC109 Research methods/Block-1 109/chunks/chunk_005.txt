@@ -1,0 +1,456 @@
+--- Page 43 ---
+43
+Approaches to Scientific
+Knowledge: Positivism and
+Post Positivism
+UNIT 3 MODELS OF SCIENTIFIC
+EXPLANATION
+Structure
+3.0 Objectives
+3.1 Introduction
+3.2 Unified View of Rules of Positivism
+3.3 Search for the Criterion of Cognitive Significance
+3.4 Rules of Logic or Rules of Correct Reasoning
+3.4.1 ‘Categorical Syllogism’
+3.4.2 Hypothetical Syllogism
+3.4.3 ‘Logical Truth’ and ‘Material Truth’
+3.4.4 Deductive Fallacies
+3.5 Models of Scientific Explanation
+3.5.1 Hypothetico-Deductive Model
+3.5.2 Covering-Law Models
+3.5.2.1 Deductive-Nomological (D-N) Model
+3.5.2.2 Inductive-Probablistic (I-P) Model
+3.5.2.3 Critical Appraisal of Covering-Law (D-N,I-P) Models of Explanation
+3.6 Explanation in Non-Physical Sciences
+3.7 Let Us Sum Up
+3.8 Key Words
+3.9 Some Useful Books
+3.10 Answers or Hints to Check Your Progress Exercises
+3.0 OBJECTIVES
+After going through this unit, you will be able to:
+• Explain the basic rules of formal reasoning;
+• State the role of logical reasoning in the formulation of a research problem;
+• Describe the basic rules of structural relationship between assumptions,
+theory and conclusions; and
+• Appreciate the problems involved in systematic explanation of phenomena.
+3.1 INTRODUCTION
+Explanation has three meanings: One interpretation of explanation is to remove
+a perplexity or solve mystery i.e., ‘puzzle solving’. The second meaning is to
+change the unknown into the known. The third interpretation of explanation is
+to give causes of phenomenon to be explained. The first two meanings are too
+relativistic and subjective. It is the third one emphasizing causal explanation
+
+
+--- Page 44 ---
+44
+Research Methodology:
+Issues and Perspectives
+subserving regularity, and law like explanations that fits the meaning of scientific
+explanation. Here, we are concerned with one mainstream approach to science
+viz,. Positivism. We may begin this unit by recognizing the complexity of
+explaining subject matter of philosophy of science. The first two units make it
+clear, that there is no general agreement on Positivism as the only approach to
+pursue knowledge. It is at least over fifty years, since when various limitations
+and misconception of the rules and propositions of Positivism have been brought
+to light. But yet, paradoxically, the mainstream notion of science and scientific
+explanation is dominated by the tenets of Positivism. This is partly because of
+the rigorous and prescriptive nature of positivist propositions which remain simple
+and attractive, and partly because of the open ended and speculative nature of
+the alternative approaches. The enthusiasm with which many mainstream
+economists still prefer to refer to Economics as a Positive Science is yet another
+indication that alternative approaches in the Philosophy of Science have not yet
+percolated to Economics. Because of these reasons this unit on ‘Models of
+Scientific Explanation’, and the next one on ‘Debates on the Models of Scientific
+Explanation in Economics’ are essentially confined to Positivist Models of
+Explanation.
+Let us begin with a broad unified view of Positivism in terms of certain rules. It
+will be followed by certain rules of deduction or formal logical reasoning that
+underlie Positivist Models of explanation. Afterwards, the various Models of
+Explanation and their limitations, will be discussed.
+3.2 UNIFIED VIEW OF RULES OF POSITIVISM
+Our emphasis is on the Models of Scientific Explanation under Positivism.
+Positivism is procrustean in nature. Its propositions, often contested, evolved
+over a long period. It passed through several stages, from radical empiricism to
+logical positivism to logical empiricism. And the propositions of Positivism at
+various stages varied. Nevertheless, we shall confine here to a unified view of
+Positivism.
+Kilakowski provides such a unified view by simplifying Positivism into a set of
+four fules:
+K1 The Rule of Phenomenalism
+The Rule emphasizes phenomena as the basis of knowledge. Sensory experience
+is the basis. The basis of knowledge is only the record of that which is actually
+manifested in experience. It is phenomenon not noumina. It is existence, not
+essence. Simply , it is facts and objective facts only that form the basis of
+knowledge.
+K2 The Rule of Nouminalism
+Nouminalism refers to Insight representative of facts. Any insight formulated in
+general terms can not have any real reference other than individual facts. Therefore
+every abstract science is abridging the recording of experience, and gives no
+extra independent knowledge.
+
+
+--- Page 45 ---
+45
+Models of Scientific
+Explanation
+K3 The Rule of Value-free Statements
+Knowledge is value-free. The rule refutes to call value judgments and normative
+statements as knowledge. There is no room for good or bad or ethical judgments
+in statement of science or knowledge.
+K4 The Rule of Unity of Science
+There is only one method of scientific knowledge. The Unity of science refers to
+a single fundamental form from which all other laws are ultimately derived.
+3.3 SEARCH FOR THE CRITERION OF
+COGNITIVE SIGNIFICANCE
+In the above summation of Positivism into a set of rules, K 1, Rule of
+Phenomenalism, may appear to be closer to the early inductivist phase of
+Positivism. The inductivist view of science emphasized observation of facts and
+to proceed towards by inductive inference to the formulation of universal laws
+about these facts. But Positivism underwent considerable sophistication to
+accommodate deductive reasoning as a part of scientific explanation.
+Yet another aspect of Positivism which is important in understanding its approach
+to scientific explanation is the criterion of cognitive significance. According to
+Positivism, the basic criterion for distinguishing ‘scientific knowledge’ or
+meaningful statements from ‘non-scientific’ or meaningless statements is
+testability. In the early phase the emphasis was on of verification – only complete
+verification by observational evidence to be considered empirically meaningful.
+But soon it was found to be too strict, and also faced the problem ‘induction’.
+Karl Popper suggested falsification testing instead of verification. But both
+verification and falsification tests are found to be too strict criteria, and
+alternatively, Rudolf Camap suggested confirmation. Confirmation is a relative
+concept. Instead of a single test for rejection or acceptance of a hypothesis, a
+series of positive results are supposed to increase the confirmation of it. Test
+instances confirmed or disconfirmed hypotheses, and hypotheses could be ranked
+according to their degree of confirmation relative to the available evidence. Later,
+emphasis shifted from testing individual theories to evaluation of competing
+theories on the basis of their relative degree of confirmation. But facts and testing
+remain basic ingredients of Positivist explanation.
+3.4 RULES OF LOGIC OR RULES OF CORRECT
+REASONING
+Just as facts and testing, rules of logic have become important part of the whole
+structure of scientific explanation under Positivism. Here we briefly review the
+main stay of deductive reasoning viz. ‘syllogism’ or ‘rules of logic’ or ‘rules of
+correct reasoning’.
+3.4.1 ‘Categorical Syllogism’
+Two categorical statements if logically formulated, taken together would lead to
+a conclusion. The two statements should serve as the premises. If there is no
+premises, then there will be a fallacy or enthymeme.
+
+
+--- Page 46 ---
+46
+Research Methodology:
+Issues and Perspectives
+For example, the following two examples stand for categorical syllogisms:
+I) All As are B } → Major Premis
+} Premises
+C is an A } → Minor Premis
+Therefore, C is B → Conclusion
+II) All Politicians are corrupt } → Major Premis
+} Premises
+Blogg is a politician } → Minor Premis
+Therefore, Blogg is corrupt → Conclusion
+The following is an example of a fallacy of enthymeme because it leaves out the
+premises:
+Blogg is a politician.
+Therefore, he is corrupt.
+3.4.2 Hypothetical Syllogism
+Hypothetical Syllogism is referred to as Modes Poneus, affirming the antecedent.
+The major premise has if……………….then form.
+The following are two examples:
+If A is true, then B is true Therefore, B is true.
+(Antecedent) (Consequent)
+If Blogg is a politician, then he is corrupt Therefore, Blogg is corrupt
+(Antecedent) (Consequent)
+Hypothesis statements may have a major Hypothesis (H) and auxiliary
+(A1A2………..An) hypotheses.
+3.4.3 ‘Logical Truth’ and ‘Material Truth’
+All statements which are logically true are not necessarily “materially true”. For
+example:
+All politicians have two tongues.
+Blogg is a politician
+Therefore, Blogg has two tongues.
+The above statement is “logically true” but “materially” not true.
+3.4.4 Deductive Fallacies
+Deductive fallacies are those where premises do not lead necessarily to the stated
+conclusions. There are three main types of deductive fallacies:
+1) Logical (formal) Fallacies (Fallacy of affirming the consequent)
+Correct Reasoning or ‘Modus Poneus’ ‘Logical (Formal) Fallacy
+(Affirming the antecedent) (Affirming the consequent)
+
+
+--- Page 47 ---
+47
+Models of Scientific
+Explanation
+If A is true, then B is true. If A is true, B is true.
+A is true. B is true.
+Therefore, B is true. Therefore, A is true.
+2) Verbal Fallacies (Fallacy of Composition)
+The verbal fallacy involves a statement where something which is true of the
+part is also made true of the whole. For example, in case of people waiting to see
+a procession:
+If one rises on one’s tip-toes, one can see better.
+If people rise on their tip-toes, they can see better.
+3) Material Fallacies (All others): Material fallacies are of several kinds.
+a) Post hoc ergo propter hoc: (After this, therefore because of this).
+Because event B occurs after event A, then event B is necessarily caused
+by event A.
+b) “Argument by Analogy”: It refers to a statement where, “A is similar to
+B, therefore whatever is true of A is also true of B”. For example,
+Singapore was backward in 1950s. It developed faster because of “open
+economy policies”. India was backward in 1950s. Therefore, India would
+have prospered by ‘open economy policies’.
+c) “Appeal to Authority”: It refers to a statement where the truth is sought
+to be asserted by referring to an authority. “A is true because (so & so)
+say it so”. For example, “India is shining because Milton Friedman has
+said so”.
+Check Your Progress 1
+1) What do you mean by the term ‘Scientific explanation’?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) What is the difference between Phenomenalism and Nominalism.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3) State the rules of logic. Explain ‘categorical syllogism’.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+
+
+--- Page 48 ---
+48
+Research Methodology:
+Issues and Perspectives
+4) What is deductive fallacy?
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3.5 MODELS OF SCIENTIFIC EXPLANATION
+“Men do not think they know a thing till they have grasped the ‘why’ of it”
+- Aristotle
+In the light of understanding of the basic building blocks of knowledge viz.,
+facts, testing and formal logic, we shall now turn to the Positivist Models of
+Scientific Explanation. The basic building blocks of scientific explanation are
+theories. The status, structure and functions of theories and theoretical terms
+become essential part of scientific explanation. The aim of scientific research is
+not only to discover and describe events and phenomena in the world but also,
+and more importantly, to explain and understand why these phenomena occur as
+they do.
+The early Positivists like Aguste Comte and Ernest Mach did not believe in any
+role to explanation in science. Mach believed that theories are mere heuristic
+devises and talked of theories being “eliminative fiction” useful only in organizing
+data. But Positivism has traveled a long distance since, and by mid-1950s was
+referring to explanation as the Chief objective of Science. “T o explain the
+phenomena in the world of our experience, to answer the question “Why?” rather
+than only the question “What?” is one of the foremost objectives of all rational
+enquiry…”. Explanation removes puzzlement and provides understanding.
+However, there exist considerable differences of opinion as to the function and
+the essential characteristics of scientific explanation.
+What follows is the description of some of the basic models of scientific
+explanation within the positivist approach. First, we shall discuss the hypothetico-
+Deductive Model (H-D Model), and then turn to Covering Law Models
+encompassing the Deductive-Nomological (D-N) and Inductive-Probablistic
+(I-P) Models.
+3.5.1 Hypothetico-Deductive Model
+At a time when the Positivists were not ready to concede any role to theoretical
+explanation, Carnap and Hempel, in their writings, came out with a model –
+which later came to be known as Hypothetico-Deductive (H-D) model  of
+explanation. The H-D model not only describes the structure of theories, but
+provides answers to the questions of the status and functions of theories, as well.
+H-D model explicitly addresses the problems of a theory’ s structure. The
+propositions in a deductive system are seen as being arranged in an order of
+levels. Higher-level hypotheses will refer to theoretical entities, all which need
+not be tested. Lower-level hypotheses describe observable phenomena and are
+tested against reality. H-D model addresses the problem of status of theoretical
+
+
+--- Page 49 ---
+49
+Models of Scientific
+Explanation
+terms which may not be testable directly, to gain meaningfulness indirectly by
+the successful confirmation of theory in which they are embedded.
+In H-D model, theories as a whole are tested by comparing their deduced
+consequences (prediction) with data. Every theoretical term need not be given
+empirical counterparts via correspondence rules. H-D model also turns the old
+realist-instrumentalist controversy into a moot debate. Realists claim that all
+theoretical terms must refer to real entities and theories, which do not, are false.
+Instrumentalists insist that theories are only instruments for predictions. Only
+relevant question for them is whether theories are adequate for prediction. H-D
+model seems to accommodate both these concerns and defuse the controversy.
+The H-D model rejects the earlier notion that theories have no role but are only
+instruments. H-D model emphasizes the following positive functions of theories:
+1) They allow generality in the specification of scientific laws.
+2) They possess ‘a certain formal simplicity’ which allows the use of ‘powerful
+and elegant mathematical machinery’.
+3) They can serve the practical function of allowing the scientist to discover
+interdependencies among observable.
+4) They are convenient and fruitful heuristic (intellectual) devices, often serving
+an explanatory function of their own.
+Thus, the H-D model without minimizing the importance of observable
+phenomena for scientific explanation, allowed far more substantial role for
+theories and theoretical terms than did their predecessors.
+3.5.2 Covering-Law Models
+Carl G. Hempel and Paul Oppenheim developed Deductive-Nomological
+(D-N) Model of scientific explanation and much later , Hempel extended it to
+include Inductive-Probablistic (I-P) Model. These two models together are
+referred to as Covering-Law Models of explanation.
+3.5.2.1 Deductive-Nomological (D-N) Model
+Hempel and Oppenheim in their paper entitled “S tudies in the Logic of
+Explanation” advanced an account of scientific explanation, which later came to
+be known as deductive-nomological (D-N) model. They divided an explanation
+into two major constituents – the explanandum  and the explanans . The
+Explanandum means the sentence describing the phenomenon to be explained
+(not that phenomenon itself).  The Explanans mean the class of those sentences,
+which are adduced to account for the phenomenon. The explanans fall into two
+sub-classes, viz., certain antecedent conditions C1 , C2 …….Ck and certain general
+laws L 1, L 2…….L3. If a proposed explanation is to be sound, conditions of
+adequacy must be satisfied. The following four conditions of logical and empirical
+adequacy must be satisfied:
+i) Logical Conditions of Adequacy
+R1) The explanandum must be a logical consequence of the explanans; in
+other words, the explanandum must be logically deduced from the
+
+
+--- Page 50 ---
+50
+Research Methodology:
+Issues and Perspectives
+information contained in the explanans, for otherwise, the explanans
+would not constitute adequate grounds for the explanandum.
+R2) The explanandum must contain general laws, and these must actually
+be required for the derivation of the explanandum. Though not a
+necessary condition, the explanans must contain at least one statement
+which is not a law.
+R3) The explanans must have empirical content, i.e., it must be capable,
+at least in principle, of test by experiment or observation. The point
+deserves special mention because certain arguments which have been
+offered as explanations in the natural and in the social sciences violate
+this requirement.
+ii) Empirical Condition of Adequacy
+R4) The sentences constituting the explanans must be true.
+The characteristics of explanation discussed may be summarized into
+the following schema:
+{C1, C2……..CK Statements of Antecedent}
+Logical { conditions } Explanans
+Deduction {
+}
+{L1, L2………Lr General Laws }
+{E  Description of the empirical } Explanandum
+       phenomenon to be explained }
+Hempel and Oppenheim argued that the same formal analysis, including the
+four necessary conditions, applies to scientific predictions as well as to
+explanation. They went on to ar gue that an explanation is not fully adequate
+unless its explanans, if taken account of in time, could have served as a basis for
+predicting the phenomenon under consideration. Consequently, whatever is said
+about the logical characteristics of explanation or prediction will be applicable
+to either, even if one of them is mentioned. This resulted what is known as
+Covering-Law Model extended to the D-N Model of Explanation.
+Extension of characteristics of explanation to prediction could formally be
+presented in the following schema:
+{C1, C2……..CK Statements of Conditions}
+Logical { } Predecens
+Deduction { }
+{L1, L2………Lr   General Laws }
+{P  Description of the empirical } Predecendum
+Prediction }
+
+
+--- Page 51 ---
+51
+Models of Scientific
+Explanation
+The symmetry visualized between explanation and prediction has often drawn
+criticism.
+3.5.2.2  Inductive-Probabilistic (I-P) Model
+In 1960s Hempel developed Inductive-Probabilistic Model. In the I-P model the
+explanans consists of sentences describing the requisite initial conditions along
+with statistical laws and is expected to confer upon the explanandum highly
+logical, or inductive probability. The characteristics are similar to D-N Model.
+The symmetry holds and hence another Covering-Law Explanation.
+Check Your Progress 2
+1) Identify the basic blocks of knowledge.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+2) Explain how Hypothetico-Deductive Model defuses the conflict between
+the realists and instrumentalists.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3) State two characteristics of Deductive-Nomoligical (D-N) Model.
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+......................................................................................................................
+3.5.2.3 Critical Appraisal of Covering-Law (D-N, I-P) Models of
+Explanation
+The Covering-Law Model of explanation offered by the D-N and I-P models are
+subject to a number of limitations. For convenience we shall confine here to the
+limitations of D-N model, some of which are also applicable to I-P model.
+First is about the necessity of laws and theories in the pursuit of scientific
+explanation. Laws are distinct from ordinary statements. Ordinary statements or
+statement of mere facts refer to particular statements and express “contingent
+truths:, like “John went home and had dinner”. Laws refer to universal statements
+and express “necessary truths”. For example, “all objects are attracted to one
+another with a force inversely proportional to the square of the distances between
+them” is a universal and law like statement: However, there are many apparently
+
+
+--- Page 52 ---
+52
+Research Methodology:
+Issues and Perspectives
+universal statements which are not really universal statements. These may be the
+ones that involve mere “accidental generalizations” like, “all coins in my pocket
+are nickels”.
+This distinction between laws and ordinary statements does not make laws as
+necessary requirement for explanation. Particularly in biology , astronomy and
+social sciences explanations need not be in the form of laws. Explanations may
+be in the form of questions and answers. The often cited example is: Why do
+Hopi Indians continue to perform rain making ceremonies even though their
+ceremonies do not normally produce desired result? The explanation is to reinforce
+group identity, but there is no law involved. Similarly: Why do all vertebrates’
+hearts beat regularly? The explanation is to circulate blood throughout the body
+which helps to maintain uniform temperature. This explanation again doesn’ t
+require any law like statement.
+Second, explanation requires not only the factors one cites to be casually relevant
+but also that they be causes. D-N model is often satisfied by citing relevant
+causes. Causes explain effects, but effects do not explain their causes, and effects
+of common cause do not explain one another. Based on David Hume’s famous
+guillotine of time, two contiguous events do not become cause and effect. Inferring
+event B as the ef fect of event A because it followed the later , amounts to the
+“Billiard Ball Model of Causation”, where the ball reaching the pouch is seen,
+‘as if’ the player knew all the laws of time and motion of the billiard ball.
+Third, much of the criticism of Covering Law Model of explanation relates to
+the symmetry thesis, that explanation and prediction are inherently linked, and
+that only difference is the sequence. But critics point out that explanation need
+not predict. For example, Darwin’s Theory of Evolution provides a great deal of
+explanation on the origin and evolution of species, but it does not predict anything.
+Similarly, prediction need not explain anything. For instance, prediction of
+weather does not explain anything.
+Fourth, the D-N Model ignores the divergence between the norms and practices
+and thereby eliminates much of science from the ambit of explanation. Many
+functional or technological explanations get eliminated because they are not
+through any laws or regularities. Purposive behaviour needs explanation of
+motivation and in motivated behaviour future affects the present. Determining
+motives to be classified in antecedent conditions and not in causal relation.
+Hempel and Oppenheim also recognize the problems in applying their model of
+explanation in social sciences. Human behaviour often is characterized by
+uniqueness and irrepeatability. It depends upon situation and previous history of
+individuals.
+Notwithstanding all these limitations, “many philosophers would still maintain
+that the D-N Model is an important starting point for studying scientific
+explanation and there is something right and important about it.” (Hausman,
+1994, p.9). Particularly in the mainstream economics, scientific explanation is
+strongly associated with Positivist models of explanation and thus D-N Model
+becomes an important reference point for the debates on explanation in economics.

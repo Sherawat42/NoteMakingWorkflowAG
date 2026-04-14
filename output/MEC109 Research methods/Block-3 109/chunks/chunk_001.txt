@@ -1,0 +1,477 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+ 
+ 
+ 
+QUANTITATIVE METHODS-I 
+UNIT 9 
+Two Variable Regression Models         5 
+UNIT 10 
+Multivariable Regression Models 37 
+UNIT 11 
+Measures of Inequality 59     
+UNIT 12 
+Construction of Composite Index in Social Sciences 93  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEC-109
+Research Methods 
+in EconomicsIndira Gandhi  
+National Open University 
+School of Social Sciences 
+3 
+
+
+--- Page 2 ---
+Expert Committee 
+ 
+Prof. D.N. Reddy     Prof. Romar Korea 
+Rtd. Professor of Economics    Professor of Economics 
+University of Hyderabad, Hyderabad   University of Mumbai, Mumbai 
+ 
+Prof. Harishankar Asthana    Dr. Manish Gupta   
+Professor of Psychology    Sr. Economist 
+Banaras Hindu University    National Institute of Public Finance and Policy 
+Varanasi      New Delhi 
+ 
+Prof. Chandan Mukherjee    Prof. Anjila Gupta    
+Professor and Dean     Professor of Economics 
+School of Development Studies   IGNOU, New Delhi   
+Ambedkar University, New Delhi   
+ 
+Prof. V.R. Panchmukhi    Prof. Narayan Prasad (Convenor) 
+Rtd. Professor of Economics    Professor of Economics 
+Bombay University and Former   IGNOU 
+Chairman ICSSR, New Delhi    New Delhi 
+ 
+Prof. Achal Kumar Gaur    Prof. K. Barik   
+Professor of Economics    Professor of Economics 
+Faculty of Social Sciences    IGNOU  
+Banaras Hindu University, Varanasi   New Delhi 
+ 
+Prof. P.K. Chaubey     Dr. B.S. Prakash    
+Professor, Indian Institute of    Associate Professor in Economics  
+Public Administration, New Delhi   IGNOU, New Delhi 
+ 
+Shri S.S. Suryanarayana    Shri Saugato Sen  
+Former Joint Advisor    Associate Professor in Economics 
+Planning Commission, New Delhi   IGNOU, New Delhi 
+Course Coordinator and Editor: Prof. Narayan Prasad 
+Block Preparation Team 
+ 
+Unit Resource Person     IGNOU Faculty   
+      (Format, Language and Content Editing) 
+ 
+9 Dr. Anoop Chatterjee   Prof. Narayan Prasad   
+ 
+Associate Professor in Economics  Professor of Economics   
+ ARSD College (University of Delhi), Delhi IGNOU, New Delhi 
+ 
+10 Shri B.S. Bagla    Prof. Narayan Prasad 
+ 
+Associate Professor in Economics  Professor of Economics 
+ PGDAV College (University of Delhi), Delhi IGNOU, New Delhi 
+ 
+11 Prof P.K. Chaubey    Prof. Narayan Prasad 
+ IIPA, New Delhi    Professor of Economics, IGNOU, New Delhi 
+ 
+12 Dr. Sunil K Mishra    Prof. Narayan Prasad 
+ 
+Fellow, Institute for Human Development Professor of Economics, IGNOU, New Delhi 
+ New Delhi 
+ 
+Print Production 
+Mr. Manjit Singh 
+Section Officer (Pub.) 
+SOSS, IGNOU, New Delhi 
+October, 2015 
+© Indira Gandhi National Open University, 2015 
+ISBN-978-81-266- 
+All rights reserved. No part of this work may be reproduced in any form, by mimeograph or any other 
+means, without permission in writing from the Indira Gandhi National Open University. 
+Further information on Indira Gandhi National Open University courses may be obtained from the 
+University's office at Maidan Garhi. New Delhi-110 068. 
+Printed and published on behalf of the Indira Gandhi National Open University, New Delhi by the 
+Director, School of Social Sciences. 
+Laser Typeset by : Tessa Media & Computers, C-206, A.F.E.-II, Okhla, New Delhi 
+Printed at : 
+ 
+
+
+--- Page 3 ---
+BLOCK 3 QUANTITATIVE METHODS-I 
+Economic theory is basically concerned about economic laws. These laws (or 
+hypotheses) are qualitative statements on the economic behaviour of various 
+agents both at the micro and macro levels. The validity of such qualitative 
+statements, however, depends upon their rigorous empirical verification by 
+means of the available data. 
+The implicit argument between the economic theory and its empirical 
+verification is that if the stated laws holds good in the real world situation, it 
+should be reflected in the displayed pattern of the relevant data. The 
+identification and the examination of such patterns are conducted by employing 
+various statistical techniques. The primary statistical tool employed for such a 
+purpose is the Regression Modeling. Hence, a thorough knowledge of 
+Regression Models is absolutely essential for conducting any serious research 
+in Applied Economics. 
+An economic law or theory essentially postulates some relationship that exist 
+among the economic variables. Suppose the relationship between two variables 
+Q and P (i.e. Quantity and Price) is expressed in the form (say linear form) 
+/g1843 /g3404 /g2009 /g3397 /g2010/g1842. Such an expression amount to an exact linear relationship which 
+is hard to find in reality. Usually, various non-deterministic factors (called 
+random factors) affect such a relationship. Therefore, in order to allow for the 
+effect of such random factors, a random component is incorporated into the 
+model i.e. /g1843 /g3404 /g2009 /g3397 /g2010/g1842 /g3397 /g1847, where /g1847 is a random variable. With this, the strict 
+mathematical relationship expressed before becomes statistical in character. 
+Regression technique can now be applied to estimate the two parameters /g2009 and 
+/g2010 by using the actual data. This is the crux of a Two Variable Regression 
+Model explained in Unit 9. 
+Unit 10 explains the multiple regression models by including more than two 
+independent random variables. The same procedure as done in the case of two 
+variable regression models is applied to examine whether the estimated 
+parameters correspond to the postulated relationship. The treatment accorded to 
+the Two Variable Regression Models and the Multiple Regression Models in 
+this course is first limited to the ordinary least square (OLS) method 
+subsequently, another method viz., the maximum likelihood method (MLM) is 
+also explained. The two methods taken together equip a researcher with the 
+basic tools for undertaking empirical research. 
+Improvement in well being of the poor has been one of the important goals of 
+economic policy and to a significant extent it is determined by the growth and 
+distribution of its income. Distribution patterns have an important bearing on 
+the relationship between average income and poverty levels. Extreme 
+inequalities are economically wasteful. Further, income inequalities also 
+interact with other life-chance inequalities. Hence reducing inequalities has 
+become priority of public policy. Unit 11 deals with the conceptual and 
+measurement aspects of income inequality.  
+The complex social and economic issues like child deprivation, food security, 
+human development, human wellbeing etc. are difficult to measure in terms of 
+single variable. They are expression of several indicators. Composite Index is 
+an important statistical techniques to express the single value of several 
+interdependent or independent variables. Hence, Unit 12 throws light on 
+various methods to construct Composite Index. 
+
+
+--- Page 4 ---
+ 
+ 
+1 
+5 
+Two Variable Regression 
+ModelsUNIT 9 TWO VARIABLE REGRESSION 
+MODELS 
+Structure 
+9.0 Objectives 
+9.1 Introduction 
+9.2 The Issue of Linearity  
+9.3 The Non-deterministic Nature of Regression Model 
+9.4 Population Regression Function 
+9.5 Sample Regression Function 
+9.6 Estimation of Sample Regression Function 
+9.7 Goodness of Fit 
+9.8 Functional Forms of Regression Model 
+9.9 Classical Normal Regression Model 
+9.10 Hypothesis Testing 
+9.11 Let Us Sum Up 
+9.12 Exercises 
+9.13 Key Words 
+9.14 Some Useful Books 
+9.15 Answers or Hints to Check Your Progress Exercises 
+9.16 Answers or Hints to Exercises 
+9.0 OBJECTIVES 
+After reading this unit, you will be able to: 
+• know  the issue of linearity in regression model; 
+• appreciate the probabilistic nature of the regression model; 
+• distinguish between the population regression model and the sample 
+regression model; 
+• state the assumptions of the classical regression model; 
+• estimate the unknown population regression parameters with the help of the 
+sample information; 
+• explain the concept of goodness of fit; 
+• use various functional forms in the estimation of the regression model; 
+• state the role of classical normal regression model; and 
+• conduct some tests of hypotheses regarding the unknown population 
+regression parameters. 
+ 
+
+
+--- Page 5 ---
+ 
+ 
+Quantitative Methods-1 
+6 
+Two Variable Regression 
+9.1  INTRODUCTION 
+The empirical research in economics is concerned with the statistical analysis 
+of economic relations. Often these relations are expressed in the form of 
+regression equations involving the dependent variable and the independent 
+variables. The formulation of an economic relation in the form of a regression 
+equation is called a regression model in econometrics. In such kind of a 
+regression model, the variable under study is assumed to be a function of 
+certain explanatory variables. The major purpose of a regression model is the 
+estimation of its parameters. In addition, it is also useful for testing hypotheses 
+and making certain forecasts. However, our concern will be mainly with the 
+estimation of parameters and testing of some hypotheses. At this stage, we 
+shall refrain from discussing the issue of forecasts from a regression model. A 
+regression model that contains one explanatory variable is called a two variable 
+regression model. In this unit, we shall focus on a two variable regression 
+model. It may be mentioned here that we are essentially focusing on what is 
+known as the two variable classical regression model. 
+9.2 THE ISSUE OF LINEARITY 
+When we talk about a regression model; at our level, what we have in our mind 
+is a linear regression model. It is important to have a clear idea about the 
+concept of linearity in the context of a regression model. 
+Suppose, we have a regression equation like, 
+X Yβα +=  
+Generally, we call this a linear regression equation. By linearity we often mean 
+a relationship, in which, the dependent variable is a linear function of the 
+independent variable. In this case, the graphical representation of the regression 
+equation is a straight line. However, there can be another interpretation of 
+linearity. Consider the following regression equation, 
+2X X Yγ β α+ + =  
+Now, this regression equation is linear in parameter, in the sense that the 
+highest power of any parameter (constant) is one. But this equation is non-
+linear in variable because the highest power of the independent variable is two. 
+In fact, conventionally speaking, it is a quadratic regression equation. In this 
+way, we can have any number of polynomial regression equations with the 
+highest power of the independent variable going up to any positive integer. 
+And all these equations may be linear in parameter. 
+But consider this regression equation, 
+XY 2
+β α+ =  
+This regression equation is linear in variable, but non-linear in parameter 
+because the power of β  is two. 
+We should note now that from the point of view of regression analysis, we 
+shall consider only those models which are linear in parameter, no matter 
+whether they are linear in variable or not. After all, the main purpose of a 
+regression model is the estimation of its parameters. These parameters 
+have to be linear for the purpose of their straightforward estimation, say, 
+
+
+--- Page 6 ---
+ 
+ 
+1 
+7 
+Two Variable Regression 
+Models
+by least square method. For example, the parameters of the second regression 
+equation presented above, can be easily estimated by a simple extension of the 
+least square method that we have studied in Unit 8. It should be mentioned here 
+that there are some regression equations that are non-linear in parameters. By 
+applying suitable transformations they can be reduced to linear in parameter 
+regression equations. We may consider the following regression equation 
+βαX Y=   
+This regression equation in its present form is non-linear in parameter. 
+However, by applying log transformation, we obtain the following equation 
+XY
+βα  log   log   log+=  
+It can be clearly seen that the equation has now been transformed into one that 
+is linear in the log of parameters. We can easily estimate log values of these 
+parameters by using the usual least square method and then obtain the 
+estimated values of the original parameters by applying the antilog procedure. 
+However, some times, the regression equations can be of non-linear in 
+parameter type that no transformation can render them to a linear in parameter 
+form. Such equations should be the basis of non-linear or intrinsically non-
+regression models. There is no direct method available for the estimation of the 
+parameters of this kind of regression models and they are generally estimated 
+by following some standard iteration procedure. Any discussion on such 
+iteration procedure, however, is beyond the scope of the present unit. 
+9.3 THE NON-DETERMINISTIC NATURE OF THE 
+REGRESSION MODEL 
+We have already referred to the statistical nature of the regression equation in 
+the last unit. By the very nature of social science, we cannot expect the 
+relationships that may exist among different variables to be exact or 
+deterministic. There is always some random element involved in them. As a 
+result, for a particular value of the independent variable X, the value of the 
+dependent variable Y cannot be exactly determined from such a relationship. 
+Let us consider the example of a consumption function. Here, for a given level 
+of income, when we try to identify the corresponding level of consumption, in 
+all probability, we shall not be able to obtain a definite value of consumption; 
+instead, a host of values will be available. And this will be the case with all 
+possible levels of income. The diagram below shows this. 
+ 
+Fig. 9.1: Bi-Variate Population 
+ 
+Income 
+Consumption
+
+
+--- Page 7 ---
+ 
+ 
+Quantitative Methods-1 
+8 
+Two Variable Regression Thus, the dependent variable Y tends to be probabilistic or stochastic in nature. 
+In fact, for each value of the independent variable X, there will be a distribution 
+of the values of the dependent variable Y. Accordingly; we specify the 
+regression model by incorporating a random or stochastic variable. As 
+mentioned in the previous unit, it should be clear that in our formulation the 
+dependent variable is stochastic but the independent or explanatory variables 
+are non-stochastic in nature. We should point out here that at an advanced 
+treatment of the regression model, even the explanatory variables are 
+considered to be stochastic in nature. It is the element of randomness either in 
+the dependent variable alone or both in the dependent and independent 
+variables, that make the regression model non-deterministic in nature. 
+9.4 POPULATION REGRESSION FUNCTION  
+The first step in the regression model is the conceptualization of a population 
+regression function. Let us assume that there is a bi-variate population of (X, Y) 
+of size N. Suppose, in this population, Y is the dependent variable and X is the 
+independent variable. Let X and Y be related to each in a linear fashion in the 
+following way: 
+U X Y++= βα  
+The above equation is called the population regression function. Here, βα  and   
+are the unknown parameters. It is clear from our discussion on linearity that 
+this function is linear in variable as well as in parameter. 
+In this population regression function, the variable U deserves some attention. 
+We have already mentioned that in social Science, there cannot be an exact 
+relationship and it is at the most statistical in nature. In our formulation, in fact, 
+Y is stochastic or random, but X is non-stochastic or deterministic in nature. 
+Consequently, a random variable like U is introduced in the population 
+regression function to incorporate this element of randomness of a statistical 
+relationship. The random variable U is also called the disturbance term. It is a 
+sort of catch – all variables that represent all kinds of indeterminacies of an 
+inexact relationship. Thus it may represent, for example, 
+a) Inherent randomness in human behaviour : The unpredictability of human 
+psyche is also reflected in the human behaviour. As a result, even after 
+taking into account of all possible factors, a regression equation cannot 
+fully explain the value of the dependent variable for the given values of all 
+possible explanatory variables. 
+b)  Effect of omitted variables : Sometimes for the sake of parsimony, all the 
+explanatory variables are not included in a regression model. The 
+disturbance term can be taken as a representative variable of all such 
+omitted variables. 
+c) Effect of measurement error : Sometimes, it is not possible to measure the 
+values of the dependent variable accurately. Consequently, the disturbance 
+term is introduced in the regression model to represent the combined effect 
+of all such possible sources of measurement error. 
+d) Error in the formulation: Often, the functional form of the regression 
+model proves to be far from a correct depiction of the underlying 
+relationship between the dependent variable and the independent variables. 
+
+
+--- Page 8 ---
+ 
+ 
+1 
+9 
+Two Variable Regression 
+Models
+We incorporate the disturbance term to correct the distortions that may 
+arise from a wrong specification of the regression model. 
+We should note that apart from the above-mentioned factors, there might be 
+other unidentifiable factors that might also be influencing the dependent 
+variable in an unknown manner. We introduce the disturbance term for 
+incorporating the effect of all such unknown random factors. It should be clear 
+that for some of the reasons mentioned above the disturbance term may assume 
+a positive value and for some other factor it may tend to be negative. 
+Consequently, for all practical purposes, the net or the mean effect of the 
+random disturbance can be taken to be zero. 
+Difference between the Disturbance Term and the Intercept 
+There is a difference between the interpretation of the disturbance term and that 
+of the intercept term α in our regression equation. As we have noted, that the 
+disturbance represents the random effects of the known and unknown variables 
+that have not been included in the regression model. The intercept term, on the 
+other hand, stands for all such variables, that are known to have some definite 
+non-random effects on the dependent variable. For example, in the demand 
+function, if we just formulate a two variable regression equation between the 
+quantity demanded and the price instead of a multiple regression equation, then 
+we are consciously not including variables like prices of other commodities and 
+the income of the consumer. And all these variables affect the quantity 
+demanded in a known fashion. So, the intercept term here represents the 
+average effect of all such known factors that are not explicitly included in the 
+model. 
+It should be clear now that it is the disturbance term that makes the relationship 
+statistical in nature and renders the entire procedure so rich in content. 
+Population Regression Line 
+The main objective of the regression analysis is to obtain the value of the 
+dependent variable for a given value of the independent variable. This can be 
+attempted by running a regression on the population regression function 
+U X Y++= βα , i.e., by fitting a regression line through the population cluster 
+shown in Figure 9.1. Obviously, the value of Y that we shall obtain from such a 
+population regression line will be an average value. In other words, we shall 
+get the equation for the population regression line by applying the expectation 
+to the population regression function, U X Y
+++= βα . Thus, the population 
+regression equation will be given by 
+XX Y E βα +=) / (         
+It may be mentioned here that while applying the expectation operator, E (U) 
+can be taken as zero because, as we have discussed above, the mean effect of U 
+tends to be zero. 
+Sometimes we call the above expression, the population regression line and 
+loosely write it as 
+X Yβα +=  
+In this expression, however, we should be clear that Y stands for the conditional 
+mean of Y for a given X. 
+
+
+--- Page 9 ---
+ 
+ 
+Quantitative Methods-1 
+10 
+Two Variable Regression Assumptions of the Classical Regression Model 
+As we have mentioned earlier, the population regression model 
+U X Y++= βα  is unknown in the sense that that the numerical values of its 
+parameters are not known. As a result, we are not in a position to find the value 
+taken by Y on an average for a given value of X. This means that we have to 
+estimate these parameters from sample information. We already know that a 
+very simple and popular method of estimation is the least square procedure. 
+However, we should ensure that these least square estimates faithfully 
+represent the unknown population parameters, otherwise, the whole purpose is 
+defeated. This is possible only if the disturbance term U satisfies some 
+assumptions. These assumptions along with two other that we have already 
+mentioned about, are known as the assumptions of the classical regression 
+model. The assumptions are: 
+1) The disturbance term U has a zero mean for all the values of X, i.e., E (U) = 0. 
+2) Variance of U is constant for all the values of X, i.e., 2) (
+σ=X V . It may be 
+mentioned here that this assumption is known as the assumption of 
+homoscedasticity in the econometric literature. 
+3) The disturbance terms for two different values of X are independent i.e., 
+j iU Uj i ≠ =for  , 0 ) , cov(. 
+4) X is non-stochastic. 
+5) The model is linear in parameter. 
+The assumption of non-stochasticity of X leads to a corollary. It is, X and U are 
+independent i.e., 0 ) , cov(=U X . 
+9.5 SAMPLE REGRESSION FUNCTION 
+To put the whole discussion in the proper perspective; we have an unknown bi-
+variate population. The only information that we have is some randomly 
+selected values of Y from this population that correspond to some fixed values 
+of X. Suppose, in this way we have n pairs of values of X and Y. So, we can say 
+that we have a random sample of size n. Our purpose is to estimate the 
+parameters of this unknown population from our sample information so that we 
+can have a reasonable estimate of an average value of Y for a given value of X 
+that is valid for the entire population. In other words, our objective is to 
+estimate the population regression function from the sample observations. We 
+can proceed in that direction by discussing the concept of a sample regression 
+function. The form of the sample regression function is quite similar to that of 
+the population regression function. It can be presented as 
+U X Yˆ
+ˆˆˆ + + =β α     
+In the above expression, UY ˆ and  ˆ,ˆ,ˆ β α  should be interpreted as the sample 
+estimators for their respective unknown population counterparts. Thus, we are 
+hypothesizing that corresponding to the linear population regression function 
+U X Y++= βα , there is a linear sample regression function U X Yˆˆˆˆ + + =β α . 
+Our purpose is now to estimate the population regression function from the 
+sample regression function. It means that we have to estimate αˆ  and βˆ  from 
+the given sample and take them as the estimates for the unknown population 

@@ -1,0 +1,549 @@
+--- Page 60 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+60 
+22.4  LET US SUM UP  
+The major efforts to collect data on different aspects of the agricultural sector 
+are the quinquennial agricultural census, the quinquennial livestock census, the 
+cost of cultivation studies, annual estimates of crop production and the 
+integrated sample survey to estimate the production of major livestock 
+products. Most of the data flowing from these efforts relate to production, 
+inputs for production, land utilization patterns, intensity of land use, irrigation, 
+costs and pricing of agricultural produce, procurement and distribution, 
+subsidies and credit are found in the two publications “Agricultural Statistics 
+at a Glance” (ASG)  and “Basic Animal Husbandry Statistics” (BAHS) . 
+Statistics on the characteristics of land holdings of different size with reference 
+to the parameters referred to above are also available in ASG. More detailed 
+information in this regard, collected in the succcessive  agricultural census are 
+available in the Ministry’s website. Similarly, detailed information relating to 
+sub-sectors – livestock, poultry and fishery as also agricultural implements, 
+collected in the livestock censuses, are available in the website of the 
+Ministry, though some information relating to the earlier census are available 
+in ASG and BAHS of relevant years . Data on credit flowing to the 
+agricultural sector are available in the RBI Handbook of Statistics on the 
+Indian Economy  and NABARD’s Publications . Another source containing 
+comprehensive information on agriculture at the global level is the FAO 
+statistical yearbooks published by the UN Food and Agriculture Organisation. 
+The most detailed data available in the industrial sector relates to the factory 
+sector provided by ASI. The multi-variable data covers about 30 characteristics 
+– investment, inputs, output, gross and net value added, employment, factor 
+shares, net value added at 3 or 4-digit NIC code levels by States and Union 
+territories. Quick estimates of monthly production in selected industries and the 
+Index of Industrial Production are available within six weeks of the reference 
+month from the CSO and revised in the next two months. The State 
+Governments and Union Territory Administrations are also taking steps to 
+prepare and release monthly IIPs that are comparable to the national level IIP. 
+Some have already started releasing such estimates. The fourth census of 
+micro, small and medium enterprises (MSME) relating to 2006-07 is the 
+most recent and comprehensive source for data on production, employment and 
+exports of the small-scale sector. Reports from the NSSO on surveys of the 
+unorganized sector carried out once in five or six years provide useful data on 
+the characteristics of this sector. Enquiries covering the entire industrial sector 
+or the organized industrial sector such as the population census, NSSO 
+surveys on employment , the Economic Census and the Employment 
+Market Information Programme of the Ministry of Labour & Employment 
+provide data only on employment. The RBI handbook gives data on industrial 
+credit and financing of industrial capital. The CMIE (EIS) volumes on 
+industry, one on financial aggregates and the other on market size and 
+shares provide a fund of data on finance and market competition aspects of 
+industry. At the global level, the International Labour Organisation (ILO) 
+provides statistics on employment and the UNIDO provides statistics on total 
+factor productivity. 
+ 
+  
+
+
+--- Page 61 ---
+ 
+ 
+ 
+61
+Agricultural and 
+Industrial Data22.5  EXERCISES  
+1) Which major efforts have been made to collect the data on different 
+aspects of agricultural sector? 
+2) Discuss the characteristics of data flowing from the agencies involved in 
+compilation of agriculture data. 
+3)  “The detailed data available in the industrial sector relates to the factory 
+sector” explain. 
+4) Do you think that data available on unorganized sector is inadequate? 
+What suggestion would you like to make in this regard? 
+22.6 SOME USEFUL BOOKS  
+Amitabh Kundu & 
+Alakh Sharma (Ed.) 
+(2001) 
+: Informal Sector in India – Perspectives & 
+Policies, Institute for Human Development & 
+Institute of Applied Manpower Research, IP 
+Estate, Ring Road, New Delhi. 
+____National Sample 
+Survey Office (NSSO) 
+(Various issues) 
+: Survey Reports of unorganized sector 
+enterprise surveys NSSO, Ministry of 
+Statistics & Programme Implementation, Govt 
+of India, Sardar Patel Bhavan, New Delhi. 
+Department of 
+Agriculture & Coop 
+: Agricultural Statistics At a Glance, Directorate 
+of Economics & Statistics (DES), Ministry of 
+Agriculture, Govt. of India, Krishi Bhavan, 
+New Delhi. Cost of Cultivation in India, DES, 
+Ministry of Agriculture & Cooperation, New 
+Delhi. 
+Reports of the Commission on Agricultural 
+Costs and Prices (CACP), DES, Ministry of 
+Agriculture & Cooperation, New Delhi. 
+Indian Horticulture Data Base, Ministry of 
+Agriculture & Cooperation, New Delhi 
+___Ministry of Finance : Economic Survey, Ministry of Finance, North 
+Block, New Delhi. 
+___Reserve Bank of 
+India (various issues) 
+: RBI Handbook of Statistics on the Indian 
+Economy. The Reserve Bank of India, Mumbai 
+www.mospi.nic.in : Website of the Ministry of Statistics & 
+Programme Implementation. (even the letters 
+cso in google search will lead you to the (CSO 
+website). 
+eands.dacnet.nic.in : Directorate of Economics and Statistics, 
+Department of Agriculture and Cooperation, 
+Ministry of Agriculture, Government of India 
+www.wrmin.nic.in : Website of the Ministry of Water Resources. 
+www.rbi.org.in : Website of the Reserve Bank of India (RBI). 
+www.fao.org : UN Food and Agriculture Organisation (FAO) 
+website. 
+
+
+--- Page 62 ---
+ 
+ 
+ 
+Data Base of Indian 
+Economy 
+62 
+www.ilo.org : UN International Labour Organisation (ILO) 
+website. 
+www.unido.org : UN Industrial Development Organisation 
+(UNIDO) website. 
+22.7 ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) The Directorate of Economic and Statistics in the Department of 
+Agriculture and Statistics and Animal Husbandry Statistics Division of the 
+Department of Animal Husbandry. 
+2) See foot note no. 2 and 4. 
+3) See Sub-section 22.2.3 and foot note no. 6. 
+Check Your Progress 2 
+1) See Sub-section 22.2.4 and 22.2.5 
+2) See foot note no. 8. 
+3) Agricultural Statistics at a glance. 
+4) RBI Handbook of Statistics on Indian Economy 2005. 
+Check Your Progress 3 
+1) See Sub-section 22.3.1 
+2) See foot note no. 18 
+3) A system that enables the data uses to access specific data relating to ASI. 
+4) Derivation of important technical ratios for using the principal 
+characteristics of factory sector. 
+5) Energy Statistics published by CSO. 
+Check Your Progress 4 
+1) Development commissioner for Small Scale Industries (DCSSI). 
+2) Directorate of Industries of State Government and Union Territory 
+Administrations. 
+3) SIDBI, LIC, Handbook of statistics on the Indian Security Market. 
+
+
+--- Page 63 ---
+ 
+ 
+63
+Trade and Finance 
+UNIT 23 TRADE AND FINANCE 
+Structure 
+23.0 Objectives 
+23.1 Introduction 
+23.2 Trade 
+ 23.2.1 Merchandise Trade 
+ 23.2.2 Services Trade 
+23.3 Finance 
+ 23.3.1 Public Finances 
+ 23.3.2 Currency, Coinage, Money and Banking 
+ 23.3.3 Financial Markets 
+23.4 Let Us Sum Up 
+23.5 Exercises 
+23.6 Some Useful Books 
+23.7 Answers or Hints to Check Your Progress Exercises 
+23.0  OBJECTIVES 
+After going through this Unit, you will be able to: 
+• describe the kind of data available in India in the area of trade and finance; 
+• state the various sources of data on trade and finance; 
+• explain the reasons for divergence between merchandise trade 
+deficit/surplus data provided by DGCI&S and RBI’s BOP data; and 
+• discuss which agencies are involved in compilation of data on trade and 
+finance. 
+23.1  INTRODUCTION 
+Trade is the means of building up an enduring relationship between countries 
+and the means available to any country for accessing goods and services not 
+available locally for various reasons like the lack of technical know-how. It is 
+also the means of earning foreign exchange through exports so that such 
+foreign exchange could be utilized to finance essential imports and to seek the 
+much-needed technical know-how from outside the country for the 
+development of industrial and technical infrastructure to strengthen its 
+production capabilities. Trade pacts or agreements between countries or groups 
+of countries constitute one way of developing and expanding trade, as these 
+provide easier and tariff-free access to goods from member countries. While 
+efforts towards such an objective will be of help in expanding our trade, 
+globalization and the emergence of World Trade Organization (WTO) have 
+only sharpened the need to ensure efficiency in the production of goods and 
+services to compete in international markets to improve our share of world 
+merchandise trade and trade in services. Trade is also closely tied up with our 
+development objectives. Trade deficit or surplus, made up of deficit/surplus in 
+merchandise trade and trade in services, contributes to current account deficit 
+ 
+
+
+--- Page 64 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+64 
+or surplus. Data on trade in merchandise and services would enable us to 
+appreciate the trends and structure of trade and identify areas of strength and 
+those with promise but need sustained attention. 
+While trade and finance have been closely bound up with each other ever since 
+the time money replaced barter as the means of exchange, finance is the lifeline 
+of all activities – economic, social and administrative activities. It flows from 
+the public as taxes to Government, as savings to banking and financial 
+institutions and as share capital or bonds or debentures to the entrepreneur. It 
+then gets used for a variety of developmental and non-developmental activities 
+through Government and other agencies and flows back to members of the 
+public as incomes in various ways, as factor incomes. It would therefore, be of 
+interest to know how funds get mobilized for various purposes and get used. 
+This Unit looks at the kind of data available that could enable us to analyse this 
+mobilization process and the flows of funds to different areas of activity. Let us 
+begin to discuss the data on trade. 
+23.2  TRADE  
+23.2.1 Merchandise Trade 
+The Directorate General of Commercial Intelligence and Statistics 
+(DGCI&S) collects and compiles statistics on imports and exports. It releases 
+these data at regular intervals through their publications and through CDs. It 
+prepares “Quick Estimates” on aggregate data of exports and imports and 
+principal commodities within two weeks of the reference month and releases 
+these in the monthly press release. It publishes 
+1) A monthly brochure “Foreign Trade Statistics of India (Principal 
+Commodities and Countries)” containing provisional data issued to meet 
+the urgent needs of the Ministry of Commerce, other government 
+organizations, Commodity Brands (CBs), Export Promotion Councils 
+(EPCs) and research organizations. It contains commodity-wise, country-
+wise and port-wise foreign trade information; 
+2)  “Monthly Statistics of Foreign Trade of India, Volume I (Exports 
+including re-exports) & Volume II (Imports) containing detailed data 
+on foreign trade at the 8-digit level codes of the ITS (HTS) (see below); 
+3) Quarterly publications :  
+a) Statistics of the Foreign Trade of India by Countries – VolI 
+(Exports including re-exports) and  
+b) Statistics of the Foreign Trade of India by Countries – Vol II 
+(Imports)  
+4) Annual publications:  
+a) Statistics of the Customs and Excise Revenue Collections of the 
+Indian Union,  
+b) Statistics of the Inland Coasting Trade Consignment of India, 
+c) Inter-State Movements/ Flows of Goods by Rail, River and Air, 
+d) Statistics of Foreign and coastal Cargo Movements of India, 
+e) Selected Statistics of the Foreign Trade of India; 
+
+
+--- Page 65 ---
+ 
+ 
+65
+Trade and Finance 5) The DGCI&S website (www.dgciskol.nic.in) has two parts, one consists 
+of static pages and the dynamic pages. The first contains the history and 
+the activities of DGCI&S and summary data on principal commodities, 
+and countries and is updated regularly. The dynamic pages are mainly for 
+on-line data dissemination and provide access on free and payment basis. 
+This contains at least 24 months final foreign trade data at 8-digit 
+commodity and principal commodity level and updated regularly; and 
+6) The Priced Information Service System (PISS) provides information to 
+private parties, EPCs, CBs, Foreign Embassies etc., on payment basis @ 
+Re. 1 /- per unit record of information. It does not give the whole basket of 
+8-digit commodity-country data for any particular period for reasons of 
+‘copyright’ provision of the DGCI&S. It however, provides aggregate and 
+detailed data to Centre for Monitoring Indian Economy (CMIE) , 
+Mumbai for an efficient trade intelligence service. 
+7) It also has a web-based data dissemination system for online data 
+transaction through advance payment. The export and import trade data 
+are available countrywise and economic regionwise. The detailed data on 
+India’s foreign trade in merchandise are made available after completion 
+of the third month from a particular month. Here the commodities referred 
+to in these data stand for the ones specified in the ITC(HS) against 8-digit 
+codes which have been developed by the DGCI&S by sub-dividing the 6-
+digit codes of Harmonised System as internationally standardised. If you 
+want to get data online, you can visit http://www.dgciskol.nic.in/new_ 
+registration.asp and see the terms, conditions and procedures. 
+The DGCI&S data are also presented as time series data in the Reserve Bank 
+of India Handbook of Statistics on the Indian Economy. As mentioned 
+above the CMIE is another source – their volume on Foreign Trade and 
+BoP. The EPWRF (see its website – google search with EPWRF will enable 
+you to access it) also publishes time series data on foreign trade – it is one of 
+the 35 sets of special statistics on which it publishes long time series data along 
+with information on conceptual and methodological issues. 
+Foreign trade data published by DGCI&S relates to merchandise trade through 
+all recognized seaports, airports, land customs stations and inland container 
+depots located all over India. Data on exports include re-exports and relate to 
+the free on board (f.o.b.) values and imports relate to cost, insurance and freight 
+(C.I.F.) values. Exports and imports are based on a general system of 
+recording. According to this, exports relate to Indian merchandise and re-
+export relates to foreign merchandise previously imported into India. Imports 
+relate to foreign merchandise, whether these are intended for consumption in 
+India, bonding or re-exportation. 
+The commodities comprising merchandise imports and exports are classified 
+according to a standard classification. The trade classification in vogue in India 
+between April, 1977 and March, 1987 was the Indian Trade Classification, 
+Revision 2 (ITC – Rev. 2) – one that was based on the Standard International 
+Trade Classification Revision 2 (SITC – Rev.2). A new system of commodity 
+classification, known as Indian Trade Classification (based on the Harmonized 
+Commodity Description and Coding System), or ITC(HS), has been adopted 
+since April, 1987. ITC (HS) is an extended version of the International 
+Classification System called “Harmonized Commodity Description and Coding 
+
+
+--- Page 66 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+66 
+System” evolved by the World Customs Organization, Brussels 1. These 
+changes in the trade classification of commodities mean that time series data on 
+export and import relating to some commodities may not be strictly 
+comparable. Another element of non-comparability of time series data arises 
+from changes in the definition of countries and/or groups. For example, data 
+for Russia prior to 1993-94 relate to erstwhile USSR, with the exception of 
+1992-93, the data for which relate to the Commonwealth of Independent States 
+(CIS) representing a group of 15 countries 2. Similarly, Indian trade with 
+Germany relates to Federal Republic of Germany (FRG) till 1989-90 and to the 
+unified Germany thereafter. There are also changes in the membership of 
+groups like the European Union, and Oil and Petroleum Exporting Countries 
+(OPEC) from time to time. 
+What would we like to know about foreign trade? The volume of trade, that is, 
+the volume of exports and imports, the size of export earnings, the expenditure 
+on imports, the size of exports relative to imports, earning from exports 
+compared to expenses incurred on imports since exports earn foreign exchange 
+while imports imply outflow of foreign exchange. We should like to know 
+about the trends in these variables. Besides looking at the trends in the quantum 
+and value of imports and exports, it is important to analyse the growth in 
+foreign trade both in terms of value and volume, since both are subject to 
+changes over time. Exports and imports are made up of a large number of 
+commodities and fluctuations in the export and imports of individual 
+commodities contribute to overall fluctuations in the volume and value of 
+exports and imports. We, therefore, need a composite indicator of the  trends 
+in trade. The index number of foreign trade of a country is a useful indicator of 
+the temporal fluctuations in exports and imports of the country in the term of 
+value, quantum and unit price and so on. Similarly, measures of the terms of 
+trade could be derived from such indices relating to imports and exports. 
+The index number of foreign trade is computed and presented as Unit Value 
+Index (UVI) and Quantum Index (QI). These are defined as follows: 
+ UVI = [ ∑ /g1842/g2869/g1843/g2930] / [∑ /g1842/g2868/g1843/g3047]   …………………………. (1) 
+ 
+QI = [ ∑ /g1842/g2868/g1843/g2930] / [∑ /g1842/g2868/g1843/g2868]     …………………………. (2) 
+w
+here P1 Is the unit value of an item in the current period and Q t is the quantity 
+of the same item in the current period, P 0 and Q 0 are the unit value and the 
+quantity respectively of the same item during the base period and Σ is the 
+summation over all commodities. These indices have been computed with 
+1979-80 as the base year. 
+Three types of Terms of Trade are computed from these ind ices: 
+1) Gross Terms of Trade (GTT) = 100 × [(QI of imports)/QI of exports)] 
+2) Net Terms of Trade (NTT) = 100 × [(UVI of exports)/(UVI of imports)] 
+3) Income Terms of Trade (ITT) = [NTT × QI of exports]/100 
+          = [UVI(exports)× QI(exports)]/ [UVI (imports)]. 
+The existing index numbers have the base year 1979-80. Changes in the ITC 
+since April, 1987 and the recasting of the basket of commodities to suit the new 
+                                                             
+1  This organization was previously known as Customs Cooperation Council. 
+2  These were Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyz republic, 
+Latvia, Lithuania, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine and Uzbekistan. 
+
+
+--- Page 67 ---
+ 
+ 
+67
+Trade and Finance classification system, the base year 1979-80 has become too old to serve the 
+purpose of temporal comparability and the new ITC adopted in April, 1987. 
+The DGCI&S, therefore, decided to construct new index numbers with the 
+base year 1998-99. It also decided to bring out global monthly indices and for 
+selected countries. The preparation of these index numbers is in progress. 
+What kinds of data are available on foreign trade? Time series on the following 
+data are published in the RBI Handbook of Statistics of the Indian Economy 
+2013-14, under the sub-heading “Trade and Balance of Payments”: 
+a) India’s foreign trade (in US $ and Indian Rupees) from 1975-76 to 2013-14, 
+The exports and imports have been shown as total and in two groups, 
+namely, oil and non-oil. The “Trade Balance”, i.e., exports – imports is 
+also given for each of these three groups. A negative figure meaning exports 
+are less than imports. You can observe from this Table that India had a positive 
+non-oil trade balance, albeit sporadically, till 2003-04. However, after that, 
+trade balance for both oil and non-oil has become negative. 
+b) Exports (in US$ and Indian Rupees) of principal commodities, from 1998-
+99 to 2013-143; 
+c) Imports (in US$ and Indian Rupees) of Principal Commodities 4, from 
+1998-99 to 2013-14; 
+d) Exports (in US$ and Indian Rupees) of selected commodities to principal 
+countries; 
+e) Direction of Foreign Trade (in US$ and Indian Rupees) showing exports 
+and imports for each year by trade areas, groups of countries and 
+countries; and within each group of countries or trade area, data are 
+presented only for selected countries5; 
+f) Year-wise indices, both UVI and QI, for imports and exports from 1976-
+77 to 2007-08 (base 1978-79 = 100) and 1999-2000 to 2013-14 (base 
+1999-2000 = 100) the three terms of trade measures; GTT, NTT and ITT; 
+                                                            
+ 
+3  Commodities were classified into 4 groups (including total), namely, primary products, 
+manufactured goods, petroleum products and others; sub-divided further in into 11 sub-
+groups and 44 items: A. Agriculture and allied Products (15 items), 2. Ores and Minerals (3 
+items), 3. Leather and manufactures, 4. Chemicals and related products (4 items), 5. 
+Engineering goods (6 items), 6. Textile and textile products (11 items), 7. Gems and jewelry, 
+8. Handicrafts, excluding handmade carpet; 9. Other Manufactured Goods; 10. Petroleum 
+products; and 11. Others. 
+ 
+4  The classification of imports consisted of three broad groups, I Bulk Imports, II Non-bulk 
+Imports and III Total Imports; Bulk Imports were further divided into three groups, namely, 
+A. Petroleum, Crude and Products; B. Bulk Bulk Consumption Goods (consisting of 4 sub-
+items); C. Other Bulk Items (9 sub-items); Non-bulk Import were A. Capital Goods (8 sub-
+items), mainly export related items ( 4 sub-items) and Others (9 sub-items). 
+ 
+5 
+  The trade areas for which data are presented are: I OECD countries, II OPEC, III Eastern 
+Europe, IV Developing Countries, V Others (Unspecified). Each of these trade areas is 
+further divided into country-group and within each group figures are given only for some 
+selected countries. Trade area I is divided into A. European Union (within which data for 6 
+selected countries are given). B. North America (2 selected countries). C. Asia & Oceania (2 
+selected countries) and D. Other OECD Countries (1 selected country). II and III have no 
+further grouping of countries within them but figures for 6 selected countries under II and for 
+2 selected countries under III are presented. Trade area IV is divided into A. Asia, B. Africa 
+and C. Latin America Countries. A gets further grouped into (a) SAARC (figures for all 
+countries are given under this), (b) Other Asian Developing Countries (figures for 6 selected 
+countries are given). Figures for 7 selected countries under Africa are given and for Latin 
+America no further break up by countries are given.  
+
+
+--- Page 68 ---
+ 
+ 
+Data Base of Indian 
+Economy 
+68 
+g) Index numbers of Exports – QI and UVI for 9 commodity groups 6 from 
+2005-06 onwards (base 1999-2000 = 100).  
+h) Index numbers of Imports - QI and UVI for 9 commodity groups 7 from 
+2005-06 onwards (base 1999-2000 = 100) Similar type of data on imports. 
+i) India’s overall Balance of Payment (in US $ and Indian Rupees) under: A 
+current account, B capital account, C. errors and omissions, D. overall 
+balance and E. Monetary movements from 2008-09 onwards. 
+j) Invisibles by category of transactions (in US $ and Indian Rupees) from 
+1994-95 onwards. 
+k) Exchange rate of Indian Rupee vis-à-vis US $, UK £, DM/ € and Japanese 
+¥ from 1975 onwards (calendar year – annual average, financial year – 
+annual average and end year rates). 
+l) Real Effective Exchange Rate (REER) and Net Effective Exchange Rate 
+(NEER) of Indian Rupee 36-country bilateral weights) with base 2004-05 
+from calendar year 2005 onwards. 
+m) Indices of REER and NEER. 
+n) External assistance in the form of loans and grants from 1985-86 onwards 
+(in US $ and Indian Rupees), authorization, utilization and debt service 
+payments. 
+o) NRI deposits outstanding (in US $ and Indian Rupees) from 1996 onwards 
+in different types of accounts like NR (E)RA, FCNR(A), FCNR(B), 
+NR(NR)RD, NRO, FC (B&O)D, FC(O)N and total. It has increased from 
+US $17.446 billion in 1996 to US $103.844 in 2014. 
+p) Foreign investment inflows (in US $ and Indian Rupees) namely, gross 
+investments, repatriation/ disinvestment, FDI by India, net foreign direct 
+investment, net portfolio investment from 2000-01 onwards. 
+q) Foreign exchange reserves (in US$ and Indian Rupees) from 1956-57 onwards. 
+r) India’s external debt (in US $ and Indian Rupees) from 1996 onwards 8, 
+which, inter alia, providesconcessional debt as percentage of total debt, 
+short term debt as % to total debt, debt stock-GDP ratio (%) and debt 
+service ratio (%). 
+ 
+                                                            
+ 
+6  The commodity groups are: I Food and live animals (6 sub-groups), II. Beverages and 
+Tobacco, III. Crude materials, inedible, except fuel (4 sub-groups), IV. Mineral fuels, 
+lubricants and related materials (3 sub-groups), V. Animal and vegetable oil, fats and 
+waxes, VI. Chemicals and related products (6 sub-groups), VII. Manufactured goods 
+classified chiefly by material (5 sub-groups), VIII. Machinery and transport equipment (9 
+sub-groups) and IX. Misc. manufactured articles (4 sub-groups). In a few cases, indices for 
+specific commodities under a sub-group are also given. 
+7  The commodity groups are: I Food and live animals (5 sub-groups), II. Beverages and 
+Tobacco (2 sub-groups), III. Crude materials, inedible, except fuel (7 sub-groups), IV. 
+Mineral fuels, lubricants and related materials (3 sub-groups), V. Animal and vegetable oil, 
+fats and waxes, VI. Chemicals and related products (8 sub-groups), VII. Manufactured 
+goods classified chiefly by material (7 sub-groups), VIII. Machinery and transport 
+equipment (9 sub-groups) and IX. Misc. manufactured articles (3 sub-groups). In a few 
+cases, indices for specific commodities under a sub-group are also given. 
+8  The debts are classified into I. Multilateral, II. Bilateral, III. International Monetary Fund, 
+IV. Trade credit, V. Commercial borrowing, VI. NRI & FC (B&O) deposits, VII. Rupee 
+debt, VIII. Total long-term debt, IX. Short-term debt and X. Gross total debt. Most of the 
+groups have sub-groups A. Government borrowing, and B. Non-Government borrowing, 
+further disaggregated into concessional and non-concessional borrowing. 
+
+
+--- Page 69 ---
+ 
+ 
+69
+Trade and Finance Some of these data are from the DGCI&S and the rest are from the Balance of 
+Payments (BoP) data of the RBI. The BoP data reported by RBI show the 
+value of merchandise imports on the debit side and that of exports on the credit 
+side. It also shows trade balance – a trade deficit or a trade surplus – depending 
+upon whether the difference ‘export - imports’ is negative or positive. These 
+are all shown in the balance payment format as part of current account, which 
+also shows another entity ‘invisibles’. However, there is a divergence in trade 
+deficit/surplus in merchandise trade shown by DGCI&S data and that shown 
+by RBI’s BoP data. This discrepancy between the two sources also affects 
+data on current account deficit (CAD) or surplus (CDS), since current account 
+deficit/surplus is the total of trade deficit/surplus and net invisibles (inflow of 
+invisibles net of outflow in the category ‘invisibles’ 9) For example, the 
+Economic Advisory Council to the Prime Minister noted, in its Report on 
+Balance of Payments (BoP) submitted to the Prime Minister recently, that the 
+divergence between the two sources of data on trade was growing 10. It noted 
+that trade deficit is projected for the year 2005-06 at 5.2 per cent of GDP on the 
+basis of trade data from DGCI&S, while it is 7.7 per cent according to RBI’s 
+BoP data – a difference of the size of 2.5 per cent of GDP. CAD based on trade 
+data of DGCI&S is only 0.3 per cent of GDP while it is 2.9 per cent of GDP if 
+the estimate of CAD is based on trade data from BoP. The reasons for the 
+divergence in the data between the two sources are, as noted by the Council: 
+• DGCI&S tracks physical imports and exports while BoP data tracks 
+payment transactions relating to merchandise trade; 
+• DGCI&S data do not capture Government imports, which are exempted 
+from customs duty. Defence imports fall into this category; and 
+• DGCI&S data do not capture imports that do not cross customs boundary 
+(for example, oil rigs and some aircrafts) while they are still paid for and 
+get captured in BoP data. 
+23.2.2 Services Trade 
+Besides export and import of merchandise, a number of services, like 
+transportation services, travel services, software, Information technology-
+Enabled Services (ITES), business services and professional services are 
+exported and imported. These are captured by “non-factor services” included in 
+the entry “Invisibles” in the Tables on India’s Overall BoP and on Key 
+Components of India’s BoP in the RBI Handbook . The handbook has also a 
+table (Table 140 in RBI’s Handbook of 2013-14) that gives the distribution of 
+‘invisibles’ by transactions – credit, debit and net, under the Current Account, 
+giving separately for a) Services: Travel, Transportation, Insurance, G.n.i.e, 
+Miscellaneous (software services, business services, financial services and 
+communication services); b) Transfers: Official, Private; c) Income: investment 
+income, compensation of employees. 
+Check Your Progress 1 
+1) What kind of Trade Data is compiled by DGCI&S? 
+……………………………………………………………………………… 
+……………………………………………………………………………… 
+                                                            
+ 
+9 See under the section on Finance later in this Unit. 
+10 News report in the Hindu dated February, 23, 2006 Chennai edition – Business page. 
