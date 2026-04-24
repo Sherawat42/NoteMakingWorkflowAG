@@ -1,0 +1,511 @@
+--- Page 77 ---
+76
+Monetary and Fiscal Policies
+12.1 MEANING OF AND RATIONALE FOR
+FEDERAL STRUCTURE
+Federalism refers to a system with more than one level of governance, each with
+some autonomy and decision-making powers. A political definition would be
+more rigorous and would require some specific conditions to be fulfilled, but an
+economist’s definition is not so stringent. As long as all levels (two or more)
+have the authority to take some key decisions regarding revenue raising and
+spending public resources, basic conditions for fiscal federalism are satisfied,
+even if political federalism may not exist. When characterised in this fashion,
+only the degree of fiscal federalism differs among nations– even the formally
+unitary countries have aspects of it. This is because economic administration
+requires a minimum level of decentralisation and some delegation of fiscal powers
+in the interest of efficiency.
+The primary reason for the widespread implementation of the principles of
+federalism, apart from the political aspects, is its suitability for realising the
+economic benefits of both small and large size in the same administrative structure.
+The primary economic benefit of large size is a large common market that allows
+scaled-up production with economies of scale as also specialisation, making
+production more efficient. The formation of the European Common Market has
+been cited as a good example of these benefits of larger size. At the same time,
+smaller jurisdictions also have the benefit of better information availability, less
+divergence in tastes and preferences, and easier administration in general. A formal
+statement of such benefits is given by the decentralisation theorem, which
+essentially states that a decentralised system of governance better caters to local
+tastes and preferences, and is therefore more efficient than a centralised system
+1.
+These theoretical and a priori insights are well-supported in the case of India, as
+a nation of its size and diversity appears to be well-suited for a federal system.
+12.2 PILLARS OF FEDERAL FINANCE
+12.2.1 Assignments
+Assignments refer to the distribution of powers and responsibilities of the
+government between the existing tiers. This is generally formalised in the
+Constitution of the nation, but often history and conventions play a significant
+role in the determination of the actual practices. In Canada, the Provinces that
+came together to form the federation preceded the federal government;
+accordingly, all powers and functions that were not specifically assigned to the
+federal government remained with the Provinces. In contrast, the Indian States
+as we see now were carved out from the whole after independence by the National
+Legislature. The nation preceded the constituent units, and correspondingly, the
+States were given specific powers and functions by the Constitution. The exclusive
+domains of the Union and State governments, in the case of India, are specified
+in their respective lists in the Constitution, along with a Concurrent list that
+specifies the functions common to the jurisdictions of both the Union and the
+States. However, the Union’s powers prevail over that of the States in case of
+any conflict with respect to matters in the Concurrent list. This centralisation
+1 See Oates (1972).
+
+
+--- Page 78 ---
+77
+Major Development on Union
+State Relations
+bias is further strengthened with all residuary powers remaining with the Union
+(also called Central) government2.
+The overall responsibilities of the government can be broadly classified following
+Musgrave (1959) into three groups– resource allocation, distribution of wealth
+and income, and stabilisation of the economy. Of these, the first type of
+interventions that seek to reallocate resources to various economic activities
+through fiscal tools are usually thought and actually found in practice to be suitable
+for all levels of government, depending on the exact nature of the intervention.
+The other two are conceptually better suited to the national level government as
+regional or local level policy initiatives can be defeated by inter-jurisdictional
+mobility of citizens or resources. For example, an aggressive redistributive policy
+of a sub-national jurisdiction can cause out-migration of the rich from that
+jurisdiction into other less aggressive jurisdictions.This can continue in principle
+as long as the policy differential exists till all the rich taxpayers have shifted out
+and there is no one left to redistribute from. Similarly, stabilisation policy adopted
+by a sub-national jurisdiction can be neutralised by contrary policies adopted by
+other jurisdictions. In general, when economic policies require uniformity across
+the nation to be effective in a federal system, it is better administered by the
+national government. These considerations apply to both sides of the fiscal
+operations of the government– revenue raising and public expenditures.
+12.2.1.1  Assignment of Public Expenditure
+The assignment of expenditure responsibilities and of revenue handles are, in
+principle, governed by different considerations. The expenditure responsibilities
+are ideally assigned in such a way that the nature of the function maps closely to
+the size of the jurisdiction. For example, defense is a national public good (i.e.,
+its benefit area covers the entire nation) that maps best at the central level, and
+hence best assigned to the Union government. In contrast, public lighting is very
+much a local public good in nature, and hence best allotted to the local government
+units. Regional level public goods can be assigned to State governments, and if
+a particular public good does not map well into the pre-defined jurisdictions,
+even special purpose sub-national special agencies can be created (e.g., school
+districts in the USA or river valley project authorities in several countries including
+Sri Lanka).
+Apart from the economic efficiency argument of the ‘decentralisation theorem’
+relating to greater cognizance of local variations in demand for public services,
+the correspondence of benefit area with decision-making jurisdiction internalises
+costs and benefits of public services and avoids distortions and sub-optimal
+decisions. This is often termed as the subsidiarity principle, although strictly
+speaking, the general principle essentially requires all decision-making at the
+most decentralised level by default, and these powers and functions moved up to
+progressively less decentralised levels only when there are clear and substantive
+reasons for it. However, considerations of scale economies may sometimes
+2 This has had significant impact on fiscal federalism, not foreseen by the Constitution makers.
+The best example is that of no mention of the services sector anywhere in the three lists of the
+Constitution, except a few specific services. This sector grew faster than all other sectors to
+become the largest one in terms of share in GDP. The centre claimed the right to tax services
+sector under the residuary powers clause, and this in fact upset the balance of revenue raising
+powers between the Centre and the states irrevocably, with strong implications for subnational
+autonomy.
+
+
+--- Page 79 ---
+78
+Monetary and Fiscal Policies outweigh the subsidiarity principle in functional assignment. Also, the second-
+generation theory of fiscal federalism (Qian and Weingast, 1997) asserts that the
+main consideration in determining assignments should be the ability of any level
+of government to carry out the function most efficiently, irrespective of the nature
+of the public service one is considering. This contention is the main argument of
+the modern theory of competitive federalism as well (Breton, 1987).
+12.2.1.2 Assignment of Revenue Sources
+As far as revenue-raising is concerned, primarily redistributive taxes like the
+personal income tax are generally assigned to the national level. Modern
+corporations are large entities with business operations across a nation, and to
+prevent tax-induced distortions in location and other business decisions causing
+inefficiencies, corporate taxation is also usually assigned to national governments.
+Taxes on foreign trade are also assigned to the national government, as uniformity
+is required across the nation. As per the original scheme of constitutional
+assignment in most large federal systems including India, indirect or commodity
+taxes were distributed among different levels. In India, the Union government
+levied the Union Excise duty on production, the states levied sales tax (later
+converted to a variant of Value Added Tax or V AT), and the local bodies could
+levy Octroi duty. All three taxes were actually taxing consumption, which caused
+a significant extent of tax overlapping, making it difficult to even assess the
+effect of various taxes on the prices, leave alone the economic impact of this
+complex system of indirect taxation. Further, competition among states to attract
+business into their jurisdiction using the incentive of lower tax rates caused
+revenue losses for all of them. This system badly needed rationalisation, with an
+additional issue of the increasing share of the services sector in the GDP and the
+appropriation of its taxation by the Union government using the residuary powers
+clause of the Constitution. The rationalisation process was a long drawn-out
+affair, beginning with efforts to lower the degree of tax competition in stages,
+and culminating in the introduction of a Goods and Services Tax (GST) in 2017,
+levied jointly by the Union and the state governments. While indirect tax reform
+based on introduction of some variant of nationwide V AT has been a recurring
+phenomenon across the globe for the last fifty years, its structure and
+administration has neither been uniform, nor free from controversy in large
+federations. Brazil, Canada and India, three large federations, each have different
+versions of V AT/GST being levied, and in all three nations the extant system
+faces some criticism.
+In contrast to the broad-based taxes like income tax or V AT, there are some
+revenue sources the base of which are less mobile and are therefore suited for
+sub-national governments. For example, property tax or road/bridge tolls are
+ideal for local bodies, and usually assigned to them. In India, Octroi was a major
+source of revenue for local bodies in some of the states like Maharashtra, but
+being a checkpost-based levy hampering smooth flow of traffic and an
+anachronism in present times, had to be abolished. To be sure, an appropriate
+substitute for Octroi was not found, and the concerned local bodies had to make
+do with less productive and less regular source of income in terms of cash flow.
+Local bodies also raise revenues from several non-tax revenue sources like fees/
+rental from markets built/provided by them, and charges for water supply.
+Middle-level (regional) governments in principle are assigned taxes that do not
+
+
+--- Page 80 ---
+79
+Major Development on Union
+State Relations
+require nationwide uniformity, and do not give rise to externalities outside their
+boundaries, while internalising externalities that may arise if levied by local
+governments. States in India typically raise most of their revenues from taxes
+comprising motor vehicle taxes, state excise, stamp duty and registrations fees
+apart from GST as the major taxes; a few other smaller sources of revenue like
+land revenue, profession tax, and electricity duty are also allotted to the states by
+the Constitution. Significant consolidation of several smaller constitutionally
+allocated state taxes like entertainment tax, passenger and goods tax, entry tax,
+and luxury tax levied on goods and services took place while introducing the
+GST, which subsumed all these taxes. This certainly simplified the tax system of
+the states. However, the introduction of GST with its legislation dominated by
+the Union, despite granting states access to the services sector as tax base, has
+reduced both revenue flow and revenue flexibility/autonomy for several states.
+Important non-tax revenue sources for some of the states include royalty from
+minerals including onshore petroleum crude extracted, and income from forests
+(with some regulation of the use of forest resources)
+3.
+12.2.2 Vertical and Horizontal Imbalances
+As the principles governing assignment of government expenditures and revenue
+sources are different, the two sides would be balanced for any level of government
+only by accident. In general, because of the bias towards decentralisation of
+functional responsibilities and government expenditures, the latter are incurred
+at the sub-national level to a greater extent while, the collection  of broad-based
+taxes and those with substantial economies of scale imparts a bias towards greater
+centralisation of tax collection. Together, these biases imply that the expenditure
+responsibilities at the sub-national levels are not adequately supported by the
+revenue assignments. This is termed as vertical imbalance, which is present in
+varying degrees in practically all federations of the world. There is another type
+of imbalance that relates to the varying ability of different constituent units at
+the same level (sub-national), to meet their expenditure needs with their own
+revenues. This is known as the horizontal imbalance, the degree of which is
+often linked to the level of economic development of the concerned unit. For
+example, Bihar is likely to have a much higher degree of horizontal imbalance
+compared to Haryana. Expenditure responsibilities of a poor state like Bihar
+would be higher because of the inability of the majority of its citizens to pay and
+access private supply of the services they need, while their low incomes would
+permit the state government to raise only relatively low amounts of revenues.
+Both the problems are likely to be less severe in the relatively better-off state of
+Haryana.
+12.2.3 Correcting the Imbalances – Inter-governmental
+Transfers
+The vertical and horizontal imbalances inherent in most of the federal fiscal
+systems have to be resolved (called the process of equalisation) in the interest of
+the stability of the system. Equalisation is a constitutional requirement in some
+countries, and in some others, a legal obligation. It can also be motivated by a
+tradition/convention or an implicit general agreement or ‘common will’ as
+expressed by the legislature. This mechanism for resolution should be a part of
+3 For the Union government in India, sale of spectrum has been a lucrative non-tax revenue
+source.
+
+
+--- Page 81 ---
+80
+Monetary and Fiscal Policies the system to obviate the need for repeated consideration and policy initiatives
+for such resolution. In general, this requirement being met by inter-governmental
+transfers is a common feature in all systems of fiscal federalism, including India.
+Apart from resolving the vertical and horizontal imbalances, inter governmental
+transfers can also serve other purposes. These include:
+a) compensating for benefit spillovers across jurisdictions to maintain
+efficiency
+4,
+b) to pay for agency functions performed by sub-national governments on behalf
+of the national government,
+c) to help sub-national governments maintain a minimum level of basic services,
+and
+d) to incentivise the sub-national governments to fall in line with central
+planning or development objectives.
+Each of these motives for intergovernmental transfers has been explicitly
+considered and catered to, in the Indian system at some point. For example, the
+14
+th and now the 15 th Finance Commissions have linked a State’s tax share
+positively to its area under forests, keeping in mind the environmental and
+ecological benefit spillovers of forests. Erstwhile Planning Commission and the
+Plan transfers under its aegis exemplified (d) above.
+Inter governmental transfers can be formula-driven (amounts for each recipient
+determined objectively using a set of pre-determined, quantifiable criteria) or
+discretionary (determined on a case-by-case basis). While some amount of
+discretionary transfer is present in almost all federal systems, too much of it can
+result in undesirable consequences like loss of sub-national autonomy, inefficient
+lobbying by recipient governments, and strategic behaviour. Inter governmental
+transfers generally take one of the two forms: revenue-sharing and grants. Both
+forms are widely prevalent in various countries of the world including India.
+Revenue– sharing is usually through a scheme of specified percentage of the
+total for individual units of sub-national governments, implying varying amounts
+with variations in the total. In India, the aggregate tax revenue of the Union is
+shared with States, while other countries may share revenues from individual
+taxes (Brazil, for example)
+5. Non-tax revenues can also be shared; royalty from
+various minerals including petroleum crude is shared among different levels of
+government in several countries.
+Grants can be of different types, and their designs are often influenced by the
+objective of the grants. They can be conditional (specific purpose) or
+unconditional (also called general purpose or block grants) . The latter are
+generally preferred for correcting horizontal or vertical imbalances. But grants
+to maintain a minimum level of basic services would obviously be conditional,
+4 When sub-national governments optimise their public spending by equating benefits with
+costs, there may be under-provision in the presence of benefit spillovers (positive externalities)
+– a part of the benefits accruing outside the jurisdiction of the government incurring the
+expenditure, as the decision may be based on benefits accruing within the jurisdiction only.
+5 Revenue sharing should be distinguished from revenue base sharing. Base sharing does not
+require intergovernmental transfers unless collection is centralised by common agreement.
+Income tax base is shared between the States/Provinces and the Federal (central) government
+in both the USA and Canada, but that does not entail inter governmental transfers. GST base
+is shared between the Union and the States in India.
+
+
+--- Page 82 ---
+81
+Major Development on Union
+State Relations
+to be spent on specified (basic) services only. Conditional grants can be matching
+(linked to the recipient units’ performance in revenue collection or expenditure)
+or non-matching. Matching grants are used when the grantor government wants
+to modify the grantee government’s preferences in favour of the activity supported
+by the grant. Most of the central grants provided to states under the Centrally
+Sponsored Schemes are of this type. Further, grants can be closed-ended (pre-
+defined maximum) or open-ended.
+In the budget documents, grants are reported broadly according to their
+institutional channel. The first classification is between Plan grants and non-
+Plan grants. With the discontinuation of central planning, the first category is
+currently void except for grants relating to Centrally Sponsored Schemes. The
+second category of non-Plan grants comprises statutory grants (those
+recommended by the Finance Commission) and other grants (the composition of
+which can change from time to time).
+12.2.4 Sub-national Borrowing
+In India, sub-national governments– states and local bodies are permitted by the
+Constitution to borrow from various sources. These sources include (a) a higher
+level of government, (b) market borrowings, (c) negotiated loans from various
+financial institutions including commercial banks, and (d) the central bank of
+the country and bankers to most of the states– the Reserve Bank of India (RBI).
+Apart from these, there are other liabilities in the nature of debt that the sub-
+national governments incur, like Provident Fund contributions collected from
+their employees. While most of the borrowings are made at their discretion, market
+borrowings are subject to direct central government control, as per a constitutional
+provision (Art. 268). Typically, negotiated loans, market borrowings and
+borrowings from the Union government are long-term loans while loans from
+commercial banks and those from the RBI are short-term. Loans from the Union
+government may include some amounts that are simply pass-through debt, actually
+borrowed from bilateral/multilateral institutions such as the World Bank or Asian
+Development Bank. Although these loans are negotiated by the lender organisation
+directly with the beneficiary sub-national government
+6,  the actual flow of funds
+is through the Government of India as the other levels of government are not
+permitted by the Constitution to borrow from any non-domestic source
+7.
+All the state governments in India are subject to their own fiscal responsibility
+legislations, introduced around the middle of the first decade of this millennium
+in most of the states. These have the common features, prompted by the Finance
+Commission, of limitations on revenue deficit, fiscal deficit and the ratio of total
+debt to Gross State Domestic Product (GSDP). In general, states in India cannot
+finance their deficit without incurring some kind of debt; thus, the statutory
+limitation on fiscal deficit automatically implies a restriction on debt. This is
+important from the point of view of fiscal sustainability of the state finances in
+6 This is the position after the year 2000. Before that, foreign lenders could not negotiate with
+the sub-national governments directly as the constitutional restriction was strictly enforced.
+Also, irrespective of the terms of lending agreed with the original lender, the Union government
+on-lent the amounts at the same standard terms as the usual lending to the sub-national
+governments.
+7 The extent to which sub-national units can access debt from foreign lenders varies between
+different countries. In Sri Lanka, sub-national governments cannot borrow at all from foreign
+sources, while Canadian Provinces freely do so.
+
+
+--- Page 83 ---
+82
+Monetary and Fiscal Policies India, which went through serious stress during the period 1990-2005 leading to
+the introduction of the fiscal responsibility legislations (FRBMA) in the first
+place.
+Check Your Progress 1
+1) What do you understand by the term ‘fiscal federalism’?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) List the overall responsibilities of a government. How are these
+responsibilities suited or assigned to different layers of the Government?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) To what extent do inter-governmental transfers help to correct the vertical
+and horizontal imbalances?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+4) What are the different sources of sub-national borrowings?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 84 ---
+83
+Major Development on Union
+State Relations12.3 INSTITUTIONS OF FEDERALISM IN INDIA
+Apart from the different tiers of the government, the institutional structure relating
+to fiscal federalism in India primarily involves the Finance Commissions at the
+central and state levels, and to a lesser extent the NITI Aayog
+8. An agency that
+should have been playing a major role is the Inter-State Council, but it does not
+in practice. In the present fiscal context, another agency that has assumed
+importance is the GST Council, empowered by the relevant legislation to
+deliberate upon and take decisions relating to key issues within the ambit of
+GST structure in the country and administration.
+12.3.1 Finance Commission
+Article 280 of the Indian Constitution provides for the apex (and originally the
+only) Finance Commission empowered to advise the Union Government of the
+day in matters relating to Centre-State financial relations. The Constitution
+provides for appointment of a Finance Commission by the President of India
+(the Chairman and Members, on the advice of the Union Government) every
+five years or earlier. The Commission is provided with a set of Terms of Reference
+(ToR) that may include, apart from the constitutionally mandated tasks, any other
+matter involving centre-State financial relations. The constitutionally mandated
+tasks at present include, inter alia, tax devolution or sharing of central tax revenue
+with the States (Art. 270 as amended), as also recommending grants-in aid to
+individual States to cover revenue deficits, for onwards transmission to local
+bodies, for meeting natural calamities, and for any other reason at its discretion
+(Art. 275 and 282). The Commission also considers the indebtedness of the Union
+and the States, and makes recommendations deemed appropriate (Art. 293). It is
+expected to submit its recommendations in a Report some time before its award
+implementation period is to begin, to give enough time to the Union government
+to consider the recommendations and table it in the Parliament along with an
+Action Taken Report (ATR). Each Commission is disbanded after submitting its
+report, unless an additional issue is entrusted to it for consideration and
+recommendations. There have been only rare instances when the Union
+government has not accepted Finance Commission recommendations; this has
+been a healthy tradition in the working of Indian fiscal federalism.
+State Finance Commissions came into being as a result of 73
+rd and 74th amendments
+of the Constitution in 1992 conferring constitutional status to the third tier of
+government, the urban and rural local bodies. Each State government has its
+own legislation in this respect, and is expected to appoint the State Finance
+Commissions at regular intervals as provided in their concerned legislation. The
+scope of the recommendations covers State-local financial relations, mainly fiscal
+transfers from the State government to the local bodies.
+12.3.2 Planning Commission/Niti Aayog
+The erstwhile Planning Commission played a significant role in the area of fiscal
+federalism in India. It oversaw the State level Five Year Plans– both physical
+and financial, provided financial assistance for State Plans in terms of both debt
+and grants, and possibly most importantly, provided a forum for the States to
+8 Its predecessor, the Planning Commission, played a much more important role– as important
+as the Finance Commission. Some details are provided in following paragraphs.
+
+
+--- Page 85 ---
+84
+Monetary and Fiscal Policies come together and discuss issues important to them in the form of National
+Development Committee (NDC), chaired by the Prime Minister of India. The
+Planning Commission was set up by an executive order of the Union Government
+when India adopted the mixed economy model of economic system with central
+planning. While the system of central planning was preferred one, the Planning
+Commission was a key institution for economic policy; with the economic policy
+liberalisation of 1991, its pre-eminence started dwindling, and in 2014, its
+discontinuation was announced. It was replaced by NITI Aayog, which has so
+far been a purely advisory body with some amount of responsibilities for
+monitoring and research. It does not play any direct role in fiscal federalism in
+India.
+Various Ministries of the Government of India including the Ministry of Finance
+play an important role in the system of fiscal federalism in India. While the
+Ministry of Finance plays an important role in implementing the Finance
+Commission recommendations, monitoring FRBM Act implementation, and
+several other tasks of monitoring and control of States’ financial measures, several
+individual line Ministries are responsible for implementing Centrally Sponsored
+Schemes relating to their mandate and provide associated transfers to States/
+local bodies.
+12.3.3 GST Council
+As you have learnt in Unit 11, indirect tax structure has undergone a revolutionary
+change through introduction of a single Tax– Goods and Services Tax (GST) by
+way of constitutional amendment (Article 279A of the Constitution) made in
+2016. Prior to GST, the Central taxes include central excise duty, additional duties
+of excise, additional duties of customs service tax, surcharges and cesses. Similarly
+the state taxes were State V AT/ sales tax, central sales tax, purchase tax,
+entertainment tax, luxury tax, entry tax, taxes on lottery, betting and gambling
+surcharges and cesses, etc.
+This multiplicity of indirect tax structure has been replaced by a single tax i.e.
+GST structure through the Constitutional Amendment in 2016 providing
+concurrent powers to both Centre and States to levy GST (Centre to tax sale of
+goods and States to tax provision of services). The key features of GST are:
+Single Tax (GST)
+Single Tax Administration
+Uniform Law
+Computerised Uniform Procedures
+In brief GST Structure in India can be summed up as under:
+Fig. 12.1: GST Structure in India
+I-GSTS-GST/UT-GSTC-GST
+GST
+
+
+--- Page 86 ---
+85
+Major Development on Union
+State Relations
+Alcohol for human consumption, five petroleum products, Tobacco and
+entertainment tax have been left outside the purview of GST.
+This tax is a major contributor to the tax revenue of both levels of the Government,
+particularly the States.
+The GST Council comprising both State and Union representatives has assumed
+significance because it is entrusted with the responsibility of providing/ amending/
+updating the details with respect to the structure and administration of GST, a
+tax jointly levied by the centre and the States.
+As on 14-5-2019, 94.5 per cent of the total decisions (1064) of the GST Council
+have already been implemented, which is a significant achievement given the
+complicated nature and wide area of subjects/issues involved on the fact that
+most decisions were taken unanimously.
+12.4 THE 14 TH AND 15TH FINANCE COMMISSIONS
+The primary responsibility of the Finance Commission, as mentioned above in
+the preceding section, relates to recommending fiscal transfers from the Union
+to sub-national governments. As the transfers to local bodies are also routed
+through the State governments, it could be taken as Centre-State transfers. The
+two types of transfers, tax devolution and grants, are different in nature in that
+grants are recommended in money terms or fixed amounts (for each State), while
+tax devolution is recommended as the percentage shares of each State in the total
+tax revenue of the Union net of :
+a) Cost of collection of taxes
+b) Revenues collected in the Union Territories
+c) Exclusions like cess and surcharges as specified in the Constitution.
+Usually, Finance Commissions estimate individual States’ revenue receipts and
+current expenditure first, yielding estimates of revenue deficit/surplus
+9. Next,
+tax devolution is recommended in terms of (i) the share of States as a whole in
+the distributable tax revenue of the Union and (ii) applicable shares of each
+State. The Commission itself estimates distributable Union tax revenues for the
+award period, and applying the shares recommended, it estimates the amount of
+tax devolution for each State. Selecting the States with pre-devolution revenue
+deficits, these deficits are reduced by the estimated tax devolution. For only
+those States which end up with post-devolution revenue deficits, a revenue deficit
+grant to cover the same is recommended. Other grants are usually recommended
+independent of this process, based on considerations specific to the nature of the
+grant recommended. By far, tax devolution outweighs other transfers (grants) in
+terms of the amounts concerned.
+The ToR of the 14
+th Finance Commission, the last one to have submitted its
+report at this point, is reproduced in Appendix 12.1. As can be seen, it was asked
+to consider a large number of issues other than the basic ones enshrined in the
+9 By choice, Finance Commissions in India have confined themselves to the current account
+(internationally the term ‘current’ or ‘recurrent’ is used to denote receipts or expenditure without
+any associated future financial flows, but the roughly equivalent term ‘revenue’ is used in the
+Indian budgetary parlance) of the budget only. The capital account is not considered by them
+except when considering indebtedness.

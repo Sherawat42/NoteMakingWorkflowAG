@@ -1,0 +1,18 @@
+# Chunk 001 Structure
+
+## BLOCK 4 SECTOR SPECIFIC ISSUES AND POLICIES
+
+## UNIT 13 AGRICULTURE: ISSUES, CONCERNS, POLICY AND PROGRAMMATIC INITIATIVES
+- Structure
+- 13.0 Objectives
+
+## 13.1 INTRODUCTION: ROLE AND RELEVANCE OF AGRICULTURE IN INDIAN ECONOMY
+
+## 13.2 AGRICULTURE PRODUCTION AND PRODUCTIVITY AFTER INDEPENDENCE
+- 13.2.1 Trends in Production
+- 13.2.2 Trends in Productivity
+- Check Your Progress 1
+
+## 13.3 CAUSES FOR STAGNATION IN AGRICULTURE GROWTH IN INDIA
+- 13.3.1 Deceleration in Agriculture Investment
+- 13.3.2 Inadequate Irrigation Coverage and Falling Productivity of Irrigation in Foodgrains

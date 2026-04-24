@@ -1,0 +1,495 @@
+--- Page 10 ---
+ 
+ 
+9 
+Trade Policy UNIT 18 TRADE POLICY 
+Structure 
+18.0 Objectives 
+18.1 Introduction 
+18.2 International Trade Policy 
+18.3 Instruments of a Trade Policy 
+18.4 International Trade Agreements: A Brief History 
+18.5 Trade Policy of Developing Economies 
+18.6 Trade Policy of India  
+ 18.6.1   Prior to 1991        
+ 18.6.2   Post 1991 
+ 18.6.3   FDI Policy in India 
+ 18.7 India and the Changing Nature of World Trade 
+ 18.7.1 Trade in Services 
+ 18.7.2 Trade in Intellectual Property 
+ 18.7.3 Trade in Agriculture 
+18.8 Regional Agreements relevant for India 
+ 18.8.1 Regional Comprehensive Economic Partnership (RCEP) 
+18.9   Recent Scenario in Indian Trade 
+18.10   Trade Policy of India 2015-2020 
+18.11 Let Us Sum Up 
+18.12 Term-end Exercises 
+18.13 Key Words 
+18.14 References 
+18.15 Answers or Hints to Check Your Progress Exercises 
+18.0 OBJECTIVES 
+After going through this unit, you will be able to: 
+● discuss the characteristics of International trade and in particular about 
+the Indian trade prior and post 1991; 
+● identify the instruments of a trade policy; 
+● appreciate the trade policy of developing economies; 
+● point out the emerging foreign trade issues in the changing nature of 
+world trade; 
+● explain the role of the FDI policy in India; and 
+● evaluate the Foreign Trade Policy 2015-20. 
+ 
+ 
+
+
+--- Page 11 ---
+ 
+ 
+10 
+External Sector and 
+Trade Policy 18.1 INTRODUCTION 
+In this unit we shall discuss the Indian trade policy, its features in pre-
+economic reforms and post- economic reforms periods. We shall highlight 
+the trade related important issues like trade in services, trade and intellectual 
+property rights, and agriculture and regional trade agreements. The features 
+of the trade policy 2015-2020 and its evaluation will also be discussed. To 
+begin with, let us discuss the concept of international trade policy.    
+18.2 INTERNATIONAL TRADE POLICY 
+International trade policies from a country’s point of view are those policies 
+which the government adopts towards international trade. These are the 
+policies that involve a number of actions like taxes on international 
+transactions of goods and services, subsidies for other transactions, legal 
+limits on the value and volume of imports and exports and many other 
+measures. Trade policy involves a number of instruments described in the 
+section that follow. 
+Additionally, there are various international organisations  ensuring smooth 
+trade flows between the nations. For instance, the World Trade Organisation 
+(WTO) is a major international organisation that deals with the rules of trade 
+between nations. WTO operates a global system of trade rules, acts as a 
+forum for negotiating trade agreements, settles trade disputes between its 
+members and supports the trade related needs of developing countries. Thus, 
+the goal is to ensure that trade flows are as smooth, predictable and free as 
+possible. 
+18.3  INSTRUMENTS OF A TRADE POLICY 
+1) Tariffs 
+Tariffs are among the oldest forms of trade policy instruments and have 
+traditionally been used as a source of government income. Tariffs can be 
+classified as: 
+● Specific tariffs– taxes that are levied as a fixed charge for each unit of 
+goods imported. 
+● Ad-valorem tariffs– Taxes that are levied as a fraction of the value of the 
+imported goods. 
+A compound duty (tariff) is a combination of an ad -valorem and a specific 
+tariff. 
+In analysing trade policy in practice, it is important to know how much 
+protection a trade policy actually provides. Protection can be categori sed as 
+nominal rate or effective rate of protection. The nominal rate of protection 
+(NRP) on any good is the proportional difference between its domestic and 
+international (or world) price arising from the trade policies in question. 
+
+
+--- Page 12 ---
+ 
+ 
+11 
+Trade Policy These policies can include import tariffs, export taxes, quantitative 
+restrictions, etc. Thus, NRP is  
+                       NRP = (Pd –  Pw)/ Pw × 100 
+Where Pd and Pw are the domestic and world price, respectively. 
+Since trade involves both inputs and outputs, it is important to measure 
+effective rate of protection i.e. one must consider both the effects of tariffs on 
+the final price of a good, and the effects of tariffs on the costs of inputs used 
+in production. 
+The effective rate of protection is a commonly used measure of net effect of 
+trade policies on the incentives facing domestic producers. In case of a 
+garment producer, for instance, taxes or other restrictions on clothing imports 
+raise domestic clothing prices and are beneficial to domestic producers 
+selling in the local market. On the other hand, a tariff-induced increase in the 
+domestic price of fabric raises garment producers’ costs and so is harmful to 
+them. The net impact of trade policies on the producers of any good depends 
+on their effects on prices of both their outputs and their inputs. 
+One can express the amount of effective protection as a percentage of the 
+price that would prevail under free trade. The actual protection provided by a 
+tariff will not equal the tariff rate if imported intermediate goods are used in 
+the production of the protected good.  
+Thus, Rate of Effective Protection = [VT  – VW] / VW where V is value 
+added at world prices (W) and in presence of trade policies (T).  
+For example: Suppose a 10 per cent tariff is applied to motorcycles, so that a 
+totally India made motorcycle which originally sold for Rs. 25000 (under free 
+trade) can now sell for Rs 27500 because of the protection from foreign 
+imports. In this calculation, effective protection equals nominal, i.e., 10 per 
+cent. However, suppose imported inputs used in motorcycles were Rs.15000. 
+Then the effective rate of protection is 25 per cent {= [(27500   – 
+15000)/10000)] – 1}. 
+2) Export Subsidies 
+It is a payment by the government to a firm or individual that ships a good 
+abroad. When the government offers an export subsidy, shippers will export 
+the good up to the point where the domestic price exceeds the foreign price 
+by the amount of the subsidy. It can be either specific or ad valorem. An 
+export subsidy raises prices in the exporting country while it lowers them in 
+the importing country. 
+3)  Import Quotas 
+An import quota is a direct restriction on the quantity of a good that is 
+imported. The restriction is usually enforced by issuing licenses to some 
+group of individuals or firms i.e. the right to sell in India is given directly to 
+the governments of exporting countries. License holders are able to buy 
+imports and resell them at a higher price in the domestic market. The profits 
+received by the holders of import licenses are known as quota rents. 
+
+
+--- Page 13 ---
+ 
+ 
+12 
+External Sector and 
+Trade Policy 
+4) Voluntary Export Restraints 
+A voluntary export restraint (VER) is an export quota administered by the 
+exporting country. It is also known as a voluntary restraint agreement (VRA). 
+VERs are imposed at the request of the importer and are agreed to by the 
+exporter to forestall other trade restrictions. A VER is exactly like an import 
+quota where the licenses are assigned to foreign governments and is therefore 
+very costly to the importing country. A VER is always more costly to the 
+importing country than a tariff that limits imports by the same amount. The 
+tariff equivalent revenue becomes rents earned by foreigners under the VER.  
+5) Local Content Requirements 
+A local content requirement is a regulation that requires that some specified 
+fraction of a final good be produced domestically. This fraction can be 
+specified in physical units or in value terms. Local content laws have been 
+widely used by developing countries trying to shift their manufacturing base 
+from assembly back into intermediate goods. Local content laws do not 
+produce either government revenue or quota rents. Instead, the difference 
+between the prices of imports and domestic goods gets averaged in the final 
+price and is passed on to consumers. Firms are allowed to satisfy their local 
+content requirement by exporting instead of using parts domestically.  
+Other restrictions are like Export Credit Subsidies (form of a subsidised loan 
+to the buyer of exports, resulting in the same effect as regular export 
+subsidies), National Procurement [purchases by the government (or public 
+firms) can be directed towards domestic goods, even if they are more 
+expensive than imports], Red Tape Barriers (barriers put by the governments 
+based on health, safety and customs procedures). 
+18.4 INTERNATIONAL TRADE AGREEMENTS: 
+A BRIEF HISTORY 
+Post-World War II, in order to take full advantage of bilateral and multilateral 
+coordination, a group of 23 countries began trade negotiations under a 
+provisional set of rules that became to be known as the General Agreement 
+on Tariffs and Trade, or GATT. Officially, the GATT was an agreement, not 
+an organisation-the countries participating in the agreement were officially 
+designated as “contracting parties,” not members. In practice, the GATT did 
+maintain a permanent “secretariat” in Geneva, which everyone referred to as 
+“the GATT”. In 1995, the World Trade Organisation (WTO) was established- 
+finally creating the formal organisation envisaged 50 years earlier. However, 
+the GATT rules remain in force, and the basic logic of the system remains the 
+same. Tariffs were the main point of contention among countries. Thus, 
+various trade rounds (wherein, large groups of countries get together to 
+negotiate a set of tariff reductions and other measures to liberalise trade) were 
+conducted to reach a consensus on the tariff issues. The first five trade rounds 
+under the GATT took the form of “parallel” bilateral negotiations, where 
+each country negotiates pair-wise with a number of countries at once. The 
+sixth multilateral trade agreement, known as the Kennedy Round, was 
+
+
+--- Page 14 ---
+ 
+ 
+13 
+Trade Policy completed in 1967. This agreement involved an across-the-board 50 per cent 
+reduction in tariffs by the major industrial countries, except for specified 
+industries whose tariffs were left unchanged.  The so-called Tokyo Round of 
+trade negotiations (completed in 1979) reduced tariffs employing a formula 
+more complex than that used under the Kennedy Round. Finally, in 1994 an 
+eighth round of negotiations, the so-called Uruguay Round was completed. 
+The Uruguay Round, like previous GATT negotiations, cut tariff rates around 
+the world. The average tariff imposed by advanced countries fell almost 40 
+per cent as a result of the round. More important than this overall tariff 
+reduction were the moves to liberalise trade in two important sectors, 
+agriculture and clothing. 
+The ninth major round of world trade negotiations, known as the Doha round, 
+began in 2001. Its aim was to achieve major reform of the international 
+trading system, with the fundamental objective to improve the trading 
+prospects of developing countries through the introduction of lower trade 
+barriers and revised trade rules. It ended without the negotiations being 
+completed, resulting in a spurt in bilateral trade agreements. 
+Check Your Progress 1 
+1) What is the difference between nominal rate of protection and effective 
+rate of protection? 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+2) What is the idea behind the formation of WTO? 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+…………………………………………………………………………… 
+18.5 TRADE POLICY OF DEVELOPING 
+ECONOMIES 
+Trade policy in developing countries is concerned with two objectives: 
+promoting industrialisation and coping with the uneven development of the 
+domestic economy. Government policy to promote industrialisation has often 
+been justified by the infant industry argument, which says that new industries 
+need a temporary period of protection against competition from established 
+industries in other countries. Using the infant industry argument as 
+justification, many less-developed countries have pursued policies of import-
+substituting industrialisation in which domestic industries are created under 
+
+
+--- Page 15 ---
+ 
+ 
+14 
+External Sector and 
+Trade Policy 
+the protection of tariffs or import quotas. Beginning from about 1985, many 
+developing countries, dissatisfied with the results of import-substitution 
+policies, greatly reduced rates of protection for manufacturing. As a result, 
+developing-country trade grew rapidly, and the share of manufactured goods 
+in exports rose. The results of this policy change in terms of economic 
+development, however, have been, at best, mixed. This idea had been mainly 
+confounded by the Asian Economies including India. 
+18.6 TRADE POLICY OF INDIA 
+18.6.1    Prior to 1991 
+In the post-independence period, prior to 1991, India followed a protectionist 
+approach. The principle objectives of this protectionist policy were to: 
+a)  stabilise balance of payments,  
+b)  encourage industrialisation,  
+c)  fulfil the objectives of self-reliance and self-efficiency,  
+d)  help in reallocation of resources,  
+e)  increase employment, and  
+f)  provide revenue for the government.  
+The selection of instruments, adopted for achieving the objectives of the 
+protectionist policy, can be classified in two broad groups: (a) tariff and (b) 
+non-tariff measures. These instruments were basically used to bring about 
+changes in price, volume or other parameters relating to tradable 
+commodities and services. In the pre-reform period, India’s import and 
+export policy was guided by the Import and Export Control Act of 1947. In 
+1977, two additional orders, viz. the Import Control Order and Export 
+Control Order, were introduced and the subsequent annual policy of imports 
+and exports was based on these legislations. A long-term trade policy, for 
+three years, was announced in 1985 by the government and some concrete 
+steps towards liberalisation were taken within the framework of economic 
+reforms.  
+In the pre-reform period, India’s trade policy regime was complex and 
+cumbersome. There were different categories of importers, different types of 
+import licences, alternate ways of importing, etc. Different types of licenses, 
+that used to be issued in the pre-reform period, can be categorised as: (a) 
+Open General License, (b) Automatic License, (c) Supplementary Import 
+License and (d) Imports through government-owned canalised agencies. The 
+trade policy was geared towards developing a self-reliant production 
+structure. There were high tariffs on imports. The intention of high tariffs was 
+to promote domestic production, by making imported goods more expensive 
+than those produced at home. This is what is called import substitution. Apart 
+from import duties, there were various permissions required before importing 
+something. Importing a computer, for instance, required many licenses and 
+permissions. The central government would decide on imports, depending on 
+its assessment of its importance for the national economy.  
+
+
+--- Page 16 ---
+ 
+ 
+15 
+Trade Policy Import substitution had its other side - that of discouraging exports. There 
+was no active policy of discouraging exports. But import tariffs meant that 
+the profits from investing in import substituting production were higher from 
+investing in production for export. Assuming that costs of production were 
+not substantially higher in India, the profits would also be greater. In exports, 
+on the other hand, Indian producers would have to compete with producers 
+from other countries and there would be no excess profits for them. Thus, the 
+policy of high import tariffs served to discourage investment in exports. In a 
+way, high import tariffs distorted market price signals away from exports 
+towards import substitution.  
+Economic policies are not just manufactured out of thin air. They are 
+inevitably based on some theory of how the economy functions. What was 
+the theory behind such a control on imports? The theory goes back right to 
+the beginnings of plan development in India and was part of the formulation 
+of the Second Five Year Plan (1961-65). The theory goes by the name of 
+‘export pessimism’.  
+Export Pessimism  
+In the post-colonial situation of the 1950s, it was held that the export earnings 
+of underdeveloped countries were subject to severe constraints. World 
+manufacturing was concentrated in the industrialised or developed countries, 
+while the underdeveloped countries were largely agrarian in nature. The 
+structure of world trade reflected this division of the world economy. Under-
+developed countries exported raw materials and primary goods, such as 
+coffee, tea, raw cotton, or minerals. Developed countries exported 
+manufactured products. World trade was an exchange of the manufacturer of 
+industrialised countries with the agricultural and primary goods of agrarian 
+and primary commodities producing countries.  
+Manufactured goods are produced by companies, often large companies. 
+With monopolistic market positions, these companies could determine the 
+prices of their outputs, i.e. they were price-makers. Agricultural commodities 
+are produced by large numbers of small producers. These small producers do 
+not have market power and cannot set prices for their products, i.e. they are 
+price-takers. On the other hand, the buyers of agricultural commodities from 
+the developed countries are few in number. This is called a monopsony 
+position, where there are just one or a few buyers along with a large number 
+of sellers for a product. The buyer or buyers can then be price-makers for that 
+primary commodity. The price of, say, coffee could be kept low and thus the 
+returns to the millions of primary commodity producers would also be low.  
+We need to add a third dimension to the structure of world trade to complete 
+this picture. That is the control of key mineral resources by the Multinational 
+Corporations (or MNCs), sometimes also called Trans-national Corporations 
+(TNCs) of the industrialised economies. The MNCs had operations in more 
+than one country, and they controlled much of the mineral and raw material 
+resources of the developing countries. The classic example of this control 
+was that of crude oil, mainly produced in West Asia, but controlled by the 
+Anglo-American oil majors. The result of this control of crude oil was that 
+
+
+--- Page 17 ---
+ 
+ 
+16 
+External Sector and 
+Trade Policy 
+the oil majors could keep the price of crude oil low and give a small royalty 
+to the governments of the supplying countries.  
+The role of under-developed countries in world trade was then to export 
+agricultural commodities or minerals, non-manufactured goods of various 
+kinds. In a competitive market, with a relatively fixed demand for agricultural 
+commodities, an increase in production is likely to result in a fall in the price. 
+Thus, even with an increase in production of the agricultural commodity, 
+there may not be an increase in export earnings since prices may fall.  
+Suppose there was a productivity increase by the farmers of coffee adopting 
+more productive methods. Would the benefits of increased productivity not 
+accrue to the producers? This would happen only if a few producers 
+(progressive farmers) alone adopted the improved technology while the bulk 
+of the farmers did not. Then, the progressive farmers would get the benefit of 
+higher productivity. Their costs of production would go down. With a 
+constant price, the higher productivity of the progressive farmers would give 
+them higher export earnings. But productivity improvements by farmers can 
+easily spread beyond a group or even country. If all the producers of coffee 
+adopt the improved practice, then the monopsony buyer could use 
+competition among sellers to bring the price down. The premium for 
+increased productivity would then go to the buyers from the developed 
+countries, who may or may not pass on the benefits to consumers in their 
+own countries. On the other hand, the MNC producers of industrialised 
+countries did not have to pass on the benefits of increased productivity. Their 
+monopoly positions allowed them to set prices of manufactures.  
+The implication of the above two propositions is that the terms of trade (i.e. 
+ratio of prices of what a country sells to the prices of what it buys, or of 
+primary goods’ prices to manufactured goods’ prices) for under-developed 
+countries’ would deteriorate. This, in brief, was the powerful analysis on 
+what is known as the Prebish-Singer hypothesis. This was the understanding 
+of export pessimism - that there was a strict limit to what an under-developed 
+country could earn in the export market.  
+The other side of export pessimism was import rationing. Since India needed 
+to develop its own industries, it needed scarce foreign exchange to be used 
+mainly for importing equipment and machinery for industries. In times of 
+food scarcity, food may also need to be imported. In this situation the limited 
+foreign exchange earnings needed to be rationed, with the government and 
+not players on the market deciding on what to import and what not to import 
+on the basis of relative prices. Among all commodities that it was 
+economically profitable to import, the government would decide on the most 
+important uses of the limited foreign exchange.  
+Export pessimism and import controls thus characterised Indian trade policy 
+in the early decades after Independence. It began to change in the mid-1980s 
+and was abandoned with the 1991 liberalisation. 
+ 
+
+
+--- Page 18 ---
+ 
+ 
+17 
+Trade Policy 18.6.2    Post 1991 
+The 1991 trade policy reforms were precipitated by the external debt crisis 
+the government faced. At that time, the Indian government did not have 
+sufficient foreign exchange to cover the external debt payments that were 
+due. In order to avoid defaulting on its international debt obligations, the 
+government was forced to approach the International Monetary Fund (IMF) 
+for a loan.  
+Trade policy reform, focusing on tariffs and quantitative restrictions, was an 
+important part of the economic reform initiated in 1991. Supplemented by 
+recommendations of an Expert Committee, India’s trade policy reform paved 
+the road for a major reduction of average tariffs, tariff peaks, simplification 
+of the tariff and quota regimes, and removal of several import restrictions. 
+These changes reflected a larger vision of reform to enhance the efficiency of 
+domestic industry, together with a number of other objectives such as 
+promoting infant industry, exports, technological upgradation and food 
+security. 
+The 1991 Union Budget recognised the significance of trade policy reform as 
+part of the overall reform programme, stating for instance that: “The policies 
+for industrial development are intimately related to policies for trade” (Para 
+11 of Union Budget speech). Several steps were taken to reform trade policy: 
+a more outward oriented regime was put in place, tariffs were reduced in a 
+phased manner, import duties were streamlined or simplified, and a process 
+transforming quantitative border restrictions to price-based measures was 
+begun. 
+Likewise, export incentives were continued, or new ones provided for a 
+number of products, and institutional changes were made to bring 
+transparency and to facilitate transactions involving domestic and foreign 
+markets. This included the establishment of certain institutions or revised 
+mandates for existing institutions that would help implement the new focus 
+areas (e.g., the Tariff Commission).  
+Further, 1991 trade policy reform was an exercise that balanced several 
+objectives. For instance, loss of revenue was a major concern, and this was 
+mentioned as a reason for not reducing the import duty more than what was 
+being announced. In a number of instances, import tariffs were kept high to 
+encourage infant industry. The need for protecting Indian industry against 
+foreign competition, and to save foreign exchange, was explicitly recognised. 
+This was balanced with a reduction in tariffs to lower input costs and to 
+encourage export activities. Another important feature of the 1991 reform 
+was that it began opening up the regime for FDI. While FDI was not linked at 
+that time with trade policy, it created a base for increasing economic linkages 
+with global markets. 
+Average tariff levels prior to 1991 were in triple digits. The 1991 tariff 
+reform reduced these very significantly, but the new levels too were very 
+high at the end of the 1990s. A noteworthy feature of India’s tariff peaks and 
+averages in the early 1990s was that though they were reduced from high 
+
+
+--- Page 19 ---
+ 
+ 
+18 
+External Sector and 
+Trade Policy 
+levels, they were high (particularly for non-agriculture) compared with most 
+tariffs prevailing in economies with low tariffs, e.g. the United States. Before 
+1991, India imposed high auxiliary duties on imports. These were merged 
+with basic tariffs and the overall combined tariff level. 
+18.6.3 FDI Policy in India 
+At the time of independence, policy towards FDI was largely conditioned by 
+two factors: the Industrial Policy Resolution of 1948 and 1956, and the 
+foreign exchange crisis, especially in the late fifties. However, in 1969 a 
+more precise policy towards FDI was evolved. This consisted of setting out 
+three groups of industries where (i) there would be FDI without technical 
+collaboration (ii) only technical collaboration and (iii) no foreign 
+participation. Second, the foreign exchange crisis precipitated the Foreign 
+Exchange Regulation Act (FERA) particularly Article 29 which specified that 
+any foreign owned firm with more than 40 per cent of equity held abroad had 
+to apply to the Reserve Bank of India for approval in cases relating to 
+expansion, mergers, purchase of shares in other firms, etc. FERA came into 
+force in 1974 and all applications had been dealt with by 1979. 
+A more liberal attitude towards foreign investment emerged after about 1980 
+or so. This phase begins with the Industrial Policy statements of 1980 and 
+1982 and, more importantly the Technology Policy Statement of 1983. For 
+one, the policy statements began the process of delicensing. The New 
+Industrial Policy of 1991 was the starting point of a new phase in FDI in 
+India. Thus, with the new FDI policy up to 51 per cent foreign equity was 
+permitted with automatic approval in specified industries producing 
+intermediate and capital goods. Economic reforms post 1991 had encouraged 
+foreign investment as well as foreign collaborations. The dominant policy at 
+that time was export oriented FDI and restrictions on large volume of FDI in 
+the form of equity. 
+In 1995, India had reoriented its FDI policy. This is because India signed the 
+Uruguay Agreement in 1995 which made it a member of the World Trade 
+Organisation (WTO) and hence an automatic signatory to the agreement on 
+trade related investment measures (TRIMS).  A series of measures that were 
+directed towards liberalising foreign investment included: (i) introduction of 
+dual route of approval of FDI – RBI’s automatic route and Government’s 
+approval [Secretariat of Industrial Assistance (SIA)/ Foreign Investment 
+Promotion Board (FIPB)] route, (ii) automatic permission for technology 
+agreements in high priority industries and removal of restriction of FDI in 
+low technology areas as well as liberalisation of technology imports, (iii) 
+permission to Non-resident Indians (NRIs) and Overseas Corporate Bodies 
+(OCBs) to invest up to 100 per cent in high priorities sectors, (iv) hike in the 
+foreign equity participation limits to 51 per cent for existing companies and 
+liberalisation of the use of foreign ‘brands name’ and (v) signing the 
+Convention of Multilateral Investment Guarantee Agency (MIGA) for 
+protection of foreign investments. In order to give a fillip to combat decline 
+in FDI post Asian Crisis in 1997, several measures were taken by the 
+government to further liberalise FDI policies. Measures included were 

@@ -1,0 +1,482 @@
+--- Page 20 ---
+19
+Inflation and Monetary
+Policy
+monetary policy. A nominal anchor is a variable that policy makers can use to
+“tie down” price level or its path (Mishkin, 1999).
+Inflation expectations play an important role in shaping price behaviour.
+Therefore, the ideal nominal anchor should be able to track inflation expectations.
+The Committee recommended CPI-Combined headline inflation as the inflation
+indicator for monetary policy. According to the committee, in the post-2011 period,
+inflation expectations had been following CPI inflation and was affected by both
+fuel and food inflation. Therefore, CPI headline inflation was the appropriate
+target for monetary policy.
+Table 9.2: Monetary Policy phases in India
+9.5.5 Inflation Targeting Framework
+What Urjit Patel Committee (RBI, 2014) recommended was a framework for
+monetary policy is called the Flexible Inflation Targeting framework. Various
+economies globally have followed inflation targeting since the late 1980s. An
+inflation targeting regime follows a monetary policy framework with a mandate
+for price stability through a numerical target for inflation. This brings in greater
+transparency and accountability into the operation of monetary policy as well as
+greater operational independence for the monetary authority. The Government
+of India and RBI entered into a Monetary Policy Framework Agreement on 25
+th
+February, 2015 which required RBI to bring inflation below six per cent by January
+2016 and the target inflation for 2016-17 and all subsequent years as 4 per cent
+with a band of +/–  2 per cent. The RBI Act 1934 was amended in May 2016 to
+introduce Flexible Inflation Targeting Framework in India. The Government of
+India notified a medium-term inflation target of 4 per cent with a band of +/– 2
+per cent for the period from August 5, 2016 to March 31, 2021. RBI would be
+deemed to have failed in achieving the target if the inflation in any consecutive
+three quarters is either above 6 per cent or below 2 per cent. In case of failure to
+meet the target, RBI is required to present a report to the Central Government
+detailing the reasons for the failure to meet the target, remedial actions proposed
+to be taken by RBI and the estimated time in which the target would be achieved
+through the recommended actions. RBI is also required, once every six months,
+publish a Monetary Policy Report, explaining (a) the sources of inflation; and
+(b) the forecasts of inflation for the period between six to eighteen months from
+the date of publication of the document.
+A Monetary Policy Committee (MPC) was instituted to determine monetary
+policy. For this purpose, the Reserve Bank of India Act, 1934 was amended by
+1950s to 1980s
+Developmental
+Central banking
+and Credit
+Planning &
+Targeting
+Credit planning
+  1980s to 1998
+Monetary
+Targeting
+Broad money (M3)
+as an intermediate
+target and Reserve
+Money (M0) as
+operating target
+  1998 to 2016
+Multiple Indicators
+Approach
+Multiple indicators
+including interest
+rates, broad money,
+credit by banks and
+financial institutions,
+capital flows, inflation
+rate etc.
+2016 to Present
+Flexible Inflation
+Targeting
+CPI inflation target
+(currently of 4 per
+cent +/–2 per cent
+band)
+
+
+--- Page 21 ---
+20
+Monetary and Fiscal Policies the Finance Act, 2016. MPC consists of six members, out of which three members
+are from RBI and the other three are appointed by the Central Government as
+notified by the Central Government. The composition of MPC as follows:
+a) the Governor of the Bank– ex officio Chairperson;
+b) Deputy Governor of the Bank, in charge of Monetary Policy– ex officio
+Member;
+c) one officer of the Bank to be nominated by the Central Board– ex officio
+Member; and
+d) three persons to be appointed by the Central Government– Members.
+The MPC is to meet at least 4 times in a year. The quorum for a meeting of MPC
+is four of which at least one is to be the Governor and, in his absence, the Deputy
+Governor who is a Member of the MPC. MPC determines the policy rate in
+order to achieve the inflation target. Decisions are based on majority votes by
+the members of the MPC present in the meeting. Each Member of the Monetary
+Policy Committee has one vote. In case of a tie of votes, the Governor may have
+a second or casting vote to resolve the tie. After each meeting of MPC, RBI
+publishes the resolution adopted by the Committee. On the 14
+thday, the minutes
+of the proceedings of the MPC are published.
+Check Your Progress 2
+1) In your opinion, is inflation targeting an appropriate monetary policy regime
+for a developing country like India? Why or why not?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Look at the latest available Bi-monthly Monetary Policy Statement –
+Resolution of the Monetary Policy Committee (MPC). What is the decision
+of the MPC with respect to the repo rate? What is the assessment made by
+MPC on the growth and inflationary outlooks for the economy? How do
+you think these assessments have influenced the decision on the policy rate?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+9.6 LET US SUM UP
+In this unit, we have looked at the concepts of money and inflation and the link
+between the two. After going through the unit, you would now be able to analyse
+the current trends in inflation and understand the causes of inflation from an
+
+
+--- Page 22 ---
+21
+Inflation and Monetary
+Policy
+economic perspective.  We have also looked at the objectives of monetary policy
+in India, its instruments and how it has evolved over the years. Over the years,
+RBI has moved from direct to indirect instruments for monetary policy. You
+would realise that the developments in monetary policy framework in the country
+has paralleled the overall liberalisation and modernisation efforts in the rest of
+the economy. The current monetary policy framework in India is the flexible
+inflation targeting framework with a numerical target of 4 +/– 2 per cent inflation.
+9.7 TERM- END EXERCISES
+1) What is money and what functions does it serve? Which of these functions
+do the following satisfy and which they do not?
+a) Gold coins
+b) A credit card
+c) A painting by M.F. Hussain
+d) A fixed deposit
+2) What is inflation? How is it measured in India?
+3) What are the costs of inflation? Do you think there are any benefits to
+inflation? Why do we not want zero inflation?
+4) What is the Quantity Theory of Money and how does it explain the
+relationship between money growth and inflation?
+5) What are the objectives of monetary policy in India? How has the monetary
+policy evolved? What is the current monetary policy framework in the
+country?
+6) What are the monetary policy instruments used by the Reserve Bank of
+India?
+9.8 KEY WORDS
+Money : Money is anything that is generally accepted as a
+medium of exchange. Apart from being a medium of
+exchange, it serves as a unit of account and a store of
+value.
+Inflation : The rate of increase in the general price level over a
+period of time. It is measured usually in terms of the
+growth in a price index such as the Consumer Price
+Index.
+Statutory Liquidity : The share of NDTL that a bank is required to maintain
+Ratio in safe and liquid assets, such as, unencumbered
+government securities, cash and gold. Changes in
+SLR often influence the availability of resources in
+the banking system for lending to the private sector.
+Open Market : These include both, outright purchase and sale of
+Operations government securities, for injection and absorption
+of durable liquidity, respectively.
+
+
+--- Page 23 ---
+22
+Monetary and Fiscal Policies Market Stabilisation : This instrument for monetary management was
+Scheme introduced in 2004. Surplus liquidity of a more
+enduring nature arising from large capital inflows is
+absorbed through the sale of short-dated government
+securities and treasury bills. The cash so mobilised is
+held in a separate government account with the
+Reserve Bank.
+Bank Rate : It is the rate at which the Reserve Bank is ready to
+buy or rediscount bills of exchange or other
+commercial papers. The Bank Rate is published under
+Section 49 of the Reserve Bank of India Act, 1934.
+This rate has been aligned to the MSF rate and,
+therefore, changes automatically as and when the
+MSF rate changes alongside policy repo rate changes.
+Cash Reserve Ratio : The Cash Reserve Ratio (CRR) refers to the average
+daily balance that a bank is required to maintain with
+the RBI as a percentage of its Net demand and time
+liabilities (NDTL) that the RBI may notify from time
+to time.
+Reverse Repo : The rate at which the Reserve Bank absorbs liquidity,
+on an overnight basis, from banks against the
+collateral of eligible government securities under the
+LAF.
+Liquidity Adjustment : The LAF consists of overnight as well as term repo
+Facility auctions. Progressively, the Reserve Bank has
+increased the proportion of liquidity injected under
+fine-tuning variable rate repo auctions of range of
+tenors.
+Marginal Standing : A facility under which scheduled commercial banks
+Facility can borrow additional amount of overnight money
+from the Reserve Bank by dipping into their Statutory
+Liquidity Ratio (SLR) portfolio up to a limit at a penal
+rate of interest. This provides a safety valve against
+unanticipated liquidity shocks to the banking system.
+9.9 REFERENCES
+1) Agreement on Monetary policy Framework between the Government of
+India and the Reserve Bank of India, 2015
+2) Ashima Goyal 2014 “History of Monetary Policy in India Since
+Independence”, Springer Briefs in Economics
+3) Deepak Mohanty 2011 “Changing contours of monetary policy in India”
+Speech at the Royal Monetary Authority of Bhutan, Thimphu, 1 December
+2011
+4) Deepak Mohanty 2017 “Eight Decades of Monetary Policy in India”  in
+India’s Economy: Pre-liberalisation to GST—Essays in Honour of Raj Kapila
+
+
+--- Page 24 ---
+23
+Inflation and Monetary
+Policy
+5) Frederic S. Mishkin 1999 “International Experiences with Different
+Monetary Policy Regimes”, National Bureau of Economic Research Working
+Paper 6965
+6) RBI 2014, “Report of the Expert Committee to Revise and Strengthen the
+Monetary Policy Framework” January 2014, Reserve Bank of India
+7) Reserve Bank of India Act, 1934 (As amended by the Finance (No. 2) Act,
+2019)
+8) Viral Acharya 2017, “Monetary Transmission in India: Why is it important
+and why hasn’t it worked well”, Inaugural Aveek Guha Memorial Lecture
+November 2017, Tata Institute of Fundamental Research (TIFR)
+9.10 ANSWERS OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+Check Your Progress 1
+1) See Sub-section 9.4.1
+2) See Sub-section 9.4.1
+Check Your Progress 2
+1) A useful reference could be “ Report of the Expert Committee to Revise and
+Strengthen the Monetary Policy Framework” which can be downloaded
+from the RBI website.
+2) See the RBI website for the latest monetary policy statement.
+
+
+--- Page 25 ---
+24
+Monetary and Fiscal Policies
+UNIT 10 CAPITAL MARKET AND ITS
+REGULATIONS
+Structure
+10.0 Objectives
+10.1 Introduction
+10.2 Role, Significance and Function of Capital Market
+10.3 Stock Market Development in India
+10.4 Structure and Performance of Indian Stock Market
+10.5 Equity Derivatives in India
+10.5.1 Exchange-Traded and Over-the-Counter Derivative Instruments
+10.6 Currency Derivative Market in India
+10.7 Long-Term Government Bond and Corporate Debt Market in India
+10.7.1 Outlook for Development of Corporate Debt Market
+10.8 Let Us Sum Up
+10.9 Term-End Exercises
+10.10 Key Words
+10.11 References
+10.12 Answers or Hints to Check Your Progress Exercises
+10.0 OBJECTIVES
+After going through this unit, you will be able to:
+develop an understanding of the organisational structure, role, function and
+performance of the Indian capital market;
+explain the radical restructuring of the Indian capital market in the wake of
+the new economic policy in 1991; and
+discuss the role, function and structure of Indian Equity Market, Currency
+Market, Derivative Market and Corporate Debt Market.
+10.1 INTRODUCTION
+A dynamic and efficient financial system plays a pivotal role in any economy for
+efficient allocation of resources from the surplus segments to deficit segments.
+The financial system consists of financial markets, financial intermediation and
+financial products or instruments. A thriving and vibrant economic system requires
+a well developed financial structure with multiple intermediaries operating in
+the market with different risk profiles. Further, a financial system helps to increase
+output by moving the economic system towards the production frontier. This
+involves  transforming a given amount of wealth into more productive forms. It
+induces public and investors to hold lower saving in the form of precious metals,
+real estate, land, consumer durables and idle cash balances and to replace these
+assets by financial instruments such as bonds, shares, preference shares, units
+etc. As a result a financial system helps to increase the volume of productive
+
+
+--- Page 26 ---
+25
+Capital Market and Its
+Regulations
+investments. It encourages investment activity by reducing the cost of finance
+and risk. This is done by providing insurance services and hedging opportunities
+and by making financial services such as remittances, discounting, acceptance,
+and guarantees available. Finally, it not only increases greater investment but
+also raises the level of resource allocational efficiency among different investment
+channels. The broad picture of the Indian Financial System is presented in the
+schematic diagram as Figure 10.1. The financial system in India is characterised
+by progressive liberal policies, vibrant equity and debt markets and prudent
+banking norms.
+Capital market is an integral part of the financial market. The capital market is a
+market for financial assets which have a long or indefinite maturity. Capital market
+is broadly categorised into two parts such as primary and secondary market. In
+the primary market, new stock or bond issues are sold through a mechanism
+popularly known as underwriting. In the secondary market shares that have been
+issued are traded through organised exchanges such as stock exchanges, over
+the counter, etc. The capital market consists of stock or equity market, debt
+market,derivative market, foreign exchange market and commodity market. These
+markets are providing the facilities for buying and selling of the variety of financial
+claims and services. The corporations, financial institutions, individuals, and
+governments trade in financial products on these markets either directly or through
+brokers and dealers on organised exchanges or off exchanges. The capital market
+participants on the demand and supply sides of these markets are financial
+institutions, agents, banks, brokers, dealers, lenders, savers and others who are
+interlinked by the laws, contracts, covenants, and communication networks. The
+Financial Markets
+Money Market
+Capital Market
+Funds
+SecuritiesSecurities
+Funds
+Securities
+Funds
+Funds Funds
+LoansDeposits/Shares
+Private
+Placement
+S
+e
+c
+u
+r
+i
+t
+i
+e
+s
+F
+u
+n
+d
+s
+Suppliers of Funds
+Individuals
+Businesses
+Governments
+Demanders of Funds
+Individuals
+Business
+Governments
+Financial Institutions
+Commercial Banks
+Insurance Companies
+Mutual Funds
+Provident Funds
+Non-Banking Financial
+Companies
+Fig.10.1: Indian Financial System
+Source: Author
+
+
+--- Page 27 ---
+26
+Monetary and Fiscal Policies primal role of the capital market is to channelise investments from investors
+who have surplus funds to the ones who are running a deficit. Financial regulator
+such as the Security Exchange Board of India (SEBI) oversees the capital markets
+in their designated jurisdictions to ensure that investors are protected against
+fraud among other duties.
+Reforming and liberalising financial markets began in the wake of the country’s
+1991 balance-of-payments crisis. The thrust of these reforms was to promote a
+diversified, efficient and competitive financial system, with the ultimate objective
+of improving the allocation of resources through operational flexibility, improved
+financial viability, and institutional strengthening. The pace of reform was,
+however, slower than those in product markets, partly because the introduction
+of stricter prudential controls on banks revealed significant problems in asset
+portfolios. Prior to the reforms, state-owned banks controlled 90 per cent of bank
+assets– compared with approximately 10 per cent at end-2005– and channelled
+an extremely high proportion of funds to the government. Interest rates were
+determined administratively; credit was allocated based on government policy
+and approval from the Reserve Bank of India (RBI) was required for individual
+loans above a certain threshold. Capital markets were underdeveloped, with stock
+markets fragmented across the country. The major stock market acted mainly in
+the interest of its members, not the investing public. Derivative markets did not
+exist and comprehensive capital controls meant that companies were unable to
+bypass domestic controls by borrowing abroad. Concerns over the 1997-98 Asian
+financial crisis and its contagion effects further spurred Indian authorities to
+strengthen the domestic financial system. Reforms were, and continue to be,
+based on several principles: (i) mitigate risks in the financial system; (ii) efficiently
+allocate resources to the realsector; (iii) make the financial system competitive
+globally, and (iv) open the external sector. The goal was to promote a diversified,
+efficient, and competitive financial system which would ultimately improve the
+efficiency of resource allocation through operational flexibility, enhanced financial
+viability, and institutional strengthening.
+The economic impact of COVID-19 is shaping up to be significant, however
+uneven, across the Indian financial markets.  Major structural economic reforms
+in India such as demonetisation on 8
+th November 2016 and implementation of
+Goods and Services Tax on 1 st July 2017 poses a major challenge on Indian
+equity market and foreign exchange market. The outbreak of global COVID-19
+pandemic crisis has  impacted the Indian economy, like others,  by restricting
+people, minds, innovations, goods and services. This has reflected in terms of
+reduction in consumption demand, production and supply chain management,
+investments, worsening  of unemployment, reduction in the volume and receipts
+of exports and imports, consequently a reduction in the growth rate.
+10.2 ROLE, SIGNIFICANCE AND FUNCTION OF
+CAPITAL MARKET
+The capital market facilitates the transfer of capital (financial) assets from savers
+to investors. It provides a significant amount of liquidity which refers to how
+easily an asset can be converted to currency without loss of value. The major
+functions of the capital market include efficient dissemination of information
+enabling quick valuation of financial instruments, providing insurance against
+market risk and price risk, enabling broad-based participation, providing
+
+
+--- Page 28 ---
+27
+Capital Market and Its
+Regulations
+operational efficiency through simplified transaction procedures, lowering
+settlement timings and lowering transactional costs. Apart from these, the capital
+market plays a vital role in advancing integration between real and financial
+sectors, equity and debt instruments, long-term and short-term funds, private
+sector and government sector, and domestic and external funds. It also speeds up
+growth and development  by directing the flow of funds into efficient channels
+through investment, disinvestment and reinvestment. Thus the various roles of
+the capital market contribute to mobilisation of savings and acceleration of capital
+information, promotion of industrial growth, raising of long-term capital,
+provision of a variety of services, and efficient and optimum channelisation of
+funds.
+Fig. 10.2: Components of Indian Corporate Securities Markets
+Source: Author
+Check Your Progress 1
+1) What are the constituents of financial system?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 29 ---
+28
+Monetary and Fiscal Policies 2) Who are the different participants in a capital market?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) List the major functions of a capital market.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+10.3 STOCK MARKET DEVELOPMENT IN INDIA
+To understand the role of a stock market in the process of the socio-economic
+development process, let’s start with posing a question: why do stock markets
+exist? Why is it important? In common parlance, a stock market is defined as a
+public market where investors can buy and sell shares on the stock exchange.
+The stocks are also known as common stock or equities and represent a fractional
+ownership of the business in a company, firm or industries. Stock markets have
+existed for centuries. Since its inception, the stock market has served multiple
+purposes. The most important being to provide the companies with a means to
+raise capital for investment and operational expansion. It also helps investors/
+savers earn a return on their savings when they invest in the stock market and
+allows firms to spread their risk by diversifying their business across sectors,
+assets, industries, and geographies. This way of raising capital can help companies
+to expand their operation alongside the creation of jobs in the economy. From
+the larger perspective of economics, the increase in employment increases
+purchasing power and therefore consumer spending, production and improves
+supply chain management. The government benefits from tax revenues to advance
+provisioning of public goods and thus economic growth and development. Apart
+from conducive fiscal and monetary policies,  a stock market plays a pivotal role
+to promote investment activity in an economy.
+A developed stock market is considered as the major barometer of economic
+growth because (a) it provides an additional channel (along with banks and
+financial institutions) for encouraging and mobilising domestic savings, (b)
+ensures improvements in the productivity of investment through the market
+allocation of capital, (c) increases managerial discipline through the market for
+corporate control. In brief, the various indicators of stock market development
+are Market Capitalisation Ratio (MCR)
+1, which is considered as a measure of
+stock market size. In terms of the economic significance, market capitalisation
+as a proxy for the market size is positively related to the ability to mobilise
+1 The MCR is defined as the value of listed shares divided by GDP.

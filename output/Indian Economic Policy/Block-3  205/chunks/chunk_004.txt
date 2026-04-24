@@ -1,0 +1,489 @@
+--- Page 30 ---
+29
+Capital Market and Its
+Regulations
+capital and diversify risk. The next major indicator is market liquidity, which is
+measured by value-traded ratio and turnover ratio. Value traded ratio equals the
+total value of traded shares in the stock market divided by GDP. While, in turn,
+turnover ratio is the value of total shares traded divided by market capitalisation.
+The next important indicator of stock market development is the volatility
+parameter, which conceptualises the asset price movement in a stock market and
+conveys important signals for its development.
+The average value of market capitalisation ratio (MCR) for India from 2003 to
+2019 was 76.26 per cent. The minimum MCR was 45.93 per cent in 2003 and
+the maximum was 149.51 per cent in 2007. In the latter part of 2007, the US
+subprime lending crisis broke out and in no time it became a global economic
+crisis. Due to this, the MCR fell drastically to 53.98 per cent. In the wake of
+demonetisation undertaken by the Central Government on 8
+th Nov 2016, MCR
+declined to 68.27 per cent from 72.08 per cent in 2015. Moreover, with the advent
+of Goods and Service Tax (GST) on 1
+st July 2017, the MCR  increased to 87.89
+per cent and then declined to 75.81 per cent in 2019 and continued on a declining
+trend subsequently because of COVID-19 pandemic. The stock market turn over
+ratio (TOR) was 68.25 per cent on an average from 2003 to 2019. In 2003, the
+TOR was 94.47 per cent. It had grown to 142.99 per cent during the global
+financial crisis period in 2008. However, in the demonetisation period of 2016, it
+declined to 51.18 per cent and further to 50.87 per cent during the GST period in
+2017. It increased to 58.07 per cent in the post GST period in 2018 and then
+declined to 28.89 per cent in 2019 and continued the trend during COVID-19
+pandemic period. The average value of the stock market value traded ratio (VTR)
+was 51.96 per cent with a minimum of 28.96 per cent in 2013 and a maximum of
+93.97 per cent in 2007. It declined to 77.19 per cent in 2008 on account of the
+global financial crisis and further to 34.94 per cent in 2016 because of
+demonetisation before recovering to 44.71 per cent in 2017. Finally, the average
+value of the stock price volatility from 2003 to 2017 was 21.83 per cent. The
+minimum was 12.76 per cent in 2017 and a maximum of 43.74 per cent in 2009.
+10.4 STRUCTURE AND PERFORMANCE OF
+INDIAN STOCK MARKET
+There are 23 stock exchanges in India, the first being the Bombay Stock Exchange
+(BSE), which began formal trading in 1875, making it one of the oldest in Asia.
+In 2010, the number of stock exchanges in India reduced to 19 as the Magadh,
+Mangalore, Hyderabad and Saurashtra Kutch stock exchanges have been
+derecognised by the market watchdog SEBI. As of Jan 17, 2020 the total number
+of recognised stock exchanges in India has reduced to 9 (see Table 10.1) as the
+Hyderabad Securities and Enterprises Ltd (erstwhile Hyderabad Stock Exchange),
+Coimbatore Stock Exchange Ltd, Saurashtra Kutch Stock Exchange Ltd,
+Mangalore Stock Exchange, Inter-Connected Stock Exchange of India Ltd, Cochin
+Stock Exchange Ltd, Bangalore Stock Exchange Ltd , Ludhiana Stock exchange
+Ltd, Gauhati Stock Exchange Ltd, Bhubaneswar Stock Exchange Ltd, Jaipur
+Stock Exchange Ltd, OTC Exchange of India , Pune Stock Exchange Ltd, Madras
+Stock Exchange Ltd, U.P. Stock Exchange Ltd, Madhya Pradesh Stock Exchange
+Ltd, Vadodara Stock Exchange Ltd, Delhi Stock Exchange Ltd and Ahmedabad
+Stock Exchange Ltd have been granted exit by SEBI.
+
+
+--- Page 31 ---
+30
+Monetary and Fiscal Policies Table 10.1: List of Stock Exchanges in India (As of Jan 2020)
+S. Name of the Recognised Segments Permitted Recognition
+No. Stock Exchanges Valid upto
+1. Bombay Stock Exchange a. Equity Permanent
+Limited, Mumbai b. Equity Derivatives
+c. Currency Derivatives
+(including Interest Rate
+Derivatives)
+d. Commodity Derivatives
+e. Debt
+2. Calcutta Stock Exchange Ltd Permanent
+3. India International Exchange a. Equity Derivatives 28-Dec-20
+(India INX), Gujarat
+    (
+Equity Index Derivatives
+& Single Stock
+Derivatives)
+b. Commodity Derivatives
+ 
+c
+. Currency Derivatives  
+d. Debt  
+4.
+Indian Commodity Exchange Commodity Derivatives Permanent
+Limited, Navi Mumbai
+5. Metropolitan Stock Exchange a. Equity 15-Sep-20
+   
+of
+ India Ltd., Mumbai
+ b.
+Equity Derivatives
+c. Currency Derivatives
+(including Interest Rate
+Futures)
+d. Debt
+6. Multi Commodity Exchange Commodity Derivatives Permanent
+of India Ltd., Mumbai
+7. National Commodity & Commodity Derivatives Permanent
+Derivatives Exchange Ltd.,
+Mumbai
+8. National Stock Exchange of a. Equity Permanent
+India Ltd., Mumbai b. Equity Derivatives
+c. Currency Derivatives
+(including Interest Rate
+Derivatives)
+d. Commodity Derivatives
+e. Debt
+9. NSE IFSC Ltd., Gujarat
+   a.
+Equity Derivatives Permanent
+(Equity Index Derivatives
+& Single Stock Derivatives)
+b. Currency Derivatives
+c. Commodity Derivatives
+d. Debt Securities
+(Masala Bonds)
+Source: SEBI
+Note: India International Exchange Ltd and NSE IFSC Ltd have Single Segment across all
+asset/product classes.
+
+
+--- Page 32 ---
+31
+Capital Market and Its
+Regulations
+Before 1994, India’s stock markets were dominated by BSE. In other parts of the
+country, the financial industry did not have equal access to markets and was
+unable to participate in forming prices, compared with market participants in
+Mumbai (Bombay). As a result, the prices in markets outside Mumbai were often
+different from prices in Mumbai. These pricing errors limited the order flow to
+these markets. Explicit nationwide connectivity and implicit movement toward
+one national market have changed this situation (Shah and Thomas, 1997). NSE
+has established satellite communications which give all trading members of NSE
+equal access to the market. Similarly, BSE and the Delhi Stock Exchange are
+both expanding the number of trading terminals located all over the country. The
+arbitrages are eliminating pricing discrepancies between markets.
+Over the last few years, there has been a rapid change in the Indian securities
+market, especially in the secondary market. Advanced technology and online
+screen-based transactions have modernised the stock exchanges. In terms of the
+number of companies listed and total market capitalisation, the Indian equity
+market is considered large relative to the country’s stage of economic
+development. Metropolitan Stock Exchange of India Limited (MSE) is recognised
+by the Securities and Exchange Board of India (SEBI) under Section 4 of
+Securities Contracts (Regulation) Act, 1956. The Exchange was notified as a
+“Recognised Stock Exchange” under Section 2(39) of the Companies Act, 1956
+by Ministry of Corporate Affairs, Govt. of India, on December 21, 2012. MSE
+offers an electronic, transparent and hi-tech platform for trading in Capital Market,
+Futures and Options, Currency Derivatives and Debt Market segments. The
+Exchange has also received in-principle approval from SEBI for operationalising
+SME trading platform. MSE commenced operations in the Currency Derivatives
+(CD) Segment on October 7, 2008, under the regulatory framework of SEBI and
+Reserve Bank of India (RBI). MSE launched Capital Market Segment, Futures
+and Options Segment and flagship index ‘SX40’ on February 9, 2013, and
+commenced trading from February 11, 2013. Trading in the ‘SX40’ index
+derivatives began from May 15, 2013. ‘SX40’, is a free-float based index
+consisting of 40 large-caps, liquid stocks representing diverse sectors of the
+economy. The Debt Market Segment of MSE was launched on June 7, 2013, and
+trading commenced from June 10, 2013. The Exchange started live trading in
+cash-settled Interest Rate Futures (IRF), on Government of India security, in its
+Currency Derivative Segment from January 20, 2014.
+On 9
+th Jan 2017, the Hon’ble Prime Minister of India, Shri Narendra Modi
+inaugurated India International Exchange Ltd. (IFSC), India’s first international
+exchange. BSE is the first stock exchange in India to receive approval from
+SEBI on 26th September 2011 to launch Small and Medium Enterprises (SME)
+platform. The Platform facilitates capital raising by small and medium enterprises
+including start-up companies which are in their early stages of growth. It also
+provides easier entry and exit options for informed investors like angel investors,
+V enture Capital funds (VCFs) and Private Equities (PEs) etc. and equity financing
+which lowers the debt burden leading to lower financing cost and healthier balance
+sheet. SME IPO Index with a Base value of 100 as on 16
+th August 2012 is aimed
+at tracking the companies listed on the SME platform was launched on 14 th
+December 2012. As on 31st August 2020, its value was 1,435.44.
+
+
+--- Page 33 ---
+32
+Monetary and Fiscal Policies BSE is the first stock exchange in India to lunch startups platform on 22 nd
+September 2018. The ‘Startup Companies’ seeking to be listed on the BSE Startups
+Platform should be in the sector of IT, ITES, Biotechnology and Life Science,
+3D Printing, Space Technology, E-commerce, Hi-tech Defence, Drones, Nano
+Technologies, Artificial Intelligence, Big Data, Augmented/Virtual Reality,
+Egaming, Exoskeleton, Robotics, Holographic Technology, Genetic Engineering,
+Variable Computers Inside Body Computer Technology and other high-tech
+industries.
+However, the Indian stock market is dominated by Bombay Stock Exchange and
+(BSE) and National Stock Exchange(NSE) which are occupying the 11
+th and 12th
+largest exchange in the World with the market capitalisation of 1.83 trillion and
+1.41 trillion dollars respectively as of 2019. The average listed companies in
+Indian stock exchanges during the period from 1983 to 2018 was 4370 companies
+with a minimum of 1151 companies in 1983 and a maximum of 5999 companies
+in 1996. The latest number of companies in 2018 is 5065 companies. For
+comparison, the World average in 2018 based on 70 countries is 597 companies.
+A higher number of listed companies in Indian stock exchanges means that more
+companies use equity financing in their business. In February 2020, all the
+securities markets in the World is nosediving coupled with a precipitous fall in
+crude oil prices. India’s market capitalisation to GDP ratio is 81 per cent compared
+to 51 per cent in Germany (Bloomberg). The market capitalisation of both BSE
+and NSE decreased by 6.2 per cent as on February 29, 2020, in comparison to
+previous month post to the first detection of COVID-19 patient in India on 30
+th
+Jan 2020 in the State of Kerala.
+A snapshot of the growth rates, stock returns, volatility of stock prices, and FII
+net flows by comparing the major three events such as demonetisation,
+implementation of GST and the impact of COVID-19 is presented in Table 10.2.
+The demonetisation phase is considered from 9
+th November 2016 to 30 th June
+2017 and from 1st July 2017 to 29th January 2020 as treated as a post-GST phase.
+Similarly, the period starting from 30th January 2020 to 20 April 2020 are included
+in COVID-19 phase.
+The growth rate of S&P BSE Sensex stock price shows a negative growth
+(–22.65 per cent) during COVID-19 pandemic phase as compared to positive
+growth rates of 12.07 per cent and 31.9 per cent during post demonetisation and
+GST phases, respectively. However, the other stock indices such as mid-cap,
+small-cap and all sectors except health care show drastic negative growth rates
+during COVID-19 phase as compared to demonetisation and GST phases. Both
+the returns and volatility series of stock indices reveal a precarious scenario
+during COVID-19 phase in comparison to other events.
+All the stock indices except healthcare show negative returns and high volatility
+during this ongoing COVID-19 pandemic. Among three major stock indices as
+reported in Table 10.1, the growth and return of small-cap companies are a worse
+performer as compared to mid-cap and BSE Sensex, whereas, the BSE Sensex
+stock price is more volatile as compared to mid-cap and small-cap stock indices.
+Nevertheless amongst the sectors, realty, metal, Bankex and auto are a worse
+
+
+--- Page 34 ---
+33
+Capital Market and Its
+RegulationsTable 10.2:Trends of Growth, Stock Returns and Volatility of Stock Prices, and FII flows during the phase
+                            of Post Demonetisation, Post GST and COVID-19 pandemic
+Variables COVID-19 Pandemic Post Demonetisation Post GST
+ Growth Return V olatility Correlation Growth Return V olatility Growth Return V olatility
+St
+ock
+Indices
+SENSEX -22.65 -0.54 2.77 0.15 12.07 0.08 0.51 31.96 0.05 0.59
+Mid-cap -24.15 -0.59 2.13 0.22 12.99 0.08 0.67 6.38 0.01 0.72
+Small-cap -25.96 -0.63 1.99 0.27 18.07 0.11 0.70 -4.70 -0.01 0.70
+BSE100 -22.78 -0.55 2.65 0.16 12.01 0.08 0.55 23.29 0.04 0.60
+BSE200 -22.76 -0.55 2.58 0.16 12.34 0.08 0.55 22.14 0.03 0.60
+BSE500 -23.24 -0.56 2.53 0.17 13.16 0.08 0.55 19.36 0.03 0.60
+Sectorial
+Indices
+Auto -30.95 -0.77 2.69 0.21 5.18 0.04 0.81 -22.16 -0.04 0.90
+Bankex -33.17 -0.84 3.29 0.16 17.66 0.11 0.77 33.87 0.05 0.82
+Cap-Goods -30.12 -0.74 2.43 0.24 19.04 0.11 0.74 2.82 0.01 0.85
+Con-dura -21.22 -0.49 2.25 0.11 28.33 0.16 0.91 60.88 0.08 0.84
+FMCG -7.76 -0.20 2.25 0.06 21.40 0.12 0.74 10.33 0.02 0.65
+Healthcare 5.76 0.09 1.96 0.17 -6.93 -0.05 0.74 0.45 0.00 0.78
+IT -19.16 -0.46 2.45 0.13 -0.15 0.00 0.83 63.96 0.08 0.81
+Metal -34.63 -0.90 3.27 0.16 8.40 0.05 1.16 -14.95 -0.02 1.27
+Oil and Gas -20.67 -0.51 2.62 0.18 10.91 0.07 0.76 9.57 0.02 0.93
+Power -21.47 -0.50 2.18 0.26 11.92 0.07 0.74 -12.93 -0.02 0.77
+PSU -28.13 -0.70 2.58 0.21 5.11 0.03 0.74 -17.41 -0.03 0.92
+Realty -41.76 -1.11 2.73 0.23 38.45 0.21 1.45 21.17 0.03 1.22
+TECK -17.87 -0.42 2.40 0.12 1.94 0.01 0.74 44.66 0.06 0.73
+FII Flows
+Aggregate
+Flows
+Purchases 9.0 - 49.46 -0.10 11.99 - 61.47 10.6 - 57.34
+Sales 7.9 - 45.10 -0.16 9.27 - 49.80 9.7 - 65.92
+Net -21.3 - 492.96 0.10 -27.20 - 1081.92 -163.8 - 5394.32
+Equity -
+Purchases 13.6 - 63.15 0.07 12.16 - 61.47 12.2 - 63.78
+Sales 8.0 - 47.09 -0.05 9.38 - 50.97 9.5 - 58.88
+Net -69.9 - 1997.07 0.13 -587.07 - 8503.84 171.1 - 6845.09
+Debt
+Purchases 65.9 - 209.65 -0.27 86.15 - 408.56 - - -
+Sales 39.9 - 142.78 -0.26 65.16 - 303.68 313.7 - 6197.72
+Net 42.7 - 807.85 0.07 1252.35 - 15856.43 148.2 - 5943.26
+Source: Mishra, Rath and Dash (2020)
+
+
+--- Page 35 ---
+34
+Monetary and Fiscal Policies performer in terms of stock returns as well as the growth of the stock price. Since
+the demand for healthcare products and services are important during this COVID-
+19 pandemic, which could perhaps reflect in showing a positive stock price returns
+with low volatility. The second-best performer during this ongoing pandemic is
+Fast-Moving Consumer Goods (FMCG) companies, which also show a relatively
+less affected sector as compared to other sectors. The net FII flows figures
+demonstrate a negative growth during all three phases, but this indicator is less
+volatile in COVID-19 phase as compared to the other two events. This implies
+that although the average gross sales are higher than average gross purchase,
+growth of FII outflows from Indian financial market is still lower in COVID-19
+phase as compared to post demonetisation and post-implementation of GST phases
+(Mishra, Rath and Dash, 2020).
+Check Your Progress 2
+1) Why is a developed stock market considered as a barometer of economic
+growth?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) What is market capitalisation ratio?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) Explain the structure of Indian Stock Market. What are the various reforms
+brought through these years in this market?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 36 ---
+35
+Capital Market and Its
+Regulations
+4) How has the Indian Stock market been performing during the times of GST
+implimentation and demonetisation?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+10.5 EQUITY DERIV ATIVES IN INDIA
+A derivative security is a financial contract whose value is derived from the
+value of something else, such as a stock price, a commodity price, an exchange
+rate, an interest rate, or even an index of prices.  Derivatives may be traded for a
+variety of reasons. A derivative enables a trader to hedge some pre-existing risk
+by taking positions in derivatives markets that offset potential losses in the
+underlying or spot market. In India, most derivatives users describe themselves
+as hedgers (Fitch Ratings, 2004) and Indian laws generally require that derivatives
+be used for hedging purposes only. Another motive for derivatives trading is
+speculation (i.e. taking positions to profit from anticipated price movements). In
+practice, it may be difficult to distinguish whether a particular trade was for
+hedging or speculation, and active markets require the participation of both
+hedgers and speculators. The third type of trader, called arbitrageurs, profit from
+discrepancies in the relationship of spot and derivatives prices, and thereby help
+to keep markets efficient. Equity derivatives trading started in India in June 2000,
+after a regulatory process which stretched over more than four years. In July
+2001, the equity spot market moved to rolling settlement. India’s experience
+with the launch of the equity derivatives market has been extremely positive, by
+world standards. NSE is now one of the prominent exchanges amongst all
+emerging markets, in terms of equity derivatives turnover. There is an
+increasing sense that the derivatives market is playing a major role in shaping
+price discovery.
+10.5.1 Exchange-Traded and Over-the-Counter Derivative
+Instruments
+OTC (over-the-counter) contracts, such as forwards and swaps, are bilaterally
+negotiated between two parties. The terms of an OTC contract are flexible and
+are often customised to fit the specific requirements of the user. OTC contracts
+have substantial credit risk, which is the risk of the counterparty that owes money
+defaults on the payment. In India, OTC derivatives are generally prohibited with
+some exceptions: those that are specifically allowed by the Reserve Bank of
+India (RBI) or, in the case of commodities (which are regulated by the Forward
+Markets Commission), those that trade informally in “hawala” or forwards
+markets.  An exchange-traded contract, such as a futures contract, has a
+
+
+--- Page 37 ---
+36
+Monetary and Fiscal Policies standardised format that specifies the underlying asset to be delivered, the size
+of the contract, and the logistics of delivery. They trade on organised
+exchanges with prices determined by the interaction of many buyers and sellers.
+In India, two exchanges offer derivatives trading: the Bombay Stock
+Exchange (BSE) and the National Stock Exchange (NSE). A snapshot of turnover
+in BSE is presented in Table 10.3. However, NSE now accounts for virtually all
+exchange-traded derivatives in India, accounting for more than 99 per cent of
+volume in 2003-2004. Contract performance is guaranteed by a clearinghouse,
+which is a wholly-owned subsidiary of the NSE Margin requirements and
+daily marking-to-market of futures positions substantially reduce the credit
+risk of exchange-traded contracts, relative to OTC contracts (Asani Sarkar,
+2006).
+In the exchange-traded market, the biggest success story has been derivatives on
+equity products. Index futures were introduced on June 12, 2000, followed by
+index options on June 4, 2001, and options and futures on individual securities
+in July 2001 and November 2001, respectively. As of 2005, the NSE trades futures
+and options on 118 individual stocks and 3 stock indices. The NSE currently
+provides trading in futures and options contracts on indices such as Nifty 50
+index, Nifty IT index, Nifty Bank index, Nifty Midcap 50 index, Nifty
+Infrastructure index, Nifty PSE index, and Nifty CPSE. All these derivative
+contracts are settled by cash payment and do not involve physical delivery of the
+underlying product. Derivatives on stock indexes and individual stocks have
+grown rapidly since inception. In particular, single stock futures have become
+hugely popular, accounting for about half of NSE’s traded value in October 2005.
+NSE has the highest volume (i.e.the number of contracts traded) in the single
+stock futures globally, enabling it to rank 16 among world exchanges in the first
+half of 2005. Single stock options are less popular than futures. Index futures are
+increasingly popular and accounted for close to 40 per cent of traded value in
+October 2005. NSE launched interest rate futures in June 2003 but, in contrast to
+equity derivatives, there has been little trading in them. One problem with these
+instruments was faulty contract specifications, resulting in the underlying interest
+rate deviating erratically from the reference rate used by market participants.
+Institutional investors have preferred to trade in the OTC markets, where
+instruments such as interest rate swaps and forward rate agreements are thriving.
+As interest rates in India have fallen, companies have swapped their fixed rate
+borrowings into floating rates to reduce funding costs. However, it may be noted
+that the detailed discussion of Equity Derivative instruments is beyond the scope
+of this unit. Table 10.4 presents the turnover of stock options in both BSE and
+NSE in panel A and B respectively. The NSE witnessed a domestic market share
+of 84 per cent in the cash market segment with 100 per cent market share in the
+equity derivatives segment during fiscal 2017 (Annual Report of NSE, 2017).
+
+
+--- Page 38 ---
+37
+Capital Market and Its
+Regulations
+Table10.3: Turnover (BSE) in Indian Equity Derivatives Market
+Period No. of Index Stock                         Index Option
+Trading Future Future Call Put
+Days Turnover Turnover Notional Notional
+(` crore)  ( ` crore)  Turnover T urnover
+(` crore) ( ` crore)
+2010-11 254 154.08 0.00 0.00 0.25
+2011-12 249 178,448.82 10,215.70 200,089.59 418,252.79
+2012-13 249 122,373.70 3,418.27 3,230,231.91 3,797,249.17
+2013-14 251 63,493.81 54,609.21 5,705,316.57 3,349,884.08
+2014-15 243 48,632.28 9,794.23 10,112,605.17 10,016,621.27
+2015-16 247 13,097.14 1,349.66 2,560,540.64 1,825,708.15
+2016-17 248 2,266.96 203.07 1,254.89 3,214.45
+2017-18 246 3,217.54 36.73 5.92 2.28
+2018-19 248 39.16 17.78 1,308.50 884.63
+2019-20* 183 8,362.57 150.63 13,190.06 6,432.51
+Source:BSE and SEBI
+Note: * indicates upto 31st Dec 2019, Turnover in notional value.
+Table 10. 4:Turnover in Indian Equity Derivatives Market (BSE & NSE)
+Period Panel-A Stock Options (BSE)            Total
+Call Put
+No. of Premium Notional No. of Premium Notional No. of Notional
+Contracts  Turnover Turnover Contracts Turnover Turnover Contracts Turnover
+(` crore)   ( ` crore)   (` crore)   ( ` crore)  (` crore)
+2010-11 0 0.00 0.00 0 0.00 0.00 5,623 154.33
+2011-12 39,848 0.00 1,277.28 7,657 0.00 191.82 3,22,22,825 808,476.00
+2012-13 1,78,313 0.00 5,185.77 2,09,557 0.00 5,059.86 26,24,43,366 7,163,518.70
+2013-14 6,67,365 0.00 22,185.51 8,77,355 0.00 23,945.21 30,19,42,441 9,219,434.44
+2014-15 30,10,092 0.00 93,854.42 27,00,450 0.00 81,233.89 50,54,78,869 20,362,741.27
+2015-16 10,09,439 374.25 31,904.12 14,13,452 351.32 42,408.54 10,62,09,394 4,475,008.26
+2016-17 0 0.00 0.00 0 0.00 0.00 1,23,538 6,939.37
+2017-18 3 0.00 0.18 0 0.00 0.00 44,701 3,262.65
+2018-19 2 0.00 0.08 0 0.00 0.00 31,167 2,250.14
+2019-20* 8,472 8.96 626.03 7,876 7.58 583.24 2,90,395 29,345.04
+
+
+--- Page 39 ---
+38
+Monetary and Fiscal Policies
+Table 10.5: Turnovers in Index Derivatives
+(Per cent)
+Period BSE NSE MSEI**
+Index Index Index Index Index Index
+Futures Options Futures Options Future Option
+ 2010-2011        100.00 - 19.17 80.83  NA  NA
+ 2011-2012          22.38 77.62 13.61 86.39  NA  NA
+ 2012-2013            1.76 98.24 9.99 90.01  NA  NA
+ 2013-2014            0.75 99.25 10.00 90.00 45.13 54.87
+ 2014-2015            0.24 99.76 9.33 90.67        100.00 -
+ 2015-2016            0.30 99.70 8.52 91.48 - -
+ 2016-2017          33.65 66.35 5.62 94.38 - -
+ 2017-2018          99.75 0.25 3.44 96.56 - -
+ 2018-2019            1.75 98.25 2.67 97.33 - -
+ 2019-2020*          85.77 14.23 2.06          97.94 - -
+Source: BSE, NSE, MSEI and SEBI
+Note: * indicates upto 31st Dec 2019, ** Trading in equity derivatives segment for Index future
+and option has commenced from May 15, 2013
+Table 10.5 reports the turnovers in index futures and index options in three stock
+exchange such as Bombay Stock Exchange (BSE), National Stock Exchange
+(NSE), Metropolitan Stock Exchange of India Limited (MSEI). The turnover
+per cent in both BSE and NSE for the index futures are affected in the year of
+ Panel-B  
+Pe
+riod Stock Options (NSE) Total
+Call Put
+No. of Notional Notional No. of Premium Notional No. of Notional
+Contracts  Turnover Turnover Contracts Turnover Turnover Contracts Turnover
+(` crore)  ( ` crore)   (` crore)   ( ` crore)   (`   crore)
+2010-11 2,42,73,560 15,710 7,77,109 82,34,833 4,765 2,53,235 103,42,12,062 2,92,48,221
+2011-12 2,45,65,283 13,331 6,71,770 1,19,29,088 6,282 3,05,261 120,50,45,464 3,13,49,732
+2012-13 4,24,99,219 22,583 13,02,779 2,42,78,974 11,705 6,97,648 113,14,67,418 3,15,33,004
+2013-14 5,03,00,025 29,812 15,43,895 2,98,74,406 16,617 8,65,594 128,44,24,321 3,82,11,408
+2014-15 6,12,04,473 43,345 22,43,382 3,02,74,736 18,387 10,39,170 183,70,41,131 5,56,06,453
+2015-16 6,53,22,962 39,014 23,25,030 3,49,76,212 22,380 11,63,144 209,86,10,395 6,48,25,834
+2016-17 6,12,05,774 65,782 41,47,488 3,09,00,238 29,788 19,59,998 139,97,46,129 9,43,70,302
+2017-18 8,62,82,094 1,02,165 67,28,007 4,01,29,282 46,053 29,27,002 191,38,78,548 16,49,84,859
+2018-19 12,35,10,308 1,28,529 85,17,920 6,34,76,234 71,481 40,64,454 316,48,02,420 23,76,00,705
+2019-20* 9,44,82,765 96,372 58,15,639 5,46,53,714 61,374 31,37,545 367,40,28,197 24,64,27,009
+Source: BSE, NSE and SEBI
+Note: * indicates upto 31st Dec 2019, Turnover in notional value.

@@ -1,0 +1,511 @@
+--- Page 84 ---
+186
+Sector Specific Issues and
+Policies
+inadvertent and also specifically designed to exclude foreign competition. Trade
+in services thus can be restricted by external constraints as well as domestic
+constraints.
+External trade barriers are mainly in the form of quantity and price-based
+barriers, limits on foreign equity participation, recognition and licensing of
+provisions, immigration and labour market regulations and discriminatory
+treatment with respect to taxes, subsidies, and other policies.
+While domestic constraints may result from infrastructure inadequacies, poor
+quality and standards, lack of clear-cut responsibilities between centre and
+state governments and other policy-related disincentives.
+Services that face high trade barriers have mostly experienced low growth rates,
+especially professional services and rail transport that are still restricted services.
+Not all services that have low external trade barriers and high growth rates have
+high share in exports. In particular, it is observed that health and education services
+have low external trade barriers and experience high growth rates but have low
+share in exports. This reflects high domestic constraints in these services. Further,
+there are services that are less than moderately liberalised or are restricted with
+high external trade barriers and low growth e.g., professional services like legal,
+accountancy and rail transport. These services also have low share in exports,
+which reflect both domestic as well as external constraints to their
+trade.Construction services are also found to have low growth and low share in
+exports though external trade barriers have been somewhat lowered for them.
+Modes of Trade in Organised Services
+The definition of services trade used in the General Agreement on Trade in
+Services (GATS) includes four modes of delivery.
+The first mode is cross-border supply, with neither the consumer moving
+nor the supplier establishing it abroad. The supplier mails, electronically
+transmits, or otherwise transports a service across a national border. For
+example, architectural services may be provided in the form of design
+drawings sent via mail to a consumer in a foreign country.
+The second mode of supply is consumption abroad, where consumers, such
+as a tourists or students, travel across national borders to avail themselves
+of a service.
+In the third mode, commercial presence, a service supplier establishes a
+foreign-based corporation, joint venture, partnership, or other establishment,
+to supply services to persons in the host country.
+Presence of natural persons is the fourth mode  of delivery and involves an
+individual, functioning alone or in the employment of a service provider,
+temporarily travelling abroad to deliver a service.
+Reflecting the diverse economic and technical characteristics of services, the
+relative importance of different modes of supply varies widely across services.
+The principal method by which foreign firms establish a commercial presence is
+through foreign direct investment (FDI). FDI involves a foreign firm or individual
+acquiring a controlling interest in a firm in a host country or establishing a new
+firm or subsidiary in the host country.
+
+
+--- Page 85 ---
+187
+Services Sector I: Organised
+Sector - Issues and Policy16.6.4 Low Employment Elasticity in Organised Service Sectors
+India’s services sector has witnessed tremendous growth since the reform period,
+nevertheless, this growth has not been accompanied by a corresponding growth
+in employment in this sector. The share of manufacturing sector in GDP has also
+remained stagnant since 1990s.The biggest employing sector in India is the
+Agriculture sector, employing 45 per cent of the population but contributing 15
+per cent to the GDP, whereas Service sector is the biggest contributor to the GDP
+but employs about 30 per cent. This has led to a policy dilemma and doubts have
+been cast on the sustainability of service-led growth.
+It is observed that growth in service sector has been lopsided and jobless. Some
+sub-sectors have witnessed a double-digit growth rate in the last decade, e.g.,
+communication and business services, while some have experienced a fall in
+their growth rates, e.g., railways, real estate and dwellings. The sub-sectors that
+have witnessed negative growth rates and those that have experienced slow growth
+rates are also the ones that have large potential for generating employment, e.g.,
+construction, transport and professional services. Rising labour productivity in
+the faster growing sub-sectors has further reduced the scope for increasing
+employment in these sub-sectors. For example, IT, ITeS, business and financial
+services are drivers of service sector growth however these sub-sectors are not
+employment intensive. The average labour productivity in this sector is 5-10
+times that of the overall Indian economy, while its share in overall employment
+is only about 1.7 per cent. Thus, the knowledge-intensive services sector which
+along with some segments of capital-intensive manufacturing were the engines
+of growth in India. But these sectors by their nature are not employment-intensive.
+Thus, they have contributed to growth, but not necessarily to employment. It is
+also observed in number of empirical studies that stringent employment protection
+legislations (e.g. Industrial Dispute Resolution Act, Trade Union Act, and Work
+Compensation Act, etc.) have pushed employers towards more capital-intensive
+modes of production, than warranted by existing costs of labour relative to capital.
+For example, a World Bank Study reveals that Industrial Disputes Act has lowered
+employment in organised manufacturing by about 25 per cent.
+Check Your Progress 4
+1) Analyse the positive impact of demonetisation in driving the growth in IT/
+Telecom services in India.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Do you agree with the view that GST has retarded the growth of services in
+India? What improvements could be done in GST regime so that it becomes
+a stimulator for services growth in India?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 86 ---
+188
+Sector Specific Issues and
+Policies
+3) Do you think that domestic regulations and barriers are more constraining
+to trade in services rather than the external barriers? Elucidate your reply
+with suitable examples and justifications.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+4) How far the GATS have been successful in promoting the trade in services
+across the world? Give adequate justifications in support to your reply.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+16.7 SECTOR-SPECIFIC POLICY INITIATIVES
+AND ISSUES IN SELECTED ORGANISED
+SECTORS
+16.7.1 IT-BPM / Software Sector
+Government Initiatives in IT-BPM/Software Sector
+The Government of India’s rapid adoption of technologies as a platform to delivery
+of government-to-government and government-to-citizen services is a tremendous
+push factor for the domestic IT-BPM (Business Process Management) market. It
+has developed its own cloud platform – MeghRaj – that offers Platform-as-a
+Service (PaaS), Infrastructure as a Service (IaaS), Software as a Service (SaaS)
+and Storage as a Service (STaaS). The focus of this initiative is to accelerate
+delivery of e-services in the country while optimising Information Communication
+and Technology (ICT) spending of the Government. It also intends to make India
+a hub for cyber security solutions for the world. Some of the initiatives under
+Digital India programme include Universal Digital Identity (Aadhaar); Common
+Services Centres (CSCs); Digital Locker; eSign; UMANG(Unified Mobile App
+for New Age Governance); Jeevan Pramaan scheme for Digital Life Certificate
+for Pensioners; National Scholarship Portal; National Centre of Geo-informatics
+(NCoG) project, etc.
+With these initiatives, India’s IT industry has thrived globally with exports around
+$70 billion. There are over 2.8 million employees working in the IT sector. India’s
+IT industry is an emerging market for the economy which requires more IT
+services as we move further. The major reason behind the rapid development of
+the IT industry is the vast reservoir of technically skilled manpower which has
+transformed India into a  IT superpower. However, India’s Software exports which
+were growing robustly at 27 to 38 per cent during 2002- 03 to 2007-08 have
+
+
+--- Page 87 ---
+189
+Services Sector I: Organised
+Sector - Issues and Policy
+slowed down in recent years with exports even falling. In FY 2019, growth will
+settle just about 7.5 per cent to 8 per cent while in FY 2020, IT services export
+growth is pegged at 6 per cent to 8 per cent.
+The major issues and challenges in the IT-BPM sector are listed below:
+Visa Issues : This is a major issues for the IT sector. Immigration and visa
+issues, which have long plagued the information technology sector seem to
+have hurt Indian IT services companies with the US Government’s stance
+on the H-1B visa issue.
+Goods and Services Tax payable (‘IGST/CGST/SGST’) on import or domestic
+procurement of services by Software Technology Parks of India (STPIs):
+GST laws treat any service provided to a SEZ unit as ‘Zero Rated Supply’.
+Accordingly, a SEZ unit can import services or procure domestically those
+services required for authorised operations without payment of GST.
+However, STPI units, which are also into the activity of export of IT/ITES
+are required to pay GST both on import and domestic procurement of services
+required for authorised operations and subsequently claim refund of the
+same. Payment of GST on procurement of services by an STPI unit would
+increase the working capital requirement. While relief has been provided
+till March 2018, upfront exemption from payment of GST on import and
+domestic procurement of services by STPIs could be considered in the GST
+regime on par with SEZ units.
+Further on the Goods and Service Tax (GST) front, the industry has been
+adversely impacted and faced with ambiguity due to divergent advance
+rulings by tax authorities. Delay in granting refund of accumulated GST
+credits continues to pose a working capital challenge to the industry, despite
+government’s initiatives such as special refund drives.
+SEIS benefit to units covered under STP scheme and export of IT/ITES(IT
+enabled services): Under the Service Exports from India scheme (SEIS) of
+FTP (2015-20), certain services including professional services have been
+notified as eligible services. Under these scheme exports of notified services
+by SEZ units are made eligible to claim the SEIS scrips. However, exports
+of similar notified services by units registered under STPI scheme are not
+eligible to claim the SEIS scrips.
+Globally, India has continued to perform well in the computer software and ITES
+sphere since the post-reforms period. However, this achievement has been dwarfed
+by the neglect of high-end IT services. Too much dependence on a few external
+markets for IT exports could prove to be a risky business model, and there is a
+serious need to explore possibilities of
+ broad
+basing the market
+ by looking at the
+African, Asian and Latin American markets. Also, the IT/ITES sector in the
+country faces a scarcity of professionals and venture capital. The increased threat
+to cyber security due to cloud computing, e-commerce, and digital payments is
+another concern which the industry has to deal with without delay.
+16.7.2 Challenges and Prospects of Indian Tourism
+Important initiatives taken by the Government to promote tourism in the country
+include the following:
+For creation of tourism infrastructure, Central Financial Assistance to States/
+UTs under the schemes of Swadesh Darshan, National Mission on Pilgrimage
+
+
+--- Page 88 ---
+190
+Sector Specific Issues and
+Policies
+Rejuvenation and Spiritual Heritage Augmentation Drive (PRASHAD). Besides,
+some initiatives taken by Ministry of Tourism include the following:
+Extension of e-visa facility to citizens of 167 countries.
+Launch of the Incredible India 2.0 campaign with market specific promotional
+plans and content creation.
+Revamping of Incredible India website with the aim to provide more
+information about India as a tourist destination.
+Launch of 24x7 toll free multi-lingual tourist helpline in 12 International
+languages including Hindi and English.
+Organisation of annual Global Tourism Mart for India in line with major
+international travel marts being held in countries across the world. It provides
+a platform for all stakeholders in tourism and hospitality industries to interact
+and transact business opportunities.
+Organisation of Annual International Tourism Mart for promotion of tourism
+in North Eastern States.
+Promotional activities in tourist generating markets overseas through the
+India Tourism Offices abroad with active participation in travel fairs and
+exhibitions; organising Road Shows, “Know India” seminars and workshops.
+Ministry launched a mobile application called Swatch Paryatan which will
+let citizens report any hygiene issues at various tourist destinations across
+the country.
+The Archaeological Survey of India (ASI) has identified 100 monuments to
+be developed as Model Monuments under Adarsh Smarak scheme.
+The Government has initiated many policies to make India a Medical Value Travel
+destination which include constituting the National Medical and Wellness Tourism
+Promotion Board in 2015 and launching e-tourist visa and m-visa facilities. The
+board has taken many initiatives which inter alia include: a) Stressing on easing
+entry formalities for those arriving for Medical Visits. On the recommendations
+of the Board, Government has done away with the procedure for reporting of
+those coming on medical visas to Foreigner Regional Registration Offices (FRRO)
+and accepts hospital’s reporting. b) Giving emphasis on accreditation of
+institutions and organisations dealing with Medical and Wellness Tourism at all
+levels. c) Encouraging the Medical and Wellness Tourism stakeholders to work
+in a transparent and fair manner by listing out indicative cost of procedures.
+The ‘Adopt a Heritage Scheme’ invited Private Sector Companies, Public Sector
+Companies and Corporate individuals to adopt the sites and to take up the
+responsibility developing 8 monuments, heritage and tourist sites across India
+and making them tourist friendly to enhance their tourism potential and cultural
+importance, in a planned and phased manner.
+As a result of these initiatives, Indian travel and tourism industry is prospering
+enormously with number of tourists increasing from 17000 in 1951 to over 10
+million by 2017. It contributed 9.4 per cent to India’s total GDP (Gross Domestic
+Product) in 2017 and provided 41.622
+ mill
+ion jobs to the people. Yet, we are
+relatively far behind several other small countries like Singapore and Hong Kong.
+
+
+--- Page 89 ---
+191
+Services Sector I: Organised
+Sector - Issues and Policy
+Some of the challenges being faced by the tourism sector are listed below:
+Lack of proper infrastructure
+GST related Issues: Ministry of Finance in its Working Paper (Prasad and
+Sathish, 2017) highlighted the following GST related issues in tourism sector:
+o Need to treat foreign exchange earnings in tourism services as exports
+or deemed exports: While goods and services exported from India are
+exempt from GST, for tourism services this is not the case as they are
+governed by a special provision of being served in India.
+o GST rates in India are very high:With GST for hotels at around 18 per
+cent and tour operators at 28  per cent, India is among the highly taxed
+tourism countries.
+Social and Political Concerns: These relate to the developmental, cultural
+and environmental effects liberalisation of tourism can have on local
+communities and sensitive locales. New parameters at the macro, and micro
+levels have to be identified for developing tourism keeping in view the
+incidents of communalism, terrorism, natural disasters, climate change,
+global warming, deforestation, pollution etc.
+Alternatives: This includes health tourism, village tourism (in the vintage of
+global village!), sports and games tourism, etc. Kerala has done innovative
+thinking in “monsoon tourism” which reduces seasonality of tourism.
+16.7.3 Shipping and Port Services: Initiatives and Challenges
+As far as the Indian subcontinent is concerned, shipping plays an important role
+in the transport sector of India’s economy. Approximately, 95 per cent of the
+country’s trade by volume (70 per cent in terms of value) is moved by sea. The
+geographical factor that puts the Indian maritime sector at an advantageous
+position is its vast coastline of 7,500 km.
+In order to improve India’s ranking in terms of ‘Trading across Borders’, the
+Ministry of Shipping has initiated the following measures:
+From manual to e-forms
+Implementation of Direct Port Delivery Scheme
+Reduction in fee and charges for non-peak hours
+Container scanners at major ports
+Delivery orders are automated
+RFID Scheme for gate automation: All the major port s are in process of
+implementing radio-frequency identification (RFID) gate automation system.
+Integration of major ports filing system with Customs software: This
+process has cut down dwell time significantly.
+Remove congestion at ports:  T o remove bottlenecks in rail or road
+connectivity for faster evacuation of cargo, all major ports have been directed
+to take the measures such as development of parking areas, widening roads
+and inter-terminal movement trailers.
+
+
+--- Page 90 ---
+192
+Sector Specific Issues and
+Policies
+The important issues in this sector are listed below:
+The costs of operating a shipping company in India are higher than overseas
+and therefore foreign shipping companies do not prefer to flag their ships in
+India.
+Onerous Tax Regime: The shipping industry is facing significant tax burden
+such as minimum alternate tax, dividend distribution tax, withholding tax
+liability on interest paid to foreign lenders and on charter hire charges paid
+to foreign ship owners, and so on which is ultimately squeezing the bottom
+line/profit margin further.
+GST related issues:Ministry of Finance in its Working Paper (Prasad and
+Sathish, 2017) highlighted the following GST related issues in shipping
+sector
+o GST applicability on sale of ships located abroad : GST is applicable
+on the sale of a ship by an Indian shipping company which has a ship
+located abroad. Earlier, such a sale was outside the purview of the Indian
+V AT laws and hence was not liable to V AT.
+o Need for parity in GST treatment for services of international
+transportation of goods by sea by Indian shipping companies vs. foreign
+shipping companies:If a foreign charterer desires to engage a shipping
+line for transportation of cargo from abroad to India, he would prefer
+to engage a foreign shipping line over an Indian shipping line since the
+latter would charge 5 per cent GST on its freight invoice while the
+former would not charge any tax.
+o GST input tax credit on any goods purchased in various States: Goods
+such as furnace oil, lubes, spares, ship stores, etc. are purchased by
+shipping companies at various ports/States. Such purchase of goods
+would attract CGST and SGST of the respective State where goods are
+procured. Shipping companies may not have any place of business in
+the States where the purchases are made and hence may not be able to
+utilise the input tax credit in respect of goods procured at various States.
+This could result in significant blockage of input tax credit in various
+States and needs to be addressed.
+The multiplicity of Regulations  – costly affair:  The shipping industry is
+regulated by International Maritime Organisation (IMO). There are also
+international regulations on operations of ships and for seafarers. Even though
+such regulatory framework makes stricter entry barriers into the industry, it
+adds cost to the compliance of such regulations.
+The challenges facing in development of a world class port infrastructure
+include the following:
+o Issues with PPP Model- Most port PPPs impose strict limits on what
+private operators are allowed to do, usually in terms of the types of
+cargo they are allowed to handle.
+o Limited Hinterland Linkages
+o Sub-optimal Transport Modal Mix – Lack of requisite infrastructure
+for evacuation from major and non-major ports leads to sub-optimal
+transport modal mix.
+
+
+--- Page 91 ---
+193
+Services Sector I: Organised
+Sector - Issues and Policy
+o Processes and operations across India’s ports are not standardised or
+uniform, costs and time for key processes are unpredictable and there
+is an unacceptable level of variation across ports as well as within ports.
+o Financial constraints – continued underinvestment have left the port
+infrastructure in dismal condition especially with regards to the non-
+major ports.
+o Deficient dredging capacity – Draft is also a major limitation in India
+as terminals and ports are unable to cater to vessels beyond Panamax
+(Draft over 13 meters) size that are increasingly dominating global trade.
+o Land acquisition and environmental clearances are some specific
+challenges for port infrastructure.
+16.7.4 Real Estate Sector in India: Policy Initiatives and
+Challenges
+The real estate sector in India is growing at a rate of about 20 per cent per annum
+and this sector has been contributing to about 6-7 per cent to India’s GDP but it
+is not able to balance the supply-demand continuum.
+Some of the
+ polic
+y initiatives that have had a lasting impact on the Indian real
+estate industry include Pradhan Mantri Awas Yojana,
+ Sma
+rt Cities Mission,Real
+Estate Regulation and Development Act
+ (R
+ERA) in 2016, Amendment to Benami
+Transactions (Prohibition) Act, Real Estate Investment Trust (REITs)– approved
+by the Securities and Exchange Board of India (SEBI) – is a platform to pool
+money from investors all across the country, Service Tax Exemption on
+Construction of Affordable Housing, Interest Subsidy for the first-time
+homebuyers, Permanent Residency Status for Foreign Investors for a period of
+10 years, subject to fulfillment of certain conditions, Infrastructure Status to
+Affordable Housing; Foreign Direct Investment in Real Estate (except real estate
+farms) and Home loan moratorium for real estate due to the COVID-19-led
+lockdown and the nationwide restrictions aiming at helping borrowers and
+developers who are reeling under monetary pressure since long.
+The demonetisation in November 2016 severely impacted the growth of the real
+estate sector and reduced the flow of investments. The implementation of the
+Real Estate Regulation Act (RERA) in 2016 and GST in 2017 has resulted in a
+variety of projects arriving at a standstill. Similarly, there are other such policy
+and regulation challenges that have plagued the real estate sector in India:
+Delayed Infrastructure Projects:In addition to the complications faced to
+acquire funding for the project, a real estate developer has to navigate through
+numerous government regulations before commencing construction. Thus,
+the sector calls for a single-window clearance system to streamline and fasten
+the approval mechanism.
+Funding problems for land acquisition: Currently, funding is only available
+for construction purpose, but not for land acquisition. Land acquisition alone
+constitutes 60 per cent of the entire cost in a particular project. After funding
+for the acquisition of a land, developer needs to wait for 12 to 18 months,
+during which the developer does not get any money, but gets burdened with
+interest charges. These issues need to be examined and addressed.
+
+
+--- Page 92 ---
+194
+Sector Specific Issues and
+Policies
+Land availability: Another challenge that has affected the growth of the
+real estate sector and the developers is litigated land. According to a survey
+conducted by the MahaRERA, around 16 per cent of projects and 31 per
+cent of built-up spaces are, or have been, in legal disputes.These challenges
+call for a serious revision of the Land Acquisition Resettlement and
+Rehabilitation Act, 2013 which grants compensation, rehabilitation, and
+resettlement to the affected persons in India.
+Outdated building byelaws: Over 50 per cent of the world’s population lives
+in cities, and the number is expected to rise by 2.5 billion by the year 2050.
+However, the current Floor Space Index (FSI) norms in the cities are not on
+par with the growing demands of the consumers. Reports state that the
+permitted FSI in Indian cities is currently at an all-time industry low, within
+the range of 1 to 1.5. These challenges call for state governments to revisit
+the FSI norms.
+Rising non-performing assets (NPA), higher risk provisioning assigned
+to real estate sector by the RBI and dwindling profits in the real estate
+sector: These have affected bank lending to the sector. Among the major
+funding sources to real estate sector, bank lending to the real estate sector
+has significantly dropped from over 57 per cent in 2010, to less than 24 per
+cent in 2016, while private equity investments have increased. The real estate
+sector has also been grappling with liquidity issues and piling debt.
+Tax shifts and demand shifts:  Prior to GST implementation, there was a
+service tax of 4.5 per cent that was payable in case of under-construction
+property. Post GST, that rate has gone up sharply to 12 per cent making it
+almost unattractive to buyers. Property buyers were already paying
+registration charges and stamp duty on properties. With the addition of 12
+per cent GST, the total statutory cost has gone up by 20 per cent of the cost
+of property for the buyer. The bigger problem is a fundamental shift in
+demand patterns. During the days of the property boom, many real estate
+companies invested heavily in developing middle range and premium
+properties. When the cycle turned, most of these properties could not find
+buyers. Shortage of working capital has led to many builders defaulting on
+their delivery commitments to customers.
+GST Issues: While construction sector is the worst hit sector due to economic
+slowdown and demonetisation, all components of construction except bricks
+are charged at 28 per cent GST.
+16.7.5 Policy Initiatives and Challenges being Faced by Banking
+and Financial Services
+Initiatives to improve the conditions of Government Banks and Financial Services
+Government of India has taken comprehensive steps to strengthen the Public
+Sector Banks (PSBs), under Government’s 4R’s strategy of– recognising NPAs
+transparently, resolving and recovering value from Stressed Accounts through
+clean and effective laws and processes, recapitalising banks, and reforming banks
+through the PSB Reforms Agenda.Other steps taken by the Government to
+improve the condition of banks include,
+ inter alia, the 
+following:
+
+
+--- Page 93 ---
+195
+Services Sector I: Organised
+Sector - Issues and Policy
+Change in credit culture with institution of Insolvency and Bankruptcy Code
+(IBC) fundamentally changing the creditor-borrower relationship, taking
+away control of the defaulting company from promoters/owners and
+debarring wilful defaulters from the resolution process and debarring them
+from raising funds from the market.
+Fugitive Economic Offenders Act, 2018 has been enacted to enable
+confiscation of fugitive economic offenders’ property.
+National Financial Reporting Authority has been established as an
+independent regulator for enforcing auditing standards and ensuring audit
+quality.
+Key reforms instituted in PSBs include, the following:
+o To ensure proper due diligence in project financing, Board-approved
+Loan Policies of PSBs now mandate tying up necessary clearances/
+approvals and linkages before disbursement, scrutiny of group balance-
+sheet and ring-fencing of cash flows, and appraised of non-fund and
+tail risk.
+o For mitigating risk on account of misrepresentation and fraud, use of
+third-party data sources for comprehensive due diligence across data
+sources has been instituted.
+o For clean and effective monitoring, monitoring roles have been strictly
+segregated from sanctioning roles in high-value loans, and specialised
+monitoring agencies combining financial and domain knowledge have
+been deployed for effective monitoring of loans above Rs. 250 crore.
+o To ensure timely and better realisation in One-Time Settlements (OTSs),
+online end-to-end OTS platforms have been set up.
+o For faster processing of loan proposals, Loan Management Systems
+have been put in place for personal segment and MSME loans.
+To strengthen governance at the Board level, the position of Chairman and
+Managing Director (CMD) has been bifurcated into separate positions of a
+Non-executive Chairman and a Managing Director (MD) and Chief
+Executive Officer (CEO).
+A professional Banks Board Bureau (BBB) has been created for arm’s length
+selection of non-executive Chairmen and whole-time directors.
+The banking industry is undergoing a radical shift, one driven by new competition
+from FinTechs, changing business models, mounting regulation and compliance
+pressures, and disruptive technologies. The emergence of FinTech/non-bank Start-
+ups is changing the competitive landscape in financial services, forcing traditional
+institutions to rethink the way they do business.
+A Cultural Shift:In the digital world, there is no room for manual processes and
+systems. Therefore, it’s important that financial institutions promote a culture of
+innovation for maximum efficiency.
+Regulatory Compliance: Regulatory compliance has become one of the most
+significant banking industry challenges as a direct result of the dramatic increase

@@ -1,0 +1,1166 @@
+# Chunk 009 — Notes
+<!-- Source: chunk_009.txt -->
+
+## Section: Agricultural 🔴
+
+### Core Idea
+--- Page 82 ---
+ 
+ 
+178 
+Major Issues 
+Confronting Indian 
+Economy 
+3) What is the relevance of examining GSDP growth rates to understand 
+regional disparity? 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+24.4 AGRICULTURAL DEVELOPMENT AND 
+REGIONAL DISPARITY  
+As discussed, the contribution of agricultural sector to the total GDP has been 
+gradually decreasing over time. Agriculture’s contribution reduced from 51.9 
+to 16.5 per cent during the period 1950-51 to 2019-20. Even over a shorter 
+period of time there has been a significant decline in the share of agriculture 
+in the Gross State Domestic Product (GSDP). 
+Table 24.2: Share of Agriculture to GSDP and Total Workforce in India 
+and States 
+State 
+Share of Agl in GSDP 
+ 
+(% at 2011-12 price) 
+Share of Agriculture in 
+Total Workforce (%) 
+2011-12 2018-19 2011-12 2018-19 
+Andhra Pradesh 13.7 11.2 52.4 43.9 
+Assam 14.4 11.5 54.3 37.2 
+Bihar 17.2 10.8 61.6 47.6 
+Chhattisgarh 11.4 9.9 71.8 60.8 
+Delhi 0.2 0.0 0.1 0.3 
+Gujarat 12.9 6.4 46.9 39.4 
+Haryana 13.7 8.1 40.9 24.3 
+Himachal Pradesh 9.3 5.8 58.4 56.3 
+Jammu & Kashmir 10.2 7.1 40.3 35.2 
+Jharkhand 8.9 5.9 49.4 40.3 
+Karnataka 8.8 5.2 48.5 38.9 
+Kerala 8.0 4.1 20.4 16.8 
+Madhya Pradesh 23.2 21.5 57.7 55.7 
+Maharashtra 8.0 5.1 49.1 41.8 
+Odisha 11.1 7.0 54.8 42.8 
+Punjab 18.8 13.3 35.8 24.0 
+Rajasthan 16.9 11.5 49.9 51.9 
+Tamil Nadu 7.2 3.9 33.5 25.3
+
+> **In Simple Terms:** This section explains Agricultural in a simple manner.
+
+### Key Concepts
+#### Agricultural Concept
+--- Page 83 ---
+ 
+ 
+179 
+Regional Disparity in 
+India: Policy 
+Implications
+Telangana 9.0 4.9 - 41.8 
+Uttar Pradesh 17.1 13.3 51.9 49.7 
+Uttarakhand 6.6 3.7 46.6 31.8 
+West Bengal 13.9 12.1 36.8 32.6 
+India 11.5 7.8 47.8 40.9 
+Source: Calculated from MOSPI and NSS PLFS, 2018-19 
+The contribution of agricultural sector to total GSDP in 2011-12 was 11.5 per 
+cent which reduced to 7.8 per cent in 2018-19. The state level picture also 
+shows the same declining trend in the contribution of agricultural sector. In 
+the year 2018-19, the contribution of agricultural sector to state’s GSDP was 
+high in Madhya Pradesh (21.5 per cent) followed by the state Punjab (13.3 
+per cent). The change in the contribution of agriculture in GSDP over the 
+period 2011 to 2018 was highest in Bihar and Gujarat (about 6 percentage 
+point reduction) whereas Delhi, Madhya Pradesh and West Bengal registered 
+the lowest percentage point change (see Table 24.2). 
+On the other hand, the percentage share of agriculture in the total workforce 
+has only reduced from 48 per cent in 2011 to 41 per cent in 2018. A large 
+disparity is visible among the states in terms of contribution of agriculture in 
+total workforce. The states showing the highest proportion of agricultural 
+workforce to total workforce are Chhattisgarh (71.8 per cent), Bihar (61.6 per 
+cent), Himachal Pradesh (58.4 per cent) and among the lowest are Kerala 
+(20.4 per cent), Tamil Nadu (33.5 per cent) and Punjab (35.8 per  cent).  
+The percentage point reduction in the contribution of agricultural workforce 
+in the total workforce over the period 2011 to 2018 was highest in Assam 
+(17.1 percentage point), Haryana (16.6 percentage points) and Uttarakhand 
+(14.8 percentage points) whereas in the states Uttar Pradesh (2 percentage 
+points), Himachal Pradesh (2.1 percentage points), Madhya Pradesh (2 
+percentage points) the percentage point reduction was the lowest. The state 
+Rajasthan shows an increase of percentage of workforce in agriculture from 
+2011 to 2018.   
+Figure 24.2 explains the growth rate of Domestic product from agriculture 
+from 2004-05 to 2018-19.  The growth rate of agriculture in India from 2011-
+12 to 2018-19 is 8.2 per cent which increased from 4.4 per cent during 2004-
+05 to 2011-12.  Among the states the highest growth rate during 2011-12 to 
+2018-19 is marked by Madhya Pradesh (15.3 per cent), Maharashtra (10.6per 
+cent), followed by West Bengal (10.3 per cent).  During 2004-05 to 2011-12 
+Jharkhand registered the highest growth rate of 9.5 per cent followed by 
+Chhattisgarh 7.9 percent. Kerala registered the negative growth of 1.1 per 
+cent during 2004-2011.
+
+### Definitions
+- **Agricultural**: The definition of Agricultural as described in the text. ⭐ (exam-important)
+
+### Mechanisms / Processes
+1. Step 1
+2. Step 2
+
+### Examples
+**Example: Agricultural**
+Example details.
+
+### ⚠️ Common Mistakes
+- ❌ Mistake: Misunderstanding Agricultural → ✅ Correct: Understanding it properly.
+
+> **Quick Recall:**
+> - Key fact about Agricultural
+
+### Connections
+- Builds on: Previous topics
+
+## Section: 4 🔴
+
+### Core Idea
+--- Page 83 ---
+ 
+ 
+179 
+Regional Disparity in 
+India: Policy 
+Implications
+Telangana 9.0 4.9 - 41.8 
+Uttar Pradesh 17.1 13.3 51.9 49.7 
+Uttarakhand 6.6 3.7 46.6 31.8 
+West Bengal 13.9 12.1 36.8 32.6 
+India 11.5 7.8 47.8 40.9 
+Source: Calculated from MOSPI and NSS PLFS, 2018-19 
+The contribution of agricultural sector to total GSDP in 2011-12 was 11.5 per 
+cent which reduced to 7.8 per cent in 2018-19. The state level picture also 
+shows the same declining trend in the contribution of agricultural sector. In 
+the year 2018-19, the contribution of agricultural sector to state’s GSDP was 
+high in Madhya Pradesh (21.5 per cent) followed by the state Punjab (13.3 
+per cent). The change in the contribution of agriculture in GSDP over the 
+period 2011 to 2018 was highest in Bihar and Gujarat (about 6 percentage 
+point reduction) whereas Delhi, Madhya Pradesh and West Bengal registered 
+the lowest percentage point change (see Table 24.2). 
+On the other hand, the percentage share of agriculture in the total workforce 
+has only reduced from 48 per cent in 2011 to 41 per cent in 2018. A large 
+disparity is visible among the states in terms of contribution of agriculture in 
+total workforce. The states showing the highest proportion of agricultural 
+workforce to total workforce are Chhattisgarh (71.8 per cent), Bihar (61.6 per 
+cent), Himachal Pradesh (58.4 per cent) and among the lowest are Kerala 
+(20.4 per cent), Tamil Nadu (33.5 per cent) and Punjab (35.8 per  cent).  
+The percentage point reduction in the contribution of agricultural workforce 
+in the total workforce over the period 2011 to 2018 was highest in Assam 
+(17.1 percentage point), Haryana (16.6 percentage points) and Uttarakhand 
+(14.8 percentage points) whereas in the states Uttar Pradesh (2 percentage 
+points), Himachal Pradesh (2.1 percentage points), Madhya Pradesh (2 
+percentage points) the percentage point reduction was the lowest. The state 
+Rajasthan shows an increase of percentage of workforce in agriculture from 
+2011 to 2018.   
+Figure 24.2 explains the growth rate of Domestic product from agriculture 
+from 2004-05 to 2018-19.  The growth rate of agriculture in India from 2011-
+12 to 2018-19 is 8.2 per cent which increased from 4.4 per cent during 2004-
+05 to 2011-12.  Among the states the highest growth rate during 2011-12 to 
+2018-19 is marked by Madhya Pradesh (15.3 per cent), Maharashtra (10.6per 
+cent), followed by West Bengal (10.3 per cent).  During 2004-05 to 2011-12 
+Jharkhand registered the highest growth rate of 9.5 per cent followed by 
+Chhattisgarh 7.9 percent. Kerala registered the negative growth of 1.1 per 
+cent during 2004-2011.
+
+> **In Simple Terms:** This section explains 4 in a simple manner.
+
+### Key Concepts
+#### 4 Concept
+--- Page 84 ---
+ 
+ 
+180 
+Major Issues 
+Confronting Indian 
+Economy 
+ 
+Fig. 24.2:Growth Rate of Domestic Product from Agriculture, 2004-05 to 2018-19 
+Source: MOSPI 
+A sectoral disaggregation of the workforce in rural areas shows that the share 
+of agricultural sector to the total workforce has declined but at a much slower 
+pace than the decline in the share of agriculture in GSDP. As expected, there 
+has been a decline in the share of workforce in agriculture from 81.4 per cent 
+to 58.2 per cent between 1983 to 2018-19. During this period, the dependence 
+of workforce declined by 29 percentage point. Considering the state-wise 
+contribution of farm sector to total employment,in 2018-19, among the major 
+states Chhattisgarh and Madhya Pradesh contributed the highest proportion 
+of farm employment, whereas in the states like Kerala and West Bengal, the 
+share of farm sector in employment was the lowest. 
+Figure 24.3 explained the proportion of agricultural labour and non-
+agricultural labour over the period of 1983 to 2018-19. The figure clearly 
+shows that the proportion of non-agricultural labour increased from 18.6 per 
+cent in 1983 to around 42 per cent in 2018-19. On the other hand, the 
+proportion of worker in agricultural sector reduced from 81.4 per cent in 
+1983 to around 58 per cent in 2018-19. This clearly indicate that the increase 
+in proportion of non-agricultural workforce in 2018-19 was more than two 
+times compared to what it was in 1983. On the other hand, the reduction of 
+agricultural workforce was only one third in 2018-19 compared to what it 
+was in the year 1983. 
+2.8 2.7
+5.4
+7.9 7.7
+4.3
+0.9
+2.9
+9.5
+4.6
+-1.1
+66
+3.2
+1.7
+6.6 6.2
+7.3
+3.2 2.4 1.6
+4.4
+8.7 9.9
+4.4
+9.7
+7.8 6.2
+4.4
+1 0.4
+7.1
+5.5
+15.3
+10.6
+5.7
+6.5
+8.6
+5.8 4
+8.1
+5.5
+10.3
+8.2
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+2004-05 to 2011-12 (2004-05 price)
+2011-12 to 2018-19 (2011-12 price)
+
+### Definitions
+- **4**: The definition of 4 as described in the text. ⭐ (exam-important)
+
+### Mechanisms / Processes
+1. Step 1
+2. Step 2
+
+### Examples
+**Example: 4**
+Example details.
+
+### ⚠️ Common Mistakes
+- ❌ Mistake: Misunderstanding 4 → ✅ Correct: Understanding it properly.
+
+> **Quick Recall:**
+> - Key fact about 4
+
+### Connections
+- Builds on: Previous topics
+
+## Section: Industrial 🔴
+
+### Core Idea
+--- Page 84 ---
+ 
+ 
+180 
+Major Issues 
+Confronting Indian 
+Economy 
+ 
+Fig. 24.2:Growth Rate of Domestic Product from Agriculture, 2004-05 to 2018-19 
+Source: MOSPI 
+A sectoral disaggregation of the workforce in rural areas shows that the share 
+of agricultural sector to the total workforce has declined but at a much slower 
+pace than the decline in the share of agriculture in GSDP. As expected, there 
+has been a decline in the share of workforce in agriculture from 81.4 per cent 
+to 58.2 per cent between 1983 to 2018-19. During this period, the dependence 
+of workforce declined by 29 percentage point. Considering the state-wise 
+contribution of farm sector to total employment,in 2018-19, among the major 
+states Chhattisgarh and Madhya Pradesh contributed the highest proportion 
+of farm employment, whereas in the states like Kerala and West Bengal, the 
+share of farm sector in employment was the lowest. 
+Figure 24.3 explained the proportion of agricultural labour and non-
+agricultural labour over the period of 1983 to 2018-19. The figure clearly 
+shows that the proportion of non-agricultural labour increased from 18.6 per 
+cent in 1983 to around 42 per cent in 2018-19. On the other hand, the 
+proportion of worker in agricultural sector reduced from 81.4 per cent in 
+1983 to around 58 per cent in 2018-19. This clearly indicate that the increase 
+in proportion of non-agricultural workforce in 2018-19 was more than two 
+times compared to what it was in 1983. On the other hand, the reduction of 
+agricultural workforce was only one third in 2018-19 compared to what it 
+was in the year 1983. 
+2.8 2.7
+5.4
+7.9 7.7
+4.3
+0.9
+2.9
+9.5
+4.6
+-1.1
+66
+3.2
+1.7
+6.6 6.2
+7.3
+3.2 2.4 1.6
+4.4
+8.7 9.9
+4.4
+9.7
+7.8 6.2
+4.4
+1 0.4
+7.1
+5.5
+15.3
+10.6
+5.7
+6.5
+8.6
+5.8 4
+8.1
+5.5
+10.3
+8.2
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+2004-05 to 2011-12 (2004-05 price)
+2011-12 to 2018-19 (2011-12 price)
+
+> **In Simple Terms:** This section explains Industrial in a simple manner.
+
+### Key Concepts
+#### Industrial Concept
+--- Page 85 ---
+ 
+ 
+181 
+Regional Disparity in 
+India: Policy 
+Implications
+ 
+Fig. 24.3: Percentage Distribution of Workers 
+Source: Calculated from different round of NSS Employment unemployment rounds 
+The labour productivity in agriculture has been growing very slowly.  The 
+slow growth is largely due to the following factors: (i) the impact of green 
+revolution was limited to a very few states and (ii) the process of 
+diversification of labour from agriculture to non-agriculture has barely 
+started.  
+In short, agricultural performance has varied among different states, 
+accounting partially though significantly, for prevalent wide disparities in 
+income among different states. 
+24.5 INDUSTRIAL DEVELOPMENT AND 
+REGIONAL DISPARITY 
+Like other developing countries, industrial concentration is observed in some 
+pockets of India. Keeping this in view, Government of India has adopted a 
+plethora of measures to achieve a balanced regional development. The 
+policies are guided by industrialisation mixed with highly regulated policies. 
+Also, many industries reserved for public sector. After opening up of the 
+economy with minimum role of the state in industrialisation and industrial 
+growth, it has been argued that the industries have concentrated in the 
+economically advanced states due to their comparative advantages in social 
+and economic infrastructure. This argument has been supported by several 
+country level studies.  
+81.4 78.3 72.6 64.5 58.2
+18.6 21.7 27.4 35.5 41.8
+0
+20
+40
+60
+80
+100
+120
+1983 1993-94 2004-05 2011-12 2018-19
+Agriculture Non-Agriculture
+
+### Definitions
+- **Industrial**: The definition of Industrial as described in the text. ⭐ (exam-important)
+
+### Mechanisms / Processes
+1. Step 1
+2. Step 2
+
+### Examples
+**Example: Industrial**
+Example details.
+
+### ⚠️ Common Mistakes
+- ❌ Mistake: Misunderstanding Industrial → ✅ Correct: Understanding it properly.
+
+> **Quick Recall:**
+> - Key fact about Industrial
+
+### Connections
+- Builds on: Previous topics
+
+## Section: Infrastructural 🔴
+
+### Core Idea
+--- Page 85 ---
+ 
+ 
+181 
+Regional Disparity in 
+India: Policy 
+Implications
+ 
+Fig. 24.3: Percentage Distribution of Workers 
+Source: Calculated from different round of NSS Employment unemployment rounds 
+The labour productivity in agriculture has been growing very slowly.  The 
+slow growth is largely due to the following factors: (i) the impact of green 
+revolution was limited to a very few states and (ii) the process of 
+diversification of labour from agriculture to non-agriculture has barely 
+started.  
+In short, agricultural performance has varied among different states, 
+accounting partially though significantly, for prevalent wide disparities in 
+income among different states. 
+24.5 INDUSTRIAL DEVELOPMENT AND 
+REGIONAL DISPARITY 
+Like other developing countries, industrial concentration is observed in some 
+pockets of India. Keeping this in view, Government of India has adopted a 
+plethora of measures to achieve a balanced regional development. The 
+policies are guided by industrialisation mixed with highly regulated policies. 
+Also, many industries reserved for public sector. After opening up of the 
+economy with minimum role of the state in industrialisation and industrial 
+growth, it has been argued that the industries have concentrated in the 
+economically advanced states due to their comparative advantages in social 
+and economic infrastructure. This argument has been supported by several 
+country level studies.  
+81.4 78.3 72.6 64.5 58.2
+18.6 21.7 27.4 35.5 41.8
+0
+20
+40
+60
+80
+100
+120
+1983 1993-94 2004-05 2011-12 2018-19
+Agriculture Non-Agriculture
+
+> **In Simple Terms:** This section explains Infrastructural in a simple manner.
+
+### Key Concepts
+#### Infrastructural Concept
+--- Page 86 ---
+ 
+ 
+182 
+Major Issues 
+Confronting Indian 
+Economy 
+ 
+Fig. 24.4: Share of Manufacturing to total GDP in India 
+Source:  RBI; downloaded from https://www.rbi.org.in 
+The share of manufacturing in total GSDP in 2018-19 in major states ranges 
+between 5.1 per cent in Delhi to 37.2 per cent in Uttarakhand(refer Table 1 in 
+Appendix 24.1). The industrially developed states like Gujarat and 
+Maharashtra also showed a higher contribution of manufacturing in total 
+GSDP of the state. In the year 2018-19, the contribution of manufacturing to 
+GSDP in 10 states reduced as compared to the year 2011-12 whereas in 12 
+states the share of manufacturing increased. The states registering highest 
+reduction in the share of manufacturing to total GSDP were Telangana (5.0 
+percentage points) and Andhra Pradesh (3.1 percentage points). The states 
+showing the highest increase were Gujarat (7.1 percentage points) and 
+Himachal Pradesh (5.2 percentage points).   
+The growth rate of Industry has been 8.5 per cent between 2011-12 to 2018-
+19.  The highest growth rate is of Gujarat (13.8 per cent) followed by Assam 
+(12.9 per cent) whereas the states registering the lowest growth rate are 
+Rajasthan (2.6 per cent) and Telangana (2.8 per cent). 
+Similar conclusions can be drawn when we analyse the trend in share of 
+service sector in GSDP of different states.  
+The contribution of service sector increased from 44.8 per cent to 46.8 per 
+cent between 2011-12 to 2018-19 (refer Table 2 in Appendix 24.1). This 
+means there is a 2 percentage point increase in the said period.  In the year 
+2018-19, Delhi (73.6 per cent) and Bihar (57.7 per cent) shows the highest 
+share in service sector and Gujarat (30.8 per cent), Chhattisgarh (34.5 per 
+cent) and Uttarakhand registered the lowest share in service sector.  
+The percentage point change among states between 2011-12 to 2018-19 
+shows that Telangana and Jharkhand recorded the highest percentage point 
+change of 7.9 and 4.1 respectively, whereas Himachal Pradesh, Arunachal 
+Pradesh and Jammu and Kashmir show a low change in share of service 
+sector (1.00, 1.00, and 1.4 respectively). Again Odisha, Delhi and Madhya 
+Pradesh show no change in the contribution of service sector in GSDP in 
+between 2011-12 to 2018-19.  
+18.1
+16.1
+15.5
+15.1
+13.9
+12.7
+11
+9
+0 5 10 15 20
+2018-19
+2009-10
+2000-01
+1990-91
+1980-81
+1970-71
+1960-61
+1950-51
+Share of Manufacturing to Total GDP in India
+
+### Definitions
+- **Infrastructural**: The definition of Infrastructural as described in the text. ⭐ (exam-important)
+
+### Mechanisms / Processes
+1. Step 1
+2. Step 2
+
+### Examples
+**Example: Infrastructural**
+Example details.
+
+### ⚠️ Common Mistakes
+- ❌ Mistake: Misunderstanding Infrastructural → ✅ Correct: Understanding it properly.
+
+> **Quick Recall:**
+> - Key fact about Infrastructural
+
+### Connections
+- Builds on: Previous topics
+
+## Section: Social 🔴
+
+### Core Idea
+--- Page 86 ---
+ 
+ 
+182 
+Major Issues 
+Confronting Indian 
+Economy 
+ 
+Fig. 24.4: Share of Manufacturing to total GDP in India 
+Source:  RBI; downloaded from https://www.rbi.org.in 
+The share of manufacturing in total GSDP in 2018-19 in major states ranges 
+between 5.1 per cent in Delhi to 37.2 per cent in Uttarakhand(refer Table 1 in 
+Appendix 24.1). The industrially developed states like Gujarat and 
+Maharashtra also showed a higher contribution of manufacturing in total 
+GSDP of the state. In the year 2018-19, the contribution of manufacturing to 
+GSDP in 10 states reduced as compared to the year 2011-12 whereas in 12 
+states the share of manufacturing increased. The states registering highest 
+reduction in the share of manufacturing to total GSDP were Telangana (5.0 
+percentage points) and Andhra Pradesh (3.1 percentage points). The states 
+showing the highest increase were Gujarat (7.1 percentage points) and 
+Himachal Pradesh (5.2 percentage points).   
+The growth rate of Industry has been 8.5 per cent between 2011-12 to 2018-
+19.  The highest growth rate is of Gujarat (13.8 per cent) followed by Assam 
+(12.9 per cent) whereas the states registering the lowest growth rate are 
+Rajasthan (2.6 per cent) and Telangana (2.8 per cent). 
+Similar conclusions can be drawn when we analyse the trend in share of 
+service sector in GSDP of different states.  
+The contribution of service sector increased from 44.8 per cent to 46.8 per 
+cent between 2011-12 to 2018-19 (refer Table 2 in Appendix 24.1). This 
+means there is a 2 percentage point increase in the said period.  In the year 
+2018-19, Delhi (73.6 per cent) and Bihar (57.7 per cent) shows the highest 
+share in service sector and Gujarat (30.8 per cent), Chhattisgarh (34.5 per 
+cent) and Uttarakhand registered the lowest share in service sector.  
+The percentage point change among states between 2011-12 to 2018-19 
+shows that Telangana and Jharkhand recorded the highest percentage point 
+change of 7.9 and 4.1 respectively, whereas Himachal Pradesh, Arunachal 
+Pradesh and Jammu and Kashmir show a low change in share of service 
+sector (1.00, 1.00, and 1.4 respectively). Again Odisha, Delhi and Madhya 
+Pradesh show no change in the contribution of service sector in GSDP in 
+between 2011-12 to 2018-19.  
+18.1
+16.1
+15.5
+15.1
+13.9
+12.7
+11
+9
+0 5 10 15 20
+2018-19
+2009-10
+2000-01
+1990-91
+1980-81
+1970-71
+1960-61
+1950-51
+Share of Manufacturing to Total GDP in India
+
+> **In Simple Terms:** This section explains Social in a simple manner.
+
+### Key Concepts
+#### Social Concept
+--- Page 87 ---
+ 
+ 
+183 
+Regional Disparity in 
+India: Policy 
+Implications
+The growth rate of service sector is 7.9 per cent between 2011-12 to 2018-19.  
+The highest growth rate is marked by Telangana (10.0 per cent) followed by 
+Karnataka (10.0 per cent) whereas the states registering the lowest growth 
+rate include Assam (5.3 per cent) and Jammu and Kashmir (5.8 per cent). 
+24.6 INFRASTRUCTURAL DEVELOPMENT 
+AND REGIONAL DISPARITY 
+The importance of infrastructure in economic development, trade, 
+employment and in reducing disparity within the country/region cannot be 
+over emphasised. As learnt extensively in Unit 4 availability of adequate 
+infrastructure  facilities, especially the physical infrastructure is the pre-
+condition for sustainable economic and social development.  Non-availability 
+or inadequate availability of infrastructure poses a serious threat to growth.  
+We examine the prevalent situation in regard to available infrastructure in 
+different states of the country. 
+24.6.1 Social Infrastructure  
+The social infrastructure broadly includes health, education. The indicators 
+used to access the availability of education infrastructure in India are number 
+of elementary schools (primary schools and upper primary schools) across 
+states. These indicators are converted on per 10,000 population basis to 
+facilitate comparison among states. 
+Education Infrastructure 
+It is well recognised that the literacy of any region or area has a positive 
+relation to the overall development. It enables people to access new 
+opportunities to participate in society in different ways. The census data 
+shows that the literacy rate increased from 18.3 per cent in 1951 to 74.04 in 
+2011.   
+The education infrastructure plays an important role in the literacy rate of a 
+particular region. The supply side factor, like the availability of school, good 
+condition building, adequate number of teachers, facility like toilet, drinking 
+water are the major determinants of the quality of education within a region. 
+Figure 24.5 shows the number of elementary schools (primary and 
+secondary) per lakh population in 2016-17. The number of elementary 
+schools per lakh population in India is 114. Himachal Pradesh (254), Jammu 
+and Kashmir (223) and Uttarakhand (220) registered a high number of 
+Elementary school per lakh population. On the other hand Delhi (31), Kerala 
+(48), Gujarat (68) registered a low number of elementary schools per lakh 
+population.
+
+### Definitions
+- **Social**: The definition of Social as described in the text. ⭐ (exam-important)
+
+### Mechanisms / Processes
+1. Step 1
+2. Step 2
+
+### Examples
+**Example: Social**
+Example details.
+
+### ⚠️ Common Mistakes
+- ❌ Mistake: Misunderstanding Social → ✅ Correct: Understanding it properly.
+
+> **Quick Recall:**
+> - Key fact about Social
+
+### Connections
+- Builds on: Previous topics
+
+## Section: Physical 🔴
+
+### Core Idea
+--- Page 87 ---
+ 
+ 
+183 
+Regional Disparity in 
+India: Policy 
+Implications
+The growth rate of service sector is 7.9 per cent between 2011-12 to 2018-19.  
+The highest growth rate is marked by Telangana (10.0 per cent) followed by 
+Karnataka (10.0 per cent) whereas the states registering the lowest growth 
+rate include Assam (5.3 per cent) and Jammu and Kashmir (5.8 per cent). 
+24.6 INFRASTRUCTURAL DEVELOPMENT 
+AND REGIONAL DISPARITY 
+The importance of infrastructure in economic development, trade, 
+employment and in reducing disparity within the country/region cannot be 
+over emphasised. As learnt extensively in Unit 4 availability of adequate 
+infrastructure  facilities, especially the physical infrastructure is the pre-
+condition for sustainable economic and social development.  Non-availability 
+or inadequate availability of infrastructure poses a serious threat to growth.  
+We examine the prevalent situation in regard to available infrastructure in 
+different states of the country. 
+24.6.1 Social Infrastructure  
+The social infrastructure broadly includes health, education. The indicators 
+used to access the availability of education infrastructure in India are number 
+of elementary schools (primary schools and upper primary schools) across 
+states. These indicators are converted on per 10,000 population basis to 
+facilitate comparison among states. 
+Education Infrastructure 
+It is well recognised that the literacy of any region or area has a positive 
+relation to the overall development. It enables people to access new 
+opportunities to participate in society in different ways. The census data 
+shows that the literacy rate increased from 18.3 per cent in 1951 to 74.04 in 
+2011.   
+The education infrastructure plays an important role in the literacy rate of a 
+particular region. The supply side factor, like the availability of school, good 
+condition building, adequate number of teachers, facility like toilet, drinking 
+water are the major determinants of the quality of education within a region. 
+Figure 24.5 shows the number of elementary schools (primary and 
+secondary) per lakh population in 2016-17. The number of elementary 
+schools per lakh population in India is 114. Himachal Pradesh (254), Jammu 
+and Kashmir (223) and Uttarakhand (220) registered a high number of 
+Elementary school per lakh population. On the other hand Delhi (31), Kerala 
+(48), Gujarat (68) registered a low number of elementary schools per lakh 
+population.
+
+> **In Simple Terms:** This section explains Physical in a simple manner.
+
+### Key Concepts
+#### Physical Concept
+--- Page 88 ---
+ 
+ 
+184 
+Major Issues 
+Confronting Indian 
+Economy 
+ 
+Fig. 24.5: Number of Primary and Upper Primary Schools Per Lakh Population, 2016-17  
+Note: Total number of school is pertaining to all school up to upper primary level both 
+government and private and for the year 2016-17 and the population for the year 2016 is 
+taken from Census projected population. 
+Source: DISE www.dise.in and Census of India 2011  
+The regional disparity in education can also be judged from some other 
+characteristics like percentage of single class room school, percentage of 
+single teacher school. In India 4.3 per cent elementary schools have only a 
+single classroom (Refer Table 3 in Appendix 24.1). Among the states Assam 
+(18.5per cent), followed by Andhra Pradesh (13.0 per cent) registered a high 
+proportion of single room schools whereas Kerala, Delhi (0.1 per cent), Uttar 
+Pradesh (0.7 per cent), Tamil Nadu (0 per cent) show a low proportion of 
+school with single class room. The other important indicator is the single 
+teacher school. In India 7.2 per cent of schools have only a single teacher. 
+Among the states, Andhra Pradesh (14.1 per cent), Jharkhand (17.1 per cent), 
+and Rajasthan (12 per cent) registered a high single teacher school. Delhi (0.1 
+per cent) and Gujarat (2.0 per cent) have low proportion of single teacher 
+schools in the year 2016-17.  
+Some of the basic facilities in schools also influence the educational 
+development. These facilities include toilet facility, drinking water, girl’s 
+toilet facility, condition of school building. In India 96.5 per cent of schools 
+are having girl’s toilet facility. Also, in terms of drinking water facility a very 
+low variation was found among states. In terms of electricity facility about 60 
+per cent schools have electricity connectivity. States with a high proportion 
+of schools with electricity connectivity are Delhi, Gujarat and Haryana 
+(registering 94 to 99 per cent of schools) whereas states with low proportion 
+of school with electricity connectivity were Assam, Madhya Pradesh, Jammu 
+and Kashmir and Jharkhand (ranging from 20 to 35 per cent of schools).  
+One of the important indicators of education is the pupil-teacher ratio (PTR). 
+The higher the PTR, the lower the quality of education imparted to children.  
+PTR in India as a whole was 23 whereas states registering highest PTR were 
+120
+200
+71
+186
+31
+68 83
+254
+223
+130
+97
+48
+182
+88
+160
+99
+142
+78
+113118
+220
+101114
+0
+50
+100
+150
+200
+250
+300
+Andhra Pradesh
+Assam
+Bihar
+Chhattisgarh
+Delhi
+Gujarat
+Haryana
+Himachal Pradesh
+Jammu & Kashmir
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharashtra
+Odisha
+Punjab
+Rajasthan
+Tamil Nadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+India
+
+### Definitions
+- **Physical**: The definition of Physical as described in the text. ⭐ (exam-important)
+
+### Mechanisms / Processes
+1. Step 1
+2. Step 2
+
+### Examples
+**Example: Physical**
+Example details.
+
+### ⚠️ Common Mistakes
+- ❌ Mistake: Misunderstanding Physical → ✅ Correct: Understanding it properly.
+
+> **Quick Recall:**
+> - Key fact about Physical
+
+### Connections
+- Builds on: Previous topics
+
+## Section: Human 🔴
+
+### Core Idea
+--- Page 88 ---
+ 
+ 
+184 
+Major Issues 
+Confronting Indian 
+Economy 
+ 
+Fig. 24.5: Number of Primary and Upper Primary Schools Per Lakh Population, 2016-17  
+Note: Total number of school is pertaining to all school up to upper primary level both 
+government and private and for the year 2016-17 and the population for the year 2016 is 
+taken from Census projected population. 
+Source: DISE www.dise.in and Census of India 2011  
+The regional disparity in education can also be judged from some other 
+characteristics like percentage of single class room school, percentage of 
+single teacher school. In India 4.3 per cent elementary schools have only a 
+single classroom (Refer Table 3 in Appendix 24.1). Among the states Assam 
+(18.5per cent), followed by Andhra Pradesh (13.0 per cent) registered a high 
+proportion of single room schools whereas Kerala, Delhi (0.1 per cent), Uttar 
+Pradesh (0.7 per cent), Tamil Nadu (0 per cent) show a low proportion of 
+school with single class room. The other important indicator is the single 
+teacher school. In India 7.2 per cent of schools have only a single teacher. 
+Among the states, Andhra Pradesh (14.1 per cent), Jharkhand (17.1 per cent), 
+and Rajasthan (12 per cent) registered a high single teacher school. Delhi (0.1 
+per cent) and Gujarat (2.0 per cent) have low proportion of single teacher 
+schools in the year 2016-17.  
+Some of the basic facilities in schools also influence the educational 
+development. These facilities include toilet facility, drinking water, girl’s 
+toilet facility, condition of school building. In India 96.5 per cent of schools 
+are having girl’s toilet facility. Also, in terms of drinking water facility a very 
+low variation was found among states. In terms of electricity facility about 60 
+per cent schools have electricity connectivity. States with a high proportion 
+of schools with electricity connectivity are Delhi, Gujarat and Haryana 
+(registering 94 to 99 per cent of schools) whereas states with low proportion 
+of school with electricity connectivity were Assam, Madhya Pradesh, Jammu 
+and Kashmir and Jharkhand (ranging from 20 to 35 per cent of schools).  
+One of the important indicators of education is the pupil-teacher ratio (PTR). 
+The higher the PTR, the lower the quality of education imparted to children.  
+PTR in India as a whole was 23 whereas states registering highest PTR were 
+120
+200
+71
+186
+31
+68 83
+254
+223
+130
+97
+48
+182
+88
+160
+99
+142
+78
+113118
+220
+101114
+0
+50
+100
+150
+200
+250
+300
+Andhra Pradesh
+Assam
+Bihar
+Chhattisgarh
+Delhi
+Gujarat
+Haryana
+Himachal Pradesh
+Jammu & Kashmir
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharashtra
+Odisha
+Punjab
+Rajasthan
+Tamil Nadu
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+India
+
+> **In Simple Terms:** This section explains Human in a simple manner.
+
+### Key Concepts
+#### Human Concept
+--- Page 89 ---
+ 
+ 
+185 
+Regional Disparity in 
+India: Policy 
+Implications
+Bihar (45), Jharkhand (32) whereas states showing low PTR were Himachal 
+Pradesh, Jammu and Kashmir and Punjab (below 16). 
+To sum up, the above brief review helps to bring out that (i) the existing 
+social infrastructure in India is weak and inadequate, and (ii) wide disparities 
+prevail between different states.  
+Health Infrastructure 
+The availability of health infrastructure shows the status of health sector in 
+the country. The total sub-centres per million population in rural India was 
+179. The states showing higher number of Sub-centres were Kerala (458), 
+Jammu and Kashmir (325) whereas states showing lowest Sub-centre per 
+million population were Bihar (95), Jharkhand (138) (Refer Table 4 in 
+Appendix 24.1). 
+The primary health centre (PHC) per million population in India is 28. The 
+state showing the highest number of PHCs were Himachal Pradesh (89) 
+followed by Kerala (72) whereas states showing least number were 
+Jharkhand (11) and Bihar (18). The availability of doctors in PHCs per 
+million population was 34 in India and a large variation was found among 
+states. States having the highest number of doctors was Kerala (130) 
+followed by Jammu and Kashmir (99) and states having lowest were 
+Jharkhand (12) and West Bengal (13). The Auxiliary Nurse Midwife (ANM) 
+particularly in rural areas plays important role in facilitating health services 
+as well as imparting general health awareness. The number of ANM per 
+million population in India was 266 and states having the highest number of 
+ANM were Kerala (638) followed by Andhra Pradesh (343). States showing 
+the lowest number of ANM per million population were Uttar Pradesh (169) 
+followed by Madhya Pradesh (201).  
+24.6.2  Physical Infrastructure  
+The physical infrastructure includes transport, communication, electricity etc. 
+As observed earlier in Unit-4, India suffers from inadequate availability of 
+physical infrastructure, as measured by any accepted indicators.  Not only is 
+infrastructure inadequate and weak, it varies from state to state, and even 
+within each state from district to district.  
+The per capita consumption of electricity is one of the important indicators of 
+development. In 2018, the per capita electricity consumption for India was 
+1181 kWh, which is quite low when compared with many countries like 
+Canada kwh 15438 kWh, USA 13098 kWh, Saudi Arabia 10239 kWh.  The 
+per capita electricity consumption by states, shows a huge disparity between 
+the various states. The developed states like Gujarat (2378 kWh), Haryana 
+(2082 kWh), Punjab (2046 kWh) show the highest per capita consumption of 
+electricity. The states like Bihar (311 kWh), Assam (341 kWh) show the 
+lowest consumption. The ratio of consumption of electricity between Gujarat 
+and Bihar was more than 7 times.
+
+### Definitions
+- **Human**: The definition of Human as described in the text. ⭐ (exam-important)
+
+### Mechanisms / Processes
+1. Step 1
+2. Step 2
+
+### Examples
+**Example: Human**
+Example details.
+
+### ⚠️ Common Mistakes
+- ❌ Mistake: Misunderstanding Human → ✅ Correct: Understanding it properly.
+
+> **Quick Recall:**
+> - Key fact about Human
+
+### Connections
+- Builds on: Previous topics
+
+## Section: Causes 🔴
+
+### Core Idea
+--- Page 89 ---
+ 
+ 
+185 
+Regional Disparity in 
+India: Policy 
+Implications
+Bihar (45), Jharkhand (32) whereas states showing low PTR were Himachal 
+Pradesh, Jammu and Kashmir and Punjab (below 16). 
+To sum up, the above brief review helps to bring out that (i) the existing 
+social infrastructure in India is weak and inadequate, and (ii) wide disparities 
+prevail between different states.  
+Health Infrastructure 
+The availability of health infrastructure shows the status of health sector in 
+the country. The total sub-centres per million population in rural India was 
+179. The states showing higher number of Sub-centres were Kerala (458), 
+Jammu and Kashmir (325) whereas states showing lowest Sub-centre per 
+million population were Bihar (95), Jharkhand (138) (Refer Table 4 in 
+Appendix 24.1). 
+The primary health centre (PHC) per million population in India is 28. The 
+state showing the highest number of PHCs were Himachal Pradesh (89) 
+followed by Kerala (72) whereas states showing least number were 
+Jharkhand (11) and Bihar (18). The availability of doctors in PHCs per 
+million population was 34 in India and a large variation was found among 
+states. States having the highest number of doctors was Kerala (130) 
+followed by Jammu and Kashmir (99) and states having lowest were 
+Jharkhand (12) and West Bengal (13). The Auxiliary Nurse Midwife (ANM) 
+particularly in rural areas plays important role in facilitating health services 
+as well as imparting general health awareness. The number of ANM per 
+million population in India was 266 and states having the highest number of 
+ANM were Kerala (638) followed by Andhra Pradesh (343). States showing 
+the lowest number of ANM per million population were Uttar Pradesh (169) 
+followed by Madhya Pradesh (201).  
+24.6.2  Physical Infrastructure  
+The physical infrastructure includes transport, communication, electricity etc. 
+As observed earlier in Unit-4, India suffers from inadequate availability of 
+physical infrastructure, as measured by any accepted indicators.  Not only is 
+infrastructure inadequate and weak, it varies from state to state, and even 
+within each state from district to district.  
+The per capita consumption of electricity is one of the important indicators of 
+development. In 2018, the per capita electricity consumption for India was 
+1181 kWh, which is quite low when compared with many countries like 
+Canada kwh 15438 kWh, USA 13098 kWh, Saudi Arabia 10239 kWh.  The 
+per capita electricity consumption by states, shows a huge disparity between 
+the various states. The developed states like Gujarat (2378 kWh), Haryana 
+(2082 kWh), Punjab (2046 kWh) show the highest per capita consumption of 
+electricity. The states like Bihar (311 kWh), Assam (341 kWh) show the 
+lowest consumption. The ratio of consumption of electricity between Gujarat 
+and Bihar was more than 7 times.
+
+> **In Simple Terms:** This section explains Causes in a simple manner.
+
+### Key Concepts
+#### Causes Concept
+--- Page 90 ---
+ 
+ 
+186 
+Major Issues 
+Confronting Indian 
+Economy 
+ 
+Fig. 24.6: Per Capita Electricity Consumption, 2018-19 
+Source: Electricity Authority of India 
+Check Your Progress 2 
+1) Name the states where agriculture sector’s contribution in GSDP have 
+declined since 1980-81. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+2) What are implications of relatively lower decline in the share of 
+agricultural sector’s  workforce to total workforce of a state relative to 
+the decline in the share of agriculture  sector SDP in that states GSDP? 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+2378
+2082
+2046
+1961
+1896
+1866
+1628
+1548
+1480
+1467
+1424
+1418
+1396
+1322
+1282
+1084
+938
+757
+703
+606
+341
+311
+1181
+0 500 1000 1500 2000 2500
+Gujarat
+Haryana
+Punjab
+Chhattisgarh
+Telangana
+Tamil Nadu
+Odisha
+Delhi
+Andhra Pradesh
+Uttarakhand
+Maharashtra
+Himachal Pradesh
+Karnataka
+Jammu & Kashmir
+Rajasthan
+Madhya Pradesh
+Jharkhand
+Kerala
+West Bengal
+Uttar Pradesh
+Assam
+Bihar
+India
+
+### Definitions
+- **Causes**: The definition of Causes as described in the text. ⭐ (exam-important)
+
+### Mechanisms / Processes
+1. Step 1
+2. Step 2
+
+### Examples
+**Example: Causes**
+Example details.
+
+### ⚠️ Common Mistakes
+- ❌ Mistake: Misunderstanding Causes → ✅ Correct: Understanding it properly.
+
+> **Quick Recall:**
+> - Key fact about Causes
+
+### Connections
+- Builds on: Previous topics
+

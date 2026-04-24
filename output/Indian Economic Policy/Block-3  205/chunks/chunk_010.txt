@@ -1,0 +1,508 @@
+--- Page 87 ---
+86
+Monetary and Fiscal Policies Constitution. It, however, did not make specific recommendations affecting the
+Centre-State financial flows on all of them. The highlights of its recommendations
+were as follows.
+Its first major recommendation was to raise the share of States as a whole in the
+net tax revenues substantially. This can be seen with reference to the earlier
+Finance Commissions’ recommendations provided in Table 12.2.
+Table 12.2: States’ Share in Divisible Pool of Central taxes
+States Share in the Net Proceeds of
+Finance Commission Income Union Excise All Shareable
+Tax (%)  Duties (%) Union Taxes (%)
+FC-1 (1952-57) 55 40  
+FC-2 (1957-62) 60 25  
+FC-3 (1962-66) 66.66 20  
+FC-4 (1966-69) 75 20  
+FC-5 (1969-74) 75 20  
+FC-6 (1974-79) 80 20  
+FC-7 (1979-84) 85 40  
+FC-8 (1984-89) 85 45  
+FC-9-I (1989-90) 85 40  
+FC-9-II (1990-95) 85 45  
+FC-10 (1995-00) 77.5 47.5  
+FC-11 (2000-05)   29 .5
+FC-12 (2005-10)   30 .5
+FC-13 (2010-15)   32
+F
+C-14 (2015-20)   42
+Before the 11th Finance Commission, Finance Commissions could recommend
+devolution with respect to two taxes only: income tax (after 1961, personal income
+tax only) was shareable as per the Constitution while Union excise duty was
+shareable if the Parliament so desired (it passed a resolution to share the tax).
+The 10
+th Finance Commission recommended a change in the system to sharing
+of all taxes, which was then made feasible with the necessary constitutional
+amendment; this was implemented with the awards of the 11
+th Finance
+Commission onwards. It may be noticed that there is a significant jump in the
+States’ share recommended by the 14
+th Finance Commission. While this was
+extensively analysed by commentators, it actually signified a much smaller
+increase, the rest of it being a compensatory one for the discontinuation of Plan
+grants and the 14
+th Finance Commission consciously avoiding certain types of
+grants awarded by several previous Finance Commissions. This latter observation
+actually constitutes the second highlight of the14
+th Finance Commission awards.
+All the recent Finance Commissions had recommended conditional or specific-
+purpose grants, apart from the constitutionally ordained revenue deficit grants,
+those for local bodies, and for disaster relief/preparedness. In contrast, the 14
+th
+
+
+--- Page 88 ---
+87
+Major Development on Union
+State Relations
+Finance Commission took the position that other agencies with adequate domain
+expertise should be tasked with the responsibility of recommending specific
+purpose, or scheme specific grants. In the process, the transfers recommended
+by it were overwhelmingly unconditional, enhancing the autonomy of the States
+to decide the uses of the funds received.
+The third highlight related to the use of population data. Several Finance
+Commissions preceding the 14
+th had used population data for the year 1971 for
+scaling purposes as also when population was directly used as a determinant of
+the transfers, as required by their ToR. This in turn was the result of a resolution
+of the Parliament. The basic idea was to provide an implicit incentive to States
+with lower growth of population as compared to the others, or rewarding
+successful control of population growth. However, its ToR marked a departure
+from the past several Finance Commissions; while the 14
+th Finance Commission
+was asked to continue with the 1971 population as the basic number, the ToR
+specified that it may consider ‘demographic changes’ post-1971 also. Accordingly,
+the 14
+th Commission used a variable termed ‘demographic changes’ (post-1971)
+in their suggested formula to determine tax devolution. Table 12.3 provides the
+determinants used by a few recent Finance Commissions to provide a context
+and comparison.
+Table 12.3: Components and Weights used in Tax Devolution Formulae
+Component FC 11 FC 12 FC 13 FC 14
+Income Distance/Fiscal Capacity 62.5% 50.0% 47.5% 50.0%
+Population-1971 10.0% 25.0% 25.0% 17.5%
+Area 7.5% 10.0% 10.0% 15.0%
+Index of infrastructure 7.5% - - -
+Tax Effort 5.0% 7.5% * -
+Fiscal Discipline 7.5% 7.5% 17.5% -
+Demographic Change (2011 population) - - - 10.0%
+Forest Cover - - - 7.5%
+* Included in fiscal discipline
+It can be seen that the formula for determination of the shares of individual
+States in tax devolution recommended by the 14
+th Finance Commission was
+different in two other respects. One, it did not include a traditional fiscal discipline/
+tax effort variable – justified as providing the appropriate fiscal incentive – in its
+list of determinants on the ground that the already operational Fiscal
+Responsibility and Budget Management (FRBM) Acts of different States, and
+the incentives provided to the States to stay within the parameters defined by the
+Acts obviated the need for any further incentive. Two, it introduced a new
+determinant for the first time – the share of a State in total forest cover – in
+response to one clause of the ToR that stressed “the need to balance management
+of ecology, environment and climate change consistent with sustainable economic
+development”.
+The fourth and final highlight related to a small variation permitted in the
+normative fiscal deficit level recommended for compliance with FRBM Act.
+
+
+--- Page 89 ---
+88
+Monetary and Fiscal Policies The two primary targets of FRBM legislations as recommended by preceding
+Finance Commissions were zero revenue deficit or a revenue surplus, and a
+maximum fiscal deficit of 3 per cent of Gross State Domestic Product (GSDP).
+The 14
+th Finance Commission allowed a maximum of 0.5 per cent of GSDP as
+additional fiscal deficit provided the concerned State had:
+a) Revenue deficit = 0;
+b) Debt-GSDP ratio = 25%;
+c) Interest payments = 10% of revenue receipts.
+To avail of any additional fiscal deficit limit, a State had to fulfil the condition
+(a). Fulfilling conditions (b) and (c) entitled a State to 0.25 per cent additional
+fiscal deficit limit for each, available separately and simultaneously (if both the
+conditions were fulfilled). Thus, instead of a uniform prescription of 3 per cent
+fiscal deficit, States had three possible levels of fiscal deficit– 3 per cent, 3.25
+per cent and 3.5 per cent, depending on their fulfilling conditions (a), (b), and
+(c). This partially met the critique of the uniform 3 per cent ceiling as a ‘one size
+fits all’ approach unsuitable for a large and diverse nation like India, where
+individual States had different investment needs and their financing requirements
+through borrowing.
+The 15
+th Finance Commission was appointed in November 2017, and initially
+asked to submit its report by October 2019, as its award period was to begin
+from the fiscal year 2020-21. As has become customary, its ToR (see Appendix
+12.2) contains several issues over and above the basic constitutionally mandated
+tasks. Of course, it is not necessary for the Commission to make recommendations
+on every item of the ToR– it was determined long ago by the Sixth Finance
+Commission that Finance Commissions were not bound by the ToR. However,
+they must give due consideration to each item of the ToR, and build in whatever
+considerations they feel appropriate into their recommendations. Also, an
+important change in the ToR that generated some controversy was a shift to the
+2011 population (as opposed to the 1971 population) as the basic population
+data for each State. States with relatively greater success in controlling their
+population felt it to be a disincentive for containing population growth.
+First because of the additional ToR to consider and suggest a dedicated financing
+mechanism for defence and internal security, and then because of the change in
+the status of the State of Jammu and Kashmir into two Union Territories, the
+Commission needed and was given a one-year extension. It provided a small
+first report in 2019, applicable to the fiscal year 2020-21 only. The first report
+marginally modified the share of the States in the net tax revenue of the Union to
+41 per cent (Jammu & Kashmir was not covered any more), and also made some
+small changes in the tax devolution formula (the main one being the reintroduction
+of tax effort as a determinant with a small weight, and use of a variable
+representing Total fertility rate of a State as per 2011 Census data along with
+population as per 2011 Census). Its full report is expected in October 2020, but
+the outbreak of the COVID-19 pandemic, and its impact on the finances of the
+States and the Union, would require reconsideration of its entire approach and
+resultant computations. Moreover, the Commission has been asked to provide
+its recommendations for five more years till 2025-26, making it the only Finance
+Commission so far with its award period covering a total of six years instead of
+the customary five.
+
+
+--- Page 90 ---
+89
+Major Development on Union
+State Relations
+Check Your Progress 2
+1) What is the (Union) Finance Commission? How is it distinct from State
+Finance Commission?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) What is the basis for the recommendation of the tax devolution and grants
+made by the Finance Commission?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) Discuss the role of GST Council in management and administration of GST
+jointly levied by the Centre and States.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+4) State the highlights of the recommendations of 14
+th Finance Commission.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+12.5 TRENDS AND ISSUES IN FISCAL
+FEDERALISM IN INDIA
+12.5.1 Centralisation and Vertical Imbalance
+Federalism in India has been evolving over time, with the broad structure given
+by the Constitution proving to be durable. However, the fiscal aspect of it has
+struggled to align with the political evolution of India. After independence, the
+country saw a politically dominant central government, with the State
+
+
+--- Page 91 ---
+90
+Monetary and Fiscal Policies governments basically playing the role of followers, primarily a result of most
+State governments dominated by the same political party that was in power at
+the Union level. This political landscape started changing gradually by the ‘sixties,
+and by the mid-seventies, regional parties and others not in power at the centre
+were challenging the political monopoly, often successfully. The political non-
+conformity among the Union and States has now become the norm, and this has
+had implications for fiscal federalism, mainly expressed as the demand from the
+States for financial independence and autonomy. There were, to be sure,
+institutional responses to this development. The Planning Commission, for
+example, shifted from a system of scheme-based discretionary financial support
+system for State Plans, to a substantively formula-driven, block-grant based
+system in 1969 with the introduction of the well-known ‘Gadgil formula’ (later
+modified a little) designed to reduce micro-management of State Plans and
+enhance States’ autonomy. Similarly, several Finance Commissions have also
+tried to reduce vertical imbalance as best as they could. But in general, the Union
+government has not been particularly supportive of greater fiscal – particularly
+revenue – decentralisation, although there have been a few instances of moving
+in the direction of greater State level financial autonomy.
+Independent analysts have branded the system in India as ‘quasi-federalism’
+because of certain centralising features– the primary one being the power of the
+national legislature to redefining State boundaries and change the political status
+of a State. This power has already been exercised a few times. Some other features
+like residuary powers resting with the Union, and the introduction of central
+planning through the creation of Planning Commission by the executive, have
+contributed to this view of a centralised federation. The vertical imbalance in
+revenue raising powers has also been quoted in this context, although most large
+federations are characterised by this feature in varying degrees. Because of the
+persisting need for resources to finance public interventions in a developing India,
+both the central and the State governments are always trying to garner resources
+for themselves, and this takes several forms, one of which is to get (or keep, as
+the case may be) as much as feasible for themselves. It should be noted here that
+the Union has access to additional sources of funds including deficit financing
+that the States do not have, and hence the position of the two levels of governments
+are not symmetrical. The Finance Commissions have generally been sympathetic
+to the plight of the States and have tried to allocate a fair share of resources to
+them. But the Union has tried to thwart these efforts often, as can be deduced
+from the following examples.
+In the early years of independent India, there was only one income tax
+covering both personal and corporate income tax. In 1961, the relevant Act
+was overhauled, and the accounts of the Union split the two income taxes
+into different major heads. This was followed by the position that corporate
+income tax was now a separate tax, and since the Constitution did not ask
+for sharing this and only income tax (interpreted to mean just the personal
+income tax), corporate income tax was not shareable. De facto  additional
+resource mobilisation through personal income tax also decreased following
+this episode until the 10
+th Finance Commission recommended sharing of all
+taxes of the Union.
+A recent example of this tug-of-war for resources is provided by the Union
+government’s reaction to the increased tax devolution recommended by the
+14
+th Finance Commission. While a large part of this increase was actually
+
+
+--- Page 92 ---
+91
+Major Development on Union
+State Relations
+compensatory in nature consequent to abolition of the Plan transfers and
+eschewing sector-specific and scheme-based grants, only the increase was
+highlighted, and was followed by a restructuring of the financing of Centrally
+Sponsored Schemes such that, the additional financing required from the
+States practically wiped off whatever little net benefit the 14
+th Finance
+Commission had provided to the States.
+A third example relates to the rather liberal use of cess and surcharges by
+the Union government in recent years, a trend that is still continuing. Suffice
+it to point out that cess and surcharges are excluded from shareable taxes
+and have increased from about 10 per cent of gross tax revenues of the
+Union to 18.55 per cent between 2011-12 and 2019-20.
+A fourth and final example is about mineral royalties payable to States on
+major minerals10 extracted from within their jurisdiction. Royalty rates are
+statutorily required to be reassessed at given intervals, usually to raise them
+to allow States to share the benefits of rising prices. This feature was really
+important when royalty rates were specific (i.e., fixed amounts per unit of
+output), and the central government delayed revisions in the face of fast-
+rising prices of minerals like iron ore; now that these rates have been changed
+to ad valorem (percentage of value per unit of output), theoretically rate
+revisions should be less of a problem. However, there are still complaints
+from States that because major minerals are largely extracted by central
+public enterprises, the Union government often uses price data for
+determining value of minerals that underestimate true market value.
+As against the above examples, there are some examples of the central government
+accommodating States’ interests too. For instance, in the year 2000, the Union
+changed its usual practice of lending all foreign assistance in the form of debt or
+combination of debt and grants under its common terms for lending to States (at
+that point of time, the rates of interest charged were substantially higher than
+market rates, and an administrative charge was payable in addition) to ‘back-to-
+back’ passing on of such assistance (meaning on the same terms as received
+from the foreign source). This essentially meant that States could take advantage
+of the soft terms attached to such assistance, while they also had to bear the
+exchange risk of foreign-currency denominated loans.
+The centralising tendency is visible on the expenditure side also, but more
+qualitative than quantitative. First, the constitutional provision of the Union
+dominance in the subjects included in the Concurrent List (decisions by the
+Parliament overrule any State legislations in these areas) facilitates centralisation
+by design. This has been expanded with a few cases of constitutional amendment
+moving subjects from State List to the Concurrent List. Centrally Sponsored
+Schemes have been, however, a greater irritant in the context of centre-State
+10 Minerals are divided into three categories from the point of view of financial flows relating to
+them. Crude petroleum is a category by itself; the Union has full jurisdiction on its exploitation
+with only a royalty payable to the concerned State on onshore production (royalty on offshore
+production, as in the case of Bombay High oilfields, is collected by the centre). For major
+minerals like coal, iron ore, bauxite, copper and gypsum, the States have a say in the actual
+exploitation of mines, and also receive a royalty on the value of minerals extracted. In the case
+of minor minerals like earth, stones and sand, the States are given full control over their
+exploitation and royalty collections. The rates of royalty are determined by the Union
+government for petroleum crude and major minerals.
+
+
+--- Page 93 ---
+92
+Monetary and Fiscal Policies financial relations. These are centrally initiated and designed schemes relating
+to subjects in the State domain, funded fully or partially by the Union, the latter
+usually with matching requirements. Resource-starved State governments cannot
+afford refusal to participate, but matching grants distort State priorities by pulling
+in more State resources for the activity supported by the Scheme than would
+otherwise be the case (see Cullis and Jones, 1992, pp. 307-311 for a theoretical
+discussion of the effect of different types of grants on recipient governments’
+expenditure). Administered by central ministries relevant to the coverage of the
+scheme, in the last two decades, grants under these schemes have outweighed
+other types of grants. Apart from limiting State autonomy in practice, these grants
+also modify the regional pattern of equity and the incentive structure built into
+the Finance Commission transfers. To be sure, there is a place for such conditional
+matching grants in a federal system; but it is the quantum of these grants that
+really generate skepticism about their legitimacy in India. These grants have a
+tendency of proliferating and attempts to limit their number and financial flows
+in the past have been defeated by the internal dynamics of the governmental
+processes within the Union government.
+12.5.2   Regional Equity and Horizontal Imbalance
+India is one of the countries with fairly high levels of regional inequality. Though
+regional inequality and horizontal imbalance are not exactly the same as the
+latter refers to the limited context of public finances, there would be a presumption
+that these two would be highly correlated. This is because the poorer regions
+would have a smaller revenue base to exploit and greater need for public
+interventions on account of lower ability of its residents to spend on private
+goods and services. This is certainly the case in India, if we consider expenditure
+needs and revenue potentials of the States rather than the actual receipts and
+expenditures (Sen, 2011). A major objective of the inter-governmental transfers
+is to reduce vertical imbalances, which can then contribute to reduction in regional
+inequalities. Admittedly, the latter is determined by several interrelated factors
+other than the State’s public finances, some of which are within the public policy
+domain. However, the link between development and public policy
+(implementation of most of which requires financial resources) is summarised
+in Figure 12.1.
+Fig. 12.1: Vicious Cycle of Public Interventions for Development
+Source: Reproduced from Sen (2011)
+Poor Initial Conditions
+Low Public Investment
+to Improve Initial
+Conditions
+Low Levels of
+Development
+Low Availability of
+Public Resources
+
+
+--- Page 94 ---
+93
+Major Development on Union
+State Relations
+It is this vicious cycle that the system of fiscal federalism is expected to disrupt;
+unfortunately that has not happened to any appreciable extent. The salient causes
+may be summarised as follows:
+Various elements of public policy have worked at cross purposes. Empirical
+studies have shown that among different channels of fiscal transfers, only
+Finance Commission transfers have been somewhat equalising (inversely
+related to per capita income of individual States). Earlier Plan assistance,
+transfers under Centrally Sponsored and Central Plan Schemes and other
+transfers have no significant relationship with per capita income. Central
+investments in public sector undertakings also have not been progressive,
+nor the major budgetary subsidies of the central government or credit flows
+from the financial institutions (Rao and Sen, 1996). The lack of coordinated
+public policy aiming to reduce regional disparities has thus witnessed a
+widening of the disparities over the years.
+Even the Finance Commission transfers have been less equalising than they
+could have been. Their refusal to consider investment requirements of various
+States – particularly important for low-income States – even after the
+discontinuation of the Planning Commission that was expected to attend to
+this aspect has pushed this consideration out of the agenda for Centre-State
+financial flows, to the detriment of prospects of dynamic equalisation. Even
+when considering revenue deficit grants, the receipts and expenditures are
+estimated using projections on the basis of actual values for a base year and
+not normative estimates (i.e., revenue potential and expenditure need). Since
+actual values of expenditure of low-income States are strongly revenue-
+constrained, this results in underestimating expenditure requirements of these
+States. In contrast, even a high-income high-spending State can qualify for
+grants-in-aid if it does not raise adequate revenues in fact. Even the latest
+report – the First Report of the 15
+th Finance Commission – uses a similar
+methodology, building in perverse incentives and negating equalisation.
+The FRBM Act also constrains developmental effort of low-income States.
+The absolute limit on fiscal deficit (implying a limit on borrowings), makes
+it difficult for low-income States to borrow and invest beyond the prescribed
+limit, even if such a course of action is financially viable and required for
+development purposes.
+Thus, with the design of fiscal federalism not providing resources for accelerating
+the developmental process to the low-income States, they are left to do so with
+the resources they can raise themselves, which are constrained by the smaller
+base compared to other States. Widening disparities is a logical outcome of this
+framework.
+Check Your Progress 3
+1) In what sense India’s fiscal federalism is branded as ‘quasi-fiscal federalism’?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 95 ---
+94
+Monetary and Fiscal Policies 2) Which aspects of public policy have been operating at a cross-purpose?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) Identify the critical issues in fiscal federalism in India.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+12.6 LET US SUM UP
+Federalism refers to a system having more than one level of governance, each
+with some autonomy and decision-making power. Under such a system, the
+powers and responsibilities are distributed among the different layers of the
+Government. The overall responsibilities of the Government are classified into
+three groups– resource allocation, distribution of wealth and income, and
+stabilisation of the economy. The fiscal operations of the Government i.e., revenue
+raising and public expenditures at different levels play a significant role in
+discharging the above responsibilities.
+Apart from the tiers of the Government, the institutional structure relating to
+fiscal federalism in India involves primarily the Finance Commission and GST
+Council at the Central and State level and to a lesser extent the NITI Aayog. The
+Constitution provides for appointment of a Finance Commission every five years
+or earlier with a set of terms of reference. The constitutionally mandated tasks at
+present include inter-alia, sharing of Central tax revenue with States,
+recommending grants-in-aid to individual States to cover revenue deficits for
+onward transmission of local bodies, for meeting natural calamities and for any
+other reason at its discretion. State Finance Commissions are appointed by the
+State Governments to deal with State local Financial relations, mainly fiscal
+transfers from State Governments to the local bodies.
+The 15
+th Finance Commission was appointed in November 2017 and its full report
+is expected by the end of 2020. The commission has been asked to provide its
+recommendation for five more years till 2025-26.
+Centralisation and vertical imbalance, regional inequality and horizontal
+imbalance difficulties being faced by low-income states in borrowing and
+investing beyond the prescribed limits due to FRBM set, widening disparities,
+etc. are issues of concerns with the present design of fiscal federalism.
+
+
+--- Page 96 ---
+95
+Major Development on Union
+State Relations12.7 TERM-END EXERCISES
+1) State in brief the principles of Federal finance. How far these principles
+have been adhered to the Centre-State financial relations in India?
+2) What is Finance Commission? How is it different from NITI Aayog and
+GST Council? Evaluate the recommendations of 14th Finance Commission.
+3) “The question of Centre-State relations has become the focal point of
+discussion for a number of reasons”. Comment on this statement and point
+out the reasons for conflict between Center and State.
+12.8 KEY WORDS
+Gadgil Formula : A formula of plan assistance to States adopted
+since the Fourth Plan (1969-74) which
+provided that distribution of plan assistance to
+the States should take five elements into
+account. This is named after Professor D.R.
+Gadgil, the then Vice-Chairman of the Planning
+Commission.
+Gap-filling Approach : Assistance to States for rectifying imbalances
+—vertical or horizontal— is essentially in the
+nature of a device to bridge a budgetary gap.
+However, the phrase ‘gap-filling approach’
+epitomises the practice of Finance
+Commissions of recommending grants-in-aid
+to States on the basis of estimated gap between
+forecasted expenditure and receipts (inclusive
+of tax shares) on revenue account.
+Horizontal Imbalance, i.e., : The imbalance between the expenditure
+Horizontal Federal Fiscal requirements and own revenues of different
+Imbalance constituents units of a federation mainly on
+account of differences in fiscal capacities
+arising out of regional economic disparities.
+Rectifying horizontal imbalance means
+promoting regional equalisation.
+Inter-State Council : In 1990, the Government took the step of
+invoking the constitutional provision (Article
+263) and forming an Inter-State Council
+charged with the duty of: “(a) inquiring into
+and advising upon disputes which may have
+arisen between States; (b) investigating and
+discussing subjects in which some or all of the
+States or the Union and one or more of the
+States, have a common interest; or (c) making
+recommendations upon any such subject”.
+Statutory Transfer : Transfer of resources form Centre to States
+under tax devolution and Article 275 grants-
+in-aid at the recommendations of the Finance
+Commission.

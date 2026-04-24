@@ -1,0 +1,503 @@
+--- Page 10 ---
+9
+Inflation and Monetary
+PolicyUNIT 9 INFLATION AND MONETARY
+POLICY
+Structure
+9.0 Objectives
+9.1 Introduction
+9.2 Money
+9.2.1 What is Money?
+9.2.2 How Do We Measure Money?
+9.3 Inflation
+9.3.1 What is Inflation?
+9.3.2 Inflation Measurement in India
+9.3.3 Costs of Inflation
+9.4 Money and Prices
+9.4.1 Theoretical Perspectives on Money and Prices
+9.4.2 Causes of Inflation
+9.5 Monetary Policy in India
+9.5.1 Objectives of Monetary Policy in India
+9.5.2 Instruments of Monetary Policy in India
+9.5.3 Monetary Policy Transmission
+9.5.4 Evolution of Monetary Policy in India
+9.5.5 Inflation Targeting Framework
+9.6 Let Us Sum Up
+9.7 Term-end Exercises
+9.8 Key Words
+9.9 References
+9.10 Answers or Hints to Check Your Progress Exercises
+9.0 OBJECTIVES
+The purpose of this unit is to develop among learners an understanding of the
+framework and operating procedure of the monetary policy in India. After going
+through this unit, you will be able to:
+explain what money is and what inflation means and how money affects
+inflation;
+discuss what the instruments of monetary policy are;
+appreciate the evolution of monetary policy in India; and
+state the Inflation Targeting Framework in India.
+9.1 INTRODUCTION
+In this unit, we would be discussing inflation and monetary policy in India.
+Inflation is an economic issue that is a common topic of discussion for the public
+
+
+--- Page 11 ---
+10
+Monetary and Fiscal Policies as well as policymakers and researchers alike. It is an economic phenomenon
+that has a realisable impact on the daily lives of every citizen. You must have
+often heard your grandparents narrating stories about how, during their childhood,
+they were able to buy things for very small amounts of money compared to the
+present. They might remark that money has lost its value. Inflation, simply put,
+refers to the rate of increase in the prices of commodities during a given period.
+With a positive level of inflation, you are able to buy lesser amounts of goods
+and services using the same amount of money. Therefore, before we discuss
+inflation, it is important to understand what money is and how it affects the
+prices in the economy. We also discuss the monetary policy framework in India
+and see how it has evolved over the years, in sync with the requirements of the
+evolving economy.
+9.2 MONEY
+9.2.1 What is Money?
+Money is something that we encounter in our daily lives. Despite this, it may be
+difficult for someone to define what money is or how it functions. Money is
+defined as anything that is generally acceptable as a medium of payment.
+Essentially, money serves three purposes:
+It acts as a store of value: Money can be a means to save a person’s
+endowments, including labour, and used later for transactions. That is, income
+or wealth of individuals can be kept in the form of money and used for
+transactions in the future. It allows purchasing power to be taken forward
+from present to future. Thus, money acts as a store of value.
+It acts as a unit of account:  Money acts as a common denominator on
+which all prices are measured. The value of goods and services exchanged
+in the economy is measured in terms of money.
+It acts as a medium of exchange: Since money has the above two features,
+it is generally acceptable as a means of payment for exchange of goods and
+services. Without money, any exchange in the economy would require a
+double coincidence of wants. That is, a transaction would take place only if
+both parties in the transaction had something that the other needed. With a
+generally acceptable means of payment, the need for double coincidence of
+wants is obviated by separating the transaction into two parts. First, the two
+parties engage in a transaction where one party gives money in exchange
+for the good or service he or she needs. In the second part of the transaction,
+the recipient of money in the first transaction uses the money to buy the
+goods or services that he or she requires.
+Historically, many items have been used as money. Items with intrinsic value
+such as gold and silver were a form of money used for transactions in some
+societies. This form of money is called commodity money. Different societies
+have used everything from salt and grain to stones and precious metals as money
+at different points of time in history. Even in modern societies, commodities are
+known to have been used as a generally accepted means of payment. An interesting
+and often quoted example of commodity money is the use of cigarettes for
+transactions in Nazi prisoner of war camps during the second World War. The
+prevalent form of modern money is fiat money. Fiat money has no intrinsic value.
+
+
+--- Page 12 ---
+11
+Inflation and Monetary
+Policy
+Its value is derived from a government order or a fiat.  The coins and currency
+notes that we use in our daily lives are examples of fiat money.
+9.2.2 How Do We Measure Money?
+Any measure of the quantity of money should include the quantity of assets used
+in the economy for transactions. Currency notes and coins are obvious candidates
+for money. In addition to these, chequeable deposits may also be considered part
+of the money supply. In this manner, you may think of many other assets that
+could be considered for inclusion in the measure for money supply. It must
+therefore be clear to you that while defining money is a theoretical or conceptual
+matter, measuring money supply is an empirical question. RBI has the following
+measures of money supply:
+Reserve Money (M0)= Currency in circulation + Bankers’ deposits with the RBI
++ ‘Other’ deposits with the RBI
+Narrow Money (M1) = Currency with the public + Demand deposits with the
+  banking system + ‘Other’ deposits with the RBI
+M2 = M1 + Savings deposits of post office savings banks
+Broad Money (M3) = M1+ Time deposits with the banking system
+M4 = M3 + All deposits with post office savings banks (excluding National
+Savings Certificates)
+‘Other’ deposits with the RBI include deposits from foreign central banks,
+multilateral institutions, financial institutions and sundry deposits net of IMF
+Account No.1.
+9.3 INFLATION
+9.3.1 What is Inflation?
+As you know, the price of a commodity refers to the amount of money you give
+in exchange for buying a unit of that commodity. The general price level refers
+to a measure of the overall price level in an economy. Inflation is the rate of
+increase in the general price level over a period of time. However, it is not
+straightforward to arrive at such a general price level, as in reality, such a measure
+does not exist. What we can do, at best, is to construct a measure that could be
+considered to represent this hypothetical value. To arrive at a single measure for
+the overall prices in the economy, we often look at a weighted average price of a
+basket of goods and services consumed by a representative consumer in the
+economy. This is achieved through the construction of a price index, which is a
+weighted average of price relatives of goods and services in a representative
+consumption basket. The changes in the price index over a given period reflect
+the changes in the prices of the goods and services in the consumption basket
+and therefore their growth rates are used as a measure of inflation.
+9.3.2 Inflation Measurement in India
+In India, two major types of price indices are used for calculation of inflation.
+These are the Consumer Price Index (CPI) and the Wholesale Price Index (WPI).
+As the name suggests, CPI reflects the average retail price level as faced by the
+consumers. There are four measures of CPI in India. CPI (Rural, Urban and
+
+
+--- Page 13 ---
+12
+Monetary and Fiscal Policies Combined), CPI (Industrial Workers), CPI (Rural Labourers) and CPI
+(Agricultural Labourers). Table 9.1 gives more details about the price indices
+used in India. Out of these, the most important one is CPI-Combined, being used
+for monetary policy purposes. CPI, separately for rural and urban areas, have
+been estimated for a longer duration in India.The base year for CPI (Industrial
+Workers) was recently updated to 2016 from the earlier base of 2001. On the
+other hand, WPI reflects the price level for the first point of wholesale or bulk
+transactions. In India, WPI is taken as a proxy for producers prices (i.e. prices
+faced by producers), which unlike other countries are not estimated.  The current
+WPI series has a base year of 2011-12. It is also calculated based on Laspeyres
+price index formula.
+Table 9.1: Different Price Indices in India
+Name of the Index Base Year Organisation Compiling the Index
+CPI (Rural, Urban and 2012 National Statistical Office
+Combined)
+CPI (Industrial Workers) 2016 Labour Bureau
+CPI (Agricultural Labourers) 1986-87 Labour Bureau
+CPI (Rural Labourers) 1986-87 Labour Bureau
+WPI 2011-12 Office of Economic Adviser,
+Department for Promotion of
+Industry and Internal Trade
+9.3.3 Costs of Inflation
+Inflation is generally thought of as imposing hardships on the citizens. High
+inflation is thought to make goods and services unaffordable. However, if incomes
+rise at a rate that is at least as much as the rate of inflation, the goods and services
+would continue to remain affordable.  However, there may be other, not so
+obvious, economic costs of inflation. One cost associated with high inflation is
+one that arises from the fact that people may choose to hold lower cash with
+themselves and keep a larger amount in the banks as deposits. This would mean
+frequent visits to the bank to withdraw money for their daily transactions. The
+inconvenience of frequently visiting the bank is dubbed as shoe-leather cost of
+inflation. With input prices frequently changing during a high inflation scenario,
+firms have to change the prices of their products frequently. The cost associated
+with frequently changing the posted prices is called the menu cost of inflation.
+As such, if frequent price changes are not synchronised, it may lead to the
+introduction of relative price distortions leading to inefficient allocation of
+resources in the economy. High inflation also introduces uncertainty into economic
+decisions. Firms and households may find it difficult to differentiate between
+relative and general price changes. Further, high inflation may lead to undesirable
+redistribution of income in the economy. Low-income households are usually
+dependent on wage payments and cash holdings for their day-to-day transactions.
+During a case of high inflation, cash holdings lose their real values quickly. If
+wages are not indexed to inflation, as may be the case in the informal sector, it
+may take a while before wages respond to increased prices. On the other hand,
+richer households which hold wealth in non-cash assets would not be affected as
+much. This means that high levels of inflation may widen the gap between the
+rich and the poor in the economy.
+
+
+--- Page 14 ---
+13
+Inflation and Monetary
+Policy9.4 MONEY AND PRICES
+9.4.1 Theoretical Perspectives on Money and Prices
+Depending on the school of thought followed, the theory of how money supply
+affects prices and other economic variables varies. In the classical perspective,
+the price level was determined by the quantity of money in the economy. This
+view, called the Quantity Theory of Money , which was later revived by the
+Monetarist school, has been a dominant explanation for the relationship between
+money and prices. We can express this in the form of the equation of exchange:
+M × V = P × Y
+Where, M is the quantity of money, V is the income velocity of money – the
+number of times a rupee is used in transactions, that is the number of times on an
+average a rupee changes hand, P is the price level and Y is the output produced in
+the economy. Output being supply determined in the Classical view and the
+velocity of money determined by payment technology and institutional factors,
+being unchanged in the short-run, this identity says that an increase in the quantity
+of money would lead to a proportionate increase in the prices. Thus, with these
+assumptions, the equation of exchange translates into the quantity theory of
+money, explaining that the price level is determined by the quantity of money.
+The equation of exchange can be represented in terms of growth rates by taking
+logs on both sides and differentiating with respect to time. We get,
+Which is nothing but,
+Growth rate of money supply + Growth rate of velocity of money =
+Inflation + Growth rate of output
+Rearranging, we get,
+Inflation = Growth rate of money supply + Growth rate of velocity of money –
+Growth rate of output
+With a stable velocity of money, growth in it is zero. Output is dependent on the
+factors of production. It is then straightforward that in the quantity theory of
+money, the inflation level is under the ultimate control of the monetary authority
+through the control on the quantity of money. The monetary authority can vary
+the inflation rate under this framework by varying the growth rate of money.
+In the Keynesian perspective, money affects income via interest rates. An increase
+in money supply lowers the interest rate and stimulates aggregate demand and
+income.  In an economy with excess capacity, higher aggregate demand should
+only lead to use of the earlier unused capacity in the economy and therefore
+should not lead to inflation.
+In the late 1950s-60s, the Phillips Curve relationship came into the limelight,
+which provided a link between inflation and unemployment. According to this
+relationship, in the short-run there is a tradeoff between inflation and
+unemployment: an economy could achieve a lower unemployment rate by
+1
+�
+��
+�� + 1
+�
+��
+�� = 1
+�
+��
+�� + 1
+�
+��
+��  
+
+
+--- Page 15 ---
+14
+Monetary and Fiscal Policies stimulating demand in the economy at least in the short-run if it was willing to
+tolerate a higher level of inflation. In the long-run, however, this relationship is
+expected to breakdown as workers would want their wages adjusted to the higher
+rates of inflation and therefore, as a consequence, unemployment again rising.
+9.4.2 Causes of Inflation
+As we have seen above, the quantity of money is an important determinant of the
+level of inflation in the economy. The monetarist, Milton Friedman stated,
+“Inflation is always and everywhere a monetary phenomenon.” There is
+considerable agreement that, in the long-run money supply growth can be seen
+as a major determinant of inflation. In the short-run, however, fluctuations in the
+demand and supply conditions can have a major impact on the movement in the
+level of prices. Higher government spending, for example, can raise the level of
+aggregate demand in the economy and therefore put upward pressure on prices.
+This is an example of ‘demand-pull’ inflation. Another cause of inflation is
+increase in the costs of production due to increases in the costs of raw materials
+and other inputs. This is called ‘cost-push’ inflation. Sudden changes in supply
+conditions can alter the level of prices of the commodities concerned. You might
+have observed that years with deficient rainfall, prices of agricultural commodities
+witness sharp spikes. Insufficient rainfall affects production of agricultural
+commodities and therefore may lead to shortfall in the supply of these
+commodities, thus affecting the prices. These supply side factors are not generally
+expected to be affected by monetary policy.
+For economic analysis, overall inflation (also called headline inflation) is usually
+divided into a “Core” part and a non-core part. Core inflation refers to that
+component of inflation that is long-term in nature. That is, Core inflation is
+calculated by separating out the volatile components of inflation that cause
+fluctuations in the short-term. These, in the context of a developing economy
+like ours, are usually components like food items that depend on seasonal and
+weather factors to determine their supply or fuel items that may be influenced by
+supply side shocks in the international markets. One would expect Core inflation
+to be more responsive to monetary policy than non-core inflation.
+Check Your Progress 1
+1) Consider an economy with a constant velocity of money. Money supply
+grows by 10 per cent per year and real income grows by 5 per cent per year.
+As per the Quantity Theory of Money that you have learnt above, what is
+the average rate of inflation?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Download the yearly data on M3 (from average monetary aggregates) and
+nominal GDP of India (GDP at current prices) for years 2004-05 onwards
+from RBI’s Database on Indian Economy (https://dbie.rbi.org.in/).  Now
+for each year, calculate the velocity of money by dividing the nominal GDP
+
+
+--- Page 16 ---
+15
+Inflation and Monetary
+Policy
+for each year by the corresponding M3 number.  Plot this as a line chart for
+these years. What trend do you observe in the velocity of money? What do
+you think are the reasons for the observed trend? What do you think would
+be the effect of greater number of digital transactions on the velocity of
+money?
+9.5 MONETARY POLICY IN INDIA
+9.5.1 Objectives of Monetary Policy in India
+As the monetary authority of the country, the Reserve Bank of India formulates,
+implements,and monitors the monetary policy of the country. As per the Preamble
+of the Reserve Bank of India Act 1934, the primary objective of monetary policy
+is to maintain price stability while keeping in mind the objective of growth. This
+is a direct consequence of its mandated function to “regulate the issue of Bank
+notes and keeping of reserves with a view to securing monetary stability in India
+and generally to operate the currency and credit system of the country to its
+advantage”. As we have seen, maintaining price stability is crucially dependent
+on the money supply in the economy. A high level of inflation may have an
+adverse effect on growth. Therefore, the objective is to maintain a low and stable
+level of inflation in the economy. Further, achieving high growth in the economy
+requires that credit flows to the most productive sectors of the economy.
+9.5.2 Instruments of Monetary Policy in India
+As the monetary policy framework has evolved over the years, the operating
+procedure of RBI’s monetary policy has also evolved. RBI relies on a set of
+direct as well as indirect policy instruments to conduct its monetary policy. During
+the initial years, the focus of RBI was to regulate the demand and supply of
+credit through bank rate, reserve requirements and Open Market Operations.
+As we have seen earlier, the need to finance government deficit dominated the
+monetary policy actions during the period between the 1950s and 1970s. Selective
+credit control mechanisms were used to channel credit to priority sectors. Between
+1970 and 1990, the Statutory Liquidity Ratio (SLR), the share of net demand
+and time liabilities (NDTL) that a bank is required to maintain in safe and liquid
+assets, such as, unencumbered government securities, cash and gold, was
+increased several times. Within the period of 1980’s, with a view to regulating
+liquidity and to provide resources for vital public sector investment within the
+framework of national priorities without generating reserve money, it was decided
+to increase the SLR. During the 1980s, a number of money market instruments
+such as inter-bank participation certificates (IBPCs), certificates of deposit (CDs)
+and Commercial Paper (CP) were also introduced.
+Another important monetary policy instrument during the period was the Cash
+Reserve Ratio (CRR). The Cash Reserve Ratio (CRR) refers to the average daily
+balance that a bank is required to maintain with the RBI as a percentage of its
+Net demand and time liabilities (NDTL) that the RBI may notify from time to
+time in the Gazette of India. If the average daily balance held at RBI by a scheduled
+bank during any fortnight is below the minimum prescribed, the bank shall be
+liable to pay a penal interest on the amount of shortfall. CRR as a monetary
+policy instrument can be used to influence the money supply by the monetary
+
+
+--- Page 17 ---
+16
+Monetary and Fiscal Policies authority. An increase in CRR would lead the banks to have lesser amounts of
+money with them for lending with the same amount of deposits. This would
+reduce the amount of credit created and therefore reduce the money supply through
+the money multiplier process. In the 1980’s the CRR was changed in different
+time periods as one of the important policy measures.
+With liberalisation in the Indian economy and the financial sector reforms, there
+was a shift from direct to indirect, market based policy instruments. In the period
+1990-91, the Narasimham committee had recommended that the CRR should
+continue to be used as an instrument of monetary control. But it was recognised
+that the existing levels were high and needed to be brought down. The year
+1996-97 was significant in many ways in relation to the conduct of monetary
+policy in India. It was the first time the CRR was reduced sharply by 4 percentage
+points within a financial year in the five phases. The CRR was brought down to
+9.5 per cent and SLR to 25 per cent by 1997. The process of deregulation of
+interest rates was also initiated in the early 1990s simplifying the complex
+structure of deposit and lending interest rates.
+Following the Narasimham Committee-II Report (1998), the Interim Liquidity
+Adjustment Facility (ILAF) was introduced in April 1999, to determine the
+corridor for money-market rates. With subsequent revisions, the revised Liquidity
+Adjustment Facility (LAF) was announced in October 2004 and has now emerged
+as the principal operating instrument of monetary policy. The LAF consists of
+overnight as well as term repo auctions. Repurchase agreements, called repo
+(repurchase options) or reverse repo are agreements in which two parties agree
+to sell and repurchase the same security. They are usually used for overnight
+borrowing. Under a repurchase agreement the seller sells specified securities
+with an agreement to repurchase the same at a mutually decided future date and
+price. Similarly, the buyer purchases the securities with an agreement to resell
+the same to the seller on an agreed date at a predetermined price. Such a transaction
+is called a repo when viewed from the perspective of the seller of the securities
+and reverse repo when viewed from the perspective of the buyer of the securities.
+Under the LAF, the repo rate is the rate at which the Reserve Bank provides
+overnight liquidity to banks against the collateral of government and other
+approved securities under the liquidity adjustment facility (LAF). On the other
+hand, the rate at which the Reserve Bank absorbs liquidity, on an overnight basis,
+from banks against the collateral of eligible government securities under the
+LAF is called the reverse repo rate.
+With the LAF, repo rate has become the single independent policy rate. The
+reverse repo rate is placed below the repo rate. Under the LAF, a Marginal
+Standing Facility (MSF) was also instituted. MSF is a facility under which
+scheduled commercial banks can borrow additional amounts of overnight money
+from the RBI at a penal rate of interest. The MSF rate and reverse repo rate
+determine the corridor for the daily movement in the weighted average call money
+rate with the repo rate in the middle of the corridor (Figure 9.1). The LAF operates
+through daily repo and reverse repo auctions thereby setting a corridor for the
+short-term interest rate consistent with the policy objectives.
+In the current monetary operating framework, reliance on direct instruments of
+monetary policy has been reduced and liquidity management in the system is
+carried out through open market operations (OMO) in the form of outright
+purchases/sales of government securities and repo and reverse repo operations
+
+
+--- Page 18 ---
+17
+Inflation and Monetary
+Policy
+under Liquidity Adjustment Facility (LAF). The LAF enables RBI to modulate
+short-term liquidity under varied financial market conditions in order to ensure
+stable conditions in the overnight (call) money market.
+Bank rate is the rate at which RBI is ready to buy or rediscount bills of exchange
+or other commercial papers. The Bank Rate is published under Section 49 of the
+Reserve Bank of India Act, 1934. This rate has been aligned to the MSF rate and,
+therefore, changes automatically as and when the MSF rate changes alongside
+policy repo rate changes.
+Market Stabilisation Scheme (MSS) is an instrument for monetary management
+was introduced in 2004. Surplus liquidity of a more enduring nature arising from
+large capital inflows is absorbed through the sale of short-dated government
+securities and treasury bills. The cash so mobilised is held in a separate
+government account with the Reserve Bank.
+Fig. 9.1: The Liquidity Adjustment Facility Framework
+9.5.3 Monetary Policy Transmission
+Monetary policy transmission is the process through which monetary policy
+affects the ultimate policy target. That is, it is the process through which a change
+in the policy rates by RBI, through changes in lending rates of banks, deposit
+rates, asset prices and economic activities, ultimately affects the inflation rate.
+As such, it is a complex process involving uncertainty in the channel, quantum,
+and timing of impact.
+Monetary policy acts through influencing the cost and availability of credit. A
+change in RBI’s policy rate, through its impact on the short-term interest rates
+and further on rates of longer-term instruments, affects the cost of funds for
+banks. This would affect the rate at which banks would be willing to lend as well
+as the rate that they would be willing to offer their depositors. For example, a
+reduction in the policy rate leads to a lower cost of funds for the banks and
+therefore lower lending rates. This would induce households and businesses to
+avail greater credit from the banks and thus boost the aggregate demand in the
+economy. The higher demand in the economy would put upward pressure on
+wages and prices. Lower interest rates also boost the demand for assets and thus
+increasing their prices. Higher asset prices imply greater wealth for the asset
+owners and therefore may lead to greater spending in the economy, thus again
+boosting the demand and pushing overall prices up. Lower interest rates could
+also impact inflation through the exchange rate channel. Lower interest rates
+imply lower returns for foreign investors and therefore may lead to capital flight
+from the country. This would cause the currency to depreciate. This means that
+imports are much morecostlier now compared to earlier, causing prices to go up.
+The effectiveness of monetary policy essentially depends on the institutional
+framework available for transmitting impulses released by the central bank. It
+ Marginal Standing Facility 
+Repo Rate 
+Reverse Repo Rate  
+Corridor 
+
+
+--- Page 19 ---
+18
+Monetary and Fiscal Policies has been observed that monetary policy transmission in India has been slow and
+generally incomplete. India has a financial system dominated by commercial
+banks. A major part of the total liabilities is in the form of deposits. A large
+number of deposits have maturity over one year meaning that the changes in
+policy rates would only impact new deposits. High NPAs have also impacted the
+profitability and liquidity of the banks affecting the transmission process.
+9.5.4 Evolution of Monetary Policy in India
+The approach to monetary policy has been evolving over the years as per the
+requirements of a dynamic economy since the inception of RBI as the country’s
+central bank in the year 1935. Overall price stability and growth have been the
+broad guiding principles of monetary policy. RBI was nationalised in 1949 and
+Banking Regulation Act was enacted the same year. The latter required the banks
+to maintain a Statutory Liquidity Ratio (SLR) as a percentage of their net time
+and demand liabilities in the form of cash, gold or approved securities (Mohanty,
+2017). During the initial decades after independence of the country, the role of
+RBI was to support the developmental efforts of the government by ensuring
+adequate flow of credit to the priority sectors of the economy. Owing to the
+primacy of public investment in the development policy during this period, there
+was persistent deficit financing. Issuance of ad-hoc treasury bills by the
+government leading to automatic monetisation of deficits, as well as ensuring
+flow of funds from banks through higher SLR were the main modes of financing
+Government deficits. The monetisation of deficits, war with Pakistan in 1971,
+oil price shocks during 1973 and 1979, as well as droughts in 1973 and 1979 led
+to high inflation during the 1970s (Mohanty, 2017). Inflation increased from 10
+per cent in 1972-73 to 25 per cent in 1974-75.
+The Sukhamoy Chakravarty Committee formed in 1982 to assess the working of
+the monetary system, recommended primacy of price stability in monetary policy.
+Chakravarty Committee recommended a monetary targeting framework. Between
+the 1980s and late 1990s, a monetary targeting framework was followed by the
+RBI for monetary policy. Development and price stability continued to be the
+primary objectives of monetary policy. Under this framework, broad money (M3)
+was the intermediate target of monetary policy.
+As you would know, the 1990s was a decade of many broad-based and
+transformative reforms in the Indian economy. Due to the developments and
+reforms in the financial sector, indirect instruments such as interest rates had
+started gaining effectiveness as transmitters of policy signals. Liberalisation in
+the financial markets made money demand unstable. Further, due to the greater
+integration of the Indian economy with the global economy and the ensuing
+inflow of foreign capital made it difficult to completely control the money supply.
+Due to these reasons, RBI shifted to a “Multiple Indicators” approach in 1998-
+99. Under this approach, Monetary policy was formulated based on a wide set of
+variables and more emphasis was put on the rates channel for monetary policy
+(Mohanty, 2011).
+In September 2013, RBI set up an expert committee headed by its then Deputy
+Governor, Dr. Urjit Patel, with a view to strengthen the monetary policy
+framework while among other things, making it transparent and predictable. It
+recommended that inflation should be set as the nominal anchor for monetary
+policy framework and that it should be set as the predominant objective of

@@ -1,0 +1,483 @@
+--- Page 74 ---
+176
+Sector Specific Issues and
+Policies
+the factors which led to the spurt in services sector growth especially in
+post-reform regime;
+policy initiatives and measures taken by the government for the promotion
+and growth of certain major services; and
+constrains and bottlenecks being faced in selected service sectors.
+16.1 INTRODUCTION
+The service or tertiary sector is the third piece of a three-part economy. The first
+economic sector, the primary sector, covers the farming, mining, and agricultural
+business activities in the economy. The secondary sector covers manufacturing
+and business activities that facilitate the production of tangible goods from the
+raw materials produced by the primary sector. The service sector, though classified
+as the third economic sector, is responsible for the largest portion of the global
+economy’s business activity.The sector currently accounts for more than half of
+India’s GDP. This process of tertiarisation (dominance of the tertiary or services
+sector) of the economy has been accompanied by a decline in the share of the
+primary sector (agriculture) and a more or less constant share of the secondary
+(industry) sector over the years.
+However, though the growth of service sector in India is in line with the global
+trends, there are unique characteristics of India’s service sector growth.
+First, the entire decline in the share of agriculture sector in GDP has been
+picked up by the service sector while manufacturing sector’s share has
+remained more or less the same.
+Second, in spite of its growing share in the GDP, there has been a serious
+mismatch between the share of services in GDP and the corresponding share
+of services in total employment.
+Further, it is found that growth pattern in the service sector has not been
+uniform across all services in India.
+This unit, especially focusing on the organised service sector, is designed to
+respond the following questions: (a) what constitutes the service sector (b) what
+is the pattern of growth in India’s service-sector? (c) what are issues – major
+cross-cutting issues as well as sector-specific issues being faced by the organised
+service sector in India? (d) what are the important external and internal barriers
+to trade in different services in India? (e) what policy initiatives have been taken
+by the government to sustain the growth of service sector in the long run?
+16.2 WHAT CONSTITUTES THE SERVICES
+SECTOR?
+The term services sector refers to, at the most aggregate level, a large group of
+activities that include trade, hospitality (hotels, restaurants), transportation,
+communication, entertainment, health, education, public services and so on. Even
+at the aggregate level, the services sector is more heterogeneous than the other
+two sectors, agriculture (primary sector) and industry (secondary sector). Thus,
+if the primary sector involves producing goods directly from natural resources
+(agriculture, fishing, hunting, mining and so on) and secondary sector involves
+
+
+--- Page 75 ---
+177
+Services Sector I: Organised
+Sector - Issues and Policy
+modifying material goods into other more useful products and commodities, then
+the tertiary sector or the services sector includes all activities that do not produce
+or modify material goods.
+In other words, unlike the output of agriculture, mining or manufacturing which
+are material and tangible, the output of the services sector such as teaching,
+cleaning, selling, curing and entertaining have no physical form and therefore
+are immaterial or intangible. Given its nature and heterogeneity, the precise
+definition and identification of the services sector is being debated even today.
+T. P. Hill (1977) provided what constitutes the production of goods and what
+would be services, and thus provides a positive definition of the services sector.
+Hill makes a distinction between ‘services affecting goods’ and ‘services affecting
+persons’ and thus proposes a definition of the services sector “as a change in the
+condition of a person, or of a good belonging to some economic unit, which is
+brought about as the result of the activity of some other economic unit, with the
+prior agreement of the former person or economic unit”.  Alternatively, many
+studies adopt a broader and simpler definition of services on non-transferability
+and non-storability. Other associated characteristics of services that need to be
+noted are that services are heterogeneous and flexible in production and imperfect
+competition is highly relevant for services.
+According to the United Nations System of National Accounts (UNSNA) (1993),
+“Services are not separate entities over which ownership rights can be established.
+They cannot be traded separately from their production. Services are
+heterogeneous outputs produced to order and typically consist of changes in the
+conditions of the consuming units realised by the activities of producers at the
+demand of the consumers. By the time their production is completed they must
+have been provided to the consumers.”
+In India, the National Industrial Classification provides classifications for services.
+At present, the National Industrial Classification 2008 is used (Box 16.1) though
+there are differences between it and the United Nations International Standard
+Industrial Classification (UNISIC), e.g., construction is not a part of the sector
+in India while it is in the UNISIC.
+Box 16.1: Services Included in the Service Sector in the National
+Industrial Classification, 2008
+Wholesale and retail trade; repair of motor vehicles and motorcycles
+Transportation and storage
+Accommodation and food service activities
+Information and communication
+Financial and insurance activities
+Real estate activities
+Professional, scientific, and technical activities
+Administrative and support services
+Public administration and defense; compulsory social security
+Education
+Human health and social work activities
+
+
+--- Page 76 ---
+178
+Sector Specific Issues and
+Policies
+ Arts, entertainment, and recreation
+Other service activities
+Activities of households as employers; undifferentiated goods and services
+producing activities of households for own use
+Activities of extraterritorial organisations and bodies
+Source: Extracted from National Industrial Classification, 2008
+Disaggregated data for many services are not available. Services such as retailing
+and construction are largely in the non-corporate (informal or unorganised) sector,
+there is both misreporting and under-reporting.
+India has a quasi-federal governance structure; some services are under the
+jurisdiction of the central government (Union List), some are under the state
+governments (State List) and the remaining are under the joint administration of
+central and state governments (Concurrent List) (Box 16.2).
+Box 16.2: Jurisdictions in the Service Sector
+Union List
+Telecommunications, postal, broadcasting, financial services (including
+insurance and banking), national highways, mining services
+State List
+Healthcare and related services, real estate services, retail, services
+incidental to agriculture, hunting, and forestry
+Concurrent List
+Professional services, education, printing and publishing, electricity
+Multiple ministries and central government departments regulate services such
+as energy and transport while others like construction and retail do not have
+nodal ministries. Services like telecommunications have one independent
+regulator while others like electricity have state regulators as well. Professional
+bodies regulate professions such as doctors, architects, and accountants.
+16.3 SERVICE SECTOR MEASUREMENT ISSUES
+The main sets of problems with regard to measurement of services sector value
+added are:
+The first set of problems relates to the inability to measure the value of
+output itself. For example, there are services that are not marketed or do not
+have an explicit ‘market value’ such as services that are provided by public
+administration, ownership dwellings, banking and financial services and so
+on. A part of this problem is also the difficulty in obtaining the actual ‘quantity
+of service’ provided.The general method adopted for measuring value added
+in case of such services is the value of wages given to workers in the sector.
+Thus, an increase in either employment or in wages both lead to a
+corresponding increase in value added.
+The second set of problems relate to obtaining the real value of services as
+opposed to the nominal value of services. The absence of appropriate price
+
+
+--- Page 77 ---
+179
+Services Sector I: Organised
+Sector - Issues and Policy
+deflators for many different types of services makes it difficult to arrive at
+the value added in services in real terms. The most popular method used to
+overcome this problem is the method of double deflation, where in the value
+of output and value of inputs are deflated separately by their appropriate
+price indices and the value added for the service is then estimated as the
+difference between the output and inputs.
+  
+The third set of issues is to do with the inability to actually make
+measurements on the ground and hence the use of indicators as proxies for
+the existence and growth of some services.
+Having discussed the three problem areas of services sector measurement in
+general, we now turn to discuss issues specific to India. The main problem with
+regard to estimating services GDP in India emanates from the fact that the
+estimates for GDP are arrived at in seven main categories, each being subdivided
+into subcategories and each of the subcategories in turn being classified further
+into three institutional sectors viz., private sector, public corporate sector and
+the unorganised sector. Each of these three institutional sectors has its own
+characteristics, making collection of data and estimates complicated and complex.
+On the challenges in measurement of services sector in India, Economic Survey
+of 2010- 11 observed that “One of the important challenges faced by the country
+is collection of data on the services sector. The challenge of data collection leads
+to difficulties in compilation of an index for services sector production, non
+representation of many services sectors in the calculation of the wholesale price
+index, limited availability of published data on pricing of services, and limited
+data on trade in services. Even where data are available, they suffer from 14
+deficiencies related to definition, method of collection, suitability for pricing,
+and construction of indices”.
+Check Your Progress 1
+1) Briefly explain the process of tertiarisation in case of Indian Economy.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Briefly discuss the unique characteristics of growth of service sector in India.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 78 ---
+180
+Sector Specific Issues and
+Policies
+3) Briefly explain the issues involved in measuring the value added in some of
+the services sectors in India.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+16.4 PATTERN OF GROWTH IN SERVICES IN
+INDIA
+16.4.1 Structural Change in Indian Economy
+The process of development requires structural change. The structural change of
+an economy takes place mainly along two dimensions: one is the changing sector-
+wise shares in GDP and the second is the changing share of the labour force,
+engaged in each sector. Over a span of past 60 years (1950-51 to 2011-12), the
+share of primary sector in GV A at factor cost measured at constant prices (2004-
+05 prices), in general, and the agriculture, in particular, has come down to one-
+third of what it was initially (i.e., 53.7 per cent in 1950-51 to 16.48 per cent in
+2011-12). Even during 2011-12 to 2019-20 (shares measured with new data
+sources and new methodology for estimation), although the share of commodity
+sectors were slightly inflated but the share of primary sector continued to fall
+from 21.8 per cent in 2011-12 to 16.9 per cent in 2019-20 (1
+st AE) (Economic
+Survey, 2020).The secondary sector of the economy has shown a change at the
+snail’s pace. The share of secondary sector that was 14.35 per cent of GV A in the
+year 1950-51 took a long span of 60 years to grow to 26.11 per cent.  The
+percentage share of tertiary sector in the GV A has grown to 57.41 per cent in
+2011-12 as compared to mere 29.43 per cent in 1950-51. This implies that the
+tertiary sector has been the major beneficiary of the economic reforms.
+16.4.2 Relative Shares of Sub-Sectors of Service GDP
+Major trends in the change in structure of service sector during the entire period
+from 1950-51 to 2011-12 and thereafter are summarised as below:
+Two important service sub-sectors, Trade and Public administration appear
+to remain stable with regard to their contribution to services sector GDP.
+The share of Trade changed from 25 per cent to about 26 per cent. Similarly,
+the share of Public administration changed from 9 per cent to 10 per cent.
+A closer look at trends over the period reveals that trade shows a U-shaped
+pattern with regard to its share in total services GDP; its share first declined
+to about 20 per cent in 1991- 92 before increasing to 27 per cent in 2011-12.
+Similarly, Public administration displays an i
+nverse U-shaped pattern with
+regard to its share in total services GDP. Public administration peaked with
+a share in services GDP of about  14.7 per cent before
+ declining to 10 per
+cent in 2011-12.
+
+
+--- Page 79 ---
+181
+Services Sector I: Organised
+Sector - Issues and Policy
+The services that have notable increases in shares through the period are
+Banks (whose GDP increase from about 1.2 per centin 1950 51 to 8.3 per
+cent in 2009 10), Road transport (from 4.5 per centto 8 per cent), Business
+services (from 0.8 per cent to 7.4 per cent) and Insurance (0.8 to 2.7 per
+cent). Of these, the share of Business services increased sharply starting
+from the mid 1990s. Services that experienced a secular decline are Dwellings
+(23.8 per cent to 7.6 per cent), Domestic services (8.4 per cent to 1per cent)
+Recreation and entertainment services (5.4 per cent to 0.8 per cent)
+Services that exhibited an inverse U-pattern in their shares in GDP are Public
+administration, Education and Health. Their respective shares in services
+GDP increased till about the 1980s before beginning to decline.
+Finally, there are two services that stand out prominently in terms of high
+growth. The first is Business services and the second is Private sector
+communications. Private sector communications which did not exist in any
+significant way till 1990 - 91 (0.1 per cent) grew to account for about 3.5
+per cent of services GDP in 2011- 12. Similarly, business services of which
+computer related services is a major component accounted for only about
+1.3 per cent of the services GDP in 1989- 90 and this share increased to 7.4
+per cent in 2011-12.
+16.4.3 Share of Services in Trade
+The growth in services sector worldwide has also been accompanied by the rising
+share of services in world transactions. In India also, growth in the services
+sector has also been accompanied by a substantial growth in international
+transactions in services. In fact, India’s exports of services displayed one of the
+fastest growth rates in the world, i.e., over 17  per cent per annum in the 1990s
+(the world average being 5.6 per cent). Thereafter it declined but still remains
+higher than the merchandise share in world trade. India’s Services share in world
+services exports is given in Table 16.1.
+Table 16.1: India’s Share in World Services Exports (Unit in USD Billion)
+Year Exports of India’s Imports of India’s India’s Share in
+Services Services World Exports of
+Services
+1998-99 13.20 11.02 0.99
+1999-00 17.60 11.64 1.20
+2000-01 20.40 16.39 1.40
+2001-02 20.70 16.08 1.30
+2017-18 205.11 179.58 3.50
+Source: Handbook of Statistics on The Indian Economy (https://dbie.rbi.org.in), Reserve Bank
+of India, Mumbai.
+16.4.4 Share of Services in FDI
+Along with trade, there has been a large inflow of FDI into India since 1990s
+onwards. However, this increase in FDI inflows has been accompanied by a
+change in the structure of FDI. Following the international trend, FDI inflows
+
+
+--- Page 80 ---
+182
+Sector Specific Issues and
+Policies
+into India are also shifting increasingly away from manufacturing sector, towards
+services sector. The average share of services in total FDI increased from 10.5
+per cent in the period 1990-94 to 28.3 per cent in the period 1995-1999 (World
+Investment Report, 2004).But the inflow of FDI into services sector has been
+biased towards few of the services sectors e.g. telecommunications (69 per cent),
+financial services (15 per cent) and Hotels and Restaurants (6 per cent). Relative
+share of FDI inflows in India from 2006-07 to 2010-11indicates that the share of
+services although remains dominant but declined in total FDI inflows and largely
+moved into the manufacturing sector.
+Check Your Progress 2
+1) Briefly discuss the trends in the relative shares of sub-sectors of Service
+GDP since independence.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Discuss the trends in the share of services in trade and FDI inflows in India
+and comment on the dominance of services both in trade and FDI inflows.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+16.5 FACTORS BEHIND SERVICE SECTOR
+GROWTH
+The literature on growth in service sector primarily argues that when an economy
+grows, both demand side and supply side factors operate that lead to higher
+growth in the service sector as compared to the other sectors. This also results in
+a larger share of service sector in total employment.
+16.5.1 Demand-Side Factors
+Although the emphasis laid on different factors by different economists has varied,
+the broad line of reasoning advanced by pioneers like Fisher and Clark and
+followed with some elaborations and modifications by later analysts has been as
+follows: Income elasticity of demand for agricultural products is low; that for
+industrial, particularly manufacturing goods is high; and, for services, it is still
+higher. As a result, with rising levels of income, the demand for agricultural
+products relatively declines and that for industrial goods increases and, after
+reaching a reasonably high level of income, demand for services increases sharply.
+
+
+--- Page 81 ---
+183
+Services Sector I: Organised
+Sector - Issues and Policy
+Bhagwati (1984) has put forward different ways in which technical and structural
+changes define a continuous process during which services splinter-off-goods
+and goods-splinter-off services. He argues that services that splinter off from
+goods are technically progressive and possibly capital-intensive, but services
+that are left behind after goods-from-services splintering process are mostly
+technically unprogressive and labour intensive. The reason for expecting these
+services to be technically progressive is the fact that these services arise due to
+specialisation, which reflects economies of scale. But in case the goods that
+splinter-off from services, for example records being produced, the musical
+services left behind are unprogressive and technically stagnant.
+16.5.2 Supply Side Factors: Trade Liberalisation and Reforms
+Three supply side factors that lead to higher supply of services are increased
+trade, higher FDI and improved technology. With respect to the Indian
+economy,Gordon and Gupta (2004) show that on the demand side high growth
+of services output in the 1990s was mostly due to factors such as, increasing
+input usage of services by other sectors i.e., higher domestic demand, higher
+foreign demand for services and higher income elasticity for final demand for
+services. The study also found that the growing use of services has a significant
+favourable effect on growth of output in Indian manufacturing in the 1990s. The
+contribution of service input to output growth in manufacturing was about one
+per cent in the 1980s, and it increased to about 25 per cent in the 1990s.
+Trade reforms carried out in the 1990s explain to a large extent the rapid growth
+of use of services in manufacturing. Lower tariff and lower non-tariff barriers
+were also found to have led to an increase in the usage of services in manufacturing
+sector. Thus, the studies show that growth of India’s services sector can be
+attributed to:
+Structural Changes that have led to increase in usage of services by other
+sectors;
+Lower tariff and non-tariff barriers to trade; and
+Other reforms carried out in the 1990s.
+Check Your Progress 3
+1) Discuss the factors that have led to the spurt in service sector growth in
+India.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 82 ---
+184
+Sector Specific Issues and
+Policies 16.6 ORGANISED SERVICE SECTORS– CROSS
+CUTTING POLICY INITIATIVES AND ISSUES
+Various policy initiatives have been taken by the Government to promote the
+services sector:
+In the Foreign Trade Policy (2015-20), to provide an impetus to the services
+trade, the SEIS (Service Export from India Scheme) incentives were
+increased by 2 per cent for notified services such as Business, Legal,
+Accounting, Architectural, Engineering, Educational, Hospitals, Hotels and
+Restaurants amounting to Rs. 1140 crore.
+The validity period of the Duty Credit Scrips was increased from 18 months
+to 24 months to enhance their utility in the GST framework. GST rate for
+transfer/sale of scrips has been reduced to zero from the earlier rate of 12
+per cent. This will also help services sector.
+New Logistics Division created in the Commerce Department to develop
+and coordinate implementation of an Action Plan for the integrated
+development of the logistics sector.
+New Services division is being set up in Directorate General of Foreign
+Trade (DGFT) to examine EXIM policies and procedures from the point of
+view of “Services”.
+Despite these cross-cutting promotional measures, service sectors are facing
+variety of issues. The issues can be divided into two broad categories– Major
+Cross Cutting Issues and Sector-specific Issues.  In this section, focus is on the
+major issues concerning all the service sectors.
+16.6.1 Impact of Demonetisation on Service Sector in India
+Demonetisation has offered both challenges and opportunities in the digitisation
+of the Indian economy. There was positive impact on services due to greater
+digitisation with measures like launch of Unified Payments Interface (UPI), Bharat
+Interface for Money (BHIM) app, and BHIM-Aadhaar Pay, etc. It has been
+empirically justified in many studies (R. Seranmadevia and A. Senthil Kumar,
+2019) that the impact of demonetisation based on adoptability, implementation,
+readiness and acceptance of new payment methods and digital cash by the services
+providers and the customers has been significant.
+16.6.2 Goods and Services Tax (GST): Impact on Services
+You have already learned about the GST in detail in Unit 11. As you are aware,
+Goods and Services Tax Law, introduced since 1
+st July 2017, is a comprehensive,
+multi-stage, destination based tax that is levied on every value addition.
+Positive Effects of GST on Service Sector
+No double taxation:In the previous regime there were disputes whether a
+particular supply is a supply of good or service. In such scenario, assesses
+were required to pay taxes (both V AT and Service Tax) multiple times. In
+ G
+ST
+regime, both goods and services are treated equally and this double taxation
+is removed.
+
+
+--- Page 83 ---
+185
+Services Sector I: Organised
+Sector - Issues and Policy
+Seamless flow of Input Tax Credit (ITC):  Under GST regime, service
+providers are allowed to avail ITC paid on inputs and capital goods.
+Therefore, now the cost of inputs and capital goods is reduced for service
+providers.
+Access to inputs held in stock: The service providers will access  CENV AT
+credit of inputs that is held in stocks. This is best applicable when a person
+is moving from one category of taxation to the next like the exemption
+category to the taxable one. For example, earlier, service providers used to
+charge Service Tax to the clients and used to pay V AT on the goods purchased,
+like computers. It was not possible to take set off V AT against Service Tax.
+But in GST regime, you pay GST on both sales and purchases and hence it
+is easy to claim
+ I
+TC on that.
+More Clarity for Software In dustry: For companies that sell online software,
+it was not clear whether to apply V AT or Service Tax on the product. In GST
+regime, there is a clear distinction between products and services which
+will remove the confusion for service industry.
+Fewer costs to service providers:  In the previous system of taxation, the
+credit of V AT and CST that were paid to the input were billed to the service
+provider. With the GST system, the CENV AT credit of SGST/CGST, as
+well as the IGST that are to be paid on inputs and capital goods are all taken
+care of which is a relief to the service provider.
+Negative Impacts of GST on Service Sector
+Lack of a centralised registration: With the previous taxation system, many
+service providers rejoiced over being able to register all their businesses in
+different areas from a central place. However, this privilege has been taken
+away. Most of the service providers with operations in multiple states will
+now have to register in different states to be assessed separately in each
+state.
+More burden of Compliance: Service Tax return was required to be filled
+half yearly but in GST regime, 3 returns are required to be filled per month.
+Annual return is also required to be filled in addition to monthly return. In
+crux, now service providers are required to file 37 returns per state in
+comparison with 2 returns on PAN India basis.
+Services becoming Costlier: In previous tax regime, service tax was
+applicable at the rate of 15 per cent on Services rendered which included
+0.5 per cent for Swachh Bharat Cess and 0.5 per cent for Krishi Kalyan
+Cess but in the Goods and Service tax regime, it has been increased up to 18
+per cent making the services and works contracts costlier. Some services
+are put in 28 per cent slab.
+16.6.3 Domestic Regulations and Barriers to Trade in Services
+Since services trade often requires (temporary) movement of provider or
+consumer, restrictions on services mostly arises from regulations and
+discriminating requirements regarding this movement. Most service industries
+are highly regulated by national governments so that non-tariff barriers may be

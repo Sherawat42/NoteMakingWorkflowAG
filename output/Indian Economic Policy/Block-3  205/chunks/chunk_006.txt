@@ -1,0 +1,516 @@
+--- Page 50 ---
+49
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+� =  �̅ − ��, � > 0 
+Investment (I) contains an autonomous part  and is inversely related to the
+interest rate ( i) as it is the cost of borrowing more capital. b is the
+responsiveness of investment to the interest rate. Higher b implies that even
+with a smaller change in interest rate, the investment will change by a greater
+magnitude. As interest rate goes up, investment in the economy declines by
+the unit ‘b’.
+Figure 11.3: The investment schedule
+Source: Dornbuschet. al., Macroeconomics, 11thed.
+The Goods Market Equilibrium: The IS Curve
+Describing the real sector of the economy, the IS curve (Fig. 11.4) represents the
+condition that aggregate demand (AD) equals national product (Y).
+AD = C + G + I
+such that:
+   
+ 1C C c t Y ; I I bi; G G
+1AD A c t Y bi
+where, ACI G
+In equilibrium, Y = AD
+This implies
+ 1Y AD A c t Y bi
+1Y c t Y A bi
+11Y c t A bi
+gY A bi
+  where, 
+1
+11
+g
+ct
+  Or
+g
+AYi bb
+                                                                                               (3)
+g can be understood as the multiplier. The slope of the IS curve is determined
+by the value of the multiplier and responsiveness of investment to the interest
+rate (b).
+
+
+--- Page 51 ---
+50
+Monetary and Fiscal Policies
+Fig. 11.4: The IS schedule
+The Money Market Equilibrium: LM Curve
+The demand for real money balance (L) is a positive function of the real income
+and a negative function of the real interest rate (Figure 11.5). It is given by:
+L = kY – hi, such that k, h > 0
+Fig. 11.5: The demand for real balances schedule
+Source: Dornbuschet. al., Macroeconomics, 11thed.
+The money market equilibrium: Describing the money market of the economy,
+the LM curve (Figure 11.6) represents the condition that demand for real balances
+equal real money supply. The nominal stock of money M is determined by the
+Central Bank, the Reserve Bank of India (RBI) for India. We take the nominal
+stock of money as given at M ¯. We also assume prices to be constant at P ¯, hence
+the real money supply is 
+M
+P . At equilibrium, demand for real balances = supply
+of real balances, that is,
+L = M
+P
+This implies, kY – hi = M
+P
+                       
+1 Mi kYhP
+ (4)
+Fig.11.6: The LM Schedule
+Source: Dornbuschet. al., Macroeconomics, 11thed.
+
+
+--- Page 52 ---
+51
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+The equilibrium interest rate in the economy is determined by the interaction of
+the goods and money market (through Equations 3 and 4). The equilibrium level
+of income is hence gets simultaneously determined.
+Fig. 11.7: The IS-LM and determination of equilibrium in the economy
+Source: Dornbuschet. al., Macroeconomics, 11thed.
+11.2.1 Implications of IS-LM Framework for Fiscal Policy
+Change in government spending ( G
+ ): If there is an increase in the government
+spending such that the increase in spending is expressed as G
+ , this shifts the IS
+curve outwards to the right. At this stage there is no change in LM curve. The
+new equilibrium income and interest rate level is determined where the new IS
+curve intersects the LM curve (E’). The change in the equilibrium level of income
+will be:
+gYG
+The new interest rate will be higher than the original interest rate and the change
+in Y is much more than the initial change in G .
+Mechanics: Recalling what has been studies earlier, the increase in autonomous
+government spending increases the aggregate demand (AD) in the economy
+shifting IS curve to IS'. This raises the output to Y''. The increase in income
+increases the demand for real balances in the economy. Given that the money
+supply is fixed by the RBI, interest rate has to rise (from i to i' so that money
+market reaches equilibrium. This increase in interest rate decreases the investment
+and hence a decline in the overall AD and output also declines to Y'. This decline
+in private investment as a result of increasing government spending (increase in
+public investment) is also known as crowding-out effect of public investment.
+Since government spending has to be financed, usually from increased government
+borrowings, it leaves less of the country’s savings to be borrowed by the private
+sector and that also raises the cost of borrowing for the private sector, leading to
+crowding-out of private investments. However, evidence from India suggests
+otherwise, as there exist infrastructural bottlenecks. Hence increasing the public
+investment actually crowds-in the private investment.  Between 1971-71 to 2002-
+03, there has not been evidence of crowding-out of the private investment due to
+public investment, rather complementarity is observed between the two
+1.
+1Lekha S. Chakraborty; Fiscal Deficit, capital formation and crowding out: Evidence from India.
+i
+i E
+LM
+IS
+YY0
+0
+Interest Rate
+Income, Output
+
+
+--- Page 53 ---
+52
+Monetary and Fiscal Policies
+Fig.11.8: Increase in government spending
+Source: Dornbuschet. al., Macroeconomics, 11thed.
+Increase in government spending is an expansionary fiscal policy. In case of a
+contractionary fiscal policy measure, the government can reduce the autonomous
+government spending, shifting the IS curve leftward and reducing the equilibrium
+level of interest rate and income.
+Change in taxes (t): A change in the proportional income tax rate (t) is not as
+straight forward. Since the change in the income tax affects the disposable income,
+it changes the consumption. Let us consider an increase in tax rate from t to t'
+(for e.g., increase in personal income tax from 10 per cent to 20 per cent). This
+increase in taxes clearly reduces the consumption expenditure by the household
+as they now have less income at their disposal. A change in the tax rate is going
+to affect the slope of the IS curve as it changes the multiplier. With taxes being
+increased to t' (contractionary fiscal policy), the slope of the IS curve will increase
+and the overall value of the multiplier will decrease. A reduction in the value of
+multiplier implies that income/GDP will not change as much with the changes in
+any of its components.
+Fig. 11.9: Increase in proportional income tax
+Source: Author
+Mechanics: As we can see in Figure. 11.9, the slope has increased and the IS has
+shifted to IS'. There will be no change in LM as there is no change in the money
+market. With the shift in IS, the new equilibrium income and interest rate is
+achieved at Y' and i'. As the tax rate has gone up, the disposable income in the
+hand of consumers decrease. This lowers the consumption demand (C) and
+decreases the overall aggregate demand (AD). Since the AD decreases the
+equilibrium income in the economy, the demand for real balances also decrease,
+but as earlier the supply is fixed. The interest rate reduces as a consequence. This
+reduction in interest rate increases the investment demand but not by as much to
+offset the earlier decline in AD.
+
+
+--- Page 54 ---
+53
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+Check Your Progress 1
+1) Fill in the blanks.
+i) In the Indian context, the consumption expenditure incurred by
+......................................... constitutes the majority of GDP.
+ii) The IS schedule shows the ................................. equilibrium.
+iii) The decline in private investment as a result of increasing government
+spending is known as .............................................
+2) In terms of the IS-LM framework, explain the mechanics of increasing
+government spending on a closed economy which is initially in equilibrium.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+11.3 CONCEPT OF FISCAL POLICY
+We define fiscal policy to encompass any decision to change the composition of
+or timing of government expenditures or to vary the burden, structure, or frequency
+of tax payment. Governments all around the world use fiscal policy tools as
+counter cyclical measure i.e., to stabilise economy from cycles of boom and
+bust.
+Fiscal policy aims at using its three major instruments– taxes, spending and
+borrowing– as balancing factors in the development of the economy. According
+to Arthor Smithies, fiscal policy is a policy under which government uses its
+expenditure and revenue programme to produce desirable effects and avoid
+undesirable effects on the national income, production and employment. Fiscal
+policy consists of the use of taxes, government spending and public debt
+operations to influence the economic activities of the community in desired ways
+and is concerned with the allocation of resources between the public and private
+sectors and their use for the attainment of stability and growth. Although the
+effects of fiscal policy are extensive, they are particularly measurable in areas
+such as employment, price stability, savings and investment, and the balance of
+payment. The prime aim of such a policy is to maintain a high level of employment
+without inflation.
+11.3.1 Objectives of Fiscal Policy
+Formulation of fiscal policy presumes the identification and clear recognition of
+the institutional aspects of government finance, such as tax system, tax incidence
+and shifting, budget formulation and execution and financial management. The
+focus of budgeting is on the attainment of efficiency in the allocation of resources
+within the public sector and is influenced at each stage by the goals of the fiscal
+policy. The changes in government income or expenditure have been designed
+to affect the level of activity in the economy as a whole. An understanding of the
+fiscal policy is essential for gaining proper perspectives on the different aspects
+
+
+--- Page 55 ---
+54
+Monetary and Fiscal Policies of budgeting. In the recent years, importance of fiscal policy has increased due
+to economic fluctuations.
+The budgetary fiscal policy can play a key role in the process of economic
+development by (i) mobilising additional resources, (ii) maintaining economic
+stability, (iii) allocating resources into socially necessary lines of development,
+(iv) reducing extreme inequality in income and wealth, and (v) providing the
+necessary incentive to the private sector for its healthy growth. The fiscal policy
+thus has not one goal. It has a multiplicity of goals. Hence, they cannot be achieved
+by any one set of policies. There may be conflicts between some of these other
+goals and stabilisation goals. In the context of economic growth, the fiscal policy
+has to be so framed as to avoid an inflationary pressure in the economy.
+11.3.2 Implications of Fiscal Policy
+Fiscal policy is so wide-ranging that selection of a combination of differing
+objectives is both complex and controversial. The decisions that the government
+makes over fiscal policy can have important implications for business. In today’s
+globalised economy, tax policy is not conducted in a vacuum. Taxes can influence
+the choices of both business and labour. Supply-side economists argue that
+economic activity is quite sensitive to changes in tax rates, particularly the highest
+marginal rates. What causes governments to ignore budget deficits in some
+circumstances and not in other? Business also needs to understand the effect a
+change in fiscal policy is likely to have on aggregate demand. In recent decades,
+the ratio of government expenditure to GDP has increased in most countries. In
+many countries its present level cannot be financed by ordinary sources of revenue.
+As a consequence, many governments have been compelled to borrow heavily.
+If a country borrows too much money, it has to pay a great deal of interest every
+year in order to service that debt.
+The greatest obstacle to proper use of fiscal policy is that changes in fiscal policy
+may be necessarily bundled with other changes that please or displease various
+stakeholders. This is true for a tax cut for some favoured constituency. The problem
+of making good fiscal policy in the face of such obstacles is, in the final analysis,
+not economic but political. There are many practical limitations or drawbacks to
+the actual working of the fiscal policy. The objective of fiscal policy in modern
+society cannot be promoted in isolation. It has to be coordinated with monetary,
+credit and debt policies to be effective. The questions relating to the manner of
+financing deficit or disposing of surplus in a budget have close relationship with
+monetary and credit policies.
+Monetary and fiscal policies can be best understood in the context of the events
+that shape them. Such an analysis can assist in choosing policies that improve
+rather than disrupt short- and long-term economic performance. Of particularly
+interest are the circumstances and policies surrounding the recent recession.
+11.4  FISCAL POLICY IN INIDA
+11.4.1 India’s Fiscal Policy Architecture
+India adopted a federal form of governance in post-independence period. The
+Constitution of India (Article 1) states that India, that is Bharat, shall be a Union
+of States. The Indian Constitution provides the overarching framework for
+
+
+--- Page 56 ---
+55
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+country’s fiscal policy with the assignment of taxation powers and expenditure
+responsibilities being divided between the Union and State governments. The
+Seventh Schedule of the Constitution of India specifies the legislative domain of
+the Union and States Governments in terms of three lists namely, (a) Union List
+(or List I), (b) State List (or List II), and (c) Concurrent List (or List III). These
+lists represent the powers conferred upon the Union Government, State
+Governments, and shared powers between the two respectively. All residuary
+powers are vested with the Union. The Constitution also provides that for every
+financial year, the government shall place before the legislature a statement of
+its proposed taxation and expenditure provisions, also known as the budget, for
+legislative debate and approval. The Union and the State governments each have
+their own annual budgets. Details on this aspect has been provided in the next
+unit (Unit 12).
+11.4.2 Fiscal Policy until 1990s
+The formation of a Planning Commission, prompted by Prime Minister Nehru’s
+commitment, was announced in the Finance Minister’s Budget Speech in
+February, 1950. The Commission was established on 15
+th March, 1950 through a
+cabinet resolution with primary objectives of formulating medium to long term
+plans, advising on allocation of funds to Ministries in the Union Government
+through annual budget, approving the plan of each State. The resolution clearly
+indicated that the Commission would essentially be an advisory body which
+would make recommendations to the Cabinet. The Planning Commission, by
+virtue of its mandate to prepare Five-year Plan came to exercise allocative powers.
+One of the roles that it performed was to approve Plans of each of the states and
+allocate transfer of funds from the Union government to States, both tied and
+untied under the Plan.
+The main fiscal impact of the planning process is the division of expenditures
+into plan and non-plan components. The plan components relate to items dealing
+with long-term socio-economic goals as determined by the ongoing planning
+process. They often relate to specific schemes and projects. Furthermore, they
+are usually routed through central ministries to state governments for achieving
+certain desired objectives. These funds are generally in addition to the assignment
+of central taxes as determined by the Finance Commissions. In some cases, the
+state governments also contribute their own funds to the schemes. Non-plan
+expenditures broadly relate to routine expenditures of the government for
+administration, salaries, and the like
+2.
+The objective of the initial five-year plans during the 1950s and 1960s was mainly
+to become a self-sufficient nation and increase the growth rate of the economy
+through strengthening the public sector enterprises. Taxation was used as an
+instrument for transferring resources to the Government to enable it to undertake
+large-scale public investment in an effort to spur economic growth. Both direct
+and indirect taxes were focussed on extracting revenues from the private sector
+to fund the public sector. The combined centre and state tax revenue to GDP
+ratio increased from 6.03 per cent in 1950-51 to 15.47 per cent in 1987-88. For
+the central government this ratio (i.e., central taxes net of devolution to GDP
+ratio) was 3.43 per cent of GDP in 1950-51 with the larger share coming from
+2 The distinction between plan and non-plan government spending has been dispensed with and
+now the classification of government spending follows the categorisation of revenue and capital
+spending.
+
+
+--- Page 57 ---
+56
+Monetary and Fiscal Policies indirect taxes at 2.20 per cent of GDP and direct taxes at 1.23 per cent of GDP.
+Given their low direct tax base, the direct tax-GDP ratio of state governments
+was 0.53 per cent while their share of indirect taxes in GDP was 1.61 per cent in
+1950-51. Furthermore, the fiscal policy was geared towards achieving the
+economic objectives of (i) promoting employment through grant of tax incentives
+to new investment; (ii) reducing inequality through progressive taxes on income
+and wealth; (iii) reducing pressure on balance of payments through increase of
+import duties; and (iv) stabilising prices through tax rebate in excise duties on
+consumption goods
+3.
+The systemic evolution of tax system in India started with the implementation of
+a number of recommendations of the Taxation Enquiry Commission in 1955-56
+which was appointed in April, 1953. The Commission submitted its report in
+December, 1954. However, the government invited the British economist Nicholas
+Kaldor to examine the possibility of reforming the tax system. The findings and
+recommendations of Kaldor was published in a report in 1956. Kaldor found the
+system is inefficient and inequitable given the narrow tax base and inadequate
+reporting of property income and taxation. He also found the maximum marginal
+income tax rate at 92 per cent to be too high and suggested it be reduced to 45 per
+cent. In view of his recommendations, the government revived capital gains
+taxation, brought in a gift tax, a wealth tax and an expenditure tax (which was
+not continued due to administrative complexities).
+Despite Kaldor’s recommendations, for both corporate and personal income taxes
+the highest marginal income tax rates continued to be very high. The Direct
+Taxes Enquiry Committee of 1971 found that the high tax rates encouraged tax
+evasion and following its recommendations in 1974-75, the highest marginal
+rate for personal income tax was brought down to 77 per cent.
+Fiscal policy during the 1970s focused on achieving greater equity and social
+justice and both taxation and expenditure policies were employed towards that
+end. Accordingly, income tax rates were raised to very high levels, with the
+maximum marginal rate of personal income tax moving up to 97.5 per cent
+including the surcharge.
+  I
+ndia’s expenditure norms remained conservative till
+the 1980s. From 1973-74 to 1978-79 the central government continuously ran
+revenue surpluses (Figure 11.10). The gross fiscal deficit (GFD) also showed a
+slow growth with certain episodes of downward movements. Over the years, in
+addition to the commitment towards a large volume of developmental expenditure,
+the Government’s expenditure widened to include rising subsidies. Large interest
+payments on growing debt and downward rigidity in prices further contributed
+to increased expenditure.
+  
+Revenues, on the other hand, were less buoyant leading
+to the emergence of sizeable revenue deficits (RD) in the Central government
+budget from 1979-80 onwards.
+During the decade of 1980s, the Indian public finances were in a state of disarray.
+We find considerable fiscal deterioration took place during the 1980s and it
+eventually became unsustainable, although the growth rate did rise significantly
+with the enhancement in public investment in infrastructure.While the revenue
+deficit (RD) of the central government as percentage of GDP increased from 1.4
+per cent in 1980-81 to 2.44 per cent in 1989-90, its gross fiscal deficit (GFD) as
+percentage of GDP also increased during this period, increasing from 5.71 per
+cent in 1980-81 to 7.31 per cent in 1989-90.
+3 Rao and Rao, 2006
+
+
+--- Page 58 ---
+57
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+The State governments had revenue surplus during 1974-75 to 1986-87 with the
+exception of 1984-85 (Figure.11.11). Their fiscal position also deteriorated in
+the late 1980s.
+Note: Deficit (+) / Surplus (–)
+Fig. 11.11: GFD and RD of the States ( per cent of GDP)
+Source: DBIE and CMIE
+Rising deficits and debt reduced the quality of the expenditure with increase in
+expenditure on interest payment at the cost of social and developmental
+expenditure. The Government sought to reduce its deficit through increase in
+taxes. An important reform in the indirect taxes was recommended by the Indirect
+Tax Enquiry in 1977. It recommended introduction of the input tax credit to
+convert the cascading manufacturing tax into a manufacturing value added tax
+(MANV A T). But this was implemented as a modified value added tax (MODV A T)
+in 1986 in a phased manner covering only selected commodities (Rao and Rao,
+2006).
+The other main central indirect tax is the customs duty. Customs duties were
+hiked to augment revenue and to protect domestic industry. In 1985-86 the
+ 
+ 
+-2.00
+0.00
+2.00
+4.00
+6.00
+8.00
+10.00
+1970-71   
+1971-72   
+1972-73   
+1973-74   
+1974-75   
+1975-76   
+1976-77   
+1977-78   
+1978-79   
+1979-80   
+1980-81   
+1981-82   
+1982-83   
+1983-84   
+1984-85   
+1985-86   
+1986-87   
+1987-88   
+1988-89   
+1989-90   
+1990-91   
+Gross fiscal deficit
+revenue surplus
+Note: Deficit (+) / Surplus (–)
+Fig. 11.10: GFD and RD of the Centre ( per cent of GDP)
+Source: DBIE and CMIE
+ 
+ 
+-1.50
+-1.00
+-0.50
+0.00
+0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+3.50
+1970-71   
+1971-72   
+1972-73   
+1973-74   
+1974-75   
+1975-76   
+1976-77   
+1977-78   
+1978-79   
+1979-80   
+1980-81   
+1981-82   
+1982-83   
+1983-84   
+1984-85   
+1985-86   
+1986-87   
+1987-88   
+1988-89   
+1989-90   
+1990-91   
+Gross Fiscal Deficit Revenue Deficit
+
+
+--- Page 59 ---
+58
+Monetary and Fiscal Policies government presented its Long-Term Fiscal Policy stressing on the need to reduce
+tariffs, have fewer rates and eventually remove quantitative limits on imports.
+Some reforms were attempted but due to revenue raising considerations the tariffs
+in terms of the weighted average rate increased from 38 per cent in 1980-81 to
+87 per cent in 1989-90. By 1990-91 the tariff structure had a range of 0 to 400
+per cent with over 10 per cent of imports subjected to tariffs of 120 per cent or
+more
+4.
+The 8th Finance Commission whose operational period was 1984-1989 made it
+clear that in considering competing claims on resources, the overriding
+consideration would be national interest. The 8
+th FC also made the tax devolution
+more progressive by leaning in favour of the backward states. It also set 5 per
+cent of the net proceeds of sharable excise duties exclusively for non-plan revenue
+deficit.
+In 1970-71, direct taxes contributed to around 16 per cent of the central
+government’s revenues, indirect taxes about 58 per cent and the remaining 26
+per cent came from non-tax revenues. By 1990-91, the share of indirect taxes
+had increased to 65 per cent, direct taxes shrank to 13 per cent and non-tax
+revenues were at 22 per cent.
+While the institutional arrangements in place initially appeared adequate for
+driving the development agenda, but the sharp deterioration of the fiscal situation
+in the 1980s led to the balance of payments crisis of 1991.
+11.4.3 Fiscal Policy 1990s Onwards
+The political uncertainties both domestic (assassination of Prime Minister Rajiv
+Gandhi) and abroad (The Gulf War) added to the existing fiscal deterioration of
+the country. Rising oil prices led to greater burden of the fuel subsidy along with
+increasing external debt that eventually led to a balance of payment crisis in
+1991. The crisis brought about the most important economic reforms which
+opened up the economy to private players both domestic (dismantling of the
+License Raj system) and from abroad. Fiscal policy was also re-aligned with
+these policy changes.
+To improve the falling tax receipts and to rationalise the tax structures, Tax Reform
+Committee was formed with the view to achieve set targets. The Tax Reforms
+Committee (TRC) concentrated on finding a suitable framework to reform both
+the direct and indirect tax structure in the country. The committee recommended
+two major reforms on direct taxes– one was the simplification and rationalisation
+of the direct tax structure ( The Chelliah Committee,  1992); the other was to
+introduce a service tax to widen the tax base (The Chelliah Committee, 1994).
+As a part of the subsequent direct tax reforms, the personal income tax brackets
+were reduced to three with rates of 20, 30 and 40 per cent in 1992-93. Financial
+assets were removed from the imposition of wealth tax and the maximum rate of
+wealth tax was reduced to 1 per cent. The Personal income tax rates were reduced
+again to 10, 20, and 30 per cent in 1997-98. These rates have largely remained
+the same since then with the exemption limit being increased and slab structure
+raised from time to time. A subsequent 2 per cent surcharge to fund education
+was later made applicable to all taxes.
+4 Rao and Rao, 2006

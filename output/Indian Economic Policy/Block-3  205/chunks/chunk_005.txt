@@ -1,0 +1,455 @@
+--- Page 40 ---
+39
+Capital Market and Its
+Regulations
+2016, 2017 and 2019. This may be due to the impact of demonetisation,
+implementation of GST and the Global pandemic impact of COVID-19
+respectively. However, there is not much impact noticed in the case of index
+options during the same period.
+10.6 CURRENCY DERIV ATIVE MARKET IN INDIA
+Currency derivative is a contract between the seller and buyer, whose value is to
+be derived from the underlying asset, the currency amount. A derivative based
+on currency exchange rates is a future contract which stipulates the rate at which
+a given currency can be exchanged for another currency as at a future date.
+Currency future contracts allow investors to hedge against foreign exchange risk.
+Currency Derivatives are available on four currency pairs viz. US Dollars (USD),
+Euro (EUR), Great Britain Pound (GBP) and Japanese Yen (JPY). Cross Currency
+Futures and Options contracts on EUR-USD, GBP-USD and USD-JPY are also
+available for trading in Currency Derivatives segment (NSE).
+Foreign exchange derivatives are less active than interest rate derivatives in India,
+even though they have been around for longer. Over-the-counter (OTC)
+instruments in currency forwards and swaps are the most popular. Importers,
+exporters and banks use the rupee forward market to hedge their foreign currency
+exposure. Turnover and liquidity in this market have been increasing, although
+trading is mainly in shorter maturity contracts of one year or less (Gambhir and
+Goel, 2003). In a currency swap,  banks and corporations may swap its rupee-
+denominated debt into another currency (typically the US dollar or Japanese
+yen), or vice versa. Trading in OTC currency options is still muted. There are no
+exchange-traded currency derivatives in India.
+10.7 LONG-TERM GOVERNMENT BOND AND
+CORPORATE DEBT MARKET IN INDIA
+The corporate bond and long-term Government Securities market is a vital
+segment of the capital market. The corporate bond market is at the budding phase
+in India. The corporate bond market remains restricted for participants, largely
+arbitrage driven and also highly illiquid. The lack of development is anomalous
+for two reasons: First, India has developed world-class markets for equities and
+equity derivatives supported by high-quality infrastructure. Second, the
+infrastructure for the bond market, particularly the government bond market, is
+similarly of high quality. Until 2007, information on the Indian corporate bond
+market turnover was incomplete and largely anecdotal. In 2007, however, the
+Securities and Exchange Board of India (SEBI) launched initiatives to ensure
+more comprehensive reporting of the over-the-counter (OTC) bond market.
+Current volumes are running at low levels– around 140 transactions amounting
+to about USD80 million per day. But corporate bond markets worldwide are
+typically illiquid, so it may be overly optimistic to expect India to develop a
+uniquely liquid corporate bond market. Nonetheless, a more liquid market should
+eventually contribute to lower costs of capital for issuers. India’s corporate
+turnover ratio is quite high at 70 per cent in 2007, comparing favourably with
+most other emerging East Asian corporate bond markets. However, the small
+total of outstanding corporate bonds in India means that the secondary market is
+small and relatively illiquid, irrespective of the turnover ratio (ADB Working
+Paper Series No. 22).
+
+
+--- Page 41 ---
+40
+Monetary and Fiscal Policies 10.7.1  Outlook for Development of Corporate Debt Market
+The development of a corporate bond market in India has lagged in comparison
+with other financial market segments owing to many structural factors. While
+primary issuances have been significant, most of these were accounted for by
+public sector financial institutions and were issued on a private placement basis
+to institutional investors. The secondary market, therefore, has not developed
+commensurately and market liquidity has been an issue.
+The Government had constituted a High-Level Committee on Corporate Bonds
+and Securitisation (Patil Committee) to identify the factors inhibiting the
+development of an active corporate debt market in India and recommend necessary
+policy actions. The Committee made several recommendations relating to
+rationalising the primary issuance procedure, facilitating exchange trading,
+increasing the disclosure and transparency standards and strengthening the
+clearing and settlement mechanism in the secondary market. 
+ T
+he
+recommendations have been accepted in principle by the Government, RBI and
+SEBI and are under various stages of implementation.
+The two stock exchanges, namely, the Bombay Stock Exchange (BSE) and the
+National Stock exchange (NSE), as well as the industry body Fixed Income,
+Money Market and Derivatives Association of India (FIMMDA) have since
+operationalised respective trade reporting platforms. While all the exchange trades
+in corporate bonds get captured by concerned exchange’s reporting platform,
+OTC transactions can be reported on any of these platforms. The aggregated
+trade information across the platforms is being disseminated by FIMMDA on its
+website.
+ 
+ BSE and NSE have also started order-driven trading platforms in July
+2007. In practice, however, trading continues to be largely OTC. SEBI has also
+implemented measures to streamline the activity in corporate bond markets by
+reducing the shut period in line with that of G-sec, reducing the size of standard
+lots to Rs. one lakh and standardising the day count convention.
+  
+Further, to
+streamline the process of interest and redemption payments, Electronic Clearing
+Services (ECS), Real-time Gross Settlements (RTGS) or National Electronic
+Funds Transfer (NEFT) are required to be used by the issuers.
+Further progress is anticipated concerning rationalising the primary issuance
+procedures, which is a critical step for moving away from the predominance of
+private placements. To reduce the settlement risk and enhance efficiency, the
+Patil Committee has also proposed setting up of a robust clearing mechanism.
+The settlement was proposed to be initially on DVP I basis (i.e. trade by trade
+basis) to address the counterparty settlement risk and gradually migrate to DvP
+III (net settlement of funds as well as securities) to impart enhanced settlement
+efficiency. (The delivery versus payment (DVP) modules can be broadly classified
+into three broad categories viz. DVP I, DVP II and DVP III. Under DVP I, the
+fund’s leg as well as the securities leg are settled simultaneously on a contract-
+by-contract basis. Under DVP II, while the securities leg is settled on a contract-
+by-contract basis, the fund’s leg is settled for the net amount). Under DVP III,
+both the funds and the securities legs are settled for the net amounts.)
+Patil Committee has recommended two important measures to be initiated by
+the Government, namely rationalisation of stamp-duty, and the abolition of tax
+deduction at source, as in the case of government securities. As the corporate
+debt markets develop and RBI is assured of the availability of efficient price
+
+
+--- Page 42 ---
+41
+Capital Market and Its
+Regulations
+discovery through significant increases in public issues as well as secondary
+market trading, and an efficient and safe settlement system, based on DVP III
+and STP is in place, RBI is committed to permitting market repos in corporate
+bonds. In the medium term, considering the overall macro-economic situation,
+the ceiling for foreign investment in both government securities and corporate
+debt will continue to be calibrated as an instrument of capital account
+management. In particular, a more liberalised access to foreign investment would
+be appropriate when, among other things, an efficient and safe settlement system
+is well entrenched, aggregate consolidated public debt to GDP ratio reaches a
+reasonable level, say less than 50 per cent, and the corporate debt market acquires
+depth and liquidity with a significant role for insurance and pension funds in
+India. In the past, government securities dominated the debt market in India,
+partly on account of the fiscal dominance and the absence of contractual savings.
+In the absence of contractual savings only banks tended to deploy their funds in
+the corporate bond market, mainly through private placement. RBI is hopeful
+that the recent slow but steady development of insurance sector, mutual funds
+etc. coupled with the existence of a reliable government securities market and
+the availability of robust reporting, trading and settlement mechanisms would
+lead to the rapid development of a vibrant corporate debt market. A framework
+for the development is already available through the recommendations of the
+Patil Committee, the implementation of which has already been taken up by the
+various agencies (Dr. Y . V . Reddy, 2007).
+Check Your Progress 3
+1) State the reasons for trading in the derivatives.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Which instruments are traded in the exchange traded markets?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) What are the various reforms and recommendations made with respect to
+the Indian corporate debt market?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 43 ---
+42
+Monetary and Fiscal Policies
+10.8 LET US SUM UP
+Globalisation and financial liberalisation in India have ushered in a battery of
+changes in the financial architecture of the economy, as a result of which the
+resultant gain of the global integration of domestic and foreign financial markets
+has thrown open new opportunities but at the same time exposed the financial
+system to significant risks. While the capital market reforms are impressive,
+there are still areas that present major problems. The long term debt and corporate
+debt market present the biggest problems. As a result of which, many large Indian
+companies look to foreign capital markets for longer-term debt and equity. Despite
+this, the prevailing economic conditions both at domestic and global levels
+suggests that the Indian stock market will continue to grow even though the
+USA and European markets have yet to recover from recession effect. The market
+ecosystemof the corporate debt market in India is yet to evolve in terms of enabling
+vibrancy and depth. The enactment of the Insolvency and Bankruptcy Code (IBC),
+2016, which incorporates relevant resolution frameworks introduced earlier, is
+expected to strengthen investors’ confidence in the corporate bond market. The
+2016-17 Union Budget announcement of setting up of Credit Enhancement Fund
+could leverage the access of the infrastructure companies into the corporate bond
+market, complemented by the large exposure framework laid down by the Reserve
+Bank (RBI, 2019).
+10.9 TERM-END EXERCISES
+1) Discuss the role and scope of a well-developed capital market in the growth
+process of the economy.
+2) Trace the developmental reforms of the capital market in India and assess
+the impact of these reforms in the growth of Equity and the foreign exchange
+market.
+3) Discuss the current scenario and shortcomings of the corporate debt market
+in India.
+4) Discuss the functions of SEBI. What are the significant steps taken by the
+SEBI to develop the Indian Equity Market?
+5) Explain the structure, conduct and performance of the Equity Derivatives
+market in India.
+6) Explain the structure and performance of the Indian Currency Derivatives
+market.
+7) Explain why the Indian Corporate Debt market is the nascent stage. Suggest
+necessary reforms.
+10.10 KEY WORDS
+Derivatives : Derivatives are financial contracts whose value
+is linked to the value of an underlying asset
+Equity Derivatives : Equity Derivatives are a type of derivative
+whose value is derived, at least partly, from
+underlying equity securities including stocks,
+stock indexes.
+
+
+--- Page 44 ---
+43
+Capital Market and Its
+Regulations
+Foreign Institutional : A foreign institutional investor (FII) is an
+Investor (FII) investor or investment fund investing in a
+country outside of the one in which it is
+registered or headquartered.
+Hawala : An informal, unregulated mode of transaction,
+that usually occurs so as to smuggle foreign
+currency to and fro your country.
+Hedging : Hedging is a risk management strategy
+employed to offset losses in investments by
+taking an opposite position in a related asset.
+Hybrid Securities : A hybrid security is a single financial security
+that combines two or more different financial
+instruments. They generally combine both debt
+and equity characteristics.
+Over-the-counter (OTC) : Over-the-counter (OTC) is the trading of
+securities between two counterparties executed
+outside of formal exchanges and without the
+supervision of an exchange regulator.
+Speculation : Speculation is the practice of engaging in risky
+financial transactions in an attempt to profit
+from short term fluctuations in the market value
+of a tradable financial instrument.
+Stock Market : A stock market is a marketplace where buyers
+and sellers meet to trade i.e. buy and sell shares
+of publicly listed companies.
+10.11   REFERENCES
+1) Ajay Shah and Susan Thomas (2001). “The evolution of the securities markets
+in India in the 1990s”,Technical report, IGIDR.
+2) Indian Securities Market: A review, V olume V , 2002, National Stock
+Exchange of India Limited, Mumbai.
+3) Reddy, Y . V . (2007). “Developing Debt Markets in India: Review and
+prospects”, Speech at Washington, the USA on October 18, 2007, http://
+rbidocs.rbi.org.in/rdocs/Bulletin/PDFs/82026.pdf
+4) Mishra, Alok and Vyas Iti (2011). “Linkage Dynamics of India Financial
+Markets: A Theoretical and Empirical Perspective, VDM Verlag Publication,
+Germany.
+5) Vyas, Iti (2019). “Economics of Financial Markets in India: Operation,
+Integration and Efficiency”, Akhand Publishing House, Delhi.
+6) Mishra, A. K., Rath, B. N., & Dash, A. K. (2020). Does the Indian financial
+market nosedive because of the COVID-19 outbreak, in comparison to after
+demonetisation and the GST? Emerging Markets Finance and Trade, 57, 1–
+31.
+
+
+--- Page 45 ---
+44
+Monetary and Fiscal Policies 7) Vyas, I. (2014). Vertical financial markets integration and efficiency in India
+with special reference to economic crisis. Prajnan-Journal of Social and
+Mangement Sciences, XLIII(3), 265–301.
+8) Vyas, I., & Mishra, A. K. (2016). Does global financial crisis integrate the
+regional market in Asia more strongly? Malaysian Management Journal,
+20, 13–39.
+9) Vyas, I., Prasad, N., & Mishra, A. K. (2011). Causal nexus between stock
+price, demand for money, interest rate, foreign institutional investment, and
+exchange rates in India: A post subprime crisis analysis.Indonesian Capital
+Market Review, 3(2), 81–100.
+10.12 ANSWERS OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+Check Your Progress 1
+1) See Section 10.1
+2) See Section 10.1
+3) See Section 10.2
+Check Your Progress 2
+1) See Section 10.3
+2) See Section 10.3
+3) See Section 10.4
+4) See Section 10.4
+Check Your Progress 3
+1) See Section 10.5
+2) See Sub-section 10.5.1
+3) See Section 10.7
+
+
+--- Page 46 ---
+45
+Capital Market and Its
+RegulationsUNIT 11 FISCAL POLICY AND FISCAL
+RESPONSIBILITY AND BUDGET
+MANAGEMENT (FRBM) ACT
+Structure
+11.0 Objectives
+11.1 Introduction
+11.2 Theoretical Analysis: IS-LM Framework
+11.2.1 Implications of IS-LM Framework for Fiscal Policy
+11.3 Concepts of Fiscal Policy
+11.3.1 Objectives of Fiscal policy
+11.3.2 Implications of Fiscal policy
+11.4 Fiscal Policy in India
+11.4.1 India’s Fiscal Policy Architecture
+11.4.2 Fiscal Policy until 1990s
+11.4.3 Fiscal Policy 1990s Onwards
+11.5 The FRBM Act
+11.6 The Global Financial Crises and the Fiscal Policy
+11.7 Goods and Services Tax (GST)
+11.8 Let Us Sum Up
+11.9 Term-end Exercises
+11.10 Key Words
+11.11 References
+11.12 Answers or Hints to Check Your Progress Exercises
+11.0 OBJECTIVES
+After going through this unit, you will be able to:
+state the concept and components of fiscal policy;
+examine how changes in government spending and taxation affect
+equilibrium level of income and interest rate in terms of the IS-LM
+framework;
+discuss the fiscal policy in India since independence;
+recognise the need to adopt the Fiscal Responsibility and Budgetary
+Management Act;
+discuss the role of fiscal policy to meet the challenges arisen out of global
+financial crises 2008; and
+appreciate the genesis of GST, its implementation and trend of GST
+collection.
+
+
+--- Page 47 ---
+46
+Monetary and Fiscal Policies
+11.1 INTRODUCTION
+During the aftermath of the Great Depression in 1930s, British economist John
+Maynard Keynes first argued for the role of government to push the economy
+out of the slump. His book The General Theory of Employment, Interest and
+Money is the foundation of the Keynesian economics. He argued for the role of
+fiscal and monetary interventions by the government to influence the aggregate
+demand. According to Keynes, high unemployment in Britain and the United
+States was the result of a deficiency in the aggregate demand. At the time of the
+Great Depression, Keynes favoured fiscal policy measures to stimulate the
+demand. This started a new school of thought in the discipline of economics, the
+Keynesian economics.
+Much of the debate over economic policy in Great Britain at that time focused
+on the desirability of government spending on public works as a cure for
+unemployment, what we would now term an expansionary fiscal policy action.
+Keynes and others argued that such actions would increase output and
+employment. Such expenditures would act both directly and indirectly because
+they would increase the income and hence consumer expenditure of those
+employed on the public works projects, thus generating secondary employment.
+Major tools of Fiscal Policy are:
+a) Government Spending: Change in government spending (revenue or capital
+expenditure) that directly impacts the GDP and is often used as a counter-
+cyclical measure.
+b) Taxes: Change in the taxes such as the changes in direct and indirect taxes
+can influence the behaviour of agents in the economy and therefore impact
+the GDP.
+In this unit we dwell into understanding the functioning of such policy changes.
+The unit discusses the theoretical framework for understanding the fiscal policy.
+For this purpose we shall use the IS-LM framework to examine how changes in
+government spending and taxation effects equilibrium level of income and interest
+rate in the economy. Thereafter, we shall discuss India’s fiscal policy experience
+since independence. It is further sub-divided into sections which describe the
+evolution of fiscal policy until the 1990s, following the major economic reforms
+of the 1991 till the next step of fiscal discipline and consolidation based on the
+FRBM Act. Lastly, we shall talk about the new fiscal framework, recent
+developments in the fiscal policy space including implantation of the GST. The
+unit ends with the discussion of the 15
+th Finance Commission and the challenges
+that the fiscal policy space currently faces.
+11.2 THEORETICAL ANALYSIS: IS-LM
+FRAMEWORK
+Let us recall that we have studied IS-LM framework in Unit 2 of the course
+Macro-economic analysis (MEC-002) in general. In order to examine the impacts
+of the various tools of fiscal policy on aggregate income, savings and interest, it
+is desirable to have a re-look at the IS-LM framework.
+
+
+--- Page 48 ---
+47
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+A central notion in the Keynesian model is that an equilibrium level of output
+requires that total output be equal to the aggregate demand. In our model, this
+condition for equilibrium can be expressed as:
+Y = AD (1)
+where, Y represents total output (GDP) and AD stands for aggregate demand or
+desired expenditures on output.
+Aggregate demand (AD) consists of three components:
+household consumption (C),
+desired business investment demand (I),
+and the government sector’s demand for goods and services (G).
+Thus, in equilibrium we have Y = AD = C + I + G (2)
+The simple form of Equation (2) and of the identities discussed later results from
+overlooking some complexities in the definitions of GDP and national income.
+To begin with we are dealing with a ‘closed’ economy, hence exports and imports
+do not appear in Equation (2). We later extend the simple model to include the
+components of exports and imports. We also assume that prices are constant,
+that is, all the variables are real variables and hence the changes in these variables
+are also in real terms.
+In the Indian context, National Accounts Statistics (NAS) provides the break-up
+of the GDP components. The GDP (or Y in the model) is calculated as:
+GDP = PFCE + GFCE + GCF + NX
+Where,PFCE (C in Equation 2) is private final consumption expenditure by
+households
+GFCE (G in Equation 2) is government final consumption expenditure
+GCF (I in Equation 2) is gross capital formation
+NX is net exports (exports – imports).
+Figure 11.1 shows the share of the major components of the GDP in India since
+1990-91. It is clear that the private final consumption expenditure by the household
+constitutes majority of the GDP. We now look at each of these components in
+details to understand how changes in fiscal policy influence the GDP.
+Fig. 11.1: Trends in share of major components of GDP in the overall GDP of India
+Source: CMIE
+
+
+--- Page 49 ---
+48
+Monetary and Fiscal Policies The components of Aggregate Demand
+I) Consumption
+The private final consumption expenditure (PFCE) by the household
+constitutes the largest part of the GDP in India, though its share has declined
+overtime. It formed 56.73 per cent of the total GDP (at constant prices) in
+2019-20.
+Keynes believed that the level of consumer expenditure is seen as a stable
+function of disposable income, where disposable income (YD) in our simple
+model is national income minus net tax payments (YD = Y 
+tY), where t
+represents the tax rate. The specific form of the consumption-income
+relationship, termed the consumption function, proposed by Keynes was:
+1C C c tY
+Fig. 11.2: The consumption schedule
+The intercept term, which is assumed to be positive, is the value of
+consumption when disposable income equals zero. As such, it can be thought
+of as a measure of the effect of variables other than income, i.e. of variables
+not explicitly included in this simple model on consumption. The parameter
+c, the slope of the function, gives the increase in consumer expenditure per
+unit increase in disposable income. In notation, we frequently use
+c C/ Y
+where, 
+  is called delta representing change or difference. It may be recalled
+that it is the marginal propensity to consume and is a function of several
+social-cultural and personal factors.
+II) Government Spending
+Government spending (G) is a second element of aggregate demand.
+Government spending is assumed to be controlled by the policy maker and
+therefore does not depend directly on the level of income. It is therefore
+sometimes represented as (G ¯   ) with the bar on top denoting that the variable
+is constant in the equation. We assume that the level of tax receipts (T) is
+also controlled by the policy maker and is a policy variable.
+III) Investment
+Investment is also a key variable in the Keynesian system. Change in the
+desired business investment expenditure was one of the major factors that
+Keynes thought was responsible for changes in income. Indeed, investment
+plays a dual role, it adds to aggregate demand and also to capacity creation,
+resulting in improved aggregate supply. We take the following function to
+explain the relationship of investment with the rate of interest (Figure 11.3).
+1C C c tY
+C

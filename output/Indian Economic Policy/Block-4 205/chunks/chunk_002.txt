@@ -1,0 +1,517 @@
+--- Page 11 ---
+113
+Agriculture: Issues,
+Concerns, Policy and
+Programmatic Initiatives
+Table 13.5: Allocation to Irrigation Projects as percentage to GDP
+Year 1981-82 1990-91 1995-96 2000-01 2005-06 2011-12 2013-14
+Share 1.4 0.7 0.7 0.7 0.8 0.6 0.5
+Source: Shantanu De Roy(2017), “Economic Reforms and Agricultural Growth in India”,
+Economic and Political Weekly, vol LII no 9, March 4, 2017, p.70 (Table 6).
+The low irrigation cover for various crops has led to severe rainfall dependency.
+One finds a high correlation between production and rainfall for pulses and
+oilseeds.
+13.3.3 Failure to Evolve and Adopt New Technologies
+India was able to avail of the potential of seed-fertilizer technology because of
+favourable international research collaborations. However, the country has failed
+to make a major breakthrough in frontal areas like biotechnological research. In
+India, public funding for agriculture Research and Education (R&E) is contributed
+by both Centre and States with around 55.4 per cent of the total allocation
+contributed by the Centre and 44.6 per cent by states. Lack of investment in
+research and technology in agriculture has resulted in the non-availability of any
+new cost– reducing technology in agriculture and has led to declining input
+efficiency. One of the main reasons for the low levels of yields in Indian agriculture
+has been the unsatisfactory spread of new technological practices including HYVs
+of seeds and usage of fertilizers and pesticides and inadequate spread of farm
+management techniques and other practices such as soil conservation and crop
+rotation.
+Between 2000-01 and 2014-15, India’s total R & E expenditure for agriculture
+and allied activities in real terms (2004-05 prices) has increased from Rs. 31.1
+billion to Rs. 61.6 billion (a compound annual growth rate of 5 per cent). However,
+as a percentage of GDP from agriculture (GDPA), it amount to about 0.54 per
+cent in 2014-15.
+13.3.4 Shrinking Farm Size
+The shrinking size of average land holding of an Indian farmer has held back
+agricultural productivity and there is not much that can be done about this. Due
+to smaller holding size majority of Indian farms find it difficult to access
+institutional credit, access new technology, adopt more efficient form of farm
+practices and undertake more capital-intensive investment for land improvement.
+The average landholding size of a household has shrunk marginally to 1.1 hectare
+(ha) in 2015-16 from 1.16 ha three years ago, according to a rural survey carried
+out by the National Bank for Agriculture and Rural Development (NABARD).
+The said survey shows that nearly one-thirds of farmers have land parcels smaller
+than 1 ha, while 37 per cent of farm households owned land parcels of smaller
+than 0.4 ha, another 30 per cent had holdings which fall between 0.41 and 1.0 ha.
+Only 16 per cent agricultural households owned landholdings in between 1 to 2
+ha and only 13 per cent of farmers have holdings bigger than 2 ha.
+
+
+--- Page 12 ---
+114
+Sector Specific Issues and
+Policies
+Table 13.6: Trends in Farm Size Holdings in India (Unit in Million)
+Holding 1970-71 1980-81 1990-91 2000-01 2010-11
+Marginal 36 50 83 75 93
+Small 13 16 20 23 25
+Medium 19 21 22 21 20
+Large 3 2 2 1 1
+Note: Marginal: up to 1 hectare, Small: 1-2 hectares, Medium: 2-10 hectares, Large: over 10
+hectares. Sources: Agriculture Census 2011
+13.3.5 Non-availability or Inadequate Credit from Formal
+Sources
+Shantanu De Roy (2017) using the data from RBI’s Handbook of Statistics for
+Indian Economy computed the trends in (a) opening of new rural branches, (b)
+credit-deposit ratio in rural areas and (c) shares of priority sector and agriculture
+in total outstanding credit of Commercial Banks which are presented in Figures
+(Figure 13.2A to 13.2C). It may be observed that reduction in bank branches in
+rural areas and declining credit–deposit ratios led to increased dependence of
+smaller cultivators on private moneylenders at exploitative conditions.
+Reduced emphasis on priority sector lending with financial liberalisation had
+led to reduction in the availability of credit to small and marginal cultivators and
+made cultivation more expensive. Trends in credit–deposit ratio and shares of
+priority sector and agriculture in total outstanding credit of commercial banks
+indicate that both declined in the 1990s as compared to the 1980s. Since 2001,
+however, there has been a turnaround, whereby there were steep increases in
+these ratios. Increase in rural credit since 2001 was largely due to an increase in
+indirect finance in agriculture and definitional changes that incorporated export-
+oriented and capital-intensive agriculture under priority sector lending. Main
+beneficiaries of this change were large agribusiness companies and big cultivators.
+The share of the latter in total credit outstanding and loan per account increased
+substantially between the mid-1990s and 2004–05.
+Fig. 13.2A: Trends in the declining Rural Branches in India
+Source: Computed from the Handbook of Statistics, Reserve Bank of India, various years.
+ 
+0 
+20 
+40 
+60 
+80
+1981 
+1983 
+1985 
+1987 
+1989 
+1991 
+1993 
+1995 
+2005 
+2007 
+2011 
+2013 
+1997 
+1999 
+2001 
+2003 
+2009 
+2015 
+Share of Rural branches in total branches of 
+commercial banks (%) 
+
+
+--- Page 13 ---
+115
+Agriculture: Issues,
+Concerns, Policy and
+Programmatic Initiatives
+Fig. 13.2B: Trends in the declining Credit-Deposit Ratio
+Source: Computed from the Handbook of Statistics, Reserve Bank of India, various years.
+Fig. 13.2C: Shares of Priority Sector and Agriculture in Total Outstanding Credit of
+Commercial Banks
+13.3.6 Imbalance in the use of Fertilizer
+In general, the nitrogenous (N), phosphate (P) and potash (K) Fertilizers’ ratio of
+4:2:1 is considered to be optimum for India. The total fertilizer-use in India
+increased at 6 per cent per annum from 2.65 million tons of NPK in 1971-72 to
+28.12 million tons in 2010-11. In the early 1970s Indian farmers applied N, P
+and K in the ratio of 6.0:1.9:1.0, which increased to 9.5:3.2:1 in 1992. The ratio
+worsened further to 10:2.9:1 in 1996. In 2012–13, the ratio of NPK use in India
+reached 8.2:3.2:1, which is more imbalanced compared to the early 1970s.
+Imbalance in the use of fertilizers in soil may also result in a loss of fertility.
+13.3.7 Effectiveness of Minimum Support Prices (MSPs)
+MSPs are declared prior to each sowing season (in June and October) so that
+farmers are aware of the minimum price the government will offer for their
+produce. As per a report by the NITI Aayog, a low proportion of farmers (10 per
+cent) were aware of MSPs before the sowing season. 62 per cent of the farmers
+were informed of MSPs after sowing their crops. The pricing policy of MSPs
+would be effective only if farmers are aware of it at the time of deciding what
+crops to grow. The NITI Aayog recommended that the awareness level of farmers
+regarding MSPs must be increased and the mediums of dissemination of this
+information must be strengthened.
+ 
+0 
+10 
+20 
+30 
+40
+50
+1981 
+1986 
+1991 
+1996 
+1998 
+2000 
+2002 
+2004 
+2006 
+2008 
+2010 
+2012 
+2014 
+Priority Sector 
+Agriculture 
+ 
+1986 
+1990 
+1994 
+1998 
+2002 
+2006 
+2010 
+2014 
+120 
+0 
+20 
+40 
+60 
+80
+100 
+
+
+--- Page 14 ---
+116
+Sector Specific Issues and
+Policies
+Other issues with the implementation of the MSP regime include long distances
+to the procurement centres, increasing cost of transportation for farmers, irregular
+hours of the procurement centres, lack of covered storage godowns and inadequate
+storage capacity, and delays in the payment of MSPs to farmers.
+13.3.8 Inadequate Availability and Access to Quality Seeds
+Quality seeds are another input necessary for agricultural productivity, and good
+quality seeds account for 20 per cent-25 per cent of increased crop productivity.
+Agricultural seeds are produced by various agencies such as Indian Council of
+Agricultural Research and its research institutions, state agricultural universities,
+and national and state seeds corporations. The private sector has also started
+playing a role in supplying some seeds such as hybrid maize, bajra, cotton and
+sunflower. About 30 per cent-35 per cent of the total seeds available are produced
+by private and public sector companies, and farm bred seeds account for the
+remaining seeds. The cost of HYV varieties is too high for marginal and small
+farmers to afford, thus disincentivising them from purchasing these varieties.
+The Economic Survey 2015-16 recommended bringing in more players into the
+production of seeds, to improve their availability in the market and also reduce
+their prices.
+13.3.9 Farm Mechanisation: Major Challenges
+Mechanisation is another aspect with a significant impact on agricultural
+productivity. It makes activities such as tilling, spreading of seeds and fertilizers
+and harvesting more efficient, so that the cost of inputs is offset. It can also make
+the use of labour in agriculture more cost-effective. The status of mechanisation
+in agriculture varies for different activities, although the overall level of
+mechanisation is still less than 50 per cent, as compared to 90 per cent in developed
+countries.
+Some challenges faced by farm mechanisation include different soil and climatic
+zones which require customised farm machinery, and small land holdings with
+lack of access to resources.  To increase productivity, farm equipment which is
+durable, lightweight and low cost and also specific to different crops and regions
+should be made available for small and marginal farmers.
+13.3.10   Post-harvest Activities-Inadequate Storage Facilities
+After agricultural produce is harvested, it requires a robust storage infrastructure
+in order to minimise any losses due to adverse weather conditions or in the process
+of transportation. Owing to the inadequate capacity and poor conditions of storage,
+the quantity of food which is wasted during the harvest and post-harvest processes
+in the country has increased over the years. The highest losses are observed in
+the case of fruits and vegetables (up to 40 per cent of production), pulses (6.4 per
+cent-8.4 per cent) and oilseeds (5.3 per cent-9.9 per cent).
+In sum, Indian agriculture continues to face challenges, some new and some old,
+such as: (i) declining availability/quality of soil, water and other natural resources;
+(ii) decreasing size of farm holdings; (iii) inefficient use of inputs and their
+increasing costs; (iv) scarce and more costly agriculture labour; (v) drudgery in
+farming operations; (vi) growing risks in farming at all its stages from pre-
+production to production to marketing; (vii) increasing information gap,
+
+
+--- Page 15 ---
+117
+Agriculture: Issues,
+Concerns, Policy and
+Programmatic Initiatives
+knowledge gap and skill gap; (viii) poor access to credit and investments; (ix)
+slow diffusion of relevant technologies; (x) competitiveness of quality and prices
+in domestic and export markets; (xi) inadequate focus on processing and value
+addition; (xii) inadequate rural infrastructure; (xiii) regional imbalances; (xiv)
+problems in retaining rural youth in agriculture; (xv) poor access to resources
+and services for women in agriculture; (xvi) weak institutional/sub-system
+linkages and convergence; and (xvii) extreme events of climate change.
+Check Your Progress 2
+1) Discuss the factors responsible for slow growth in agriculture in recent years.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) How does public investment in agriculture affects the productivity growth
+of the sector in India? Give reasons.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) Give a critical appraisal of the flow of institutional credit for agriculture in
+India.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+4) Do you agree with the view that shrinking farm size in India is a major
+factor of sluggish growth and rural poverty in India?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+13.4 TRANSFORMATION OF INDIAN
+AGRICULTURE: STRATEGIES FOR
+DEVELOPMENT (1951-2002)
+Agricultural sector in India has moved from a traditional agriculture in the 1950s
+to the modern, technologically dynamic high capital-intensive agriculture, in
+
+
+--- Page 16 ---
+118
+Sector Specific Issues and
+Policies
+which along with food and non-food crops, horticulture and other allied activities
+have also expanded. In the context of Indian agriculture, three distinct phases of
+growth can be distinguished as follows:
+Phase I: Traditional Agriculture (1951-1966)
+— First sub-period (1951-61)
+— Second sub-period (1961-66)
+Phase II: Technologically Dynamic Agriculture with New Agriculture
+Strategy (NAS) (1966 - 2002)
+Phase III: Post Green Revolution (GR) Policy/Schematic Initiatives
+13.4.1 Phase I: Traditional Agriculture (1951-1966)
+This is a technologically stagnant phase in which a larger farm production becomes
+generally possible only through increased application of all three traditional inputs,
+viz. land, labour and capital. The rate of increase of output is normally smaller
+than the rate of increase in inputs-revealing diminishing productivity of inputs,
+even at a low yield. Till mid-1960s, the Indian agriculture was typically embodied
+within the characteristics of traditional agriculture.
+The primary feature of this period was that production of agricultural crops
+consistently maintained an upward trend, except for small dips in two years,
+1957-58 and 1959-60. Independent India implemented various programmes, listed
+below, as part of the effort to increase production and to ensure food security.
+Grow More Food Campaign,
+Intensive Agricultural Development Programme (1950-51),
+Community Development Programme (1952),
+National Extension Service (1953), and
+Intensive Agricultural District Programme (1960-61)
+Neglect of the agricultural sector during the Second Plan, the short war with
+China in 1962 and with Pakistan in 1966, the widespread drought in the east
+India culminated in a food crisis. In 1965-66, foodgrain production in the country
+fell from 83 million tons in 1960-61 to 72 million tons. This led to a serious
+crisis in the Indian economy, as the growth in foodgrains production was
+inadequate to meet the consumption needs of the growing population and food
+imports became essential.
+13.4.2 Phase II: Technologically Dynamic Agriculture with New
+Agriculture Strategy (NAS):1966 - 2002
+This is the beginning of the process of transformation from traditional agriculture
+to modern agriculture. The distinguishing feature of phase II is the application of
+science and technology, evolved by research institutions, in a progressively large
+scale. The ‘New Agricultural Strategy’ was India’s response to the grave and
+long - standing food crisis that culminated in the 1960s.
+The salient features of the Green Revolution Strategy are briefly listed below:
+Revolution in Biotechnology: Biotechnology - a hybrid of genetics and
+chemistry determines the maximum biological performance of plants and
+
+
+--- Page 17 ---
+119
+Agriculture: Issues,
+Concerns, Policy and
+Programmatic Initiatives
+animals and also influences the scope and effectiveness of other forms of
+technology as well.
+Green Revolution as Package Programme: consisting of improved seeds,
+inorganic fertilizer, irrigation, and plant protection code (PPC) combined
+with agricultural R&D
+Central Role of High Yielding Varieties or ‘Miracle seeds’:  The response of
+the traditional varieties to fertilizer was said to be negative. When they are
+fertilized with chemicals, they would shoot up even faster, grow dense, stoop
+and lodge on the ground reducing the photosynthetic work, and in the end
+would yield even less.
+An important characteristic of modern varieties is their ability to utilise
+nutrients and water efficiently, and to trans-locate more of them to grain
+formation than to other parts such as leaf. The unique feature of these seeds
+is that it can grow and work uninterruptedly even under cloudy skies, which
+drastically cuts down the time needed to produce a crop. This results in a
+quantum jump in yield.
+Spread of Green Revolution limited to irrigated areas.
+Confined to Wheat Revolution:  Presently 90 per cent of lands engaged in
+wheat cultivation have benefitted from this new agricultural strategy. Most
+of the HYV seeds are related to wheat crop and major portion of chemical
+fertilizers are also used in wheat cultivation.
+13.4.3 Impact of Green Revolution on Production and Yield of
+Major Crops During the Entire Planning Period
+The rate of growth of wheat production which was 4 per cent per annum in
+the pre-green revolution period (1949-50 to1964-65) shot up to 5.7 per cent
+per annum. During the sub-Phase I, i.e. initial phase of green revolution
+(1967-68 to1980-81) the rate of productivity doubled over the period from
+1.3 per cent per annum to 2.6 per cent per annum. It was due to the adoption
+of new HYVs of seeds in the irrigated areas in certain regions of the country.
+Other crops picked up in the decade of 1980s, for instance, rice and oilseeds
+did considerably better in 1980s as compared with 1967-68 to 1980-81 and
+green revolution started spreading to more crops and this period is termed
+as the maturing of green revolution.
+During pre-green revolution phase, the contribution of area growth to output
+growth was 50.1 per cent while that of yield growth was only 38.4 per cent.
+During the green revolution or post green revolution phase, yield growth
+became the dominant source of growth of output, i.e. 85.2 per cent of growth
+was accounted for by yield growth while area expansion only contributed
+only 14.4 per cent.
+Deceleration in agricultural growth rates in the reform period commencing
+in 1991: Rate of growth of food grains production fell from 2.9 per cent in
+1980s to 2 per cent in 1990s and remains stagnant thereafter at around 1.2
+per cent during 1999-2019.Similarly rate of growth of productivity fell from
+2.7 per cent in 1980s to 1.51 per cent in 1990s and further decreases to 1.3
+per cent during the period 2000-19.
+
+
+--- Page 18 ---
+120
+Sector Specific Issues and
+Policies
+Thus in the reform period, the resurgent growth in agriculture from mid-1960s
+was arrested.
+Green revolution generated employment opportunities in diverse activities which
+were created as a result of multiple cropping and mechanisation of farming. It
+helped to stimulate non-farm economy that generated newer employment in
+various services such as milling, marketing, warehousing, etc. Another positive
+effect of Green Revolution is the ploughing back of increased profits in agriculture.
+Increased production and productivity of foodgrains in post green revolution
+period not only helped in maintaining the price stability in food grains but also
+strengthened the forward and backward linkages with industry.
+Negative socio-economic impacts of Green Revolution
+The new agriculture strategy has resulted in increased productivity and returns
+for farmers. However, the revolution resulted into increased income with wide
+interpersonal and regional inequality and inequitable asset distribution:
+Being costly, NAS was adopted by large farmers resulting in interpersonal
+inequalities.
+NAS was confined to only irrigated areas, resulting in an increase in regional
+disparities.
+Restrictive Crop Coverage: The new agriculture strategy involving use of
+HYV seeds was initially limited to wheat and other major crop rice responded
+much later. The progress of developing and application of HYV seeds in
+other crops especially commercial crops like oilseeds, jute, etc. has been
+very slow. In fact, in a certain period, a decline in the output of commercial
+crops is witnessed because of diversion of area under commercial crop to
+food crop production.
+Check Your Progress 3
+1) Give an account of major programmes implemented during first one and a
+half decade of planning era for enhancing the foodgrains production in India.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) Enhancing the productivity of agriculture is the key to inclusive growth
+which is possible only with ‘strategic management’ and ‘technological
+upgradation’ in the sector. Discuss.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 19 ---
+121
+Agriculture: Issues,
+Concerns, Policy and
+Programmatic Initiatives
+3) What are the unique characteristics of the New Agriculture Strategy (also
+called Green Revolution)? Do you think India needed such strategy to address
+its food shortage? Narrate the positive and negative impacts of the Green
+Revolution.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+4) The Green Revolution and consequent increase in agriculture produce has
+worked to the disadvantage of farmers. Critically analyse the statement.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+13.5 TRANSFORMATION OF INDIAN
+AGRICULTURE: STRATEGIES FOR
+DEVELOPMENT 2002-2014
+The analysis of growth dynamics of agriculture after adoption of NAS reveals
+that agricultural development strategies must be reoriented to meet the needs of
+farmers and called upon the Central and State governments to evolve a strategy
+to rejuvenate agriculture. The new strategy requires extending the first Green
+Revolution to the second Green Revolution in Eastern Part of the country or to
+Evergreen Revolution throughout the country to ensure that growth in agriculture
+is sustainable in future. This called for giving more autonomy and degree of
+freedom to states in formulating agricultural policies.
+13.5.1 Rashtriya Krishi Vikas Y ojana (RKVY)
+Given the fact that by the end of 1990s, rates of growth of both production and
+the yield plateaued or rather declined, National Development Council (NDC)
+resolved on 29.5.2007 that agricultural development strategies must be reoriented
+to meet the needs of farmers and called upon the Central and State governments
+to evolve a strategy to rejuvenate agriculture. In compliance of the NDC resolution
+Ministry of Agriculture and Farmers Welfare launched a new Scheme named
+Rashtriya Krishi Vikas Yojana (RKVY) in 2007 with the following objectives:
+To incentivise the states that increase their investment in agriculture and
+allied sectors;
+To provide flexibility and autonomy to the States in planning and executing
+programmes for agriculture;
+To ensure the preparation of agriculture plans for the districts and states;
+
+
+--- Page 20 ---
+122
+Sector Specific Issues and
+Policies
+To achieve the goal of reducing the yield gaps in important crops;
+To maximise returns to the farmers;
+To address the agriculture and allied sectors in an integrated manner.
+The macro-level impact of RKVY at both the national and state level has been
+measured using three growth indicators. These indicators are: (i) growth in GDP,
+overall GSDP and agricultural GSDP (ii) growth in agricultural area and
+production and (iii) percentage of agriculture expenditure out of states’ budget
+and agriculture GSDP. The growth in agricultural GDP of the country was 2.4
+per cent per annum in the 10
+th Plan that increased to 3.7 per cent per annum in the
+11th Plan. The overall growth rate of GSDP of 28 states (excluding the UTs) also
+went-up from 7.61 per cent in 10th FYP to 8.63 per cent in the 11th FYP. Similarly,
+the overall agriculture GSDP of 28 states grew from 2.38 per cent in 10th FYP to
+3.66 per cent in 11th FYP.
+13.5.2 Second Green Resolution
+Green Revolution accelerated the yields of major food crops such as paddy, wheat,
+millets and oil seeds, particularly in the states of Punjab, Haryana, parts of Uttar
+Pradesh and Rajasthan. Green Revolution in India created a huge impact in terms
+of crop production but it had several negative impacts like gradual loss of soil
+fertility, increasing alkalinity and salinity, water-logging, depletion of ground-
+water resources, decreasing bio– diversity, chemical poisoning of soils, surface
+water and food. The first Green Revolution was launched to ensure food security
+as there was severe scarcity of food in the country. Now our food supply is well
+secure and meeting the growing needs is within reach. Therefore, the second
+Green Revolution should aim at promoting sustainable livelihood, enabling the
+poor to come out of poverty by generating gainful self-employment. There is a
+need for a second green revolution which could potentially address the negative
+impacts of the climate change through some kinds of farming like:
+Agro-forestry on Degraded Lands: The focus should be on sustainable use
+of degraded and low fertility lands deprived of irrigation. Such lands can be
+profitably used for establishment of drought tolerant fruit crops and
+agriculture-horticulture pastures.
+Farming on W astelands: Apart from un-irrigated lands, there are large
+stretches of wastelands in India. Among the estimated 40-50 million ha of
+wastelands, more than 9 million ha are sodic wastelands (Fertile irrigated
+fields which turned sodic due to excessive use of water for irrigation and
+poor drainage facilities). With reclamation of sodic lands, it is possible to
+enhance food production while creating employment for 8-10 million people.
+Organic Agriculture: cultivation with out any use of chemical inputs like
+mineral fertilizers and chemical pesticides.
+Green Agriculture: cultivati on with the help of integrated pest management,
+integrated nutrient supply and integrated natural resource management
+systems.
+Eco-agriculture: Based on conservation of soil, water and biodiversity and
+the application of traditional knowledge and ecological prudence.
+EM Agriculture: sy stem of farming using effective microorganisms (EM).

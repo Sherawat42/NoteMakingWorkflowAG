@@ -1,0 +1,392 @@
+--- Page 69 ---
+68
+Monetary and Fiscal Policies
+11.7 GOODS AND SERVICES TAX (GST)
+India adopted the value added tax (V AT) both at the Central and State level in
+2005 with most states and union territories implementing the V AT. However,
+both central V AT (i.e., CENV AT) and the State V AT had certain incompleteness.
+The incompleteness in the CENV AT was that it had not been extended to include
+chain of value addition in the distributive trade below the stage of production.
+Similarly, in the State-level V AT, CENV AT load on the goods had not yet been
+removed and the cascading effect of that part of tax burden had remained
+unrelieved. Moreover, there were several taxes in the States, such as, Luxury
+Tax, Entertainment Tax, etc. which were still not been subsumed in the V AT.
+Also there had not been any integration of V AT on goods with tax on services at
+the state level in order to remove cascading effect of service tax. CST was another
+source of distortion in terms of its cascading nature. It was also against one of
+the basic principles of consumption taxes that tax should accrue to the jurisdiction
+where consumption takes place. Despite remarkable harmonisation in V AT, the
+national market was fragmented with too many obstacles in free movement of
+goods necessitated by procedural requirement under V AT and CST.
+Integration of Central V AT and State V AT therefore was nothing but an inevitable
+consequence of the tax reform process. As a natural corollary of this, any
+unification of the taxation system required a dual GST, levied and collected both
+by the Union and the States.Power of taxation is assigned to both the Union and
+States under Schedule VII of the Constitution. While the Centre is empowered to
+tax goods up to the production or manufacturing stage, the States have the power
+to tax goods at distribution stage. The Union can tax services using residuary
+powers but States could not. Under a unified Goods and Services Tax scheme,
+both should have power to tax the complete supply chain from production to
+distribution, and both goods and services. The Constitution (115
+th Amendment)
+Bill, 2011, in relation to the introduction of GST, was introduced in the Lok
+Sabha on 11.03.2011. The Bill was referred to the Standing Committee on Finance
+on 29.03.2011 which submitted its report on the Bill in August, 2013. However,
+the Bill was lapsed with the devolution of the 15
+th Lok Sabha. The Constitution
+(122nd Amendment) Bill, 2014 was introduced in the 16thLok Sabha on 19.12.2014.
+The Constitution Amendment Bill was passed by the Lok Sabha in May, 2015.
+The Bill with certain amendments was finally passed in the Rajya Sabha and
+thereafter by Lok Sabha in August, 2016. Further the bill was ratified by required
+number of States and received assent of the President on 8
+th September, 2016
+and has since been enacted as Constitution (101st Amendment) Act, 2016 w.e.f.
+16.09.2016.
+The Goods and Services Tax (GST) was rolled out across the country on July 1,
+2017. It replaced several existing multiple taxes levied by the central and state
+governments.The central and states taxes subsumed in GST is shown in Table
+11.3.
+India adopted the dual GST model because of its unique federal nature. Under
+this model, tax is levied concurrently by the Centre as well as the States on a
+common base, i.e. supply of goods or services or both. GST levied by the Centre
+would be called Central GST (CGST) and that levied by the States would be
+called State GST (SGST) and that levied by union territories without legislature
+will be called UGST. For inter-state transactions and imported goods or services,
+
+
+--- Page 70 ---
+69
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+an Integrated GST (IGST) is levied by the Central Government. GST is a
+consumption-based tax/destination-based tax, therefore, taxes are paid to the
+state where the goods or services are consumed not the state in which they were
+produced.
+Goods and services are divided into five different tax slabs for collection of tax–
+0 per cent, 5 per cent, 12 per cent, 18 per cent and 28 per cent. However, petroleum
+products, alcoholic drinks, and electricity are not taxed under GST and instead
+are taxed separately by the individual state governments, as per the previous tax
+system
+8.
+Table 11.3: Central and States Taxes Subsumed under GST
+As provided for in Article 279A of the Constitution, the GST Council (the
+Council
+9) was notified with effect from 12.09.2016 which is responsible for
+conducting regular meeting and taking majority of GST related decisions. One
+half of the total number of Members of the Goods and Services Tax Council
+shall constitute the quorum at its meetings. Every decision of the Goods and
+Services Tax Council shall be taken at a meeting, by a majority of not less than
+three-fourths of the weighted votes of the members present and voting, in
+accordance with the following principles, namely: – a) the vote of the Central
+Government shall have a weightage of one-third of the total votes cast, and b)
+the votes of all the State Governments taken together shall have a weightage of
+two-thirds of the total votes cast, in that meeting.
+Since its implementation there has been a feeling among states that they have
+ceded more ground to the union government and that their freedom with regard
+to changing the rates of value-added tax (V AT), their main source of revenue
+was entirely lost. In order to protect any revenue loss to states on account of
+switching to GST, the Goods and Services Tax (Compensation to States) Act,
+2017 was enacted in 2017. Compensation will be provided to states for a period
+Central Taxes
+1. Central Excise duty (CENV A T)
+2. Service Tax
+3. Additional Excise Duties
+4. Excise duty (Medicinal &
+Toiletries Preparation  Act)
+5. Additional duties of Customs -
+Countervailing Duty (CVD)-
+Special Additional Duty (SAD)
+6. Central Surcharges & Cess
+State Taxes
+1. State V AT /Sales Tax
+2. Central Sales Tax
+3. Purchase Tax
+4. Entertainment Tax (not levied by local
+bodies)
+5. Luxury Tax
+6. Entry Tax (All forms)
+7. Taxes on lottery, betting & gambling
+8. State Surcharges & Cess
+8 Besides, some goods and services are exempt also. Rate for precious metals and affordable
+housing are an exception to ‘four-tax slab-rule’ and the same has been fixed at 3 per cent and
+1 per cent respectively. In addition, unworked diamonds, precious stones, etc. attracts a rate of
+0.25 per cent. A cess over the peak rate of 28 per cent on certain specified luxury and demerit
+goods, like tobacco and tobacco products, pan masala, aerated water, motor vehicles is imposed
+to compensate States for any revenue loss on account of implementation of GST. The list of
+goods and services in case of which reverse charge would be applicable has also been notified.
+9 The Council is comprised of the Union Finance Minister (who is the Chairman of the Council),
+the Minister of State (Revenue) and the State Finance/Taxation Ministers as members.
+
+
+--- Page 71 ---
+70
+Monetary and Fiscal Policies of five years– July 2017-June 2022. For the purpose of calculating the
+compensation amount to be paid to states in any financial year, their revenues in
+2015-16 from taxes subsumed in GST will be considered as the base year. A
+growth of 14 per cent over the base subsumed revenue would be guaranteed to
+the states. If a state’s GST revenue fall short of the of the 14 per cent protected
+revenue, its revenue loss will be compensated up to the level of assured protection.
+Table 11.4 shows the trend in GST collections since its implementation from 1
+July 2017. The overall Y-o-Y growth in the collection in 2019-20 over 2018-19
+was 3.8 per cent.
+Table 11.4: Trend in GST collection (Rs. Crore)
+Month 2017-18 2018-19 2019-20 Y-o-Y change
+in 2019-20
+(per cent)
+April – 1,03,459.0 1,13,865.0 10.06
+May – 94,016.0 1,00,289.0 6.67
+June – 95,610.0 99,939.0 4.53
+July 21,572.0 96,483.0 1,02,083.0 5.80
+August 95,633.0 93,960.0 98,202.0 4.51
+September 94,064.0 94,442.0 91,916.0 -2.67
+October 93,333.0 1,00,710.0 95,380.0 -5.29
+November 83,780.0 97,637.0 1,03,492.0 6.00
+December 84,314.0 94,726.0 1,03,184.0 8.93
+January 89,825.0 1,02,503.0 1,10,828.0 8.12
+February 85,962.0 97,247.0 1,05,366.0 8.35
+March 92,167.0 1,06,577.0 97,597.0 -8.43
+Total 7,40,650.0 11,77,370.0 12,22,141.0 3.80
+Source: GST Council
+Check Your Progress 3
+1) State the objectives of FRBM Act, 2003.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) What was the targeted fiscal deficit to GDP ratio by the 12
+th Finance
+Commission?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+
+
+--- Page 72 ---
+71
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+3) Explain the channels through which the global financial crises affected Indian
+economy.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+4) State the important recommendations of FRBM Review Committee.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+5) Which commodities are out of purview of GST?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+11.8 LET US SUM UP
+Fiscal Policy refers to the policy under which government uses its expenditure
+and revenue programme to produce desirable effects and avoid undesirable effects
+on the national income, production and employment. For understanding how
+changes in government spending and taxation effects equilibrium level of income
+and interest rate in the economy it is desirable to know the IS-LM framework.
+Hence Section 11.2 throws light on theoretical analysis of the IS-LM framework.
+Fiscal Policy during 1970s focussed on achieving greater equity and social justice
+and both taxation and expenditure were employed towards this direction. During
+1980s, the fiscal deterioration took place and eventually became unsustainable.
+Rising deficits and debt raised the price of serving the debt in terms of mounting
+interest payments. This in turn reduced the quality of the expenditure at the cost
+of social and developmental expenditure.
+In the post-reforms period the direct tax structure was simplified and rationalised.
+As a result, the share of indirect tax declined to 45 per cent and share of direct
+tax increased to 35 per cent by 2005-06.
+On the expenditure side, the strategy was focused to reduce the subsidies and
+cutting down on non-capital expenditure. By 2005-06, the interest component
+came down to 30 per cent and defence and subsidies each took up 11 per cent.
+
+
+--- Page 73 ---
+72
+Monetary and Fiscal Policies Despite these measures, the rising trend of fiscal revenue deficits since 1997-
+1990 reflected signs of distress. By 2003-04, the combined liabilities of the Centre
+and the States were up at 81.09 per cent of GDP from 70.59 per cent in 2000-01.
+This necessitated having a new fiscal discipline frame work and consequently
+the Fiscal Responsibility and Budgetary Management Act, 2003 was adopted in
+2004.
+The good and services tax which replaced the layers of multiple taxes levied by
+the Central and State Governments has been introduced across the country since
+July 1, 2017. Under the dual GST model, the tax is levied concurrently by the
+Centre as well as the States on a common base i.e. supply of goods or services or
+both.
+11.9 TERM-END EXERCISES
+1) Explain how IS-LM framework is useful to examine the impact of
+government spending and taxation on aggregate income, saving and interest
+rate.
+2) Elaborate the broad trends in the pattern of public revenue and public
+expenditure during last 30 years.
+3) What do you mean by fiscal imbalance? What are the measures of fiscal
+imbalance? How far FRBMA has been effective to correct fiscal imbalances?
+4) State the channels through which global financial crises had affected Indian
+economy. How far the fiscal policy in India been effective to mitigate the ill
+effects of global financial crises?
+5) State the salient features of Goods and Services Tax. Do you think it was a
+right step to raise the State’s resources and in bringing transparency in tax
+compliance?
+6) What measures will you suggest to improve the working of fiscal policy in
+India?
+11.10   KEY WORDS
+Balance of Payments (BOP) : Statement of the country’s trade and financial
+transactions with the rest of the world during
+the year.
+Capital Budget : This consists of capital receipts and payments.
+It also incorporates transactions in the Public
+Account.
+Capital Receipts : The main items of capital receipts are loans
+raised by government from public which are
+called market loans, borrowings by government
+from Reserve Bank and other parties through
+sale of treasury bills, loans received from
+foreign bodies and governments, and recoveries
+of loans granted by the Union government to
+state and Union territory and other parties.
+Direct Tax : Tax levied by government on the income and
+wealth received by households and businesses.
+
+
+--- Page 74 ---
+73
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+Fiscal Deficit : The difference between revenue receipts plus
+non-debt capital receipts on one side and total
+expenditure including loans, net of repayments
+on the other side.
+Fiscal Policy : An instrument of demand management which
+seeks to influence the level of economic activity
+in an economy through the control of taxation
+and government expenditure.
+Indirect Tax : A tax levied by government on goods and
+services.
+Monetary Policy : The tool of macro-economic policy which
+involves the regulation of money supply, credit
+and interest rates in order to control the level
+of spending in the economy.
+Non-Tax Revenue : These receipts of government mainly consist
+of interest and dividend on investments made
+by government; fees and receipts for other
+services rendered by government.
+Primary Deficit : The fiscal deficit minus interest payments.
+Public Debt : National debt and other miscellaneous debt for
+which the government is ultimately
+responsible. This would include the
+accumulated debt of nationalised industries and
+local authorities.
+Revenue Budget : This consists of the revenue receipts of the
+government (tax revenues and other revenues)
+and the expenditure met from these revenues.
+Tax Revenues : These comprise proceeds of taxes and other
+duties levied by the concerned authority.
+Tax Avoidance : Efforts to avoid paying tax by legal means.
+Tax Evasion : Efforts to evade the payment of tax by illegal
+means.
+Tax Base : The total pool which tax authorities can tap
+when levying a tax.
+Value Added Tax (V AT) : A general tax applied at each point of exchange
+of goods or services from primary production
+to final consumption. It is levied on the
+difference between the sale price of output and
+the cost incurred on its production.
+11.11   REFERENCES
+1) Froyen R.T., “ Macroeconomics: Theories and Policies”, 10th edition, Pearson
+Education Ltd.
+
+
+--- Page 75 ---
+74
+Monetary and Fiscal Policies 2) Dornbusch R., Fischer S. and Startz R., “ Macroeconomics”, 11th edition,
+McGraw-Hill Irwin
+3) De S. (2012) . “Fiscal Policy in India: Trends and Trajectory”, Department
+of Economic Affairs Paper Series.
+4) Rao M.G . and Rao. K.R. (2006).“Trends and Issues in Tax Policy and Reform
+in India” India Policy Forum, NCAER.
+5) Singh C., Prasad D., Sharma K.K., and Reddy S. (2017). “A Review of the
+FRBM Act” , Working paper no. 550, Indian Institute of Management,
+Bangalore.
+6) Reddy Y .V . and Reddy G .R. (2019). Indian Fiscal Federalism, Oxford
+University Press.
+7) Department of Revenue (2019). “Goods and Services Tax (GST): Concept
+and Status” Ministry of Finance, Government of India, August.
+8) Ministry of Finance (2017). “FRBM Review Committee Report”, New Delhi,
+January.
+11.12 ANSWERS OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+Check Your Progress 1
+1) i) Household
+ii) Good market
+iii) Crowding-out effect of public investment
+2) See Sub-Section 11.2.1
+Check Your Progress 2
+1) See Sub-Section 11.3.2
+2) See Sub-Section 11.4.2
+3) See Sub-Section 11.4.2
+4) See Sub-Section 11.4.3
+Check Your Progress 3
+1) See Section 11.5
+2) 3 per cent of GDP
+3) See Section 11.6
+4) See Section 11.6
+5) See Section 11.7
+
+
+--- Page 76 ---
+75
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+UNIT 12 MAJOR DEVELOPMENT ON UNION
+STATE RELATIONS
+Structure
+12.0 Objectives
+12.1 Meaning of and Rationale for Federal Structure
+12.2 Pillars of Federal Finance
+12.2.1 Assignments
+12.2.1.1 Assignment of Public Expenditure
+12.2.1.2 Assignment of Revenue Sources
+12.2.2 Vertical and Horizontal Imbalances
+12.2.3 Correcting the Imbalances – Inter-governmental Transfers
+12.2.4 Sub-national Borrowing
+12.3 Institutions of Federalism in India
+12.3.1 Finance Commission
+12.3.2 Planning Commission/NITI Aayog
+12.3.3 GST Council
+12.4 The 14 th and 15th Finance Commissions
+12.5 Trends and Issues in Fiscal Federalism in India
+12.5.1 Centralisation and Vertical Imbalance
+12.5.2 Regional Equity and Horizontal Imbalance
+12.6 Let Us Sum Up
+12.7 Term-end Exercises
+12.8 Key Words
+12.9 References
+12.10 Answers or Hints to Check Your Progress Exercises
+Appendix 12.1
+Appendix 12.2
+12.0  OBJECTIVES
+This unit is concerned with Union-States financial relations.  After going through
+this unit, you should be able to:
+spell out the principles governing fiscal federalism;
+state the provisions enshrined in Indian Constitution relating to division of
+financial powers between Union and States;
+discuss the role of various elements of the institutional structure underpinning
+the Union and State relations;
+appreciate the role of Finance Commission as an institution, and the
+importance of major recommendations of various Finance Commissions over
+the years;
+critically examine the major recommendations of 14th Finance Commission,
+the Terms of Reference and the interim Report of the 15 th Finance
+Commission; and
+evaluate the dimension and nature of issues involved in contemporary Centre-
+State fiscal situation in the country.

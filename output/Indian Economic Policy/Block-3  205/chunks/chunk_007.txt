@@ -1,0 +1,416 @@
+--- Page 60 ---
+59
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+The basic corporate tax rate was reduced to 50 per cent and the rates for different
+closely held companies were made uniform at 55 per cent. In 1993-94, the
+distinction between the closely held and the widely held companies was removed
+and the uniform tax rate was brought down to 40 per cent. The rate was further
+reduced to 35 per cent with a 10 per cent tax on distributed dividends in 1997-
+98. Even after these reforms, some companies continued to take advantage of
+the exemptions and tax deduction that were there in place for backward places,
+export promotion and technology development. This led to the phenomenon of
+“zero-tax companies” whereby imaginative arrangements were used to leverage
+all these tax incentives with an intent to minimise tax liabilities. To counter this
+trend, the Minimum Alternative Tax (MAT) was introduced in 1996-97 that
+required a company to pay a minimum of 30 per cent of book profits as tax.
+Under the indirect taxes, the MODV AT credit system for excise was expanded to
+cover most commodities and provide a comprehensive credit system by 1996-
+97. The eleven rates were merged into three with a few luxury items subject to
+additional non-rebatable tax in 1999-2000. The three rates were merged in to a
+single rate and renamed as central V AT (CENV AT) in 2000-01. There remained
+three additional excises of 8, 16 and 24 per cent. In case of custom duties, in
+1991-92 all duties on non-agriculture goods that were above 150 per cent were
+brought down. The ‘peak rate’ was brought down to 40 per cent in 1997-98, 30
+per cent in 2002-03, 25 per cent in 2003-04, and 15 per cent in 2005-06. The
+number of major duty rates was also brought down from 22 in 1990-91 to 4 in
+2003-04. These four rates covered almost 90 per cent of customs collected from
+items.
+This period also saw the introduction of the service tax in 1994-95, which was
+subsequently expanded to cover more and more services. Given that the Indian
+economy was having an increasingly large service component, the service tax
+increasingly became a major source of revenue. Eventually, provisions were made
+for allowing input tax credits for both goods and services at the central indirect
+tax level.
+In line with the tax reform plans, the share of the direct taxes in the overall
+revenue receipts started increasing from 1994-95. In 1995-96, about 54 per cent
+of revenues came from indirect taxes while around 20 per cent were from direct
+taxes. In 2000-01, the share of indirect taxes had gone down dramatically to
+around 45 per cent while the contribution from direct taxes had increased to
+about 26 per cent. By 2005-06, indirect taxes accounted for approximately 43
+per cent while the direct taxes share was about 35 per cent (Figure 11.12)
+Fig. 11.12: share in the revenue receipts of the Central Govt. (in  per cent)
+Source: DBIE
+
+
+--- Page 61 ---
+60
+Monetary and Fiscal Policies On the expenditure side, the strategy was to reduce the subsidies and cutting
+down on non-capital expenditures. However, the existing debt burden meant
+that the interest component would take a long time to ebb. In 1995-96, of the
+central government’s revenue expenditures, 9 per cent went to subsidies, 13 per
+cent to defence and 36 per cent to interest payments. Even after the changes in
+the fiscal policy, the expenditure pattern did not recordmuch change. In 2000-
+01, defence and interest remained at 13 per cent and 36 per cent, respectively,
+while subsidies increased slightly to 10 per cent. By 2005-06, the interest
+component had come down to 30 per cent and defence and subsidies each took
+up 11 per cent (Figure 11.13).
+Fig. 11.13: Share in total revenue expenditure of the Central government (in  per cent)
+Source: DBIE
+Even though the fiscal situation of the government improved with the
+aforementioned measures in the first half of the 1990s, the fiscals started showing
+signs of distress from 1997-98 with the rising fiscal and revenue deficit.  The 11
+th
+FC expressed concerns over the feature of fiscal deficit being driven more and
+more by the revenue account.
+Fig. 11.14: Key fiscal indicators for States as a  per cent of GDP
+Source: CMIE, DBIE
+The situation was grim at the state level as well. The average debt-to-GSDP ratio
+increased from 18.3 per cent during the 1980s to 20.8 per cent during the 1990s.
+It further worsened during 1997-2002 and increased by about 6 percentage points
+
+
+--- Page 62 ---
+61
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+to 26.8 per cent and reaching high of 31.8 per cent in March, 20045. A study by
+Rajaraman et al. (2005) examined the debt sustainability of all the states in India
+for a period of 10 years from 1992-93 to 2002-03 using the indicator approach.
+They found a sharp increase in debt of major states during 1997-02 relative to
+the average debt level of 1992-97 with the interest rate on the state debt exceeding
+the nominal growth rate of GSDP during the quinquennial of 1997-02. This
+necessitated the need for debt consolidation measures and institutional reforms
+to stabilise debt at both the Centre and the State level. The central government’s
+revenue deficit climbed up to 4.4 per cent of GDP in 2002-03 while the GFD was
+at 5.91 per cent of GDP. By 2003-04 the combined liabilities of the centre and
+the States were up at 81.09 per cent of GDP from 70.59 per cent in 2000-01. The
+external liabilities were however kept under control at only 1.67 per cent of GDP
+in 2003-04.
+There was an urgent need of some new fiscal discipline framework. After around
+three years of discussions, the Fiscal Responsibility and Budgetary Management
+(FRBM) Act was adopted in 2003.
+Check Your Progress 2
+1) What are the various fiscal implications of the planning process?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+2) What was the focus of fiscal policy during 1970s?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+3) What has been the consequence of increasing deficit and debt in 1980s?
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+4) State the major initiatives taken towards reforms in direct taxes in 1990s.
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+5 Atri Mukherjee et.al. (2017)
+
+
+--- Page 63 ---
+62
+Monetary and Fiscal Policies
+11.5 THE FRBM ACT
+As alluded to above, periods of macroeconomic instability in India have invariably
+been pre-dated by fiscal adventurism. In the 1980s, for example, the combined
+fiscal deficit had widened to 8.6 per cent in 1984-85 and breached 9 per cent of
+GDP in the ensuing years. Following the crisis, fiscal corrections were pursued
+along with structural reforms. A combination of these macro policies and other
+reforms stabilised the economy. However, later in the 1990s, combined fiscal
+deficits again rose sharply to over 10 per cent. This time the government willingly
+introduced the Fiscal Responsibility and Budget Management Bill in Parliament
+in the year 2000. The Bill received the assent of the President of India on 26
+August 2003 and it became effective from 5 July 2004.
+The main objectives of the act were to (a) introduce transparent fiscal management
+systems in the country; (b) introduce a more equitable and manageable distribution
+of the country’s debts over the years and (c) aim for fiscal stability for India in
+the long run. The FRBM Act proposed that the central and state fiscal deficit
+would each be progressively reduced to reach 3 per cent of GDP keeping in
+mind two considerations – a) consistency with the forecast trend of household
+financial savings and b) the target being considered sufficient for reducing the
+stock of outstanding government liabilities to the level of 50 per cent of the GDP
+within 10 years
+6.
+Even though the Constitution enables the adoption of fiscal rules through the
+prescription of a ceiling on borrowing by the Union and the States, no such
+legislation was passed. It was only in the FRBM Act, that the limit on the
+borrowings were imposed indirectly.The FRBM Act, 2003 is a law enacted under
+Article 292 of the Constitution (read with Article 283) empowering the
+government to borrow upon the security of the Consolidated Fund of India ‘within
+such limits, if any, as may from time to time be fixed by Parliament by law and to
+the giving of guarantees within such limits, if any, as may be so fixed’. Article
+293 stipulates restrictions on the power of State governments to borrow.
+The Ministry of Finance initiated studies to analyse the international legislative
+practice in controlling public debt and deficits to suggest a draft ‘Public Debt
+and Guarantee Limitation Act’ for India. The draft sought the elimination of the
+revenue deficit within five years, a steady reduction in the fiscal deficit, capping
+the growth rate of the stock of liabilities at the growth rate of net tax revenue
+receipts, the elimination of asset-liability mismatches on a book value basis within
+10 years and capping outstanding guarantees to 10 per cent of outstanding
+liabilities. These provisions not only capped public debt using endogenous
+budgetary variables (book value of physical and financial assets) but also
+mandated revenue generation to recoup the progressive use of borrowings for
+consumption resorted to in the past and the eventual use of borrowed funds for
+creation of productive assets.
+Given the prevailing fiscal stress in the 1990s and the draft of the Public Debt
+and Guarantee Limitation of India, the Finance Minister constituted a committee
+on January 17, 2000 under the chairmanship of Dr. E.A.S. Sarma, then Secretary,
+Department of Economic Affairs, Ministry of Finance to study all cognate aspects
+6 NK Singh Committee Report.
+
+
+--- Page 64 ---
+63
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+and prepare a draft legislation. The Committee submitted its Report on 4 July
+2000. It identified three categories of indicators for numerical fiscal targets with
+specific time frames: (i) revenue and fiscal deficits; (ii) total liabilities/debt; and
+(iii) borrowing from the RBI. Eight deficit indicators were considered but for
+simplicity and focused attention, the Committee recommended ceilings for only
+two – fiscal and revenue deficits. It sought to discourage excessive deficit for
+accumulating capital assets by mandating a progressive reduction in the fiscal
+deficit by 0.33 per cent of GDP at the end of each financial year so as to reduce
+to the fiscal deficit to no more than 3 per cent of GDP in five years ending on 31
+March 2006. The Committee also recommended the complete elimination of the
+revenue deficit in five years ending on 31 March 2006 through annual reductions
+of 0.5 per cent of GDP, and to build up an adequate revenue surplus thereafter.
+This would ensure the observance of the ‘golden rule’, i.e., revenue surpluses
+would be used for the purpose of discharging liabilities in excess of assets. In
+addition to limits on the deficit, the proposed legislation also limited guarantees
+to 0.5 per cent of GDP in any given financial year. The committee also advocated
+a debt-GDP ratio of 50 per cent in a period of 10 years commencing on 1 April
+2001
+7.
+Karnataka became the first state to enact its FRBM Act in September 2002
+followed by Kerala (2003), Tamil Nadu (2003) and Punjab (2004). At the Union
+govt. level, the Act and the Rules made under the Act were brought into force on
+5 July 2004. West Bengal and Sikkim were the last two states to implement the
+FRBM Act in July and September 2010, respectively.
+In July, 2004, a Task Force led by Dr Vijay L. Kelkar  recommended various
+measures for implementation of the FRBM Act and substantially, a path of
+revenue-led fiscal consolidation. The Committee also recommended the
+introduction of a comprehensive tax on all goods and service replacing Central
+level V AT and State level V ATs. It recommended replacing all indirect taxes
+except the customs duty with value added tax on all goods and services with
+complete set off in all stages of making of a product. Other states also implemented
+the legislation to avail the benefits under the incentive scheme recommended by
+the 12
+th Finance Commission (12th FC). Some of the major recommendation of
+the 12th FC to restructure the public finances include:
+1) By 2009-10, the combined tax-GDP ratio of the Centre and the States should
+be increased to 17.6 per cent, primary expenditure to a level of 23 per cent
+of GDP and capital expenditure to nearly 7 per cent of GDP.
+2) The combined debt-GDP ratio with external debt measured at historical
+exchange rates should, at a minimum, be brought down to 75 per cent by the
+end of 2009-10.
+3) The system of on-lending should be brought to an end over time and the
+long-term goal for the Centre and States for the debt-GDP ratio should be 28
+per cent each.
+4) The fiscal deficit to GDP ratio targets for the Centre and the States may be
+fixed at 3 per cent of GDP each.
+5) The centre’s interest payment relative to revenue receipts should reach about
+28 per cent by 2009-10. In the case of States, the level of interest payments
+relative to revenue receipts should fall to about 15 per cent by 2009-10.
+7 NK Singh Committee Report
+
+
+--- Page 65 ---
+64
+Monetary and Fiscal Policies 6) The revenue deficit relative to GDP for the Centre and the States, for their
+combined as well as individual accounts should be brought down to zero by
+2008-09.
+7) Each State should enact a fiscal responsibility legislation, which should, at
+a minimum, provide for
+eliminating revenue deficit by 2008-09;
+reducing fiscal deficit to 3 per cent of GSDP or its equivalent, defined
+as the ratio of interest payment to revenue receipts;
+bringing out annual reduction targets of revenue and fiscal deficits;
+bringing out annual Statement giving prospects for the State economy
+and related fiscal strategy; and
+bringing out special Statements along with the budget giving in detail
+the number of employees in Government, public sector, and aided
+institutions and related salaries.
+Other measures to expand the tax base and increase revenues were the introduction
+of the securities transaction tax (STT) in 2004 and the fringe benefit tax (FBT) in
+the budget of 2005-06 (Rao and Rao, 2006).
+The fiscal deficit for the Central government apparently declined from 4.34 per
+cent in 2003-04 to 2.54 per cent in 2007-08, achieving the target of 3 per cent of
+GDP one year in advance and the revenue deficit also apparently came down
+from 3.5 per cent of GDP in 2003-04 to 1.1 per cent of GDP in 2007-08, and
+closer to the target of nil in 2008-09. Though several studies have attributed this
+fiscal consolidation in the first phase of the FRBMA to high GDP growth and tax
+buoyancy. Simone and Topalova (2009) estimate that two-thirds of the fiscal
+adjustment in this period was due to revenue gains. Study by Dholakia et al.
+(2011) pointed out that much of the improvement in the financial position of the
+Central government arose due to revenue buoyancy.
+Fig.11.15: Fiscal and revenue deficit for the Centre as a percentage of GDP
+Source: DBIE
+The basis of these claims lay in unprecedented nominal growth in GDP. The
+nominal year-on-year growth rate of both direct and indirect central taxes (net of
+transfers to States) increased consistently from 2001-02 onwards. These dynamics
+
+
+--- Page 66 ---
+65
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+translated into a considerable rise in the net central tax/GDP ratio, particularly
+the net central direct tax/GDP ratio, which more than doubled between 2001-02
+and 2007-08. Inflation was moderate and growth was buoyant at 9.6 per cent in
+2006-07. This benign macroeconomic environment was disturbed by the global
+financial crisis.
+11.6 THE GLOBAL FINANCIAL CRISIS AND
+FISCAL POLICY
+The global financial crisis that erupted around September 2008 saw Indian fiscal
+policy being tested to its limits. The policymakers had to grapple with the impact
+of the crisis that was affecting the Indian economy through three channels: (i)
+contagion risks to the financial sector, (ii) the negative impact on exports and
+(iii) the effect on exchange rates. One could also add to this list the dampening of
+domestic business sentiments as a result of the deterioration in the economic
+prospectsin developed countriesin the wake of the global financial crisis.
+Somewhat serendipitously, the government already had an expansionary fiscal
+stance in view of a rural farm loan waiver scheme, the expansion of social security
+schemes under the National Rural Employment Guarantee Act (NREGA) and
+the implementation of revised salaries and pensions for the central public servants
+as per the recommendations of the Sixth Pay Commission. Furthermore, the
+parliamentary elections of 2008 also resulted in further increase in government
+expenditures.
+As the crisis unfolded, the government initiated a series of stimulus packages on
+7
+th December 2008, 2nd January 2009 and 24th February 2009. Actions included
+an overall central excise duty cut of 4 per cent, ramping up additional plan
+expenditure of about Rs. 200 billion, further state government borrowings for
+planned expenditure amounting to around Rs. 300 billion, interest subsidies for
+export finance to support certain export-oriented industries, a further 2 per cent
+reduction of central excise duties and service tax for export industries (in all a
+total of 6 per cent central excise reduction). The impact of these measures is
+estimated to be around 1.8 per cent of GDP in 2008-09. If the increase in public
+expenditure across the budgets of 2007-08 and 2008-09 is taken together it
+amounted to over 3 per cent of GDP.
+In 2008-09, there was a reversal of the steady fiscal consolidation being pursued.
+The budgeted fiscal deficit for 2008-09 was 2.5 per cent of GDP, while the revised
+estimates shown in the interim budget presented in February 2009 was 6 per cent
+of GDP. However, the Centre’s actual fiscal deficit in 2008-09, inclusive of the
+off-budget expenditures of oil and fertilizer bonds was in fact 7.8 per cent despite
+significant under-reporting through deferment of expenditure liabilities. Thus,
+the total deterioration in the fiscal deficit in 2008-09 was a dramatic 5.3 per cent
+of GDP. The revenue deficit also ballooned considerably in 2008-09, from the
+budgeted 1 per cent to the revised 4.4 per cent of GDP. Accounting for the off-
+budget bonds brought the number to an unprecedented 6.3 per cent of GDP (Buiter
+and Patel, 2010).
+Unlike international best practices, neither the escape clause (first proviso to
+Section 4) of the FRBM Act nor the associated FRBM Rules mandate a clearly
+defined correction path that would facilitate a return to fiscal consolidation
+following a breach in adherence to the fiscal rules.The Finance Minister in his
+
+
+--- Page 67 ---
+66
+Monetary and Fiscal Policies 2011-12 Budget Speech announced that amendments would be made to the
+FRBMA along with “laying down the fiscal map for the next five years.” In the
+succeeding year’s Budget Speech, the FM yet again announced that amendments
+to FRBMA would be introduced through the Finance Bill of 2012. The Finance
+Bill proposed that the new target for the reduction of GFD and RD, and elimination
+of effective revenue deficit be set as March 31, 2015. These proposals resulted
+in amendment of FRBMA in May 2013. The term ‘effective revenue deficit’ was
+also introduced into FRBMA through Finance Bill of 2012. The government
+then revised the FRBMA further in the Finance Bill of 2015 by amending Section
+4 to change deadline of March 31, 2015 to March 31, 2018, to grant the newly
+formed Government in May 2014, some more fiscal space to achieve deficit
+targets.
+The need for review of the FRBMA is in sync with the need for enhancing
+credibility, discipline, transparency and accountability in the conduct of
+macroeconomic policy. The 13
+th Finance Commission  recommended that the
+Centre should institute a process of independent review and monitoring of the
+implementation of the FRBMA. Accordingly, the Act was amended in 2012 to
+provide for the government entrusting a periodical review of compliance with
+the provisions of the Act to the Comptroller and Auditor-General (CAG).
+The NK Singh Committee (FRBM Review Committee): In May 2016,
+Government of India constituted a five-member committee to review the working
+and functioning of FRBMA. On January 23, 2017, the committee submitted a
+report to the Finance Minister. Its main policy recommendations are summarised
+below:
+1) Adopt a prudent medium-term ceiling for general government debt of 60
+per cent of GDP, to be achieved by the fiscal year 2022-23.
+2) Within the overall ceiling specified above, adopt a ceiling of 40 per cent for
+the centre, and the balance 20 per cent for the states.
+3) Adopt fiscal deficit as the key operational target consistent with achieving
+the medium-term debt ceiling.
+4) A path of fiscal deficit with fixed operational targets rather than a range.
+Table 11.1: The recommended debt-deficit paths by the FRBM review committee
+Debt-GDP Fiscal Deficit Revenue Deficit
+ratio (per cent)  ( per cent of GDP)  ( per cent of GDP)
+2016-17 49.4 3.5 2.30
+2017-18 47.3 3.0 2.05
+2018-19 45.5 3.0 1.80
+2019-20 43.7 3.0 1.55
+2020-21 42.0 2.8 1.30
+2021-22 40.3 2.6 1.05
+2022-23 38.7 2.5 0.80
+Source: NK Singh Committee Report, 2017
+
+
+--- Page 68 ---
+67
+Fiscal Policy and Fiscal
+Responsibility and Budget
+Management (FRBM) Act
+5) A path of fiscal deficit to GDP ratio of 3.0 per cent during 2017-18 and
+2019-20, 2.8 per cent in 2020-21, 2.6 per cent in 2021-22, and 2.5 per cent
+in 2022-23.
+6) Reduce revenue deficit to GDP ratio steadily by roughly 0.25 percentage
+points each year, to reach 0.8 per cent by 2022-23.
+7) The Inter-State allocation for State Governments for the achievement of the
+overall debt and fiscal targets be assigned to the 15th FC through a specific
+Terms of reference (ToR).
+The timeline of FRBM Act and relevant developments are present in the table
+below:
+Table 11.2:Timeline of the FRBMA and relevant developments
+Month,Year Event
+Jan, 2000 Sarma Committee on Fiscal Responsibility Legislation constituted
+by Finance Minister
+Dec, 2000 FRBM Bill tabled in Parliament
+Aug, 2002 Karnataka FRBM Act enacted by State Government
+Aug, 2003 FRBM Act receives assent of President
+July, 2004 FRBM Rules were notified by government under FRBMA and were
+brought into force. Task Force (Chairman: Dr Vijay Kelkar) on
+implementation of FRBMA set up
+March, 2006 Date recommended for revenue deficit elimination and reduction of
+fiscal deficit to 3 per cent by Sarma Committee
+March, 2008 First target date by which revenue deficit had to be eliminated and
+fiscal deficit reduced to 2 per cent of GDP (set by FRBMA)
+Sep, 2008 Lehman Brothers files for bankruptcy, Global Financial Crisis
+March, 2009 First target date by which revenue deficit had to be eliminated and
+fiscal deficit reduced to 3 per cent of GDP (set by FRBM Rules)
+July, 2009 FRBM targets suspended and Act put on hold till negative effects of
+Global Financial Crisis are overcome
+Feb, 2011 Revised fiscal road map for 5 succeeding years and amendments to
+FRBMA
+May, 2013 Amendments to FRBM Rules
+March, 2015 Fiscal and revenue deficit target set in Budget Speech of 2011-12;
+Fiscal target date set for elimination of revenue deficit (set by FRBM
+Rules 2013)
+May, 2015 FRBM target of March 31, 2015 revised to March 31, 2018
+June, 2015 Amendments to FRBM Act
+May, 2016 FRBM Review Committee headed by N.K. Singh constituted
+Jan, 2017 FRBM Review Committee submits its Report
+March, 2017 Fiscal target date by which gross fiscal deficit to be reduced to 3 per
+cent of GDP (set by FRBM Rules 2013)
+April, 2017 FRBM Review Committee Report released to public
+March, 2018 First target date by which revenue deficit has to be reduced to 2 per
+cent and fiscal deficit to 3 per cent of GDP (set by FRBMA 2015)
+Source: Charan Singh et. al.
