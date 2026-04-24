@@ -1,0 +1,493 @@
+--- Page 40 ---
+ 
+106 
+ 
+Classical Regression 
+Model 
+by the standard deviation of that variable. A noteworthy characteristic of a 
+standardized variable is that its mean is consistently zero, and its standard 
+deviation always equals 1. 
+5.9 LIMITATIONS OF REGRESSION ANALYSIS 
+Even when we possess theoretically sound variables that can explain a 
+phenomenon and we manage to gather data on these variables, it is a common 
+challenge not to have a clear understanding of the functional relationship between 
+the dependent variable and the independent variables (see data generation process 
+in Unit 3). In two-variable models, the scatter diagram frequently allows for an 
+assessment of the functional relationship. However, in multiple regression 
+models, identifying the suitable functional form becomes challenging, as visually 
+interpreting scatter diagrams in multiple dimensions is not feasible. 
+Consequently, the stochastic disturbances 𝑢௜ play a crucial role in regression 
+analysis, a significance we will delve into as we advance to subsequent units. 
+Undoubtedly, selecting a suitable model for empirical estimation demands a 
+considerable amount of skill and experience. However, certain guidelines can be 
+provided: 
+The literature and theoretical paradigms must be re-visited as the foundational 
+theory might propose a specific type of functional form. It is advisable to 
+determine both the rate of change (slope) of the dependent variable concerning 
+the independent variable and the elasticity of the dependent variable concerning 
+the independent variable. 
+The parameters selected for the model should align with specific a priori  
+expectations. For instance, when examining the demand for laptops in relation to 
+price and other variables, it is reasonable to anticipate a negative coefficient for 
+the price variable. 
+Occasionally, a given set of data may be reasonably well-fitted by more than one 
+model.  R squared values may help in deciding which model is better in some 
+such cases. However, there are some caveats to be considered – as we will 
+explore in the upcoming sections, the inclusion of more regressors in the model 
+leads to an increase in R 2. What holds greater significance is the theoretical 
+foundation of the chosen model, the signs of the estimated coefficients, and its 
+statistical significance? If the performance of a model is better on the basis of 
+these criteria, a lower value of R2 does not matter much. 
+When considering the limitations of regression analysis, several important factors 
+should be taken into account: 
+Linearity Assumption : It is crucial to assess whether the relationship between 
+the variables under investigation truly follows a linear pattern. This assumption 
+must be carefully examined because deviations from linearity can lead to 
+inaccurate conclusions. 
+Sensitivity to Outliers : Regression analysis can be highly sensitive to outliers, 
+which are data points that deviate significantly from the overall trend. 
+Researchers must exercise caution when interpreting results, as outliers can 
+
+
+--- Page 41 ---
+ 
+ 107
+Models Diagnostics disproportionately influence regression coefficients and may not accurately 
+represent the underlying relationship. 
+Preliminary Data Visualization : Prior to conducting regression analysis, it is 
+advisable to visualize the data through plots and graphs. This step helps identify 
+potential outliers and provides insights into the overall data distribution. 
+Decisions regarding outlier handling and data transformations should be made 
+based on this preliminary exploration. 
+Extrapolation Risks : Extrapolation or making predictions outside the range of 
+the explanatory variable, should be approached with caution. Extending 
+regression results beyond the observed data range can lead to unreliable 
+predictions and is often not appropriate. For example, using regression to predict 
+outcomes for a population significantly different from the study sample may 
+yield inaccurate results. 
+Hidden Variables and Confounding Factors : Researchers should be aware of 
+the presence of lurking variables, also known as confounding or hidden variables. 
+These unaccounted-for factors can distort the relationship between the variables 
+included in the regression model. When confounding variables are present, the 
+observed relationship may be misleading or spurious. Careful consideration and 
+control of potential confounders are essential in regression analysis. 
+In summary, regression analysis offers valuable insights into relationships 
+between variables, but it is not without limitations. Researchers must critically 
+assess the linearity assumption, address the impact of outliers, visualize data 
+before analysis, exercise caution with extrapolation, and remain vigilant for 
+hidden variables to ensure the reliability and validity of their regression results. 
+Check Your Progress 2 
+1) Explain how you can visually detect the presence of heteroscedasticity in 
+regression analysis. What are the characteristics of a residual plot 
+indicating heteroscedasticity. 
+....................................................................................................................
+....................................................................................................................
+....................................................................................................................
+.................................................................................................................... 
+2)  Write down the visual methods for detecting autocorrelation in time 
+series or regression models. How do autocorrelation function plots and 
+lag plots help in identifying autocorrelation? 
+....................................................................................................................
+....................................................................................................................
+....................................................................................................................
+.................................................................................................................... 
+
+
+--- Page 42 ---
+ 
+108 
+ 
+Classical Regression 
+Model 
+3) Under what circumstances would you consider omitting the intercept 
+term in a regression model? 
+ ....................................................................................................................
+ ....................................................................................................................
+ ....................................................................................................................
+ .................................................................................................................... 
+4) Discuss the implications of a zero-intercept model and the differences in 
+interpretation compared to models with intercepts. 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+5.10 LET US SUM UP 
+Ensuring accurate model specification is crucial in econometric analysis, as it 
+allows for a focused exploration of relevant factors impacting the research theme. 
+Challenges inevitably arise in the quest for a perfect econometric model, 
+underscoring the need for accurate parameter estimation and thorough validation 
+checks, to uphold the underlying assumptions. 
+Residual analysis emerges as a pivotal tool in assessing model adequacy, with 
+various patterns in residual plots offering valuable insights into model fit. By 
+scrutinizing these patterns, issues such as heteroscedasticity and autocorrelation 
+can be identified and subsequently addressed in an effective manner. 
+Furthermore, the impact of outliers and variable units on regression coefficients 
+is highlighted in the unit. Conducting tests to detect outliers, assess normality, 
+and handle specific scenarios in regression analysis, such as regression through 
+the origin, adjusting variable origins and scales, and selecting the most suitable 
+functional form, significantly contributes to accurate model diagnostics. Finally, 
+certain potential challenges in regression analysis are discussed. By navigating 
+these challenges and leveraging diagnostic techniques, economists can enhance 
+the robustness and reliability of their regression analyses. 
+5.11  KEY WORDS 
+Residual : It refers to the difference between the observed value 
+and the predicted value in regression analysis. 
+Homoscedasticity : It refers to the presence of uniform variance of 
+residuals across all values of the independent variable. 
+
+
+--- Page 43 ---
+ 
+ 109
+Models Diagnostics 
+Model Diagnostics : Techniques for assessing the adequacy and 
+assumptions of regression models. 
+Normality : It refers to the assumption that the error term in a 
+regression model follows a normal distribution. 
+Endogeneity Problem : It occurs when an explanatory variable in a regression 
+model is correlated with the error term, violating the 
+assumption of exogeneity. 
+Functional Form 
+ 
+: The mathematical expression that defines the 
+relationship between the dependent and independent 
+variables in an economic model. 
+Economic Model 
+ 
+: It refers to the representation of relationship between a 
+response variable (dependent variable) and the 
+predictor variable(s) (independent variable(s)), 
+typically specified by subject or area experts to capture 
+relevant economic phenomena. 
+5.12  SOME USEFUL BOOKS/REFERENCE 
+Gujarati, D. (2014). Econometrics by Examples. Bloomsbury Publishing. 
+Verbeek, M. (2017). A guide to modern econometrics. John Wiley & Sons. 
+Wooldridge, J. M. (2010). Econometric analysis of cross section and panel data. 
+MIT Press. 
+Links: 
+Berman H.B., "Residual Analysis in Regression". Available at: 
+https://stattrek.com/regression/residual-analysis [Accessed on Date: 9/6/2023]. 
+Econometric Data Analysis: A Cost-Effective, Largely Successful Methodology 
+By Lee S. Friedman. Available at: https://gsppi.berkeley.edu/lee-
+friedman/documents/econometric-data-analysis-2.pdf 
+IIT, Kanpur: http://home.iitk.ac.in/~shalab/regression/Chapter4-Regression-
+ModelAdequacyChecking.pdf 
+5.13  ANSWERS/ HINTS TO CHECK YOUR   
+ PROGRESS EXERCISES 
+Check Your Progress 1 
+1) You should mention the impact of influential observations on estimation 
+results and provide examples of situations where such observations might 
+occur. Also, touch upon the concept of robust estimation techniques and their 
+relevance in mitigating these issues (Refer to Section 5.1 & Section 5.2) 
+
+
+--- Page 44 ---
+ 
+110 
+ 
+Classical Regression 
+Model 
+2)  Refer to the patterns in residual plots and how they indicate the presence of 
+specific problems. 
+3) Think about the influence outliers can have on the estimation process and the 
+potential biases they introduce into regression results. 
+Check Your Progress 2 
+1) Consider the patterns in residual plots and how they differ between 
+homoscedastic and heteroscedastic models. 
+2) Refer to the graphical representations and patterns in residuals that indicate 
+autocorrelation given in Sction 5.6 
+3)  Reflect on how a zero-intercept model alters the interpretation of coefficients 
+and affects the model’s fit and predictions compared to models with 
+intercepts. 
+4)  Refer to Sub-Section 5.8.1 and answer.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 45 ---
+UNIT 6 ESTIMATION OF MULTIPLE 
+REGRESSION MODELS 
+Structure 
+6.0  Objectives 
+6.1  Introduction 
+6.2  Specification of the Model 
+ 6.2.1 Matrix Representation 
+ 6.2.2 Classical Assumptions 
+6.3  OLS Method of Estimation  
+ 6.2.1 Mean of OLS Estimators 
+ 6.2.2 Variance of OLS Estimators 
+ 6.2.3 Estimator of Error Variance 
+6.4 Properties of OLS Estimators  
+ 6.4.1 Algebraic Properties 
+ 6.4.2  Statistical Properties 
+6.5 Best Linear Unbiased Estimator (BLUE)  
+6.6 Let Us Sum Up 
+6.7 Key Words 
+6.8 Some Useful Books 
+6.9 Answers/Hints to Check Your Progress Exercises 
+6.0  OBJECTIVES 
+After going through this Unit you should be in a position to 
+ explain the concept of multiple regression models with two or more 
+explanatory variables; 
+ represent multiple regression model in matrix form; 
+ apply ordinary least squares (OLS) method to find out the estimators; 
+ describe the properties of the OLS estimators; and 
+ prove that OLS estimators are the best linear unbiased estimator (BLUE). 
+6.1  INTRODUCTION 
+In Unit 4 we discussed the relationship between two variables (one explained, one 
+explanatory) using the simple regression model. We considered the dependent 
+ 
+ 
+Prof. Kaustuva Barik, Indira Gandhi National Open University, New Delhi 
+
+
+--- Page 46 ---
+ 
+ 
+ 
+112 
+Classical Regression 
+Model 
+variable Y to be a function of the independent variable X. However, in practise we 
+notice that there is more than one explanatory variable in a regression model. In 
+such situations it is difficult to draw conclusion on how X affects Y ceteris paribus 
+as it is unrealistic to assume that all other factors influencing Y are not correlated 
+to X.  
+Multiple regression models provide an amicable solution to such a problem. As the 
+name suggests, we consider two or more explanatory variables (and one dependent 
+variable) in multiple regression models. Examining the effects of a particular 
+independent variable on the dependent variable ceteris paribus becomes possible 
+as with multiple regression models we can control for several other factors 
+simultaneously which could have influence on the dependent variable. This 
+enables us to test economic theories as well as evaluate policy impacts. Several 
+explanatory variables can be accommodated in multiple regression models 
+allowing us to draw inferences on causality. Multiple regression models enable us 
+to add suitable factors to the model resulting in explanation of more variation in 
+the dependent variable. Such benefits of a multiple regression model make it one 
+of the most widely used empirical tools for analysis in economics and social 
+sciences. In the following section we will develop an understanding about a 
+multiple regression model and evaluate the advantages of using it for analysis.  
+6.2 SPECIFICATION OF THE MODEL 
+In multiple regression models we have one explained variable and many 
+explanatory variables (say, k). The multiple regression model is specified as 
+follows: 
+𝑌௜ = 𝛽ଵ 𝑋ଵ௜ + 𝛽ଶ 𝑋ଶ௜ + 𝛽ଷ 𝑋ଷ௜ + ⋯ + 𝛽௞ 𝑋௞௜ + 𝑢௜         (𝑖 = 1,2, … 𝑛)       … (6.1) 
+Here, the subscript ‘i’ denotes the observation number in the sample, while the 
+subscript ‘k’ denotes the explanatory variable. Thus, 𝑌௜ is the ith observation of the 
+dependent variable, 𝛽ଵ , 𝛽ଶ , … 𝛽௞  are the parameters, 𝑋ଵ௜, 𝑋ଶ௜ … 𝑋௞௜  are the i th 
+observations on the explanatory variables, and 𝑢௜ is the stochastic error term. 
+Specification of the multiple regression model is similar to that of the two-variables 
+model, except that there is more than one explanatory variable here. Generally, we 
+assume the first explanatory variable to be unity ( 𝑋ଵ =1) for all the observations. 
+Under such an assumption, the multiple regression model becomes 
+𝑌௜ = 𝛽ଵ + 𝛽ଶ 𝑋ଶ௜ + 𝛽ଷ 𝑋ଷ௜ + ⋯ + 𝛽௞ 𝑋௞௜ + 𝑢௜         (𝑖 = 1,2, … 𝑛) … (6.2) 
+The first parameter, 𝛽ଵ , in (6.2) is the intercept that we discussed in Unit 4. To 
+avoid confusion in notation, very often we drop the superscript ‘ i’, and represent 
+multiple regression model in the following form: 
+𝑌 = 𝛽 ଵ 𝑋ଵ  + 𝛽ଶ 𝑋ଶ + … + 𝛽௞ 𝑋௞ + 𝑢     … (6.3) 
+As in the case of two-variable regression model, the multiple regression model is 
+estimated by the ordinary least squares (OLS), method of moments, and the 
+maximum likelihood method. We will discuss the OLS and maximum likelihood 
+methods of estimation in this Unit. In both the methods, the approach is the same 
+as mentioned in Unit 4. In the OLS method, for example, we must minimise the 
+
+
+--- Page 47 ---
+ 
+ 
+ 
+113 
+Pressure Groups sum of squared residuals ( ∑ 𝑢ො௜
+ଶ ) and take partial derivatives with respect to the 
+parameters. Thus, there are k normal equations (see Unit 4) for a regression model 
+with k independent variables. Finding equilibrium estimates of all the parameters 
+in the model is a difficult and time-consuming process. In order to simplify the 
+process of finding equilibrium values, we take the help of matrix algebra.  
+6.2.1 Matrix Representation 
+In Unit 3 of this course, we provided an overview of matrix algebra. Let us express 
+equation (6.2) as follows: 
+𝒀 = 𝑿𝜷 + 𝑼         … (6.4) 
+where 
+Y =൥
+𝑌ଵ
+⋮
+𝑌௡
+൩ X = ൥
+𝑋ଵଵ 𝑋ଵଶ …   
+⋮ ⋮ …   
+𝑋௡ ଵ 𝑋௡ ଶ …   
+𝑋ଵ ௞
+⋮
+𝑋௡௞
+൩ β =൥
+βଵ
+⋮
+β௞
+൩ 𝑼 = ൥
+𝑢ଵ
+⋮
+𝑢௡
+൩ 
+(𝑛 × 1) (𝑛 × 𝑘) (𝑘 × 1) (𝑛 × 1) 
+The dependent variable Y is a (𝑛 × 1) vector. The explanatory variables are 
+denoted by matrix X which has the order (𝑛 × 𝑘). As you can see, ith row indicates 
+the i th observation and j th column indicates j th explanatory variable. Thus, 𝑋௜௝ 
+represents the value of the j th explanatory variable of the i th observation. Vector β 
+denotes the set of explanatory variables. As there are k explanatory variables in the 
+model, the order of β vector is (𝑘 × 1). The vector 𝑼 denotes the stochastic error 
+variable, which has an order of (𝑛 × 1). These notations are commonly used in 
+econometrics. You should keep track of the dimensions of the matrices.  
+6.2.1 Classical Assumptions 
+Recall the four assumptions regarding the error variable (u). These are: (i) 𝐸(𝑢௜) =
+0, (ii) 𝐸(𝑢௜
+ଶ ) = 𝜎 ଶ , (iii) 𝐸൫𝑢௜𝑢௝൯ = 0 for 𝑖 ≠ 𝑗 , and (iv) 𝐸(𝑋௜𝑢௜) = 0. We need to 
+have corresponding assumptions for the multiple regression model. The errors are 
+identically and independently distributed with mean zero and variance 𝜎ଶ . The 
+explanatory variables are non-stochastic and independent of the error terms. The 
+explanatory variables are linearly independent. Thus,  
+These assumptions are 
+(i) 𝑬(𝑼) = 𝟎       … (6.5)  
+Assumption (6.5) says that 𝐸(𝑢௜) = 0; 𝑖 = 1,2 … … . 𝑛. The expected value of 𝑢௜ is 
+zero.  
+(ii) 𝑬(𝑼𝑼ᇱ) = 𝜎 ଶ 𝑰      … (6.6)  
+Assumption (6.6) is a precise way of expressing two assumptions: 𝐸൫𝑢௜𝑢௝൯ = 0 
+and 𝐸(𝑢௜
+ଶ ) = 𝜎 ଶ . Let us define the variance-covariance matrix 𝑼𝑼ᇱ. Note that it 
+has a dimension of (𝑛 × 𝑛). It is given by 
+
+
+--- Page 48 ---
+ 
+ 
+ 
+114 
+Classical Regression 
+Model ൥
+𝑣𝑎𝑟(𝑢ଵ ) 𝑐𝑜𝑣 (𝑢ଵ 𝑢ଶ ) …   
+⋮ ⋮ …   
+𝑐𝑜𝑣(𝑢௡ 𝑢ଵ ) 𝑐𝑜𝑣(𝑢௡ 𝑢ଶ ) …   
+𝑐𝑜𝑣(𝑢ଵ 𝑢௡ )
+⋮
+𝑣𝑎𝑟(𝑢௡ )
+൩ = ൥
+𝜎ଶ 0 …   
+⋮ ⋮ …   
+0 0 …   
+0
+⋮
+𝜎ଶ
+൩ 
+In the above matrix, the diagonal elements are 𝜎ଶ  and the off-diagonal elements 
+are zero. 
+(iii) X has full rank       … (6.7)  
+It implies that there is no exact relationship among the explanatory variables. Thus, 
+none of the explanatory variables is a linear combination of other explanatory 
+variables. If there is an exact relationship between any two explanatory variables, 
+there will be a decline in the rank of matrix 𝑿. The rank of matrix 𝑿 is and 𝑘 < 𝑛 . 
+An implication of assumption (6.7) is that the matrix 𝑿ᇱ𝑿 is invertible, that 
+is,(𝑿ᇱ𝑿)ି 𝟏 exists. 
+(iv) 𝑬(𝑿′𝑼) = 𝟎       … (6.8)  
+Assumption (6.8) implies that none of the explanatory variables is related with the 
+error variable u. In other words, the error variable 𝑼 cannot be predicted on the 
+basis of the independent variables. In order to satisfy this assumption, we assume 
+that 𝑿 is non-stochastic (i.e., fixed in repeated samples). In Unit 13 we will relax 
+this assumption and assume that some of the regressors are stochastic in nature.  
+By assumption 𝑣𝑎𝑟(𝑢ଵ ) = 𝑣𝑎𝑟(𝑢 ଶ )  = ⋯ = 𝑣𝑎𝑟(𝑢 ௡ ) = 𝜎 ଶ . Thus, variance of 
+the error term is constant across all the observations. This feature of the error 
+term is called homoscedasticity. When the error variance does not remain 
+constant across observations (that is, 𝑣𝑎𝑟(𝑢ଵ ) ≠ 𝑣𝑎𝑟(𝑢 ଶ )  ≠ ⋯ ≠ 𝑣𝑎𝑟(𝑢 ௡ ) ) 
+we have a situation of heteroscedasticity, which we will discuss in Unit 11. 
+Similarly, we assumed that 𝐸൫𝑢௜𝑢௝൯ = 0. It implies that the error term of one 
+observation is not correlated with the error term of another observation. In 
+other words, there is no autocorrelation. 
+6.3 OLS METHOD OF ESTIMATION 
+In the two-variable case we minimised the residual sum of squares (RSS), given 
+by ∑ 𝑢ො௜
+ଶ . In the multiple regression model, we have to minimise the RSS for 
+obtaining the estimators. We mentioned above in equation (6.4) that the regression 
+model is given by 
+𝒀 = 𝑿𝜷 + 𝑼   
+The estimated regression model is given by 
+𝒀෡ = 𝑿𝜷෡         … (6.9) 
+Therefore, 
+𝑼෡ = 𝒀 − 𝑿𝜷෡         … (6.10) 
+The RSS is given by 𝑼෡ ᇱ𝑼෡  which has a dimension of  (1 × 𝑛)(𝑛 × 1) = (1 × 1). 
+Thus, RSS is a scalar quantity.  
+From equation (6.10) we have 
+
+
+--- Page 49 ---
+ 
+ 
+ 
+115 
+Pressure Groups 𝑼෡ ᇱ𝑼෡ = ൫𝒀 − 𝑿𝜷෡ ൯
+ᇱ
+൫𝒀 − 𝑿𝜷෡ ൯      … (6.11) 
+On simplification, (6.11) can be written as 
+𝑼෡ ᇱ𝑼෡ = 𝒀ᇱ𝒀 − 𝜷෡ ᇱ𝑿ᇱ 𝒀 − 𝒀ᇱ 𝑿𝜷෡  + 𝜷෡ ᇱ 𝑿ᇱ𝑿 𝜷෡  
+Since 𝜷෡ ᇱ𝑿ᇱ 𝒀and 𝒀ᇱ 𝑿𝜷෡  are scalar quantities (the order of both the matrices is 
+(1 × 1)), we can write 
+𝑼෡ ᇱ𝑼෡ = 𝒀ᇱ𝒀 − 𝟐𝜷෡ ᇱ𝑿ᇱ 𝒀 + 𝜷෡ ᇱ 𝑿ᇱ𝑿 𝜷෡      … (6.12) 
+In the least squares method we choose such value of 𝜷෡ that minimises the RSS. The 
+conditions of finding a minimum are: (i) first derivative should be equal to zero, 
+and (ii) second derivative should be positive. 
+Let us take the derivative of 𝑼෡ ᇱ𝑼෡ with respect to 𝜷෡ . 
+𝝏𝑼෡ ᇲ𝑼෡
+𝝏𝜷෡ = 𝟎 − 2  𝑿ᇱ𝒀 + 2  𝑿ᇱ𝑿 𝜷෡      … (6.13) 
+While taking derivative of (6.12) with respect to 𝜷෡ , you should pay special 
+attention to derivative of the term 𝜷෡ ᇱ 𝑿ᇱ𝑿 𝜷෡ . Both 𝜷෡ ᇱ and 𝜷෡  are present here. We 
+have taken its derivative is 2 𝑿ᇱ𝑿 𝜷෡ , and not 2𝜷෡ ᇱ 𝑿ᇱ𝑿 . Let us look into the 
+following example. 
+Example 6.1 
+Suppose we have two vectors: a and x.  
+𝒂 = ൥
+𝑎ଵ
+𝑎ଶ
+𝑎ଷ
+൩ 𝒙 = ൥
+𝑥ଵ
+𝑥ଶ
+𝑥ଷ
+൩ 
+Thus, 
+𝒂ᇱ𝒙 = 𝑎 ଵ 𝑥ଵ + 𝑎ଶ 𝑥ଶ + 𝑎ଷ 𝑥ଷ  
+Let us take derivative of 𝒂ᇱ𝒙 with respect to  .  
+𝝏𝒂ᇱ𝒙
+𝝏𝒙 = 𝝏𝒂ᇱ𝒙
+𝝏 ൥
+𝑥ଵ
+𝑥ଶ
+𝑥ଷ
+൩
+= 𝝏
+𝝏 ൥
+𝑥ଵ
+𝑥ଶ
+𝑥ଷ
+൩
+ 𝑎ଵ 𝑥ଵ + 𝑎ଶ 𝑥ଶ + 𝑎ଷ 𝑥ଷ = ൥
+𝑎ଵ + 0 + 0
+0 + 𝑎ଶ + 0
+0 + 0 + 𝑎ଷ
+൩ = ൥
+𝑎ଵ
+𝑎ଶ
+𝑎ଷ
+൩ = 𝒂 
+Coming back to equation (6.13), we eliminate 𝜷෡ ᇱ(and not 𝜷෡ )while takingthe 
+derivative of 𝑼෡ ᇱ𝑼෡ with respect to𝜷෡ .By equating
+𝝏𝑼෡ ᇲ𝑼෡
+𝝏𝜷෡ = 𝟎, we obtain 
+−2  𝑿ᇱ𝒀 + 2 𝑿ᇱ𝑿 𝜷෡ = 𝟎 
+Or, 
+  𝑿ᇱ𝑿 𝜷෡ =  𝑿ᇱ𝒀       … (6.14) 
+Equation (6.14) represents the ‘normal equations’ of the least squares method. 
+If we pre-multiply equation (6.14) by (𝑿ᇱ𝑿)ି 𝟏, we obtain 
+𝜷෡ = (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝒀       … (6.15) 
+Let us take the second derivative of  𝑼෡ ᇱ𝑼෡  with respect to 𝜷෡ . It is similar to taking 
+the derivative of (6.13). Thus, 

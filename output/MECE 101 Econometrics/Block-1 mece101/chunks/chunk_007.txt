@@ -1,0 +1,593 @@
+--- Page 60 ---
+ 
+ 
+ 
+59 
+Review of Matrix 
+Algebra 
+𝛻௑ =
+డ
+డ௑ =
+⎣
+⎢
+⎢
+⎡
+డ
+డ௫ భభ
+⋯
+డ
+డ௫ భ೙
+⋮ ⋮ ⋮
+డ
+డ௫ ೘భ
+⋯
+డ
+డ௫ ೘೙ ⎦
+⎥
+⎥
+⎤
+      … (3.20) 
+The gradient vectors of functions 𝑓(𝑥) and 𝑓(𝑋) are defined respectively as  
+𝛻௑ 𝑓(𝑋) = ቂ
+డ௙ (௑ )
+డ௫ భ
+⋯
+డ௙ (௫ )
+డ௫ ೘
+ቃ
+்
+=
+డ௙ (௑ )
+డ௑   
+𝛻௩௘௖ (௑ )𝑓(𝑋) = ቂ
+డ௙ (௑ )
+డ௫ భభ
+⋯
+డ௙ (௑ )
+డ௫ ೘భ
+⋯
+డ௙
+డ௫ భ೙
+⋯
+డ௙ (௑ )
+డ௫ ೘೙
+ቃ
+்
+  
+ 
+The Gradient matrix of the function f(x) is defined as   
+𝛻௑ 𝑓(𝑋) =
+⎣
+⎢
+⎢
+⎡
+డ௙ (௑ )
+డ௫ భభ
+⋯
+డ௙ (௑ )
+డ௫ భ೙
+⋮ ⋮ ⋮
+డ௙ (௑ )
+డ௫ ೘భ
+⋯
+డ௙ (௫ )
+డ௫ ೘೙ ⎦
+⎥
+⎥
+⎤
+=
+డ௙ (௑ )
+డ௑       … (3.21) 
+Clearly, there is a relation between gradient matrix and gradient vector of a 
+function 𝑓(𝑋). 
+𝑣𝑒𝑐𝛻௑ 𝑓(𝑋) = 𝛻௩௘௖௑ 𝑓(𝑋)       … (3.22) 
+Further, we can write  
+ 𝛻௑ 𝑓(𝑋) = 𝐷௑
+் 𝑓(𝑋) 
+that is, the gradient matrix of a real scalar function 𝑓(𝑋) is equal to the transpose 
+of its Jacobian matrix. 
+Example 3.11: 
+Let 𝑓(𝑋): 𝑅ଷ → 𝑅 be defined as 𝑓(𝑋) = 𝑥ଵ
+ଶ + 2𝑥ଵ 𝑥ଶ + 3𝑥ଶ
+ଶ + 4𝑥ଵ 𝑥ଶ 𝑥ଷ +
+𝑥ଷ
+ଷ   for 
+𝑋 = ൥
+𝑥ଵ
+𝑥ଶ
+𝑥ଷ
+൩. Calculate 𝛻௑ 𝑓(𝑋). 
+The solution is 
+𝛻௑ 𝑓(𝑋) =
+⎣
+⎢
+⎢
+⎢
+⎡
+డ௙ (௑ )
+డ௫
+డ௙ (௑ )
+డ௫ మ
+డ௙ (௑ )
+డ௫ య ⎦
+⎥
+⎥
+⎥
+⎤
+= ቎
+2𝑥ଵ + 2𝑥ଶ + 4𝑥ଶ 𝑥ଷ
+2𝑥ଵ + 6𝑥ଶ + 4𝑥ଵ 𝑥ଷ
+4𝑥ଵ 𝑥ଶ + 3𝑥ଷ
+ଶ
+቏  
+ 
+
+
+--- Page 61 ---
+ 
+ 
+ 
+60 
+Introduction 3.11.3 Real Hessian Matrix 
+Let us Consider a real vector 𝑋 ∈ ℝ௠ ×ଵ , the second-order derivative of a real 
+function 𝑓(𝑋) is known as the Hessian matrix, denoted by H[ 𝑓(𝑋)]  and is 
+defined as  
+𝐻[𝑓(𝑋)] =
+డ మ ௙ (௑ )
+డ௑డ௑ ೅ =
+డ
+డ௑ ቀ
+డ௙ (௑ )
+డ௑ ೅ ቁ ∈ ℝ௠ ×௠   
+which is simply represented as  
+𝐻[𝑓(𝑋)] = 𝛻 𝑓௑
+ଶ (𝑋) = 𝛻௑ (𝐷௑ 𝑓(𝑋))     … (3.23) 
+In words, Hessian matrix is the gradient matrix of the Jacobian matrix of the 
+function 𝑓(𝑋) with respect to X.  
+Hence the (i, j)th entry of the Hessian matrix is defined as  
+ [𝐻𝑓(𝑋)]௜௝ = ቂ
+డ మ ௙ (௑ )
+డ௑డ௑ ೅ ቃ
+௜௝
+=
+డ
+డ௫ ೔
+൬
+డ௙ (௑ )
+డ௫ ೕ
+൰ 
+Therefore, the Hessian matrix is  
+𝐻[𝑓(𝑋)] =
+డ మ ௙ (௑ )
+డ௑డ௑ ೅ =
+⎣
+⎢⎢
+⎢
+⎡
+డ మ ௙
+డ௫ భ డ௫ భ
+⋯
+డ మ ௙
+డ௫ భ ௫ ೘
+⋮ ⋮ ⋮
+డ మ ௙
+డ௫ ೘ డ௫ భ
+⋯
+డ మ ௙
+డ௫ ೘ డ௫ ೙ ⎦
+⎥⎥
+⎥
+⎤
+∈ ℝ௠ ×௠    … (3.24) 
+Equation (3.24) shows that the Hessian matrix of a real-valued scalar function 
+𝑓(𝑋) is an m m matrix that consists of m 2 second-order partial derivatives of 
+𝑓(𝑋) with respect to the entries 𝑥௜ of the vector variable X. 
+By definition, we can show that the Hessian matrix of a real scalar function 𝑓(𝑋) 
+is a real symmetric matrix, i.e.,  
+(𝐻[𝑓(𝑥)])் = 𝐻[𝑓(𝑋)]   
+Because 𝑓(𝑋)is a second order differentiable continuous function, its second-
+order derivative is independent of the order of differentiation. It means, 
+డ మ ௙
+డ௫ ೔డ௫ ೕ
+=
+డ మ ௙
+డ௫ ೕడ௫ ೔
+          … (3.25) 
+ 
+ 
+ 
+ 
+
+
+--- Page 62 ---
+ 
+ 
+ 
+61 
+Review of Matrix 
+Algebra Example 3.12: 
+ Find Hessian matrix of the following function :  
+𝑓(𝑋) = 𝑥ଵ
+ଶ + 2𝑥ଵ 𝑥ଶ + 3𝑥ଶ
+ଶ + 4𝑥ଵ 𝑥ଶ 𝑥ଷ + 𝑥ଷ
+ଷ   .  
+The Hessian matrix is given by 
+𝛻௑
+ଶ 𝑓(𝑋) =
+⎣
+⎢
+⎢
+⎢
+⎢
+⎡
+డ௙
+డ௫ భమ
+డ௫ మ ௙
+డ௫ భ ௫ మ
+డ௙ మ
+డ௫ భ డ௫ య
+డ మ ௙
+డ௫ మ డ௫ భ
+డ మ ௙
+డ௫ మ
+మ
+డ మ ௙
+డ௫ మ డ௫ య
+డ మ ௙
+డ௫ య డ௫ భ
+డ௫ మ ௙
+డ௫ య డ௫ మ
+డ మ ௙
+డ௫ య ⎦
+⎥
+⎥
+⎥
+⎥
+⎤
+∈ 𝑅ଷ ×ଷ  
+ 𝐻[𝐹(𝑋) = ൥
+2 2 + 4𝑥 ଷ 4𝑥ଶ
+2 + 4𝑥ଷ 6 4 𝑥ଵ
+4𝑥ଶ 4𝑥ଵ 6𝑥ଷ
+൩
+ଷ ×ଷ
+  
+Note that the Hessian matrix is symmetric. 
+Check Your Progress 3 
+1) Given the fact that for any two vectors, a and b, c 𝑣𝑒𝑐 𝒂𝒃ᇱ = 𝒃 ⊗ 𝒂 . Show 
+that 𝑣𝑒𝑐 𝑨𝑩𝑪 = (𝑪′ ⊗ 𝑨)𝑣𝑒𝑐𝐵, whenever the product ABC is defined. 
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+………………………………………………………………………………… 
+2)  Let 𝑥ଵ , 𝑥ଶ . . .𝑥௡  be an independent and identically distributed (iid) sample 
+from 𝑁(𝜇, 𝜎ଶ ) . Let 𝜃 = (𝜇, 𝜎ଶ ) . If log-likelihood function 𝑙𝑜𝑔 𝐿 (𝜃) =
+−
+௡
+ଶ
+𝑙𝑛 𝜎ଶ −
+ଵ
+ଶఙ మ ∑ (𝑥௜ − 𝜇)ଶ௜ , then derive the Fisher information.  
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+………………………………………………………………………………… 
+3.12 LET US SUM UP  
+In this Unit we focussed on multiplication and inversion of matrices. For 
+invertibility, a square matrix must be full rank. Therefore, we discussed about the 
+method of finding the rank of a matrix by the reduced echelon form method.  A 
+matrix of large dimension can be partitioned into various blocks, which make 
+calculation easy. Thus, we presented the results of matrix operations of a 
+partitioned matrix. Diagonalization of matrix and eigenvalue of matrix are also 
+discussed. We discussed certain special matrices which are useful in 
+
+
+--- Page 63 ---
+ 
+ 
+ 
+62 
+Introduction econometrics. In the end, we discussed Kronecker product, vectorization of 
+matrix and matrix differentiation.  
+ 
+3.13 KEYWORDS  
+Linear Independence 
+of Vectors 
+: A set of n vectors, denoted {𝑈ଵ , 𝑈ଶ , . . . 𝑈௡ } is said to 
+be linearly independent if the matrix equation  
+𝑐ଵ 𝑢ଵ +. . . +𝑐௡ 𝑢௡ = 0  
+has only zero solution 𝑐ଵ . . . = 𝑐௡ = 0. If the above 
+equation holds for a set of coefficient that are not all 
+zero, then the n vectors are said to be linearliy 
+independent.  
+Euclidean Norm  or 𝒍𝟐 
+Norm of a Vector 
+: ‖𝒙𝟐‖𝟐 = ‖𝑿‖𝑬 = ൫ห𝒙𝟏
+𝟐ห+ |𝒙𝟐|𝟐. . . ൯
+𝟐
+. A vector with 
+unit Euclidean length is referred to as a normalized 
+vector.   
+Idempotent Matrix :  A matrix 𝑨௡ ×௡ is idempotent if 𝑨𝟐 = 𝑨𝑨 = 𝑨. Its 
+eigenvalues are 0 and 1 except for identity matrix 
+but converse is not necessarily true.  
+Characteristic 
+Polynomial  
+:
+ 𝑃௡௫
+௡ + 𝑃௡ ି ଵ 𝑥௡ ି ଵ . . . . 𝑃ଵ ௫ + 𝑃଴ is known as the 
+characteristic polynomial of A and 𝑃(𝑥) = 𝑑𝑒𝑡( 𝐴 −
+𝑥𝐼) = 0 is said to be characteristic equation of A. 
+3.14 SOME USEFUL BOOKS  
+Abadir. M. Karim and Magnus. R. Jan (2005), Matrix Algebra , Cambridge 
+University Press.  
+Gentle. E. James, 2017, Matrix Algebra: Theory, Computations and Applications 
+in Statistics, Second Edition, Springer International Publishing AG.  
+Magnus, R. Jan, and Neudeckery Heinz, 2019, Matrix Differential Calculus with 
+Applications in Statistics and Econometrics , Third Edition, John Wiley 
+& Sons.  
+Schoot, R. James, 2017, Matrix Analysis for Statistics, Third Edition, John Wiley 
+& Sons.  
+Turking-ton, A Darrell, 2005, Matrix Calculus and Zero-One Matrices: 
+Statistical and Econometric Applications, Cambridge University Press.  
+ 
+
+
+--- Page 64 ---
+ 
+ 
+ 
+63 
+Review of Matrix 
+Algebra 3.15 ANSWERS/HINT TO CHECK YOUR PROGRESS 
+EXERCISES 
+Check Your Progress 1  
+1) We can rewrite both the equations with endogenous variables C and Y on 
+the left side  
+𝑌 − 𝐶 = 𝐼 + 𝐺  
+ −𝑏𝑌 + 𝐶 = 𝑎 
+Writing above equations in matrix notation, we obtain 
+ቂ 1 −1
+−𝑏 1 ቃ ቂ𝑌
+𝐶ቃ = ቂ𝐼 + 𝐺
+𝑎 ቃ  
+This resembles the equation AX = B where 𝑿 = ቂ𝑌
+𝐶ቃ 
+Hence,  ቂ𝑌
+𝐶ቃ = ቂ 1 −1
+−𝑏 1 ቃ
+ିଵ
+ቂ𝐼 + 𝐺
+𝑎 ቃ 
+⇒ 𝑋 = ቂ𝑌
+𝐶ቃ = −1
+1 − 𝑏 ቂ1 1
+𝑏 1ቃ ቂ𝐼 + 𝐺
+𝑎 ቃ 
+⇒ ቂ𝑌
+𝐶ቃ = ቎
+ூାீା௔
+ଵି௕
+(ଵାீ )௕ା௔
+ଵି௕
+቏. 
+2) 𝑨 = ൥
+2 4 1
+4 3 7
+2 1 3
+൩ 
+First, compute the cofactor of 𝐶ଵଵ . For this, you have to delete row 1 and 
+column 1 of matrix A. Next, compute determinant of the residual 2  2 
+matrix.  
+Thus, 𝐶ଵଵ = (−1)ଵାଵ ቚ3 7
+1 3 ቚ = 2. 
+Similarly, you should compute 
+𝐶ଵଶ = (−1)ଵାଶ ቚ4 7
+2 3 ቚ = 2 
+𝐶ଵଷ = (−1)ଵାଷ ቚ4 3
+2 1 ቚ = −2 
+𝐶ଶଵ = (−1)ଶାଵ ቚ4 1
+1 3 ቚ = −11 
+𝐶ଶଶ = (−1)ଶାଶ ቚ2 1
+2 3 ቚ = 4 
+𝐶ଶଷ = (−1)ଶାଷ ቚ2 4
+2 1 ቚ = 6 
+𝐶ଷଵ = (−1)ଷାଵ ቚ4 1
+3 7 ቚ = 25 
+𝐶ଷଶ = (−1)ଷାଶ ቚ2 1
+4 7 ቚ = −10 
+
+
+--- Page 65 ---
+ 
+ 
+ 
+64 
+Introduction 𝐶ଷଷ = (−1)ଷାଷ ቚ2 4
+4 3 ቚ = −10 
+The cofactor matrix = ൥
+2 2 −2
+−11 4 6
+25 −10 −10
+൩ 
+𝑑𝑒𝑡 𝐴 = 𝑎ଶଵ . 𝐶ଶଵ + 𝑎ଶଶ . 𝐶ଶଶ + 𝑎ଶଷ . 𝐶ଶଷ  
+ = (4 − 11) + (3.4) + 7.6 = 10  
+Adjoint matrix = (cofactor matrix)T  
+= ൥
+2 −11 25
+2 4 −10
+−2 6 −10
+൩= adjoint A 
+Therefore,  𝑨ି 𝟏 =
+ଵ
+ௗ௘௧ ஺
+𝑎𝑑𝑗𝑜 𝑖𝑛𝑡 𝐴 = ቎
+115 −
+ଵଵ
+ଵ଴ 5/2
+115 2/5 −1
+−1/5 3/5 −1
+቏ 
+3) The matrix for determination of rank is 
+൭
+3 0 2 2
+−6 42 24 54
+21 −21 0 −15
+൱  
+ ோ మ →ோ మ ାଶோ భ  
+ሱ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ሮ ൭
+3 0 2 2
+0 42 28 58
+21 −21 0 −15
+൱  
+ ோ య →ோ య ି଻ோ భ  
+ሱ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ሮ ൭
+3 0 2 2
+0 42 28 58
+0 −21 −14 −29
+൱  
+ ோ య →ோ య ା ଵ
+ଶ ோ మ  
+ሱ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ሮ ൭
+3 0 2 2
+0 42 28 58
+0 0 0 0
+൱  
+Above, we converted the original matrix to row echelon form by applying 
+elementary row operations. The number of non-zero rows is 2; hence the 
+rank of the matrix is 2. Recall that we can interpret rank = no of pivots. 
+Thus, rank = no of pivots = 2. 
+Check Your Progress 2  
+1. If A has n linearly independent eigenvectors 𝑥ଵ , 𝑥ଶ . . . .𝑥௡ , then 𝑻 =
+(𝑥ଵ . . .𝑥௡ ) is non-singular and satisfies  
+𝑨𝑻 = 𝑨(𝑥ଵ , . . . ,𝑥௡ ) = ( 𝑨𝑥ଵ . . . .𝑨𝑥௡ ) = ( 𝜆ଵ 𝑥ଵ . . . .𝜆௡ 𝑥௡ ) 
+ = (𝑥ଵ , 𝑥ଶ . . .𝑥௡ )𝜦 = 𝑻𝜦  
+where 𝜦 = 𝑑𝑖𝑎𝑔. (𝜆ଵ , 𝜆ଶ . . . .𝜆௡ )  and 𝜆ଵ , 𝜆ଶ . . .𝜆௡ are eigen values of A. 
+Hence 𝑻ି 𝟏𝑨𝑻 = 𝜦. Conversely, if 𝑨𝑻 = 𝑻𝜦 for some diagonal matrix 𝜦, 
+then 𝑨(𝑻𝑒௜) = ( 𝑨𝑻)𝑒௜ = (𝑻𝜦)𝑒௜ = 𝑻(𝜦𝑒௜) = 𝑻(𝜆௜𝑒௜) = 𝜆௜(𝑻𝑒௜) 
+where 𝑒௜ denotes the i th unit vector, a vector which has 1 at i th place and 
+zero in all other places.  
+
+
+--- Page 66 ---
+ 
+ 
+ 
+65 
+Review of Matrix 
+Algebra 
+Hence, each column of T is an eigenvector of A and since T is non-
+singular, these eigenvectors are linearly independent.  
+2. (a) It is given that 𝑴 = 𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ 
+We have to show that M is symmetric and idempotent. First, the 
+symmetric part. A matrix is symmetric when 𝑨 = 𝑨ᇱ. By applying this 
+argument 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ is symmetric. Second, the idempotent part. Check 
+whether MM = M   
+(𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ)(𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ)  
+ = 𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ + 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ 
+= 𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ + 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ  
+= 𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ = 𝑴  
+(b) We have to verify whether  𝑴𝑿 = 𝟎.  
+𝑴𝑿 = (𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ)𝑿 
+ = 𝑿 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑿 = 𝑿 − 𝑿 = 𝟎  
+(c) Using the rule, rank of an idempotent matrix is the trace of that matrix.  
+rank (M) = trace (M) = 𝑡𝑟(𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ) 
+  = 𝑡𝑟(𝑰𝒏) − 𝑡𝑟(𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ)  
+  = 𝑡𝑟(𝑰𝒏) − 𝑡𝑟(𝑿ᇱ𝑿(𝑿ᇱ𝑿)ି 𝟏) 
+  = 𝑛 − 𝑡𝑟(𝑰𝒌) = 𝑛 − 𝑘 
+3. We know that 𝑿ᇱ𝑽ି 𝟏𝑴 = 𝟎 
+(a) ⇒ 𝑿ᇱ𝑽ି 𝟏(𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ) = 𝟎 
+⇒ 𝑿ᇱ𝑽ି 𝟏 = 𝑿ᇱ𝑽ି 𝟏𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ 
+⇒ (𝑿ᇱ𝑽ି 𝟏𝑿)ି 𝟏𝑿ᇱ𝑽ି 𝟏 = (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ 
+(b) Post-multiply both sides of equality in the above by 𝑽𝑿(𝑿ᇱ𝑿)ି 𝟏. 
+We get  
+(𝑿ᇱ𝑽ି 𝟏𝑿)ି 𝟏𝑿ᇱ𝑽ି 𝟏𝑽𝑿(𝑿ᇱ𝑿)ି 𝟏 = (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑽𝑿(𝑿ᇱ𝑿)ି 𝟏 
+⇒ (𝑿ᇱ𝑽ି 𝟏𝑿)ି 𝟏 = (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑽𝑿(𝑿ᇱ𝑿)ି 𝟏 
+Check Your Progress 3  
+1. Let 𝒃 = (𝑏ଵ . . . .𝑏௡ )ᇱThen,  
+𝑣𝑒𝑐(𝒂𝒃ᇱ) = 𝑣𝑒𝑐(𝑏ଵ 𝑎ଵ . . .𝑏௡ 𝑎) = ൭
+𝑏ଵ 𝑎
+⋮
+𝑏௡ 𝑎
+൱ = 𝒃 ⊗ 𝒂 
+Let 𝑩 = (𝒃𝟏, 𝒃𝟐, . . . ,𝒃𝒏) be a mn matrix. Let us denote the n column of 𝑰𝒏  
+matrix by 𝑒ଵ . . .𝑒௡ . Then, B can be written as 𝑩 = ∑ 𝑏௜𝑒௜
+ᇱ௡
+௜ୀଵ  
+Hence, 𝑣𝑒𝑐(𝑨𝑩𝑪) = 𝑣𝑒𝑐 ∑ 𝑨𝑏௜𝑒௜
+ᇱ௡
+௜ୀଵ 𝑪 = ∑ 𝑣𝑒𝑐((𝑨𝑏௜)(𝐶ᇱ𝑒௜)ᇱ)௡
+௜ୀଵ  
+ = ∑ (𝑪ᇱ𝑒௜) ⊗ (𝑨𝑏௜) = ( 𝑪ᇱ ⊗ 𝑨) ∑ 𝑒௜ ⊗ 𝑏௜
+௡
+௜ୀଵ
+௡
+௜ୀଵ  
+
+
+--- Page 67 ---
+ 
+ 
+ 
+66 
+Introduction  = (𝑪ᇱ ⊗ 𝑨) ∑ 𝑣𝑒𝑐(𝑏௜𝑒௜
+ᇱ)௡
+௜ୀଵ = (𝑪ᇱ ⊗ 𝐴)𝑣𝑒𝑐(𝑩) 
+2. Let us re-state the problem: We have 𝑥ଵ , 𝑥ଶ , . . . . ,𝑥௡  be iid (independent 
+and identically distributed) sample from normal distribution 𝑁(𝜇, 𝜎ଶ ) 
+where 𝜇 =mean, 𝜎ଶ =variance   
+Let the parameter (the unknowns to be estimated) space 𝜃 = (𝜇, 𝜎ଶ ) 
+The log-likelihood function is 
+𝑙𝑜𝑔 𝐿 (𝜃) = − 𝑛
+2 𝑙𝑛 𝜎ଶ − 1
+2𝜎ଶ ෍ (𝑥௜ − 𝜇)ଶ
+௡
+௜ୀଵ
+ 
+The score function is now a gradient vector  
+𝑆(𝜃) = 𝜕
+𝜕𝜃 𝑙𝑜𝑔 𝐿 (𝜃) =
+⎝
+⎛
+𝜕
+𝜕𝜇 𝑙𝑛 𝐿 (𝜃)
+𝜕
+𝜕𝜎ଶ 𝑙𝑛 𝐿 (𝜃)⎠
+⎞ = ൮
+𝑛
+𝜎ଶ (𝑥̄ − 𝜇)
+− 𝑛
+2𝜎ଶ + ∑(𝑥௜ − 𝜇)ଶ
+2𝜎ସ
+൲  
+The observed Fisher information is minus the Hessian of the log-
+likelihood function. Thus, 
+ 𝐼(𝜃) = −
+డ మ
+డఏడఏ ᇲ 𝑙𝑜𝑔 𝐿 (𝜃) 
+𝐼(𝜃) = ൮
+𝑛
+𝜎ଶ
+𝑛
+𝜎ସ (𝑥̄ − 𝜇)
+𝑛
+𝜎ସ (𝑥̄ − 𝜇) − 𝑛
+2𝜎ସ + ∑(𝑥௜ − 𝜇)ଶ
+(𝜎ଶ )ଷ
+൲  
+The expected Fisher information is  
+𝐼(𝜃) = 𝐸ఏ 𝐼(𝜃). 
+The above is called the information matrix, a 2  2 variance matrix and it 
+is a positive semi-definite matrix. 
+ 𝐼(𝜃) = ൭
+௡
+ఙ మ 0
+0
+௡
+ଶఙ ర
+൱  
+𝑑𝑒𝑡 𝑑 (𝜃) is always positive because n and 𝜎ଶ  are always positive. 
+ 
+ 

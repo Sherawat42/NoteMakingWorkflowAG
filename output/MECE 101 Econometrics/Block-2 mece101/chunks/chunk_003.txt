@@ -1,0 +1,467 @@
+--- Page 23 ---
+ 
+ 89
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+4.8  KEYWORDS 
+Confidence 
+Interval  
+It refers to a rule used to construct an interval. The 
+interval keeps the estimated values over repeated 
+samples within a margin of error limited to the level of 
+significance (confidence level) chosen. 
+Confidence Level It refers to the percentage of samples in which the 
+estimated sample value remains closer to the population 
+value.  
+Consistent 
+Estimator 
+An estimator that converges in probability to the 
+population parameter as the sample size grows without 
+bound. 
+Heteroscedasticity It refers to a situation where the variance of the error 
+term is not constant. 
+OLS Method It refers to the method of estimation in which the ‘sum 
+of squared residuals’ is minimum. 
+R-Squared  It refers to the proportion of the total variation in the 
+dependent variable that is explained by the independent 
+variables included in the regression model. 
+4.9 SOME USEFUL BOOKS 
+Gujarati, D N and D C Porter (2009), Basic Econometrics , Fifth Edition, 
+McGraw Hill 
+Johnston, J., Dinardo, J. (2007), “ Econometric Methods ”, 4 th Edition, McGraw-
+Hill Education (Asia), International Edition, pp. 109-125 
+Maddala, G. S. and K. Lahiri (2009), Introduction to Econometrics , Fourth 
+Edition, John Wiley and Sons 
+Wooldrige, Jeffrey (2022), Introductory Econometrics, Seventh Edition, Cengage 
+Learning  
+4.10 ANSWERS/ HINTS TO CHECK YOUR 
+ PROGRESS EXERCISES  
+Check Your Progress 1 
+1) Go through Sub-Section 4.21 and answer.  
+2)  𝛽ଶ෢ =  
+∑ ௫ ೔௬ ೔
+೙
+೔సభ
+∑ ௫ ೔మ೙
+೔సభ
+=  
+ ଶଵ଻ଽ .ଶ଴ସ
+ସ଴ଶହ .ସଷ = 0.541326 
+𝛽ଵ෢  = 𝑌 − 𝛽ଶ෢ 𝑋 
+𝑌 =  
+∑ ௒ ೔
+೙
+೔సభ
+௡
+=  
+ଷଵ଴ଵ .ଷହ
+ହଶ଺ = 5.896103   
+
+
+--- Page 24 ---
+ 
+90 
+ 
+Classical Regression 
+Model 𝑋 =  
+∑ ௑ ೔
+೙
+೔సభ
+௡ =  
+଺଺଴଼ .଴
+ହଶ଺ = 12.5627  
+Therefore, 𝛽ଵ෢ =  5.896103 − 0.541326 (12.5627) = −0.9043 
+3)  The computed value of 𝛽ଶ෢ =  0.541326 means that for every one-year 
+increase (decrease) in formal education of 𝑋௜ (measured in years), the 
+hourly wage rate 𝑋௜ (measured in dollars per hour) increases (decreases) 
+by 0.5413 dollars per hour or 54.13 cents per hour. 
+4)  You should describe the simple regression model and its residual in terms 
+of equation (4.3) in the text. Subsequently, you should specify the normal 
+probability density function of the error term and the likelihood function 
+as equation (4.32).  
+Check Your Progress 2 
+1) The variance of the OLS estimators is given in Section 4.3. 
+2)  The algebraic properties of OLS estimators are described in Sub-Section 
+4.4.1.  
+3) The statistical properties of OLS estimators are unbiasedness, consistency 
+and BLUE. Go through Sub-Section 4.4.2 for details. 
+4) The Gauss-Markov theorem states that given the assumptions of CLRM, 
+the least squares estimators have minimum variance in the class of all 
+linear unbiased estimators, i.e., they are BLUE or ‘best linear unbiased 
+estimator’. 
+3)  The estimators of the homoscedastic variance of the error term 𝑢௜ is given 
+by 𝜎ොଶ  =  
+∑ ௨ ഢෞ మ
+୬ିଶ
+. We have ∑ 𝑢పෝ ଶ௡
+௜ୀଵ = 5980.682, n =526. Therefore, 𝜎ොଶ  =
+ 
+ହଽ଼଴ .଺଼ଶ
+ହଶ଺ିଶ =  
+ହଽ଼଴ .଺଼ଶ
+ହଶସ = 11.4135. 
+Check Your Progress 3 
+1) 𝑟ଶ = 1 −
+ோௌௌ
+்ௌௌ = 1 −
+∑ 𝑢𝑖ෝ 2
+∑ ௬ ೔మ೙
+೔సభ
+  
+= 1 −
+ହଽ଼଴ .଺଼ଶ
+଻ଵ଺଴ .ସଵସ = 1 −  0.8352 = 0.1648   
+This means that 16.48 per cent of the total sample variation in Yi, the 
+hourly wage rate, is explained by or attributable to the variation in 
+regressor Xi, the years of formal education.  
+2) Given that H o: β2 = 0 and H 1: β2 ≠ 0, we need to compute the test statistic 
+𝑡 =
+ఉ మ෢ ିఉ మ
+௦௘  (ఉ మ෢ ).We also need to calculate the estimated standard error of 𝛽ଶ෢  as 
+𝑠𝑒ෞ ൫𝛽ଶ෢ ൯ = ට 𝑣𝑎𝑟ෞ ൫𝛽ଶ෢ ൯  = √0.002835 =  0.0532. Hence, 𝑡 =
+ఉ మ෢ ିఉ మ
+௦௘  (ఉ మ෢ ) =
+ 
+଴ .ହସଵଷ  ି଴
+଴ .଴ହଷଶ = 10.1667. The critical value of 𝑡(524)at 5% significance level 
+
+
+--- Page 25 ---
+ 
+ 91
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+is𝑡ఈ ଶൗ (524) =  𝑡଴ .଴ଶହ (524)  = 1.960 . Thus, at 5% significance level (α = 
+0.05), |𝑡| = 10.167 > 𝑡଴ .଴ଶହ (∞)  = 1.960 . Therefore, we reject the null 
+Ho: β2 = 0 at 5% level of significance. This indicates the existence of a 
+relationship between the wage rate and the number of years of formal 
+education in our sample.  
+3) The 95% confidence interval of 𝑌଴  for the given 𝑋଴  is wider than the mean 
+value 𝑌௢ . When the 95% confidence interval for each value of X is plotted, 
+we get a confidence band. The width of the confidence band is the 
+smallest when 𝑋௢ =  𝑋 and it gets wider as 𝑋௢  moves away from  𝑋 value. 
+Thus, the predictive capacity of 𝑋௢  decreases as it departs from the 𝑋. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 26 ---
+UNIT 5  RESIDUAL ANALYSIS   
+Structure 
+5.0  Objectives 
+5.1  Introduction 
+5.2  Issues in Estimation 
+5.3  Analysis of Residuals 
+ 5.3.1 Residual Plot 
+ 5.3.2 Detection of Potential Problems  
+ 5.3.3 Residuals against predicted Values 
+ 5.3.4 Residual Plot over Time 
+5.4  Outliers 
+5.5  Visual Detection of Heteroscedasticity 
+5.6 Visual Detection of Autocorrelation 
+5.7 Test for Normality 
+5.8 Certain Special Cases 
+ 5.8.1 Regression through the Origin 
+ 5.8.2 Change in Origin and Scale of the Variables 
+ 5.8.3 Linearlisation of Certain Non-Linear Forms 
+ 5.8.4 Choice of Functional Form 
+5.9 Limitations of Regression Analysis 
+5.10 Let Us Sum Up 
+5.11 Key Words 
+5.12 Some Useful Books/References 
+5.13 Answers/Hints to Check Your Progress Exercises 
+5.0 OBJECTIVES 
+After going through this unit, you should be in a position to 
+ appreciate the importance of model diagnostics in econometrics and its role in 
+ensuring the reliability of regression analysis results; 
+ determine techniques for analysing residuals such as plotting residuals against 
+predicted values and over time to detect outliers 
+ assess the estimated regression model in terms of goodness of fit. 
+ analyse visual methods for detecting heteroscedasticity and autocorrelation in 
+regression models;  
+ explore testing for normality; and 
+ address special cases in regression analysis such as regression through the 
+origin, variable origin and scale adjustments, and optimal functional form 
+selection. 
+ 
+ Dr. Gurleen Kaur, Assistant Professor, Department of Economics, Sri Guru Gobind Singh 
+College of Commerce, University of Delhi 
+
+
+--- Page 27 ---
+ 
+ 93
+Models Diagnostics 5.1 INTRODUCTION 
+The pursuit of estimates for parameters that underlie economically meaningful 
+relationships has consistently stood at the core of applied econometric modelling 
+endeavours. Consequently, estimation of parameters is an important step in 
+econometrics.  
+Within the framework of the Classical Linear Regression Model (CLRM), a 
+pivotal assumption stipulates that the model employed for analysis is “correctly 
+specified” (see Unit 8 for details on specification issues). This requirement 
+presents a formidable challenge, as the notion of a flawless model remains 
+elusive. In the realm of econometric modelling, the objective is to encapsulate the 
+essential characteristics of an economic phenomenon while considering elements 
+such as underlying economic theory, prior empirical research, intuition, and 
+research expertise. Attempting to encompass every conceivable factor that 
+impacts a particular research subject would lead to the creation of an impractical 
+and cumbersome model with restricted practical applicability. 
+It is not always possible to build a perfect econometric model at the first instance. 
+After estimation of the parameters we check whether the model satisfies the 
+assumptions and whether the model is specified properly. We will discuss 
+specification issues in Unit 8. In this Unit we will try to examine the model on 
+the basis of certain rudimentary methods such as visual inspection of the 
+residuals.  
+5.2 ISSUES IN ESTIMATION 
+We have studied the four assumptions regarding the error term in a simple 
+regression model. These assumptions are: 𝐸(𝑢௜) = 0;  𝐸(𝑢௜
+ଶ ) = 𝜎ଶ ;  𝐸(𝑋௜𝑢௜) =
+0;  𝐸൫𝑢௜𝑢௝൯ = 0. These assumptions are ideal scenarios – they are not fulfilled in 
+all the cases. In particular, when 𝐸(𝑢௜
+ଶ ) ≠ 𝜎ଶ , we encounter the problem of 
+heteroscedasticity (i.e., the error variance is not constant throughout the dataset). 
+When 𝐸(𝑋௜𝑢௜) ≠ 0, we have the problem of endogeneity (i.e., the explanatory 
+variable is not independent of the error term). When  𝐸൫𝑢௜𝑢௝൯ ≠ 0, we face the 
+problem of autocorrelation in the dataset. When the assumptions are violated the 
+OLS estimators do not fulfil the desirable properties of an estimator.  
+There are test procedures to detect the problems of heteroscedasticity, 
+endogeneity and autocorrelation. However, by looking into the residual plot of a 
+regression model, we can sense the possibility of certain problems in the dataset.  
+When computing the Ordinary Least Squares (OLS) estimate of the parameter 
+‘β’, certain observations might wield disproportionate influence compared to 
+others. Should a handful of observations exert an exceptionally strong impact, it 
+is prudent to investigate whether they stem from erroneous data, such as decimal 
+point misplacement, or pertain to atypical cases, such as including the CEO of 
+Apple in your sample on monthly salary of individuals! In a broader context, it is 
+worthwhile to assess the robustness of the estimation results concerning 
+seemingly minor alterations in the sample. In specific instances, opting for more 
+
+
+--- Page 28 ---
+ 
+94 
+ 
+Classical Regression 
+Model 
+robust estimation techniques may prove advisable over employing OLS. Given 
+that a linear regression model may not always suit the data at hand, it is essential 
+to gauge its suitability by defining residuals and scrutinizing residual plots. 
+5.3 ANALYSIS OF RESIDUALS 
+Recall that we add an error variable ( 𝑢) to the regression model, which is not 
+measurable. Based on the estimated coefficients of the model, we obtain the 
+residuals ( 𝑢ො). The difference between the observed value of the dependent 
+variable (Y) and the predicted value ( 𝑌෠) is called the residual (𝑢ො). Each data point 
+has one residual. 
+Residual = (Observed value – Predicted value) 
+In terms of notations  
+𝑢ො௜ = (𝑌௜ − 𝑌෠௜)       … (5.1) 
+As you know from Unit 3, the error variable ( u) is assumed to have zero mean. 
+The sum of the residuals also is equal to zero. We denote the residual as 𝑢ො or e.  
+That is,∑ 𝑢ො௜ = 0. You can also write it as Σ e = 0.  
+Residuals can be regarded as the disparities between the actual data points and 
+corresponding model predictions. Consequently, these discrepancies serve as a 
+measure of the unaccounted-for variability in the dependent variable, attributable 
+to the limitations of the regression model. 
+5.3.1 Residual Plot 
+A high value of the error variance (𝜎௨
+ଶ ) indicates lower explanatory power of a 
+regression model (recall the definition of 𝑅ଶ ). High value of the error variance 
+can occur if the residuals are widely dispersed. Therefore, we should find out if 
+any of the residuals has a very high value. For this purpose, we should examine 
+the residual plot of a regression model. First, we estimate the simple regression 
+model (𝑌௜ = 𝛼 +  𝛽𝑋௜ +  𝑢௜) and then we compute the residuals. 
+A residual plot is a graphical representation where the horizontal axis represents 
+the independent variable ( 𝑋௜), and the vertical axis displays the residuals ( 𝑢ො௜). If 
+the data points in a residual plot exhibit a random and evenly spread distribution 
+around the horizontal axis, a linear regression model is a suitable choice for the 
+data. Conversely, suppose the data points in the residual plot do not exhibit such 
+random pattern – then it suggests that a nonlinear model would be a better 
+alternative. 
+5.3.2 Detection of Potential Problems  
+Conducting a visual examination of residuals stands out as a highly efficient 
+method for assessing the appropriateness of a regression model’s fit and verifying 
+its foundational assumptions. Different types of graphical representations are 
+available for scrutinizing various assumptions, and these visual aids can be 
+generated using econometric software. 
+
+
+--- Page 29 ---
+ 
+ 95
+Models Diagnostics  
+ 
+ 
+ 
+ 
+                (a: random)                                           (b: non-random U-shaped)  
+ 
+ 
+ 
+ 
+ 
+                                    (c: non-random inverted-U) 
+                              Fig. 5.1: Patterns of Residual Plot 
+In Fig. 5.1 we present various patterns observed in a residual plot. There are three 
+patterns shown in the figure. The first one (a) indicates a random pattern. The 
+second one (b) indicates a U-shaped pattern while the third one (c) indicates an 
+inverted-U pattern. Thus, the second and the third patterns are non-random. If we 
+notice some non-random pattern in the residual plot, we infer that the linear 
+regression model is not a good fit.  
+5.3.2 Residuals against Predicted Values 
+Creating a plot of residuals (e.g., 𝑢ො௜ or any of the scaled residuals (see subsequent 
+section on scaling the variables) against their corresponding predicted or fitted 
+values ( 𝑌෠௜) proves valuable in identifying various prevalent model deficiencies. 
+Different interpretations can be attributed to specific types of plots featuring 𝑌෠௜ 
+versus 𝑢ො௜. 
+If the residual plot exhibits a pattern where the residuals can be enclosed within a 
+horizontal band (see Fig. 5.2(a)), and these residuals fluctuate somewhat 
+randomly within that band, it signifies the absence of model flaws. On the other 
+hand, if the plot displays a pattern where the residuals are enclosed within an 
+outward-opening funnel shape (see Fig. 5.2(b)), then the error variance is not 
+constant. The error variance (𝜎௨ଶ ) increases with the predicted values ( 𝑌෠௜).When 
+examining the plots and observing a pattern where the residuals can fit within an 
+inward-opening funnel (see Fig. 5.2(c)),this pattern implies that the error variance 
+is not uniform but rather decreases as a function of the predicted values (𝑌෠௜). 
+In the event that the plot exhibits a configuration where the residuals can fit 
+within a double bow shape (see Fig. 5.2(d)), this particular pattern serves as an 
+indicator that the error variance is not uniform but instead is related to the 
+predicted values ( 𝑌෠௜) in a proportional manner, ranging between 0 and 1. In such 
+cases, Y might follow a ‘binomial distribution’ and suggests that the presumed 
+relationship between Y and the predictor variables (Xs) is nonlinear. 
+When the plot reveals a pattern where the residuals are enclosed within a curved 
+shape (see Fig. 5.2(e)), this signifies nonlinearity in the model. It suggests that 
+  -6 
+ -3 
+2 6 8 10 
+0 
+3 
+6 
+4  12 
+  -6 
+6 
+  -6 
+  -3 
+2 6 8 10 
+0 
+3 
+6 
+4  12 
+  -3 
+2 6 8 10 
+0 
+3 
+4  12 
+
+
+--- Page 30 ---
+ 
+96 
+ 
+Classical Regression 
+Model 
+the presumed relationship between the dependent variable (Y) and the 
+independent variables (X s) is nonlinear. This type of residual plot could also 
+imply the need for incorporating additional explanatory variables into the model. 
+In some cases, applying transformations (such as logarithmic) to the variables 
+could prove beneficial when addressing such nonlinearity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)                                                                          (b)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                             (c)  (d) 
+ 
+ 
+ 
+ 
+ 
+ 
+(e) 
+Fig. 5.2: Residual Plot 
+Plotting residuals against their corresponding explanatory variables can also 
+provide valuable insights. The interpretation of these plots aligns with that of 
+residual-versus-𝑌෠௜ plots and can be summarized as follows: 
+(a) If all the residuals cluster within a horizontal band, with fluctuations appearing 
+randomly within this band, it signifies a desirable scenario with no apparent model 
+defects. 
+𝑒௜
+0 
+𝑦ෝ 𝑖
+𝑒௜
+0 
+𝑦ෝ 𝑖
+𝑒௜
+0 
+𝑦ෝ 𝑖
+𝑒௜
+0 
+𝑦ෝ 𝑖
+𝑒௜
+0 
+𝑦ෝ 𝑖
+
+
+--- Page 31 ---
+ 
+ 97
+Models Diagnostics (b) When the residuals take an outward-opening funnel shape or an inward-opening 
+funnel shape, this pattern suggests that variance is not constant across the sample. 
+(c) If the plot shows a double bow pattern or nonlinear trend, it implies that the 
+assumed relationship between the dependent variable ( 𝑌௜) and the explanatory 
+variable ( 𝑋௜) may not be accurate. In such cases, various possibilities emerge, 
+including y possibly being a proportion, the need for higher-order terms in 𝑋௜, or 
+the requirement for data transformation to be considered. 
+5.3.4 Residual Plots over Time 
+Knowing the temporal sequence of data collection allows for the generation of 
+residual plots with respect to time. Taking into account the Y-axis residuals and 
+arranging them with respect to time is analogous to plotting residuals against 𝑌෠௜. 
+In lieu of 𝑌෠௜, simply use the time order on the X-axis.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    (a) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                    (b) 
+                                            Fig. 5.3: Inter-temporal Residual Plots 
+ 
+If all the residuals are confined within a horizontal band, and they exhibit a 
+somewhat random fluctuation within this band, it is considered favourable and 
+suggests the absence of obvious model deflects. A funnel shape that opens 
+outward or inward suggests that the variance is not consistent but rather changing 
+over time. If you observe a double bow pattern or a nonlinear pattern, it implies 
+that the assumed relationship is not linear. In such instances, it is advisable to 
+incorporate linear or quadratic time terms into the model. 
+Residual 
+(ei) 
+Time 
+Residual 
+(ei) 
+Time 

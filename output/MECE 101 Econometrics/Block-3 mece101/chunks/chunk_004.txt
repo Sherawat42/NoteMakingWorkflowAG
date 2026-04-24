@@ -1,0 +1,459 @@
+--- Page 33 ---
+ 
+ 
+ 
+176 
+Violations of Basic 
+Assumptions 
+9.8 KEY WORDS 
+Generalised Least 
+Squares 
+: GLS is basically application of OLS to the transformed 
+model which satisfies the classical assumption.In this 
+method, the variables are transformed by incorporating 
+the autocorrelation parameter ‘ 𝜌’. The GLS procedure 
+produces efficient estimates since all available 
+information (about autocorrelation or 
+heteroscedasticity) is used. In the presence of 
+autocorrelation, the GLS estimator is BLUE. 
+Serial correlation 
+or Autocorrelation 
+:
+ In time series data, the correlation between error terms 
+is known as autocorrelation or serial correlation. 
+White Noise :
+ An error term ‘ 𝜀௧ ’ which satisfies the following 
+properties:  
+𝐸(𝜀௧) = 0                                                                 
+𝑉𝑎𝑟(𝜀௧) = 𝜎ఌ
+ଶ  
+𝐶𝑜𝑣(𝜀௧, 𝜀௧ା ௦) =  0;  𝑠 ≠  0 
+9.9 SOME USEFUL BOOKS/REFERENCES 
+Brooks, Chris (2014), ‘ Introductory Econometrics for Finance ,’ Third Edition, 
+Cambridge University Press 
+Gujarati, Damodar N. and Sangeetha (2007), ‘ Basic Econometrics ,’ Fourth 
+Edition, Tata McGraw Publishing Company Limited, New Delhi, 
+Edition 2007 
+Maddala, G. S. and K. Lahiri (2009), Introduction to Econometrics , Fourth 
+Edition, John Wiley and Sons 
+Wooldrige, Jeffrey (2022), Introductory Econometrics, Seventh Edition, Cengage 
+Learning  
+9.10 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1)  False. The consequences of autocorrelation are given in Section 9.3.  
+2) True. Refer to Section 9.3.  
+3)  You should represent 𝑢௧ in terms of 𝑢௧ିଶ and find the covariance between the 
+two. 
+Check Your Progress 2 
+1)  The procedure of DW test is given in Section 9.4.  
+2)  The limitations of DW test are given in Section 9.4.  
+
+
+--- Page 34 ---
+ 
+ 
+ 
+177 
+Autocorrelation 3) Yes, there is positive autocorrelation. Go through Section 9.4 for details. 
+Check Your Progress 3 
+1)  Refer to Section 9.5 and Section 9.3.  
+2) In models having lagged explained variables, the DW test cannot be used.  
+ 
+
+
+--- Page 35 ---
+UNIT 10 MUL TICOLLINEARITY 
+Structure 
+10.0  Objective 
+10.1  Introduction 
+10.2  Concept of Multicollinearity 
+10.3  Consequences of Multicollinearity 
+10.4  Detection of Multicollinearity 
+        10.4.1 Various Tests to Detect Multicollinearity 
+        10.4.2 Problems in Measurement of Multicollinearity 
+10.5  Remedies for Multicollinearity 
+10.6  Let Us Sum Up 
+10.7  Key Words 
+10.8  Some Useful Books/ References 
+10.9  Answers/ Hints to Check Your Progress Exercises 
+10.0  OBJECTIVES 
+After reading this unit, you should be in a position to  
+ explain the problem of multicollinearity in regression analysis; 
+ identify how the problem of multicollinearity affects the results of 
+regression analysis; 
+ explain various methods used to detect multicollinearity in a regression 
+model; and  
+ suggest remedial measures in case multicollinearity is present in a dataset. 
+10.1 INTRODUCTION 
+Multicollinearity is basically the presence of high correlation between 
+explanatory variables in a multiple regression model. An assumption of the OLS 
+method, as you may recall from Unit 3, is that the explanatory variables are not 
+correlated with one another (in technical terms, they are orthogonal). A non-zero 
+correlation between explanatory variables is typically observed. Low correlation 
+between explanatory variables may not be a problem, but if the correlation 
+between explanatory variables is found to be very high, it causes serious  
+ 
+ 
+ Dr. Priti Agarwal, O P Jindal Global University, Sonipat 
+
+
+--- Page 36 ---
+ 
+ 
+ 
+179 
+Multicollinearity problems in parameter estimation by inflating the standard errors and making t-
+ratios statistically insignificant.  
+10.2  CONCEPT OF MULTICOLLINEARITY 
+As pointed out above, multicollinearity is high intercorrelation between the 
+explanatory variables. Two types of multicollinearity need to be discussed: 
+perfect multicollinearity and near multicollinearity.  
+Perfect Multicollinearity: In this case two or more explanatory variables bear an 
+exact linear relationship.  In the presence of perfect multicollinearity, estimating 
+all the coefficients of the model is not possible. For example, two variables ‘x2’ 
+and ‘x3’ used in a regression model are such that:  
+𝑥ଶ  = 2 𝑥ଷ   … (10.1) 
+Here, 𝑥ଶ  and 𝑥ଷ  are perfectly related to each other. In this case if we regress 𝑥ଶ  
+on 𝑥ଷ  we find that the coefficient of determination 𝑟ଶଷ
+ଶ  is equal to 1. A scatter plot 
+of 𝑥ଶ  against 𝑥ଷ  will show all points to remain on a straight line. To cite another 
+example, suppose in a regression model (in deviation form)  
+𝑦 =  𝛽ଵ 𝑥ଵ +  𝛽ଶ 𝑥ଶ +  𝛽ଷ 𝑥ଷ   +  𝑢                                 … (10.2) 
+ the independent variables are related to each other by the equation 𝑥ଷ = 2𝑥ଵ +
+3𝑥ଶ     
+If we substitute 𝑥ଷ = 2𝑥ଵ + 3𝑥ଶ   in equation (10.2), we obtain 
+𝑦 = 𝛽ଵ 𝑥ଵ + 𝛽ଶ 𝑥ଶ + 𝛽ଷ (2𝑥ଵ + 3𝑥ଶ ) + 𝑢,      or 
+y= (𝛽ଵ + 2𝛽ଷ ) 𝑥ଵ+(𝛽ଶ + 3𝛽ଷ )𝑥ଶ + 𝑢     …(10.3) 
+Note that equation (10.3) is regression model where 𝑦 is regressed on 𝑥ଵ  and 𝑥ଶ  
+with parameters (𝛽ଵ +  2𝛽ଷ ) and (𝛽ଶ + 3𝛽ଷ ). Thus  it is possible to estimate the 
+linear combinations of the parameters 𝛽ଵ +  2𝛽ଷ  and 𝛽ଶ + 3𝛽ଷ , but it is not 
+possible to estimate 𝛽ଵ , 𝛽ଶ  and 𝛽ଷ  separately. That is, when multicollinearity is 
+present in a regression model, disentangling the separate effect of each 
+explanatory variable on the explained or dependent variable is difficult. In a m-
+variable regression model, there is an exact linear relationship between the 
+variables if,  
+𝜑ଵ 𝑥ଵ +  𝜑ଶ 𝑥ଶ  +  … + 𝜑௠ 𝑥௠                     …(10.4) 
+The parameters 𝜑ଵ , 𝜑ଶ … 𝜑௠  are constants, not all zero simultaneously.  
+Near Multicollinearity : In this case,  correlation between the explanatory 
+variables is high but not perfect ( 𝑟ଶଷ
+ଶ  is not exactly, but nearly equal to1). In this 
+case, the scatter plot of 𝑥ଶ  against 𝑥ଷ  will show all points lying close to the 
+straight line, but not exactly on it. In a m-variable regression model, 
+multicollinearity is less than perfect if,  
+𝜑ଵ 𝑥ଵ +  𝜑ଶ 𝑥ଶ  +  … + 𝜑௠ 𝑥௠  + 𝑣           … (10.5) 
+where 𝑣  is a stochastic error term.  
+
+
+--- Page 37 ---
+ 
+ 
+ 
+180 
+Treatment of Violations of 
+Basic Assumptions 
+You should note that in multicollinearity problem we consider only linear 
+relationships between the explanatory variables. It does not apply to non-linear 
+relationships between variables.   
+10.3  CONSEQUENCES OF MULTICOLLINEARITY 
+Even with near multicollinearity, the estimators obtained by OLS are: 
+ Unbiased 
+ Consistent 
+ Best Linear Unbiased Estimate (BLUE)  
+Some of the consequences of multicollinearity are discussed below. 
+1. Regression coefficients are indeterminate or not precisely estimable 
+With perfect multicollinearity, the parameters of the explanatory variables cannot 
+be determined. For example, let us consider the regression model 
+𝑦௜ =  𝛽መଵ 𝑥ଵ௜ + 𝛽መଶ 𝑥ଶ௜ + 𝑢ො௜                                        …(10.6)          
+Here, y, 𝑥ଵ and 𝑥ଶ  are taken in deviation form from the respective means, 𝛽መଵ  
+and 𝛽መଶ are estimated regression coefficients and ‘i’ range from 1 to n. Suppose 
+there is perfect multicollinearity problem such that  𝑥ଶ௜ =  𝜏𝑥ଵ௜  (where 𝜏 is a 
+constant). Thus the above regression model can be written as  
+𝑦௜ =  𝛽መଵ 𝑥ଵ௜ + 𝛽መଶ (𝜏 𝑥ଵ௜) + 𝑢ො௜ ,  or                                                                                                    
+𝑦௜ = (𝛽መଵ +  𝛽መଶ 𝜏)𝑥ଵ௜ + 𝑢ො௜                                                               … (10.7)                                                                        
+ Let𝛽መଵ + 𝛽መଶ 𝜏 = 𝛼             … (10.8) 
+In the above formulation it is not possible get the estimators for 𝛽መଵ  and 𝛽መଶ  
+separately. However, ⍺ ൫= 𝛽መଵ +  𝛽መଶ   ൯ can be estimated which is a linear function 
+of the two regression coefficients, 𝛽መଵ and 𝛽መଶ  . It is worth mentioning that we can 
+obtain a unique value for 𝛼 but there will be infinite solutions for 𝛽መଵ  and 𝛽መଶ , 
+given the values of 𝛼 and 𝜏. Thus obtaining a unique set of values for  𝛽መଵ and 𝛽መଶ  
+is not possible. With less than perfect multicollinearity, the regression 
+coefficients can be estimated but not precisely, because their standard errors turn 
+out to be very high (see discussion below).  
+2. Standard errors of the coefficients are very high or infinite 
+The variance and covariance of the estimators are very large in the presence of 
+multicollinearity. With perfect multicollinearity, the standard errors of the 
+estimators reach a value of infinity. With less than perfect multicollinearity, the 
+standard errors of the regression coefficients are very large. In the regression 
+model  𝑦௜ =  𝛽መଵ 𝑥ଵ௜ +  𝛽መଶ 𝑥ଶ௜ + 𝑢ො௜ , the variances of the estimated regression 
+coefficients 𝛽መଵ and 𝛽መଶ are given by  
+𝑉𝑎𝑟 ൫𝛽መଵ ൯ =  
+ఙ మ
+∑ ௫ భ೔ మ (ଵି௥ భమ మ ) , and                                                                                                                             
+
+
+--- Page 38 ---
+ 
+ 
+ 
+181 
+Multicollinearity 𝑉𝑎𝑟 (𝛽መଶ ) =  
+ఙ మ
+∑ ௫ మ೔ మ (ଵି௥ భమ మ )        …(10.9) 
+The covariance of 𝛽መଵ and 𝛽መଶ is given by 
+𝐶𝑜𝑣 (𝛽መଵ , 𝛽መଶ ) =  
+ି௥ భమ మ ఙ మ
+(ଵି௥ భమ మ )ඥ ∑ ௫ భ೔ మ ௫ మ೔ మ                                                      … (10.10) 
+Here, 𝜎ଶ  is the variance of the error term  𝑢௜ and 𝑟ଵଶ  is the correlation coefficient 
+between explanatory variables 𝑥ଵ  and 𝑥ଶ . From (10.9) and (10.10), we find that as 
+𝑟ଵଶ  tends to unity (implying perfect multicollinearity), the variance and 
+covariance of the estimators tend to infinity.  
+3. Confidence intervals are wider 
+Recall from Unit 3 that confidence interval depends on the size of the standard 
+error. If the standard error for an estimator is high, its confidence interval is wide 
+and the null hypothesis is readily accepted. There is a greater likelihood of Type 
+II error (the hypothesis is false but the test statistic does not reject it).  
+4. R2 is high but few t-ratios are significant 
+In the presence of multicollinearity, isolating the explanatory power of each 
+independent variable becomes difficult. The R2 is found to be high, but the 
+individual variable’s regression coefficients are found to exhibit low levels of 
+statistical significance or they may be statistically insignificant.  
+You may recall that t =
+ఉ෡
+௦௘  (ఉ )෢
+. If there is an increase in the standard error of  𝛽መ, 
+there is a decrease in its t-ratio. In the presence of multicollinearity, as individual 
+regression coefficients exhibit high standard errors, the t-ratios become smaller 
+and statistically not significant. The null hypothesis of all slope coefficients being 
+jointly zero is rejected on the basis of the F-test (reflected in the high R-squared 
+value), but individual regression coefficients are declared insignificant on the 
+basis of the t-test.  
+5. Regression results become very sensitive to data or specification changes 
+In the presence of multicollinearity, addition or removal of any independent 
+variable causes large changes in the values of regression coefficients and their 
+standard errors.   
+Check Your Progress 1 
+1)   “In multiple regression, a high correlation in the sample among the 
+regressors implies that the least square estimators of the coefficients are 
+biased”. True or False? Justify your answer.  
+........................................................................................................................... 
+........................................................................................................................... 
+........................................................................................................................... 
+........................................................................................................................... 
+........................................................................................................................... 
+
+
+--- Page 39 ---
+ 
+ 
+ 
+182 
+Treatment of Violations of 
+Basic Assumptions 
+2)  You are given a regression model 𝑌 =  𝛼 +  𝛽ଶ  𝑋ଶ௜ + 𝛽ଷ  𝑋ଷ௜ +
+ 𝛽ସ  (𝑋ଶ௜ +   𝑋ଷ௜ ) +  𝛽ହ  𝑋ଶ௜ 
+ଶ +  𝛽଺  𝑋ଷ௜ 
+ଶ +  𝑢௜. Which of the parameters in 
+this model can be estimated by OLS? 
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+.......................................................................................................................... 
+........................................................................................................................... 
+10.4  DETECTION OF MULTICOLLINEARITY 
+There are a few rules of thumb for detecting multicollinearity. Here, the idea is 
+not to see if multicollinearity is present or absent, but to measure its degree or 
+strength in the sample at hand. 
+10.4.1 Various Methods to Detect Multicollinearity 
+There are several methods to detect the presence of multicollinearity. 
+1. Correlation Matrix  
+Let us assume that a regression model has three explanatory variables, viz.  ‘x1’, 
+‘x2’ and ‘x 3’. A matrix of pair-wise correlations among the above variables is 
+given  as follows: 
+correlation x1 x2 x3 
+x1 - 0.1 0.85 
+x2 0.1 - 0.3 
+x3 0.85 0.3 - 
+Here, a high correlation between ‘x1’ and ‘x 3’ shows the presence of 
+multicollinearity. However, such a simple method of detection of 
+multicollinearity will not prove useful if three or more variables are collinear. For 
+example, suppose, 𝑥ଵ + 𝑥ଶ = 𝑥ଷ . In this case, the coefficient of determination 
+(R2) obtained from regressing 𝑥ଷ  on 𝑥ଵ  and 𝑥ଶ  equals unity. However, the pair-
+wise correlations between 𝑥ଷ  and 𝑥ଵ , between  𝑥ଵ  and x2 and between x1 and x2 
+may not be high. Thus, pair-wise correlations are not a useful indicator of 
+multicollinearity when three or more variables are collinear.  
+2. High Standard Errors of the Regression Coefficients 
+Due to high inter-correlation among independent variables, the estimated 
+regression coefficients have high standard errors. But this is not necessarily true 
+as demonstrated below. Even low inter-correlation among independent variables 
+can cause high standard errors. In the regression model     𝑦௜ =  𝛽መଵ 𝑥ଵ௜ +  𝛽መଶ 𝑥ଶ௜ +
+ 𝑢ො௜ given above, the variance of the estimated regression coefficients 𝛽መଵ and 𝛽መଶ  
+are given by the following: 
+
+
+--- Page 40 ---
+ 
+ 
+ 
+183 
+Multicollinearity 𝑉𝑎𝑟 (𝛽መଵ ) =  
+ఙ మ
+∑ ௫ భ೔ మ (ଵି௥ భమ మ )  
+𝑉𝑎𝑟 (𝛽መଶ ) =  
+ఙ మ
+∑ ௫ మ೔ మ (ଵି௥ భమ మ )  
+We can see that the variance of 𝛽መଵ will be high if i) 𝜎ଶ   is high, ii) ∑ 𝑥ଵ௜ ଶ  is low, 
+and iii) 𝑟ଵଶ ଶ  is high. Thus, just knowing that 𝑟ଵଶ ଶ  is high, does not tell us whether 
+multicollinearity exists or not. In fact, standard errors can be high if  𝜎ଶ  is high 
+and ∑𝑥ଵ௜
+ଶ is low. Hence, the proposition that high pair-wise correlation between 
+explanatory variables necessarily cause high standard errors is not true. 
+Extending the above formula to a k-variable regression model, the variance of the 
+jth  regression coefficient is given by: 
+𝑉𝑎𝑟 (𝛽መ௝) =  
+ఙ మ
+∑ ௫ ೕ మ (ଵିோ ೕమ )       … (10.11) 
+Here, ∑ 𝑥௝ ଶ = ∑(𝑋௝ −  𝑋ത ) ଶ 
+𝛽መ௝ is the estimator of 𝛽መ௝  the regression coefficient of explanatory variable 𝑋௝. 𝑅௝
+ଶ 
+is the 𝑅ଶ  obtained from the regression of 𝑋௝  on the remaining explanatory 
+variables. Alternatively, 𝑅௝
+ଶ  is the squared multiple correlation coefficient 
+between 𝑋௝  and other regressors. From (10.11) we can see that “high 𝑅௝
+ଶ  is 
+neither necessary nor sufficient condition of getting high standard errors. Thus 
+multicollinearity by itself need not cause high standard errors” (Maddala,  2001).   
+3. Variance Inflation Factor (VIF) 
+Another indicator of multicollinearity is the VIF. In the regression model  𝑦௜ =
+ 𝛽መଵ 𝑥ଵ௜ +  𝛽መଶ 𝑥ଶ௜ +  𝑢ො௜ given above, the VIF is given by: 
+𝑉𝐼𝐹 =  
+ଵ
+(ଵି௥ భమ మ )                                   … (10.12) 
+In the case of a multiple regression model, the VIF is given by: 
+𝑉𝐼𝐹௝ =   
+ଵ
+(ଵିோ ೕమ )        … (10.13) 
+You can observe from (10.12) that VIF tends to ∞ as 𝑟ଵଶ
+ଶ  tends to 1. With zero 
+correlation between the independent variables, the VIF is unity. That is, higher 
+intercorrelation between the explanatory variables scales up the VIF and the 
+variances and standard errors of regression coefficients. As seen from the 
+formulas below, 𝑉𝑎𝑟 (𝛽መଵ ) and 𝑉𝑎𝑟 (𝛽መଶ ) increases as VIF increases.  
+𝑉𝑎𝑟(𝛽መଵ )  =  
+ఙ మ
+∑ ௫ భ೔ మ
+𝑉𝐼𝐹                                 … (10.14) 
+𝑉𝑎𝑟 (𝛽መଶ ) =  
+ఙ మ
+∑ ௫ మ೔ మ 𝑉𝐼𝐹       … (10.15) 
+However, as already discussed, high VIF need not necessarily cause high 
+standard error for 𝛽መଵ  . If 𝜎ଶ  is low and  ∑𝑥ଵ௜
+ଶ  is high (or,  ∑𝑥ଶ௜
+ଶ  is high) we 
+obtain high variance and standard error. Whether multicollinearity is posing a 
+problem or not can be best understood by looking at the standard errors and t-
+ratios. For 𝛽መଶ , the high intercorrelation among the independent variables may not 
+cause high standard errors. Thus, VIF can be a misleading indicator of the extent 
+
+
+--- Page 41 ---
+ 
+ 
+ 
+184 
+Treatment of Violations of 
+Basic Assumptions 
+to which multicollinearity is posing a problem. Moreover, VIF has to be 
+computed separately for each explanatory variable. In this sense, VIF is rather 
+useful in identifying the variables that are highly correlated with other 
+explanatory variables and hence can be dropped.  
+4. Tolerance 
+The inverse of VIF is known as Tolerance (TOL) and it is another indicator of 
+collinearity between variables. 
+𝑇𝑂𝐿௝ =   
+ଵ
+௏ூி ೕ
+=  (1 − 𝑅௝
+ଶ )       … (10.16) 
+𝑇𝑂𝐿௝ ranges from 0 (perfect collinearity) to 1 (no collinearity).  
+5. Klien’s Rule of Thumb 
+Klein argued that multicollinearity is a problem only if 𝑅௝
+ଶ  exceeds the overall 
+R2. This condition can be stated as: 
+𝑅௝
+ଶ > 𝑅ଶ          … (10.17) 
+However, this rule has limitations as it is possible to obtain significant regression 
+coefficients even if  𝑅௝
+ଶ > 𝑅ଶ .  
+6. Condition Number (CN) 
+Condition number is an overall measure of multicollinearity. Remember that if 
+the explanatory variables are exactly linearly dependent, the matrix of 
+explanatory variables X’X is singular. X’X is close to being singular if the 
+variables are almost linearly dependent; even if not exactly linearly dependent. 
+The ‘condition number’ measures multicollinearity from this perspective. In a k-
+variable regression model, the matrix X’X of explanatory variables is used to find 
+the maximum and minimum eigen value. Eigen values or characteristic roots of 
+any 𝑛 × 𝑛 matrix A are obtained by solving for γ from the characteristic equation 
+|A – γI| = 0. This is an n th degree equation in γ having ‘n’ characteristic roots. The 
+word ‘eigen’ is borrowed from German, which means ‘proper’.   
+Condition Number = ට
+௠௔௫௜௠௨௠  ௘௜௚௘௡  ௩௔௟௨௘
+௠௜௡௜௠௨௠  ௘௜௚௘௡  ௩௔௟௨௘           … (10.18) 
+Condition number can be calculated by taking the maximum eigen value and any 
+other eigen value. In relation to the maximum eigen value, if the other eigen 
+value is low, it shows the presence of linearly-dependent explanatory variables in 
+the data or near-linear dependencies. The condition number (CN) is equal to 1 if 
+there is no multicollinearity. The condition number increases with increase in 
+collinearity. There are some informal rules of thumb with respect to CN. If the 
+CN is 15, multicollinearity is moderate. If the CN exceeds 30, multicollinearity is 
+severe. By suitably transforming the variables, the CN can be made close to 1.  
+7. Theil’s Measure of Multicollinearity 
+VIF and CN do not look at the intercorrelation between dependent and 
+independent variables. They only examine the intercorrelation between 
+
+
+--- Page 42 ---
+ 
+ 
+ 
+185 
+Multicollinearity independent variables.  Theil’s Measure of Multicollinearity ( 𝑚′) examines the 
+correlation between the explained variable and the explanatory variables. It is 
+indicated by: 
+ 𝑚′ = 𝑅ଶ − ∑ (𝑅ଶ −  𝑅ି௣
+ଶ )௞
+௣ୀଵ                           … (10.19) 
+Here, 𝑅ଶ  is the squared multiple correlation obtained by regression of ‘ y’ on ‘ k’ 
+explanatory variables. 𝑅ି௣
+ଶ  is the squared multiple correlation obtained by 
+regression of ‘ y’ on ‘k ’ explanatory variables omitting 𝑥௣ . (𝑅ଶ −  𝑅ି௣
+ଶ ) is the 
+incremental contribution of the p th variable to 𝑅ଶ . The incremental contribution 
+of ‘ k’ explanatory variables (𝑥ଵ , 𝑥ଶ , . . ., 𝑥௞ ) add up to 𝑅ଶ  if these variables are 
+mutually uncorrelated. In that case, 𝑚′ = 0. But with multicollinearity, ‘ 𝑚′’ can 
+be highly positive or even negative, making it a not so useful indicator of the 
+problem of multicollinearity.  
+10.4.2 Problems in Measurement of Multicollinearity 
+In order to understand the problems in measurement of multicollinearity, 
+consider the following example where the independent variables can be defined 
+in various ways. Defining C (per capita real consumption), Y (per capita real 
+income), YP (per capita real permanent income) and YT (per capita real transitory 
+income) we have the relationship: 
+Y = YP + YT                 … (10.20) 
+Let us assume that YT and YP are not correlated, 𝑖. 𝑒., E (𝑦் , 𝑦௉ ) = 0 
+The consumption function is given by any of the following three ways:  
+C = αY + βYP + u                                     … (10.21) 
+By substituting (10.20) in (10.21) we obtain 
+C = αYT + (α+β)YP + u                                      … (10.22)   
+The above can be expressed as                    
+C = (α+β)Y – βYT + u                                                  … (10.23)                   
+The above three ways (equations 10.21, 10.22 and 10.23) in which the 
+consumption function is expressed are essentially the same. But multicollinearity 
+may be reported to be high in the first expression and there may be no 
+mulicollinearity in the second expression since it is given that YT and YP are not 
+correlated. What matters is how precisely we can estimate α, β or (α+β). In fact, 
+in some cases, the linear combination (α+β) is more precisely estimable than α or 
+β. Such linear combinations often make economic sense based on theory. 
+Thus, when examining whether multicollinearity is a serious issue, we should 
+first examine the pair-wise correlation between various explanatory variables. 
+High correlation may be suggestive of a problem although not necessarily. If the 

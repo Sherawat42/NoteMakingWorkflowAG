@@ -1,0 +1,516 @@
+--- Page 90 ---
+ 
+ 233
+Stochastic 
+Regressors  
+5) Explain the problems of simultaneity as an endogeneity problem. 
+……………………………………………………………………………...
+……………………………………………………………...………………
+……………………………………………………………...………………
+………………………………………………………………...……………
+………………………………………………………………...………….... 
+13.3 INSTRUMENTAL VARIABLE ESTIMATOR 
+In this section we discuss about the instrumental variable method of estimation, 
+which is extensively used in empirical research. In instrumental variable method 
+of estimation, the unobservable error (correlated with the explanatory variables) 
+is explicitly allowed. Let us consider the following linear population regression 
+function: 
+     … (13.8) 
+   … (13.9) 
+Let us assume that xK is correlated with u. In other words, xK is endogenous and 
+all other explanatory variables x1, x2; . . . ; x K-1 are exogenous in equation (13.8). 
+As mentioned above, endogeneity can come from any of the sources. For the time 
+being let us assume that u containsan omitted variable that is not correlatedwith 
+any of the explanatory variables x1, x 2; . . . x K-1, but correlated with xK. A 
+conditionalexpectation function can be written as in equation (13.10).  
+ … (13.10) 
+In equation (13.10), q is unobservable omitted factor and is correlated with xK. 
+Equation (13.8) gives us inconsistent estimators of all the  under OLS if
+.  
+The instrumental variable method provides a way to the endogeneity problem. In 
+IV method we need an instrumental variable z 1 in place of the endogenous 
+variable xK. In equation (13.8), z 1 should not be present and z 1 should satisfy two 
+conditions: 
+(i) The instrumental variable z 1 must not be correlated with u so that z 1 
+along with x1, x2; . . . ; x K-1 is exogenous in equation (13.8). This can 
+be written as: 
+      … (13.11) 
+(ii) The relationship between z 1 and the endogenous variable, xK is the 
+next requirement. Let the linear projection of xK onto all the 
+exogenous variables (see Unit 2) be: 
+ … (13.12) 
+ux...xxy KK22110 
+1K,...,2,1j,0)u,x(Cov,0)u(E j 
+qx...xx)q,x,...,x,x|y(E kK22110K21 
+j
+0)u,x(Cov K 
+0),( 1 uzCov
+K111K1K22110K rzx...xxx  
+
+
+--- Page 91 ---
+ 
+234 
+ 
+Block where, (by definition of a linear projection error) 
+ is uncorrelatedwith x1, x2; . . . ; xK-1, and z1.  
+This linear projection is based on the assumption that the coefficient of z 1 is non-
+zero, which can be written as: 
+         … (13.13) 
+This condition with the statement ‘‘both z1 and xK are correlated with each other’’ 
+is not always true. The assumption (13.13) means that z 1 is partially correlated 
+with xK, once the other exogenous variables x1, x2; . . .  x K-1 have been netted out. 
+In the case of xK being the only explanatory variable, the linear projection of xK 
+can be written as: 
+       … (13.14) 
+where, 
+ 
+ 
+ 
+Depending upon our requirement, we may put no restrictions on the distribution 
+of xK or z1. Though in many cases xK and z1 are continuous, they may be discrete 
+at times. We can also consider one or both of xK and z1 as binary variables. These 
+variables may have continuous and discrete characteristics at the same time. In 
+equation (13.12), xK defines a linear projection, which needs to be defined 
+alwaysin the case of second moments of all variables being finite. 
+The variable z 1 is considered an instrumental variable for xK if it satisfies two 
+conditions: (i) variable z 1 is correlated with 𝑥௞ , and (ii) variable z 1 is not 
+correlated with u. In real life problems, it is difficult to find an instrumental 
+variable.   
+We can call z 1 as instrument for xK, because x1, x2, . . . , x K-1 being uncorrelated 
+with u serve as their own instrumental variables in equation (13.8). For the 
+endogenous explanatory variable xK the linear projection in equation (13.12) is 
+known as a ‘reduced form equation’. A reduced form always involves describing 
+an endogenous variable as a linear projection onto all exogenous variables in the 
+context of single-equation linear models (we will discuss about reduced form of a 
+structural equation in Unit 16). Using the structural equation (13.8) and the 
+reduced form for xK, a reduced form for y can be obtained by plugging equation 
+(13.12) into equation (13.8) and re-arranging: 
+    … (13.15) 
+where, is the reduced form error 
+  
+  
+  
+0)( KrE
+Kr
+01 
+K110K rzx 
+)z(Var/)x,z(Cov 1K11 
+01 
+0)x,z(Cov K1 
+  111K1K110 zx...xy
+
+KKru 
+jKjj 
+1K
+
+
+--- Page 92 ---
+ 
+ 235
+Stochastic 
+Regressors Now, OLS can consistently estimate the above reduced form parameters,  and 
+because by assumption  is uncorrelated with all explanatory variables in 
+equation (13.15). Estimating the structural parameters is more useful although 
+estimates of the reduced form parameters are sometimes of interest.  
+The assumptions made on the instrumental variable z 1 solve the identification 
+problem for the  in equation (13.8). The parameters  in terms of population 
+moments in observablevariables can be written to indicate identification. Let us 
+write equation (13.8) as: 
+        … (13.16) 
+where x = (1, x2, . . . , xK) due to the constant being absorbed into x. 
+Let us write the ( ) vector of all exogenous variables as  
+         
+From assumptions (13.8) and (13.9) the K population orthogonality conditions 
+can be written as: 
+        … (13.17) 
+Multiplying both sides of equation (13.16) by , taking expectations, and using 
+equation(13.18), we get: 
+       … (13.18) 
+where,  is  
+is  
+Here, we observe equation (13.18) as K linear equations with K unknowns 
+which will have unique solution if and only if the  matrix 
+has full rank, which can be written as: 
+rank        … (13.19) 
+The solution of equation (13.18) can be written as: 
+       … (13.20) 
+Equation (13.20) identifies the vector  where the expectations  and 
+can be consistently estimated. We can use random sample (x, y, z 1) to 
+estimate both expectations  and . The solution (13.20) is valid for 
+condition (13.11), i.e., . But in order to know whether we used 
+condition (13.13) in deriving solution (13.21), let us assume that exogenous 
+variables are not linearly dependent to each other. Thus, full rank of will 
+be K, which completely rules out perfect collinearity in z in the population. In 
+this case, equation (13.19) will be valid for . Thus, assumption (13.13) is 
+the major identification condition along with exogeneity condition (13.11) and 
+rank condition (13.19). 
+Now, the IV estimator of  for a given random sample  
+from the population can be written as: 
+j
+1 
+j j
+uxy 
+K1
+)z,x,...,x,1(z 11K2 
+0)uz(E 
+z
+)yz(E)]xz(E[ 
+)xz(E  KK 
+)yz(E  1K 
+K ,...,, 21 KK 
+)( xzE 
+K)xz(E 
+)yz(E)]xz(E[ 1  
+ )( xzE 
+)( yzE 
+)( xzE  )( yzE 
+0),( 1 uzCov
+)( zzE 
+01 
+   N,...,2,1i:z,y,x 1iii 
+
+
+--- Page 93 ---
+ 
+236 
+ 
+Block 
+    … (13.21) 
+where,  Z  :  data matrices 
+X  :  data matrices 
+Y  :  data vector on the yi. 
+The IV estimator is consistent due to the law of large numbers and equation 
+(13.21). In order to identify , we must give equal importance to conditions 
+(13.11) and (13) though there is a practical difference between them. The 
+difference is condition (13.13) can be tested, whereas condition (13.11) must be 
+maintained because the covariance in condition (11) involves the unobservable u, 
+and therefore we cannot test anything about . Using t-test we can 
+test condition (13.13) in its reduced form (13.12). However, here rK may not 
+satisfy the homoscedasticity assumption of OLS. Therefore, for , a 
+heteroskedasticity-robust t-statistic is needed. This will be true for xK being a 
+binary variable or some other variable with discrete characteristics. 
+Instrumental variable method has a few limitations. It is difficult to find an 
+instrumental variable (z 1) that is perfectly correlated with the endogenous 
+explanatory variable 𝑥௞ . By using 𝑧ଵ, we are losing some of the information 
+contained in 𝑥௞ . This loss of information makes the IV model have larger error 
+terms. Consequently, the standard error of the IV estimator is larger. Therefore, 
+there should be strong correlation between z 1 and 𝑥௞ . If the correlation is weak, it 
+is better to go look for other instruments, or estimate the model with the 
+endogenous variable and accept the bias.  
+Check Your Progress 2 
+1) What is meant by instrumental variable in regression analysis? 
+…………………………………………………………………………...…
+……………………………………………………………...………………
+………………………………………………………………...……………
+………………………………………………………………...……………
+………………………………………………………………...………….... 
+2) Why is the estimator consistent under instrumental variable method? 
+…………………………………………………………………………...…
+……………………………………………………………...………………
+………………………………………………………………...……………
+………………………………………………………………...……………
+………………………………………………………………...………….... 
+YZ)XZ(yzNxzNˆ 1N
+1i
+ii1
+1N
+`1i
+i1`1 
+
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+ 
+KN
+KN 
+1N
+
+0),( 1 uzCov
+1ˆ
+
+
+--- Page 94 ---
+ 
+ 237
+Stochastic 
+Regressors 3) What is the major difference between the following two conditions while 
+we should give equal importance to both in identifying ? 
+i.  
+ii.  
+…………………………………………………………………………...…
+……………………………………………………………...………………
+………………………………………………………………...……………
+………………………………………………………………...……………
+………………………………………………………………...………….... 
+4) Explain the first condition that the instrumental variable must satisfy in 
+order to be considered in the model for estimation. 
+…………………………………………………………………………...…
+……………………………………………………………...………………
+………………………………………………………………...……………
+………………………………………………………………...……………
+………………………………………………………………...………….... 
+13.4 TWO-STAGE LEAST SQUARES ESTIMATOR 
+There could be several contending instruments for an endogenous variable in a 
+regression model. Which one to choose?  
+Let us again consider the following two regression models:  
+    … (13.8) 
+   … (13.9) 
+where, xK can be correlated with u. Let us suppose that there is more than one 
+instrumental variable for xK. Let us also assume that z 1,z2, . . . , z M be variables 
+which are not correlated with u so that: 
+      … (13.22) 
+Equation (13.22) also exhibits that each z h is exogenous in equation (13.8). There 
+could have M different IV estimators if each z h has some partial correlation with 
+xK. Further, we can take a linear combination of these instruments! Thus, apart 
+from the instrumental variables, there could be many more IV because any linear 
+combination of x1, x2, . . . , xK-1, z1, z2, . . . ,zM is uncorrelated with stochastic error 
+u. In such situations, we follow the method of ‘Two-Stage Least Squares 
+(2SLS)’. In 2SLS method we choose that combination of the instruments which 
+is most correlated with the endogenous explanatory variable (xK).  
+Under certain assumptions, the two-stage least squares (2SLS) estimator is the 
+most efficient instrumental variable (IV) estimator. To describe the 2SLS 
+method, let us define the vector of exogenous variables given by: 
+
+0),( 1 uzCov
+01 
+ux...xxy KK22110 
+1K...,,2,1j,0)u,x(Cov,0)u(E j 
+M...,,2,1h,0)u,z(Cov h 
+
+
+--- Page 95 ---
+ 
+238 
+ 
+Block      … (13.23) 
+where, z is a vector and L= K+M 
+In the 2SLS method we choose that linear combination of z (out of many possible 
+linear combinations) which has the maximum correlation with xK. The linear 
+combination of z having maximum correlation with xK is given by the linear 
+projection of xK on z. Now, we can write the reduced form (see Unit 16) of xK as: 
+   … (13.24) 
+where, rK with zero mean is uncorrelated with each of the right-hand-side 
+variables.  
+As any linear combination of z is uncorrelated with u, we find that  (being a 
+linear combination of z) is also uncorrelated with u. The linear projection of 
+can be written as: 
+   … (13.25) 
+Here, we can interpret as a part of xK, but  is uncorrelated with u. We can 
+use  as an instrument for xK in equation (13.8). However, cannot be a 
+usable instrument because θ and δ are population parameters. The parameters in 
+equation (13.24) can be consistently estimated by OLS if there is no 
+multicollinearity problem in the model. The sample analogues of the for each 
+observation i, being simply the OLS fitted values, can be written as: 
+   … (13.26) 
+Defining the vector for each observation , we obtain: 
+,   … (13.27) 
+Now, we can use as the instruments for xi . Thus, the IV estimator  for the 
+regression model is 
+     … (13.28) 
+The IV estimator can be converted into OLS estimator also. We can express 
+matrix  as: 
+      … (13.29) 
+where,  is the projection matrix. Note that = is idempotent and 
+symmetric. 
+Therefore, 
+X     … (13.30) 
+Plugging equation (13.30) into equation (13.28) shows that the IV estimator that 
+uses instruments can be written as: 
+)z,...,z,x,...,x,x,1(z M11K21 
+L1
+KMM111K1K110K rz...zx...xx  
+*
+Kx
+*
+Kx
+MM111K1K110*K z...zx...xx  
+*
+Kx *
+Kx
+*
+Kx *
+Kx
+*
+iKx
+iMM1i11K,i1K1i10iK zˆ...zˆxˆ...xˆˆxˆ  
+ixˆ
+i
+N...,,2,1i,)xˆ,x,...,x,1(xˆ iK1K,i1ii  
+ixˆ
+YXˆ)XXˆ(yxˆxxˆˆ 1N
+1i
+ii
+1N
+1i
+ii 
+
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+)1(  KN ˆ
+XPXZZ)Z Z(Xˆ -1
+Z
+ZP ZP ZZ)ZZ( -1 
+XˆXˆXP)XP(XPXXXˆ ZZZ 
+ixˆ
+
+
+--- Page 96 ---
+ 
+ 239
+Stochastic 
+Regressors        … (13.31) 
+The 2SLS method involves application of the least squares method twice. These 
+are:  
+Step 1: First-Stage Regression 
+Regress xK on 1, x1, . . . , xK_1, z1, . . ., zM by OLS method Obtain the fitted values 
+of endogenous explanator variable, . 
+Step 2: Second-Stage Regression 
+Regress y on 1, x1, . . . , xK_1,  by OLS method. Obtain 2SLS estimators for all 
+the parameters. 
+Note that both 2SLS and IV estimators will be the same if we have only one 
+instrument for xK.. 
+Check Your Progress 3 
+1) Write down the reduced form for xK . 
+…………………………………………………………………………...…
+……………………………………………………………...………………
+………………………………………………………………...………….... 
+2) Write down the linear projection of . 
+…………………………………………………………………………...…
+……………………………………………………………...………………
+………………………………………………………………...……………
+………………………………………………………………...………….... 
+3) Write down the IV estimator using as the instruments for xi . 
+…………………………………………………………………………...…
+……………………………………………………………...………………
+………………………………………………………………...………….... 
+4) Explain the steps followed in two-stage least squares method to obtain . 
+…………………………………………………………………………...…
+……………………………………………………………...………………
+………………………………………………………………...………….... 
+5) Describe the importance of the 2SLS method. 
+…………………………………………………………………………...…
+……………………………………………………………...………………
+………………………………………………………………...………….... 
+YXˆ)XˆXˆ(ˆ 1  
+Kxˆ
+Kxˆ
+*Kx
+ixˆ
+ˆ
+
+
+--- Page 97 ---
+ 
+240 
+ 
+Block 13.5 LET US SUM UP 
+An assumption of the classical regression model is that the error term is 
+independent of the explanatory variables in the model. In other words, there is no 
+correlation between the error term and the explanatory variables. If this 
+assumption is violated, we cannot get best linear unbiased estimators of the 
+parameters. If any of the explanatory variables is correlated with the error term 
+we face the endogeneity problem. 
+There are three possible sources of endogeneity problem in applied econometrics, 
+viz., omitted variables, measurement error, and simultaneity. The problem of 
+omitted variables arises when we are unable to include some variables in a 
+regression model due to data unavailability. Errors-in-variables can occur due to 
+various reasons such as nonresponse error, reporting error and computing error. 
+Measurement error in explanatory variables also creates an endogeneity bias. If 
+any of the explanatory variables is determined simultaneously along with the 
+dependent variable, then the problem of simultaneity arises. Sharp distinction 
+among the three possible forms of endogeneity is not possible always. We in fact 
+observe more than one source of endogeneity in any given equation. 
+For solving the problem of endogeneity, we have two methods: (i) instrumental 
+variable method, and (ii) two-stage least squares method (2SLS). In IV 
+estimation we replace the endogenous explanatory variable with an instrumental 
+variable. An instrumental variable should have two properties: (i) there is a 
+strong correlation between the endogenous explanatory variable ( xK) and 
+instrument under consideration, and (ii) the instrumental variable is not correlated 
+with the stochastic error term (u).  
+There could be more than one instrumental variable for an endogenous 
+explanatory variable. In such situations, it is difficult to make a choice among the 
+instrumental variables. We apply the method of two-stage least squares (2SLS) in 
+such situations. We take all possible instruments of the endogenous variable 𝑥௞, 
+while avoiding the problem of multicollinearity among the instruments. In the 
+first stage, we run OLS of  𝑥௞ on all instrumental variables and obtain 𝑥ො௞.    In the 
+second stage, we run OLS of y on all the explanatory variables; while replacing 
+𝑥௞ by 𝑥ො௞. Both 2SLS and IV estimators will be same if we have only one 
+instrument for 𝑥௞.  
+13.6 KEY WORDS 
+Endogeneity 
+Problem 
+: In an econometric model if any of the explanatory 
+variables is correlated with the stochastic error term, 
+the concerned explanatory variable is said to be 
+endogenous in nature. 
+
+
+--- Page 98 ---
+ 
+ 241
+Stochastic 
+Regressors Measurement 
+Error 
+: The observed variables on which we can collect the 
+data is modelled as  and  which 
+show that our observed variables  and  are 
+measured with additive errors u and v respectively. 
+Thus u and v are measurement errors. 
+Instrumental 
+Variables 
+: A set of variables known as instrumental variables are 
+identified with the condition that they are correlated 
+with the independent variables but uncorrelated at least 
+asymptotically with composite disturbances so that we 
+can get consistent estimator. 
+Simultaneity  
+ 
+: If at least one of the explanatory variables is 
+determined simultaneously along with y then the 
+problem of simultaneity arises. Say for example, xK and 
+u are correlated if xK is determined partly as a function 
+of y. There are always no sharp distinctions among the 
+three possible forms of endogeneity. We in fact observe 
+more than one source of endogeneity in any given 
+equation. 
+13.7 SOME USEFUL BOOKS AND REFERENCES 
+Gujarati, D N and D C Porter (2009), Basic Econometrics , Fifth Edition, 
+McGraw Hill 
+Maddala, G. S. and K. Lahiri (2009), Introduction to Econometrics , Fourth 
+Edition, John Wiley and Sons 
+Wooldrige, Jeffrey (2022), Introductory Econometrics, Seventh Edition, Cengage 
+Learning  
+References: 
+Bin Chen, 2015, Modeling and testing smooth structural changes with 
+endogenous regressors. Journal of Econometrics, Volume 185, Issue 
+1, March 2015, Pages 196-215 
+Eleanor Sanderson, Frank Windmeijer, 2015, A weak instrument -test in linear 
+IV models with multiple endogenous variables. Journal of 
+Econometrics. 
+Xavier d’Haultfoeuille. 2010. A new instrumental method for dealing 
+with endogenousselection. Journal of Econometrics, Volume 154, Issue 
+1, January 2010, Pages 1-15 
+uxx~  ,vyy~ 
+x~ y~

@@ -1,0 +1,443 @@
+--- Page 69 ---
+ 
+ 135
+Evaluation of Multiple 
+Regression Models 
+ 
+For example, in the case of the Cobb-Douglas production function (which can be 
+written as 𝑙𝑛𝑌 = 𝛽଴ + 𝛽௄ 𝑙𝑛𝐾 + 𝛽௅ 𝑙𝑛𝐿 + 𝑢) we can impose the restriction  𝛽௄ +
+𝛽௅ = 1 for having constant returns to scale. Such linear restrictions for some 
+scalar q and a K-dimensional vector rcan be written as 
+𝐻଴ : 𝑟ଵ 𝛽ଵ +  ⋯ 𝑟௄ 𝛽௄ =  𝒓ᇱ𝜷 = 𝒒     … (7.20) 
+Here we can test the hypothesis that 𝒓ᇱ𝒃 is BLUE for 𝒓ᇱ𝜷. The variance is 
+𝑉{𝒓ᇱ𝒃} = 𝒓ᇱ𝑉{𝒃}𝒓. Now if we replace 𝜎ଶ  with its estimate 𝑠ଶ  in 𝑉{𝒃} we get 
+estimated covariance matrix 𝑉෠{𝒃}. This gives us the standard error of the linear 
+combination 𝒓ᇱ𝒃 as 𝑠𝑒 (𝒓ᇱ𝒃) = 𝑠 ඥ 𝒓ᇱ𝑉෠{𝒃}𝒓. As both b and 𝒓ᇱ𝒃 follow normal 
+distribution, we have  
+𝒓ᇲ𝒃ି  𝒓ᇲ𝜷
+௦௘ (𝒓ᇲ𝒃) ~ 𝑡௡ି௞         … (7.21) 
+This is similar to (7.3.1). Hence, the test statistic can be written as  
+𝑡௞ =  
+𝒓ᇲ𝒃ି  𝒒
+௦௘  (𝒓ᇲ𝒃)        … (7.22) 
+If the absolute value of t is greater than 1.96, it leads us to reject the null 
+hypothesis at 5% level of significance.  
+7.4.1 Wald Test  
+In general, we come across the hypothesis which is a combination of the two null 
+hypotheses and a set of J linear restriction on the coefficients of the model. The 
+restriction in such cases is given as 
+𝑹𝜷 = 𝒒        … (7.23) 
+where R is J × K matrix with an assumption that it is of full rank equal to the 
+number of rows and q is a J-dimensional vector. For example, let us suppose a 
+model with a set of restrictions 
+ 𝛽ଶ +  𝛽ଷ + … … … . . + 𝛽௞ = 1 
+ 𝛽ଶ =  𝛽ଷ . 
+ J = 2  
+ R = ቂ0 1 1
+0 1 −1    … … 1
+0 … 0 ቃ 
+ q = ቂ1
+0ቃ 
+Estimating the model with the above restrictions is possible by using (7.23). 
+However, in some cases, estimating the model with these restrictions may not be 
+possible under the null hypothesis. In such cases the result that  
+𝑹𝒃~𝑁(𝑹𝜷, 𝜎ଶ , 𝑹(𝑿ᇱ𝑿)ି 𝟏𝑹ᇱ)      … (7.24) 
+can be used to formulate a quadratic form of equation.  
+
+
+--- Page 70 ---
+ 
+136 
+ 
+Classical Regression 
+Model 
+It will be like (7.25) below which follows a Chi-squared distribution under the 
+null hypothesis.  
+𝝃 =  
+(𝑹𝒃ି 𝒒)ᇲቀ𝑹൫𝑿ᇲ𝑿൯
+ష 𝟏
+𝑹ᇲቁ
+ష 𝟏
+(𝑹𝒃ି 𝒒)
+ఙ మ ~ 𝜒௃
+ଶ      … (7.25) 
+On replacing the unknown 𝜎ଶ  in (7.25) by its estimate 𝑠ଶ , we get a new statistic 
+following a Chi-squared distribution. This statistic is referred to as the Wald Test. 
+This test is based on the notion that the unrestricted model should 
+‘approximately’ satisfy the restrictions if they are true. Note that the Wald test 
+provides the way for testing the restrictions without even estimating the restricted 
+model. 
+7.4.2 Lagrange-Multiplier Test  
+Lagrange-Multiplier Test or the LM-test is used for testing the hypotheses 
+expressed as one or more constraints on parameter values estimated under the 
+likelihood framework. Unlike the Wald test, which requires estimation of the 
+unrestricted model, LM -test requires estimation of the restricted parameter only. 
+It is formulated to test whether the Lagrange multipliers which enforce the 
+restrictions are significantly different from zero.  
+Let us suppose that 
+L(θ) is a log-likelihood function of (𝐾 × 1) parameter vector 
+θand the score function and information matrix are given by 
+𝑞(𝜽) =  
+డ௅ (𝜽)
+డ 𝜽         … (7.26) 
+𝐼(𝜽) = −𝐸 ቂ
+డ మ ௅ (ఏ )
+డ 𝜽డ 𝜽ᇲ ቃ       … (7.27) 
+Let 𝜽෩  be the maximum likelihood estimator of 𝜽 subject to (𝑟 × 1) constraints 
+ℎ(𝜽) = 𝟎. Now the Lagrangian function is given by  
+𝓛 = 𝐿(𝜽) −  𝝀ᇱℎ(𝜽)       … (7.28) 
+where 𝝀 is the (𝑟 × 1) vector of Lngrange multipliers. Now, the first-order 
+conditions for 𝜽෩  are  
+డ 𝓛
+డ 𝜽 = 𝑞൫𝜽෩ ൯ −  𝐻൫𝜽෩ ൯𝝀෨ = 𝟎  
+and 
+డ 𝓛
+డ 𝝀 = ℎ൫𝜽෩ ൯ = 𝟎 where 𝐻(𝜽) = 𝜕ℎ(𝜽)ᇱ/𝜕𝜽. 
+Solving, we get the Lagrange Multiplier test statistic as  
+𝐿𝑀 = 𝒒෥ ᇱ𝑰෨ି 𝟏𝒒෥ =  𝝀෨ᇱ𝑯෩ ᇱ𝑰෨ି 𝟏𝑯෩ 𝝀෨      … (7.29) 
+where 𝒒෥ = 𝑞൫𝜽෩ ൯, 𝐼ሚ = 𝐼൫𝜽෩ ൯ and 𝐻෩ = 𝐻൫𝜽෩ ൯.  
+The term 𝒒෥ ᇱ𝑰෨ି 𝟏𝒒෥  represents the ‘score form’ of the test statistic, whereas 
+ 𝝀෩ ᇱ𝑯෩ ᇱ𝑰෨ି 𝟏𝑯෩ 𝝀෨ represents the ‘Lagrange Multiplier form’ of the test statistic. In case 
+we have an unrestricted MLE of θ, the score function 𝑞(𝜽) = 𝟎. However, it is 
+not equal to zero in the case of restricted MLE (𝜽෩ ). If this constraint is true, we 
+
+
+--- Page 71 ---
+ 
+ 137
+Evaluation of Multiple 
+Regression Models 
+ 
+would expect the values of 𝜽෩  and 𝝀෨ to be small. Thus, large value of these two 
+would lead to rejection of the null hypothesis 𝐻଴ : ℎ(𝜽) = 𝟎. If the constraint 
+imposed under the null hypothesis is satisfied, the large sample LM statistic 
+converges to chi-square distribution with (k – r) degrees of freedom.  
+7.4.3 Likelihood Ratio Test  
+Likelihood ratio test or the LR-test enables us to test whether adding a set of new 
+variables to the existing model increases the explaining capacity of the model. 
+We saw that Wald test requires the estimation of only the unrestricted model, 
+whereas, the LM-test requires the estimation of the restricted model. Unlike these 
+two tests, the likelihood ratio test or LR-test requires estimation of both restricted 
+as well as the unrestricted models.  
+Let us suppose that 𝜃 is a vector of parameter to be estimated having some 
+restriction specified as the null hypothesis  𝐻଴ . The unrestricted and restricted 
+maximum likelihood parameters of 𝜃 are denoted by 𝜃෠௨  and 𝜃෠ோ  respectively. 
+Under 𝐻଴ , the large sample distribution of −2ln𝜆 is chi-square with degrees of 
+freedom equivalent to the number of restrictions imposed, i.e., J. The LR test 
+statistic is given by  
+𝐿𝑅 = 2൫ln 𝐿൫𝜃෠௨ ൯ − 𝑙𝑛𝐿൫𝜃෠ோ ൯൯ ~ 𝜒௃
+ଶ      … (7.30) 
+As said above, the LR-test enables us to test whether adding a set of new 
+variables to the existing model increases the explaining capacity of the model. 
+Using LR-test to test the simple null hypothesis against alternative hypothesis is 
+not possible. This is because the degrees of freedom equals the number of 
+parameters reduced as a consequence of imposing restrictions and in the case of 
+testing the simple null hypothesis against alternative hypothesis, this would be 
+equal to zero. Further, LR-test cannot be applied to test one distributional 
+assumption against another as the likelihood functions of the two with different 
+distributions will be unrelated.  
+7.4.4 Empirical Exercises  
+1) Suppose we are interested in finding out if the performance of a company, a 
+crucial factor in determining the salary of the CEO. We have the model where the 
+salary of the CEO is a function of the annual sales ( sales), return on equity ( roe), 
+and return on stock (ros) as  
+     Salary= β1 + β2 𝑠𝑎𝑙𝑒𝑠+β3 𝑟𝑜𝑒 + β4 𝑟𝑜𝑠 + 𝜀௜  
+The following result is obtained: 
+𝑠𝑎𝑙𝑎𝑟𝑦 = ෣ 4.3117 + 0.2803(𝑠𝑎𝑙𝑒𝑠) +  0.0174(𝑟𝑜𝑒) +  0.0002 (𝑟𝑜𝑠) +  𝑢 
+          (0.3154)    (0.0353)         (0.0041)             (0.0005) 
+  R 2  = 0.2826, 𝑅തଶ =  0.2721 n = 209 
+
+
+--- Page 72 ---
+ 
+138 
+ 
+Classical Regression 
+Model (a) Provide the test for the significance of the explanatory variables (i.e., 𝐻଴ : β2 = 
+0;  β3 = 0 and β4 = 0). 
+(a) To test the hypotheses 𝐻଴ : β2= 0; β3= 0 and β4= 0, t statistic is calculated for 
+each of the coefficients as follows. 
+(i) 𝐻଴ : β2 = 0 
+𝑡௦௔௟௘௦ =  𝑏௞ −  𝛽௞
+଴
+𝑠𝑒(𝑏௞ ) =  
+0.2803 −  0
+ 0.0353
+= 7.9405 
+(ii) 𝐻଴ : β3= 0 
+𝑡௥௢௘ =  𝑏௞ −  𝛽௞
+଴
+𝑠𝑒(𝑏௞ ) =  
+0.0174 −  0
+0.00409
+= 4.2543 
+(iii) 𝐻଴ : β4= 0 
+𝑡௥௢௦ =  𝑏௞ − 𝛽 ௞
+଴
+𝑠𝑒(𝑏௞ ) =  
+0.0002 −  0
+0.0005
+= 0.4401 
+As the value for both 𝑡௦௔௟௘௦  and 𝑡௥௢௘  is greater than the critical value of 1.96, we 
+reject the null hypothesis 𝐻଴ : β2 =0 and 𝐻଴ : β3=0. Hence, we can say that both 
+sales and roe are having positive influence on the salary of the CEO. The value 
+for 𝑡௥௢௦  being small we cannot reject the null that 𝐻଴ :β4=0. Hence, it is 
+statistically not significant.  
+ (b) Test the overall significance of the model (i.e., 𝑯𝟎: β2= β3= β4=0). 
+The overall significance of the model (𝐻଴ : β2=β3=β4=0) can be tested by 
+computing the F statistic  
+𝐹 =  𝑅ଶ 𝑘 − 1⁄
+(1 − 𝑅ଶ ) (𝑛 − 𝑘)⁄ = 0.2826 (4 − 1)⁄
+(1 − 0.2826) (209 − 4)⁄  = 26.91  
+Based on the large F statistic obtained, we get p-value equal to 0. This means we 
+can reject the null hypothesis (𝐻଴ : β2=β3=β4=0) that the performance of the 
+company has no effect on the salary of the CEO at all significance level or that 
+the overall model is significant.  
+(2) Suppose we have the following model 
+wage= β1 + β2 𝑒𝑑𝑢𝑐𝑎𝑡𝑖𝑜𝑛+β3 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒 + β4 𝑡𝑒𝑛𝑢𝑟𝑒 +β5 𝑎𝑔𝑒 + 𝜀௜ 
+Now, we decide to drop tenure from the model as in many cases it would be 
+equal to experience. Also, we decide in favour of dropping age as it may be 
+highly correlated with experience. How would you test that dropping these two 
+variables is acceptable? 
+Here, the null and the alternative is of the following nature 
+𝐻଴ : β3=β4=0 
+
+
+--- Page 73 ---
+ 
+ 139
+Evaluation of Multiple 
+Regression Models 
+ 
+𝐻ଵ : 𝐻଴  𝑖𝑠 𝑛𝑜𝑡 𝑡𝑟𝑢𝑒 
+The restricted model corresponding to 𝐻଴  will be  
+wage = 𝛽ଵ + 𝛽ଵ education + 𝛽ସ experience + 𝑢 
+wage= β1 + β2 𝑒𝑑𝑢𝑐𝑎𝑡𝑖𝑜𝑛+β4 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒 + 𝜀௜ 
+To test the null, both the unrestricted and the restricted models are estimated. 
+Based on the residual sum of the squares (RSS) obtained after estimation of the 
+two models  𝑆଴  𝑎𝑛𝑑 𝑆ଵ respectively, the F statistic computed using  
+𝐹 =
+(ோௌௌ బ ିோௌௌ భ ) ௃⁄
+ோௌௌ భ (௡ି௞ )⁄   
+Depending on the F statistic, p-value is determined. If we are able to reject the 
+null hypothesis, we can conclude that tenure and age are jointly significant and 
+hence dropping them is not acceptable. On the other hand, if we fail to reject the 
+null, it would mean that they are not jointly significant and excluding the variable 
+is acceptable.  
+Check Your Progress 3 
+1) Explain why we need to impose ‘linear restrictions’ in a regression model. 
+Give an example. 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+ 2) What is Wald’s test? On what rationale is it based? What is its advantage? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+3)  In what way is the LM test different from the Wald’s test? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+4)   What specific purpose does the LR Test serve? How is this test different from 
+that of Wald’s and the LM tests? 
+.............................................................................................................................
+.............................................................................................................................
+
+
+--- Page 74 ---
+ 
+140 
+ 
+Classical Regression 
+Model 
+.............................................................................................................................
+............................................................................................................................. 
+5)   Why is it not possible to apply the LR test in the case of testing a simple null 
+hypothesis against an alternative hypothesis? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+7.5  LET US SUM UP 
+Evaluation of a regression model could be made throuth the coefficient of 
+determination, which indicates the percentage variation in dependent variables 
+that be explained by the independent variables. Hypothesis testing in multiple 
+regression models is carried out to examine if a finding is sufficiently close to the 
+stated hypothesis associated with the unknown population parameter vector β. 
+After providing an outline of the coefficient of determination R2, details of the 
+two types of tests. Commonly used tests, viz., the t-test and the F–Test are 
+discussed in this unit. In practise, we come across hypotheses which require 
+linear restrictions on more than one coefficient. Testing the hypotheses in such 
+cases can be done either by reparameterization or by using alternative tests like 
+the Wald, Lagrange Multiplier or the Likelihood ratio tests. These tests have been 
+detailed out in the last section of the unit.  
+7.6 KEY WORDS 
+Lagrange 
+Multiplier (LM) 
+Test 
+: LM test is used for testing the hypotheses expressed as 
+one or more constraints on the parameter values 
+estimated under the likelihood framework.  
+Biased Estimator : An estimator whose expectation, or sample mean, is 
+different from the population value it is supposed to be 
+estimating. 
+Likelihood Ratio 
+Statistic 
+:
+ A statistic that can be used to test single or multiple 
+hypotheses when the constrained and unconstrained 
+models are estimated by the maximum likelihood 
+method. 
+Maximum 
+Likelihood 
+Estimation (MLE) 
+:
+ A broadly applicable estimation method where the 
+estimates are chosen to maximize the log-likelihood 
+function. 
+
+
+--- Page 75 ---
+ 
+ 141
+Evaluation of Multiple 
+Regression Models 
+ 
+Quadratic 
+Functions 
+: It refers to the functions that contain squares of one or 
+more explanatory variables; they capture diminishing 
+or increasing effects on the dependent variable. 
+Restricted Model :
+ It is a model in hypothesis testing obtained after 
+imposing all the restrictions required under the null. 
+7.7 SOME USEFUL BOOKS 
+Greene, W. H., 2003, “ Econometric Analysis. ” Prentice Hall, New Jersey, 
+USA.5thed., pp. 484-496. 
+Maddala, G. S., 1992, “ Introduction to Econometrics ”, Macmillan Publishing 
+Company, New York.2d ed., pp. 127–177. 
+Verbeek, M. 2004, “ A Guide to Modern Econometrics ”. John Wiley & Sons Ltd, 
+England.2nd ed., pp. 8–49. 
+Wooldridge, Jeffrey M. 2000, “ Introductory Econometrics ”, South-Western 
+College Publishing, 2000. Chapter 3; pp. 66–69. 
+7.8 ANSWERS/HINTS TO CHECK YOUR PROGRESS     
+ EXERCISES 
+Check Your Progress 1 
+1) It is defined as the ratio of Explained Sum of Squares (ESS) to Total Sum 
+of Squares (TSS). Its expression is given by equation (7.3): 𝑅ଶ =
+ாௌௌ
+்ௌௌ =
+∑(௒෠೔ି௒ሜ)మ
+∑(௒ ೔ି௒ሜ)మ. 
+2) 𝑅ଶ  measures the proportion of the variation in 𝑌 which is explained by the 
+multiple regression equation. Therefore, 𝑅ଶ  is often used as a goodness-
+of-fit statistic to compare the validity of regression results under 
+alternative specifications of the independent variables in the model. 
+Another reason is that the coefficient of determination ( 𝑅ଶ ) reflects the 
+explanatory power of a regression model. A higher value of 𝑅ଶ  implies 
+higher explanatory power of the underlying regression model compared to 
+some other model. Thus, 𝑅ଶ  can be used as a measure of goodness of fit 
+in multiple regressions. 
+3) 𝑅ଶ = 1 −
+∑ ௨ෝ ೔
+మ
+∑(௒ ೔ି௒ሜ)మ
+. This expression conveys that ‘as RSS decreases, 𝑅ଶ  
+increases’.  
+4) It is a fact that addition of a new explanatory variable invariably increases 
+the value of 𝑅ଶ . However, we cannot trust the inferences drawn from such 
+models! This is because, there is a decrease in the degrees of freedom of 
+RSS when we add explanatory variables to a model. A way out of this 
+situation is to use adjusted- 𝑅ଶ given by 𝑅ሜଶ = 1 − (1 − 𝑅ଶ ) (௡ିଵ )
+(௡ି௞ )
+ where 𝑛 
+is number of observations in the regression model and 𝑘 is number of 
+
+
+--- Page 76 ---
+ 
+142 
+ 
+Classical Regression 
+Model 
+parameters in the equation. This approach eliminates the dependence of 
+goodness of fit on the number of independent variables in the model. 
+5) One, when new variables are added to a regression model, while 𝑅ଶ  
+always increases, 𝑅ሜଶ  may rise or fall. Second, The use of 𝑅ሜଶ  eliminates 
+the incentives to include numerous variables in a model. Third, 𝑅ሜଶ  is 
+always less than or equal to 𝑅ଶ . Fourth, 𝑅ሜଶ  can be negative also while 𝑅ଶ  
+is always positive. For these reasons, 𝑅ሜଶ  is regarded as a more desirable 
+goodness of fit measure compared to 𝑅ଶ . 
+Check Your Progress 2 
+1) For testing  Ho: 𝛽௞ =  𝛽௞
+଴ , we use the statistic 𝑡௞ =  
+௕ ೖ ି  ఉ ೖ
+బ
+௦௘ (ఉ ೖ ). We reject the 
+null hypothesis if the absolute value of the test statistic |𝑡௞ | is very large. 
+For large samples, at 5 % level of significance the null will be rejected if 
+|𝑡௞ | >  1.96 
+2) The t-ratio refers to the t statistic that is computed to test the hypothesis 
+that 𝛽௞ = 0. Rejection of the null means that the estimate 𝑏௞  differs 
+significantly from 0 or that the corresponding regressor 𝑥௜௞ has significant 
+impact on 𝑦௜. 
+3) A confidence interval is the interval consisting of all values for 𝛽௞
+଴  for 
+which the t-test does not reject the null hypothesis that 𝛽௞ =  𝛽௞
+଴ . It 
+provides a range of values for true 𝛽௞  given the estimate 𝑏௞  and its 
+standard error. Thus, for the given probability (1 − 𝛼) it implies 
+that− 𝑡௡ି௞ ;஑ /ଶ <
+௕ ೖ ି  ఉ ೖ
+బ
+௦௘ (௕ ೖ ) < 𝑡௡ି௞ ;஑ /ଶ. If the level of significance is chosen 
+as 5%, then the confidence interval implies that, in repeated sampling, in 
+95% cases, these intervals will contain true value of 𝛽௞ .  
+4) The F-test is used to test for the joint significance of the estimated 
+regression model. Specifically, it tests a hypothesis like: Ho: 𝛽ଶ =  𝛽ଷ  =
+ ⋯ = 𝛽௄ = 0. Using the R2 values of two regressions, viz., the full model 
+denoted by RSS1 with that of the squared residuals of the restricted model 
+(model with the last J regressor omitted) denoted by RSS0, the F-statistic 
+is defined as: 𝐹 =
+(𝑅𝑆𝑆0−𝑅𝑆𝑆1) 𝐽⁄
+𝑅𝑆𝑆1 (𝑛−𝑘)⁄ .In terms of R2, it is defined as: 
+𝑅2 (௞ିଵ )ൗ
+(1−𝑅2) (௡ି௞ )ൗ . 
+Check Your Progress 3 
+1) The t-test considers restriction on one coefficient only like  𝛽௞  = 0. In 
+practise, we come across economic hypothesis which requires linear 
+restrictions on more than one coefficientsuch as  𝛽ଶ +  𝛽ଷ + … +  𝛽௞ = 1. 
+For instance, in the case of the Cobb-Douglas production function (which 
+is written in logarithmic form in a linear regression model), the constant 
+returns to scale is represented by the sum of all the coefficients associated 
+with the inputs as equal to one. 
+2) A statistic as in Equation (7.26), used to test J linear restrictions such as 
+H0: 𝑹𝜷 = 𝒒, is referred to as the Wald’s test. It is based on the notion that 
+
+
+--- Page 77 ---
+ 
+ 143
+Evaluation of Multiple 
+Regression Models 
+ 
+the unrestricted model should ‘approximately’ satisfy the restrictions if 
+they are true. Its advantage is that it provides a method for testing the 
+restrictions without requiring the estimation of the restricted model. 
+3) Wald’s test requires the estimation of the ‘unrestricted model’. It does not 
+require the estimation of the ‘restricted model’. The LM test, on the other 
+hand, requires the estimation of the ‘restricted parameter’ only.  
+4) Likelihood ratio test or the LR-test enables us to test whether adding a set 
+of new variables to the existing model increases the explaining capacity 
+of the model. Unlike the Wald’s and the LM test, which requires the 
+estimation of either the restricted or the unrestricted models, the 
+likelihood ratio test requires the estimation of both the restricted as well 
+as the unrestricted models.  
+5) This is because in the LR test, the degree of freedom equals the number of 
+parameters reduced as a consequence of imposing the restrictions. In the 
+case of testing the simple null hypothesis against alternative hypothesis, 
+this would be equal to zero. 
+ 

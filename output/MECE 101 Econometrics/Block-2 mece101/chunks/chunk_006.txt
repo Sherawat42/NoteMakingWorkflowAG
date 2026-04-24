@@ -1,0 +1,392 @@
+--- Page 50 ---
+ 
+ 
+ 
+116 
+Classical Regression 
+Model 
+𝝏𝟐𝑼෡ ᇲ𝑼෡
+𝝏𝜷෡   𝝏𝜷෡ ᇲ = 2 𝑿ᇱ𝑿        … (6.16) 
+Since  𝑿ᇱ𝑿 is a positive definite matrix, we find that 𝜷෡  represents the minimum of 
+the RSS. 
+The estimated regression model is given by 
+𝒀෡ = 𝑿𝜷෡         … (6.17) 
+6.3.1 Mean of OLS Estimators 
+From equation (6.15) we know that 
+𝜷෡ = (𝑿ᇱ𝑿)ି 𝟏  𝑿ᇱ𝒀 . By substituting the value of Y from equation (6.1), we obtain 
+𝜷෡ =  (𝑿ᇱ𝑿)ି 𝟏  𝑿ᇱ(𝑿𝜷 + 𝑼) = (𝑿 ᇱ𝑿)ି 𝟏  𝑿ᇱ𝑿𝜷 + (𝑿ᇱ𝑿)ି 𝟏  𝑿ᇱ𝑼 
+Thus, 
+𝜷෡ = 𝜷 + (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑼      … (6.18)  
+Mean of 𝜷෡ = 𝐸൫𝜷෡ ൯ = 𝐸[𝜷 + (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑼] 
+Since 𝑿 is kept fixed in repeated samples, it is not stochastic or random. Further, 
+by assumption 𝐸(𝑼) = 𝟎 
+Therefore, 
+𝐸൫𝜷෡ ൯ = 𝜷 + (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝐸(𝑼) = 𝜷     … (6.19) 
+The expected value of the OLS estimator 𝜷෡   is the true parameter 𝜷 . An 
+implication of the above is that the OLS estimators are unbiased.  
+6.3.2 Variance of OLS Estimators 
+Now let us find out the variance of the OLS estimator 𝜷෡ . Recall that 𝜷෡  is a 𝑘 × 1 
+vector of the estimates. The values of the estimates, vary across samples. The 
+variance of the OLS estimators 𝜷෡  is given by 
+𝑣𝑎𝑟൫𝜷෡ ൯ = 𝐸 ቂ൫𝜷෡ − 𝜷൯൫𝜷෡ − 𝜷൯
+ᇱ
+ቃ     … (6.20) 
+In fact, (6.19) represents the variance-covariance matrix of the parameters in the 
+regression model. It is a matrix of the order ( 𝑘 × 𝑘). The diagonal terms of this 
+matrix represent the variance of the parameters while the off-diagonal terms 
+represent the covariance between the parameters (for example, the ij th term of the 
+matrix ቂ൫𝜷෡ − 𝜷൯൫𝜷෡ − 𝜷൯
+ᇱ
+ቃ represents the covariance between 𝛽௜ and 𝛽௝.  
+From (6.18), we find that 𝜷෡ − 𝜷 = (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑼 
+Therefore, 
+𝐸 ቂ൫𝜷෡ − 𝜷൯൫𝜷෡ − 𝜷൯
+ᇱ
+ቃ = 𝐸 ቂ൫𝑿෡ − 𝑿൯
+ି 𝟏
+𝑿ᇱ𝑼𝑼ᇱ𝑿 (𝑿ᇱ𝑿)ି 𝟏ቃ  
+= (𝑿ᇱ − 𝑿)ି 𝟏𝑿ᇱ 𝑬 (𝑼𝑼ᇱ) 𝑿 (𝑿ᇱ𝑿)ି 𝟏  
+Since 𝑬 (𝑼𝑼ᇱ) == 𝜎 ଶ 𝑰 by assumption, we have 
+
+
+--- Page 51 ---
+ 
+ 
+ 
+117 
+Pressure Groups 𝑣𝑎𝑟൫𝜷෡ ൯ = 𝜎 ଶ (𝑿ᇱ𝑿)ି 𝟏      … (6.21) 
+Note that 𝜎ଶ  is a constant and the order of the symmetric matrix (𝑿ᇱ𝑿)is 𝑘.  
+6.3.3 Estimator of Error Variance  
+For finding the variance of 𝛽መ we need an estimator of 𝜎 ଶ . As you know, the error 
+variable cannot be observed. We take the residuals as a proxy of the error variable. 
+Let us find out the variance of the stochastic error in terms of the residuals.  
+In Unit 4, while dealing with two-variable regression models, we found that an 
+unbiased estimator of the error variance is given by 𝑅𝑆𝑆 (𝑛 − 2)⁄ . Recall that there 
+are two parameters (intercept and slope) in the two-variable regression model. We 
+will generalise the above result to cases where the number of explanatory variables 
+is k.  
+We know that the residual is given by  𝑼෡ = (𝒀 − 𝒀෡ ). Let us substitute the value of 
+𝒀෡  from equation (6.17). 
+𝑼෡ = 𝒀 − 𝑿𝜷෡ = 𝒀 − 𝑿 (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝒀  
+= [𝑰 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ]𝒀  
+= 𝑴𝒀        … (6.22) 
+where 𝑴 = [𝑰 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ] 
+Remember that M is an ‘idempotent matrix’. Thus, M is a symmetric matrix of 
+order n. Further, if we multiply M with itself, its value remains unchanged. Thus, 
+𝑴 = 𝑴′   
+and 
+𝑴𝑴 = [𝑰 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ][𝑰 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ]  
+= [𝑰 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ + 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ]  
+= 𝑰 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ + 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ  
+= 𝑰 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ = 𝑴  
+Further, 
+𝐌𝐗 = [𝑰 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ]𝑿 = 𝑿 − 𝑿 (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑿 = 𝑿 − 𝑿 = 𝟎  … (6.23) 
+From (6.22) we have 𝑼෡ = 𝑴𝒀.We can write𝑴𝒀 as 
+𝑴𝒀 = 𝑴 (𝑿𝜷 + 𝑼) = 𝑴𝑿𝜷 + 𝑴𝑼 = 𝟎 + 𝑴𝑼 = 𝑴𝑼   … (6.24) 
+The RSS is given by∑ 𝑢ො௜
+ଶ   which can be written in matrix form as𝑼෡ ᇱ𝑼෡ . You should 
+note the difference between the matrix 𝑼′𝑼and the matrix 𝑼𝑼′. The matrix 𝑼𝑼′ 
+(of the order (𝑛 × 𝑛)) represents the variance-covariance of the error term. On the 
+other hand, matrix 𝑼′𝑼(of the order (1 × 1)) is a scalar quantity. 
+𝑼෡ ᇱ𝑼෡ = (𝑴𝑼)ᇱ(𝑴𝑼) = 𝑼ᇱ𝑴ᇱ𝑴𝑼 = 𝑼 ᇱ𝑴𝑼    … (6.25) 
+
+
+--- Page 52 ---
+ 
+ 
+ 
+118 
+Classical Regression 
+Model 
+Note that 𝑼ᇱ𝑴𝑼 is a scalar as the order of the matrix is (1 × 𝑛)(𝑛 × 𝑛)(𝑛 × 1) =
+(1 × 1). Further, recall the concept of trace of a matrix discussed in Unit 2. Trace 
+of a matrix is the sum of the diagonal elements of the matrix. Thus, trace of a scalar 
+is the scalar itself. Let us point out two properties of the trace of a square matrix.  
+(a) For matrix A, we have 𝑇𝑟 (𝑨) =  ∑ 𝑎௜௜ 
+(b) For two matrices A and B, we have 𝑇𝑟 (𝑨𝑩) =  𝑇𝑟 (𝑩𝑨) 
+By taking expected value of (6.23), we obtain 
+𝐸൫𝑼෡ ᇱ𝑼෡ ൯ =   𝐸(𝑼ᇱ𝑴𝑼) = 𝐸[𝑇𝑟(𝑼ᇱ𝑴𝑼)] = 𝐸[𝑇𝑟(𝑼ᇱ𝑴𝑼)] 
+𝐸(𝑼ᇱ𝑴𝑼) = 𝐸[𝑇𝑟(𝑼ᇱ𝑴𝑼)] = 𝐸[𝑇𝑟(𝑼𝑼ᇱ𝑴)] 
+(Assume that 𝑼ᇱ𝑴 = 𝑨  and 𝑼 = 𝑩)  
+Thus, 
+𝐸[𝑇𝑟(𝑼𝑼ᇱ𝑴)] = 𝜎 ଶ  𝑇𝑟(𝑴) 
+= 𝜎 ଶ  𝑇𝑟[𝑰 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ] =  𝜎 ଶ  𝑇𝑟(𝑰) − 𝜎ଶ 𝑇𝑟[𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ] 
+= 𝜎 ଶ  𝑇𝑟(𝑰) − 𝜎ଶ 𝑇𝑟[𝑿′𝑿(𝑿ᇱ𝑿)ି 𝟏] 
+= 𝜎 ଶ  𝑛 − 𝜎 ଶ 𝑘 
+= 𝜎 ଶ  (𝑛 − 𝑘) 
+Thus, 
+𝐸൫𝑼෡ ᇱ𝑼෡ ൯ = 𝜎 ଶ  (𝑛 − 𝑘)  
+By re-arranging terms, we obtain an estimator of 𝜎ଶ . Let us call it 𝜎ොଶ . 
+𝜎ොଶ = 𝐸൫𝑼෡ ᇱ𝑼෡ ൯ (𝑛 − 𝑘) = 𝑹𝑺𝑺 (𝑛 − 𝑘)⁄⁄    … (6.26) 
+Check Your Progress 1 
+1) Bring out the advantages of multiple regression models over bivariate 
+regression models. 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+2)  Derive the expression for the OLS estimator in the following linear regression 
+model: 
+𝒀 = 𝑿𝜷 + 𝑼 . 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+
+
+--- Page 53 ---
+ 
+ 
+ 
+119 
+Pressure Groups 3)  Derive the expression for the variance of the OLS estimator in the following 
+regression model; 𝒀 = 𝑿𝜷 + 𝑼 .  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+4)  Why is it important that the X matrix should have full rank in the regression 
+model; 𝒀 = 𝑿𝜷 + 𝑼 ?  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+6.4 PROPERTIES OF OLS ESTIMATORS 
+A good estimator should satisfy certain statistical properties such as unbiasedness, 
+consistency and efficiency. In this section we will examine whether the OLS 
+estimator fulfils these properties. In addition, there are certain algebraic properties 
+of the OLS estimators. We begin with the algebraic properties.   
+6.4.1 Algebraic Properties 
+(i)  The normal equations of the regression model are given by 
+(𝑿ᇱ𝑿)𝜷෡ − 𝑿ᇱ𝒀 = 𝟎   
+Let us substitute the value of 𝒀from equation (6.1) in the above equation, we get 
+(𝑿ᇱ𝑿)𝜷෡ − 𝑿ᇱ൫𝑿𝜷෡ + 𝑼෡ ൯ = 𝟎  
+Or, (𝑿ᇱ𝑿)𝜷෡ − (𝑿ᇱ𝑿)𝜷෡ + 𝑿ᇱ𝑼෡ = 𝟎 
+Or, 
+𝑿ᇱ𝑼෡ = 𝟎        … (6.27)  
+Equation (6.25) implies that the residual and the explanatory variables are not 
+correlated. 
+(ii) The predicted value 𝒀෡ and the residual𝑼෡ are not correlated.  
+𝒀෡ ᇱ𝑼෡ = (𝑿𝜷෡ )ᇱ𝑼෡ = 𝜷෡ ᇱ𝑿ᇱ𝑼෡  = 𝟎       … (6.28)  
+6.4.2 Statistical Properties 
+Let us discuss about the statistical or theoretical properties of OLS estimators. 
+(a) Unbiasedness: In the regression equation, we have added an error variable (U), 
+which is random. The addition of a random variable to the regression model 
+makes the dependent variable ( Y) also random. Since the estimator ( 𝜷෡ ) is a 
+linear combination of the dependent variable, the estimator will provide 
+estimates which are random. Unbiasedness property of an estimator can be 
+checked by taking repeated samples. It says that the average of the estimates 
+will be equal to the parameters if we take repeated samples. In technical terms, 
+
+
+--- Page 54 ---
+ 
+ 
+ 
+120 
+Classical Regression 
+Model 
+the expected value of the estimator is equal to the parameter, i.e., 𝐸൫𝜷෡ ൯ = 𝜷. 
+This we have proved in equation (6.18).  Thus, the OLS estimators are 
+unbiased.  
+(b) Consistency: The consistency property of an estimator is different from 
+unbiasedness. An estimator is said to be consistent if its value approaches the 
+parameter value as the sample size is increased. We know from equation (6.17) 
+that 𝜷෡ = 𝜷 + (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑼. To prove that 𝜷෡ is consistent, we have to prove that 
+the second term on the right-hand side has a probability limit ( plim) of zero. 
+This term is the product of two terms (𝑿ᇱ𝑿)ି 𝟏and 𝑿ᇱ𝑼.  Neither (𝑿ᇱ𝑿)ି 𝟏nor 
+𝑿ᇱ𝑼  has a probability limit. However, (𝑛ିଵ × 𝑛) = 1 . We can write 
+(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑼 as ቀ
+𝟏
+𝒏 𝑿ᇱ𝑿ቁ
+ି 𝟏 𝟏
+𝒏 𝑿ᇱ𝑼.  Therefore,  
+𝑝𝑙𝑖𝑚൫𝜷෡ ൯ = 𝜷 + ቀ𝑝𝑙𝑖𝑚
+𝟏
+𝒏 𝑿ᇱ𝑿ቁ
+ି 𝟏
+𝑝𝑙𝑖𝑚
+𝟏
+𝒏 𝑿ᇱ𝑼 = 𝜷   … (6.29)  
+(c) Efficiency: efficiency of an estimator refers to the ‘minimum variance 
+unbiased estimator’. Since the variance of the estimator is the lowest, the 
+estimates will be scattered closer to the parameter. Consequently, the estimator 
+will give better and more accurate estimates than other estimators having 
+higher variance. Notice, the comparison is among unbiased estimators only. As 
+we will see below, the OLS estimator is the ‘best linear unbiased estimator’ 
+(BLUE). 
+6.5 BEST LINEAR UNBIASED ESTIMATOR (BLUE)  
+We are given a sample data set, which contains data on X and Y. We maintain the 
+classical assumptions about the stochastic error term 𝑼. We have two estimators: 
+the OLS estimator 𝜷෡ , and any other linear unbiased estimator 𝜷෩ . We have to prove 
+that the OLS estimator 𝜷෡  is the best. 
+This property of the OLS estimator is also called the ‘Gauss-Markov theorem’. 
+The OLS estimator is given by 
+𝜷෡ = (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝒀       … (6.14) 
+Here, the X matrix is assumed to be kept fixed in repeated samples. Further, we 
+know the value of X from the sample of data available to us. We can write 𝜷෡ =
+(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝒀 = 𝑾𝒀where 𝑾 = (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ. Thus,𝜷෡  is a linear combination of Y 
+and 𝜷෡ is a linear estimator.  
+In order to prove that 𝜷෡ is BLUE, we compare it with another linear unbiased  
+estimator, say, 𝜷෩ . Since  𝜷෩ is a linear estimator, we can consider  
+𝜷෩ = 𝑪𝒀        … (6.30) 
+By substituting the value of Y from the regression model (6.1), we can write (6.30) 
+as 
+𝜷෩ = 𝐂 (𝐗𝜷 + 𝑼) = 𝑪𝑿𝜷 + 𝑪𝑼     … (6.31) 
+Note that we are comparing amongst unbiased estimators. Thus, we should have  
+
+
+--- Page 55 ---
+ 
+ 
+ 
+121 
+Pressure Groups 𝐸൫𝜷෩ ൯ = 𝜷        … (6.32) 
+By using the value of 𝜷෩ from equation (6.30), we obtain 
+𝐸൫𝜷෩ ൯ = 𝐸(𝑪𝑿𝜷 + 𝑪𝑼) = 𝑪𝑿𝜷 + 𝑪𝐸(𝑼)    … (6.33) 
+From the above, 𝐸൫𝜷෩ ൯ = 𝜷(i.e., 𝜷෩ is unbiased) only if we assume that 
+𝑪𝑿 = 𝑰         … (6.34)  
+Let us find out the variance of 𝜷෩ . We can re-write equation (6.31) as 
+𝜷෩ −  𝜷 = 𝑪𝑼         … (6.35) 
+The variance of 𝜷෩  is given by 
+𝑣𝑎𝑟൫𝜷෩ ൯ = 𝐸 ቂ൫𝜷෩ −  𝜷൯൫𝜷෩ −  𝜷൯
+ᇱ
+ቃ     … (6.36) 
+By using (6.34), we can re-write (6.35) as 
+𝑣𝑎𝑟൫𝜷෩ ൯ = 𝐸[(𝑪𝑼𝑼ᇱ𝑪ᇱ)] = 𝑪 𝐸(𝑼𝑼ᇱ)𝑪ᇱ =  𝜎 ଶ 𝑪𝑪ᇱ   … (6.37) 
+The variance of the OLS estimator 𝑣𝑎𝑟(𝜷෡ ) = 𝜎 ଶ (𝐗ᇱ𝐗)ି 𝟏 whereas the variance of 
+any other linear unbiased estimator 𝑣𝑎𝑟(𝜷෩ ) = 𝜎 ଶ 𝑪𝑪ᇱ. Since 𝜷෡ and 𝜷෩  are linear 
+estimators, let 
+𝐂 =  (𝐗ᇱ𝐗)ି 𝟏𝐗ᇱ + 𝐃       … (6.38)  
+where 𝐃is a (𝑘 × 𝑛) matrix (i.e., the same order as the (𝐗ᇱ𝐗)ି 𝟏𝐗ᇱ matrix).  
+Let us multiply equation (6.37) by X. 
+𝑪𝑿 = [ (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ + 𝑫]𝑿 = (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑿 + 𝑫𝑿 = 𝑰 + 𝑫𝑿   
+From equation (6.33), we know that 𝑪𝑿 = 𝑰 .Therefore,  
+𝑫𝑿 = 𝟎        … (6.39) 
+Remember that 𝑣𝑎𝑟(𝜷෡ ) = 𝜎 ଶ (𝐗ᇱ𝐗)ି 𝟏  and 𝑣𝑎𝑟(𝜷෩ ) = 𝜎 ଶ 𝑪𝑪ᇱ . Let us compare 
+between 𝑪𝑪ᇱand (𝐗ᇱ𝐗)ି 𝟏. 
+𝑪𝑪ᇱ =  [(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ + 𝑫][(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ + 𝑫]′  
+= [(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ + 𝑫][𝑿 (𝑿ᇱ𝑿)ି 𝟏 + 𝑫ᇱ] 
+= (𝑿ᇱ𝑿)ି 𝟏(𝑿ᇱ𝑿)(𝑿ᇱ𝑿)ି 𝟏 + 𝑫𝑿 (𝑿ᇱ𝑿)ି 𝟏 + (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝑫ᇱ + 𝑫𝑫′ 
+Since 𝑫𝑿 = 𝑿 ᇱ𝑫ᇱ = 𝟎, we obtain 
+𝑪𝑪ᇱ = (𝑿ᇱ𝑿)ି 𝟏 + 𝑫𝑫ᇱ      … (6.40) 
+
+
+--- Page 56 ---
+ 
+ 
+ 
+122 
+Classical Regression 
+Model 
+Since 𝑫𝑫ᇱ is positive semi-definite, 
+𝑪𝑪ᇱ ≥ (𝑿ᇱ𝑿)ି 𝟏 + 𝑫𝑫ᇱ      … (6.41)  
+Thus, 𝑣𝑎𝑟(𝜷෡ ) is less than 𝑣𝑎𝑟(𝜷෩ ). In other words, the OLS estimators are the best 
+linear unbiased estimators (BLUE). 
+Check Your Progress 2 
+1) Prove that the residual and the dependent variable are not correlated in the case 
+of the multiple regression models.  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+2)  Prove that the OLS estimators are the best linear unbiased estimators (BLUE). 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+3)  Show that the OLS estimators are unbiased, consistent and efficient. 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+6.6 LET US SUM UP 
+Multiple regression models enable us to include several explanatory variables in 
+the regression model. Further, it allows specification of a general functional form 
+on the relationship between dependent variable and independent variables. 
+Because of its benefits, the multiple regression models are widely used. 
+In this Unit we specified the multiple regression model in its matrix form. We 
+applied the method of ordinary least squares (OLS) and derived the estimators of 
+the model. The desirable properties of the estimators such as unbiasedness, 
+consistency and efficiency are discussed. The OLS estimators 𝜷෡  are the best linear 
+unbiased estimator (BLUE) of 𝜷.   f 
+6.7 KEY WORDS 
+Asymptotic 
+Properties 
+:
+ It refers to the properties of estimators and test statistics 
+that apply when the sample size grows without bound. 
+
+
+--- Page 57 ---
+ 
+ 
+ 
+123 
+Pressure Groups 
+Biased Estimator : An estimator whose expectation, or sample mean, is 
+different from the population value it is supposed to be 
+estimating. 
+Ceteris Paribus : It refers to the assumption that all other relevant factors 
+are held fixed. 
+Maximum 
+Likelihood 
+Estimation 
+(MLE) 
+:
+ A broadly applicable estimation method where the 
+estimates are chosen to maximize the log-likelihood 
+function. 
+Quadratic 
+Functions 
+: It refers to the functions that contain squares of one or 
+more explanatory variables; they capture diminishing or 
+increasing effects on the dependent variable. 
+6.8 SOME USEFUL BOOKS  
+Greene, W. H., 2018, “Econometric Analysis.” Eighth Edition, Pearson Education 
+Johnston, J., Dinardo, J., 2007, “Econometric Methods”, 4th Edition, McGraw-Hill 
+Education (Asia), International Edition, pp. 109-125 
+Maddala, G. S. and K. Lahiri, 2012, Introduction to Econometrics, Fourth Edition, 
+Wiley  
+Verbeek, M. 2012, “ A Guide to Modern Econometrics ”, Fourth Edition, John 
+Wiley & Sons  
+6.9 ANSWERS/ HINTS TO CHECK YOUR PROGRESS 
+EXERCISES 
+Check Your Progress 1 
+1)  The advantages of using multiple regression model are as follows: 
+a. It enables us to control for several other factors simultaneously which 
+could have influence on the dependent variable.  
+b. It helps us examine the effects of an independent variable on the 
+dependent variable ceteris paribus.  
+c. It eliminates the chances of bias arising due to correlation between the 
+error term and the explanatory variable which is so peculiar to two-
+variable models.  
+d. It presents a general functional form on the cause and effect relationships 
+between variables.  
+2)  Refer to Section 6.3 and answer. 
+3)  The variance of the OLS estimators is given by 𝑣𝑎𝑟൫𝜷෡ ൯ = 𝜎 ଶ (𝑿ᇱ𝑿)ି 𝟏. Please 
+see Sub-Section 6.3.2 for derivation.  
+
+
+--- Page 58 ---
+ 
+ 
+ 
+124 
+Classical Regression 
+Model 
+4)  The OLS estimator is given by 𝜷෡ = (𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ𝒀. Full rank of the X matrix 
+implies that the explanatory variables are independent of one another. If any 
+of the columns in the matrix is a linear combination of other columns, we 
+cannot find the matrix (𝑿ᇱ𝑿)ି 𝟏.  
+Check Your Progress 2 
+1)  Go through Sub-Section 6.4.1 and answer. 
+2)  Go through Section 6.5 and answer.  
+3)  You have to show that the OLS estimators are unbiased, they are consistent, 
+and they are the best linear unbiased estimator. Go through Section 6.4 and 
+Section 6.5.  
+ 
+ 

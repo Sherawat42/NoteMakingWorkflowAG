@@ -1,0 +1,391 @@
+--- Page 31 ---
+ 
+ 
+ 
+274 
+Extensions of 
+Regression Models  gives the relative frequency house owners and can be used as an estimate of the 
+true 𝑃௜corresponding to each 𝑋௜. This true 𝑃௜ is used to estimate the logit, 𝐿෠௧. 
+Thus,       ... (15.14) 
+gives a fairly good estimate of the true logit, 𝐿௜, if the number of observations 𝑁௜ 
+at each 𝑋௜ is reasonably large.  
+Notes on the estimation of Logit model:  
+ Logit models are estimated using maximum likelihood method (MLM). 
+ Standard errors (SE) are asymptotic (i.e., applicable for large samples). 
+Hence, we have to use Z statistic instead of t-statistic. 
+ R-squared is not meaningful in logit models. 
+ Likelihood ratio (LR) test is applicable. 
+15.3.2 Interpretation of Logit Model  
+(Example 15.2) 
+Table15.3: Cross-sectional Data on GPA, ASE, PC and GRADE 
+ 
+ 
+Suppose that a Mathematical Economics instructor gave routine weekly exercises 
+to her section “A” students in the previous semester. She wants to study the effect 
+of the performance in these routine exercises on the final grade of students in the 
+
+
+--- Page 32 ---
+ 
+ 
+ 
+275 
+Pressure Groups course, Mathematical Economics. At the end of the semester, she found average 
+scores in exercise (ASE) for each student. 
+The dependent variable is the final grade of students for Mathematical 
+Economics ( 𝑌௜ = 1, if the student scores A and 𝑌௜ = 0 , otherwise). Other 
+explanatory variables include the Grade Point Average (GPA) of students and 
+Personal –Computer ownership (PC = 1, if the student has a PC and, PC = 0, if 
+the student does not have a PC). 
+Estimation of the Logit model gives the following results:  
+𝐿௜ = ∝o + ∝1 GP + ∝2 ASE + ∝3 PC + 𝑢௜ 
+We present the estimation procedure and interpretation of the model defined 
+above. We can interpret the regression results using: Logit, Odds-ratio and 
+marginal effect. 
+A. Logit Interpretation of the Estimated Logit Model 
+Table 15.4 below presents the logit regression result obtained using econometric 
+software Stata14. 
+Table 15.4: Logistic Regression Result 
+ 
+We interpret the coefficients of the independent variables of the logit regression 
+results as log of the odds-ratio. Coefficients of GPA and ASE in the Table above 
+measure the change in the estimated logit for a unit change in the value of 
+explanatory variable (holding other explanatory variables constant). Thus,  
+ The GPA coefficient of 2.826 means, with other variables held constant, 
+that if GPA increases by a unit, on an average, the estimated logit 
+increases by about 2.826 units, suggesting a positive relationship between 
+the two. Holding other factors constant, as GPA increases by one point, 
+the average logit value goes up by about 2.83, that is, the log of odds in 
+favor of scoring “A” grade increases by about 2.83 and it is statistically 
+significant as implied by the P-value of the Z-test. 
+
+
+--- Page 33 ---
+ 
+ 
+ 
+276 
+Extensions of 
+Regression Models   Holding other factors constant, as ASE increases by one point, the log of 
+the odds-ratio increases by 0.095, but this effect is statistically not 
+significant. 
+ Among students, students who have a PC compared to those who do not 
+have PC, the log of odds in favor of scoring “A” grade increases by about 
+2.38 and it is statistically significant as implied by the P-value of the Z-
+test. 
+As you can see, all the explanatory variables have a positive effect on the logit, 
+although statistically the effect of ASE is not significant. However, together all 
+the explanatory variables have a significant effect on scoring “A” grade, as the 
+LR statistic (an equivalent to F-test in linear regression) is 15.40, whose P- value 
+is about 0.0015, which is less than 5 per cent.  
+Note, however, that a more meaningful interpretation is in terms of the odds-
+ratio, which are obtained by taking the antilog of the various coefficients of the 
+logit model. Thus, if you take the antilog of the GPA coefficient of 2.826 you 
+will get 16.8778 (= exp (2.826)). As GPA of a student rises by a unit, then the 
+student is about 16.88 times likely to get Grade “A”, other things remaining the 
+same. Using Stata, we can easily estimate the odds ratio for all explanatory 
+variables as given in Table 15.5. 
+B. Odds-Ratio Interpretation  
+Table 15.5 below presents the odds-ratio regression result of the logit model. 
+Table 15.5: Odds Ratio Regression Result 
+ 
+The odds-ratio interpretation is as follows:  
+ Holding other variables constant, as GPA increases by one point, the 
+probability of scoring Grade “A” is 16.87 times the probability of getting 
+other grades (B, C, D, Fx, F). 
+ Holding other variables constant, as ASE increases by one point, the 
+probability of scoring Grade “A” is about 1.1 times the probability of getting 
+other grades (B, C, D, Fx, F) but it is statistically not significant. 
+
+
+--- Page 34 ---
+ 
+ 
+ 
+277 
+Pressure Groups  Holding other variables constant, students who have PC are 10.79 times 
+more likely to score Grade “A” than other grades compared to non-PC 
+owners, and it is statistically significant at 5% level of significance. 
+C. Marginal Effect Interpretation 
+Since the language of logit and odds ratio may be unfamiliar to some, we always 
+compute the probability of something happening. Table 15.6 below presents the 
+probability / marginal effect regression result of the logit model. 
+Table 15.6: Marginal Effects of Logit Regression Result 
+ 
+The marginal effect /probability interpretation of the estimated logit model given 
+above is as follows:  
+ As GPA increases by one point, the probability of scoring grade “A” by 
+an average student increase by 53%, if the other factors score average. 
+ As ASE increases by one point, the probability of scoring grade “A” by 
+an average student increase by about 1.8%, assuming that the other 
+factors score average. 
+ For a student who owns PC, the probability of scoring grade “A” is higher 
+by 45.6% as compared to non-PC owners, assuming that the other factors 
+score average. 
+Check Your Progress 2 
+1) Derive the odds-ratio for the logit model. 
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+………………………………………………………………………………… 
+2) How do you interpret the results of the logit model?  
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+………………………………………………………………………………… 
+
+
+--- Page 35 ---
+ 
+ 
+ 
+278 
+Extensions of 
+Regression Models  3)  Explain how the marginal effects of the logit model is interpreted.  
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+………………………………………………………………………………… 
+15.4 PROBIT MODEL 
+The probit model is usually used if the cumulative density function (CDF) is 
+normal. On the other hand, the logit model uses the cumulative logistic function. 
+In principle we can substitute the normal CDF in place of the logistic CDF. 
+ 
+ 
+Fig. 15.3: Comparison between Logit and Probit Cumulative Distributions  
+Fig. 15.3 portrays the difference between the cumulative distribution function 
+(CDF) of Logit and Probit models. As the value of the explanatory variable (X) 
+increases, the probability of occurrence of the dependent variable increases faster 
+(gets closer to 1) under probit model than under logit model. Similarly, as the 
+value of X gets smaller and smaller, the probability of the dependent variable 
+not-to-occur decreases faster (gets closer to 0) under probit than under logit. 
+Beyond this, they are quite similar. Yet, in principle, the normal CDF can be 
+substituted in place of the logistic CDF because of this pretty  
+resemblance between them. 
+15.4.1 Specification of Probit Model  
+Suppose the decision of ownership of a house by a person or family depends on 
+the utility obtained from owning the house. Mathematically,  
+𝐼௜ = 𝛼଴ + 𝛼ଵ 𝑋௜        … (15.16) 
+where, “ 𝐼௜” is unobservable utility index, also called latent variable, whose 
+higher values are associated with higher probability of owning a house. Here, 𝑋௜ 
+is the income of i th person or family. Now, assume that there is a threshold or 
+critical level, say 𝑰𝒊
+∗, which itself is unobservable, such that if 𝐼௜ exceeds 𝑰𝒊
+∗ the 
+family will own a house , otherwise it will not. If we assume further that 𝑰𝒊
+∗, like 
+
+
+--- Page 36 ---
+ 
+ 
+ 
+279 
+Pressure Groups 𝐼௜, is normally distributed with the same mean and variance, it is possible not only 
+to estimate the parameters of the index given in equation (15.16) but also to get 
+some information about the unobservable index itself. 
+The probability that 𝑰𝒊
+∗  is less than or equal to 𝐼௜  can be computed from the 
+standardized normal CDF as:  
+ 
+          ... (15.17) 
+where, P (Y = 1 /X) means the probability that an event occurs given the value(s) 
+of the explanatory variables, Zi is the standard normal variable, 
+Note that F is the standard normal CDF, which is:  
+     … (15.18) 
+The area between −∞ and 𝐼௜  measures the probability of owning a house . 
+If we take the inverse of equation (15.18), we get information on 𝐼௜, 𝛼଴ , 𝛼ଵ . That 
+is,  
+    ... (15.19)  
+. 
+In general, the probit model can be specified as follows:  
+   … (15.20) 
+This model is called the probit model and can be estimated using maximum 
+likelihood method (MLM). The coefficients from the probit model are difficult to 
+interpret because they measure the change in the unobservable 𝐼௜ associated with 
+a change in one of the explanatory variables. A more useful measure is the 
+marginal effects.  
+15.4.2 Estimation of Probit Model 
+Estimation of parameters and 𝐼௜ depends on types of data we deal, meaning that 
+whether we have grouped data or ungrouped data set. 
+(a) Estimation with Grouped Data (gprobit) 
+In the case of the logit model, we get the relative frequency, (the empirical 
+measure of probability) of owning a house at various income level, but here in 
+probit model, 𝐼௜  can be obtained from normal CDF. Obtaining 𝐼௜  makes 
+estimating parameters relatively straightforward.   
+(b) Estimation with Ungrouped or Individual Data 
+
+
+--- Page 37 ---
+ 
+ 
+ 
+280 
+Extensions of 
+Regression Models  The problem we face in Logit regression is also presents here. For this reason, we 
+will have to use a non-linear estimating procedure based on the method of 
+maximum likelihood. 
+15.4.3 Interpretation of Probit Model 
+(Example 15.3)   
+Let us revisit our Grade example data given in Table 15.3. It gives data on 32 
+students about their final grade in Mathematical Economics examination in 
+relation to the variables GPA, ASE, and PC. Let us see what the Probit results 
+look like. The regression results based on the method of maximum likelihood 
+using Stata14 are given in Table 15.7. 
+Table 15.7: Probit Regression Result 
+ 
+Estimated coefficients do not quantify the influence of the explanatory variables 
+on the probability that the dependent variable takes on the value one because 
+these coefficients are parameters of the latent model. Thus, there is no standard 
+and convincing way to interpret the coefficients from the output of a probit 
+regression. We need to interpret the marginal effects of the explanatory variables, 
+that is, how much the (conditional) probability of the outcome variable changes 
+when you change the value of an explanatory variable, holding all other 
+explanatory variables constant at some values. As far as the coefficients of a 
+Probit model are concerned, what we need to do is to explain the implication of 
+the coefficients. For instance,  
+ The coefficient of GPA is significantly different from zero (at 5% level) 
+indicating relevant relationship between scoring “A” grade and student’s 
+GPA. 
+ The coefficient of PC is significantly different from zero (at 5% level) 
+indicating relevant relationship between scoring “A” grade and PC 
+ownership. 
+In short, students with higher GPA and PC are more likely to score “A” 
+compared to their counterparts.  In general, “qualitatively”, the results of the 
+Probit model are comparable with those obtained from the logit model in that 
+GPA and PC are individually statistically significant while the variable ASE is 
+
+
+--- Page 38 ---
+ 
+ 
+ 
+281 
+Pressure Groups statistically not significant in both models. Collectively, all the coefficients are 
+statistically significant, since the value of the LR statistic is 15.5458 with a p 
+value of 0.0014. 
+Table 15.8: Marginal Effect of the Probit Model 
+ 
+The marginal effect results and their interpretation in a Probit model are similar 
+to that of logit model. 
+Therefore, the marginal effect / probability  interpretation of the estimated 
+Probit model presented above is as follows:  
+ As GPA increases by one unit, the probability of scoring grade “A” by an 
+average student increases by 53%, holding other factors constant. 
+ As ASE increases by one point, the probability of scoring grade “A” by 
+an average student increases by about 1.7%, holding other factors 
+constant. 
+ For a student who owns PC the probability of scoring grade “A” is higher 
+by 45.6% as compared to non-PC owners, holding other factors constant. 
+15.5  JOINT SIGNIFICANCE IN QUALITATIVE 
+RESPONSE REGRESSION MODELS 
+As far as joint significance is concerned, as equivalent of the F test (in the linear 
+regression model) there are various ways of testing multiple restrictions in Probit 
+and Logit models. 
+The most commonly used test, and most easily calculated test is the Likelihood 
+Ratio (LR) Test . It is used when we wish to test our exclusion restrictions, i.e. 
+whether we should or should not exclude a set of variables. The idea is a simple 
+one: we are maximizing is the log likelihood function, and since variables are 
+excluded from the regression relationship, the objective function declines. The 
+question then is whether we have a significant fall in the log likelihood function 
+value. Like the F-test in linear regression models, in LR test the joint hypothesis 
+to be tested is that all the explanatory variables are simultaneously irrelevant 
+versus at least one of the explanatory variables is relevant. The likelihood ratio 
+statistic is given as follows: 
+  
+
+
+--- Page 39 ---
+ 
+ 
+ 
+282 
+Extensions of 
+Regression Models  LR = 2 (LUR – LR)       … (15.21) 
+where, LUR and L R are the log likelihoods for the unrestricted and restricted 
+models. 
+Given the null hypothesis, the LR statistic follows the chi-square ( 𝜒ଶ ) 
+distribution asymptotically with degrees of freedom equal to the number of 
+explanatory variables. 
+15.6  GOODNESS-OF-FIT IN LOGIT AND PROBIT 
+MODELS 
+A goodness-of-fit measure is a summary statistic indicating the accuracy with 
+which the model approximates the observed data. However, the conventional 
+measure of goodness of fit, 𝑅ଶ , is not particularly meaningful in binary dependent 
+variable models. In the case in which the dependent variable is qualitative, 
+accuracy can be judged either in terms of the fit between the calculated 
+probabilities and observed response frequencies or in terms of the model's ability 
+to forecast observed responses. Measures similar to 𝑅ଶ , called pseudo-𝑹𝟐, are 
+available. Note, however, that contrary to the linear regression model, there is no 
+single measure for the goodness-of-fit in binary choice models and a variety of 
+measures exists. The most common goodness of fit measure is the one that is 
+proposed by McFadden (1974), which is defined as:  
+Pseudo-𝑹𝟐 = {1 – (LUR/ LR)}      … (15.22) 
+where, as before LUR is the log likelihood value you obtain from the unrestricted 
+model, and LR is that generated by a regression (either Probit or Logit. But note 
+that this goodness of fit measure is also used and reported often by statistical 
+packages for any regression that involves MLE) with only the intercept. 
+ The Pseudo- 𝑅ଶ measures the fit using the likelihood function and measures 
+the improvement in the value of the log likelihood relative to having no 
+explanatory variables ( 𝑋௜). For instance, in our estimated Logit and Probit 
+models above, we see that the Pseudo- 𝑅ଶ = 0.37. This suggests that the log-
+likelihood value increases by about 37% with the introduction of the set of 
+explanatory variables in the models. 
+ Similar to the 𝑅ଶ of the linear regression model, it holds that 0 ≤Pseudo- 𝑅ଶ ≤ 
+1. An increasing Pseudo- 𝑅ଶ may indicate a better fit of the model, whereas 
+there is no simple interpretation, as in the case of the classical regression 
+model. 
+Check Your Progress 3 
+1)  Bring out the salient features of the probit model.  
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+
+
+--- Page 40 ---
+ 
+ 
+ 
+283 
+Pressure Groups 2)  How do you interpret the pseudo-R-squared?  
+……………………………...........................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.............…………………………………………………………………….. 
+15.7 LET US SUM UP 
+Here is a summary of linear probability model (LPM), logit model, and probit 
+model:  
+Linear probability model (LPM): The LPM is a simple linear regression model 
+that can be used to predict a binary outcome. The dependent variable is a 
+dichotomous variable, such as "yes" or "no, " "success" or "failure, " or 
+"purchased" or "not purchased." The independent variables can be continuous or 
+categorical. The LPM assumes that the error term follows a normal distribution. 
+ The LPM is a simple linear regression model where the dependent 
+variable is a binary variable. 
+ The coefficients in the LPM can be interpreted as the change in the mean 
+of the dependent variable for a one-unit change in the independent 
+variable. 
+ However, the LPM does not consider the fact that the dependent variable 
+is binary, and this can lead to biased estimates of the coefficients. 
+Logit model : The logit model is a more sophisticated model than the LPM. It 
+assumes that the dependent variable follows a logistic distribution. The logistic 
+distribution is a skewed distribution that is centered at 0.5. The logit model can 
+provide more accurate predictions than the LPM, especially when the dependent 
+variable is close to 0 or 1. 
+ The logit model is a nonlinear regression model where the dependent 
+variable is a binary variable. 
+ The coefficients in the logit model can be interpreted as the change in the 
+log-odds of the dependent variable for a one-unit change in the 
+independent variable. 
+ The logit model is more appropriate for modeling binary variables than 
+the LPM because it considers the fact that the dependent variable can only 
+take on two values. 
+Probit model : The probit model is another type of model that can be used to 
+predict a binary outcome. The probit model assumes that the dependent variable 
+follows a normal distribution. The probit model is like the logit model in terms of 
+its predictive accuracy. However, the probit model is sometimes preferred 
+because it is easier to interpret than the logit model. 

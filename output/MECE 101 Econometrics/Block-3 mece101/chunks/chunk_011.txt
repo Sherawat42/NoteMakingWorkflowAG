@@ -1,0 +1,146 @@
+--- Page 99 ---
+ 
+242 
+ 
+Block Jefrey M. Wooldridge. 2002. Econometric Analysis of Cross Section and Panel 
+Data. The MIT Press Cambridge, Massachusetts, London, England. 
+13.8 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS  EXERCISES 
+Check Your Progress 1 
+1)  In econometrics if an explanatory variable xj is correlated with the 
+stochastic error u, then the problem of endogeneity arises.  
+2)  The major sources of endogeneity problem in applied econometrics are: 
+Omitted Variables, Measurement Error, and Simultaneity. 
+3)  Measurement error in independent variable x creates an endogeneity bias 
+because it becomes a part of the error term in the regression equation.  
+We know that:    …(1) 
+Now putting the value of x in equation  we get: 
+ 
+or,     … (2) 
+Because of positive correlation between and u, observed in equation (1) 
+the OLS estimator produces bias in , which may be negative or positive 
+depending upon the sign of true  in equation (2). If the true  is 
+positive, then bias is negative and if it is negative then bias is positive. 
+The coefficient biases towards zero as 0 < λ < 1. This is known as 
+attenuation bias with λ being the attenuation factor. Relative to the true 
+error the residual holds two more sources of variation. First,  is biased 
+towards zero and the term ( ) does not vanish asymptotically when 
+measurement error is absent. Second, the presence of measurement error 
+in the regressor leads to an increase in error variance.  
+4)  The problem of omitted variables arises when we are unable to include 
+some additional variables due to data unavailability. Suppose  is 
+the conditional expectation function, linear in parameters and additive in 
+q. However, we shall always estimate  for unobserved q. But it has 
+no relationship with  even if q and x are allowed to be 
+correlated. But we take equation (1) where q is included in the stochastic 
+error u. Thus, xj is endogenous if q and xj are correlated.  
+5)  If at least one of the explanatory variables is determined simultaneously 
+along with y then simultaneity arises. Say for example, xK and u are 
+correlated if xK is determined partly as a function of y. There are always 
+no sharp distinctions among the three possible forms of endogeneity. We 
+observe more than one source of endogeneity in any given equation. 
+ux~X 
+,xy 
+ )ux~(y
+)u(x~yi 
+x~
+~
+ 
+ˆ
+ˆ
+ˆ
+),( qxyE
+)( xyE
+),( qxyE
+
+
+--- Page 100 ---
+ 
+ 243
+Stochastic 
+Regressors Check Your Progress 2 
+1)  When an explanatory variable is correlated with the error term, we face 
+the endogeneity problem in a regression model. Consequently, the OLS 
+estimator is not unbiased. As a solution to this problem, we use the 
+instrumental variable method. An instrument should be strongly 
+correlated with the endogenous variable and not correlated with the error 
+term.  
+2)  The IV estimator is consistent due to: the law of large numbers, and 
+ 
+3)  In order to identify  we must give equal importance to the following 
+two conditions: (i) 𝑐𝑜𝑣(𝑧ଵ, 𝑢), and (ii) . The major difference 
+between both conditions is that condition (ii) can be tested, whereas 
+condition (i) must be maintained. The covariance in condition (i) involves 
+the unobservable u, and therefore we cannot test anything about
+. Using t-statistic we can test condition (ii) in its reduced 
+form:  
+4)  The instrumental variable must not be correlated with u so that it is 
+exogenous. See Section 13.3 for details.  
+Check Your Progress 3 
+1)  The reduced form for xK is 
+ 
+2)  The linear projection of can be written as 
+ 
+3)  The IV estimator using as the instruments for x i can be written as 
+ 
+4)  See Section 13.5 and answer.  
+5)  There could be M different IV estimators if each z h has some partial 
+correlation with xK. In reality there are many more than we can count 
+because any linear combination of x1, x 2, . . . , x K-1, z 1, z 2, . . . ,z M is 
+uncorrelated with stochastic error u. The two-stage least squares method 
+provides a solution to this problem. should be used. The 2SLS estimator is 
+the most efficient IV estimator. 
+ 
+YZ)XZ(yzNxzNˆ 1
+N
+1i
+ii1
+1N
+1i
+ii1 
+
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+
+
+
+01 
+0)u,z(Cov 1 
+K111K1K22110K rzx...xxx  
+KMM111K1K110K rz...zx...xx  
+*
+Kx
+MM111K1K11110*K z...zx...x...xx  
+ixˆ
+YXˆ)XXˆ(yxˆxxˆ 1
+N
+1i
+ii
+1N
+1i
+ii 
+
+
+
+
+ 
+
+
+
+
+  
+
+
+
+

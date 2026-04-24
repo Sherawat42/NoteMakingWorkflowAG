@@ -1,0 +1,629 @@
+--- Page 50 ---
+ 
+ 
+ 
+49 
+Review of Matrix 
+Algebra ቀ𝑶 𝑩
+𝑪 𝑶 ቁ
+ିଵ
+= ൬ 𝑶 𝑪 ି 𝟏
+𝑩ି 𝟏 𝑶 ൰  
+and 
+ቀ 𝑶 𝑩
+𝑩ି 𝟏 𝑶ቁ
+ିଵ
+= ቀ 𝑶 𝑩
+𝑩ି 𝟏 𝑶ቁ  
+The formula for computing the inverse of a partitioned matrix is as follows: 
+If A and B are non-singular matrices 
+ቂ𝑨 𝑩
+𝑪 𝑫 ቃ
+ିଵ
+= ൤𝑨ି 𝟏 + 𝑨ି 𝟏𝑩𝑭ି 𝟏𝑪𝑨ି 𝟏 −𝑨ି 𝟏𝑩𝑭ି 𝟏
+−𝑭ି 𝟏𝑪𝑨ି 𝟏 𝑭ି 𝟏 ൨   … (3.11) 
+where 𝑭 = 𝑫 − 𝑪𝑨ି 𝟏𝑩.  
+Equivalently, if  D and G are non-singular, 
+ቂ𝑨 𝑩
+𝑪 𝑫 ቃ
+ିଵ
+= ൤ 𝑮ି 𝟏 −𝑮ି 𝟏𝑩𝑫ି 𝟏
+−𝑫ି 𝟏𝑪𝑮ି 𝟏 𝑫ି 𝟏 + 𝑫ି 𝟏𝑪𝑮ି 𝟏𝑩𝑫ି 𝟏൨ 
+where 𝑮 = 𝑨 − 𝑩𝑫ି 𝟏𝑪 provided that the matrix inverses in the expression above 
+are well defined.  
+3.8 EIGENVALUE AND EIGENVECTOR 
+Given a square matrix A, if 𝑨𝑪 = 𝜆𝑪 for some scalar 𝜆 and non-zero vector C, 
+then C is an eigenvector of A corresponding to the eigenvalue 𝜆 (‘Eigen’ is a 
+German word that means proper or characteristic). The system (𝑨 − 𝜆𝑰)𝐶 = 𝟎 
+has a non-trivial solution if an only if 
+𝑑𝑒𝑡(𝑨 − 𝜆𝑰) = 𝟎.        … (3.12) 
+The above equation is called the characteristic equation of A. From this 
+characteristic equation we can solve for the eigenvalues of A. Hence, eigenvalues 
+are also referred to as characteristic roots. Similarly, eigenvectors are called 
+characteristic vectors. You should remember that the eigenvalues and 
+eigenvectors of a real-valued matrix need not be real-valued.  
+Example 3.6: 
+Find the characteristic equation and characteristic roots of matrix 
+𝑩 = ቀ2 5
+2 3 ቁ.  
+For characteristic equation of matrix B we should have 𝑑𝑒𝑡(𝑩 − 𝜆𝑰) = 𝟎.  
+Since it is a 2 × 2 matrix, the 𝜆𝑰 matrix will be ቀ𝜆 0
+0 𝜆ቁ 
+Therefore, the matrix (𝑩 − 𝜆𝑰) =  ቀ2 5
+2 3 ቁ − ቀ𝜆 0
+0 𝜆ቁ  
+On simplification,  
+det(𝑩 − 𝜆𝑰)   = ቚ2 − 𝜆 5
+2 3 − 𝜆ቚ   = (2 − 𝜆)(3 − 𝜆) − 10 
+= 6 − 3𝜆 − 2𝜆 + 𝜆ଶ − 10  
+
+
+--- Page 51 ---
+ 
+ 
+ 
+50 
+Introduction By equating it to zero, we obtain 6 − 5𝜆 + 𝜆ଶ − 10 = 0 
+By re-arranging terms in the above equation, we obtain the characteristic 
+equation as 
+𝜆ଶ − 5𝜆 − 4 = 0   
+By solving the above characteristic equation, we obtain the characteristic 
+roots of B as follows: 
+𝜆ଶ − 4𝜆 − 𝜆 − 4 = 0   
+or, 𝜆(𝜆 − 4) − 1 (𝜆 − 4) = 0  
+or, (𝜆 − 1)(𝜆 − 4) = 0 
+Therefore, the characteristic roots are 
+𝜆 = 1 or 𝜆 = 4. 
+When the order of A is n n, the characteristic equation is an nth-order 
+polynomial in 𝜆  and has at most n distinct solutions. These solutions 
+(eigenvalues) are usually complex-valued. If some eigenvalues take the same 
+value, there may exist several eigenvectors corresponding to the same 
+eigenvalue. Given an eigenvalue 𝜆 , let 𝐶ଵ , . . . ,𝐶௞  be associated eigenvectors. 
+Then, 
+𝑨(𝑎ଵ 𝑐ଵ + 𝑎ଶ 𝑐ଶ +. . .𝑎௞ 𝑐௞ ) = 𝜆(𝑎ଵ 𝑐ଵ + 𝑎ଶ 𝑐ଶ +. . . +𝑎௞ 𝑐௞ )  
+So that any linear combination of the eigenvectors is an eigenvector 
+corresponding to 𝜆. 
+That is, these eigenvectors are closed under scalar multiplication and vector 
+addition and form the eigenspace corresponding to 𝜆. As such, for a common 
+eigenvalue, we are mainly concerned with those eigenvectors that are linearly 
+independent. 
+If 𝑨 (𝑛 × 𝑛) possesses n distinct eigenvalues, each eigenvalue must correspond 
+to one eigenvector, which is unique up to scalar multiplication. It is therefore 
+typical to normalize eigenvectors such that the Euclidean norm of these vectors is 
+equal to one. It can also be shown that if the eigenvalues of a matrix are all 
+distinct, their associated eigenvectors must be linearly independent. Let C denote 
+the matrix of these eigenvectors and A denote diagonal matrix with diagonal 
+elements being the eigenvalues of A. We can write AC = CA as C is non- 
+singular. We have  
+𝑪ି 𝟏𝑨𝑪 = 𝜦 or 𝑨 = 𝑪𝑨𝑪ି 𝟏 
+In this case, A is said to be similar to 𝜦 (this symbol is the upper case ‘lambda’ in 
+Greek alphabet). When A has n distinct eigenvalues 𝜆ଵ . . .𝜆௡  (this symbol is the 
+lower case ‘lambda’) we find that  
+𝑡𝑟𝑎𝑐𝑒(𝑨) = 𝑡𝑟𝑎𝑐𝑒(𝑪𝜦𝑪ି 𝟏) = 𝑡𝑟𝑎𝑐𝑒(𝑪ି 𝟏𝑪𝜦) = 𝑡𝑟𝑎𝑐𝑒(𝜦)  
+𝑑𝑒𝑡( 𝑨) = 𝑑𝑒𝑡(𝑪𝜦𝑪ି 𝟏) = 𝑑𝑒𝑡(𝜦) 𝑑𝑒𝑡( 𝑪). 𝑑𝑒𝑡( 𝑪ି 𝟏) = 𝑑𝑒𝑡( 𝜦)  
+
+
+--- Page 52 ---
+ 
+ 
+ 
+51 
+Review of Matrix 
+Algebra 
+Let A be a 𝑛 × 𝑛 matrix with distinct eigenvalues 𝜆ଵ . . .𝜆௡ . Then,  
+𝑑𝑒𝑡( 𝑨) = 𝑑𝑒𝑡( 𝜦) = ∏ 𝜆௜
+௡
+௜ୀଵ   
+trace (A) = trace (𝜦) = ∑ 𝜆௜
+௡
+௜ୀଵ  
+when 𝑨 = 𝑪𝜦𝑪ି 𝟏 we have 𝑨ି 𝟏 = 𝑪𝜦ି 𝟏𝑪ି 𝟏. This shows that the eigenvectors of 
+𝑨ି 𝟏are same as those of  A , and the corresponding eigenvalues are simply the 
+reciprocals of the eigenvalues of A. similar,  
+𝑨𝟐 = (𝑪𝜦𝑪ି 𝟏)(𝑪𝜦𝑪ି 𝟏) = 𝑪𝜦𝟐𝑪ି 𝟏  
+The eigenvectors of 𝑨𝟐 are the same as those of A, and the corresponding 
+eigenvalues are the squares of the eigenvalues of A. This result generalizes 
+immediately to 𝑨𝒌. 
+3.9 CERTAIN SPECIAL MATRICES 
+Let us discuss about symmetric matrices. Let 𝑪𝟏 and 𝑪𝟐 be two eigenvectors of A 
+corresponding to the distinct 𝜆ଵ and 𝜆ଶ  respectively. If A is symmetric, then  
+𝑪𝟐
+′ 𝑨𝑪𝟏 = 𝝀𝟏𝑪𝟐
+′ 𝑪𝟏 = 𝝀𝟐𝑪𝟐
+′ 𝑪𝟏 
+As 𝜆ଵ ≠ 𝜆ଶ it must be true that 𝑪𝟐
+′ 𝑪𝟏 = 𝟎so that they are orthogonal. Given 
+linearly independent eigenvectors that correspond to a common eigenvalue, they 
+can also be orthogonalized. Thus, a symmetric matrix is orthogonally 
+diagonalizable, in the sense that  
+𝑪ᇱ𝑨𝑪 = 𝜦 or 𝑨 = 𝑪𝜦𝑪′  
+where 𝜦 is again the diagonal matrix of the eigenvalues of A, and C is the 
+orthogonal matrix of associated eigenvectors.  
+Let A (n  n) and C (k  k) be non-singular matrices. Then for any n  k matrix 
+B,  
+rank (B) = rank (AB) = rank (BC) 
+Thus, the rank of a matrix is preserved under non-singular transformations. 
+Similarly, orthogonal transformation does not change the rank of a matrix. For a 
+symmetric matrix A, rank (A) = rank (𝜦), the number of non-zero eigenvalues of 
+A. Moreover, if we can convert A to a diagonal matrix, then 𝑑𝑒𝑡( 𝑨) = ∏ 𝜆௜
+௡
+௜ୀଵ  
+and trace(𝑨) = ∑ 𝜆௜
+௡
+௜ୀଵ  irrespective of the differences in the eigenvalues of A.  
+Note that the above equality of determinant and trace is valid for a non-singular 
+symmetric matrix, whose eigenvalues are non-zero. 
+A symmetric matrix A is said to be positive definite if 𝒃ᇱ𝑨𝒃 > 0for all vectors 
+𝒃 ≠ 0; A is said to be positive semi definite if 𝒃ᇱ𝑨𝒃 ≥ 𝟎 for all 𝑏 ≠ 0. A positive 
+definite matrix thus must be non-singular, but a positive semi-definite matrix 
+may be singular. Suppose A is a symmetric matrix orthogonally diagonalized as 
+𝑪ᇱ𝑨𝑪 = 𝜦. If A is also positive semi-definite, then for any 𝒃 ≠ 0, 
+𝒃′𝜦𝒃 = 𝒃′(𝑪′𝑨𝑪)𝒃 = 𝒃෩ ′𝑨𝒃෩ ≥ 𝟎 
+
+
+--- Page 53 ---
+ 
+ 
+ 
+52 
+Introduction where 𝒃෩ = 𝒄𝒃 . This shows that 𝜦  is also positive simi-definite and all the 
+diagonal elements of 𝜦 must be non-negative. You can find out that the converse 
+also holds.  
+A symmetric matrix is positive definite (positive semi-definite), if and only if its 
+eigenvalues are all positive (non-negative). For a symmetric and positive definite 
+A, 𝑨ି 𝟏/𝟐is such that ൫𝑨ି 𝟏/𝟐൯𝑨ି 𝟏/𝟐 = 𝑨ି 𝟏 (Note that 𝑨ି 𝟏/𝟐 is the square root of 
+matrix 𝑨). In particular, by orthogonal diagonalization, we obtain 
+𝑨ି 𝟏 = 𝑪𝜦ି 𝟏𝑪ି 𝟏 = ൫𝑪𝜦ି 𝟏/𝟐𝑪′൯൫𝑪𝜦ି 𝟏/𝟐𝑪′൯     … (3.13) 
+So that we may choose 𝑨ି 𝟏/𝟐 = 𝑪𝜦ି 𝟏/𝟐𝑪 
+The inverse of  𝑨ି 𝟏/𝟐  is  𝑨𝟏/𝟐 which is equal to 𝑪𝜦𝟏/𝟐𝑪′ 
+It follows that 𝑨𝟏/𝟐(𝑨𝟏/𝟐) = 𝑨   and  𝑨ି 𝟏/𝟐𝑨 ቀ𝑨ି 𝟏
+𝟐ቁ
+′
+= 𝑰 
+The square root of a positive semi-definite matrix can be found out by the 
+method of ‘Cholesky Decomposition’. Given two symmetric and positive definite 
+matrices A and B if A – B is positive semi-definite, then so 𝑩ି 𝟏 − 𝑨ି 𝟏. 
+ 3.9.1 QR Factorization Matrices 
+If A is a real m n matrix of rank n, then there is exists an m n semi-orthogonal 
+matrix Q (that is, a real matrix satisfying 𝑸𝑸 = 𝑰𝒏 ) and a n n real upper 
+triangular matrix R with positive diagonal elements. Such that A = QR . The 
+result 𝑞ଵ , 𝑞ଶ , . . . ,𝑞௡ which are columns of Q can be obtained by Gram-Schmidt 
+process.  
+3.9.2 Singular Value Decomposition  
+Let A be real m  n matrix with rank ( A) = r > 0. Then there exist a m  r matrix 
+S such that 𝑺ᇱ𝑺 = 𝑰𝒓 and 𝑛 × 𝑟 matrix T such that 𝑻ᇱ𝑻 = 𝑰𝒓 and a r  r diagonal 
+matrix 𝜦 with positive diagonal elements such that 𝑨 = 𝑺𝑨
+𝟏
+𝟐
+𝑻ᇱsince 𝐴𝐴ᇱis an m  
+m symmetric (in fact positive semidefinite) matrix of rank r. The S and T can be 
+found by formula 𝑨𝑨ᇱ𝑺 = 𝑺𝜦 and 𝑻 = 𝑨′𝑺𝜦ି 𝟏/𝟐 respectively. 
+3.9.3 Idempotent Matrix 
+The matrix A is said to be idempotent if AA = A. 
+Properties of an idempotent matrix are as follows: 
+(i) If A is idempotent and diagonal, matrix then the diagonal elements 0 and 1 
+only.  
+(ii) If A is idempotent, 𝑨′, 𝑨𝒌(𝑘 = 1,2, . . . ) and (I–A) are also idempotent.  
+(iii) A and B are idempotent if and only if  𝒁 = ቀ𝑨 𝑶
+𝑶 𝑩 ቁ is idempotent.  
+(iv) Eigenvalues of an idempotent matrix are 0 and 1. But the converse is not 
+true. 
+(v) For any idempotent matrix A, note that rank(A) = trace(A) 
+ 
+
+
+--- Page 54 ---
+ 
+ 
+ 
+53 
+Review of Matrix 
+Algebra 
+Check Your Progress 2  
+1)  Show that a non-singular matrix T exists such that 𝑻ି 𝟏𝑨𝑻 = 𝜦 (diagonal) if 
+and only if there is a set of n linearly independent vectors, each of which is 
+an eigenvector of A.  
+ ………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+2)  Let X be a matrix of order n  k and rank k.  
+Consider the matrix 𝑴 = 𝑰𝒏 − 𝑿(𝑿′𝑿)ି 𝟏𝑿′. 
+(a) Show that M is symmetric idempotent.  
+(b) Show that MX = 0  
+(c) Show that rank (M) = (n – k)  
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+3)  Let X be a matrix of order n  k and rank k, let 𝑴 = 𝑰𝒏 − 𝑿(𝑿ᇱ𝑿)ି 𝟏𝑿ᇱ and 
+let V be positive definite of order n such that 𝑿′𝑽ି 𝟏𝑴 = 𝟎. Show that  
+(a) (𝑿′𝑽ି 𝟏𝑿)ି 𝟏𝑿′𝑽ି 𝟏 = (𝑿′𝑿)ି 𝟏𝑿′ 
+(b) (𝑿′𝑽ି 𝟏𝑿)ି 𝟏 = (𝑿′𝑿)ି 𝟏𝑿′𝑽𝑿(𝑿′𝑿)ି 𝟏 
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+………………………………………………………………………………… 
+3.10 KRONECKER PRODUCT AND 
+         VEC-OPERATOR 
+We usually use the Kronecker product in multiple regression models to write the 
+normal equations in a compact form. The symbol ⊗  is used to denote the 
+Kronecker product. Kronecker product is an operation on two matrices that gives 
+us a block matrix.  
+Suppose we have a 𝑚 × 𝑛  matrix 𝑨 = [𝒂𝟏, . . . .𝒂𝒏] and a p q matrix B. The 
+Kronecker product 𝑨 ⊗ 𝑩 is a mp  nq matrix given by  
+
+
+--- Page 55 ---
+ 
+ 
+ 
+54 
+Introduction 
+𝑨 ⊗ 𝑩 = ൣ𝑎௜௝𝑩൧௜ୀଵ ,௝ୀଵ
+௠ ,௡
+= ൦
+𝑎ଵଵ 𝑩 𝑎 ଵଶ 𝑩 … 𝑎ଵ௡ 𝑩
+𝑎ଶଵ 𝑩 𝑎 ଶଶ 𝑩 … 𝑎ଶ௡ 𝑩
+⋮ ⋮ ⋮ ⋮
+𝑎௠ଵ 𝑩 𝑎 ௠ଶ 𝑩 … 𝑎௠௡ 𝑩
+൪ … (3.14) 
+Example 3.7:  
+Find Kronecker product 𝑨 ⊗ 𝑩 for matrices A and B given below.  
+𝑨 = ቂ1 2
+3 4 ቃ                       𝑩 = ቂ0 1
+1 0 ቃ  
+For the above matrices, the Kronecker product is given by 
+ 𝑨 ⊗ 𝑩 = ቀ1𝑩 2𝑩
+3𝑩 4𝑩ቁ = ൮
+0 1 0 2
+1 0 2 0
+0 3 0 4
+3 0 4 0
+൲  
+Note that the Kronecker product is a mapping such that 
+ℝ௠ ×௡ × ℝ௣ ×௤ → ℝ௠௣ ×௡௤       … (3.15) 
+Further, the Kronecker product of A and B, i.e., 𝑨 ⊗ 𝑩 is defined for any pair of 
+matrices A and B irrespective of their orders. When n = 1 and q = 1, the 
+Kronecker product of two matrices reduces to the Kronecker product of two 
+column vectors 𝒂 ∈ ℝ𝒎 and 𝒃 ∈ ℝ𝒑 
+𝒂 ⊗ 𝒃 = [𝑎௜𝒃]௜ୀଵ
+௠ = ൤𝑎ଵ 𝒃
+𝑎௠ 𝒃൨    
+The result is a mp 1 vector. Evidently, the outer product of two vectors 𝒙𝒚 =
+𝒙𝒚𝑻 can be also represented by using the Kronecker product as 𝒙𝒚 = 𝒙 ⊗ 𝒚𝑻.  
+Example 3.8: 
+Consider the following vectors and find their Kronecker product. 
+𝒙 = ቂ1
+2ቃ
+′
+                    𝒚 = ቂ3
+4ቃ
+′
+  
+Hence, 𝒙 ⊗ 𝒚 = ൤1𝒚
+2𝒚൨ = ቂ3 4
+6 8 ቃ 
+The Kronecker product is also known as the direct product or tensor product.  
+Kronecker product has the following properties: 
+(i) The Kronecker product of any matrix and a zero matrix is equal to the 
+zero matrix, i.e., 𝑨 ⊗ 𝑶 = 𝑶 ⊗ 𝑨 = 𝟎. 
+(ii) 𝜶𝑨 ⊗ 𝜷𝑩 = 𝜶𝜷(𝑨 ⊗ 𝑩), for scalar quantities 𝛼 and 𝛽. 
+(iii) 𝑰𝒎 ⊗ 𝑰𝒏 = 𝑰𝒎𝒏  for  𝑰𝒋×𝒋  is identity matrix of j  j dimension  
+(iv) For matrices 𝑨𝒎×𝒏, 𝑩𝒏×𝒌, 𝑪𝒍×𝒑, 𝑫𝒑÷𝒒,  we have (𝑨𝑩) ⊗ (𝑪𝑫) = ( 𝑨 ⊗
+𝑪)(𝑩 ⊗ 𝑫) 
+
+
+--- Page 56 ---
+ 
+ 
+ 
+55 
+Review of Matrix 
+Algebra 
+(v) For matrices 𝑨𝒎×𝒏, 𝑩𝒑×𝒒, 𝑪𝒑×𝒒, we have 𝑨 ⊗ (𝑩 ± 𝑪) = 𝑨 ⊗ 𝑩 ± 𝑨 ⊗
+𝑪, (𝑩 ± 𝑪) ⊗ 𝑨 = 𝑩 ⊗ 𝑨 ± 𝑪 ⊗ 𝑨 
+(vi) (𝑨 ⊗ 𝑩)ି 𝟏 = 𝑨ି 𝟏 ⊗ 𝑩ି 𝟏, (𝑨 ⊗ 𝑩)𝑻 = 𝑨ା ⊗ 𝑩ା  
+(vii) (𝑨 ⊗ 𝑩)′ = 𝑨′ ⊗ 𝑩′ 
+(vii) rank (𝑨 ⊗ 𝑩) = rank (A) rank (B) 
+(viii) 𝑑𝑒𝑡( 𝑨𝒏×𝒏 ⊗ 𝑩𝒎×𝒎) = ( 𝑑𝑒𝑡 𝑨)௠ (𝑑𝑒𝑡 𝑩)௡  
+(ix) 𝑡𝑟(𝑨 ⊗ 𝑩) = 𝑡𝑟(𝑨) + 𝑡𝑟(𝑩) 
+(x) For matrices 𝑨𝒎×𝒏, 𝑩𝒎×𝒏, 𝑪𝒑×𝒒, 𝑫𝒑×𝒒, we have 
+(𝑨 + 𝑩) ⊗ (𝑪 + 𝑫) = 𝑨 ⊗ 𝑪 + 𝑨 ⊗ 𝑫 + 𝑩 ⊗ 𝑪 + 𝑩 ⊗ 𝑫 
+(xi) For matrices 𝑨𝒎×𝒏, 𝑩𝒑×𝒒, 𝑪𝒌×𝒍 we have 
+(𝑨 ⊗ 𝑩) ⊗ 𝑪 = 𝑨 ⊗ (𝑩 ⊗ 𝑪)  
+ 3.10.1 Vec-operator (or Vectorization of Matrix) 
+The vectorization of a matrix 𝑨 ∈ ℝ𝒎×𝒏 denoted as 𝑣𝑒𝑐 (𝐴) is a linear 
+transformation which arranges the entries of  𝑨 = [𝑎௜௝] as a mn 1 vector by a 
+column.  
+𝑣𝑒𝑐 (𝐴) = [ 𝑎ଵଵ . . .𝑎௠ଵ . . .𝑎ଵ௡ . . .𝑎௠௡ ]்   
+A matrix can be arranged as a row vector by stacking the rows. This is known as 
+row-vectorization of a matrix. It is denoted as 𝑟𝑣𝑒𝑐 (𝑨) . It is defined as  
+𝑟𝑣𝑒𝑐(𝐴) = [ 𝑎ଵଵ . . .𝑎ଵ௡ . . .𝑎௠ଵ . . .𝑎௠௡ ]  
+Example 3.9: 
+For the matrix 𝐴 = ቂ𝑎ଵଵ 𝑎ଵଶ
+𝑎ଶଵ 𝑎ଶଶ
+ቃ find the vec-operator.  
+𝑣𝑒𝑐(𝑨) = [𝑎ଵଵ , 𝑎ଶଵ , 𝑎ଵଶ , 𝑎ଶଶ ]்    and  𝑟𝑣𝑒𝑐(𝐴) = [ 𝑎ଵଵ , 𝑎ଵଶ , 𝑎ଶଵ , 𝑎ଶଶ ] 
+The relationship between column vectorization and row vectorization of a matrix 
+can be expressed as follows: 
+𝑟𝑣𝑒𝑐(𝑨) = ( 𝑣𝑒𝑐(𝑨் )்   
+Similarly, 
+𝑣𝑒𝑐(𝑨் ) = 𝑟𝑣𝑒𝑐(𝑨)்   
+For a given m  n matrix, the two vectors 𝑣𝑒𝑐(𝑨) and 𝑣𝑒𝑐(𝑨் ) contain the same 
+entries but the order of their entries are different. There is a unique mn mn 
+permutation matrix that can transform 𝑣𝑒𝑐(𝑨) into 𝑣𝑒𝑐(𝑨் ). This permutation 
+matrix is known as the commutation matrix. It is denoted by 𝐾
+௠௡  and is defined 
+as 𝐾௠௡ 𝑣𝑒𝑐(𝑨) = 𝑣𝑒𝑐(𝑨் ) 
+
+
+--- Page 57 ---
+ 
+ 
+ 
+56 
+Introduction Similarly, there is an nm  nm permutation matrix transforming 𝑣𝑒𝑐(𝐴் ) into 
+𝑣𝑒𝑐(𝑨). Such a commutation matrix denoted 𝐾௡௠ , is defined by  
+𝐾௡௠ 𝑣𝑒𝑐(𝐴் ) = 𝑣𝑒𝑐(𝐴)  
+Since this formula holds for any mn matrix A, we have 
+𝐾௡௠ 𝐾𝑘௠௡ = 𝐼௠௡           or,  𝐾௠௡ିଵ = 𝐾௡௠  
+3.10.2 Properties of Vec-opeartor  
+(i) If A and B are matrices with the same order, then 
+𝑣𝑒𝑐(𝑨 + 𝑩) =  𝑣𝑒𝑐(𝑨) + 𝑣𝑒𝑐(𝑩)  
+(ii) 𝑣𝑒𝑐(𝛼𝑨) = 𝛼 𝑣𝑒𝑐(𝑨), for any scalar quantity 𝛼 
+(iii) 𝑣𝑒𝑐(𝑨) = 𝑣𝑒𝑐(𝑩) implies that A = B iff A and B have the same order.  
+(iv) For any two vectors a and b, 𝑣𝑒𝑐 (𝒂𝒃)′ = 𝒃 ⊗ 𝒂 
+3.11 MATRIX DIFFERENTIAL  
+In Unit 7 of MEC 203: Quantitative Methods you were introduced to the concept 
+of vector differentiation. Let us consider two vectors:  
+ 𝒂 = ൥
+𝑎ଵ
+𝑎ଶ
+𝑎ଷ
+൩ and 𝒙 = ൥
+𝑥ଵ
+𝑥ଶ
+𝑥ଷ
+൩  
+Let us find out the derivative of 𝒚 = 𝒂ᇱ𝒙 with respect to x.  We find that 
+𝒂ᇱ𝒙 = 𝑎ଵ 𝑥ଵ + 𝑎ଶ 𝑥ଶ + 𝑎ଷ 𝑥ଷ      … (3.16) 
+When we take the derivative  
+డ 𝒚
+డ 𝒙 , we actually consider 
+𝝏𝒚
+𝝏𝒙 =
+⎣
+⎢
+⎢
+⎢
+⎡
+డ௬
+డ௫ భ
+డ௬
+డ௫ మ
+డ௬
+డ௫ య ⎦
+⎥
+⎥
+⎥
+⎤
+. 
+On taking partial derivatives of equation (3.16), we obtain 
+డ (𝒂ᇲ𝒙)
+డ 𝒙 = ൥
+𝑎ଵ
+𝑎ଶ
+𝑎ଷ
+൩ =  𝒂       … (3.17) 
+Note that we started with 𝒂ᇱ𝒙, but after differentiation, we obtained 𝒂.  
+Matrix differential is a generalization of a multivariate function differential. The 
+matrix differential (including matrix partial derivative and gradient) has wide 
+applications in optimization theory and econometrics.  
+Before proceeding further, let us consider the following notations:  
+𝒙 = [𝑥ଵ . . . . .𝑥௠ ]் ∈ ℝ𝑅௠  denotes a real vector variable.  
+𝑿 = [𝑋ଵ . . .𝑋௡ ] ∈ ℝ ௠ ×௡  denotes a real matrix variable.  
+
+
+--- Page 58 ---
+ 
+ 
+ 
+57 
+Review of Matrix 
+Algebra 
+The table below shows classification of real functions. 
+Function Type Variable 𝒙 ∈ ℝ௠  Variable 𝑿 ∈ ℝ௠ ×௡  
+Scalar Function 
+𝑓 ∈ ℝ 
+𝑓(𝒙): ℝ௠ → ℝ 𝑓(𝑿): ℝ௠ ×௡ → 𝑅 
+Vector Function 
+ 𝑓 ∈ ℝ௣  
+𝑓(𝒙): ℝ௠ → ℝ௣  𝑓(𝑿): ℝ௠ ×௡ → ℝ௣  
+Matrix Function 
+ 𝐹 ∈ ℝ௣ ×௤  
+𝐹(𝒙): ℝ௠ → ℝ௣ ×௤  𝐹(𝑿): ℝ௠ ×௡ → ℝ௣ ×௤  
+Let us consider the first case. Here, 𝑓(𝒙): ℝ௠ → ℝ is a real scalar function with a 
+m1 real vector 𝒙 as variable. The function’s output is a scalar: for example, 
+𝑓(𝒙) = 𝑡𝑟𝑎𝑐𝑒(𝒙𝒙𝑻) where x is m 1 vector. 
+3.11.1 Jacobian Matrix  
+The Jacobian of a matrix consists of all first order partial derivates of multivariate 
+function. The row partial derivatives with respect to a m1 vector 𝒙  are given by   
+𝐷௑ =
+డ
+డ௫ ೅ = ቂ
+డ
+డ௫ భ
+. . . . .
+డ
+డ௫ ೘
+ቃ  
+Similarly, the row partial derivatives with respect to a mn matrix X are given by 
+𝐷௩௘௖௑ =
+డ
+డ (௩௘௖௑ )೅ = ቂ
+డ
+డ௫ భభ
+. . .
+డ
+డ௫ ೘భ
+. . .
+డ
+డ௫ భ೙
+. . .
+డ
+డ௫ ೘೙
+ቃ  
+When we collect the partial derivatives for all the rows, we obtain the Jacobian 
+matrix, which is given by  
+𝐷௑ =
+డ
+డ௑ ೅ =
+⎣
+⎢
+⎢
+⎡
+డ
+డ௫ భభ
+⋯
+డ
+డ௫ ೘భ
+⋮ ⋮ ⋮
+డ
+డ௫ భ೙
+⋯
+డ
+డ௫ ೘೙ ⎦
+⎥
+⎥
+⎤
+      … (3.18) 
+The partial derivative vector resulting from the operation of 𝐷௑  on a real scalar 
+function 𝑓(𝑿) with m1 vector variable X is an 1m row vector and is given by  
+𝐷௑ 𝑓(𝑋) =
+డ௙ (௑ )
+డ௑ ೅ = ቂ
+డ௙ (௑ )
+డ௫ భ
+…
+డ௙ (௫ )
+డ௫ ೘
+ቃ  
+The partial derivative matrix  
+𝐷௑ 𝑓(𝑋) =
+డ௙ (௑ )
+డ௑ ೅ =
+⎣
+⎢
+⎢
+⎡
+డ௙ (௑ )
+డ௫ భభ
+⋯
+డ௙ (௑ )
+డ௫ ೘భ
+⋮ ⋮ ⋮
+డ௙ (௑ )
+డ௫ భ೙
+⋯
+డ௙
+డ௫ ೘೙ ⎦
+⎥
+⎥
+⎤
+∈ ℝ௡ ×௠   
+
+
+--- Page 59 ---
+ 
+ 
+ 
+58 
+Introduction is known as the Jacobian matrix of the real scalar function 𝑓(𝑋), and the partial 
+derivative vector  
+ 𝐷௩௘௖௑ 𝑓(𝑋) =
+డ௙ (௑ )
+డ (௩௘௖ (௑ ))೅ = ቂ
+డ௙ (௑ )
+డ௫ భభ
+. . .
+డ௙ (௑ )
+డ௫ ೘భ
+. . .
+డ௙ (௑ )
+డ௫ భ೙
+. . .
+డ௙ (௑ )
+డ௫ ೘೙
+ቃ 
+is row partial derivative vector of the real scalar function 𝑓(𝑋) with matrix 
+variable X. 
+Example 3.10: 
+Determine the Jacobian matrix of the function 𝑓: ℝସ → ℝ defined for all 
+𝑋 = (𝑥ଵ , 𝑥ଶ , 𝑥ଷ , 𝑥ସ ) by 𝑓(𝑋) = ‖𝑋‖ 
+𝑓(𝑋) = 𝑓(𝑥ଵ , 𝑥ଶ , 𝑥ଷ , 𝑥ସ ) = ‖𝑥‖  
+= ฮ(𝑥ଵ , 𝑥ଶ , 𝑥ଷ , 𝑥)ସ ฮ = ඥ 𝑥ଵ
+ଶ + 𝑥ଶ
+ଶ + 𝑥ଷ
+ଶ + 𝑥ସ
+ଶ    
+Hence 𝐷௑ 𝑓(𝑋) = ቂ
+డ ‖௫ ‖
+డ௫ భ
+,
+డ ‖௑ ‖
+డ௫ మ
+,
+డ ‖௑ ‖
+డ௫ య
+,
+డ ‖௑ ‖
+డ௫ ర
+ቃ 
+       =
+ଵ
+ට ௫ భమ ା௫ మమ ା௫ యమ ା௫ రమ
+[𝑥ଵ , 𝑥ଶ , 𝑥ଷ , 𝑥ସ ] 
+      =
+ଵ
+‖௑ ‖ (𝑋) 
+3.11.2 Gradient Matrix  
+Gradient is a term used to define the derivative of a multivariate function. In the 
+case of a single variable, derivative gives us the rate of change in the variable.  In 
+the case of multiple variables, there are changes in all the variables. These 
+multiple changes are represented by vectors. As you know, vector a has direction. 
+Thus, the gradient matrix will give us the rate of change of the variables.  
+The gradient vector operator is denoted by the symbol 𝜵 (read as ‘del’ or ‘nabla’; 
+it is the inverted upper case letter delta). With respect to a m 1 vector X it is 
+defined as 
+𝛻௑ = ቂ
+డ
+డ௫ భ
+⋯
+డ
+డ௫ ೘
+ቃ
+்
+  
+For a a mn matrix X the gradient operator is defined as  
+ 𝛻௩௘௖௑ =
+డ
+డ௩௘௖௑ = ቂ
+డ
+డ௫ భభ
+…
+డ
+డ௫ భ೙
+⋯
+డ
+డ௫ ೘భ
+⋯
+డ
+డ௫ ೘೙
+ቃ
+்
+ 
+The gradient matrix operator with respect to an mn matrix X is defined as  

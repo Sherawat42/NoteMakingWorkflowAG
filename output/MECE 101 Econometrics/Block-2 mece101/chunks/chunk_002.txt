@@ -1,0 +1,654 @@
+--- Page 11 ---
+ 
+ 77
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+We observe that 
+a) The variance of 𝛽ଶ෢  is directly proportional to σଶ and inversely proportional to 
+∑ 𝑥௜ 
+ଶ . Thus, if the variation in X values increases, the value of ∑ 𝑥௜ 
+ଶ  will 
+increase.  Therefore, the X value should be widely dispersed. In other words, 
+β2 can be measured with greater accuracy if there is considerable variation in 
+X values.  
+b) As sample size n increases, the value of ∑ 𝑥௜ 
+ଶ  will increase. Therefore, it is 
+useful to have a large sample.   
+c) The variance of  𝛽ଵ෢  is directly proportional to σଶ  and ∑ 𝑋௜ 
+ଶ . However, it is 
+inversely proportional to ∑ 𝑥௜ 
+ଶ  and the sample size n. 
+The estimators 𝛽ଵ෢  and 𝛽ଶ෢  will not just vary from one sample to another. The 
+estimates 𝛽ଵ෢  and 𝛽ଶ෢  be dependent on each other in a sample. Such dependency is 
+measured by the covariance between them.  
+4.3.2 Estimator of Error Variance 
+The variance of 𝛽መଵ and 𝛽መଶ depends on σଶ , he variance of 𝑢௜. The error variance 
+(that is, the variance of 𝑢௜), however, is not known to us. The stimator of σଶ  can 
+be obtained by OLS method and the aximum likelihood method. The OLS 
+estimator σෝ ଶ  is given by 
+σෝ ଶ  =  
+∑ ௨ෝ ೔
+మ
+୬ିଶ =
+ோௌௌ
+௡ିଶ        ... (4.44) 
+Note that σෝ ଶ  is the OLS estimator of the true but unknown σଶ  with ( n – 2) 
+degrees of freedom. Once ∑ 𝑢ො௜
+ଶ  is estimated as the sum of squares of the residuals 
+(RSS) given at equation (4.3), we can calculate σෝ ଶ  by using (4.44).  
+In the maximum likelihood (ML) method we obtained the estimator 𝜎˜ ଶ =
+ோௌௌ
+ ௡ . 
+Thus, the ML estimator of σଶ  is biased. However, it is consistent, in the sense 
+that as we increase the sample size infinitely, 𝜎˜ ଶ  approaches the true value of the 
+parameter σଶ . 
+4.4  PROPERTIES OF THE OLS ESTIMATORS  
+The properties of OLS estimators can be classified as: (i) algebraic or numerical, 
+and (ii) statistical. The statistical properities pertain to unbiasedness, consistency 
+and efficiency of the OLS estimators. The algebraic properties of OLS estimators 
+pertain to the relationship among the variables in the regression model.  
+4.4.1 Algebraic Properties 
+The algebraic properties of OLS estimators are as follows:  
+
+
+--- Page 12 ---
+ 
+78 
+ 
+Classical Regression 
+Model 
+(i)  The OLS estimators provide point estimates. Thus, each estimator 
+provides a single value of the population parameter. 
+(ii)  The sample regression line passes through the sample means of Y and X. 
+The estimated regression line is given by 𝑌෠௜ =  𝛽ଵ෢ + 𝛽ଶ෢ 𝑋௜. If we add up 
+over the sample, and divide it by n, we obtain Yഥ =  𝛽ଵ෢ + 𝛽ଶ෢ 𝑋ത. Thus, when 
+X takes the value 𝑋ത, the dependent variable Y takes the value Yഥ .  The 
+regression line passes through the point (𝑋ത, Yഥ ) 
+ (iii) For the dependent variable, the mean of actual the actual value (Y) is 
+equal to the mean of the estimated value ( 𝑌෠). If we substitute the value of 
+𝛽ଵ෢  from equation (4.13) in (4.2), we obtain 
+𝑌෠௜   =  𝛽ଵ෢ + 𝛽ଶ෢ 𝑋௜  
+      = (𝑌 − 𝛽ଶ෢ 𝑋) + 𝛽ଶ෢ 𝑋௜ = 𝑌 − 𝛽ଶ෢ (𝑋௜ − 𝑋)   
+Let us add up both the sides of equation (4.38), and divide by the sample 
+size n. Further, let us apply the fact that ∑(𝑋௜ − 𝑋) = 0. This gives us 
+𝑌෠ = 𝑌       ... (4.45) 
+ (iii) The sample regression function can be expressed in deviation form as 
+𝑦పෝ = 𝛽ଶ෢ 𝑥௜. 
+We know that ∑ 𝑢పෝ = 0.  
+𝑌ప෡ = 𝛽ଵ෢ + 𝛽ଶ෢ Xi      … (4.2) 
+ and  
+ Yi = ൫𝑌ప෡ + 𝑢పෝ ൯ = (𝛽ଵ෢ + 𝛽ଶ෢ Xi) + 𝑢పෝ  
+ Or,  
+ 𝑌௜ = 𝛽ଵ෢ + 𝛽ଶ෢ 𝑋௜ + 𝑢పෝ      … (4.3) 
+ Summing up both the sides of equation (4.2) and dividing by the sample 
+size n, we obtain 
+ 𝑌෠ = 𝛽ଵ෢ + 𝛽ଶ෢ 𝑋   
+Since 𝑌෠ = Y , we have 
+ 𝑌 = 𝛽ଵ෢ + 𝛽ଶ෢ 𝑋      ... (4.46) 
+Subtracting (4.43) from (4.3) we get 
+ (𝑌௜ − 𝑌 ) = 𝛽ଶ෢ ൫𝑋௜ − 𝑋൯ + 𝑢పෝ     … (4.47)  
+If we define 𝑦௜ and 𝑥௜ as deviations from their sample means, the above 
+can be expressed as  
+ 𝑦௜ = 𝛽ଶ෢ 𝑥௜ + 𝑢పෝ      ... (4.48) 
+ From (4.2) above, we have 
+
+
+--- Page 13 ---
+ 
+ 79
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+𝑌 = 𝛽ଵ෢ + 𝛽ଶ෢ 𝑋  
+Subtracting the above from (4.2), we obtain the regression line in 
+deviation form as 
+𝑦పෝ = 𝛽ଶ෢ 𝑥௜      … (4.49) 
+(iv) The predicted value 𝑦పෝ  and the residual 𝑢ො௜ are not correlated. It implies, 
+we have to prove that 𝐸(𝑦ො௜𝑢ො௜) = 0 , or  
+ଵ
+௡ ∑ 𝑦పෝ 𝑢ො௜ = 0. 
+From (4.44) 𝑦పෝ = 𝛽ଶ෢ 𝑥௜. If we multiply both the sides by 𝑢పෝ  and take 
+summation over all the observations, we get:  
+෍ 𝑦పෝ 𝑢ො௜ =  𝛽ଶ෢ ෍ 𝑥௜ 𝑢ො௜ 
+=  𝛽ଶ෢ ෍ 𝑥௜ (𝑦௜ −  𝛽ଶ෢ 𝑥௜ ) 
+=  𝛽ଶ෢ ෍ 𝑥௜ 𝑦௜ − 𝛽ଶ෢ ଶ
+෍ 𝑥௜
+ଶ  
+=  𝛽ଶ෢ · 𝛽ଶ෢
+𝛽ଶ෢ ෍ 𝑥௜ 𝑦௜ − 𝛽ଶ෢ ଶ
+෍ 𝑥௜
+ଶ  
+=  𝛽ଶ෢ · 𝛽ଶ෢
+𝛽ଶ෢ ෍ 𝑥௜ 𝑦௜ − 𝛽ଶ෢ ଶ
+෍ 𝑥௜
+ଶ  
+ =  𝛽ଶ෢ ଶ
+·
+∑ ௫ ೔మ
+∑ ௫ ೔௬ ೔
+· ∑ 𝑥௜ 𝑦௜ − 𝛽ଶ෢ ଶ
+∑ 𝑥௜ଶ = 0   
+ =  𝛽ଶ෢ ଶ
+∑ 𝑥௜
+ଶ  − 𝛽ଶ෢ ଶ
+∑ 𝑥௜
+ଶ = 0    ... (4.50) 
+Hence, the residuals 𝑢పෝ  and 𝑌௜ are not correlated. 
+(v) The residual 𝑢పෝ  and 𝑋௜ are not ncorrelated. This implies, 𝐸(𝑋௜𝑢పෝ ) = 0. In 
+other words, 
+ଵ
+௡ ∑ 𝑋௜ 𝑢పෝ = 0. 
+ While taking the partial derivative of ∑ 𝑢పෝ ଶ  with respect to 𝛽ଶ෢  (see  
+equation (4.11)) we find that  
+డ ∑ ௨ ഢෞ మ
+డఉ మ෢ =
+డ ∑(௒ ೔ି  ఉ భ෢ ି  ఉ మ෢ ௑ ೔)మ
+డఉ మ෢ = 0  
+Or,  2 · (−1) · ∑( 𝑌௜ −  𝛽ଵ෢ − 𝛽ଶ෢ X୧) · 𝑋௜ = 0  
+Or,        ∑ 𝑋௜( 𝑌௜ −  𝛽ଵ෢ −  𝛽ଶ෢ X୧) = 0 
+Or, ∑ 𝑋௜𝑢పෝ = 0      … (4.51) 
+4.4.2 Statistical Properities 
+The OLS estimators fulfil certain statistical or theoretical properties. We specify 
+them below. 
+(i) Unbiasedness 
+The OLS estimators are unbiased.  
+𝐸൫𝛽2෢ ൯ = 𝐸 ቀ
+∑ 𝑥𝑖𝑦𝑖
+∑ 𝑥𝑖2 ቁ = 𝐸 ቀ
+∑ 𝑥𝑖(𝛽𝑥𝑖+𝑢𝑖)
+∑ 𝑥𝑖2 ቁ = 𝐸 ቀ
+∑ 𝛽𝑥𝑖2+∑ 𝑥𝑖𝑢𝑖)
+∑ 𝑥𝑖2 ቁ  
+
+
+--- Page 14 ---
+ 
+80 
+ 
+Classical Regression 
+Model 
+= 𝛽 + 𝐸 ቀ
+∑ ௫ ೔௨ ೔
+∑ ௫ ೔మ ቁ = 𝛽 + ቀ
+∑ ௫ ೔ா (௨ ೔)
+∑ ௫ ೔మ ቁ = 𝛽 + 0 = 𝛽  
+Thus, 𝐸൫𝛽ଶ෢ ൯ = 𝛽ଶ        … (4.52)  
+(ii) Consistency 
+The OLS estimators are consistent. As we increase the sample size, 𝛽ଶ෢  converges 
+to 𝛽ଶ .  
+𝛽ଶ෢ =
+∑ ௫ ೔௬ ೔
+∑ ௫ ೔మ = 𝛽 +
+∑ ௫ ೔௨ ೔
+∑ ௫ ೔మ = 𝛽 +
+∑ ௫ ೔௨ ೔ ௡⁄
+∑ ௫ ೔మ ௡⁄      … (4.53) 
+As 𝑛 → ∞, we observe that the covariance between X and u is zero, that is, 
+∑ 𝑥௜𝑢௜ 𝑛⁄ → 0. Therefore, 𝛽ଶ෢  converges to 𝛽ଶ. 
+(iii) Best Linear Unbiased Estimator (BLUE) 
+The OLS estimators are the best linear unbiased estimators (BLUE). This 
+property is also called the ‘ Gauss-Markov theorem’ . The theorem states that 
+‘given the assumptions of classical linear regression models (CLRM), the least 
+squares estimators have the minimum variance in the class of all linear unbiased 
+estimators’. More specifically, the OLS estimator of 𝛽ଶ෢  is said to be BLUE of 𝛽ଶ . 
+The OLS estimator 𝛽ଶ෢  has the following properties:  
+(i) Linear: The OLS estimator is a linear function of the dependent variable. As 
+you know, 𝛽ଶ෢ =
+∑ ௫ ೔௬ ೔
+∑ ௫ ೔మ . We can present it as 
+𝛽ଶ෢ = ∑ 𝑐௜𝑦௜         … (4.54) 
+where 𝑐௜ =
+௫ ೔
+∑ ௫ ೔మ .  
+(ii) Unbiased: The OLS estimator is unbiased. We have proved in equation (4.52) 
+that 𝛽ଶ෢  is unbiased estimator of 𝛽ଶ.  
+(iii) Efficient: The OLS estimator is efficient in the sense that in the class of all 
+linear unbiased estimators, it has the minimum or the least variance. In order 
+prove it, we proceed as follows: 
+Let us consider any linear unbiased estimator 𝑏ଶ  such that 
+𝑏ଶ = ∑ 𝑑௜ 𝑦௜          … (4.55) 
+𝐸(𝑏ଶ ) = ∑ 𝑑௜ 𝐸(𝑦௜) = ∑ 𝑑௜ 𝐸(𝛽ଶ 𝑥௜) = 𝛽ଶ ∑ 𝑑௜𝑥௜  
+For 𝑏ଶ  to be unbiased, 𝐸(𝑏ଶ ) = 𝛽ଶ . For this, we should have 
+∑ 𝑑௜𝑥௜ = 1         … (4.56) 
+Since 𝑏ଶ = ∑ 𝑑௜ 𝑦௜, we should have  
+𝑣𝑎𝑟(𝑏ଶ ) = ∑ 𝑑௜
+ଶ 𝜎ଶ         … (4.57) 
+
+
+--- Page 15 ---
+ 
+ 81
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+Our objective is to find out the value of 𝑑௜ for which ∑ 𝑑௜
+ଶ 𝜎ଶ  is minimum. Also, 
+it should fulfil the ondition that ∑ 𝑑௜𝑥௜ = 1. Since 𝜎ଶ  is a constant, we need to 
+minimize the following Lagrangian function: 
+∑ 𝑑௜
+ଶ − 𝜆(∑ 𝑑௜𝑥௜ − 1)       … (4.58) 
+where 𝜆 is the Langrangian multiplier. 
+If we differentiate equation (4.58) with respect to 𝑑௜, and equate it to zero, we 
+obtain 
+ 2𝑑௜ − 𝜆𝑥௜ = 0 
+Or, 
+𝑑௜ =
+ఒ
+ଶ 𝑥௜         … (4.59) 
+Multiplying both sides of equation (4.59) by 𝑥௜ and summing over the sample, we 
+obtain 
+∑ 𝑑௜𝑥௜ =
+ఒ
+ଶ ∑ 𝑥௜
+ଶ         … (4.60) 
+Recall from (4.56) that ∑ 𝑑௜𝑥௜. Hence, 
+ఒ
+ଶ
+∑ 𝑥௜
+ଶ = 1. Therefore, 𝜆 =
+ଶ
+∑ ௫ ೔
+మ. 
+Substituting this value of 𝜆 in (4.59), we obtain 
+𝑑௜ =
+ଶ
+∑ ௫ ೔
+మ ·
+ଵ
+ଶ 𝑥௜ =
+௫ ೔
+∑ ௫ ೔
+మ        … (4.61) 
+Therefore, the minimum variance of  𝑏ଶ  is achieved when (see equation (4.55)), 
+𝑏ଶ = ∑ 𝑑௜ 𝑦௜ = ∑ ௫ ೔
+∑ ௫ ೔
+మ 𝑦௜ =
+∑ ௫ ೔௬ ೔
+∑ ௫ ೔
+మ       … (4.62) 
+Compare equation (4.62) with the OLS estimator given at equation (4.14). Both 
+are the same. Thus, the OLS estimator has the minimum variance among the 
+linear unbaised estimators; and it is BLUE. 
+The Gauss-Markov theorem holds only if the assumptions of CLRM are satisfied. 
+This ensures that we cannot get any other estimator with variance lower than that 
+of the OLS estimator. A remarkable feature of the theorem is that it makes no 
+assumption about the distribution of the error term 𝑢௜ and 𝑌௜. Any violation of the 
+CLRM assumptions leads to invalidity of the theorem. For instance, if we have a 
+regression model which is non-linear in parameters, we may obtain estimators 
+which are better than OLS estimators. Another example is the case of violation of 
+the homoscedastic assumption. Under such situations, the estimators may be 
+unbiased and consistent, but the variance will not be the minimum even in the 
+class of linear estimators. It is important to note that the statistical properties of 
+the OLS estimator are valid, irrespective of the sample size. 
+
+
+--- Page 16 ---
+ 
+82 
+ 
+Classical Regression 
+Model 
+Check Your Progress 2 
+1) State the variance of the OLS estimators. 
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ........................................................................................................................... 
+2) State the numerical properties of the OLS estimators. 
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ........................................................................................................................... 
+3) State the statistical properties of the OLS estimators.  
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ........................................................................................................................... 
+4) State the central features of Gauss Markov Theorem.  
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ........................................................................................................................... 
+5) Using the data given for question 2 in CYP 1, calculate the estimator of the 
+error variance 𝜎ଶ .  
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ........................................................................................................................... 
+4.5  GOODNESS OF FIT  
+Let us now examine how we can ascertain the ‘goodness of fit’ of the estimated 
+regression line. A perfect fit would be obtained if all the observations were on the 
+regression line. But this is a rare possibility. We normally get a distribution in 
+such a way that some observations are below, and some observations are above 
+the regression line. The distance between the actual value Y from the expected 
+value 𝑌෠ will have both positive and negative values. Thus, the residual ( 𝑢ො௜) can 
+
+
+--- Page 17 ---
+ 
+ 83
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+be either positive or negative. What we require is that the value of this residual 𝑢ො௜ 
+is as small as possible. A measure of how well the sample regression line fits the 
+data is given by the ‘coefficient of determination’ ( r2). Note that the notation r2 is 
+usually used for bi-variate regressions, while R2 is used for multiple regression. 
+How do we compute r2? Let us once again consider our SRF as in equation (4.3), 
+i.e., Yi =𝑌ప෡ + 𝑢పෝ . In deviation form, this can be written as:  
+𝑦௜ = 𝑦పෝ + 𝑢పෝ         ... (4.63) 
+Squaring (4.30) on both sides and summing up we get:  
+∑ 𝑦௜
+ଶ =  ∑ 𝑦ො௜
+ଶ + ∑ 𝑢ො௜
+ଶ + 2 ∑ 𝑦ො௜ 𝑢ො௜  
+=  ∑ 𝑦ො௜
+ଶ +  ∑ 𝑢ො௜
+ଶ  (since ∑ 𝑦ො௜ 𝑢ො௜ = 0) 
+=  𝛽ଶ෢ ଶ
+∑ 𝑥௜
+ଶ +  ∑ 𝑢ො௜
+ଶ        ... (4.64) 
+Equation (4.64) contains the following sum of squares:  
+(i)  ∑ 𝑦௜
+ଶ represents the total variation of Y values about the mean. This is 
+termed as the ‘total sum of squares (TSS)’. 
+(ii) 𝛽ଶ෢ ଶ
+∑ 𝑥௜ଶ represents the variation of estimated Y values about their mean. 
+This is termed as the ‘explained sum of squares (ESS)’ or variation due to 
+regression, or due to the explanatory variables.  
+(iii) ∑ 𝑢పෝ ଶ  represents the residual or the unexplained variation of Y and is termed 
+as the ‘residual sum of squares (RSS)’. 
+We can therefore write (4.64) in terms of the sum of the squares as:  
+TSS = ESS + RSS        ... (4.65) 
+The total variations in Y (about its mean) is thus segregated into two parts: one 
+part of the variation attributed to the regression and the second part to the random 
+error. Dividing (4.65) by TSS on both sides we get:  
+1 =  
+ாௌௌ
+்ௌௌ +  
+ோௌௌ
+்ௌௌ        ... (4.66) 
+1 =  
+∑(௒෠೔ି௒ )మ
+∑(௒ ೔ି௒ )మ +  
+∑ ௨ ഢෞ మ
+∑(௒ ೔ି௒ )మ      ... (4.67) 
+From (4.63), 𝑟ଶ  can be defined as:  
+𝑟ଶ =  
+∑(௒෠೔ି௒ )మ
+∑(௒ ೔ି௒ )మ =  
+ாௌௌ
+்ௌௌ        ... (4.68) 
+Therefore, equation (4.67) can also be written as:  
+𝑟ଶ =  1 − ∑ 𝑢పෝ ଶ
+∑(𝑌௜ − 𝑌)ଶ  
+= 1 −
+ோௌௌ
+்ௌௌ         ... (4.69) 
+Alternatively,  𝑟ଶ =  
+ாௌௌ
+்ௌௌ =  
+∑(௬ො೔)మ
+∑ ௬ ೔
+మ =  
+ఉ మ෢ మ
+∑ ௫ ೔మ
+∑ ௬ ೔
+మ  
+
+
+--- Page 18 ---
+ 
+84 
+ 
+Classical Regression 
+Model = 𝛽ଶ෢ ଶ
+൬
+∑ ௫ ೔మ
+∑ ௬ ೔
+మ ൰        ... (4.70) 
+Dividing both the numerator and the denominator of the RHS of (4.70) by the 
+sample size n we get:  
+𝑟ଶ = 𝛽ଶ෢ ଶ
+൬
+ௌೣమ
+ௌ೤మ ൰        ... (4.71) 
+where 𝑆௫ଶ  and 𝑆௬ଶ  are the sample variances of X and Y respectively. Substituting 
+for 𝛽ଶ෢  from (4.14), equation (4.70) can be written as:  
+𝑟ଶ =
+ (∑ ೣ ೔೤ ೔)మ
+∑ ௫ ೔మ ∑ ௬ ೔మ        ... (4.72) 
+Therefore, as a formal definition of 𝑟ଶ , we can say that 𝑟ଶ  is the measure of the 
+proportion of total variation in Y that is explained by X in the regression model. It 
+provides the magnitude or the extent to which variation in the independent 
+variable can affect the variation in the dependent variable. The value of 𝑟ଶ  is 
+always non-negative and ranges between 0 to 1, that is, 0 ≤ 𝑟ଶ ≤ 1.  A value of 1 
+would mean a perfect fit, i.e., 𝑌ప෡  = 𝑌௜, whereas 𝑟ଶ = 0 means that there is 
+absolutely no relationship between the dependent and the explanatory variable.  
+4.6  TESTING OF HYPOTHESIS  
+The main idea of hypothesis testing is to examine if the sample value is 
+compatible (i.e., sufficiently close) to the population value. For example, let us 
+say that the theory or previous experience says that the true slope coefficient of β2 
+is zero. But from the sample, we obtain the estimate as 𝛽ଶ෢ = 0.674. Now, we 
+need to test whether the estimate obtained is consistent with the hypothesis. In 
+case it is consistent, we do not reject the hypothesis. Here, the hypothesis that β2 
+is zero is called as the ‘null hypothesis or Ho’. This is compared against the 
+alternative hypothesis H1 that β2 is different from zero. The alternative hypothesis 
+may be simple like H1: β2 ≠ 0.  
+Hypothesis testing requires developing rules or procedures to decide whether to 
+reject or not-reject the null hypothesis. There are two common approaches to 
+hypothesis testing: (i) confidence interval approach, and (ii) test-of-significance 
+approach. Both the approaches are based on the fact that the variable of our 
+concern has some probability distribution. Hypothesis testing involves making 
+statements or claims about the value of the parameter given such a distribution. 
+Here we first focus on the ‘test-of-significance approach’. 
+The test-of-significance approach refers to a procedure for testing a null 
+hypothesis ( Ho) using the sample results. The procedure involves obtaining the 
+test statistic (estimator) and the distribution of such a statistic under the null 
+hypothesis. Based on the value of the test statistic thus obtained, the decision to 
+accept or reject the null hypothesis is made. Under the assumption of normal 
+distribution, we can write the test statistic as:  
+
+
+--- Page 19 ---
+ 
+ 85
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+𝑡 =
+ఉ మ෢ ିఉ మ
+௦௘  (ఉ మ෢ )        ... (4.73) 
+Equation (4.70) follows t-distribution with (𝑛 − 2) degrees of freedom in the 
+simple regression model. If the value of 𝛽ଶ  is specified under the null hypothesis, 
+we can compute the value of t-statistic using the sample data. Since this statistic 
+(t) follows t-distribution, its confidence interval can be stated as:  
+𝑃𝑟 ቂ− 𝑡ఈ ଶൗ ≤  
+ఉ మ෢ ି  ఉ మ  
+∗
+௦௘  (ఉ మ෢ )  ≤  𝑡 ఈ ଶൗ ቃ = (1 −  𝛼)    ... (4.74)  
+where 𝛽ଶ
+∗ is the value of 𝛽ଶ  under the null hypothesis and −𝑡ఈ ଶൗ and 𝑡ఈ ଶൗ  are the 
+critical t-values (from the t–Table) for  
+ఈ
+ଶ   level of significance with (𝑛 − 2) 
+degrees of freedom. Rearranging (4.74) we get:  
+𝑃𝑟 ቂ𝛽ଶ
+∗ − 𝑡ఈ ଶൗ 𝑠𝑒൫𝛽ଶ෢ ൯ ≤ 𝛽ଶ෢ ≤ 𝛽ଶ
+∗ + 𝑡ఈ ଶൗ 𝑠𝑒൫𝛽ଶ෢ ൯ቃ = (1 − 𝛼)  ... (4.75) 
+Equation (4.75) gives the interval in which 𝛽ଶ෢  will lie with a probability of (1 −
+𝛼) if 𝛽ଶ  = 𝛽ଶ
+∗. The 100(1– 𝛼) % confidence interval is termed as the ‘region of 
+acceptance’ of the null hypothesis. The region beyond this is termed as the 
+‘region of rejection’ or the ‘critical region’. In the confidence interval approach, a 
+true value of 𝛽ଶ   is hypothesized and then it is examined if the estimated 𝛽ଶ෢  lies 
+within the region of acceptance or not. 
+Example 4.1 
+Let us consider an example where it is hypothesized that the true value of 𝛽ଶ  =
+0.3, i.e., Ho: 𝛽ଶ  = 0.3. The H0 is tested against the alternative hypothesis  H 1: 
+𝛽ଶ  ≠ 0.3. Let 𝛽ଶ෢ = 0.5091 and 𝑠𝑒൫𝛽ଶ෢ ൯ = 0.0357 with d.f. = 8. Let us assume 
+that 𝛼 = 5 % so that  𝑡ఈ ଶൗ = 2.306. Now using (4.75) we have the confidence 
+interval for 𝛽ଶ෢  as:  
+𝑃𝑟ൣ0.2177 ≤ 𝛽ଶ෢ ≤ 0.3823൧ = 0.95     ... (4.76) 
+ 
+Fig.4.1: The 95% Confidence Interval for 𝛽ଶ෢  (under H0: 𝛽ଶ   = 0.3) 
+Equation (4.76) is represented in Fig. 4.1. As the estimated 𝛽ଶ෢  lies in the critical 
+region, we reject the null Ho: 𝛽ଶ  = 0.3. This can also be verified empirically by 
+calculating the t-value using (4.73) as:  
+
+
+--- Page 20 ---
+ 
+86 
+ 
+Classical Regression 
+Model 𝑡 = 0.5091 −  0.3
+0.0357 = 5.86 
+This is again greater than 2.306, leading to the rejection of Ho: 𝛽ଶ  = 0.3. From 
+(4.70), it is evident that if 𝛽ଶ෢   is equal to the hypothesized  𝛽ଶ  , the t-value will be 
+0. As the difference between the two increases, the |𝑡| will become larger. Note 
+that the t-value can be both positive and negative. Thus, large |𝑡| is an indication 
+of rejection of null hypothesis.  
+When the alternative hypothesis is like H1: 𝛽ଶ  ≠ 0.3, it is a case of two-tailed or 
+two-sided test. This is because we consider the two extreme tails of the 
+probability distribution as the region of rejection (as in Fig. 4.1). If we had the H 0 
+as  𝛽ଶ  ≤ 0.3 and H1 as 𝛽ଶ  > 0.3, we use one sided (or, one-tail) test (or right-tail 
+test) as shown in Fig.4.2. The test procedure is the same as discussed before. The 
+only difference is that in one-tailed test, the upper critical value corresponds to 
+𝑡
+ఈ =  𝑡଴ .଴ହ  or 5% level. The lower-tail is no longer considered in this case. The 
+choice of two-tailed or one-tailed test depends on the nature of the alternative 
+hypothesis formulated based on a-priori considerations. The decision on the type 
+of  t-test for hypothesis testing is summarized in Table 4.1. 
+4.7  FORECASTING  
+Regression is useful for forecasting the values of Y corresponding to the given X 
+values. This may be the conditional mean value of Y for the selected value of X, 
+say X0, representing a point on the regression line itself. This is called ‘mean 
+forecasting’. Alternatively, it can be the forecasting of an individual value of Y 
+corresponding to Xo. This is called ‘individual forecasting’. 
+ 
+Fig.4.2: One-Tailed Test of Significance. 
+ 
+ 
+
+
+--- Page 21 ---
+ 
+ 87
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+Table 4.1: Decision Rules for t-Test  
+Type of 
+Hypothesis 
+H0: Null 
+hypothesis 
+H1: Alternative 
+Hypothesis 
+Decision – Reject 
+H0 if 
+Two-tail 𝛽ଶ  = 𝛽ଶ
+∗ 𝛽ଶ  ≠ 𝛽ଶ
+∗ 
+ 
+|𝑡| > 𝑡ఈ ଶൗ , 𝑑𝑓 
+ 
+Right-tail 𝛽ଶ  ≤ 𝛽2
+∗ 𝛽ଶ  > 𝛽2
+∗ 
+ 
+𝑡 > 𝑡ఈ , 𝑑𝑓 
+Left-tail 𝛽ଶ  ≥ 𝛽2
+∗ 𝛽ଶ  < 𝛽2
+∗ 
+ 
+𝑡 < −𝑡ఈ , 𝑑𝑓 
+ 
+Notes: 𝛽ଶ
+∗ is the hypothesized value of 𝛽ଶ  ; |𝑡| is the absolute value of t, 𝑡ఈ ଶൗ and 𝑡ఈ are the critical 
+values of 𝛼 at  𝛼 2ൗ  level of significance; 𝑑𝑓 is the degrees of freedom. 
+4.7.1 Mean Forecasting 
+Suppose we want to predict the conditional mean of Y given Xo = 100, i.e., E( Y| 
+Xo = 100). Such a point estimate of the mean prediction is given as:  
+𝑌௢෡ = 𝛽ଵ෢ + 𝛽ଶ෢ Xo       … (4.77) 
+Since 𝑌௢෡  is the estimator, the difference between this estimator and the true value 
+indicates the predicted or the forecasted error. In this context, the variance of the 
+estimator is given by:  
+𝑣𝑎𝑟൫𝑌௢෡ ൯ =  𝜎ଶ ቂ
+ଵ
+௡ +  
+(௑ ೚ ି௑ )మ
+∑ ௫ ೔మ ቃ      ... (4.78) 
+We can compute the t-value by substituting the unknown 𝜎ଶ  with its unbiased 
+estimator 𝜎ଶ෢ . Then the statistic:  
+𝑡 = follows t–distribution with (n -2) df. Its confidence interval is given by:  
+𝑃𝑟 ቂ𝛽ଵ෢ +  𝛽ଶ෢ 𝑋𝑜 − 𝑡ఈ ଶൗ 𝑠𝑒൫𝑌௢෡ ൯ ≤ 𝛽ଵ + 𝛽ଶ 𝑋௢ ≤ 𝛽ଵ෢ + 𝛽ଶ෢ 𝑋଴ + 𝑡ఈ ଶൗ 𝑠𝑒൫𝑌௢෡ ൯] = 1 − 𝛼ቃ … (4.79) 
+4.7.2 Individual Forecasting  
+Suppose we are interested in forecasting an individual Y value, Yo, for the 
+corresponding given value of Xo. Then, the variance of the best linear unbiased 
+estimator of Y0  is given by:  
+𝑣𝑎𝑟൫𝑌௢ − 𝑌௢෡ ൯ = 𝐸 ቀ൫𝑌௢ − 𝑌௢෡ ൯
+ଶ
+ቁ  =  𝜎ଶ ቂ1 +  
+ଵ
+௡ +  
+(௑ ೚ ି௑ )మ
+∑ ௫ ೔మ ቃ  ... (4.80) 
+Substituting the unknown 𝜎ଶ  with the unbiased estimators 𝜎ଶ෢  [by using the 
+square root of (4.80) for se of 𝑌௢෡ ], the statistic in (4.73) can be computed. Note 
+that: (i) for each value of X plotted, we get a confidence band, and that, (ii) the 
+95% confidence interval of any 𝑌௢෡  is always wider than the confidence interval 
+for the mean value 𝑌௢ . In other words, the width of the confidence band is 
+smallest when 𝑋௢ =  𝑋 and it gets wider as 𝑋௢  moves away from 𝑋. This means 
+that the predictive or forecasting capacity of an 𝑋௢  decreases considerably as it 
+
+
+--- Page 22 ---
+ 
+88 
+ 
+Classical Regression 
+Model 
+departs more and more from 𝑋. We therefore need to be cautious in extrapolating 
+the regression line for the purpose of predicting E(Y| Xo).  
+Check Your Progress 3 
+1)  Look into question 2 of CYP 1 again. Compute the value of 𝑟ଶ . Also, 
+interpret the calculated value of 𝑟ଶ . 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+2)  Using the value of 𝑟ଶ  computed above, compute the test statistic for 
+testing the null hypothesis H o: β2 = 0. Take the alternative hypothesis as 
+H1: β2 ≠0. Test at 5% significance level (α = 0.05). Interpret the test 
+outcome. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+3)  While predicting the E( Y| Xo), i.e., 𝑌௢ for the given Xo representing a point 
+on the regression line, why does the predictive capacity of Xo decrease as 
+the distance of Xofrom𝑋 increases? 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+4.7  LET US SUM UP 
+In this Unit we began with the specification of two-variable regression and its 
+estimation methods. There are three methods of estimation: method of least 
+squares, method of moments, and method of maximum likelihood. We specified 
+the classical assumptions regarding the stochastic error term. The algebraic 
+properties and the statistical properties of the regression model are spelt out. The 
+explanatory power or goodness of fit of a regression model is given by the 
+coefficient of determination. Subsequently, we discussed the procedure of testing 
+a hypothesis.  Many related concepts like coefficient of determination, level of 
+significance, critical region and confidence interval are also explained in the unit. 
+ 

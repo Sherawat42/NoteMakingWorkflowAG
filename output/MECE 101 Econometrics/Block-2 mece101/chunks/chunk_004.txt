@@ -1,0 +1,375 @@
+--- Page 32 ---
+ 
+98 
+ 
+Classical Regression 
+Model 
+The time-ordered residual plot may reveal a connection between errors occurring 
+at one time point and errors at other time points. This connection between model 
+errors across various time periods is termed autocorrelation.  
+Fig.5.3(a)shows the presence of positive autocorrelation while the presence of 
+negative autocorrelation is demonstrated in Fig. 5.3(b) 
+5.4  OUTLIERS 
+In econometrics, outliers are data points that significantly differ from the majority 
+of the observations in a dataset. They can have a substantial impact on statistical 
+analyses and regression model, potentially leading to inaccurate parameter 
+estimates and misleading conclusions. Outliers can occur for various reasons, 
+such as data entry errors, measurement errors, or genuine extreme observations. 
+Let us try find out the conceptual and graphical explanation of outliers in 
+econometrics: As you know, outliers are observations that fall far away from the 
+typical pattern of data points in a dataset. In econometrics, outliers can manifest 
+in different ways: 
+(a) Positive Outliers: These are observations that have values much higher 
+than the majority of data points. Positive outliers can be caused by 
+extraordinary events or conditions, such as a sudden spike in sales due to 
+a promotion or a financial crisis leading to extreme stock price changes. 
+(b) Negative Outliers:  Negative outliers are observations with values 
+significantly lower than the typical data points. They might be due to 
+errors or unusual circumstances, such as a company reporting a loss much 
+larger than expected. 
+(c) Multivariate Outliers:  In some cases, outliers might not be apparent 
+when considering a single variable but become noticeable when you 
+examine the relationships between multiple variables. Multivariate 
+outliers can have a substantial impact on regression models. 
+In regression analysis, an outlier is defined as an observation having a notably 
+large residual (represented as 𝑢ො௜), which stands out when compared to the 
+residuals of the other observations. In a simple bivariate regression, identifying 
+such a significant residual is straightforward due to its substantial vertical 
+deviation from the estimated regression line. It is important to note that there 
+might be multiple outliers present. Alternatively, one can examine the value of 𝑢௜
+ଶ  
+to address the issue of signs (as the residuals can be either positive or 
+negative).Among the various visualization tools available, scatter plot and box 
+plot are the most preferred for outlier detection. 
+ 
+SCATTER PLOT 
+ 
+       20 
+ 
+ 
+ 
+     15 
+ 
+ 
+ 
+
+
+--- Page 33 ---
+ 
+ 99
+Models Diagnostics  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                          Fig. 5.4: A Scatter Plot showing Outlier at X=375 
+The scatter plot in Fig 5.4 reveals a basic linear relationship between X and Y for 
+most of the data, and a single outlier (at X = 375). 
+The concern with outliers lies not only in their divergence from the bulk of the 
+data but rather in their potential to exert a disproportionate influence on 
+estimation techniques such as ordinary least squares. In such instances, an outlier 
+can be categorized as an ‘influential observation’. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Fig. 5.5: Outlier Effects on Estimated Regression Line 
+One initial approach to assess the potential existence of outliers in a regression 
+analysis involves examining the ordinary least squares (OLS) residuals, using all 
+available observations. However, it is important to note that this method may not 
+always provide conclusive insights. Remember that OLS relies on minimizing the 
+sum of squared residuals as a fundamental principle, this suggests that when 
+residuals are larger in magnitude, they incur a greater penalty. 
+0                          2                                  4                                       6                   
+                                                                   (X)     
+8 
+0 
+2 
+(Y)4 
+6 
+Outlier--- 
+
+
+--- Page 34 ---
+ 
+100 
+ 
+Classical Regression 
+Model Thus, the ordinary least squares (OLS) method aims to mitigate the presence of 
+exceptionally large residuals. This is exemplified by the significant impact an 
+outlier, as depicted in the figure below, can have on the estimated regression line. 
+Consequently, it is advisable to scrutinize an observation's residual when 
+estimating model coefficients using only the remaining portion of the dataset. 
+Check Your Progress 1 
+1) Why is it important to assess the influence of individual observations on 
+the Ordinary Least Squares (OLS) estimation process, and what steps 
+can be taken to address potential issues? 
+....................................................................................................................
+....................................................................................................................
+....................................................................................................................
+.................................................................................................................... 
+2) Explain how residual plosts can help in detecting potential issues such as 
+heteroscedasticity and autocorrelation in regression models. 
+....................................................................................................................
+....................................................................................................................
+....................................................................................................................
+.................................................................................................................... 
+3) Why is it important to detect and address outliers in regression analysis? 
+How do you outliers affect the techniques such a Ordinary Least Squares 
+(OLS)? 
+....................................................................................................................
+....................................................................................................................
+....................................................................................................................
+.................................................................................................................... 
+5.5  VISUAL DETECTION OF HETEROSCEDASTICITY 
+To assess the presence of heteroscedasticity, conduct a visual examination of 
+residuals plotted against fitted values, or alternatively, plot the independent 
+variable suspected to be associated with the variance of the stochastic error 
+variable. In a large sample, an ideal scenario would reveal a consistent ‘envelope’ 
+of uniform width when plotting residuals against the independent variable. In 
+contrast, smaller samples may exhibit slightly larger residuals near the mean of 
+the distribution compared to the extremes. Therefore, if the residuals appear to 
+have a consistent size across all values of X, or in the case of a small sample, 
+exhibit slightly larger residuals near the mean of X, it is generally reasonable to 
+assume that heteroscedasticity is not a significant concern. However, if the 
+
+
+--- Page 35 ---
+ 
+ 101
+Models Diagnostics residual plot displays an uneven envelope, where the width of the envelope 
+significantly varies for different values of X, it is advisable to proceed with a 
+more formal test for heteroscedasticity. 
+In the analysis of regression results, it is crucial to verify that the residuals exhibit 
+consistent variance. When the residuals display different values of variance 
+across segments we can sense the presence of heteroscedasticity (see Fig. 5.6(a)). 
+On the contrary, when the residuals maintain a uniform variance, we refer to this 
+condition as homoscedasticity. Homoscedasticity indicates that the residuals 
+possess equal variability across all independent variables [see Fig. 5.6(b)]. 
+ 
+ 
+Fig. 5.6: Heteroscedasticity 
+In the case of a homoscedastic model, we can reasonably assume that the 
+residuals originate from a population with stable variance. This condition aligns 
+with one of the fundamental assumptions of ordinary least squares (OLS) 
+regression, contributing to a more accurate model. 
+5.6  VISUAL DETECTION OF AUTOCORRELATION 
+Autocorrelation, also known as serial correlation, occurs when the errors or 
+residuals in a time series or regression model are correlated with their past values 
+(lagged values). Detecting autocorrelation visually involves examining patterns 
+in the residuals over time: 
+(a) Autocorrelation Function (ACF) and Partial Autocorrelation Function 
+(PACF) Plots : These plots are commonly used in time series analysis. ACF 
+measures the correlation between the residuals at different lags, while PACF 
+accounts for the correlation at each lag while removing the influence of shorter 
+lags. Significant spikes or patterns in these plots can suggest autocorrelation. 
+(b) Lag Plots:  Create a scatterplot of the residuals against their lagged values 
+(residuals at previous time points in time series data). If you see points clustering 
+together or forming a pattern, it may indicate autocorrelation. 
+(c) Time Series Plots:  For time series data, simply plotting the residuals over time 
+and visually inspecting for any trends or repeating patterns can provide insights 
+
+
+--- Page 36 ---
+ 
+102 
+ 
+Classical Regression 
+Model 
+into autocorrelation. If the Time Sequence Plot displays no discernible pattern, it 
+suggests the absence of autocorrelation (as shown in Fig. 5.7(e)). However, if 
+the plot reveals a pattern, it indicates the presence of autocorrelation, as 
+illustrated in Fig. 5.7. 
+ 
+ 
+Fig. 5.7: Presence of Autocorrelation 
+Visual detection of heteroscedasticity and autocorrelation is a preliminary step in 
+model diagnostics. If you suspect the presence of these issues based on visual 
+examination, it is important to follow up with formal statistical tests to confirm 
+and quantify the extent of these problems in your data or model residuals. 
+5.7  TEST FOR NORMALITY 
+In the classical normal linear regression model (CNLRM), which is an extension 
+of the Classical Linear Regression Model (CLRM), one of the critical 
+assumptions is that the error term, represented as 𝑢௜ in the regression model, 
+follows a normal distribution. This assumption holds particular significance when 
+dealing with relatively small sample sizes, as widely used significance tests such 
+as t-test and F-test rely on the normality assumption. Therefore, it becomes 
+essential to assess whether the error term conforms to a normal distribution.  
+The easiest way to check whether the errors are normally distributed is to use the 
+P-P (Probability-Probability) plot. A P-P plot assesses how closely a theoretical 
+distribution models a given data distribution. A normal probability plot of the 
+residuals is a scatter plot with the theoretical percentiles of the normal 
+distribution on the x-axis and the sample percentiles of the residuals on the y-
+axis. The comparison line is the 45 degree diagonal line. The diagonal line which 
+passes through the lower and upper percentiles of the theoretical distribution 
+provides a visual aid to help assess whether the relationship between the 
+theoretical and sample percentiles is linear. The distributions are equal if and 
+
+
+--- Page 37 ---
+ 
+ 103
+Models Diagnostics only if the plot falls on this line. Any deviation from this line indicates a 
+difference between the two distributions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Fig. 5.8: Assessing Normality Using Probability Plot 
+Fig. 5.8(a) is an example of the P-P plot where the error distribution is not normal 
+while Fig. 5.8(b) is the P-P plot where the error distribution is  approximately  
+normal. 
+Various formal tests of normality are available, with the Jarque–Bera (JB) test 
+being one of the most commonly employed. However, it is important to note that 
+the JB test is designed for large samples and may not be suitable for smaller 
+sample sizes.  
+0.0 
+0.5 
+1.0 
+1.5 
+2.0 
+Sample  Quantiles 
+Quantiles 
+   -1.5       -1.0       -0.5         0.0             0.5         1.0        1.5 
+                                  
+                                   Theoretical Quintiles 
+             -2                   -1                        0                      1                         2                                                  
+              Theoretical Quintiles 
+ 
+-1.0 
+-0.5 
+0.0 
+0.5 
+1.0 
+Sample  Quantiles 
+
+
+--- Page 38 ---
+ 
+104 
+ 
+Classical Regression 
+Model 
+The test statistic JB is calculated using the sample skewness and kurtosis. The 
+formula for the Jarque-Bera test statistic is as follows: 
+𝐽𝐵 =
+௡
+଺ (
+ௌ మ
+଺ +
+(௄ିଷ )మ
+ଶସ )       … (5.2) 
+where: 
+n is the sample size. 
+S is the sample skewness. 
+K is the sample kurtosis. 
+In equation (5.2), if the data follows a normal distribution, JB should be 
+approximately equal to zero. Departures from zero indicate a departure from 
+normality. JB follows a chi-squared distribution with two degrees of freedom (df 
+= 2) under the null hypothesis of normality. Therefore, you can compare the 
+calculated JB statistic to the chi-squared distribution to determine whether the 
+data significantly deviates from normality. 
+Typically, if JB statistic exceeds a critical value from the chi-squared distribution 
+at a specified significance level (e.g., 0.05 or 0.01), it suggests that the data 
+significantly departs from a normal distribution, indicating non-normality. 
+5.8 CERTAIN SPECIAL CASES 
+In this section we discuss certain issues on regression models, as you can see 
+from the sub-section headings.  
+5.8.1 Regression through the Origin 
+While the majority of regression models typically incorporate a constant or 
+intercept term, occasionally, economic theory or logical reasoning may imply that 
+the intercept term (b0) should equal zero. In such cases, it is worth discussing 
+Ordinary Least Squares (OLS) estimation when the intercept is constrained to be 
+zero. In practical terms, this means that you are modelling the relationship 
+between variables without allowing for a constant offset in the form of an 
+intercept. For instance, the intercept-free linear model  
+𝑌௜ = 𝛽𝑋௜ + 𝑢௜        … (5.3) 
+is equivalent to the model 
+𝑌௜ = 𝛼 + 𝛽𝑋௜ + 𝑢௜  
+when the intercept ‘𝛼’ is taken to be zero. 
+An important characteristic of the zero-intercept model is that it employs raw 
+sums of squares and cross-product terms. In this context, "raw" means that these 
+terms are not adjusted by subtracting the mean values of the variables. This 
+stands in stark contrast to the OLS regression model with an intercept, where the 
+sums of squares and cross-product terms are mean-adjusted, meaning they are 
+represented as deviations from the mean values of the variables. 
+
+
+--- Page 39 ---
+ 
+ 105
+Models Diagnostics Unless strong theoretical justifications exist, it is generally not advisable to omit 
+the intercept term in a regression model, for several compelling reasons. Firstly, 
+in a regression model with an intercept term, the sum of residuals always equals 
+zero, whereas this is not guaranteed in a zero-intercept regression model. 
+Secondly, the R-squared values for models with and without intercepts are not 
+directly comparable. In the model with an intercept, R-squared represents the 
+proportion of variation explained by the regression relative to the total variation 
+around the mean of Y. In contrast, for the no-intercept model, R-squared signifies 
+the proportion of variation explained relative to the variation around the origin 
+(i.e., zero). 
+5.8.2 Change in Origin and Scale of the Variables 
+Typically, it is straightforward to discern how the intercept and slope estimates 
+change when the units of measurement for the dependent variable are altered. If 
+the dependent variable undergoes multiplication by a constant ‘c’ – meaning each 
+sample value is multiplied by ‘c’ – then the OLS intercept and slope estimates 
+likewise multiply by ‘c’. This assumption holds when no alterations occur with 
+the independent variable. In general, altering the units of measurement for only 
+the independent variable does not have any bearing on the intercept. As discussed 
+in the previous section, we defined R-squared as a goodness-of-fit metric for 
+OLS regression. Also note that the model’s goodness-of-fit remains unaffected 
+regardless of changes in variable units. 
+Regression coefficients are independent of change of origin but not of scale. By 
+origin, we mean that there will be no effect on the regression coefficients if any 
+constant is subtracted from the value of X and Y. By scale, we mean that if the 
+value of X and Y is either multiplied or divided by some constant, then the 
+regression coefficients will also change. 
+The sensitivity of regression results to the unit of measurement varies; certain 
+outcomes are affected, while others remain unaffected. Certain important points 
+to note include- First, R-squared value remains constant across these regressions 
+as R-squared is a dimensionless measure, independent of the units in which both 
+the dependent variable (Y) and the independent variable (X) are gauged. Second, 
+the intercept term consistently aligns with the units of measurement of the 
+dependent variable. It is crucial to recall that the intercept signifies the dependent 
+variable’s value when the independent variable is zero. Third, when both Y and 
+X are measured using identical units, the slope coefficients, along with their 
+standard errors, stay consistent. However, there are variations in the intercept 
+values and their corresponding standard errors. Fourth, in instances where the Y 
+and X variables are expressed in distinct units, the slope coefficients exhibit 
+dissimilarity, yet the interpretation remains unaltered. 
+Therefore, the units of measurement for the dependent variable (Y) and the 
+explanatory variables (the X’s) influence the interpretation of the regression 
+coefficients. To circumvent this issue, we can represent all variables in a 
+standardized form, where standardization is achieved by subtracting the mean 
+value of each variable from its individual values and then dividing the difference 

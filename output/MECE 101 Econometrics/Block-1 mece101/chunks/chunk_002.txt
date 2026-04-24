@@ -1,0 +1,499 @@
+--- Page 9 ---
+ 
+ 
+ 
+8 
+Classical Regression 
+Model 
+ explain the concept of data generation process; and 
+ transform intrinsically linear models and interpret them. 
+1.1 INTRODUCTION 
+Econometrics is a specialised branch of economics which is concerned mostly 
+with empirical verification of economic theory. Let us see how econometrics is 
+different from other branches of economics such as mathematical economics or 
+economic statistics. Mathematical economics usually presents economic theory in 
+mathematical form. It does not bother about empirical measurement of economic 
+theory. Econometrics on the other hand is mainly concerned with empirical 
+verification of economic theory. In doing so, econometrics makes use of the 
+mathematical equations suggested in mathematical economics. Economic 
+statistics deals with collection, processing and presentation of data. Statistics 
+provides many theories on the basis of which inferences can be drawn. For 
+example, the probability rules and sampling distribution are quite important in 
+hypothesis testing. The application of these rules to economic theory through 
+empirical research is a part of econometrics. 
+In recent years theoretical developments in econometrics have been quite rapid. 
+In fact, it is somewhat difficult to keep track of all these developments. The 
+present unit serves as a foundation for the course. It begins with certain basic 
+concepts and describes how econometric methods are applied to real life 
+situations.  
+1.2 NATURE OF ECONOMETRICS 
+Econometrics is a branch of economics which deals with economic measurement. 
+It may be defined as ‘the quantitative analysis of actual economic phenomena 
+based on the concurrent development of theory and observation, related by 
+appropriate methods of inference’ [Samuelson, Koopmans and Stone, 1954]. We 
+should notice three issues being emphasized in the above statement. First, 
+econometrics deals with quantitative analysis of economic relationships. Second, 
+it is based on economic theory and logic. Third, it requires appropriate methods 
+to draw inferences.  
+1.2.1 Theoretical Econometrics and Applied Econometrics 
+Econometrics has both theoretical side as well as applied side. Development of 
+theoretical econometrics has been on two lines: (i) estimation methods, and (ii) 
+test statistics. There are three broad estimation methods: (i) least squares method, 
+(ii) maximum likelihood method, and (iii) method of moments. Under each of 
+these methods, we have several estimation techniques. The least squares method 
+was officially discovered and published by Legendre in 1805 and Carl Friedrich 
+Gauss (1809) made substantial contribution to theoretical advancement of the 
+least squares method. Under least squares method we have many estimation 
+methods such as ordinary least squares, weighted least squares, generalised least 
+
+
+--- Page 10 ---
+ 
+ 
+ 
+9 
+Introduction to 
+Econometrics 
+squares, indirect least squares, non-linear least squares, etc. We will discuss some 
+of these methods in later Units of this course.  
+In applied econometrics, we apply these theoretical methods and test statistics to 
+data obtained from various branches of econometrics (such as industrial 
+organisation, labour economics, financial economics, etc.). Very often, the 
+distinction between theoretical econometrics and applied econometrics is blurred 
+– there are several studies which have developed new econometric tools and 
+applied it to empirical data.  
+Through logic and experience economists have attempted to establish 
+relationship between several variables. Movements in certain economic variables 
+are explained in terms of changes in some other variables. For example, the law 
+of demand states that as price increases the quantity demanded of a commodity 
+decreases. As price of oilseeds increase farmers allocate larger land area for 
+cultivation of oilseeds. You will find numerous examples of such relationships. 
+Some of these are apparent while others are quite complex. As we do not know 
+what exactly is happening we often make conjectures based on logic and our 
+understanding of things.  
+Due to differences in perception, often different researchers explain the same 
+phenomenon differently. For example, historical data on macroeconomic 
+variables of a country over a period of time are the same. Inferences drawn by 
+researchers on the basis of the same data could be different! While a researcher 
+with classical ideas may come up with the view that government intervention is 
+ineffective, another researcher with Keynesian ideas may suggest the need for 
+government intervention. Thus, the variables included in a model, the nature of 
+relationship among variables, the assumptions made, etc. are quite important.  
+Some of the economic relationships have been proved through empirical studies 
+and validated under several situations. Some more are put forth as hypothesis and 
+unequivocal conclusions are yet to be drawn. In both the cases, however, logic 
+needs to be supported by empirical observation. An advantage with the subject 
+matter of economics, unlike many other disciplines in social sciences, is that 
+many of the economic variables can be quantified. This has helped in empirical 
+measurement of economic variables and validation of economic theory.  
+In applied econometrics we deal with empirical studies based on a sample. As 
+you know, it is not possible to carry out a census due to constraints on budget, 
+time and personnel requirements. We consider a single sample and estimate the 
+econometric model (for example, a regression equation). Thus, the population 
+regression function and sample regression function are different. From the 
+estimates obtained from a sample we try to draw inferences about the population. 
+Thus, statistical significance of the estimates is very important in econometric 
+models.  
+1.2.2 Econometric Models 
+In economics we often use the term ‘model’. It refers to a simplified version of 
+reality. It allows us to understand, analyse and predict economic behavior. An 
+
+
+--- Page 11 ---
+ 
+ 
+ 
+10 
+Classical Regression 
+Model 
+economic model can be for a microeconomic agent such as household or firm. 
+For analysis of production behavior of a firm we assume the existence of 
+production function such as Cobb-Douglas or translog, which determines our 
+supply curve. We assume the structure of the market (perfect competition or 
+oligopoly, for example), which decides the demand curve. By combining the 
+supply curve and the demand curve, we obtain estimates of equilibrium price, 
+output, capacity utilization, etc.  
+In macroeconomics, economic models represent the behavior of the economy as 
+a whole. Here, we identify relevant macroeconomic variables (such as income, 
+output, expenditure, investment, saving, exports, etc.) and establish a relationship 
+among them. The relationships among these variables may be expressed through 
+diagrams or mathematical equations. There could be macroeconomic models 
+without mathematical expressions, but these may not be precise.  
+An economic model is based on certain assumptions. These assumptions are 
+required so that minute details are ignored and essential elements are included. 
+Let me illustrate the point through an example. In the case of a firm, it is assumed 
+that there are two factors of production, viz., capital and labour. We combine all 
+types of labour into a homogeneous category – we do not distinguish between a 
+manager and a worker in the field! Similarly, while describing an indifference 
+curve we overlook the type of households – the behavior of a rich household 
+would be different from that of a poor household; or the behavior of a household 
+in a rural area would be different from that of a household in an urban area. We 
+ignore such details because our objective is to analyse the behavior of households 
+to changes in prices and income. If our objective is to identify the changes in 
+consumption pattern across households, we would require a different model and 
+consider such differences. 
+In the Keynesian model, to take an example from macroeconomics, we consider 
+aggregate variables such as total consumption, total investment, government 
+expenditure, and net exports. We determine equilibrium level of output for the 
+economy as whole. We ignore the behavior of households and firms. Several 
+growth models (such as Harrod-Domar model or Solow model) assume that the 
+economy consists of just one sector – there is an aggregate production function, 
+which gives the relationship between aggregate output (that is, total output) with 
+aggregate inputs (that is, total capital and total labour). It may sound unrealistic, 
+but the objective of these growth models is to analyse the equilibrium conditions 
+for economic growth, saving ratio and population growth. These models ignore 
+the details, but the broad conclusions drawn are helpful in policy formulation. A 
+question such as, ‘why growth rate differs across countries?’ can be addressed 
+through these growth models. 
+1.2.3 Important Steps in an Econometric Study 
+Every econometric study is different in the sense that its objective, methodology, 
+and database are different. The variables included in a study and the methods of 
+estimation of parameters vary across studies. There are, however, certain 
+
+
+--- Page 12 ---
+ 
+ 
+ 
+11 
+Introduction to 
+Econometrics 
+procedures and sequence which all econometric studies follow. Let us discuss the 
+important steps involved in empirical studies applying econometric methods.  
+a) The first and foremost issue in econometrics is the statement of 
+hypothesis. Hypothesis is an assertion or claim made about a property or 
+characteristic of a population. Thus, hypothesis is a tentative statement 
+about the research questions of the study. It could be in the form of a 
+simple statement or it could be in the form of relationship among 
+variables. Hypothesis is drawn from economic theory or some logic built 
+by the researcher.  
+b) The second step is transformation of the above hypothesis into 
+mathematical equation(s). This is our economic model that we want to 
+study. Hypothesis is stated in the form of ‘null hypothesis’ and 
+‘alternative hypothesis’. Null hypothesis, as you know, present a 
+statement to the effect that there is no relationship between variables. 
+c) The third step is the collection of relevant data required for the study. 
+Data could be from primary or secondary sources. Usually, data are 
+entered into a worksheet (such as an excel sheet). Data pertains to the 
+variables included in the model. 
+d) Estimation of parameters of the economic model. This requires selection 
+of appropriate method of estimation. Broadly, there are three methods of 
+estimation: (i) least squares method, (ii) maximum likelihood method, and 
+(iii) method of moments. We will discuss about these methods in 
+subsequent Units. Based on the probability structure of the data available 
+to us, we select the appropriate estimation method. 
+e) Testing of the hypothesis mentioned in the first step above. Such testing is 
+based on the value of test statistic (such as t-ratio) or the p-ratio. 
+Basically, it amounts to statistical significance of the estimates obtained 
+by us. 
+f) Interpretation of the economic model. On the basis of inferences drawn 
+through hypothesis testing, we interpret our results.  
+Check Your Progress 1 
+1)  What is an econometric model?  
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+2)  Distinguish between theoretical econometrics and applied econometrics. 
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+
+
+--- Page 13 ---
+ 
+ 
+ 
+12 
+Classical Regression 
+Model 
+3) Write down the important steps to be followed in an econometric study. 
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+...........................................................................................................................
+........................................................................................................................... 
+1.3 SPECIFICATION OF A REGRESSION MODEL 
+In economic theory we attempt to establish relationship among variables. Such 
+relationship could be of two types: deterministic and stochastic. Let us focus on 
+the case of two variables: Y and X. As you know from your statistics course, the 
+variables in a regression model are asymmetrical – one variable is dependent ( Y) 
+while the other is independent (X).  
+1.3.1 Deterministic Relationship 
+The simplest relationship between two variables, Y and X, could perhaps be a 
+linear deterministic function given by 
+𝑌௜ = 𝛽଴ + 𝛽ଵ 𝑋௜  ( 𝑖 = 1,2 … … …𝑛)   … (1.1) 
+In the above equation, X is the explanatory variable (or, independent variable) 
+while Y is the explained variable (or, dependent variable). You should note that 
+the subscript i represents the observation number, i ranges from 1 to n, the 
+sample size. Thus, 1Y  is the first observation of the dependent variable, 1X  is the 
+first observation of the independent variable, 5X  is the fifth observation of the 
+independent variable, and so on. 
+Equation (1.1) implies that Y is completely determined by X and the parameters  
+𝛼and 𝛽.Suppose we have parameter values 𝛽଴ = 3 and 𝛽ଵ = 0.75, then our linear 
+equation is𝑌௜ = 3 + 0.75 𝑋௜.From this equation we can find out the value of Y for 
+given values of X. For example, when X = 8, we find that Y = 9. Thus, if we have 
+different values of X, then we obtain corresponding Y values on the basis of 
+(1.1).Further, if iX  is the same for two observations, then the value of iY  will 
+also be identical for both the observations. A plot of Y on X will show no 
+deviation from the straight line with intercept 𝛽଴  and slope 𝛽ଵ. 
+If we look into the deterministic model given by (1.1) we find that it may not be 
+appropriate for describing economic interrelationship between variables. For 
+example, let Y = consumption and X = income of households. Suppose you 
+record your income and consumption for successive months. For the months 
+when your income is the same, does your consumption remain the same? 
+Certainly not, because there are many other factors that decide your monthly 
+consumption expenditure. The point we are trying to make is that economic 
+relationships involve certain randomness. We cannot include all the determinants 
+of monthly consumption expenditure in a regression model. For the same 𝑋௜, we 
+observe different 𝑌௜ values. 
+
+
+--- Page 14 ---
+ 
+ 
+ 
+13 
+Introduction to 
+Econometrics 
+1.3.2 Stochastic Relationship 
+The word ‘stochastic’ means ‘random’ or ‘involving certain probability’. 
+Accordingly, stochastic relationship between X and Y involves certain 
+randomness. In equation form it is given by  
+𝑌௜ = 𝛽଴ + 𝛽ଵ 𝑋௜ + 𝑢௜      …(1.2) 
+where𝑢௜is the stochastic error term. In equation (1.2) for the same value of X we 
+obtain different values of Y due to the presence of the variable u.  In the income 
+consumption relationship, two individuals having the same income can have 
+different expenditure. Stochastic relationship describes real life situation more 
+accurately. Two employees having the same monthly salary in an office can have 
+different monthly expenditure levels. One employee may have a bigger family to 
+support, may have an ailing mother, or an altogether different lifestyle!  
+Remember that the right-hand side of (1.2) has two parts, viz., i) deterministic 
+part (that is, 𝛽଴ + 𝛽ଵ 𝑋௜), and ii) stochastic or randomness part (that is, 𝑢௜ ). 
+Equation (1.2) implies that even if 𝑋௜ remains the same for two observations, 
+𝑌௜need not be the same because of different value of 𝑢௜. An implication of (1.2) is 
+that if we plot ( X,Y) on a graph paper the observations will not remain on a 
+straight line.  
+It is assumed that the stochastic error term follows certain assumptions: 
+(i) 𝐸(𝑢௜) = 0      … (1.3) 
+While the error is positive for some observations, it is negative for the 
+others. It implies that on an average, the error is zero. In other words, 
+the sum of errors across the population is zero.  
+(ii) 𝐸(𝑢௜
+ଶ ) = 𝜎ଶ      … (1.4) 
+The variance of the error variable is 𝜎ଶ . It is constant across the 
+population. For example, the variance of household consumption 
+expenditure is the same for rich households as well as poor 
+households.  
+(iii) 𝐸൫𝑢௜𝑢௝൯ = 0 for 𝑖 ≠ 𝑗    … (1.5) 
+There is no correlation between the error terms for different 
+observations in a dataset.  
+(iv) 𝐸(𝑋௜𝑢௜) = 0     … (1.6) 
+The explanatory variable is not correlated with the error term. This 
+assumption is required for fulfilment of the properties of the 
+estimators ( 𝛽መ଴ , 𝛽መଵ ) on unbiasedness and consistency. You will learn 
+more about the relevance of this assumption in Unit 4. 
+(v) 𝑢௜~𝑁(0, 𝜎ଶ )     … (1.7) 
+The error variable 𝑢௜follows normal distribution with zero mean and 
+𝜎 standard deviation. For a given value of 𝑋, there is a whole range of 
+values of 𝑢 and a particular value is selected randomly.  
+
+
+--- Page 15 ---
+ 
+ 
+ 
+14 
+Classical Regression 
+Model 
+The above assumptions are called the classical assumptions. These assumptions 
+indicate the ideal conditions regarding the error variable. In empirical studies, 
+some of the above assumption may not be fulfilled. We will discuss the 
+implications of these assumptions in Unit 4. 
+1.3.3 Inclusion of Error Variable 
+In the previous sub-section we discussed about the statistical properties of the 
+error variable ( 𝑢௜). Now, let us find out the logic behind inclusion of the error 
+variable in the regression model. There are at least three reasons for inclusion of 
+the stochastic error term in a regression model.  
+First, in real life the relationship among variables is complex. Regression model 
+is a simplification of such relationships. It is not always possible to include all 
+relevant variables in the functional relation. For example, we assume that price is 
+the sole determinant of demand for a product. In fact, several variables related to 
+demand, such as individual tastes, population, income, etc. do influence the price 
+of a product, which are omitted from the function. Some of these variables have 
+positive effects while others have negative effects. The net effect of these omitted 
+variables in the equation is represented by the error term. If the effect of these 
+omitted variables is small, it is reasonable to assume that the error term is 
+random. 
+Second, we do not know the exact functional form. Suppose we hypothesize a 
+linear relationship among the variables, while it is a quadratic one. There is no 
+means of knowing what the true relationship is. We just take one functional form 
+on basis of our logic and reasoning. Certain error creeps into the model, because 
+of the wrong specification of the functional form. Presence of an error term 
+absorbs all such misspecification issues.  
+Third, another source of error is the sampling error. For instance, consider 
+equation (1.2) as a household-consumption function, where Y is consumption and 
+X is income. Even if equation (1.2) is a correct relationship, the sample we 
+randomly choose to examine may turn out to be predominantly poor families. 
+Thus, estimates of 𝛽଴  and 𝛽ଵ from this sample group may not be as good as the 
+estimates obtained from a representative sample. 
+1.4 DATA GENERATION PROCESS 
+By now you must be clear that econometric studies require specification of the 
+model in quantitative terms, involving variables and parameters. In this context, 
+selection of relevant variables and specification of the functional form are quite 
+important.  
+Let us examine the consumption-income model to illustrate the above point. We 
+observed that monthly consumption expenditure of two households having the 
+same monthly income (say, Rs. 50000) are different – while one household 
+consumes Rs. 35000, the other household consumes Rs. 48000.After considering 
+its income level and other determinants of household expenditure, a household 
+decides on its consumption level. What are these other determinants of household 
+
+
+--- Page 16 ---
+ 
+ 
+ 
+15 
+Introduction to 
+Econometrics 
+expenditure? These could be family size, health status, culture, tastes, etc. all 
+these determinants collectively determine the consumption expenditure of a 
+household. Do we know all the relevant variables? Is it possible to include all 
+these variables in our regression equation?  
+While specifying a consumption function, it is not possible to include all the 
+determinations of consumption expenditure. Further, as pointed out in Sub-
+Section 1.2.2, an econometric model is a simplification of reality. Thus, in an 
+econometric model we include the important variables only.  
+From our sample survey (or, from the secondary data sources) we obtain data. A 
+major issue before us is our ignorance of the data generation process (DGP). 
+Such data can be seen as a joint probability distribution with certain probability 
+distribution. As mentioned above, we do not know all the factors that influence 
+the consumption decision of a household. We make some guesswork, based on 
+our experience and logic. Accordingly, we assume a probability structure for the 
+data.  
+Data generation process (DGP) reflects the reality that is taking place. As DGP is 
+not known to us, we try to uncover the secrets through our econometric models. 
+There are two approaches to econometric modelling: (i) general-to-specific, and 
+(ii) specific-to-general. In the first approach we consider a general model by 
+including many variables. Subsequently, we exclude the irrelevant variables. In 
+the second approach, we begin with a simple model and keep on adding variables 
+based on our logic. Although, there is no consensus on the approach to be 
+followed, researchers prefer the general to specific approach.  
+There are four steps in the process of building an econometric model: (i) we 
+guess the data generation process, (ii) we assume the associated probability 
+theory, (iii) we use that theory for empirical evidence, and (iv) we revise the 
+model if the results do not match our data. We continue with the above four steps 
+in an iterative manner till we get satisfactory results. 
+We make several trial and error on the functional form. If the data fails to fit our 
+model, it implies we do not understand the data generation process. We try with 
+another model. If the data fits our model, we still do not understand the data 
+generation process! It just implies that our model was good in this case.  
+You should recall how a hypothesis is formulated. It is a statement based on 
+theory or logic. If we could reject a null hypothesis, we confirm that the dataset 
+does not hold true (recall Karl Popper’s theory of falsification discussed in MEC 
+109).  
+1.5 FUNCTIONAL FORMS  
+Usually, we consider a linear regression equation in our econometric model, as it 
+is easier to estimate and interpret such models. Linear regression models are 
+linear in parameters and linear in variables. Linear regression models, however, 
+may not be appropriate in all cases; there could be situations where the regression 
+model is non-linear.  
+
+
+--- Page 17 ---
+ 
+ 
+ 
+16 
+Classical Regression 
+Model 
+1.5.1 Classical Regression Model 
+The two-variable linear regression model is the simplest functional form that we 
+consider. It is given by  
+𝑌௜ = 𝛽଴ + 𝛽ଵ 𝑋௜ + 𝑢௜       …(1.2) 
+where  Y is the explained variable (also called dependent variable) 
+ X is the explanatory variable (also called independent variable) 
+ u is the error variable (also called white noise in time series analysis) 
+When we include more than one explanatory variable in the regression model, we 
+call it the multiple regression model. In notations, a multiple regression model is 
+given by 
+𝑌 = 𝛽଴ + 𝛽ଵ 𝑋ଵ + 𝛽ଶ 𝑋ଶ + ⋯ + 𝛽௞ 𝑋௞ + 𝑢    … (1.8) 
+In equation (1.8) there is one explained variable ( Y) and k explanatory variables 
+(𝑋ଵ , 𝑋ଶ … , 𝑋௞ ). We have omitted the sub-scripts for simplicity.  
+When the error variable u fulfils all the classical assumptions specified at 
+equations (1.3) to (1.7), we call the regression model a ‘classical regression 
+model’. Ordinary Least Squares (OLS) method is frequently used to estimate 
+parameters of the classical regression models.  
+1.5.2 Intrinsically Linear Cases 
+Certain non-linear equations can be transformed into linear equations by taking 
+logarithms. Two intrinsically linear models are used frequently: (i) semi-log 
+model, and (ii) log-linear models. 
+(a) Semi-Log Models 
+Let us begin with a functional form as follows: 
+𝑌௧ = 𝑒ఉ బ ାఉ భ ௑ ೟ା௨ ೟       … (1.9) 
+This regression model, in its present form, is non-linear. Therefore, it cannot be 
+estimated by OLS method. However, if we take natural logs of both the sides, we 
+obtain 
+ln𝑌௧ = 𝛽଴ + 𝛽ଵ 𝑡 + 𝑢௧       … (1.10) 
+It transforms into a semi-log equation. It is called a semi-log model as one of the 
+variables is in log form.  
+If we take ln𝑌௧ = 𝑌௧
+ᇱ, then equation (1.10) can be written as 
+𝑌௧
+ᇱ = 𝛽ଵ + 𝛽ଶ 𝑡 + 𝑢௧       … (1.11) 
+Estimation of equation (1.11) is simple. The equation is linear in parameters and 
+in variables. Thus, we can apply OLS method to estimate the parameters. The 
+implication of the regression model (1.11), however, is much different from the 
+regression model (1.2). 
+
+
+--- Page 18 ---
+ 
+ 
+ 
+17 
+Introduction to 
+Econometrics 
+If we take the differentiation of the regression model 𝑌௧ = 𝛽଴ + 𝛽ଵ 𝑋௧ + 𝑢௧, we 
+obtain  
+ௗ௒
+ௗ௧ = 𝛽ଵ         … (1.12) 
+Equation (1.12) shows that the slope of the regression equation is constant. An 
+implication of the above is that the absolute change in the dependent variable for 
+unit increase in the independent variable is constant throughout the sample. If 
+there is an increase in X by one unit, Y increases by 𝛽ଵ unit. 
+Now, let us consider the regression model ln𝑌௧ = 𝛽଴ + 𝛽ଵ 𝑡 + 𝑢௧ . If we take 
+differentiation of equation (1.11) we find that  
+ௗ୪୬௒ ೟
+ௗ௧ = 𝛽ଵ   
+which means  
+ଵ
+௒೟
+ௗ௒ ೟
+ௗ௧ = 𝛽ଵ         … (1.13) 
+An implication of equation (1.13) is that the slope of the regression model is 
+variable. Thus, its interpretation is different from that of the regression model 
+𝑌௧ = 𝛽଴ + 𝛽ଵ 𝑋௧ + 𝑢௧. 
+For equation (1.13), we interpret the slope coefficient ( 𝛽ଵ) as follows: For every 
+unit increase in X, there is 𝛽ଵ per cent increase Y. Thus, for a semi-log model the 
+change in the dependent variable in terms of percentages. The semi-log model is 
+useful is estimating growth rates. 
+(b) Log-Linear Models 
+Let us consider the following non-linear regression model 
+𝑌 = 𝛽଴ 𝑋ఉ భ         … (1.14) 
+This model will be intrinsically linear if it can be transformed into  
+𝑌ᇱ = 𝛽଴ + 𝛽ଵ 𝑋ᇱ + 𝑢       … (1.15) 
+Using the logarithm of each of the variable in equation (1.13), we get the 
+following transformed equation:  
+ln𝑌௜ = 𝛽଴ + 𝛽ଵ ln𝑋௜ + 𝑢௜      ... (1.16) 
+The regression model given at (1.16) is called a log-linear model (because it is 
+linear in logs of the variables) or double-log model (because both variables are in 
+log form). 
+Let us take differentiation of equation (1.16) with respect to ln𝑋௜  
+ௗ (୪୬௒ ೔)
+ௗ (୪୬௑ ೔)
+= 𝛽ଵ        ... (1.17) 
+A closer look at equation (1.17) shows that the slope parameter of (1.14) 
+represents the elasticity between Y and X. This attractive feature of the log-linear 
+model has made it popular in applied work. The slope coefficient 𝛽ଵ  measures the 
+elasticity of Y with respect to X , that is, the percentage change in Y  for one per 

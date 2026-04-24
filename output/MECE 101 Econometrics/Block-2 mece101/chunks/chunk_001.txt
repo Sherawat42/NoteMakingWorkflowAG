@@ -1,0 +1,576 @@
+--- Page 1 ---
+UNIT 4  ESTIMATION OF TWO-VARIABLE 
+REGRESSION MODELS 
+St
+ructure 
+4.0 Objectives 
+4.1 Introduction 
+4.2 Estimation of Bivariate Models 
+4.2.1 Classical Assumptions 
+4.2.2 Ordinary Least Squares (OLS) Method 
+4.2.3 Method of Moments 
+4.2.4 Maximum Likelihood Method 
+4.2.5 Interpretation of OLS Estimators 
+4.3 Standard Error of the Estimators 
+4.3.1 Standard Error of the OLS Estimators 
+4.3.2 Estimator of Error Variance 
+4.4 Properties of the OLS Estimators 
+4.4.1 Algebraic properties 
+4.4.2 Statistical Properties 
+4.5  Goodness of Fit 
+4.6 Testing of Hypothesis 
+4.7 Forecasting 
+4.7.1 Mean Forecasting 
+4.7.2 Individual Forecasting 
+4.8 Let Us Sum Up 
+4.9 Key Words 
+4.10 Some Useful Books 
+4.11 Answers/Hints to Check Your Progress Exercises 
+4.0 OBJECTIVES 
+After reading this unit, you will be able to: 
+ specify the general form of a bivariate regression model;
+ outline the principle behind the OLS method of estimation;
+ enumerate the assumptions of OLS method;
+ explain the OLS estimation method;
+ list the properties of OLS estimators with theoretical details;
+ illustrate the interpretation of OLS estimates;
+ state the expressions for the standard error of OLS method;
+ comment on the characteristics of OLS estimators;
+Dr. Samraj Sahay, Department of Finance and Business Economics, University of Delhi 
+
+
+--- Page 2 ---
+ 
+68 
+ 
+Classical Regression 
+Model 
+ prove that the OLS estimators are the best linear unbiased estimators 
+(Gauss Markov theorem); 
+ outline the significance of the coefficient of determination (r2); and 
+ describe the procedureoftesting hypothesis with an illustration. 
+4.1 INTRODUCTION  
+You may be aware that sample survey has many advantages (lower cost, lesser 
+time, limited resources) over a population census. Therefore, we study a sample 
+instead of the universe. We find out the sample characteristics andgeneralise the 
+sample results to the population. This process is called estimation of parameters. 
+Thus, estimation is the process of recovering the unknown parameters that were 
+used to generate the sample data. You should have a thorough knowledge of 
+inferential statistics, particularly estimation and hypothesis testing given in Unit 
+30 and Unit 31 of the course MEC 203: Quantitative Methods. 
+The relationship between variables in a population is given by the population 
+regression function (PRF). The same relationship in a sample is given by the 
+sample regression function (SRF). In simple linear regression, we estimate the 
+population regression function (PRF) from the sample regression function (SRF). 
+There are three methods of estimation: (i) least squares method, (ii) maximum 
+likelihood method, and (iii) method of moments.  
+4.2 ESTIMATION OF BIVARIATE MODELS 
+A simple bivariate linear regression model is of the form:  
+𝑌௜ = 𝛽ଵ + 𝛽ଶ 𝑋௜ + 𝑢௜       ... (4.1) 
+Here, 𝑌௜is the dependent variable, 𝑋௜is the independent variable and 𝑢௜is the error 
+term representing all factors other than 𝑋௜affecting 𝑌௜. Here, .𝛽ଵand 𝛽ଶare the 
+intercept and slope parameters respectively. For instance, 𝑌௜may be the annual 
+savings of the family and 𝑋௜ their annual income. Let us say that the data is 
+collected for 20 households (i.e., n = 20) and is used for estimation of the 
+intercept and the slope coefficient of savings on income. Suppose we get the 
+result as: Savings = 34560 + 0.58 Income. This tells us that each increase of Rs. 
+1000 in the annual income will increase the annual savings by Rs. 580.  
+Equation (4.1) represents the PRF which is not directly observable. We therefore 
+estimate it from the SRF. 
+The estimated regression line is 
+𝑌ప෡ = 𝛽መଵ  + 𝛽መଶ 𝑋௜        … (4.2) 
+In equation (4.2), note that 𝑌ప෡  is the expected value of the dependent variable 
+when the independent variable takes the value 𝑋௜. 
+By comparing (4.1) and (4.2), we find that  
+𝑌௜ = 𝛽መଵ  + 𝛽መଶ 𝑋௜ + 𝑢ො௜= 𝑌ప෡ + 𝑢పෝ  
+
+
+--- Page 3 ---
+ 
+ 69
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+∴ 𝑢పෝ = 𝑌௜ − 𝑌ప෡        ... (4.3)  
+Remember that 𝑢పෝ  is the residual between the actual and the estimated value of Y. 
+The value of the error term for a particular combination ( 𝑌௜, 𝑋௜) is not known to 
+us. We get an estimate of the error value, that is called the ‘residual’. Thus, there 
+is a difference between the error term (𝑢௜) and the residual (𝑢పෝ ).  
+4.2.1 Classical Assumptions 
+For carrying out the estimation of the parameters, we make the following four 
+assumptions about the stochastic error term. 
+(i) 𝐸(𝑢௜) = 0       … (4.4) 
+While the error is positive for some observations, it is negative for 
+other observations. It implies that on average, the error is zero. In 
+other words, the sum of errors across the population is zero.  
+ 
+(ii) 𝐸(𝑢௜
+ଶ ) = 𝜎ଶ       … (4.5) 
+The variance of the error variable is 𝜎ଶ . It is constant across the 
+population. For example, the variance of household consumption 
+expenditure is the same for rich households as well as poor 
+households.  
+ 
+(iii) 𝐸൫𝑢௜𝑢௝൯ = 0 for 𝑖 ≠ 𝑗     … (4.6) 
+There is no correlation between the error terms for different 
+observations in a dataset. In other words, the error terms of two 
+observations are independent.  
+ 
+(iv) 𝐸(𝑋௜𝑢௜) = 0      … (4.7) 
+The explanatory variable is not correlated with the error term. This 
+assumption is required for fulfilment of the properties of the 
+estimators (𝛽መ଴ , 𝛽መଵ ) on unbiasedness and consistency. In order to fulfil 
+this condition, we assume that the explanatory variable (regressor) is 
+exogenously given. We often keep the values of 𝑋௜ fixed in repeated 
+samples.  
+ 
+(v) 𝑢௜~𝑁(0, 𝜎ଶ )      … (4.8) 
+The error variable 𝑢௜follows normal distribution with zero mean and 𝜎 
+standard deviation. For a given value of 𝑋, there is a whole range of 
+values of 𝑢 and a particular value is selected randomly.  
+The above assumptions are called the classical assumptions. These assumptions 
+indicate the ideal conditions regarding the error variable. In empirical studies, 
+some of the above assumptions may not be fulfilled. As we will see the fifth 
+assumption is not required for the OLS estimation, although it is required for 
+
+
+--- Page 4 ---
+ 
+70 
+ 
+Classical Regression 
+Model 
+hypothesis testing. In the case of maximum likelihood estimation, it is necessary 
+to state the probability distribution function of the variables under consideration. 
+4.2.2 Ordinary Least Squares (OLS) Method 
+Our objective is to minimise the value of 𝑢పෝ . For this purpose, we choose those 
+values of 𝛽መଵand 𝛽መଶ, for which ∑ 𝑢పෝ ଶ  is the minimum. We use the term ‘least 
+squares’ because it involves ‘the smallest sum of the squares of the errors’. From 
+Block 3 of the course MEC 203: Quantitaive Methods we know the conditions 
+for minimization of a function: (i) first derivative should be equal to zero, and (ii) 
+second derivative should be positive.  
+Let us take the square of 𝑢పෝ and sum it over the sample. From equation (4.3), we 
+obtain 
+∑ 𝑢పෝ ଶ  = ∑( 𝑌௜ − 𝑌ప෡ )ଶ = ∑( 𝑌௜ −  𝛽ଵ෢ − 𝛽ଶ෢ 𝑋௜)ଶ      
+As mentioned earlier, we choose the optimal value of 𝛽ଵ෢ and 𝛽ଶ෢ . Thus, we should 
+take the partial derives of ∑ 𝑢పෝ ଶ  with respect to 𝛽ଵ෢  and 𝛽ଶ෢ . The term ∑ 𝑢పෝ ଶ is 
+called the Residual Sum of Squares (RSS).  
+The method described below is called ‘odinary’ least squares (OLS) as it is the 
+simplest of all – it fulfils the classical assumptions regarding the stochastic error 
+term. In Block 3 we will introduce complexties to the OLS method (for example, 
+weighted least squares, two-stage least squares, etc.). 
+By taking partialderivative of ∑ 𝑢పෝ ଶ  with respect to 𝛽ଵ෢ , we obtain 
+డ ∑ ௨ ഢෞ మ
+డఉ భ෢ =
+డ ∑(௒ ೔ି  ఉ భ෢ ି  ఉ మ෢ ௑ ೔)మ
+డఉ భ෢   
+= 2 · (−1) · ∑( 𝑌௜ −  𝛽ଵ෢ −  𝛽ଶ෢ 𝑋௜)     … (4.9) 
+By equating (4.9) to zero, and re-arranging the terms, we obtain 
+∑( 𝑌௜ −  𝛽ଵ෢ −  𝛽ଶ෢ 𝑋௜) = 0   
+or,  
+∑ 𝑌௜ = 𝑛𝛽ଵ෢ + 𝛽ଶ෢ ∑ 𝑋௜       …(4.10) 
+By taking partial derivative of ∑ 𝑢పෝ ଶ  with respect to 𝛽ଶ෢ , we obtain 
+డ ∑ ௨ ഢෞ మ
+డఉ మ෢ =
+డ ∑(௒ ೔ି  ఉ భ෢ ି  ఉ మ෢ ௑ ೔)మ
+డఉ మ෢   
+= 2 · (−1) · ∑( 𝑌௜ −  𝛽ଵ෢ −  𝛽ଶ෢ X୧) · 𝑋௜   
+= 2 · (−1) · ∑( 𝑋௜𝑌௜ −  𝛽ଵ෢ · 𝑋௜ −  𝛽ଶ෢ 𝑋௜
+ଶ )    … (4.11) 
+By equating (4.11) to zero, and re-arranging the terms, we obtain 
+∑ 𝑋௜𝑌௜ = 𝛽ଵ෢ ∑ 𝑋௜ + 𝛽ଶ෢ ∑ 𝑋௜
+ଶ
+      … (4.12) 
+These two equations (4.10) and (4.12) are called the normal equations  of least 
+squares method. These are two simultaneous linear equations in two unknowns. 
+These can be solved to obtain the values of 𝛽ଵ෢  and𝛽ଶ෢ . 
+
+
+--- Page 5 ---
+ 
+ 71
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+By dividing equation (4.10) by the sample size, n, we obtain 
+𝑌ത = 𝛽ଵ෢ + 𝛽ଶ෢ 𝑋ത  
+Therefore,  
+𝛽ଵ෢ = 𝑌ത − 𝛽ଶ෢ 𝑋ത        … (4.13) 
+If we know the value of 𝛽ଶ෢ , we can obtain the value of 𝛽ଵ෢  from (4.13). After re-
+arrangement of terms in equations (4.10) and (4.11), we obtain 
+𝛽ଶ෢ =
+∑(௑ ೔ି௑ത)(௒ ೔ି௒ത)
+∑(௑ ೔ି௑ത)మ       
+If we take 𝑥௜ = (𝑋௜ − 𝑋ത) and 𝑦௜ = (𝑌௜ − 𝑌ത), then  
+𝛽ଶ෢ =
+∑ ௫ ೔௬ ೔
+∑ ௫ ೔మ         … (4.14) 
+4.2.3 Method of Moments 
+In the method of moments, we equate the sample moments with the population 
+moments. The nth moment of a randomvariable is the expected value of the nth 
+power. Thus, the first moment of a random variable is its arithment mean.  
+In Sub-Section 4.2.1, while mentioning the classical assumptions of the error 
+term, we consider two population moments. Look at assumptions (4.3) and (4.6). 
+These assumptions are 
+𝐸(𝑢௜) = 0        … (4.3) 
+and,  
+𝐸(𝑋௜𝑢௜) = 0        … (4.6) 
+Using (4.1), equations (4.3) and (4.6) can be written as:  
+𝐸(𝑌 − 𝛽ଵ − 𝛽ଶ 𝑋) = 0       ... (4.15) 
+and 
+𝐸[𝑋(𝑌 − 𝛽ଵ − 𝛽ଶ 𝑋)] = 0     ... (4.16) 
+Equations (4.15) and (4.16) can be used to obtain the estimators of 𝛽ଵ  and 𝛽ଶ. 
+Summing up over all the observations of the sample, and dividing by the sample 
+size n, equations (4.15) and (4.16) become:  
+ଵ
+௡ ∑ (𝑌௜– 𝛽ଵ෢ − 𝛽ଶ෢ 𝑋௜ )௡
+௜ୀଵ = 0      ... (4.17) 
+ଵ
+௡ ∑ 𝑋௜(𝑌௜– 𝛽ଵ෢ −  𝛽ଶ෢ 𝑋௜ )௡
+௜ୀଵ = 0     ... (4.18) 
+By re-arranging terms, we can write equation (4.17) as:  
+𝑌 = 𝛽ଵ෢ +  𝛽ଶ෢ 𝑋        ... (4.19) 
+where 𝑌 =
+ଵ
+௡ ∑ 𝑌௜ .௡
+௜ୀଵ  
+Note that 𝑌 and 𝑋 in (4.19) are the sample means of Y and X respectively. We 
+therefore have    
+𝛽ଵ෢ = 𝑌 − 𝛽ଶ෢ 𝑋     ... (4.20) 
+
+
+--- Page 6 ---
+ 
+72 
+ 
+Classical Regression 
+Model 
+Thus, if we have the slope estimator 𝛽ଶ෢ , we can obtain the intercept estimator 𝛽ଵ෢  
+from equation (4.20) by using the sample values of 𝑌 and 𝑋. The estimator of the 
+slope coefficient 𝛽ଶ෢  can be obtained as follows:  
+Let us re-write (4.18) [by dropping 
+ଵ
+௡  and substituting for 𝛽ଵ෢  from (4.15)] as:  
+∑ 𝑋௜(𝑌௜ − (𝑌  −  𝛽ଶ෢ 𝑋) − 𝛽ଶ෢ 𝑋௜ )௡
+௜ୀଵ = 0    ... (4.21) 
+Rearranging (4.21) we get:  
+∑ 𝑋௜(𝑌௜– 𝑌) = ௡
+௜ୀଵ 𝛽ଶ෢ ∑ 𝑋௜(𝑋௜– 𝑋)௡
+௜ୀଵ      ... (4.22) 
+Note that by the properties of summation, we have:  
+∑ 𝑋௜(𝑋௜– 𝑋 
+) =  ∑ (𝑋௜– 𝑋 )ଶ௡
+௜ୀଵ
+௡
+௜ୀଵ   
+and 
+∑ 𝑋௜(𝑌௜– 𝑌 
+) = ௡
+௜ୀଵ ∑ (𝑋௜– 𝑋 )(𝑌௜– 𝑌 ) ௡
+௜ୀଵ   
+Hence, by assuming that 
+∑ (𝑋௜– 𝑋 
+)ଶ௡
+௜ୀଵ > 0     ... (4.23) 
+An estimator of slope coefficient can be obtained as 
+𝛽ଶ෢ =  
+∑ (௑ ೔– ௑ )(௒ ೔– ௒ ) ೙
+೔సభ
+∑ (௑ ೔– ௑ )మ೙
+೔సభ
+    ... (4.24) 
+Or,  
+𝛽ଶ෢ =  
+∑ ௫ ೔௬ ೔
+೙
+೔సభ
+∑ ௫ ೔మ೙
+೔సభ
+    … (4.25) 
+The estimators of 𝛽ଵ෢  and 𝛽ଶ෢  in (4.20) and (4.25) respectively are the same as the 
+Ordinary Least Squares (OLS) estimators given at (4.13) and (4.14). From (4.25) 
+we find that the slope estimator 𝛽ଶ෢  is simply the sample covariance between X 
+and Y divided by the sample variance of X. So, the only condition required for 
+OLS estimators to exist is that ∑ (𝑋௜– 𝑋 )ଶ௡
+௜ୀଵ > 0. This condition is always 
+fulfilled, except for the situation where the value of all 𝑋௜ is the same. Such cases 
+are not common. Thus, to obtain estimates of the parameters, we should have 
+different values of X. It is an essential condition in econometric estimation of 
+regression models that 𝑛 > 𝑘. 
+4.2.4 Maxumum Likelihood Method 
+You are familiar with the concept of probability density function such as normal 
+distribution. If we have two random variables (say, 𝑋ଵ  and 𝑋ଶ), then we have a 
+joint probability density function. The likelihood function is identical in 
+functional form with the joint density function. The joint density function is ‘a 
+function of the random variable outcomes’, given the value of the parameters. 
+The interpretation of the likelihood function is the opposite of the joint density 
+function. The likelihood function is ‘a function of the values of the parameters’, 
+given the values of the random variable outcomes.  
+
+
+--- Page 7 ---
+ 
+ 73
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+𝑓(𝑋|𝜃) = 𝐿(𝜃|𝑋)       … (4.26) 
+where 𝐿(𝜃|𝑋) is the likelihood function. 
+Let me explain the concept of likelihood function in terms of the error variable 
+𝑢௜. In Sub-Section 4.2.1, we mentioned the assumptions of the error variable 𝑢௜. 
+As per assumption (4.8), the stochastic error variable 𝑢௜ follows normal 
+distribution with mean zero and standard deviation 𝜎 such that 𝑢௜~𝑁(0, 𝜎ଶ ).  
+Suppose we have to select the first observation of the sample. The error term 𝑢ଵ  
+could assume any random value and its probability density function is given by 
+𝑓(𝑢ଵ |𝜃) =
+ଵ
+ఙ √ଶగ 𝑒ି భ
+మ ቂೠ భ  ష  ಶ (ೠ భ )
+഑ ቃ
+మ
+  
+Since 𝐸(𝑢ଵ ) = 0, we have 
+𝑓(𝑢ଵ ) =
+ଵ
+ఙ √ଶగ 𝑒ି భ
+మ഑ మ ௨ భమ
+       … (4.27) 
+Similrly, the probability density function of the second error term 𝑢ଶ  is given by 
+𝑓(𝑢ଶ ) =
+ଵ
+ఙ √ଶగ 𝑒ି భ
+మ ቂೠ మ  ష  ಶ (ೠ మ )
+഑ ቃ
+మ
+=
+ଵ
+ఙ √ଶగ 𝑒ି భ
+మ഑ మ ௨ మమ
+   
+As per assumption (iii), the error terms are independent of one another. We can 
+visualize the occurrence of the stochastic error terms ( 𝑢௜,𝑢௝) as independent 
+events. Therefore, the joint density function of 𝑢ଵ ,𝑢ଶ  is the multiplication of  
+𝑃(𝑢ଵ ) and 𝑃(𝑢ଶ ) given above. If we have data on n sample observations, we 
+have 𝑢ଵ , 𝑢ଶ , 𝑢ଷ , … … … 𝑢௡ . The likelihood of these independent random variables 
+(that is, 𝑢௜) is given by 
+𝐿(𝜃|𝑢) = ∏ ଵ
+ఙ √ଶగ 𝑒ି భ
+మ ቂ
+ೠ ೔ ష  ಶ (ೠ ೔)
+഑ ቃ
+మ
+୬
+୧ୀଵ      … (4.28) 
+From (4.3) we know that 𝑢పෝ = (𝑌௜ − 𝛽ଵ෢ − 𝛽ଶ෢ 𝑋௜).  
+Therefore, 
+𝐿(𝜃|𝑢) =  ∏ ଵ
+ఙ √ଶగ 𝑒ି భ
+మ ቂ
+ೊ ೔షഁ భ షഁ మ ೉ ೔
+഑ ቃ
+మ
+୬
+୧ୀଵ      … (4.29) 
+If we take natural log of (4.28) we obtain 
+𝑙𝑛𝐿(·) = −
+௡
+ଶ 𝑙𝑛𝜎ଶ −
+௡
+ଶ 𝑙𝑛(2𝜋) −
+ଵ
+ଶ ∑
+(௒ ೔ିఉ భ ିఉ మ ௑ ೔)మ
+ఙ మ    … (4.30) 
+There are three parameters, viz., 𝛽ଵ , 𝛽ଶ  and σ in (4.30), for which we must obtain 
+estimators. For maximization of the likelihood function, L, we take partial 
+derivatives of (4.32) with respect to 𝛽˜ଵ , 𝛽˜ଶ  and 𝜎෤. 
+ 
+డ ௗ୪୬ௗ௅
+డఉ˜ భ
+=
+ଵ
+ఙ˜ మ ∑൫𝑌௜ − 𝛽˜ଵ − 𝛽˜ଶ 𝑋௜൯(−1)     … (4.31) 
+డ ௗ୪୬ௗ௅
+డఉ˜ మ
+=
+ଵ
+ఙ˜ మ ∑൫𝑌௜ − 𝛽˜ଵ − 𝛽˜ଶ 𝑋௜൯ௗ(−𝑋௜)    … (4.32) 
+Setting these equations to zero (i.e., applying the first-order condition for 
+optimization), and re-arranging terms, and denoting by 𝛽˜ଵ , 𝛽˜ଶ  and 𝜎˜ ଶ  as the 
+‘maximum likelihood estimates (MLEs)’, we get:  
+
+
+--- Page 8 ---
+ 
+74 
+ 
+Classical Regression 
+Model 
+∑𝑌௜ = 𝑛𝛽˜ଵ + 𝛽˜ଶ ∑𝑋௜       … (4.33) 
+∑𝑌௜𝑋௜ = 𝛽˜ଵ ∑𝑋௜ + 𝛽˜ଶ ∑𝑋௜
+ଶ       … (4.34) 
+Equations (4.35) and (4.36) are the same as the normal equations of the OLS 
+method of estimation given at (4.10) and (4.12). Therefore, the maximum 
+likelihood estimators of 𝛽ଵ , 𝛽ଶ  are the same as the OLS estimators.  
+The maximum likelihood method provides an estimator for the error variance 𝜎ଶ  
+also. For taking partial derivative with respect to 𝜎෤, let us re-arrange the terms in 
+(4.30) and obtain 
+ 𝑙𝑛𝐿(·) = −𝑛 ·
+ଵ
+ଶ · 𝑙𝑛𝜎ଶ −
+௡
+ଶ 𝑙𝑛(2𝜋) −
+ଵ
+ଶ
+∑
+(௒ ೔ିఉ భ ିఉ మ ௑ ೔)మ
+ఙ మ   
+= −𝑛 · 𝑙𝑛 𝜎 −
+௡
+ଶ 𝑙𝑛(2𝜋) −
+ଵ
+ଶ
+·  𝜎ିଶ · 𝑅𝑆𝑆  
+[since ∑(𝑌௜ − 𝛽ଵ − 𝛽ଶ 𝑋௜)ଶ = ∑ 𝑢ො௜
+ଶ = RSS] 
+Thus, 
+డ ௗ୪୬ௗ௅
+డఙ෥ = −𝑛 ·
+ଵ
+ఙ෥ − 0 −
+ଵ
+ଶ · (−2) · 𝜎෤ିଷ · 𝑅𝑆𝑆    
+ = −
+௡
+ఙ෥ +
+ோௌௌ
+ఙ෥ య      
+Equating the above to zero yields 
+−
+௡
+ఙ෥ +
+ோௌௌ
+ఙ෥ షయ = 0  
+Or, 
+ோௌௌ
+ఙ෥ మ = 𝑛  
+Or, 
+𝜎෤ଶ =
+ோௌௌ
+௡           … (4.35) 
+Remember that the maximum likelihood estimator of 𝜎ଶ  is biased, but consistent. 
+4.2.5 Interpretation of OLS Estimators 
+There could be three types of regression equations: 
+(a)   𝑌௜ = 𝛽ଵ + 𝛽ଶ 𝑋௜ + 𝑢௜      … (4.36) 
+(b) ln 𝑌௜ = 𝛽ଵ + 𝛽ଶ 𝑋௜ + 𝑢௜     … (4.37) 
+(c) ln 𝑌௜ = 𝛽ଵ + 𝛽ଶ ln𝑋௜ + 𝑢௜     … (4.38) 
+Equation (4.38) is the usual one, which we considered in (4.1). Equation (4.37) is 
+the semi-log equation where the dependent variable is in log, while the 
+independent variable is in natural numbers. In equation (4.38) we have both the 
+variables in logarithmic terms, and it is called ‘double-log’ or ‘log-linear’ model. 
+We have discussed the specification and interpretation of these models in Sub-
+Section 1.5.2 of Unit 1. 
+Let us interpret equation (4.36). Suppose we want to find the relationship 
+between wage (w) and years of schooling (s) of workers. For a sample of total 
+
+
+--- Page 9 ---
+ 
+ 75
+Estimation of Two-
+Variable Regression 
+Models 
+ 
+work force in a particular year, let Y = wage measured in INR per hour, and X = 
+education level (expressed in terms of number of years of formal education). 
+Suppose, for a sample of size 600, the regression model obtained is  
+𝑤ෝ = 0.89 + 0.63 𝑠       … (4.39) 
+where 𝑤ෝ  is the predicted value of the wage. The result tells us that ‘when the 
+years of schooling is 0, i.e., the respondent is illiterate, the predicted hourly wage 
+is Rs. 0.89 or 89 paisa. If the respondent has 8 years of schooling, the predicted 
+hourly wage is 0.89 + 0.63(8) or Rs. 5.93. If the person has 12 years of schooling, 
+his hourly wage will be Rs. 8.45. Thus, when the years of schooling increases by 
+one year, the hourly wage increases by Rs. 0.63 or 63 paisa. 
+Check Your Progress 1 
+1) State the assumptions of the classical regression model. 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+2) Let the regression model be 𝑌
+௜ = 𝛽ଵ + 𝛽ଶ 𝑋௜ + 𝑢௜, where Y is hourly wage 
+rate (measured in rupees per hour) and X is years of schooling. Also, 𝑥௜ =
+ (𝑋௜ −  𝑋௜ ) and 𝑦௜ = (𝑌௜ −  𝑌௜). 
+Based on the following data for a sample of 526 workers, compute the OLS 
+estimators of the intercept 𝛽ଵ  and slope 𝛽ଶ . 
+ n  = 526   
+ 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+.............................................................................................................................
+............................................................................................................................. 
+
+
+--- Page 10 ---
+ 
+76 
+ 
+Classical Regression 
+Model 
+3) Interpret the slope coefficient estimated in question (2) above. 
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ........................................................................................................................... 
+4) Specify the likelihood function for the simple regression model.  
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ...........................................................................................................................
+ ........................................................................................................................... 
+4.3 STANDARD ERROR OF THE ESTIMATORS  
+Recall that the concepts ‘estimator’ and ‘estimate’ are different. While the term 
+estimator relates to the formula or the rule, the term estimate reflects the 
+numerical value. By applying the sample formula, we may obtain different values 
+of 𝛽መଵ and 𝛽መଶ , as we take different samples. For example, the estimator of 𝛽መଶ is 
+given by 𝛽መଶ =
+∑ ௫ ೔௬ ೔
+೙
+೔సభ
+∑ ௫ ೔మ೙
+೔సభ
+. If we take two different samples, and apply the same 
+estimator (formula), we will get two different estimates (values) of 𝛽መଶ . For 
+hypothesis testing, we need the standard error of the estimators 𝛽መଵ and 𝛽መଶ.  
+4.3.1 Standard Error of the OLS Estimators 
+We need a measure to know the reliability (or precision) of theestimators 𝛽መଵ and 
+𝛽መଶ .We need this because the least-squaresestimators are functions of the sample 
+data and would change with sample. Precision is measured by the standard error 
+(se) of the estimators. With the classical assumptions, the variance of the 
+estimators 𝛽መଵ  and 𝛽መଶ  are given below. The standard error of an estimator is the 
+positive square root of its variance.    
+𝑣𝑎𝑟(𝛽መଶ )  =  
+஢ మ
+∑ ௫ ೔ 
+మ       ... (4.40) 
+𝑠𝑒(𝛽መଶ )  =  
+஢
+ට ∑ ௫ ೔ 
+మ
+       ... (4.41) 
+𝑣𝑎𝑟(𝛽መଵ )  =  
+∑ ௑ ೔
+మ
+୬ ∑ ௫ ೔ 
+మ σଶ        ... (4.42) 
+𝑠𝑒(𝛽መଵ )  = ට
+∑ ௑ ೔ 
+మ
+୬ ∑ ௫ ೔ 
+మ σ       ... (4.43) 

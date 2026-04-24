@@ -1,0 +1,408 @@
+--- Page 21 ---
+ 
+264 
+ 
+Block Dummy Variable: A qualitative variable which takes values that can be 
+   divided into categories.  
+Time Series Data:  This refers to data measured over a period of time at 
+   regular intervals. 
+14.10 SOME USEFUL BOOKS   
+Gujarati, D N and D C Porter (2009), Basic Econometrics , Fifth Edition, 
+McGraw Hill 
+Maddala, G. S. and K. Lahiri (2012), Introduction to Econometrics , Fourth 
+Edition, Wiley  
+Verbeek, M. (2012), “ A Guide to Modern Econometrics ”, Fourth Edition, John 
+Wiley & Sons  
+Wooldrige, Jeffrey (2022), Introductory Econometrics, Seventh Edition, Cengage 
+Learning 
+14.11 ANSWERS/HINTS TO CHECK YOUR   
+  PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Dummy variable is suggested where explanatory variable is qualitative in 
+nature. Go through Section 14.3. 
+2) It will lead to a situation of perfect multicollinearity. Go through Unit 10 
+to find the consequences. 
+Check Your Progress 2 
+1) The procedure of Chow test is given in Section 14.2. On that basis test the 
+model. 
+2) Go through Section 14.4 and formulate the model with differential 
+intercept and slope coefficients. Test the model based on t-test of the 
+dummy variable coefficients.  
+ 
+
+
+--- Page 22 ---
+UNIT 15 QUALITATIVE DEPENDENT 
+V ARIABLES IN OLS MODELS 
+Structure 
+15.0  Objectives  
+15.1  Introduction  
+15.2  Linear Probability Model 
+ 15.2.1 Specification of the Model  
+ 15.2.2 Limitations of the Model  
+ 15.2.3 Interpretation of LPM 
+15.3  Logit Model 
+ 15.3.1 Features of the Logit Model 
+ 15.3.2 Estimation of Logit Model 
+ 15.3.3 Interpretation of Logit Model 
+15.4 Probit Model 
+ 15.4.1 Specification of Probit Model 
+ 15.4.2 Estimation of Probit Model 
+ 15.4.3 Interpretation of Probit Model 
+15.5 Joint Significance in Qualitative Response Regression Models. 
+15.6 Goodness-of-Fit in Logit and Probit Models 
+15.7  Choice between Logit and Probit Models 
+15.8  Let Us Sum Up 
+15.9 Key Words 
+15.10 Some Useful Books 
+15.13 Answers / Hints to Check Your Progress Exercises 
+15.0  OBJECTIVES  
+After going through this Unit, you will be in a position to 
+ explain how qualitative (dummy) variables can be incorporated as 
+dependent variable in a regression model; 
+ describe the advantages and disadvantages of linear probability model 
+(LPM); 
+ 
+ 
+Dr. Akshaya Kumar Mohanty, Associate Professor, Mizoram University, Aizawl 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+266 
+Extensions of 
+Regression Models   explain how logit and probit models can remove the disadvantages of 
+LPM; 
+ calculate and interpret marginal effects in LPM, Logit model, and Probit 
+model; and 
+ interpret Stata software generated output for all three models. 
+15.1  INTRODUCTION 
+In Unit 14 we discussed the use of qualitative variables (dummy variables) as 
+explanatory variables in a regression model. Such qualitative variables can 
+assume binary values of 0 and 1. A question may be coming to your mind: Can 
+we use a dummy variable as explained variable (or, dependent variable) in a 
+regression model? The answer is: Yes.  
+In this Unit we will look at regression models where the dependent variable, Y, is 
+a qualitative variable. Such models are called ‘limited dependent variable 
+models’, or dummy dependent variable models. The term ‘limited dependent 
+variable’ was first used by James Tobin in 1958 to denote regression models 
+where the dependent variable is constrained to be non-negative. As you know, 
+nominal variables can assume more than two categories. If the dummy dependent 
+variable has exactly two categories, it is called a binary (or dichotomous) 
+variable. Otherwise, it is called polychotomous variable (containing more than 
+two categories). The present Unit is introductory in nature, and we will focus on 
+binary cases where a dummy variable can take only two values, 0 and 1. 
+If the dependent variable of the model is a dummy variable, the usual OLS 
+method will not be applicable. Instead, the method of maximum likelihood 
+estimation is used. This is because when the dependent variable is a dummy 
+variable, the objective is to find out the maximum probability ( hence the name 
+maximum likelihood) of occurrence of the given set of data. 
+Binary choice models are commonly used for micro analysis in social sciences 
+and medical research. There are three types of ‘limited dependent variable 
+models’. These are: (i) Linear Probability Models (LPM), (ii) Logit Models, and 
+(iii) Probit Models. The last two models have quite similar probability density 
+functions, similar estimation procedures, and they are often used interchangeably. 
+15.2 LINEAR PROBABILITY MODEL 
+A linear probability model (LPM) is a regression model where the dependent 
+variable (regressand) is a binary (or, dummy) variable, and the independent 
+variables are either dummy or continuous. 
+15.2.1 Specification of the Model  
+To fix ideas, let us consider the following linear probability regression model on 
+determinants of house ownership  
+𝑌௜ = 𝛼଴ + 𝛼ଵ 𝑋௜ + 𝛼ଶ 𝐷௜ + 𝑢௜      ... (15.1) 
+
+
+--- Page 24 ---
+ 
+ 
+ 
+267 
+Pressure Groups where  𝑌௜ = 1, if a person owns a house 
+ = 0, if he/she does not own a house 
+𝑋௜ = is family income 
+𝐷௜ =1, if the person is male, and 0 otherwise. 
+Equation (15.1) looks like a linear regression model but as the dependent variable 
+(𝑌௜) is binary, or dichotomous, it is called a linear probability model (LPM ). The 
+conditional expectation of 𝑌௜ given by 𝑋௜ and 𝐷௜, 𝐸 (𝑌௜|𝑋௜, 𝐷௜), can be interpreted 
+as the conditional probability that the event will occur given 𝑋௜ and 𝐷௜, that is, 
+Pr  (𝑌௜ = 1|𝑋௜, 𝐷௜). Thus, in our example, 𝐸 (𝑌௜|𝑋௜, 𝐷௜) gives the probability of a 
+person owning a house and whose income is given by 𝑋௜ and whose gender is 
+identified by 𝐷௜. Equation (15.1) can be estimated by using the OLS method. The 
+OLS method, however, has certain drawbacks. 
+The justification of the name LPM for model (15.1) can be seen as follows: By 
+assuming 𝐸(𝑢௜) = 0and taking expected value of equation (15.1), we obtain,  
+𝐸 (𝑌௜|𝑋௜, 𝐷௜ = 1) = 𝛼଴ + 𝛼ଵ 𝑋௜ + 𝛼ଶ      … (15.2)  
+Suppose the probability that the event will occur, that is, Pr(𝑌௜ = 1) = 𝑝௜. Then, 
+the probability that the event does not occur𝑃𝑟(𝑌௜ = 0) =  (1 − 𝑝௜). 
+Taking the expected value 
+𝐸 (𝑌௜|𝑋௜, 𝐷௜)  = 𝐸(𝛼଴ + 𝛼ଵ 𝑋௜ + 𝛼ଶ ) 
+   = 1(𝑝௜) + 0 (1 − 𝑝௜)     … (15.3) 
+Since the probability 𝑝௜ must remain between 0 and 1, we have the restriction on 
+the conditional expectation that 
+0 ≤ 𝐸 (𝑌௜|𝑋௜, 𝐷௜) ≤ 1       … (15.4)  
+The conditional expectation of the model (15.1) can, in fact, be interpreted as the 
+conditional probability of 𝑌௜. In general, the expectation of a Bernoulli random 
+variable is the probability that the random variable equals 1. If there are n 
+independent trials, each with a probability p of success and probability (1 − p) of 
+failure, and X of these trials represent the number of successes, then X is said to 
+follow the binomial distribution. The mean of the binomial distribution is np and 
+its variance is np(1−p). Thus, the OLS method can be easily extended to binary 
+dependent variable regression models. However, the LPM poses several 
+limitations. 
+15.2.2 Limitations of the Model 
+The major limitations of the LPM are discussed below. 
+i) Non-Normality of 𝒖𝒊 
+Since the dependent variable (𝑋௜)assumes only two values (0 and 1), the error 
+term ( 𝑢௜) also takes only two values. It implies that the error term follows the 
+Bernoulli distribution. As a result, it is not normally distributed. 
+Recall from Unit 4 that the OLS method does not require the error term ( 𝑢௜) to be 
+normally distributed. However, we assumed 𝑢௜ to be normally distributed for the 
+
+
+--- Page 25 ---
+ 
+ 
+ 
+268 
+Extensions of 
+Regression Models  purpose of hypothesis testing. But the assumption of normality for 𝑢௜is not correct 
+for LPM because, like 𝑌௜, the error term 𝑢௜also takes only two values; that is, they 
+also follow the Bernoulli distribution. Non-fulfillment of the normality 
+assumption may not be so critical as it appears, because for obtaining unbiased 
+OLS estimators, 𝑢௜ need not be normally distributed. Besides, as the sample size 
+increases indefinitely, statistical theory shows that the OLS estimators tend to be 
+normally distributed. As a result, in large samples the statistical inference of the 
+LPM will follow the usual OLS procedure under the normality assumption.  
+ii) Heteroscedasticity of 𝒖𝒊 
+Remember that for a Bernoulli distribution the mean and variance are 𝑝௜ and 
+𝑝௜(1 − 𝑝௜) respectively. Here, 𝑝௜ is the probability of success, which implies that 
+the variance is a function of the mean. Thus, the error variance is heteroscedastic. 
+However,  
+𝑃௜ = 𝐸 (𝑌௜|𝑋௜, 𝐷௜ = 1) = 𝛼 ଴ + 𝛼ଵ 𝑋௜ + 𝛼ଶ     ... (15.5) 
+In (15.5), the mean of 𝑌௜, that is, 𝑃௜ depends on the explanatory variable 𝑋௜. 
+Therefore, 𝑣𝑎𝑟 (𝑢௜) also depends on the explanatory variables. 
+iii) Value of 𝒀෡ 𝒊 remains outside the range 
+We mentioned earlier that 𝑌෠௜  indicates the probability of occurrence, 𝑝௜ . 
+However, the OLS estimator gives no guarantee that the probability will be 
+between 0 and 1 (See Fig. 15.1). This is because the probability increases linearly 
+with explanatory variables. 
+ 
+Fig. 15.1: Linear Probability Models 
+There are two ways to get rid of this problem: (i) Estimate the LPM by the usual 
+OLS method and find out whether the estimated 𝑌෠௜remains between 0 and 1. If for 
+some observations 𝑌෠௜ is less than 0 (that is, negative), we assume them to be zero. 
+Similarly, for some observations, if 𝑌෠௜ is greater than 1, we assume them to be 1. 
+The second solution is to adopt some estimation technique such as Logit and 
+Probit, that will guarantee that the estimated conditional probabilities 𝑌෠௜ remains 
+between 0 and 1.  
+The scatter plot depicted in Fig. 15.1 is drawn on the basis of data given in Table 
+15.1. We observe that for some values of 𝑋௜, the predicted probability ( 𝑃෠௜) lies 
+
+
+--- Page 26 ---
+ 
+ 
+ 
+269 
+Pressure Groups outside the limiting values, i.e., 0 ≤ 𝑃෠௜≤ 1. This violates an important axiom of 
+probability theory that probability ranges between 0 and 1. 
+Table 15.1: Hypothetical Data on House Ownership Status 
+ 
+ 
+ 
+Fig. 15.2: Scatter Plot of 𝒀𝒊 and 𝒀෡ 𝒊 in LPM 
+ 
+iv) 𝑹𝟐 is not Appropriate  
+Corresponding to the value of explanatory variables ( X), the dependent variable 
+(Y) is either 0 or 1. Therefore, all the Y values will either lie along the X- axis or 
+along the line corresponding to Y equals 1. Therefore, LPM is not expected to fit 
+such a scatter plot very well. As a result, computed 𝑅ଶ  is of limited value in the 
+dichotomousresponse models. 
+
+
+--- Page 27 ---
+ 
+ 
+ 
+270 
+Extensions of 
+Regression Models  In Fig. 15.1, we plotted the actual values 𝑌௜ , and the predicted values 𝑌෠௜ . 
+Corresponding to a given X, the value of Y is either 0 or 1. Therefore, all the Y 
+values will either lie along the X axis or along the line corresponding to 1. That 
+is, when we regress 𝑌௜ on the given explanatory variable ( 𝑋௜) in the case of linear 
+regression model, we will get the fitted regression line given above (i.e., Fig. 
+15.1). Therefore, generally LPM is not expected to fit such a scatter diagram 
+well. As a result, the conventionally computed 𝑅ଶ  is likely to be much lower for 
+such models. In most practical applications, the 𝑅ଶ  ranges between 0.2 to 0.6. 
+15.2.3 Interpretation of LPM  
+(Example 15.1) 
+To illustrate the method of Linear Probability Model and the points raised above, 
+let us assume that we want to study house ownership status (Y) of households in 
+a given town. Assume that we have data for 40 households on house ownership 
+status and income of households (X) (in thousands of rupees) (see Table 15.1). 
+Based on the data given in Table 15.1, we estimate the LPM by the OLS method. 
+The results obtained are as follows:  
+𝑌෠    =        −0.5 +   0.0652 𝑋 ௜     … (15.6) 
+SE =       (0.2096)   (0.0134) 
+t-ratio   (−)2.39         4.88                   𝑅ଶ = 0.3854    
+Let us interpret the above result.  
+The intercept of (–) 0.5 gives the probability that a household with zero income 
+will own a house. Since this value is negative, and since probability cannot be 
+negative, we treat this value as zero. The slope value of 0.0652 means that for a 
+unit change in income (here, Rupees 1000), the probability of owning a house 
+increases by 0.0652 or 6.52 percent. 
+Table 15.2: Actual 𝑌௜ and predicted 𝑌௜ 
+ 
+ 
+Table 15.2 shows the estimated probabilities, 𝑌෠௜, for various income levels. The 
+most noticeable feature of Table 15.2 is that two estimated values are negative, 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+271 
+Pressure Groups and two values are greater than 1. This is one reason why the LPM is not 
+recommended. 
+Check Your Progress 1 
+1)  A linear probability model of a hypothetical data set (sample size n = 200) 
+yields the following results:  
+ 
+𝑌௜= 1 for ownership of a house, and 0 otherwise; 𝐷௜ = 1 for male and 0 for 
+female; income is in Rs.’000 and values in parentheses are standard errors 
+and t-ratios. 
+ (a)  Interpret the model. 
+ (b)  Interpret the intercept term. 
+ (c) Interpret the coefficient of the variable ‘income’. 
+ (d) Interpret the coefficient of the dummy variable, 𝐷௜. 
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+2)    What are the limitations of the linear probability model?  
+……………………………...........................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.............…………………………………………………………………….. 
+15.3 LOGIT MODEL 
+As we saw in the previous section, predicted values of the LPM model could be 
+outside the range. Therefore, instead on depending on the LPM, we need a 
+(probability) model that has the following two features:  
+(i) As 𝑋௜ increases, 𝑝௜ = E (𝑌௜ = 1|X) increases but never steps outside the [0 – 
+1] interval. 
+(ii) The relationship between 𝑝௜ and 𝑋௜ is non-linear. As 𝑋௜ gets smaller, 𝑌෠௜ 
+tends to 0 (that is, it approaches 0 at slower and slower rate). On the other 
+hand, as 𝑋௜ gets very large, 𝑌෠௜ tends to 1.  
+The logit model (logit is an abbreviation for logistic unit) is an option before us. 
+In this model, we can limit the estimated probabilities inside the (0–1) range. In 
+the logit model (as well as the probit model, which we will study in the next 
+
+
+--- Page 29 ---
+ 
+ 
+ 
+272 
+Extensions of 
+Regression Models  section), we assume that there is an underlying latent variable ( 𝑦∗) which is not 
+observable, but it manifests in a dichotomous realization. For example, the latent 
+variable is ‘the ability to get employed’, which is not observable. What we 
+observe is whether a person is employed ( 𝑦 = 1)  or not employed (𝑦 = 0) .  
+Thus, 𝑦௜ = 1, 𝑖𝑓 𝑦 ∗ > 0 and 𝑦௜ = 0, 𝑖𝑓 𝑦 ∗ ≤ 0. 
+In the logit model , the probability of occurrence of the event is defined as 
+     ... (15.7) 
+If we let 𝑍௜ = 𝛼଴ + 𝛼ଵ 𝑋௜, then equation (15.7) can be expressed as  
+    ... (15.8) 
+Equation (15.8) is known as the (cumulative) logistic distribution function which 
+satisfies the two conditions stated in the beginning of this Section. Since 𝑝௜ gives 
+the probability of owning a house, the probability of ‘not owning a house’, (1 −
+𝑝௜), is:  
+       ... (15.9) 
+If we divide equation (15.8) by equation (15.9), we obtain 
+௣ ೔
+ଵି௣ ೔
+=
+௘ ೥ ೔ (ଵା௘ ೥ ೔)⁄
+ଵ (ଵା௘ ೥ ೔)⁄ = 𝑒 ௭ ೔ = 𝑒 ఈ బ ାఈ భ ௑ ೔       … (15.10) 
+Equation (15.10) is the ‘Odds-Ratio’ in favour of owning a house. It is the ratio 
+of the probability that ‘a family will own a house’ to the probability that ‘it will 
+not own a house’. Thus, for example, if 𝑝௜ = 0.8, the odds-ratio is 4. It implies 
+that the odds are 4 to 1 (since 
+௉ ೔
+ଵି௉ ೔
+=
+଴ .଼
+ଵି଴ .଼ =
+଴ .଼
+଴ .ଶ = 4) in favour of the family 
+owning a house. 
+If we take the natural logarithm of equation (15.10), we obtain 
+𝐿௜ = ln ቀ
+௣ ೔
+ଵି௣ ೔
+ቁ = ln ቀ
+ଵା௘ ೋ ೔
+ଵା௘ షೋ ೔ቁ = 𝑍௜ = 𝛼଴ + 𝛼ଵ 𝑋௜   … (15.11) 
+The ‘log of the odds-ratio’ ( 𝐿௜), given in equation (15.11) is linear in parameters 
+and linear in variables.  
+15.3.1 Features of Logit Model  
+We point out the features of the logit model below. 
+(i) In equation (15.11), as Z varies from −∞ to +∞, the ‘log of the odds-
+ratio’ ( 𝐿௜), varies from −∞ to +∞. That is, although the probability 
+remains between 0 and 1, the explanatory variable can take any value 
+between −∞and+∞. 
+(ii) Although L is linear in X, the probability ( 𝑝௜) is not linear. Although we 
+have included only a single explanatory variable, in the preceding model, 
+we can add as many explanatory variables as required by the underlying 
+theory. 
+
+
+--- Page 30 ---
+ 
+ 
+ 
+273 
+Pressure Groups (iii) The interpretation of the logit model given in equation (15.11) is as 
+follows: The slope coefficient measures the change in L for a unit change 
+in the explanatory variable. The slope coefficient tells how the log-odds 
+in favor of owning a house change as income changes by a unit. The 
+intercept is the value of the log-odds in favor of owning a house if income 
+is zero. Like most interpretations of intercepts, this interpretation may not 
+have any physical meaning. 
+(iv) Remember that the odds-ratio is not the probability of the occurrence of 
+the event (such as owning a house). Suppose we want to find out the 
+probability of owning a house at a certain level of income, say, X*, from 
+equation (15.7). The question is: How do we estimate 𝛼଴  and 𝛼ଵ . The 
+answer is given below. 
+15.3.2 Estimation of Logit Model 
+Let us add a stochastic error term to equation (15.11). We obtain   
+𝐿௜ = ln ቀ
+௣ ೔
+ଵି௣ ೔
+ቁ = 𝛼଴ + 𝛼ଵ 𝑋௜ + 𝑢௜     … (15.12) 
+To estimate equation (15.12), we need data of 𝑋௜ and logit (𝐿௜). This depends on 
+the type of data we have for analysis. There could be two types of data:  
+ (i) Data at the individual or micro level and 
+ (ii) Grouped or replicated data. 
+(i)  Data at the individual or micro level 
+From equation (15.12), 𝑝௜= 1 if a family owns a house, and 𝑝௜= 0 if it does 
+not own a house. Thus,  
+ 
+ 
+These imply that if we have data at the micro or, individual level, we cannot 
+estimate equation (15.12) by the standard OLS (ordinary least squares). In 
+this situation, we may have to resort to non-linear estimation procedure  
+using the maximum likelihood (ML) method. 
+(ii) Grouped or Replicated Data 
+Here, for a given explanatory variable, observations with equal values are 
+grouped together. Such a model is called Grouped Logit or GLogit. For example, 
+in the model represented by equation (15.12), people who earn the same 
+disposable income are grouped together. Corresponding to each group of income 
+level 𝑋௜ , there are 𝑁௜  families, among whom 𝑛௜  are homeowners ( 𝑛௜ < 𝑁௜ ). 
+Therefore, 
+        ... (15.13) 

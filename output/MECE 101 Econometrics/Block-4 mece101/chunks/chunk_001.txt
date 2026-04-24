@@ -1,0 +1,451 @@
+--- Page 1 ---
+UNIT 14 QUALITATIVE INDEPENDENT 
+VARIABLES IN OLS MODELS  
+Structure 
+14.0 Objectives  
+14.1 Introduction  
+14.2 Chow Test for Structural Stability  
+14.3 The Nature of Dummy Variables  
+14.3.1 ANOVA Models  
+14.3.2 ANCOVA Models  
+14.4 Use of More than One Qualitative Variable  
+14.5 Testing for Structural Stability through Dummy Variables  
+14.6 Use of Dummy Variables in Seasonal Analysis  
+14.7 Pooling Cross Section and Time Series Data  
+14.8 Let Us Sum Up  
+14.9 Key Words  
+14.10 Some Useful Books/References  
+14.11 Answer/Hints to Check Your Progress Exercises  
+14.0 OBJECTIVES 
+After going through this Unit you will be able to 
+ Apply Chow test for structural stability of a regression model;
+ explain the nature of dummy variables;
+ use dummy variables in regression models;
+ test for structural stability in dummy variable models; and
+ pool cross-sectional and time-series data by using dummy variables.
+14.1 INTRODUCTION 
+In regression models considered so far, we assumed that there is no change in 
+parameters within a sample. There could be situations, however, where there is a 
+change (or shift) in a parameter within the sample. For example, assume that 
+industrial output of India depends upon inputs such as capital and labour apart 
+from technology and policy environment. After the economic liberalization in 
+1991, there is a major shift in the economic environment in India - there is an 
+improvement in the level of technology and the level of competition. In short, we 
+can say that there is a structural change in the Indian economy after economic 
+liberalization. In such circumstances we cannot assume that the parameters 
+ Dr. Manish Gupta, Associate Professor, National Institute of Public Finance and Policy, New
+Delhi  
+
+
+--- Page 2 ---
+ 
+ 245
+Dummy Variables 
+Models remain the same for the pre-liberalisation period and the post-liberalisation 
+period. A question before us is: How do we represent structural change in a 
+regression model?  
+Let us consider another scenario. We assumed that the explanatory variables are 
+numerical or quantitative in nature. This may not always be the case. There can 
+be instances where the dependent variable (say, monthly earning) depends upon 
+certain qualitative variable (say, gender). Can we include a qualitative variable 
+such as gender as explanatory variable in a regression model? Yes, we can. A 
+qualitative variable can be represented by a dummy variable , which assumes 
+numerical values as we will see later in this Unit.  
+The dummy variables are also known as binary variables , indicator variables , 
+categorical variables , and dichotomous variables . In this unit we consider the 
+role of qualitative explanatory variables in regression analysis. We include 
+dummy variables in regression models and show that it is a flexible tool for 
+handling many interesting problems. 
+14.2 CHOW TEST FOR STRUCTURAL STABILITY 
+We begin with the Chow test for structural stability of a regression model. A 
+structural change (also called structural break) occurs if the parameters 
+underlying a relationship differ from one subset of the data to another. There may 
+be several relevant subsets of data with the possibility of several structural breaks 
+in a sample. For the moment we consider two subsets of 1n  and 2n  observations 
+so that sample size is 1 2n n n  . Suppose, for example, we wish to investigate 
+whether savings rate differs between rich households and poor households. 
+Suppose we have 1n  poor households and 2n  rich households. An option before 
+us is to estimate separate regression equations for the poor and the rich 
+households. By comparing the estimated coefficients of both the regression 
+models we can find out whether there is difference in savings rate of poor and 
+rich households. Alternatively, we can estimate the regression model for the poor 
+households and predict the savings rate for the rich households (or, vice versa). It 
+is however not clear which choice should be made, and the two procedures might 
+well yield different answers! Chow test gives concrete idea on the structural 
+stability of a model. 
+Let us consider regression models for two groups as follows: 
+Rich households:   
+1 2 1t t tY X        11, 2, ,t n      … (14.1)  
+Poor households:   
+1 2 2t t tY X      21, 2, ,t n   … (14.2) 
+where 𝒀 is total savings of a household, X  is personal income, the  ’s are the 
+error terms in the two equations, 1n  and 2n  are the number of observations in the 
+two sub-samples. 
+
+
+--- Page 3 ---
+ 
+246 
+ 
+Block A structural change may mean that the two intercepts are different ( 𝜶𝟏 ≠ 𝜷𝟏), or 
+the two slopes are different (𝜶𝟐 ≠ 𝜷𝟐), or both the intercept and the slopes are 
+different, or any other suitable combination of the parameters. If there is no 
+structural change (i.e., there is structural stability), we can combine all the 1n  and 
+2n  observations and estimate one savings function as 
+1 2t t tY X       … (14.3) 
+There are two basic assumptions underlying the Chow test. 
+(a)  𝜺𝟏𝒕~𝑵(𝟎, 𝝈𝟐) and 𝜺𝟐𝒕~𝑵(𝟎, 𝝈𝟐), i.e., the two error terms are normally 
+distributed with the same variance, and  
+(b) 1t  and 2t  are independently distributed. 
+The Chow test proceeds as follows: We assume that regression equations for both 
+the groups are different. This is our null hypothesis. Therefore, both the equations 
+(14.1) and (14.2) need to be estimated separately. This is our unrestricted model. 
+On the other hand, we restrict the above scenario and combine both the groups. 
+We estimate equation (14.3) – this is our restricted model. Thus, the alternate 
+hypothesis is our restricted model. The steps for carrying out the Chow test is 
+given below. 
+(i) Combine all the 
+1n  and 2n  observations and estimate regression 
+model (14.3). Obtain restricted residual sum of squares, say 𝑹𝑺𝑺𝑹. 
+The degree of freedom for this model is  1 2n n k  , where k  is the 
+number of parameters in the model. 
+(ii) Estimate regression models (14.1) and (14.2) individually. Obtain 
+their residual sum of squares. Let us denote it by 𝑹𝑺𝑺𝟏 and 𝑹𝑺𝑺𝟐 
+respectively. The degrees of freedom for regression model (14.1) is 
+ 1n k  and that for regression model (14.2) is  2n k .  
+(iii) Add these two residual sums of squares ( 𝑹𝑺𝑺𝟏 + 𝑹𝑺𝑺𝟐) and obtain  
+𝑹𝑺𝑺𝑼𝑹 (unrestricted residual sum of squares). The degrees of freedom 
+for 𝑹𝑺𝑺𝑼𝑹 is  1 2 2n n k  .  
+(iv) Apply the following formula to obtain the F-ratio: 
+𝑭 =
+(𝑹𝑺𝑺𝑹ି 𝑹𝑺𝑺𝑼𝑹) 𝒌⁄
+𝑹𝑺𝑺𝑼𝑹 (𝒏𝟏ା 𝒏𝟐ି 𝟐𝒌)⁄      … (14.4)  
+which follows the F  distribution with DF =  1 2, 2k n n k  . If the F  computed 
+from (14.4) exceeds the critical value at the chosen level of confidence level, we 
+reject the hypothesis that the regressions (14.1) and (14.2) are the same. In other 
+words, we reject the hypothesis of structural stability.  
+Example 14.1 
+Let us consider the following hypothetical data on personal savings and personal 
+income by poor and rich households (in Rupees thousand). We want to test 
+whether the savings function is the same in both the groups. 
+
+
+--- Page 4 ---
+ 
+ 247
+Dummy Variables 
+Models  
+Poor Households Rich Households 
+Sl. No. Savings Income Sl. No. Savings Income 
+1 0.36 8.8 1 0.59 15.5 
+2 0.21 9.4 2 0.90 16.7 
+3 0.08 10.0 3 0.95 17.7 
+4 0.20 10.6 4 0.82 18.6 
+5 0.10 11.0 5 1.04 19.7 
+6 0.12 11.9 6 1.53 21.1 
+7 0.41 12.7 7 1.94 22.8 
+8 0.50 13.5 8 1.75 23.9 
+9 0.43 14.3 9 1.99 25.2 
+In the above data, we have 1 2 9n n  . 
+For group 1, poor households  
+      ˆ
+tY  =  – 0.2623    +   0.0470 tX   
+    (0.3054)        (0.0266)  
+      t  =  (– 0.8719)       (1.7700) 
+2R  = 0.3092,     𝑹𝑺𝑺𝟏 = 0.1396,  DF = 7 
+For group 2, rich households:  
+   ˆ
+tY  = – 1.7502     +     0.1504 tX   
+              (0.3576)          (0.0175)  
+   t  =     (– 4.8948) (8.5749)  
+2R  = 0.9131,    𝑹𝑺𝑺𝟐 = 0.1931,  DF = 7 
+For combined data (restricted model): 
+ˆ
+tY  =  –1.0821     +   0.1178 tX    
+    (0.1452)   (0.0088)  
+t  =  (–7.4548) (13.4316)  
+2R  = 0.9185,   𝑹𝑺𝑺𝑹 = 0.5722,  DF  = (9 + 9 – 2) =16 
+ Let us plug in the above data into the Chow test formula given at (14.4).  
+
+
+--- Page 5 ---
+ 
+248 
+ 
+Block We have 𝑹𝑺𝑺𝑼𝑹 = 𝑹𝑺𝑺𝟏 + 𝑹𝑺𝑺𝟐 = 𝟎. 𝟏𝟑𝟗𝟔 + 𝟎. 𝟏𝟗𝟑𝟏 = 𝟎. 𝟑𝟑𝟐𝟕 
+𝑭 = (𝑹𝑺𝑺𝑹 − 𝑹𝑺𝑺𝑼𝑹) 𝒌⁄
+𝑹𝑺𝑺𝑼𝑹 (𝒏𝟏 + 𝒏𝟐 − 𝟐𝒌)⁄ = (𝟎. 𝟓𝟕𝟐𝟐 − 𝟎. 𝟑𝟑𝟐𝟕) 𝟐⁄
+𝟎. 𝟑𝟑𝟐𝟕 𝟏𝟒⁄ = 𝟎. 𝟏𝟏𝟗𝟕𝟓
+𝟎. 𝟎𝟐𝟑𝟖 = 𝟓. 𝟎𝟒 
+At the 5 percent level of significance, the critical value of 2,14 3.74F  . Since the 
+observed F  value of 5.04  exceeds this critical value, we reject the null 
+hypothesis that the savings function in the two time periods is the same.  
+On the basis of the Chow test we can draw the conclusion that the savings 
+functions in the two groups are different; but what is the reason for this 
+difference? Is it due to the difference in the intercept values, or the slope values, 
+or in both? The Chow test does not provide any clue on this. The dummy variable 
+model discussed below helps us in finding an answer to this question. 
+14.3 THE NATURE OF DUMMY VRIABLES 
+In regression analysis the dependent variable is frequently influenced not only by 
+variables that can be readily quantified on some well-defined scale (e.g., income, 
+output, prices, costs, weights, etc.), but also by other variables that are essentially 
+qualitative in nature (e.g., marital status, gender, religion, caste, etc.). For 
+example, holding all other factors constant, IIT graduates are found to earn more 
+than their counterparts from the regional engineering colleges in India. Similarly, 
+studies in the US have reported that female college teachers earn less than their 
+male counterparts. Whatever may be the reason for this disparity, qualitative 
+variables like gender, institution of education, etc. do influence the dependent 
+variable and should be included among the independent variables. 
+Since qualitative variables usually indicate the presence or absence of some 
+attribute or quality, such as rural or urban, male or female, married or unmarried, 
+etc. We can quantify such attributes by constructing artificial variables that take 
+value 1 or 0, 1 indicating the presence (or possession) of a particular attribute and 
+0 the absence of it and vice versa. For example, 1 may indicate that the person is 
+a male and 0 may indicate that the person is female; or 1 may indicate that a 
+person is educated and 0 that he/she is not educated and so on. Such variables 
+which assume values 0 and 1 are called Dummy Variables. 
+Like the quantitative variables, the dummy variables can be used in regression 
+analysis very easily. There can be two cases: (i) a regression model may contain 
+only dummy explanatory variables. This type of regression models is called 
+analysis of variance (ANOVA) models. (ii) a regression model may contain both 
+quantitative variables and dummy variables. This type of regression models is 
+called the analysis of variance (ANOVA) models. 
+14.3.1 ANOVA Models 
+The following model is an example of ANOVA model 
+𝒀𝒊 = 𝜶𝟏 + 𝜶𝟐𝑫𝒊 + 𝒖𝒊       … (14.5)  
+where,   𝒀𝒊 =  annual starting salary of a school-teacher  
+
+
+--- Page 6 ---
+ 
+ 249
+Dummy Variables 
+Models   𝑫𝒊 = 1  if male teacher  
+   0 otherwise (i.e., female teacher)  
+Model (14.5) is similar to an ordinary two variable regression model. The only 
+difference is the use of a qualitative or dummy variable D instead of quantitative 
+explanatory variable X. (From now on in the present unit we shall be using D to 
+denote dummy variable). Assuming all the other factors such as age, years of 
+experience, etc. to be constant, the model (14.5) may enable us to find out 
+whether gender (i.e., being a male or female) makes any difference in a school 
+teacher’s salary. In other words, it would enable us to find out whether a male 
+school teacher’s salary is different from that of a female school teacher having 
+the same qualifications and years of experience. 
+Inclusion of the disturbance term ui in the model (14.5) satisfies the usual 
+assumptions of the classical linear regression model (CLRM). We obtain from 
+(14.5) that the mean salary of a female school-teacher is: 
+𝑬(𝒀𝒊|𝑫𝒊 = 𝟎) = 𝜶𝟏 + 𝜶𝟐(𝟎)= 𝜶𝟏     … (14.6)  
+and the mean salary of a male school-teacher is: 
+𝑬(𝒀𝒊|𝑫𝒊 = 𝟏) = 𝜶𝟏 + 𝜶𝟐(𝟏) = 𝜶𝟏 + 𝜶𝟐    … (14.7)  
+In the above model the intercept term 𝜶𝟏 gives the mean annual salary of a 
+female school-teacher. The slope coefficient 𝜶𝟐 tells us how much the mean 
+salary of a male school-teacher differs from that of his female counterpart with 
+(𝜶𝟏 + 𝜶𝟐) reflecting the mean annual salary of a male school-teacher. 
+We can also test for the following hypothesis: Is there discrimination in 
+accordance to the gender of an individual while determining the salary of school-
+teachers. Here, we run by running OLS on the regression equation (14.5) and find 
+out on the basis oft-test whether the estimated 2 is statistically significant or not. 
+We will demonstrate the above with the help of a hypothetical example. Let us 
+consider Table 14.1 which gives hypothetical data of annual salary of school-
+teachers.  
+Table 14.1: Annual Salary of School-teachers 
+Salary(Y) 
+(Rs. 000) 
+Gender Dummy (D) 
+(Male =1, Female = 0) 
+22.0 1 
+19.0 0 
+21.2 1 
+17.5 0 
+17.0 0 
+18.0 0 
+21.7 1 
+18.5 0 
+21.0 1 
+20.5 1 
+The OLS results corresponding to the regression model (14.5) are as follows: 
+
+
+--- Page 7 ---
+ 
+250 
+ 
+Block 𝒀𝒊 =    𝟏𝟖. 𝟎𝟎 +   𝟑. 𝟐𝟖  𝑫𝒊   … (14.8)  
+Standard error              (0.32)      (0.44)    
+t-statistic    (57.74)    (7.44) 
+R2 = 0.8737 
+From (14.8) we see that the estimated mean salary of female school-teachers ( 𝜶ෝ 𝟏) 
+is Rs.18,000 and that of male school-teachers (𝜶ෝ 𝟏 + 𝜶ෝ 𝟐) is Rs.21,280. 
+From the calculated t-statistic in regression model (14.8), it is easy to verify that 
+𝜶ෝ 𝟐 is statistically significant (i.e., significantly different from zero), suggesting a 
+difference in starting salaries of male and female school-teachers. If we represent 
+the regression model (14.8) a diagram, we obtain a step-function of the type 
+given in Fig. 14.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 14.1: Salary of Male and Female Teachers (Rs. ‘000) 
+ANOVA models such as those in (14.8), although frequently used in fields such 
+as sociology, education, market research, etc. are not common in economics. 
+Regression models in most economic research consist of explanatory variables 
+that are both quantitative and qualitative in nature. Such type of regression 
+models which contain both qualitative and quantitative explanatory variables are 
+known as analysis of covariance (ANCOVA) models. 
+14.3.2 ANCOVA Models 
+As mentioned earlier, a regression model can have both qualitative (dummy) 
+variables and quantitative variables. Such models are called ANCOVA models. 
+Let us now consider the following as an example of the ANCOVA model: 
+𝒀𝒊 = 𝜶 + 𝜷𝑫𝒊 + 𝜸𝑿𝒊 + 𝒖𝒊      … (14.9)  
+where,  Yi =  annual salary of a school-teacher  
+ Xi= years of teaching experience  
+ Di = 1  if male teacher  
+  0 otherwise (i.e., female teacher)  
+𝟎 
+ 
+𝜶ෝ 𝟏 + 𝜶ෝ 𝟐 
+Male 
+𝜶ෝ 𝟐
+= 𝟑. 𝟐𝟖
+Salary 
+Female 
+𝜶ෝ 𝟏 
+Gender 
+
+
+--- Page 8 ---
+ 
+ 251
+Dummy Variables 
+Models Regression model (14.9) is similar to (14.5) except that it contains a quantitative 
+variable (years of teaching, 𝑿𝒊) in addition to the qualitative variable (gender of 
+the teacher, 𝑫𝒊). The qualitative variable has two categories, namely, male and 
+female. Thus, the model has two explanatory variables: one qualitative and one 
+quantitative.  
+What does model (14.9) mean/imply? Assuming, as usual, E(ui)= 0, we see that 
+the mean salary of a female school-teacher is 
+𝑬(𝒀𝒊|𝑫𝒊 = 𝟎) = 𝜶 + 𝜸𝑿𝒊      … (14.10)  
+and the mean salary of male school-teacher is  
+𝑬(𝒀𝒊|𝑫𝒊 = 𝟏) = (𝜶 + 𝜷) + 𝜸𝑿𝒊     … (14.11)  
+From the model (14.9) we see that the male and female school-teachers’ salary 
+function in relation to the years of experience have the same slope ( ) but 
+different intercepts. In other words, in the model, it is assumed that the level of 
+mean salary of male school-teacher is different from that of his female 
+counterpart but the rate of change in the mean salary by years of experience 
+(represented by the slope term ) is the same for both male and female school-
+teachers. Geometrically we can represent models (14.6) and (14.7) as shown in 
+Fig. 14.2 (in the figure  is assumed to be positive, i.e.,  > 0).  
+ 
+         Fig. 14.2: Annual Salary of Male and Female Teachers 
+Just as in regression (14.8), here also we can use the t-test to test for the 
+hypothesis that male and female school-teachers have the same mean annual 
+salary. 
+Before proceeding further, it is essential to discuss some of the important features 
+of the dummy variables:  
+(i) In dummy variable models discussed so far, we have introduced only one 
+dummy variable, 𝑫𝒊 to distinguish between two categories. For example, 
+male and female with 𝑫𝒊 = 𝟏 denoting male and 𝑫𝒊 = 𝟎  denoting female. 
+Now what happens if instead of one dummy variable two dummy variables 
+Teaching Experience 
+S
+a
+l
+a
+r
+y 
+ 
+ 
+Male teacher 
+Female teacher 
+
+
+--- Page 9 ---
+ 
+252 
+ 
+Block 𝑫𝟏𝒊 and 𝑫𝟐𝒊 are introduced in the model, one each for male and female? 
+Model (14.9) can now be written as  
+ 𝒀𝒊 = 𝜶 + 𝜷𝟏𝑫𝟏𝒊 + 𝜷𝟐𝑫𝟐𝒊 + 𝜸𝑿𝒊 + 𝒖𝒊   … (14.12)  
+where,  Yi and Xi are as defined before, and  
+  𝑫𝟏𝒊 = 𝟏  if a male teacher  
+            0 otherwise  
+  𝑫𝟐𝒊 = 𝟏  if a female teacher  
+0 otherwise  
+Due to perfect collinearity between D 1 and D 2 (i.e., perfect linear 
+relationship) the regression model (14.12) cannot be estimated. This can be 
+explained with the help of the data given in Table 14.2.  
+Table 14.2: Annual Salary of School Teachers 
+  Intercept D1 D2     X 
+Male Y1 1 1 0 X1 
+Male Y2 1 1 0 X2 
+Female Y3 1 0 1 X3 
+Male  Y4 1 1 0 X4 
+Female Y5 1 0 1 X5 
+From Table 14.2 it is easy to verify that D 1 and D2 are perfectly collinear as 
+D1 = (1 – D 2) or D 2 = (1– D 1). We know from Unit 10 that in the case of 
+perfect multicollinearity, it is not possible to estimate the various 
+parameters.  
+There are, however, several ways of resolving this problem but the simplest 
+one is by using dummy variables as we had done in model (14.5). We 
+should use only one dummy variable if there are two categories of a 
+qualitative variable.  
+Rule of Thumb: If a qualitative variable has ‘m’ categories, introduce ‘(m – 
+1)’ dummy variables. 
+Thus, if a qualitative variable has 4 characteristics, we introduce only 3 
+dummy variables. If this rule is not followed, we will fall into what is 
+known as the dummy variable trap , i.e., a situation of perfect 
+multicollinearity. 
+(ii) The assignment of values 0 and 1 to two categories such as rural and urban, 
+or educated and uneducated, etc., is arbitrary. For example, in our model 
+(14.5) instead of assigning 1 to male teacher and 0 to female teacher we 
+could have assigned the value 1 to female teacher and 0 to male teacher 
+
+
+--- Page 10 ---
+ 
+ 253
+Dummy Variables 
+Models (and the coefficients would change accordingly). In such a case, how do we 
+interpret the results? While interpreting the results of the models that use 
+dummy variables, it is critical to know how the values 1 and 0 are assigned. 
+The category that is assigned value 0 is referred to as the ‘base category’ or 
+‘benchmark category’ and all the comparisons are made with reference to 
+this category. In model (14.5) female school-teacher, which is assigned 
+value 0, is the base or benchmark category. 
+(iii) The coefficient attached to the dummy variable (for example  in model 
+14.5) is referred to as the differential intercept coefficient because it tells by 
+how much the value of the intercept term of the category that receives value 
+1 differs from that of the base category. 
+Check Your Progress 1 
+1) Under what circumstances is the use of dummy variable suggested? Give 
+some practical examples where dummy variables can be fitted. 
+……………………………………………………………………...………
+………..........………………………………………………………….……
+……………………..........…………………………………………….……
+…………………………………..........……………………………….……
+………………………………………………..........………………….…… 
+2) Suppose an explanatory variable is divided into 4 categories and you plan 
+to fit 4 dummies in the regression equation. Is it possible to estimate the 
+equation? 
+……………………………………………………………………...………
+………..........………………………………………………………….……
+……………………..........…………………………………………….……
+…………………………………..........……………………………….……
+………………………………………………..........………………….…… 
+14.4 USE OF MORE THAN ONE DUMMY VARIABLE 
+We can extend the analysis in the previous section to handle more than one 
+qualitative variable with ease. Consider once again the example of salary of 
+school-teacher which was used in the previous section. In this section we assume 
+that the salary of a school-teacher to be dependent not only on the years of 
+experience and gender of the teacher but also on the type of education of the 
+teacher. In the present example it is assumed that the type of education has two 
+categories, convent educated and non-convent educated. Incorporating the 
+variable type of education of the teacher in regression model (14.5) we can write 
+it as: 
+𝒀𝒊 = 𝜶 + 𝜷𝑫𝟏𝒊 + 𝜸𝑫𝟐𝒊 + 𝜹𝑿𝒊 + 𝒖𝒊     … (14.13)  
+where,  Yi and Xi are as defined before and  

@@ -1,0 +1,500 @@
+--- Page 40 ---
+ 
+ 
+ 
+39 
+Review of  
+Statistical Concepts 
+ 
+Maximum 
+Likelihood 
+Estimation (MLE) 
+:  The MLE method maximises the likelihood function to 
+obtain an estimate of 𝜃 as a value 𝜃ෘ such that L( 𝜃ෘ) ≥
+𝐿(𝜃) for all 𝜃. 
+Method of 
+Moments 
+: 
+ The method first equates the moments of the 
+theoretical distribution (expressed in terms of 
+parameters) with their corresponding sample moments. 
+It then proceeds to solve the equations to obtain the 
+estimates of the population parameters. 
+2.8  SOME USEFUL BOOKS 
+Bhaumik, Sankar (2017), Principles of Econometrics: A Modern Approach Using 
+E-views, Oxford University Press. 
+Rasch Dieter, Schott Dieter (2018), Mathematical Statistics, Wiley.  
+2.9 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) A parameter relates to the unknown in the population (e.g. mean, 
+variance). A statistic relates to the estimated mean or variance on the basis 
+of a sample drawn from a population. A statistic is a function of sample 
+observations. 
+2) A point estimate of a parameter is a specific value of a ‘statistic’. Any 
+particular estimate obtained from a sample is a ‘point estimate’. If T1 and 
+T2 are two estimates such that ‘P( T1≤ Ø≤ T 2) = 1-α’ (where α is the level 
+of significance), the interval ( T1, T2) is termed as an ‘interval estimate’. It 
+is also called a ‘confidence interval’. 
+3) While the estimator will be the same for multiple samples, the estimate 
+will vary from sample to sample. The distribution of many such point 
+estimates, obtained from different samples, is called the ‘sampling 
+distribution’ of the ‘statistic’. 
+4) (i) unbiasedness, ii) consistency, iii) efficiency and iv) sufficiency. 
+5) (i) lim
+௡ →ஶ
+[ 𝐸(𝑇) −  Ø] = 0 and (ii) lim
+௡ →ஶ
+ 𝑉𝑎𝑟(𝑇) = 0. 
+6) If 𝑨𝒏 is the sample mean for any n i.i.d. random variables with mean µ, 
+then for the WLLN, then any positive number 𝛂,  we will have 
+𝐥𝐢𝐦
+𝒏→ஶ
+𝑷(|𝑨𝒏 −  µ|< 𝛂) = 𝟏. For the SLLN, we will have 𝐥𝐢𝐦
+𝒏→ஶ
+𝑷(|𝑨𝒏 −
+ µ|= 𝟎) = 𝟏.  
+Check Your Progress 2 
+1) A hypothesis is said to be complete if all the parameters of the population 
+from which the sample (to test the hypothesis) is drawn are completely 
+specified. Such hypotheses are also called ‘simple hypotheses’. This is in 
+
+
+--- Page 41 ---
+ 
+ 
+ 
+40 
+Introduction contrast to a ‘composite hypothesis’, which refers to a hypothesis in 
+which one or more of the parameters are either not exactly specified or 
+not specified at all. 
+2) If the alternative hypothesis is specified as H 1: µ≠ µo then the test is called 
+the two-tailed test.  If the alternative hypothesis is one-directional like H 1: 
+µ < µ 0 or µ > µ 0 then the test is called a one-tailed test. It is either a left 
+tailed test or a right tailed test depending on whether the inequality is < or 
+> in H1.  
+3) Rejecting a null hypothesis, when it is actually true, is termed as type-I 
+error. The opposite, i.e., ‘accepting an alternative hypothesis when it is 
+actually false’ is termed as type-II error. Between the two, the type-I error 
+is considered more grave. Hence, we try to ensure that this is kept as low 
+as possible. This level at which we keep the test is called the ‘level of 
+significance’, usually denoted by ∝, and this is kept at either 1 percent or 
+5 percent level. This is the maximum permissible level of committing the 
+type-I error. 
+4) It states that the best values of the unknown are those for which the ‘sum 
+of the squares of the residuals’, S = ∑ 𝒆𝐦
+𝐢ୀ 𝟏
+2i, is the least. The method of 
+least squares gives a unique solution when the number of the normal 
+equations is exactly equal to the number of unknown parameters or the 
+coefficients of the regression model. 
+5) The properties of a maximum likelihood estimator are as follows: (a) It is 
+consistent, efficient and sufficient, (b) it is not necessarily unbiased but 
+can be made unbiased, (c) it tends to be distributed normally for large 
+samples, and (d) it is invariant to functional transformation.  
+ 
+
+
+--- Page 42 ---
+UNIT 3 REVIEW OF MATRIX ALGEBRA 
+Structure 
+3.0 Objectives 
+3.0  Introduction  
+3.1 Basic Notations 
+3.3 Multiplication of Matrices 
+3.4 Matrix, Determinant and Trace 
+3.5 Inverse of a Matrix  
+3.6 Rank of a Matrix  
+3.7 Partitioned Matrices  
+3.8 Eigenvalue and Eigenvector 
+3.9 Certain Special Matrices 
+ 3.9.1 QR Factorization of Real Matrix 
+ 3.9.2 Singular Value Decomposition  
+ 3.9.3 Idempotent Matrix 
+3.10 Kronecker Product and Vec-operator 
+ 3.10.1 Vec-operator (or Vectorization of Matrix) 
+ 3.10.2 Properties of Vec-operator  
+3.11 Matrix Differentiation  
+3.11.1 Jacobian Matrix  
+3.11.2 Gradient Matrix  
+3.11.3 Real Hessian Matrix 
+3.12 Let Us Sum Up  
+3.13 Key Words  
+3.14 Some Useful Books  
+3.15 Answers/Hint to Check Your Progress Exercises  
+3.0 OBJECTIVES  
+After going through this unit, you will be able to  
+ carry out various matrix operations such as multiplication and inverse;  
+ find out the determinant and rank of a matrix; 
+ 
+ 
+Mr. Debasish Dash, Independent Researcher, Delhi 
+
+
+--- Page 43 ---
+ 
+ 
+ 
+42 
+Introduction  define eigenvalue and eigenvector and compute them; 
+ identify some special matrices which are relevant to econometrics;  
+ compute Kronecker product and vec-operator; and 
+ calculate Jacobian matrix, Gradient matrix and Hessian matrix. 
+3.1 INTRODUCTION  
+Matrix algebra is an integral part of econometrics. It not only helps in 
+presentation of multiple variables in a concise form, but also facilitates various 
+mathematical operations. Further, matrix algebra allows us to generalise results 
+from a small number of variables to larger ones.  
+You have already studied matrix algebra in the course MEC 203: Quantitative 
+Methods. In the present Unit we provide an overview of certain concepts which 
+are usually applied in econometrics. Our emphasis is on certain special matrices 
+and their properties. Although the coverage of the topics in the present Unit is 
+limited, we have attempted to provide examples of the concepts for easier 
+comprehension.  
+3.1 BASIC NOTATIONS 
+Let us begin with the definition of a matrix. As you know, matrix is an array of 
+numbers. A matrix is denoted by an upper case alphabet in boldface (e.g.,  A) and 
+its (i, j) th element (the element at the i th row and j th column) is denoted by 
+corresponding lower case alphabet with subscript i,j (e.g., a ij). The dimension or 
+order of a matrix is given by m×n, when the matrix has m rows and n columns. 
+For example, matrix A can be expressed as  
+ 𝑨 = ൦
+𝑎ଵଵ 𝑎ଵଶ ⋯ 𝑎ଵ௡
+𝑎ଶଵ 𝑎ଶଶ ⋯ 𝑎ଶ௡
+⋮ ⋮ ⋮ ⋮
+𝑎௠ଵ 𝑎௠ଶ ⋯ 𝑎௠௡
+൪ 
+If m = n then the matrix is called a ‘square matrix’. An n×1 matrix is an n-
+dimensional column vector. Similarly, an 1×n matrix is a row vector. Every 
+vector will be denoted by a lower-case alphabet in boldface (e.g., a) and its 
+element is denoted by corresponding lower case alphabet with subscript i (e.g., 
+ai). An 1×1 matrix is just a scalar. For a matrix A its ith column is denoted by ai. 
+Alternatively, 𝑨 = [𝑎ଵ , 𝑎ଶ … 𝑎௡ ] 
+where 𝒂𝒊 = [𝑎ଵ௜, 𝑎ଶ௜ ⋯ 𝑎௠௜ ]்     ∀𝑖 = 1, . . .𝑛 
+A matrix is said to be diagonal if its off-diagonal elements (i.e., 𝑎௜௝, 𝑖 ≠ 𝑗) are all 
+zero and at least one of its diagonal elements is non-zero, i.e., 𝑎௜௜ ≠ 0for some i = 
+1, 2, …, n. A diagonal matrix whose diagonal elements are all one is an identity 
+matrix denoted as I; we also write the n × n identity matrix as In. 
+A matrix A is said to be ‘lower-triangular’ if 𝑎௜௝ = 0  for 𝑖 < 𝑗. Similarly, a 
+matrix is said to be ‘upper-triangular’ if 𝑎௜௝ = 0 for 𝑖 > 𝑗. We denote 0 (null 
+matrix) as a matrix whose all elements are zero. The transpose of a m × n matrix 
+
+
+--- Page 44 ---
+ 
+ 
+ 
+43 
+Review of Matrix 
+Algebra 
+𝑨 = (𝑎௜௝) is n × m matrix. Thus, 𝑨′ = (𝑎௝௜). Note that the transpose of a matrix 
+can be denoted by the super-script “T”. Thus, for the matrix A, the notations 
+𝑨′ and 𝑨𝑻 are used interchangeably.  
+3.3 MULTIPLICATION OF MATRICES 
+If A is m × n matrix and B is p × q matrix then the product of A and B is defined 
+as  
+𝑨𝑩 = ൫𝐶௜௝൯௠ ×௤  where 𝐶௜௝ = ൫∑ 𝑎௜௝𝑏௝௞
+௡
+௝ୀଵ ൯  provided n = p.  
+The dimension of AB is given by m × q. 
+When the order of A and B are such that AB is defined, we say that A and B are 
+conformable. For a real-valued square matrix A, we say that A is ‘orthogonal’ if 
+𝑨′𝑨 = 𝑨𝑨′ = 𝑰       … (3.1) 
+For any two matrices A and B for which AB is defined, 
+(𝑨𝑩)𝑻 = 𝑩𝑻𝑨𝑻        … (3.2) 
+If we multiply a square matrix A by itself, that is AA, we obtain 𝑨𝟐.  
+Let us consider an example of matrix multiplication. 
+Example 3.1:  
+𝑨 = ቀ𝑎ଵଵ 𝑎ଵଶ
+𝑎ଶଵ 𝑎ଶଶ
+ቁ  𝑩 = ൬𝑏ଵଵ 𝑏ଵଶ
+𝑏ଶଵ 𝑏ଶଶ
+൰ 
+Hence, 𝑨𝑩 = ൬𝑎ଵଵ . 𝑏ଵଵ + 𝑎ଵଶ . 𝑏ଶଵ 𝑎ଵଵ . 𝑏ଵଶ + 𝑎ଵଶ . 𝑏ଶଶ
+𝑎ଶଵ . 𝑏ଵଵ + 𝑎ଶଶ . 𝑏ଶଵ 𝑎ଶଵ . 𝑏ଵଶ + 𝑎ଶଶ . 𝑏ଶଶ
+൰ 
+Let us consider one more example. 
+Example 3.2:  
+If = ቀ1 2 0
+4 5 6 ቁ        𝑩 = ൭
+4 0
+5 2
+6 1
+൱ . Find AB.  
+𝑨𝑩 = ቀ1.4 + 2.5 + 0.6 1.0 + 2.2 + 0.1
+4.4 + 5.5 + 6.6 4.0 + 5.2 + 6.1 ቁ = ቀ14 4
+77 16 ቁ 
+If AB = BA, then we say that both matrices commute.  
+Any matrix B satisfying 𝐵௞ିଵ ≠ 0 and 𝐵௞ = 0 is said to be ‘nilpotent matrix’ of 
+index k. The matrix ቀ0 1
+0 0 ቁ is nilpotent of index 2.  
+The following are a few theorems related to matrix multiplication (we do not 
+provide the proofs here; you can refer to the course MEC 203).  
+(i)  (𝑨 + 𝑩)𝟐 = (𝑩 + 𝑨)𝟐 
+(ii) (𝑨 + 𝑩)𝟐 = 𝑨𝟐 + 𝑨𝑩 + 𝑩𝑨 + 𝑩𝟐  
+(because, in general, 𝑨𝑩 ≠ 𝑩𝑨) 
+(iii) (𝑨 + 𝑩)𝟐 = (𝑨 + 𝑩)(𝑨 + 𝑩) 
+(iv) 𝑨′𝑨 = 𝟎 iff A = 0 
+
+
+--- Page 45 ---
+ 
+ 
+ 
+44 
+Introduction (v) AB = 0  iff 𝑨′ 𝑨𝑩 = 𝟎 
+(vi) AB = AC iff 𝑨′𝑨𝑩 = 𝑨′𝑨𝑪 
+(vii)  (AB) C = A (BC) for conformable matrices A, B, C  
+(viii)  A(B + C) = AB + AC for conformable matrices A, B, C  
+(ix) (𝑨𝑩)′ = 𝑩′𝑨′ 
+(x)  (𝑨𝑩𝑪)′ = 𝑪′𝑩′𝑨′ 
+3.4 DETERMINANT AND TRACE OF A MATRIX 
+Given a square matrix A, let 𝐴௜௝ denote the sub-matrix obtained from A by 
+deleting its ith row and jth column. The determinant of A is denoted by the symbol 
+det(𝑨). In some texts, you can see that determinant is denoted by the symbol ∆ 
+or |𝑨|.  
+We can find out the determinant of a matrix A by the following formula:  
+𝑑𝑒𝑡( 𝑨) = ∑ (−1)௜ା௝ 𝑎௜௝
+௠
+௜ୀଵ 𝑑𝑒𝑡( 𝐴௜௝)     … (3.3) 
+for any j = 1, …n where (−1)௜ା௝ . Note that 𝑑𝑒𝑡( 𝐴௜௝) is called the cofactor of 
+𝑎௜௝. This definition is based on the cofactor expansion along the j th column. 
+Equivalently, we can define the determinant by using the cofactor expansion 
+along the ith row.  
+𝑑𝑒𝑡( 𝑨) = ∑ (−1)௜ା௝ 𝑎௜௝ 𝑑𝑒𝑡( 𝐴௜௝)௡
+௝ୀଵ  for any i = 1…n.   … (3.4) 
+The determinant of a scalar is the scalar itself. The determinant of a 2 × 2 matrix 
+A is given by 
+|𝑨| = (𝑎ଵଵ 𝑎ଶଶ − 𝑎ଵଶ 𝑎ଶଵ ) 
+You can find out the determinant of a higher order matrix by using its cofactors. 
+Example 3.3: 
+𝑨 = ቂ2 4
+1 5 ቃ. Find |𝑨|. 
+|𝑨| = 2 × 5 − 1 × 4 = 6. 
+A square matrix is singular if its determinant is equal to zero. It is called singular 
+because its inverse cannot be calculated. A square matrix with non-zero 
+determinant is said to be ‘non-singular’ (implies, the matrix has an ‘inverse’ or 
+the matrix is ‘invertible’).  
+Clearly, 𝑑𝑒𝑡( 𝑨) = 𝑑𝑒𝑡( 𝑨′) 
+For a scalar c and an n × n matrix A  
+𝑑𝑒𝑡( 𝑐𝑨) = 𝑐௡ 𝑑𝑒𝑡( 𝑨) 
+You should note that the determinant of a square matrix with a column (or row) 
+of zeros, is zero. Also, the determinant of a diagonal or triangular matrix is 
+simply the product of all diagonal elements. It can also be shown that the 
+
+
+--- Page 46 ---
+ 
+ 
+ 
+45 
+Review of Matrix 
+Algebra 
+determinant of the product of two square matrices of the same size is the product 
+of their determinants.  
+𝑑𝑒𝑡( 𝑨𝑩) = 𝑑𝑒𝑡( 𝑨) 𝑑𝑒𝑡( 𝑩) = 𝑑𝑒𝑡( 𝑩𝑨)     … (3.5) 
+Also, for an m × m matrix A and n × n matrix B  
+𝑑𝑒𝑡( 𝑨 ⊗ 𝑩) = 𝑑𝑒𝑡( 𝑨)௠ 𝑑𝑒𝑡( 𝑩)௡       … (3.6) 
+The symbol ⊗ is the Kronecker product, which we will discuss later in Section 
+3.10.  
+If A is orthogonal matrix, we know that 𝑨𝑨′ = 𝑰.  
+Therefore,  
+𝑑𝑒𝑡( 𝑰) = 𝑑𝑒𝑡( 𝑨′𝑨) = [ 𝑑𝑒𝑡( 𝑨)]ଶ      … (3.7) 
+As the determinant of an identity matrix is one, the determinant of an orthogonal 
+matrix must be either 1 or –1.  
+The trace of a square matrix is the sum of its diagonal elements, i.e.,  
+trace (𝑨) = ∑ 𝑎௜௜௜ = 𝑡𝑟(𝑨)      … (3.8) 
+For example, trace (𝑰𝒏) = 𝑛 
+Let A and B be square matrices of the same order. Let 𝜆 and 𝜇 be scalars. Then  
+(i) 𝑡𝑟(𝑨 + 𝑩) = 𝑡𝑟(𝑨) + 𝑡𝑟(𝑩) 
+(ii) 𝑡𝑟(𝜆𝑨 + 𝜇𝑩) = 𝜆𝑡𝑟(𝑨) + 𝜇𝑡𝑟(𝑩) 
+(iii) 𝑡𝑟(𝑨) = 𝑡𝑟(𝑨′) 
+(iv) 𝑡𝑟(𝑨𝑨′) = 𝑡𝑟(𝑨′𝑨) = ∑ 𝑎௜௝
+ଶ
+௜௝  
+(v) 𝑡𝑟(𝑎𝑎′) = 𝑡𝑟(𝑎′𝑎) = ∑ 𝑎௜
+ଶ
+௜  for any vector a.  
+3.5  INVERSE OF A MATRIX  
+A non-singular matrix A possesses a unique inverse 𝑨ିଵ  in the sense that 
+𝑨𝑨ି 𝟏 = 𝑨ି 𝟏𝑨 = 𝐼. Note that a singular matrix cannot be inverted.  
+Given an invertible matrix A, its inverse can be calculated as 𝑨ିଵ =
+ଵ
+ௗ௘௧ (𝑨) 𝑭′. 
+Here, F is the matrix of the cofactors of A. Recall that the (i,j) th element of F is 
+the cofactor (−1)௜ା௝ 𝑑𝑒𝑡( 𝐴௜௝). The matrix 𝑭′ is known as the adjoint of A.  
+Example 3.4: 
+Find the inverse of matrix A. 
+𝑨 = ቀ𝑎ଵଵ 𝑎ଵଶ
+𝑎ଶଵ 𝑎ଶଶ
+ቁ  
+
+
+--- Page 47 ---
+ 
+ 
+ 
+46 
+Introduction First, find the determinant of A, which is (𝑎ଵଵ 𝑎ଶଶ − 𝑎ଵଶ 𝑎ଶଵ ) 
+Second, find the matrix of cofactors, which is ቂ 𝑎ଶଶ −𝑎ଵଶ
+−𝑎ଶଵ 𝑎ଵଵ
+ቃ.  
+The inverse of matrix A is 
+𝑨ିଵ =
+ଵ
+௔ భభ ௔ మమ ି௔ భమ ௔ మభ
+ቂ 𝑎ଶଶ −𝑎ଵଶ
+−𝑎ଶଵ 𝑎ଵଵ
+ቃ  
+Properties of the Inverse of a Matrix 
+For any non-singular matrix A  
+(i) (𝜆𝑨)ିଵ =
+ଵ
+ఒ 𝑨ିଵ  (for any scalar quantity 𝜆 ≠ 0) 
+(ii) (𝑨ିଵ )ିଵ = 𝑨 
+(iii) (𝑨ିଵ )் = (𝑨் )ିଵ  
+(iv) (𝑨𝑩)ିଵ = 𝑩ିଵ 𝑨ିଵ  if B is non-singular and of the same order as A  
+(v) If A and B commute and B is non-singular then A and 𝑩ିଵ commute.  
+(vi) For a diagonal matrix A, note that 𝑨ିଵ  is also diagonal with the diagonal 
+elements 𝑎௜௜
+ିଵ . 
+3.6 RANK OF A MATRIX  
+Before proceeding to define the rank of a matrix, we need to define ‘row-reduced 
+echelon form of a matrix’. A matrix is said to be in row echelon form , if it 
+satisfies the following: 
+(1) all rows having only zeros at bottom of A  
+(2) all the non-zero rows of A are, as the row number increases then the 
+number of zeros at the beginning of the rows also increases.  
+(3) In order to convert a matrix into row echelon form we can perform two 
+operations on the rows, i.e., scalar multiplication and addition/subtraction. 
+However, it is important to mention that we have to perform the operation 
+on all the elements of a row.  
+Now let us define the rank of a matrix. The rank of matrix A is the maximum 
+number of linearly independent rows in A. Rank can also be defined as the 
+maximum number of linearly independent columns in a matrix.  
+Hence, we can say rank of A = rank of (𝑨் ) 
+The rank of A is the total number of non-zero rows in the row echelon form of A.  
+Example 3.5: 
+Find the rank of matrix A.  
+𝑨 = ൭
+1 2 1 −2
+2 1 3 −1
+2 0 1 4
+൱   
+Reduce this matrix to row reduce echelon form by replacing 𝑅ଶ  of matrix 
+by (row 2 – 2 times row 1)  
+
+
+--- Page 48 ---
+ 
+ 
+ 
+47 
+Review of Matrix 
+Algebra ൭
+1 2 1 −2
+0 −3 1 3
+2 0 1 4
+൱  
+By replacing row 3 of above matrix by (row 3 – 2 times row 1)  
+൭
+1 2 1 −2
+0 −3 1 3
+0 −2 −1 8
+൱  
+By replacing row 3 of above matrix by (3 times row 3 – 2 time 
+s row 2) we get  
+൭
+1 2 1 −2
+0 −3 1 3
+0 0 −5 18
+൱  
+This matrix is in echelon form and there is no zero-row. The rows of the 
+matrix are linearly independent. Thus, the rank of the matrix is three.  
+You should note the following two points: (i) If the matrix A is of dimension 
+𝑚 × 𝑛 where 𝑚 ≠ 𝑛, then rank of the matrix is given by: rank( A) ≤ 𝑚𝑖𝑛{𝑚, 𝑛}. 
+(ii) For a square matrix to be invertible, it must be of full rank. In other words, 
+for A of n × n dimension, 𝑨ିଵ  exists if rank (A) = n.  
+Certain Properties of the Rank of a Matrix 
+(i) rank 𝑨 = 𝟎 ⇔ 𝑨 = 𝟎 
+(ii) rank (𝑰௡ ) = 𝑛 
+(iii) rank (𝜆𝑨) =rank (A) if 𝜆 ≠ 0 
+(iv) rank of a diagonal matrix = number of non-zero diagonal elements 
+in the matrix  
+(v) rank (𝑨 + 𝑩) ≤ rank (A) + rank (B) 
+(vi) rank (𝑨 − 𝑩)  ≥  |rank (A) – rank (B)| 
+(vii) rank (AB) ≤ min (rank A, rank B) 
+Check Your Progress 1  
+1)  Find the inverse of matrix 𝐴 = ൥
+2 4 1
+4 3 7
+2 1 3
+൩. 
+…………………………………………………………………………………
+…………………………………………………………………………………
+…………………………………………………………………………………
+………………………………………………………………………………… 
+2) Find rank of matrix 𝐴 = ൥
+3 0 2 2
+−6 42 24 54
+21 −21 0 −15
+൩ 
+…………………………………………………………………………………
+…………………………………………………………………………………
+………………………………………………………………………………… 
+
+
+--- Page 49 ---
+ 
+ 
+ 
+48 
+Introduction 3.7 PARTITIONED MATRICES  
+A partitioned matrix is a matrix of the form  
+𝒀 = ቀ𝑨 𝑩
+𝑪 𝑫 ቁ where A, B, C, D are matrices. 
+All these matrices need not be square however A and B must have same number 
+of rows. Similarly, C and D have the same number of rows. The column number 
+of A and C and B and D are equal respectively.  
+Suppose, A is m  p matrix, B is m  q matrix, C is n  p matrix, and D is n  q 
+matrix. The dimension of Y is {(m + n)  (p + q)}.  
+A square matrix is ‘block-diagonal’ if it takes the form where all the blocks are 
+square, but not necessarily of the same order.  
+For any tow matrices A and B the direct sum 𝑨 ⊕ 𝑩 is defined as 
+𝐴 ⊕ 𝑩 = ቂ𝑨 𝑶
+𝑶 𝑩 ቃ       … (3.9) 
+In other words, the direct sum of two matrices is a block matrix whose principal 
+diagonals are these two matrices and the off-diagonal matrices are null matrices 
+(need not be of the same order). Thus, a block diagonal matrix is the direct sum 
+of its block. If a square matrix is diagonal then it is block-diagonal but not vice 
+versa. 
+We describe some results pertaining to partitioned matrices.  
+Let 𝒀𝟏 = ൬𝑨𝟏 𝑩𝟏
+𝑪𝟏 𝑫𝟏
+൰        𝒀𝟐 = ൬𝑨𝟐 𝑩𝟐
+𝑪𝟐 𝑫𝟐
+൰ 
+Then, 
+𝒀 = 𝒀𝟏𝒀𝟐 = ൬𝑨𝟏 + 𝑨𝟐 𝑩𝟏 + 𝑩𝟐
+𝑪𝟏 + 𝑪𝟐 𝑫𝟏 + 𝑫𝟐
+൰  
+If the submatrices are well-defined, i.e., 𝒀𝟏 be an (𝑚 + 𝑛) × (𝑝 + 𝑞) matrix and 
+𝒀𝟐 be (𝑝 + 𝑞) × (𝑟 + 𝑠) matrix, then  
+𝒀 = 𝒀𝟏𝒀𝟐 = ൬𝑨𝟏𝑨𝟐 + 𝑩𝟏𝑪𝟐 𝑨𝟏𝑩𝟐 + 𝑩𝟏𝑫𝟐
+𝑪𝟏𝑨𝟐 + 𝑫𝟏𝑪𝟐 𝑪𝟏𝑩𝟐 + 𝑫𝟏𝑫𝟐
+൰  
+If 𝒁 = ቀ𝑨 𝑩
+𝑪 𝑫 ቁ  then 𝒁ᇱ = ቀ𝑨ᇱ 𝑪ᇱ
+𝑩ᇱ 𝑫ᇱቁ  with order of the matrices as follows: 
+𝑨(𝑚 × 𝑝), 𝑩(𝑚 × 𝑞), 𝑪(𝑛 × 𝑝) and 𝑫(𝑛 × 𝑞). 
+Suppose, A and D are square matrices, but not necessarily of the same order. In 
+that case,  
+𝑡𝑟 ቀ𝑨 𝑩
+𝑪 𝑫 ቁ = 𝑡𝑟𝑨 + 𝑡𝑟𝑩      … (3.10) 
+If A and D are non-singular matrices, then  
+ቀ𝑨 𝑶
+𝑶 𝑫 ቁ
+ିଵ
+= ൬𝑨ି 𝟏 𝑶
+𝑶 𝑫 ି 𝟏൰  
+If B and C are non-singular matrices, then  

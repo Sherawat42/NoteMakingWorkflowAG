@@ -1,0 +1,521 @@
+--- Page 52 ---
+UNIT 11 HETEROSCEDASTICITY  
+Structure 
+11.0  Objective 
+11.1  Introduction 
+11.2 Concept of Heteroscedasticity 
+11.3 Consequences of Heteroscedasticity  
+11.4  Detection of Heteroscedasticity 
+11.5 Remedial Measures 
+11.6  Let Us Sum Up 
+11.7  Key Words 
+11.8  Some Useful Books 
+11.9  Answers/Hints to Check Your Progress Exercises 
+11.0  OBJECTIVES 
+After going through this unit, you should be in a position to  
+ explain the concept of heteroscedasticity in regression analysis; 
+ explain the consequences of heteroscedasticity; 
+ apply various methods used to detect heteroscedasticity; and 
+ provide solutions to the problem of heteroscedasticity. 
+11.1  INTRODUCTION 
+In the classical regression model that we discussed in Block 1 we assumed that 
+the error terms are identically independently distributed (IID) with mean 0 and 
+variance 2 . An implication of the above is that the error variance ( 2 ) remains 
+constant for all observations. This assumption of constant variance, however, 
+does not remain valid always. It may so happen that the errors are mutually 
+uncorrelated (that is, no serial correlation) but have different variances. Thus, 
+when the variance of the error term increases or decreases with the dependent 
+variable, we have the case of heteroscedasticity. In other words, we say that the 
+problem of heteroscedasticity arises when the assumption of homoscedasticity – 
+that the variances of the stochastic disturbance term are finite and constant over 
+the sample – is not met.  
+ 
+ 
+Dr. Priti Agrawal, O P Jindal Global University, Sonipat 
+
+
+--- Page 53 ---
+ 
+ 
+ 
+196 
+Violation of Basic 
+Assumptions 
+Heteroscedasticity usually occurs in cross-section data. For example, consider the 
+savings behaviour of households. We know that savings is relatively higher 
+among households with higher income. It is also likely that the variance of 
+savings among high-income families is larger than the variance among low-
+income families. Low-income families do not have much to save, so they cannot 
+differ appreciably in their levels of savings. High-income families, by contrast, 
+exhibit wide ranges, from the miser who saves virtually all his income to the 
+spendthrift who saves virtually nothing. Secondly, there is more freedom of 
+choice for high-income families while low-income families have to spend a 
+major part of their income on consumption goods. Clearly, a cross-section sample 
+of data on savings and income behaviour to estimate a regression model may not 
+satisfy the homoscedasticity assumption.  
+There could be several other reasons for the presence of heteroscedasticity: There 
+may be certain outliers in the data which would increase or decrease error 
+variance. Further, heteroscedasticity often arises because the scale of a variable 
+varies enormously within the sample. For example, in India the large states have 
+relatively large state domestic product (SDP) compared small states. If we take 
+SDP as a regressor in a model, then the variability is likely to increase 
+enormously as we move from small to large states. However, if we take per 
+capita SDP then the variation would not be so prominent. While Maharashtra’s 
+SDP is 175 times that of Manipur, Maharashtra’s per capita SDP is about 2.5 
+times that of Manipur. The point we try to make is that heteroscedasticity in 
+many cases could be due to incorrect data transformation. Thus, variables should 
+be appropriately transformed before running a regression.  
+Heteroscedasticity, or unequal error variance, is more likely to be present in cross 
+section data than in time series data. In the case of time series data, the same 
+entity or unit is surveyed over a period of time which reduces the chances of 
+variability in errors.  
+11.2 CONCEPT OF HETEROSCEDASTICITY 
+As pointed out above, error terms are said to be homoscedastic if the variance of 
+the error term 𝑢௜ conditional upon 𝑥௜is equal to 𝜎ଶ .  
+𝐸(𝑢௜
+ଶ ) = 𝑉𝑎𝑟(𝑢௜) = 𝜎ଶ       … (11.1) 
+(𝑖 = 1, 2, ...., n) 
+In Fig.11.1 below, we show the homoscedasticity condition through a three- 
+dimensional diagram. We observe that the conditional variance of the dependent 
+variable the same for all the values of 𝑥௜ (that is,𝑥ଵ , 𝑥ଶ  and 𝑥ଷ ).  
+ 
+
+
+--- Page 54 ---
+ 
+ 
+ 
+197 
+Heteroscedasticity 
+ 
+Fig. 11.1: Homoscedasticity 
+In case of heteroscedasticity, the variance of 𝑢௜conditional upon 𝑥௜ is as follows: 
+𝐸(𝑢௜
+ଶ ) = 𝑉𝑎𝑟(𝑢௜) = 𝜎௜
+ଶ       … (11.2) 
+ 
+ 
+Fig. 11.2: Heteroscedasticity 
+11.3  CONSEQUENCES OF HETEROSCEDASTICITY 
+Heteroscedasticity has two important implications for estimation. First, the OLS 
+estimators, while still being linear and unbiased, are no longer efficient. They no 
+longer provide minimum variance estimators among the class of linear unbiased 
+estimators (that is, they are not BLUE). Second, estimated variance of the OLS 
+estimator is biased; so, the usual tests of statistical significance, such as t and F 
+tests are no longer valid.  
+We prove these propositions below. 
+1. Unbiasedness of 𝛽መ 
+Assume 𝑦௜ =  𝛽𝑥 ௜ +  𝑢௜ 
+Now, 𝛽መ =
+∑ ௫ ೔௬ ೔
+∑ ௫ ೔మ
+ = 𝛽 +
+∑ ௫ ೔௨ ೔
+∑ ௫ ೔మ       … (11.3) 
+Here, 𝐸(𝑢௜) = 0 
+
+
+--- Page 55 ---
+ 
+ 
+ 
+198 
+Violation of Basic 
+Assumptions 
+𝑢௜ are independent of 𝑥௜.  
+Thus, 𝐸(
+∑ ௫ ೔௨ ೔
+∑ ௫ ೔మ ) = 0 
+Hence, 𝐸(𝛽መ) = 𝛽 
+That is, 𝛽መ is unbiased.  
+2. Efficiency of 𝛽መ 
+To prove that the OLS estimator 𝛽መ  is inefficient in the presence of 
+heteroscedasticity, we show that the 𝑉𝑎𝑟(𝛽∗)  is less than 𝑉𝑎𝑟൫𝛽መ൯ . 𝛽∗ is the 
+Weighted Least Square (WLS) estimator of 𝛽.  
+Now, 𝑉𝑎𝑟൫𝛽መ൯ = 𝐸(𝛽መ − 𝛽)2 =𝐸(
+∑ ௫ ೔௨ ೔
+∑ ௫ ೔మ )2 = 
+∑ ௫ ೔మ ఙ ೔మ
+(∑ ௫ ೔మ )మ    … (11.4) 
+To find the WLS estimator of 𝛽, assume that, 𝜎௜ଶ = 𝜎ଶ 𝑧௜ଶ  and divide 
+𝑦௜ =  𝛽𝑥௜ +  𝑢௜ by 𝑧௜ (here, 𝑧௜are known), 
+we get, 
+௬ ೔
+௭ ೔
+=  𝛽
+௫ ೔
+௭ ೔
++  
+௨ ೔
+௭ ೔
+        … (11.5) 
+ 
+Let  
+௨ ೔
+௭ ೔.= 𝑣௜ 
+Now, the error term 𝑣௜ has a constant variance 𝜎ଶ . This method is called the 
+Weighted Least Squares (WLS) wherein the ith term is weighed by 
+ଵ
+௭ ೔..  
+The WLS estimator 𝛽∗ =  
+∑൬
+ೣ ೔
+೥ ೔
+൰(௬ ೔/௭ ೔)
+∑(
+ೣ ೔
+೥ ೔
+)మ  = 𝛽 +
+∑൬
+ೣ ೔
+೥ ೔
+൰௩ ೔
+∑(
+ೣ ೔
+೥ ೔
+)మ    … (11.6) 
+Since the expected value of the last term is zero, 𝐸(𝛽∗) = 𝛽. Thus, the WLS 
+estimator 𝛽∗is unbiased.  
+𝑉𝑎𝑟(𝛽∗) = 
+ఙ మ
+∑൬
+ೣ ೔
+೥ ೔
+൰
+మ       …(11.7) 
+and 𝑉𝑎𝑟൫𝛽መ൯= 
+∑ ௫ ೔మ ఙ ೔మ
+(∑ ௫ ೔మ )మ  
+Substituting 𝜎௜
+ଶ = 𝜎ଶ 𝑧௜
+ଶ, we get, 
+𝑉𝑎𝑟൫𝛽መுா் ൯= 
+ఙ మ ∑ ௫ ೔మ ௭ ೔మ
+(∑ ௫ ೔మ )మ       … (11.8) 
+Thus, 
+௏௔௥ (ఉ ∗)
+௏௔௥ ൫ఉ෡ ൯ =
+ఙ మ ∑( 
+ೣ ೔
+೥ ೔
+)మൗ
+ఙ మ ∑ ௫ ೔మ ௭ ೔మ (∑ ௫ ೔మ )మ⁄  
+On further elaboration,  
+
+
+--- Page 56 ---
+ 
+ 
+ 
+199 
+Heteroscedasticity ௏௔௥ (ఉ ∗)
+௏௔௥ ൫ఉ෡ ൯ =
+(∑ ௫ ೔మ )మ
+∑൬
+ೣ ೔మ
+೥ ೔మ ൰ ∑ ௫ ೔మ ௭ ೔మ
+ = 
+(∑(௫ ೔௭೔
+ೣ ೔
+೥ ೔
+)మ
+∑(௫ ೔௭೔)మ ∑൬
+ೣ ೔
+೥ ೔
+൰
+మ  = 
+(∑ ௔ ೔௕ ೔)మ
+∑ ௔ ೔మ ∑ ௕ ೔
+మ   … (11.9) 
+where, 𝑎௜ =  𝑥௜𝑧௜ and 𝑏௜ =
+௫ ೔
+௭ ೔
+ 
+The above expression is less than 1 implying that 𝑉𝑎𝑟(𝛽∗)  is less than 
+𝑉𝑎𝑟൫𝛽መ൯. Thus, the OLS estimator is inefficient in the presence of 
+heteroscedasticity. The expression at (11.9) equals 1only if 𝑎௜ and 𝑏௜ are 
+proportional to each other or if 𝑧௜
+ଶ  is a constant in which case 𝜎௜
+ଶ = 𝜎ଶ 𝑧௜
+ଶ  shows 
+that the error variances are equal.  
+Using 𝑉𝑎𝑟൫𝛽መ൯gives wider confidence intervals and standard errors are high. 
+Hence, the t-ratios are smaller thus rendering a coefficient statistically 
+insignificant even though it may found to be significant using WLS.  
+3. Var (𝛃෡ ) is biased  
+We cannot ignore the problem of heteroscedasticity because in the presence of 
+heteroscedasticity, the variance of 𝛽መ is biased. Whether the bias is positive or 
+negative depends on the relationship between 𝜎௜ଶ  and 𝑥௜ଶ .  
+In the presence of heteroscedasticity, 
+𝑉𝑎𝑟൫𝛽መ൯= 
+∑ ௫ ೔మ ఙ ೔మ
+(∑ ௫ ೔మ )మ  
+We know from Unit 4 that, in the case of one explanatory variable, 
+𝑉𝑎𝑟൫𝛽መ൯=
+ோௌௌ
+௡ିଵ  (
+ଵ
+∑ ௫ ೔మ )         
+where RSS = Residual Sum of Squares 
+𝐸(𝑅𝑆𝑆) =𝐸[∑(𝑦௜ − 𝑦ො௜)ଶ ] = 𝐸[∑(𝑦௜ − 𝛽መ𝑥௜)ଶ] = 𝐸[∑൫𝛽𝑥௜ +  𝑢௜ − 𝛽መ𝑥௜൯
+ଶ
+]  
+Or, 𝐸(𝑅𝑆𝑆) =∑ 𝜎௜
+ଶ −
+∑ ௫ ೔మ ఙ ೔మ
+∑ ௫ ೔మ       … (11.10) 
+Hence, 𝐸(𝑉𝑎𝑟൫𝛽መ൯) =  
+ଵ
+(௡ିଵ ) ∑ ௫ ೔మ [∑ 𝜎௜
+ଶ  - 
+∑ ௫ ೔మ ఙ ೔మ
+∑ ௫ ೔మ ]     
+and,𝑉𝑎𝑟൫𝛽መுா் ൯= 
+∑ ௫ ೔మ ఙ ೔మ
+(∑ ௫ ೔మ )మ  
+Thus, 𝐸(𝑉𝑎𝑟൫𝛽መ൯)≠ 𝑉𝑎𝑟൫𝛽መுா் ൯     … (11.11) 
+Therefore, the variance of 𝛽መ is biased. Since the standard errors of least square 
+estimators are found to be biased, it invalidates the inferences drawn on the basis 
+of the tests of significance. 
+Note that if 𝜎௜
+ଶ = 𝜎ଶ  for all ‘i’,  
+
+
+--- Page 57 ---
+ 
+ 
+ 
+200 
+Violation of Basic 
+Assumptions 
+then 𝐸(𝑅𝑆𝑆 ) = (𝑛 − 1)𝜎ଶ . In that case, 𝐸 ቀ𝑉𝑎𝑟൫𝛽መ൯ቁ =  
+ఙ మ
+∑ ௫ ೔మ. Therefore, 
+𝑉𝑎𝑟൫𝛽መுா் ൯ =
+ఙ మ
+∑ ௫ ೔మ . Thus, the bias disappears with homoscedastic error variances.  
+Check Your Progress 1 
+1) Consider the following equation where consumption of good X depends on 
+the following: variables: 𝑋 =  𝛽଴  +  𝛽ଵ  𝑖𝑛𝑐𝑜𝑚𝑒 +  𝛽ଶ  𝑝𝑟𝑖𝑐𝑒 +  𝛽ଷ  𝑚𝑎𝑙𝑒 +
+𝛽ସ  𝑒𝑑𝑢𝑐𝑎𝑡𝑖𝑜𝑛 +  𝑢 
+𝐸(𝑢 ⋮ 𝑖𝑛𝑐𝑜𝑚𝑒, 𝑝𝑟𝑖𝑐𝑒, 𝑚𝑎𝑙𝑒, 𝑒𝑑𝑢𝑐𝑎𝑡𝑖𝑜𝑛) = 0 
+𝑉𝑎𝑟(𝑢 ⋮ 𝑖𝑛𝑐𝑜𝑚𝑒, 𝑝𝑟𝑖𝑐𝑒, 𝑚𝑎𝑙𝑒, 𝑒𝑑𝑢𝑐𝑎𝑡𝑖𝑜𝑛) = 𝜎ଶ 𝑖𝑛𝑐𝑜𝑚𝑒ଶ  
+Transform this equation such that the error term is homoscedastic.  
+..........................................................................................................................
+..........................................................................................................................
+..........................................................................................................................
+.......................................................................................................................... 
+2) “Heteroscedastic errors cause biased regression coefficients and biased 
+standard errors”. State whether True or False? Justify your answer.  
+..........................................................................................................................
+..........................................................................................................................
+..........................................................................................................................
+.......................................................................................................................... 
+11.4  DETECTION OF HETEROSCEDASTICITY 
+In the case of heteroscedasticity, the OLS estimators are unbiased and consistent, 
+but they are no longer efficient. This lack of efficiency makes the usual 
+hypothesis testing procedure faulty and calls for remedial measures. Before we 
+make any corrections for heteroscedasticity, we should first try to detect the 
+presence of heteroscedasticity in the error terms. Two common methods are used 
+to detect the presence of heteroscedasticity.  
+(i) We can plot the residuals against the predicted values of the dependent 
+variable and examine the patterns of the residuals. If the variance of the 
+residuals is not constant but increases or decreases with the independent 
+variable, then there is a possibility of heteroscedasticity in the data set. 
+(ii) A more careful method is to break the sample into two or more sub-
+groups, on the basis of one of the independent variables (say,
+X ), and 
+then compute the error variance of each group. Our null hypothesis is that 
+there is no difference among the variances of these groups. To test this 
+hypothesis, we can use the chi-square test assuming that the error terms 
+
+
+--- Page 58 ---
+ 
+ 
+ 
+201 
+Heteroscedasticity are normally and independently distributed. A problem with this method, 
+however, is that the breakdown of these groups is rather arbitrary in terms 
+of different ranges of X . Therefore, the test is viewed to be merely an 
+indication of the presence of heteroscedasticity.  
+In practice, our data obtained from a sample survey, gives a single value 
+of𝑦corresponding to a value of 𝑋. Getting the entire range of  𝑌 population for 
+chosen value of 𝑥 is difficult. Hence, knowing 𝜎௜
+ଶ  is also difficult. There are, 
+however, other ways of detecting the presence of heteroscedasticity in the data.  
+1. Residual Plot  
+By plotting the estimated residuals𝑢ො௜ against𝑥௜, we can analyse whether there is a 
+systematic pattern in the residuals which suggests heteroscedasticity in the errors. 
+If the heteroscedastic error variance is found to be proportional to the explanatory 
+variable (for example), it gives some prior knowledge which can be used to 
+transform the data and correct for heteroscedasticity. Alternatively, 𝑢ො௜
+ଶ  can be 
+plotted against 𝑦ො௜ and the residual pattern can be analysed. For instance, if a 
+linear or quadratic pattern is observed, it indicates heteroscedasticity in the errors. 
+2. Auxiliary Regression  
+We can test for heteroscedasticity by (i) regressing 𝑢ො௜ on 𝑥௜ଶ , 𝑥௜ଷ ,... oron 𝑥௜, 𝑥௜ଶ , 
+𝑥௜
+ଷ ...or 𝑢ො௜ on 𝑦ො௜
+ଶ , 𝑦ො௜
+ଷ...., and (ii) testing if the regression coefficients obtained are 
+statistically significant.  
+3. Park Test 
+In heteroscedasticity, the variance is different across the observations.  
+Let 𝜎௜
+ଶ =  𝜎ଶ 𝑋௜
+ఉ 𝑒௩ ೔      … (11.12)  
+By taking ‘natural logarithm’, we obtain, 𝑙𝑛 𝜎௜
+ଶ =  𝑙𝑛𝜎ଶ + 𝛽𝑋௜ + 𝑣௜  
+If we take𝑢ො௜
+ଶ as a proxy for𝜎௜ଶ , we obtain     
+𝑙𝑛 𝑢ො௜
+ଶ =  𝛼+ 𝛽𝑋௜ + 𝑣௜     … (11.13) 
+Now, Park Test for detecting heteroscedasticity involves the following steps:  
+a) Run the original regression model despite the heteroscedasticity problem. 
+b) From the regression, obtain 𝑢ො௜and square them, that is, 𝑢ො௜
+ଶ . Then, find out 
+𝑙𝑛 𝑢ො௜
+ଶ  
+
+
+--- Page 59 ---
+ 
+ 
+ 
+202 
+Violation of Basic 
+Assumptions 
+c) Run the auxiliary regression equation indicated in equation (11.13) using 
+an explanatory variable present in the original regression model. Then run 
+the regression against each X variable. In other words, we run the 
+regression against 𝑌෠௜, the estimated value of 𝑌௜. 
+d) Test the null hypothesis𝛽 = 0, i.e., there is no heteroscedasticity.  
+e) If the null hypothesis could not be rejected, we infer that there is no 
+heteroscedasticity. In this case the value of the intercept can be accepted 
+as the common, homoscedastic variance 𝜎ଶ . 
+f) If the null hypothesis is rejected, then we infer that there is 
+heteroscedasticity problem in the data set.  
+4. Glejser Test 
+The steps followed in the Glejser Test are similar to those of the Park Test. An 
+important difference between both the tests is that in place of equation (11.13) we 
+take different functional forms for the auxiliary regression equation.   
+The steps followed are: 
+a) Obtain the residual 𝑢ො௜ from the original regression model. 
+b) Take absolute value |𝑢ො௜|of the residuals.  
+c) Regress the absolute values of |𝑢ො௜|on the X variable that is expected to be 
+closely associated with heteroscedastic variance 𝜎௜
+ଶ .  
+d) You can take various functional forms of 𝑋௜. Some of the functional 
+forms suggested by Glejser are  
+|𝑢ො௜| =  𝛼 +
+ఉ
+௫ ೔
++ 𝑣௜      … (11.14) 
+|𝑢ො௜| =  𝛼 + 𝛽𝑥௜+ 𝑣௜      … (11.15) 
+|𝑢ො௜| =  𝛼 + 𝛽ඥ 𝑥௜ +   𝑣௜     … (11.16) 
+The above means that the Glejser test suggests various plausible (linear as 
+well as non-linear) relationships between the residual term and the 
+explanatory variable to investigate the presence of heteroscedasticity. 
+e) For each of the cases given, test the null hypothesis that there is no 
+heteroscedasticity, i.e., 𝐻଴ : β = 0 (no heteroscedasticity).  
+f) If H0 is rejected, we conclude that there is evidence of heteroscedasticity. 
+You should note that the error term 𝑣௜ can itself be heteroscedastic as well as 
+serially correlated. For both the Park Test and the Glejser Test, the stochastic 
+disturbance term 𝑣௜ should satisfy the standard classical assumptions (see Unit 3).  
+
+
+--- Page 60 ---
+ 
+ 
+ 
+203 
+Heteroscedasticity 5. Goldfeld-Quandt Test 
+The Goldfeld and Quandt (G-Q) Test is used if the sample size is not large. Firstl, 
+the observations are ordered starting with the lowest value of ‘ 𝑋 ’. The 
+observations are divided into two groups such that the first group contains 
+smaller values of the independent variable ‘𝑋’ whereas the second group contains 
+larger values of ‘𝑥’. While segregating the two groups, some middle observations 
+are omitted. Assuming that there are ‘ n’ observations and ‘ c’ observations are 
+omitted, there remains
+(௡ି௖ )
+ଶ observations in each group. Separate OLS regressions 
+are fitted in each group and the 𝑅𝑆𝑆 are obtained corresponding to each group.  
+Each group’s 𝑅𝑆𝑆 hasቂ
+(௡ି௖ )
+ଶ − 𝑘ቃdegrees of freedom. Here, 𝑘 is the number of 
+parameters (including the intercept term) that has to be estimated. Let 𝑅𝑆𝑆ଶ be the 
+𝑅𝑆𝑆 from the group containing large values of ‘ 𝑥’ while 𝑅𝑆𝑆ଵ  be the 𝑅𝑆𝑆 from 
+the group containing smaller values of ‘𝑥’. 
+Now, assume 𝜆 =
+ோௌௌ మ ௗ௙⁄
+ோௌௌ భ ௗ௙⁄       … (11.17) 
+If the error terms are assumed to be normally distributed and they are 
+homoscedastic, then 𝜆  follows an F-distribution with ቂ
+(௡ି௖ )
+ଶ − 𝑘ቃ  degrees of 
+freedom in both numerator and denominator. The null hypothesis (𝐻଴ )is the 
+presence of homoscedasticity. The 𝐻଴  is rejected if the computed value of 𝜆 
+exceeds the critical F-value at the significance level assumed.  
+If the model has more than one independent variable, then any of the 𝑥′𝑠can be 
+employed and the observations can be ranked according to it. Alternatively, the 
+test can be conducted on each of the 𝑥′𝑠. There are two limitations of the G-Q 
+Test: (i) identification of the appropriate 𝑥 variable to be used for ordering the 
+observations. (ii) identifying the number of central observations that has to be 
+omitted. Omitting a few central observations allows us to differentiate between 
+the smaller variance group 𝑅𝑆𝑆ଵ  and the larger variance group 𝑅𝑆𝑆ଶ.  
+6. Breusch-Pagan Test 
+Two limitations of the Goldfeld and Quandt test mentioned above can be avoided 
+by adopting the Breuschand Pagan (B-P) Test, which is an asymptotic test.  
+Let us assume that the variance of the error term is a function of certain variables 
+such that, 
+
+
+--- Page 61 ---
+ 
+ 
+ 
+204 
+Violation of Basic 
+Assumptions 
+𝜎௜ଶ = 𝑓(𝛼ଵ + 𝛼ଶ 𝑧ଶ௜ + 𝛼ଷ 𝑧ଷ௜ +  … + 𝛼௠ 𝑧௠௜ )    … (11.18) 
+The steps to be followed are: 
+(i)  Use the following regression model: 
+𝜎௜
+ଶ = 𝛼ଵ + 𝛼ଶ 𝑧ଶ௜ + 𝛼ଷ 𝑧ଷ௜ + … + 𝛼௠ 𝑧௠௜      
+(iii) Test the null hypothesis that 𝛼ଶ = 𝛼ଷ = ⋯ =  𝛼௠ = 0. If this null 
+hypothesis is accepted, then 𝜎௜
+ଶ  is homoscedastic. The function f(.) can take 
+any form and the test is not affected by the functional form.  
+(iii)  Let 𝜎ොଶ = ∑ ௨ෝ ೔
+మ
+௡        … (11.19) 
+(iv)  Obtain S 0 = explained sum of squares from a regression of 𝑢ො௜
+ଶ  on 
+𝑧ଶ , 𝑧ଷ , … ,𝑧௠ .  
+Then λ = S 0/2𝜎ොସ  follows a χ 2 distribution with ‘m ’ degrees of freedom 
+assuming normally distributed error terms and homoscedasticity.  
+7. White’s Test 
+An assumption under the Breusch-Pagan Testis the normal distribution of the 
+error terms. The Goldfeld-Quandt test, on the other hand, requires ordering of the 
+observations. The White’s test does not require the assumption that the error 
+terms are normally distributed. Nor does it require ordering of observations. This 
+test suggests regression of 𝑢ො௜
+ଶ  on all the independent variables in the model as 
+well as their squares and their cross products. In the case of three independent 
+variables, for example, the White’s test suggests regressing 𝑢ො௜
+ଶ on 
+𝑥ଵ ,   𝑥ଶ ,   𝑥ଷ ,   𝑥ଵ
+ଶ ,   𝑥ଶ
+ଶ ,    𝑥ଷ
+ଶ ,    𝑥ଵ 𝑥ଶ ,    𝑥ଵ 𝑥ଷ  and 𝑥ଶ 𝑥ଷ  .  
+Let us take the case of two independent variables, 𝑥ଶ  and 𝑥ଷ . The steps to be 
+followed are: 
+(i) Run the following auxiliary regression including the constant term: 
+𝑢ො௜
+ଶ = 𝛼ଵ +  𝛼ଶ  𝑥ଶ௜ +  𝛼ଷ 𝑥ଷ௜ + 𝛼ସ  𝑥ଶ௜ ଶ + 𝛼ହ  𝑥ଷ௜ ଶ +  𝛼଺  𝑥ଶ௜𝑥ଷ௜ +  𝑣௜    … (11.20) 
+(ii) Find the 𝑅ଶ  of the auxiliary regression equation given at equation (11.20).  
+(iii) For homoscedasticity, the null hypothesis is 𝐻଴ : 𝛼ଶ  = 𝛼ଷ = 𝛼ସ  = 𝛼ହ  =
+𝛼଺  = 0 
+(iv) Consider that 𝑛𝑅ଶ  asymptotically follows a 𝜒ଶ  distribution with 5 degrees 
+of freedom (𝑛 is the sample size). Here, the number of regressors without 

@@ -1,0 +1,641 @@
+--- Page 72 ---
+ 
+ 215
+Errors in Variables the collection or publication of data. If the measurement errors are systematic, in 
+general, auxiliary equations can be specified to capture these errors. This unit will 
+focus only on the impact of random measurement errors on the regression model. 
+12.2 CONSEQUENCES OF ERRORS IN VARIABLES 
+Most of the published data or summary information contain errors of 
+summarizing or misrepresenting by informer. When these data are used, one of 
+the assumptions of classical lease-squares method is violated. In this case, the 
+classical least-squares estimators will be biased even when sample size increases, 
+which is alternatively known as asymptotic biases or inconsistency.  
+Under the classical assumptions the ordinary least squares (OLS) estimators are 
+best linear unbiased. One of the major underlying assumptions is the 
+interdependence of repressors from the disturbance term. If this condition does 
+not bold, OLS estimators are biased and inconsistent. This statement may be 
+illustrated by simple errors in variables.  
+We discuss about the consequences in the following, if the error appears in the 
+measurement of dependent variable, independent variable or both.  
+12.2.1 Measurement Error in Y  
+Let us assume that only the dependent variable contains error of measurement. 
+Assume that the true regression model (written in deviation form) is 
+ri ixy
+            … (12.1) 
+where i represents errors associated with the specification of the model (the 
+effects of omitted variables, etc.). 
+Assume that the variable ,y* instead of y, is obtained in the measurement process 
+such that  
+,uyy ii*i             … (12.2) 
+The measurement error iu is not associated with the regressor. Thus we have  
+  0x,uCov ii   
+The regression model is estimated with *y as the dependent variable, with non 
+account being taken of the fact that *y is not an accurate measure of y. therefore, 
+instead 0 estimating Eq. (12.1), we estimate  
+   iiiii* uxuyy   
+or,   iii* uxy   
+or,  ii* exy            … (12.3) 
+where ie is a composite error term, containing the population disturbance term i
+(which may be called the error term in the equation) and the measurement error 
+term iu . 
+
+
+--- Page 73 ---
+ 
+216 
+ 
+Violations of Basic 
+Assumptions 
+For simplicity let us assume that       0,xCov,0uEE iiii  (which is the 
+assumption of classical linear regression), and   ,0u,xCov ii  i.e., the errors of 
+measurement in *y are uncorrelated with ,xi and   ,0u,Cov ii  the equation error 
+and measurement error are uncorrelated.  
+With these assumptions, it can be shown that  estimated from either (12.1) or 
+(12.3) will be an unbiased estimator of the true  . Thus, the errors of 
+measurement in dependent variable ,y* do not destroy the unbiased property of 
+the OLS estimators.  
+However, the variances and standard errors of  estimated from (12.1) and (12.3) 
+will be different because, employing the usual formula, we obtain  
+For (12.1),  
+
+ 2
+i
+2
+x
+ˆVar                … (12.4) 
+For (12.3),  
+
+ 
+2
+i
+2u
+2
+i
+2
+2
+i
+2u2
+2
+i
+2
+xxxx
+ˆVar      … (12.5) 
+Obviously, the variance given at (12.5) is larger than the variance given at (12.4). 
+Therefore, although the errors of measurement in the dependent variable still give 
+unbiased estimates of the parameters and their variables, the estimated variances 
+are now larger than the case where there are no such errors of measurement.  
+12.2.2 Measurement Error in X  
+We have taken the true regression model deviation form to be 
+  iii xy           … (12.1) 
+Now let us assume that explanatory variable ix is measured with error and the 
+observed value becomes *ix such that  
+  ii*i xx   
+or,  i*ii xx   
+Substituting the value of ix in (12.1), we have  
+   ii*ii xy   
+  ii*ix   
+   ii*ix   
+   i*i wx   
+where ,w iii  We have assumed earlier that the measurement error in x is 
+normally distributed with zero mean, it has no serial correlation, and it is 
+uncorrelated with .i  However, we can no longer assume that the composite error 
+term iw is independent of the explanatory variable *ix . 
+        *i*iii*ii xExwEwEx,wCov   
+
+
+--- Page 74 ---
+ 
+ 217
+Errors in Variables        i*ii xx0wE   
+     iiiE   
+     2
+iiiE   
+   20   
+   2        … (12.6) 
+The composite error term iw has mean zero as 
+        0EEEwE iiiii  . 
+Thus, the explanatory variable and the error term are correlated, which violates 
+the crucial assumption of the classical linear regression model that the 
+explanatory variable is uncorrelated with the stochastic disturbance term. If this 
+assumption is violated, then OLS estimates are not only biased but also 
+inconsistent; they remain biased asymptotically. Let us now show this.  
+Instead of being able to estimate true relationship (12.1), we are forced to replace 
+ix by *ix . Now the OLS estimator is  
+ 
+
+ 2*
+i
+i*i
+x
+yxˆ  
+  
+ 
+
+
+ 2
+ii
+iii
+x
+yx  
+   
+ 
+
+
+ 2
+ii
+iiii
+x
+xx  
+ 
+ 
+   
+
+
+ii2
+i
+2
+i
+iiiiii2
+i
+x2x
+xxx
+ 
+From above we find that ˆ is a biased estimate as   .ˆE  Let us see the 
+asymptotic properties of ˆ . 
+Since ii and  are stochastic and are uncorrelated with each other as well as with 
+,xi we can say that  
+ 
+ 
+
+
+ 2
+i
+2
+i
+2
+i
+x
+xlimpˆlimp  
+  2)x(Var
+)x(Var
+
+ (Since xXx ii  by definition)  
+  22x
+2
+2x
+
+  
+  22x
+2x
+
+  
+
+
+--- Page 75 ---
+ 
+218 
+ 
+Violations of Basic 
+Assumptions   
+
+
+
+
+2x
+2
+1
+1               … (12.7) 
+Thus, ˆ is biased even for an infinite sample and ˆ is an inconsistent estimator of 
+ . 
+12.2.3 Measurement Errors in both X and Y 
+Now let us assume that both X and Y have errors of measurement. The true 
+model is as before 
+ iii xy   
+Since X and Y have errors of measurement, we observe *ix and *iy instead of ix
+and ,yi such that 
+ ,uYy ii*i    ,xx ii*i   
+where ii andu  present the errors in the values of ii xandy respectively. We make 
+the following assumptions about the error terms: 
+(i) There is no correlation between the error term and corresponding variable, 
+i.e., 
+    0y,xE,0u,yE iiii   
+(i) There is no correlation between error of one variable and measurement of 
+the other variable, i.e., 
+    0y,E0x,uE iiii   
+(i) There is no correlation between errors in measurement of both the 
+variables, i.e.,  
+  0,uE ii   
+On the basis of the above assumptions, our estimated regression equation will be  
+  ii xy   
+ or,  i*iii xuy   
+ or,  ii*i*i uxy   
+ or,   ii*i*i xy           …(12.8) 
+Equation (12.8) shows that if we model *y as a function of ,x* the transformed 
+disturbance contains the measurement error in  . We then write the OLS 
+estimator ''  as 
+  
+
+ 2*
+i
+*i*i
+x
+yxˆ  
+By substituting the values of *x and *y in terms of x and y we find that  
+   
+ 
+
+
+ 2
+ii
+iiii
+x
+uyxˆ  
+
+
+--- Page 76 ---
+ 
+ 219
+Errors in Variables     
+ 
+
+
+ 2
+ii
+iiii
+x
+uxx  
+  
+  
+   
+
+
+ii2
+i
+2
+i
+iiiiii2
+i
+x2x
+uuxxx  
+From above we observe that   ˆE  
+  
+ 
+
+
+ 2
+i
+2
+i
+2
+i
+x
+xlimpˆlimp  
+   2)x(Var
+)x(Var
+
+  
+   22x
+2x
+
+  
+   22x
+2x
+
+  
+   
+
+
+
+
+2x
+2
+1
+1        … (12.9) 
+Thus, ˆ will not be a consistent estimator of  . The presence of measurement 
+error of the type in question will lead to an underestimate of the true regression 
+parameter if ordinary least squares are used.  
+Example 12.1 
+A Specific illustration of this problem in economics is the permanent income 
+theory of the consumption function, which is an errors-in-variables model. 
+According to this model measured income *Y has a permanent (true) component. 
+Y and a transitory component, Y  such that  
+   YYY*                … (12.10) 
+Measured consumption expenditure, ,C* similarly, has a permanent (true) 
+component, ,C and a transitory component, C such that  
+   CCC*                … (12.11)    
+As you know form MEC-002, Block 4, the permanent consumption (C) is 
+proportional to permanent income (Y). Due to transitory components, however, 
+the average propensity to consume declines as income of a household increases. 
+Let us analyse this issue through errors in variables.  
+The transitory components represent accidental or chance factors, including 
+cyclical variations. They can be treated as the errors in measuring income and 
+consumption. It is usually assumed that errors, on the average, vanish: 
+ 
+    0CEYE                    … (12.12)   
+
+
+--- Page 77 ---
+ 
+220 
+ 
+Violations of Basic 
+Assumptions It is also usually assumed that the errors are correlated neither with each other nor 
+with the permanent components: 
+       0C,YCovC,CCovY,YCov                            … (12.13) 
+According to permanent-income hypothesis,  
+ uYC 21         … (12.14) 
+that is, permanent consumption is a linear function of permanent income, where 
+21and are constant parameters and u is a stochastic disturbance term. Notice 
+that the parameter 1 in (12.14) represents marginal propensity to consume 
+(MPC). Combining (12.14) with (12.10) and (12.11) yields  
+  ,YYC 12*1*    where  Cu   … (12.15) 
+Equation (12.15) is a simple linear regression model of the same form as (12.8). 
+Then,  
+ 11ˆlimp    (as we know from (12.9)) 
+Since the ratio 1 is less than unity, we observe that the above term is less than 
+the true parameter.  
+Thus, the estimated marginal propensity to consume, ,ˆ1 even in the probability 
+limit, systematically underestimates the true 1 . The greater the variance of 
+transitory income, the greater will be the underestimating. Only when the 
+variance of transitory (error) component of income is zero, the least squares 
+estimator of 1 is a consistent estimator. To solve this problem, it is necessary to 
+construct a measure of permanent income Y before estimating the consumption 
+function.  
+Check Your Progress 1 
+1) Explain the concept of errors in variable. What are its consequences? 
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+2) State whether the following statements are true or false? 
+a) Errors in variables lead to estimates of the regression coefficients that 
+are biased.  
+b) The presence of measurement error in an equation leads to an 
+underestimate of the true regression parameter if ordinary least 
+squares are used. 
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+
+
+--- Page 78 ---
+ 
+ 221
+Errors in Variables 3) Explain briefly why measurement error in the explanatory variables leads 
+to biased and inconsistent parameter estimates while measurement error 
+in the dependent variable does not. 
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+12.3 INSTRUMENTAL VARIABLES METHOD 
+The problem of errors in the measurement of variables in regression models is 
+quite important, yet econometricians do not have much to offer in the way of 
+useful solutions. As a general rule, we tend to pass over the problem of 
+measurement error, hoping that the errors are small enough which will not 
+destroy the validity of the estimation procedure. One technique which is available 
+and can solve the measurement error problem is the technique of instrumental 
+variables estimation. We briefly outline the concept of instrumental variables 
+because it is likely to be useful with measurement errors.  
+The method of instrumental variables involves the search for new variable Z 
+which is highly correlated with the independent variable X and at the same time 
+uncorrelated with the error term in the equation (as well as the errors of 
+measurement of both variables). In practice, we are concerned with the 
+consistency of parameter estimates and therefore concentrate on the relationship 
+between the variable Z and the remaining variables in the model when the sample 
+size gets large. We define the random variable Z to be an instrument if the 
+following conditions are met.  
+1) The correlations between Z and ,and,u,
+  respectively, in the regression 
+approach zero, as the sample size gets large.  
+2) The correlation between Z and X is nonzero, as the sample size gets large.  
+We simply select one instrument (or combination of instruments) that has the 
+highest correlation with the X variable.  
+Assuming for the moment that such a variable can be found, we can alter the least 
+squares regression procedure to obtain estimated parameters that are consistent. 
+Unfortunately, there is no guarantee that the estimation process will yield 
+unbiased parameter estimates. To simplify the matter, let us consider the case of 
+measurement errors in the independent variable such iii xy  and only x is 
+measured with error (as  xx* ). In order to solve the problem we take the 
+regression equation iii zy  Where Z is the instrumental variable. The 
+instrumental variables estimator of the regression slope in the above model is  
+  
+
+
+i*i
+ii
+zx
+zyˆ       … (12.16) 
+The choice of the particular slope formula is made so that the resulting estimator 
+will be consistent. To see this, we can derive the relationship between the 
+instrumental-variables estimator and the true slope parameter as follows: 
+
+
+--- Page 79 ---
+ 
+222 
+ 
+Violations of Basic 
+Assumptions   
+
+
+i*i
+ii
+zx
+zyˆ  
+   
+
+ 
+i*i
+i*i*i
+zx
+zx  
+   
+
+  
+i*i
+*iii*i
+zx
+zzx  
+   
+
+ 
+i*i
+*ii
+zx
+z  
+Clearly, the choice of Z as an instrument guarantees that ˆ will approach  as the 
+sample size gets large   0approaches,zCov * and will therefore be a consistent 
+estimator of .  Remember that the variable *ix in (12.16) was not replaced by iz
+in the denominator of instrumental variables estimator, as the estimator 
+
+
+2
+i
+ii
+z
+zy
+does not yield a consistent estimator of .  Let us show this,  
+  
+
+ 2
+i
+ii
+z
+zyˆ  
+  
+
+ 2
+i
+ii
+z
+zy  
+   
+
+  2
+i
+i*i*i
+z
+zx  
+  
+
+   2
+i
+*iii*i
+z
+zzx  
+   
+
+   2
+i
+*iiiii
+z
+zzx  
+  
+
+    2
+i
+*iiiiii
+z
+zzzx  
+  
+
+ 2
+i
+ii
+z
+zxlimpˆlimp  
+     
+
+ 2z
+iizxCov  
+The above shows that 
+
+
+2
+i
+ii
+z
+zy will not yield a consistent estimator of  . 
+The technique of instrumental variables appears to provide a simple solution to a 
+difficult problem. We have defined an estimation technique, which yields 
+consistent estimates if we can find an appropriate instrument.  
+A few concluding comments may be instructive.  
+
+
+--- Page 80 ---
+ 
+ 223
+Errors in Variables i) First, the OLS estimation technique is actually a special case of 
+instrumental variables. This follows because in the classical regression 
+model X is correlated with the error term and because X is perfectly 
+correlated with itself.  
+ii) Second, if we generalize the measurement error problem to errors in more 
+than one independent variable, one instrument is needed to replace each of 
+the designated independent variables.  
+iii) Finally, we repeat that instrumental-variables estimation guarantees 
+consistent estimation but does not guarantee unbiased estimation.   
+12.4 TEST OF MEASUREMENT ERRORS 
+Suppose we are estimating the two-variable regression model  
+ iii xy                  … (12.1) 
+There is a possibility that x might be measured with error.  
+If ,xx i*ii  then the actual least squares regression would be 
+   ii*ii xy   
+  ii*ix   
+   ii*ix   
+  *i*ix               … (12.17) 
+where ii*i   
+If x is measured with error, we have seen that consistent estimator of  can be 
+obtained by using an instrument z which is correlated with *x but uncorrelated 
+with  and . Suppose the relationship between z and *x is given by 
+  ii*i wzx                … (12.18) 
+When (12.18) is estimated using least squares, we obtain  
+  i*i zˆx   
+ or  i*i*i wˆxˆx                 … (12.19) 
+where iwˆ are the regression residuals. Substituting the value of eq. (12.19) into 
+eq. (12.17) we have 
+   iii wˆxˆy   
+  *ii*ii wˆxˆy                … (12.20) 
+Whether or not there is measurement error, the coefficient of *ixˆ will be 
+consistently estimated by ordinary least squares, since 
+    .0N
+zˆlimpN
+xˆlimp iii*i*i    
+In fact, the least-squares estimator of the coefficient of *ixˆ in eq. (12.20) is 
+identically equal to the instrumental-variables estimator, which is given by 
+
+
+--- Page 81 ---
+ 
+224 
+ 
+Violations of Basic 
+Assumptions   
+
+
+i*i
+ii
+zx
+zyˆ  
+To look at the coefficient of the variable ,wˆ i note that  
+   
+N
+zˆxlimpN
+wˆlimp iii*i*ii    
+    
+N
+xlimp iii   
+   2  
+When there is no measurement error, ,02  so that OLS applied to eq. (12.20) 
+will generate a consistent estimator of the coefficient of .wˆ i However, when there 
+is measurement error, the coefficient will be estimated inconsistently.  
+This suggests a relatively easy measurement error test. Let  represent the 
+coefficient of the variable iwˆ in eq. (12.20). 
+Substituting ,wˆxxˆ i*i*i  we get  
+   *iii*ii wˆwˆxy   
+or    *ii*ii wˆxy             … (12.21) 
+With no measurement error, , so that the coefficient of iwˆ should equal zero. 
+However, with measurement error, , and the coefficient will (in general) be 
+different from zero. We can test for measurement error by doing a simple two-
+stage procedure. First, we regress *x on z to obtain the residuals wˆ . Then, we 
+regress y on *x and wˆ and perform a t test on the coefficient of the wˆ variable. If 
+we are concerned with measurement error in more than one variable of a multiple 
+regression model, an equivalent F test could be applied.  
+The test just described is a special case of a more general test for specification 
+error proposed by Hausman. The Hausman specification test relies on the fact 
+that under the null hypothesis the ordinary least-squares estimator of the 
+parameters of the original eq. (12.17) is consistent and (for large samples) 
+efficient, but is inconsistent if the alternative hypothesis is true. However, the 
+instrumental-variables estimator [test least-squares estimator of eq. (12.20)] is 
+consistent whether or not the null hypothesis is true, although it is inefficient if 
+the null hypothesis is not valid.  
+The Hausman specification test is as follows: If there are two estimators 
+21 ˆandˆ  that converge to the true value 
+ under the null but converge to different 
+values under the alternative, the null hypothesis can be verified by testing 
+whether the probability limit of the difference of the two estimators is zero. 
+Example 12.2 
+The expenditure of states and local governments (EXP) in US vary substantially 
+by state and region. Among the important variables that explain difference in 
+spending levels are federal grants-in-aid (AID), the income of states (INC), and 

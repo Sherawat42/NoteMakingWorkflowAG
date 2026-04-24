@@ -1,0 +1,424 @@
+--- Page 11 ---
+ 
+254 
+ 
+Block   D1i = 1  if a male teacher  
+   0 otherwise (i.e., female teacher)  
+  D2i = 1  if convent educated  
+0 otherwise (i.e., non-convent educated) 
+In the above model (14.13) we have used two dummy variables one each for the 
+two qualitative explanatory variables ‘gender of the teacher’, and ‘type of 
+education of the teacher’. The base or the benchmark category in the above 
+model is ‘non-convent educated female school-teacher’.  
+Assuming 𝑬(𝒖𝒊) = 𝟎, from equation (14.13), we can have the following: 
+Mean salary of a non-convent educated female school-teacher: 
+𝐄(𝐘𝐢|𝐃𝟏 = 𝟎, 𝐃𝟐 = 𝟎, 𝐗𝐢) = 𝛂 + 𝛅𝐗𝐢    … (14.14)  
+Mean salary of non-convent educated male school-teacher: 
+𝐄(𝐘𝐢|𝐃𝟏 = 𝟏, 𝐃𝟐 = 𝟎, 𝐗𝐢) = ( 𝛂 + 𝛃) + 𝛅𝐗𝐢    … (14.15)  
+Mean salary of convent educated female school-teacher: 
+𝐄(𝐘𝐢|𝐃𝟏 = 𝟎, 𝐃𝟐 = 𝟏, 𝐗𝐢) = ( 𝛂 + 𝛄) + 𝛅𝐗𝐢    … (14.16)  
+Mean salary of convent educated male school-teacher: 
+𝑬(𝒀𝒊|𝑫𝟏 = 𝟏, 𝑫𝟐 = 𝟏, 𝑿𝒊) = ( 𝜶 + 𝜷 + 𝜸) + 𝜹𝑿𝒊   … (14.17)  
+A variety of hypotheses can be tested by the Ordinary Least Squares (OLS) 
+estimation of the model (14.13). For example, we can test for the significance of 
+the differential intercept terms  or , or both  and  thereby determining which 
+of the possibilities exists without running the regression separately for each 
+combination of gender and type of education. 
+In a similar fashion we can extend the model to include more than one 
+quantitative and more than two qualitative variables. However, we must keep in 
+mind that the number of dummies for each of the qualitative variable should be 
+one less than the number of categories of that variable. 
+14.5 TESTING FOR STRUCTURAL STABILITY 
+ THROUGH DUMMY VARIABLES 
+In the regression models that have been discussed so far in the present unit we 
+have considered that the qualitative variables affect the intercept term only but 
+not the slope coefficient. But what happens if the slope coefficients are also 
+affected by the qualitative variables? In such situations, testing the differences in 
+the intercepts alone will be of little significance. Therefore, we need to look for a 
+methodology that will identify whether the differences in two or more regressions 
+are due to differences in the intercept, or slopes or both slope and intercept. In 
+order to understand this problem, let us consider the following example. Suppose 
+we are interested in estimating a simple savings function that relates domestic 
+household savings (S) with the gross domestic product (Y) of India for the period 
+
+
+--- Page 12 ---
+ 
+ 255
+Dummy Variables 
+Models 1980-81 to 2002-03. The relevant data is given in Table 10.3 below. One way of 
+proceeding is to simply run an OLS regression of S on Y for the entire period 
+1980-81 to 2002-03 if the relation between savings and GDP do not change over 
+the entire period. But it may not be so. India, in 1991 introduced a series of 
+economic reforms thereby bringing in substantial change in its economic system. 
+The introduction of economic reforms would have also influenced considerably 
+the savings-income relationship. Thus, our objective is now to check whether the 
+savings-income relationship has undergone a structural change between the two 
+time periods or not. By structural change we mean that the parameters of the 
+savings function have changed. Let us assume the model 
+𝑺𝒕 = 𝑨𝟏 + 𝑨𝟐𝒀𝒕 + 𝒖𝟏𝒕      … (14.18)  
+for the pre-reforms period; and 
+𝑺𝒕 = 𝑩𝟏 + 𝑩𝟐𝒀𝒕 + 𝒖𝟐𝒕      …(14.19)  
+for the post-reforms period 
+where,  S t   = household savings in period t, (t = 1980-81 to 2002-03) 
+  Y t   = gross domestic product in period t, (t = 1980-81 to 2002-03)  
+  u = the error term  
+The Chow test would tell us whether there was a structural change in the saving-
+income relationship over the concerned period. However, it will not tell us 
+whether the difference in the two regression models (14.18) and (14.19) is in 
+their intercept values or in the slope values or in both. Comparing the two models 
+(14.18) and (14.19) we see that there are four possibilities: (these possibilities are 
+illustrated in Fig.14.3) 
+a) A1=B1, and A 2=B2; i.e., the two regressions are identical. This is the case 
+of coincident regression. (refer to Fig.14.3a) 
+b) A1≠B1, but A2=B2; i.e., the two regressions differ only in their location or 
+the intercepts. This is a case of parallel regression. (refer to Fig.14.3b) 
+c) A1=B1, but A 2≠B2; i.e., the two regressions have same intercept term but 
+different slopes. This is a case of concurrent regression . (refer to 
+Fig.14.3c) and  
+d) A1≠B1, and A2≠B2; i.e., the two regressions are completely different. This 
+is a case of dissimilar regression. (refer to Fig.14.3d) 
+From the data on household savings and gross domestic product for India 
+given in Table 14.2 we can run the regressions (14.18) and (14.19) and apply 
+the Chow test to see whether the savings function has undergone a structural 
+change between the two time periods. (Students are advised to apply the 
+Chow Test and find out the result as an assignment) 
+
+
+--- Page 13 ---
+ 
+256 
+ 
+Block  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 14.3: Possible Differences in the Two Regression Models 
+Table 14.3: Domestic Savings and GDP in India, 1980-81 to 2002-03 
+(at constant prices) (Rs. crore)  
+Year 
+Domestic 
+Savings 
+(S) 
+Gross Domestic 
+Product (Y) Year Domestic 
+Savings (S) 
+Gross Domestic 
+Product (Y) 
+1980-81 27136.0 401128.0 1992-93 162906.0 737791.6 
+1981-82 31355.0 425072.8 1993-94 193621.3 781345.0 
+1982-83 34368.0 438079.5 1994-95 251463.4 838031.0 
+1983-84 38587.0 471742.2 1995-96 298747.3 899563.0 
+1984-85 46063.0 492077.3 1996-97 317260.7 970082.0 
+1985-86 54167.0 513990.0 1997-98 352178.0 1016595.0 
+1986-87 58951.0 536256.7 1998-99 374659.0 1082748.0 
+1987-88 72908.0 556777.8 1999-00 468681.0 1148368.0 
+1988-89 87913.0 615098.4 2000-01 495986.0 1198592.0 
+1989-90 106979.0 656331.2 2001-02 535185.0 1267833.0 
+1990-91 131340.0 692871.5 2002-03 597697.0 1318321.0 
+1991-92 143908.0 701863.2    
+An alternative way of testing whether the savings function has undergone a 
+structural change or not is the use of dummy variables . Let us see how the 
+dummy variables can be used to handle the problem of structural change. 
+
+
+--- Page 14 ---
+ 
+ 257
+Dummy Variables 
+Models Let us write the savings function as 
+𝑺𝒕 = 𝒂 + 𝒃𝑫𝒕 + 𝒄𝒀𝒕 + 𝒅(𝑫𝒕𝒀𝒕) + 𝒖𝒕    … (14.20)  
+where,   𝑺𝒕 = household savings in period t 
+  𝒀𝒕 = GDP in period t  
+  𝑫𝒕 = 𝟏 for observation in the pre-reform period 
+        = 0 otherwise, i.e., for observation in the pre-reform period  
+In model (14.20) b is the differential intercept  and d is the differential slope 
+coefficient indicating how much the slope coefficient of the pre-reform periods 
+savings function differs from the slope coefficient of the savings function in the 
+post reform period. Just as the introduction of an additive dummy enables us to 
+distinguish between the intercepts of the two periods, the introduction of 
+multiplicative dummy enables us to differentiate between the slope coefficients in 
+the two periods. 
+Let us see the implications of the regression model (14.20). Assuming 𝑬(𝒖𝒕) = 𝟎, 
+we obtain 
+𝑬(𝑺𝒕|𝑫𝒕 = 𝟎, 𝒀𝒕) = 𝜶 + 𝒄𝒀𝒕     … (14.21)  
+𝑬(𝑺𝒕|𝑫𝒕 = 𝟏, 𝒀𝒕) = (𝜶 + 𝒃) + (𝒄 + 𝒅)𝒀𝒕   … (14.22)  
+The above two equations are the mean savings function for the pre-reforms 
+period and the post-reforms period respectively as represented by model (14.18) 
+and (14.19) with a=A1, c=A2, and (a+b)=B1,(c+d)=B2. Thus, with the help of 
+dummy variables a single regression can easily be used to obtain two sub-period 
+regressions. 
+Now estimating the regression (14.20) using the savings and income data given 
+in Table 14.3 we obtain 
+𝑺෡ 𝒕 = −𝟏𝟑𝟑𝟔𝟗𝟎. 𝟗 −   𝟐𝟐𝟖𝟑𝟐𝟖. 𝟗 𝑫𝒕 +    𝟎. 𝟑𝟕𝟓 𝒀𝒕 +   𝟎. 𝟑𝟑𝟖𝟓 𝑫𝒕𝒀𝒕  
+ … (14.23)  
+SE      (21259.0)     (30775.09)           (0.0386)      (0.0441)  
+t-stat  (−6.289)       (−7.429)              (9.717)        (7.674)   
+R2 = 0.9954 
+We can see from the estimated regression model (14.23) that both the differential 
+intercept and the differential slope coefficients are statistically significant. It 
+implies that the regression models or the savings-income relationship for both the 
+periods are different. Both the regression models can be diagrammatically 
+represented by Fig.14.3d. Substituting for 𝑫𝒕 the values 0 and 1 we obtain two 
+separate equations as given below. 
+For the pre-reforms period, when 𝑫𝒕 = 𝟎, we have 
+𝑺෡ 𝒕 = −𝟏𝟑𝟑𝟔𝟗𝟎. 𝟗 −   𝟐𝟐𝟖𝟑𝟐𝟖. 𝟗 (𝟎) +    𝟎. 𝟑𝟕𝟓 𝒀𝒕 +   𝟎. 𝟑𝟑𝟖𝟓(𝟎) 𝒀𝒕   
+Or,  𝑺෡ 𝒕 = −𝟏𝟑𝟑𝟔𝟗𝟎. 𝟗 +    𝟎. 𝟑𝟕𝟓 𝒀𝒕    … (14.24)  
+
+
+--- Page 15 ---
+ 
+258 
+ 
+Block For the post-reforms period we have 
+𝑺෡ 𝒕 = −𝟏𝟑𝟑𝟔𝟗𝟎. 𝟗 −   𝟐𝟐𝟖𝟑𝟐𝟖. 𝟗 (𝟏) +    𝟎. 𝟑𝟕𝟓 𝒀𝒕 +   𝟎. 𝟑𝟑𝟖𝟓(𝟏) 𝒀𝒕  
+Or, 𝑺෡ 𝒕 = −𝟏𝟑𝟑𝟔𝟗𝟎. 𝟗 −  𝟐𝟐𝟖𝟑𝟐𝟖. 𝟗 (𝟏) +    𝟎. 𝟑𝟕𝟓 𝒀𝒕 +   𝟎. 𝟑𝟑𝟖𝟓(𝟏) 𝒀𝒕 
+= −𝟑𝟔𝟐𝟑𝟏𝟗. 𝟖 +    𝟎. 𝟕𝟏𝟑𝟓 𝒀𝒕     … (14.25)  
+(Note: You can see that these regression models are the same as those obtained 
+from the Chow test procedure). 
+Thus, from the above discussion we can infer that the dummy variable technique 
+has certain advantages over the Chow test.  
+ The dummy variable technique requires running only a single equation while 
+for the Chow test one has to run a number of regressions, one each for each of 
+the periods concerned.  
+ The Chow test does not tell us whether the intercept or the slope coefficient 
+or both are different in the two sub-samples. In fact, we cannot tell by the 
+Chow test which of the four possibilities presented in Fig.14.3 exists. In this 
+respect the use of dummy variables approach has a definite advantage. It not 
+only tells whether the two regressions are different but also pinpoints the 
+source of their difference – whether it is because of the intercept or the slope 
+or both the coefficients. 
+ The use of a single regression equation as in the case of dummy variable 
+approach would mean higher degrees of freedom compared to more than one 
+regression model (in the case of Chow test). Thus, the dummy variable 
+technique improves the relative precision of the estimated parameters. 
+14.6 USE OF DUMMY VARIABLES IN SEASONAL 
+ ANALYSIS 
+Many economic time series based on monthly or quarterly data exhibit seasonal 
+patterns. For example, the sale of woolens during the winter months, sales of 
+departmental stores during the festive season, sale of soft drinks in the summer 
+months, sale of refrigerators and air-conditioners in the summer season etc are 
+some of the examples of time series that show seasonal pattern. It is often 
+desirable to eliminate the seasonal component of such times-series. The process 
+of removing/eliminating the seasonal factor is known as de-seasonalisation or 
+seasonal adjustment. The adjusted time series thus obtained is called the 
+seasonally-adjusted, or the de-seasonalised times series. 
+There are many ways of deseasonalising a time series. Dummy variables can also 
+be effectively used for deseasonalising a time series. Let us deal with the use of 
+dummy variable method in deseasonalisation of time series. Let us consider the 
+sales of a departmental store. Table 14.4 gives data on the quarterly sales and 
+profits of a departmental store in New Delhi during the period 2021-22 and 2024-
+25. 
+
+
+--- Page 16 ---
+ 
+ 259
+Dummy Variables 
+Models Table 14.4: Sales and Profits of a Departmental Store (Rs. Lakhs) 
+Year Quarter Profit (Y) Sales (X) 
+2021-22 I 16.63 132.1 
+ II 19.41 136.5 
+ III 24.01 177.7 
+ IV 19.91 157.5 
+2022-23 I 17.55 150.7 
+ II 20.90 152.4 
+ III 25.61 199.8 
+ IV 21.97 173.0 
+2023-24 I 19.46 167.4 
+ II 22.14 179.1 
+ III 27.42 227.0 
+ IV 22.72 191.6 
+2024-25 I 21.42 185.0 
+ II 25.41 187.3 
+ III 32.07 261.5 
+ IV 25.49 219.2 
+The profit function of the departmental store is dependent on the sales. Let us 
+represent the profit function as 
+𝒀𝒕 = 𝑨𝟏 + 𝑨𝟐𝑫𝟐𝒕 + 𝑨𝟑𝑫𝟑𝒕 + 𝑨𝟒𝑫𝟒𝒕 + 𝑨𝟓𝑿𝒕 + 𝒖𝒕  … (14.26)  
+where,  𝒀𝒕= profit of the store in period t 
+ 𝑿𝒕= sales in period t 
+The seasonal dummies are defined as  
+  𝑫𝟐𝒕 = 1 if the profit lies in the second quarter  
+
+
+--- Page 17 ---
+ 
+260 
+ 
+Block    = 0 otherwise  
+  𝑫𝟑𝒕 = 1 if the profit lies in the third quarter  
+   = 0 otherwise  
+  𝑫𝟒𝒕 = 1 if the profit lies in the fourth quarter  
+   = 0 otherwise  
+In the above model we have, through the four quarters, incorporated seasonal 
+variation. It is assumed that the qualitative variable ‘season’ has four categories. 
+Therefore, it requires the use of three dummy variables ( 𝑫𝟐𝒕, 𝑫𝟑𝒕, 𝑫𝟒𝒕) in the 
+regression model. Note that the first quarter has been taken as the base or 
+benchmark quarter. We have used intercept dummy variables only. Each of these 
+differential intercepts tells us the extent by which the mean value of Y (i.e., the 
+mean profit) differs in each quarter compared to the base quarter. Using the data 
+in Table 14.4, the regression results of equation (14.26) are as follows: 
+𝒀෡ 𝒕  =     𝟑. 𝟗𝟓𝟕𝟑 +     𝟐. 𝟕𝟑𝟏𝟒𝑫𝟐  +     𝟑. 𝟏𝟑𝟐𝟏𝑫𝟑 +     𝟏. 𝟐𝟖𝟒𝟏𝑫𝟒 +
+ 𝟎. 𝟎𝟗𝟑𝟐𝑿𝒕 … (14.27) 
+SE        (1.195)          (0.491)              (0.642)             (0.525)           (0.007)  
+t-value (3.313)           (5.568)               (4.880)             (2.445)          (12.95)  
+R2 = 0.977 
+We observe from the t-values that all the differential intercepts are statistically 
+significant. It implies that the average profits differ across each of the four 
+quarters. It shows that the average profit is the maximum in the third quarter 
+(October-December) when the sales are the highest on account of the festive 
+season in the country.  
+In the regression model (14.27) assumed that the seasonal variations affect the 
+intercept only and not the slope parameter. But it may not be so in reality. To find 
+out whether the seasonal variation have effects on the intercept or the slope (or 
+both), we use the technique of differential intercept and differential slope 
+coefficient discussed in the previous section (model 14.16). Applying the method 
+we can rewrite model (14.26) as shown by regression model (14.28) and test for 
+the significance of differential intercept and differential slope terms.  
+𝒀𝒕 = 𝑨𝟏 + 𝑨𝟐𝑫𝟐𝒕 + 𝑨𝟑𝑫𝟑𝒕 + 𝑨𝟒𝑫𝟒𝒕 + 𝑨𝟓𝑿𝒕 + 𝑨𝟔(𝑫𝟐𝒕𝑿𝒕) 
++𝑨𝟕(𝑫𝟑𝒕𝑿𝒕) + 𝑨𝟖(𝑫𝟒𝒕𝑿𝒕) + 𝒖𝒕     … (14.28)  
+where, the differential slope coefficients A6, A 7 and A8 tell us the amount by 
+which the slope coefficient of the second quarter, the third quarter and the fourth 
+quarter differ from the base or the first quarter respectively. 
+
+
+--- Page 18 ---
+ 
+ 261
+Dummy Variables 
+Models 14.7 POOLING CROSS SECTION AND TIME SERIES 
+ DATA  
+Let us consider Table 14.5 which gives data on the energy demand (in million 
+tons of oil equivalent) and value of output (in Rs. million) for three sectors of the 
+Indian economy. This is an example of a cross section time series data where we 
+are interested in finding out the relation between energy demand and value of 
+output for three sectors of the economy and for each sector we have data for 18 
+years from 2005-06 to 2023-24. 
+There are several ways to study the relationship between energy demand and 
+value of output. First, we can run the following regression models for each sector 
+separately: 
+Let us consider 
+𝒀𝒕 = 𝑨𝟏 + 𝑨𝟐𝑿𝒕 + 𝒖𝒕       … (14.29)  
+for the agricultural sector; 
+𝒀𝒕 = 𝑩𝟏 + 𝑩𝟐𝑿𝒕 + 𝒖𝒕       …(14.30)  
+for the industrial sector; and so on. 
+where,𝒀𝒕 = energy consumption 
+ 𝑿𝒕= sectoral value of output 
+Using the dummy variable technique as discussed earlier or the Chow test we can 
+find out if the parameters of these demand functions are the same or not. 
+The second way is to estimate for each year, the cross-sectional regression. In 
+such a case there would be one regression for each of the 18 years giving a total 
+of 18 regressions to be estimated. 
+The third way is to pool all the 54 observations (18 times series observations for 
+the three sectors) and estimate the following regression 
+𝒀𝒊𝒕 = 𝑨𝟏 + 𝑨𝟐𝑫𝟏𝒕 + 𝑨𝟑𝑫𝟐𝒕 + 𝑨𝟒𝑿𝒊𝒕 + 𝒖𝒊𝒕    … (14.31)  
+where, 𝒊 stands for i-th sector and t for the t-th time period.  
+In (14.31) we assumed that only the intercept terms differ across the sector but 
+not the slope terms. You can assume both the slope coefficients and intercept 
+terms to be different across sectors and test of their significance themselves). 
+Estimation of (14.31) using data in Table 14.5 gives us  
+𝒀෡ 𝒕 = 𝟏𝟑. 𝟏𝟑𝟑 −  𝟏𝟕. 𝟒𝟐𝟔   𝑫𝟏𝒕 +  𝟔. 𝟔𝟗𝟔   𝑫𝟐𝒕 + 𝟎. 𝟎𝟎𝟎𝟒 𝒀𝒕 … (14.32) 
+Std error     (1.482)      (1.682)             (3.010)             (0.0000)  
+t-statistic    (9.195)      (−10.356)         (2.224)             (18.195)   
+R2 = 0.97602 
+The above results show that both the dummies are statistically significant. It 
+implies that the three sectors have different intercept terms (As an exercise you 
+
+
+--- Page 19 ---
+ 
+262 
+ 
+Block should incorporate slope dummies and test whether they are also significant or 
+not). 
+Table 14.5: Energy Demand and Value of Output 
+Year 
+Agricultural Sector Industrial Sector Transport Sector 
+Energy 
+demand 
+(mtoe) 
+Value of 
+output 
+(Rs. Mn) 
+Energy 
+demand 
+(mtoe) 
+Value of 
+output 
+(Rs. Mn) 
+Energy 
+demand 
+(mtoe) 
+Value of 
+output 
+(Rs. Mn) 
+05-06 5.47 466490 49.63 950820 18.04 249630 
+06-07 5.67 491390 54.74 1026470 18.45 263940 
+07-08 6.60 483580 58.32 1064180 19.46 271850 
+08-09 6.80 535250 61.64 1150020 20.39 283070 
+09-10 7.80 535430 63.63 1218210 21.09 302310 
+10-11 8.56 547970 67.71 1274720 22.53 324270 
+11-12 10.46 533600 72.80 1362240 23.67 344410 
+12-13 13.86 535290 72.24 1452530 25.55 368640 
+13-14 15.04 622140 79.13 1586490 27.23 384790 
+14-15 16.38 632630 83.02 1750530 28.83 410240 
+15-16 18.81 656530 86.42 1886010 29.09 428940 
+16-17 21.78 641180 90.34 1875600 30.72 455950 
+17-18 23.72 680090 93.76 1949940 31.83 477090 
+18-19 26.62 705130 97.43 2051620 33.35 511310 
+20-21 29.40 722640 102.17 2241360 35.01 560170 
+21-22 32.70 703150 101.10 2523590 38.67 623170 
+22-23 32.82 758880 109.51 2702180 41.65 674410 
+23-24 34.29 823410 112.24 2817880 43.45 727850 
+
+
+--- Page 20 ---
+ 
+ 263
+Dummy Variables 
+Models Check Your Progress 2 
+1) Consider the data given in Table 14.3 and divide it into two sub-periods 
+1980-81 to 1991-92 and 1992-93 to 2002-03. Test for structural break in 
+the savings functions using Chow test. 
+……………………………………………………………………...………
+………..........………………………………………………………….……
+……………………..........…………………………………………….……
+…………………………………..........……………………………….……
+………………………………………………..........………………….…… 
+2) Use the data given at Table 14.3 and run the regression given at equation 
+(10.20). Are the differential intercept and differential scope coefficients 
+statistically significant? 
+……………………………………………………………………...………
+………..........………………………………………………………….……
+……………………..........…………………………………………….……
+…………………………………..........……………………………….……
+………………………………………………..........………………….…… 
+14.8 LET US SUM UP 
+In many instances, in regression equations, we have explanatory variables which 
+are qualitative in nature. It is difficult to quantify these qualitative variables as 
+they at best can be divided into certain categories. In such cases we use the 
+dummy variable model. 
+The dummy variable can affect the intercept or slope or both. Accordingly, we 
+take intercept or slope dummies. Remember that dumpy variables are used, as are 
+explanatory variables, on the basis of the logic we build up. Thus, behind every 
+regression model there is a theoretical basis. 
+Dummy variables can be used in seasonal analysis. It also can be used in pooling 
+cross-sectional and time series data. 
+14.9 KEY WORDS 
+ANOVA Models:  This is similar to the case where only dummy variable is 
+  taken as explanatory variable.  
+ANCOVA Models:  This is similar to regression model having both qualitative 
+  and quantitative variables as explanatory variables.  
+Cross-section Data:  This refers to data measured over geographically dispersed 
+   units at a point of time.  

@@ -1,0 +1,524 @@
+--- Page 62 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+305
+3)  Explain, with the help of an example, the concept of simultaneity bias. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+16.7IDENTIFICATION CONDITIONS 
+There are two conditions that must be fulfilled for an equation to be 
+identified.  
+16.7.1Order Condition of Identification 
+This condition is based on a counting rule of the variables included and 
+excluded from a particular equation.It is a necessary but not sufficient 
+condition for identification of an equation.The order condition may be stated 
+as follows: 
+For an equation to be identified the total number of variables (endogenous 
+and exogenous) excluded from it must be equal to or greater than the number 
+of endogenous variables in the model less one.Remember that in a 
+simultaneous equation system, the number of endogenous variables is equal to 
+the number of equations of the model. Thus, the order condition can be stated 
+as follow: 
+For an equation to be identified the total number of variables excluded from it 
+but included in other equations must be at least as large as the number of 
+equations of the system less one. 
+Suppose, 
+G = Total number of equations (=total number of endogenous variables) 
+K = Total number of variables in the model (endogenous and 
+predetermined) 
+M
+ = Total number of variables, endogenous and exogenous, included in 
+a particular equation 
+Then the order condition for identification may be symbolically expressed as  
+ 
+(𝑲𝑴)≥(𝑮1) 
+[Excluded variables] ≥[Total number of equations 1] 
+ 
+ 
+ 
+
+
+--- Page 63 ---
+ 
+ 
+Extensions of Regression 
+Models 
+306 
+Example 16.6 
+Suppose a simultaneous model contains 10 equations with 15 variables (10 
+endogenous and 5 exogenous).  
+(a) Let us assume, for the first equation we have  
+𝑮 = 10  𝑲 = 15 𝑴 =11 
+Recall that the order condition is given by 
+(𝐾 − 𝑀) ≥ (𝐺 − 1) 
+In this case, we have    
+(1511) < (101) 
+Thus, the order condition is not satisfied, and the first equation is under-
+identified. 
+(b) Let us assume, for the second equation we have 
+𝑮 = 10  𝑲 = 15 𝑴 = 5 
+Order condition: 
+(𝐾 − 𝑀) ≥ (𝐺 − 1) 
+(155) > (101) 
+Thus, the order condition is satisfied for the second equation. 
+The order condition for identification is necessary for a relation to be 
+identified, but it is not sufficient. Therefore, order condition may be fulfilled 
+in an equation and yet the relation may not be identified.  
+16.7.2 Rank Condition of Identification  
+The rank condition sates that: in a system of 𝐺 equations an equation is 
+identified if and only if it is possible to construct at least one non-zero 
+determinant of order ( 𝐺1) from the coefficients of the variables excluded 
+from that equation but contained in other equations of the model. 
+This condition is called the rank condition because it refers to the rank of the 
+matrix of parameters of excluded variables. The rank of a matrix is the order 
+of the largest non-zero determinant which can be formed from the matrix. In 
+our case the relevant matrix is the sub-matrix of coefficients of the excluded 
+variables. Hence, the rank condition may be also stated as follows: a sufficient 
+condition for identification of a relationship is that the rank of the matrix of 
+parameters of all the excluded variables (endogenous and predetermined) 
+from that equation be equal to ( G 1) 
+The practical steps for tracing the identifiably of an equation of a structural 
+model may be outlined as follows: 
+
+
+--- Page 64 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+307
+Step1: Write down the parameters of all the equations of the model in a 
+separate table, noting that the parameter of a variable excluded from 
+an equation is equal to zero. 
+Example 16.7 
+Consider the following simultaneous equations model:  
+𝑦ଵ = 3𝑦ଶ + 2𝑥ଵ + 𝑥ଶ + 𝑢ଵ  
+𝑦ଶ = 𝑦ଷ + 𝑥ଷ + 𝑢ଶ  
+𝑦ଷ = 𝑦ଵ − 𝑦ଶ − 2𝑥ଷ + 𝑢ଷ  
+where the 𝑦′s are endogenous variables and the 𝑥′s are predetermined 
+variables. 
+The above model can be written in the following form: 
+−𝑦ଵ + 3𝑦ଶ + 0𝑦ଷ − 2𝑥ଵ +  𝑥ଶ + 0𝑥ଷ + 𝑢ଵ = 0 
+ 0𝑦ଵ +  𝑦ଶ +  𝑦ଷ − 0𝑥ଵ + 0𝑥ଶ +  𝑥ଷ + 𝑢ଶ = 0 
+ 𝑦ଵ +  𝑦ଶ +  𝑦ଷ − 0𝑥ଵ + 0𝑥ଶ + 2𝑥ଷ + 𝑢ଷ = 0 
+Ignoring the random disturbances the table of the parameters of the model is 
+as follows: 
+Table 16.1: Parameters of the Equation System 
+Equations Variables 
+𝑦ଵ  𝑦ଶ  𝑦ଷ  𝑥ଵ  𝑥ଶ  𝑥ଷ  
+1st equation 
+2nd equation 
+3rd equation 
+1 
+0 
+1 
+3 
+1 
+1 
+0 
+1 
+1 
+2 
+0 
+0 
+1 
+0 
+0 
+0 
+1 
+2 
+Step2:Eliminate the row of coefficients of the equation, which is being 
+examined for identification. 
+For example, if we want to examine the identifiably of the second equation of 
+the model, we strike out the second row of the table of coefficients.  
+Step3:Eliminate the columns in which a non-zero coefficient of the equation 
+being examined appears.By deleting the relevant row and columns we 
+are left with the coefficients of variables not included in the concerned 
+equation but contained in other equations of the model. 
+For example, if we are examining for identification the second equation of the 
+system, we will eliminate the second, third and the sixth columns of Table 
+16.1. Thus, after deleting the required row and columns, we obtain Table 
+16.2(b). 
+ 
+
+
+--- Page 65 ---
+ 
+ 
+Extensions of Regression 
+Models 
+308 
+Table 16.2-(a),(b) 
+Table of Structural Parameters   Table of parameters left 
+after eliminating the 
+relevant rows and columns 
+ 𝑦ଵ  𝑦ଶ  𝑦ଷ  𝑥ଵ  𝑥ଶ  𝑥ଷ   𝑦ଵ  𝑥ଵ  𝑥ଶ  
+1st 
+2nd 
+3rd 
+1 
+ 0 
+ 1 
+ 3 
+1 
+1 
+ 0 
+ 1 
+1 
+2 
+ 0 
+ 0 
+1 
+0 
+0 
+ 0 
+ 1 
+2 
+ 1 
+ 
+1 
+2 
+ 
+0 
+1 
+ 
+0 
+Step4: Form the determinant(s) of order ( 𝐺1) and examine their value.If 
+atleast one  of these determinants is non-zero, the equation is 
+identified. If all the determinants of order ( 𝐺1) are zero, the equation 
+is under-identified.  
+From Table 16.2(b), we form determinants of order ( 𝐺1) = (3 1)=2. We 
+obtain three such determinants: 
+ 
+ 
+ (the symbol ‘Δ’ stands for determinant’). We see that we can form two non-
+zero determinants of order 𝐺1 = 3 1 = 2; hence the second equation of our 
+system is identified. 
+Step5: To see whether the equation is exactly identified or over-identified we 
+use the order condition (𝐾 − 𝑀) ≥ (𝐺 − 1) . With this criterion, if the 
+equality sign is satisfied, that is, if (𝐾 − 𝑀) = (𝐺 − 1), the equation 
+is exactly identified.If the inequality sign holds, that is, if (𝐾 − 𝑀) >
+(𝐺 − 1), then the equation is over-identified. 
+In the case of the second equation, we have 
+ 𝐺 = 3  𝐾 = 6  𝑀 = 3 
+and the counting rule (K𝑀) ≥ (𝐺1) gives 
+ (6 3) > (3 1) 
+Therefore, the second equation of the model is over-identified. You should 
+check the identification status of the first equation and the third equation. You 
+will find that the first equation is exactly identified according to the order 
+condition and the rank condition. Third, equation fulfils the order condition 
+but does not fulfil the rank condition. 
+001
+11
+000
+12
+001
+21
+3
+2
+1
+
+
+
+
+
+--- Page 66 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+309
+Weillustrate the two formal conditions of identification with the help of an 
+example. 
+Example 16.8 
+Assume that we have a model describing the market of an agricultural 
+product.From the theory of partial equilibrium, we know that the price in a 
+market is determined by demand and supply.The main determinants of 
+demand are the price of the commodity, the prices of other commodities, 
+incomes, and tastes of consumers.Similarly, important determinants of 
+supplyare price of the commodity, other prices, technology, prices of factors 
+of production, and weather condition. The equilibrium condition is that 
+demand be equal to supply. The above theoretical information can be 
+expressed in the form of the following mathematical model: 
+𝐷 = 𝑎଴ + 𝑎ଵ 𝑃ଶ + 𝑎ଶ 𝑃ଶ + 𝑎ଷ 𝑌 + 𝑎ସ 𝑡 + 𝑢 
+𝑆 = 𝑏଴ + 𝑏ଵ 𝑃ଵ + 𝑏ଶ 𝑃ଶ + 𝑏ଷ 𝑌 + 𝑏ସ 𝑡 + 𝑤 
+𝐷= 𝑆 
+where   𝐷= quantity demanded 
+  𝑆= quantity supplied 
+  𝑃ଵ = price of the given commodity 
+  𝑃ଶ = prices of other commodities 
+𝑌= income 
+𝐶= costs (index of prices of factors of production) 
+𝑡=time trend.In the demand function it stands for ‘taste’; inthe 
+supply function it stands for ‘technology’ 
+The above model is mathematically complete in the sense that it contains 
+three equations in three endogenous variables: 𝐷, 𝑆 and 𝑃ଵ . The remaining 
+variables, 𝑌, 𝑃ଶ , 𝐶, 𝑡 are exogenous. Suppose we want to check the 
+identification status of the supply function. We apply the two criteria for 
+identification:  
+1. Order condition: (K𝑀) ≥ (𝐺1) 
+ In our example we have 
+𝐾= 7  𝑀= 5  𝐺 = 3 
+ Therefore, (K M) = (G1) 
+(75)= (31)= 2 
+Consequently, the second equation satisfies the order condition for 
+identification.  
+2. Rank condition: The table of the coefficients of the structural model is 
+as follows: 
+
+
+--- Page 67 ---
+ 
+ 
+Extensions of Regression 
+Models 
+310 
+Table 16.3: Coefficients of the Structural Model 
+Equations Variables 
+𝐷 𝑃ଵ  𝑃ଶ  𝑌 𝑡 𝑆 𝐶 
+1st equation 
+2nd equation 
+3rd equation 
+1 
+0 
+1 
+𝑎ଵ  
+𝑏ଵ  
+0 
+𝑎ଶ  
+𝑏ଶ  
+0 
+𝐴ଶ  
+0 
+0 
+𝑎ସ  
+𝑏ସ  
+0 
+0 
+1 
+1 
+0 
+𝑏ଷ  
+0 
+Following the procedure explained earlier, we eliminate the second row and 
+the second, third, fifth, sixth and seventh columns.Thus, we are left with the 
+table of the coefficients of excluded variables (see Table 16.4 (a) and (b)). 
+Table 16.4-(a):Complete Table of Structural Parameters 
+ 
+  
+ 
+ 
+ 
+Table 16.4(b): After eliminating the relevant rowsand columns 
+ 
+ 
+ 
+The value of the determinant is non-zero, provided that 𝑎ଷ ≠ 0. 
+𝛥 = ቚ−1 𝑎ଷ
+−1 0 ቚ = (0)(−1) − (−1)(𝑎ଷ ) = 𝑎ଷ  
+We see that both the order and rank conditions are satisfied.Hence, the second 
+equation of the model is identified.Furthermore, we see that in the order 
+condition the equality holds: (7  5) = (3  1) = 2.Consequently, the second 
+structural equation is exactly identified.  
+Thus, we have seen that the order condition of identification is the necessary 
+condition, and the rank condition is ‘both necessary and sufficient condition’ 
+for identification of an equation. It implies that even if we do not consider the 
+order condition, we can find out the identification status of an equation 
+through the rank condition.  
+The order condition, however, is quite simple to apply. Therefore, we usually 
+begin with the order condition. If the order condition is not fulfilled, we infer 
+that the equation is under-identified. If the order condition is satisfied, we 
+move on to the rank condition.  
+-1
+𝑎ଵ 𝑎ଶ 𝑎ଷ 𝑎ସ 00 
+0𝑏ଵ 𝑏ଶ0𝑏ସ 1𝑏ଷ  
+-1000010 
+1𝑎ଷ  
+10 
+
+
+--- Page 68 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+311
+Check Your Progress 3 
+1) Consider the three-equation model 
+𝑌ଵ = 𝛽ଵଷ 𝑌ଷ + 𝛾ଵଶ 𝑋ଶ + 𝑢ଵ  
+𝑌ଶ = 𝛽ଶଵ 𝑌ଵ + 𝛽ଶଷ 𝑌ଷ + 𝛾ଶଵ 𝑋ଵ + 𝛾ଶଶ 𝑋ଶ + 𝑢ଶ  
+𝑌ଷ = 𝛾ଷଷ 𝑋ଷ + 𝑢ଷ  
+where 𝑌ଵ , 𝑌ଶ and 𝑌ଷ are endogenous variables, and 𝑋ଵ, 𝑋ଶ  and 𝑋ଷ  are 
+exogenous variables. Find out the identification status of each equation 
+of the model, based on the order condition and the rank condition. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+2) The structure of a model with four endogenous and three exogenous 
+variables is as follows: (1 indicates the presence and 0 indicates the 
+absence of a variable in the equation): 
+𝑌ଵ  𝑌ଶ  𝑌ଷ  𝑌ସ  𝑋ଵ  𝑋ଶ  𝑋ଷ  
+1 0 1 1 1 0 0 
+1 1 1 0 0 1 1 
+0 0 1 0 1 0 0 
+1 0 1 1 0 1 0 
+Which of the four equations is identified? 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+16.8LET US SUM UP 
+Unlike the single equation model, in simultaneous equations models, we get 
+more than one dependent, or endogenous variable. This endogenous variable 
+may appear in one equation as explained variable and, in another equation, as 
+explanatory variable. Due to the presence of endogenous variables as 
+explanatory variables in some of the equations, the regressors are stochastic in 
+nature.In such situations the classical OLS regression method is not 
+applicable as it may result in inconsistent estimators, and there is simultaneity 
+bias.  
+Identification of an equation is necessary estimation of the equation. The 
+objective of the identification problem is toobtain unique estimators of the 
+structural parameters from the reduced form parameters. An equation in a 
+
+
+--- Page 69 ---
+ 
+ 
+Extensions of Regression 
+Models 
+312 
+system of simultaneous equations is identified only when we can resolve this 
+issue. If not, the equation remains in unidentified or under-identified situation.  
+An identified equation can be just-identified or over-identified. In the case of 
+an exactly identified equation, unique estimators of structural parameters can 
+be obtained. In the case of an over identified equation, on the other hand, 
+more than one estimator for certain structural parameters is obtained.  
+There are two conditions for evaluation of identification status of an equation 
+in a simultaneous equation system, viz., order condition, and rank condition. 
+The order condition is a necessary condition for identification. On the other 
+hand, the rank condition is a necessary and sufficient condition for 
+identification. If the rank condition is satisfied, the order condition is satisfied 
+too, although the reverse is not true.  
+16.9KEY WORDS 
+Endogenous 
+Variables 
+: These are variables which get determined jointly and 
+interdependently within the model. 
+Exactly-
+identified 
+Equation 
+:
+ If there is sufficient information available to 
+distinguish the equation then it is called just identified 
+or exactly identified equation 
+Exogenous 
+Variables 
+: These are variables which get determined outside the 
+model, and independently of the endogenous variable. 
+Identification : It refers to the possibility (or impossibility) of 
+deducing the values of the parameters. 
+Inconsistent 
+Estimators 
+: The value of the estimates may not converge to the 
+population parameter. 
+Over-identified 
+Equation 
+: If there is more than sufficient information regarding 
+the equation then the equation is called over-identified.
+ 
+Paradox of 
+Identification 
+: It refers to the paradox that identification is done in 
+terms of the variables absent from the equation not in 
+terms of the present variable. 
+Pre-
+determined 
+Variables 
+:
+ The set of exogenous variables and the lagged 
+endogenous variables. 
+Reduced Form 
+Models 
+: It refers to models where each equation contains only 
+one dependent variable. 
+Reduced Form 
+Parameters 
+:
+ Parameters of the reduced form models. 
+
+
+--- Page 70 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+313
+Simultaneity 
+Bias 
+: Bias resulting from applying OLS to the simultaneous 
+equations model. 
+Simultaneous 
+Equations 
+Models 
+:
+ Models where the equations are related and cannot be 
+solved independently. 
+Structural 
+Equation 
+:
+ Equations which represents the structure of an 
+economic model or the behavior of an economic agent. 
+Structural 
+Parameters 
+:
+ Parameters appearing in the structural equations. 
+Under-
+identified 
+Equation 
+: If the structure of the equation is not unique or there is 
+not sufficient information to uniquely distinguish the 
+equation then the equation is under-identified. 
+16.10SOME USEFUL BOOKS 
+Gujarati, D. N., D. C. Porter and S. Gunasekar,2017,Basic Econometrics, 
+Fifth Edition, McGraw Hill 
+Maddala, G. S., and K. Lahiri, 2012, Introduction to Econometrics, Fourth 
+Edition, Wiley 
+Wooldridge, J. M., 2022, Introductory Econometrics: A Modern 
+Approach,Seventh Edition, Cengage Learning 
+16.11  ANSWERS/ HINTS TO CHECK 
+YOURPROGRESS EXERCISES 
+Check Your Progress 1 
+1) Refer to Section 16.3 and answer.  
+2) Refer to Section 16.3 and answer. Exogenous variable is one of the 
+categories of pre-determined variables. 
+3) The structure of a simultaneous equations model is given in Section 
+16.3. Refer to it and answer.  
+Check Your Progress 2 
+1)   Refer to Section 16.5 and answer. 
+2) In order to identify an equation, one has to examine the variables 
+excluded from the equation.  
+3) You should show that OLS estimators are biased and inconsistent. Refer 
+to Section 16.4.  
+ 
+ 
+
+
+--- Page 71 ---
+ 
+ 
+Extensions of Regression 
+Models 
+314 
+Check Your Progress 3 
+1)  First apply the rank condition. Write down the equations as we have 
+done in Example 16.7. Strike out the required row and columns. Check 
+the rank condition.  
+2) Follow the same procedure as in Question 1.  

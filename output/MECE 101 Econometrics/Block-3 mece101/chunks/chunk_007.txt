@@ -1,0 +1,522 @@
+--- Page 62 ---
+ 
+ 
+ 
+205 
+Heteroscedasticity including intercept term is the degrees of freedom. In notations, 
+𝑛𝑅ଶ ~𝜒ଶ
+ௗ௙ . 
+(v) If the computed 𝜒ଶ  is less than the critical value at the assumed level of 
+significance, it implies that heteroscedasticity is not present.  
+(vi) If the computed 𝜒ଶ  is greater than the critical value at the assumed level 
+of significance, there is heteroscedasticity in the dataset. 
+One limitation of the White’s Test is that using the squares and cross products of 
+the independent variables as regressors leads to a decrease in the degrees of 
+freedom. Further, the White’s test statistic may be found to be statistically 
+significant due to specification error and not necessarily due to 
+heteroscedasticity. Thus, it is a test of both pure heteroscedasticity and/or 
+specification error.  
+Check Your Progress 2 
+1) What are the various tests for heteroscedasticity?  
+..........................................................................................................................
+..........................................................................................................................
+..........................................................................................................................
+.......................................................................................................................... 
+2) Describe how the White’s Test can be carried out to test for the presence of 
+heteroscedasticity. 
+..........................................................................................................................
+..........................................................................................................................
+..........................................................................................................................
+.......................................................................................................................... 
+11.5 REMEDIAL MEASURES 
+The tests discussed above help us in identification of the presence of 
+heteroscedasticity. There are various methods to eliminate heteroscedasticity 
+from a dataset. Some of these methods are discussed below. 
+1. Weighted Least Squares 
+There are situations where we have some ideas about the pattern of 
+heteroscedasticity in a dataset. For instance, suppose 𝜎௜
+ଶ = 𝜎ଶ 𝑧௜
+ଶ  and 𝑧௜ are 
+
+
+--- Page 63 ---
+ 
+ 
+ 
+206 
+Violation of Basic 
+Assumptions 
+known. In this case we can transform the regression equation 𝑦௜ =  𝛼 + 𝛽𝑥௜ +
+ 𝑢௜. We can divide the above regression model throughout by 𝑧௜ such that  
+௬ ೔
+௭ ೔
+=  𝛼
+ଵ
+௭ ೔
++ 𝛽
+௫ ೔
+௭ ೔
++  
+௨ ೔
+௭ ೔.       … (11.21) 
+In this case, let the error term be transformed into
+௨ ೔
+௭ ೔.= 𝑣௜. 
+We find that the error term 𝑣௜ has a constant variance 𝜎ଶ . 
+𝑉𝑎𝑟 (𝑣௜) =  𝐸(
+௨ ೔
+௭ ೔.)ଶ =
+ఙ ೔మ
+௭ ೔మ =  𝜎ଶ      … (11.22) 
+This method is called the Weighted Least Squares (WLS) method wherein the i th 
+term is weighed by 
+ଵ
+௭ ೔
+.Here, the rule is to regress 
+௬ ೔
+௭ ೔
+ on 
+ଵ
+௭ ೔
+ and 
+௫ ೔
+௭ ೔
+ without the 
+constant term.  
+Let us take another example: 𝑉𝑎𝑟(𝑢௜) =  𝜎ଶ 𝑥௜ and 𝛼 = 0 . The equation 𝑦௜ =
+𝛽𝑥௜ +  𝑢௜ can be transformed by dividing throughout by ඥ 𝑥௜such that, 
+௬ ೔
+ඥ ௫ ೔
+=  𝛽
+௫ ೔
+ඥ ௫ ೔
++ 
+௨ ೔
+ඥ ௫ ೔
+       … (11.23) 
+In this case, the WLS estimator 𝛽∗ =  
+∑൫ඥ ௫ ೔൯(௬ ೔/ඥ ௫ ೔)
+∑ ඥ ௫ ೔
+మ =
+௬
+௫ ̅
+ത  … (11.24) 
+That is, 𝛽∗ is the ratio of the means. Similarly, if 𝜎௜ଶ = 𝜎ଶ 𝑥௜ଶ , then we can 
+transform the equation as follows:  
+௬ ೔
+௫ ೔
+=  𝛼
+ଵ
+௫ ೔
++  𝛽 + 𝑣௜        
+ … (11.25) 
+Here, the constant term 𝛽 is the slope coefficient of the original equation.  
+2. Two-Step Weighted Least Squares 
+If error variances are not known, for instance, 𝜎௜
+ଶ = 𝜎ଶ [𝐸(𝑦௜)]ଶ =  𝜎ଶ [𝛼 +
+𝛽𝑥௜]ଶ , a two-stage procedure may be employed. First, using OLS, the estimators 
+𝛼ො  and 𝛽መare obtained. Second, regress
+௬ ೔
+ఈෝ ାఉ෡ ௫ ೔
+ on 
+ଵ
+ఈෝ ାఉ෡ ௫ ೔
+ and 
+௫ ೔
+ఈෝ ାఉ෡ ௫ ೔
+ without the 
+constant term. The standard errors obtained for the estimates of 𝛼 and 𝛽 are only 
+asymptotically valid because the weights are estimated.  
+3. Maximum Likelihood Method 
+In the above example, if the errors are normally distributed, maximise the 
+likelihood function: 
+𝐿𝑜𝑔𝐿 =  − 𝑛𝑙𝑜𝑔𝜎– ∑ 𝑙𝑜𝑔  (𝛼 + 𝛽𝑥௜)–
+ଵ
+ଶ σమ ∑ ቀ
+௬ ೔ିఈିఉ௫ ೔
+ఈାఉ௫ ೔
+ቁ
+ଶ
+  … (11.26) 
+
+
+--- Page 64 ---
+ 
+ 
+ 
+207 
+Heteroscedasticity Such a method is efficient than the WLS method if the errors are normally 
+distributed. Note that maximising the above likelihood function is not the same as 
+minimizing ∑ ቀ
+௬ ೔ିఈିఉ௫ ೔
+ఈାఉ௫ ೔
+ቁ
+ଶ
+which is the method of Weighted Least Squares.  
+4. Generalised Least Squares (GLS) 
+The OLS procedure gives equal weight to each observation. Ideally, observations 
+with higher variance ought to be given less weight and vice-versa. If 𝜎௜ଶ is 
+known, then 𝑦௜ =  𝛼 + 𝛽𝑥௜ + 𝑢௜ can be transformed by dividing throughout by 
+𝜎௜ such that, 
+𝑦௜
+𝜎௜
+=  𝛼
+𝜎௜
++ 𝛽 𝑥௜
+𝜎௜
++  𝑢௜
+𝜎௜
+ 
+Or, 
+௬ ೔
+ఙ ೔
+=  
+ఈ
+ఙ ೔
++ 𝛽
+௫ ೔
+ఙ ೔
++  𝑣௜      … (11.27) 
+where, 𝑣௜ = 
+௨ ೔
+ఙ ೔. 
+𝑉𝑎𝑟 (𝑣௜) = 𝑉𝑎𝑟 ቀ
+௨ ೔
+ఙ ೔.ቁ =  
+ா (௨ ೔
+మ )
+ఙ ೔మ =
+ఙ ೔మ
+ఙ ೔మ = 1    … (11.28) 
+Thus, the transformed model has homoscedastic error variance equal to unity. 
+This transformed model satisfies the usual classical assumptions. Applying OLS 
+to this transformed model is known as the Generalised Least Squares (GLS) 
+method and it produces estimators which are best linear unbiased estimator 
+(BLUE). Effectively, in GLS we minimise the weighted residual sum of squares 
+(RSS) given by ∑ 𝑤௜ 𝑢ො௜
+ଶ  where the weight 𝑤௜ =
+ଵ
+ఙ ೔మ
+. This shows that the 
+observations with larger variance get lesser weight and vice-versa. Essentially, 
+this is the Weighted Least Squares procedure which is a special case of the GLS 
+procedure.  
+The GLS procedure in matrix form is discussed below. Let us take the regression 
+model in matrix form 
+𝒚 = 𝑿𝜷 + 𝒖  
+Let us assume that there is no autocorrelation or heteroscedasticity.  
+In that case, 
+𝑬(𝒖𝒖′) =  𝝈𝟐𝑰. 
+Now let is relax these assumptions, and assume that 
+
+
+--- Page 65 ---
+ 
+ 
+ 
+208 
+Violation of Basic 
+Assumptions 
+𝑬(𝒖𝒖′) = 𝝋 
+where 𝝋 is an arbitrary positive definite matrix. Pre-multiplying 𝒚 = 𝑿𝜷 + 𝒖 
+by𝝋ି 𝟏/𝟐, we get,  
+𝒚∗ = 𝑿∗𝜷 + 𝒖∗       … (11.29) 
+Here, 𝒚∗ = 𝒚𝝋ି 𝟏
+𝟐 
+𝑿∗ = 𝑿𝝋ି 𝟏
+𝟐 
+𝒖∗ = 𝒖𝝋ି 𝟏
+𝟐 
+Thus, 𝑬൫𝒖∗𝒖∗′൯ =  𝒖𝝋ି 𝟏
+𝟐𝒖′𝝋ି 𝟏
+𝟐 = 𝑰     … (11.30)  
+Hence, with this method, the error variances become homoscedastic. Such a 
+method is called Generalised Least Squares (GLS). The GLS estimator 𝜷𝑮𝑳𝑺 is 
+given by: 
+𝜷𝑮𝑳𝑺 = (𝑿∗′𝑿∗)ି 𝟏(𝑿∗′𝒚∗) = ( 𝑿′𝝋ି 𝟏
+𝟐𝑿𝝋ି 𝟏
+𝟐)ି 𝟏(𝑿′𝝋ି 𝟏
+𝟐
+𝒚𝝋ି 𝟏
+𝟐
+) 
+= (𝑿′𝝋ି 𝟏𝑿 )ି 𝟏(𝑿′𝝋ି 𝟏𝒚)      … (11.31) 
+𝜷𝑮𝑳𝑺 is the best linear unbiased estimator of 𝜷.  
+The variance of 𝜷𝑮𝑳𝑺is given by 𝑽𝒂𝒓(𝜷𝑮𝑳𝑺) = (𝑿∗′𝑿∗)ି 𝟏 
+= (𝑿′ 𝝋ି 𝟏
+𝟐
+𝑿 𝝋ି 𝟏
+𝟐)ି 𝟏 = (𝑿′ 𝝋ି 𝟏𝑿 )ି 𝟏     … (11.32) 
+𝝋 is the variance-covariance matrix of the error term 𝒖. In the presence of 
+autocorrelation and heteroscedasticity, there are elements in this matrix both on 
+the main diagonal and off it. With heteroscedasticity, the main diagonal elements 
+will reflect unequal variances of the error term. But the structure of this matrix is 
+not known in practice. Hence, estimated GLS procedure (EGLS) is used wherein 
+OLS is employed ignoring the problems of autocorrelation and 
+heteroscedasticity. The residuals 𝒖ෝ  are estimated and they are used to form the 
+estimated variance-covariance matrix of the error term. This matrix is then 
+employed to get the estimated GLS (EGLS) estimator of 𝜷. EGLS estimators are 
+consistent estimators of GLS.  
+ 
+
+
+--- Page 66 ---
+ 
+ 
+ 
+209 
+Heteroscedasticity 5. White’s Estimator 
+If the error variances 𝜎௜
+ଶ  are not known, the White’s Heteroscedasticity 
+corrected standard errors or robust standard errors can be used. In the 
+regression model, since 
+𝑦௜ =  𝛽𝑥௜ +  𝑢௜, the variance of 𝛽መ is given by 𝑉𝑎𝑟(𝛽መ) = 
+∑ ௫ ೔ మ ఙ ೔మ
+(∑ ௫ ೔ మ )మ .  
+Since 𝜎௜ଶ  are not known, White suggests using 𝑢ො௜
+ଶ and estimate, 
+𝑉𝑎𝑟(𝛽መ) = 
+∑ ௫ ೔ మ ௨ෝ ೔
+మ
+(∑ ௫ ೔ మ )మ        … (11.33) 
+This variance is consistent, that is, it converges to 
+∑ ௫ ೔ మ ఙ ೔మ
+(∑ ௫ ೔ మ )మ  with increase in 
+sample size. Hence, this is a large sample procedure. Empirically, White’ 
+robust standard errors can be found to exceed or fall short of the OLS 
+standard errors.  
+White’ robust standard errors can be estimated for k-variable regression 
+model as well. Consider, 𝑌௜ =  𝛽ଵ + 𝛽ଶ 𝑋ଶ௜ + 𝛽ଷ 𝑋ଷ௜ +  … . + 𝛽௞ 𝑋௞௜ +  𝑢௜. In 
+this case, the variance of𝛽መ௝ is given by  
+𝑉𝑎𝑟(𝛽መ௝) = 
+∑ ௪ෝ ೕ೔
+మ ௨ෝ ೔
+మ
+(∑ ௪ෝ ೕ೔
+మ )
+మ        … (11.34) 
+Here, 𝑤ෝ௝  is the residual from regressing 𝑋௝ on remaining regressors 
+(auxillary regression). One limitation of the White’s procedure is that the 
+estimators obtained through it may not be as efficient as those obtained by 
+variable transformation methods employed in WLS procedure illustrated 
+above. 
+6. Logarithmic Transformation 
+Sometimes, logarithmic transformation of variables can be done to solve the 
+problem of heteroscedasticity. Economic reasoning supports the use of log 
+linear functional form in some cases. For instance, in case of Cobb- Douglas 
+production function 𝑌 = 𝐴𝐾ఈ 𝐿ఉ , the log linear form given by log 𝑌 = 𝑙𝑜𝑔𝐴 +
+𝛼 log 𝐾 + 𝛽 log 𝐿is more suitable as it helps estimate the elasticity of output 
+with respect to various inputs. In another example, price and income 
+elasticity can be estimated from logarithmic transformation such 
+aslog 𝑄 = 𝛼 + 𝛽ଵ log 𝑃 + 𝛽ଶ log 𝑌  [Q = output, P = price, Y = income].  
+
+
+--- Page 67 ---
+ 
+ 
+ 
+210 
+Violation of Basic 
+Assumptions 
+7. Using Deflators 
+The variables can be deflated to solve the problem of heteroscedasticity. 
+Sometimes, economic logic supports this procedure, for instance, in 
+problems involving relative prices or real incomes. In other cases, deflation 
+of variables is simply done to solve the problem of heteroscedasticity.  
+Assume that 𝑌 =  𝛼𝑍 + 𝛽𝑋 + 𝑢. Also, it is given that 𝜎௜ଶ = 𝜎ଶ 𝑍ଶ .  
+Dividing 𝑌 =  𝛼𝑍 + 𝛽𝑋 + 𝑢 by Z, we get, 
+𝑌
+𝑍 =  𝛼 + 𝛽𝑋
+𝑍 + 𝑢
+𝑍 
+Or, 
+௒
+௓ =  𝛼 +
+ఉ௑
+௓ + 𝑢ᇱ      … (11.35) 
+Here 𝑢ᇱ =
+௨
+௓  and 𝑉𝑎𝑟 (𝑢′) =  𝜎ଶ  
+The deflated variables equation 
+௒
+௓ =  𝛼 +
+ఉ௑
+௓ + 𝑢ᇱ should be used to obtain 
+the estimates of 𝛼, 𝛽 and 𝜎ଶ and not the original equation. Once the 
+estimators are obtained, the inferences such as residual calculation, future 
+values prediction, etc. should be made on the basis of the following rule. 
+When deflation of variables is supported by economic logic, the deflated 
+variables equation should be used to draw inferences such as residuals 
+calculation, future values prediction, etc. However, the original equation 
+should be used to draw inferences if deflation of variables is simply done to 
+solve the problem of heteroscedasticity.  
+In case there are many deflated variables equation, one may be tempted to 
+compare different procedures based on the standard errors of coefficients. After 
+all, the purpose of deflation is to arrive at more efficient estimates. But, such a 
+comparison should be avoided because with heteroscedasticity the standard errors 
+of the coefficients are biased. One should be very careful in making such 
+comparisons. Residuals examination will prove more useful.  
+Such a procedure of deflation of variables may enhance or reduce the correlation 
+between variables but drawing of inferences should not be based on correlations. 
+For instance, in the above example, the correlations between 
+௒
+௓
+  and 
+௑
+௓  and that 
+between Y and X should not be compared to decide which equation, the original 
+one or the transformed one is better for making inferences such as residuals 
+
+
+--- Page 68 ---
+ 
+ 
+ 
+211 
+Heteroscedasticity calculation, future values prediction, etc. The presence of a common 
+denominator Z may increase the correlation between 
+௒
+௓  and  
+௑
+௓ , but such a 
+correlation is ‘spurious’ if there is no close relationship between X and Y, a 
+priori. However, the problem of spurious correlation does not exist if the original 
+hypothesis is formulated in ratio terms, for example, relative prices or real output.  
+Check Your Progress  3 
+1) In the model, 𝑦௜ =  𝛼 + 𝛽𝑥௜ + 𝑢௜, the variance of the error terms 
+depends on a variable 𝑧௜. Which of the following three specifications is 
+best suited? 
+𝑉𝑎𝑟 (𝑢௜) =  𝜎ଶ  
+𝑉𝑎𝑟 (𝑢௜) =  𝜎ଶ 𝑥௜ 
+𝑉𝑎𝑟 (𝑢௜) =  𝜎ଶ 𝑥௜
+ଶ  
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+11.6  LET US SUM UP 
+Heteroscedasticity occurs when the variance of the error terms is unequal across 
+observations. In the presence of heteroscedasticity, the OLS estimators are 
+unbiased and consistent but they are no longer efficient. The estimated variances 
+are also biased with heteroscedasticity. Thus, the usual tests of significance are 
+not valid.  
+Various tests can be applied to detect the presence of heteroscedasticity. The 
+White’s test, Goldfeld-Quandt test and the Breush-Pagan test are widely used. 
+Having detected heteroscedasticity, corrective measures such as Weighted Least 
+Squares (WLS) method can be applied. But, for this, the pattern of 
+heteroscedasticity must be known so that the original equation can be suitably 
+transformed. The White’s Heteroscedasticity Corrected Standard Errors or the 
+robust standard errors are also reported by econometric software; but these can be 
+obtained only for large samples. Sometimes, simple logarithmic transformation 
+of variables can also solve the problem. 
+
+
+--- Page 69 ---
+ 
+ 
+ 
+212 
+Violation of Basic 
+Assumptions 
+11.7  KEY WORDS  
+Homoscedasticity :  The error terms are said to be homoscedastic if the 
+variance of the error term 𝑢௜ conditional upon 𝑥௜ (𝑥௜  is 
+the independent variable) is equal to 𝜎ଶ .  𝐸(𝑢௜ଶ ) =
+𝑉𝑎𝑟(𝑢௜) = 𝜎ଶ (𝑖 = 1, 2, ...., n). 
+Heteroscedasticity : Error terms have unequal variances. The variance of 𝑢௜ 
+conditional upon the given 𝑥௜ is 𝐸(𝑢௜ଶ ) = 𝑉𝑎𝑟(𝑢௜) =
+𝜎௜
+ଶ .                  
+Weighted Least 
+Squares 
+:
+ Here, we minimise the weighted Residual Sum of 
+Squares (RSS). Observations with higher variance get 
+less weight and vice-versa.                  
+11.8  SOME USEFUL BOOKS 
+Brooks, Chris (2014), ‘ Introductory Econometrics for Finance ,’ Third Edition, 
+Cambridge University Press 
+Gujarati, Damodar N. and Sangeetha (2007), ‘ Basic Econometrics ,’ Fourth 
+Edition, Tata McGraw Publishing Company Limited, New Delhi, 
+Edition 2007 
+Maddala, G. S. and Kajal Lahiri (2012), ‘ Introduction to Econometrics ,’ Fourth 
+Edition, John Wiley and Sons Ltd 
+Verbeek, Marno (2017), ‘A Guide to Modern Econometrics ,’ Fifth Edition, John 
+Wiley and Sons Ltd.  
+Wooldrige, Jeffrey (2022), Introductory Econometrics, Seventh Edition, Cengage 
+Learning  
+11.9  ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Hint: Use Weighted Least Squares technique.  
+2) False. Regression coefficients are unbiased but their standard errors are 
+biased. Refer to Section 11.3, Points 1 and 3.  
+Check Your Progress 2 
+1) There are a number of tests to test for the presence of heteroscedasticity. 
+Refer to Section 11.4 and answer. 
+2) The steps are given in detail in Section 11.4. Go through it. 
+ 
+ 
+
+
+--- Page 70 ---
+ 
+ 
+ 
+213 
+Heteroscedasticity Check Your Progress 3 
+1) The first specification is best suited because the error terms are 
+homoscedastic in this case. If there is a choice among the remaining two 
+specifications, proceed as follows. First estimate the residuals  𝑢ො௜. Plot of 
+𝑢ො௜  against 𝑥௜ will give some indication of heteroscedasticity. Apply 
+Glejser’s test and regress 𝑢ො௜ on 𝑥௜ as follows.  
+|𝑢ො௜| =  𝛼 + 𝛽ଵ 𝑥௜+ 𝑣௜                                                                                                          
+|𝑢ො௜| =  𝛼 + 𝛽ଶ ඥ 𝑥௜ +   𝑣௜                                                                                                     
+If 𝛽′𝑠 turn out to be insignificant, then there is no heteroscedasticity. If 𝛽ଵ 
+is significant, then use 𝑉𝑎𝑟 (𝑢௜) =  𝜎ଶ 𝑥௜
+ଶ . If 𝛽ଶ  is significant, then use 
+ 𝑉𝑎𝑟 (𝑢௜) =  𝜎ଶ 𝑥௜ . If both 𝛽ଵ  and 𝛽ଶ  are significant, choose the 
+specification, with high 𝑅ଶ .  
+ 
+ 
+
+
+--- Page 71 ---
+UNIT 12 ERRORS IN VARIABLES 
+Structure 
+12.0  Objective 
+12.1  Introduction 
+12.2  Consequences of Errors in Variables 
+12.2.1  Measurement Errors in Y  
+12.2.2 Measurement Error in X 
+12.2.3  Measurement Errors in both X and Y  
+12.3  Instrumental Variables Method 
+12.4  Test of Measurement Errors  
+12.5 Inverse Regression 
+12.6  Let Us Sum Up 
+12.7  Key Words 
+12.8  Some Useful Books/References 
+12.9  Answers/ Hints to Check Your Progress Exercises 
+12.0 OBJECTIVES 
+After going through this Unit you should be in a position to  
+ explain the concept of errors in variables; 
+ indentify the consequences of errors in variables; 
+ explain the concept of instrumental variables; 
+ test for the presence of measurement errors; and  
+ take remedial measures to solve the problem of measurement error. 
+12.1 INTRODUCTION 
+In ordinary least squares model we assume that sample observations are 
+measurement accurately. All our formulae are based upon the presumption that 
+variables (both explained and explanatory) are measured without error. The only 
+form of error admitted to our model is in the form of disturbance term. Here the 
+error term represents the influence of various explanatory variables that have not 
+accurately been included in the model. However, the assumption may not be 
+realistic particularly in the case of secondary data.  
+Variables, both dependent and independent, are measured subject to error. In 
+particular, the available data may not refer to the variable as specified, as 
+specified, as in the case of proxy variable, or there may be systematic biases in 
+ 
+ Prof. Shibalal Meher (retd.), Nabakrushna Choudhury Centre for Development Studies,    
+  Bhubaneswar 
+ 

@@ -1,0 +1,498 @@
+--- Page 1 ---
+UNIT 8 MODEL SPECIFICATION ISSUES 
+Structure 
+8.0 Objectives 
+8.1 Introduction 
+8.2 Possible Problems in Specification 
+8.2.1 Importance of Model Specification 
+8.2.2 Sources Specification Error 
+8.2.3 Implications of Specification Error 
+8.3 Inclusion of Variables a Model 
+8.3.1 Inclusion of Irrelevant Variables 
+8.3.2 Omission of Relevant Variables  
+8.4 Specification Error Test 
+8.5 Model Selection Criteria 
+8.5.1 The 𝑅ଶ and Adjusted-𝑅ଶ  Criteria 
+8.5.2 The AIC and SIC Criteria 
+8.5.3 Mallow’s 𝐶௣  Criterion 
+8.6 Caution about Model Selection Criteria 
+8.7 Let Us Sum Up 
+8.8 Key Words 
+8.9 Some Useful Books 
+8.10 Answers/ Hints to Check Your Progress Exercises 
+8.0 OBJECTIVES 
+After going through this unit you should be in a position to: 
+ explain the nature of problems associated with model specification;
+ identify the consequences of model misspecification;
+ find out the consequences of including an irrelevant variable;
+ find out the consequences of excluding a relevant variable;
+ detect a mis-specified modelandsuggest remedial measures; and
+ explain various tests for model selection.
+Dr. 
+Sahba Fatima, Independent Researcher, Lucknow. 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+145 
+Model Specification 
+Issues 8.1 INTRODUCTION 
+Regression analysis, as you know, is based on certain assumptions. These 
+assumptions pertain to specification of the functional form and behaviour of the 
+error variable. The inferences drawn from OLS estimation, therefore, are based 
+on fulfilment of these assumptions. 
+While estimating a regression model, correct specification of the model is very 
+important for obtaining unbiased and efficient estimates. However, several 
+questions arise: How do we detect whether the OLS assumptions are met for a 
+given dataset? Is the selected functional form appropriate for analysis? Are the 
+variables included in the model relevant? In the presence of any such 
+specification issue, what is the impact on the estimators? Are the inferences 
+drawn still valid?  
+In this unit we will look out for the major specification issues and the impact it 
+will have on prediction.  
+8.2 POSSIBLE PROBLEMS IN SPECIFICATION  
+Although extremely significant, specification is least understood aspect of 
+regression analysis. In general, model specification should have theoretical basis 
+rather than empirical or methodological one.  
+8.2.1 Importance of Model Specification 
+The causal relationship between regressand (explained variable) and regressor 
+(explanatory variable) in a multiple regression model involves three steps: (i) 
+specification of the model, (ii) estimation of the parameters of this model, and 
+(iii) interpretation of these parameters. 
+Since specification forms the first and most critical step, any error in it will lead 
+to error in estimation and interpretation. If the regressors in multiple regression 
+analysis are independent and uncorrelated, their partial regression coefficients 
+will be equal to their simple regression coefficients. Consequently, addition or 
+deletion of orthogonal independent variables will not affect the partial regression 
+coefficient of other independent variables in a multiple regression model. But the 
+standard error and hence error variance of dependent variables are significantly 
+affected by inclusion or omission of orthogonal independent variables. Inclusion 
+of independent variables in regression equation increases the standard error of the 
+partial regression coefficient by decreasing their degrees of freedom. 
+Simultaneously, however, the addition of an independent variable may decrease 
+these same standard errors by decreasing the error variance in the dependent 
+variable.  
+8.2.2 Sources of Specification Error 
+There could be numerous ways in which a bias or an error can enter a regression 
+model. Some of these are (i) inclusion of redundant/ superfluous/ irrelevant 
+variables, (ii) omission of relevant variables, (iii) incorrect functional form, (iv) 
+
+
+--- Page 3 ---
+ 
+ 
+ 
+146 
+Violations of Basic 
+Assumptions 
+incorrect assumption regarding the error term, and (v) error in measurement of 
+variables. 
+Let us consider the multiple regression model  
+𝑌 = 𝛽ଵ 𝑋ଵ + 𝛽ଶ 𝑋ଶ + ⋯ . . +𝛽௞ 𝑋௞ + 𝑢     …(8.1) 
+We have two sets of assumptions: (i) specification of the model, and (ii) 
+specification of the error variable. The assumptions regarding specification of the 
+model are as follows: 
+a) The regression model is specified correctly – all relevant variables are 
+included, and no relevant variable is excluded from the model. 
+b) The model is linear in parameters. 
+c) The variables are measured without errors. 
+d) The explanatory variables are independent of one another – there is no 
+perfect correlation among them.   
+The assumptions regarding specification of the error variable are as follows: 
+(i) 𝐸(𝑢௜) = 0 
+(ii) 𝐸(𝑢௜)ଶ = 𝜎ଶ  
+(iii) 𝐸൫𝑢௜𝑢௝൯ = 0 for 𝑖 ≠ 𝑗 
+(iv) 𝐸(𝑋௜𝑢௜) = 0 (regressor is non-stochastic; the error term is not correlated 
+with any of the explanatory variables)  
+Violation of the above assumptions results in several types of problems in the 
+desirable properties of the estimators. 
+8.2.3 Implications of Specification Error 
+Let us begin with assumption (a) given above. A model refers to a simplified 
+version of reality. It allows us toexplain,analyse and predict economic behavior. 
+An economic model can be for a microeconomic agent such as household or 
+firm. In macroeconomics, it represents the behavior of the economy. In economic 
+models we identify relevant economic variables (such as income, output, 
+expenditure, investment, savings, exports, etc.) and establish relationship among 
+them. The relationships among these variables may be expressed through 
+diagrams or mathematical equations. There could be economic models without 
+mathematical expressions, but suchmodelsmay not be precise.  
+While building an econometric model we first consider the logic or economic 
+theory behind the model. The empirical or methodological considerations come 
+later. The accuracy of the estimated parameters and the inferences drawn from 
+the model depend upon the correct specification of the model. 
+An econometric model comprises a dependant variable, independent 
+variable(s),andanerror term. As you know, regression signifies a cause-and-effect 
+relationship – variation in the dependent variable is explained by the variation in 
+
+
+--- Page 4 ---
+ 
+ 
+ 
+147 
+Model Specification 
+Issues 
+the independent variables. Thus, while specifying a regression model, we should 
+see to it that the dependant variable islogically explained by the independent 
+variables. If an independent variable does not explain the dependent variable, it 
+should not be included in the model.  
+Next is the functional form of the regression model, which should be specified 
+correctly. Let me illustrate the point through an example. In the case of a firm, 
+we assume that there are two factors of production, viz., capital and labour. We 
+aggregate all types of labour into a homogeneous category – we do not 
+distinguish between a manager and a worker in the field! Thus, we ignore the 
+details and concentrate on the major issues in a model. Secondly, we assume that 
+the production function takes a particular form, say Cobb-Douglas. But it is just 
+an assumption! The production function, in reality, could be of some other 
+formalso such as CES or translog. Thus, we need to logically explain the 
+functional form (regression equation) of the model.  
+Assumption (b) says that the regression model is linear in parameters. Equation 
+(8.1) is linear in parameters (there are no such terms as 𝛽௜
+ଶ , for example). 
+Suppose our regression model is  
+𝑌௜ = 𝛽ଵ + 𝛽ଶ 𝑋௜ + 𝛽ଷ 𝑋௜
+ଶ + 𝑢௜      … (8.2)  
+Equation (8.2) is a quadratic function, but it is still linear in parameters. 
+Examples of non-linear regression models are logarithmic functions, logistic 
+functions, trigonometric functions, exponential functions, etc. Some of these 
+functions can be transformed to linear functions (see Unit 3).If we cannot 
+transform a non-linear function into a linear function, we cannot estimate the 
+non-linear function by OLS method. 
+Many a time we specify the functional form correctly, but the variables are not 
+measured correctly. There could be errors in measurement of the independent 
+variable(s) or in the dependent variable. Such issues are called error-in-variables; 
+and we will deal with them in Unit 12. Remember that error in variable is 
+different from the error term ( 𝑢௜) included in a regression model. The error term 
+reflects the variables that could not be included in the regression equation 
+(excluded variables). Measurement error in a variable, on the other hand, reflects 
+the situation where the variable is included in the model, but it is not correctly 
+measured. There could be several sources of measurement error: (i) it may not be 
+possible to measure certain variables (e.g. taste, preference, business 
+environment, intelligence, etc.), or (ii) the variable can be defined conceptually 
+but it may not be possible to measure the variable correctly (e.g., education – it 
+can be measured by a proxy, that is, years of schooling). There are certain other 
+factors that lead to errors in variables such as: (i) non-response error, (ii) 
+reporting error, and (iii) computing error. 
+In case the assumption (d) is violated we have the problem of multicollinearity. It 
+is a problem observed in multiple regression models, when we include too many 
+
+
+--- Page 5 ---
+ 
+ 
+ 
+148 
+Violations of Basic 
+Assumptions 
+variables in a regression equation. It is basically a data problem. Independence of 
+the explanatory variables is ensured when the matrix X has full rank.We will 
+discuss problems arising out of multicollinearity in Unit 10. 
+8.3 INCLUSION OF VARIABLES IN A MODEL 
+Regression analysis derives its robustness from the assumption that the 
+econometric model under study is correctly specified. We discuss below the 
+consequences of (i) inclusion of irrelevant variables, and (ii) omission of relevant 
+variables in a regression model. 
+Each of the above problem results in a different kind of bias. 
+8.3.1  Inclusion of Irrelevant Variables 
+Let us consider the case where certain irrelevant variable is included in the 
+regression model. Suppose the true model is  
+𝑌௜ = β଴ + βଵ 𝑋ଵ௜ + 𝑢௜       … (8.3) 
+But we somehow include a redundant variable, i.e., we estimate the following 
+equation: 
+𝑌௜ = 𝛽଴௦ + 𝛽ଵ௦ 𝑋ଵ௜ + 𝛽ଶ௦ 𝑋ଶ௜ + 𝑣௜     … (8.4) 
+For the true model (8.3), the slope coefficient is expressed as 
+𝛽መଵ =  
+∑ ௬௫ భ
+∑ ௫ భమ         … (8.5) 
+which is unbiased. 
+For the model (8.4) that we have taken, we obtain 
+𝛽෨ଵ = 𝛽መଵ௦ =  
+(∑ ௬௫ భ )൫∑ ௫ మమ ൯ି (∑ ௬௫ మ ) (∑ ௫ భ ௫ మ )
+∑ ௫ భ
+మ ∑ ௫ మ
+మ ି  (∑ ௫ భ ௫ మ )మ     … (8.6) 
+Now the true model in deviation form is  
+𝑦௜ =  𝛽ଵ 𝑥ଵ +  (𝑢௜ − 𝑢ത)      … (8.7) 
+In equation (8.6) let us substitute the value of 𝑦௜ from (8.7) and simplify. If we 
+take expected value of (8.6), after substitution and simplification, we obtain 
+E(𝛽෨ଵ ) = E(𝛽መଵ௦ ) =  𝛽ଵ
+∑ ௫ భమ ∑ ௫ మమ ି (∑ ௫ భ ௫ మ )మ
+∑ ௫ భ
+మ ∑ ௫ మ
+మ ି  (∑ ௫ భ ௫ మ )మ    … (8.8) 
+From equation (8.8) we find that 
+𝐸(𝛽෨ଵ ) = 𝛽ଵ  
+Thus, inclusion of an irrelevant variable provides us with unbiased estimator of 
+𝛽ଵ. 
+The estimator of the redundant variable 𝛽መଶ௦ is given by  
+𝛽መଶ௦ =  
+(∑ ௬௫ మ )൫∑ ௫ భమ ൯ି (∑ ௬௫ భ ) (∑ ௫ భ ௫ మ )
+∑ ௫ భమ ∑ ௫ మమ ି  (∑ ௫ భ ௫ మ )మ   … (8.9) 
+
+
+--- Page 6 ---
+ 
+ 
+ 
+149 
+Model Specification 
+Issues 
+If we substitute for 𝑦௜from (8.7) in (8.9) and re-arrange terms, we obtain 
+E(𝛽෨ଶ) =E(𝛽መଶ௦ ) = 𝛽ଶ
+(∑ ௫ భ ௫ మ )൫∑ ௫ భమ ൯ି (∑ ௫ భ ௫ మ )൫∑ ௫ భమ ൯
+∑ ௫ భ
+మ ∑ ௫ మ
+మ ି  (∑ ௫ భ ௫ మ )మ    … (8.10) 
+Thus, 𝐸൫𝛽෨ଶ ൯ = 𝐸൫𝛽መଶ௦ ൯ = 0 
+So, we find that 𝛽መଶ௦ , which is absent from the true model, has its coefficient ‘0’. 
+Thus, we obtain unbiased estimators for both the parameters. This leads us to 
+conclude that inclusion of irrelevant variables is not that harmful as omission of 
+relevant variables. As an extra variable is added to the model, we observe that 
+there is an increase in R-squared. The variance of the parameters will not be 
+efficient.  
+Therefore, the specification error in the case of inclusion of irrelevant variables in 
+the model will produce unbiased but inefficient least squares estimators of the 
+parameters. The larger variance reduces the precision of the estimates resulting in 
+wider confidence intervals. This may lead to type II error (the error of not 
+rejecting a null hypothesis when the null hypothesis is actually not true).  
+8.3.2 Omission of Relevant Variables 
+Now let us look into the other side of the spectrum – excluding a relevant 
+variable. Since a relevant variable is not included in the model (although it 
+influences the dependent variable) its impact will be included in the residuals. As 
+a result, the residuals will show a systematic pattern rather than being white noise 
+as required by Gauss-Markov theorem. Also, the coefficient of the included 
+variable will be biased. 
+Suppose the true equation (in deviation form) is  
+𝑦 = 𝛽ଵ 𝑥ଵ + 𝛽ଶ 𝑥ଶ  + u       … (8.11) 
+Instead of estimating equation (8.11) suppose we omitted  𝑥ଶ . The following 
+equation is estimated, 
+𝑦 = 𝛽ଵ
+∗𝑥ଵ  + e        … (8.12) 
+Equation (8.12) is a case of omitted variable, and hence incorrect model 
+specification. In the model with omitted variable (incorrect model) the estimate 
+of 𝛽ଵ
+∗ is 
+𝛽መଵ
+∗= 
+∑ ௫ భ ௬
+∑ ௫ భ
+మ
+        … (8.13) 
+In order to calculate the bias in the estimated value of 𝛽ଵ in the incorrect model 
+(equation (8.12)) as compared to the true model (equation (8.11)), we take the 
+following steps: 
+We substitute the expression of y from the true model (8.11) in equation (8.13). 
+This gives us  
+𝛽መଵ
+∗ = 
+∑ ௫ భ (ఉ భ ௫ భ  ା  ఉ మ ௫ మ  ା  ௨ )
+∑ ௫ భమ  = 𝛽ଵ +  𝛽ଶ
+∑ ௫ భ ௫ మ
+∑ ௫ భమ +
+∑ ௫ భ ௨
+∑ ௫ భమ    … (8.14) 
+
+
+--- Page 7 ---
+ 
+ 
+ 
+150 
+Violations of Basic 
+Assumptions 
+Since E (∑ 𝑥ଵ 𝑢) = 0 we get 
+𝐸(𝛽መଵ
+∗) = 𝛽ଵ +  𝛽ଶ 𝑏ଶଵ        … (8.15) 
+where 𝑏ଶଵ = 
+∑ ௫ భ ௫ మ
+∑ ௫ భమ  is the regression coefficient from a regression of 𝑥ଶ (omitted 
+variable) on𝑥ଵ .  
+Thus,𝛽መଵ
+∗ is a biased estimator for 𝛽ଵ and the bias is given by 
+𝐸൫𝛽መଵ
+∗൯ − 𝛽ଵ =  𝛽ଶ 𝑏ଶଵ        … (8.16) 
+Thus, bias = (coefficient of the excluded variable, 𝛽ଶ) × (regression coefficient in 
+a regression of the excluded variable on the included variable, 𝑏ଶଵ )  
+The variance of 𝛽ଵ
+∗ (parameter of the incorrect model) can also be derived by 
+using the formula for variance. As it is a bit complex, we do not present it here. 
+You should note that the variance of 𝛽ଵ
+∗ is higher than that of 𝛽ଵ . An implication 
+of the above is that usual tests of significance concerning parameters are invalid, 
+if some of the relevant variables are excluded from a model. 
+In order to detect omitted variables, residuals ( 𝑢ො௜) can be examined for any 
+pattern that they exhibit (see Unit 5). If a variable is omitted, it will be reflected 
+in the form of a systematic pattern in the residuals. If the residuals show 
+autocorrelation which can be detected using Durbin-Watson d-statistic (see Unit 
+9), there exists model misspecification where some variable is omitted from the 
+model. 
+Thus, we know that 
+(i) When an irrelevant variable is included in the model: (a) the 
+estimators of parameters are unbiased, (b) there is a decline in the 
+efficiency of the estimators, and (c) the estimator of the error variance 
+is unbiased. Thus, conventional tests of hypothesis are valid. The 
+inferences drawn could be somewhat erroneous.  
+(ii) When a relevant variable is dropped from the model: (a) estimators of 
+parameters are biased, (b) decline in the efficiency of the estimators, 
+and (c) estimator of error variance is biased (over-estimate). Thus, 
+conventional tests of hypothesis are invalid. The inferences drawn are 
+faulty. 
+Recall from Unit 3 that there two approaches to building an economic model: (i) 
+general to specific (also called top-down approach), and (ii) specific to general 
+(also called bottom-up approach). In the first approach we consider a general 
+model by including many variables. Subsequently, we exclude the irrelevant 
+variables. In the second approach, we begin with a simple model and keep on 
+adding variables based on our logic. 
+Although, there is no consensus on the approach to be followed in econometric 
+model building, researchers prefer the general-to-specific approach. Now you can 
+understand the reason behind it – if we exclude certain relevant variable(s) from a 
+
+
+--- Page 8 ---
+ 
+ 
+ 
+151 
+Model Specification 
+Issues 
+model, we do not obtain unbiased estimators even for the variables included in 
+the model! 
+When we follow the general-to-specific approach, we may retain only those 
+variables which are statistically significant (i.e., we exclude the variables which 
+are not statistically significant). In the case of the specific-to-general approach, 
+i.e., expanding the model after testing for the statistical significance of the 
+variables is criticized because the true level of significance and the nominal level 
+of significance differ if all the variables are not included in the model. 
+Check Your Progress 1 
+1) List the assumptions of the classical regression model. What problems do 
+you encounter if these assumptions are violated? 
+.......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+....................................................................................................................... 
+2) Do you agree that correct specification of an econometric model is 
+important? Why? 
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+3) List three types of specification error that we encounter in an econometric 
+model.  
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+4)   Explain the consequences of inclusion of an irrelevant variable.  
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+………………………………………………………………………….... 
+
+
+--- Page 9 ---
+ 
+ 
+ 
+152 
+Violations of Basic 
+Assumptions 
+4) Explain the consequences of excluding a relevant variable. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+8.4 SPECIFICATION ERRORTEST 
+There is a tendency on the part of researchers to assume a linear relationship 
+between variables. This however is not always true. If the true relationship is 
+non-linear and we take a linear regression model for estimation, we will not be 
+able to draw correct inferences. Hence, detection of the specification error can 
+help us in obtaining efficient estimates. Once it is found that specification errors 
+are made, finding a remedy is not a major problem. 
+One general test for model specification,that is very popular, is the RESET 
+(Regression Specification Error Test). The idea underlying RESET is simple.  
+Let us assume thatwe consider the model (8.17) as given below for estimation. 
+𝑦 = 𝛽ଵ 𝑥ଵ + 𝛽ଶ 𝑥ଶ + 𝑢       …(8.17) 
+The RESET introduces quadratic and cubic functions of the estimated dependant 
+variable in the regression model and compares it to the model without the 
+additional regressors using F-test. If the increase in R 2 is statistically significant, 
+there exists model misspecification. Now we will discuss the step-by-step 
+RESET, 
+(i) From the chosen model 𝑦 = 𝛽ଵ 𝑥ଵ + 𝛽ଶ 𝑥ଶ +u, obtain the estimated y, that 
+is 𝑦ො . 
+(ii) Re-run the above chosen model introducing 𝑦ො  in some form as an 
+additional regressor (quadratic and cubic form is quite popular and yields 
+good results). Thus, the new model will be 
+ 𝑦 = 𝛽ଵ 𝑥ଵ + 𝛽ଶ 𝑥ଶ + 𝛽ଷ 𝑦ොଶ + 𝛽ସ 𝑦ොଷ + 𝑣   … (8.18) 
+(iii) Let the R 2obtained from the model in the second step above be 𝑅௡௘௪ଶ  and 
+that obtained from step one be  𝑅௢௟ௗ
+ଶ . The F test can be used to find out if 
+the increase in R 2 from using the model in step two is statistically 
+significant using the following F-test from Unit 4: 
+  𝐹 =
+(ோ ೙೐ೢమ ି  ோ ೚೗೏
+మ )/ ୬୳୫ୠୣ୰  ୭୤ ୬ୣ୵  ୰ୣ୥୰ୣୱୱ୭୰ୱ
+൫ଵିோ ೙೐ೢమ ൯/(௡ି୬୳୫ୠୣ୰  ୭୤ ୬ୣ୵  ୮ୟ୰ୟ୫ୣ୲ୣ୰ୱ  ୧୬ ୲୦ୣ  ୫୭ୢୣ୪ )
+  … (8.19) 
+(iv) If the computed F-value is statistically significant, say, at the 5 percent 
+level, wereject the null hypothesis that the model is correctly specified. It 
+
+
+--- Page 10 ---
+ 
+ 
+ 
+153 
+Model Specification 
+Issues 
+implies we accept the alternate hypothesis that the regression model is 
+mis-specified.   
+Limitations of the RESET  
+The RESET does not test for omitted variables. It tests whether the functional 
+form of the model is correctly specified or not. If there isnon-linearity in the 
+functional form and we consider a linear model, the RESET test will reject the 
+null hypothesis. In other words, we accept the alternate hypothesis. The 
+alternative hypothesis in the RESET, however, that there is misspecification of 
+the functional form. Thus, an important limitation of the RESET is that it does 
+not provide further leads: What should we do if there is misspecification? What 
+functional form should we adopt? 
+8.5 MODEL SELECTION CRITERIA 
+From the discussion so far, we observe that there could be many competing 
+econometric models for certain economic phenomenon. For example, for 
+quarterly data on GDP of India, there could be several autoregressive-moving 
+average (ARMA) models before us. There could be certain seasonal variation in 
+the GDP data along with the secular trend. Such variations are represented by 
+ARMA models with different orders of AR and MA. Similarly, for the estimation 
+of production function of a firm, there are quite a few functional forms such as 
+Cobb-Douglas, CES, translog, etc. A pertinent issue is selection of regressors in a 
+model. 
+There are certain criteria on the basis of which we select the most appropriate 
+regression model for particular situation. We discuss these criteria below. 
+8.5.1  The 𝑹𝟐and Adjusted-𝑹𝟐Criteria 
+We have discussed the concept of coefficient of determination ( 𝑅ଶ ) in Unit 4. As 
+you know, the coefficient of determination indicates the explanatory power of a 
+model. If, for example, 𝑅ଶ = 0.82  we can infer that 82 per cent variation in the 
+dependent variable is explained by the explanatory variable in the model. The 
+𝑅ଶ of a model measures the goodness of fit of a regression model and lies 
+between 0 and 1.  
+𝑅ଶ =
+௘௫௣௟௔௜௡௘ௗ  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦
+௧௢௧௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦
+ =  1 −
+௥௘௦௜ௗ௨௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦
+௧௢௧௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦   … (8.20) 
+A higher value of 𝑅ଶ indicates better fit of a model and vice versa. The 
+𝑅ଶ measures only in-sample goodness of fit and it cannot forecast the out-of-
+sample observations, which happen to be an important function of a regression 
+model. Second, we can compare among models having the same dependant 
+variable.Third, with every additional regressor, even if irrelevant, the 𝑅ଶ -value 
+does not decrease. Hence a researcher may go on adding more independent 
+variables although this will increase the variance of forecast error. 
+ 
+ 

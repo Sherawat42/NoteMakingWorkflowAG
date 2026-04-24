@@ -1,0 +1,633 @@
+--- Page 21 ---
+ 
+ 
+ 
+164 
+Violations of Basic 
+Assumptions 
+= 
+ଵ
+(∑ ௫ ೟ మ ) మ (𝜎ଶ ∑ 𝑥௧ 
+ଶ  + 2𝜌𝜎ଶ ∑ 𝑥௧ 𝑥௧ିଵ  + 2𝜌ଶ 𝜎ଶ ∑ 𝑥௧ 𝑥௧ିଶ + ...) 
+= 
+ఙ మ
+(∑ ௫ ೟ మ )  (1 + 2𝜌
+∑ ௫ ೟ ௫ ೟షభ
+∑ ௫ ೟ మ  + 2𝜌ଶ ∑ ௫ ೟ ௫ ೟షమ
+∑ ௫ ೟ మ .........)   
+You should notice that the problem of autocorrelation introduces an additional 
+expression in 𝑉𝑎𝑟(𝛽መ)ை௅ௌ . 
+Now, assume that 𝑥௧  also follows an AR(1) process with 𝑣𝑎𝑟(𝑥௧ ) = 𝜎௫ ଶ  and 
+autocorrelation coefficient of ‘𝑟’. Since 𝑥௧  is assumed to be stochastic (see Unit 
+10 of this course), we take the asymptotic variance of 𝛽መ in the presence of AR(1) 
+process. 𝑉𝑎𝑟(𝛽መ)஺ோ (ଵ ) is given by, 
+𝑉𝑎𝑟൫𝛽መ൯஺ோ (ଵ ) = 𝐸(∑ 𝑥௧ 𝑢௧
+∑ 𝑥௧ ଶ )ଶ 
+=
+ఙ మ
+(∑ ௫ ೟ మ )  (1 + 2𝜌𝑟 + 2𝜌ଶ 𝑟ଶ .........) = 
+ఙ మ
+୘ఙ ೣ మ
+(ଵ  ା  ఘ௥ )
+(ଵ  ି  ఘ௥ )   …(9.11) 
+(T = number of observations) 
+Hence, we can write 
+𝑉𝑎𝑟(𝛽መ)஺ோ (ଵ ) = 𝑉𝑎𝑟(𝛽መ)ை௅ௌ
+(ଵ  ା  ఘ௥ )
+(ଵ  ି  ఘ௥ )     … (9.12) 
+Equation (9.12) has the following implication: 
+𝑉𝑎𝑟(𝛽መ)ை௅ௌ  may underestimate the 𝑉𝑎𝑟(𝛽መ)஺ோ (ଵ )  in the presence of 
+autocorrelation. The nature of bias however depends on the values taken by  𝜌 and 
+𝑟. If 𝜌 and 𝑟 are both positive, then,  
+𝑉𝑎𝑟൫𝛽መ൯ை௅ௌ < 𝑉𝑎𝑟൫𝛽መ൯஺ோ (ଵ ) 
+From (9.12) we observe that in the presence of AR(1) process, the formula for 
+calculation of variance of the OLS estimator 𝛽መis 
+𝑉𝑎𝑟൫𝛽መ൯஺ோ (ଵ ) =  
+ఙ మ
+୘ఙ ೣ మ
+(ଵ  ା  ఘ௥ )
+(ଵ  – ఘ௥ ).       …(9.13) 
+In such a case, using the usual OLS formulae for computation of variance of OLS 
+estimators leads to biased results. Moreover, depending on the values of 𝜌 and 𝑟, 
+the variance of the OLS estimator 𝑉𝑎𝑟൫𝛽መ൯஺ோ (ଵ ) may be found to be higher than 
+what it would be in the absence of autocorrelation. Hence, the presence of 
+autocorrelation has a tendency to inflate the standard errors.  
+Application of OLS may give misleading standard errors of estimators in the 
+presence of autocorrelation. In this case, Generalised Least Squares (GLS) should 
+be used as it gives estimators which have minimum variance. When we allow for 
+autocorrelation and use 𝑉𝑎𝑟(𝛽መ)஺ோ (ଵ ), wider confidence intervals are obtained as 
+
+
+--- Page 22 ---
+ 
+ 
+ 
+165 
+Autocorrelation compared to those obtained from GLS procedure. Thus, the likelihood of 
+accepting the null hypothesis increases and the coefficient may be declared 
+insignificant despite being significantly different from zero.  
+9.3.3  Biasedness of 𝐕𝐚𝐫(𝛃෡ )𝐎𝐋𝐒 
+𝑉𝑎𝑟 (𝑢௧) = 𝜎ଶ  
+and, 𝑉𝑎𝑟(𝛽መ)ை௅ௌ =  
+ఙ మ
+(∑ ௫ ೟ మ )  
+For unbiasedness of 𝑉𝑎𝑟(𝛽መ)ை௅ௌ , we are required to prove that, 
+𝐸[𝑉𝑎𝑟(𝛽መ)ை௅ௌ ] =  𝑉𝑎𝑟(𝛽መ)ை௅ௌ  
+For the above to hold true, E(σෝ ଶ ) should equal σଶ . For a two variable regression 
+model, 
+𝜎ොଶ  = 
+∑ ௨ෝ ೟ 
+మ
+்ିଵ         … (9.14) 
+𝐸(∑ 𝑢ො௧ 
+ଶ ) =  𝐸(∑ 𝑢௧ ଶ ) + 𝐸[൫𝛽መ − 𝛽൯
+ଶ
+∑ 𝑥௧ ଶ ] – 2 𝐸[(𝛽መ − 𝛽) ∑ 𝑥௧ 𝑢௧  
+[Since  𝑢ො௧ =  𝑦௧ − 𝑦ො௧ = 𝛽𝑥௧ + 𝑢௧ − 𝛽መ𝑥௧ = 𝑢௧ + 𝛽𝑥௧ − 𝛽መ𝑥௧ 
+  = 𝑢௧ − 𝑥௧ (𝛽መ − 𝛽)] 
+Or, 𝐸(∑ 𝑢ො௧ 
+ଶ ) = 𝑇𝜎ଶ + 𝐸(
+∑ ௫ ೟ ௨ ೟
+∑ ௫ ೟ మ )ଶ ∑ 𝑥௧ 
+ଶ − 2𝐸(
+∑ ௫ ೟ ௨ ೟
+∑ ௫ ೟ మ ) ∑ 𝑥௧ 𝑢௧  
+Or, 𝐸(∑ 𝑢ො௧ 
+ଶ ) = 𝑇𝜎ଶ + 𝐸
+∑(௫ ೟ ௨ ೟)
+∑ ௫ ೟ మ
+ଶ
+− 2𝐸
+(∑ ௫ ೟ ௨ ೟)మ
+∑ ௫ ೟ మ  
+Or, 𝐸൫∑ 𝑢ො௧ 
+ଶ ൯ = 𝑇𝜎ଶ  +
+ఙ మ (ଵା௥ఘ )
+(ଵି  ௥ఘ ) −2
+ఙ మ (ଵା௥ఘ )
+(ଵି  ௥ఘ )  
+(Refer to equations (9.10) and (9.11)) 
+Or, 𝐸൫∑ 𝑢ො௧ 
+ଶ ൯ = 𝜎ଶ [𝑇 −  
+(ଵା௥ఘ )
+(ଵି  ௥ఘ )]     … (9.15) 
+In classical regression model we have seen that 𝐸(
+∑ ௨ෝ ೟ 
+మ
+்ିଵ ) = 𝐸(𝜎ොଶ ). Here in the 
+AR(1) model we find that 𝐸൫∑ 𝑢ො௧ 
+ଶ ൯ = 𝜎ଶ [𝑇 −  
+(ଵା௥ఘ )
+(ଵି  ௥ఘ )]. Thus in the case of 
+AR(1), we have 
+𝐸(𝜎ොଶ )≠𝜎ଶ         … (9.16) 
+We cannot say whether the bias is upward or downward; it depends upon the sign 
+of ‘ r’ and ‘ρ’. If both ‘ r’ and ‘ρ’ are positive, then 𝐸(𝜎ොଶ )<𝜎ଶ  and the bias is 
+downward.  
+ 
+ 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+166 
+Violations of Basic 
+Assumptions 
+Check Your Progress 1 
+1)  “If the OLS method is applied to time series data, we get biased estimates as 
+the errors are autocorrelated”. True or False? Explain. 
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+2)  “Autocorrelation in error terms caused biased standard errors.” True or 
+False? Explain. 
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+3)  For an AR(2) process, show that 𝑐𝑜𝑣 (𝑢௧, 𝑢௧ିଶ ) = 𝜌ଶ ఙ ഄ మ
+(ଵିఘ మ ) 
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+9.4 DETECTION OF AUTOCORRELATION 
+In the previous section we discussed the consequences of autocorrelation. In this 
+section we discuss some of the methods to detect autocorrelation.  
+9.4.1  Residual Plot 
+The actual errors in a regression model are not known to us. What we know are 
+the estimated values of the error terms, i.e., residuals. By plotting the residuals 
+‘ 𝑢ො ’ against time ‘ t’, we can observe if there is a systematic pattern. If no 
+systematic pattern is observed, it indicates no autocorrelation. If, however, the 
+residuals show a linear downward or upward trend, or a cyclical or quadratic 
+pattern, then it indicates the presence of autocorrelation.  
+ 
+Fig.9.1: Positive Autocorrelation 
+
+
+--- Page 24 ---
+ 
+ 
+ 
+167 
+Autocorrelation 
+ 
+Fig. 9.2: Negative Autocorrelation 
+Alternatively, we can plot 𝑢ො௧ against𝑢ො௧ିଵ  as shown in Fig. 9.1 and Fig. 9.2. The 
+residual plot method tests for the AR(1) process. Fig. 9.1 shows positive 
+autocorrelation while Fig. 9.2 displays negative autocorrelation. A major 
+limitation of the residual plot is that its interpretation is highly subjective. In view 
+of this, we look for quantitative tests for autocorrelation.  
+Some of the quantitative tests are discussed below.  
+9.4.2  Durbin-Watson (DW) Test 
+A popular test for autocorrelation is the Durbin-Watson (DW) test. It is given by 
+𝑑 =
+∑ (೙
+೟సమ ௨ෝ ೟– ௨ෝ ೟షభ )మ
+∑ ௨ෝ ೟
+మ೙
+೟సభ
+       … (9.17)  
+It is the ratio of the sum of squared differences in successive residuals to the 
+overall residual sum of squares (RSS). It can be further elaborated as  
+𝑑 =  ∑ ௨ෝ ೟
+మ +  ∑ ௨ෝ ೟షభ
+మ −  2 ∑ ௨ෝ ೟ 𝑢ො௧ିଵ
+∑ ೠෝ ೟మ  
+There are ( 𝑇 − 1) observations in the numerator as taking successive differences 
+results in loss of one observation.For large size samples, ∑ ௨ෝ ೟
+మ  and ∑ ௨ෝ ೟షభ
+మ  are 
+nearly equal.  
+Hence, 𝑑 =  2 −
+ ଶ ∑ ೠෝ ೟௨ෝ ೟షభ
+∑ ೠෝ ೟మ ≈  2(1 − 𝜌ො)    …(9.18) 
+If there is no autocorrelation in a regression model, then 𝜌ො = 0. By applying this 
+value in (9.18) we find that 𝑑 =  2 . On the other hand, If 𝜌ො =  +1, 𝑑 =  0 , and if 
+𝜌ො =  −1, 𝑑 =  4 . Thus, 𝑑 being close to zero implies positive autocorrelation, 
+whereas 𝑑 being close to 4 implies negative autocorrelation. Thus, 𝑑 lies between 
+0 and 4, i.e., 0 ≤ 𝑑 ≤ 4 . We can set our null hypothesis of no autocorrelation as 
+𝐻଴ : 𝑑 = 2 . If 𝑑 is found to be around 2, we accept the 𝐻଴ ; if it exceeds the 
+critical value we reject the 𝐻଴ .  
+Somehow the d-statistic does not have a particular critical value for acceptance or 
+rejection of the null hypothesis of no autocorrelation. However, it reports the 
+lower and upper limits 𝑑௅ and 𝑑௎  respectively. These limits are reported for the 
+number of observations in the sample and the number of independent variables 
+(excluding the constant term) in the regression model.  
+
+
+--- Page 25 ---
+ 
+ 
+ 
+168 
+Violations of Basic 
+Assumptions 
+If the value of 𝑑 lies between 0 and  𝑑௅ , there is positive autocorrelation. If 
+4 − 𝑑௅ < 𝑑 < 4 , there is negative autocorrelation. If 𝑑௎ < 𝑑 < 4 − 𝑑 ௎ , there is 
+no autocorrelation. If the value of 𝑑 lies between 𝑑௅ and 𝑑௎  (𝑑௅ ≤ 𝑑 ≤ 𝑑 ௎ or 4 −
+𝑑௎ ≤ 𝑑 ≤ 4 − 𝑑 ௅ ), this test is inconclusive as this is the zone of indecision (see 
+Fig. 9.3). This is an important limitation of the Durbin-Watson test. Typically, it 
+is observed that as sample size increases, the zone of indecision shrinks.  
+ 
+Fig. 9.3: Rejection Zones under the DW Test 
+The DW statistic is based on certain assumptions: i) intercept term is present in 
+the regression model, ii) the independent variables are fixed in repeated sampling 
+(maintaining this assumption is difficult in case of time series data), iii) the error 
+terms are normally distributed, and iv) the error terms follow AR(1) process. 
+Hence, the d-statistic may be unreliable if the error terms are not NIID (normally, 
+independently and identically distributed). However, in large samples, the d-
+statistic follows a standard normal distribution. Further, this test can be used only 
+in the case of first order autocorrelation. The DW test cannot be used if we have 
+lagged dependent variables in the regression model.  
+9.4.3  Breusch-Godfrey (BG) Test 
+The BG test overcomes the limitations of the DW test. It is a general test for 
+higher order autocorrelations. It can be applied in models having lagged values of 
+dependent variable as independent variables. It can also be applied in case of 
+moving averages of white noise error terms. This test is derived from the 
+Lagrange Multiplier (LM) principle. Hence, it is also known as LM test.  
+Let the regression model be specified as follows:  
+𝑦௧ =  ∑ 𝑥௜௧
+௞
+௜ୀଵ 𝛽௜ + 𝑢 ௧; t = 1,2,...,n     … (9.19) 
+Here, lagged dependent variables can also be included as independent variables 
+in the𝑥ᇱ𝑠. 
+Let 𝑢௧ follow an AR(p) process such that 
+𝑢௧ =  𝜌ଵ 𝑢௧ିଵ +  𝜌ଶ 𝑢௧ିଶ +  … . + 𝜌௣ 𝑢௧ି௣ +  𝜀௧   … (9.20) 
+In the above equation, 
+𝜀௧ ~ 𝐼𝑁(0, 𝜎ଶ ) 
+Now we specify the null hypothesis as  
+
+
+--- Page 26 ---
+ 
+ 
+ 
+169 
+Autocorrelation H0: 𝜌ଵ =  𝜌ଶ = ⋯ =  𝜌௣ = 0      …(9.21) 
+The BG Test involves the following steps: 
+(i) Use OLS to estimate the primary regression equation 𝑦௧ =
+ ∑ 𝑥௜௧
+௞
+௜ୀଵ 𝛽௜ +  𝑢௧and get 𝑢ො௧.  
+(ii) Regress 𝑢ො௧ on the original values of 𝑥௜௧ (as well as any other variable 
+used as regressor) and lagged values of the residuals (for example, if p = 
+3, we will include three lagged values of the estimated residuals as 
+regressors). The auxiliary regression equation is as follows: 
+𝑢ො௧ =  ∑ 𝑥௜௧
+௞
+௜ୀଵ 𝛾௜ +  ∑ 𝑢ො௧ି௜
+௣
+௜ୀଵ 𝜌௜ + 𝜏௧   …(9.22) 
+(iii) If the sample size is large, then Breusch and Godfrey have shown that  
+(𝑇 − 𝑝)𝑅ଶ ~𝜒௣
+ଶ       …(9.23) 
+In equation (9.23), T is the sample size, p is the number of 
+autoregressive parameters in the auxiliary regression, and 𝑅ଶ  is the 
+coefficient of determination of the auxiliary regression equation. BG 
+test is asymptotically (it means, as sample size increases infinitely) 
+distributed as χ2 with p degrees of freedom.  
+(iv) Once we get the computed value of the 𝜒ଶ  in (9.23) we can compare it 
+with the standard value (tabulated value). If computed value exceeds 
+tabulated value we reject the null hypothesis.  
+Check Your Progress 2 
+1)  Explain the steps followed the Durbin Watson test.  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+2)  What are the limitations of the DW test? Can you suggest some alternative 
+tests which can overcome these limitations? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+3)  Consider the model 𝑦௧ = 𝛽ଵ +  𝛽ଶ 𝑥ଶ௧ + 𝛽ଷ 𝑥ଷ௧ +  𝑢௧ . The DW statistic is 
+0.85. The number of observations is 80. Also given that 𝑑௅ = 1.41and 𝑑௎ =
+1.50. Is there a problem of autocorrelation in the data? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+
+
+--- Page 27 ---
+ 
+ 
+ 
+170 
+Violations of Basic 
+Assumptions 
+9.5 REMEDIAL MEASURES 
+If the DW statistic is found to be statistically significant, it is not necessarily due 
+to AR(1) errors. It can be due to the impact of autocorrelated omitted variables or 
+due to AR(2) or moving average errors. In this case, the natural question which 
+arises is: what is the appropriate course of action if DW statistic is significant? 
+First, we should check if the correlation in the error terms is pure autocorrelation 
+or it is due to some omitted variables/ model mis-specification. If there is pure 
+autocorrelation, then we can appropriately transform the original model. The 
+method of Generalised Least Squares (to be discussed in Unit 11) can be 
+employed to correct pure autocorrelation. For large samples, the Newey West 
+Method can be employed. The various remedial measures are described below. 
+1. Quasi-first Differencing 
+Given, 𝑦௧ = 𝛼 +  𝛽𝑥௧ + 𝑢௧; t = 1, 2, ....,T 
+We can obtain 𝑦௧ିଵ = 𝛼 +  𝛽𝑥௧ିଵ + 𝑢௧ିଵ  
+Now, 𝜌𝑦௧ିଵ = 𝛼𝜌 +  𝛽𝜌𝑥௧ିଵ + 𝜌𝑢௧ିଵ  
+Taking the difference with respect to 𝑦௧ = 𝛼 +  𝛽𝑥௧ + 𝑢௧, we get, 
+𝑦௧ −  𝜌𝑦௧ିଵ = 𝛼(1 − 𝜌) +  𝛽(𝑥௧ − 𝜌𝑥௧ିଵ ) + 𝜀௧   …(9.24) 
+[Errors follow AR(1) process such that 𝑢௧ =  𝜌𝑢௧ିଵ  + 𝜀௧] 
+Equation (9.24) is known as Generalised or Quasi-Difference equation. The error 
+terms 𝜀௧ satisfies the usual classical assumptions (independent having constant 
+variance 𝜎௘
+ଶ ). Now, the OLS procedure can be applied by regressing the 
+transformed variable 𝑦௧∗ = (𝑦௧ −  𝜌𝑦௧ିଵ ) on 𝑥௧∗ = (𝑥௧ − 𝜌𝑥௧ିଵ ). The resulting 
+estimators are best, linear and unbiased (BLUE). In taking differences, one 
+observation is lost; hence, (𝑇 − 1) observations are used.In order to compensate 
+for loss of one observation, Prais-Winsten transformation is used wherein the 
+first observation on 𝑦  and 𝑥  are transformed such that 𝑦ଵ
+∗ = 𝑦ଵ ඥ 1 − 𝜌ଶ
+ and 
+𝑥ଵ
+∗ = 𝑥ଵ ඥ 1 − 𝜌ଶ . Effectively, this procedure is the GLS procedure. The GLS 
+procedure has T observations which includes𝑦ଵ
+∗ and 𝑥ଵ
+∗.  
+Applying OLS to the transformed model which satisfies the classical assumptions 
+is GLS. In this method, the variables are transformed by incorporating the 
+autocorrelation parameter ‘ 𝜌’. The GLS procedure produces efficient estimates 
+since all available information (about autocorrelation or heteroscedasticity) is 
+used. In the presence of autocorrelation, the GLS estimator is the best linear 
+unbiased estimator (BLUE). 
+𝛽መீ௅ௌ =
+∑ (௫ ೟ିఘ௫ ೟షభ )(௬ ೟ି  ఘ௬ ೟షభ )೙
+೟సమ
+∑ (௫ ೟ିఘ௫ ೟షభ )೙
+೟సమ
+మ
+ + C     … (9.25) 
+𝑉𝑎𝑟𝛽መீ௅ௌ =
+ఙ మ
+∑ (௫ ೟ିఘ௫ ೟షభ )೙
+೟సమ
+మ  + D     …(9.26) 
+(C and D are correction factors) 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+171 
+Autocorrelation One shortcoming of the quasi-differencing method is that 𝜌 should be known. 
+However, 𝜌 is seldom known. There are various methods of estimating 𝜌 which 
+are discussed in Section 9.6. A limitation of using 𝜌ො is that it can be subject to 
+sampling error. An alternative to quasi-differencing is the first-differencing 
+method. 
+2. First-Differencing 
+Recall the quasi-difference equation given at (9.24) 
+𝑦௧ −  𝜌𝑦௧ିଵ = 𝛼(1 − 𝜌) +  𝛽(𝑥௧ − 𝜌𝑥௧ିଵ ) + 𝜀௧ 
+If 𝜌= +1, then the above equation reduces to a first difference equation,  
+𝑦௧ − 𝑦௧ିଵ =  𝛽(𝑥௧ −  𝑥௧ିଵ ) + (𝑢௧ −  𝑢௧ିଵ ) 
+Or, 𝑦௧ − 𝑦௧ିଵ =  𝛽(𝑥௧ − 𝑥௧ିଵ ) + 𝜀௧     …(9.27) 
+As mentioned earlier, the error term 𝜀௧  follows classical assumptions of the 
+stochastic error term. Although 𝑢௧ and 𝑢௧ିଵ are correlated, the first difference of 
+the error terms (𝑢௧ −  𝑢௧ିଵ ) are not correlated.Now, we can regress ( 𝑦௧ −  𝑦௧ିଵ ) 
+on (𝑥௧ −  𝑥௧ିଵ ) by OLS method without including the constant term in the model. 
+If there is a linear trend term in the regression equation (for example, 𝑦௧ = 𝛼 +
+𝛿𝑡 +  𝛽𝑥௧ + 𝑢௧), then the first difference equation has a constant term: 
+(𝑦௧ −  𝑦௧ିଵ ) = 𝛿 +  𝛽(𝑥௧ −  𝑥௧ିଵ ) + (𝑢௧ −  𝑢௧ିଵ )   …(9.28) 
+Essentially, the first difference equation may be estimated if the Durbin-Watson 
+statistic is small (rule of thumb: 𝑑 < 𝑅ଶ ). In a strict sense, first difference 
+transformation is valid only if 𝜌= +1. In order to test whether 𝜌= +1 we use the 
+Berenblut-Webb test. 
+The first difference transformation induces stationarity in the time series. If 𝜌= 
++1, then the variance 𝑉𝑎𝑟(𝑢௧ )= 
+ఙ ഄ మ
+(ଵିఘ మ ) and 𝐶𝑜𝑣 (𝑢௧, 𝑢௧ି௦ ) = 𝜌௦ ఙ ഄ మ
+(ଵିఘ మ ) become 
+infinite. Hence, the series 𝑢௧  becomes non-stationary. With first difference 
+transformation, the error term is 𝜀௧, which does not have such problems.  
+Note that the R 2 of the levels equation (say, 𝑦௧ = 𝛼 +  𝛽𝑥௧ + 𝑢௧) and the first 
+difference equation ( (𝑦௧ − 𝑦௧ିଵ ) = 𝛿 +  𝛽(𝑥௧ −  𝑥௧ିଵ ) + (𝑢௧ −  𝑢௧ିଵ ))  cannot 
+be compared because they have different dependent variables. However, the 
+Residual Sum of Squares (RSS) can be compared after making some 
+adjustments.  
+The steps to be followed are as follows: 
+(i) Estimate the RSS from the first difference equation as well as the levels 
+equation. 
+(ii)  Multiply the RSS from the levels equation by
+ଶ (௡ି௞ିଵ) (ଵିఘ )
+(௡ି௞ )  (or, 
+(௡ି௞ିଵ )ௗ
+(௡ି௞ ) , 
+which can be derived from the above)  
+
+
+--- Page 29 ---
+ 
+ 
+ 
+172 
+Violations of Basic 
+Assumptions 
+(iii) Use the estimated  𝜌  from the levels equation, that is, 
+𝜌ො, [or, the DW statistic,𝑑 ≈  2 (1 − 𝜌ො)]). Here,  𝑘  is the number of 
+regressors.  
+(iv) Now, the RSS from the first difference equation and the levels equation 
+can be compared. 
+Recall that the variance of the error term 𝑣𝑎𝑟 (𝑢௧) = RSS/degrees of freedom. 
+Therefore, variance of the error term in first difference equation  
+= 𝑉𝑎𝑟 (𝑢௧ −  𝑢௧ିଵ ) 
+=  𝑉𝑎𝑟 (𝑢௧) +  𝑉𝑎𝑟 (𝑢௧ିଵ ) −  2 𝐶𝑜𝑣 (𝑢௧, 𝑢௧ିଵ ) 
+=  𝜎ଶ + 𝜎ଶ −  2𝜎ଶ 𝜌   =     2(1 − 𝜌)𝜎ଶ      
+You should note that the above arguments do not hold in the presence of lagged 
+dependent variables among the explanatory variables. Hence, this discussion 
+excludes them by assumption. Having obtained comparable RSS, comparable R 2 
+can be obtained as well. Using 𝑅𝑆𝑆 =  𝑆௬௬  (1 −  𝑅ଶ ), we get,  
+(ଵି  ୖ ీ
+మ ) 
+(ଵି  ୖ భ
+మ ) =  (
+ୖୗୗ బ
+ୖୗୗ భ
+)
+(௡ି௞ିଵ) ௗ
+(௡ି௞ )       …(9.29) 
+Here, 𝑆௬௬ = ∑ 𝑦௜ଶ −  𝑦തଶ  
+R12 = R2 from the first difference equation 
+RD2= comparable R2 from the levels equation (i.e., without differencing) 
+RSS0 = RSS from the levels equation 
+RSS1= RSS from the first difference equation 
+Sometimes, we get high R 2 in levels form equation and low R 2 in first difference 
+equation. But the DW statistic may be found to be low in the levels form 
+equation. This often suggests that the equation is mis-specified. In this case, we 
+should use the first difference equation. Low R 2 in first difference equation may 
+indicate that the dependent and independent variables are unrelated.  
+It should also be noted that the above discussion on first differencing and quasi-
+first differencing assumes a particular correlation structure between 𝑢௧ and𝑢௧ିଵ . 
+Sometimes, 𝑢௧ can be found to be correlated with 𝑢௧ିସ . The DW statistic will not 
+be able to detect this, and it has to be modified as follows: 
+𝑑ସ =
+∑(௨ෝ ೟– ௨ෝ ೟షర )మ
+∑ ௨ෝ ೟
+మ        … (9.30) 
+In this case, fourth differencing or quasi-fourth differencing will have to be used, 
+that is, regress 𝑦௧ −  𝜌ො𝑦௧ିସ  on 𝑥௧ − 𝜌ො𝑥௧ିସ , where, 𝜌ො is the correlation coefficient 
+between 𝑢ො௧ and 𝑢ො௧ିସ . 
+ 
+
+
+--- Page 30 ---
+ 
+ 
+ 
+173 
+Autocorrelation 3. The Newey-West Method 
+Under this method, the OLS method is used but the standard errors are corrected 
+for autocorrelation. For large samples, the Newey-West method gives 
+autocorrelation corrected standard errors of estimators. These are called Newey-
+West standard errors. In fact, these standard errors are corrected for both 
+autocorrelation and heteroscedasticity and are also known as HAC 
+(Heteroscedasticity-and-Autocorrelation-Corrected Standard Errors). This is an 
+extension of White’s Heteroscedasticity-Corrected standard errors. The Newey-
+West method is valid for large samples only. 
+9.6  METHODS OF ESTIMATING 𝛒 
+If ‘ 𝜌’ is not close to 1 as required for First-Differencing method, it can be 
+estimated using some of the methods described below.  
+1. From Durbin-Watson Statistic 
+The Durbin-Watson statistic 𝑑 ≈  2(1 − 𝜌ො). Hence, 
+𝜌ො ≈  1 −  
+ௗ
+ଶ         …(9.31) 
+However, this method can be used in large samples only.  
+2. From the Residuals 
+Errors follow AR(1) process such that 𝑢௧ =  𝜌𝑢௧ିଵ  + 𝜀௧ . Estimate 𝜌 by 
+regressing 𝑢ො௧ on 𝑢ො௧ିଵ  from the regression, 
+ 𝑢ෝ ௧ =  𝜌𝑢ො௧ିଵ  + 𝑣௧       … (9.32) 
+(𝑣௧ is the white noise).  
+3. Iterative Procedure 
+Taking some starting value of 𝜌 , this method estimates 𝜌ො  by successive 
+approximation. Some iterative methods are discussed below: 
+3a. Cochrane–Orcutt Procedure:  This method estimates 𝑦௧ = 𝛼 +  𝛽𝑥௧ + 𝑢௧ by 
+OLS and the residuals 𝑢ො௧  are obtained. Hence, 𝜌ො  which is the first-order 
+coefficient of autocorrelation is obtained as follows: 
+𝜌ො = ∑ 𝑢ො௧ 𝑢ො௧ିଵ / ∑ 𝑢ො௧
+ଶ        … (9.33)  
+This method can also be applied in the case of higher order autoregressive 
+process.  
+3b. Durbin’s Procedure:Rewrite the equation, 
+𝑦௧ −  𝜌𝑦௧ିଵ = 𝛼(1 − 𝜌) +  𝛽(𝑥௧ − 𝜌𝑥௧ିଵ ) + 𝜀௧ 
+as 𝑦௧ = 𝛼(1 − 𝜌) +  𝜌𝑦௧ିଵ +  𝛽𝑥௧ − 𝜌𝛽𝑥௧ିଵ + 𝜀௧   … (9.34) 
+Now, regressing 𝑦௧ on 𝑦௧ିଵ , 𝑥௧ and 𝑥௧ିଵ , the coefficient of 𝑦௧ିଵ gives an estimate 
+of 𝜌. Using this estimate of 𝜌, find ( 𝑦௧ −  𝜌𝑦௧ିଵ ) and ( 𝑥௧ − 𝜌𝑥௧ିଵ ) and regress 
+(𝑦௧ −  𝜌𝑦௧ିଵ ) on ( 𝑥௧ − 𝜌𝑥௧ିଵ ) to get an estimate of  𝛽. The constant term in this 
+
+
+--- Page 31 ---
+ 
+ 
+ 
+174 
+Violations of Basic 
+Assumptions 
+regression corresponds to 𝛼(1 − 𝜌). Since the estimate of 𝜌 is known, 𝛼 can be 
+obtained. Hence we get 𝛼 and 𝛽, the estimates of the parameters of the original 
+equation 𝑦௧ = 𝛼 +  𝛽𝑥௧ + 𝑢௧.  
+A disadvantage of using this method is that it involves a number of variables in 
+the regression. This is more of a problem if there are several independent 
+variables.  
+4. Grid-Search Procedures 
+4a. Hidreth and Lu Procedure:  Let 𝑦௧∗ = 𝑦௧ −  𝜌𝑦௧ିଵ  and 𝑥௧∗ = 𝑥௧ − 𝜌𝑥௧ିଵ . 
+Assuming different values of ρ in the range +1 to -1 at intervals of 0.1, obtain 𝑦௧
+∗ 
+on 𝑥௧∗  for different values of 𝜌  and regress  𝑦௧∗  on 𝑥௧∗ . From each such 
+regressions, obtain the RSS. Now, choose the regression having minimum RSS 
+and choose the value of 𝜌 corresponding to it. Smaller intervals say, 0.01 can be 
+taken around the chosen value of 𝜌 and this procedure can be repeated.  
+4b. Maximum Likelihood Procedure:  If the error terms 𝜀௧  are normally 
+distributed, the log likelihood function can be written as follows: 
+log 𝐿 = 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡 −
+்
+ଶ
+log 𝜎௘ଶ +
+ଵ
+ଶ log(1 − 𝜌ଶ ) −
+ொ
+ଶఙ ೐మ   …(9.35) 
+Here, 𝑄 =  ∑[𝑦௧ −  𝜌𝑦௧ିଵ − 𝛼(1 − 𝜌) −  𝛽(𝑥௧ − 𝜌𝑥௧ିଵ )]ଶ    …(9.36) 
+To get the ML estimates, we use the grid-search procedure. For each value of 𝜌, 
+we compute the RSS ( 𝜌) and choose that value of 𝜌 for which [
+்
+ଶ log 𝑅𝑆𝑆( 𝜌) −
+ଵ
+ଶ
+log(1 − 𝜌ଶ ] is the minimum.  
+In conclusion, we can say that estimating ‘ 𝜌’ by these different methods does not 
+make much difference in large samples, because the OLS estimators are 
+consistent even in the presence of autocorrelation. Using any of these methods, 
+we get consistent estimates of the true ‘ 𝜌’. Having obtained an estimate of ‘ 𝜌’, it 
+is used to estimate GLS. Since ‘ 𝜌ො’ is used, it is often known as estimated GLS 
+(EGLS) or feasible GLS (FGLS)).  
+In small samples, however, the estimated coefficients (parameters of the 
+transformed model) may not be BLUE because ‘ 𝜌ො’ is used instead of true ‘ 𝜌’. 
+The estimated OLS coefficients display usual optimum properties asymptotically 
+(when sample size increases infinitely). Moreover, in small samples, it is 
+sometimes better to continue using OLS. As a rule of thumb, if sample size is 20 
+and 𝜌ො < 0.3, OLS is better than FGLS ( 𝜌ො is the estimated first order coefficient 
+of autocorrelation). Additionally, it must be noted that this discussion essentially 
+assumes that the error terms are AR(1). If they are higher order autoregressive, it 
+is sometimes advised to continue assuming AR(1) process rather than ignoring 
+autocorrelation altogether and using usual OLS. The issue is debatable, and some 
+researchers contradict this by saying that doing so may worsen the problem.  
+ 
+
+
+--- Page 32 ---
+ 
+ 
+ 
+175 
+Autocorrelation Check Your Progress 3 
+1)  Consider the model 𝑦௧ = 𝛼 +  𝛽𝑥௧ + 𝑢௧ 
+𝑢௧ =  𝜌𝑢௧ିଵ  + 𝜀௧;  0 ≤ ρ ≤ 1 
+𝜀௧ ~ 𝐼𝑁(0, 𝜎ଶ ) 
+By regressing ∆ 𝑦௧ on ∆𝑥௧, is it possible to get more efficient estimates of 𝛽 
+than by regressing 𝑦௧on𝑥௧? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+2)  Given 𝑦௧ = 2.8 +  0.5  𝑥௧ +  0.8    𝑦௧ିଵ  
+              (0.38)       (0.06)  
+The p-values are given in parenthesis. 𝑅ଶ = 0.95.     𝐷𝑊 = 1.89. Here, 𝑅ଶ  is 
+high and DW is also closer to 2. Identify the problem in this equation. 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+9.7 LET US SUM UP 
+Autocorrelation is a typical problem in time series data. Even with autocorrelated 
+errors, it is seen that the OLS estimators are unbiased. However, they no longer 
+have minimum variances and the variances are also biased. Thus, the usual tests 
+of significance invalid in the presence of autocorrelation among error terms. Of 
+the various tests to detect autocorrelations, the DW test is the most popular. But, 
+even a statistically significant DW statistic does not necessarily mean that the 
+errors are autocorrelated. Sometimes incorrect specification of the model or 
+omission of relevant variables may cause the DW statistic to be statistically 
+significant. Thus, one should first verify if there is pure autocorrelation or not 
+before proceeding for correcting it. There are other problems with the DW 
+statistic. It cannot detect higher order autocorrelations and it cannot be applied to 
+models having lagged explained variables as independent variables. In view of 
+these shortcomings, the BG test scores over the DW test. Having detected the 
+presence of pure autocorrelation, the next step is to correct for it. The method of 
+GLS can be used but one has to estimate 𝜌 for it. If 𝜌 is close to 1, then first-
+difference transformation can be applied. There are various methods of 
+estimating ‘𝜌’. In large samples, any method of estimating 𝜌 provides consistent 
+estimates of true 𝜌. This is because despite autocorrelation, the OLS estimators 
+are consistent, that is, they tend towards their true parameter values with increase 
+in sample size. However, in small samples, the results have to be interpreted 
+cautiously. The estimated OLS coefficients (parameters of the transformed 
+model) have the optimum properties but only in large samples.  

@@ -1,0 +1,370 @@
+--- Page 82 ---
+ 
+ 225
+Errors in Variables the population of states (POP). When a model that relates the dependent variable 
+EXP to the independent variables AID, INC and POP was estimated by ordinary 
+least squares, using census data for 50 states, the following results were obtained 
+(with t statistics in parentheses): 
+ EXP = –46.81 + 0.00324 AID + 0.00019 INC – 0.597 POP 
+  (–0.56)  (13.64)  (8.12)  (–5.71) 
+  993.0R2   F = 2190 
+There is an important possible source of measurement error in the AID variable. 
+This component can be subject to substantial error as the state aid programmes 
+involves fixed sums of money, and the money involved are easy to measure even 
+before state and local budgets are set.  
+We can test the presence of measurement error by using a Hausman specification 
+test. To perform the test, we use the population of primary and secondary school 
+children (PS) as an instrument. The test proceeds in two stages. In the first stage 
+AID is regressed on PS, and the residual variable iwˆ is calculated as follows: 
+ PS845.095.77AIDwˆ i    87.0R2   
+  )02.18()28.1(  
+In the second stage iwˆ is added to the original regression to correct for 
+measurement error. The resulting equation is  
+ EXP = –138.51 + 0.00174 AID + 0.000 18INC –0.275 POP + 1.372 iwˆ  
+  (–1.41)  (1.94)  (7.55)  (–1.29)  (1.73) 
+A two-tailed t test of the null hypothesis that there is no measurement error would 
+be accepted at the 5 per cent level, since 1.73 < 1.96. However, measurement 
+error would be important if we were using either a one-tail test, or a two-tailed 
+test at 10 per cent significance level. Note that correcting for the possibility of 
+measurement error has substantially lowered the coefficient on the AID variable, 
+suggesting that measurement error caused the effect of AID on spending to be 
+overstated. 
+12.5 INVERSE REGRESSION 
+When we have the variables y and x both measured with errors (the observed 
+values being ),xandy ** we consider two regression equations: 
+1) Regression of *y on *,x which is called the “direct” regression.  
+2) Regression of *x on *y which is called the “inverse” and “reverse” 
+regression.  
+Inverse regression has been frequently advocated in the case of analysis of salary 
+discrimination. Since the problem is one of usual errors in variables, both 
+regressions need to be computed and whether inverse regression alone gives the 
+correct estimates depends on the assumptions we make.  
+The usual model, in its simplest form, is that of two explanatory variables, one of 
+which is measured with error 
+
+
+--- Page 83 ---
+ 
+226 
+ 
+Violations of Basic 
+Assumptions 
+  2211 xxy  
+ where y = salary  
+ 1x true qualifications  
+ 2x gender  
+What we are interested in is the coefficient of 2x . The problem is that 1x is 
+measured with error.  
+Let  *ix measured qualifications  
+ ii*i xx   
+Suppose we adopt the notion that  
+ 
+
+
+
+
+womenfor,0
+menfor,1
+x2  
+Then 02  implies that men are paid more than women with the same 
+qualification and thus there is gender discrimination. A direct least squares 
+estimation of eq. (12.22) with *1x substituted for 0ˆandx 21  has been 
+frequently used as evidence of gender discrimination.  
+In the inverse regression we take  
+ wxyx 221*1         … (12.23) 
+We are asking whether men more or less qualified than women having the same 
+salaries. The proponents of inverse regression argue that to establish 
+discrimination, one has to have 0ˆ2  in eq. (12.23); that is, among men and 
+women receiving equal salaries, men possess lower qualifications.  
+The usual errors in variables results however show that we should no make 
+inferences on the basis of 22 ˆandˆ  but obtain bounds for ,2 from the direct 
+regression and the inverse regression estimates.  
+Check Your Progress 2 
+1) Show that in the two-variable model 
+
+ 2
+i
+ii
+z
+zyˆ (where z is an instrument) 
+will not yield a consistent estimate of the true slope parameter. 
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+2) What is the Hausman specification test? How would you carry out a 
+Hausman specification test to evaluate the presence or absence of 
+measurement error? 
+……………………………………………………………………………
+…………………………………………………………………………… 
+
+
+--- Page 84 ---
+ 
+ 227
+Errors in Variables 12.0 LET US SUM UP 
+In ordinary least squares model, we assume that sample observation are measured 
+without error, which is always not true. When this assumption does not hold, 
+OLS estimators are biased and inconsistent. Errors may appear in the 
+measurement of dependent variable, independent variable or both. When there is 
+error in dependent variable, this does not destroy the unbiased property of the 
+OLS estimators, but the estimated variances are larger than the case where there 
+is no such errors of measurement. On the other hand, when there is error in the 
+independent variable, or both dependent and independent variables, then OLS 
+estimates are not only biased but also inconsistent.  
+We can test for the presence of measurement error by using the Hausman 
+specification test. One technique which is available and can solve the 
+measurement error problem is the technique of instrumental variables estimation. 
+12.7 KEY WORDS 
+Asymptotic Bias : When the classical least-squares estimator is biased 
+even with the increase in sample size, it is known as 
+asymptotic bias or inconsistency.  
+Equation Error : It represents the influence of various explanatory 
+variables that have not accurately been included in 
+the model and is in the form of disturbance term. 
+Errors in Variables : When errors are found in the measurement of 
+variables, we say that there are errors in variables. 
+These errors can substantially alter the properties of 
+the estimated regression parameters. 
+Explanatory Variable : It is the independent variable which explains the 
+dependent variable. 
+Instrumental 
+Variable 
+ 
+: It is a random variable, which a highly correlated 
+with the independent variable and at the same time 
+uncorrelated with the error term in the equation.  
+Inverse Regression  : It is the reverse of direct regression. If we consider 
+regression of Y on X as direct regression, then 
+regression of X on Y is inverse regression.  
+Measurement Error : When either dependent variable, or independent 
+variable or both, are measured subject to error, we 
+say that there is measurement error.  
+Parameter : It is a measure of some characteristics of the 
+population. 
+
+
+--- Page 85 ---
+ 
+228 
+ 
+Violations of Basic 
+Assumptions Proxy Variable : It is a variable, which is proxy for the true variable. 
+Specification Error : Errors found in the specification of the model. 
+Stochastic 
+Disturbance Term 
+: It is the random error term whose value is based on 
+an underlying probability distribution.  
+12.8 SOME USEFUL BOOKS 
+Intriligator, Michael, Ronald Bodkin and Cheng Hsiao (1996); Econometric 
+Models, Techniques, and Applications , Prentice-Hall International 
+Inc., New Jersey. 
+Johnston, J., Dinardo, J., 2007, “ Econometric Methods ”, 4 th Edition, McGraw-
+Hill Education (Asia), International Edition, pp. 109-125 
+Maddala, G. S. and K. Lahiri, 2012, Introduction to Econometrics , Fourth 
+Edition, Wiley  
+Pindyck, Robert S. and Daneil L. Rubinfeld (1998); Econometric Models and 
+Economic Forecasts, Fourth Edition, Irwin/McGraw-Hill, Singapore. 
+Verbeek, M. 2012, “ A Guide to Modern Econometrics ”, Fourth Edition, John 
+Wiley & Sons  
+12.9 ANSWERS/HINTS OF CHECK YOUR  
+ PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Go through Sections 12.1 and 12.3. 
+2) a) true b) true. 
+3) Go through Section 12.3. 
+Check Your Progress 1 
+1) Go through Section 12.4. 
+2) Go through Section 12.5 and Example 12.2. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 86 ---
+UNIT 13  STOCHASTIC REGRESSORS 
+Structure 
+13.0  Objective 
+13.1  Introduction 
+13.2  Endogeneity Problem 
+13.2.1  Omitted Variables  
+13.2.2 Measurement Error 
+13.2.3  Simultaneity  
+13.3  Instrumental Variable Estimator 
+13.4  Two-Stage Least Squares Estimator 
+13.5  Let Us Sum Up 
+13.6 Key Words 
+13.7 Some Useful Books 
+13.8 Answers/ Hints to Check Your Progress Exercises 
+13.0 OBJECTIVES 
+After going through this Unit you should be in a position to  
+ explain the endogeneity problem due to omitted variables, measurement 
+error, and simultaneity; 
+ explain the need for instrumental variables and how they can be used; and 
+ describe the two-stage least squares estimator. 
+13.1 INTRODUCTION 
+While discussing the classical regression model (see Unit 4), we assumed that the 
+values of the explanatory variable, 𝑥௜, are kept fixed in repeated samples. An 
+implication of the above is that the values assumed by 𝑥௜ are not random. 
+Consequently, there is no relationship between the stochastic error term 𝑢௜ and 
+the explanatory variable 𝑥௜. This assumption is concisely written as 𝐸(𝑥௜𝑢௜) = 0.  
+In real life situations 𝑥௜ is a random variable, that is, 𝑥௜ is a stochastic regressor. 
+In such cases 𝐸(𝑥௜𝑢௜) ≠ 0, that is, 𝑥௜ and 𝑢௜ are correlated. In this Unit we 
+discuss issues related to the consequences of stochastic regressors and the 
+remedial measures that we should undertake. 
+ 
+  Dr. Narendra Nath Dalei, Associate Professor, Central University of Himachal Pradesh, 
+Dharamshala 
+
+
+--- Page 87 ---
+ 
+230 
+ 
+Block 13.2 ENDOGENEITY PROBLEM 
+Let us consider the following population regression model, which is linear in its 
+parameters 
+     …(13.1) 
+where  y : dependent variable 
+ : explanatory variables 
+  : unobservable random disturbance or error 
+ : the parameters to be estimated 
+The key condition on which equation (13.1) under OLS can consistently estimate 
+the is that mean value of the stochastic error is zero and is uncorrelated with 
+each of explanatory variables. Symbolically, we can write: 
+     … (13.2) 
+In regression analysis, assumption (13.2) is sufficiently supported by the zero 
+conditional mean assumption, which can be written as: 
+      
+ … (13.3) 
+The population regression function under equation (13.1) and assumption (13.3) 
+can be written as: 
+   … (13.4) 
+An explanatory variable xj is said to be ‘endogenous’ in equation (13.1), if it is 
+correlated with the stochastic error term u. Similarly, xj is said to be exogenous in 
+equation (13.1), if it is not correlated with the stochastic error u. Assumption 
+(13.3) implies that each explanatory variable is exogenous. 
+An explanatory variable xj is said to be endogenous if it is correlated with the 
+stochastic error u. Thus, endogeneity problem arises whenever the explanatory 
+variable is correlated with the error term. There are three ways of observing 
+endogeneity in regression models. These are: 
+a. Omitted Variables 
+b. Measurement Error 
+c. Simultaneity 
+13.2.1 Omitted Variables  
+The case of omitted variables was discussed in Unit 8. It arises when we are 
+unable to include certain additional variables in our regression model due to data 
+unavailability.Let us suppose that is the conditionalexpectation function 
+which is linear in parametersand additive in q (suppose, q represents the excluded 
+variables). We always estimate for unobserved q. But such a regression 
+ux...xxy KK22110 
+K21 x,...,x,x
+u
+K21 ,...,, 
+j
+,0)u,x(Cov,0)u(E j  K,...,2,1j 
+  0)x|u(Ex,...,x,x|uE k21 
+KK22110K21 x...xx)x,...,x,x|y(E 
+)q,xy(E
+)xy(E
+
+
+--- Page 88 ---
+ 
+ 231
+Stochastic 
+Regressors model is different from , even if q and x are correlated. In the case of 
+excluded variables, we are writing equation (13.1) and q gets included in the 
+stochastic error u. Thus, variable xj is endogenous in a regression model if q (i.e., 
+excluded variables) and xj are correlated. 
+13.2.2 Measurement Error 
+In regression analysis we implicitly assume that the dependent and independent 
+variables are measured without any error. That is, the variables are exact, and 
+error is zero. However, this is only an assumption and in real life errors creep in 
+due to various reasons such as non-response error, reporting error, and computing 
+error. We discussed the issue of error-in-variables in Unit 12.  
+Whatever be the reason, measurement error in variables lead to biased and 
+inefficient estimators. The observed variables of‘the sample regression 
+function’on which we collect data are modelled as: 
+        … (13.5) 
+        … (13.6) 
+Equation (13.5) and equation (13.6) show that our observed variables  and  
+are measured with additive errors u and v respectively.The measurement error in 
+x creates an endogeneity bias because the measurement error becomes a part of 
+the error term uin the regression equation. This can be viewed from equation 
+(13.5) as follows: 
+ 
+Now putting the value of x in  we can write: 
+ 
+or,        … (13.7) 
+Because of the positive correlation between and u observed in equation (13.5), 
+the OLS estimation produces certain bias in . Such bias may be negative or 
+positive depending upon the sign of the true  in equation (13.7). If the true is 
+positive, then the bias is negative. On the other hand, if the true  is negative, 
+then bias is positive.  
+13.2.3 Simultaneity  
+If any of the explanatory variables is determined simultaneously along with y, 
+then the problem of simultaneity arises. This problem is also called reverse 
+causality, that is, the explanatory variable (x) is caused by the explained variable 
+(y). For example, xK and u are correlated if xK is determined partly as a function 
+of y.  
+Let us consider a two variable regression model ( 𝑦௜ = 𝛽𝑥௜ + 𝑢௜), where the 
+dependent variable is ‘earnings ( 𝑦௜)’ of a person and the independent variable is 
+‘years of schooling ( 𝑥௜)’. If we analyse the model, there are several variables 
+such as ability of the person, type of school one attended, parental education, 
+)q,xy(E
+uxx~ 
+vyy~ 
+x~ y~
+ux~x 
+ xy
+ )ux~(y
+)u(x~yi 
+x~
+~
+ 
+
+
+
+--- Page 89 ---
+ 
+232 
+ 
+Block peer-group of the person, etc. that are excluded from the model but influence 
+earnings. All these excluded variables are clubbed together in the stochastic error 
+term. According to this model, if there is no association between x and u, a unit 
+change in x will result in 𝛽𝑥 change in y. Let us consider the variable ‘ability’ 
+(which cannot be measured) that is clubbed with u. The variable ‘ability’ 
+influences y positively – a person with higher ability will have higher value of y. 
+But we know that a person with high ability will have higher value of ‘years of 
+schooling’, i.e., x and u are correlated. Thus, a person with high ability will 
+influence y in two ways: directly through a higher value of u, and indirectly it 
+will lead to a higher value of x.  
+Very often it is not possible to distinguish among the three possible forms of 
+endogeneity. In fact, more than one source of endogeneity is observed in any 
+given equation. There are two methods to resolve the endogeneity problem: (i) 
+instrumental variables (IV) method, and (ii) two-stage least squares (2SLS) 
+method. The IV estimator and the 2SLS estimator are consistent, i.e., they 
+approach the value of the parameter as the sample size increases infinitely.  
+Check Your Progress 1 
+1) What do you mean by endogeneity problem in regression analysis? 
+……………………………………………………………...………………
+……………………………………………………………...………………
+………………………………………………………………...……………
+………………………………………………………………...………….... 
+2) What are the major sources of endogeneity problems? 
+……………………………………………………………...………………
+……………………………………………………………...………………
+………………………………………………………………...……………
+………………………………………………………………...………….... 
+3) Explain the problems of measurement error. 
+……………………………………………………………...………………
+……………………………………………………………...………………
+………………………………………………………………...……………
+………………………………………………………………...………….... 
+4) Explain the problems of omitted variable as an endogeneity problem. 
+……………………………………………………………………………...
+……………………………………………………………...………………
+……………………………………………………………...………………
+………………………………………………………………...…………… 

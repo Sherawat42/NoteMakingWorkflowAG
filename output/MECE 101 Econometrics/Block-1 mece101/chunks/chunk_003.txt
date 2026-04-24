@@ -1,0 +1,503 @@
+--- Page 19 ---
+ 
+ 
+ 
+18 
+Classical Regression 
+Model 
+cent change in X . Thus, if Y  represents the quantity of a commodity demanded 
+and X  its unit price, then 𝛽ଵ measures the price elasticity of demand.  
+The log-linear regression model has certain advantages: (i) the parameters are 
+invariant to change of scale, since they measure percentage changes, (ii) the 
+model gives elasticity figures directly, and (iii) the model moderates the problem 
+of heteroscedasticity to some extent (see Unit 11 for the problem of 
+heteroscedasticity).  
+1.6 SOFTWARE PACKAGES FOR ECONOMETRIC 
+ANALYSIS 
+As econometric analysis deals with empirical data it involves cumbersome 
+computations. We can think of estimating the parameters in some of the simpler 
+estimation methods (such as OLS) involving a small dataset. In other cases, 
+however, it is quite difficult and time consuming.  
+In recent years, easy access to computers and the availability of econometric 
+software packages has made the job simpler. We find that the most difficult 
+computations can be done by computers in a few seconds. There are several 
+software packages available for econometric applications. Most of these software 
+packages include the important econometric applications. Further, since these 
+software packages apply similar methods, the results are almost the same. Some 
+of these software are freely available while others need to be bought from the 
+market. An open-source software package (i.e., freely downloadable from the 
+Internet)is R. You can modify this software according to your need share with 
+others without any licensing violation. Thus, a lot of new features (i.e., new 
+methods and test statistics) are being added to this software. A major limitation 
+of R is that you need to have some basic knowledge of computer programming.  
+Software such as STATA, E-Views and SPSS are more user-friendly in the sense 
+that you can apply various econometric methods by the click of a mouse – you do 
+not have to write programs. These software, however, are licensed and need to be 
+purchased. There are certain freeware packages such as Gretl, EasyReg, 
+Matrixer, etc. which can be freely downloaded from the Internet and can be used 
+for econometric analysis.  
+Check Your Progress 2 
+1)       Explain the need for inclusion of an error variable in a regression model. 
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+2)  Explain the concept of data generation process. Is it the same as the 
+estimated regression model?  
+ .......................................................................................................................
+ ....................................................................................................................... 
+
+
+--- Page 20 ---
+ 
+ 
+ 
+19 
+Introduction to 
+Econometrics 
+3) How do you interpret the slope parameter of the following regression 
+models? 
+ (i) 𝑌௜ = 𝛽଴ + 𝛽ଵ 𝑋௜  
+ (ii)  ln𝑌௧ = 𝛽଴ + 𝛽ଵ 𝑡 + 𝑢௧ 
+ (iii)  ln𝑌௜ = 𝛽଴ + 𝛽ଵ ln𝑋௜ + 𝑢௜ 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+1.7  LET US SUM UP 
+In this Unit we discussed the importance and scope of econometrics. Also, we 
+distinguished between theoretical econometrics and applied econometrics. In 
+econometric models we follow certain steps: specification of the model in 
+quantitative terms, collection of data, estimation of the model, testing of 
+hypothesis and interpretation of results, and drawing inferences.  
+Econometric models are stochastic in nature; we add a stochastic error variable to 
+the regression model. The stochastic error is a random variable. It includes the 
+omitted explanatory variables, error due to wrong specification of the functional 
+form, and selection of wrong sample. 
+Data that we consider for estimation of parameters take occur through a data 
+generation process (DGP). The DGP is not known to us; we try to conjecture it 
+through some econometric model. We consider several alternative models and 
+opt for the best out of these alternative econometric models.  
+1.8 KEY WORDS 
+Alternative 
+Hypothesis 
+: In hypothesis testing, alternative hypothesis states a 
+condition that is opposite to the null hypothesis. It is 
+expressed as
+𝐻ଵ : 𝛽ଶ ≠ 0, i.e., the slope coefficient is 
+different from zero. It could be positive or negative.  
+Classical Linear 
+Regression Model 
+:
+ It refers to a linear regression model that establishes 
+a linear relationship between the variables, based on 
+certain assumptions regarding the error variable. 
+Confidence Interval :
+ It is the range of values that determines the 
+probability that the value of the parameter lies within 
+the interval. 
+Deterministic :
+ It represents the systematic component of the 
+regression equation. It is the expected value of the 
+
+
+--- Page 21 ---
+ 
+ 
+ 
+20 
+Classical Regression 
+Model 
+Component dependent variable for given values of the 
+explanatory variable. 
+Econometric Model :  These are statistical models specifying relationship 
+between relationships between various economic 
+quantities. 
+Estimation of 
+Parameters 
+: This process deals with estimating the values of 
+parameters based on empirical data that has a random 
+component. 
+Null Hypothesis :
+ It is the hypothesis that there is no significant 
+difference between specified population, the 
+observed difference is mainly due to sampling or 
+experimental error. 
+Parameter :
+ A quantity or statistical measure for a given 
+population that is fixed. The mean and the variance 
+of a population are population parameters. 
+Population 
+Regression Function 
+(PRF) 
+: A population regression function hypothesizes a 
+theoretical relationship between a dependent variable 
+and a set of independent or explanatory variables. It 
+is a linear function. The function defines how 
+conditional expectation of a variable Y responds to 
+the changes in independent variable X. 
+Statistical Inference :  It refers to the process of deducing properties of 
+underlying probability distribution of the parameters 
+by analysing data. 
+Stochastic Error  :  The error variable represents the influence of those 
+variables that are not included in the regression 
+model. It is evident that even if we try to include all 
+the factors that influence the dependent variable, 
+there exists some intrinsic randomness between the 
+two variables. 
+1.9 SOME USEFUL BOOKS 
+Maddala, G. S., and Lahiri, K. (2009), Introduction to Econometrics , Fourth 
+Edition, John Wiley & Sons. 
+Verbeek, M. (2017), A Guide to Modern Econometrics. Fifth Edition, John Wiley 
+& Sons. 
+Wooldridge, Jeffrey M. (2022), Introductory Econometrics: A Modern Approach, 
+Cengage Learning. 
+
+
+--- Page 22 ---
+ 
+ 
+ 
+21 
+Introduction to 
+Econometrics 1.10 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Econometric model is a simplification of reality. It retains the major 
+features while excludes the finer details. It is expressed in mathematical 
+form. It can be estimated by using real life data.  
+2) Refer to Sub-Section 1.2.1 and answer.  
+3) Refer to Sub-Section 1.2.3 and answer.  
+Check Your Progress 2 
+1) The error variable signifies the stochastic nature of relationship. The error 
+term includes the omitted explanatory variables, error due to wrong 
+specification of the functional form, and error due to selection of wrong 
+sample.  
+2) Data generation process reflects the reality. It indicates the process 
+through which values of different variables pertaining to an observation 
+occur. The DGP is not known to us. We try to approximate it with certain 
+econometric model.  
+3) (i) A unit change in X results in 𝛽ଵ units of change in Y.  
+(ii) A unit change in results in 𝛽ଵ  per cent of change in Y.  
+(iii) A unit per cent change in X results in 𝛽ଵ per cent of change in Y.  
+ 
+ 
+
+
+--- Page 23 ---
+UNIT 2 REVIEW OF STATISTICAL CONCEPTS*  
+Structure 
+2.0  Objectives 
+2.1  Introduction 
+2.2  Statistical Inference 
+ 2.2.1  Point Estimation 
+ 2.2.2  Interval Estimation 
+  2.2.3  Properties of a Good Estimator 
+2.3  Asymptotic Properties of an Estimator 
+  2.3.1  Law of Large Numbers 
+  2.3.2  Central Limit Theorem  
+2.4 Hypothesis Testing 
+2.5.1  Null Hypothesis and Alternative Hypothesis 
+  2.5.2  Type-1 Error and Type-2 Error 
+2.5.3  Level of Significance 
+  2.5.4  Critical Region 
+  2.5.5  Confidence Interval 
+2.5  Estimation Methods 
+2.5.1  Method of Least Squares 
+  2.5.2  Method of Maximum Likelihood 
+ 2.5.3  Method of Moments 
+2.6  Let Us Sum Up 
+2.7  Key Words 
+2.8  Some Useful Books  
+2.9  Answers/Hints to Check Your Progress Exercises 
+2.0 OBJECTIVES 
+After going through this unit, you will be able to 
+ differentiate between a parameter and a statistic; 
+ distinguish between a ‘point estimate’ and an ‘interval estimate’; 
+ discuss the properties of a ‘good estimator’; 
+ 
+ 
+*  Dr. Sudip Mukherjee, Department of Economics, Dinabandhu Mahavidyalaya, Bongaon, West 
+Bengal 
+
+
+--- Page 24 ---
+ 
+ 
+ 
+23 
+Review of  
+Statistical Concepts 
+ 
+ write a note on the asymptotic properties of an estimator; 
+ define the concepts of ‘weak and strong law of large numbers’; 
+ state the ‘Central Limit Theorem’ illustrating the same with an example; 
+ explain the different terminologies used in the context of the testing of a 
+‘statistical hypothesis’; 
+ apply the least squares method to estimate the parameters of a linear 
+regression model; 
+ elucidate the method of ‘maximum likelihood estimation (MLE)’; 
+ derive the ‘maximum likelihood estimates’ of the parameters of standard 
+distributions like Binomial, Poisson and Normal; 
+ list the properties of MLE; and  
+ describe the ‘method of moments’ estimation with illustrations. 
+2.1 INTRODUCTION  
+Estimation and hypothesis testing are the two parts of classical statistical 
+inference that is employed all through in econometrics. The process of estimating 
+a population parameter by a random sample drawn appropriately from a 
+population is referred to as ‘estimation’. The process of assessing whether to 
+accept or reject a hypothesis, making an assumption about the value of a 
+population parameter based on sample information, is done in ‘hypothesis 
+testing’. Inferences (or conclusions) about the relationship between a dependent 
+variable and independent variable, in probabilistic terms, is done in hypothesis 
+testing of regression models (or equations) fitted from sample data. 
+The aggregate of objects under consideration in any statistical research is referred 
+to as the ‘population’. In sampling theory, population refers to the ‘target group’ 
+from which the samples are drawn. A sample is a finite portion of the population 
+selected with the objective of exploring its properties. The sample size refers to 
+the number of units in the sample. The statistical constants of the population like 
+mean (µ), variance (σ 2), skewness (β 1), Kurtosis (β 2), moments (µ) correlation 
+coefficient (ρ) etc are known as ‘parameters’. We compute corresponding 
+statistical constants for the sample drawn from the population. Such statistical 
+constants of the sample such as mean ( 𝑥̅), variance ( s2), skewness ( b1), Kurtosis 
+(b2), moments (mr), and correlation coefficient (𝑟) are referred to as ‘statistics’.  
+2.2  STATISTICAL INFERENCE 
+The purpose of sampling is to investigate a characteristic of the population based 
+on sample observation. A carefully selected sample is supposed to reveal their 
+characteristics. Thus, in statistical inference, we deduce information about the 
+population (more precisely about the population parameters) based on an analysis 
+
+
+--- Page 25 ---
+ 
+ 
+ 
+24 
+Introduction of the sample. This process is known as ‘statistical inference’. To begin with, we 
+may have no information about the population in terms of their parametric 
+values. Therefore, estimation is required. Secondly, some data or hypothetical 
+values for the parameter may be available, and it may be required to test whether 
+a hypothesis formulated is tenable. This brings us to the need for ‘hypothesis 
+testing’. The estimation may be of two types, viz., (i) point estimation, and (ii) 
+interval estimation. 
+2.2.1 Point Estimation 
+A point estimate of a parameter is a specific value of a ‘statistic’. The term 
+‘statistic’ here refers to the aggregate value of sample observations (e.g. mean, 
+standard deviation). Thus, the term ‘statistic’, more generally refers to a function 
+of sample observations. The value obtained by computing the statistic (e.g. 𝑥̅ = 
+௫ଵା௫ଶା ⋯.௫௡
+௡
+), for a particular sample is called the ‘estimate’. Thus, if ( x1, x2….xn) 
+is a random sample from the population and the statistic is more generally 
+denoted by ‘T’, then 
+  T = f(x1,x2….xn)      … (2.1) 
+is the computed value of T using the sample data x1,x2….xn . In other words, T is 
+the ‘estimator’ and the value taken by it for the sample observations, say t, is an 
+‘estimate’. An estimator is thus a general rule or a formula for estimating an 
+unknown population parameter. Thus estimator (i.e., the formula) will be the 
+same for multiple samples. The estimate (i.e., the value obtained by applying the 
+formula) will vary from sample to sample. Any particular estimate obtained from 
+a sample is a ‘point estimate’. The distribution of many such point estimates, 
+obtained from different samples, is called the ‘sampling distribution’ of the 
+‘statistic’. 
+2.2.2 Interval Estimation  
+Let Ø be a population parameter and let T1 and T2 be two functions based on 
+sample observations such that ‘P( T1≤ Ø≤ T 2) = (1– α)’. Here, α is the level of 
+significance (usually taken as a low value of 1 or 5 percent). Now, for the 
+parameter Ø, with the confidence coefficient as ‘1– α’, the interval ( T1, T 2) is 
+termed as an ‘interval estimate’ or a confidence interval. The statistics T1 and T2 
+are called the lower and upper confidence limits for the parameter Ø. More 
+specifically, to illustrate, if we draw a random sample ( X) from a population 
+whose parameter values (mean, variance) are not known, and the sample 
+observations are 2, 3, 5, 6 & 9, then the sample mean which is 𝑋ത = 5 represents 
+the point estimate of the unknown population mean. However, if we say the true 
+population mean lies between ( 𝑋ത – 0.5) and ( 𝑋ത + 0.5), i.e., between 4.5 and 5.5, 
+then the range of values from 4.5 to 5.5 becomes an ‘interval estimate’ of the 
+‘population mean’. 
+
+
+--- Page 26 ---
+ 
+ 
+ 
+25 
+Review of  
+Statistical Concepts 
+ 
+2.2.3 Properties of a Good Estimator 
+There are four criteria for a good estimator. These are: (i) unbiasedness, ii) 
+consistency, iii) efficiency and iv) sufficiency. Let us formally define each one of 
+this now. 
+Unbiasedness: A statistic ‘T’ is said to be an unbiased estimator of a parameter Ø, 
+if the expected value of T is Ø, i.e., 
+E (T) = Ø         … (2.2) 
+As an illustration of this property, we can see how the sample mean 𝑥̅ is an 
+unbasied estimator of the population mean µ. We have: sample mean: 𝑥̅  = 
+௫ଵା௫ଶା ⋯.௫௡
+௡  and the population mean ( µ) = 
+௑ଵା௑ଶା ⋯.ା௑௡
+ே . We need to verify that 
+E(𝑥̅) = µ. Each of the sample member x1, x2….xn is a random variable because 
+their values in any particular sample depends on its probability of being included 
+in the sample. For instance, in SRSWR any of the population members X1, 
+X2….Xn may appear at the ‘ ith’ drawing, i.e., x  is the random variable with the 
+probability distribution as follows:  
+  X i X1 X 2  ........ Xn 
+Probability 1
+𝑁 1
+𝑁 ......... 1
+𝑁 
+E(xi) = 𝑋ଵ .
+ଵ
+ே + 𝑋ଶ  .
+ଵ
+ே  + ……+ Xn. 
+ଵ
+ே  
+ =
+ଵ
+ே  (𝑋ଵ + 𝑋ଶ+….+.Xn) 
+ = µ = population mean  
+E(𝑥̅) = Eቂ
+ଵ
+௡  (𝑋ଵ +  𝑋ଶ + ⋯ + 𝑋௡ )ቃ 
+ = 
+ଵ
+௡ [E(𝑋ଵ ) + E(𝑋ଶ )+. . . . E(𝑋௡ )] 
+ = 
+ଵ
+௡ [µ + µ+. . . +µ] =
+ଵ
+௡ 𝑛µ = µ  
+Minimum Variance Unbiased Estimator (MVUE): Since the sample drawn can 
+be many, and each sample has its own variance, this needs us to consider the term 
+‘minimum variance unbiased estimator’. The minimum variance unbiased 
+estimator will have the smallest variance in the class of all unbiased estimators. 
+In other words, if Tm is the minimum variance unbiased estimator of any 
+population parameter Ø, then E( Tm) = ∅ and Var ( Tm) < Var ( T), for any T with 
+E(T) = ∅. 
+Consistency: Let X1, X2,…., Xn be the random variables drawn from a population 
+with parameter Ø. Let ‘T’ be a statistic computed as an estimate of the population 
+parameter Ø. The statistic ‘T’ is said to be a consistent estimator of the parameter 
+Ø, if:  
+
+
+--- Page 27 ---
+ 
+ 
+ 
+26 
+Introduction lim
+௡ →ஶ  
+𝑃(𝑇 ⟶ Ø) = 1        … (2.3) 
+Note that for any distribution, sample mean ( Xഥ ), is a consistent estimator of the 
+population mean (µ) and sample variance S 2 is a consistent estimator of the 
+population variance σ2. 
+Efficiency: The most efficient estimator is one which has minimum variance 
+among all consistent estimators. If T1 and T2 are consistent estimators of a 
+parameter Ø, such that 
+   Var ( T1) < Var (T2), V n 
+then T1 is said to be more efficient than T2. If T1 is the most efficient estimator 
+with variance V1 and T2 is the other estimator with variance V2 for a parameter Ø, 
+then the efficiency of the estimator is defined as:  
+   Efficiency = 
+௏భ
+௏మ
+      
+Since V1 ≤ V2, the efficiency of any estimator cannot exceed unity.  
+Sufficiency: Let X1, X 2 …… X n be the random variables of size n drawn from a 
+population with parameter Ø. Let ‘T’ be a statistic computed to estimate the 
+parameter Ø. If ‘ T’ contains complete information in the sample regarding the 
+parameter Ø, then it is called a sufficient estimator. Now, if a statistic ‘ T’ is 
+computed on the basis of a random sample of size n, from a population with 
+probability density function (p.d.f) f (X, Ø), then T is a sufficient estimator of Ø if 
+the conditional distribution of X1, X2…Xn for a given value of T is independent of 
+Ø. This means, the conditional probability P [ X1∩ X2 ∩… ∩ Xn | T = t] does not 
+depend on (or contain) Ø. 
+Mean Squared Error: When comparing two estimators, a need to make a choice 
+between the two may arise. Suppose we have two estimators, one of which has 
+lower bias but more variance than the other. By this, we mean:  
+(𝑏𝑖𝑎𝑠 𝑇1) > (𝑏𝑖𝑎𝑠 𝑇2) but 𝑉𝑎𝑟(𝑇1) < 𝑉𝑎𝑟(𝑇2). 
+Now, the mean-squared error for T1 is defined as:  
+𝑀𝑆𝐸(𝑇1) = 𝐸[𝑇1 −Ø]2 =  𝑉𝑎𝑟(𝑇1) + (𝑏𝑖𝑎𝑠𝑇1)ଶ  
+Now, if MSE ( T1) < MSE ( T2), we say that T1 has a lower mean-squared error 
+and accept it as an estimator of Ø based on the mean-squared error property. 
+2.3  ASYMPTOTIC PROPERTIES OF AN 
+ESTIMATOR 
+The asymptotic properties relate to an estimator's distribution as the sample size 
+grows larger and approaches infinity. The following are the two asymptotic 
+properties of an estimator. 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+27 
+Review of  
+Statistical Concepts 
+ 
+Asymptotic Unbiasedness: An estimator T is an asymptotically unbiased 
+estimator of Ø if: lim
+௡ →ஶ
+𝐸(𝑇) =  Ø. It means, as the sample size approaches 
+infinity, the estimator T, which was previously biased, becomes unbiased.  
+Consistency: The asymptotic property of consistency relates to the behaviour of 
+an estimator's bias and variance as the sample size approaches infinity. If 
+increasing the sample size reduces the estimator's bias and variance, with the 
+trend continuing till both the bias and variance reaches zero as n →∞, the 
+estimator is said to be consistent. Thus, for T to be a consistent estimator, it must 
+satisfy the following two conditions: (i) lim
+௡ →ஶ
+[ 𝐸(𝑇) −  Ø] = 0 , and (ii) 
+lim
+௡ →ஶ
+ 𝑉𝑎𝑟(𝑇) = 0. 
+2.3.1 Law of Large Numbers 
+Let X1, X2,…., Xn be a sequence of i.i.d. (independent and identically distributed) 
+random variables each with mean µ and standard deviation 𝜎. Let the sample 
+mean be given by: An = 
+௑ భశ  ௑ మశ ⋯.శ  ௑ ೙
+௡ . Now, the weak law of large numbers states 
+that for all α > 0: lim
+௡ →ஶ
+𝑃(|𝐴௡ −  µ|> α) = 0 [or lim
+௡ →ஶ
+𝑃(|𝐴௡ −  µ|< α) = 1]. The 
+strong law of large numbers, on the other hand, requires that lim
+௡ →ஶ
+𝑃(𝐴௡  = µ) = 1 
+[or lim
+௡ →ஶ
+𝑃(|𝐴௡ −  µ|= 0) = 1].  
+The concept of sampling distribution of a statistic can now be revisited as 
+follows. If x1,x2,........,xn are random variables of same sample size n drawn from 
+a population with their respective means as 𝑥̅1,𝑥̅2,….,𝑥̅n, the sampling distribution 
+of these means is the ‘probability distribution of these sample means’. If we 
+further assume that the samples are drawn from a normal population, with the n 
+samples drawn are ‘independent and identically distributed’ ( i.i.d.), it leads us to 
+a result called the ‘central limit theorem’ discussed next. 
+2.3.2 Central Limit Theorem 
+Let X1, X 2, …,X n be n ‘independent and identically distributed’ ( i.i.d.) random 
+variables, each of size n, and drawn from a population having mean µ and 
+variance σ 2, then as the sample size n becomes large, the distribution of the 
+sample mean 𝑋ത approaches normal distribution with mean µ and variance 
+஢ మ
+୬
+. In 
+other words, we have: 𝑋ത~ N(µ, 
+஢ మ
+௡ ) as n ⟶ ∞. You are familiar with the concept 
+of standardised normal variable. It is obtained by subtracting the mean from the 
+variable and dividing it by the standard deviation such that  
+    𝑍 =
+௑തି µ
+ఙ
+√௡ൗ
+      … (2.4) 
+The variable Z as defined in equation (2.4) approaches to the stranded normal 
+distribution, i.e., a normal variate with zero mean and unit variance, as n becomes 
+large. Let us consider an illustration now. 
+We wish to test whether a coin tossed 30 times, with ‘Heads’ obtained in 13 
+tosses is unbiased. Here, n = 30, and 𝑥̅= 
+ଵଷ
+ଷ଴  = 0.43. If the coin is unbiased, then þ 

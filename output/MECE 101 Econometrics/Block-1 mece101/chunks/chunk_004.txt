@@ -1,0 +1,677 @@
+--- Page 29 ---
+ 
+ 
+ 
+28 
+Introduction = 0.5. Since it is a case of coin tosses with two outcomes (H and T), the binomial 
+probability distribution is applicable. As you know, in the case of binomial 
+distribution, the variance σଶ  is npq. Thus, σ = ඥ 𝑛𝑝𝑞 . Hence, the term with √𝑛 
+in the denominator cancels out. The central limit theorem (CLT) as per equation 
+(2.4) tells us that  
+  Z = 
+௑തି଴ .ହ
+√௣௤  ~ N(O, 1) 
+Z = 
+଴ .ସଷି଴ .ହ
+ඥ ଴ .ହ (ଵି଴ .ହ ) = 
+ି  ଴ .଴଻
+଴ .ହ  = − 0.14  
+The critical value of Z at 5 per cent level of significance is 1.96. The Calculated 
+value of Z (absolute) is less the critical Z value. We therefore accept the null 
+hypothesis that the coin is not biased. We conclude that the data from the trials 
+does not suggest that the coin is biased.    
+Check Your Progress 1  
+1) Differentiate between a parameter and a statistic. 
+...........................................................................................................................
+........................................................................................................................... 
+...........................................................................................................................
+........................................................................................................................... 
+2) Distinguish between a ‘point estimate’ and an ‘interval estimate’. 
+...........................................................................................................................
+........................................................................................................................... 
+...........................................................................................................................
+........................................................................................................................... 
+3) What is meant by the term ‘sampling distribution of a statistic’? 
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+4) State the properties of a ‘good estimator’. 
+...........................................................................................................................
+........................................................................................................................... 
+...........................................................................................................................
+........................................................................................................................... 
+5) What are the two conditions that a consistent estimator should satisfy? 
+...........................................................................................................................
+........................................................................................................................... 
+...........................................................................................................................
+........................................................................................................................... 
+6) Differentiate between the weak and strong versions of the law of large 
+numbers. 
+
+
+--- Page 30 ---
+ 
+ 
+ 
+29 
+Review of  
+Statistical Concepts 
+ 
+...........................................................................................................................
+........................................................................................................................... 
+...........................................................................................................................
+........................................................................................................................... 
+2.4  HYPOTHESIS TESTING 
+A statistical hypothesis is a statement about a population or equivalent about a 
+population parameter. Such a statement made may or may not be true. Hence, we 
+wish to test the hypothesis on the basis of the evidence from a random sample. If 
+the hypothesis completely specifies the population, then it is known as a ‘simple 
+hypothesis’; else, it is known as a ‘composite hypothesis’. For instance, in a 
+sampling from a normal population N(µ, 𝜎ଶ ), the hypothesis H: µ = µ 0, 𝜎ଶ = 𝜎଴
+ଶ  
+is a simple hypothesis. It is complete because it specifies a value for both the 
+parameters of the distribution. On the other hand, each of the following 
+hypothesis is composite hypothesis. 
+i) µ=µ0 (nothing is specified about 𝜎ଶ ) 
+ii) 𝜎ଶ = 𝜎଴
+ଶ  (nothing is specified about µ) 
+iii) µ < µ ଴ , 𝜎ଶ = 𝜎଴
+ଶ  (µ is not exactly specified). 
+2.4.1 Null Hypothesis and Alternative Hypothesis 
+The null hypothesis is an assertion whose validity is to be tested for possible 
+rejection based on sample observations. It is denoted by H 0. It is tested against 
+other options specified in the ‘alternative hypothesis’. An alternative hypothesis 
+is indicated by H 1. The alternative hypothesis is not tested, but its acceptance or 
+rejection is determined by the null hypothesis's rejection or acceptance. In a strict 
+sense, we actually either ‘reject’ or ‘do not reject’ a null hypothesis. Though the 
+latter (i.e., do not reject) is commonly referred to as ‘acceptance’, it is actually 
+the case of ‘not rejecting the null hypothesis’. Therefore, you should always 
+remember that a hypothesis is never accepted; it is either rejected or not rejected.  
+The null hypothesis that the population mean µ takes a specific value µ 0 is 
+expressed as H0: µ= µ0. Now, the alternative hypothesis may be expressed as: H 1: 
+µ ≠µ 0 or H 1: µ > µ 0 or H 1: µ < µ 0. This brings us to the concepts of ‘one-tailed 
+test’ and ‘two-tailed test’. A null hypothesis tested against the alternative 
+hypothesis like µ < µ 0 or µ > µ 0 is called a one-tailed test. More specifically, if 
+the alternative hypothesis is H 1: µ > µ o it is called a right tailed test. Likewise, if 
+the alternative hypothesis is H 1: µ < µ o it is called a left-tailed. Both these are 
+cases of ‘one-tailed test’. A null hypothesis where the alternative hypothesis is 
+H1: µ≠ µo is known as ‘two-tailed test’. 
+2.4.2 Type-I Error and Type-II Error 
+The error committed in rejecting a null hypothesis by the test, when it is actually 
+true, is termed as Type-I error. The error committed in accepting a null 
+
+
+--- Page 31 ---
+ 
+ 
+ 
+30 
+Introduction hypothesis by the test, when it is actually false, is termed as Type-II error. The 
+correct decision by the test procedure followed, and the likely error, is depicted in 
+Table 2.1. 
+Table 2.1: Error in Hypothesis Testing 
+ Ho is True Ho is False 
+Ho is accepted  Error of Type-II 
+Ho is rejected Error of Type-I  
+2.4.3 Level of Significance 
+The level of significance refers to the maximum permitted level of committing 
+Type-I error. It is a level of risk that we are willing to take. It is denoted by ∝ and 
+indicates the probability of rejecting the null hypothesis [i.e., P (rejecting Ho 
+when Ho is true) = ∝]. The most commonly used levels of significance in 
+practice are 5 per cent and 1 per cent. If we use a 5 per cent level of significance, 
+this means that we are likely to reject a ‘right Ho’ in 5 out of 100 samples. To put 
+it another way, this means we have a 95 per cent confidence level of not 
+committing the Type-I error. Thus, at ∝ level of significance, the degree of 
+confidence in our decision is (1−∝)  which is also called the ‘confidence 
+coefficient’. The p-value is thus defined as the lowest significance level at which 
+a null hypothesis can be rejected. 
+2.4.4 Critical Region 
+The critical region indicates the probability that the Type-I error committed in 
+our statistical inference does not exceed the level of significance. Let us consider 
+the drawing of numerous samples of the same size from a population and 
+compute the same statistic t (say  𝑥
+) for each one of them. Let t1,t2,.....,tk be the 
+sample value of the statistic for these samples. Now, each one of these values can 
+be used to test the null hypothesis Ho. Some values might cause Ho to be 
+rejected, while others might cause Ho to be accepted. This sample statistic 
+t1,t2,.....,tk can therefore be separated into two mutually exclusive regions. While 
+one leads to Ho's rejection, the other leads to Ho's acceptance. The region that 
+leads to Ho's rejection is referred to as the ‘critical region’, while that which 
+leads to Ho's acceptance is referred to as the ‘acceptance region’. The test 
+statistic's critical value is the value for which the test simply rejects the null 
+hypothesis at the given significance level. 
+2.4.5 Confidence Interval 
+Due to random sampling error, it is impossible to know the exact value of the 
+population parameter using only the information in the sample. However, we can 
+generate a collection of values (or set of values) containing the population 
+
+
+--- Page 32 ---
+ 
+ 
+ 
+31 
+Review of  
+Statistical Concepts 
+ 
+parameter with a pre-specified probability using the data from a random sample. 
+Such a pre-specified probability, which says that the population parameter is 
+contained in this set, is termed as the ‘confidence level’. Such a set is called a 
+‘confidence set’. The population parameter’s confidence set represents all 
+possible values of the population parameter lying between the lower limit and the 
+upper limit. This is called the ‘confidence interval’. 
+2.5  ESTIMATION METHODS 
+There are three methods of estimating the parameters of a population regression 
+function. These are: (i) method of least squares, (ii) method of maximum 
+likelihood and (iii) method of moments. 
+2.5.1 Method of Least Squares 
+Consider a system of m linear equations with n unknowns as follows:  
+𝑎ଵଵ 𝑥ଵ + 𝑎ଵଶ 𝑥ଶ +  +𝑎ଵ௡ 𝑥௡ =𝑏ଵ  
+𝑎ଶଵ 𝑥ଵ + 𝑎ଶଶ 𝑥ଶ +  +𝑎ଶ௡ 𝑥௡ =𝑏ଶ  
+………   ………  …….. 
+……….. ………  …….. 
+ 𝑎௠ଵ 𝑥ଵ + 𝑎௠ଶ 𝑥ଶ +  +𝑎௠௡ 𝑥௡ =𝑏௠      …(2.5) 
+where, aij (i = 1,2, …., m; j = 1, 2, ….., n) and bi (i = 1, 2, ….., m) are constants 
+and xj (j = 1, 2, …. n) are the ‘n ’ unknowns. The system of equations (2.5) will 
+not have a unique solution if the number of equations is more than the number of 
+unknowns (m > n). In such a case, we have to find a set of values of xj (j = 1, 2,… 
+n) which best satisfies the equations in (2.5). This means, such a set of solution 
+should be as close as possible to the actual values of the unknowns. This is 
+achieved by a method known as the ‘method of least squares'.  
+Note that for the equations (2.5) [which are like yi = a + bxi + ei], for a set of 
+values x1, x 2, ……, x n, ei= 𝑎௜ଵ𝑥ଵ + 𝑎௜ଶ𝑥ଶ +  +𝑎௜௡ 𝑥௡ − 𝑏௜, i = 1, 2, … m are the 
+residues. Hence, S = ∑ 𝑒୫
+୧ୀଵ
+2i is the ‘sum of the squares of the residues’. The least 
+squares principle states that the best values of the unknown are those for which 
+the ‘sum of the squares of the residues’ is the least. Hence, to compute the values 
+of xj (j = 1, 2, … n) such that S is minimum, we need to have 𝑑𝑆 𝑑𝑥 ௝ ⁄ = 0, j = 1, 
+2, …., n. That is, 
+𝑑𝑆 𝑑𝑥 ଵ  ⁄ = 𝑑𝑆 𝑑𝑥 ଶ  ⁄ = = 𝑑𝑆 𝑑𝑥 ௡  ⁄ = 0     …(2.6) 
+The conditions in (2.6) gives n equations involving n unknowns. These equations 
+are called normal equations. Solving these n normal equations with n unknowns 
+we get a unique best solution. Let us take an example to understand this better. 
+Say we want to fit a straight line y = a + bx  for a set of a given points ( xi, yi), i= 
+1, 2,...,n. For any xi the estimated value is 𝑦పෝ  = a + bx i. Now, S, the Sum of the 
+squares of the residuals is:  
+
+
+--- Page 33 ---
+ 
+ 
+ 
+32 
+Introduction 𝑆 = ∑ (𝑦పෝ௡
+௜ୀଵ − 𝑦௜)ଶ  =∑ (𝑎 + 𝑏 𝑥௜
+௡
+௜ୀଵ − 𝑦௜)ଶ  
+Applying the method of least squares to calculate a and b, requires us to have:  
+𝑑𝑆 𝑑𝑎⁄ = 0, 𝑑𝑆 𝑑𝑏⁄ = 0,  𝑎𝑛𝑑 𝑑ଶ 𝑆 𝑑𝑎 ଶ⁄ > 0, 𝑑ଶ 𝑆 𝑑𝑏 ଶ⁄ > 0,  …(2.7) 
+The conditions (2.7) give two normal equations as follows:  
+ ∑ 𝑦௜
+௡
+௜ୀଵ =  𝑛𝑎 + 𝑏 ∑ 𝑥௜
+௡
+௜ୀଵ   
+and 
+ ∑ 𝑥௜ 
+௡
+௜ୀଵ 𝑦௜ =  𝑎 ∑ 𝑥௜
+௡
+௜ୀଵ + 𝑏 ∑ 𝑥௜
+ଶ௡
+௜ୀଵ       … (2.8) 
+Solving the two equations in (2.8), we can find the values of a and b. If 𝒂∗and 𝒃∗ 
+are the calculated values of a and b respectively, then the best fitted line will be  
+y = 𝒂∗ + 𝒃∗ 𝒙 
+2.5.2 Method of Maximum Likelihood 
+Let X1, X 2,……Xn be n random variables from a population with the probability 
+density function (p.d.f.) f(X, Ø)  where Ø is the unknown parameter. The 
+probability is a function of sample values X1, X 2… X n and the parameters Ø1, 
+Ø2… Øk . The likelihood function is expressed as:  
+L(Ø) = L(X1, X2,….,Xn, Ø1, Ø2… Øk)  
+The maximum likelihood estimator (MLE) is derived by using the principal of 
+maximum and minimum to the above likelihood function as:  
+ௗ௅
+ௗ Ø
+= 0  and   
+ௗ మ ௅
+ௗ Øమ < 0       … (2.9)  
+Since L > 0, log L(Ø) attains its maximum for the same value of Ø as L(Ø) . 
+Thus, the maximum likelihood estimator of Ø is derived by differentiating the log 
+L(Ø),  i.e., the value of Ø for which:  
+ௗ௟௢௚ (௅ (Ø))
+ௗ Ø = 0  and   
+ௗ మ ௟௢௚ (௅ (Ø))
+ௗ Øమ < 0        
+First let us consider the case where all xi’s are discrete. This means, P[ ∅, (X1 = x1, 
+X2 = x2…….Xn = xn) is a function of ∅ and x1, x2….xn. For fixed ( x1, x 2….xn), we 
+therefore have:  
+ L(∅)= P[∅, (X1 =x1, X2 =x2,…….Xn=xn)] 
+ =P[∅, X1=x1].P[∅, X2=x2]…….P[∅, Xn=xn].[since x1,…,xn are independent] 
+ = ∏ P୬
+୧ୀଵ ∅(𝑋i = 𝑥𝑖) = ∏ 𝑓୬
+୧ୀଵ ∅(𝑥𝑖) 
+where f is the common ‘probability function’ (either a mass function for discrete 
+variables or a density function for continuous variables). A value 𝜃ෘ of 𝜃 is now 
+the maximum likelihood estimator, if L( 𝜃ෘ) ≥ 𝐿(𝜃) for all 𝜃. In most cases, we 
+take Log 𝐿 (𝜃), so that further treatments become easier since Log is a one-to-
+one function. The equation, 
+ୢ (୪୭୥ ௅ (ఏ ))
+ௗ  ௅  (ఏ )
+= 0, is known as the likelihood equation. 
+
+
+--- Page 34 ---
+ 
+ 
+ 
+33 
+Review of  
+Statistical Concepts 
+ 
+We can similarly consider the case where all xi’s are continuous where 𝐿(𝜃) is 
+the joint p.d.f of (x1, x2….xn), dx1.dx2……dxn 
+∴ 𝐿(𝜃) = f (x1, x2….xn), dx1.dx2……dxn  
+ = ∏ 𝑓௡
+௜ୀଵ ∅(𝑥𝑖) (since Xi’s are independent) 
+A likelihood function is thus the product of individual probability functions. Let 
+us now consider the MLEs of some standard distributions.  
+Binomial Distribution: Let Xi be B( m, p) with pmf given by fp(xi) = mCxi pxi (1-
+p)m-xi , i.e., each xi is an independent binomial variable with ( m, p) as its 
+parameters. Therefore, the likelihood function of xi is given by:  
+L(xi) = ∏  𝑓𝑝௡
+௜ୀଵ  (xi) 
+ = ∏ 𝑚𝐶𝑥௡
+௜ୀଵ i pxi (1-p)m-xi 
+ = (∏ 𝑚𝐶𝑥௜
+௡
+௜ୀଵ )𝑝ஊ௫௜ (1 − 𝑝)௡௠ି ∑ ௫௜೙
+೔సభ  
+Taking log on both sides, we get:  
+Log L(xi) = Log (∏ 𝑚𝐶𝑥௜
+௡
+௜ୀଵ ) +  Σ𝑥௜ log 𝑝 + (𝑛𝑚 −  Σ𝑥௜) log(1 − 𝑝)     … (2.10) 
+Differentiating equation (2.10) with respect to 𝑝 we get  
+ௗ ୪୭୥ ௅ (௫ ೔)
+ௗ௣ =
+ஊ௫ ೔
+௣ +
+௡௠ିஊ௫ ೔
+(ଵି௣ ) . (−1)  
+ 
+௅ (௫ప)ሖ
+௅ (௫௜) = 
+ఀ௫ ೔
+௣ −
+௡௠ିஊ௫ ೔
+(ଵି௣ )  
+ = 
+ఀ௫௜ି௣ஊ௫ ೔ି௠௡௣ା௣ஊ௫ ೔ 
+௣  (ଵି௣ )  
+ = 
+ఀ௫ ೔ି௠௡௣
+௣  (ଵି௣ )  
+Equating the first order condition to zero we get  
+ 
+ఀ௫ ೔ି௠௡௣
+௣  (ଵି௣ ) =  0 
+or  𝑝 = 
+ఀ௫ ೔
+௠௡  = 𝑝̂ 
+Therefore, 𝑝̂ =  
+ஊ௫ ೔
+௠௡   is the maximum likelihood estimator of  𝑝. 
+Poisson Distribution: Now, let x1, x 2….xn be a sample of n observations drawn 
+from a Poisson distribution having parameter m. The probability mass function 
+(pmf) of x is given by:  
+𝑓𝑚 (𝑥) = 
+௘ ష೘  .௠ ೣ
+௫ !  (x = 0,1,2,….∞) 
+∴ 𝐿(𝑥) = ∏  𝑓𝑚௡
+௜ୀଵ (𝑥௜) 
+ = ∏ ௘ ష೘ .௠ ೣ ೔
+௫ ೔!
+௡
+௜ୀଵ  
+Taking log on both sides, we get:  
+
+
+--- Page 35 ---
+ 
+ 
+ 
+34 
+Introduction 𝐿𝑜𝑔 𝐿(𝑥) = log(∏ 𝑒ି௠௡
+௜ୀଵ ) + ∑ 𝑥௜ log 𝑚 −  ∑ log 𝑥௜!௡
+௜ୀଵ   
+ = log 𝑒ି௡௠ + ∑ 𝑥௜ log 𝑚 −  ∑ log 𝑥௜
+௡
+௜ୀଵ !     … (2.11) 
+Differentiating equation (2.11) with respect to m we get, 
+𝜕𝐿𝑜𝑔 𝐿(𝑥)
+𝜕𝑚
+=  −𝑛 + Σ𝑥௜
+𝑚  
+Equating the first order condition (FOC) to zero we get:  
+−𝑛 + Σ𝑥௜
+𝑚 = 0 
+Σ𝑥௜
+𝑚 = 𝑛 
+Σ𝑥௜
+𝑛 = 𝑚 
+𝑥̅ = 𝑚 = 𝑚ෝ  
+∴ 𝑚ෝ = 𝑥 is the MLE of the Poisson parameter m. 
+Normal Distribution: Let us now derive the MLE of the parameter σଶ  in a normal 
+distribution with N(µ, σଶ ). Let us first assume that the parameter µ is known. 
+Now, the probability density function (pdf) of the normal variable X is:  
+f(x;µ, 𝜎ଶ ) = 
+ଵ
+ఙ √ଶగ  . 𝑒
+ି (௫ି µ)ଶ
+ଶఙ మ − ∞ < 𝑥 <  ∞  
+The likelihood function is given by  
+𝐿(𝑥; µ, 𝜎ଶ ) = −𝑛 log 𝜎 − 𝑛
+2 log(2𝜋) − Σ(𝑥௜ − µ)ଶ
+2𝜎ଶ  
+  = −
+௡
+ଶ log 𝜎ଶ  −
+௡
+ଶ log(2𝜋) −
+ஊ (௫ ೔ି µ)మ
+ଶఙ మ     … (2.12) 
+Differentiating equation (2.12) with respect to 𝜎ଶ we get, 
+ 
+డ ௅௢௚ ௅ (௫ ;µ,ఙ మ )
+డఙ మ =
+ି௡
+ଶఙ మ +
+ஊ (௫ ೔ି µ)మ
+ଶఙ ర  
+∴ Applying the FOC =  0 we obtain  
+ 
+ି௡
+ଶఙ మ +
+ஊ (௫ ೔ି µ)మ
+ଶఙ ర = 0 
+ 𝑜𝑟, 𝜎ଶ =
+ஊ (௫ ೔ି µ)మ
+௡ = 𝜎ොଶ  
+ ∴ 𝜎ොଶ is the M. L. E. of 𝜎ଶ  
+Note that 𝜎ොଶ 𝑖𝑠 𝑎𝑛 𝑢𝑛𝑏𝑎𝑠𝑖𝑒𝑑 𝑒𝑠𝑡𝑖𝑚𝑎𝑡𝑜𝑟 𝑜𝑓 𝜎 ଶ  because:  
+𝐸(𝜎ොଶ ) = E ቈΣ(𝑥௜ − µ)ଶ
+𝑛 ቉ 
+= 1
+𝑛 E[Σ(𝑥௜ − µ)ଶ ] 
+
+
+--- Page 36 ---
+ 
+ 
+ 
+35 
+Review of  
+Statistical Concepts 
+ 
+= 1
+𝑛 . n 𝜎ଶ = 𝜎ଶ  
+Let us now consider the case where both µ &  𝜎ଶ  are unknown. The likelihood 
+function is given by:  
+ 𝐿𝑜𝑔 𝐿 = −
+௡
+ଶ 𝐿𝑜𝑔 𝜎ଶ  −
+௡
+ଶ 𝐿𝑜𝑔(2𝜋) −
+ஊ (௫ ೔ି µ)మ
+ଶఙ మ       … (2.13) 
+Differentiating equation (2.13) with respect to µ we get:  
+ௗ௅௢௚௅
+ௗ µ = −
+ଶఀ (௫ ೔ି µ)
+ଶఙ మ (−1)  
+  =  −
+ఀ (௫ ೔ି µ)
+ఙ మ  
+Applying FOC = 0, we get: 
+ఀ (௫ ೔ି µ)
+ఙ మ = 0 or 𝛴𝑥௜ = 𝑛µ 
+∴
+ఀ௫ ೔
+௡ = µ or 𝑥 = µ = µො  
+ 𝑥 is the MLE of µ. Likewise:  
+𝜎ොଶ =
+ఀ (௫ ೔ି µ)మ
+௡ = 𝑠ଶ  [sample variance] is the MLE of 𝜎ଶ . 
+Properties of MLE: Based on the above discussion, we can list the properties of 
+MLE as follows:  
+i) The MLE is consistent, efficient and sufficient. 
+ii) The MLE is not necessarily unbiased. But when the MLE is biased, by 
+a slight modification, it can be converted in to an unbiased estimator. 
+iii) The MLE tends to be distributed normally for large sample. 
+iv) The MLE is invariant under functional transformation. This means if T 
+is an MLE of ø, and g(ø) is a function of ø, then g(T) is an MLE of 
+g(ø). 
+2.5.3 Method of Moments 
+When we fit a particular observed distribution based on a sample of observations, 
+our objective is to see whether the observed distribution is a random sample from 
+its parent distribution. Therefore, before estimating the parameters of a 
+theoretical distribution from the observed data, the first step is the fitting of a 
+distribution. This is particularly the case when the parameter values are assumed 
+or known. In such cases, the method of moments is an alternative method for 
+estimating the parameters of a parent or theoretical distribution. In this method, 
+the first K moments of the theoretical distribution expressed in terms of 
+parameters are equated to their corresponding sample moments. In the second 
+step, the K equations are solved to obtain the required population estimates. 
+Let X1, X2 …… Xn be a random sample of size n drawn from a population. The kth 
+order raw moment is given by: 𝑚௞  =
+∑ ௑ ೔
+ೖೖ
+೔సభ
+௡
+. Therefore, E( 𝑚௞  )  = 𝜇௞  = 
+1/n*E( 𝑋௜
+௞ ). You should note that 𝜇௞  will be a function of the underlying 
+parameters in most cases. We produce K equations by solving which we can get 
+
+
+--- Page 37 ---
+ 
+ 
+ 
+36 
+Introduction estimates of K unknown parameters. The moments based on powers of X provide 
+a source of parameter information. Let us now see some application of this 
+method of estimation to some standard distributions. 
+Let X1, X 2,…., X n be Bernoulli random variables with parameter þ. What is the 
+moment’s estimator of þ? For Bernouli distribution, the first moment about zero 
+is: E(Xi) = þ. Hence, we have to derive the method of moments estimator for the 
+only parameter þ for which only one equation is required. Hence, equating the 
+first theoretical moment about zero with the corresponding sample moment, we 
+get: þ = 
+ଵ
+௡ ∑ 𝑥௜
+௡
+௜ୀଵ . Therefore, the moment estimator for þ is: þ෠= 
+ଵ
+௡ ∑ 𝑥௜
+௡
+௜ୀଵ . 
+Now, consider a sample of drawn from n i.i.d. random variables,  X 1, X 2,…., X n, 
+with mean µ and variance σ 2. What are the moments estimates of µ and σ 2? We 
+evidently need two moments now. The first moment about zero of a normal 
+distribution is E(X i) = µ. The second moment about zero of a normal distribution 
+is E( Xi2) = σ 2+ µ 2. We thus have the two equations required to derive the 
+estimates of two parameters. Equating the first theoretical moment about zero 
+with the corresponding sample moment, we get:  
+E(Xi) = µ = 
+𝟏
+𝒏
+∑ 𝑿𝒊𝒏
+𝒊ୀ 𝟏         … (2.14) 
+Equating the second theoretical moment about zero with the corresponding 
+sample moment, we get:  
+E(𝑋௜
+ଶ ) = σ2 + µ2 = 
+ଵ
+୬ ෌ 𝑋௜
+ଶ௡
+௜ୀଵ        …  (2.15) 
+Equation (2.14) gives the moments estimator of mean µ, the sample mean, as:  
+µො = 
+ଵ
+୬ ∑ 𝑥௜
+௡
+௜ୀଵ  = 𝑥̅   
+Likewise, from equation (2.15), we get:  
+σଶ =
+ଵ
+௡ ∑ X௜
+ଶ − µଶ   
+=
+ଵ
+௡ ∑ 𝑋௜
+ଶ − 𝑥̅ ଶ   
+=
+ଵ
+௡ ∑(𝑋௜ − 𝑥̅)ଶ  
+Hence, the method of moments estimator of variance σ2 is given by 
+σෝ ଶ =
+ଵ
+௡ ∑(𝑋௜ − 𝑥̅)ଶ   
+ 
+Check Your Progress 2  
+1) When is a hypothesis said to be ‘complete’? By what alternative name is it 
+called? 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+
+
+--- Page 38 ---
+ 
+ 
+ 
+37 
+Review of  
+Statistical Concepts 
+ 
+………………………………………………………………………………
+……………………………………………………………………………… 
+2)  Distinguish between a ‘one-tailed test’ and a ‘two-tailed test’. 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+3) Distinguish between ‘type-I error’ and ‘type-II error’. How is it related to the 
+‘level of significance’? 
+...........................................................................................................................
+........................................................................................................................... 
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+4) State the principle behind the ‘method of least squares’. When will it have a 
+‘unique solution’? 
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+.......................................................................................................................... 
+5) State the properties of a maximum likelihood estimator. 
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+.......................................................................................................................... 
+2.6  LET US SUM UP 
+In this unit we discussed the classical statistical inference theory. Classical 
+statistical inference consists of two parts: estimation and hypothesis testing. 
+Estimation is the process of estimating a population parameter using the data 
+drawn as a sample from the population. Hypothesis testing is the process of 
+evaluating whether to accept or reject a hypothesis or assumption made about the 
+value of a population parameter based on sample data. Under estimation, the unit 
+has explained the concepts of point estimation and interval estimation. Properties 
+of a good estimator are also discussed. Different estimation methods such as 
+Method of Least Squares, Method of Maximum Likelihood and Method of 
+Moments are discussed with illustrations.  
+
+
+--- Page 39 ---
+ 
+ 
+ 
+38 
+Introduction 2.7  KEY WORDS 
+Point Estimation :  Specific value of a ‘statistic’ where the term statistic 
+means a function of sample observations (e.g., mean, 
+standard deviation). 
+Interval 
+Estimation 
+: 
+ It refers to the range within which the estimated value 
+of the parameter lies. Thus it refers to a specific 
+interval which depends upon the standard error and the 
+level of significance. If T1 and T2 are two functions 
+based on sample observations such that ‘P( T1≤ Ø≤ T 2) 
+= (1 – α)’, (where α is the level of significance), then 
+the interval ( T1, T2) is termed as an ‘interval estimate’ 
+or a confidence interval. 
+Independent and 
+Identically 
+Distributed (i.i.d.) 
+ 
+:  A collection of random variables is said to be 
+independent and identically distributed if they fulfil 
+two conditions: (i) each random variable has the same 
+distribution (say, for example, normal or Poisson), and 
+(ii) all the random variables are independent (it implies 
+that knowledge of the value of one variable does not 
+provide any clue about the value of the other 
+variables). In symbols, 
+𝑷(𝑨𝑩) = 𝑷(𝑨) × 𝑷(𝑩). 
+Law of Large 
+Numbers (LLN) 
+:  Tells us how sample mean can be considered a true 
+representative estimate of population mean with the 
+sample size getting infinitely large. There are two 
+versions of this law, viz., strong LLN and weak LLN. 
+The SLLN says that if An is the sample mean and µ is 
+the population mean, then lim
+௡ →ஶ
+𝑃(|𝐴௡ −  µ|= 0) = 1]. 
+The WLLN, on the other hand, tells us that for any α > 
+0, lim
+௡ →ஶ
+𝑃(|𝐴௡ −  µ|< α) =  1 or 
+ 
+lim
+௡ →ஶ
+𝑃(|𝐴௡ −
+ µ|> α) = 0. 
+Central Limit 
+Theorem 
+: 
+ This result says that if Xi, i = 1, 2, ...., n are i.i.d.        
+N(µ, σ 2), then, as n⟶ ∞, 𝑋ത~ N(µ, 
+஢ మ
+௡ ). Further, the 
+standardised normal variate, Z = 
+௑തି µ
+ఙ
+√௡ൗ
+ is N (0, 1).  
+Method of Least 
+Squares 
+:  The least squares principle states that the best values 
+of the unknown are those for which the ‘sum of the 
+squares of the residues’ is the least. 
+Likelihood 
+Function 
+: 
+ If f(X, 𝜃) is the probability function, then its likelihood 
+function is defined as: L(𝜃)=∏ 𝑓୬
+୧ୀ ଵ 𝜃(𝑥𝑖).  

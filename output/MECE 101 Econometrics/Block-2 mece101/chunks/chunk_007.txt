@@ -1,0 +1,527 @@
+--- Page 59 ---
+UNIT 7 EVALUATION OF MULTIPLE 
+REGRESSION MODELS 
+ 
+Structure 
+7.0  Objectives 
+7.1  Introduction 
+7.2  Coefficient of Determination 
+7.3  Hypothesis Testing  
+ 7.3.1 t-Test 
+ 7.3.2 Confidence Interval 
+ 7.3.3 F-Test 
+7.4 Testing Linear Restrictions  
+ 7.4.1 Wald Test  
+ 7.4.2 Lagrange-Multiplier (LM) Test  
+ 7.4.3 Likelihood Ratio (LR) Test  
+ 7.4.4 Empirical Exercises 
+7.5 Let Us Sum Up 
+7.6 Key Words 
+7.7 Some Useful Books 
+7.8 Answers/ Hints to Check Your Progress Exercises 
+7.0 OBJECTIVES 
+After going through this Unit, you will be able to 
+ explain the concept of ‘Coefficient of Determination’ with an example; 
+ outline the procedure for testing the statistical significance of a single 
+parameter in an estimated regression model; 
+ describe how the statistical significance of a group of parameters can be 
+assessed by using the F-test; and 
+ Discuss the tests for linear restrictions, viz., Wald, Lagrange Multiplier, and 
+Likelihood Ratio tests. 
+7.1 INTRODUCTION 
+In the previous Unit, we discussed the specification of multiple regression 
+models. We also derived the estimators of the parameters by applying the OLS 
+and maximum likelihood methods of estimation. In this unit, we will first 
+consider the importance of the concept of Coefficient of Determination given by 
+R2. We then proceed to learn how to test for the significance of the estimated 
+parameters for individual regressors. We will also learn how to interpret the 
+results. The extent to which the independent variables together explain the 
+variation in the dependent variable will also be seen. We finally learn about three 
+procedures for testing the linear restrictions.  
+ 
+Dr. Samraj Sahay, Department of Finance and Business Economics, University of Delhi 
+
+
+--- Page 60 ---
+ 
+126 
+ 
+Classical Regression 
+Model 7.2 COEFFICIENT OF DETERMINATION 
+In Unit 4, while presenting the simple regression model, we derived the 
+coefficient of determination, denoted by R-square (𝑅 ଶ ). Recall that 𝑅ଶ  is defined 
+as the ratio of ‘Explained Sum of Squares’ (ESS) to ‘Total Sum of Squares’ 
+(TSS). In multiple regression models, we can define the coefficient of 
+determination in the same manner.  
+Regression, as you know, is an analytical tool to explain the variation in the 
+dependent variable ( Y) in terms of the changes in the independent variables 
+(𝑋௜’s). We can decompose the difference between 𝑌௜ and its arithmetic mean 𝑌ሜ as 
+follows: 
+(𝑌௜ − 𝑌ሜ) = ൫𝑌௜ − 𝑌෠௜൯ + ൫𝑌෠௜ − 𝑌ሜ൯      … (7.1) 
+Let us look into the intuitive idea behind the 𝑅ଶ . The expected value of variable Y 
+is 𝑌ሜ. Therefore, in the absence of the regression model, the expected value of Y is 
+𝑌ሜ. When we try to explain Y through a regression model, the expected value of Y 
+is 𝑌෠. Therefore, the difference between 𝑌෠௜ and 𝑌ሜ, ൫𝑌෠௜ − 𝑌ሜ൯, is due to the 
+explanatory variables included in the regression model and can be called as the 
+‘explained variation’. The difference ൫𝑌௜ − 𝑌෠௜൯denotes the part that cannot be 
+explained by the regression model. Hence, squaring both sides of equation (7.1) 
+and summing over all observations (1 to 𝑛), we obtain 
+∑(𝑌௜ − 𝑌ሜ)ଶ = ∑൫𝑌௜ − 𝑌෠௜൯
+ଶ
++ ∑൫𝑌෠௜ − 𝑌ሜ൯
+ଶ
+    … (7.2) 
+Total 
+Variation  
+Residual 
+Variation 
+Explained 
+Variation 
+ 
+Or, 
+TSS = RSS + ESS 
+(Total Sum of 
+Squares) 
+(Residual Sum of 
+Squares) 
+(Explained Sum 
+of Squares)  
+𝑅ଶ  is defined as 
+𝑅ଶ =
+ாௌௌ
+்ௌௌ =
+∑(௒෠೔ି௒ሜ)మ
+∑(௒ ೔ି௒ሜ)మ … (7.3) 
+Note that 𝑅ଶ  measures the proportion of the variation in 𝑌 which is explained by 
+the multiple regression equation. Therefore, 𝑅ଶ  is often used as a goodness-of-fit 
+statistic to compare the validity of regression results under alternative 
+specifications of the independent variables in the model. 
+MULTIPLE REGRESSION MODELS: TESTING 
+The value of R-square (𝑅ଶ ) ranges between 0 and 1. An implication of this bound 
+is that 𝑅ଶ  is always positive. Let us consider two hypothetical situations: First, 
+when 𝐸𝑆𝑆 = 𝑇𝑆𝑆 (i.e., RSS = 0) when the explanatory variables explain the 
+variation in the dependent variable fully. Then, 𝑅ଶ = 1. Second, when 𝐸𝑆𝑆 = 0 
+(i.e., the explanatory variables do not explain any variation in Y. Then, TSS = 
+
+
+--- Page 61 ---
+ 
+ 127
+Evaluation of Multiple 
+Regression Models 
+ 
+RSS and 𝑅ଶ = 0. Thus, the range within which the coefficient of determination 
+remains is  0 ≤ 𝑅ଶ ≤ 1.  
+The coefficient of determination ( 𝑅ଶ ) reflects the explanatory power of a 
+regression model. A higher value of 𝑅ଶ  implies higher explanatory power of the 
+underlying regression model compared to some other model. Thus, 𝑅ଶ  can be 
+used as a measure of goodness of fit in multiple regression models. Remember 
+that we can compare two values of 𝑅ଶ  only when the dependent variable is the 
+same. We cannot compare two regression models if the dependent variable is 
+different. 
+On re-arrangement of terms in equation 7.3, we obtain  
+𝑅ଶ =
+ாௌௌ
+்ௌௌ =
+்ௌௌିோௌௌ
+்ௌௌ = (1 −
+ோௌௌ
+்ௌௌ  )  
+Thus, 
+𝑅ଶ = 1 −
+∑ ௨ෝ ೔
+మ
+∑(௒ ೔ି௒ሜ)మ … (7.4) 
+From (7.4) we find that as RSS decreases, 𝑅ଶ  increases.  
+7.2.1 Over-Fitting 
+Suppose we have a regression model with two explanatory variables, and we 
+obtain 𝑅ଶ  value as 0.63. It implies that the two explanatory variables explain 63 
+per cent variation in the dependent variable. Now, suppose, we add one more 
+explanatory variable to the regression model, i.e., the number of explanatory 
+variables is three. What will happen to the 𝑅ଶ  value? We can compare the 𝑅ଶ  
+values of both the regression models since the dependent variable is the same. 
+It is observed that when we add explanatory variables to a regression equation, 
+the 𝑅ଶ  value increases (i.e., the explanatory power of the model increases). The 
+𝑅ଶ  value never decreases when we add an explanatory variable. Thus, there is a 
+tendency on the part of researchers to include more explanatory variables in a 
+regression model. In such cases, even if logically not correct and statistically not 
+significant, many explanatory variables get added to the regression model. We 
+cannot trust the inferences drawn from such models! Therefore, a question arises 
+is: where do we stop? 
+7.2.2 Adjusted- 𝑹𝟐 
+The degrees of freedom of a regression model with sample size n and number of 
+explanatory variables k (including the intercept) for the three sums of squares are 
+as follows: 
+TSS: (𝑛 − 1)    ESS: 1   RSS: (𝑛 − 𝑘) 
+There is thus a decrease in the degrees of freedom of RSS when we add 
+explanatory variables to a model. Notice that 𝑅ଶ  as a measure of goodness of fit 
+does not account for the degrees of freedom. A natural solution is to use 
+variances (i.e., sums of squares divided by degrees of freedom), and not mere 
+variations. It eliminates the dependence of goodness of fit on the number of 
+
+
+--- Page 62 ---
+ 
+128 
+ 
+Classical Regression 
+Model 
+independent variables in the model. Such an R2 is defined as 𝑅ሜଶ , and is called as 
+the corrected/adjusted 𝑅ଶ . In notations, we have 
+𝑅തଶ = 1 −
+ோௌௌ /(௡ି௞ )
+்ௌௌ /(௡ିଵ )       … (7.5) 
+On re-arrangement of terms in equation (7.5), we obtain 
+𝑅തଶ = 1 − 𝑅𝑆𝑆
+𝑇𝑆𝑆
+(𝑛 − 1)
+(𝑛 − 𝑘) = 1 − (𝑇𝑆𝑆 − 𝐸𝑆𝑆)
+𝑇𝑆𝑆
+(𝑛 − 1)
+(𝑛 − 𝑘) = 1 − [൬1 − 𝐸𝑆𝑆
+𝑇𝑆𝑆൰
+(𝑛 − 1)
+(𝑛 − 𝑘)] 
+Or, 
+𝑅ሜଶ = 1 − (1 − 𝑅ଶ ) (௡ିଵ )
+(௡ି௞ )      … (7.6) 
+where 𝑛 is number of observations in the regression model and 𝑘 is number of 
+parameters in the equation. As 𝑛 becomes large, the difference between 𝑅ሜଶ  and 
+𝑅ଶ  tend to be small. 
+𝑅ሜଶ  has several properties. One, when new variables are added to a regression 
+model, the 𝑅ଶ  always increases, but the 𝑅ሜଶ  may rise or fall. Second, the use of 
+ 𝑅ሜଶ  eliminates the incentives for researchers to include more variables in a model 
+without logic. Third, 𝑅ሜଶ  is always less than or equal to 𝑅ଶ . Fourth, the 𝑅ሜଶ  can 
+also be negative while 𝑅ଶ  is always positive. For these reasons, 𝑅ሜଶ  is regarded as 
+a more desirable measure of goodness of fit compared to 𝑅ଶ . Let us now consider 
+an example on multiple regressions. 
+Example 7.1: 
+Consider the regression model 𝑌 = 𝛼 + 𝛽ଵ 𝑋ଵ + 𝛽ଶ 𝑋ଶ + 𝑢. The following data 
+are given. Calculate the values of 𝑅ଶ  and 𝑅ሜଶ . 
+Y 40 60 50 70 90 
+X1 4 6 7 10 13 
+X2 8 12 10 5 7 
+ 
+We prepare a table as below to find out the arithmetic mean of Y, X1 and X2. 
+Then, we subtract the mean from the respective variables to obtain y, x1 and x2.  
+𝑌  𝑋ଵ   𝑋ଶ   𝑦  𝑥ଵ   𝑥ଶ  
+40   4    8  – 22  – 4  – 0.4 
+60   6  12  –   2  – 2    3.6 
+50   7  10  – 12  – 1    1.6 
+70  10   5      8     2  – 3.4 
+90  13   7    28     5  – 1.4 
+ 
+ 
+
+
+--- Page 63 ---
+ 
+ 129
+Evaluation of Multiple 
+Regression Models 
+ 
+From the above table we obtain the following: 
+∑ 𝑌 = 310  ∑ 𝑋ଵ = 40  ∑ 𝑋ଶ= 42 
+∑ 𝑥ଵ 𝑦 = 260  ∑ 𝑥ଶ 𝑦 = – 84  ∑ 𝑥ଵ 𝑥ଶ = – 21 
+∑ 𝑥ଵ ଶ = 50  ∑ 𝑥ଶ ଶ  = 29.70  ∑ 𝑦ଶ = 1480 
+ 𝑛 = 5 
+Therefore, 
+  𝛽መଵ = 5.72 
+  𝛽መଶ= 1.24 
+  𝛼ො = 5.86 
+Further, 
+ RSS = ∑ 𝑢ොଶ = 96.84 
+The standard error of the estimators are 
+  𝑠ఈෝ  = 6.96 
+  𝑠ఉ෡ భ = 1.18 
+  𝑠ఉ෡ మ = 1.54 
+Thus, the estimated equation is  
+ 𝑌෠ = 5.86 + 5.72 𝑋ଵ  + 1.24 𝑋ଶ   
+From this equation we can compute  
+  ESS = ∑ 𝑦ොଶ  = 1383.16 
+  TSS = ∑ 𝑦ଶ  = 1480.00 
+ 𝑅ଶ  = 
+ாௌௌ
+்ௌௌ = 0.93 
+Adjusted-𝑅ଶ  is 
+𝑅ሜଶ = 1 − (1 − 𝑅ଶ ) (௡ିଵ )
+(௡ି௞ )  
+Or, 
+𝑅ሜଶ = 1 − (1 − 0.93)
+(ହିଵ )
+(ହିଷ ) = 1 − 0.07 ×
+ସ
+ଶ = 0.86. 
+Check Your Progress 1 
+1)  Define the Coefficient of Variation. Indicate its expression for multiple 
+ regression models. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+
+
+--- Page 64 ---
+ 
+130 
+ 
+Classical Regression 
+Model 
+2)  Why is R2 often used as a measure of ‘goodness of fit’? 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+3)  Specify an alternative expression for R2 indicating its relationship with the 
+Residual Sum of Squares. What is the relationship that is conveyed by 
+this expression? 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+4)  Is it always beneficial to add another ‘explanatory variable’ in a 
+ multiple regression model? What is a way out of this situation? 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+5)  Explain why the adjusted- R2 is preferred to R2. 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+7.3  HYPOTHESIS TESTING 
+In the previous Unit, we learnt that under the Gauss-Markov assumptions, the 
+OLS estimator b has normal distribution with a mean 0 and covariance 
+matrix σଶ (𝑋′𝑋)ିଵ . We can use this information to test the hypotheses associated 
+with the unknown population parameter vector β. For testing the significance of 
+bk we will use the test statistic:  
+𝑧 =  
+௕ ೖ ିఉ ೖ
+ఙ ඥ ௖ೖೖ
+        … (7.7) 
+where z is the test statistic; 
+𝛽௞  is the parameter to be tested; 
+𝑏௞  is the estimate of 𝛽௞  obtained from the sample data; and 
+𝑐௞௞  is the standard error of 𝑏௞ .  
+
+
+--- Page 65 ---
+ 
+ 131
+Evaluation of Multiple 
+Regression Models 
+ 
+The variance-covariance matrix of the estimators is given by var(𝒃) =
+𝝈𝟐(𝑿′𝑿)ି 𝟏. To obtain the standard error of the estimators, we first compute the 
+inverse of the matrix (𝑿′𝑿). Second, we multiply it by 𝜎ଶ . Third, we take the 
+square root of the matrix 𝝈𝟐(𝑿′𝑿)ି 𝟏. Suppose, the ijth element of this matrix is 
+denoted by 𝜎𝑐௜𝑐௝. The diagonal elements provide us the standard error of the 
+individual parameters. For example, the first diagonal element (let us say, 𝜎𝑐ଵଵ ) 
+provides us with the standard error of 𝑏ଵ . Similarly, the second diagonal element 
+(𝜎𝑐ଶଶ ) provides us with 𝑠𝑒(𝑏ଶ ). Thus, when we test for the statistical significance 
+of 𝑏௞ , we should take its standard error 𝜎 ඥ 𝑐௞௞  as denominator. 
+The test statistic z follows standard normal distribution. If we replace 𝜎 with its 
+estimate s, it can be shown that the unbiased estimator  𝑠ଶ  is independent of b and 
+follows chi-squared distribution with (𝑛 − 𝑘) degrees of freedom. The 
+corresponding test statistic is given as  
+𝜒(௡ି௞ )
+ଶ ~ 
+(௡ି௞ )௦మ
+ఙ మ        … (7.8) 
+We can, therefore, define the random variable 𝑡௞  to test for 𝑏௞  as 
+𝑡௞ =  
+௕ ೖ ି  ఉ ೖ
+௦ ඥ ௖ೖೖ
+        … (7.9) 
+The value of the t-ratio in equation (7.9) is the ratio of a standard normal variable 
+(𝑏௞ −  𝛽௞ ), and the square root of an independent chi-squared variable (𝑠 ඥ 𝑐௞௞ ). 
+It therefore follows the Student’s t-distribution with ( 𝑛 − 𝑘) degrees of freedom. 
+The t-distribution (see Appendix - B at the end of the book) resembles the 
+standard normal distribution for large values of ( 𝑛 − 𝑘). For very large values of 
+(𝑛 − 𝑘), the two ( t-distribution and z-distribution) are identical. The expression 
+(7.9) can be used to further develop ‘test statistic’ and ‘confidence interval’. 
+7.3.1 t– Test 
+Testing of a hypothesis involves two steps: (i) construction of a test statistic, and 
+(ii) a decision rule. Let me illustrate it this with an example. Suppose I obtained 
+the estimate 𝑏௞ . I want to test the hypothesis Ho: 𝛽௞ = 0. The alternative 
+hypothesis is H1: 𝛽௞ ≠  0. It implies that I have a two-tailed test. From (7.9) I 
+have the test statistic  
+𝑡௞ =  
+௕ ೖ ି଴
+௦௘ (௕ ೖ ) =
+௕ ೖ
+௦௘ (௕ ೖ )       … (7.10) 
+In (7.10), there are no unknown values: 𝑏௞  is the estimate obtained from the data; 
+and 𝑠𝑒(𝑏௞ ) is the standard error of 𝑏௞  that is computed from the dataset. Hence, I 
+can compute the test statistic 𝑡௞  by taking the ratio of 𝑏௞  and 𝑠𝑒(𝑏௞ ).  
+The strategy to test the null hypothesis is as follows: I consider the degrees of 
+freedom (𝑛 − 𝑘), and the level of significance α. I compare the calculated t-value 
+(obtained from equation (7.10) with the tabulated t-value (given at Appendix B). 
+I compare the absolute value of 𝑡௞  with the tabulated value. If the calculated 
+value of 𝑡௞  exceeds the tabulated value, I reject the null hypothesis. If the 
+calculated value of 𝑡௞  is less than the tabulated value, I do not  reject the null 
+hypothesis.  
+
+
+--- Page 66 ---
+ 
+132 
+ 
+Classical Regression 
+Model 
+The critical value of t is defined as 
+𝑃൛|𝑡௞ | > 𝑡௡ି௞ ;஑ /ଶ ൟ =  α  
+The critical value for α = 0.05 for very large samples is 1.96. Thus, at the 5% 
+level of significance the null will be rejected if  
+|𝑡௞ | >  1.96  
+Since under the alternative hypothesis, we have values for 𝛽௞  on both sides of 𝛽௞
+଴  
+(Ho: 𝛽௞ =  𝛽௞
+଴ ) the test is referred to as a two-tailed test. In case we have the null 
+hypothesis as Ho: 𝛽௞ ≤  𝛽௞
+଴  with an alternative hypothesis H 1: 𝛽௞ > 𝛽௞
+଴ , we reject 
+the null hypothesis if 𝑡௞  is too large. However, large negative values for 𝑡௞  does 
+not lead to rejection of the null hypothesis. This is known as one-sided test and 
+the critical value is determined by 
+𝑃൛|𝑡௞ | > 𝑡(௡ି௞ );஑ ൟ =  α  
+The critical value for α = 0.05 for such a one-tailed test is 1.64. Thus, at the 5% 
+level of significance the null will be rejected if  
+|𝑡௞ | >  1.64  
+Most of the standard statistical software reports the t-ratio as point estimates 
+divided by its standard error. The t-ratio refers to the t statistics that is computed 
+to test the hypothesis that 𝛽௞ = 0. Rejection of the null hypothesis implies that 
+the estimate 𝑏௞  differs significantly from 0; or that the corresponding regressor 
+𝑥௜௞ has significant impact on 𝑦௜. 
+7.3.2 Confidence Interval 
+A confidence interval is the interval consisting of all values for 𝛽௞
+଴  for which the 
+t-test does not reject the null hypothesis that 𝛽௞ =  𝛽௞
+଴ . It provides a range of 
+values for true 𝛽௞  given the estimate 𝑏௞  and its standard error. Thus, for the given 
+probability (1 − 𝛼) it implies that  
+− 𝑡(௡ି௞ );஑ /ଶ <
+௕ ೖ ି  ఉ ೖ
+బ
+௦௘ (௕ ೖ ) < 𝑡(௡ି௞ );஑ /ଶ      … (7.11) 
+This can be written as  
+[𝑏௞ − 𝑡(௡ି௞ );஑ /ଶ  𝑠𝑒(𝑏௞ )] < 𝛽௞ < [𝑏௞ + 𝑡(௡ି௞ );஑ /ଶ 𝑠𝑒(𝑏௞ )]  … (7.12) 
+Finally, using standard normal approximation, a 95%  confidence interval for 𝛽௞  
+is given by 
+[𝑏௞ −  1.96 𝑠𝑒(𝑏௞ ) < 𝛽௞ < 𝑏௞ + 1.96 𝑠𝑒(𝛽௞ )]   … (7.13) 
+This implies that, in repeated sampling, in 95% cases, these intervals will contain 
+true value of 𝛽௞ .  
+ 
+
+
+--- Page 67 ---
+ 
+ 133
+Evaluation of Multiple 
+Regression Models 
+ 
+7.3.3 F-Test 
+Almost all the statistical packages provide the results for the joint test of 
+significance of the regression coefficients. It tests the hypothesis that all the 
+coefficients except the intercept are equal to zero. The null here is that J of the k 
+coefficients (𝐽 < 𝑘) are equal to zero. 
+𝐻௢ : 𝛽௞ି௃ାଵ =  ⋯ = 𝛽௞ = 0      … (7.14) 
+The alternative hypothesis is that at least one of these coefficients is not equal to 
+zero. The test procedure applied here involves comparing the Residual Sum of 
+Squares of the full model denoted by 𝑅𝑆𝑆ଵ  with Residual Sum of Squares (RSS) 
+of the restricted model (model with the last J regressor omitted) denoted by 𝑅𝑆𝑆଴ . 
+A test statistic for this can be obtained by using the following rationale.  
+Under the null hypothesis, and the assumptions discussed in Section 6.5 of the 
+previous Unit, we have 
+𝜒௃
+ଶ ~ 
+ோௌௌ బ ିோௌௌ భ
+ఙ మ         … (7.15) 
+From the null hypothesis, we know that (𝑅𝑆𝑆଴ − 𝑅𝑆𝑆ଵ ) and 𝑠ଶ  (which is an 
+estimator of 𝜎ଶ ) are independent and hence the test statistic can be defined as  
+𝐹 =  
+(ೃೄೄ బ షೃೄೄ భ )
+಻
+ೞమ
+(೙షೖ )
+       … (7.16) 
+The test statistic F is distributed as F with J and (n−k) degrees of freedom. This 
+is denoted as 𝐹(௡ି௞ )
+௃ . Hence, the test is also known as F–test. Using the definition 
+of 𝑅ଶ  we can write (7.16) as 
+𝐹 =  
+ቀೃ భమ షೃ బ
+మ ቁ
+಻
+(భష ೃ భమ )
+(೙షೖ )
+        … (7.17) 
+where 𝑅ଵ
+ଶ  and 𝑅଴
+ଶ  are the goodness-of-fit measures for the unrestricted model and 
+the restricted model respectively. The rejection of the null hypothesis is possible 
+only in the case of large values of the test statistic. Although the alternative 
+hypothesis is two-sided, based on the distribution, the critical values 𝐹௡ି௞ : ఈ
+௃  of F 
+is one-sided and is defined as 
+𝑃 ቄ𝐹 > 𝐹(௡ି௞ ): ఈ
+௃ ቅ =  α, for the level of significance α.  
+A special case of F-test is where we test the null hypothesis that all the partial 
+slope coefficients are zero, i.e., Ho: 𝛽ଶ =  𝛽ଷ  =  ⋯ = 𝛽௞ = 0. In this case, the test 
+statistic is given as  
+𝐹 =  
+(ೃೄೄ బ షೃೄೄ భ )
+(ೖషభ )
+ೃೄೄ భ
+(೙షೖ )
+       … (7.18) 
+
+
+--- Page 68 ---
+ 
+134 
+ 
+Classical Regression 
+Model where 𝑅𝑆𝑆଴ is the RSS of the restricted model and 𝑅𝑆𝑆ଵ is the RSS of the 
+unrestricted model. Further, in this case, since in the restricted model only the 
+intercept term is present, the test statistic using R2 values is given as 
+𝐹 =  
+ೃ మ
+(ೖషభ )
+(భష ೃ మ )
+(೙షೖ )
+        … (7.19) 
+Here, F is used to denote the test statistic expressed as a simple function of 𝑅ଶ . 
+This implies that if the test based on F fails to reject the null hypothesis, we can 
+infer that the model performs poorly. However, if the null hypothesis is rejected, 
+we cannot infer that the model performs better. 
+Check Your Progress 2 
+1)  Which ‘statistic’ is used to test for the significance of estimated individual 
+regression coefficients? How is the test result arrived at? 
+ ............................................................................................................................
+............................................................................................................................
+............................................................................................................................
+........................................................................................................................... 
+2)  How is the rejection of a null hypothesis interpreted? 
+ ............................................................................................................................
+............................................................................................................................
+............................................................................................................................
+........................................................................................................................... 
+3)  Define the ‘confidence interval’ of a parameter. What does it imply? 
+ ............................................................................................................................
+............................................................................................................................
+............................................................................................................................
+............................................................................................................................ 
+4)  When is the F-stastistic used? Indicate its expression in terms of R2 stating 
+how the interpretation is made depending on its value obtained for a sample. 
+ ............................................................................................................................
+............................................................................................................................
+............................................................................................................................
+........................................................................................................................... 
+7.4 TESTING LINEAR RESTRICTIONS 
+The t-test discussed in Sub-Section 7.3.1 involved restriction on one parameter 
+only. In practise, however, we come across situations which requires linear 
+restrictions on more than one parameter such as 𝛽ଶ +  𝛽ଷ +  … … … . . + 𝛽௞ = 1. 

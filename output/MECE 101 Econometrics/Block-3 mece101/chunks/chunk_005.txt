@@ -1,0 +1,459 @@
+--- Page 43 ---
+ 
+ 
+ 
+186 
+Treatment of Violations of 
+Basic Assumptions 
+t-ratios are found to be statistically significant, then multicollinearity is not a 
+serious issue. One can also check whether the estimated coefficients are stable by 
+deleting some observations (i. e., by changing sample size). 
+Check Your Progress 2 
+1)   Examine whether the following statements are ‘true’ or ‘false’. Give an 
+explanation for your answer. 
+a) Multicollinearity  is a problem cannot be decided by just looking at the 
+pair-wise correlation between the explanatory variables. 
+b) High standard error of the estimate or of a variable in a regression 
+equation has in an equation have, evidence of high multicollinearity. 
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+10.5  REMEDIAL MEASURES FOR 
+MULTICOLLINEARITY 
+Some of the solutions to multicollinearity are suggested below: 
+1. Dropping one of the correlated variables 
+This method may be resorted to but it can cause omission bias. Moreover, if there 
+is strong theoretical reason for including a variable, then exclusion of the variable 
+is unacceptable. In the model 𝑦 =  𝛽ଵ 𝑥ଵ +  𝛽ଶ 𝑥ଶ +  𝑢, suppose variables𝑥ଵ  and 𝑥ଶ  
+are highly correlated. The OLS estimator of 𝛽ଵ  is denoted by 𝛽መଵ . The mean and 
+variance of  𝛽መଵ  are such that: 
+𝐸(𝛽መଵ) = 𝛽ଵ                                   … (10.24) 
+and 
+𝑉𝑎𝑟 (𝛽መଵ ) =  
+ఙ మ
+∑ ௫ భ మ (ଵି௥ భమ మ )                                    … (10.25) 
+Now, we drop the variable 𝑥ଶ  such that the  model looks like  𝑦 =  𝛽ଵ 𝑥ଵ +  𝑣. The 
+Omitted variable estimator of 𝛽ଵ   is denoted by 𝛽ଵ෪  . 
+𝛽ଵ෪ =  
+∑ ௫ భ ௬
+∑ ௫ భ మ  = 
+∑ ௫ భ (ఉ భ ௫ భ ା  ఉ మ ௫ మ ା  ఓ)
+∑ ௫ భ మ   
+  𝛽ଵ෪ = 𝛽ଵ + 
+ௌభమ
+ௌభభ
+𝛽ଶ +
+∑ ௫ భ ௨
+ௌభభ
+                               … (10.26) 
+Here, 𝑆ଵଶ  =  ∑ 𝑥ଵ 𝑥ଶ , 𝑆ଵଵ  =  ∑ 𝑥ଵ
+ଶ  
+𝐸(𝛽ଵ෪  )= 𝛽ଵ +  𝛽ଶ
+ௌభమ
+ௌభభ
+                                                        … (10.27) 
+Hence, 𝛽ଵ෪  is biased. 
+
+
+--- Page 44 ---
+ 
+ 
+ 
+187 
+Multicollinearity 𝑉𝑎𝑟(𝛽ଵ
+∗) = 𝑉𝑎𝑟(
+∑ ௫ భ ௨
+ௌభభ
+) = 
+ఙ మ ௌభభ
+ௌభభ మ  = 
+ఙ మ
+ௌభభ
+                                       … (10.28) 
+Comparing with the variance of   𝛽መଵ , we see that 𝛽ଵ෪   has a smaller variance. 
+Greater the correlation coefficient 𝑟ଵଶ , smaller the variance of   𝛽ଵ෪  as compared to 
+𝛽መଵ . 
+௏௔௥ (ఉ భ෪  )
+௏௔௥ ൫ఉ෡ భ ൯ =  1 − 𝑟ଵଶ
+ଶ                                      … (10.29) 
+Although 𝛽ଵ෪  has lesser variance, it is biased. Omitting a variable worsens the 
+problem of multicollinearity because it causes the estimators to be biased 
+whereas with multicollinearity, the estimators are unbiased and continue to have 
+the minimum variance among the linear unbiased estimators (BLUE).  
+2. Ignoring it 
+Even with multicollinearity, the OLS estimators are unbiased, efficient and 
+consistent, that is, they continue to be BLUE. The problem of multicollinearity 
+can be ignored if the model is nevertheless statistically adequate with the 
+coefficients having appropriate sign. Sometimes, the presence of 
+multicollinearity may not reduce t-ratios to such an extent as to render the 
+variables insignificant. Moreover, multicollinearity is a sample or data problem 
+over which the researcher has little control. Even if all the coefficients are not 
+estimable, a linear combination of them may be estimable which serves well in 
+many cases.  
+3. Ratio transformations of the correlated variables 
+The variables can be suitably transformed by expressing them in ratios, for 
+instance, as a percentage of GDP or in per capita terms wherever applicable. 
+However, ratio transformation of variables should be supported by theoretical 
+logic. First difference transformation of variables can also be done. It is mainly 
+done as a remedy for autocorrelation. These transformations reduce the 
+collinearity between the variables. However, such transformations are not 
+without problems. In taking first differences, one observation is lost, hence 
+reducing degrees of freedom by one. This may affect the analysis if the sample 
+size is small. Also, in ratio transformations, the error terms in the transformed 
+model may become heteroscedastic if the original model has homoscedastic 
+errors.  
+4. Expanding the sample size 
+You might have noticed by now that multicollinearity is more of a data problem. 
+As we mentioned earlier, standard error can be increased by reducing the error 
+variance or increasing ∑ 𝑥ଵ௜
+ଶ . Thus, collecting more data if possible or pooling 
+the data across cross-sections and over time is another solution. The independent 
+variables may not be collinear in the population although they may be found to 
+be collinear in the given sample. For instance, theoretically, consumption is a 
+function of both income and wealth. But, in a sample of observations, income 
+and wealth may be found to be collinear as wealthy people may also be having 
+higher incomes. This is especially true in time series data. In a cross-section of 
+
+
+--- Page 45 ---
+ 
+ 
+ 
+188 
+Treatment of Violations of 
+Basic Assumptions 
+observations, it is possible to obtain a sample in which the relationship between 
+wealth and income is random. Hence, if we have the ‘right’ sample, 
+multicollinearity may not be reflected in the variables.  
+5. Using extraneous estimates 
+Let us consider the following equation:  
+log 𝑄 =  𝜌 + 𝛽𝑙𝑜𝑔𝑃 + 𝜃𝑙𝑜𝑔𝑀 + 𝜀                   … (10.30) 
+where 𝑄 = quantity,   𝑃 = Price,  𝑎𝑛𝑑 𝑀 = income) in (10.30) estimating both 
+price and income elasticity precisely is difficult in time series data as income and 
+price are generally found to be correlated. In that case, estimate of income 
+elasticity 𝜃෠ can be obtained from budget studies and by regressing (log 𝑄 −
+ 𝜃෠𝑙𝑜𝑔𝑀) on log P, estimates of  𝜌 and β can be obtained. Here, 𝜃෠ is called the 
+extraneous estimate. However, the problem is that the cross-section estimate of 𝜃 
+as obtained from budget studies may not be the same as its time series estimate. 
+Hence, this process is advised only when data is lacking. When both cross-
+section and time series data are available, pooling different data sets will enable 
+getting more precise estimates. 
+6. Getting a priori information 
+Sometimes, the underlying economic theory may give relevant information. For 
+example, let us consider the Cobb-Douglas production function, 
+ 𝑌 =  𝐴𝐾ఈ 𝐿ఉ                                           … (10.31) 
+Where Y = output, K = capital, L = labour, A = efficiency parameter, 𝛼 and 𝛽 are 
+share parameters of the production function. Here, 𝐾 and 𝐿 may be found to be 
+collinear as the assumption of constant returns to (ERS)scale gives 𝛼 + 𝛽 =
+1𝑖𝑚𝑝𝑙𝑖𝑒𝑠 𝛽 = 1− ∝).  Now, we can express the above function in per labour 
+terms as, 
+𝑦 =  𝐴𝑘ఈ          
+௒
+௅
+=
+஺௄ ∝௅
+௅
+ଵି ∝
+𝑜𝑟 𝑦 = 𝐴 (𝐾/𝐿)∝ =  𝐴𝐾∝        … (10.32)                                                                                
+Regressing output per labour  ′𝑦′ on capital per labour ′𝑘′ gives an estimate of 𝛼. 
+But such a priori restriction(such as CRS) are generally supposed to be tested 
+rather than imposed on the data.  
+7. Ridge Regression 
+Here, a constant λ is added to the variance of explanatory variables. In matrix 
+notation, 𝑿’𝑿 is the variance-covariance matrix of explanatory variables. By 
+adding λ to the diagonal elements of 𝑿’𝑿 matrix, the ridge estimator 𝜷෡ 𝑹 can be 
+found. Doing so decreases the intercorrelation between explanatory variables.  
+𝜷෡ 𝑹  = ( 𝑿ᇱ𝑿 + 𝛌𝐈)ି 𝟏𝑿′𝒚                           … (10.33) 
+Here, X is the matrix of explanatory variables and 𝒚  is the vector of explained 
+variables. The procedure of Ridge Regression is explained below. 
+(i) Constrained Least Squares 
+
+
+--- Page 46 ---
+ 
+ 
+ 
+189 
+Multicollinearity The residual sum of squares ( 𝒖’𝒖) is minimised subject to the constraint that 
+∑ 𝛽௜
+ଶ௞
+௜ୀଵ 𝑜𝑟 𝜷′𝜷 = 𝒄  
+Our objective function is which needs to be minimised, 
+ (𝒚 − 𝑿𝜷)ᇱ(𝒚 − 𝑿𝜷) + 𝛌(𝛃ᇱ𝛃 − 𝐜)                       … (10.34) 
+(Here, λ is the Lagrangian multiplier)  
+Setting the first order derivatives with respect to 𝜷 equal to zero, we obtain 
+−𝟐𝑿ᇱ𝒚 + 𝟐𝑿ᇱ𝑿𝜷 + 𝟐𝜷𝛌 = 𝟎                                                   
+Hence,  
+𝜷෡ 𝑹 = (𝑿ᇱ𝑿 + 𝛌𝐈) ି 𝟏𝑿ᇱ𝒚            … (10.35) 
+In the case of two explanatory variables, the constrained least squares 
+minimisation problem is give as follows: 
+Minimize  ∑  (𝑦 −  𝛽ଵ 𝑥ଵ − 𝛽ଶ 𝑥ଶ )ଶ + λ (𝛽ଵ
+ଶ +  𝛽ଶ
+ଶ −  𝑐)             … (10.36) 
+Setting the first order partial derivatives with respect to 𝛽ଵ  and 𝛽ଶ equal to zero, 
+we get, 
+2 ∑  (𝑦 −  𝛽ଵ 𝑥ଵ − 𝛽ଶ 𝑥ଶ )(−𝑥ଵ ) + 2λ 𝛽ଵ = 0                 … (10.37) 
+2 ∑  (𝑦 −  𝛽ଵ 𝑥ଵ − 𝛽ଶ 𝑥ଶ )(−𝑥ଶ ) + 2λ 𝛽ଶ = 0                    … (10.38) 
+Simplifying the above two equations, we get, 
+(𝑆ଵଵ + λ)𝛽ଵ + 𝑆ଵଶ 𝛽ଶ =  𝑆ଵ௬                                  … (10.39) 
+𝑆ଵଶ 𝛽ଵ + (𝑆ଶଶ + λ)𝛽ଶ =  𝑆ଶ௬                                                    … (10.40) 
+Here, S11 = ∑ 𝑥ଵ
+ଶ ; S22 = ∑ 𝑥ଶ
+ଶ ; S12 = ∑ 𝑥ଵ 𝑥ଶ  𝑠ଵ௬ = ∑ 𝑥ଵ 𝑦 𝑎𝑛𝑑 𝑠ଶ௬ = ∑ 𝑥ଶ 𝑦 .  
+In (10.39) and (10.40) we have two equations in two unknowns (since date on x 
+and y are available which 𝛽ଵ  𝑎𝑛𝑑 𝛽ଶ  𝑎𝑟𝑒 𝑢𝑛𝑘𝑛𝑜𝑤𝑛) Thus, we get the ridge 
+regressionestimators for two explanatory variables and from these equations, λ 
+can be estimated using the criterion 𝛽ଵ
+ଶ + 𝛽ଶ
+ଶ = 𝑐.  
+In the case described above, applying ridge regression is natural when prior 
+information is given. But having prior information (in the above example 
+that  𝛽ଵ
+ଶ + 𝛽ଶ
+ଶ = 𝑐) is not always possible. Hence, choosing λ is not always 
+easy. You should note that λ is a function of 𝛽௜ and σ 2 (variance of the error 
+term), both of which are unknown. Some authors suggest that different values of 
+λ may be tried and that value of λ may be chosen such that the coefficients do not 
+have “unreasonable values”. Others have suggested that in order to estimate λ, 
+initial estimates of 𝛽௜ and σ2 can be used. Iterative procedure can be applied to get 
+the iterated ridge estimator.  
+One shortcoming of ridge regression is that addition of λ to the variances of 
+explanatory variables results in biased estimators but there is a decline in the 
+mean squared error (MSE) as well. As pointed out by some authors, there always 
+exists 𝜆 > 0 such that, 
+
+
+--- Page 47 ---
+ 
+ 
+ 
+190 
+Treatment of Violations of 
+Basic Assumptions 
+∑ 𝑀𝑆𝐸 (𝛽෨௜
+௞
+௜ୀଵ ) <  ∑ 𝑀𝑆𝐸 (𝛽መ௜ ௞
+௜ୀଵ )                               … (10.41) 
+Here, k is the number of explanatory variables, 𝛽෨௜  is the ridge regression 
+estimator of 𝛽௜ and 𝛽መ௜  is the OLS estimator of 𝛽௜. Another shortcoming is that 
+ridge regression estimators differ when different linear transformations of 
+independent variables are used. Also, ridge regression depends on units of 
+measurement of the independent variables. If the explanatory variables are 
+measured in different units, adding the same value of λ to the variance of 
+different explanatory variables does not make sense. Normalization of variables 
+however can solve this problem.  
+(ii) Bayesian Interpretation 
+Here, some prior information on regression parameters is combined with sample 
+information. Assuming the prior information 𝛽௜ ~ IN (0, σβ2), the ridge regression 
+estimates of 𝛽௜’s are obtained. Here, the ridge constant λ = σ 2 /σβ2 where  σ 2 has 
+to be estimated as it is unknown. However, the mean of 𝛽௜’s is equal to zero is 
+not a reasonable assumption. Hence, the ridge estimator with Bayesian 
+interpretation does not make much sense in econometrics. More complicated 
+generalized ridge estimators are obtained by relaxing this assumption.  
+(iii) Measurement Error Interpretation 
+In this case, random errors with mean zero and variance ‘λ’ are added to the 
+explanatory variables. Because the errors are random, the covariance between the 
+explanatory variables is unaffected but the variance of explanatory variables 
+increases by ‘λ’. Hence, ridge regression estimator is obtained. In this method, 
+the data is not precise as random errors are added but the estimates obtained by 
+adopting such a technique are precise.  
+In conclusion, ridge regression is justified in some situations but involves 
+subjective judgement or ‘vague prior information’ in others. Due to these 
+shortcomings, it is not recommended to use ridge regression as a general solution 
+to the problem of multicollinearity.  
+8. Principal Components Regression  
+Principal Component Analysis (PCA) is a multivariate statistical technique in 
+which the ‘ k’ correlated explanatory variables are used to derive uncorrelated 
+indices or components such that each of these components is a linear function of 
+the ‘k’ explanatory variables. Assuming ‘k’ explanatory variables (x 1, x2, ...., xk), 
+the linear functions of these variables are as follows: 
+𝑧ଵ = 𝑎ଵ 𝑥ଵ + 𝑎ଶ 𝑥ଶ + ⋯ + 𝑎௞ 𝑥௞                              … (10.42) 
+𝑧ଶ = 𝑏ଵ 𝑥ଵ + 𝑏ଶ 𝑥ଶ + ⋯ + 𝑏௞ 𝑥௞                            … (10.43) 
+Where z 1, z 2,...,zk are the principal components. Hence, there are ‘k’ principal 
+components. The first principal component ‘z 1’ is found out by choosing a’s such 
+that the variance of z1 is maximised subject to the condition that: 
+a12 + a22 +.....+ ak2 = 1(normalization condition)          … (10.44) 
+
+
+--- Page 48 ---
+ 
+ 
+ 
+191 
+Multicollinearity Similarly, the second, third and subsequent principal components are derived. 
+The first principal component ‘z1’ has the highest variance.  
+Var (z1) > Var (z2) > Var (z3) >.... > Var (zk)                … (10.45) 
+The various principal components are orthogonal or perpendicular to each other, 
+that is, they are not correlated to each other. Another property of the principal 
+components is that: 
+Var (z1) + Var (z2) + Var (z3) +.... + Var (zk) = Var (x1) + Var (x2) + Var (x3) +.... 
++ Var (xk)                 … (10.46) 
+Now, how does the PCA help in multicollinearity? We can regress ‘y’ on the z’s 
+but regressing ‘y’ on z’s and then substituting the value of z’s in terms of x’s 
+amounts to the same thing as regressing ‘y’ on x’s. Alternatively, one can regress 
+‘y’ on a few z’s but there is no reason to believe that the first principal 
+component having maximum variance would have the highest correlation with 
+‘y’ or that the order of principal components affects its correlation with ‘y’. 
+Another problem is that the principal components often do not have any 
+economic logic. For instance, 2 (income) + 3 (price) makes no economic sense. 
+Also, the units of measurement of x’s affect the z’s. Standardization of variables 
+can solve this problem.  
+In many cases which involve the construction of indices, the PCA makes 
+economic sense. The use of PCA can also give some prior information about 
+restrictions on the parameters. Individual regression coefficients are sometimes 
+not estimable but their linear combinations are. Having prior knowledge about 
+parameter restrictions can help us in estimation of individual parameters.  
+9. Generalised Inverse Solution 
+There is a generalised inverse for every matrix A irrespective of its dimension. If 
+A is a square matrix and it is invertible, that is, the determinant is non-zero, then 
+A-1 can be easily found. But if A is a non-square matrix, say of order (m × n), or 
+it is singular (determinant is zero), then the generalised inverse of A is indicated 
+by G (n × m matrix) such that AGA = A. The generalised inverse of A is denoted 
+by 𝑨′.  
+AGA = A 𝑨′A = A             … (10.47) 
+There are various generalised inverses G of an (m X n) matrix A. In the case of 
+an invertible square matrix A, the generalised inverse G is the same as A-1. Hence 
+AA-1A = A. For a non-singular matrix, the generalised inverse is unique.  
+For an (m X n) matrix having rank r(A) = r, if the matrix  A can be partitioned 
+such that A = ቀ𝑪 𝑫
+𝑬 𝑭 ቁ, where C is (r X r) non-singular matrix and r(A) = r(C) = 
+r, then the generalised inverse of A is: 
+G = ൬𝑪ି 𝟏 𝟎
+𝟎 𝟎 ൰                                … (10.48) 
+
+
+--- Page 49 ---
+ 
+ 
+ 
+192 
+Treatment of Violations of 
+Basic Assumptions 
+The procedure to compute G is as follows: First, take any (r X r) non-singular 
+sub-matrix, that is, C. It is not necessary to take elements in C from adjacent 
+rows and columns in A. Now, find (𝐶ିଵ )’ and replace C by (𝐶ିଵ )’. Remaining 
+elements of A should be replaced by 0. Finally, transpose the resulting matrix.  
+Example 10.1 
+Let A = ൭
+4 1 2
+1 1 5
+3 1 3
+൱  
+You can find out that the determinant of the above matrix vanishes. Let us take 
+(A) = 2. Accordingly, C = ቀ4 1
+1 1 ቁ.  
+Hence C-1 = ൬ 1/3 −1/3
+−1/3 4/3 ൰.  
+Thus, the generalised inverse, G = ൭
+1/3 −1/3 0
+−1/3 4/3 0
+0 0 0
+൱  
+Using the generalised inverse, the regression parameter can be estimated as  
+ 𝜷෡ 𝑮 = (𝑿ᇱ𝑿)ି 𝑿′𝒚 for the model. Different solutions are obtained in parameter 
+estimation by using different generalised inverses. Hence, a class of generalised 
+inverse regression estimators can be obtained.  
+Check Your Progress 3 
+1)  Explain the following methods: 
+a) Ridge Regression 
+b) Principal Component Regression 
+........................................................................................................................... 
+........................................................................................................................... 
+...........................................................................................................................
+...........................................................................................................................
+.......................................................................................................................... 
+2)  A researcher estimates the following model for stock market returns, but 
+thinks that there may be a problem with it. By calculating the t-ratios, and 
+considering their significance (p-values given in brackets underneath) and by 
+examining the value of R2 or otherwise, suggest what the problem might be. 
+yt = 0.638  +  0.402  x2t   −  0.891  x3t                (R2 = 0.96, 𝑅ത2 = 0.89) 
+       (0.436)         (0.291)         (0.763)  
+Figures in parentheses are the standard errors of the coefficients. Explain 
+how you will proceed to solve the problem. 
+........................................................................................................................... 
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+
+
+--- Page 50 ---
+ 
+ 
+ 
+193 
+Multicollinearity 3)  “The relevant question to ask (if there is high multicollinearity) is not what 
+variables to drop but what other information will help.” True or False? 
+Substantiate your answer.  
+........................................................................................................................... 
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+10.6  LET US SUM UP 
+Interpretation of individual regression coefficients becomes difficult due to high 
+inter-correlation between explanatory variables. This is known as the 
+multicollinearity problem. However, it must be noted that high inter-correlation 
+between independent variables does not necessarily cause problems in parameter 
+estimation and inference. Even with high inter-correlation, standard errors can be 
+low if error variance is low and variation in independent variables is high. 
+Measuring multicollinearity simply on the basis of inter-correlations is not 
+advisable as these correlations can change by suitably transforming the 
+independent variables. This, however, does not imply that the multicollinearity 
+problem has been resolved. What is important is how precisely the coefficients or 
+a linear combination of them are estimable. Solutions to multicollinearity such as 
+ridge regression are ad hoc measures requiring a priori information. Essentially, 
+the problem arises due to paucity of information. It is advisable to get more data 
+(if possible) and to examine the prior information available.  
+10.7  KEY WORDS 
+Multicollinearity :  It is basically, high inter-correlation between 
+explanatory variables in a regression model. If the 
+correlation between explanatory variables is found to 
+be very high, it causes problems in parameter 
+estimation by inflating the standard errors and making 
+t-ratios statistically insignificant. 
+Tolerance (TOL) :
+ The inverse of VIF is known as Tolerance (TOL) and it 
+is another indicator of collinearity between variables. 
+Variance Inflation 
+Factor (VIF) 
+: It is an indicator of multicollinearity. In the regression 
+model 
+ 𝑦௜ =  𝛽መଵ 𝑥ଵ௜ +  𝛽መଶ 𝑥ଶ௜ + 𝜇̂௜, the VIF is given by 
+𝑉𝐼𝐹 =  
+ଵ
+(ଵ ି ௥భమ మ ). 
+10.8  SOME USEFUL BOOKS/ REFERENCES 
+Baltagi, Badi H.  (2008), ‘Econometrics,’ Fourth Edition, Springer-Verlag Berlin, 
+Heidelberg, ISBN 978-3-540-76515-8 
+
+
+--- Page 51 ---
+ 
+ 
+ 
+194 
+Treatment of Violations of 
+Basic Assumptions 
+Brooks, Chris (2014), ‘ Introductory Econometrics for Finance ,’ Third Edition, 
+Cambridge University Press 
+Gujarati, D N and D C Porter (2009), Basic Econometrics , Fifth Edition, 
+McGraw Hill 
+Maddala, G. S. and K. Lahiri (2009), Introduction to Econometrics , Fourth 
+Edition, John Wiley and Sons 
+10.9  ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1)  False. Refer to Section 10.3 
+2) (𝛽ଶ + 𝛽ସ ), (𝛽ଷ + 𝛽ସ ), 𝛽ହ , 𝛽଺ . Refer to Section 10.2 
+Check Your Progress 2 
+1)  (a) True. Refer to Sub-Section 10.4.1, points 2 and 3.  
+ (b) False. Refer to Sub-Section 10.4.1, points 2 and 3. 
+Check Your Progress 3 
+1)  (a) Refer to Section 10.5, point 7. 
+ (b) Refer to Section 10.5, point 8. 
+2) R2 is high but the t-ratios are insignificant which is suggestive of 
+multicollinearity. 
+3)  True. Refer to Section 10.5, point 1 and 6. Some hints can also be obtained 
+from Section 10.6.  

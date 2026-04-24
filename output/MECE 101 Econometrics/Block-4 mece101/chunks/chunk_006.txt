@@ -1,0 +1,581 @@
+--- Page 52 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+295
+……………………………………………………………………………
+.…..…………………………………………………………………….…
+.………..…………………………………………………………….……
+.………………..…………………………………………………………. 
+16.4 SIMULTANEITY BIAS 
+We have mentioned earlier that in simultaneous models the explanatory 
+variables and the error terms are not independent. An important assumption of 
+classical regression model is that there is no covariance between the 
+explanatory variable and the error term.  
+Let us look intothe simple Keynesian model of income determination given in 
+Example 16.2.  
+Consumption function𝐶௧ = 𝛽଴ + 𝛽ଵ 𝑌௧ + 𝑢௧ 0 < 𝛽ଵ < 1 … (16.4) 
+Income identity:𝑌௧ = 𝐶௧ + 𝐼௧… (16.5) 
+Suppose we want to estimate the parameters of the consumption (16.4) 
+without considering the income identity (16.5). The standard assumptions 
+under classical regression model for equation (16.4) will be 
+𝐸(𝑢௧) = 0, 
+𝐸(𝑢௧)ଶ = 𝜎ଶ , 
+𝐸(𝑢௧𝑢௧ା௜ ) = 0 for 𝑖 ≠ 0 
+and 
+cov(𝑌௧𝑢௧) = 0 
+Note that in this case we take C as the dependent variable and Yas the 
+independent variable. The assumption cov (𝑌௧𝑢௧) = 0 gets violated in this 
+case, asY is not independent of u. Let us look into the consequences. 
+16.4.1 Endogeneity Problem 
+In the case of the consumption function (16.4) we will first show that 
+𝑌௧and𝑢௧are correlated and then prove that OLS estimator 𝛽ଵ෢ is biased and 
+inconsistent. 
+To prove that 𝑌௧ and 𝑢ଵ are correlated, we substitute (16.4) into (16.5) to 
+obtain the following equation. 
+𝑌௧ = (𝐶௧ + 𝐼௧) = (𝛽଴ + 𝛽ଵ 𝑌௧ + 𝑢௧) + 𝐼௧ 
+or, 
+𝑌௧ − 𝛽ଵ 𝑌௧ = 𝛽଴ + 𝑢௧ + 𝐼௧ 
+
+
+--- Page 53 ---
+ 
+ 
+Extensions of Regression 
+Models 
+296 
+or, 
+(1 − 𝛽ଵ )𝑌௧ = 𝛽଴ + 𝑢௧ + 𝐼௧     
+Therefore, 
+𝑌௧ =
+ఉ బ
+ଵିఉ భ
++
+ଵ
+ଵିఉ భ
+𝐼௧ +
+ଵ
+ଵିఉ భ
+𝑢௧    …(16.14)  
+𝐸(𝑌௧) = 𝛽଴
+1 − 𝛽ଵ
++ 1
+1 − 𝛽ଵ
+𝐼௧ + 1
+1 − 𝛽ଵ
+𝐸(𝑢௧) 
+or, 
+𝐸(𝑌௧) =
+ఉ బ
+ଵିఉ భ
++
+ଵ
+ଵିఉ భ
+𝐼௧    … (16.15)  
+Subtracting (16.15) from (16.14) results in   
+[𝑌௧ − 𝐸(𝑌௧)] =
+ଵ
+ଵିఉ భ
+𝑢௧    …(16.16) 
+We have assumed that 𝐸(𝑢௧) = 0. Therefore,  
+𝑢௧ = [𝑢௧ − 𝐸(𝑢௧)]     …(16.17) 
+The covariance between 𝑌௧ and 𝑢௧is given by 
+𝑐𝑜𝑣(𝑌௧𝑢௧) = 𝐸[𝑦௧𝑢௧]   
+= 𝐸[𝑌௧ − 𝐸(𝑌௧)][𝑢௧ − 𝐸(𝑢௧)]   
+Since  [𝑌௧ − 𝐸(𝑌௧)] =
+ଵ
+ଵିఉ భ
+𝑢௧ from (16.16), we have 
+𝑐𝑜𝑣(𝑌௧𝑢௧) = 𝐸 ቂ
+ଵ
+ଵିఉ భ
+𝑢௧𝑢௧ቃ      
+=
+ா (௨ ೟)మ
+ଵିఉ భ
+=
+ఙ మ
+ଵିఉ భ
+     …(16.18) 
+Since 𝜎ଶ  is positive by definition, the covariance between 𝑌 and 𝑢given in 
+(16.18) is bound to be different from zero. As a result, the explanatory 
+variable 𝑌௧ and the error term 𝑢௧in equation (16.4) are correlated, which 
+violates the assumption of the classical linear regression model that the 
+disturbances are independent of (or not uncorrelated with) the explanatory 
+variables. 
+In simple language, C determines Y (equation (16.4)), and Y determines C 
+(equation (16.5)). Therefore, we must estimate both the equations together.  
+ 
+ 
+16.4.2 The OLS Estimator is Biased  
+
+
+--- Page 54 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+297
+The OLS estimator is biased because of correlation between 𝑌௧ and 𝑢௧. we 
+proceed as follows: 
+The OLS estimator of 𝛽ଵ  is given by 
+𝛽መଵ =
+∑ ௬ ೟௖೟
+∑ ௬ ೟
+మ        … (16.19) 
+In deviation form, equation (16.4) can be expressed as 
+𝑐௧ = 𝛽ଵ 𝑦௧ + 𝑢௧     
+By substituting the above equation in (16.19) we obtain 
+𝛽መଵ =
+∑ ௬ ೟௖೟
+∑ ௬ ೟
+మ =
+∑ ௬ ೟(ఉ భ ௬ ೟ା௨ ೟)
+∑ ௬ ೟
+మ = 𝛽ଵ +
+∑ ௬ ೟௨ ೟
+∑ ௬ ೟
+మ    … (16.20) 
+𝐸(𝛽መଵ ) = 𝛽ଵ + ∑ 𝐸(𝑦௧𝑢௧)
+∑ 𝑦௧
+ଶ  
+or, 
+𝐸൫𝛽መଵ ൯ − 𝛽ଵ =
+∑ ா (௬ ೟௨ ೟)
+∑ ௬ ೟
+మ      … (16.21) 
+Equation (16.21) gives the extent of simultaneity bias in the present case. As 
+the expectation-operator is a linear operator, we cannot evaluate 𝐸 ቂ
+∑ ௬ ೟௨ ೟
+∑ ௬ ೟
+మ ቃ, 
+since 𝐸(
+஺
+஻ ) ≠
+ா (஺ )
+ா (஻ ). But intuitively it is clear that 𝛽መଵ  will be an unbiased 
+estimator of 𝛽ଵ  only if ቂ
+∑ ௬ ೟௨ ೟
+∑ ௬ ೟
+మ ቃ = 0. 
+16.4.3 The OLS Estimator is not Consistent  
+Though we have shown in (16.18) that the covariance between  Y and u is not 
+zero, it does not mean cov (𝑦௧𝑢௧) ≠ 0,since cov(𝑦௧𝑢௧)is a population concept. 
+It is not exactly equal to ∑ 𝑦௧𝑢௧ which is a sample measure, although as the 
+sample size increases indefinitely the latter will tend toward the former.But if 
+the sample size increases indefinitely, then we can resort to the concept of 
+consistent estimator and thus find out what happens to 𝛽ଵ as 𝑛, the sample 
+size, increases indefinitely. 
+Now an estimator is said to be consistent if its probability limit, or plim for 
+short, (see Unit 3 for definition) is equal to its true (population) value. 
+Therefore, to show that 𝛽መଵ  of (16.20) is inconsistent; we must show that its 
+plim is not equal to the true 𝛽ଵ . 
+
+
+--- Page 55 ---
+ 
+ 
+Extensions of Regression 
+Models 
+298 
+^
+1 1 2
+1 2
+1 2
+plim( ) plim( ) plim
+/plim( ) plim /
+plim( / )
+plim( / )
+t t
+t
+t t
+t
+t t
+t
+y u
+y
+y u n
+y n
+y u n
+y n
+ 
+
+
+     
+     
+ 
+
+2
+1
+11 2
+2
+1 2
+1
+/(1 )ˆlim( )
+1
+(1 )
+Y
+Y
+p    
+  
+ 
+      
+Applying the rules of probability limit (plim) to (16.20), we obtain1 
+ 
+ 
+ 
+…(16.22) 
+In the second step of equation (16.22) we have divided ∑ 𝑦௧𝑢௧and∑ 𝑦௧
+ଶ by the 
+sample size, n, so that the quantities in the parentheses are now the sample 
+covariance between 𝑌 and 𝑢, and the sample variance of 𝑌 respectively. 
+In other words, (16.22) states that the plim of 𝛽ଵ is equal to true 𝛽ଵ  plus the 
+ratio of two quantities: (i) the plim of the sample covariance between 𝑌and 𝑢, 
+and (ii) the plim of the sample variance of 𝑌. Now, as the sample size n 
+increases indefinitely, we expect the sample covariance between 𝑌 and 𝑢 to 
+approximate the population covariance 𝐸[𝑌௧ − 𝐸(𝑌௧)][𝑢௧ − 𝐸(𝑢௧)]. From 
+(16.18) we know that  
+𝑐𝑜𝑣(𝑌௧𝑢௧) = [𝜎ଶ /(1 − 𝛽ଵ )] 
+Similarly, as 𝑛 tends to infinity, the sample variance of 𝑌 will approximate its 
+population variance, say 𝜎௬
+ଶ .Therefore, equation (16.22) may be written as 
+ 
+  
+ 
+It is assumed that 0 < 𝛽ଵ < 1. Further, 𝜎ଶ and𝜎௬ଶ  are both positive. Thus, 
+equation (16.23) implies that plim ( 𝛽ଵ) will always be greater than 𝛽ଵ ; that is, 
+𝛽ଵ will overestimate the true parameter 2, 𝛽ଵ . In other words, 𝛽ଵ is a biased 
+estimator, and the bias will not disappear; no matter how large the sample 
+size is. 
+16.4.2 Solution to Simultaneity Bias 
+In the preceding section we learnt that if we apply OLS to an equation 
+belonging to a system of simultaneous equations, we will not get unbiased 
+and consistent estimators. To obtain unbiased and consistent estimators, we 
+apply certain other methods of estimation. There are several methods for this 
+purpose. The most common methods are: 
+                                               
+ 
+1As mentioned in Unit 1, the plim of a constant (for example, 1 ) is the same constant and the plim of 
+(A/B) = plim(A)/plim(B).Note, however, that )(/)()/( BEAEBAE  . 
+2In general, however, the direction of the bias will depend on the structure of the model and the 
+parameters. 
+…(16.23) 
+
+
+--- Page 56 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+299
+(i) Reduced form method, or indirect least squares (ILS) 
+(ii) Instrumental variables (IV) 
+(iii) Two-stage least squares (2SLS) 
+(iv) Limited information maximum likelihood (LIML) 
+(v) Three stage least squares (3SLS) 
+(vi) Full information maximum likelihood (FIML) 
+Some of these methods will be discussed in the course‘MECE 102: Advanced 
+Econometric Methods’.  
+16.5STRUCTURAL FORM AND REDUCED FORM 
+We presented the simultaneous equations system in (16.13). These equations 
+are known as the ‘structural equations’ or ‘behavioral equations’ as they 
+represent the structure (of an economic model) or the behavior of an 
+economic agent (e.g., consumer or producer).The 𝛽′s and 𝛾′s in (16.13) are 
+known as the structural parameters. Recall that in the structural equations 
+both endogenous and exogenous variables are on the right-hand side of each 
+equation.  
+By solving for the 𝑀 endogenous variables from the structural equations we 
+can derive the reduced-form equations and the associated reduced-form 
+coefficients. A reduced-form equation is one where each equation contains 
+one endogenous variable and that endogenous variable is expressed solely in 
+terms of the predetermined variables and the stochastic disturbances. To 
+illustrate, let us consider the Keynesian model of income determination given 
+at Example 16.2 again: 
+Consumption function:𝐶௧ = 𝛽଴ + 𝛽ଵ 𝑌௧ + 𝑢௧   …(16.24) 
+   where 0 < 𝛽ଵ < 1 
+Income identity:𝑌௧ = 𝐶௧ + 𝐼௧     …(16.25) 
+In the above model 𝐶 (consumption) and 𝑌 (income) are endogenous variables 
+and I (investment expenditure) is an exogenous variable. While the first 
+equation is stochastic in nature,the second one is an identity. As usual, the 
+MPC ( 𝛽ଵ ) is assumed to remain between 0 and 1. Equations (16.24) and 
+(16.25) are called the ‘structural form’ of the model. Here, 𝛽଴  and 𝛽ଵ  are 
+structural parameters of the model. 
+If we substitute (16.24) in (16.25), we obtain the following: 
+𝑌௧ = 𝐶௧ + 𝐼௧ = [𝛽଴ + 𝛽ଵ 𝑌𝑡 + 𝑢௧] + 𝐼௧ 
+
+
+--- Page 57 ---
+ 
+ 
+Extensions of Regression 
+Models 
+300 
+By re-arranging terms in the above equation, we obtain 
+𝑌௧ − 𝛽ଵ 𝑌௧ = 𝛽଴ + 𝐼௧ + 𝑢௧ 
+or, 
+(1 − 𝛽ଵ )𝑌௧ = 𝛽଴ + 𝐼௧ + 𝑢௧ 
+or, 
+𝑌௧ = 𝛽଴
+(1 − 𝛽ଵ ) + 1
+(1 − 𝛽ଵ ) 𝐼௧ + 1
+(1 − 𝛽ଵ ) 𝑢௧ 
+The above can be represented as  
+𝑌௧ = 𝛱଴ + 𝛱ଵ 𝐼௧ + 𝑤௧      …(16.26) 
+where  П 0 = 
+ఉ బ
+ଵିఉ భ
+  
+  П 0 = 
+ଵ
+ଵିఉ భ
+ 
+  𝑤௧ = 
+௨ భ
+ଵିఉ భ
+ 
+Equation (16.26) is a ‘reducedform’ equation. It expresses the endogenous 
+variable 𝑌 solely as a function of the exogenous (or pre-determined) variable 
+and the stochastic disturbance term. 𝛱଴and𝛱ଵ  are ‘reduced-form parameters’. 
+Notice that these reduced-form parameters are nonlinear combinations of the 
+structural parameters. 
+Substituting the value of 𝑌௜from (16.26) into C of (16.24), we obtain another 
+reduced-form equation: 
+ C1 = П2 + П3It + wt    …(16.27) 
+where  П 0 = 
+ఉ బ
+ଵିఉ భ
+,П3 = 
+ఉ బ
+ଵିఉ భ
+,andwt= 
+௨ ೟
+ଵିఉ భ
+   
+The reduced-form coefficients, such as 𝛱ଵ and 𝛱ଶ and𝛱ଷ, are also known as 
+impact, or short-run multipliers, because they measure the immediate impact 
+on the endogenous variable of a unit change in the value of the exogenous 
+variable. If in the preceding Keynesian model the investment expenditure is 
+increased by, say, Re.1 and if the MPC is assumed to be 0.8, then from 
+(16.25) we obtain 𝛱ଵ  = 5.This result means that increasing the investment by 
+Re.1 will immediately (i.e., in the current time period) lead to an increase in 
+income of Rs. 5, that is, a fivefold increase.Similarly, under the assumed 
+conditions, equation (16.25) shows that 𝛱ଷ  = 4, meaning that Re. 1 increase in 
+investment expenditure will lead immediately to an increase of Rs. 4 in 
+consumption expenditure. 
+In the context of econometric models, equations such as (16.25) or 𝑄ௗ௧ = 𝑄௦௧ 
+(Quantity demanded is equal to quantity supplied) are known as equilibrium 
+condition. On the other hand, identity states that aggregate income Y must be 
+equal to aggregate expenditure (i.e., consumption expenditure plus investment 
+
+
+--- Page 58 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+301
+expenditure). When equilibrium is achieved, the endogenous variables assume 
+their equilibrium values3. 
+16.6 CONCEPT OF IDENTIFICATION 
+In the previous section we presented the reduced form of an equation. In the 
+reduced form an endogenous variable is explained in terms of the pre-
+determined variables in the simultaneous equations system and the stochastic 
+error term. Thus, we can apply OLS to the reduced form and obtain estimators 
+of the reduced form parameters.  
+Our objective, however, is to find out the structural form parameters. The 
+concept of identification is used to denote the possibility (or impossibility) of 
+deducing the values of the structural parameters from the reduced form 
+parameters.  
+The identification issue arises prior to estimation of the model. If more than 
+one theory is consistent with the same data (we illustrate this in Example 16.4 
+below), then they are said to be observationally equivalent, and we cannot 
+distinguish them. In such cases the structure of the econometric model is said 
+to be unidentified and there is a need to modify the model. 
+Identification is a problem of model formulation, rather than of model 
+estimation or model appraisal. A model is said to be ‘identified’ if it is in a 
+unique statistical form, where we can obtain unique estimator for each of its 
+structural parameters. If a model is ‘not identified’, then we cannot say 
+exactly what relationship we are estimating. 
+Example 16.4 
+Identification Problem in the Demand-Supply Model 
+To measure the coefficients of the demand equation, normally the published 
+time series reporting the quantity bought of the commodity is used.However, 
+the quantity bought is identical with the quantity sold at the given 
+price.Market data register points of interaction of equilibrium supply and 
+demand at the price prevailing in the market at a certain point of time. A 
+sample of time-series observations shows simultaneously the quantity 
+demanded, and the quantity supplied, at the prevailing market price.That is, it 
+only shows the points of interactions of demand and supply. If we use these 
+data for estimation, we measure the coefficients of a function of the form 
+𝑄 = 𝑓(𝑝).This equation may be either the demand function or the supply 
+function. How can we be sure whether this equation represents demand 
+function or supply function? If person A is interested in estimation of the 
+demand function, then (s)he can use the market data. Similarly, if person B is 
+interested in estimation of the supply equation, (s)he will also be using the 
+same market data! Obviously, weneed some criteria, which will enable us to 
+verify that the estimated coefficients belong to a particular relationship. Such 
+criteria are known as ‘identification conditions’ of a function. We will explain 
+these criteria in Section 16.6. 
+ 
+                                               
+ 
+3 For details see Jan Kmenta (1997), Elements of Econometrics, 2 nd Edition, Macmillan, New 
+York, pp. 723-731. 
+
+
+--- Page 59 ---
+ 
+ 
+Extensions of Regression 
+Models 
+302 
+  
+ 
+  
+ 
+   
+ 
+ 
+Fig. 16.2: Supply and Demand Functions 
+In Fig. 16.2 we plot market data for three observations. Fig. 16.2(a) shows 
+three data points. We haveno knowledge of the conditions of supply and 
+demand beyond our consideration that the data represents the equilibrium 
+points, that is, the equality between supply and demand. In Fig. 16.2(b) we try 
+to introduce supply and demand functions for these three observations. Notice 
+that the supply curve is stable in Fig. 16.1(b) whereas the demand curve is 
+shifting. Thus, the data represents points on the supply equation under the 
+assumption that the supply curve is stable and the demand curve shifts. In Fig. 
+16.2(c), on the other hand, we show that both the demand curve and the 
+supply curve are shifting randomly. Thus, if we wish to estimate 𝑄 = 𝑓(𝑝) 
+from the same data set, then we estimate neither the demand curve nor the 
+supply curve; rather we end up estimating the mongrel equation4. 
+16.6.1 Paradox of Identification 
+Discussion in the preceding section suggests that if we want to measure a 
+given function belonging to a simultaneous-equations model, the function 
+must be fairly stable over the sample period, that is, it must shift within a 
+smaller range as compared with other relationships of the same model. In 
+Example 16.4 we have shown that we can measure the supply function when 
+it is fairly stable and the demand function is shifting. Similarly, we can 
+measure the demand function if it is fairly stable while the supply function 
+shows adequate variability. 
+It can happen when the factor causing a shift in a function is absent in another 
+function.In other words, to identify the supply function (see Fig. 16.2(b)), 
+some factors absent from it but included in the demand function.So, to 
+identify an equation in a simultaneous equations model, we have to look for 
+the variables absent from it (but present in other equations of the model). This 
+is called the paradox of identification. In identification problem, the relevant 
+variables are the ones that are absent from the equation! 
+Example 16.5 
+Let us consider the supply-demand equation system.We write the system in 
+equilibrium form (that is, with 𝑞௦ = 𝑞ௗ = 𝑞) as 
+𝑞௦ = 𝛼ଵ 𝑝 + 𝛽ଵ 𝑧ଵ + 𝑢ଵ       ...(16.28) 
+and 
+                                               
+ 
+4 A combination of two and more equations is called a mongrel equation. 
+(a)  (b)  (c) 
+
+
+--- Page 60 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+303
+𝑞ௗ = 𝛼ଶ 𝑝 + 𝑢ଶ        ... (16.29) 
+To be more precise, let q be per capita rice consumption at the country level, 
+let p be the average price per kg of rice in the county, and let 𝑧ଵ  be the price 
+of fertilizer. While q and p are assumed to be endogenous, 𝑧ଵ is assumed to be 
+exogenous. It means that (16.28) must be the supply function, as the price of 
+fertilizer would shift supply ( 𝛽ଵ <0) but not demand.The demand function 
+contains no exogenous variables.  
+Intuitively, we can say that the demand equation (16.29) is identified. We 
+have an observed variable 𝑧ଵ  that shifts the supply equation; but it does not 
+affect the demand equation.Thus, the demand function can be traced by taking 
+different values of 𝑧ଵ .  
+The supply equation (16.28), on the other hand, cannot be traced out because 
+there is no exogenous observed factor that leads to a shift in the demand 
+curve. Only the stochastic error term (which is not observable) leads to a shift 
+in the demand equation. May be in the presence of certain factors (such as 
+preference of people towards wheator increase in per capita income) we can 
+identify the supply equation.  
+To summarize: in the system of (16.28) and (16.29), it is the presence of an 
+exogenous variable ( 𝑧ଵ ) in the supply equation that allows us to estimate the 
+demand equation. Further, we have to check the identification status of 
+separately for each equation in the model. 
+Let us consider a simultaneous equations model with two equations.  
+𝑦ଵ = 𝛼ଵ + 𝛽ଵ 𝑦ଶ + 𝑧ଵ 𝛽ଶ + 𝑢ଵ      … (16.30) 
+and 
+𝑦ଶ = 𝛼ଶ + 𝛽ଷ 𝑦ଵ + 𝑧ଶ 𝛽ସ + 𝑢ଶ      ... (16.31) 
+where 𝑦ଵ  and 𝑦ଶ are the endogenous variables, and 𝑢ଵ  and 𝑢ଶ  are the error 
+terms. The intercept in the first equation is 𝛼ଵ , and the intercept in the second 
+equation is 𝛼ଶ . The fact that 𝑧ଵ  and 𝑧ଶ are different exogenous variables means 
+that we have imposed exclusion restrictions on the model.In other words, we 
+assume that certain exogenous variables do not appear in the first equation 
+while some exogenous variables do not appear in the second equation. The 
+key question is: Under what conditions can we estimate the parameters in, 
+say, (16.31)?This is the identification issue. 
+16.6.2 Identification Status of an Equation 
+As mentioned earlier, identification refers to the possibility of finding out 
+estimators of all the parameters of an equation. Thus, we have to move 
+equation-wise. There are two possibilities: whether the equation under 
+consideration is identified or not identified. 
+1. Equation is under-identified 
+If the structure of the equation is not unique or there is not sufficient 
+information to uniquely distinguish the equation, then the equation is 
+under-identified. 
+ 
+
+
+--- Page 61 ---
+ 
+ 
+Extensions of Regression 
+Models 
+304 
+2. Equation is identified 
+(a) Exactly identified: If there is sufficient information available to 
+distinguish the equation then it is called just identified or exactly 
+identified equation 
+(b) Over-identified: If there is more than sufficient information 
+regarding the equation then the equation is called over-identified. 
+Identification is closely related to the estimation of the model. 
+(1) If an equation is identified, its coefficient can, in general, be statistically 
+estimated.In particular:  
+(a) If the equation is exactly identified, the appropriate method to be 
+used for its estimation is the method of indirect least 
+squares(ILS). 
+(b) If the equation is over-identified, indirect least squares cannot be 
+applied, because it will not yield unique estimates of the 
+structural parameters.There are various methods which can be 
+used in this case, for example two-stage least squares (2SLS), or 
+maximum likelihood methods.These methods will be developed 
+in Unit 15.  
+Identification may be established either by the examination of the 
+specification of the structural model, or by the examination of the reduced 
+form of the model. Reduced form approach is conceptually confusing and 
+computationally more difficult than the structural model approach, because it 
+requires the derivation of the reduced form first and then examination of the 
+values of the determinant formed from some of the reduced form coefficients. 
+The structural form approach is simpler and more useful. In this unit we will 
+only discuss the structural form approach of identification. 
+In applying the identification rules, we should ignore the intercept term if it is 
+present in each equation. If intercept term is present in some equations of the 
+model, not in others, then we should treat it like a separate variable(say 𝑋଴), 
+that takes the value 1 for presence of the intercept term, and 0 otherwise. 
+Check Your Progress 2 
+1)  Explain the following concepts: 
+ Structural equations 
+ Reduced From Equations 
+ Simultaneity Bias 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+2)  Why is it called the paradox of identification? 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 
+………………………………………………………………………………….. 

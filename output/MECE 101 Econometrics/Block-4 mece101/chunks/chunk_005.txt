@@ -1,0 +1,499 @@
+--- Page 41 ---
+ 
+ 
+ 
+284 
+Extensions of 
+Regression Models   The probit model is another nonlinear regression model where the 
+dependent variable is a binary variable. 
+ The coefficients in the probit model can be interpreted as the change in 
+the probability of the dependent variable for a one-unit change in the 
+independent variable. 
+ The probit model is like the logit model, but it assumes that the error term 
+follows a normal distribution instead of a logistic distribution. 
+15.8 KEY WORDS 
+Binary 
+Model 
+: A binary model is a statistical model that predicts a 
+categorical dependent variable with two possible outcomes. 
+The dependent variable is typically coded as a binary 
+variable, such as 0 or 1, or ‘yes’ or ‘no’. The independent 
+variables can be continuous or categorical. 
+Qualitative 
+Dependent 
+Variable 
+: A qualitative dependent variable is a variable that can take 
+on one of a limited number of categories, such as yes or no, 
+high or low, or agree or disagree. It is a type of categorical 
+variable. The qualitative variable is not continuous.  
+Dichotomous 
+Variables 
+: A dichotomous variable is a variable that can only take on 
+two values, such as "yes" or "no, " "true" or "false, " or 
+"male" or "female." Dichotomous variables are often used 
+in surveys and experiments, where the goal is to understand 
+the relationship between two or more variables. 
+Odds Ratio : It is calculated by dividing the odds of occurrence of an 
+event by the odds of the event occurring in another group. 
+Odds ratios are always positive. Odds ratios can be greater 
+than 1 or less than 1. An odds ratio of 1 indicates no 
+association between the two variables. An odds ratio 
+greater than 1 indicates that the event is more likely to 
+occur in the first group than in the second group. An odds 
+ratio less than 1 indicates that the event is less likely to 
+occur in the first group than in the second group. 
+Marginal 
+Effect 
+: Marginal effects are calculated at a specific point  in the 
+data. The point at which the marginal effect is calculated is 
+called the base point. Marginal effects can be positive or 
+negative. A positive marginal effect indicates that an 
+increase in the independent variable is associated with an 
+increase in the dependent variable. A negative marginal 
+effect indicates that an increase in the independent variable 
+is associated with a decrease in the dependent variable. 
+Marginal effects can be interpreted in different ways 
+depending on the context. For example, a marginal effect of 
+
+
+--- Page 42 ---
+ 
+ 
+ 
+285 
+Pressure Groups 0.10 in a logistic regression model may be interpreted as a 
+10% increase in the probability of the event occurring.  
+15.9 SOME USEFUL BOOKS 
+Baltagi. Badi H. (2008), Econometrics, Fourth Edition, Springer-Verlag Berlin 
+Heidelberg. 
+Berndt, Ernst R. (1991), The Practice of Econometrics: Classic and 
+Contemporary, Addison-Wesley. 
+Cameron, Colin and Pravin Trivedi (2005), Microeconometrics, Cambridge: 
+Cambridge University. 
+Maddala, G. S. (1983), Limited Dependent and Qualitative Variables in 
+Econometrics, Cambridge University Press, Cambridge. 
+Verbeek, Marno (2017), ‘A Guide to Modern Econometrics ,’ Fifth Edition, John 
+Wiley and Sons Ltd.  
+Wooldrige, Jeffrey (2022), Introductory Econometrics, Seventh Edition, Cengage 
+Learning  
+15.10 ANSWERS / HINTS TO CHECK 
+YOURPROGRESS EXERCISES 
+Check Your Progress 1 
+1)     (a) Since all t-values (coefficient divided by standard error) are greater than 
+2, all the coefficients are statistically significant at 5 per cent level of 
+significance. 
+(b)  The intercept term gives the “probability” that a female person (since 
+Di= 0 for female) with zero income will own a house. This value is 
+negative. Since probability cannot be negative, we may treat this value 
+as zero. 
+(c)  The slope value of 0.0017 means that for a unit change in income, on 
+average, the probability of owning a house increases by 0.0017 or 
+about 0. 17 percent. Of course, given a particular level of income, we 
+can estimate the actual probability of owning a house. If, for example, 
+income = Rs. 500, the estimated probability of owning a house is 
+  
+(d)  The coefficient of variable 𝐷௜ is 0.008. It implies that for a male (when 
+𝐷௜ = 1), the intercept increases by 0.008. Therefore, the probability of 
+owning a house for males is greater than that for females by 0.8 
+percent. 
+
+
+--- Page 43 ---
+ 
+ 
+ 
+286 
+Extensions of 
+Regression Models  
+2)  Go through Section 15.2.2. You have to summarise the points given there 
+and answer.  
+Check Your Progress 2 
+1)  The log of odds-ratio is given by 𝐿௜ = ln ቀ
+௣ ೔
+ଵି௣ ೔
+ቁ = 𝛼଴ + 𝛼ଵ 𝑋௜ + 𝑢௜. 
+2)  You can interpret the results of the logit model through its Logit, Odds-
+ratio and marginal effect. See Sub-Section 15.3.2. 
+3) Go through Sub-Section 15.3.2 and answer.  
+Check Your Progress 3 
+1) Go through Section 15.4 and answer. 
+2) Go through Section 15.6 and answer. 
+ 
+ 
+
+
+--- Page 44 ---
+ 
+287
+UNIT 16 INTRODUCTION TO 
+SIMULTANEOUS EQUATIONS 
+MODELS* 
+Structure 
+16.0 Objectives 
+16.1 Introduction 
+16.2 Some Examples of Simultaneous Equations Models 
+16.3  Endogenous Variables and Exogenous Variables  
+16.4 Simultaneity Bias  
+ 16.4.1 Endogeneity Problem 
+ 16.4.2 The OLS Estimator is Biased 
+ 16.4.3 The OLS Estimator is not Consistent 
+16.4.4  Solution to Simultaneity Bias 
+16.5 Structural Form and Reduced Form  
+16.6 Concept of Identification 
+ 16.6.1 Paradox of Identification 
+  16.6.2 Identification Status of an Equation 
+16.7 Identification Conditions 
+ 16.7.1 Order Condition of Identification 
+ 16.7.1 Rank Condition of Identification 
+16.8 Let Us Sum Up 
+16.9 Key Words 
+16.10 Some Useful Books/References 
+16.11 Answers/Hints to Check Your Progress Exercises 
+16.12 Practice Questions 
+16.0  OBJECTIVES 
+After going this Unit, you will be able to 
+ analyse the nature of simultaneous relationship between variables; 
+ distinguish between endogenous variables and pre-determined variables; 
+ explain the concept of simultaneity bias and its implications; 
+ examine the identification status of an equation in a simultaneous 
+equations system; and 
+ applythe order and rank conditions for identification of an equation. 
+                                                
+*Adapted from Units 13 and 14 of IGNOU SLM, MECE 001: Econometric Methods, written 
+by Prof. Biswajit Nag and Ms. Satavisha Mukherjee, Indian Institute of Foreign Trade (IIFT), 
+New Delhi 
+
+
+--- Page 45 ---
+ 
+ 
+Extensions of Regression 
+Models 
+288 
+16.1  INTRODUCTION 
+The econometric models we studied so far talk about single equation 
+regression models where a dependent variable is related to a set of 
+independent or explanatory variables. In all these regression models, 𝑦 is the 
+‘dependent’ or ‘explained’ variable and 𝑥ଵ , 𝑥ଶ , … are the ‘independent’ or 
+‘explanatory’ variables. Thus 𝑦 depends upon 𝑥, but the reverse is not true. In 
+real life, however, we normally find variables that are dependent on each 
+other. In this sort of relationship, the equilibrium values of the variables can 
+be determined by considering the simultaneity in relationship.  
+In simultaneous relationships a single equation under investigation is part of a 
+wider phenomenon. In such cases the variables can be explained with the help 
+of a system of equations. Let us take an example. At the macro level, as you 
+know from macroeconomics course, aggregate consumption expenditure 
+depends upon aggregate disposable income. Aggregate disposable income, on 
+the other hand, depends upon the national income and taxes imposed by the 
+government. Moreover, national income is dependent on aggregate 
+consumption expenditure of the economy. Thus, estimation of a single 
+equation between aggregate consumption and disposable income will not 
+provide us with consistent and unbiased estimators.  
+16.2 SOME EXAMPLES OF SIMULTANEOUS 
+EQUATIONS MODELS  
+In regression models one of the crucial assumptions is that the exogenous 
+variables 𝑥’s are independent of the error term 𝑢 (see Unit 4). This 
+assumption is violated in simultaneous relationships. Let us illustrate this 
+through the demand and supply model. 
+We can write the demand function as 
+𝑞 = 𝛼 + 𝛽𝑝 + 𝑢       …(16.1) 
+where 𝑞 represents the quantity demanded, 𝑝 the price, and 𝑢 the stochastic 
+error term, representing random shifts in the demand function.  
+From microeconomic theory we know that the equilibrium price and quantity 
+are determined in the market by intersection of supply and demand curves 
+(see Fig. 16.1). Therefore, we cannot determine equilibrium price by solving 
+the demand equation independently. Again, if there is a random shift in the 
+demand curve we see that it will affect both equilibrium price and quantity 
+(considering the normal slope of supply curve as in panel-a of Fig. 16.1). In 
+case the supply curve is vertical, then a shift in the demand curve affects 
+equilibrium price only (see panel-b of Fig. 16.1). Again, if the supply curve is 
+horizontal, a shift the demand curve affects equilibrium quantity only keeping 
+the level of equilibrium price unchanged (see panel-c of Fig. 16.1). Thus we 
+see that demand curve alone cannot determine the equilibrium price and 
+
+
+--- Page 46 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+289
+quantity. Moreover, the slope of the supply curve influences the relationship 
+between price and quantity. If we consider the demand equation only, the 
+slope of the supply curve gets included in the term ‘ 𝑢’. The inclusion of the 
+slope of supply curve in the error term leads to correlation between price and 
+error term, which violates one of the basic assumptions of OLS, that is, 
+𝑐𝑜𝑣( 𝑋𝑢) = 0.So, if we ignore the supply curve and estimate the demand 
+equation (16.1) by OLS, then it will produce inconsistent estimates of the 
+parameters. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+Fig. 16.1: Interaction between Supply and Demand Curves 
+The problem is that in the demand-supply model we cannot consider the 
+demand function in isolation when we study the relationship between quantity 
+and price as in equation (16.1).The solution is to bring the supply function 
+into picture; and estimate the demand function and the supply function 
+together. Such models are known as simultaneous equations models. 
+An econometric model is based on certain theoretical concepts. Thus, the 
+simultaneous equations model (SEM) can be best understood by some 
+practical examples. Here we present three examples of SEM. 
+Example 16.1 
+Wage-Price Model 
+The model of money wage and price determination is a good example of 
+SEM. According to the model wage rate is determined by unemployment rate 
+in the economy and the rate of price change (that is, inflation) in an 
+unrestricted labour market (reflected in equation (16.2)). The rate of inflation, 
+on the other hand, is a function of the change in wage rate and money supply 
+q 
+p 
+S 
+S D1 
+D2 
+D1 
+D2 
+Supply curve sloping upward 
+q 
+p 
+S S 
+D1 
+D2 
+D1 
+D2 
+Supply curve horizontal 
+q 
+p S 
+S 
+D1 
+D2 
+D1 
+D2 
+Supply curve sloping upward 
+(a) (b) 
+(c) 
+ 
+
+
+--- Page 47 ---
+ 
+ 
+Extensions of Regression 
+Models 
+290 
+(reflected in equation (16.3)). The model consists of the two equations as 
+follows: 
+ 𝑊௧ = 𝛼଴ + 𝛼ଵ 𝑈௧ + 𝛼ଶ 𝑃ଵ + 𝑢ଵ௧  …(16.2) 
+ 𝑃௧ = 𝛽଴ + 𝛽ଵ 𝑊௧ + 𝛽ଶ 𝑅ଵ + 𝛽ଷ 𝑀௧ + 𝑢ଶ௧  …(16.3) 
+where  𝑊 =  rate of change in money wage 
+𝑈 =  unemployment rate in percentage 
+ 𝑃 =  rate of change in prices  
+ 𝑅 =  rate of change in cost of capital  
+ 𝑀 =  supply of money  
+ 𝑡 =  time 
+ 𝑢ଵ , 𝑢ଶ  =  stochastic disturbances 
+As the price variable 𝑃enters the wage equation (16.2) and the wage variable 
+𝑊 enters the price equation (16.3), both the two variables are inter-dependent. 
+Moreover, the explanatory variables𝑃 in (16.2) and 𝑊 in (16.3) are stochastic 
+in nature. Recall that in OLS it is assumed that the explanatory variables are 
+not stochastic. Therefore, these stochastic explanatory variables are 
+expectedly correlated with the stochastic disturbance terms. This correlation 
+violates the assumption of OLS that error term is independent of independent 
+variable. Thus, the classical OLS method is not applicable for estimation of 
+the parameters of the two equations individually. 
+Example 16.2 
+Keynesian Model of Income Determination 
+Let us consider the simple Keynesian model of income determination: 
+Consumption function𝐶௧ = 𝛽଴ + 𝛽ଵ 𝑌௧ + 𝑢௧ 0 < 𝛽ଵ < 1 … (16.4) 
+Income identity: 𝑌௧ = 𝐶௧ + 𝐼௧(= 𝑆௧) … (16.5) 
+where  𝐶 = consumption expenditure 
+ 𝑌=  income 
+ 𝐼 =  Investment (assumed to be exogenous) 
+ 𝑆 =  Savings  
+ 𝑡 =  time 
+ 𝑢  =  stochastic disturbance term 
+𝛽଴and𝛽ଵ are parameters. 
+
+
+--- Page 48 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+291
+The parameter 𝛽ଵ represents the marginal propensity to consume (MPC). 
+From macroeconomic theory we know that 𝛽ଵ  is expected to remain between 
+0 and 1.Equation (16.4) is the consumption function which shows that 
+consumption consists of two parts: autonomous consumption expenditure ( 𝛽଴ ) 
+and income induced consumption ( 𝛽ଵ 𝑌). Equation (16.5) is the national 
+income identity, signifying that total income is equal to total consumption 
+expenditure plus total investment expenditure. 
+From the consumption function (16.4) we find that 𝐶 and Y are 
+interdependent and that𝑌௧ is not expected to be independent of the disturbance 
+term, 𝑢௧. When 𝑢௧ changes (because of a variety of factors included in the 
+error term) the consumption function shifts, which, in turn affects 𝑌௧. 
+Therefore, once again the classical least-squares method is not applicable to 
+(16.4). If applied, the estimators thus obtained will be inconsistent. 
+Example 16.3  
+Macroeconomic Model 
+The celebrated IS model, or goods market equilibriummodel of 
+macroeconomics (see Unit 3 of MEC-102) in its non-stochastic form can be 
+expressed as 
+Consumption function: 𝐶௧ = 𝛽଴ + 𝛽ଵ 𝑌ௗ௧  0 < 𝛽ଵ < 1 …(16.6) 
+Tax function: 𝑇௧ = 𝛾଴ + 𝛾ଵ 𝑌௧ 0 < 𝛾ଵ < 1 …(16.7) 
+Investment function: 𝐼௧ = 𝜃଴ + 𝜃ଵ 𝑟௧  …(16.8) 
+Disposable income: 𝑌ௗ௧ = 𝑌௧ − 𝑇௧  …(16.9) 
+Government expenditure: 𝐺௧ = 𝐺ሜ  …(16.10) 
+National income identity: 𝑌௧ = 𝐶௧ + 𝐼௧ + 𝐺௧  …(16.11) 
+where 𝑌 =  national income 
+ 𝐶 =  consumption spending 
+ 𝐼 =  plannedor desired net investment 
+ 𝐺 =  Given level of government expenditure 
+ 𝑇 =  taxes 
+ 𝑌ௗ  =  disposable income 
+ 𝑟 =  interest rate 
+In order to solve the above equation system, we first substitute (16.7) into 
+(16.9); and then the value of 𝑌ௗ௧ into (16.6). Subsequently, we put the resulting 
+
+
+--- Page 49 ---
+ 
+ 
+Extensions of Regression 
+Models 
+292 
+equation for 𝐶, and equation (16.8) for 𝐼 and (16.10) for 𝐺 into (16.11). 
+Consequently, we obtain 
+𝑌௧ = [𝛽଴ + 𝛽ଵ (𝑌௧ − 𝑇௧)] + [𝜃଴ + 𝜃ଵ 𝑟௧] + 𝐺ሜ 
+By re-arranging terms in the above equation, we obtain  
+𝑌௧ = 𝜋଴ + 𝜋ଵ 𝑟௧       …(16.12) 
+where   
+𝜋଴ = 𝛽଴ − 𝛼଴ 𝛽ଵ + 𝑦଴ + 𝐺
+1 − 𝛽ଵ (1 − 𝛼ଵ )  
+and 
+𝜋ଵ =
+ଵ
+ଵିఉ భ (ଵିఈ భ )   
+Equation (16.12) is the equation of the IS curve, which provides the 
+combinations of the interest rate and level of income such that the goods 
+market is in equilibrium. 
+What would happen if we were to estimate, say, the consumption function 
+(16.6) in isolation?Could we obtain unbiased and/or consistent estimates of 
+𝛽଴ and𝛽ଵ ?Such a result is unlikely because consumption depends on 
+disposable income, which depends on national income Y.But Ydepends on 𝑟 
+and 𝐺 as well as the other parameters entering in 𝜋ଵ . Therefore, unless we 
+consider all these influences, a simple regression of C on 𝑌ௗ  is bound to give 
+biased and/or inconsistent estimates of 𝛽଴and𝛽ଵ. 
+16.3ENDOGENOUS VARIABLES AND 
+EXOGENOUS VARIABLES 
+There are two types of variables in simultaneous equations models: 
+endogenous and pre-determined variables.  
+(i) Endogenous Variables are determined jointly and interdependently 
+within the model. The endogenous variables are determined by the 
+exogenous variables. We use notation Y for endogenous variables.  
+(ii) Predetermined Variables :Predetermined variables are of three types: (i) 
+exogenous variables, (ii) lagged exogenous variables, and (iii) lagged 
+endogenous variables. Exogenous variables are determined outside the 
+equation system. In other words, these variables are given from outside. 
+For example, in the production function of wheat, rainfall is an 
+exogenous variable.  
+Remember that exogenous variables determine endogenous variables, but 
+endogenous variables do not determine exogenous variables.  
+
+
+--- Page 50 ---
+ 
+ 
+Introduction to Simultaneous 
+Equations Models
+293
+In a simultaneous equationsmodel, we can include the lagged values of 
+endogenous variables. For example, 𝐶௧ is current year consumption and is 
+assumed to be an endogenous variable. Consumption in the previous time 
+period ( 𝐶௧ିଵ ) is a lagged endogenous variable. Similarly, we can include 
+lagged exogenous variables (for example, 𝑋௧ିଵ ) as an explanatory variable in 
+an equation of the simultaneous equations system. 
+Notations 
+To facilitate our discussion, we introduce the following example:Let us 
+consider a SEM with 𝑀 endogenous and 𝐾exogenous variables.The general 
+𝑀 equations model in 𝑀 endogenous, or jointly dependent, variables may be 
+written as Equation (16.13) which is a time dependent SEM: 
+𝑌ଵ௧ = 𝛽ଵଶ 𝑌ଶ௧ + 𝛽ଵଷ 𝑌ଷ௧ +. . . +𝛽ଵெ 𝑌ெ௧ + 𝛾ଵଵ 𝑋ଵ௧ + 𝛾ଵଶ 𝑋ଶ௧ +. . . +𝛾ଵ௄ 𝑋௄௧ + 𝑢ଵ௧  
+𝑌ଶ௧ = 𝛽ଶଵ 𝑌ଵ௧ + 𝛽ଶଷ 𝑌ଷ௧ +. . . +𝛽ଶெ 𝑌ெ௧ + 𝛾ଶଵ 𝑋ଵ௧ + 𝛾ଶଶ 𝑋ଶ௧ +. . . +𝛾ଶ௄ 𝑋௄௧ + 𝑢ଶ௧  
+𝑌ଷ௧ = 𝛽ଷଵ 𝑌ଵ௧ + 𝛽ଶଷ 𝑌ଷ௧ +. . . +𝛽ଷெ 𝑌ெ௧ + 𝛾ଷଵ 𝑋ଵ௧ + 𝛾ଷଶ 𝑋ଶ௧ +. . . +𝛾ଷ௄ 𝑋௄௧ + 𝑢ଷ௧  
+……………………………………..……………………………………….. 
+𝑌ெ௧ = 𝛽ெଵ 𝑌ଵ௧ + 𝛽ெଶ 𝑌ଶ௧ + ⋯ + 𝛽ெ ,ெିଵ 𝑌ெିଵ ,௧ + 𝛾ெଵ 𝑋ଵ௧ + 𝛾ெଶ 𝑋ଶ௧ + ⋯
++ 𝛾ெ௄ 𝑋௄௧ + 𝑢ெ௧  
+ ...(16.13) 
+where 𝑌ଵ, 𝑌ଶ,…,𝑌ெ  are 𝑀 endogenousvariables 
+𝑋ଵ , 𝑋ଶ,…,𝑋௄  are 𝐾 predetermined variables(one of these 𝑋 variables 
+may take a value of unity to allow for the intercept term in each 
+equation) 
+ 𝑢ଵ , 𝑢ଶ ,…,𝑢ெ  are 𝑀 stochastic disturbances 
+ 𝑡 =1, …, 𝑇areTotal number of observations 
+ 𝛽’s are coefficients of the endogenous variables 
+ 𝛾’s are coefficients of the predetermined variables 
+As equation (16.13) shows, there are three types of variables: First, we have 
+endogenous variables, whose values are determined within the model. 
+Second, we have predetermined variables, whose values are determined 
+outside the model. Third, we have the stochastic error terms. The endogenous 
+variables are regarded as stochastic whereas the predetermined variables are 
+non-stochastic in nature. 
+In notations, 𝑋ଵ௧  is a current (present-time) exogenous variable, whereas 
+𝑋ଵ (௧ିଵ ) is a lagged exogenous variable. Note that 𝑌(௧ିଵ ) is a lagged 
+
+
+--- Page 51 ---
+ 
+ 
+Extensions of Regression 
+Models 
+294 
+endogenous variable with a lag of one time period. Since the value of 𝑌ଵ (௧ିଵ ) 
+is known at the current time 𝑡, it is regarded as non-stochastic. Hence, it is 
+considered as a predetermined variable 1. In short, current exogenous, lagged 
+exogenous, and laggedendogenous variables are considered as predetermined, 
+as their values are not determined by the model in the current time period. 
+At this point a question may be taking shape in your mind, how do we 
+construct econometric models? What are the variables that should be included 
+in an equation? Two issues are very important. First, such questions are 
+answered by economic theory. The variables in an econometric model are 
+included based on certain economic theory. In some cases, which are not 
+established theory yet, the equations depend upon the logic that the researcher 
+puts forth. Thus, behind the inclusion of a variable in an equation, there is 
+some logic. Second, it is up to the concepts of economic theory and the model 
+builder to specify the variables that are endogenous and that are 
+predetermined. Although non-economic variables (variables not determined 
+by any economic theory), such as temperature and rainfall, are clearly 
+exogenous or predetermined, the model building must be exercised with great 
+care while classifying economic variables as endogenous or predetermined. 
+One must be able to defend i) the classification of variables into endogenous 
+and exogenous, and ii) inclusion of a particular variable in an equation. 
+Check Your Progress 1 
+1) Explain the meaning of each of the following terms: 
+ Endogenous Variables. 
+ Exogenous Variables 
+…………………………………………………………………………… 
+……………………………………………………………………………
+.…..…………………………………………………………………….…
+.………..…………………………………………………………….……
+.………………..…………………………………………………………. 
+2) Distinguish between pre-determined variable and exogenous variable. 
+……………………………………………………………………………
+……………………………………………………………………………
+.…..…………………………………………………………………….…
+.………..…………………………………………………………….……
+.………..…………………………………………………………….…… 
+3) Write the general form of a simultaneous equation model. 
+…………………………………………………………………………… 
+                                               
+ 
+1It is assumed implicitly here that the stochastic disturbances, the 'u s, are serially 
+uncorrelated. If this is not the case, 1tY will be correlated with the current period disturbance 
+term tu .Hence, we cannot treat it as pre-determined. 

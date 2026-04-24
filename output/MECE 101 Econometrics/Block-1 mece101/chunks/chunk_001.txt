@@ -1,0 +1,296 @@
+--- Page 1 ---
+MECE - 101
+INTRODUCTORY 
+ECONOMETRIC METHODS
+Fo
+r MECE 101: Introductory Econometric Methods
+𝑬𝑬(𝒖𝒖𝒊𝒊) = 𝟎𝟎 
+𝑬𝑬�𝒖𝒖𝒊𝒊
+𝟐𝟐� = 𝝈𝝈𝟐𝟐 
+𝑬𝑬�𝒖𝒖𝒊𝒊𝒖𝒖𝒋𝒋� = 𝟎𝟎;    𝒊𝒊 ≠ 𝒋𝒋 
+𝑬𝑬(𝑿𝑿𝒊𝒊𝒖𝒖𝒊𝒊) = 𝟎𝟎 
+Fo
+r MECE 102: Advanced Econometric Methods
+𝒀𝒀𝒀𝒀+ 𝑿𝑿𝑿𝑿 + 𝑬𝑬 = 𝟎𝟎
+𝒀𝒀𝒀𝒀𝒀𝒀�𝟏𝟏+ 𝑿𝑿𝑿𝑿𝒀𝒀�𝟏𝟏+ 𝑬𝑬𝒀𝒀�𝟏𝟏= 𝟎𝟎
+𝒀𝒀=− 𝑿𝑿𝑿𝑿𝒀𝒀�𝟏𝟏− 𝑬𝑬𝒀𝒀�𝟏𝟏
+
+
+--- Page 2 ---
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTORY 
+ECONOMETRIC METHODS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+School of Social Sciences 
+Indira Gandhi National Open University 
+Maidan Garhi, New Delhi-110068  
+MECE-101 
+
+
+--- Page 3 ---
+EXPERT COMMITTEE  
+ 
+Prof. Atul Sarma (retd.) 
+Former Director, Indian Statistical 
+Institute, New Delhi 
+ 
+Prof. Prem S. Vashistha (retd.) 
+Former Director, Agro-Economic 
+Research Centre, Delhi School of 
+Economics, Delhi  
+Prof. Rajeev Malhotra 
+Executive Director, O P Jindal 
+Global University, Gurugram, 
+Haryana 
+Prof. Indrani Roy Chowdhury 
+CSRD, Jawaharlal Nehru University 
+New Delhi 
+Prof. Subrata Guha 
+CESP, Jawaharlal Nehru University 
+New Delhi 
+Prof. Narayann Prasad  
+Indira Gandhi National Open 
+University, New Delhi 
+Prof. Kaustuva Barik 
+Indira Gandhi National Open 
+University, New Delhi 
+Prof. B S Prakash (retd.) 
+Indira Gandhi National Open 
+University, New Delhi 
+Dr. Saugato Sen 
+Indira Gandhi National Open 
+University, New Delhi 
+Dr. Vijeta Banwari 
+Indira Gandhi National Open 
+University, New Delhi 
+Dr. Nidhi Tewathia 
+School of Global Affairs,  
+Dr. B R Ambedkar University, Delhi 
+ 
+ 
+COURSE PREPARATION TEAM 
+ 
+Block/ UnitTitle Unit Writer 
+Block 1 Introduction 
+Unit 1 Introduction to Econometrics Prof. Kaustuva Barik, IGNOU, New Delhi 
+Unit 2 Review of Statistical Foundations of 
+Econometrics 
+Dr. Sudip Mukherjee, Dinabandhu Mahavidyalaya, Bongaon, 
+West Bengal 
+Unit 2 Review of Matrix Algebra Mr. Debasish Dash, Independent Researcher, Delhi 
+Block 2 Classical Regression Model 
+Unit 4 Estimation of Two-variable Regression 
+Model 
+Dr. Samraj Sahay, Independent Researcher, Delhi 
+Unit 5 Residual Analysis Dr. Gurleen Kaur, Assistant Professor of Economics, Guru 
+Gobind Singh College of Commerce, University of Delhi 
+Unit 6 Estimation of Multiple Regression Models Prof. Kaustuva Barik, IGNOU, New Delhi 
+Unit 7  Evaluation of Multiple Regression Models Dr. Samraj Sahay, Independent Researcher, Delhi 
+Block 3 Violations of Basic Assumptions  
+Unit 8 Model Specification Issues Dr. Sahba Fatima, Independent Researcher, Lucknow 
+Unit 9 Autocorrelation Dr. Priti Agarwal, Jindal School of Government and Public 
+Policy, OP Jindal Global University, Sonipat, Haryana (Units 
+9, 10 and 11) 
+Unit 10 Multicollinearity 
+Unit 11 Heteroscedasticity 
+Unit 12 Errors in Variables Prof. Shibalal Meher (retd.), Nabakrushna Choudhury Centre 
+for Development Studies, Bhubaneswar 
+Unit 13 Stochastic Regressors Dr. Narendra Nath Dalei, Associate Professor, Central 
+University of Himachal Pradesh, Dharamshala 
+Block 4 Extensions of Regression Models  
+Unit 14 Qualitative Independent Variables in OLS 
+Models 
+Dr. Manish Gupta, Associate Professor, NIPFP, New Delhi 
+Unit 15 Qualitative Dependent Variables in OLS 
+Models 
+Dr. Akshaya Kumar Mohanty, Associate Professor, Mizoram 
+University, Aizawl 
+Unit 16 Introduction to Simultaneous Equations 
+Models 
+Prof. Biswajit Nag and Ms. Satavisha Mukherjee, Indian 
+Institute of Foreign Trade (IIFT), New Delhi 
+   
+ 
+
+
+--- Page 4 ---
+Course Coordinator: Prof. Kaustuva Barik           Editors: Prof. Kaustuva Barik 
+                     Prof. B S Prakash (Units 2, 4, 6, 7 and 12)  
+ 
+PRINT PRODUCTION  
+December, 2024 
+© Indira Gandhi National Open University, 2024 
+ISBN: 
+All rights reserved. No part of this work may be produced in any form, by mimeography or any other means, without 
+permission in writings from the Indira Gandhi National Open University. 
+Further information on the Indira Gandhi National Open University courses may be obtained from the University’s office at 
+Maidan Garhi, New Delhi -110068 or visit our website: http://www.ignou.ac.in 
+Printed and published on behalf of the Indira Gandhi National Open University, New Delhi, by Registrar, MPDD. 
+Laser Typeset: Mr. Mukesh Yadav  Cover Design:  Printed at:  
+ 
+  
+
+
+--- Page 5 ---
+CONTENTS 
+BLOCK 1 INTRODUCTION Page 
+Unit 1 Introduction to Econometrics 7 
+Unit 2  Review of Statistical Foundations of Econometrics 23 
+Unit 3  Review of Matrix Algebra 41 
+BLOCK 2 CLASSICAL REGRESSION MODEL 
+Unit 4 Estimation of Two-Variable Regression Model 67 
+Unit 5 Residual Analysis 92 
+Unit 6 Estimation of Multiple Regression Models 111 
+Unit 7 Evaluation of Multiple Regression Models 125 
+BLOCK 3 VIOLATIONS OF BASIC ASSUMPTIONS 
+Unit 8 Model Specification Issues 144 
+Unit 9 Autocorrelation 159 
+Unit 10 Multicollinearity 178 
+Unit 11 Heteroscedasticity 195 
+Unit 12 Errors in Variables 214 
+Unit 13 Stochastic Regressors 229 
+BLOCK 4 EXTENSIONS OF REGRESSION MODELS 
+Unit 14 Qualitative Independent Variables in OLS Models 244 
+Unit 15 Qualitative Dependent Variables in OLS Models 265 
+Unit 16 Introduction to Simultaneous Equations Models 287 
+  
+
+
+--- Page 6 ---
+COURSE INTRODUCTION 
+Econometrics is a powerful tool for understanding economic relationships and for meaningful 
+research in economics. Economists use econometric methods in a variety of fields including 
+macroeconomics, finance, labour economics, health economics, and many more. Econometric 
+methods are used for business decisions, policy formulation, and prediction.  
+MECE 101, as the title suggests, is introductory in nature. The basic objective of the course is 
+to equip students with basic theory of econometrics and relevant applications of the methods. 
+The topics covered in the present course include various problems faced in estimation of 
+single equation regression models.  
+After going through the course, a student is expected to  
+ develop a way of thinking in econometric terms; 
+ acquire basic econometric skills in terms of model selection, model estimation, and 
+model diagnostics;  
+ utilize econometric techniques in analysis and interpretation of real-world problems in 
+the field of economics and business; and 
+ summarise and interpret results of econometric analysis in written, oral and visual 
+forms; and 
+ develop skills for future research.  
+The course comprises four blocks. 
+Block 1, entitled Introduction, comprises three Units. As the title suggests, the block 
+provides an overview and basic foundations of econometrics. Unit 1 discusses the basic 
+concepts, issues and ideas in an econometric study. Unit 2 reviews the statistical concepts 
+required in econometric analysis. Unit 3 provides an overview of matrix algebra, which is 
+essential in econometric theory.  
+Block 2, entitled Classical Regression Model , comprises four units. Unit 4 deals with 
+estimation, interpretation and evaluation of two-variable regression models.  Unit 5 helps you 
+in identifying problems in a regression model by looking into the residuals. Unit 6 and Unit 7 
+extend the regression model to multiple explanatory variables cases. By going through these 
+two Units, you will learn the procedure of estimation and evaluation of multiple regression 
+models. 
+Block3, entitled Violations of Basic Assumptions , analyses the properties of the OLS 
+estimators when certain assumptions are not fulfilled. There are six Units in this Block. Unit 
+8 brings out the specification issues – the possible problems in a regression model – when the 
+basic assumptions of the classical regression model are violated. Unit 9 deals with the 
+identification, consequences and remedial measures if the error terms are correlated. Unit 10 
+presents the consequences and remedial measures if there is strong correlation between the 
+explanatory variables. Unit 11 delas with the problem of heteroscedasticity where variance of 
+the stochastic error term is not constant across observations. Unit 12 acquaints you with the 
+
+
+--- Page 7 ---
+consequences and remedial measures of errors in dependent and independent variables. Unit 
+13 discusses the issues when the explanatory variable is correlated with the stochastic error 
+term – the endogeneity problem. In this Unit, the student is introduced to the instrumental 
+variable (IV) method and the two-stage least squares (2SLS) method.  
+Block 4, entitled Extensions of Regression Models , is devoted to two issues – qualitative 
+variables, and simultaneity bias. It comprises three Units. Unit 14 deals with the issues 
+related to the introduction of dummy variables as explanatory variables. Unit 15, on the other 
+hand, deals with issues related to the introduction of dummy variable as dependent variable in 
+regression model. In this Unit, students will get to learn about the logit model and the probit 
+model. Unit 16 introduces the students to possible problems if an equation is estimated by the 
+OLS method, when the equation in fact is a part of an equation system. The issues of 
+endogenous explanatory variables and simultaneity bias are highlighted in this Unit.  
+After going through MECE 101, students may opt for the course MECE 102: Advanced 
+Econometric Methods. As the name suggests, MECE 102 deals with advanced topics such as 
+time series analysis and panel data models.  
+
+
+--- Page 8 ---
+UNIT 1   INTRODUCTION TO ECONOMETRICS  
+Structure 
+1.0  Objectives 
+1.1  Introduction 
+1.2  Nature of Econometrics 
+1.2.1  Theoretical Econometrics and Applied Econometrics 
+1.2.2  Econometric Models 
+1.2.3  Important Steps in an Econometric Study 
+1.3  Specification of an Econometric Model 
+2.3.1  Deterministic Relationship 
+2.3.2  Stochastic Relationship 
+2.3.3  Inclusion of Error Variable 
+1.4 Data Generation Process 
+1.5  Functional Forms 
+1.5.1  Classical Regression Model 
+1.5.2  Intrinsically Linear Cases 
+1.6  Software Packages for Econometric Analysis 
+1.7 Let Us Sum Up 
+1.8 Key Words 
+1.9 Some Useful Books  
+1.10 Answers/Hints to Check Your Progress Exercises 
+1.0 OBJECTIVES 
+After going through this Unit, you would be in a position to 
+ explain why we should study econometrics; 
+ appreciate the scope of econometrics; 
+ point out the important steps in an econometric study; 
+ distinguish between deterministic relationship and stochastic relationship 
+among variables; 
+ identify reasons for inclusion of error variable in a regression model; 
+ 
+ 
+ 
+ Prof. Kaustuva Barik, Indira Gandhi National Open University, New Delhi 

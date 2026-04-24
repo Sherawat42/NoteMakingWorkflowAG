@@ -1,0 +1,493 @@
+--- Page 11 ---
+ 
+ 
+ 
+154 
+Violations of Basic 
+Assumptions 
+Adjusted-R2  
+As a penalty for adding regressors to increase the 𝑅ଶ value, the concept of 
+adjusted-𝑅ଶ , denoted by 𝑅തଶ has been introduced. 
+𝑅തଶ = 1 −
+ோ௘௦௜ௗ௨௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦ ௡ି௞⁄
+௧௢௧௔௟   ௦௨௠  ௢௙  ௦௤௨௔௥௘௦ ௡ିଵ⁄ = 1 − (1 − 𝑅തଶ )
+௡ିଵ
+௡ି௞   … (8.21) 
+where n is the sample size, and k is the number of explanatory variables. From 
+(8.21) we see that 𝑅തଶ ≤ 𝑅ଶ . It indicates that the adjusted- 𝑅ଶ penalizes for adding 
+regressors. There is an increase in the value of Adjusted-𝑅 ଶ  only if the absolute t-
+value of the added regressor is greater than 1. Hence 𝑅തଶ  ensures meaningful and 
+valid comparisons. Remember that comparison between models is possible for 
+the same dependent variables. If dependent variables are different, we cannot 
+compare among models. 
+8.5.2 The AIC and SIC Criteria 
+The Akaike Information Criterion (AIC) criterion is based on the maximum 
+likelihood estimation of regression models. We consider a small number of 
+regression models based on economic theory. We find out the value of the log-
+likelihood function of each model. The AIC criterion is based on the idea of 
+imposing a penalty for adding regressors. 
+𝐴𝐼𝐶 = 𝑒ଶ௞ ௡⁄ ∑ ௨ෝ ೔
+మ
+௡ = 𝑒ଶ௞ ௡⁄ ௥௘௦௜ௗ௨௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦
+௡    … (8.22) 
+where k is the number of regressors (including the intercept) and n is the number 
+of observations.  
+For mathematical convenience, we can write 
+𝑙𝑛 𝐴𝐼𝐶 = ቀ
+ଶ௞
+௡ ቁ + 𝑙𝑛 ቀ
+௥௘௦௜ௗ௨௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦
+௡ ቁ    … (8.23) 
+where 𝑙𝑛 𝐴𝐼𝐶 = natural log of AIC and ቀ
+ଶ௞
+௡ ቁ = penalty factor. 
+We find out the value of ‘ ln AIC ’ according to equation (8.23) for all the 
+contending models.We compare the value of ‘ ln AIC’  of the models, and the 
+model with the lowest value of AIC is preferred. The advantages of AIC over the 
+coefficient of determination (𝑅ଶ ) are as follows: (i) AIC criterion is useful for not 
+only the in-sample but also the out-of-sample forecasting performance. (ii) AIC 
+criterion can be used for both nested and non-nested models. (iii) AIC criterion 
+can also help in determining the lag length in an AR(p) model. 
+Schwartz Information Criterion (SIC) 
+The SIC criterion is also based on the method of maximum likelihood estimation. 
+It is also called the Bayesian Information Criterion (BIC), or the Schwartz 
+Bayesian Criterion (SBC). The SIC criterion, as in the case of adjusted- 𝑅ଶ  and 
+the AIC criterion, penalises regression models having larger number of 
+regressors.  
+The SIC is defined as: 
+SIC = 𝑛௞ ௡⁄ ∑ ௨ෝ మ
+௡
+ =  𝑛௞ ௡⁄ ௥௘௦௜ௗ௨௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦
+௡    … (8.24) 
+
+
+--- Page 12 ---
+ 
+ 
+ 
+155 
+Model Specification 
+Issues 
+The above can be expressed in log-form as  
+ln SIC =  
+௞
+௡ ln 𝑛 + ln
+௥௘௦௜ௗ௨௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦
+௡     … (8.25) 
+where [ (𝑘 𝑛⁄ ) ln 𝑛] is the penalty factor. A lower value of SIC implies a better 
+model. The SIC, like AIC, can also be used for comparison of both in-sample and 
+out-of-sample forecasting performance of the model.  
+8.5.3 Mallow’s 𝑪𝒑 Criterion 
+Mallow’s 𝐶௣ criterion for model selection is defined as  
+𝐶௣ =  
+ோௌௌ ೛
+ఙෝ మ − (𝑛 − 2𝑝)      … (8.26) 
+where n is the number of observations, total regressors are k out of which only p 
+are included in the model and 𝑅𝑆𝑆௣  is the residual sum of squares obtained from 
+p (included) regressors. 𝐸(𝜎ොଶ ) is the unbiased estimator of the true 𝜎ଶ . If the 
+model with only p regressors is the true model, then 𝐸(𝑅𝑆𝑆௣ ) = (n −
+p)𝜎ଶ .Therefore, (8.26) is approximately equal to  
+𝐸൫𝐶௣ ൯ ≈  
+(௡ି௣ )ఙ మ
+ఙ మ − (𝑛 − 2𝑝) ≈ 𝑝     … (8.27) 
+While choosing a regression model according to the 𝐶௣ criterion, a model with a 
+lower𝐶௣ value is selected, about equal to p. To put it differently, following the 
+principle of parsimony, we will choose a model with p regressors (p<k) that gives 
+a fairly good fit to the data. 
+8.6 CAUTION ABOUT MODEL SELECTION 
+CRITERIA  
+We highlighted earlier that econometric models should be grounded in economic 
+theory and reasoning. Hence, when refining an econometric model, it is 
+important to consider the theoretical justification for including or omitting a 
+variable. To ensure a properly defined model, it is essential to go through earlier 
+studies to grasp the theoretical principles. Additionally, the quality of the model 
+we develop is contingent upon the quality of the data we gather. If the data 
+collected is free from issues like multicollinearity or autocorrelation, we are more 
+likely to end up with a stronger model. 
+Many a time, we observe certain relationship between two variables. Such 
+relationships, however, may be superficial or spurious. Let us take an example. 
+At a traffic light, cars stop when the signal is red. It does not mean that cars 
+cannot move when there is a red light in front of them. It also does not mean that 
+traffic lights have some damaging effect on moving cars. The reason is 
+observance of traffic rules. Unless we look into the traffic rules and go by 
+observation only, our reasoning will be wrong. The dependent variable and the 
+independent variable both may be affected by another variable. In such cases the 
+relationship is ‘confounded’. Confounded relationship indicates a situation where 
+a variable, Z, affects two other variables, X and Y, in such a way that we observe 
+
+
+--- Page 13 ---
+ 
+ 
+ 
+156 
+Violations of Basic 
+Assumptions 
+certain association between X and Y. In the example given above traffic rules 
+affect the working of traffic lights as well as car drivers.  
+You should note one more issue regarding selection of econometric models. 
+Different test criteria may suggest different models. For example, economic logic 
+suggests that there could be two possible econometric models (say, model A and 
+model B) for a particular issue. You may come across a situation such that 𝑅തଶ  
+test suggests model A and AIC criterion suggest model B. In such situations you 
+should carry out several tests and then only chose the best model.  
+Adjusted- 𝑅ଶ , Mallows 𝐶௣ , p-values, etc. may point to different regression 
+equations without much clarity to the econometrician. Thus, we conclude that 
+none of the methods for model selection listed above are adequate by itself. 
+There is no substitute to theoretical understanding of the related literature, 
+accurately collected data, practical understanding of the problem, and common 
+sense while specifying an econometric model.  
+CHECK YOUR PROGRESS 2 
+1)  Explain how the RESET is applied.  
+.......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+....................................................................................................................... 
+2)  What are the limitations of RESET?  
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+3)  What precaution one should one take while dealing with model selection 
+criteria?  
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+8.7  LET US SUM UP 
+Correct specification of an econometric model determines the accuracy of the 
+estimates obtained. Therefore, correct specification of an econometric model is 
+
+
+--- Page 14 ---
+ 
+ 
+ 
+157 
+Model Specification 
+Issues 
+very important. Economic theory and logic guide us in specification of 
+econometric models. In order to correctly specify an econometric model, all 
+relevant explanatory variables should be included in the model. No relevant 
+explanatory variable should be excluded from the model. Further, the functional 
+form of the model should be correct.  
+Selection of an appropriate econometric model is a difficult task. We have to take 
+into account economic theory and logic behind the econometric model. There 
+could be many competing models for a particular issue. There are certain criteria 
+on the basis of which the best econometric model is selected. These criteria could 
+be 𝑅തଶ , AIC, SIC, and Mallow’s C p.We have described the formulae for these test 
+criteria in the Unit.  
+8.8 KEY WORDS 
+Bias : The difference between the expected value of an estimator 
+and the population parameter that the estimator is supposed 
+to be estimating. 
+RESET : RESET is used to test for the presence of error in model 
+specification, particularly its functional form. The RESET 
+is based on F-test.   
+AIC Criterion : If there are k number of explanatory variables in a 
+regression model, then 
+𝑙𝑛 𝐴𝐼𝐶 = ቀ
+ଶ௞
+௡ ቁ + 𝑙𝑛 ቀ
+௥௘௦௜ௗ௨௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦
+௡ ቁ . The AIC 
+criterion is used in model selection among competing 
+regression models. 
+SIC Criterion :
+ The SIC criterion is used in model selection among 
+competing regression models. If n is the sample size and k 
+is the number of regressors in a model, then SIC = 
+𝑛௞ ௡⁄ ∑ ௨ෝ మ
+௡  =  𝑛௞ ௡⁄ ௥௘௦௜ௗ௨௔௟  ௦௨௠  ௢௙  ௦௤௨௔௥௘௦
+௡  
+8.9 SOME USEFUL BOOKS 
+Dougherty, C. (2011). Introduction to Econometrics , Fourth Edition, Oxford 
+University Press 
+Gujarati, D N and D C Porter (2009), Basic Econometrics , Fifth Edition, 
+McGraw Hill 
+Johnston, J., Dinardo, J. (2007), “ Econometric Methods”, 4 th Edition, McGraw-
+Hill Education (Asia), International Edition, pp. 109-125 
+Maddala, G. S. and K. Lahiri (2009), Introduction to Econometrics , Fourth 
+Edition, John Wiley and Sons 
+
+
+--- Page 15 ---
+ 
+ 
+ 
+158 
+Violations of Basic 
+Assumptions 
+Wooldrige, Jeffrey (2022), Introductory Econometrics, Seventh Edition, Cengage 
+Learning  
+8.10 ANSWERS/ HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) The basic assumptions of the classical regression model are as follows:  
+a)  The regression model is linear in parameters 
+a) 𝐸(𝑋௜𝑢௜) = 0 (regressor is non-stochastic)  
+b) 𝐸(𝑢௜) = 0 
+c) 𝐸(𝑢௜)ଶ = 𝜎ଶ  
+d) 𝐸൫𝑢௜𝑢௝൯ = 0 for 𝑖 ≠ 𝑗 
+e) The explanatory variables (𝑋௜) are independent of one another. 
+2) Go through Section 8.2. It is important because incorrect specification has 
+serious implications on desirable properties of the estimators. Therefore, 
+inferences drawn from mis-specified models are not correct. 
+3) The major sources of specification error are: (i) inclusion of redundant/ 
+superfluous/ irrelevant variables, (ii) omission of relevant variables, (iii) 
+incorrect functional form, (iv) incorrect assumption regarding the error 
+term, and (v) error in measurement of variables. 
+4) Due to inclusion of irrelevant variables in a model, we obtain unbiased but 
+inefficient least squares estimators of the parameters. The larger variance 
+reduces the precision of the estimates resulting in wider confidence 
+intervals. This may lead to type II error. 
+5)  When a relevant variable is dropped from the model, we obtain biased 
+estimators of the parameters and there is a decline if the efficiency of the 
+estimators. The estimator of error variance is higher, as a result of which 
+tests of hypothesis are invalid. Therefore, the inferences drawn are faulty. 
+Check Your Progress 2 
+1)   Go through Section 8.4 and answer. 
+2)  The RESET leaves us with much ambiguity. It does not tell us the next 
+course of action.  
+3) Go through Section 8.6 and answer.  
+ 
+
+
+--- Page 16 ---
+UNIT 9 AUTOCORRELATION 
+Structure 
+9.0  Objectives 
+9.1  Introduction 
+9.2  What is Autocorrelation? 
+9.3  Consequences of Autocorrelation  
+ 9.3.1 Unbiasedness 
+ 9.3.2 Minimum Variance 
+ 9.3.3 Unbiasedness of Var( 𝛽መ)OLS 
+9.4  Detection of Autocorrelation 
+ 9.4.1 Residual Plot 
+ 9.4.2 Durbin-Watson (DW) Test 
+ 9.4.3 Breusch -Godfrey (BG) Test 
+9.5  Remedial Measures 
+9.6 Methods of Estimating ρ 
+9.7 Let Us Sum Up 
+9.8 Key Words 
+9.9 Some Useful Books/References 
+9.10 Answers/Hints to Check Your Progress Exercises 
+9.0  OBJECTIVES 
+After going through this unit, you should be in a position to 
+ identify the problem of autocorrelation in regression analysis, 
+ explain how the problem of autocorrelation affects the estimators of the 
+regression model parameters,  
+ explain the various methods available to detect autocorrelationin a 
+dataset, and  
+ suggest remedial measures for the problem of autocorrelation. 
+9.1  INTRODUCTION 
+An importantassumption of the classical regression model is that the error terms 
+𝑢௜ are independent of one another. However, this may not be true always and in 
+certain cases the error terms may be related to one another. In notations,  
+ 
+ 
+Dr. Priti Agarwal, O P Jindal Global University, Sonipat 
+
+
+--- Page 17 ---
+ 
+ 
+ 
+160 
+Violations of Basic 
+Assumptions 
+𝐸(𝑢௜, 𝑢௝) ≠ 0; 𝑖 ≠ 𝑗        …(9.1) 
+We find several examples in our day to day life where the successive 
+observations appear to follow a natural order over time. The upward or 
+downward trend in time series data generally has an in-built momentum which 
+makes successive observations interdependent. Hence, the successive error terms 
+may be correlated. For example, the BSE Sensex may be seen moving upwards 
+or downwards for successive days. In this Unit we deal mainly with correlation 
+between error terms in time series data. 
+9.2  CONCEPT OF AUTOCORRELATION 
+There are two ways in which the error terms may be correlated:  
+Spatial correlation : It is the correlation between error terms in cross-sectional 
+data. For instance, recall the demonstration effect, which says that consumption 
+behaviour of households is affected by that of their neighbours (at times termed 
+as “keeping up with the Joneses” effect). Households try to match or keep up to 
+the standards of their neighbours. Thus, in a household study, the error terms may 
+be found to be correlated. In the present Unit, however, we do not discuss issues 
+related to spatial correlation. 
+Serial correlation or Autocorrelation: In time series data, the correlation between 
+error terms is known as autocorrelation or serial correlation. There are various 
+reasons why time series data may exhibit autocorrelation. The series may be non-
+stationary (mean, variance and covariance do not remain constant over time) 
+which causes the error terms to be correlated. Omission of a relevant variable 
+from the model is also captured by the error term causing them to be correlated. 
+Even specifying an incorrect functional form (for instance, fitting a linear cost 
+function instead of a cubic function) will cause the error terms to be correlated 
+with one another. Sometimes the explained variable depends on its lagged values. 
+For instance, current consumption depends on past consumption as consumption 
+habits are slow to change. In such cases we need to include lagged value of 
+consumption as explanatory variable. If the lagged variable is not included, the 
+error term may capture that effect resulting in correlation between the error 
+terms. Interpolation and extrapolation of data may also cause residuals to follow 
+a systematic pattern. 
+Technically, 𝑢௧ିଶ , 𝑢௧ିଵ , 𝑢௧, 𝑢௧ାଵ , 𝑢௧ାଶ …. may be correlated to one another. Here, 
+‘𝑢’ denotes the error term and the subscript denotes the time period. We have 
+changed the subscripts to ‘ t’ keeping the view the fact that autocorrelation takes 
+place mostly in time series data. First order autocorrelation is correlation between 
+𝑢௧ and 𝑢௧ିଵ . Second order autocorrelation is correlation between 𝑢௧ and 𝑢௧ିଶ  and 
+so on. Autocorrelation of order ‘ k’ is the correlation between 𝑢௧and 𝑢௧ି௞ . For ‘n’ 
+observations, there could be (𝑛 − 1) autocorrelations.  
+
+
+--- Page 18 ---
+ 
+ 
+ 
+161 
+Autocorrelation 9.3 CONSEQUENCES OF AUTOCORRELATION 
+In the presence of autocorrelation, the OLS estimators are:  
+ Linear  
+ Unbiased  
+ Asymptotically normally distributed 
+The variance of the estimators, however, gets affected. Thus in the presence of 
+autocorrelation, the OLS estimator 𝛽መ is not the best linear unbiased estimator 
+(BLUE). It implies that the usual tests of significance discussed in Units 3 and 4 
+cannot be applied. We discuss further on each of the above propositions.  
+9.3.1 Unbiasedness 
+Let𝑦௧ =  𝛽𝑥௧ + 𝑢௧       … (9.2) 
+Let us denote the OLS estimator of𝛽 by 𝛽መ. 
+We know from Unit 3 that 
+ 𝛽෡ =
+∑ ௫ ೟ ௬ ೟
+∑ ௫ ೟ మ
+ = 𝛽 +
+∑ ௫ ೟ ௨ ೟
+∑ ௫ ೟ మ       … (9.3) 
+In the presence of autocorrelation, the assumptions 𝐸(𝑢௧) = 0 and 𝐸(𝑥௧𝑢௧) =
+0continue to be true. 
+Thus, 𝐸 ቀ
+∑ ௫ ೟ ௨ ೟
+∑ ௫ ೟ మ ቁ = 0 
+Hence, 𝐸(𝛽መ) =  𝛽 
+That is, 𝛽መ is unbiased.  
+9.3.2 Minimum Variance 
+In order to derive the variance of 𝛽መin the presence of autocorrelation, let us 
+consider a two-variable regression model 𝑦௧ =  𝛽𝑥௧ + 𝑢௧  and assume that the 
+error terms are auto-correlated. In notations, 
+𝐸(𝑢௧, 𝑢௧ା௦ ) ≠  0 ( 𝑠 ≠  0)  
+We assume that the error term follows a ‘ first order auto-regressive’ or AR(1) 
+process such that 
+𝑢௧ =  𝜌𝑢௧ିଵ  + 𝜀௧        …(9.4) 
+In the above AR(1) process, we assume that current error ( 𝑢௧) equals certain 
+proportion of previous error ( 𝑢௧ିଵ  ) plus a random shock ( 𝜀௧ ). Here, ‘ρ’ is the 
+coefficient of autocovariance or first order coefficient of autocorrelation.  The 
+random shock 𝜀௧ satisfies the usual OLS assumptions.  
+𝐸(𝜀௧) = 0  
+𝑉𝑎𝑟(𝜀௧) = 𝜎ఌ ଶ , and  
+
+
+--- Page 19 ---
+ 
+ 
+ 
+162 
+Violations of Basic 
+Assumptions 
+𝐶𝑜𝑣(𝜀௧, 𝜀௧ା௦ ) =  0;  𝑠 ≠  0       …(9.5) 
+The random shock ( 𝜀௧) which satisfies the above properties is usually called the 
+white noise. The error terms 𝑢௧ can be correlated in many forms. For instance, an 
+AR(2) process is given by 
+𝑢௧ =  𝜌ଵ 𝑢௧ିଵ  + 𝜌ଶ 𝑢௧ିଵ  +  𝜀௧  
+Here 𝑢௧ depends upon error terms of previous two periods. Similarly, an AR(3) 
+process is given by 
+𝑢௧ =  𝜌ଵ 𝑢௧ିଵ  + 𝜌ଶ 𝑢௧ିଵ + 𝜌ଷ 𝑢௧ିଶ  + 𝜀௧ 
+and so on.  
+Sometimes, the error term 𝑢௧  follows a Moving Average (MA) process. For 
+instance, a first order moving average process is given by MA(1) where, 
+𝑢௧ =  𝜀௧ + 𝜌ଵ 𝜀௧ିଵ         … (9.6) 
+Here 𝑢௧ depends upon the white noise of previous period. We will discuss further 
+on AR and MA processes in Unit 18 of this course. In order to keep matters 
+simple, in the present Unit, we assume that the error term follows an AR(1) 
+process. 
+(a) 𝑽𝒂𝒓(𝒖𝒕)  
+For an AR(1) process the variance of the error term is given by, 
+𝑣𝑎𝑟(𝑢௧) = 𝑣𝑎𝑟 (𝜌𝑢௧ିଵ  +  𝜀௧ ) = 𝜌ଶ 𝑣𝑎𝑟 (𝑢௧ିଵ ) + 𝑣𝑎𝑟(𝜀௧)  
+Recall from equation (9.3) that 𝑣𝑎𝑟(𝜀௧) = 𝜎ఌ ଶ . 
+Since 𝑣𝑎𝑟 (𝑢௧) = 𝑣𝑎𝑟 (𝑢௧ିଵ  ) = 𝜎ଶ , the above equation can be written as  
+𝜎ଶ = 𝜌ଶ 𝜎ଶ +  𝜎ఌ ଶ  
+On re-arranging terms in the above equation we obtain 
+𝜎ଶ − 𝜌ଶ 𝜎ଶ =  𝜎ఌ ଶ  
+or, 𝜎ଶ (1 − 𝜌ଶ ) =  𝜎ఌ ଶ  
+This gives us, 𝑣𝑎𝑟(𝑢௧) = 𝜎ଶ =
+ఙ ഄ మ
+(ଵିఘ మ )
+    …(9.7) 
+In equation (9.7), the variance of the error term (𝑢௧) is homoscedastic even 
+though the error terms are correlated.  
+(b) 𝑪𝒐𝒗 (𝒖𝒕, 𝒖𝒕ି 𝟏)  
+Covariance between𝑢௧ and 𝑢௧ିଵ  is given by  
+𝐶𝑜𝑣 (𝑢௧, 𝑢௧ିଵ ) = 𝐸{𝑢௧−𝐸(𝑢௧)}{𝑢௧ିଵ − 𝐸(𝑢௧ିଵ )} 
+Since 𝐸(𝑢௧) = 𝐸(𝑢௧ିଵ ) = 0, the covariance of the error term, 𝐶𝑜𝑣 (𝑢௧, 𝑢௧ିଵ ), is 
+given by  
+
+
+--- Page 20 ---
+ 
+ 
+ 
+163 
+Autocorrelation 𝐶𝑜𝑣 (𝑢௧, 𝑢௧ିଵ ) = 𝐸(𝑢௧𝑢௧ିଵ )  
+On successive substitution we find that 
+𝐸(𝑢௧𝑢௧ିଵ ) = 𝐸(𝜌𝑢௧ିଵ  
+ଶ +  𝜀௧𝑢௧ିଵ  ) = 𝜌𝐸(𝑢௧ିଵ  
+ଶ ) = 𝜌
+ఙ ഄ మ
+(ଵିఘ మ )  ... (9.8) 
+[Notice that in an AR(1) process 𝑢௧ିଵ   is not influenced by 𝜀௧  as the former 
+occurs in the earlier time period;thus 𝐸(𝜀௧𝑢௧ିଵ  ) = 0] 
+Similarly, 𝑐𝑜𝑣 (𝑢௧, 𝑢௧ିଶ ) = 𝜌ଶ ఙ ഄ మ
+(ଵିఘ మ ) 
+In general terms we can write that 
+𝑐𝑜𝑣 (𝑢௧, 𝑢௧ି௦ ) = 𝜌௦ ఙ ഄ మ
+(ଵିఘ మ )      … (9.9) 
+We need to assume here that |ρ| <1, otherwise the variance and covariance given 
+above are undefined. In case |ρ| ≥1, we encounter is the popular ‘unit root 
+problem’ (see Unit 17 for further discussion on this). 
+(c) 𝑽𝒂𝒓(𝜷෡ )𝑨𝑹(𝟏) 
+We know from Unit 3 that in the classical regression model the OLS estimator 
+for variance of 𝛽መ, say  𝑉𝑎𝑟(𝛽መ)ை௅ௌ =
+ఙ మ
+∑ ௫ ೟ మ 
+The underlying assumption is that the error terms are not correlated, i.e., 
+𝐸(𝑢௧, 𝜀௧ା௦ ) = 0 ; 𝑠 ≠ 0 
+When this assumption is violated, and 𝑢௧ follows an AR process, the variance 
+and covariance of 𝑢௧ are as follows:  
+𝑣𝑎𝑟(𝑢௧)= 
+ఙ ഄ మ
+(ଵିఘ మ ) 
+𝑐𝑜𝑣 (𝑢௧, 𝑢௧ି௦ ) = 𝜌௦ ఙ ഄ మ
+(ଵିఘ మ ) 
+Recall that the OLS estimator of 𝛽, that is, 𝛽መ =
+∑ ௫ ೟ ௬ ೟
+∑ ௫ ೟ మ  = 𝛽 +
+∑ ௫ ೟ ௨ ೟
+∑ ௫ ೟ మ  
+Hence, 𝑣𝑎𝑟൫𝛽መ − 𝛽൯ = 𝑣𝑎𝑟 ቀ
+∑ ௫ ೟ ௨ ೟
+∑ ௫ ೟ మ ቁ = 𝐸(
+∑ ௫ ೟ ௨ ೟
+∑ ௫ ೟ మ )ଶ    
+For AR(1) process, 𝑣𝑎𝑟(𝛽መ)஺ோ (ଵ )is given by 
+𝐸(
+∑ ௫ ೟ ௨ ೟
+∑ ௫ ೟ మ )2 = 
+ଵ
+(∑ ௫ ೟ మ ) మ 𝑣𝑎𝑟(∑ 𝑥௧ 𝑢௧)     ... (9.10) 
+We retain the assumption that variable 𝑥௧ is non-stochastic and E(𝑥௧𝑢௧) = 0 .  
+Thus, 𝐸(
+∑ ௫ ೟ ௨ ೟
+∑ ௫ ೟ మ )2 =  
+ଵ
+(∑ ௫ ೟ మ ) మ (𝜎ଶ ∑ 𝑥௧ 
+ଶ +2𝐶𝑜𝑣(𝑢௧, 𝑢௧ିଵ )∑ 𝑥௧ 𝑥௧ିଵ +2𝐶𝑜𝑣(𝑢௧, 𝑢௧ିଶ )∑ 𝑥௧ 𝑥௧ିଶ  + ...) 
