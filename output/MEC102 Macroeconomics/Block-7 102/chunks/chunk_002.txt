@@ -1,0 +1,460 @@
+--- Page 11 ---
+ 
+288 
+ 
+Fiscal Policy and 
+Macroeconomics 
+and parliament, automatically raise aggregate expenditure in times of recession 
+and reduce it in times of boom, thus ensuring economic stability. These fiscal 
+measures are therefore called automatic stabilizers or built-in stabilizers. Since 
+these stabilizers are built into the budget and do not require any deliberate action 
+by the government, they represent non-discretionary fiscal policy. Built in 
+stability of tax revenue and government expenditure of transfer payments and 
+subsidies is created because they vary with national income. These taxes and 
+transfers automatically bring about appropriate changes in the aggregate 
+expenditure and reduce the impact of recession and inflation. This means that 
+recession and inflation will be less intense with the operation of the automatic 
+stabilizers. Let us understand how taxes and transfers work to reduce the 
+fluctuations of business cycles. 
+18.4.1 Income Taxes 
+At given net tax rates, a fall in national income, output, and employment reduces 
+tax collections. In other words, when national income declines at times of 
+recession, the tax revenue declines as well. This prevents aggregate expenditure 
+from falling by the same proportion as the decline in income because the 
+disposable income changes by less than the change in national income. The slope 
+of the aggregate expenditure function ( c(1−t)−m) is lower, and so is the 
+multiplier. Conversely, in a boom, net tax revenues rise and disposable income 
+rises by less than the rise in national income, which helps dampen the boom.  
+18.4.2 Transfer Payments 
+When there is recession and as a result unemployment increases, the Government 
+has to spend more on compensation for unemployment and other welfare 
+programmes such as food stamps, rent-subsidies, subsidies to farmers. This hike 
+in Government expenditure tends to make recession short-lived and less intense. 
+On the other hand, when at times of boom and inflation, national income 
+increases and therefore unemployment falls, the Government curtails its 
+programme of social benefits which results in lowering Government expenditure. 
+This smaller government spending helps to rein in inflation.  
+18.4.3 Discretionary vs. Non-Discretionary Measures 
+It follows from the above discussion that automatic stabilizers reduce the 
+intensity of business fluctuations that is, both recession and inflation. By 
+reducing the sensitivity of the economy to expenditure shocks, automatic 
+stabilizers are always at work reducing the size of output and employment 
+fluctuations. However, automatic stabilizers only serve to moderate the 
+fluctuations in real GDP caused by fluctuations in autonomous expenditure. They 
+do not offset those autonomous expenditure disturbances. There is no automatic 
+
+
+--- Page 12 ---
+ 
+289 
+ 
+Fiscal Policy change in autonomous government expenditure or tax rates. Those changes 
+usually come from discretionary fiscal policy. 
+Fig 18.6 shows how the budget balance gets affected as a result of the operation 
+of non-discretionary and discretionary fiscal policies. A government budget 
+function 𝐵𝐵଴ = 𝑡଴ 𝑌 + 𝐺଴   and a structural budget balance 𝑆𝐵𝐵଴  at potential 
+output ( 𝑌௙ ) is shown in Fig. 18.6. This budget function represents a fiscal 
+program. Automatic stabilization is a part of this program. It comes from the 
+slope of the budget function , the net tax rate 𝑡଴  in this case. Automatic 
+stabilization works by changing the budget balance along the BB 0 line as income 
+fluctuates between Y1 and Y2. On the other hand, discretionary stabilization shifts 
+the budget function as a result of changes in government expenditure or taxes. 
+ 
+Fig 18.6: Automatic and Discretionary Fiscal Policy 
+BB 
+Y2 
+BB2 
+                       Output Y 
+Fig 18.6 shows Automatic stabilization comes from changes in the 
+budget balance along the BB0 line as Y fluctuates between Y1 and Y2. 
+Discretionary stabilization  shifts the budget function as a result of 
+changes in government expenditure or taxes. 
+BB>0 
+BB=0 
+BB<0 Discretionary  
+Stabilization  
+Automatic  
+Stabilization  
+Y1 
+BB0=t0Y-G0 
+-G0 
+SBB0=0 
+Yf 
+
+
+--- Page 13 ---
+ 
+290 
+ 
+Fiscal Policy and 
+Macroeconomics 
+ 
+Check Your Progress 3 
+1) What is the difference between discretionary and non-discretionary 
+fiscal policy? 
+....................................................................................................................
+....................................................................................................................
+....................................................................................................................
+....................................................................................................................
+....................................................................................................................  
+2) What problems does the government face in implementation of 
+discretionary fiscal policies? 
+...................................................................................................................
+...................................................................................................................
+...................................................................................................................
+...................................................................................................................
+................................................................................................................... 
+18.5  LET US SUM UP 
+By fiscal policy we mean automatic and discretionary changes by the government 
+in taxation, public expenditure and borrowing in order to achieve the intended 
+goals of economic growth, full employment, income equality and the 
+stabilization of the economy in its growth path. To carry out these objectives 
+government make use of discretionary and non-discretionary policy measures. 
+Non discretionary policy measures operate automatically and get triggered by the 
+state of the economy. On the other hand, discretionary fiscal policy requires 
+deliberate action by the government to manage aggregate demand. In this chapter 
+we have examined whether policy should take an active or passive role in 
+responding to economic fluctuations. There are many arguments on both sides of 
+these questions. Perhaps the only clear conclusion is that there is no simple and 
+compelling case for any particular view of macroeconomic policy. The existence 
+of various kinds of time lags, or delays in the response of the economy to 
+discretionary policies, can make the economy difficult to control. Automatic 
+stabilizers on the other hand do not suffer from time lags as they are built into the 
+budget program by setting the net tax rate, and work automatically.  But 
+automatic fiscal stabilizers only reduce the impact of changes in autonomous 
+expenditure. They do not offset them. Hence, both policy measures should be 
+used in tandem to reduce the fluctuations in output and prices. 
+
+
+--- Page 14 ---
+ 
+291 
+ 
+Fiscal Policy 18.8  ANSWERS TO CHECK YOUR PROGRESS 
+ EXERCISES 
+Check Your Progress 1 
+1)  Fiscal policy is demand management policy. Taxes, transfer payments, and 
+government expenditures on goods and services are the tools of fiscal policy. 
+2)  At the time of recession the Government increases its expenditure or cuts 
+down taxes or adopts a combination of both. On the other hand, to control 
+inflation the Government cuts down its expenditure or raises taxes. 
+ 
+Check Your Progress 2 
+1)  Refer to Fig. 18.2 and Fig. 18.3 
+ 
+Check Your Progress 3 
+1)  By discretionary fiscal policy we mean deliberate change in government 
+expenditure and taxes to influence the level of national output and prices. On 
+the other hand, non discretionary fiscal policy of automatic stabilizers is a 
+built-in tax or expenditure mechanism that automatically increases or 
+decreases the aggregate demand as desired. 
+2)  The existence of various kinds of time lags such as recognition lags, 
+implementation lags, and response lags create problems in successful 
+implementation of discretionary fiscal policies.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 15 ---
+ 
+UNIT 19  FISCAL SUSTAINABILITY 
+Structure 
+19.0  Objectives 
+19.1  Introduction 
+19.2  Government’s Budget Constraint and Budget Deficit 
+19.3  Current versus Future Taxes 
+           19.3.1 Full Repayment in Year 2 
+           19.3.2 Full Repayment in Year  t 
+           19.3.3 Debt Stabilization in Year  t 
+         19.3.4 Debt-GDP Ratio 
+19.4  The Dangers of High Debt 
+           19.4.1 Debt Default 
+           19.4.2 Lessons from the Past 
+ 19.5  Money Finance 
+19.6  Effects of a Decrease in Budget Deficit    
+19.7  Let Us Sum Up 
+19.8  Answers/ Hints to Check Your Progress Exercises 
+19.0  OBJECTIVES 
+After going through this unit you will be in a position to 
+ derive the fiscal sustainability condition from the government budget 
+constraint; 
+ find out the effects of a fall in taxes and a rise in debt ratio on fiscal 
+sustainability;  
+ explain the consequences of high debt, debt default and debt monetization; 
+and 
+ identify the short run and long run effects of a decrease in budget deficit. 
+ 
+19.1  INTRODUCTION 
+Fiscal sustainability is defined as the government’s ability to meet its current and 
+future obligations, to maintain its current policies and satisfy its lifetime budget 
+constraint without defaulting on its debt obligations. It is thus the ability of a 
+government to maintain public finances at a credible and serviceable position 
+over the long term. Ensuring long-term fiscal sustainability requires that 
+governments engage in continual strategic forecasting of future revenues and 
+liabilities, environmental factors and socio-economic trends in order to adapt 
+ 
+ Dr. Archi Bhatia, Associate Professor, Ramjas College, University of Delhi 
+
+
+--- Page 16 ---
+ 
+293 
+ 
+Fiscal Sustainability financial planning accordingly. High and increasing debt levels are harmful to 
+governments’ fiscal positions and can cause a vicious cycle of growing debt, 
+reducing the potential for economic growth as funds are diverted away from 
+productive investments. One concept of fiscal sustainability relates to a 
+government’s ability to indefinitely maintain the same set of policies while 
+remaining solvent. If a particular combination of fiscal and monetary policies 
+would, if indefinitely maintained, lead to insolvency, these policies would be 
+referred to as unsustainable. In case the government cannot service the debt 
+(means repay the principal amount and interest accrued), there is a default on the 
+part of the government. Governments often change their policies if it becomes 
+clear that the government is heading towards a default on its debt. Thus, the focus 
+of fiscal sustainability analysis is not on default in debt servicing, which 
+governments tend to avoid but rather on the policy changes needed to avoid 
+eventual default.  
+19.2  GOVERMENT BUDGET CONSTRAINT AND 
+ BUDGET DEFICIT 
+The fundamental building block of fiscal sustainability analysis is the 
+government budget constraint, which is an identity. We must begin with a 
+definition of the budget deficit. One can assess whether fiscal policy is 
+sustainable by examining the size of long-term fiscal imbalances. Doing so 
+provides an early warning of explicit or implicit default and also indicates the 
+magnitude of the adjustments needed to preclude default. The main indicator of a 
+country’s fiscal imbalance is its annual official deficit – the difference between 
+annual expenditures (government purchases and transfer payments) and tax and 
+nontax receipts.  
+We can write the budget deficit in year t as 
+Budget Deficitt = rBt-1 + Gt – Tt        ...(19.1) 
+All variables are in real terms: 
+Bt-1 is government debt at the end of year t – 1, or, equivalently, at the beginning 
+of year t ; r is the real interest rate, which we shall assume to be constant here.  
+Thus, 
+rBt-1 equals the real interest payments on the government debt in year t. 
+Gt is government spending on goods and services during year t. 
+Tt is taxes minus transfers during year t. 
+We can rewrite (19.1) as 
+𝑩𝒕 − 𝑩𝒕ି 𝟏 = 𝒓𝑩𝒕ି 𝟏 + 𝑮𝒕 −  𝑻𝒕         ...(19.2) 
+𝑩𝒕 − 𝑩𝒕ି 𝟏 = 𝒓𝑩𝒕ି 𝟏 − 𝑿𝒕       ...(19.2a)  
+where 𝐵௧ is the quantity of public debt at the end of period t 
+
+
+--- Page 17 ---
+ 
+294 
+ 
+Fiscal Policy and 
+Macroeconomics 
+ 𝐵௧ − 𝐵௧ିଵ   is the issuance of debt in period t or deficit in period t. If the 
+government runs a deficit, government debt increases. If the government runs a 
+surplus, government debt decreases. 
+𝑋௧ is the primary balance which is equal to Tt – Gt    
+𝑟𝐵௧ିଵ  is the interest payment on debt where r is the real interest rate 
+The government budget constraint links the change in government debt to the 
+initial level of debt (which affects interest payments) and to current government 
+spending and taxes. It is often convenient to decompose the deficit into the sum 
+of two terms: 
+(i) Interest payment on the debt 𝑟𝐵௧ିଵ  
+(ii) The difference between taxes and Spending ( Tt – Gt ). This term is called 
+the ‘primary surplus’. 
+We can rewrite (19.2a) as 
+𝑩𝒕 = (𝑩𝒕ି 𝟏 + 𝒓𝑩𝒕ି 𝟏) − 𝑿𝒕                              ... (19.2b) 
+Intuitively the debt at the end of period t, that is 𝐵௧ , is equal to the sum of debt in 
+period (𝑡 − 1), that is 𝐵௧ିଵ , and the interest payments on this debt in period (𝑡 −
+1), that is 𝑟𝐵௧ିଵ  , less the primary surplus in period t, that is 𝑋௧. The net debt in 
+period t, (𝐵௧ − 𝐵௧ିଵ ) is thus equal to the interest payments on the debt in period 
+(𝑡 − 1), that is 𝐵௧ିଵ , less the primary surplus in period t, that is 𝑋௧ .  
+Check Your Progress 1 
+ 1) Explain the concept of government’s budget constraint. 
+ ..........................................................................................................................
+ ..........................................................................................................................
+ ..........................................................................................................................
+ .......................................................................................................................... 
+19.3  CURRENT VERSUS FUTURE TAXES 
+The sources of funds for a government are limited. There are two sources of 
+revenue for the government, viz., tax revenue and non-tax revenue, of which tax 
+revenue is the major source. Thus, in the analysis that follows we use the term 
+taxes to indicate the total revenue generated by the government. As we all know, 
+there is limited scope on the part of a government to increase tax revenue. The 
+change in taxes depends upon several factors such as growth rate in gross 
+domestic product (GDP), tax base, tax rate, etc.  
+Let us first consider a one-year decrease in taxes. Let us start from a situation 
+where, until year 1, the government has balanced its budget, so that initial debt is 
+equal to zero. During year 1, the government decreases taxes by 1 for one year. 
+Thus, debt at the end of year 1, B1, is equal to 1. Let us consider various 
+possibilities. 
+
+
+--- Page 18 ---
+ 
+295 
+ 
+Fiscal Sustainability 19.3.1 Full Repayment in Year 2 
+Suppose the government decides to fully repay the debt during year 2. From 
+(19.2), the budget constraint for year 2 is given by 
+𝑩𝟐 = (𝟏 + 𝒓)𝑩𝟏 +  𝑮𝟐 − 𝑻𝟐              ...(19.3) 
+If the debt is fully repaid during year 2, then the debt at the end of year 2 is equal 
+to zero: 𝐵ଶ = 0. Replacing 𝐵ଵ  by 1 and 𝐵ଶ  by 0 in equation (19.3) and 
+transposing terms gives 
+𝑻𝟐 − 𝑮𝟐 = (𝟏 + 𝒓)𝟏 = (𝟏 + 𝒓)             ...(19.4) 
+To repay the debt fully during year 2, the government must run a primary surplus 
+equal to (1 + 𝑟). It can be done in one of two ways, viz., (i) a decrease in 
+spending, and (ii) an increase in tax revenue. We shall assume here and in the rest 
+of this section that the adjustment comes through taxes, so that the path of 
+spending is unaffected. It follows that the decrease in taxes by 1 during year 1 
+must be offset by an increase in taxes by (1+r) during year 2. 
+19.3.2 Full Repayment in Year t 
+Now suppose the government decides to wait until year t to repay the debt. So, 
+from year 2 to year t-1, the primary deficit is equal to zero—taxes are equal to 
+spending. During year 2, the primary deficit is zero. So, from (19.3), debt at the 
+end of year 2 is: 
+𝑩𝟐 = (𝟏 + 𝒓)𝑩𝟏 + 𝟎 =  (𝟏 + 𝒓)𝟏 = (𝟏 + 𝒓)                       ...(19.5) 
+Where the second equality uses the fact that 𝐵ଵ = 1 
+With the primary deficit still equal to zero during year 3, debt at the end of year 3 
+is 
+𝑩𝟑 = (𝟏 + 𝒓)𝑩𝟐 + 𝟎 = (𝟏 + 𝒓)(𝟏 + 𝒓)𝟏 = (𝟏 + 𝒓)𝟐           ...(19.6) 
+Solving for debt at the end of year 4 and so on, it is clear that as long as the 
+government keeps a primary deficit equal to zero, debt grows at a rate equal to 
+the interest rate, and thus debt at the end of year t-1 is given by 
+𝑩𝒕ି 𝟏 =  (𝟏 + 𝒓)𝒕ି 𝟐                                                ... (19.7) 
+Despite the fact that taxes are cut only in year 1, debt keeps increasing over time, 
+at a rate equal to the interest rate. The reason is simple: Although the primary 
+deficit is equal to zero, debt is now positive, and so are interest payments on the 
+debt. Each year, the government must issue more debt to pay the interest on 
+existing debt. 
+In year t, the year in which the government decides to repay the debt, the budget 
+constraint is 
+𝑩𝒕 = (𝟏 + 𝒓)𝑩𝒕ି 𝟏 +  (𝑮𝒕 − 𝑻𝒕)                                    ...(19.8) 
+If debt is fully repaid during year t, then 𝐵௧ (debt at the end of year t) is zero. 
+Replacing 𝐵௧  by zero and 𝐵௧ିଵ  by its expression from (19.7), in equation (19.8) 
+gives   𝟎 = (𝟏 + 𝒓)(𝟏 + 𝒓)𝒕ି 𝟐  +  ( 𝑮𝒕 − 𝑻𝒕)            ...(19.9) 
+ 
+
+
+--- Page 19 ---
+ 
+296 
+ 
+Fiscal Policy and 
+Macroeconomics 
+Reorganizing and bringing  (𝐺௧ − 𝑇௧) to the left side of the equation implies 
+𝑻𝒕 − 𝑮𝒕 = (𝟏 + 𝒓)𝒕ି 𝟏                          ...(19.10) 
+To repay the debt, the government must run a primary surplus equal to (1 +
+𝑟)௧ିଵ  during year t. If the adjustment is done through taxes, the initial decrease in 
+taxes of 1 during year 1 leads to an increase in taxes of (1 + 𝑟)௧ିଵ  during year t. 
+This example yields our first set of conclusions: 
+1) If government spending is unchanged, a decrease in taxes must eventually 
+be offset by an increase in taxes in the future. 
+2) The longer the government waits to increase taxes, or the higher the real 
+interest rate is, the higher the eventual increase in taxes must be. 
+19.3.3 Debt Stabilization in Year t 
+We have assumed so far that the government fully repays the debt. Let us now 
+look at what happens to taxes if the government only stabilizes the debt. 
+(Stabilizing the debt means changing taxes or spending so that debt remains 
+constant from then on). Suppose the government decides to stabilize the debt 
+from year 2 on. Stabilizing the debt from year 2 on means the debt at the end of 
+year 2 and thereafter remains at the same level as it was at the end of year 1. 
+From equation (19.3), the budget constraint for year 2 is 
+𝑩𝟐 = (𝟏 + 𝒓)𝑩𝟏 +  𝑮𝟐 − 𝑻𝟐       
+Under our assumption that debt is stabilized in year 2, 𝐵ଶ =  𝐵ଵ = 1. Setting 
+𝐵ଶ =  𝐵ଵ = 1 in the above equation yields 
+𝟏 = (𝟏 + 𝒓) + 𝑮𝟐 −  𝑻𝟐                               ...(19.11)        
+Reorganizing, and bringing (𝐺ଶ −  𝑇ଶ ) to the left side of the equation, 
+𝑻𝟐 − 𝑮𝟐 = (𝟏 + 𝒓) − 𝟏 = 𝒓                               ...(19.12) 
+To avoid a further increase in debt during year 1, the government must run a 
+primary surplus equal to real interest payments on the existing debt. Taxes are 
+permanently higher from year 1 on, by an amount equal to r:  equivalently, from 
+year 1 on, the government runs a primary surplus equal to r. Thus, the following 
+conclusions follow: 
+(i) To stabilize the debt, the government must eliminate the deficit. 
+(ii) To eliminate the deficit, the government must run a primary surplus equal 
+to the interest payments on the existing debt. This requires higher taxes 
+forever. 
+19.3.4 Debt-GDP Ratio 
+We have focused so far on the evolution of the level  of debt. But in an economy 
+in which output grows over time, it makes more sense to focus instead on the 
+ratio of debt to GDP. Let us derive the debt -GDP ratio first. Rewrite equation 
+(19.2) as: 
+
+
+--- Page 20 ---
+ 
+297 
+ 
+Fiscal Sustainability  
+𝑩𝒕 = (𝟏 + 𝒓)𝑩𝒕ି 𝟏 +  𝑮𝒕 − 𝑻𝒕                     ...(19.2b) 
+Now divide both sides of the above equation by real output, Yt , to get 
+𝑩𝒕
+𝒀𝒕
+= (𝟏 + 𝒓)
+𝑩𝒕ష 𝟏
+𝒀𝒕
++ 
+𝑮𝒕ି 𝑻𝒕
+𝒀𝒕
+                   ...(19.13) 
+Next rewrite 𝐵௧ିଵ 𝑌௧⁄  as ( 𝐵௧ 𝑌௧ିଵ⁄ )(𝑌௧ିଵ 𝑌௧⁄ ) . In other words, we multiply the 
+numerator and the denominator by 𝑌௧ିଵ .  
+𝑩𝒕
+𝒀𝒕
+= (𝟏 + 𝒓) ቀ
+𝒀𝒕ష 𝟏
+𝒀𝒕
+ቁ
+𝑩𝒕ష 𝟏
+𝒀𝒕ష 𝟏
++ 
+𝑮𝒕ି 𝑻𝒕
+𝒀𝒕
+                   ...(19.14) 
+Note that all the terms in the equation are now in terms of ratios to output, Y. To 
+simplify this equation, we assume that output growth is constant and we denote 
+the growth rate of output by g, so 𝑌௧ିଵ 𝑌௧⁄  can be written as 1 (1 + 𝑔)⁄ . And use 
+the approximation (1 + 𝑟) (1 + 𝑔) = 1 + 𝑟 − 𝑔⁄ . Using these two assumptions, 
+let us rewrite the preceding equation (19.14) as 
+𝑩𝒕
+𝒀𝒕
+= (𝟏 + 𝒓 − 𝒈) 𝑩𝒕ష 𝟏
+𝒀𝒕ష 𝟏
++  
+𝑮𝒕ି 𝑻𝒕
+𝒀𝒕
+                    ...(19.15) 
+Finally, reorganize the above equation to get 
+𝑩𝒕
+𝒀𝒕
+− 
+𝑩𝒕ష 𝟏
+𝒀𝒕ష 𝟏
+= (𝒓 − 𝒈)
+𝑩𝒕ష 𝟏
+𝒀𝒕ష 𝟏
++ 
+𝑮𝒕ି 𝑻𝒕
+𝒀𝒕
+                    ...(19.16) 
+From equation (19.16) we find that the change in the debt ratio over time (the left 
+side of the equation) is equal to the sum of two terms, viz., (i) The first term is 
+the difference between the real interest rate and the growth rate times the initial 
+debt ratio. The second term is the ratio of the primary deficit to GDP. Equation 
+(19.16) implies that the increase in the ratio of debt to GDP will be larger:  
+1) The higher the real interest rate 
+2) The lower the growth rate of output, the higher the initial debt ratio 
+3) The higher the ratio of the primary deficit to GDP 
+Check Your Progress 2 
+ 1) What factors cause an increase in the debt to GDP ratio? 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+ 2) What must the government do to stabilize the debt? 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................

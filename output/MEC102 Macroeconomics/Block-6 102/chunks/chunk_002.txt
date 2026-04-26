@@ -1,0 +1,419 @@
+--- Page 11 ---
+ 
+245 
+ 
+Central Banks and the 
+Supply of Money 
+ 
+Box 15.1: Repo Rate and Bank Rate 
+Most of the time we are confused between various interest rates such as bank 
+rate or discount rate, repo rate and neighbouring rate in the banking system. 
+Repo Rate: The banks approach the central bank for financial assistance if they 
+face crisis. The interest rate charged on banks by RBI to provide such financial 
+assistance against of certain securities or bonds, is the repo rate. In other words, 
+“commercial banks borrow money from RBI by selling securities or bonds with 
+an agreement to repurchase the securities on a certain date at a predetermined 
+price. The rate of interest charged by the central bank on the cash borrowed by 
+commercial banks is called the Repo Rate”. For example, if a commercial bank 
+borrows or takes a loan of Rs. 100,000 at the predetermined repo rate of 5%, the 
+interest to be paid to RBI at the maturity is Rs.5000. 
+In other scenario, if a commercial bank has excess funds, the bank deposits it in 
+RBI and earns interest at a rate known as ‘reverse repo rate’. For example, if a 
+commercial bank deposits Rs. 100,000 at the reverse repo rate of 4%, the 
+interest to be paid by RBI to the bank at the maturity is Rs.4000. 
+RBI controls the liquidity in the market through repo rate. With an objective of 
+increasing liquidity, RBI reduces repo rate, which encourages the commercial 
+banks to sell their securities and borrow from the RBI. On the other hand, RBI 
+increases the repo rate, which discourages the banks from selling their securities, 
+which decreases liquidity or the supply of money.  
+Bank Rate: The rate of interest charged by the central bank on the loans it has 
+extended to commercial banks and other financial institutions is called “Bank 
+Rate”. In this case, there is no repurchasing agreement signed, no securities sold, 
+and no collateral involved.  
+Banks also borrow funds from RBI and extend loan to their customers, which is 
+an important source of their profit. Hence, they borrow funds from RBI without 
+involvement of the repurchasing agreement, securities or bonds. The interest 
+charged on such borrowing of commercial bank is the bank rate, which is 
+usually higher than Repo Rate. This is an important weapon of RBI to control 
+liquidity in the market. The increase in bank rate by RBI increases the 
+borrowing costs of the banks which, in turn, reduce the supply of money. The 
+bank rate is also called the discount rate.  
+There is another concept in the banking system that is the overnight rate. The 
+commercial banks also borrow funds among themselves. The rate charged on 
+such borrowing of funds is known as the overnight rate.  
+
+
+--- Page 12 ---
+ 
+246 
+ 
+Issues in  
+Monetary Policy 
+Sometimes the OMO is used to neutralise the impact of other factors on money 
+supply. For instance, change in the exchange rate affects money supply. The 
+central bank intervenes in the foreign exchange market by buying or selling 
+foreign exchange to regulate the volatility of the domestic currency. Suppose, for 
+example, the objective of the RBI is to check the appreciation of the Rupee. In 
+order to realise this objective, the RBI would buy foreign currency (say US 
+Dollar). With supply remaining the same, if the demand for US Dollar increases, 
+the value of Indian Rupee will decrease. In the process, there would be some 
+increase in money supply. In order to neutralise the increase in money supply, the 
+RBI may choose the option of open market operations, and sell government 
+securities in the market. It means that a central bank sells government securities 
+to absorb the extra money supply, which came up due to its exchange rate 
+policies. Neutralising such impact of change in foreign exchange reserves on the 
+money supply through the OMO, or the selling of government securities, is 
+known as the process of ‘sterilization’. 
+Specifically, if the goal is to control inflation, the central bank sets a target of a 
+higher interest rate by selling securities in the open market. A higher interest rate 
+indicates less liquidity in the banking system, which leads to an increase in the 
+interest rates charged by banks to their customers. Along with the decline in 
+consumer expenditure, it also makes certain investment projects costly. As a 
+consequence of higher interest rate, investment spending in the economy will 
+decline. As a result of higher interest rate, consumption expenditure may decline, 
+particularly those segment which is funded by borrowings from commercial 
+banks. Further, households may allocate more to saving and less to consumption 
+because of the increase in interest rate. As these are the components of aggregate 
+demand, aggregate demand would decline because of the rise in interest rate. If 
+aggregate demand falls, the price level would be negatively affected and the 
+intended goal of controlling inflation is realised.  
+  Interest Rate (i) 
+Ms Ms’ 
+A 
+B 
+Md 
+i0 
+i1 
+0 Cash  
+Balances 
+M଴
+P  Mଵ
+P  
+Fig.15.1: Effect of Increase in Money Supply 
+
+
+--- Page 13 ---
+ 
+247 
+ 
+Central Banks and the 
+Supply of Money 
+Let us explain the effect of an increase in interest rate on money supply through 
+diagram. In Fig. 15.1 we indicate cash balances, money supply and money 
+demand on the x-axis. On the y-axis we take interest rate ( i). We know that 
+demand for money depends upon income and interest rate such that, Md = f[Y, i]. 
+Here demand for money is an increasing function in income (Y) and decreasing 
+function in interest rate. Money supply is given by a vertical straight line at the 
+level Ms = M/P, where M/P indicates the purchasing power of available money 
+balances. In equilibrium, 
+ Md = Ms or Md = M/P      …(15.8) 
+If the price level remains unchanged, the real cash balances can be changed only 
+through the changes in money supply. An increase in money supply or real 
+money balances through OMO tools of the central bank shifts the M S function to 
+the right (from 𝑀௦  to  𝑀௦
+′  in Fig.15.1). The main goal of such a policy is to 
+stimulate aggregate demand. The implementation of this policy results in excess 
+supply of money mainly in the form of excess reserves and thus loanable funds/ 
+reserves. Consequently, it results in a fall in the interest rates charged by the 
+commercial banks to customers on credit.  
+Check Your Progress 3 
+1) What is meant by open market operations? Explain how it affects money 
+supply and interest rate in the economy. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+2) Explain the differences between bank rate, discount rate, repo rate, 
+reverse repo rate, and overnight rate. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+15.4 LET US SUM UP 
+There is no unique definition of money supply. Central banks measure money 
+supply through a series of monetary measures. The currency notes and coins, and 
+the deposits of banks with the central bank form the monetary base of an 
+economy. Monetary aggregates such as M0 and M1 are known as ‘narrow 
+money’ whereas M3 is said to be ‘broad money’.  
+
+
+--- Page 14 ---
+ 
+248 
+ 
+Issues in  
+Monetary Policy 
+The monetary base of an economy increases over time, which increases the 
+money stock in the economy in a multiplicative manner. The multiple by which 
+money stock increases against the monetary base is known as money multiplier. 
+Money supply can be controlled through various tools of the central bank such as 
+open market operations, changes in the rate of interests and exchange rates. If the 
+objective of the central bank is to check inflation, the central bank would regulate 
+money supply by buying government securities from the commercial banks and 
+other financial institutions. The RBI can also increase the bank rate and repo rate, 
+which will increase the borrowing cost of commercial banks, which in turn would 
+decrease money supply. Higher interest rate affects investments and household 
+consumptions negatively. It leads to decline in the aggregate demand in the 
+economy which affects the price level. That means there is a strong linkage 
+between the monetary policy of an economy and its real sector. 
+15.5 ANSWER/HINTS TO CHECK YOUR PROGRESS 
+ EXERCISES  
+Check Your Progress 1 
+1) Refer to Section 15.2 and Table 15.1. Your answer should include the 
+monetary aggregates NM0 to NM3, and L1 to L3.
+ 
+2) Refer to Section 15.2, particularly Table 15.1, and answer. 
+3) Refer to Section 15.2, particularly Table 15.1, and answer. 
+Check Your Progress 2 
+1) It is the ratio of the money stock measured as M1 to the monetary base. 
+Derive the equations on the basis of Section 15.3.  
+2)  It denotes the ratio of currency with the non-bank public to the money 
+stock measured by M1. Derive equation (15.6) and interpret it. 
+ 
+Check Your Progress 3 
+1) The process of changing the monetary base through buying or selling of 
+the government securities is known as the Open Market Operations. Use 
+Fig.15.1 to explain the effect of interest rate on money supply and interest 
+rate.  
+2) Refer to Box 15.1 in Section 15.3 and answer. 
+ 
+ 
+
+
+--- Page 15 ---
+ 
+ 
+UNIT 16  CONDUCT OF MONETARY POLICY  
+Structure  
+16.0  Objectives 
+16.1  Introduction  
+16.2  Monetary Policy Types 
+16.3  Goals and Targets of Monetary Policy  
+16.4  Credit Control Measures 
+          16.4.1 Quantitative Credit Control Measures 
+          16.4.2 Qualitative Credit Control Measures 
+16.5  Monetary policy In India 
+16.6  Transmission Mechanism of Monetary Policy 
+16.7  Let Us Sum Up 
+16.8  Answers/ Hints to Check Your Progress Exercises  
+16.0  OBJECTIVES  
+After going through the unit you will be in a position to: 
+ distinguish between goals and targets of monetary policy;  
+ explain various credit control measures under monetary policy; 
+ identify the instruments of monetary policy and their role; and 
+ identify and explain the monetary transmission channels. 
+16.1  INTRODUCTION  
+In Unit 5 of this course we learnt that in an open economy with flexible exchange 
+rate, monetary policy is effective in bringing about economic growth. You can 
+appreciate the importance of monetary policy in view of the fact that most 
+economies these days follow a flexible or floating exchange rate.  
+You may recall that the Classical Economists assumed money to be neutral in the 
+sense that it does not have any effect on prices and economic growth. They 
+believed that there is duality in the economy such that monetary and real 
+variables do not influence one another. It was Keynes who suggested that money 
+supply affects real variables. According to him increase in money supply leads to 
+a decline in rate of interest, which in turn leads to greater borrowings by firms 
+thereby leading higher investment. Higher investment leads to higher output and 
+income of the country through a multiplier effect. Thus he visualized a greater 
+role for the government. According to him economic policy should be 
+countercyclical – it should neutralize the effects of business cycles. The New 
+Classical economists attempted to justify the Classical views on the neutrality of 
+ 
+  Prof. Kaustuva Barik and Ms. Apica Sharma, Indira Gandhi National Open University, New 
+Delhi 
+
+
+--- Page 16 ---
+ 
+250 
+ 
+Issues in  
+Monetary Policy 
+money and brought forth the ‘policy ineffectiveness proposition’.  According to 
+the New Classical economists, it is best for the government to stick to certain 
+‘policy rules’. Governments in all the countries, however, see an important role 
+for monetary policy in the economy and actively pursue a monetary policy.  
+In this Unit we will discuss the types of monetary policy that a government 
+pursues, the objectives of monetary policy, and the policy instruments available 
+to policy makers. In addition, we will discuss how monetary policy works. We 
+will bring out certain important channels; the effect of an increase in money 
+supply on other economic variables. 
+16.2  MONETARY POLICY TYPES 
+The macroeconomic policy set by the central bank or the monetary authority of a 
+country is known as monetary policy. It is concerned with the management of 
+money supply in an economy. The change in money supply usually results in a 
+change in rate of interest. The objective of monetary policy is to fulfill the 
+objectives of inflation, growth, consumption and liquidity in the economy. 
+Monetary policy also aims at maintaining exchange rates with other currencies in 
+order to benefit trade, international confidence and policy stability in the country. 
+There are certain instruments of monetary policy as we will learn later in this 
+Unit.  
+Monetary policy could be of two types: expansionary and contractionary. With 
+an expansionary monetary policy, the monetary authority tries to stimulate the 
+economy using the policy instruments. In contrast, the monetary authority 
+attempts to restrict money supply and control inflation with a contractionary 
+monetary policy. In an expansionary monetary policy, either a lower than usual 
+rate of interest is maintained or money supply is abnormally increased. This is 
+done with the hope of providing cheaper credit to the firms so that investment in 
+the economy increases. Increase in investment is expected to further increase 
+employment and output. Expansionary monetary policy, however, often leads to 
+deterioration of the exchange rate of the country with other currencies. If 
+increases in money supply lead to higher inflation in the economy, depreciation 
+of the domestic currency in the foreign exchange market may take place.    
+Under contractionary monetary policy, the instruments of monetary policy aim at 
+a different set of results.  If the economy is passing through a very high 
+inflationary condition (if the economy is over-heated), the monetary authority 
+usually resorts to a higher than usual rate of interest or abnormally low money 
+supply. If contractionary monetary policy is implemented too vigorously, there 
+may be decrease in production, increase in unemployment, and fall in aggregate 
+demand leading to recessionary stage of the business cycle.   
+
+
+--- Page 17 ---
+ 
+251 
+ 
+Conduct of  
+Monetary Policy 16.3  GOALS AND TARGETS OF MONETARY 
+ POLICY  
+You should note that there is a difference between the goals and the targets of 
+monetary policy. Goals of monetary policy are the objectives it aims to achieve, 
+that is, reducing inflation, achieving full employment or maximising economic 
+growth. On the other hand, targets of monetary policy are the variables targeted 
+such as money supply, bank credit, and short term interest rates through the 
+instruments of monetary policy.  
+Monetary policy is one of the instruments of the overall economic policy of a 
+country; hence its objectives are no different than the overall economic policy 
+objectives of the economy. As per the prevailing economic, political, historical 
+and international conditions, there are changes in the priorities given to the 
+objectives of the monetary policy. Hence, they differ amongst developed and 
+developing countries. The significant objectives of monetary policy are 
+ to ensure price stability, that is, containing inflation, 
+ to promote economic growth, 
+ to ensure stability of the exchange rate of the currency, 
+ to achieve full employment, 
+ to reach equilibrium in the balance of payments account, and  
+ to reduce economic inequality. 
+Let us explain below these objectives in some detail.  
+a) Price Stability  
+Controlling inflation is generally considered to be the foremost objective 
+amongst developing economies as high inflation has an otherwise negative 
+impact on growth and distribution. Price stability means relative price stability, 
+depending on the prevailing conditions in the economy. Hence, by maintaining 
+relative price stability there is a considerable check on the fluctuations in the 
+business cycle leading to stability in the economic growth process as a whole.  
+Price stability does not mean that prices should not increase at all. There should 
+be a reasonable rate of inflation in an economy so that there is incentive for 
+production and economic growth. There is no consensus among economists, 
+however, on an ideal rate of inflation; it varies across countries and over period 
+of time. In countries like the US, an inflation rate of around 2 per cent is targeted. 
+In India, an inflation rate of 4 per cent with a tolerance band of 2 per cent is 
+considered as ideal (it implies that inflation should not be outside the range of 2 
+per cent to 6 per cent).   
+Many countries have faced episodes of abnormally high inflation. In 2019, for 
+example, some countries are experiencing exceptionally high inflation – 
+Venezuela has an inflation rate of about 10 million per cent per year! Argentina, 
+Iran and Sudan are facing inflation rate of above 25 per cent per year. 
+Abnormally high inflation leads to rise in the cost of living of the poor, makes 
+
+
+--- Page 18 ---
+ 
+252 
+ 
+Issues in  
+Monetary Policy 
+exports more expensive, lowers the rate of savings which further hampers 
+economic growth and encourages unproductive investment such as jewelry, real 
+estate, etc. During abnormally high inflationary scenario, contractionary 
+monetary policy is used. In period of relatively stable inflation, the monetary 
+authority pursues a monetary policy such that price stability with economic 
+growth and employment generation are maintained.  
+b) Economic Growth  
+Promoting economic growth is another important objective of both developed 
+and developing countries. Economic growth implies growth in the productive 
+capacity of the economy so that real national income increases. To achieve 
+economic growth, the rate of savings and investments need to increase. Monetary 
+policy can help produce favorable effects to the requirements of economic 
+growth by directing the banking sector towards priority sector lending or making 
+appropriate changes in interest rate to incentivize people to save.  
+With the openness of the economy and floating exchange rate, the goal to achieve 
+increased economic growth through instruments of monetary policy may 
+contradict with the goal of exchange rate stability. In order to prevent the 
+depreciation of the currency, a tight monetary policy need to be maintained but 
+the higher rate of interests will reduce liquidity in the banking system. This 
+reduction in liquidity results in increased cost of lending and lesser production 
+and increased unemployment in the economy. These contradictory objectives 
+result in a trade off in the policy circles and considering the other political, social 
+and economic objectives, a final decision is reached.  
+c) Exchange Rate Stability 
+Almost all major economies of the world have started following the flexible 
+exchange rate system under which the exchange rate of the currency is 
+determined by the demand for and supply of foreign exchange. Whenever there is 
+disequilibrium in the demand and supply of foreign exchange, the external value 
+of the currency changes. The domestic investors demand foreign currency when 
+there is profitable investment possible abroad whereas they demand home 
+currency more when there is profitable investment at home.  
+Under floating exchange rate the central bank or the monetary authority 
+intervenes to avoid sharp fluctuations in the exchange rate. In order to prevent 
+depreciation of rupee, the central bank can release more foreign currency from its 
+foreign exchange reserves. Also the central bank can increase the short term 
+lending rates and increase the required cash reserve ratio (CRR) in order to 
+reduce the demand for the foreign currency.  
+d) Full Employment 
+In order to achieve maximum social welfare it is imperative that the economy 
+attains full employment. Any country will prosper when all its people get the job 
+that they desire to do at the prevailing wage rate. With a tight monetary policy, 
+the objective of full employment and growth contradicts. Hence, in order to 
+increase the level of employment the central bank or the monetary authority will 
+have to adopt expansionary monetary policy.  
+
+
+--- Page 19 ---
+ 
+253 
+ 
+Conduct of  
+Monetary Policy 
+e) Balance of Payments Equilibrium  
+Abnormally high current account deficit (CAD) is financed through increase in 
+nominal capital inflows which is achieved through the depreciation of the home 
+currency. Thus, imports become very expensive and there is increase in inflation 
+in the economy. A tighter monetary policy helps reduce these effects through 
+high cost of credit and lower availability of money with the importers, thus 
+curbing imports.  
+Hence, monetary policy plays a significant role in maintaining the current 
+account deficit at the reasonable level. Balance of Payments equilibrium implies 
+exchange rate stability.  
+f) Economic Inequality  
+There is increased income inequality amongst the developed and developing 
+countries. This increased inequality leads to reduction in social welfare and 
+increased frustration amongst the masses. Monetary policy as an economic 
+instrument aims to achieve equitable distribution of income and wealth through 
+priority sector availability of credit to the weaker sections of the society at very 
+low rate of interests.  
+The targets of monetary policy are generally the following three parameters: 
+ to regulate the supply of money/ credit 
+ to maintain a reasonable rate of interest or cost of money/credit 
+ to conveniently avail money/ credit  
+a) Supply of Money  
+The currency issued by the monetary authority and the demand deposits with the 
+commercial bank comprise the supply of money. The issue of currency by the 
+central bank needs to be flexible enough depending on the inflationary or 
+recessionary stages prevailing in the economy. The banking system also needs to 
+play a progressive role in facilitating demand deposits with the banks.  
+b) Rate of interest or Cost of Money 
+Underdeveloped economies generally adopt an expansionary monetary policy in 
+order to promote sectors like agriculture and industry. Policy of discriminatory 
+rate of interests is often followed in order to promote priority sector lending. For 
+example, lower rate of interest is charged from the priority sectors such as micro, 
+small and medium enterprises (MSME). Simultaneously, higher rates of interest 
+may be charged from unproductive and luxurious spending so that higher credit 
+is made available to the priority sector.  
+During inflationary stage of the business cycle, the monetary authority keeps the 
+rate of interest at a higher level to curb money supply in the economy. In 
+contrast, during the recession phase, the monetary authority may decide to keep 
+the interest rate at a lower rate. It is expected that lower interest rate will provide 
+incentives for higher production, employment and growth.  

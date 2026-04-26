@@ -1,0 +1,341 @@
+--- Page 19 ---
+ 
+19 
+ 
+The Classical    
+Approach 
+1.6  SAY’S LAW OF MARKET 
+The Say’s law of market has been a basic pillar of classical economic theory. 
+According to this law, every supply generates its own demand. An implication of 
+the above is that if a commodity is produced, it will create sufficient income for 
+the owners of factors such as land, labor and capital to purchase the produced 
+commodity. After all, the price of the commodity is divided into its components 
+such as rent, wages and profits. Hence, this income will be sufficient to realize 
+the price of the commodity. 
+According to the Say’s law, enough income will always exist to purchase the 
+entire produced output, so that there will not be any surplus left under the laissez-
+faire orientation. Using this logic, it can be concluded that there should not be 
+any major depression. If it occurs, it must be caused by some interference with 
+the free flow of commodities and money. The Say’s Law thus supported the 
+laissez-faire orientation of classical economics. The law is heavily dependent on 
+the assumption of perfect flexibility in prices. Under this assumption, whatever 
+quantity is produced can be sold in the market. In the short run, supply (or 
+demand) may exceed demand (or supply). Such discrepancy is adjusted 
+automatically, and instantaneously, through a decline (or rise) in prices. Such 
+instantaneous adjustment exists for all commodities and factor inputs. Says’ law 
+is also regarded as a natural consequence of perfect competition. 
+The proponents of the Say’s law believe that the law is valid both in a barter 
+economy as well as a money economy. The law states that income received from 
+the production of output is always spent on aggregate demand, i.e., consumption 
+and investment. In other words, the law suggests that money is never hoarded and 
+that the money or expenditure stream (MV) remains neutral. There is no doubt 
+that the law is valid under a barter economy where production was primarily for 
+consumption, i.e., whatever is produced is exchanged for goods and services. But 
+one may doubt its validity in the present era, when production is based on future 
+expectations and anticipations of demand; there is bound to be some 
+overproduction. It is often said that the Say’s law is valid if a substantial portion 
+of production is used for consumption and the rest, if saved, is invested.  
+Check Your Progress 2 
+ 1)  Describe how output and employment are determined in the classical 
+model.  
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+ 
+
+
+--- Page 20 ---
+ 
+20 
+ 
+Traditional Approaches 
+to Macroeconomics 
+ 2) What are the implications of the quantity theory of money?  
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+3)  What is the relevance of the Say’s law? 
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+1.4. CLASSICAL DICHOTOMY  
+From the quantity theory of money (QTM) we find the relationship between 
+money supply and price level. We discuss below the effect of changes in money 
+supply on other macroeconomic variables.  
+1.4.1 AD-AS Equilibrium  
+In an economy the real variables are real GDP, real capital stock and 
+employment. These variables measure certain physical quantity. For instance, 
+real GDP is defined as the quantity of goods and services produced in a specific 
+period, such as a year, quarter or month. Similarly, real capital stock is defined as 
+the quantity of machines and structures available at a specific time. The nominal 
+variables are expressed in terms of monetary value, for example, the price level 
+and the wage of a person in rupees. 
+Classical theory of output and employment suggests that the changes in the 
+quantity of money affects nominal variables such as prices, nominal wages and 
+nominal income. Changes in quantity of money, however, does not affect real 
+variables. Classical economists provide an argument that real supply-side factors 
+such as population, technology, capital stock, state of technology, marginal 
+physical product of labour, and households’ preferences regarding work and 
+leisure determine real output and employment. The assumption of flexibility in 
+prices leads to the self-adjustment of markets. Flexibility of prices and wages 
+suggests that the changes in money supply affects the price level and nominal 
+values such as money wages and nominal interest rates while real variables 
+remain unaffected. Such independence of real economic variables from changes 
+in money supply and nominal variables is known as ‘classical dichotomy’. 
+ 
+
+
+--- Page 21 ---
+ 
+21 
+ 
+The Classical    
+Approach 
+  
+ 
+Fig. 1.5: Classical Model of Output Determination  
+1.4.2 Neutrality of Money 
+An implication of classical dichotomy is that ‘money is neutral’. We have 
+illustrated ‘neutrality of money’ graphically in Fig. 1.5. There are four panels in 
+Fig. 1.5. Suppose money supply in an economy is equal to M 0 at a specific time. 
+The corresponding aggregate demand curve is AD 0 as seen in panel (d) of Fig. 
+1.5. Its interaction with the aggregate supply curve AS decides the price level P 0. 
+Corresponding to the price level P0, the labour market determines the equilibrium 
+money wage rate W 0. Hence, the real wage rate is equal to W 0 / P 0 and 
+equilibrium level of employment is N F as seen in Panel (a) of Fig. 1.5. Given the 
+production function (see Panel (b)), with the equilibrium level of employment 
+NF the aggregate output is Y F. Let us assume that the monetary authority of the 
+country expands its money supply from M 0 to M 1 which results in an upward 
+shift in the aggregate demand curve to AD 1 as seen in Panel (d) of Fig. 1.5. As a 
+result, the price level increases from P 0 to P1. This causes the real wage to fall 
+from (W 0/P0) to (W 0/P1) as seen in Panel (a) of Fig. 1.5. At the real wage 
+decreases to (W 0/P1), the demand for labour increases. Thus, labour demand 
+
+
+--- Page 22 ---
+ 
+22 
+ 
+Traditional Approaches 
+to Macroeconomics 
+exceeds labour supply. According to classical theory, this causes the nominal 
+wage rate to increase to W 1 (in equal proportion to the increase in price level) 
+such that the original level of real wage is maintained (that is, W 1/P1 = W 0/P0). 
+Thus, there is no change in the equilibrium level of employment N F. (See panel 
+(a) of Fig. 1.5). At the earlier wage rate and employment level, the real output is 
+not affected, as seen in panel (b) of Fig. 1.5. To conclude, when there is an 
+expansion of money supply, the nominal wage rate and price level increase 
+without affecting the levels of real wage, employment and output. Such 
+independence of real economic variables from changes in money supply is called 
+neutrality of money. 
+There is a crucial limitation to the neutrality of money. It is a basic result derived 
+from the full-employment equilibrium that is based on the full flexibility of 
+prices. If increase in money supply (resulting in higher prices) had no real effects, 
+then inflation would not have been a serious concern in an economy. Inflation, 
+however, is a serious problem as has many adverse effects such as decrease in 
+quality of life of people, decrease in economic growth, etc. Thus, measures are 
+taken to control inflation and maintain price stability in an economy. 
+1.4.3 Saving-Investment Equilibrium  
+You should note that classical theory emphasized on the function of money that it 
+is a medium of exchange. According to the classical school money is demanded 
+for transaction purposes only. Hence, supply of and demand for money in the 
+classical theory do not determine the equilibrium rate of interest. An increase in 
+the quantity of money does not affect the real rate of interest. Thus, there is no 
+change in the level of saving and investment (see, Fig. 1.6). This shows that 
+when money supply rise, it does not disturb the capital market equilibrium (or 
+saving-investment equality) and the level of full-employment equilibrium 
+remains unchanged. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1.6: Capital Market Equilibrium  
+𝐼ᇱ 
+Y
+X 
+Real  Interest Rate 
+O Saving and Investment 
+I 
+S 
+S 
+𝑆ᇱ 
+𝑆ᇱ 
+I 
+𝐼ᇱ 
+
+
+--- Page 23 ---
+ 
+23 
+ 
+The Classical    
+Approach 
+An increase in money supply will lead to an increase in prices. Due to the higher 
+prices, nominal investment expenditure will increase. However, according to 
+classical theory, such increase will be proportional to the increase in prices. 
+Therefore, investment expenditure in real terms will not change. This is 
+explained diagrammatically in Fig. 1.6. We measure real interest rate on the y-
+axis and nominal value of saving-invest on the x-axis. The increase in money 
+supply causes the supply curve of nominal saving to shift downward to the right 
+from SS to 𝑆′𝑆′. Simultaneously, the investment demand curve will shift upward 
+from II to 𝐼′𝐼′ by the same amount. It implies that the interaction of 𝑆′𝑆′ and 𝐼′𝐼′ 
+determines the interest rate without affecting real saving and real investment at 
+the higher price level too. 
+1.5  LONG RUN VS. SHORT RUN 
+In general, supply and demand fluctuate for various reasons, which affects the 
+level of output. There is considerable difference between short-run and long-run 
+fluctuations in output. Most economists believe that the behavior of processes is 
+different between the short run and the long run. In the long run, prices are 
+flexible, which may be affected by changes in supply or demand. In the short run, 
+most of the prices are "sticky’’ at the pre-determined level. As the behaviour of 
+prices in the short run is different from that in the long run, the effects of 
+economic events and policies vary over different time horizons. Classical theory 
+is considered to be applicable in the long run. In the short run, we may need a 
+different analytical framework. In Unit 2 we discuss the Keynesian model, which 
+is more applicable in the short run.  
+Let us explain the price behavior in both the short-run and long-run in Fig. 1.7. 
+Aggregate supply is the total amount of goods and services that firms sell in an 
+economy. Aggregate demand is the total quantity of goods and services that are 
+purchased. In a standard AS-AD model, output (Y) is presented on the X-axis 
+and price (P) is on the Y-axis. The long run aggregate supply curve ( 𝐴𝑆௅ோ ), 
+which denotes the potential output (full employment output) of the economy is 
+given by a vertical line at 𝑌∗. The short-run supply curve is upward sloping 
+(𝐴𝑆଴ ). The interaction of supply and demand determines the equilibrium level of 
+output (𝑌଴ ). In the short run, an outward shift in the supply curve (from 𝐴𝑆଴  to 
+𝐴𝑆ଵ ) results in rising output (from 𝑌଴  to 𝑌ଵ ) and falling prices (from 𝑃଴  to 𝑃ଵ ). An 
+outward shift in the AD curve (from 𝐴𝐷଴  to 𝐴𝐷ଵ ) also results in rising output 
+(from 𝑌଴  to 𝑌ଶ ) but rising prices (from 𝑃଴  to 𝑃ଶ ).  
+ 
+
+
+--- Page 24 ---
+ 
+24 
+ 
+Traditional Approaches 
+to Macroeconomics  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1.7: Determination of Prices in the Long-Run and Short-Run  
+Let us look into certain other situations. Short-run fluctuations in nominal 
+variables usually result in a change in the output level, as macroeconomic 
+variables not fully flexible. An increase in money supply, for example, will shift 
+the AD curve to the right (i.e., aggregate demand will increase). This will 
+increase prices and income. In contrast, a decrease in money supply will result in 
+a shift in the AD curve to the left, which will decrease both prices and income. 
+According to the classical theory an increase in money supply leads to increased 
+prices without affecting the real output. This may be applicable in the long run, 
+not in the short run.  
+Check Your Progress 3 
+ 1)  What is meant by classical dichotomy?  
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+ 
+P1 
+ 
+ 
+P 
+Y 𝑌∗ Y1 Y2 Y0 
+ASLR 
+AS0 
+AS1 
+AD1 
+AD0 
+
+
+--- Page 25 ---
+ 
+25 
+ 
+The Classical    
+Approach 
+ 2)  Why is money considered to be neutral? What are its implications?  
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+ 3)  Is classical theory applicable in the short run?  
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+1.6  LET US SUM UP 
+In this unit, we discussed different schools of macroeconomic thought that have 
+evolved over time to respond to certain events in the world economy. Relying on 
+the assumption of full flexibility of wages and prices, classical theory concludes 
+that the economy always tends to equilibrium at the full employment level of 
+output. Also, the capital market always ensures that there is enough demand in 
+the market. The classical quantity theory of money determines the level of prices 
+and wage rates without affecting the real economic variables. Classical theory 
+advocates that policy intervention cannot influence output levels in an economy 
+as it is self-adjusting. In the classical framework money considered to be neutral 
+in the sense that it does not affect real variables. 
+1.7 ANSWERS/HINTS TO CHECK YOUR PROGRESS 
+EXERCISES 
+Check Your Progress 1 
+1)  In Section 1.3 we have given the important features of classical theory. Go 
+through it and answer.  
+2)  New-classical economics considers a general equilibrium framework, 
+microfoundations and rational expectations.  
+Check Your Progress 2 
+1)  Go through Sub-Section 1.4.1. Refer to Fig. 1.5 and describe the process.  
+2)  The quantity theory of money (MV = PY) establishes the relationship 
+between money supply, velocity of money, price level and output. When the 
+velocity of money and the output level remain constant, an increase in 
+money supply will lead to increase in prices. 
+
+
+--- Page 26 ---
+ 
+26 
+ 
+Traditional Approaches 
+to Macroeconomics 
+3) According to the Say’s law, supply creates its own demand. It rules out the 
+possibility of unemployment in an economy.  
+Check Your Progress 3 
+1) It refers to the classical proposition nominal variables do not influence real 
+variables in an economy. It arises from the classical assumptions of perfect 
+competition and full flexibility in prices and wages.  
+2) Classical economists emphasized that money is demanded as a medium of 
+exchange. An increase in money supply leads to proportionate increase in 
+prices and wages; real variables such as output and employment remain 
+unchanged.  
+3) Prices and wages may not be fully flexible. Rigidities in prices and wages 
+may not lead to instantaneous adjustment in output and employment. Thus, 
+classical theory may not be applicable in the short run.  
+ 
+ 
+  

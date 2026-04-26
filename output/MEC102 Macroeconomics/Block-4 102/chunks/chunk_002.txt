@@ -1,0 +1,444 @@
+--- Page 11 ---
+ 
+174 
+ 
+Theories of  
+Business Cycles 
+ 
+ 
+The region D provides the combinations of c and v which cause income to move 
+upward or downward at an increasing rate. This is depicted in Fig. 11.4d.  
+ 
+In a special case when values of c and v lie in the region E, they produce 
+fluctuations in income of constant amplitude and are shown in Fig. 11.4e. It is 
+worth noting that all the above five cases do not give rise to cyclical fluctuations 
+or business cycles. It is only combinations of c and v lying in the regions B, C 
+and E that produce business cycles.  
+ 
+Fig. 11.4d: Income and Output 
+ Income 
+(Output)      
+Y 
+X 0 
+Time 
+Initial Equilibrium 
+Ceiling Output 
+
+
+--- Page 12 ---
+ 
+175 
+ 
+Traditional Models of 
+Business Cycles 
+ 
+ 
+11.4.3 Political Business Cycles 
+The term political business cycle is used mainly to describe the stimulation of the 
+economy just prior to an election in order to improve prospects of the incumbent 
+government getting re-elected. Expansionary monetary and fiscal policies have 
+politically popular consequences in the short run, such as falling 
+unemployment, economic growth, and benefits from government spending on 
+public services. However, the same policies, especially if pursued to excess, are 
+found to have unpleasant consequences in the long term, such as accelerating 
+inflation and damaging the foreign trade balance. Thus, they can harm the long-
+term growth potential of the economy. Governments prefer to pursue popular 
+expansionary monetary and fiscal policies for a short horizon immediately before 
+an election. However, being aware of its adverse effects, they do not continue 
+with those measures after they get elected. Thus, after the election is over, 
+government often reverses earlier decisions, which may include cutting spending, 
+slowing the growth of money supply, and allowing interest rates to rise. As a 
+result, the regular holding of elections will produce cyclical fluctuation of 
+economic activity because of recurring patterns of government stimulus and 
+restraint in order to induce an artificial boom in the election time. 
+11.5 DATING OF BUSINESS CYCLES 
+Neutralizing the effect of business cycles, particularly the downslides, is a key 
+objective of macroeconomic policy. Understanding recessions and expansions of 
+business cycles is essential for designing of proper frameworks for stabilisation. 
+This requires identifying the chronology of business cycle turning points. In the 
+Fig. 11.4e: Income and Output 
+ 
+Income 
+(Outpu
+t)         
+Y 
+X 0 
+Time 
+Initial Equilibrium 
+Fig. 11. 4 Panel (a) to (e) shows different patterns of income (output) movements for 
+various values of c and v which respectively determine the magnitudes of multiplier and 
+accelerator. 
+
+
+--- Page 13 ---
+ 
+176 
+ 
+Theories of  
+Business Cycles 
+US, the National Bureau of Economic Research (NBER) has a dedicated research 
+program for identifying the dates of business cycle turning points. Similarly the 
+Centre for Economic Policy Research (CEPR) Euro Area Business Cycle Dating 
+Committee establishes the chronology of recessions and expansions of Euro Area 
+member countries. In India there have been some attempts to determine the 
+chronology of business cycles. 
+The NBER's Business Cycle Dating Committee maintains a chronology of the 
+US business cycle. The chronology comprises alternating dates of peaks and 
+troughs in economic activity. A recession is a period between a peak and a 
+trough, and an expansion is a period between a trough and a peak. The NBER 
+does not define a recession in terms of two consecutive quarters of decline in real 
+GDP. Rather, a recession is a significant decline in economic activity spread 
+across the economy, lasting more than a few months, normally visible in real 
+GDP, real income, employment, industrial production, and wholesale-retail sales. 
+Similarly, during an expansion, economic activity rises substantially, spreads 
+across the economy, and usually lasts for several years. Thus, the NBER 
+approach identified cycles as recurrent sequences of alternating phases of 
+expansion and contraction in the levels of a large number of economic time 
+series. This working definition, in substantially its present form, has been in use 
+at the NBER for over fifty years and is currently employed by the NBER to 
+identify and date the US business cycle. These dates are widely accepted by 
+government, academic, and business analysts. The definition served as the basis 
+for the NBER's pre-World War II business cycle chronologies for England, 
+France, and Germany as well as the US.  
+In both recessions and expansions, brief reversals in economic activity may 
+occur-a recession may include a short period of expansion followed by further 
+decline; an expansion may include a short period of contraction followed by 
+further growth. The Committee applies its judgment based on the above 
+definitions of recessions and expansions and has no fixed rule to determine these 
+upturns and downturns. 
+The Committee does not have a fixed definition of economic activity. It examines 
+and compares the behaviour of various measures of broad activity: real GDP 
+measured on the product and income sides, economy-wide employment, and real 
+income. The Committee also may consider indicators that do not cover the entire 
+economy, such as real sales and the Federal Reserve's index of industrial 
+production (IIP). 
+11.6 ECONOMIC INDICATORS 
+The objectives of macroeconomic policy have long included the avoidance of 
+protracted recessions in which resources go underutilized, and of periods of 
+unsustainable growth that jeopardize reasonable price stability. An important part 
+of the job of the central bank is therefore to gather information on the current 
+state of the economy and if possible, forecast future economic conditions. The 
+
+
+--- Page 14 ---
+ 
+177 
+ 
+Traditional Models of 
+Business Cycles theoretical concept of measuring current business activities using economic series 
+such as GDP, sales, investment, stock prices, is rather simple though its practical 
+application is difficult. Usually, the time pattern of these fluctuating economic 
+series is diverse. While some economic series are expanding at a given point in 
+time, others have already reached their upper turning point and still others are on 
+the downswing; a few economic activities might even be at a lower turning point. 
+Thus the issue arises is how to measure the aggregate state of the economy using 
+these various individual economic series as they have diverse timing patterns.  
+Economic indicators were conceived at the NBER originally by Mitchell and 
+Burns. This approach requires monitoring of economic variables that tend to be 
+sensitive to cyclical changes no matter what their cause. Burn and Mitchell 
+studied a group of about 487 economic variables to see if turning points in the 
+variables persistently led, coincided with, or lagged turning points in the US 
+business cycle. Seventy one series were chosen and ordered according to the 
+average lead or lag with regard to the reference revivals. For example, six time 
+series had no average lead or lag. On the average, the leading series were from 
+one to ten months ahead of the reference revivals. The lagging series were on the 
+average from one to twelve months behind. The idea of leading, lagging, and 
+coinciding (reference) series was developed even further by G.H. Moore in 1950. 
+Out of 801 series, he chose 21 series which passed a test for conformity and 
+timing; conformity meaning the consistency with which the series have 
+conformed to business cycles and timing referring to the consistency with which 
+a time series' turning point has led, lagged or roughly coincided with the 
+reference data. Those series were selected which were similar in timing at peaks 
+and troughs and were classified into three groups: leading, roughly coincident, 
+and lagging. 
+11.6.1 Leading Indicators 
+Leading economic indicators help us in assessing where the economy is heading. 
+They indicate what is coming, such as moving from a peak phase into a 
+contraction, before it actually happens. 
+One of the most significant leading indicators is the stock market itself, gauged 
+by an index such as the S&P 500. It will begin to rise before economic conditions 
+seems favourable, and it will be begin to decline before economic conditions 
+seem to warrant it. Another important leading indicator is interest rates. Low 
+interests stimulate borrowing and buying, which favours the economy. An 
+increase in interest rates shows the economy is doing well, but eventually rising 
+interest rates lead to a slow down because less people borrow money to start new 
+projects. 
+
+
+--- Page 15 ---
+ 
+178 
+ 
+Theories of  
+Business Cycles 11.6.2 Lagging Indicators 
+Unlike leading indicators, lagging indicators shift after the economy changes. 
+Although they do not typically tell us where the economy is headed, they indicate 
+how the economy changes over time and can help to identify long-term trends. 
+Lagging economic indicators reveal past information about the economy. 
+The GDP is how much a country is producing. There is significant lag time 
+between when the data is compiled and when it is released, yet it is still an 
+important indicator. Many consider a recession to be underway if two quarters 
+see back-to-back declining GDP. Other indicators, such as the Consumer Price 
+Index (CPI), are also sometimes considered lagging indicators, since they reveal 
+information that is already known to most consumers. 
+11.6.3 Coincident Indicators 
+Coincident indicators (more or less) in parallel with the general economic 
+conditions and therefore reflect the current status of the economy. They give 
+consumers, business leaders, and policy makers an idea about where 
+the economy is currently, right now. When the economy rises today, then 
+coincident indicators are also rising right now. And when the economy declines 
+today, then coincident indicators are also declining right now. Typical examples 
+of coincident indicators are industrial production or turnover. 
+The three types of indicators i.e., leading, lagging and coincident indicators under 
+five categories namely, Investment, Consumption, Employment, Prices and 
+Money are presented in Table 11.1. 
+Table 11.1: Indicators of Business Cycle 
+Leading Roughly Coincident Lagging 
+I. Investment in Fixed Capital and Inventories 
+New building permits; 
+housing 
+starts; residential fixed 
+investment 
+New business formation 
+New capital 
+appropriations; contracts 
+and orders 
+for plant and equipment 
+Change in business 
+inventories 
+ 
+Production of business 
+Equipment; 
+Machinery and equipment 
+sales 
+Backlog of capital 
+Appropriations; 
+Business expenditures for 
+new 
+plant and equipment; 
+and trade inventories 
+
+
+--- Page 16 ---
+ 
+179 
+ 
+Traditional Models of 
+Business Cycles 
+II. Consumption, Trade, Orders, and Deliveries 
+New orders for consumer 
+goods and materials; 
+Change in unfilled 
+orders, durable 
+Goods; 
+Vendor performance 
+(speed of 
+deliveries); 
+Index of consumer 
+sentiment 
+Production of consumer 
+Goods; and trade sales 
+ 
+III. Employment, Production, and Income 
+Average workweek; 
+overtime 
+Hours; 
+Accession rate; layoff 
+rate; 
+New unemployment 
+insurance 
+Claims; 
+Productivity (output per 
+hour); 
+Rate of capacity 
+utilization 
+Non-agricultural 
+employment; 
+unemployment rate; GNP; 
+personal income; industrial 
+production 
+Average duration of 
+unemployment; long term 
+unemployment IV. Prices, Costs, and Profits 
+Bond prices; Stock 
+prices; Sensitive 
+materials prices; Profit 
+margins; Total corporate 
+profits; net cash flows 
+ Unit labour costs; Labour 
+share in national income 
+V. Money, Credit, and Interest 
+Monetary growth rates; 
+Change in liquid assets; 
+Change in consumer 
+credit; Total private 
+borrowing; Real money 
+supply 
+Velocity of money Short-term interest rates; 
+Bond yields; Consumer 
+credit outstanding; 
+Commercial and industrial 
+loans outstanding 
+ 
+Note: The selection is based on the US indicators published in Business Conditions Digest, a 
+monthly report by the Bureau of Economic Analysis, US Department of Commerce  
+
+
+--- Page 17 ---
+ 
+180 
+ 
+Theories of  
+Business Cycles 11.7 EMPIRICAL ANALYSIS 
+Researchers have faced a many of challenges while studying business cycles. 
+One of the major challenges is the problem of representing complex features of 
+economic data. Kuznets, Mitchell, Burns and many others employed various 
+techniques (i.e., moving averages, piecewise trends, etc.) to study the fluctuations 
+of variables around the long term path. As you know, there are various 
+techniques of data analysis. However, there is no single correct way to represent 
+these components.  
+During the nineteenth century researchers focused on real variables such as 
+agricultural output to explain business cycle. The classical economists assumed 
+perfectly competitive markets and flexibility in prices and wage rate; thus ruled 
+out the possibility of business cycle. According to them, money was neutral in its 
+effects. Later on, during the twentieth century, economists ascribed monetary 
+variables such as money supply, interest rates and prices important variables 
+causing business cycles.  
+D. K. Backus and P. J. Kehoe in their study titled, “International Evidence on the 
+Historical Properties of Business Cycles” in 1922 took a group of macro 
+variables, in addition to the GDP, for analysis of business cycle. They examined 
+the cyclical behaviour of private consumption expenditure, fixed investment, 
+government purchases and net exports in ten countries, namely, Australia, 
+Canada, Denmark, Ger many, Italy, Japan, Norway, Sweden, the United 
+Kingdom, and the US. They find a great deal of regularity in the cyclical 
+behaviour of real quantities. The patterns of variation in all the variables, 
+however, are not similar. The magnitude of output fluctuations varies across 
+countries and over time. Further, the relationships among macroeconomic 
+variables are remarkably stable. For example, investment is about 2 to 4 times 
+more volatile than output while the variation in consumption is almost the same 
+as the variation in output. Both investment and consumption are strongly pro-
+cyclical. Trade balance is generally countercyclical, exhibiting larger deficits 
+during booms than during recessions. The exception to this regularity in 
+quantities is government purchases, which exhibit no systematic cyclical 
+tendency. 
+I. Konstantakopoulou and E. G. Tsionas in their work on “Half a century of 
+empirical evidence of Business Cycles in OECD countries” in 2014 examine the 
+existence of common business cycles in OECD countries using H-P filter over 
+the period from 1960 to 2010. The results suggests that there are two distinct 
+cycles in the OECD countries: the Euro area cycle, which includes the business 
+cycles of Germany, France, Italy, Netherlands, Australia and Belgium and the 
+world cycle, which consist of the business cycles of the US, Canada and the U.K. 
+For a long time, the prevailing view was that we need different theories to 
+explain the different features of the observed data – growth theory to explain the 
+long run trend in a series and something else to explain the cyclical movements 
+
+
+--- Page 18 ---
+ 
+181 
+ 
+Traditional Models of 
+Business Cycles 
+of data. Modern business cycle theory is based on a different premise – the same 
+theory should be capable of explaining both the features. Researchers typically 
+follow one of the two procedures to represent the cyclical component in the data. 
+Some assume a stochastic trend and first difference the (logarithms of the) data to 
+remove it. Most of the authors use a technique known as the Hodrick-Prescott 
+filter (the H-P filter) for representing growth and business cycle components.  
+Check Your Progress 2 
+1)  Give a brief account of Keynesian view on business cycle.  
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+2)  Derive the equilibrium income through the model of interaction between 
+multiplier and accelerator. 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+3)  What is meant by conformity and timing of economic series? 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+4)  What is the importance of a lagging indicator? 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+11.8 LET US SUM UP 
+In this unit we focused on three issues, viz., basic features of business cycles , 
+traditional theories of business cycles and measurement of business cycles. 
+Business cycle should be thought of as apparent deviations from a trend. Certain 
+economic variables move together with aggregate output. An examination of the 
+time path of output for any modern industrialized economy reveals that output 
+tends to fluctuate about a long term growth path. These fluctuations about trend 
+
+
+--- Page 19 ---
+ 
+182 
+ 
+Theories of  
+Business Cycles 
+are what we most often think of as the business cycle. The fluctuations are 
+typically irregularly spaced and of varying amplitude and duration. Nevertheless, 
+the one very regular feature of these fluctuations is the way variables move 
+together. Business cycle is characterised by four phases, viz., expansion, 
+recession, depression and recovery. Some of the important mathematical theories 
+which explain these feature of business cycles are: a) Keynesian theory which 
+showed that changes in the level of aggregate effective demand bring about 
+fluctuations in the level of income, output and employment; b) Samuelson model 
+of business cycle which convincingly proved that it is the interaction between the 
+multiplier and accelerator that gives rise to cyclical fluctuations in economic 
+activity, and c) Political theory of business cycle which suggests that business 
+cycles are an outcome of the periodicity of elections in a democracy that prompts 
+the governments to increase public investment before elections and cut down on 
+it afterwards. NBER uses the working definition of business cycle formulated by 
+Burns and Mitchell in the 1940s to identify and date the US business cycle. These 
+dates are widely accepted by government, academic and business analysts. The 
+main problem encountered in the research of business cycle is the lack of a single 
+sufficiently long and consistent measure of aggregate economic activity. The 
+NBER, therefore, relies on the evidence from a large number of comprehensive 
+indicators rather than any single one to date a business cycle. The variables 
+include quantities and prices, stocks and flows, outputs and inputs, real monetary 
+and financial variables. Timing and amplitude of these variables are used to 
+group them into leading, lagging and coincident indicators. 
+To conclude, a business cycle is not just a movement along a curve in a textbook. 
+It implies new jobs for people, or the loss of them. It is new income, or the loss of 
+it. It is the funds to build new infrastructure such as schools, hospitals and roads. 
+The story of the business cycle is the story of progress and plenty of failure and 
+sacrifice. The effects of recessions extend beyond the purely economic realm and 
+influence the social fabric of society as well. Misery of households, poverty, 
+unemployment, property related crimes, etc. tend to rise during recessions.  
+11.9  ANSWERS/HINTS TO CHECK YOUR 
+ PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Business cycle consists of recurrent alternating phases of expansion and 
+contraction in a large number of economic activities.  
+2)  Refer to Sub-Section 11.2 for the important features.   
+3)  Describe the phases given at Section 11.3. You should explain Fig. 11.1 also. 
+Check Your Progress 2 
+1)  Keynes emphasized on fluctuation in aggregate demand. Investment 
+multiplier amplified the magnitude of change in output. Refer to Sub-Section 
+11.4.1. 
+
+
+--- Page 20 ---
+ 
+183 
+ 
+Traditional Models of 
+Business Cycles 
+2)  Explain the Fig. 11.2. Derive the equilibrium income through the equations 
+(11.1), (11.2) and (11.3) to reach at the equation (11.4). Refer to Sub-Section 
+11.4.2. 
+3)  Conformity is the consistency with which the series have conformed to 
+business cycles. Timing refers to the consistency with which a time series’ 
+turning point has led, lagged or roughly coincided with the reference data. 
+4)  Refer to Sub-Section 11.6.2. The importance of a lagging indicator is its 
+ability to confirm that a pattern is occurring. Unemployment is one of the 
+most popular lagging indicators. If the unemployment rate is rising, it 
+indicates that the economy has been doing poorly. 
+ 

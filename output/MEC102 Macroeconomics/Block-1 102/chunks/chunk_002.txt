@@ -1,0 +1,433 @@
+--- Page 11 ---
+ 
+11 
+ 
+The Classical    
+Approach 
+wages and prices while the new-Keynesin school assumes rigidities in wages and 
+prices.  
+1.3 BASIC FEATURES OF CLASSICAL THEORY 
+Classical economics evolved against the perception of ‘mercantilism’. The 
+mercantilists believed that the wealth of nations depended on the stock of bullion 
+(or, gold and silver) and adopted policies that promoted exports and discouraged 
+imports through subsidies and tariffs. Classical economists discarded such ideas 
+and believed that ‘wealth of nations’ depended on real factors. For them, money 
+is merely a medium of exchange. Important features of classical theory are as 
+follows: 
+(i) Microeconomic Issues: Classical economists dealt mostly with 
+microeconomic issues pertaining to behavior of economic agents such as 
+firms and households. In classical view, a firm maximizes its profits subject 
+to a resource constraint. Similarly, households try to maximize their utilities 
+or economic gains given their budget constraints. Classical economists 
+believed in the optimising tendencies of the market mechanism. According 
+to classical economists, variables such as price level, wage rate and output 
+level should be determined by market forces (supply and demand).  
+(ii) Laissez Faire: Classical economists believed in the philosophy of ‘laissez 
+faire’, which is a French term meaning ‘leave alone’ or ‘let you do’. 
+According to this view, there should be minimal intervention from the 
+government in business affairs. In fact, Adam Smith suggested that 
+government should confine itself to three main duties, viz., (i) national 
+defense, (ii) administration of justice (law and order), and (iii) establishing 
+and maintaining certain public works (infrastructure, education, etc.).  
+(iii) Invisible Hand : Adam Smith introduced the concept of the ‘invisible 
+hand’. According to him, the economy will function well if everyone 
+pursues his/ her own interest. According to him, “It is not from the 
+benevolence of the butcher, the brewer, or the baker that we expect our 
+dinner, but from their regard to their own interest”. Individuals pursuing 
+self-interest seem to be led by an ‘invisible hand’ to maximise the general 
+welfare of everyone in the economy. It is not the generosity of a producer in 
+selling a commodity; it is his/her self interest. Similarly, the consumers are 
+not doing a favour to the producer; they are pursuing their own interest in 
+buying the commodity. The philosophy of the invisible hand confined 
+classical economists to the analysis of the behavior of economic agents; 
+they failed to see any conflict between interest of economic agents and that 
+of the economy as a whole.  
+(iv) Continuous Market Clearing : Classical economists assumed that prices 
+and wage rates are flexible. As you know from microeconomics, 
+equilibrium price is determined at the level where supply and demand are 
+equal. Given the supply and demand curves, if demand is more compared to 
+supply, price will increase. Similarly, if supply is more compared to 
+demand, price will decrease. This principle applies not only to 
+commodities, but also to wage rate. If supply of labour is more than its 
+
+
+--- Page 12 ---
+ 
+12 
+ 
+Traditional Approaches 
+to Macroeconomics 
+demand, there will be a decline in wage rate till supply of labour equates its 
+demand. An implication of the above is that there is no unemployment in 
+the economy – wage rate will decline till all workers are employed. There is 
+no disequilibrium in the market.  
+(v) Perfect Competition : Classical economists assumed that there is perfect 
+competition in the market so that markets function smoothly. As there is 
+full employment (due to flexibility in wage rate), production is always at 
+the full employment level. An implication of the above is that there is no 
+scope for ups and downs in the level of output. Going by this logic, the 
+classical economists ruled out the possibility of ‘business cycle’. 
+(vi) Say’s Law of Market : Classical economists believed that production or 
+supply is the key to economic prosperity. Thus, they emphasized more on 
+the supply side of the economy. This approach is summarized very well in 
+the Say’s law, named after the prominent classical economist J B Say. 
+According to J B Say, ‘supply creates its own demand’. Whenever some 
+production takes place, there is a stream of income in the hands of people, 
+which generates demand.  
+A person should have produced something to sell (say, for example, labour) 
+and thereby earned certain income. Thus, in the classical viewpoint, there is 
+no scope of deficiency of demand in the economy. Therefore, primary 
+concern before an economy is production or supply, not demand.  
+(vii) Neutrality of Money: According to classical economists, economic growth 
+of an economy is due to increase in the factors of production and 
+technological progress. Money is just a medium of exchange; and it 
+facilitates transactions among economic agents. Thus, increase in money 
+supply does not affect the level of output – it only leads to increase in prices 
+(see quantity theory of money discussed below). They believed that there is 
+dichotomy between monetary variables such as money supply and prices, 
+and real variables such as output and employment. Thus, classical 
+economists stressed the role of real factors in deciding the real variables 
+such as output and employment. As mentioned earlier, classical economists 
+believed in free market systems without government intervention. 
+Determination of output, employment and interest rate in the classical 
+system is given below.  
+We discuss some of the major issues in the next section. 
+Check Your Progress 1 
+ 1)  Write down the important features of classical theory. 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+
+
+--- Page 13 ---
+ 
+13 
+ 
+The Classical    
+Approach 
+ 2)  What are the main features of new-classical economics?  
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+1.4  DETERMINATION OF OUTPUT AND 
+ EMPLOYMENT 
+The classical theory is based on the following assumptions:  
+a) firms and workers are optimisers,  
+b) they have perfect knowledge, and  
+c) they operate in competitive (perfect) markets. 
+An implication of the above is that wages and prices are fully flexible. Under 
+perfect competition, the demand for labour for the profit maximising firms is  
+P = W/MPN        … (1.1) 
+where, P is the product price, 
+W is nominal wages, and  
+MPN is the marginal product of labour. 
+As there is perfect competition, P is equal to Marginal Revenue (MR) which is 
+received from t h e sale of one unit of output. Here, W/MPN represents the 
+marginal cost of production, that is, the cost of production of an additional unit of 
+output.  
+Equation (1.1) can be rewritten as  
+MPN = W/P        … (1.2) 
+(We denote nominal wage by W and real wage by its lower case, i.e., w)  
+Equation (1.2) indicates that the marginal product of labour is equal to the real 
+wage (W/P). Hence, the labour demand curve in terms of real wage is nothing but 
+the Marginal Product of Labour. The labour demand curve is downward sloping. 
+MPN d = f (W / P)        … (1.3) 
+The of supply of labour varies positively with the real wage. It assumes that 
+individual labour maximises its utility. 
+This can be written as  
+Ns = g (W / P)        … (1.4) 
+where Ns indicates the supply of labour. We explain below in Fig. 1.1 the 
+equilibrium in the labour market. Note that the labour market is in equilibrium at 
+full employment of labour. At the equilibrium point, the supply of labour is 
+equal to demand for labour. In the upper panel, we provide labour supply and 
+labour demand as functions of real wage ቀ
+ௐ
+௉ ቁതതതതത. In the lower panel, we provide 
+labour supply and labour demand as functions of nominal wage. As price level 
+
+
+--- Page 14 ---
+ 
+14 
+ 
+Traditional Approaches 
+to Macroeconomics 
+increases from 𝑃1 to 𝑃2 and then to 𝑃3, real wage can be maintained at the same 
+level if nominal wage increases to 2W and 3W respectively. The shifts in the 
+supply curve of labour and demand curve of labour are shown in panel (b) of Fig. 
+1.1. Notice that there is no change in labour supply, as full employment is 
+ensured (since there is no change in real wage). If there is an increase in output 
+prices, but no increase in nominal wage rate, there will be a decline in real wage. 
+This will lead to a decrease in labour supply. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            Fig.1.1: Supply of and Demand for Labour 
+3𝑊ଵ
+3𝑃ଵ
+= 2𝑊ଵ
+2𝑃ଵ
+ = 𝑊ଵ
+𝑃ଵ
+ 
+ 
+Real Wage 
+N N1 
+𝑁௦ = 𝑔 ൬𝑊
+𝑃 ൰ 
+𝑀𝑃𝑁 = 𝑁ௗ = 𝑓 ൬𝑊
+𝑃 ൰ 
+𝑊
+𝑃  
+ 𝑊ଵ 
+MPN(3P1) 
+2𝑊ଵ 
+3𝑊ଵ 
+𝑊 
+Normal Wage 
+Labour 
+Ns(P3) 
+N1 
+Ns(P2) 
+Ns(P1) 
+N2 N0 
+MPN(2P1) MPN(P1) 
+Employment 
+
+
+--- Page 15 ---
+ 
+15 
+ 
+The Classical    
+Approach 
+Let us assume that there are only two factors of production, i.e., labour and 
+capital. Output is determined by the production function Y=F(K,N) as given in 
+Fig. 1.2, panel (b). Equilibrium in the labour market (see panel (a) of Fig. 1.2) 
+determines the full employment labour supply and real wage rate. Based on that 
+full employment out is given in panel (b) of Fig. 1.2. As you can see, the 
+economy operates with full employment output (Y 0) and full employment labour 
+supply (N0).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                               Fig. 1.2: Equilibrium Output and Employment 
+A 
+ ൬𝑊
+𝑃 ൰ ௢   
+Real Wage 
+Employment N0 
+𝑁 ௦ 
+𝑀𝑃𝑁 = 𝑁ௗ  
+𝑊
+𝑃  
+Labor Market Equilibrium 
+N 
+Output 
+𝑌 
+A  𝑌௢   
+ 
+Employment N0 
+𝑌 = 𝐹(𝐾, 𝑁) 
+Output Determination 
+N 
+
+
+--- Page 16 ---
+ 
+16 
+ 
+Traditional Approaches 
+to Macroeconomics 
+Since there is full employment in the economy all the time, with a given 
+production function and capital, the Aggregate Supply (AS) is inelastic at full 
+employment level of output. In Fig 1.3 we have shown the AS curve as a vertical 
+straight line. Note that the AS curve will shift if there is a change in the level of 
+technology (production function) or the level of capital.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                         Fig. 1.3: Aggregate Supply Curve 
+1.5  QUANTITY THEORY OF MONEY  
+To understand the effects of changes in the stock of money, we need to study the 
+money market equilibrium. Money is a stock variable. Its stock means its 
+quantity at a point of time. Money is an asset demanded by the public for its 
+holding. Money is supplied by the government and the banking system. The 
+interaction of the demand for money and the supply of money create a money 
+market. In this unit, we assume that the monetary authority autonomously 
+determines the supply of money in an economy. Hence, the aggregate demand for 
+money refers to the demand for money by the public. Thus, demand for money 
+means the sum of all the money demanded by individual members of the public, 
+whether households or firms.  
+There are various theories of demand for money, such as (i) the classical theory 
+of demand for money, or the Quantity Theory of Money (QTM); (ii) the 
+Keynesian theory of demand for money; and (iii) Friedman’s restatement of 
+Classical QTM. In this Unit, we will discuss the classical theory of demand for 
+money. It is popularly known as the QTM, which is basically a theory of the 
+price level. Recall that money has four functions; (i) a medium of exchange, (ii) a 
+standard of deferred payment, (iii) a store of value, and (iv) a unit of account. 
+According to classical economists, money is demanded for its function as a 
+medium of exchange. There are several versions of the popular classical QTM. 
+Below we present the transaction version, which is known as the Fisher’s 
+equation of exchange: 
+Y1
+AS 
+Y
+3P1
+2P1
+P
+Output 
+Aggregate Price Level 
+
+
+--- Page 17 ---
+ 
+17 
+ 
+The Classical    
+Approach 
+M.V = P.T         … (1.5) 
+where, 
+T is number of transactions of average size, and proxy for income level 
+M is quantity o f  money supply, 
+V  is velocity of circulation of money, and 
+P  i s  the average price level. 
+Classical economists rely heavily on the QTM to establish the theory of demand 
+for money. The QTM says that there is a proportional relationship between the 
+amount of money held by the public and the price level. As per the classical 
+assumption of full employment, the output level is given. Hence, T in equation 
+(1.5) is fixed as a proxy for national income. Further, V is defined as the number 
+of times a rupee moves from one hand to another during a given period. This 
+means that it relies on the public’s payment behaviour, which is constant in the 
+long run. 
+The right-hand side of equation (1.5), PT represents the total amount of money 
+required to facilitate transactions, i.e., the purchase or sale of total output in the 
+economy. The left-hand side of equation (1.5) In the same equation, the left-side 
+term MV is the product of the number of rupees in circulation and the number of 
+times each is used for public payments. Hence, MV represents the total amount 
+of money available for transactions during the given period. Equilibrium is 
+achieved in the system at the point where money demanded (PT) equals money 
+supply (MV). 
+The equation (1.5) can be rewritten as below,  
+𝑃 =
+௏
+்
+𝑀        … (1.6)   
+As mentioned earlier, the terms V and T are constants in equation (1.6). Thus, the 
+equation indicates that money supply directly affects price level. For instance, if 
+M is increased by four times, price level P will rise by four times. Therefore, 
+classical QTM is known as a theory of price level. 
+The other approach of classical QTM describes the relationship between the 
+demand for money and ‘nominal output’ by taking directly real output instead of 
+number of transactions. In equation form, it can be expressed as 
+MV = PY         … (1.7)  
+where,  
+M  is the money supply 
+V  is the velocity of money that is the number of times the money changes 
+hand. 
+P  is the output price, and  
+Y  is the real output level. 
+
+
+--- Page 18 ---
+ 
+18 
+ 
+Traditional Approaches 
+to Macroeconomics 
+The total stock of money in the economy, measured by money supply times the 
+velocity of circulation (MV), equals the nominal value of transactions or the 
+nominal value of income or output in the economy (PY). The identity given at 
+(1.7) is converted into the QTM under the assumption that Y and V are stable or 
+constant in the short run. With Y and V being constant, the assumption that price 
+level is passive means that P depends on changes in M rather than M depends on 
+changes in P. These assumptions indicate that any short-run decrease (or 
+increase) in M must lead to a proportional decrease (or increase) in P. Relaxation 
+or invalidity of any one of these assumptions would not hold the proportionality 
+relationship of P with M.  
+According to classical theory, under perfect competition with full employment in 
+the economy, the output level is fixed ( 𝑌ሬ⃑). The velocity of circulation is 
+predetermined (𝑉ሬ⃑) and money supply is exogenously given. From equation (1.6), 
+Price level (P) is proportional to the money supply (M). 
+𝑃 = (𝑉ሬሬ⃑ 𝑌ሬሬ⃑⁄ ) × 𝑀 … (1.8) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1.4: Equilibrium Output and Prices 
+Thus, the labour market and production function determine the output level while 
+money supply determines the price level in the classical scheme. The quantity 
+theory of the money also gives the aggregate demand curve (see Fig. 1.4). 
+Although the classical theory is accepted by most economists, Keynesian 
+economists and Monetarists have criticized it. They believe that the classical 
+theory fails in the short run when the prices are sticky. Also, it has been 
+established that the velocity of money does not remain constant over  
+time. Nevertheless, the classical theory can be used to understand and control 
+inflation in the economy. 
+AD0
+AS 
+E 
+P
+Y 𝑌ത 

@@ -1,0 +1,489 @@
+--- Page 1 ---
+ 
+ 
+UNIT 15  CENTRAL BANKS AND THE SUPPLY 
+   OF MONEY  
+Structure 
+15.0  Objectives 
+15.1  Introduction  
+15.2  Money Supply 
+ 15.2.1 Measurement of Money  
+ 15.2.2 Money Multiplier 
+ 15.2.3 An Alternative Interpretation of Money Multiplier 
+15.3  Open Market Operations 
+15.4  Let Us Sum Up 
+15.6 Answer/ Hints to Check Your Progress Exercises 
+15.0  OBJECTIVES 
+After going through this Unit you should be in a position to 
+ discuss how the supply of money is measured; 
+ identify the components of money supply; 
+ explain how changes in money supply take place; and 
+ analyse the scope of open market operations. 
+ 
+15.1  INTRODUCTION 
+Many years ago, around 6000 BC, when money was not invented, there was the 
+barter system. Under this system, people used to trade goods and services with 
+one another in the absence of money. As money was not invented, people 
+exchanged goods and services for other goods and services in return. The 
+disadvantage of this system was that one could exchange items only when there 
+was a ‘coincidence of wants’ (also called double coincidence of wants). For 
+example, I have wheat with me and I want apple in exchange. I should look for a 
+person who has apple and wants to exchange it for wheat. This sort of 
+coincidence, as you could imagine, was rare and created difficulties in transaction 
+of goods and services. When money got invented, exchange process became 
+smooth enough.  
+Money is anything that is commonly accepted by people for the exchange of 
+goods and services. Every country has its own system of currencies in the form of 
+coins and paper notes. Money in its present form however is a recent 
+phenomenon. In the olden days, there were other entities which were considered 
+as money. There was a lot of experimentation in the search for an ideal 
+commodity which could serve the purpose of money. In this experimentation 
+ 
+ Dr. Jagannath Mallick, Independent Researcher, Delhi  
+
+
+--- Page 2 ---
+ 
+236 
+ 
+Issues in  
+Monetary Policy 
+there were animals, valuable commodities and precious metals. Salt, seeds, cattle, 
+tea, etc. were popular commodities to be used as money in the past. Commodity 
+money provided intrinsic value, but it faced certain difficulties in terms of 
+transportation, storage, and lack of longevity. This led to introduction of coins 
+made of precious metals such as gold and silver as money. Finally, non-precious 
+materials have been used to make money, as we see today (such as coins and 
+paper currencies). These are known as fiat money – they have neither intrinsic 
+value nor can they be redeemed for any precious commodity. A currency note 
+can be exchanged only with currency notes of other denominations.  
+There are certain criteria that money should fulfil, viz., (i) it should be amenable 
+to standardisation so that all units are uniform, (ii) it should be acceptable by all, 
+(iii) it should be divisible so that it can be exchanged with currencies of other 
+denominations, (iv) it is easy to carry, and (v) it has certain longevity. 
+Commodity money did not fulfil most of these criteria while the present day 
+paper money fulfils all the criteria.  
+Money has three important functions to play, viz., (i) unit of account, (ii) medium 
+of exchange, and (iii) store of value. Price of a commodity, which represents its 
+market value, is expressed in terms of money. Thus money acts as a unit of 
+account or a measure of value. Further, money can be used any time, at present or 
+in future, to purchase any commodity. Thus it can be stored, from the time it is 
+received till it is spent on purchase of some goods and services. Thus, having 
+money entitles a person to certain purchasing power. Since each and every 
+commodity is expressed in terms of price, it is easier to exchange goods and 
+services. In fact, every transaction, whether selling or buying, can be seen as an 
+exchange between the commodity concerned and money. Thus, money eliminates 
+the problem of coincidence of wants and the process of exchange of commodities 
+becomes smooth. 
+15.2  MEASURES OF MONEY SUPPLY 
+Money is issued by the Central Bank of the country concerned. In India, for 
+example, the Reserve Bank of India (RBI) issues currency notes of several 
+denominations. Coins of several denominations are issued by the Government of 
+India, but circulated by the RBI. The RBI is responsible for design, production 
+and management of currencies in the country. By money supply we mean the 
+total amount of currency and other liquid instruments circulating in the country. 
+You should note that there is no unique definition of ‘money supply’, either as a 
+concept in economic theory or as measured in practice. Money is defined by the 
+functions it performs. Thus when we look into its ‘store of value’ function, there 
+could be several instruments of storing money – as cash in hand, as savings 
+deposit in a bank, as fixed deposit in a bank or post office, etc. Remember that 
+each of these methods have different levels of liquidity. Similarly, acceptability 
+of money as a ‘medium of exchange’ is not limited to currency in circulation. 
+You can make payments through several methods such as cash, cheque and 
+electronic transactions – each one being different in terms of liquidity. 
+Remember that cheque and electronic transactions are backed by fiat money. 
+
+
+--- Page 3 ---
+ 
+237 
+ 
+Central Banks and the 
+Supply of Money 
+Since these instruments perform the functions of money, it is not appropriate to 
+restrict money supply to currencies in circulation only. 
+Total stock of money includes all the money held with the public, the RBI as well 
+as the government. By money supply we mean the first component only (that is, 
+money held with the public). Here, the word ‘public’ includes the households, 
+firms, local authorities, and companies. Money held by the RBI and the 
+government are not included in money supply. Thus money supply does not 
+include money held as cash reserve ratio (CRR) with the RBI, statutory liquidity 
+ratio (SLR) with the commercial banks, and money held by the government as 
+these are out of circulation.  
+Let us look into the definition of various measures of money stock in India. Since 
+July 1935, the RBI is the sole authority to compile and disseminate the statistics 
+on monetary indicators in India. Based on the changes in the structure of the 
+Indian economy various working groups were set up over the years to review and 
+redefine the monetary aggregates. The First Working Group on Money Supply 
+(FWG) was set up in (1961), the Second Working Group (SWG) was formed in 
+(1977) and the “Working Group on Money Supply: Analytics and Methodology 
+of Compilation” (WGMS) was formed in (1998). The Monetary aggregates are 
+published on a regular basis in various publications of the RBI such as Annual 
+Report, Handbook of Statistics, and the RBI Bulletin. 
+From policy perspectives, money can be defined as the set of liquid financial 
+assets, whose variation in the stock could influence aggregate economic activity. 
+The quantification and study of the money supply directs the policy makers and 
+economists to design the policy of changing money supply according to the 
+situations in an economy. Thus, a range of monetary and liquidity measures are 
+compiled in India (see Table 15.1 for their definitions). 
+ 
+Table 15.1: Measures of Monetary and Liquidity Aggregates 
+ 
+M0 = Reserve Money 
+ = Currency in circulation + Bankers’ deposits with RBI +‘Other 
+deposits’ with the RBI 
+ = Net RBI credit to the Government + RBI credit to the 
+commercial sector +RBI’s claims on banks + RBI’s net foreign 
+assets + Government’s currency liabilities to the public –  RBI’s 
+net non-monetary liabilities 
+ 
+M1 = Currency with the public + Demand deposits with the banking 
+system + ‘Other deposits’ with RBI. 
+ 
+
+
+--- Page 4 ---
+ 
+238 
+ 
+Issues in  
+Monetary Policy M2 = M1 + Savings deposits of post office savings banks 
+ 
+M3 = M1+ Time deposits with the banking system 
+ 
+M4 = M3 + All deposits with post office savings banks (excluding 
+National Savings Certificates) 
+ 
+NM0 = Monetary base  
+ = currency in circulation + Bankers deposits with RBI + 'other 
+deposits' with RBI 
+ 
+NM1 = Currency with the public + Demand deposits with the banking 
+system + ‘Other deposits’ with the RBI 
+ 
+NM2 = NM1 + Short-term time deposits of residents (including and up 
+to the contractual maturity of one year) 
+ 
+NM3 = NM2 + Long-term time deposits of residents + Call/ Term 
+funding from financial institutions 
+ 
+L1 = NM3 + All deposits with the post office savings banks 
+(excluding National Savings Certificates) 
+ 
+L2 = L1 + Term deposits with term lending institutions and 
+refinancing institutions (FIs) + Term borrowing by FIs + 
+Certificates of deposit issued by FIs 
+ 
+L3 = L2 +Public deposits of the non-banking financial companies 
+ 
+Notes: Net Bank Credit to the Government  = Net RBI Credit to the Government 
+(i.e., Net RBI Credit to the Centre + Net RBI Credit to State 
+Governments) + other banks’ credit to the Government 
+
+
+--- Page 5 ---
+ 
+239 
+ 
+Central Banks and the 
+Supply of Money 
+Bank Credit to the Commercial Sector = RBI credit to the commercial 
+sector + other banks’ credit to the commercial sector 
+Net foreign assets of the banking sector  = RBI’s net foreign assets + other 
+banks’ foreign assets 
+Net non- monetary liabilities of the banking sector = RBI’s net non-
+monetary liabilities + Net non-monetary liabilities of other banks. 
+Source: RBI 
+You should note that M0 is known as ‘monetary base’, ‘reserve money’, ‘central 
+bank money’, or ‘high-powered money’. The monetary measure M1 includes 
+M0, demand deposits with commercial banks, and other deposits with the RBI 
+(such as deposits of other financial institutions apart from banks, internal amount 
+pending adjustments, etc.). The measures M0 and M1 are sometimes called 
+‘narrow money’ as they indicate money supply that can be easily converted into 
+cash. If we add post office saving bank deposits to M1, we obtain M2. Further, if 
+we add time deposits (also called fixed deposits) to M1 we obtain M3. If we add 
+total post office deposits to M3, we obtain M4.  
+While M0, M1 and M3 are widely used in India, M2 and M4 are rarely used. The 
+RBI started publication of new set of monetary aggregate (NM0 to NM3) and 
+liquidity aggregates (L1 to L3) following the suggestions of WGMS in 1998. The 
+measures NM2 and NM3 are applicable to the residents of the country. Currency 
+and deposits held by non-resident Indians are normally recorded in the balance of 
+payments accounts as international capital flows. However, it may not be 
+appropriate to exclude all categories of non-resident deposits from domestic 
+monetary aggregates as non-resident rupee deposits are essentially integrated into 
+the domestic monetary market. Hence, the non-resident repatriable foreign 
+currency fixed deposits such as foreign currency non-resident (bank) or FCNR 
+(B), Resurgent India Bonds (RIBs), and India Millennium Deposits (IMDs) are 
+excluded from deposit liabilities and they are treated as external liabilities. Other 
+features of the new monetary and liquidity aggregates are as follows: 
+1. There are the four measures of monetary aggregates (NM0, NM1, NM2, 
+NM3) and three measures of liquidity aggregates (L1, L2, L3) in India.  
+a) NM0 is the monetary base.  
+b) The NM1 is the non-interest bearing monetary liabilities of the 
+banking sector 
+c) NM2 represents the transactions balances of entities.  
+d) NM3 includes NM2, long-term time deposits of residents and 
+the call funding that the banking system obtains from other 
+financial institutions. 
+2. Bank credit affects directly the consumption and capital formation. 
+Provision of adequate flow of credit to the productive sectors is one of the 
+important objectives of the monetary policy of RBI. The bank credit to 
+the commercial sector includes advances in the form of loans, cash credit, 
+
+
+--- Page 6 ---
+ 
+240 
+ 
+Issues in  
+Monetary Policy 
+overdrafts, bills purchased and discounted, and investments in approved 
+securities other than government securities. Further, in recent years, 
+commercial banks are investing in various securities of the commercial 
+sector like commercial paper, shares and debentures. 
+3. Net foreign exchange assets (NFA) of the banking sector include net 
+foreign exchange assets of RBI and foreign assets of other bank. The 
+latter include banks holdings of foreign currency assets net of i) their 
+holdings of non-resident repatriable foreign currency fixed deposits which 
+is presently defined to include FCNR(B) deposits, and ii) overseas foreign 
+currency borrowings. 
+Check Your Progress 1 
+1) State the various aggregate measures of money supply in India. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+2) Explain the differences between NM0, NM1, NM2 and NM3. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................   
+3) What are the liquidity aggregates in India? 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................  
+15.3  MONEY MULTIPLIER 
+The commercial banks in an economy operate on the basis of fractional reserve 
+system. Suppose you deposit Rs. 1000 in a bank. The bank has to deposit a 
+fraction of it with the central bank (In India, for example, the cash reserve ratio is 
+4.5 per cent in 2022; thus the bank has to deposit Rs. 45 with the reserve bank of 
+India). Further, the bank has to retain certain percentage in the form of cash, gold 
+and securities. This percentage is called statutory liquidity ratio (SLR). The SLR 
+as of 2022 in India is 18 per cent, so that the bank has to maintain a SLR of Rs. 
+180. The bank knows that all the customers will not withdraw their savings at the 
+same time. Therefore, the bank extends credit to its customers out of the 
+remaining amount, i.e., 775. When individuals receive Rs. 775 as loans, and 
+spend it, there is an increase in income of some individuals to the extent of Rs. 
+
+
+--- Page 7 ---
+ 
+241 
+ 
+Central Banks and the 
+Supply of Money 
+775. These individuals deposit part of this Rs. 775 in banks. The bank, on 
+receiving the deposit, is in a position to extend further loans, and the process goes 
+on.  
+Thus, the monetary base expands to an effective money supply through bank 
+lending. The excess of the deposits of the general public over bank reserves is 
+lent out in the form of bank loans, or government or corporate bonds. The non-
+bank public then deposits a fraction of these loans on checking accounts. Next, 
+the banks lend out a fraction of these and so on. This process is called the money 
+multiplier process. The ratio of the money stock measured as M1 to the monetary 
+base, M0, is defined as the money multiplier, which is also equal to the inverse of 
+the ‘reserve ratio’ or ‘cash reserve ratio (CRR)’. Let us assume that the required 
+reserve ratio is 25 per cent of total deposits (= demand deposits +time deposits, 
+which is the liabilities of the banks) by public with the banks. So, the money 
+multiplier is 
+ଵ
+଴ .ଶହ
+ = 4. 
+15.3.1 Mathematical Derivation of Money Multiplier 
+For mathematical representation, let us assume 
+C = currency held by the general public, 
+D = demand deposits held by the general public, 
+𝐶 𝐷⁄  = 𝑐𝑑, the desired currency deposit ratio (It implies, C = cd D) 
+R = bank reserves = currency held by the commercial banks plus their demand 
+deposits in the central bank, 
+𝑅 𝐷⁄  = 𝑟𝑑;  the required reserve ratio (It implies, R = rd D) 
+It is important to mention that cd is chosen by the non-bank public, whereas rd is 
+determined by the central bank in the form of CRR and excess reserves in India. 
+The reserve ratio is meant to maintain liquidity in the economy. In addition, 
+banks may hold excess reserves according to their requirements of liquidity and 
+lending risks. 
+Now, M1 = C + D =cd D + D = (cd +1)D    … (15.1) 
+Monetary base =M0 = C + R =cd D + rd D = (cd +rd)D 
+Therefore, D = 
+ெ଴
+௖ௗା௥ௗ        … (15.2) 
+Substituting the value of D from (15.2) in (15.1), we obtain 
+𝑀1 =
+௖ௗାଵ
+௖ௗା௥ௗ  M0 = 𝑚M0        
+where m = 
+௖ௗାଵ
+௖ௗା௥ௗ .       …(15.3) 
+The term m in equation (15.3) is the ‘money multiplier’. It indicates the multiple 
+by which money supply will increase, given the monetary base of the country. 
+Suppose, for example, cd = 0.4 and rd = 0.1. In this case the money multiplier 
+would be m = 2.8. 
+
+
+--- Page 8 ---
+ 
+242 
+ 
+Issues in  
+Monetary Policy 
+There are four implications of equation (15.3).  
+a) Money multiplier will be higher if we consider a broader measure of 
+money supply (say, M3 in place of M1).  
+b) It is important to mention that m depends upon the value of currency-
+deposit ratio (cd) and reserve ratio ( rd). Any change in the value of these 
+two parameters will change the value of m. The parameters cd and rd 
+depend on various factors such as expected returns, degree of liquidity, 
+and risk on alternative assets from the customers and bank’s perspectives.  
+c) We can say that ∆𝑀1 = 𝑚∆M0. If we know the value of m, we can 
+estimate by what extent M0 should be increased for a desired level of M1.   
+d) For given values of M0 and cd, the money supply will decrease with 
+higher reserve-deposit ratio ( rd) and vice versa. Now you can relate how 
+changes in CRR and SLR influence money supply. An increase in CRR 
+and SLR will decrease money multiplier. With the same monetary base, 
+for implementation of a restrictive monetary policy the RBI will increase 
+the reserve deposit ratio.  
+Money multiplier is generally stable under normal periods, but not always. For 
+instance, during the early part of the Great Depression (1929 to 1933), there was 
+significant decline in the value of the money multiplier in the US. Hence, 
+depositors became nervous about the financial condition of banks, and withdrew 
+their deposits. It led to an increase in cd; simultaneously it compelled banks to 
+hold more reserves which increased rd.  
+15.3.2 An Alternative Interpretation of Money Multiplier 
+You may recall that money multiplier is defined as the ratio 
+ெଵ
+ெ଴
+ . From equation 
+(15.1) we know that M1 = ( cd +1)D . Now let us denote the public’s desired 
+currency-money ratio as cm = 
+஼
+ெଵ  . By substituting the value M1= ( cd +1)D from 
+equation (15.1), we obtain  
+cm = C/(cd + 1)D = (C/D)/(cd + 1)  
+Thus we have 
+cm = 
+௖ௗ
+௖ௗାଵ        …(15.4) 
+and, (1– cm) = 1– 
+௖ௗ
+௖ௗାଵ  = 
+ଵ
+௖ௗାଵ      …(15.5) 
+ 
+Substituting the above values in (15.3), we obtain  
+𝑀1 =
+௖ௗାଵ
+௖ௗା௥ௗ  M0 =
+ଵ
+೎೏
+೎೏శభ ା ೝ೏
+೎೏శభ
+M0 =
+ଵ
+௖௠  ା௥ௗ  (ଵି௖௠ ) M0 =
+ଵ
+ଵି (ଵି୰ୢ )(ଵିୡ୫ ) 𝑀0   
+…(15.6) 
+ 
+
+
+--- Page 9 ---
+ 
+243 
+ 
+Central Banks and the 
+Supply of Money 
+The monetary base is controlled by the central bank through variations in CRR 
+and SLR. Apart from the above, there are channels such as open market 
+operations, interest rates, and exchange rates.  
+To understand the mechanism of the effect of open market operations on the 
+money supply, let us assume that the RBI increases M0 by the amount ∆M0 
+through open-market operations such as buying bonds. A seller of the bonds 
+keeps the fraction cm as cash and deposits the remaining portion, (1– cm), at the 
+bank. At the second round, the bank keeps the fraction rd of (1– cm) ∆M0 as 
+reserves. The remaining amount, i.e., (1 – rd)(1 – cm)∆M0 is given as loans to 
+customers or buys bonds from the RBI. The money supply will be further 
+increased by (1 − 𝑐𝑑)ଶ (1 − 𝑐𝑚)ଶ ∆M0 in the third round, and so on. 
+If cm and rd are constant (for simplicity), the total increase in money supply at 
+the end would be: 
+∆𝑀1 = ∆M0 + (1 − rd)(1 − cm)∆M0 + (1 − rd)ଶ (1 − 𝑐𝑚)ଶ ∆M0 + ⋯ =
+ଵ
+ଵି (ଵି୰ୢ )(ଵିୡ୫ )
+∆𝑀0   ... (15.7) 
+(Equation (15.7) can be seen as an infinite geometric series. We apply the 
+algebraic rule of sum of geometric series.) 
+We can conclude that an increase in monetary base by a specific amount leads to 
+an increase in the money supply by m times of the increase in the monetary base. 
+Check Your Progress 2 
+1) Define money multiplier. Derive the money multiplier in terms of desired 
+currency-deposit ratio and desired reserve-deposit ratio. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+2) What is the non-bank public’s desired currency-money ratio? Explain 
+how it is related to the money multiplier. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+15.3  OPEN MARKET OPERATIONS 
+As we have discussed earlier, there are four main functions of a central bank.  
+1. They act as the banker’s bank or ‘lender of last resort’. They are 
+responsible for maintaining solvency and liquidity of the commercial 
+banks. 
+
+
+--- Page 10 ---
+ 
+244 
+ 
+Issues in  
+Monetary Policy 
+2. They promote stable economic growth. 
+3. They act as the stabiliser of the purchasing power of the currency, or 
+maintain stable inflation.  
+4. They manage the exchange rate in the market to reduce the volatility. 
+While these functions are complementary, there could be situations when one 
+function conflicts with another. For instance, controlling of inflation can be 
+sometimes achieved at the cost of economic growth. Thus when the objective is 
+‘inflation targeting’, economic growth may be somewhat lower. Similarly, in 
+times of crisis the central bank raises the money supply to maintain liquidity in 
+the economy and it creates inflationary pressure. The central banks work to 
+achieve certain goals mainly targeting the interest rates, money supply targets 
+and exchange rates, which are done through the monetary policy such as Open 
+Market Operations (OMO), changes in reserve requirements, or changes in the 
+bank rate. 
+Let us focus on the OMO. This is a popular policy tool available to central banks 
+to influence the monetary base. Through this policy, the central bank buys 
+government securities from the commercial banks and other financial institutions 
+with an objective of increasing the monetary base. Such a policy stance is called 
+expansionary monetary policy. The central bank makes payment for these 
+securities in the form of reserves credited to the account held by the commercial 
+banks with the central bank. It leads to a change in the composition of assets of 
+the balance sheet of the commercial bank. It lowers the income producing assets 
+like securities and increases the non-income producing assets like excess reserves 
+of the commercial banks. Then, the commercial banks would try to convert a part 
+or all of these excess reserves to provide new loans by lowering its interest rate. 
+The central banks adopt expansionary monetary policy in a situation of higher 
+demand for liquidity to keep the interest rates in check.  
+In contrast, the central bank opts for a contractionary monetary policy if its 
+objective is to reduce the monetary base. In this case, the central bank sells the 
+government securities to the commercial banks or other institutions to siphon-out 
+some money from circulation. This process of increasing or reducing the 
+monetary base by using the expansionary (contractionary) monetary policy, 
+through buying (selling) of the government securities is known as the Open 
+Market Operations. Recall that change in monetary base leads to change in 
+money supply through the money multiplier.  
+  
+ 

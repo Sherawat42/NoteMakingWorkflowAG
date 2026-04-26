@@ -1,0 +1,445 @@
+--- Page 23 ---
+ 
+ 
+UNIT 14 SEARCH THEORY AND    
+  UNEMPLOYMENT  
+ 
+Structure 
+14.0 Objectives 
+14.1 Introduction 
+14.2 Search Theory and Theories of Unemployment 
+14.3 Search Theories – A Brief Historical Overview 
+14.4 A Search and Matching Model 
+14.4.1 Model Specification 
+ 14.4.2 Model Solution and the Equilibrium Rate of Unemployment 
+ 14.4.3 Optimality of the Equilibrium Unemployment Rate 
+ 14.4.4 Dynamics of Unemployment and Real Wages through Productivity  
+ Shocks 
+14.5 Some Alternative Search Models 
+14.6 Significance of the Concept and Theory of Search Unemployment 
+14.7 Let Us Sum Up 
+14.8 Answers/ Hints to Check Your Progress Exercises 
+14.0 OBJECTIVES  
+After going through this unit you should be in a position to: 
+ explain the basic difference between Walrasian and non-Walrasian theories of 
+unemployment; 
+ appreciate that the search and matching models are an extension of the 
+neoclassical/ monetarist theories of employment and unemployment; 
+ appreciate the context in which the search theory of unemployment was 
+developed; 
+ explain the use of a specific search and matching model to determine 
+unemployment and its variation over time; and 
+ describe certain alternative search and matching models. 
+14.0 INTRODUCTION  
+A major problem with the labour market is that the demand for labour does not 
+match the supply of labour, with an implication that certain percentage of the 
+labour force remains unemployed. It is interesting to note that in the labour 
+market there are workers without jobs while there are jobs without workers. Thus 
+there are some unemployed workers who are in search of jobs and there are 
+certain vacancies which are waiting to be filled up. Economists attribute it to 
+ 
+ Prof. Avadhoot Nadkarni (retd.), University of Mumbai 
+
+
+--- Page 24 ---
+ 
+222 
+ 
+Labour Markets various frictions and structural issues in an economy. The problem comes up 
+because (i) labour as a category is heterogeneous, and (ii) certain costs (including 
+money and time) are involved in the recruitment process. These characteristics of 
+the labour market has prompted economists to propagate search and matching 
+models of unemployment. The neoclassical theories have the drawback that they 
+are unable to explain prolonged periods of involuntary unemployment 
+experienced by an individual that characterise the real world. In classical theory 
+the prevailing unemployment is always voluntary unemployment. Keynesian 
+theories, on the other hand, explain the real world phenomenon of unemployment 
+as involuntary unemployment by invoking the idea of deficiency of aggregate 
+demand. Keynesian models, however, lack the elegance of the neoclassical 
+models of employment and output. In particular, the Keynesian models do not 
+provide microeconomic foundations for the rigidities in prices and wages that are 
+postulated to show the existence of involuntary unemployment in the economy. 
+In this Unit we will examine further developments of these traditional theories. 
+The main difference between the developments based on the Neoclassical 
+theories and the developments springing from the Keynesian theories is that the 
+former are based on the Walrasian general equilibrium model of perfectly 
+competitive markets, whereas the latter are based on some non-Walrasian 
+features introduced into the analysis, e.g., imperfect competition. In a Walrasian 
+general equilibrium model, labour market is, like all other markets in the 
+economy is a perfectly competitive one and there is no reason why the market 
+should not clear. Involuntary unemployment is inconsistent with a Walrasian 
+setting, so that if unemployment exists, it must be due to some non-Walrasian 
+characteristics of the labour market. 
+The search theory that we are going to study in this unit becomes important 
+because it shows that unemployment can exist as an equilibrium phenomenon 
+even in a Walrasian setting of perfectly competitive labour markets. We begin, in 
+Section 14.2, placing the search theory in the context of other theories of 
+unemployment that you have studied, or are going to study in this block. 
+14.2 SEARCH THEORY AND THEORIES OF 
+ UNEMPLOYMENT  
+You need to understand the search and matching theories of unemployment in the 
+context of other theories of unemployment. With this objective in view, we 
+classify, in this section, the theories of unemployment that we are studying into 
+four kinds.  
+If there is unemployment in a Walrasian labour market, unemployed workers 
+would immediately bid down wages until supply and demand for labour are again 
+in balance. If this process of bidding down wages is not working freely, there 
+must be distinct reasons for it. We classify the theories of unemployment 
+according to whether the process of wage adjustment is working or not, and 
+
+
+--- Page 25 ---
+ 
+223 
+ 
+Search Theory and 
+Unemployment according to the reason why it is not working in cases where it does not work. In 
+particular, consider an unemployed worker, who claims to be identical to a firm’s 
+current workers, and who offers to work for the firm at a marginally lower wage 
+than the one the firm is currently paying its workers. There are four possible 
+responses of the firm, giving us four kinds of theories of unemployment. These 
+responses are: 
+(i) If the firm accepts the worker’s offer, we can conclude that the market for 
+labour is Walrasian. In this view all observed unemployment is voluntary 
+unemployment – unemployment of people moving between jobs and of 
+those who are ready to work only at wages higher than the prevalent wage 
+rate. This is really the Neoclassical model  of unemployment referred to 
+above. 
+(ii) Secondly, the firm can respond to the unemployed worker’s offer by 
+saying that it does not accept the premise that the unemployed worker is 
+identical to the firm’s current employees. In this view, the labour market 
+is not a market for a homogenous commodity, but is characterised by 
+heterogeneity. Each job is unique and requires the unique skills that are 
+embodied in an individual. The unemployed workers are matched with 
+existing vacancies not through the market, but through a complex process 
+of search and match. The models of unemployment that postulate such a 
+process are called search and matching models. 
+(iii) Thirdly, the firm can respond by saying that, even though it would like to 
+cut the wages and employ the additional worker, it cannot do this because 
+it is bound by implicit and explicit agreements with its workers, arrived at 
+through collective bargaining, regarding the wages that have to be paid. 
+Wages are thus institutionally determined in these models known as 
+contracting models. 
+(iv) Lastly, the firm may respond by saying that it does not want to reduce real 
+wages – it believes that the benefits accruing to it from higher wages are 
+more than the costs of maintaining wages high. Theories that build up on 
+this idea are called efficiency-wage theories in an obvious reference to the 
+fact that higher wages impart benefits to the employing firm by improving 
+the efficiency of labour.  
+In this Unit, you will study in details one of the search and matching models of 
+unemployment referred to in (ii) above. You will study the contracting models 
+and the efficiency-wage theories of unemployment, referred to respectively in 
+(iii) and (iv) above, under the rubric of the New Keynesian Theories of 
+Unemployment in Unit 16.  
+
+
+--- Page 26 ---
+ 
+224 
+ 
+Labour Markets Check Your Progress 1 
+1. Why is a Walrasian general equilibrium model inconsistent with 
+unemployment? 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+2. Suggest a classification of theories of unemployment based on the 
+postulated responses of a firm to an offer by an unemployed worker to 
+work for it at a slightly lower wage. 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+14.3 SEARCH THEORIES – A BRIEF HISTORICAL 
+ OVERVIEW  
+A search theory of unemployment is found even in the writings of A.C. Pigou in 
+the inter-war period. To explain the high unemployment in the period Pigou used 
+an idea you are very familiar with  – that workers are unemployed because wages 
+are too high. Keynes contested this idea in the development of his General 
+Theory of Employment, Interest and Money.  But initially Pigou had tried to 
+explain the high unemployment of the inter-war period with reference to another 
+idea – the idea of frictional unemployment, where unemployment arises as 
+workers shift between jobs, moving to jobs where their productivity is higher. 
+Search and matching unemployment is actually a form of frictional 
+unemployment – unemployment which arises because of the frictions in shifting 
+between jobs generated by the fact that skills are to be matched with vacancies in 
+the job ‘market’. Pigou himself was aware though that jobs were not shifting 
+around too much in the 1920s, so that he ultimately banked more on ‘workers 
+pricing themselves out of the market through trade union activities’ as an 
+explanation for the inter-war unemployment. 
+The idea of search unemployment was subsequently formalised in the 1970s and 
+1980s to make the Neo-classical Walrasian model accord with the reality of the 
+empirically observed and varying unemployment in the labour market, as has 
+
+
+--- Page 27 ---
+ 
+225 
+ 
+Search Theory and 
+Unemployment been indicated to you in the introductory section.  The importance of search in 
+decentralised markets was first emphasized in an influential book edited by 
+Edmund Phelps in 1970 ( Microeconomic Foundations of Employment and 
+Inflation Theory, Norton, New York). This book contains some of the first formal 
+models using search theory to explain unemployment as an equilibrium 
+phenomenon. Lucas and Prescott presented in 1974 a general equilibrium model 
+of unemployment. In this model stochastic sectoral shocks induce workers to 
+move between sectors, but there is a one-period lag by workers in moving 
+between sectors, brought about through search and matching kind of 
+considerations. Unemployment is generated in the model by this lag. 
+In the 1980s, search models were built up as continuous time general equilibrium 
+models, in the tradition of the models built under the real business cycle theory. 
+Noteworthy amongst these are the models by Peter Diamond: the paper titled 
+“Mobility Costs, Frictional Unemployment, and Efficiency” published in the 
+Journal of Political Economy  in 1981, and by Christopher Pissarides: the paper 
+titled “Short-Run Equilibrium Dynamics of Unemployment, Vacancies, and Real 
+Wages” published in the American Economic Review  in 1985.  We have 
+reproduced the titles of the papers for you because they provide a flavour of the 
+concepts and mechanisms used to rationalize unemployment as an equilibrium 
+phenomenon in a Walrasian model. We will examine, very briefly, the model by 
+Pissarides in Section 14.5. Before that, however, let us develop a more complete 
+model of search unemployment in the next section. 
+Check Your Progress 2 
+1. Why was it necessary to augment the neoclassical/ monetarist theory of 
+employment through search and matching kind of models? 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+.......................................................................................................................  
+2. What is frictional unemployment? 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+
+
+--- Page 28 ---
+ 
+226 
+ 
+Labour Markets 14.3 A SEARCH AND MATCHING MODEL  
+It should be clear to you from the earlier section that there are a variety of models 
+under the rubric of search theory. In this section we examine one such model at 
+close quarters. Peter Howitt originally developed the model as “Business Cycles 
+with Costly Search and Recruiting” in the Quarterly Journal of Econometrics  in 
+1988. The exposition here is based on Blanchard and Fischer (2000). Unlike in 
+other sections of this unit, the exposition in this section is necessarily more 
+technical. It is important to follow it through, perhaps with the help of the book, 
+in order to get a flavour of the kind of analysis that you will find in the literature 
+today. The approach is descriptive and the use of equations is minimised. Going 
+through equations, however, can add to the understanding of the expounded ideas 
+and you are advised to follow the equations-based exposition of the model in 
+Blanchard and Fischer (2000). 
+14.4.1 Model Specification 
+We proceed with the model specification in the following steps.  
+1. The economy is composed of competitive firms ( F in number) and identical 
+workers (N in number). In each discrete time period a fraction δ of the 
+employed is laid off and joins the unemployment pool. The fraction δ is 
+called the ‘rate of separation’ in the literature. Firms hire workers from the 
+pool, not directly from other firms. 
+2. The marginal cost of hiring for each firm is an increasing function of its level 
+of hiring. This captures the idea that a high rate of hiring may force firms to 
+increase their search intensity or, in a more general model with heterogeneous 
+workers, to accept poor matches between workers and jobs. The marginal 
+cost is also a decreasing function of aggregate unemployment – high 
+aggregate unemployment makes it easier and cheaper for the firm to find 
+willing and competent workers.  
+3. Since each firm chooses the rate of hiring by equating the marginal cost of 
+hiring to the net marginal benefit of hiring, it is important to determine, in the 
+model, the marginal benefit of hiring to the firm. Assuming a firm to be risk 
+neutral, the marginal value to the firm of a worker hired in this period is the 
+expected present value of his marginal product so long as he works with the 
+firm. The marginal value, denoted by qt, is therefore an infinite sum of 
+discounted marginal productivities from the present period onwards to 
+infinity. Two discounting factors are used on each term: one, as usual, to take 
+account of time and the other to take account of the probability that a given 
+worker will have left the job by time (t + i).  
+4. The net marginal benefit of hiring is equal to this marginal value minus the 
+discounted present value of wages to be paid to the worker who is newly 
+hired. It is in the spirit of search and matching models to assume that there is 
+no labour market in which the wage is set – job matches require an explicit 
+search process.  
+
+
+--- Page 29 ---
+ 
+227 
+ 
+Search Theory and 
+Unemployment 
+The wage is set through bargaining so as to divide the surplus from the job 
+between the worker and the firm. To simplify matters, it is assumed in the present 
+model that the worker experiences neither costs nor benefits from unemployment, 
+so that the total surplus from the job is just the marginal value determined in 
+paragraph 3 above. It is assumed that the worker obtains a share ξ of the surplus 
+and the firm gets (1 – ξ) with the size of ξ reflecting the bargaining power of the 
+worker. Thus the marginal benefit of hiring to the firm is given as a fraction of 
+the marginal value qt:  
+λt =  (1 – ξ). qt  
+ Each firm chooses the rate of hiring, h t, by equating the marginal benefit of 
+hiring specified in paragraph 4 above with the marginal cost of hiring determined 
+in paragraph 2 above 
+14.4.2 Model Solution and the Equilibrium Rate of Unemployment 
+Given the above specification, the model can be solved for the marginal benefit 
+of hiring, λ t, and the hiring rate, h t.  If the employment in the firm is denoted by 
+nt, it follows that n t = (1 – δ).n t-1 + ht, since employment in period t is given by 
+employment in period (t – 1), as adjusted for the rate of separation and the rate of 
+hiring. Assuming that there are F identical firms in the economy, the 
+unemployment rate, denoted by u t, is given by 1 – (F.n t)/N, where N is the total 
+number of workers in the economy. These four equations for λ t, ht, nt and u t can 
+be solved to obtain the equation characterising the dynamics of the equilibrium 
+unemployment rate: 
+   u t = δ + {1 – δ – (F/G)λt}.u t-1 
+In the above equation, G is a parameter in the cost of hiring function, such that a 
+larger parameter value denotes higher difficulty of locating workers. The 
+equation clearly shows that the unemployment rate depends on its own lagged 
+value and the constant rate of separation, δ. It also depends on the state of 
+technology via its dependence on the net marginal benefit of hiring, λ t, since the 
+latter depends on the marginal product of worker.  
+When the marginal productivity of labour is postulated to have zero variance, the 
+natural rate of unemployment is given by 
+   u * =  δ/ {δ + (F/G).k} 
+A clear result emerges from this equation: the larger the separation rate, δ, and 
+the larger the parameter G (reflecting the difficulty of locating workers), the 
+higher is the rate of unemployment. 
+14.4.3 Optimality of the Equilibrium Unemployment Rate  
+The above model rigorously rationalizes the existence of unemployment. As we 
+will see below, shocks to productivity can also be used to explain the variability 
+of the equilibrium rate of unemployment over time. You should, however 
+
+
+--- Page 30 ---
+ 
+228 
+ 
+Labour Markets appreciate that the equilibrium rate of unemployment obtained in the above 
+model is unlikely to be socially optimal. This is so for two reasons: 
+(1) Hiring decision by a firm is beneficial to it to the extent that the net 
+marginal benefit of hiring is positive, but it imposes a cost on other firms, 
+an externality that is not taken into account by the hiring firm. By hiring 
+an extra worker, the firm decreases unemployment, and since the 
+marginal cost of hiring is a decreasing function of aggregate 
+unemployment, the marginal cost of hiring to other firms is increased. 
+This effect leads to too much hiring compared to the social optimum, and 
+thus to too low an equilibrium rate of unemployment. 
+(2) There is also a divergence between the social and private marginal benefit 
+of hiring: the former is given by q t, whereas the latter (the private benefit 
+to the hiring firm) is given by a fraction (1 – ξ) of q t, depending on the 
+bargaining power of the worker vis-à-vis the hiring firm. Since the private 
+benefit is less than the social benefit (ξ > 0), there is too little hiring and 
+thus too high an equilibrium rate of unemployment.  
+The two effects, in (1) and (2) above, work in opposite directions, one tending to 
+increase the equilibrium rate above the socially optimum rate and the other 
+tending to keep it below the social optimum. The net effect on the equilibrium 
+rate of unemployment vis-à-vis the socially optimum rate is ambiguous in the 
+model.  
+14.4.4 Dynamics of Unemployment and Real Wages through Productivity 
+Shocks 
+The model that you are studying here is in the tradition of the real business cycle 
+theory that you have studied in earlier units. As you know, this kind of a model 
+works out the implications of shocks to productivity. The model has the 
+following implications to employment and wages. 
+(1) A temporary adverse shock to productivity decreases hiring (as it 
+decreases the marginal productivity of labour and hence the benefit of 
+hiring the marginal unit of labour) and increases unemployment. As the 
+shock is, by definition, temporary, productivity and the net marginal value 
+of labour return to their original level, but, it can be shown that the 
+unemployment rate only slowly returns to normal through increased 
+hiring. Moreover, since it is cheaper for the firm to hire when there are 
+more unemployed, a productivity shock has greater effect on 
+unemployment when it is high than when it is low. This is, of course, 
+implicit in the non-linearity of the equation explaining u*, the natural rate 
+of unemployment. 
+
+
+--- Page 31 ---
+ 
+229 
+ 
+Search Theory and 
+Unemployment (2) The model explains why fluctuations in employment may be associated with 
+smaller fluctuations in real wages. This will happen if ξ, the share obtained 
+by workers, is constant, as is assumed in the model, and small. Real wages 
+vary in the model with productivity and high rates of hiring are associated 
+with high real wages. The model thus explains the observed empirical fact of 
+a pro-cyclical increase in real wages, but to a smaller extent than the increase 
+in employment, if the share obtained by workers is small in relation to that 
+obtained by the hiring firms. 
+ Check Your Progress 3  
+1. Explain why introduction of search and matching introduces 
+equilibrium unemployment in a Walrasian model. 
+.................................................................................................................
+.................................................................................................................
+.................................................................................................................
+.................................................................................................................
+.................................................................................................................
+................................................................................................................. 
+2. Why is the equilibrium unemployment rate, obtained in the Howitt 
+(1988) model, unlikely to be socially optimal? 
+.................................................................................................................
+.................................................................................................................
+.................................................................................................................
+.................................................................................................................
+.................................................................................................................
+................................................................................................................. 
+3. How does the Howitt (1988) model explain  
+a. An increase in unemployment 
+b. A smaller pro-cyclical response of real wages in relation to 
+employment? 
+.................................................................................................................
+.................................................................................................................
+.................................................................................................................
+.................................................................................................................
+.................................................................................................................
+................................................................................................................. 
+
+
+--- Page 32 ---
+ 
+230 
+ 
+Labour Markets 14.5 SOME ALTERNATIVE SEARCH MODELS  
+In this section we look, briefly, at two more papers emphasizing frictions arising 
+due to search and matching considerations: one by Pissarides that has been 
+already referred to and another by David Lilien. The exposition here is again 
+based on Blanchard and Fischer (2000).  
+The model developed in Section 14.4 is just one of the many search and matching 
+models developed in the literature. In this section we examine, briefly, some 
+alternative search and matching models. One of the shortcomings of the Howitt 
+(1988) model that was discussed in Section 14.4 is that it simply postulates that 
+search and matching is undertaken by workers and firms, but does not specify the 
+search technology and the matching process used by workers and firms. Also the 
+Howitt model takes the share of workers parameter, ξ, as given. Pissarides 
+developed a closely related model in 1985 wherein these shortcomings were 
+addressed. The model clearly shows that unemployment emerges as an 
+equilibrium phenomenon in an otherwise neoclassical model that is characterised 
+by workers moving from one job to another and remaining unemployed in the 
+interim during their search for the right kind of job as a replacement for the job 
+they have discarded. The approach shows explicitly the dependence of the rate of 
+hiring on the characteristics of the labour markets. Moreover, unlike in the 
+Howitt model, the Pissarides model helps in thinking about what determines the 
+share of workers parameter ξ in the bargaining process between the workers and 
+the firms – the parameter value depends on the option that the workers have in 
+turning down the match and looking for another match.  
+Models have also been developed to capture the effects of sectoral shocks – 
+changes in relative productivity or changes in relative demand for goods – on 
+aggregate equilibrium unemployment. David Lilien emphasized frictions arising 
+due to the inability of labour to relocate instantaneously and costlessly between 
+sectors in a paper titled “Sectoral Shifts and Cyclical Unemployment” published 
+in the Journal of Political Economy  in 1982. Consider an economy with two 
+sectors. Labour is immobile between sectors within periods but fully mobile 
+across sectors over periods. Workers in each sector supply one unit of labour 
+inelastically if the wage exceeds a reservation wage. Assume that the wage is 
+sufficiently higher than the reservation wage in both sectors and that labour is 
+fully employed between the two sectors. Assume further that labour demand 
+shifts away from sector 1 toward sector 2, so that within the period wage 
+increases in sector 2 and falls in sector 1. Since labour cannot shift from sector 1 
+to sector 2 within the period, employment cannot increase in sector 2, but falls in 
+sector 1 due to the decrease in labour demand. The sectoral shift hence increases 
+unemployment in the current period. In the following period labour reallocates 
+itself and aggregate employment returns to normal.  

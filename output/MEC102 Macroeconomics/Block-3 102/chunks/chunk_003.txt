@@ -1,0 +1,537 @@
+--- Page 21 ---
+ 
+144 
+ 
+Intertemporal  
+Decision-Making 
+preference. In any dynamic model of capital accumulation and growth the 
+concept of golden rule plays an important role. The golden rule  itself refers to 
+that steady state value of capital-labour ratio where nkf  )( , i.e., the marginal 
+product of capital is exactly equal to the rate of growth of population. The 
+significance of the golden rule obtains from the fact that it is that steady state 
+value of capital-labour ratio which corresponds to the maximum steady state 
+value of per capita consumption. Note that when households’ rate of time 
+preference is zero, the modified golden rule coincides with the golden rule and 
+the steady state of the Ramsey-Cass-Koopmans model is attained at the golden 
+rule point. However, when people have positive rate of time preference, they are 
+unwilling to sacrifice current consumption for future consumption beyond a 
+point; as a result they accumulate less and reach a lower level of steady state 
+consumption than in the golden rule. 
+9.3 DECENTRALIZED HOUSEHOLDS’ PROBLEM 
+The Ramsey model described above was transformed by Cass and Koopmans 
+into the problem of a decentralized competitive market economy consisting of 
+many households – all with identical preferences. We shall see that under certain 
+assumptions the optimal solution path in the two cases turns out to be identical.  
+Instead of assuming the existence of a central planner, let us consider a market 
+economy where the households are price takers. There are two competitive factor 
+markets which determine the wage rate ( tw ) and the interest rate or the rate of 
+return on capital ( tr ) at each point of time. 
+There exist many identical competitive firms which hire in labour and capital 
+from the households at the above mentioned wage rate and rental rate. Using 
+labour and capital these firms produce the final output, using the same 
+technology as the central planner. Competition ensures that the wage rate and the 
+rental rate are equal to the respective marginal products of labour and capital at 
+full employment; i.e., )( tt kfr
+  and )()( tttt kfkkfw  . 
+Each household maximizes its welfare given as before. Its objective function is to 
+maximize tdcuW t
+t
+
+
+0
+ exp)(  . Each household starts with a certain amount of 
+capital stock and labour stock. Additionally, households can borrow from one 
+another. Let ttt bka   denote the per capita asset stock of an household at 
+period t, which consists of the per capita capital stock owned by the household at 
+period t minus the amount of debt (per capita) at period t. (If the household is a 
+net lender, then tb  would be negative). Arbitrage condition in the asset market 
+ensures that physical capital and lending earns the same rate of return. Hence the 
+per capita income of the household at period t is ttt arw  , which the household 
+spends on consumption and further asset accumulation. Thus the budget 
+
+
+--- Page 22 ---
+ 
+145 
+ 
+Ramsey-Cass-Koopmans 
+Model 
+constraint faced by the household in per capita terms is given by: 
+ttttt arwnadt
+dac  . 
+The complete dynamic optimization problem for the household can now be 
+written in terms of the two time dependent variables: per capita consumption ( tc ) 
+and per capita asset stock ( ta ). Our optimization problem is as follows: 
+Maximize tdcuW t
+t
+
+
+0
+ exp)(    
+subject to 
+tttt canrwdt
+da  )(  
+In the above problem, 𝑎଴  is given exogenously. 
+The corresponding Hamiltonian function and the first order conditions in terms of 
+the control variable ( tc ), state variable ( ta ) and co-state variable ( t ) are as 
+follows: 
+ ttttt
+t
+t canrwcuH   )(exp)(    
+(ib) t
+t
+tcu     exp)(  
+(iib) )( nrdt
+d
+tt    
+(iiib) tttt canrwdt
+da  )(  
+(ivb) 0lim 
+ ttt
+a  
+Note that these conditions look quite similar to the first order conditions that we 
+obtained for the central planner’s problem (conditions (ia)-(iva) in the previous 
+section). However, for the household’s problem there is an additional condition 
+which has to be satisfied if we want to get a meaningful solution. This condition 
+is called the No-Ponzi-Game condition which we elaborate below. First note that 
+we have allowed for intra-household borrowing which means that a household 
+can maintain a consumption stream above its income by borrowing. Now if a 
+household could go on borrowing indefinitely then it will be optimal for the 
+household to always maintain an infinitely high (or maximum possible) 
+consumption stream and finance such high level of consumption simply by 
+borrowing more and more. Of course, such a strategy would also imply that the 
+net per capita borrowing of the household would increase exponentially at the 
+rate )( nrt
+  (since the household has to borrow not only for consumption, but 
+also to pay back the interest rate as well) and the present discounted value of the 
+net debt of the household will approach infinity. Such a financing scheme is 
+called Ponzi-Game financing. In order to rule out such infinite indebtedness by 
+any family we specify the condition that the even though the household can be 
+
+
+--- Page 23 ---
+ 
+146 
+ 
+Intertemporal  
+Decision-Making 
+temporarily a net debtor (i.e., the present discounted value of its asset is 
+temporarily negative), over a sufficiently longer horizon, it must eventually repay 
+all its debt and hold non-negative asset stock. Formally, as t goes to infinity, the 
+present discounted value of the (per capita) asset stock of the household must be 
+non-negative:  
+(vb) 0explim 0
+)(
+0
+
+ 
+
+t
+dnr
+tt
+a
+
+. 
+Condition (vb) is called the No-Ponzi-Game condition. For a decentralized 
+household conditions (ib)-(vb) specify the optimal path that solves the 
+household’s dynamic optimization problem. 
+ As before, differentiating (ib) with respect to t and using (iib) to eliminate t , 
+and noting that the term 
+
+)(
+)(
+cu
+cuc  denotes the elasticity of marginal utility 
+with respect to consumption, we can derive the following differential equation: 
+(vib)    
+
+ nrc
+dt
+dc
+t
+t       
+Equations (iiib) and (vib) together form a system of differential equations which, 
+along with the transversality condition and the no-Ponzi-Game condition, 
+determine the movements of per capita consumption and per capita asset stock of 
+the household along the optimal path. 
+Note that while for the economy as a whole the wage rate and the rental rate are 
+given by )( tt kfr
+  and )()( tttt kfkkfw  , the price-taking households take 
+these as given while optimizing. However, we assume that the households are 
+endowed with perfect foresight. It implies that households do not  know the 
+relationship between w and r with the per capita capital stock; but they can 
+exactly guess the values of w and r at every point of time. 
+Also note that while the households can borrow from one another, in equilibrium 
+for the economy as a whole, net borrowing must be zero. Since households are all 
+identical, this implies that net borrowing of each household would be zero, i.e., 
+tt ka   .  
+Thus, replacing )( tt kfr   , )()( tttt kfkkfw  , and tt ka   in equations (iiib) 
+and (vib), we get a system of differential equations which is exactly identical to 
+the system of differential equations that we obtained for the central planner. 
+Hence, their solution must also be the same. In other words, under the 
+assumption of perfect foresight on the part of the households, the household’s 
+optimal consumption and accumulation paths are exactly identical to the 
+consumption and accumulation paths that would be chosen by a social planner . 
+To put it differently, the decentralized market economy’s solution path coincides 
+with the solution path of the centralized command economy, and the solution 
+paths can once again characterized by the diagram given earlier. This is a very 
+
+
+--- Page 24 ---
+ 
+147 
+ 
+Ramsey-Cass-Koopmans 
+Model 
+strong result which shows the equivalence between the market equilibrium and 
+the socially optimal solution. This equivalence result, however, depends crucially 
+on the assumption of perfect foresight. 
+Check Your Progress 1 
+1. What are the steady state values of per capita consumption and per capita 
+capital stock in the centralized version of the Ramsey optimal growth 
+model? 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+2. Would the above values change if we consider a decentralized economy 
+instead of a centralized planner’s problem? Why? 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+9.4  GOVERNMENT IN THE RAMSEY-CASS-
+KOOPMANS MODEL: RICARDIAN 
+EQUIVALENCE 
+The decentralized equilibrium that we discussed above does not incorporate 
+government as a separate economic agent. It is however easy to introduce a role 
+for the government in the de-centralized Ramsey-Cass-Koopmans model. There 
+are two options to finance government spending: (i) taxation, and (ii) borrowing. 
+Suppose the government finances its expenditure by imposing a lump-sum tax on 
+the household’s income in every period. Since the government expenditure is 
+unrelated to the households’ consumption expenditure, the utility function of the 
+households remains unchanged. However, since the government is taking away a 
+part of the household’s income, the budget constraint of the household changes. 
+To be more precise, if the government imposes a tax 
+ on the household income 
+then the disposable income of the household reduces to  ttt arw . 
+Consequently, the budget constraint of the household becomes: 
+ tttt canrwdt
+da )( . The rest of the optimal conditions, discussed in 
+Section 9.3, remains the same. 
+
+
+--- Page 25 ---
+ 
+148 
+ 
+Intertemporal  
+Decision-Making In the phase diagram therefore, the 0dt
+dk  curve shifts downward by the amount
+ , as shown in Fig. 9.4. The new steady state is obtained at the point E' in Fig. 
+9.4, where the steady state value of the per capita capital stock remains the same, 
+but the steady state value of per capita consumption is lower. The corresponding 
+optimal path of the household is once again denoted by the dotted line in the 
+diagram.   
+ 
+Fig. 9.4: Phase Diagram (with Government) 
+Now suppose the government decides to finance its expenditure by borrowing 
+from the households, instead of taxation. Will that make any difference to the 
+households’ optimal condition? At first glance it seems that if the government 
+borrows from the households by distributing government bonds, then the 
+government bonds would constitute an asset for the households (because the 
+government would pay an interest on these loans). So the household’s disposable 
+income is not reduced; only the composition of its asset portfolio changes. So at 
+first glance it seems that the household’s optima under tax financing and under 
+debt financing would be different.  However, a more careful consideration of the 
+problem reveals that the mode of financing of the government expenditure really 
+does not  make any difference to the household’s optima. As long as the 
+government is forced to maintain a balanced budget in the long run (i.e., it cannot 
+go on borrowing indefinitely), at some point of time in future the government has 
+to impose a tax in order to repay its debt incurred earlier. Since the households 
+have perfect foresight, they would know that at some point of time they would 
+have to pay the tax. Thus, even though households are not paying the taxes today, 
+they will adjust their current consumption and capital accumulation decisions 
+accordingly which will enable them to bear the tax burden in future. This is a 
+strong result: It states that for households endowed with perfect foresight (or 
+rational expectation), the mode of financing of government expenditure does not 
+matter. Tax financing and debt financing are exactly equivalent as far as the 
+kt 
+ct 
+0dt
+dk  
+0dt
+dc  
+E 
+E' 
+τ 
+
+
+--- Page 26 ---
+ 
+149 
+ 
+Ramsey-Cass-Koopmans 
+Model 
+household optima is concerned. This result is known as the Ricardian 
+Equivalence.  
+Check Your Progress 2 
+1. In the decentralized version of the optimal growth model, how would the 
+equilibrium values of per capita capital stock and the per capita 
+consumption change if the government imposes a lump sum tax to finance 
+its own expenditure? In this context, explain the Ricardian Equivalence 
+proposition. 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+9.5 LET US SUM UP 
+In this unit, we have looked at the Ramsey-Cass-Koopmans optimal growth 
+model where infinitely-lived individuals maximize their life-time utility. We 
+identify the optimal consumption-accumulation path as the saddle path which 
+takes the economy to its steady state in the long run. The steady state point is 
+identified with the modified golden rule point. Although the problem is identified 
+as a social planner’s problem, its basic conclusion remains unchanged even when 
+the economy is characterized by competitive decentralized households. Moreover 
+introducing a government sector which finances its expenditure through lump 
+sum taxation does not have any effect on the steady state values of the model.  
+9.6 ANSWER/HINTS TO CHECK YOUR PROGRESS 
+ EXERCISES 
+Check Your Progress Exercises 1 
+1. See Fig. 9.3. The steady state values of per capita consumption and per 
+capita capital stock is given by the intersection of the equations 
+ nkf )(  and nkkfc  )( . 
+2. The steady state values of per capita consumption and per capita capital 
+stock are the same in both central planner and decentralized household 
+problems 
+Check Your Progress Exercises 2 
+1. If the government imposes a lump sum tax, the steady state value of per 
+capita capital stock remains unchanged while the per capita consumption 
+would be lower. See Section 9.4 for details. 
+ 
+
+
+--- Page 27 ---
+ 
+150 
+ 
+Intertemporal  
+Decision-Making 9.7 MATHEMATICAL APPENDIX 
+Dynamic Optimization in Continuous Time (Optimal Control) 
+A.1 Finite Horizon Problem 
+Consider the following optimization problem which is defined over a finite time 
+horizon from 0 to T : 
+   
+0
+0
+Max.  , , ,   subject  to , ,   
+             ;  .
+T
+t t t t
+t
+dxW F u x t dt f u x tdt
+x x u U
+ 
+ 
+    …(1) 
+The objective function here is an integral, and our task is to find out a time path 
+of the time dependent variable u from the choice set U, (i.e., to choose a u U  
+for each point of time t starting from 0 to T) such that this integral is maximized.  
+But our choice is not unconstrained. (Had it been so, a simple point-by-point 
+static optimization exercise would have given us the required solution path). Note 
+that the F function (which can be called the instantaneous objective function) 
+depends not only on u but also on another time dependent variable x. And our 
+choice of u at each point of time affects the next period’s value of x through the 
+given differential equation. Thus our choice of u affects the instantaneous 
+objective function directly, as well as indirectly through x. So when we are 
+choosing the optimal time path for u that maximizes the integral W, we have to 
+take into account how x is changing due to our choice of u – this explains the 
+presence of a constraint function in the form of a differential equation in x. 
+Since we are choosing the variable u directly (i.e., we have direct control over 
+this variable) it is called the control variable. The other time dependant variable, 
+x, which changes over time due to our choice of u, but we don’t have direct 
+control over its change, is called the state variable. The function f in the given 
+differential equation that describes the change in x over time is called the state 
+transition function.   
+Pontryagin’s Maximum Principle:  Let *
+tu  be a solution path to the problem 
+specified in (1), and let *
+tx  be the associated path for the state variable, where *
+tu  
+is a piece-wise continuous function of t and *
+tx  is a strictly continuous but piece-
+wise differentiable in t. Then there exist a strictly continuous and piece-wise 
+differentiable variable t , and a function H defined as: 
+   , , , ( , , ) ( , , )t t t t tH u x t F u x t f u x t   ,   
+such that 
+(i) H is maximized with respect to u at *u for all  0,t T  
+(ii) 
+* *( , , , )u x t
+H d
+x dt
+  
+ 
+
+
+--- Page 28 ---
+ 
+151 
+ 
+Ramsey-Cass-Koopmans 
+Model (iii) 
+* *( , , , )u x t
+H dx
+dt
+ 
+ 
+(iv) 0TT x  
+The function H is called the Hamiltonian Function  associated with the given 
+dynamic optimizations problem, and the newly introduced time dependent 
+variable   is called the co-state variable associated with the state variable x.  
+The co-state variable t  measures the change in the value of the objective 
+function W associated with an infinitesimal change in the state variable x at time 
+t. If there were an exogenous tiny increment to the state variable at time t, and if 
+the problem were modified optimally there after, then the increment in the total 
+value of the objective would be t . Thus it is the marginal valuation of the state 
+variable at time t, and is therefore often referred to as the shadow price  of the 
+state variable at time t. 
+Pontryagin’s Maximum Principle gives us four first order necessary conditions  
+for the optimization problem defined in (1). The first three first order necessary 
+conditions (F.O.N.C) are defined in terms of the Hamiltonian function. Note that 
+if the Hamiltonian function is non-linear in u, then (i) can be replaced by the 
+condition 
+*( , , , )
+0
+u x t
+H
+u 
+ 
+, provided the second order check  
+*
+2
+2
+( , , , )
+0
+u x t
+H
+u 
+ 
+
+ 
+is verified.  
+The last condition of the Maximum Principle (condition (iv)), which specifies a 
+terminal condition for  , is called the Transversality Condition.  
+A.2 Infinite Horizon Problems 
+Consider the following infinite horizon dynamic optimization exercise: 
+   
+0
+0
+Max.  , , ,   subject  to , ,   
+             ;   .
+t t t t
+t
+dxW F u x t dt f u x tdt
+x x u U
+
+ 
+ 
+
+   
+…(2) 
+This problem is almost the same as the problem specified in (1); only now the 
+time horizon is no longer finite.  
+When the time horizon stretches from 0 to  , additional complications may 
+arise: First, the integral W may not converge. In that case it does not make sense 
+to talk about optimal paths, because any paths ( , )t tu x  will eventually make the 
+integral infinitely large, and no comparison between one set of ( , )t tu x  with 
+another is possible. Hence, for the dynamic optimization exercise to be 
+meaningful, we must impose additional restrictions so that the integral converges 
+to a finite value. 
+Second, there is some controversy regarding the appropriate transversality 
+condition in infinite horizon problems. Usually some limiting conditions, which 
+
+
+--- Page 29 ---
+ 
+152 
+ 
+Intertemporal  
+Decision-Making 
+are similar to the transversality conditions applied in the finite horizon problems, 
+are applied.  
+Consider problem (2) and suppose the integral converges. The F.O.N.C.s for this 
+problem are given in the following theorem: 
+Let *
+tu  be a solution path to the problem specified in (5), and let *
+tx  be the 
+associated path for the state variable, where *
+tu  is a piece-wise continuous 
+function of t and *
+tx  is a strictly continuous but piece-wise differentiable in t. 
+Then there exist a strictly continuous and piece-wise differentiable variable t , 
+and a function H defined as: 
+   , , , ( , , ) ( , , )t t t t tH u x t F u x t f u x t   ,   
+such that 
+(i) H is maximized with respect to u at *u for all [0, )t    
+(ii) 
+* *( , , , )u x t
+H d
+x dt
+  
+ 
+(iii) 
+* *( , , , )u x t
+H dx
+dt
+ 
+ 
+(iv) 0lim 
+ ttt
+x    
+ 
+
+
+--- Page 30 ---
+ 
+ 
+UNIT 10 OVERLAPPING GENERATIONS  
+   MODEL  
+Structure 
+10.0 Objectives 
+10.1  Introduction 
+10.2  Structure of the Model 
+10.3  Dynamic Inefficiency in Overlapping Generations Model  
+10.4  Social Security 
+10.5  Let Us Sum Up 
+10.6 Answer/Hints to Check Your Progress Exercises 
+10.0 OBJECTIVES 
+After going through this Unit you should be able to exlain 
+ the standard two-period overlapping generations model with production; 
+ the concept of dynamic efficiency and examine whether the dynamic 
+efficiency property holds for an overlapping generations economy; and 
+ the role of social security system in the overlapping generations framework in 
+eliminating dynamic inefficiency.  
+10.1 INTRODUCTION 
+In the context of intertemporal decision making on the part of the households, 
+you have come across the optimal growth model in Unit 9. There is another 
+important framework that also considers households’ intertemporal decision 
+making – although over finite time horizon. This framework is called the 
+overlapping generations framework. The framework was first developed by 
+Samuelson (1954) which has subsequently been widely used in macro dynamics. 
+In the overlapping generations framework, the individuals have a finite time 
+horizon (in the standard case, a two-period time horizon), but the society lives 
+forever. The term ‘overlapping generations’ implies that at each point of time the 
+life-time of two generations overlaps. To clarify, let us take the standard case 
+where each generation lives exactly for two periods. Thus, for the cohort of 
+individuals who are born at the beginning of period ‘ t’, they are alive in period ‘t’ 
+(when they are young) and in period (𝑡 + 1) (when they are old). On the other 
+hand, a new set of individuals are born at the beginning of period (𝑡 + 1), who 
+would be alive in period (𝑡 + 1) and period (𝑡 + 2) . Thus, between the lifetimes of 
+these two successive generations, there is an exact overlap of one period. In the 
+following discussion we shall concentrate on the two-period overlapping 
+generations framework only. 
+ 
+ Prof. Mausumi Das, Delhi School of Economics, University of Delhi 

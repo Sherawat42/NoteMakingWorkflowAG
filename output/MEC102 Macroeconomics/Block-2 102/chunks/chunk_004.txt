@@ -1,0 +1,25 @@
+--- Page 30 ---
+ 
+ 
+ 
+123 
+Rational Expectations  Check Your Progress 2 
+Check Your Progress 2 
+1) Refer to Section 7.5 and answer.  
+2) The Lucas supply curve relies on a price surprise to explain why output 
+deviates from the natural level output. In the absence of perfect information 
+economic agents are not in a position to anticipate future prices and wage 
+rates accurately. They cannot distinguish between increases in nominal vs. 
+real prices due to signal extraction problem. Thus, there is no dichotomy of 
+real and nominal sectors, and money is not neutral in the short run. Refer to 
+Section 7.6. 
+3)  The policy ineffectiveness theorem focuses on the demand side to explain 
+deviations of output from the natural level of output, which is explained by 
+price surprises caused by the non-anticipatable portion of money change. 
+The model consists of an aggregate demand relation, aggregate supply 
+relation and a money supply rule, along with an equation capturing rational 
+expectations. Use Fig. 7.2 and Fig. 7.3 to show the effect of increasing 
+money supply. Use equations (7.7), (7.8), (7.9) and (7.10) to derive 
+equations (7.15) and (7.16). Refer to Section 7.7. 
+ 
+ 

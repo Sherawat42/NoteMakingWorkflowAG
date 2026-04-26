@@ -1,0 +1,102 @@
+# Running Context
+
+## Key Concepts Introduced
+- **Business cycle phases** (Chunk 001): Four phases — expansion, recession, depression, recovery; turning points = peak and trough.
+- **Synchronic cycles** (Chunk 001): Cycles spread simultaneously across industries via input-output and demand linkages.
+- **Contagion effect** (Chunk 001): International transmission via capital flows and trade.
+- **Effective demand** (Chunk 001): Aggregate demand = consumption + investment; investment swings drive cycles.
+- **Multiplier** (Chunk 001): 1/(1−MPC); magnifies investment changes into income changes.
+- **Accelerator** (Chunk 001): v = capital-output ratio; induced investment depends on change in income.
+- **Multiplier-accelerator interaction** (Chunk 001): Generates cycles endogenously when c and v lie in regions B, C, E.
+- **Political business cycle** (Chunk 002): Pre-election stimulus + post-election restraint produce cycles tied to electoral calendar.
+- **NBER dating methodology** (Chunk 002): Judgment-based, multi-indicator definition of recession; rejects "two-quarters declining GDP" rule.
+- **Conformity vs timing** (Chunk 002): Two screening tests for indicator selection (G.H. Moore, 1950).
+- **Three indicator types** (Chunk 002): Leading (predict), coincident (current), lagging (confirm).
+- **H-P filter** (Chunk 002): Standard detrending technique to separate growth from cycle.
+- **Modern view** (Chunk 002): One unified theory should explain both growth and cycles.
+- **Schumpeter's creative destruction** (Chunk 003): Innovation/technological disruption causes cycles.
+- **Goodwin cycle** (Chunk 003): Wage share / profit share / employment feedback drives cycles.
+- **Friedman's monetarism** (Chunk 003): Money supply changes are the major cycle cause; markets are inherently stable.
+- **Rational expectations + market clearing + Lucas supply** (Chunk 003): Three new-classical assumptions.
+- **Microfoundation, DSGE, calibration** (Chunk 003): Three new-classical methodological features.
+- **Inter-temporal labour-leisure substitution** (Chunk 003): Cycles via households' rational labour-supply response to wage/interest deviations.
+- **Lucas signal-extraction problem** (Chunk 003): Firms misperceive general price rise as relative price rise → output deviation.
+- **Real shocks vs nominal shocks** (Chunk 003): Real (production, savings, gov spend) hit IS; nominal (money supply/demand) hit LM.
+- **RBC theory** (Chunk 003): Real productivity shocks cause cycles in continuously clearing markets.
+- **Ricardian equivalence** (Chunk 003): Reason fiscal demand-side policy may be ineffective.
+- **Walrasian model + Ramsey model + Cobb-Douglas + AR(1) shocks** (Chunk 003): Building blocks of baseline RBC.
+- **Static one-period labour supply (log utility)** (Chunk 003): Wage-independent — income and substitution effects cancel.
+- **Two-period labour supply** (Chunk 004): Relative wage and interest rate enter the labour-supply ratio (1−ℓ₁)/(1−ℓ₂); elasticity of substitution = 1.
+- **Persistence of technology shocks** (Chunk 004): Saved windfall raises future capital stock; sustained effect on output and employment.
+- **Temporary vs permanent shock** (Chunk 004): Temporary → save more, smooth; permanent → consume more, save less; both raise output, capital, employment persistently.
+- **New-Keynesian view** (Chunk 004): Microfoundation + rational expectations + DSGE *with* market imperfections (sticky prices/wages, menu costs, mark-ups, Taylor rule).
+
+## Definitions (⭐ exam-important)
+- **Business cycle** (Chunk 001): Recurrent alternating phases of expansion and contraction in employment, production, real income, and real sales.
+- **Synchronic cycles** (Chunk 001): Contraction/expansion occurs simultaneously in most industries.
+- **Peak** (Chunk 001): Point where expansion ends and recession begins.
+- **Trough** (Chunk 001): Point where depression ends and recovery begins.
+- **Aggregate effective demand** (Chunk 001): Demand for consumption + investment goods.
+- **Accelerator (v)** (Chunk 001): Capital-output ratio — change in investment per change in income.
+- **Induced investment (I_d)** (Chunk 001): I_d = v × (Y_(t−1) − Y_(t−2)).
+- **Political business cycle** (Chunk 002): Pre-election stimulus to improve incumbent's re-election prospects.
+- **Recession (NBER)** (Chunk 002): Significant decline in economic activity spread across the economy, lasting more than a few months, visible in real GDP, real income, employment, industrial production, sales.
+- **Conformity** (Chunk 002): Consistency with which a series has conformed to business cycles.
+- **Timing** (Chunk 002): Consistency with which a series' turning point has led, lagged, or coincided with reference data.
+- **Importance of lagging indicator** (Chunk 002): Confirms that a pattern is occurring (e.g., unemployment confirms a poorly-performing economy).
+- **Rational expectations hypothesis** (Chunk 003): Agents use all available information including correct understanding of the economy to anticipate systematic policy.
+- **Continuous market clearing** (Chunk 003): Demand = supply at every point; flexible, instantaneous adjustment.
+- **Lucas supply function** (Chunk 003): Output supply depends on actual − expected price; signal-extraction problem.
+- **Microfoundation** (Chunk 003): Macro phenomena explained via micro optimisation.
+- **DSGE model** (Chunk 003): Dynamic Stochastic General Equilibrium model.
+- **Calibration** (Chunk 003): Parameter selection by replication, not estimation.
+- **Inter-temporal substitution between labour and leisure** (Chunk 003): Households shift work effort across periods in response to wage/interest movements.
+- **Real shock** (Chunk 003): Shock to production, real govt spending, or savings/consumption — affects IS curve.
+- **Nominal shock** (Chunk 003): Shock to money supply/demand — affects LM curve.
+- **Supply / productivity shock** (Chunk 003): Real shock to the production function (technology, input quality, raw materials, weather, regulation).
+- **Real Business Cycle (RBC) theory** (Chunk 003): Cycles caused by real shocks acting on rational agents in continuously clearing markets.
+- **Walrasian model** (Chunk 003): Competitive GE without information/externality/missing-market frictions.
+- **Ramsey model** (Chunk 003): Baseline GE growth model with representative household and firm.
+- **AR(1) process** (Chunk 003): Current value = fraction × previous value + white noise.
+- **Cobb-Douglas (RBC)** (Chunk 003): Y = K^α (AL)^(1−α).
+- **Inter-temporal substitution in labour supply (full)** (Chunk 004): Shifting labour supply across periods in response to relative wages and interest rate.
+- **Elasticity of substitution between leisures (= 1)** (Chunk 004): Under log utility — 1% relative wage change ⇒ 1% relative leisure change.
+- **Persistence (RBC)** (Chunk 004): Sustained effect of shocks via gradual capital and employment adjustment.
+- **New-Keynesian economics** (Chunk 004): Microfoundation + rational expectations + DSGE with sticky prices/wages and imperfect competition.
+- **Menu costs** (Chunk 004): Adjustment costs of changing posted prices/wages.
+- **Mark-up (price setting)** (Chunk 004): Wedge between price and marginal cost; measure of market imperfection.
+- **Taylor Rule** (Chunk 004): Interest-rate policy rule used in new-Keynesian DSGE.
+
+## Named Models / Laws / Theories
+- **Keynes' Theory of Business Cycle** (Chunk 001): Aggregate effective demand fluctuations drive cycles via multiplier; *General Theory* (1936).
+- **Samuelson's Multiplier-Accelerator Model** (Chunk 001): Y_t = C_a + cY_(t−1) + I_a + v(Y_(t−1) − Y_(t−2)); cycles in regions B, C, E.
+- **Political Business Cycle Theory** (Chunk 002): Cycles arise from electoral periodicity.
+- **Burns & Mitchell working definition (NBER)** (Chunk 002): 1940s judgment-based definition of recession/expansion.
+- **Hodrick-Prescott (H-P) filter** (Chunk 002): Statistical detrending technique.
+- **Backus & Kehoe (1992)** (Chunk 002): Cross-country empirical study of cycles in 10 countries.
+- **Konstantakopoulou & Tsionas (2014)** (Chunk 002): Found two common OECD cycles — Euro area and world.
+- **Schumpeter (1961)** (Chunk 003): Creative destruction — innovation drives cycles.
+- **Goodwin (1967)** (Chunk 003): Wage-share/profit-share feedback drives cycles.
+- **Friedman's monetarism** (Chunk 003): Money supply changes drive cycles.
+- **Friedman's Phillips curve** (Chunk 003): Vertical in long run; trade-off only short-run.
+- **New-classical economics (Lucas, Sargent)** (Chunk 003): Rational expectations + continuous market clearing + Lucas supply function.
+- **Lucas Supply Function** (Chunk 003): Output supply depends on relative-price perception; signal-extraction problem.
+- **Real Business Cycle theory (Kydland & Prescott, 1982)** (Chunk 003): "Time to Build and Aggregate Fluctuations"; real productivity shocks cause cycles.
+- **Ricardian equivalence** (Chunk 003): Fiscal deficit financing may be neutralised by households' anticipation of future taxes.
+- **New-Keynesian macroeconomics** (Chunk 004): DSGE + microfoundation + rational expectations + sticky prices/wages + imperfect competition + menu costs + mark-ups + Taylor rule.
+
+## Key Data & Numbers
+- Business cycle duration range (Chunk 001): 2 to 12 years.
+- Mitchell, Kuznets, Mills (Chunk 001): Early-20th-century business cycle researchers.
+- 2019 negative-growth examples (Chunk 001): Venezuela, Argentina, Turkey.
+- Burns & Mitchell (Chunk 002): Studied ~487 variables, selected 71.
+- G.H. Moore 1950 (Chunk 002): From 801 series, selected 21 passing conformity + timing tests.
+- Lead / lag averages (Chunk 002): Leading 1–10 months ahead; lagging 1–12 months behind.
+- Backus & Kehoe (Chunk 002): Investment 2–4× output volatility; consumption ≈ output; trade balance counter-cyclical; government purchases acyclical.
+- 10 countries in Backus & Kehoe (Chunk 002): Australia, Canada, Denmark, Germany, Italy, Japan, Norway, Sweden, UK, US.
+- OECD cycle decomposition (Chunk 002): Euro area cycle (Germany, France, Italy, Netherlands, Australia, Belgium) + World cycle (US, Canada, UK).
+- Kydland & Prescott (Chunk 003): 1982 paper "Time to Build and Aggregate Fluctuations" — origin of RBC.
+- 5 sources of supply shocks (Chunk 003): tech, input quality, raw materials, weather, regulation.
+- 3 RBC vs new-classical differences (Chunk 003): no SR/LR distinction, complete information, real (not monetary) shocks.
+- 3 RBC policy implications (Chunk 003): inflation targeting, no fiscal demand mgmt, fiscal supply-side OK.
+- Elasticity of substitution between period-1 and period-2 leisures (Chunk 004): exactly 1 under log utility.

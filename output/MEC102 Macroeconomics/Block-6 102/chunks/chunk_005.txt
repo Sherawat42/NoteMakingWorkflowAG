@@ -1,0 +1,326 @@
+--- Page 38 ---
+ 
+272 
+ 
+Issues in  
+Monetary Policy 
+neutral rate of interest remains unchanged, actual inflation is equal to its (new) 
+target (Verify from equation (17.14)). Thus, fixing a higher inflation target results 
+only in a temporary reduction in the interest rate. It causes a short-run increase in 
+aggregate demand and output. In the long run, rate of interest cannot diverge 
+from its neutral level. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 17.3: Impact of a Higher Inflation Target 
+17.3.2 Impact of Expansionary Fiscal Policy 
+Let us assume that an increase in government expenditure causes the value of the 
+parameter c to rise. This results in a higher aggregate demand for the given level 
+of inflation and an outward shift of aggregate demand schedule from AD to 𝐴𝐷ᇱ 
+in Fig. 17.4. Thus, the economy moves from A to C. Inflation rate will now 
+increase causing output to decrease along the 𝐴𝐷ᇱ line. The economy would thus 
+reach B. However, B in Fig. 17.4 is not an equilibrium point. This is because 
+actual inflation rate now exceeds the target inflation rate. What should the 
+Central Bank do to bring inflation back to its target? Notice that an increase in 
+the value of parameter c increases the neutral rate of interest. As a result, 𝑟ᇱ must 
+increase to ensure that inflation is at its target when output attains its target. Thus, 
+the Central Bank increases the value of the parameter 𝑟ᇱ, which leads to a 
+contraction of aggregate demand. The economy now moves from B to D in Fig. 
+17.4. From D, inflation falls and output increases along the AD line till we are 
+back at the original equilibrium point, A. 
+  
+ 
+AD 
+ 
+𝐴𝐷ᇱ 
+y’ 
+𝑥ᇱ 
+B 
+C 
+y 
+x 
+A 
+ 
+𝑥ᇱᇱ 
+
+
+--- Page 39 ---
+ 
+273 
+ 
+Theory of Monetary 
+Policy  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 17.4: Impact of Expansionary Fiscal Policy 
+An expansionary fiscal policy has no impact on either output or inflation in the 
+economy (Notice that this view is in sharp contrast with the Keynesian view 
+discussed in Unit 2). The only difference that an expansionary fiscal policy 
+makes is to cause a higher interest rate at the same configuration of output and 
+inflation (since the neutral rate of interest, which prevails at the equilibrium, has 
+increased). Thus, expansionary fiscal policy results in a ‘crowding out’ of private 
+expenditure. In the standard analysis of crowding out, higher public investment 
+causes an excess of total (public and private) investment demand over savings 
+supply. As a result, interest rate increases to equate investment with savings. In 
+the new consensus view, interest rates are fixed by the Central Bank. However, 
+an expansionary fiscal policy results in a higher inflation rate. The Central Bank 
+is thus forced to push up the interest rate to maintain inflation at its target level. 
+We can sum up the main points of discussion so far. (i) Central Banks can play an 
+important role in stabilising output at its natural level and inflation at some pre-
+defined target. (ii) Changes in monetary policy aimed at stimulating output above 
+its natural level are bound to fail in the long run. If the Central Bank sets a higher 
+inflation target, it only manages to achieve a higher rate of inflation with no 
+improvement in output. (iii) The Central Bank may also try to reduce interest rate 
+by fixing the rate of interest below the neutral rate of interest. But this policy will 
+also fail to deliver any long run improvement in the output level (Why? What 
+will be the impact of such a policy on inflation rate? Use the diagrams presented 
+above).  (iv) There is no space for an activist fiscal policy in the economy. The 
+fiscal policy is also not to be entrusted with the role of controlling inflation and 
+stabilising output levels. These objectives are to be pursued by a Central Bank 
+  
+ 
+A
+D 
+ 
+𝐴𝐷ᇱ 
+y
+’ 
+𝑥ᇱ 
+B 
+C 
+𝑦  
+𝑥 
+A 
+ 
+D
+ 
+
+
+--- Page 40 ---
+ 
+274 
+ 
+Issues in  
+Monetary Policy 
+armed with an appropriate interest rate rule. 
+Check Your Progress 2 
+1. Describe the consensus view of monetary policy..  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+2. Explain, how a higher inflation target influences the interest rate and output? 
+ How, these impacts are different from that of an expansionary fiscal 
+ policy? 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+17.4  PATH DEPENDENCE IN MACROECONOMIC 
+ OUTCOMES 
+So far we have assumed that the level of natural output has been exogenously 
+given. Many economists including M. Lavoie have pointed out that natural output 
+level may actually depend on the level of aggregate demand and actual output. 
+First, high actual output promotes learning-by-doing and contributes to 
+improvement in labour productivity or reduction in per unit labour cost. Second, 
+higher output levels induce more capital formation. Higher capital stock in turn 
+improves labour productivity and reduces labour costs. Third, higher aggregate 
+demand may encourage potential workers to enter the labour force and augment 
+labour supply, which must also positively influence the level of natural output. 
+All these factors must push up natural output level of the economy. Simply put, 
+the capacity to produce depends on the amount actually produced. Therefore, we 
+extend the model of the previous section by adding the following equation: 
+∆𝑦ᇱ = 𝑓(𝑦 − 𝑦ᇱ)        ... (17.17) 
+Equation (17.17) indicates that the change in the level of natural output is directly 
+or positively related to the output level and hence, the deviations of output. 
+Whenever higher demand pushes actual output above its natural level, potential 
+output increases. Let us assume that the Central Bank always fixes 𝑟ᇱ according 
+to equation (17.15). Aggregate demand schedule given by equation (17.14) can 
+then be re-written as: 
+
+
+--- Page 41 ---
+ 
+275 
+ 
+Theory of Monetary 
+Policy 𝑦 = 𝑦ᇱ + ቂ
+ௗ௔ (௫ ᇲି௫ )
+ଵା௕ௗ ቃ        ... (17.18) 
+On taking first difference, we obtain: 
+∆𝑦 = ∆𝑦ᇱ − ቂ
+ௗ௔ ∆௫ )
+ଵା௕ௗ ቃ + ቂ
+ௗ௔ ∆௫ ᇲ)
+ଵା௕ௗ ቃ  
+We can get the expressions for ∆𝑦ᇱ from equation (17.17) and ∆𝑥 from (17.13) to 
+use them in the above equation. This gives: 
+∆𝑦 = ቂ
+௙ିௗ௔௘ )
+ଵା௕ௗ ቃ(𝑦 − 𝑦′) + ቂ
+ௗ௔ ∆௫ ᇲ)
+ଵା௕ௗ ቃ      ... (17.19) 
+Inflation target 𝑥′ is constant till the Central Bank changes its policy; ∆𝑥ᇱ is 
+therefore zero for a given policy stance of the Central Bank. Then, it is obvious 
+from equations (17.17) and (17.19) that when 𝑦 = 𝑦′ neither 𝑦 nor 𝑦′ will have 
+any tendency to change. When the economy reaches the point where 𝑦 = 𝑦′, it 
+will tend to stay there. In Fig. 17.5, all points on the 𝑦 = 𝑦′ line represent 
+equilibrium combinations of actual output and natural output levels. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Fig. 17.5: Path Dependence 
+Suppose the economy is initially at B in Fig. 17.5. In the absence of any shock to 
+the system, the economy will stay at B. Now, assume that the Central Bank 
+changes its policy by declaring a higher inflation target. As a result ∆𝑥ᇱ (and, 
+consequently ∆𝑦) would become positive. The economy thus temporarily shifts 
+from B to D in Fig. 17.5. The intuition is that a higher inflation target results in a 
+reduction in interest rate that stimulates aggregate demand and output. As long as 
+we assume that the square bracket term in equation (17.19) is negative, ∆𝑦 would 
+become negative once the economy reaches D. However, the economy will not 
+settle at B again. This is because 𝑦 > 𝑦′ at D so that 𝑦′ will be increasing 
+according to equation (17.17). The economy would thus move in the north-west 
+direction till it reaches the new equilibrium, E. Both 𝑦 and 𝑦′ are higher at E 
+compared to B. This model displays path dependence. In other word, there is no 
+unique equilibrium point and the equilibrium we reach depends on the initial out-
+𝑦 
+ 
+ 
+  B 
+ 𝑦ᇱ 
+𝑦 = 𝑦ᇱ 
+ 
+ ▪ D 
+  
+E 
+
+
+--- Page 42 ---
+ 
+276 
+ 
+Issues in  
+Monetary Policy 
+of-equilibrium point we start from.  
+We have to be careful about one possibility in the above model. Factors that 
+cause natural output to increase in response to high aggregate demand may take 
+time to kick in. Such factors could be the entry of potential workers in the labour 
+force, immigration of workers from other regions and improvements in labour 
+productivity. If, in the meanwhile, excess demand pressures cause rapid 
+acceleration of the inflation rate so that the Central Bank is also compelled to 
+increase the rate of interest sharply, deviations from natural output level would be 
+short-lived. We need to challenge this possibility because mainstream, following 
+Friedman, believe that natural rate of unemployment has a knife-edge property. 
+Any deviations from it would cause rapid acceleration or deceleration of 
+inflation. In our model, high values of the parameter e (see equation (17.19)) may 
+lead to such an outcome. 
+There are a number of studies that show that this is not the case. Most studies 
+show that even if unemployment is reduced below its natural level for extended 
+periods of time (natural unemployment corresponds to the natural output level; it 
+is believed to exist because of frictions in the labour market) inflation rate 
+increases only mildly. There is evidence on the shape of the short-run Phillips 
+Curve, which shows some trade-off between unemployment and inflation (in the 
+long run, as you know, there is no trade-off between unemployment and inflation 
+and Phillips Curve is vertical at the natural rate of unemployment). However, the 
+short-run Phillips Curve is usually concave. Thus, unemployment can be driven 
+below its natural rate at a low cost in terms of inflation. 
+The idea of path dependence (also called hysteresis) in macroeconomic outcomes 
+radically alters the conclusions of the new consensus macro model developed in 
+the previous section. In the new consensus, as in the monetarist and new-classical 
+views, actual output is pegged to an exogenously given natural output. Thus, 
+fiscal and monetary policy interventions designed to increase the level of output 
+are bound to fail. However, once we endogenise the potential or natural output of 
+the economy, activist policies regain their potency. This is the main message of 
+this section. 
+Check Your Progress 3 
+1. Explain the path dependence of outcomes in macroeconomics.  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+17.5 LET US SUM UP 
+In this unit we discussed the rules vs. discretion debate. According to Milton 
+
+
+--- Page 43 ---
+ 
+277 
+ 
+Theory of Monetary 
+Policy 
+Friedman, Central Banks should follow a policy rule of constant growth in 
+money supply. Other economists such as Robert Barro defined the rules as a 
+commitment to zero/low inflation policy. For most of the new-Keynesians, the 
+rules are shown in terms of equations that link a Central Bank’s ‘policy rate’ to 
+deviations from inflation and output targets. We observe that that much of the 
+mainstream in economics prefers rules, however understood, to a discretionary 
+use of policy by Central Banks. 
+Subsequently, we discussed the current consensus on monetary policy. In the 
+consensus model, monetary policy plays a major role in fixing inflation rate at its 
+pre-defined target. In other words, monetary policy can successfully provide the 
+nominal anchor. Moreover, monetary policy, while successful in determining the 
+rate of inflation, cannot influence the level of output, which is fixed at its natural 
+level. In this sense, the new consensus is simply a rehash of the Friedmanite idea 
+that market forces by themselves deliver full employment and monetary policy is 
+neutral. At best, Central Banks can hope to reduce fluctuations of output around 
+its natural level by following an appropriate interest rate policy. 
+Finally, we discussed the criticism of the new consensus model as it assumes that 
+natural output level is fixed. Critics point out that natural output level may not be 
+exogenously given. High aggregate demand (injected through monetary or fiscal 
+means) may increase actual output as well as natural output levels and take the 
+economy to a higher equilibrium.  
+17.6  ANSWR/HINTS TO CHECK YOUR PROGRESS 
+ EXERCISE 
+Check Your Progress 1 
+ 1.  Refer to Section 8.2. Explain by using equations (17.1) to (17.10) and Fig. 
+ 17.1. 
+ 2.  Refer to Fig. 17.1. Describe why the government should not change its 
+ policy stance afterwards. 
+Check Your Progress 2 
+ 1.  The rate of interest is argued as the main instrument of the Central Bank 
+ to control inflation and output. You should explain the Taylor’s rule, 
+ equations from (17.11) to (17.16) and Fig. 17.2. Refer to Section 8.3. 
+ 2.  Refer to Section 8.3. Explain by using Fig. 17.3 and Fig. 17.4. 
+Check Your Progress 3 
+ 1.  The natural output level may not be exogenously given. It may actually 
+ depend on the level of aggregate demand and actual output. First, high 
+ actual output promotes learning-by-doing and contributes to improvement 
+ in labour productivity or reduction in per unit labour cost. Also, higher 
+ output levels induce more capital formation. Higher capital stock in turn 
+ improves labour productivity and reduces labour costs. All these factors 
+ must push up natural output level of the economy. At the same time the 
+ high demand may encourage potential workers to enter the labour force 
+ and augment labour supply, which must also positively influence the level 
+ of natural output. Explain equations (17.17), (17.18) and (17.19), and Fig. 
+ 17.5. 

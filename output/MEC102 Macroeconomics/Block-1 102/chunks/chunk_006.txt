@@ -1,0 +1,457 @@
+--- Page 47 ---
+ 
+47 
+ 
+The Keynesian Model assets – money and bonds. Money is useful for transactions, but it yields no 
+returns, while bonds offer interest income and possibility of making capital gains 
+when bond prices rise. There is an inverse relation between the price of bonds 
+and rate of interest. Now consider the effect of change in interest rate on 
+speculative demand for money. When interest rate is high, people will mostly 
+expect it to fall and expect bond prices to rise. Therefore, they would reduce 
+money holdings and buy bonds in the expectation of making a capital gain. So, at 
+high rates of interest, demand for money would be low. Conversely, at low rates 
+of interest, people expect interest rates to rise (i.e., fall in bond prices). Capital 
+loss would induce people to sell bonds and increase the demand for money. 
+Therefore, speculative demand for money is inversely related to the rate of 
+interest. 
+In general, the higher the market rate of interest, the higher is the opportunity 
+cost (interest income forgone) of holding money. So when interest rates rise, 
+people would reduce money demand and try to hold interest-bearing assets 
+instead which explains the inverse relation between interest rates and the demand 
+for money. This is another way of understanding the inverse relation between 
+money demand and interest rates, without assuming the presence of speculative 
+demand.  
+From our discussion above, you should see that the money demand function can 
+be expressed as follows:  
+L = q Y – t.i          … (2.15)  
+where q > 0, t > 0; L is the demand for real balances, Y is aggregate income and i 
+is the rate of interest. Diagrammatically the money demand function can be 
+shown as a downward sloping line in Fig. 2.10, where interest rate is presented 
+along the vertical axis and money demand is along the horizontal axis.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.10: Demand for Money 
+i 
+ቀMୱ
+pൗ ቁ
+଴
+ 
+L(Y0) = -qY0 -ti dY 
+i0 
+i1 
+ 
+L, ቀMୱ
+pൗ ቁ  ቀMୱ
+pൗ ቁ
+ଵ
+ 
+
+
+--- Page 48 ---
+ 
+48 
+ 
+Traditional Approaches 
+to Macroeconomics 
+Note that the money demand function L(Y 0) represents demand for money at the 
+income levelY 0. Movement along L(Y 0) demonstrates the interest sensitivity of 
+the money demand function. As interest rate falls from i 0 to i1, there is an increase 
+in the demand for money due to speculative demand for money, as discussed 
+above. For all income levels, demand for money greater than Y 0 would be higher 
+at each interest rate (since transactions and precautionary demands for money 
+increase with income), and the money demand curve would shift to the right. For 
+incomes lower than Y 0, money demand would be lower at each interest rate and 
+the money demand curve would shift to the left.  
+Money supply is determined by the central bank of the country (you will learn 
+more about it in subsequent Units) and is given by the vertical line M s/ P, where 
+Ms is nominal money supply, P is the price level and M s/ P is the real money 
+supply. Equilibrium in the money market occurs at the intersection of money 
+supply and money demand. Note that with the downward sloping money demand 
+function, an increase in money supply (from (M s/P)0 to(M s/P)1) brings about a 
+reduction in the rate of interest (from i0 to i1). 
+2.5.2 Liquidity Trap 
+A special situation can arise if interest rates become unusually low and hit the 
+lowest possible level, so that the demand for money becomes infinitely elastic 
+and the economy faces a ‘liquidity trap’. This can happen when interest rates 
+have fallen so low (and bond prices have risen so high) that everyone expects 
+interest rates to rise (and bond prices to fall). Therefore no one wants to hold 
+bonds, in fear of making a capital loss and everyone wants to hold money. In this 
+situation, the money demand curve becomes horizontal as presented in Fig. 2.11 
+and t in equation (2.16) tends to infinity.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.11: Liquidity Trap 
+ቀMୱ
+pൗ ቁ
+଴
+ 
+i 
+ 
+L, ቀMୱ
+pൗ ቁ  
+ 
+ቀMୱ
+pൗ ቁ
+ଵ
+ 
+i* L 
+
+
+--- Page 49 ---
+ 
+49 
+ 
+The Keynesian Model When interest rates hit a floor such as i *, any injection of extra liquidity in the 
+system is absorbed, as people willingly hold money (liquidity) rather than bonds 
+at an unchanged rate of interest, i *. Therefore once the economy is in a liquidity 
+trap monetary policy cannot lower the rate of interest beyond i * and hence it 
+cannot affect real variables like s. An increase in money supply (from (M s/P)0 
+to(Ms/P)1) has no impact on the interest rate which remains unchanged at i *. Once 
+you learn about monetary and fiscal policies, you will see that conventional 
+monetary policy becomes ineffective when the economy is in a liquidity trap 
+whereas fiscal policy is very effective in this case.  
+The concept of liquidity trap became important in policy circles during the global 
+financial crisis of 2007-08, when in advanced economies like USA and Japan 
+interest rates hit a floor and became zero (USA) or almost zero (Japan). In this 
+case conventional monetary policy could not be used to reduce the rate of interest 
+on government bonds any further and policy experiments involving the use of 
+unconventional monetary policy measures had to be explored. Fiscal policy 
+measures were also employed, but increase in public debt levels raised concerns 
+regarding debt sustainability. In the next section we will explore the role of fiscal 
+policy in the Keynesian model and touch on some of these policy issues.  
+2.6  ROLE OF GOVERNMENT 
+The classical economists, as we saw in Unit 1, advocated minimal government 
+intervention in determination of prices and wage rate. According to them the 
+activity of the government should be limited to law and order, justice and 
+defence. They assumed that prices and wage rate are flexible, and there is perfect 
+competition in the markets. Consequently, there is no unemployment in the 
+economy.  
+The Keynesian economics is in sharp contrast to the classical economics. 
+Keynesian model implies that the government has an important role to play in the 
+economy. The government should play an active role to bring in equilibrium in 
+the market. Keynes highlighted that rigidities in prices and wage rate prevent 
+smooth functioning of market mechanism in the real world. He also highlighted 
+the critical role of effective demand in determining the level of output and 
+employment in a macroeconomic context. The classical economists had focused 
+almost exclusively on the supply side (i.e., on production of output). In contrast, 
+Keynesian analysis showed that aggregate demand (i.e., planned spending by 
+economic agents) plays a key role in determining the level of output and 
+employment in the short run.  
+Keynes pointed out that when lack of effective demand is the underlying cause of 
+an economic recession. When there is high unemployment, there is tendency for 
+wage rate to decline. This will worsen the situation by reducing purchasing 
+power and hence effective demand. Therefore, government should intervene by 
+
+
+--- Page 50 ---
+ 
+50 
+ 
+Traditional Approaches 
+to Macroeconomics 
+increasing public expenditure; it should go for a deficit budget. Fiscal and 
+monetary policies can be used to inject additional demand in the economy, so as 
+to enhance spending (aggregate demand). That would lead to increases in output, 
+income and employment in the economy, and the economy would emerge out of 
+the recession.  
+The success of Keynesian policies during the Great Depression (1929-33) made a 
+strong case for an activist role of the government. In particular, Keynesian 
+economists advocated the use of discretionary fiscal policies, as Keynes had 
+pointed out the limitations of monetary policy. If the economy was in a liquidity 
+trap, conventional monetary policy would be completely ineffective, while fiscal 
+policy would still remain effective.  
+During the global financial crisis of 2007-08, most countries used the Keynesian 
+prescription of expansionary fiscal policy (increases in government spending) to 
+boost economic activity, although it resulted in widening budget deficits and high 
+levels of public debt. High interest burden on public debt contributes to further 
+widening of budget deficits, raising concerns about sustainability of the deficits. 
+Further, high interest rate may lead to ‘crowing out’ of private investment.  
+You must be aware that during 2020 and 2021, the world economy suffered a 
+severe economic crisis due to Covid-19. There was acute shortage in aggregate 
+demand due to decrease in economic activity. The response of the governments 
+to this crisis situation brought to the fore the importance of the policies advocated 
+by Keynes. 
+Check Your Progress 4 
+ 1. Discuss some of the factors that influence the demand for money.  
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+ 2. What is speculative demand for money? How does it affect the slope of 
+  the money demand function? 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+ 
+
+
+--- Page 51 ---
+ 
+51 
+ 
+The Keynesian Model 3.  What is meant by ‘liquidity trap’? What are its implications? 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+4.  Discuss the role of the government in an economy that is facing a 
+prolonged recession.  
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+ 5. Give any three reasons why policy makers tend to be concerned about 
+  mounting budget deficits.  
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+2.7  LET US SUM UP 
+Keynesian model is appropriate for an economy facing recessionary conditions 
+with unemployed resources and lack of effective demand. Keynes assumes that 
+markets are imperfect with wage and price rigidity. Within this framework, 
+output is demand-determined. An increase in any autonomous component of 
+aggregate demand has a multiplier effect, leading to several rounds of increment 
+in output. Our discussion on the consumption and investment functions 
+highlighted the factors that influence these two important components of 
+aggregate demand.  
+Equilibrium in the Keynesian model can be viewed in terms of the equality 
+between planned saving and planned investment. We learnt about the paradox of 
+thrift, which shows that an increase in the propensity to save results in a situation 
+where aggregate saving may remain unchanged or decline. Since output is 
+demand-determined in this model, an increase in planned saving leads to lower 
+aggregate demand and hence lower output, explaining why we observe the 
+paradox of thrift.  
+The demand for money (liquidity preference) increases with increase in income 
+and decreases with increase in interest rate. The inverse relationship between 
+
+
+--- Page 52 ---
+ 
+52 
+ 
+Traditional Approaches 
+to Macroeconomics 
+money demand and the rate of interest could be explained by the Keynesian 
+concept of speculative demand for money. We also learnt about the liquidity trap 
+– at unusually low rate of interest the demand for money becomes infinitely 
+elastic and traditional monetary policy became ineffective.  
+2.8  ANSWERS/HINTS TO CHECK YOUR PROGRESS 
+EXERCISES 
+Check Your Progress 1 
+1)  Consumption function is a linear function given by 𝐶 = 𝑎 + 𝑏𝑌. The APC 
+declines with increase in Y while the MPC remains constant.  
+2)  i) A decrease in autonomous consumption will lead to a parallel downward 
+shift in the consumption function.  
+(ii) An increase in MPC will increase the slope of the consumption function.  
+3)  Autonomous investment remains constant irrespective of the level of income 
+or interest. Induced invest depends on income or rate or interest or both. See 
+Sub-Section 2.2.2 for details. 
+4)  As interest rate decreases the cost of borrowing decreases. Thus, some of the 
+projects which were unviable earlier become profitable. Therefore, more 
+investment takes place with decrease in interest rate.  
+Check Your Progress 2 
+1)  Keynesian model is based on the assumption that resources are under-
+utlised, prices and wage rate are rigid, and output is a homogenous 
+commodity.  
+2)  a) Aggregate demand function is: 𝑌 = 30 + 0.75𝑌. Equilibrium income is 
+120. 
+ b) Equilibrium output will increase to 140. 
+ c) 4 
+ d) In the case of lump sum tax, the multiplier will be the same as 
+autonomous expenditure multiplier given in (b).  In the case of proportional 
+tax at the rate of 0.1, the multiplier will be reduce to  
+ଵ
+ଵି଴ .଻ହ ×଴ .ଽ = 3.08 
+ e) The open economy multiplier is given by 1 / (1 – b + m). Therefore, the 
+multiplier will be 1.8. 
+3) Go through Sub-Section 2.3.1 and answer.  
+Check Your Progress 3 
+1) (a) Go through Sub-Section 2.4.2; explain Fig. 2.7. 
+
+
+--- Page 53 ---
+ 
+53 
+ 
+The Keynesian Model (b) Saving will be lower than investment, since (S + T) = (𝐼̅+G). 
+2) Refer to Fig. 2.8 and Fig. 2.9 for the answer.  
+3) (i)   𝑆 = −10 + 0.25𝑌; (ii) 120; (iii) 112 
+Check Your Progress 4 
+1) You should discuss about transaction demand, precautionary demand 
+and speculative demand for money.  
+2) Refer to Sub-Section 2.5.1 and answer.  
+3) It refers to the insensitiveness of the demand for money to rate of 
+interest, when the rate of interest is very low. Conventional instruments 
+of monetary policy become ineffective in liquidity trap.  
+4) Government should increase public expenditure so that there is no 
+decrease in effective demand. 
+5) High fiscal deficit increases government debt burden, increases interest 
+rate amd may lead to crowding out of private expenditure.  
+
+
+--- Page 54 ---
+UNIT 3 THE NEOCLASSICAL SYNTHESIS 
+Structure 
+3.0 Objectives 
+3.1 Introduction 
+3.2 Equilibrium in the Real Sector  
+3.2.1 Derivation of the IS Curve 
+3.2.2 Shift in the IS Curve 
+3.3 Equilibrium in the Monetary Sector  
+3.3.1 Derivation of the LM Curve 
+3.3.2 Shift in the LM Curve 
+3.4 Simultaneous Equilibrium of Real and Monetary Sectors 
+3.4.1 Shocks in the IS-LM Model 
+3.4.2 Adjustment Process in the Economy 
+3.4.3 Impact of Supply Shocks 
+3.5 AD-AS Model 
+3.5.1 Derivation of the AD Curve 
+3.5.2 Aggregate Supply Curve 
+3.6 Let Us Sum Up 
+3.7 Answers/Hints to Check Your Progress Exercises 
+3.0 OBJECTIVES 
+After going through this unit, you should be in a position to 
+ explain the equilibrium in the real sector and the monetary sector in an
+economy;
+ explain the underlying ideas behind the IS curve;
+ explain the underlying ideas behind the LM curve;
+ explain how the IS and LM curves interact;
+ identify factors that influence the position and slope of the IS and the LM
+curves;
+ derive aggregate demand (AD) curve from the IS-LM model; and
+ find out the factors that influence the AD curve.
+3.1 INTRODUCTION 
+In Unit 2 we discussed how the equilibrium level of output is determined in the 
+Keynesian model. Recall that Keynes came up with his analysis in the aftermath 
+of the Great Depression. He considered an economy with underutilization of 
+resources (i.e., presence of idle capacity) with an objective of correcting the 
+P
+rof. Kaustuva Barik, Indira Gandhi National Open University, New Delhi 
+
+
+--- Page 55 ---
+ 
+ 
+ 
+55 
+The Neoclassical 
+Synthesis 
+economy immediately. Thus, he focused on the short-run. He reasoned that an 
+increase in aggregate expenditure (which represents aggregate demand) leads to an 
+increase in output; it does not lead to rise in prices till full employment is reached. 
+In view of above, price level is kept fixed in the simple Keynesian model. An 
+implication of fixed prices is that nominal values and real values are the same. 
+In this Unit we deal with a closed economy; there is no external trade. We begin 
+with the derivation of IS and LM curves. Subsequently, we derive the AD curve 
+from the equilibrium points of the IS-LM model.  
+3.2 EQUILIBRIUM IN THE REAL SECTOR  
+The aggregate expenditure (or, aggregate demand) of an economy is given by  
+Y = C + I + G 
+where Y is output (or, aggregate supply), C is consumption expenditure, I is 
+investment expenditure, and G is government expenditure. 
+The consumption function is given by  
+𝐶 = 𝑎 + 𝑏 (𝑌 − 𝑇) = 𝑎 + 𝑏𝑌ௗ       … (3.1)   
+where 𝑌ௗ is disposable income (i.e., Y – T). Here T is a lump sum tax levied by the 
+government.  The investment function is given by 
+𝐼 = 𝑐 + 𝑑𝑌 − 𝑒 𝑖         … (3.2)    
+where 𝑖 is the rate of interest (there is no difference between nominal rate of 
+interest and real rate of interest as price is kept fixed). Let us assume that 
+government expenditure (G) is constant, and exogenously given. Thus,   
+𝑌 = 𝑎 + 𝑏 (𝑌 − 𝑇ത) + (𝑐 + 𝑑𝑌 − 𝑒 𝑖) + 𝐺 ̅     … (3.3) 
+On re-arrangement of terms in equation (3.3), we obtain  
+𝑌 − 𝑏𝑌 − 𝑑𝑌 = 𝑎 − 𝑏𝑇ത + 𝑐 − 𝑒𝑖 + 𝐺̅  
+Or, 𝑌 =
+௔ା௖ାீ ̅ି௕் ത
+(ଵି௕ିௗ )
+−
+௘
+(ଵି௕ିௗ ) 𝑖      … (3.4) 
+The IS equation, in its general form, is given by  
+𝑌 =  𝛼 ீ (𝐴̅ − 𝑒𝑖)        … (3.4a) 
+where 𝛼ீ =
+ଵ
+(ଵି௕ିௗ ) and 𝐴̅ = 𝑎 + 𝑐 + 𝐺̅ − 𝑏𝑇ത . 
+In equation (3.4) we find an inverse relationship between Y and 𝑖. It implies that, 
+as 𝑖 increases, there is a decrease in Y. In order to find out the slope of equation 
+(3.4) you have to express it in terms 𝑖 and find out the slope 
+ௗ௜
+ௗ௒ . You can find out 
+the slope of the IS curve as −
+(ଵି௕ିௗ )
+௘ . Depending upon the value of the parameters, 
+the IS curve would be flatter or steeper. 
+3.2.1 Derivation of the IS Curve 
+In Fig. 3.1 we explain the relationship between Y and 𝑖 through a diagram. In Panel 
+(a) of Fig. 3.1 we take aggregate expenditure (AE) on the y-axis and output (Y) on 
+
+
+--- Page 56 ---
+ 
+ 
+ 
+56 
+Traditional Approaches 
+to Macroeconomics 
+the x-axis. Let us assume that the economy is operating with AE0 while the rate of 
+interest is 𝑖଴ .  The intersection of AE 0 with the 45଴  line at point ‘a’ is of utmost 
+importance to us. Note that the 45଴  line in Fig. 3.1(a) indicates equality between 
+aggregate demand (AE) and aggregate supply (Y), such that it corresponds to 
+equilibrium in the economy. We plot this point ‘a’ in panel (b) of Fig. 3.1. In panel 
+(b) we take interest rate (𝑖) on the y-axis and output (Y) on the x-axis.  
+Panel (a) 
+ 
+  AD 
+       AE 1 
+     b            AE 0 
+     
+      a 
+ 
+ 
+             Y 0 Y 1  Y 
+ 
+Panel (b) 
+    i  
+ 
+ 
+    i0          a 
+    i1        b 
+ 
+             IS 
+     O  Y 0 Y 1               Y 
+Fig. 3.1: Derivation of the IS Curve 
+Suppose, there is a decrease in the rate of interest from 𝑖଴  to 𝑖ଵ . As a result of this, 
+the level of investment in the economy increases and the new aggregate 
+expenditure level rises to AE 1. The aggregate expenditure curve (AE 1) intersects 
+the 45଴  line at point-b. Due to the increase in the aggregate expenditure, there is 
+an increase in the equilibrium level of output from Y 0 to Y 1.  We plot point-b in 
+Fig. 3.1(b) corresponding to output level Y1 and intertest rate 𝑖ଵ . When we combine 
+points ‘a’ and ‘b’ we obtain a downward-sloping curve, called the IS curve. A point 
+on the IS curve denotes equilibrium in the real sector (also called the goods sector) 
+of the economy and there is equality between investment (I) and saving (S). Note 
+that the real sector of the economy is at equilibrium on each and every point of the 

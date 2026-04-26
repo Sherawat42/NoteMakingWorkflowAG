@@ -1,0 +1,431 @@
+--- Page 1 ---
+ 
+UNIT 18 FISCAL POLICY 
+Structure 
+18.0  Objectives 
+18.1  Introduction 
+18.2  Goals of Fiscal Policy 
+18.3  Discretionary Fiscal Policy 
+          18.3.1 Discretionary Fiscal Policy to Cure Recession 
+          18.3.2 Discretionary Fiscal Policy to Control Inflation 
+  18.3.3 Time Lags in Implementation of Discretionary Fiscal Policy 
+18.4  Non-Discretionary Fiscal Policy 
+         18.4.1 Income Taxes 
+  18.4.2 Transfer Payments 
+  18.4.3 Discretionary vs. Non-Discretionary Measures 
+18.5  Let us Sum Up 
+18.6  Answers to Check Your Progress Exercises 
+18.0  OBJECTIVES 
+After going through the unit you will be in a position to 
+ explain the concepts of fiscal policy, government budget, and budget balance; 
+ distinguish between Discretionary and Non-Discretionary fiscal policies; 
+ identify the role of these policies in reducing output fluctuations; and 
+ explain the issues related to the implementation of fiscal policy. 
+18.1  INTRODUCTION 
+You may be aware by now that the economy does not always work smoothly. 
+There often occur fluctuations in the level of economic activity. At times the 
+economy finds itself in the grip of recession when levels of income, output and 
+employment are below their full employment levels. At other times the economy 
+is overheated, which means occurrence of rising prices and high inflation. The 
+classical economists believed that an automatic mechanism works to restore 
+stability in the economy; recession would cure itself and inflation will be 
+automatically controlled. However, the empirical evidence during the 1930s 
+when severe depression took place in the western capitalist economies shows that 
+no such automatic mechanism works to bring about stability in the economy. In 
+view of this Keynes argued for intervention by the government to cure depression 
+and inflation by adopting appropriate tools for macro-economic policy. The two 
+important tools of macroeconomic policy are fiscal policy and monetary policy. 
+We have already dealt with monetary policy in the previous two units.  
+ 
+ Dr. Archi Bhatia, Associate Professor, Ramjas College, University of Delhi 
+
+
+--- Page 2 ---
+ 
+279 
+ 
+Fiscal Policy In the present unit we will dwell upon the role of fiscal policy for stabilizing the 
+economy. 
+18.2  GOALS OF FISCAL POLICY 
+Fiscal policy basically is demand management policy in the sense that it 
+influences aggregate demand through changes in government expenditure. Taxes, 
+transfer payments, and government expenditures on goods and services are the 
+tools of fiscal policy. The main objective of fiscal policy is to stabilize output by 
+managing aggregate demand, keeping output close to potential output, and 
+reducing the size and duration of business cycle fluctuations. This requires 
+changes in the government’s expenditure plans and tax policy to offset changes 
+in autonomous consumption, investment and exports that would otherwise push 
+the economy away from equilibrium at potential output. 
+Fiscal Policy tools, taxes, transfers and government expenditure, influence 
+aggregate demand through disposable income and consumption expenditure, and 
+directly through government expenditures. The net tax rate also affects the size of 
+the expenditure multiplier (also called Keynesian multiplier or spending 
+multiplier). Thus, changes in tax rates, transfer rates, and government 
+expenditures shift the AD curve. 
+At the time of recession the Government increases its expenditure or cuts down 
+taxes or adopts a combination of both. On the other hand, to control inflation the 
+Government cuts down its expenditure or raises taxes. In other words, to cure 
+recession, expansionary fiscal policy and to control inflation, contractionary 
+fiscal policy is adopted. Adoption of such expansionary fiscal policy will cause 
+deficit in the government’s budget and contractionary fiscal policy will cause a 
+surplus in the government’s budget. As the government implements fiscal policy 
+through its budget, let us first understand the budget balance. 
+The government budget describes what goods and services the government will 
+buy during the coming year, what transfer payments it will make, and how it will 
+pay for them. When revenues and spending are equal, the budget is balanced. 
+When revenues exceed spending, there is a budget surplus. When revenues fall 
+short of spending, there is a budget deficit. The government budget balance is the 
+difference between revenues and expenditures. 
+𝐺𝑜𝑣𝑒𝑟𝑛𝑚𝑒𝑛𝑡 𝐵𝑢𝑑𝑔𝑒𝑡 𝐵𝑎𝑙𝑎𝑛𝑐𝑒 (𝐵𝐵) = 𝑵𝑻 − 𝑮 = (𝒕𝒀 − 𝑮)                       
+Where G= Government Purchases, NT = net Tax Revenue and, t= tax rate 
+The budget balance, whether deficit, surplus or zero, is determined by three 
+things: 
+1. The net tax rate t set by the government; 
+2. The level of expenditure G set by the government; and 
+3. The level of output Y determined by AE and AD 
+In Fig. 18.1, panels (a) and (b), we present the budget function and the budget 
+balance respectively. In Fig 18.1 panel (a), the budget is balanced (i.e., G=NT) at 
+the aggregate income level 𝑌ଵ  . The budget has a deficit for income level less than 
+
+
+--- Page 3 ---
+ 
+280 
+ 
+Fiscal Policy and 
+Macroeconomics 
+𝑌ଵ  (𝑖. 𝑒. , 𝑌 < 𝑌ଵ ) and a surplus for income level more than 𝑌ଵ  (𝑖. 𝑒. , 𝑌 > 𝑌ଵ ). In 
+Fig. 18.1 panel (b), the budget balance (BB) is determined by the level of GDP. 
+A budget function shows us the different budget balances for one fiscal policy 
+program at different levels of national income. Finally, notice that because a 
+budget function describes one fiscal plan, any change in the fiscal plan will 
+change the BB line to show a new budget function. We observe that BB=0 (i.e., 
+NT=G), for income level, 𝑌ଵ . Correspondingly, BB>0 for income levels greater 
+than 𝑌ଵ  and BB<0 for income levels less than, 𝑌ଵ . 
+ 
+ 
+Fig. 18.1 Panel (a): A Government Budget 
+                       Output Y 
+G & NT 
+G 
+NT 
+Deficit 
+Y1 
+BB 
+Y1 
+BB=tY-G 
+                       Output Y 
+Fig. 18.1 Panel (b) 
+Fig. 18.1 shows the government budget is in balance at income level, 𝒀𝟏. It is in 
+surplus to the right of 𝒀𝟏 (𝒀 > 𝒀𝟏, )  and in deficit to the left of 𝒀𝟏 (𝒀 < 𝒀𝟏, ). 
+Surplus 
+BB>0 
+BB=0 
+BB<0 
+Balanced 
+
+
+--- Page 4 ---
+ 
+281 
+ 
+Fiscal Policy Check Your Progress 1 
+1)  What is meant by fiscal policy? 
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+ ........................................................................................................................
+  
+2)  Explain the type of fiscal policies governments use to control recession 
+and inflation? 
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+ ........................................................................................................................ 
+18.3  DISCRETIONARY FISCAL POLICY 
+Fiscal policy is of two kinds, viz., i) Discretionary fiscal policy, and ii) Non-
+Discretionary fiscal policy of automatic stabilizers. By discretionary fiscal policy 
+we mean deliberate change in government expenditure and taxes to influence the 
+level of national output and prices. These are non-mandatory changes in taxation, 
+spending, or other fiscal activities by a government in response to economic 
+events or changes in economic conditions. Discretionary fiscal policy implies 
+government actions above and beyond existing fiscal policies, and often occurs in 
+periods of recession or economic turbulence. Discretionary fiscal policy relates to 
+demand management that uses government spending and taxation policy to 
+influence aggregate demand. The government uses an expansionary fiscal policy 
+to correct a recessionary gap and a contractionary fiscal policy to correct an 
+inflationary gap.  
+18.3.1 Discretionary Fiscal Policy to cure Recession 
+The recession in an economy occurs when aggregate demand decreases below the 
+full employment level due to a fall in investment, consumption or net exports. 
+This fall in aggregate demand below the full employment level creates a 
+deflationary or recessionary gap. It is the task of fiscal policy to close this gap by 
+increasing government expenditure or reducing the taxes. We discuss below 
+policy instruments used to cure recession. 
+
+
+--- Page 5 ---
+ 
+282 
+ 
+Fiscal Policy and 
+Macroeconomics a) Increase in Government Expenditure  
+For a discretionary fiscal policy to cure depression, the increase in government 
+expenditure is an important tool. Government may increase expenditure by 
+starting public works. For undertaking all these public works, government buys 
+various types of goods and materials and employs workers. The effect of this 
+increase in expenditure is both direct and indirect. The direct effect is the 
+increase in incomes of those who sell materials and supply labour for these 
+projects. The output of these public works also goes up together with the increase 
+in incomes. Not only that, Keynes showed that increase in government 
+expenditure also has an indirect effect in the form of the working of a multiplier 
+(see Block 1, Unit 2). Those who get more income spend them further on 
+consumer goods depending on their marginal propensity to consume. The impact 
+of increase in government expenditure in a recessionary condition is illustrated in 
+Fig 18.2. The aggregate expenditure is given by the curve AE while the 45଴  line 
+depicts the equality between aggregate output (Y) and AE. Suppose the initial 
+aggregate expenditure, 𝐴𝐸଴  , intersect the 45଴  line at point 𝐸ଵ and thereby 
+determine 𝑌଴  as the level of output. As this level of equilibrium output is below 
+the full employment level ( 𝑌௙ ), a deflationary gap of 𝑌଴ 𝑌௙  is created. We observe 
+from Fig. 18.2 that, the deflationary gap can be eliminated if the government 
+increases its expenditure by 𝐸ଵ 𝐻. The aggregate expenditure curve will shift 
+upwards to 𝐴𝐸ଵ  and as a result the equilibrium level of income will increase to 
+the full employment level, 𝑌௙ . Note that the increase in output by 𝑌଴ 𝑌௙  is more 
+than the increase in government expenditure 𝛥𝐺 =  𝐸ଵ 𝐻, due to multiplier effect. 
+ 
+ 
+Fig. 18.2: Increase in Government Expenditure 
+𝐴𝐸଴  
+AE 
+45 
+Y = AE 
+𝐴଴  
+𝐴଴ + 𝛥𝐺 
+𝑌଴  𝑌௙                              Output 
+𝐴𝐸ଵ  
+𝐸ଵ  
+H 
+𝐸ଶ  
+Deflationary 
+gap 
+Fig.18.2 shows that an increase in Government expenditure 
+increases Y and closes the deflationary gap. 
+
+
+--- Page 6 ---
+ 
+283 
+ 
+Fiscal Policy b)  Reduction in Taxes  
+An alternative fiscal measure to overcome recession and to achieve expansion in 
+output and employment is reduction in taxes. The reduction in taxes increases the 
+disposable income of the society and causes the increase in the consumption 
+spending of the people. Thus reduction in taxes will cause an upward shift in the 
+consumption function. If along with the reduction in taxes, the government 
+expenditure is kept unchanged, aggregate expenditure curve will shift upward 
+due to rise in consumption function curve. This will have an expansionary effect 
+and the economy will be lifted out of recession, and national income and 
+employment will increased. Fig. 18.3 shows the effect of a reduction in taxes on 
+addressing the problem of recessionary gap. Aggregate demand curve 𝐴𝐸଴  , 
+intersect the 45଴  line at point 𝐸ଵ , with 𝑌଴ , as the equilibrium level of income. A 
+recessionary gap of 𝑌଴  𝑌௙  exists as this level of output falls short of the full 
+employment level, 𝑌௙ . A fall in the tax rate, increases the slope of the aggregate 
+expenditure curve (by increasing the value of the multiplier) and shifts the 
+aggregate expenditure curve outward to 𝐴𝐸ଵ , which intersects with the Y= AE 
+line at point 𝐸ଶ . As the level of equilibrium income now becomes equal to the 
+full employment level of income, 𝑌௙ , the recessionary gap disappears. Thus, a 
+reduction in taxes will increase consumption expenditure C, and shifts the 
+aggregate expenditure curve upward and will result in, through the working of 
+the multiplier, a higher level of equilibrium level of income.  
+ 
+18.3.2 Discretionary Fiscal Policy to Control Inflation 
+A situation of excess demand in the economy can arise because of three reasons: 
+i) increase in household demand due to large increase in consumption, ii) 
+increase in demand by firms due to increase in investment, and iii) increase in 
+government expenditure. As aggregate expenditure increases beyond what the 
+                       Output 
+45 
+AE 
+Fig 18.3: Increase in Net Tax Rate 
+Y = AE 
+𝐴𝐸ଵ (𝛥𝑡 < 0) 
+𝐴𝐸଴  𝐸ଶ  
+𝐸ଵ  
+𝐴଴  
+𝑌௙  𝑌଴  
+Deflationary 
+gap 
+Fig 18.3 shows that a decrease in net tax rate increases spending 
+and the multiplier to close the recessionary gap.  
+
+
+--- Page 7 ---
+ 
+284 
+ 
+Fiscal Policy and 
+Macroeconomics 
+economy can potentially produce by fully employing its given resources, the 
+situation of excess demand builds inflationary pressures in the economy. An 
+inflationary situation can also arise if too large an increase in money supply in 
+the economy occurs. In these circumstances, an inflationary gap occurs which 
+tend to bring about rise in prices. Under such circumstances anti-cyclical fiscal 
+policy calls for reduction in aggregate expenditure. Thus fiscal policy measures 
+to control inflation are (a) reducing government expenditure (b) increasing taxes.  
+a) Reducing Government Expenditure  
+Fig. 18.4 shows how the reduction in government expenditure will help checking 
+inflation. You can see from the figure that an aggregate demand,  𝐴𝐸଴   intersects 
+the 45଴  line at point, 𝐸ଵ , and determines equilibrium level of income at 𝑌଴  > 𝑌௙ , 
+(the full employment level). As a result, an inflationary gap equal to 𝑌଴  𝑌௙  
+emerges. A reduction in government expenditure equal to 𝐸ଵ 𝐻, reduces aggregate 
+expenditure and shits the curve down to 𝐴𝐸ଵ , which will restore the equilibrium 
+at the full employment level, 𝑌௙ . The reduction in Government expenditure equal 
+to 𝐸ଵ 𝐻 through the operation of multiplier will result in a multiple decline in the 
+level of national income or output. Fig. 18.4 shows that the decrease in 
+government expenditure by 𝐸ଵ 𝐻 has led to a much bigger decline in output by 
+𝑌଴  𝑌௙ .  
+ 
+b) Increase in Taxes 
+In addition to the reduction in Government expenditure, the government can 
+increase taxes to reduce aggregate demand. The hike in taxes reduces the 
+disposable income of the people and thereby forces them to reduce their 
+45 
+Fig. 18.4: Decrease in Government 
+Expenditure 
+Y = AE 
+𝐴𝐸ଵ  
+𝐴𝐸଴  
+𝐸ଵ  
+H 
+𝐸ଶ  
+𝐴଴  
+𝑌଴                         Output 𝑌௙  
+𝐴଴ + (−𝛥𝐺) 
+Inflationary 
+gap 
+AE 
+Fig. 18.4 shows that a decrease in Government expenditure 
+decreases Y and closes the inflationary gap. 
+
+
+--- Page 8 ---
+ 
+285 
+ 
+Fiscal Policy consumption demand. In Fig. 18.5, the inflationary gap of 𝑌଴  𝑌௙  is closed by an 
+increase in the net tax rate which reduces the slope of AE and shifts the aggregate 
+expenditure downward to 𝐴𝐸ଵ  . This downward shift of the aggregate expenditure 
+curve moves the economy back to the full employment equilibrium at, 𝑌௙ .  
+ 
+18.3.3 Time Lags in Implementation of the Discretionary Fiscal Policy 
+Although the government has long conducted monetary and fiscal policy, the 
+view that it should use these policy instruments to try to stabilize the economy is 
+more recent. To many economists the case for active government policy is clear 
+and simple. Recessions are periods of high unemployment, low incomes, and 
+increased economic hardship. The model of aggregate demand and aggregate 
+supply shows how shocks to the economy can cause recessions. It also shows 
+how monetary and fiscal policy can prevent (or at least soften) recessions by 
+responding to these shocks. These economists consider it wasteful not to use 
+these policy instruments to stabilize the economy. Other economists are critical 
+of the government’s attempts to stabilize the economy. These critics argue that 
+the government should take a hands-off approach to macroeconomic policy. Why 
+do these critics want the government to refrain from using monetary and fiscal 
+policy for economic stabilization? To find out, let’s consider some of their 
+arguments. 
+45 
+Y = AE 
+𝐴𝐸଴  
+𝐴𝐸ଵ (𝛥𝑡 > 0) 
+Inflationary 
+gap 
+𝑌௙                         Output 𝑌଴  
+𝐴଴  
+𝐸ଵ  
+𝐸ଶ  
+Fig. 18.5: Increase in Net Tax Rate  
+Fig. 18.5 shows that an increase in net tax rate reduces spending 
+and the multiplier to close the inflationary gap.   
+
+
+--- Page 9 ---
+ 
+286 
+ 
+Fiscal Policy and 
+Macroeconomics Stabilization goals are not easy to achieve. The existence of various kinds of time 
+lags, or delays in the response of the economy to stabilization policies, can make 
+the economy difficult to control. Indeed, the problem for policymakers is even 
+more difficult, because the lengths of the lags are hard to predict. Economists 
+distinguish between two lags that are relevant for the conduct of stabilization 
+policy: the inside lag and the outside lag. The inside lag is the time between a 
+shock to the economy and the policy action responding to that shock. This lag 
+arises because it takes time for policymakers first to recognize that a shock has 
+occurred and then to put appropriate policies into effect. The outside lag or the 
+response lag is the time between a policy action and its influence on the 
+economy. This lag arises because policies do not immediately influence 
+spending, income, and employment. The inside lag can be further classified into 
+the recognition lags and the implementation lags. 
+a) Recognition Lag 
+It takes time for policy makers to recognize a boom or a slump. Many important 
+data—those from the national income and product accounts, for example—are 
+available only quarterly. It usually takes several weeks to compile and prepare 
+even the preliminary estimates for these figures. If the economy goes into a 
+slump on January 1, the recession may not be detected until the data for the first 
+quarter are available at the end of April. 
+b) Implementation Lag 
+The problems that lags pose for stabilization policy do not end once economists 
+and policy makers recognize that the economy is in a boom or a slump. Even if 
+everyone knows that the economy needs to be stimulated or reined in, it takes 
+time to put the desired policy into effect, especially for actions that involve fiscal 
+policy. Implementation lags result. 
+c) Response Lag 
+Even after a macroeconomic problem has been recognized and the appropriate 
+policies to correct it have been implemented, there are response lags – lags that 
+occur because of the operation of the economy itself. For example, it takes time 
+for the multiplier to reach its full value. The delay in the multiplier process 
+occurs because neither individuals nor firms revise their spending plans 
+instantaneously. Until they can make those revisions, extra government spending 
+does not stimulate extra private spending. 
+In practice, it takes about a year for a change in taxes or in government spending 
+to have its full effect on the economy. This response lag means that if we 
+
+
+--- Page 10 ---
+ 
+287 
+ 
+Fiscal Policy increase spending to counteract a recession today, the full effects will not be felt 
+for 12 months. By that time, the state of the economy might be very different. 
+The long and variable lags associated with fiscal policy certainly make stabilizing 
+the economy more difficult. Advocates of passive policy argue that, because of 
+these lags, successful stabilization policy is almost impossible. Indeed, attempts 
+to stabilize the economy can be destabilizing. Suppose that the economy’s 
+condition changes between the beginning of a policy action and its impact on the 
+economy. In this case, active policy may end up stimulating the economy when it 
+is heating up or depressing the economy when it is cooling off. Advocates of 
+active policy admit that such lags do require policymakers to be cautious. But, 
+they argue, these lags do not necessarily mean that policy should be completely 
+passive, especially in the face of a severe and protracted economic downturn. 
+Check Your Progress 2 
+1) Show diagrammatically how a recession can be controlled through the use of 
+discretionary fiscal policy. 
+............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................ 
+18.4  NON-DISCRETIONARY FISCAL POLICY 
+Non-discretionary fiscal policy of automatic stabilizers is a built-in tax or 
+expenditure mechanism that automatically increases aggregate demand when 
+regression occurs and reduces aggregate demand when there is inflation in the 
+economy without any special deliberate actions on the part of the government.  
+These policies, called automatic stabilizers, are designed to reduce the lags 
+associated with stabilization policy. Automatic stabilizers are policies that 
+stimulate or depress the economy when necessary without any deliberate policy 
+change. In the non-discretionary fiscal policy, the tax structure and expenditure 
+pattern are so designed that taxes and government spending vary automatically in 
+appropriate direction with the changes in national income. That is, these taxes 
+and expenditure pattern without any special deliberate action by the government 

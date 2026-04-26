@@ -1,0 +1,334 @@
+--- Page 21 ---
+ 
+298 
+ 
+Fiscal Policy and 
+Macroeconomics 
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+19.4  THE DANGERS OF HIGH DEBT 
+Suppose that large deficits have led to a high debt ratio. What should the 
+government do then? Simply trying to stabilize the debt at this high level is 
+unwise: The lesson from history is that high debt can lead to vicious cycles and 
+makes the conduct of fiscal policy extremely difficult. Let us look at this more 
+closely. 
+Let us look at equation (19.16) again. 
+𝑩𝒕
+𝒀𝒕
+−  
+𝑩𝒕ష 𝟏
+𝒀𝒕ష 𝟏
+= (𝒓 − 𝒈)
+𝑩𝒕ష 𝟏
+𝒀𝒕ష 𝟏
++ 
+𝑮𝒕ି 𝑻𝒕
+𝒀𝒕
+                                ...(19.16) 
+Let us take a country with a high debt ratio, say, 100%. Suppose the real interest 
+rate is 3% and the growth rate is 2%. The first term on the right is (3%-2%) times 
+100% = 1% of GDP. Suppose further that the government is running a primary 
+surplus of 1%, thus just enough to keep the debt ratio constant (the right side of 
+the equation equals (3%–2%) times 100% + (–1%) = 0 per cent.  
+Now, suppose financial investors start to worry that the government may not be 
+able to fully repay the debt. They ask for a higher interest rate, to compensate for 
+what they perceive as a higher risk of default on the debt. But this in turn makes 
+it more difficult for the government to stabilize the debt. Suppose, for example, 
+that the interest rate increases from 3% to, say, 8%. Then, just to stabilize the 
+debt, the government now needs to run a primary surplus of 6% (the right side of 
+the equation is then equal to (8% – 2%) × 100% + (– 6%) = 0 per cent. 
+Suppose that, in response to the increase in the interest rate, the government 
+indeed takes measures to increase the primary surplus to 6 per cent. The spending 
+cuts or tax increases that are needed are likely to prove politically costly, 
+potentially generating more political uncertainty, a higher risk of default, and 
+thus a further increase in the interest rate. Also, the sharp fiscal contraction is 
+likely to lead to a recession, decreasing the growth rate. Both the increase in the 
+real interest rate and the decrease in growth further increase (r – g), requiring an 
+even larger surplus to stabilize the debt. At some point, the government may 
+become unable to increase the primary surplus sufficiently, and the debt ratio 
+starts increasing, leading financial markets to become even more worried and 
+require an even higher interest rate. Increases in the interest rate and increases in 
+the debt ratio feed on each other. The result is a debt explosion. The lesson is 
+clear. When a government inherits a high debt ratio, it should aim at decreasing it 
+over time. As (19.16) has made clear, it can achieve this through a combination 
+of primary surpluses, high growth rates, and low real interest rates. 
+19.4.1 Debt Default 
+At some point, when a government finds itself facing very high interest rates, it 
+may decide to default. Default is often partial, and creditors take what is known 
+as a haircut: A haircut of 30 per cent, for example, means that creditors receive 
+only 70 per cent of what they were owed. When debt is very high, default would 
+seem like an appealing solution: Having a lower level of debt after default 
+
+
+--- Page 22 ---
+ 
+299 
+ 
+Fiscal Sustainability reduces the size of the required fiscal consolidation and thus makes it more 
+credible. It lowers required taxes, potentially allowing for higher growth. But 
+default comes with very high costs. If debt is held, for example, by pension 
+funds, the retirees may suffer very much from the default. If it is held by banks, 
+then banks may go bankrupt, with major adverse effects on the economy. If debt 
+is held instead mostly by foreigners, then the country’s reputation may be lost, 
+and it may be very difficult for the government to borrow abroad for a long time. 
+So, in general, and rightly so, governments are very reluctant to default on their 
+debt. 
+19.4.2 Lessons from the Past 
+High levels of government debt may increase the risk that an economy will 
+experience capital flight that is an abrupt decline in the demand for a country’s 
+assets in world financial markets. International investors are aware that a 
+government can always deal with its debt simply by defaulting. This approach 
+was used as far back as 1335, when England’s King Edward III defaulted on his 
+debt to Italian bankers. More recently, several Latin American countries 
+defaulted on their debts in the 1980s, and Russia did the same in 1998. The 
+higher the level of the government debt, the greater is the temptation of default. 
+Thus, as government debt increases, international investors may come to fear 
+default and curtail their lending. If this loss of confidence occurs suddenly, the 
+result could be the classic symptoms of ‘capital flight’ leading to currency crisis. 
+It has occurred in Mexico in the early 1990s when default appeared likely. In 
+2011, it seemed likely that Greece was heading toward that outcome as well. 
+Greece’s shaky financial status was well-known when it was admitted to the 
+European Union (EU) in 2000, but the true depth of that nation’s debt became 
+known only in 2009 when Greece announced that it had been under-reporting its 
+debt over the years. Meanwhile, fellow EU member Ireland, a strong financial 
+performer, had to bail out its entire banking system in 2007-08. Between 2007 
+and 2010, the Irish debt-GDP ratio went up from 25 to about 100 percent, and its 
+fiscal deficit as a percentage of GDP went up from zero per cent to more than 30 
+percent. At the same time, Portugal, Spain and Italy also started experiencing 
+high debt problems. As the members of EU are connected, these nations’ debt 
+crisis threatened to trigger a sovereign debt crisis in Europe.  Financial markets 
+stopped viewing Italian, Greek, Irish, Portuguese and Spanish debt as close 
+substitutes for German bonds, and they started hiking interest rates in the fall of 
+2008 to compensate for the heightened risk of default. By January 2012, the yield 
+spread between German and Greek debt had increased by 33 percent.  Greek 
+banks then held about 20 percent of the government’s sovereign debt. As the 
+market feared Greece’s banks would no longer honour obligations, they stopped 
+rolling over Greek bank debt, which in turn meant that Greek banks could no 
+longer roll over funding of the government’s debt. A debt default seemed 
+inescapable. To avert the crisis, the IMF, European Central Bank, and the 
+European Commission agreed to extend emergency funding to Greece.  
+Since 2010, the EU and IMF have provided a total of more than €1 trillion in 
+several loan packages to ease rollover problems, with Germany and France 
+
+
+--- Page 23 ---
+ 
+300 
+ 
+Fiscal Policy and 
+Macroeconomics 
+contributing the most. The European Central Bank also injected up to €1 trillion 
+of liquidity into the EU’s banking system.  
+19.5  MONEY FINANCE 
+When the fiscal situation is bad, either because the deficits are large or the debt-
+GDP ratio is high, and the interest rate faced by the government is high, it 
+becomes increasingly tempting for the government to want to finance itself 
+through money finance. The government issues new bonds and instructs the 
+central bank to buy them. The central bank then pays the government with the 
+money it creates, and the government uses that money to finance its deficit. This 
+process is called debt monetization. 
+How large a deficit can a government finance through such money creation? Let 
+H be the amount of central bank money in the economy. Let 𝛥H be money 
+creation; that is, the change in the nominal money stock from one month to the 
+next. The revenue, in real terms that the government generates by creating an 
+amount of money equal to 𝛥H is therefore 𝛥𝐻 𝑃⁄  – money creation during the 
+period divided by the price level. This revenue from money creation is called 
+seignorage. 
+𝒔𝒆𝒊𝒈𝒏𝒐𝒓𝒂𝒈𝒆 =  
+𝜟𝑯
+𝑷
+                                          ...(19.17) 
+To see what rate of (central bank) nominal money growth is required to generate 
+a given amount of seignorage, we can rewrite  𝛥𝐻 𝑃⁄  as 
+𝜟𝑯
+𝑷 =  
+𝜟𝑯 
+𝑯
+𝑯
+𝑷                                    ...(19.18) 
+From equation (19.8), we can think of seignorage  (𝛥𝐻 𝑃⁄ ) as the product of the 
+rate of nominal money growth (𝛥𝐻 𝐻 )⁄ , and the real money stock ( 𝐻 𝑃⁄ ). Thus 
+we can re-write equation (19.17) as 
+𝒔𝒆𝒊𝒈𝒏𝒐𝒓𝒂𝒈𝒆 =  
+𝜟𝑯 
+𝑯
+𝑯
+𝑷                   ...(19.19) 
+It is convenient to take one more step and divide both sides of the above equation 
+by monthly GDP, say Y1, to get: 
+𝒔𝒆𝒊𝒈𝒏𝒐𝒓𝒂𝒈𝒆
+𝒀𝟏 =  
+𝜟𝑯 
+𝑯 ൫𝑯 𝑷⁄
+𝒀𝟏 ൯                                         ...(19.20) 
+Suppose the government wants to finance a deficit of 10 per cent for a given ratio 
+of central bank money to monthly GDP of 1. This implies that nominal money 
+growth must satisfy 
+𝜟𝑯 
+𝑯  𝒕𝒊𝒎𝒆𝒔 𝟏 = 𝟏𝟎% ⇒
+𝜟𝑯 
+𝑯 = 𝟏𝟎%   
+From here we can infer that the monthly growth rate of nominal money of 10% is 
+required to finance a deficit of 10 per cent. Unfortunately even such high rate of 
+nominal money growth will not be sufficient to finance this deficit. As money 
+growth increases, inflation is likely to follow. And very high inflation is likely to 
+lead people to want to reduce their demand for money, and in turn the demand 
+for central bank money. In other words, as the government increases ( 𝛥𝐻 𝐻 )⁄ , it 
+is very likely that (𝐻 𝑃 ) ⁄ will decrease. In response, the government needs to 
+increase the rate of money growth further to achieve the same level of revenues. 
+But higher money growth leads to further inflation, a further decrease in (𝐻 𝑃 )⁄  
+and the need for further money growth. Soon, high inflation is likely to turn into 
+
+
+--- Page 24 ---
+ 
+301 
+ 
+Fiscal Sustainability hyperinflation. You should  note that several countries have witnessed 
+hyperinflation in the past. Venezuela, for example, witnessed an inflation rate in 
+the range of 3,00,000 per cent per year!  
+As inflation becomes very high, there is typically an increasing consensus that it 
+should be stopped. Eventually, the government reduces the deficit and no longer 
+has recourse to money finance. Inflation stops, but not before the economy has 
+suffered substantial costs. 
+19.6  EFFECTS OF A DECREASE IN BUDGET 
+ DEFICIT 
+Suppose the government is running a budget deficit and decides to reduce it by 
+decreasing its spending from G to G’ while leaving taxes T unchanged. How will 
+this affect the economy in the short run and in the medium run? Assume that 
+output is initially at the natural level of output, so that the economy is at point A 
+in Fig. 19.1. Output equals Yn. The decrease in government spending from G to 
+𝐺ᇱ shifts the aggregate demand curve to the left, from AD to 𝐴𝐷ᇱ. For a given 
+price level, output is lower. In the short run, the equilibrium moves from A to 𝐴ᇱ; 
+output decreases from Yn to 𝑌ᇱ and the price level decreases from P to 𝑃ᇱ. The 
+initial effect of the deficit reduction triggers lower output. 
+What happens over time? As long as output is below the natural level of output, 
+we know that the aggregate supply curve keeps shifting down. The economy 
+moves down along the aggregate demand curve 𝐴𝐷ᇱ until the aggregate supply 
+curve is given by 𝐴𝑆ᇱᇱ and the economy reaches point 𝐴ᇱᇱ. By that time, the 
+recession is over, and output is back at Yn. At point 𝐴ᇱᇱ, not everything is the 
+same as before: Output is back to the natural level of output, but the price level 
+and the interest rate are lower than before the shift. The best way to see these 
+specific effects is again to look at the adjustment in terms of the underlying IS–
+LM model.   
+In panel (b) of Fig. 19.1,  before the change in fiscal policy, the equilibrium is 
+given by the intersection of the IS curve and the LM curve, at point A – which 
+corresponds to point A in Fig. 19.1 panel (a). Output is equal to the natural level 
+of output, Yn, and the interest rate is given by i. 
+As the government reduces the budget deficit, the IS curve shifts to the left, to 
+𝐼𝑆ᇱ. If the price level did not change, the economy would move from point A to 
+point B. But, because the price level declines in response to the decrease in 
+output, the real money stock increases, leading to a partially offsetting shift of the 
+LM curve, down to 𝐿𝑀ᇱ. So, the initial effect of deficit reduction is to move the 
+economy from point A to point 𝐴ᇱ (Point 𝐴ᇱ in Fig. 19.1 panel (b) corresponds to 
+point 𝐴ᇱ in Fig.19.1 panel (a)).   
+ 
+
+
+--- Page 25 ---
+ 
+302 
+ 
+Fiscal Policy and 
+Macroeconomics 
+ 
+Both output and the interest rate are lower than before the fiscal contraction. So 
+long as output remains below the natural level of output, the price level continues 
+to decline, leading to a further increase in the real money stock. The LM curve 
+continues to shift down. In Fig. 19.1 panel (b), the economy moves down from 
+point 𝐴ᇱ along 𝐼𝑆ᇱ, and eventually reaches 𝐴ᇱᇱ (which corresponds to 𝐴ᇱᇱ in Fig. 
+19.1 panel (a). At 𝐴ᇱᇱ, the LM curve is given by 𝐿𝑀ᇱ. At 𝐴ᇱᇱ, output is back at the 
+Fig. 19.1 Panel (a): Decrease in Budget Deficit 
+                       Output 
+AD 
+Price 
+Level, P 
+Interest 
+rate 
+LM” 
+                       Output 
+IS 
+IS’ 
+Fig. 19.1 shows that a deficit reduction leads in the short run to a decrease in output 
+and to a decrease in the interest rate. In the medium run, output returns to its natural 
+level, while the interest rate declines further. 
+AS 
+AD’ 
+Yn Y’ 
+Yn Y’ 
+A’ 
+A 
+P’ 
+P 
+i’ 
+i 
+A’ 
+A 
+A’’ 
+B 
+LM LM’ 
+A” 
+AS” 
+Panel (b) 
+I” 
+P” 
+
+
+--- Page 26 ---
+ 
+303 
+ 
+Fiscal Sustainability natural level of output. But the interest rate is lower than it was before deficit 
+reduction, down from i to 𝑖ᇱᇱ. Hence, in the medium run, a reduction in the 
+budget deficit unambiguously leads to a decrease in the interest rate and an 
+increase in investment. 
+Check Your Progress 3 
+ 1) Will a high rate of nominal money growth be sufficient to finance the 
+  fiscal deficit through seignorage? 
+ ........................................................................................................................
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................ 
+19.7  LET US SUM UP 
+As the government carries out its fiscal policy through its budget, a closely 
+related concept is of fiscal sustainability, which is loosely defined as the 
+government’s ability to meet its current and future obligations. It is the 
+sustainability of government’s finances. The issue of fiscal sustainability has 
+taken on special importance in the aftermath of the global financial crisis. A 
+sustainable policy is one where the ratio of debt held by the public to GDP (the 
+debt-GDP ratio) is ultimately stable or declining. Fiscal sustainability can be 
+achieved by putting consistent effort in reducing distortions and waste in a tax 
+system and its administration, broadening the tax base, eliminating wasteful 
+government expenditures, and providing public goods and services that achieve 
+their goal in an efficient way. 
+19.10  ANSWERS/ HINTS TO CHECK YOUR   
+ PROGRESS 
+Check Your Progress 1 
+1)  The government budget constraint links the change in government debt to the 
+initial level of debt (which affects interest payments) and to current 
+government spending and taxes. 
+ 
+Check Your Progress 2 
+1)  The increase in the ratio of debt to GDP will be larger:  The higher the real 
+interest rate, the lower the growth rate of output,  the higher the initial debt 
+ratio, the higher the ratio of the primary deficit to GDP. 
+2)  The government must eliminate the deficit by running a primary surplus 
+equal to the interest payments on the existing debt. 
+ 
+
+
+--- Page 27 ---
+ 
+304 
+ 
+Fiscal Policy and 
+Macroeconomics 
+Check Your Progress 3 
+1)  As money growth increases, inflation is likely to follow. And very high 
+inflation is likely to lead people to want to reduce their demand for money, 
+and in turn the demand for central bank money. In other words, as the 
+government increases, 𝛥𝐻 𝐻⁄ , 𝐻 𝑃⁄  is likely to decrease. As it does so, the 
+government needs to increase the rate of money growth further to achieve the 
+same level of revenues. But higher money growth leads to further inflation, a 
+further decrease in 𝐻 𝑃⁄  and the need for further money growth. 

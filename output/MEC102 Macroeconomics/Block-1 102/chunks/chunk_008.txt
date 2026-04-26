@@ -1,0 +1,439 @@
+--- Page 67 ---
+ 
+ 
+ 
+67 
+The Neoclassical 
+Synthesis 
+short run aggregate supply (SRAS) curve would be upward-sloping. The long run 
+aggregate supply curve (LRAS), however, will be vertical. Any change in the 
+production capacity of the economy will shift the LRAS curve.   
+In Fig. 3.9 we depict the AD curve and an upward-sloping AS curve. The 
+equilibrium in the economy is described by point E corresponding to output 𝑌଴  and 
+prices 𝑃଴ . Suppose there is a favourbale demand shock to the economy so that the 
+AD curve shifts to 𝐴𝐷ଵ . As a result, there are increases in both output and prices. 
+The new equilibrium described by point F corresponds to output 𝑌ଵ  and prices 𝑃ଵ . 
+The increase in output however will be temporary and output will be back at the 
+LRAS level in the long run. 
+ 
+ 
+Fig. 3.9: Impact of Demand Shock  
+ 
+Check Your Progress 3 
+1)   Explain how the AD curve is derived? 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+2)   Point out the factors that influence the position and slope of the AD curve. 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+
+
+--- Page 68 ---
+ 
+ 
+ 
+68 
+Traditional Approaches 
+to Macroeconomics 3.6 LET US SUM UP 
+In this Unit we described the IS-LM model, which signify the equilibrium in the 
+real sector and the monetary sector of the economy. We derived the IS curve – on 
+each and every point of the IS curve the real sector is in equilibrium. On the left 
+side of the IS curve there is excess demand for goods while on the right side there 
+is excess supply. The LM curve is the combination of all such points where the 
+monetary sector of the economy is in equilibrium. On the right side of the LM 
+curve, there is excess demand for money while on the left side there is excess 
+supply of money. If the economy is operating at a point away from the IS and LM 
+curves, it has a tendency to move towards the equilibrium point.  
+We derived the AD curve on the basis of IS-LM model. The AD curve traces the 
+combinations of equilibrium output and prices. The equilibrium output and prices 
+in the economy derived from the AS-AD model is also discussed.  
+3.7 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) It will affect both the intercept and slope of the IS curve. Look into equation 
+(3.4). Decrease in the marginal propensity to consume (coefficient ‘b’) will 
+lead to a decrease in the value of the intercept term. Look into the last term 
+of the equation. It will increase the value of 
+௘
+(ଵି௕ିௗ ). Thus, the IS curve will 
+be steeper.   
+2) (i) Decrease in autonomous government expenditure will lead to a parallel 
+downward shift in the IS curve to the left.  
+ (ii) Decrease in lumpsum tax will lead to a parallel upward shift in the IS 
+curve. But the question is about decrease in tax rate, which depends on 
+income (Y). Thus, it will affect the slope of the IS curve. The IS curve will 
+become flatter (why? You can take a tax function 𝑇 = 𝑡 ଴ + 𝑡ଵ 𝑌, substitute it 
+in place of T in equation (3.4) and find out). 
+Check Your Progress 2 
+1)  The LM curve is derived from the equality between the demand for and supply 
+of real balances. See Section 3.3, particularly Fig. 3.3. 
+2)  When the LM curve is vertical, demand for money is insensitive to interest 
+rate. This is a case of liquidity trap situation. 
+3)  Go through Sub-Section 3.4.3 and answer. 
+Check Your Progress 3 
+1)  The AD curve is derived from the IS-LM model. Go through Sub-Section 
+3.5.1 and explain Fig. 3.8. 
+
+
+--- Page 69 ---
+ 
+ 
+ 
+69 
+The Neoclassical 
+Synthesis 
+2)  Since the AD curve is derived from the IS-LM model, it depends on the factors 
+that influence the IS and LM curves. Explain the impact of these factors on 
+the AD curve.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 70 ---
+ 
+UNIT 4  OPEN ECONOMY  
+  MACROECONOMICS -I  
+ 
+Structure 
+ 
+4.0 Objectives 
+4.1 Introduction 
+4.2  National Income Identity in an Open Economy 
+4.3  Balance of Payments and Exchange Rate 
+ 4.3.1 Balance of Payments 
+ 4.3.2 Exchange Rate 
+4.4 Let Us Sum Up 
+4.5 Answer/Hints to Check Your Progress Exercises 
+4.0 OBJECTIVES 
+After going through this Unit you should be in a position to 
+ explain the national income identities in an open economy;  
+ assess the relation between aggregate expenditure and income in an open 
+economy; 
+ explain the relation between private savings-investment gap, fiscal deficit and 
+current account deficit; 
+ explain the concept of Balance of Payments (BOP); 
+ explain current and Capital accounts of BOP; 
+ explain the concepts of nominal and real exchange rates; and 
+ explain fixed and flexible exchange rate regimes. 
+4.1 INTRODUCTION 
+In this Unit we will examine the national income identities, with a view to 
+identifying certain fundamental differences between open and closed economies. 
+Thereafter we examine certain basic concepts relating to Balance of Payments 
+(BOP) and exchange rates. The BOP accounts record the transactions of an 
+economy with the ‘rest of the world’ and provide important insights into the 
+pattern of international trade and capital flows. The exchange rate is also an 
+important variable in an open economy with important implications for 
+international trade and competitiveness.  
+4.1 NATIONAL INCOME IDENTITY IN AN OPEN 
+ ECONOMY 
+In an open economy domestic agents have manifold economic interactions with 
+foreigners; e.g., goods are sold to, as well as purchased from foreigners. The sale 
+of goods and services to foreigners are exports (X) of the country and purchases 
+from foreigners constitute imports (M). In an open economy, aggregate 
+expenditure on final goods by domestic agents (households, firms and 
+ 
+ Prof. Ananya Ghosh Dastidar, Department of Finance and Economics, University of Delhi 
+
+
+--- Page 71 ---
+ 
+71 
+ 
+Open Economy 
+Macroeconomics-I 
+government) given by [C + I + G], includes expenditure on domestic as well as 
+imported goods. Aggregate spending on domestic goods by domestic agents is 
+given by [C + I + G – M]. To this we add expenditure on domestic goods by 
+foreigners or exports, to obtain total final expenditure on domestically produced 
+goods, i.e., [C + I + G + X –M]. 
+From the equivalence between the expenditure, income and product approaches 
+to measurement of aggregate output, we can say that aggregate final expenditure 
+is equal to aggregate output produced in the economy or GDP (Y).  
+So the national income identity for an open economy can be written as: 
+Y = C + I + G + X – M 
+or, Y = C + I + G + NX (where NX = X – M)    (4.1)   
+Note that (X – M) is also referred to as net exports (NX) or balance of trade. 
+When exports exceed imports, NX is positive and there is a trade surplus; when 
+imports exceed exports, NX is negative and there is a trade deficit.  
+In an open economy we draw a distinction between GDP and GNP (Gross 
+National Product). While GDP refers to aggregate incomes earned (by domestic 
+residents and foreigners) within the geographical boundaries of the country, GNP 
+is defined as the aggregate income of citizens of the country, irrespective of 
+whether they are located within the country or abroad. E.g., the salary of a 
+German consultant located in New Delhi would be a part of German GNP and 
+India’s GDP; the salary of an Indian worker in Singapore would be a part of 
+Singapore’s GDP and India’s GNP.  
+So we define net factor income from abroad (NFIA) as follows:  
+NFIA = Income earned abroad by domestic factors of production minus income 
+earned by foreign factors of production in the domestic economy.  
+To obtain GNP, NFIA is added to GDP (denoted often as Y in macroeconomics): 
+i.e., GNP = Y + NFIA         (4.2)  
+Note that NFIA can be positive or negative and the difference between GDP and 
+GNP can often bequite large.For example, GDP may exceed GNP (NFIA < 0) in 
+countries where mostproduction units are owned by foreign multinationals (so 
+that a large share of the incomes generated within the economy, accrue to 
+foreigners) or which have a sizeable migrant population employed abroad. 
+Using the national income identity we can show in an open economy aggregate 
+expenditure (C+I+G) can exceedaggregate income (GNP) and that this imbalance 
+is reflected in a current account deficit.  
+We can also write (4.2) as: 
+GNP  = C+I+G+NX +NFIA  
+or, GNP  = C+I+G+ CA,   (where CA = NX + NFIA)    
+or, GNP – (C+I+G) = CA           (4.3) 
+
+
+--- Page 72 ---
+ 
+72 
+ 
+Traditional Approches 
+to Macroeconomics 
+Note that CA represents the ‘current account balance’ of a country, which may be 
+positive (current account surplus) or negative (current account deficit).  
+The identity (4.3) indicates that aggregate domestic absorption (C+I+G) exceeds 
+aggregate income (GNP) in a country that has a current account deficit (CA < 0). 
+Such a country is a net debtor (or, borrower) as it has to borrow to bridge the gap 
+between income and expenditure whereas aggregate income exceeds expenditure 
+in a country running a current account surplus (CA > 0) and it is a net lender.  
+A current account deficit may be financed by borrowing from the rest of the 
+world or by sale of foreign assets held by domestic agents. We will have more to 
+say on this in the next section on balance of payments.  
+The national income identity can be further used to understand whether the real 
+sector imbalance reflected in a current account deficit, stems mainly from the 
+private sector, or the government sector, or both.  
+From the income side, we know that aggregate income is either consumed (C), or 
+saved (S) or paid out in taxes (T), so that,  
+C + S + T = GNP         (4.4)  
+Combining (4.3) and (4.4), we can write,  
+C + S + T = GNP = C+I+G+CA 
+or, C + S + T = C+I+G+CA,  
+or, S + T = I+G+CA   
+or, (S – I) + (T – G) = CA          (4.5)  
+From identity (4.5) it is clear that a current account deficit (CA <0) reflects either 
+an excess of private investments over private savings (i.e., (S – I)  < 0 ) or, a 
+budget deficit (i.e., (T–G) < 0) or, both. Also, if (S – I) > 0 but, (T–G) < 0 and 
+absolute value of (T–G) is larger than that of (S – I), there would be a current 
+account deficit. The identity (4.5) represents the ‘twin deficits’, where an external 
+deficit (CA < 0) is reflected as a deficit in the private sector (i.e., (S – I) < 0), or 
+in the government sector (i.e., (T–G) < 0), or in both.   
+The national income identities clearly indicate that an imbalance in the current 
+account reflects an imbalance in the real economy.That is, whenever a country 
+runs a current account deficit, there is an excess of aggregate expenditure over 
+income; this may occur because, private savings are too low, or there is aprivate 
+investment boom, or, the government is running a budget deficit or some 
+combination of these factors. Conversely, aggregate income exceeds expenditure 
+in a country that runs a current account surplus and either its private savings 
+would exceed investments (i.e. (S – I) > 0) or, public savings would be positive 
+(i.e., (T – G) > 0) or, both.  
+The main difference between closed and open economies should be evident from 
+the above discussion. In a closed economy, by definition, there are no 
+transactions with the ‘rest of the world’and CA is zero. Thus aggregate 
+
+
+--- Page 73 ---
+ 
+73 
+ 
+Open Economy 
+Macroeconomics-I 
+expenditure cannot exceed aggregate income. It means, an excess of private 
+investments over savings (S – I < 0) needs to be compensated by public savings   
+(T–G > 0). However, open economies can borrow from the rest of the world. 
+Thus it can sustain excess of expenditure over income and excess of investments 
+(I) over private (S) and public savings (T – G). International trade and capital 
+flows allow countries running current account deficits to draw on the savings of 
+other countries running current account surpluses.   
+ 
+Check Your Progress 1 
+1)  Use the national income identity for an open economy and show that in a 
+ country running a trade deficit (i.e., NX < 0): (a) aggregate expenditure 
+ must be greater than GDP, and (b) national savings (i.e., sum of private 
+ savings and public savings) must be less than investments.  
+  ...................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+2) Use the national income identity to bring out at least two fundamental 
+ differences between open and closed economies. 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+4.3  BALANCE OF PAYMENTS AND EXCHANGE  
+ RATE  
+The Balance of Payments (BOP) of a country is a record of all its transactions 
+with foreigners during a given period (typically one year). The transactions 
+include those involving purchase and sale of goods, services, physical and 
+financial assets, as well as transfer payments. 
+4.3.1 Balance of Payments  
+The BOP account has two main components, viz., the current account and the 
+capital account. 
+Current Account: The current account of BOP records receipts from and 
+payments to foreigners due to international trade in goods and services (including 
+factor services). In the current account transactions involving inflows of foreign 
+
+
+--- Page 74 ---
+ 
+74 
+ 
+Traditional Approches 
+to Macroeconomics 
+exchange (e.g. exports) are a credit and those involving outflows of foreign 
+exchange (e.g., imports) are a debit entry. The current account comprises two 
+main components: the balance of trade and the balance on invisibles. 
+Transactions involving trade in services, factor incomes and transfers are also 
+referred to as ‘invisibles’ in the current account. These are further explained 
+below.  
+The balance of trade or merchandise trade balance is the difference between 
+exports and imports of goods by a country and it may be positive, negative or 
+zero. A negative balance of trade or a trade deficit indicates that the country’s 
+imports of goods exceed exports; a positive trade balance indicates the country 
+has a trade surplus, with exports of goods exceeding imports.  
+Trade in services (e.g., India’s software exports) is a part of invisibles in the 
+current account. The balance of trade in services captures the difference between 
+a country’s service exports and imports and it may also be positive or negative, 
+depending on whether the country is a net exporter or net importer of services.  
+Factor incomes include net investment incomefrom abroad  which measures 
+investment earnings from abroad earned by Indians minus foreigners’ earnings 
+from their Indian assets. Indian residents may receive investment income, such as 
+dividends and interest, on the foreign assets they hold while foreign residents 
+receive investment income on the Indian assets they possess. The former is a 
+credit (inflow of foreign exchange) while the latter is a debit entry (outflow of 
+foreign exchange) in the current account.  
+Unilateral Transfers, that are overseas payments made without any quid pro quo, 
+are also recorded in the current account. These include assistance by foreign 
+governments during war or natural calamity (foreign aid), workers’ remittances 
+(e.g., money sent by overseas Indians to their families in India), personal gifts, 
+donations etc. The net unilateral transfers  are transfers received by Indians from 
+abroad minus similar transfers sent to foreigners from India. For many 
+developing countries workers’ remittances are an important source of foreign 
+exchange earnings.  
+The current account balance is the sum of (i) the balance on merchandise trade 
+and (ii) the balance on invisibles (which comprises balance on services trade, net 
+investment income and net transfers). When total foreign exchange receipts on 
+account of all the transactions recorded in the current account are greater than 
+total payments, the country has a current account surplus. In case the foreign 
+exchange payments exceed the receipts, the country has a current account deficit.  
+Note that even if a country has a trade deficit it could have a current account 
+surplus, if it has a positive and very high net invisibles balance. This can be seen 
+in many countries that are net recipients of large unilateral transfers and 
+remittances. For example, remittances received from Indian workers employed 
+abroad are an important source of foreign exchange earnings for India. India is 
+the largest recipient of remittances in absolute figure ($87 billion in 2021) while 
+
+
+--- Page 75 ---
+ 
+75 
+ 
+Open Economy 
+Macroeconomics-I 
+in terms of percentage of GDP Lebanon is the largest recipient that contributed 
+54 per cent of GDP in 2021. 
+Capital Account: The capital account of the BOP includes transactions involving 
+cross-border purchase and sale of real and financial assets. The asset in question 
+could be physical assets like land, factories, houses or financial assets like stocks 
+and bonds. In the capital account each transaction is recorded twice, once as a 
+credit and once as a debit entry, thereby capturing the two aspects of each 
+transaction. E.g., purchase of a foreign financial asset such as foreign government 
+bond or shares of a foreign firm by a domestic resident involves an asset import 
+and a capital outflow (payment made by the domestic resident for the foreign 
+asset).  
+Broadly two types of capital flows are recorded in the capital account – debt 
+creating and non-debt creating flows. For example, when domestic agents borrow 
+from foreign financial institutions, the country experiences a debt creating capital 
+inflow, as this loan has to be repaid at a future date. However, foreign firms 
+investing in the domestic country (e.g., foreign direct investment or FDI), involve 
+a non-debt creating capital inflow, as this does not create any commitment for 
+repayment for the recipient nation. Capital flows can also be classified on the 
+basis of the duration involved. For example, foreign institutional investors (FIIs) 
+purchasing shares of domestic firms, involves a short term capital inflow (also 
+known as foreign portfolio investment or FPI). The FIIs may sell the equity and 
+withdraw their funds at a short notice. Such withdrawal of foreign funds would 
+involve a capital outflow. Typically, investment by foreign firms in country’s 
+production sector (e.g., Greenfield FDI) involves longer term capital inflows that 
+are not likely to be withdrawn at short notice unlike investment in the financial 
+sector (e.g., FPI). 
+When capital inflows exceed capital outflows, the country has a capital account 
+surplus. In the opposite case, when outflows exceed inflows it has a capital 
+account deficit.  
+In the current account, in general, transactions involving the inflow of foreign 
+exchange are recorded as a credit entry, with the corresponding debit entry 
+appearing in the capital account. Therefore a surplus (or deficit) in current 
+account is mirrored in a corresponding deficit (or surplus) in the capital account.  
+If a country has a current account deficit, this must be financed either by selling 
+assets or by borrowing, so there must be a corresponding surplus in the capital 
+account. So a current account deficit is financed by net capital inflows, either on 
+account of the private sector or the government sector or both. 
+Overall BOP Balance: Every transaction is recorded twice in the BOP account, 
+once as a debit and once as credit, as per the principles of double entry 
+bookkeeping. Therefore in an accounting sense the BOP is always balanced. 
+However, in practice, this is not observed, primarily because of problems related 
+to data collection. There are time lags involved in the international transactions; 
+e.g., data on exports is collected from customs, at the time goods are shipped, 
+
+
+--- Page 76 ---
+ 
+76 
+ 
+Traditional Approches 
+to Macroeconomics 
+whereas payments for the same may be received six months later and hence may 
+not be recorded in BOP of that year.  Therefore, in order to balance the BOP 
+account an entry for errors and omissions is included.  
+Even though the BOP always balances, we can talk about an overall BOP surplus 
+or deficit. Overall BOP balance is obtained by adding the current and capital 
+account balances. A country has a BOP surplus in the following cases: (i) there is 
+current account surplus as well as capital account surplus; (ii) there is a current 
+account deficit but a capital account surplus that is larger in magnitude; (iii) there 
+is a current account surplus and a relatively smaller capital account deficit. There 
+would be a BOP deficit, either when there is a deficit on both current and capital 
+accounts or when there is a relatively large deficit in either one of the current or 
+capital accounts.  
+In the case of a BOP surplus there is an increase in the foreign exchange reserves 
+of the country. In the case of a deficit, the stock of foreign exchange reserves is 
+depleted.  Let us discuss this issue in details. 
+Change in Foreign Exchange Reserves 
+Apart from transactions made by private and government agents, the capital 
+account of the BOP also includes official reserve transactions  that involve 
+change in the stock of foreign exchange reserves held by the central bank. When 
+there is a BOP surplus, the country experiences a net inflow of foreign exchange, 
+leading to a correspondingincrease in foreign exchange reserves. In the case of a 
+BOP deficit, there is net outflow of foreign exchange and a corresponding 
+reduction in foreign exchange reserves. Thus, 
+BOP Balance = Current Account + Capital Account (including errors and 
+omissions) + Official Reserve Transactions = 0 
+In case a country has a current account deficit (of say, – $15,000), but a capital 
+account surplus that is smaller in magnitude (say, $12,000), then it has a BOP 
+deficit (of –$3000) that leads to a decrease in foreign exchange reserves (by 
+$3000). 
+Note that a BOP surplus is recorded with a positive sign in the BOP, while the 
+corresponding increase in reserves has a negative sign, so that the two add up to 
+zero. Therefore in BOP accounts an increase in foreign exchange reserves 
+appears with a negative sign whereas a decrease in reserves has a positive sign. 
+4.3.2 Exchange Rate 
+The exchange rate is an important concept in an open economysuch as India, that 
+has transactions involving foreign goods, services and assets, whose prices are 
+denominated in terms of foreign currencies. Throughout the following discussion 
+we assume that the domestic country is India and the foreign country is the USA.  
+Demand for foreign exchange arises whenever domestic agents purchase foreign 
+goods, services or assets (i.e., imports and capital outflows); whereas, sale of 
+domestic goods, services and assets to foreigners (i.e., exports and capital 

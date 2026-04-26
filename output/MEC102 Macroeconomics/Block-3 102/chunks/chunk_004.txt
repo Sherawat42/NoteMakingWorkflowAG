@@ -1,0 +1,608 @@
+--- Page 31 ---
+ 
+154 
+ 
+Intertemporal  
+Decision-making 
+ 
+10.2 STRUCTURE OF THE MODEL 
+The set of people who are born at the beginning of period t will be called 
+‘generation t’. Let us now look at the activities of a representative member of 
+generation t. Each person is born with an endowment of one unit of labor. In the 
+first period of his life, when he is young, he works and earns a wage income of 
+which he consumes a part and saves (and invests) the rest. In the next period of 
+his life, when he is old, he does not work anymore. He nonetheless earns an 
+interest income on his previous period’s savings (investment). He also gets back 
+the principal amount that he invested, which he consumes in the second period 
+along with the interest earning. Thus, his first and second period budget 
+constraints are respectively given by:  
+(i) ttt wsc
+1 ; 
+(ii) ttt src )1( 12  , 
+where tc1  and tc2  are the first and second period consumption of the 
+representative member of generation t. In the above equations, tw  and 1tr  are the 
+wage rate at period t and the rate of interest at period (𝑡 + 1) respectively. 1 The 
+representative member maximizes his two-period utility function ),( 21 tt ccU  
+subject to these two budget constraints. Noting that   1
+2
+1 
+t
+t
+t
+r
+cs , we can 
+combine the two budget constraint by eliminating ts , which gives us the 
+following single equation that represents the life-time budget constraint  of the 
+agent:  
+t
+t
+t
+t wr
+cc 
+1
+2
+1
+1
+. Maximizing ),( 21 tt ccU  subject to the life-time budget 
+constraint generates the following two first order conditions: 
+(1) )1( 1
+2
+1
+ trU
+U , 
+(2)  
+t
+t
+t
+t wr
+cc 
+1
+2
+1
+1 . 
+From these two equations we can write the optimal consumption levels tc1  and 
+tc2  as functions of tw  and 1tr . Since,   1
+2
+1 
+t
+t
+t
+r
+cs , the optimal value of ts  also 
+becomes a function of tw  and 1tr . 
+We shall assume that all members of all generations are identical in terms of 
+tastes and preferences, i.e., they have similar utility functions.2 
+ 
+1  Note that though the member of generation t made his saving and investment decision at 
+period t, he earns the interest on that savings only in the next period. Hence 
+1t
+r  is the 
+relevant rate of interest. 
+2  Similar, but not identical. To be more precise, the time subscripts in the utility function will be 
+different for different generations. 
+
+
+--- Page 32 ---
+ 
+155 
+ 
+Overlapping 
+Generations Model 
+Let us now look at the overall macroeconomic picture. As we have mentioned 
+before, at each period there are two generations who are simultaneously alive. 
+Thus, at period t, there is a set of people who belong to generation (𝑡 − 1) (these 
+are the people who are currently old) and a set of people who belong to 
+generation t (these are the people who are currently young). The generation t 
+people are the workers in period t, each of whom earn a wage income tw . The 
+individuals pertaining to generation (𝑡 − 1) are the interest earners; they earn an 
+interest income on their previous period’s savings (i.e., savings made in period 
+(𝑡 − 1) at the rate tr . 
+Suppose, the population in successive generations grows at a constant rate n. 
+Thus, if tL  denotes the number of people belonging to generation t, and 1tL  
+denotes the number of people belonging to generation (𝑡 − 1), then 
+1)1(  tt LnL . Total population in the economy at period t is given by (
+1 tt LL ).  
+The production side of the economy is like any standard neoclassical growth 
+model that you have seen before. A single final commodity is produced which is 
+used both as a consumption good as well as an investment good. Technology for 
+final commodity production is given by a neoclassical production function: 
+),( ttt LKFY  , where F is continuous, concave, exhibits constant returns to scale 
+(CRS) with respect to its two factors – capital ( K) and labour ( L). As in the 
+Ramsey model, the CRS property of the production function implies that per 
+capita output ( y) can be written as the function of the capital-labour ratio ( k) in 
+the following way: 
+)(1,)1 ,/( ),( kfL
+KFL
+LKFL
+L
+LKF
+L
+Yy 
+
+ . 
+Moreover the marginal products of capital and labour can also be written as the 
+following functions of the capital-labour ratio: 
+)(kfK
+F 
+  ; )()( kfkkfL
+F 
+ . 
+The continuity and concavity properties of ),( KLF  ensure that )(kf  is also 
+continuous and concave. Additionally we assume that the ‘Inada Conditions 3’ 
+hold: 0)0( f ;  )0(f ; 0)( f . 
+ 
+3  Named after Japanese economist Ken-Ichi Inada, these conditions refer to the shape of a 
+production function or utility function. For the intensive form of the production function, the 
+Inada conditions are as follows:  
+(a) 
+0
+lim ( )
+x
+f k
+
+   . This implies that when capital stock to small MP K is very large.  
+(b) lim
+k 
+( )f k =0. The MPK is very small when capital stock is too large.  
+ 
+
+
+--- Page 33 ---
+ 
+156 
+ 
+Intertemporal  
+Decision-making 
+ 
+In a market economy with perfect competition, the wage rate and the rate of 
+interest are equated with the respective marginal products of labour and capital. 
+Thus )()( tttt kfkkfw   and )( tt kfr  . 
+For the economy as a whole, savings-investment equality (which generates goods 
+market equilibrium for the aggregate economy) tells us that 
+),( ttttt LKFYIC  . Noting that investment is nothing but the augmentation 
+of the capital stock (assuming no depreciation), i.e., ttt KKI  1 , and also 
+noting that due to the property of CRS tttttt KrLwKLF ),( , we can write the 
+above savings-investment equality condition as: ttttttt KrLwKKC  1 . 
+Notice that tC  denotes the aggregate consumption at g period t, which includes 
+consumption by the old group and consumption by the young group. There are 
+1tL  number of old people who are alive at period t and each of them consume an 
+amount 12 tc .4 On the other hand, there are tL  number of people at period t 
+belonging to the young generation, each of them consuming an amount tc1 . 
+Hence ttttt cLcLC 1121   .  
+At this point it is important to recall that each young person is born with an 
+endowment of one unit of labour. There is no bequest; therefore the young people 
+do not own any capital stock at period t (capital stock being the only asset in this 
+economy). Thus, the entire capital stock is owned by the older generation. And 
+since the older generation is going to die at the end of this period, they consume 
+their entire interest earning plus the capital stock (which, in the one good world, 
+is directly consumable). Hence, ttttt KrKcL
+ 121 . Again, each young person 
+earns a wage tw , of which he consumes tc1  and saves ts . Thus, 
+ ttttt swLcL 1 . Using all these information, we can write the savings-
+investment equality condition as: 
+tttttttttttt KrLwKKswLKrK  1)( . 
+On simplifion of the above equation, we obtain the goods market equilibrium 
+condition for the aggregate economy as: ttt sLK 1 . Recall that ts  is a function 
+of tw  and 1tr . Further, tw  and 1tr  are functions of tk  and 1tk  respectively. 
+Thus, ts  can be written as a function of tk  and 1tk : ))(),(( 1tt krkws . This 
+allows us to write the goods market equilibrium condition in terms of the capital 
+labour ratio as follows: 
+.)1(
+))(),((
+)1(
+))(),((),(
+))(),((
+1
+1
+1
+1
+1
+1
+1
+11
+n
+krkwsk
+Ln
+krkwsL
+L
+kksL
+L
+K
+krkwsLK
+tt
+t
+t
+ttt
+t
+ttt
+t
+t
+tttt
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+4 12 tc  is the 2nd period consumption of the representative member of generation (𝑡 − 1). 
+
+
+--- Page 34 ---
+ 
+157 
+ 
+Overlapping 
+Generations Model 
+This last line above represents the basic dynamic equation of this overlapping 
+generations model which specifies the relationship between the capital-labour 
+ratio of today and the capital-labour ratio of tomorrow. Tracing this dynamic 
+equation will tell us how the capital-labour ratio of the economy changes over 
+time. It is easy to see that this equation is a first order non-linear difference 
+equation in k. To characterize the solution path we shall use the phase diagram 
+technique. The phase diagram plots 1tk  on the vertical axis and tk  on the 
+horizontal axis. The intersection of the 1tk  line with the o45  line denotes the 
+steady state. Let us now determine the slope of this line. The slope is given by the 
+derivative 
+t
+t
+dk
+dk 1 . As you can see, the LHS of the dynamic equation is also a 
+function of 1tk . Hence, after total differentiation of both the sides, we obtain 
+)1(
+1
+1
+1
+1
+n
+dkdk
+drsdkdk
+dws
+dk
+t
+t
+t
+rt
+t
+t
+w
+t
+
+
+
+
+
+
+  . 
+Noting that )(kfkdk
+dw   and )(kfdk
+dr   we can write the above equation as: 
+)()1(
+)]([
+1
+1
+
+
+
+
+tr
+ttw
+t
+t
+kfsn
+kfks
+dk
+dk . 
+Notice that as yet we do not know the signs of rw ss   and  ; hence we cannot say 
+whether the 1tk  line is positively sloping or negatively sloping. It is easy to see 
+that under the assumption that consumption in both periods are normal goods 
+(i.e., both 21    and   cc  increases with an increase in w), 10  ws . The sign of rs  
+however is ambiguous. Since an increase in r implies that the relative price of 
+future consumption in terms of current consumption falls. Hence, due to 
+substitution effect current consumption should fall, which means that with 
+unchanged wage rate, savings would rise. However, a fall in relative price will 
+also be associated with a positive income effect on current consumption. Thus, 
+whether current consumption increases due to an increase in r depends crucially 
+on whether the income effect dominates the substitution effect. If the income 
+effect dominates the substitution effect, then 1c  rises and consequently 0rs  . 
+On the other hand, if the substitution effect dominates the income effect, then 1c  
+fallss and consequently 0rs  . We shall assume here that the latter holds, i.e., 
+0rs . Under this assumption the 1tk  line is positively sloping. We still do not 
+know the curvature of this line. Depending on the curvature, multiple equilibria 
+(i.e., multiple steady states) are possible, as shown in Fig. 10.1.  
+
+
+--- Page 35 ---
+ 
+158 
+ 
+Intertemporal  
+Decision-making 
+ 
+ 
+Fig. 10.1: Multiple Steady State 
+Local stability of a steady state depends on whether the 1tk  line intersects the 
+45o line from above or from below. In the above diagram k*, where the 1tk  line 
+intersects the 45 o line from above, is a locally stable equilibrium. On the other 
+hand, k**, where the 1tk  line intersects the 45 o line from below, is a locally 
+unstable equilibrium.  
+10.3 DYNAMIC INEFFICIENCY 
+In the following discussion we shall assume that the parametric conditions are 
+such that there exists a unique equilibrium which is locally stable. Even when the 
+steady state is unique and stable, in an overlapping generation framework the 
+equilibrium can still be characterized by dynamic inefficiency. This is a serious 
+shortcoming of the overlapping generations framework in comparison to the 
+optimal growth framework. Before we elaborate this point further it is important 
+to know what we mean by dynamic efficiency or inefficiency.  
+The concept of dynamic efficiency is closely related to the concept of Pareto 
+efficiency. To understand the concept, let us consider a situation where we are 
+comparing between various possible steady states or equilibrium points. Each of 
+these steady states is characterized by a different capital-labour ratio and 
+corresponding steady state levels of per capita consumption for the old and the 
+young. Since utility depends on the consumption during youth and during old-
+age, each of these steady states is therefore associated with a different level of 
+steady state utility. Now, among all these steady states, the one which provides 
+the maximum steady state value of utility is called the ‘golden rule’ point and the 
+corresponding capital-labour ratio is called the ‘golden rule’ capital labour ratio. 
+This point is the best possible steady state point which provides maximum life-
+time utility to each person. One can show that steady state utility is maximized at 
+the point where nkf
+ )( . Thus, golden rule capital-labour ratio is defined by 
+kt 
+kt+1 
+kt+1 line 
+45o line 
+k* k** 
+
+
+--- Page 36 ---
+ 
+159 
+ 
+Overlapping 
+Generations Model 
+gk  such that nkf g  )( . Fig. 10.2 depicts the golden rule capital labour ratio as 
+the point which maximizes steady state utility. 
+        Fig. 10.2: Golden Rule Capital Labour Ratio 
+Now, consider all the points which lie to the right of gk . Here, the capital-labour 
+ratio is more than optimal. In other words, people are over-saving and over-
+investing. If instead of saving, people consume a part of their savings in the first 
+period of their life, then the capital-labour ratio will fall to gk and at the same 
+time their life time utility will increase. Thus, all the point lying to the right of gk  
+are Pareto inferior to gk : one can improve the current consumption without 
+reducing future consumption and thus improve total life-time utility. These points 
+are called dynamically inefficient points. Now, consider all the points to the left 
+of gk . Here also the utility level is less than gk ; hence by moving to gk  one can 
+improve the steady state value of utility. However such move is not costless any 
+more. If one wants to move from a point to the left of gk  to gk , then he has to 
+save more. In other words, he has to forgo some amount of current consumption. 
+Thus, his current utility would fall, even though he would be better off in the 
+future (once he reaches gk ). Since such a move from the left to right involves a 
+current utility loss, we cannot say for sure whether these points are better or 
+worse then gk . All these points are Pareto efficient or dynamically efficient. 
+We have seen that in the optimal growth framework (for example, Ramsey-Cass-
+Koopmans model) the steady state is defined by  nkf )(  . Thus, the steady 
+state point in that framework is always to the left of the golden rule point and is 
+therefore dynamically efficient. In the case of the overlapping generations 
+framework however dynamic efficiency of the equilibrium point cannot be 
+guaranteed. In fact under very reasonable parametric values the steady state could 
+be dynamically inefficient.  
+To see how, let us consider the following example where we assume a specific 
+utility function and a specific production function. Let the utility function of the 
+representative member of generation t be tttt ccccU 2121 loglog),(
+ . Also let 
+gk
+k 
+),( *
+2
+*
+1 ccu
+Dynamically inefficient region 
+
+
+--- Page 37 ---
+ 
+160 
+ 
+Intertemporal  
+Decision-making 
+ 
+the per worker production function be 
+tt Akkf )(  , 10   . Both the log 
+utility function and the Cobb-Douglas production function are known to be very 
+well-behaved which satisfy all the standard neoclassical properties.  
+With the log utility function as specified above, one can easily verify that the first 
+order conditions for individual’s utility maximization exercise are given by: 
+(i) )1( 1
+1
+2
+ t
+t
+t rc
+c   
+(ii)  
+t
+t
+t
+t wr
+cc 
+1
+2
+1
+1 . 
+These two first order generates a savings function which is given by: tt ws 2
+1 . 
+Also, with Cobb-Douglas production function  tt Akw )1(  . Thus, the basic 
+dynamic equation in this example is given by:  tt Aknk )1()1(
+1
+1  . At 
+steady state *
+1 kkk tt   . Hence putting *k  at the LHS and RHS of the above 
+equation, we can solve for the steady state value as: 
+)1/(1
+*
+)1(
+)1(
+
+
+
+
+
+
+
+
+ n
+Ak . 
+Let us now compare this steady state value of capital-labour ratio with the 
+corresponding golden rule capital labour ratio. Note that with the Cobb-Douglas 
+production function, the golden rule capital labour ratio in this example is defined 
+by: nkA 1)(  . Solving, we get gk  as: 
+)1/(1 
+
+
+
+
+
+ n
+Ak g . Thus, whenever 
+n
+n)1()1( 
+
+ , gkk * , i.e., the steady state will be dynamically inefficient. 
+For example, the equilibrium will be dynamically inefficient if 4/1  and 
+1n . 
+An obvious question that arises here: Why is it that the steady state could be 
+dynamically inefficient in the overlapping generations framework, while such 
+possibility is ruled out in the optimal growth framework? The answer lies in the 
+fact that in the overlapping generations individuals are selfish (no bequest). Since 
+they do not have to share the benefits of their investment with their successive 
+generations (who are growing at the rate n), when they consider the possible 
+future return to their investment, the return is not net of the population growth. 
+To put is differently, the relevant return for them is not ))(( nkf
+  but just 
+)(kf  . Hence they would be interested in investing as long as this return is 
+positive, even if it falls short of n. This is the reason for their possible over-
+saving.   
+Check Your Progress 1  
+
+
+--- Page 38 ---
+ 
+161 
+ 
+Overlapping 
+Generations Model 
+1. Derive the basic dynamic equation of the standard two period overlapping 
+generations model with production. Explain the intuition behind this 
+equation. 
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+ ....................................................................................................................... 
+ .......................................................................................................................  
+2. What is dynamic efficiency? Is the steady state under the overlapping 
+generations structure necessarily dynamically efficient? Give an example 
+to elaborate your answer. 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+.......................................................................................................................  
+10.4 SOCIAL SECURITY 
+Given that the overlapping generations equilibrium could be characterized by 
+dynamic inefficiency, we can ask if there is any role for the government here. In 
+other words, does there exist any government policy which could check the over-
+saving by the households? Typically the government could influence the savings 
+decision through some kind of social security programmes. What is a social 
+security programme? A social security programme is meant to provide some 
+income to individuals after retirement. There are usually two types of social 
+security programmes which are in vogue – a fully funded system and a pay-as-
+you-go system.  
+In a fully funded system a certain stipulated amount is taken by the government 
+from each young person at period t as social security contribution. The same 
+amount is invested by the government and returned with interest to the old people 
+at period (𝑡 + 1). Since the young at period t are the old at period (𝑡 + 1), in a fully 
+funded system the set of people who made the contributions today and the set of 
+people who will receive the corresponding benefit tomorrow are the same. If td  
+is the contribution made by each young person at period t, and 1tb is the benefit 
+received by each old person at period (𝑡 + 1), then ttt drb )1( 11 
+ .  
+In an unfunded pay-as-you-go system, a certain stipulated amount is taken by the 
+government from each young person at period t and the entire amount is 
+immediately distributed to the old people at period t. In other words, the pay-as-
+you-go system involves a transfer of funds from the current young to the current 
+youth. Note that population is growing at the rate n; therefore at each point of 
+time there are n more people belonging to the currently young group compared to 
+the currently old group. Thus, if td  is the contribution made by each young 
+
+
+--- Page 39 ---
+ 
+162 
+ 
+Intertemporal  
+Decision-making 
+ 
+person at period t, and tb is the benefit received by each old person at period t, 
+then tt dnb )1(  .  
+The type of social security system has important implications for the savings 
+decisions of the young. Note that in a fully funded system the government is 
+doing part of the savings on behalf of the individuals. The representative 
+individual is effectively saving an amount equal to )( tt ds   and in the next 
+period earning an interest income equal to ))(1( 1 ttt dsr   . Since each person 
+knows that this is the amount that he would receive in the next period, in his own 
+savings decision, the individual will optimally adjust (cut back) his own savings 
+so that his total effective savings remains the same as in the pre-social security 
+economy. Thus, a fully funded social security system has no impact on the total 
+savings and capital accumulation. If the economy was in a dynamically 
+inefficient steady state in the pre-social security economy, it will remain so even 
+after introducing a fully funded social security system.  
+In contrast, in a pay-as-you-go social security system, the relevant rate of return 
+on government securities for an individual is n. On the other hand, the rate of 
+interest on capital accumulation is r. Thus, as long as r<n, it pays to save less and 
+contribute more in the form of social security. Hence, if the economy was in a 
+dynamically inefficient steady state in the pre-social security economy (which 
+implies that r is indeed less than n), introducing a pay-as-you-go type of social 
+security system will reduce private savings and capital accumulation. As a result 
+the economy will move to the dynamically efficient region. 
+Check Your Progress 2 
+1. Does any type of social security system necessarily eliminate the dynamic 
+inefficiency problem in the overlapping generations framework? Elaborate 
+your answer with the two types of social security systems. 
+........................................................................................................................ 
+........................................................................................................................ 
+........................................................................................................................ 
+........................................................................................................................  
+10.5 LET US SUM UP 
+In this unit, we have looked at the standard overlapping generations framework 
+with production. We have derived the basic dynamic equation which basically 
+states that the tomorrow’s capita stock is equal to the savings by the young 
+generations today. We have derived the steady state conditions. It has been 
+shown that the steady state under the OLG framework may not be dynamically 
+efficient. The government can play an important role here to ensure dynamic 
+efficiency by introducing a social security system. However, the type of the 
+social security system is important: a pay-as-you-go type of social security 
+
+
+--- Page 40 ---
+ 
+163 
+ 
+Overlapping 
+Generations Model 
+system is effective in eliminating inefficiency while a fully funded social security 
+system is not effective. 
+10.6  ANSWER/HINTS TO CHECK YOUR PROGRESS 
+ EXERCISES 
+Check Your Progress Exercises 1 
+1. Read Section 10.2 and write your answer. 
+2. Read Section 10.3 and write your answer. 
+Check Your Progress Exercises 2 
+1. The pay-as-you-go social security system is efficient when population is 
+increasing. Read Section 10.4 and write your answer. 
+ 
+ 

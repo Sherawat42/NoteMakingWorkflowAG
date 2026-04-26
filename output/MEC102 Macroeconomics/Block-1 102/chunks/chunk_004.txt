@@ -1,0 +1,500 @@
+--- Page 27 ---
+UNI
+T 2  THE KEYNESIAN MODEL 
+Structure 
+2.0  Objectives 
+2.1  Introduction 
+2.2  Components of Aggregate Demand 
+2.2.1 Consumption Function 
+2.2.2 Investment Function 
+2.3  Determination of Output in the Keynesian Model 
+2.3.1 Determination of Equilibrium Output  
+2.3.2 Investment Multiplier 
+2.3.3 Government Expenditure and Tax Multipliers 
+2.3.4 Open Economy Multiplier  
+2.4  An Alternative View of Equilibrium  
+2.4.1 Saving Function 
+2.4.2 Determination of Equilibrium Output 
+2.4.3 Paradox of Thrift  
+2.5  Liquidity Preference 
+2.5.1 Components of Demand for Money  
+2.5.2 Liquidity Trap 
+2.6  Role of Government in the Economy 
+2.7  Let Us Sum Up 
+2.8 Answer/Hints to Check Your Progress Exercises 
+20.0  OBJECTIVES 
+After going through this Unit you should be in a position to 
+ appreciate the assumptions underlying the Keynesian model;
+ explain the concepts of consumption function and saving function;
+ identify the factors affecting investment demand;
+ show that equilibrium output in the Keynesian model is determined by the
+level of aggregate demand;
+ explain the various types multipliers in the Keynesian system;
+ explain the paradox of thrift;
+ explain the concepts of liquidity preference and liquidity trap; and
+ discuss the Keynesian view on the role of the government in the economy .
+ Prof. Ananya Ghosh Dastidar 
+
+
+--- Page 28 ---
+ 
+28 
+ 
+Traditional Approaches 
+to Macroeconomics 2.1  INTRODUCTION 
+In this Unit we will learn about the Keynesian model that was first developed by 
+the British economist John Maynard Keynes in his famous book ‘The General 
+Theory of Employment, Interest and Money’, published in 1936. This model 
+differs in several respects from the classical approach to macroeconomics that 
+you studied in the previous Unit. The Keynesian model allows for the existence 
+of unemployment as well as rigidity in wages and prices. It recognizes that lack 
+of effective demand may prevent the attainment of full employment of resources. 
+Also, it emphasizes the need for government intervention – as the market 
+mechanism would not be able to restore full employment equilibrium due to 
+rigidities in wage rate and prices. 
+2.2  COMPONENTS OF AGGREGATE DEMAND 
+We observe that Keynesian economics gained importance against the backdrop 
+of the Great Depression of the 1930s, when developed economies like the USA 
+and Great Britain faced a deep and prolonged recession, with rising 
+unemployment, falling revenues and profits of firms and rise in unutilized 
+capacity. In this situation the market mechanism failed to restore equilibrium and 
+the Keynesian policy of raising aggregate demand via increase in public 
+expenditure played a crucial role in addressing the problem.  
+Aggregate demand is the planned expenditure on goods and services by all the 
+economic agents, such as households, firms and government. There are three 
+main components of aggregate demand in a closed economy: (i) planned 
+consumption expenditure (C) of households, (ii) planned investment expenditure 
+(I) of firms, and (iii) expenditure incurred by the government on goods and 
+services (G). Throughout our discussion in this Unit, each of C, I and G are 
+assumed to be in real terms (i.e., no change in prices).  
+2.2.1 Consumption Function 
+Keynes proposed the idea of a Consumption function which gives the relation 
+between planned consumption expenditure of households (C) and aggregate 
+income (Y). It can be represented by the following linear equation:  
+𝐶 = 𝑎 + 𝑏𝑌        … (2.1a) 
+In the presence of the government, a part of income would be paid in taxes (T). 
+In that case the consumption function would be represented as a function of 
+disposable incomes (𝑌ௗ = 𝑌 − 𝑇), that is,  
+𝐶 = 𝑎 + 𝑏(𝑌 − 𝑇) = 𝑎 + 𝑏𝑌ௗ       … (2.1b)   
+For the discussion below, for simplicity, we assume that there is no government, 
+so that T = 0 and Y = 𝑌ௗ .  
+The slope of the consumption function ‘ 𝑏’ is assumed to be a positive fraction 
+(i.e., 0 < 𝑏 < 1). It means that the consumption function can be represented as an 
+
+
+--- Page 29 ---
+ 
+29 
+ 
+The Keynesian Model upward sloping straight line as in Fig. 2.1. It indicates that planned consumption 
+expenditure increases with an increase in the level of aggregate income.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.1: Consumption Function 
+Note that ‘ b’ is defined as the marginal propensity to consume (MPC) and it 
+represents the change in consumption induced by a unit change in income. The 
+MPC is assumed to be less than one. If there is an increment in income by Y, the 
+induced increase in consumption C is a fraction of Y (i.e., C =b Y and 
+C/Y = b < 1 ). It means that the entire increment in income is not spent on 
+consumption, a fraction ( 1 − 𝑏) is saved. It means total saving out of the 
+incremental income is (1 − 𝑏)Y. 
+Let us consider the case where the consumption function is given by C = 20 + 
+0.25Y. If aggregate income increases by Rs.100 (i.e.,  
+Y=100), then Rs. 25 ( C 
+= 0.25 ×100) is the additional consumption and Rs.75 [(1 – 0.25)  ×100] is 
+additional saving of households out of the incremental income. Similarly, if 
+income declines by Rs.100, then consumption would decline by Rs. 25 only, 
+while saving would decline by Rs. 75.  
+The intercept of the consumption function ‘ a’ represents autonomous 
+consumption, with 𝑎 > 0. From equation (2.1a), you can see that when  𝑌 = 0, 
+we have  𝐶 = 𝑎. It implies that consumption occurs even when income is zero. 
+This consumption is financed by drawing down past saving or by ‘dis-saving’. 
+An increase in ‘ a’ represents increase in planned consumption of households at 
+each level of income; this can happen, for instance, when consumer confidence 
+increases (i.e., households’ expectations about the future turn buoyant). You can 
+see in Fig. 2.1 that an increase in the intercept (from a0 to a1) results in a parallel, 
+upward shift of the consumption function, from C0 to C1. 
+Aggregate consumption has two components: (i) an autonomous component ‘ a’ 
+that does not depend on income, and (ii) an ‘induced’ component ‘ bY’ that 
+depends on aggregate income levels. An increase (decrease) in Y induces an 
+increase (decrease) in planned consumption expenditure by households.  
+The ratio of aggregate consumption expenditure to aggregate income ቀ
+஼
+௒
+ቁ is 
+defined as the average propensity to consume  (APC). From equation (2.1a) you 
+C 
+ a1 
+ a0 
+0 
+𝑏 
+Y 
+𝐶ଵ = 𝑎ଵ + 𝑏𝑌 
+𝐶଴ = 𝑎଴ + 𝑏𝑌 
+
+
+--- Page 30 ---
+ 
+30 
+ 
+Traditional Approaches 
+to Macroeconomics 
+can see that APC = 𝐶 𝑌⁄  = 𝑎 𝑌⁄ + 𝑏. Note that APC will decline as Y increases, 
+while MPC remains constant.  
+2.2.2 Investment Function 
+The investment function (I) represents planned investment expenditure 
+undertaken by firms on machinery, factories and other such items that add to 
+productive capacity of the economy. In the simplest version of the Keynesian 
+model investment is assumed to be ‘autonomous’, i.e., independent of the level of 
+aggregate income (Y). In this case the investment function is represented by the 
+equation as below. 
+𝐼 = 𝐼̅         … (2.2a)   
+In equation (2.2a) a ‘bar’ over the variable investment ( 𝐼̅) variable indicates a 
+fixed amount. However, we can easily relax this assumption and allow 
+investment to be a function of aggregate output. In this case the investment 
+function is: 
+ I = c + d Y        … (2.2b)  
+where c > 0 and d > 0; ‘c’ is the autonomous part of investment, d is the marginal 
+propensity to invest  (MPI) and ‘ d Y’ represents investment that is induced by 
+aggregate income.  
+Fig. 2a below depicts an autonomous investment function, while Fig. 2.2b depicts 
+an induced investment function which has a component that is induced by 
+income.  
+ 
+ 
+ 
+ 
+       
+         
+ 
+Fig. 2.2a: Autonomous Investment    Fig. 2.2b: Induced Investment 
+Note that the term investment refers to planned expenditure by firms on new 
+production equipment (e.g., machinery, building, etc.) that add to productive 
+capacity. It does not refer to buying of corporate bonds or shares in a company or 
+opening a fixed deposit account in a bank.  
+An important variable that affects firms’ decision to invest is the rate of interest. 
+As the rate of interest increases, the cost of borrowing goes up, resulting in a 
+reduction in the firms’ planned investment expenditure. The inverse relation 
+between investment and interest rate can be further explained as follows:  
+Y 
+I = c + dY I 
+c 
+I 
+I̅ 
+Y
+
+
+--- Page 31 ---
+ 
+31 
+ 
+The Keynesian Model Say, the current interest rate is i and an investment project that costs Rs. A, is 
+expected to last for T periods. In each period it yields a return of R t, where t = 
+1,2,…, T. In this case, the present value of the stream of returns from the project 
+P is calculated as: 
+ P = 
+ோ భ
+(ଵା௜ ) +
+ோ మ
+(ଵା௜ )మ +
+ோ య
+ା (ଵା௜ )య + ⋯ +
+ோ ೅
+(ଵା௜ )೅     … (2.2c)   
+If profit is the only motive of investment, this project will be taken up only if 
+(𝑃 − 𝐴) ≥ 0 . 
+For example, if you are willing to lend Rs.100 at 10 per cent rate of interest for a 
+period of 1 year, then at the end of the year you will receive Rs.110. So, at the 
+current interest rate of 10 per cent, the present discounted value  of Rs.110 is Rs. 
+100 [where, 100 = 110 / (1+0.1)].  
+Now, for the economy as a whole, for any given rate of interest, i 0, the 
+corresponding level of investment I 0 by firms would consist of all the projects for 
+which 𝑃 ≥ 𝐴. Now, if the interest rate increases to i 1 (R t and A remaining 
+unchanged), P would decrease. Consequently, some projects for which 𝑃 ≥ 𝐴, 
+would now be unprofitable. At a higher interest rate, therefore, all the projects for 
+which P < A would not be taken up, so there would be a fall in the associated 
+level of investment I1. Thus, when i0 > i1 we have I0 < I1.  
+If we include interest rate as an explanatory variable in the investment function, 
+we have  
+𝐼 = 𝑐 + 𝑑𝑌 − 𝑒 𝑖        … (2.2d)    
+where c > 0, d > 0 and e > 0. Here, e captures the interest responsiveness of 
+planned investment expenditure.  
+Check Your Progress 1 
+1)  Discuss the main features of the Keynesian consumption function.  
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+......................................................................................................................... 
+2) Through a diagram, explain how (i) a decrease in autonomous consumption, 
+and (ii) an increase in the MPC, would affect the consumption function. 
+ ..........................................................................................................................
+ ..........................................................................................................................
+ ..........................................................................................................................
+ .......................................................................................................................... 
+......................................................................................................................... 
+
+
+--- Page 32 ---
+ 
+32 
+ 
+Traditional Approaches 
+to Macroeconomics 
+3) Distinguish between autonomous investment and induced investment.  
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+......................................................................................................................... 
+4) State the reasons for the inverse relationship between interest rate and 
+investment level. 
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+......................................................................................................................... 
+2.3   DETERMINATION OF OUTPUT IN THE 
+ KEYNESIAN MODEL 
+The Keynesian model is based on certain assumptions. First, there are 
+unemployed resources in the economy. In other words, there is underutilized 
+productive capacity (e.g., factories operating below capacity, unused machines, 
+labour without employment, etc.). It follows from this that output in such an 
+economy is demand determined, i.e., existing production capacity can be used to 
+step up production in case there is an increase in aggregate demand for output. 
+Second, money wages and prices are not flexible (i.e., there are price rigidity and 
+wage rigidity). Since there is unemployment and workers are willing to work at 
+the going wage rate, an increase in the supply of output is possible at the given 
+price level. Third, output is assumed to be a homogenous commodity used both 
+for consumption and investment.  
+We will present the simplest Keynesian model applicable to a three-sector 
+economy consisting of households, firms and the government. The economy is 
+closed (i.e., no external trade). Later on we relax this assumption and allow for 
+external trade.  
+In the three-sector economy, aggregate demand comprises (i) planned 
+consumption by households (C), (ii) planned investment by firms (I), and (iii) 
+expenditure on goods and services by the government (G). Initially we assume 
+that investment is fully autonomous, an assumption that is relaxed later. The 
+government is assumed to raise taxes and here we consider the cases of both 
+lump sum taxes as well as proportional taxes. Later we will also consider the 
+implications that arise when the government makes transfer payments to 
+households (e.g., pensions, unemployment dole, etc.).  
+
+
+--- Page 33 ---
+ 
+33 
+ 
+The Keynesian Model Therefore, in our simple Keynesian model  
+Aggregate Demand (AD) = C + I + G  
+By substituting the values of C, I and G, we obtain 
+𝐴𝐷 = 𝑎 + 𝑏(𝑌 − 𝑇) + 𝐼̅ + 𝐺       … (2.3) 
+Here T is a lump sum tax levied by the government; the investment function is 
+given by (2.2a).  
+2.3.1 Determination of Equilibrium Output  
+The equilibrium condition in the Keynesian model is that aggregate demand for 
+output is equal to aggregate supply ( Y) or, the total output produced in the 
+economy. Note that at equilibrium, the plans of households and firms (regarding 
+expenditure on consumption and investment) are also fulfilled. In case plans are 
+not fulfilled there would be changes in aggregate demand (as households and 
+firms would adjust their plans) and hence output produced would change as well, 
+so that the situation would not be one of equilibrium.  
+The equilibrium condition in the economy is achieved when  
+Aggregate Supply = Aggregate Demand  
+From equation (2.3) we know that  
+𝑌 = 𝑎 + 𝑏(𝑌 − 𝑇) + 𝐼̅ + 𝐺  
+Solving this for Y, equilibrium output (Ye) can be obtained as: 
+𝑌 = 𝑎 + 𝑏𝑌 − 𝑏𝑇 + 𝐼̅ + 𝐺  
+Or,  
+𝑌 − 𝑏𝑌 = 𝑎 − 𝑏𝑇 + 𝐼̅ + 𝐺  
+Thus,  
+𝑌௘  = ( 𝑎 − 𝑏𝑇 + 𝐼̅ + 𝐺)/(1 − 𝑏)      … (2.4) 
+From (2.4) it should be clear to you that equilibrium output would be higher at 
+higher levels of (i) autonomous investment, (ii) government expenditure, and (ii) 
+the MPC. Recall that 0 < MPC < 1, so that the term (1– b) in the denominator is 
+always positive.  
+We will now carry out graphical analysis to further understand the process of 
+attainment of equilibrium in the simple Keynesian model. First we will consider 
+the case of a two-sector economy with only households and firms and no 
+government. Later we will consider a three-sector economy which has the 
+government sector as well.  
+Two-Sector Economy without Government 
+In a two-sector economy, there are only households and firms. Therefore, 
+aggregate demand has only two components, C and I. Thus, 𝐴𝐷 = 𝐶 + 𝐼̅. Setting 
+G = T = 0 in equation (2.4) above, we see that equilibrium output would be  
+
+
+--- Page 34 ---
+ 
+34 
+ 
+Traditional Approaches 
+to Macroeconomics 
+𝑌௘  = ( 𝑎 + 𝐼̅)/(1 − 𝑏)      … (2.5) 
+We depict equilibrium level of output in Fig. 2.3. Along the horizontal axis we 
+measure output or income (recall that income is generated in the process of 
+production of output, so we use the terms income and output interchangeably). 
+Along the vertical axis we measure aggregate demand and its components ( C and 
+I).  
+Note that OL is a line which makes an angle of 45 0 with the horizontal axis, so 
+that a perpendicular from this line such as AY 1, forms an isosceles triangle 
+AOY1, with OAY1 = AOY1 = 45 0, and as per the property of isosceles 
+triangles, the two sides O Y1 and A Y1 are equal. Using this construct we are able 
+to compare vertical distances (demand) with the horizontal distances (output or 
+income). Note that at A, where the consumption function cuts OL, consumption 
+expenditure AY1 is exactly equal to income OY1, so that saving is zero.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                   Fig. 2.3: Equilibrium Output in a Two-Sector Economy 
+In Fig. 2.3 we derive the aggregate demand curve (AD) by adding the investment 
+(𝐼̅) and consumption (C) functions. Since investment is autonomous the line AD 
+is parallel to the consumption function, i.e., slope of AD is the same as the slope 
+of the consumption function. Equilibrium output is attained at E, at the 
+intersection of AD with OL where aggregate demand EY e is equal to aggregate 
+output OY e. Note that the equilibrium is unique, as there is only one level of 
+income OYe at which aggregate demand is equal to aggregate supply. In this case 
+firms will be able to sell exactly as much as they had planned and hence there 
+will be no unplanned changes in their stock of inventories. 
+For all income levels less than OY e, i.e., to the left of E, there is excess demand 
+for output. For example, when aggregate income is OY 1 (=AY 1), the 
+corresponding level of aggregate demand GY 1 is greater than the supply of 
+output AY1 (=OY1). In this case since demand is more than the output produced 
+by firms, they will have to run down their stock of inventories. So in the next 
+Ye 
+AD, C 
+and I 
+I̅ 
+o 
+G 
+E 
+H L 
+J 
+Y1 Y2 
+450 
+Y 
+A 
+AD = C + I̅ 
+ 
+C = a + b Y 
+ 
+
+
+--- Page 35 ---
+ 
+35 
+ 
+The Keynesian Model period, firms will increase production and output would move toward OY e. This 
+process of increase in output (and hence income) will continue till OY e is 
+reached, where the amount produced (OY e) being exactly equal to the amount 
+demanded (EY e), there is no unplanned changes in the stock of inventories and 
+hence no further change in production levels.  
+Similarly, to the right of E (i.e., at all income levels greater than OY e), there will 
+be excess supply of output. When income is OY 2, the corresponding level of 
+aggregate demand JY 2 is less than the supply HY 2 (= OY 2). In this case, firms 
+will be unable to sell the entire amount produced (HY 2 > JY 2) and hence their 
+stock of inventories will increase (i.e., there will be unplanned inventory 
+accumulation by firms). This would induce firms to reduce production in the next 
+period. This process will continue till the equilibrium output EY e (=OY e) is 
+reached, where demand and supply are equal and there are no more unanticipated 
+changes in firms’ stock of inventories.  
+From this discussion we see that output market equilibrium in the Keynesian 
+model is stable. Any situation of disequilibrium tends to be self-correcting, 
+inducing a movement back towards the equilibrium level of output.  
+Three-Sector Economy with Government 
+In equation (2.4) we derived equilibrium output in a three sector model, with 
+households, firms and a government sector. Diagrammatically this can be shown 
+in Fig. 2.4. As earlier, the OL line makes an angle of 45 0 with the horizontal axis 
+along which we measure income (or output). Aggregate demand is measured 
+along the vertical axis. Now, this has three components, C, I and G, where 
+investment and government expenditure are autonomous.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.4: Equilibrium Output in a Three-sector Economy  
+Equilibrium in the three-sector model occurs at the intersection of the AD curve 
+and the OL line, where demand AY e is equal to aggregate supply OY e. You 
+should see that equilibrium income level OY e is unique and that this equilibrium 
+is stable. At all income levels higher than OY e there is excess supply, so that 
+firms decrease production, inducing a change in output towards OY e. On the 
+other hand, at all income levels lower than OY e, there is excess demand, inducing 
+firms to increase production. 
+AD,C, I, G 
+Ye 
+450 
+A 
+o 
+L 
+Y 
+AD = C + I̅ + G 
+
+
+--- Page 36 ---
+ 
+36 
+ 
+Traditional Approaches 
+to Macroeconomics 
+Note that the position of the AD curve is determined by the size of the 
+autonomous components of aggregate demand (viz., I, G and autonomous 
+consumption a). The higher the levels of these components, the higher would be 
+the AD line and the higher would be the equilibrium output level (Y e), implying 
+that output is demand-determined in the Keynesian model.  
+2.3.2 Investment Multiplier 
+We will now examine the comparative static properties of the Keynesian model 
+and explain the concept of the multiplier.  
+Autonomous Investment 
+Consider once again the two-sector model with only firms and households, such 
+that equilibrium income is 𝑌௘  = ( 𝑎 + 𝐼̅)/(1 − 𝑏). If, ceteris paribus,  there is a 
+change in the level of autonomous investment ( I), the associated change in 
+income would be given by ∆𝑌 = (1/(1 − 𝑏) × ∆𝐼. Thus, 
+∆௒
+∆ூ = (1/(1 − 𝑏). Here, 
+we consider change in one component of autonomous demand at a time. This 
+means when I > 0, we shall assume that a = 0 and so on. The term (
+ଵ
+ଵି௕ ) is 
+greater than one, since our assumption is that (0 < b <1). An implication of the 
+above is that when investment increases by I, the associated increase in income 
+is greater than I, as it is a multiple of I. How is this possible? To see this, 
+consider the several rounds of increments in expenditure that are triggered by a 
+onetime increase in autonomous expenditure. 
+If we increase  I by I, income will increase by I in the first round, which will 
+induce a second round increase in consumption by bI (since consumption is a 
+function of income). Since output is demand-determined, this increase in 
+consumption demand raises output and hence income increases further by bI. 
+This induces a third round increase in consumption by [ b(bI) = b 2I] which 
+triggers further increases in income ( b2I). In the fourth round, consumption 
+demand increases by [ b(b2I) = b 3I]. The process continues with increase in 
+consumption raising output, income and yet another round of consumption. Note 
+that since MPC < 1 (i.e., b < 1), each subsequent round of increase in 
+consumption is weaker than the previous one, so that the entire process dies 
+down gradually.  
+Therefore, the total increase in income due to a onetime increase in autonomous 
+investment is:  
+ Y = (I + bI + b2I + b3I + …..) = I ( 1 + b2 + b3 + b4 + …..)  
+ …(2.6) Since 0 < b < 1, the expression in parentheses on the right hand 
+side of (2.6) can be expressed as the sum of a convergent infinite geometric 
+progression series, i.e., 1 + b2 + b3 + b4 + ….. = 1/(1 − 𝑏). Therefore, Y = [1 / 
+(1 – b)] I, which shows that income increases by a multiple of the initial 
+increase in autonomous investment and the multiplier is (
+ଵ
+ଵି௕ ). This is shown 
+diagrammatically in Fig. 2.5.  
+ 

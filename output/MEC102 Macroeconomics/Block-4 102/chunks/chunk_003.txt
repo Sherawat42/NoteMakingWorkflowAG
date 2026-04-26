@@ -1,0 +1,491 @@
+--- Page 21 ---
+UNIT 6 REAL BUSINESS CYCLES  
+Structure 
+12.0 Objectives 
+12.1 Introduction 
+12.2  New Classical View on Business Cycle 
+12.3  Real Factors vs. Monetary Factors  
+12.4 A Baseline RBC Model 
+12.5. Inter-temporal Substitution in Labour Supply  
+12.6 Impact of Supply Shocks to the Economy 
+12.7 New-Keynesian View on Business Cycle 
+12.8 Let Us Sum Up 
+12.9  Answer/Hints to Check Your Progress Exercises 
+12.0 OBJECTIVES 
+After going through this unit you would be in a position to  
+ describe the salient features of new-classical economics; 
+ outline the assumptions and methodology adopted by new-classical 
+economics on analysis of business cycles; 
+ bring out the important features of real business cycle theory;  
+ explain the inter-temporal substitution in labour supply; 
+ assess the role of supply shocks; and 
+ discuss the new-Keynesian approach to business cycle. 
+12.1 INTRODUCTION 
+In the previous Unit we mentioned that business cycles are synchronic in the 
+sense that the state of recession or boom is prevalent in most industries at the 
+same time. Further, certain variables are pro-cyclical while some others are 
+counter-cyclical. Examples of pro-cyclical variables are output, employment, 
+wages and consumption expenditure. Examples of counter-cyclical variables are 
+unemployment, company profits, and stock market prices.  
+ 
+ 
+Dr. Jagannath Mallick, Independent Researcher, Delhi and Prof. Kaustuva Barik, IGNOU 
+
+
+--- Page 22 ---
+ 
+ 
+ 
+185 
+Real Business Cycles There is no consensus among economists about the reasons behind business 
+cycles. According to Keynes (1936) fluctuations in investment (and therefore 
+employment) is caused by ‘animal spirit’, a sort of human emotion. Fluctuation 
+in output gets amplified due to the effect of ‘investment multiplier’. Samuelson 
+(1939) showed that the interaction of multiplier and accelerator leads to business 
+cycles. According to Austrian economist Joseph A. Schumpeter (1961), business 
+cycles are an outcome of the process of innovation and technological change; a 
+process called ‘creative destruction’. Schumpeter emphasises on the role of 
+entrepreneurs, who undertake innovation – they bring in new technology which 
+disrupts existing production processes. Such disruptions in an economy lead to 
+substantial fluctuations in employment and output. There have been several other 
+theories of business cycles which we have not included in the previous Unit. 
+Richard Goodwin (1967), another heterodox economist, ascribes business cycles 
+to the fluctuations in the share of workers in total output. During the boom phase 
+of business cycle, rising employment leads to higher wages, rise in bargaining 
+power of workers, and increase in the share of wages in revenue. This leads to 
+decrease in profit share, decrease in accumulation of capital, and consequent 
+decline in employment. Eventually the rise in unemployment leads to fall in the 
+share of wages in revenue, consequent recovery of profits, and increase in 
+accumulation. In sharp contrast to Keynes, Milton Friedman considered the 
+changes in money supply to be the major reason behind business cycles. 
+According to Friedman, a free market economy is inherently stable. The 
+fluctuation in money supply causes business cycles in an economy.  
+New classical economists followed the monetarist tradition and emphasized on 
+monetary factors. They introduced rational expectations and microfoundation in 
+macroeconomic analysis. According to them monetary shocks causes business 
+cycles in an economy. The real business cycle theory, however, brings back the 
+importance of real factors such as productivity shocks to explain business cycle.  
+In this Unit we begin with new-classical view on business cycle and subsequently 
+move on to real business cycle theory. We will conclude the Unit with a note on 
+new-Keynesian view on business cycle. 
+12.2 NEW-CLASSICAL VIEW ON BUSINESS CYCLE 
+During the 1950s and 1960s Keynesian economics was very popular – its policy 
+prescription was acceptable to researchers as well as policy makers. Milton 
+Friedman, however, challenged Keynesian economics during that time. 
+According to Friedman, changes in aggregate income are explained mostly by   
+monetary policy. Had the government taken recourse to open market operations 
+and redeemed bonds and securities during the Great Depression, money supply 
+would have increased and the adverse impact would have been lesser. Further, 
+Friedman disagreed with the inflation-unemployment trade-off as suggested by 
+the Phillips Curve. He introduced expectations into the analysis, and pointed out 
+that the Phillips curve is vertical in the short-run. The trade-off is possible only in 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+186 
+Theories of  
+Business Cycles the short-run; in the long-run, unemployment cannot be brought down below the 
+natural rate of unemployment.  
+The onset of stagflation during the 1970s further consolidated the dissent on 
+Keynesian economics. New-classical economics, led by Robert Lucas and 
+Thomas Sargent, brought in a revolution in macroeconomics. New-classical 
+economists revived the classical ideas; the analytical tools however were 
+different. Thus, new-classical economics is completely opposed to the Keynesian 
+policy prescriptions.  
+New-classical economics is based on three assumptions: (i) rational expectations 
+hypothesis, (ii) continuous market clearing, and (iii) the aggregate supply 
+hypothesis. People have rational expectations; they can correctly anticipate the 
+effect of government actions; and they take counter-measures to neutralise the 
+impact of government policy. A major inference drawn by new-classical 
+economics is that policy measures taken by the government are ineffective. Only 
+unexpected policy shocks lead to temporary deviations in output and employment 
+from their natural levels. The second assumption states that markets clear at any 
+point of time. An implication of the above is the equality between demand and 
+supply, and the economy is in a state of equilibrium always. New-classical 
+economics assumes flexibility in wage rate and prices. Further, adjustments in 
+prices and wages are instantaneous. You may be wondering how the labour 
+market can clear (i.e., there is no unemployment)! This in fact is a debatable 
+assumption of new-classical economics – according to new-classical economists, 
+unemployment is a voluntary phenomenon. At the ongoing wage rate anybody 
+who is willing to work gets employed. The third assumption states that the supply 
+of labour by workers and the supply of output of firms depend upon relative 
+prices. This is the famous Lucas supply function discussed in Unit 7.  
+Three prominent features of new-classical economics are as follows: (i) 
+microfoundation, (ii) dynamic stochastic general equilibrium, and (iii) 
+quantitative calibration of the economy. Microfoundation means that 
+macroeconomic phenomena are explained through the behaviour of 
+microeconomic agents such as households and firms. For example, the decision 
+of a household is based on its utility function while that of a firm is based on a 
+production function. New-classical models are based on dynamic stochastic 
+general equilibrium (DSGE). As the name suggests, these are ‘general 
+equilibrium models’ in the sense that they pertain to the whole economy. The 
+word ‘dynamic’ reflects the idea that these are inter-temporal models and 
+economic agents optimise on their decision-variables over time. Thus, DSGE 
+models involve the issue of ‘dynamic optimisation’ (See MEC-203, Block 7). As 
+you know, the economy receives various types of shocks, viz., demand shocks, 
+supply shocks and policy shocks, which are exogenous. These shocks are 
+assumed to be random in nature; thus these models are ‘stochastic’. In simple 
+DSGE models there are three inter-related blocks (set of equations), viz., (i) a 
+
+
+--- Page 24 ---
+ 
+ 
+ 
+187 
+Real Business Cycles demand block, (ii) a supply block, and (iii) a monetary policy equation (for 
+example, policy rule). The equations included in these blocks are derived from 
+micro-foundations.  
+In order to describe the economy, new-classical economists use the method of 
+calibration. The DSGE models require solution to a set of inter-related dynamic 
+optimisation problems. Here households and firms make decisions on the basis of 
+current and expected future paths for prices and policy variables. This is a 
+challenging task as data are not easily available for longer time periods. 
+Therefore, in DSGE models researchers make extensive use of numerical 
+iteration, so as to replicate the economy. The researcher chooses (from past 
+studies) a set of parameters to describe the utility function and production 
+function. In the process, they rely on model simulation and take parameter values 
+that best fit the empirical data. Such a procedure of comparing the model output 
+with empirical data is called calibration. Remember that calibration is different 
+from estimation used in econometrics. 
+A question arises at this point: Why do employment and output fluctuate in an 
+economy, if there is market-clearing all the time? In other words, why do 
+business cycles occur? According to new-classical economics, there are two basic 
+reasons: (i) inter-temporal substitution between labour and leisure, and (ii) Lucas 
+supply function. If the actual real wage rate is higher than the expected real wage 
+rate, the household substitutes leisure by labour – thereby working for higher 
+number of hours in a day. In the process it supplies more labour. Thus, there is an 
+increase in supply of labour, which leads to an increase in output (higher than the 
+potential output). As pointed out above, changes in employment are treated as 
+voluntary choices of workers – the amount of labour supplied by households 
+depends upon their rational expectations about real wages. The ‘Lucas Supply 
+Function’ suggests that firms suffer from signal extraction problem and mistake a 
+general price rise as a relative price rise. When there is a general price rise, there 
+is no relative increase in prices of the products produced by a firm, as the cost of 
+production also has gone up. However, firms often see that there is an increase in 
+the prices of their products and they increase their production. Thus, there is a 
+(positive) deviation in employment and output from their natural levels. This 
+leads to a boom or expansion phase in the economy.  
+Let us take the opposite scenario. Suppose, households perceive that the actual 
+wages they receive is less than expected wage. As a response, households will 
+work less (enjoy more leisure) and supply less labour to the market. Decrease in 
+supply of labour will result in a (negative) deviation in output from its natural 
+level. If the firms perceive that there is a relative decrease in prices of their 
+products, they will decrease their output level. Such decline in output will lead to 
+a recession in the economy. Thus, while the economy is in equilibrium, there 
+could be fluctuation in employment and output.    
+
+
+--- Page 25 ---
+ 
+ 
+ 
+188 
+Theories of  
+Business Cycles Check Your Progress 1 
+1)  What are the basic assumptions of new-classical economics?  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+2)  Explain the reasons put forth by new-classical economists for occurrence of 
+business cycles in an economy.  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+12.3 REAL FACTORS VS. MONETARY FACTORS 
+Real business cycle (RBC) theory originated with the publication of a paper in 
+1982 by Kydland and Prescott entitled, “Time to Build and Aggregate 
+Fluctuations”. Kydland and Prescott stated that business cycle is not due to 
+fluctuation in monetary variables; rather it is caused by real shocks to the 
+economy. The RBC theory is a distinct class of new-classical macroeconomics. 
+Therefore, the basic assumptions and analytical tools of new-classical models are 
+applied in RBC models also. In fact, Kydland and Presott were the first to 
+characterise the general equilibrium of a full-fledged dynamic and stochastic 
+macroeconomic model.  
+There could be two types of shocks to the economy: (i) nominal shocks, and (ii) 
+real shocks. The nominal shocks (shocks to money supply or money demand) 
+affect the LM curve. The real shocks (shocks to the production function, real 
+government spending, or to savings and consumption decisions) affect the IS 
+curve. In other words, real shocks affect the goods market equilibrium and the 
+labour market equilibrium. 
+As the name suggests, the RBC models ascribe ‘real shocks’ as the prime reason 
+behind business cycles. The shocks to the production function are known as 
+supply shocks or productivity shocks. Supply shocks can arise due to the 
+following reasons:  
+(i) development of new products or production methods (production 
+technology) 
+(ii) changes in the quality of labour or capital  
+(iii) changes in the availability of raw materials (relative prices, oil crisis) 
+(iv) unusually good or bad weather (drought, flood, earthquake) 
+
+
+--- Page 26 ---
+ 
+ 
+ 
+189 
+Real Business Cycles (v) changes in government regulations affecting production (tax rate, 
+subsidies, etc.) 
+The positive or beneficial productivity shocks result in economic booms, 
+whereas the negative or adverse productivity shocks cause recessions in an 
+economy. Let us discuss the effect of a temporary adverse supply shock on the 
+economy (see Fig. 12.1). There will be a decline in the marginal productivity 
+of labour, which will reduce the demand for labour. Consequently, there will a 
+fall in the real wage. Households will see that their real wage has declined and 
+they will supply lower quantity of labour. This will lead to a fall in the level of 
+output (consequently, a recession). A beneficial productivity shock, on the 
+other hand, would result in an economic boom. There would be temporary 
+hike in productivity in the economy. This will cause an increase in investment 
+and work effort in the current period. Consequently, both the real output and 
+consumption spending will be increased. Once the effect of the supply shock 
+dies down, the economy will be back to natural rate of employment and 
+output. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 12.1: Effect of Temporary Adverse Supply Shock 
+The RBC theory is based on two basic principles: (i) money has little role to play 
+in business cycles, and (ii) business cycles occur as a response of rational 
+economic agents (firms and households) to real shocks. The economy is 
+continuously at equilibrium – the supply of labour and output are according to 
+rational expectations of economic agents.  
+The RBC theory has certain differences with new-classical economics. There are 
+at least three differences between the real business cycle theory and the new 
+classical school of thought: (i) the RBC theory does not distinguish between 
+short-run and long-run. It integrates theory of economic growth with business 
+cycle theory. (ii) Lucas advocated that households and firms get fooled – they 
+cannot extract correct signal from price changes in the economy. This results in 
+deviation of actual output from potential output. The RBC theory assumes that 
+households and firms have complete information. (iii) RBC theory assumes that 
+supply shocks arise from real factors while new-classical economics assumes that 
+shocks arise from monetary factors.  
+  w 
+ w1 
+ w2 
+ L1  L2 
+ L 
+ D௅
+ଶ  
+ SL 
+ D௅
+ଵ  
+
+
+--- Page 27 ---
+ 
+ 
+ 
+190 
+Theories of  
+Business Cycles The implications of RBC theory are as follows: (i) The government should not 
+try to stabilise output level; it should try to stabilise prices (i.e., inflation should 
+be kept under control – inflation targeting). (ii) The government should not 
+influence aggregate demand through fiscal policy measures (taxes and subsidies), 
+as fiscal measures may not be effective (due to the issue of Ricardian 
+equivalence). (iii) The government should use fiscal policy to stimulate the 
+supply side of the economy (to provide positive supply shocks to the economy).  
+Real business cycle is criticised on certain grounds: Its assumption of 
+instantaneous market clearing is unrealistic. Prices and wages are rigid in an 
+economy. Further, there is little evidence of large aggregate technology shocks in 
+an economy.  
+12.4  A BASELINE RBC MODEL 
+Let us discuss how the fluctuations of aggregated macroeconomic variables can 
+be explained through a general equilibrium model. Recall from microeconomic 
+theory that the Walrasian model (a baseline general equilibrium model) is a 
+competitive model without any of the following: (i) asymmetric information, (ii) 
+externalities, (iii) missing markets, and (iv) other imperfections. If we can 
+explain macroeconomic fluctuations through a Walrasian model, there is no 
+fundamental departure from conventional microeconomic analysis. Real-
+business-cycle theory aims to analyse how a Walrasian model provides a good 
+explanation of the nature and character of observed fluctuations. 
+The Ramsey model (see Unit 8) can be seen as a baseline general equilibrium 
+model. The model excludes market imperfections; and there is no heterogeneity 
+among households. It is based on microfoundation in the sense that it considers a 
+representative household and a representative firm. The representative household 
+consumes goods and services which are homogenous. Goods and services 
+produced in the economy are used for consumption by households as well as 
+investment by firms. The representative household supplies labour to the firm. 
+The household determines the quantity of labour to be supplied on the basis of a 
+utility function. Recall that in the Ramsay model an economy converges to a 
+balanced growth path and then grows smoothly.  
+Let us try to extend the Ramsey model to include aggregate macroeconomic 
+fluctuations. In the absence of shocks, the economy is on a steady state. 
+Therefore, we need to incorporate certain disturbance to the model. 
+Suppose that there is certain disturbance or shock to the economy. What will be 
+the impact of such shocks? Will the impact of the shock dissipate (die down) 
+after some periods or will it generate fluctuations in output in the economy? The 
+sources of shocks to an economy could be of two types: (i) there could be a shock 
+to the economy’s technology. The production technology of the economy 
+undergoes change. Such shocks will lead to a change in the production function 
+across periods. (ii) Change in government purchases also could be a source of 
+disturbance to the economy. These two types of shocks are real disturbances; 
+they are not monetary or nominal disturbances. The change in technology leads 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+191 
+Real Business Cycles to change in the amount of output produced from a given quantity of inputs. 
+Similarly, the change in government-purchases leads to change in the quantity of 
+goods that are available to the private economy for a given level of production. 
+Since the shocks to an economy are real factors, the models are known as real-
+business-cycle (RBC) models. 
+We need to make a second modification in the Ramsey model – we allow for 
+change in employment. In the traditional business cycle theories, labour supply is 
+assumed to be exogenous; labour supply is either constant or growing smoothly. 
+As mentioned above, the RBC models are based on microfoundation such that 
+labour supply is determined by a utility function. Households allocate their time 
+between work and leisure – an increase in the time allocated to work implies an 
+increase in the supply of labour and a decrease in the quantity of leisure.  
+Let us assume that the economy consists of a large number of homogenous price-
+taking firms and households. There are two inputs to the production function, 
+viz., capital (K) and labour (L). Let us assume that technology is exogenous and it 
+is given by 𝐴௧ for time period ‘t ’. Further, let us assume that the functional form 
+of the production function is Cobb-Douglas. 
+Thus, output in period t is 
+𝑌௧ = 𝐴௧𝐹(𝐾௧, 𝐿௧) = 𝐾௧
+஑ (𝐴௧𝐿௧)ଵି஑      … (12.1) 
+where 0< α <1 
+We know that output is divided among consumption ( C), investment ( I), and 
+government purchases ( G). If δ is the depreciation rate of capital in each period, 
+the capital stock in period (t + 1) is 
+𝐾௧ାଵ = 𝐾௧ + 𝐼௧ − 𝛿𝐾௧ 
+= 𝐾௧ + 𝑌௧ − 𝐶௧−𝐺௧ − 𝛿𝐾௧       … (12.2) 
+(Since 𝐶௧ + 𝐼௧ + 𝐺௧ = 𝑌௧; we have 𝐼௧ = 𝑌௧ − 𝐶௧ − 𝐺௧ ) 
+Let us consider that labour and capital are paid their marginal products. Thus, the 
+real wage and the real interest rate in period t are 
+𝑤௧ = (1 − α) 𝐴௧𝐾௧
+஑ (𝐴௧𝐿௧)ି஑     
+= (1 − α) 𝐴௧(𝐾௧/𝐴௧𝐿௧)ି஑         … (12.3) 
+and, 
+𝑟௧ = α (𝐴௧𝐿௧/𝐾௧)ଵି஑            … (12.4) 
+(You can derive equation (12.3) and equation (12.4) from equation (12.1) by 
+taking partial derivatives with respect to L and K respectively)  
+The representative household maximizes the expected value of the utility 
+function 
+ U = ∑ 𝑒ିఘ௧ஶ
+௧ୀ଴  𝑢(𝑐௧,1 − 𝑙௧)
+ே ೟
+ு
+      … (12.5) 
+
+
+--- Page 29 ---
+ 
+ 
+ 
+192 
+Theories of  
+Business Cycles where, u (•) is the instantaneous utility function. Here, ρ is the discount rate, 
+which represents time preference of utility (i.e., the rate at which future income is 
+discounted). Further, 𝑁௧ is population and H is the number of households. Then, 
+the average number of members in each household is 𝑁௧ 𝐻⁄ . If the exogenous 
+growth rate of population is n:   
+𝑙𝑛 𝑁௧ = 𝑁ഥ + 𝑛𝑡,        ... (12.6) 
+where  n<𝜌  
+Thus, the level of 𝑁௧ is given by 𝑁௧ = 𝑒ேഥ ା௡௧  
+Notice that u(•) has two factors in equation (12.5): (i) consumption per member 
+of the household ( 𝑐௧), and (ii) leisure per member ( 𝑙௧). Leisure is the difference 
+between the time endowment per member (normalized to 1 for simplicity) and 
+the amount each member works. As all households are homogenous, c = C/N, and 
+l = L/N.  
+Let us first discuss about the assumption on the technology shocks. To capture 
+trend growth, we assume the following functional form for technology:   
+𝑙𝑛 𝐴௧ = 𝐴̅ + 𝑔𝑡       ... (12.7) 
+where g is the rate of technological progress. Technology in the above 
+specification is not subjected to random shocks. In order to include random 
+disturbances in technology we consider the following functional form:  
+𝑙𝑛 𝐴௧ = 𝐴̅ + 𝑔𝑡 + 𝐴௧෪        ... (12.8) 
+where 𝐴ሚ  is the random disturbances. The term 𝐴௧෪ follows ﬁrst-order 
+autoregressive process. That is,   
+𝐴௧෪ =  𝜌஺ 𝐴௧ିଵ෫ + 𝜀஺ ,௧,    −1 < 𝜌஺ < 1   ... (12.9) 
+where, the 𝜀஺ ,௧ is a stochastic error term (white noise). It means that 𝜀஺ ,௧  has zero 
+mean and zero correlation with other variables in the equation. Hence, equation 
+(12.9) indicates that the random component 𝐴௧ ෪  is a fraction 𝜌஺  of the previous 
+period’s value and a white noise error. The effect of a shock to technology 
+disappears gradually over time.  
+We follow a similar functional form for government purchases: It has a trend 
+component and a white-noise component. There is a trend growth rate of per 
+capita government purchases, but over time government purchases may become 
+arbitrarily large or arbitrarily small relative to the economy. Thus, 
+𝑙𝑛 𝐺௧ = 𝐺̅ + (𝑛 + 𝑔)𝑡 + 𝐺௧෪ ,    −1<𝜌஺ < 1,  ... (12.10) 
+𝐺௧෪ = 𝜌ீ 𝐺௧ିଵത
+തതതതത + 𝜀ீ ,௧,      −1<𝜌஺ < 1,  ... (12.11) 
+where the 𝜀ீ ,௧ is white noise. This completes the description of the RBC model. 
+
+
+--- Page 30 ---
+ 
+ 
+ 
+193 
+Real Business Cycles 12.5  INTER-TEMPORAL SUBSTITUTION IN 
+LABOUR SUPPLY 
+We noted in the previous section that major differences between RBC model and 
+the Ramsey model are: (i) the inclusion of leisure in the utility function, and (ii) 
+the introduction of randomness in technology and government purchases as the 
+sources of macroeconomic aggregate fluctuations.  
+Let us focus on the introduction of leisure in the utility function. For simplicity 
+assume that the household lives only for one period and has only one member, 
+which has no initial wealth. Now, the objective function of the household is 
+ln 𝑐 + 𝑏 ln(1 − 𝑙) and its budget constraint is 𝑐 = 𝑤𝑙 . Hence, the Lagrangian 
+maximization problem is: 
+𝜁 = ln 𝑐 + b ln(1 − 𝑙) + 𝜆(𝑤𝑙 − 𝑐)      ... (12.12) 
+The ﬁrst-order conditions for c and 𝑙 are as follows: 
+ଵ
+௖
+− 𝜆 = 0,        ... (12.13) 
+−
+௕
+ଵି௟ + 𝜆𝑤 = 0,       ... (12.14) 
+From equations (12.13), we find that 𝜆 =
+ଵ
+௖ =
+ଵ
+௪௟   (since 𝑐 = 𝑤𝑙 as per the budget 
+constraint).  
+Now, substituting the value of 𝜆 in equation (12.14), we obtain 
+−
+௕
+ଵି௟ +
+ଵ
+௪௟ 𝑤 = 0  
+That is, 
+−
+௕
+ଵି௟ +
+ଵ
+௟ = 0       ... (12.15) 
+The labour supply that satisfies equation (12.15) is independent of the wage rate 
+as wage rate is not included in this equation. The reason is that utility is 
+logarithmic in consumption and the household has no initial wealth. The income 
+effect and substitution effect of a change in the wage rate offset each other. This 
+is the static case, as we assumed that the household lives for one period. 
+If we consider the case where the household lives for two periods or more than 
+two periods, then the wage variations do affect labour supply. Let us continue to 
+assume that household has no initial wealth with one member who lives for two 
+periods. Also, assume that there is no uncertainty about the interest rate or the 
+second-period wage. 
+The household’s lifetime budget constraint is now 
+𝑐ଵ +
+ଵ
+ଵା௥
+𝑐ଶ = 𝑤ଵ 𝑙ଵ +
+ଵ
+ଵା௥ 𝑤ଶ 𝑙ଶ        ... (12.16) 
+where r is the real interest rate. The Lagrangian maximization problem is: 
+𝜁 = ln 𝑐ଵ + b ln(1 − 𝑙ଵ ) + 𝑒ିఘ [ln 𝑐ଶ + b ln(1 − 𝑙ଶ )] 

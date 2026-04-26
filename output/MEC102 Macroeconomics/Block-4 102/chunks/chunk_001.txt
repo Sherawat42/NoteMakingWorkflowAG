@@ -1,0 +1,437 @@
+--- Page 1 ---
+ 
+UNIT 11  TRADITIONAL MODELS OF   
+   BUSINESS CYCLES  
+Structure 
+11.0  Objectives 
+11.1  Introduction 
+11.2  Features of Business Cycles 
+11.3  Phases of Business Cycles 
+11.4  Theories of Business Cycles 
+      11.4.1 Keynes’ View on Business Cycle 
+      11.4.2 Samuelson’s Model of Business Cycle 
+      11.4.3 Political Business Cycles 
+11.5 Dating of Business Cycles 
+11.6  Economic Indicators 
+      11.6.1 Leading Indicators 
+      11.6.2 Lagging Indicators 
+      11.6.3 Coincident Indicators 
+11.7  Empirical Analysis 
+11.8  Let Us Sum Up 
+11.9  Answers/ Hints to Check Your Progress Exercises 
+11.0 OBJECTIVES 
+After going through this unit you would be able to 
+ explain the concept and features of business cycle; 
+ identify the various phases of business cycle; 
+ ascertain the theoretical framework which explains the occurrence of business 
+cycle;  
+ appreciate the Keynesian view on business cycle; 
+ explain the multiplier-accelerator model of business cycle given by 
+Samuelson;  
+ examine the political business cycle theory; 
+  appreciate the methodology used by NBER to date the business cycle; and 
+ distinguish between the leading, lagging and coincident indicators. 
+ 
+ Dr. Archi Bhatia, Associate Professor, Ramjas College, University of Delhi 
+
+
+--- Page 2 ---
+ 
+165 
+ 
+Traditional Models of 
+Business Cycles 11.1 INTRODUCTION 
+Economic growth witnessed by a country is smooth; it passes through many ups 
+and downs. There have been periodical ups and downs in the GDP levels of these 
+countries. It is interesting to note that such fluctuation is not limited to economic 
+growth only, it permeates various economic aggregates such as income, 
+employment and prices around their long term trends. Most developed countries 
+have experienced phases of expansion and contraction in output and other 
+economic aggregates. These alternating phases of upswings and downswings are 
+known as business cycles.  
+You should note that formal analysis of business cycles started in the early 20 th 
+century. It was observed that periods of expansion and contraction in an economy 
+occur in a regular manner. The characteristics of these periods are documented by 
+economists such as Wesley Mitchell, Simon Kuznets, and Frederick Mills. 
+Mitchell documented the co-movement of variables over the cycles; Mills 
+documented the co-movement of prices and quantities over expansions and 
+contractions; Kuznets studied the patterns of both growth and fluctuations. The 
+1930s was a very active period in business cycle research. However, interest in 
+business cycles declined after the publication of Keynes’ General Theory which 
+turned attention away from business cycles to short run management of the 
+economy. Interest in business cycles revived in the 1970s when the prevalent 
+economic crisis in many countries could not be explained by Keynesian model.  
+11.2 FEATURES OF BUSINESS CYCLES 
+Business cycles consist of recurrent alternating phases of expansions and 
+contractions in a number of economic variables including employment, 
+production, real income, and real sales. Business cycles involve multidimensional 
+processes, in which quantities and prices, stocks and flows, outputs and inputs, 
+real, monetary and financial variables all tend to move together. These are 
+asymmetric in the sense that expansion typically exceeds contractions in size and 
+duration. Business cycles can be distinguished from other fluctuations as they are 
+usually larger, longer, and widely diffused.  
+The major features of business cycles are as follows: 
+1) Though business cycles do not show the same regularity, they have 
+certain distinct phases such as expansion, recession, depression, and 
+recovery. The duration of a business cycle can vary from two years to 
+twelve years. 
+2) Business cycles are synchronic. Depression or contraction occurs 
+simultaneously in most industries or sectors of the economy. Recession 
+passes from one industry to another and chain reaction continues till the 
+whole economy is in the grip of recession. Similarly, prosperity spreads 
+through various linkages of input-output relations or demand relations 
+between industries or sectors.  
+
+
+--- Page 3 ---
+ 
+166 
+ 
+Theories of  
+Business Cycles 
+3) Fluctuations occur simultaneously in the level of output as well as 
+employment, investment, consumption, rate of interest, price level, etc. 
+4) Consumption of durable goods and investment are affected the most by 
+cyclical fluctuations. As stressed by Keynes, investment is very unstable 
+as it depends on profit expectations of private entrepreneurs. Any change 
+in these expectations makes investment unstable. Thus the amplitude of 
+fluctuation in the case of durable household effects is higher than that of 
+GDP. 
+5) Consumption of non-durable goods and services do not vary much during 
+the different phases of business cycles. Past data of business cycles reveal 
+that households maintain a great stability in the consumption of non-
+durable goods. Thus the amplitude of fluctuation in the case of non-
+durable consumption goods is lower than that of GDP. 
+6) The immediate impact of recession or expansion is on the inventories of 
+goods. When recession sets in, inventories start accumulating beyond the 
+desired level. It leads to cut in production of goods. In contrast, when 
+recovery starts, aggregate demand picks up and inventories go below the 
+desired level. It encourages business houses to place more orders for 
+goods which boosts production and stimulates investment. 
+7) Profits fluctuate more than other types of income as business cycles cause 
+uncertainty for the businessmen and make it difficult to forecast economic 
+conditions. During depression, profits turn negative and many businesses 
+go bankrupt. 
+8) Business cycles are international in character. That is, once started in one 
+country, it spreads to other countries through contagion effect. The 
+downslide in financial markets, for example, in one country spreads 
+rapidly to other countries as financial markets are linked globally through 
+capital flows. Further, recession in one country, say the United States 
+(US), can spread to other countries as the imports of the US will decline. 
+Countries which are major exporters to the US will witness a decline in 
+their exports and may witness recession.  
+11.3 PHASES OF BUSINESS CYCLES 
+Business cycles are characterized by expansion of economic variables in one 
+period and contraction in the subsequent period. Generally, there are four phases 
+of a business cycle, viz., expansion, recession, depression, and recovery. The four 
+phases of a business cycle are depicted in Fig. 11.1. In the figure the upward 
+sloping straight line indicates the steady state growth path or the long run growth 
+path of GDP. The GDP fluctuates around the steady state growth path due to 
+business cycles. In the expansion phase there is acceleration in growth rate while 
+in the recession phase there is a deceleration in growth rate. In the depression 
+phase economic growth is below its long run trend and the economy can witness 
+negative growth rate also. In fact, negative growth for an economy is not rare. In 
+
+
+--- Page 4 ---
+ 
+167 
+ 
+Traditional Models of 
+Business Cycles 
+2019, several countries (for example, Venezuela, Argentina and Turkey) are 
+having negative economic growth. The difference between recession and 
+depression is one of degree and extent. Similarly, the difference between 
+recovery and expansion is one of degree and extent. After negative growth, the 
+economy passes through the recovery phase and then through the expansion 
+phase. The point at which an expansion ends and a recession begins is called the 
+‘peak’ of the business cycle. The point at which a depression ends and recovery 
+begins is called the ‘trough’. Thus peak and trough are the turning points in a 
+business cycle.  
+ 
+     Fig. 11.1: Phases of a Business Cycle 
+11.3.1 Expansion Phase 
+In the expansion phase, there is an increase in various economic activities such as 
+production, employment, output, wages, profits, demand and supply of products, 
+and sales. An expansion phase can begin as a result of many forces, including 
+willingness of financial institutions to lend more and willingness of business 
+houses to borrow more. There is overall optimism in the economy. The 
+expansion phase continues till the economic environment is favourable. 
+During the expansion phase, the economy often gets overheated in the sense that 
+various constraints and frictions develop in the economy. Wage rate and prices 
+increase much faster than output, leading to hike in production cost decline in 
+profits. The central bank also pursues a restrictive monetary policy so that 
+inflation is in control.   
+Economic growth in the expansion phase eventually slows down and reaches its 
+peak. During the peak of a business cycle, economic variables such as 
+production, profit, sales and employment are high; but do not accelerate further. 
+There is a gradual decrease in the demand for various inputs due to the increase 
+
+
+--- Page 5 ---
+ 
+168 
+ 
+Theories of  
+Business Cycles 
+in input prices. The increase in input prices leads to increase in product prices, 
+while real income of people does not increase proportionately. It leads consumers 
+to restructure their monthly budget and the demand for products, particularly 
+luxuries and consumer durables, starts falling. The peak also occurs before 
+various economic indicators, such as retail sales and the number of employed 
+people, fall. When the decline in the demand for products becomes rapid and 
+steady, ‘recession phase’ begins. 
+11.3.2 Recession Phase 
+In the recession phase, all economic variables such as production, prices, saving 
+and investment start decreasing. Generally, in the beginning of the downturn, 
+producers are not aware of the decrease in demand for their products and they 
+continue to produce goods and services. In such a case, supply exceeds demand 
+and there is accumulation of inventories. 
+Over time, producers realize that there is an unwanted accumulation of 
+inventories, escalation in production cost, and decline in profits. Such a condition 
+is first experienced by few industries and slowly spreads to the whole economy. 
+During the recession phase, producers usually avoid new investments which lead 
+to the reduction in the demand for factors of production, and consequent decline 
+in input prices and unemployment. Firms reduce levels of production and the 
+number of people on their payrolls. A chain reaction starts, lower income, lower 
+demand, lower output, lower employment, lower income, and so on. The adverse 
+effects of recession extend beyond the purely economic realm and influence the 
+social fabric of society as well. Social unrest and crimes tend to rise during 
+recessions. 
+During the recession phase, actual output may be below the potential output, 
+thereby indicating a positive output gap. When recession continues further, 
+economic growth rate may be negative also. In such cases, there is not just a 
+decline the growth rate; absolute level of GDP declines. As sales decline, 
+business houses find it difficult to repay their debts. As business sentiments are 
+low enough to carry out new investment, demand for credit declines. Banks also 
+become cautious in their lending, as the chances of default on repayment 
+increases. 
+The economy however revives its growth rate over a period of time and optimism 
+build up in certain sectors of the economy. This leads to reversal of the recession 
+phase and the ‘recovery phase’ starts. Individuals and organizations start 
+developing a positive attitude toward the various economic factors, such as 
+investment, employment, and production. In the recovery phase there is an 
+increase in consumer spending and demand for consumer goods. This provides 
+incentives to firms to increase production, carry out new investments, etc. 
+Further, there could be some investment during the recession phase due to 
+replacement of obsolete machineries and maintenance of existing capital stock. 
+
+
+--- Page 6 ---
+ 
+169 
+ 
+Traditional Models of 
+Business Cycles 
+Price mechanism plays a very important role in the recovery phase of economy. 
+As pointed out earlier, during the recession phase decline in input prices is 
+greater than decline in product prices. This leads to a reduction in cost of 
+production and increase in profits. Apart from this, in recovery phase, some of 
+the depreciated capital goods are replaced by producers and some are maintained 
+by them. As a result, investment and employment by organizations increases. As 
+this process gains momentum an economy again enters into the phase of 
+expansion. Thus, a business cycle gets completed. 
+Check Your Progress 1 
+  1) What is meant by business cycle? 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ 2)  List the important features of a business cycle. 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ 3)  Describe the different phases of business cycle? 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+ ........................................................................................................................... 
+11.4  THEORIES OF BUSINESS CYCLES  
+An important question is what causes business cycles. Several theories of 
+business cycles have been propounded from time to time. Each of these theories 
+spells out different factors which cause business cycles.  
+11.4.1 Keynes’ Theory of Business Cycle 
+Keynes in his seminal work ‘General Theory of Employment, Interest and 
+Money’ made an important contribution to the analysis of the causes of business 
+cycles. According to Keynes, the changes in the level of aggregate effective 
+demand will bring about fluctuations in the level of income. Aggregate demand 
+comprises demand for consumption goods and demand for investment goods. 
+While, propensity to consume being more or less stable in the short run, 
+fluctuations in aggregate demand depend primarily upon fluctuations in 
+investment demand. Multiplier plays a significant role in causing magnified 
+
+
+--- Page 7 ---
+ 
+170 
+ 
+Theories of  
+Business Cycles 
+changes in income following a reduction or increase in investment. However, the 
+theory fails to explain the cumulative character of business cycle. For example, 
+suppose that investment rises by 100 rupees and that the magnitude of multiplier 
+is 4. From the theory of multiplier, we know that national income will rise by 400 
+and if multiplier is the only force at work that will be the end of the matter, with 
+the economy reaching a new stable equilibrium at a higher level of national 
+income. But in real life, this is not likely to be so, for a rise in income produced 
+by a given rise in investment will have further repercussions in the economy. 
+This reaction is described in the principle of accelerator. Samuelson combined 
+the accelerator principle with the multiplier and showed that the interaction 
+between the two can bring about cyclical fluctuations in economic activity.  
+11.4.2 Samuelson’s Model of Business Cycles: Interaction between 
+Multiplier and Accelerator 
+Samuelson in his seminal paper convincingly showed that an autonomous 
+increase in the level of investment raises income by a magnified amount 
+depending upon the value of the multiplier. This increase in income further 
+induces the increases in investment through acceleration effect. The increase in 
+income brings about increase in aggregate demand for goods and services. To 
+produce more goods we require more capital goods for which extra investment is 
+undertaken. Thus the relationship between investment and income is one of 
+mutual interaction; investment affects income which in turn affects investment 
+demand and in this process income and employment fluctuate in a cyclical 
+manner.  
+ 
+ 
+𝛥𝐼௔  = Increase in Autonomous investment 
+ 𝛥y = Increase in Income 
+ଵ
+ଵିெ௉஼
+ = Size of Multiplier when MPC = Marginal Propensity to Consume 
+𝛥𝐼ௗ = Increase in Induced Investment 
+v = Size of accelerator 
+Increase in 
+Autonomous 
+investment
+𝛥Ia
+Increase in 
+Income 
+through 
+multiplier
+𝛥y=
+𝛥Ia (1/1-MPC)
+Increase in 
+induced 
+investment 
+through 
+Accelerator
+𝛥Id = v 𝛥y
+Aggregate 
+demand and 
+income 
+increase by 
+and even 
+larger amount
+Fig. 10.2 shows how income and output will increase by even larger amount when 
+accelerator is combined with the Keynesian multiplier.  
+
+
+--- Page 8 ---
+ 
+171 
+ 
+Traditional Models of 
+Business Cycles The changes in any component of aggregate demand produce a multiplier effect 
+whose magnitude depends upon the marginal propensity to consume. When 
+consumption, income and output increase under the influence of multiplier effect, 
+they induce further changes in investment and the extent to this induced 
+investment in capital goods industries depends on the capital output ratio, that is, 
+the interaction between the multiplier and accelerator without any external 
+shocks can give rise to the business cycles whose patterns differs depending upon 
+the magnitudes of the marginal propensity to consume and capital-output ratio. 
+The model of interaction between multiplier and accelerator can be 
+mathematically represented as under: 
+𝑌௧ =  𝐶௧ + 𝐼௧          … (11.1) 
+𝐶௧ =  𝐶௔ +  𝑐 (𝑌௧ିଵ )         … (11.2) 
+𝐼௧ = 𝐼௔ + 𝑣 (𝑌௧ିଵ − 𝑌௧ିଶ  )         …(11.3) 
+Where 𝑌௧ , 𝐶௧ , 𝐼௧ stand for income, consumption and investment respectively for a 
+period t, 𝐶௔  stands for autonomous consumption, 𝐼௔  for autonomous investment, 
+c for marginal propensity to consume and v for capital-output ratio or accelerator.  
+From equation 11.1, we notice that that consumption in a period t is a function of 
+income of the previous period, 𝑌௧ିଵ . That is, one period lag has been assumed for 
+income to determine the consumption of a period. Whereas, the induced 
+investment in period tis a function of the change in income in the previous period 
+in equation 11.2. This means that there are two period gaps for changes in 
+income to determine induced investment. In the equation 11.3, induced 
+investment equals 𝑣 (𝑌௧ିଵ − 𝑌௧ିଶ  ). Now, substitute equations 2 and 3 in equation 
+1 which gives us the equation 11.4.  
+𝑌௧ =  𝐶௔ +  𝑐 (𝑌௧ିଵ ) + 𝐼௔ +  𝑣 (𝑌௧ିଵ − 𝑌௧ିଶ  )     …(11.4) 
+This equation reflects how changes in income are dependent on the values of 
+marginal propensity to consume ( c ) and capital-output ration (v) or accelerator.  
+In static equilibrium, the level of income can be written as: 
+Y = 𝐶௔  +cY + I         …(11.5) 
+This is due to the fact that in static equilibrium, given the data of the determining 
+factors, the equilibrium level of income remains unchanged, that is, in this case, 
+𝑌௧ = 𝑌௧ିଵ  = 𝑌௧ିଶ  = 𝑌௧ି௡  so that the periods lags have no influence at all and 
+accelerator is reduced to zero as 𝑌௧ିଵ  - 𝑌௧ିଶ =0. Thus, in a dynamic state when 
+autonomous investment changes, the equation 11.4  describes the path which a 
+disequilibrium system follows to reach either a final equilibrium state or moves 
+away from it. But whether the economy moves towards a new equilibrium or 
+
+
+--- Page 9 ---
+ 
+172 
+ 
+Theories of  
+Business Cycles deviates away from it depends on the values of marginal propensity to consume 
+and capital-output ratio. 
+By taking different combinations of the values of marginal propensity to 
+consume and capital-output ratio, Samuelson has described different paths which 
+the economy will follow. The various combinations of the values of marginal 
+propensity to consume and capital-output ratio are shown in Fig. 11.3.  
+ 
+ 
+ 
+The four paths or patterns of movements which the economic activity (as 
+measured by gross national product or income) can have depending upon various 
+combinations of the values of marginal propensity to consume and capital-output 
+ratio are depicted in Fig. 11.4 a to 11.4e. When the combinations of the value of 
+marginal propensity to consume and capital-output ratio lie within the region 
+marked as A, with a change in autonomous investment, the gross national 
+product or income moves upward or downward at a decreasing rate and finally 
+reaches a new equilibrium as is shown Fig. 11.4a.  
+ 
+ 
+ 
+Fig. 11.3: Combinations of c and v 
+Y 
+X 
+v 0
+1
+A
+B C
+D
+E
+Fig. 10.3 shows the four paths which the economic activity can have depending 
+upon combinations of the values of marginal propensity to consume (c) and 
+capital-output ratio (v). 
+
+
+--- Page 10 ---
+ 
+173 
+ 
+Traditional Models of 
+Business Cycles  
+ 
+If the values of c and v are such that they lie within the region B, the change in 
+autonomous investment or autonomous consumption will generate fluctuations in 
+income which follow the pattern of a series of damped cycles whose amplitudes 
+go on declining until the cycles disappear as is shown in Fig. 11.4a.  
+The region C in Fig. 11.3 represents the combinations of c and v which are 
+relatively high as compared to the region B and determine such values of 
+multiplier and accelerator that bring about explosive cycles, that is, the 
+fluctuations of income with successively greater and greater amplitude. The 
+situation is depicted in Fig. 11.4c.  
+ 
+ 
+            Fig. 11.4a: Income and Output 
+ Income 
+(Output)        
+Y 
+New Equilibrium 
+Time 
+0 
+Initial Equilibrium 
+X 

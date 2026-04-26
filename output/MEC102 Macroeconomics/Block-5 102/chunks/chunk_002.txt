@@ -1,0 +1,542 @@
+--- Page 11 ---
+ 
+209 
+ 
+Nominal and Real 
+Rigidities 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+13.6  NEW-KEYNESIAN THEORIES OF WAGE 
+ RIGIDITY  
+Two phenomena about the labour market need to be explained: the persistence of 
+unemployment and the moderately pro-cyclical behaviour of real wages. When 
+aggregate demand increases, labour markets respond typically by a larger 
+increase in employment and a relatively smaller increase in real wages, i.e., 
+quantities respond more than prices. But real wages do respond cyclically, 
+however moderately.   
+This point helps us to understand the difference between Keynesian and New-
+Keynesian theories of unemployment. Though both kinds of theories help explain 
+persistent unemployment, it is only some of the new-Keynesian theories that 
+explain why wages behave pro-cyclically, though only moderately so. The 
+Keynesian theory   implies that wages behave counter-cyclically. This follows 
+from the assumption of a constant nominal wage. Given the nominal wage rate 
+W, the real wage W/P falls during an expansion as the price level P gradually 
+increases. It is this fall in the real wage that induces firms to employ more labour 
+and produce higher output as aggregate demand increases. During contraction, on 
+the other hand, real wages rise as prices fall, nominal wages remaining 
+unchanged. The Keynesian model thus implies a counter-cyclical behaviour of 
+real wages. This is not in accordance with the empirically observed behaviour of 
+real wages.  In real world we see that real wage increases during periods of boom 
+and decreases during recession. 
+The new-Keynesian models imply an advance over the Keynesian model to the 
+extent that they imply a pro-cyclical behaviour for real wages, in accordance with 
+empirical observations. 
+13.7 EFFICIENCY-WAGE THEORIES  
+Efficiency wage theories are non-Walrasian theories in as much as they postulate 
+payment of wages that are higher than market-clearing wages. The persistence of 
+unemployment follows as a direct consequence of higher wages. The efficiency 
+wage theories rationalise the existence of higher than market clearing real wages. 
+Broadly speaking, firms pay higher than market-clearing real wages because the 
+benefits accruing from higher wages are more than the cost of paying higher 
+wages. The higher benefits can accrue for the following reasons: 
+ 
+
+
+--- Page 12 ---
+ 
+210 
+ 
+Labour Markets (i) At a very basic level, higher wages enable higher consumption for workers, 
+including higher nutrition, and this is expected to increase the work capacity 
+of the hired workers. The point is more valid at lower levels of standards of 
+living than are prevalent in the developed economies. 
+(ii) Higher wages may get into the pool of workers with a higher reservation 
+wage, i.e., the minimum wage that should be offered to a worker to induce 
+him to supply his labour on the market. Workers with a higher reservation 
+wage are expected to have superior abilities along directions that cannot be 
+directly observed and duly compensated for on the market. These higher 
+abilities in the pool of employed workers are expected to benefit the firm. 
+(iii) A higher than market wage can build loyalty and a sense of belonging among 
+workers and induce higher effort. This point is better understood in the 
+context of  the opposite situation of a lower wage, which is expected to have 
+effects like generating anger and a desire for revenge, thereby leading even to 
+a sabotage by the workers. 
+(iv) At a more sophisticated level, a higher wage generates incentives for workers 
+to avoid work-shirking behaviour in situations where the firms cannot 
+monitor the work effort perfectly. Workers do not want to be caught shirking 
+in such valuable jobs, for they could be fired if caught shirking and may be 
+able to replace the job, if at all, by one which pays only a market-clearing and 
+hence a lower wage.  
+Some of the above ideas have been developed into more formal models in the 
+literature. In the next Section you will go through one such model that analyses 
+the determination of efficiency wages. 
+13.8 EFFICIENCY WAGE MODEL: AN EXAMPLE 
+As you know, we construct a model by making many simplifying assumptions. 
+We specify the model, indicate its solution, and bring out all the implications of 
+the solution.  In this section we present an efficiency wage model in line with of 
+Romer (2001).  
+13.8.1 Specification of the Model 
+We consider a model with M firms and analyse a representative firm. We specify 
+a simple Neo-Classical production function with a single input, labour. However 
+labour enters the production function, not in physical units, but in efficiency 
+units. The production function for a representative firm is hence of the form: 
+    Y = F (e.L) 
+Y is the total output produced. L is the number of physical units of labour hired 
+by the firm. e.L is the efficiency units of labour. You can look upon e.L as the 
+total effort undertaken by the L units  of hired labour.  
+Higher the index of effort, e, exerted by individual units of labour, higher the 
+total labour input in efficiency units. 
+
+
+--- Page 13 ---
+ 
+211 
+ 
+Nominal and Real 
+Rigidities 
+By saying that the production function is of the Neo-Classical kind, we mean that 
+the total output increases as the efficiency units of labour used increase, but at a 
+decreasing rate. In other words, marginal product of the efficiency units of labour 
+is positive but decreases as the total labour effort expended in the production 
+process increases.  In symbols it amounts to the standard assumptions you have 
+seen in Unit 3, that is, F’>O;F”<O 
+The model further specifies that the individual effort, e, depends on the wage rate 
+– higher the wage rate, w, higher is the effort exerted by individual physical unit 
+of labour. The effort function can be specified as: 
+    e = e (w) 
+It is also assumed that there are N workers in the economy, each supply one unit 
+of labour inelastically: an increase in wage rate leads, not to an increase in 
+physical labour supplied by an individual worker, but to an increase in the effort 
+expended. 
+13.8.2 Solution of the Model 
+The model is solved by making the usual behaviouristic assumption about the 
+firm: that the firm hires labour so as to maximise its profits. The profits of the 
+firm are defined as: 
+     = Y – w.L 
+w is the real wage paid by the firm and, as you have seen above, Y is the total 
+output of the firm. L is of course the number of units of physical labour hired by 
+the firm.  
+After substituting for Y in the above profit function, the problem reduces to the 
+following two-variable maximisation problem in calculus, viz., determine L and 
+w so as to maximise z = F (e (w).L) – w.L . Following the usual calculus 
+techniques to solve a maximisation problem, this problem is solved by taking the 
+partial derivatives of z  respectively with respect to w and L and equating each of 
+these to zero. This gives us two equations in two unknowns, w and L, which can 
+be solved simultaneously to obtain the equilibrium, profit maximising, values of 
+w and L. 
+Instead of obtaining the solution explicitly, we can characterise it by examining 
+the first of the above two equations obtained by equating the partial derivative of 
+z with respect to L to zero. The equation reduces to  
+    w.e ’(w)/e (w) = 1 
+e’(w) is the derivative of the effort function with respect to w, giving the increase 
+in effort per unit increase in the real wage, for infinitely small increases in the 
+wage rate.  You will be able to recognise the L.H.S. expression of the above 
+equation as the elasticity of the effort function e(w) with respect to the real wage 
+rate w. What the equation states is that, at the optimum, the elasticity of effort 
+with respect to wage is unity, i.e., the real wage rate is so determined that, at the 
+
+
+--- Page 14 ---
+ 
+212 
+ 
+Labour Markets optimum, a one per cent increase in the wage rate leads to one percent increase in 
+effort. This means that, at the optimum, the ratio w/e(w) remains constant, for 
+infinitely small changes in w. This suggests that the ratio w/e(w) is at its 
+minimum at the optimum.  
+What do you think is the economic interpretation of this ratio being a minimum 
+at the optimum real wage? When a firm buys one physical unit of labour at the 
+cost given by w, it is effectively buying e units of labour, since one physical unit 
+of labour expends e units of effort. That is why we said above that L physical 
+units of labour effectively provide e.L efficiency units of labour. The ratio w/e(w) 
+hence gives the per unit cost of effective units of labour. The firm sets the real 
+wage so as to minimise this per unit cost of effective units of labour that it 
+obtains by buying physical labour on the market. This means that the firm sets 
+the real wage rate so as to maximise the effective labour obtained for a given 
+outlay, assuming that the effort expended by labour is an increasing function of 
+the real wage. It is presumed here that, as the real wage increases, the effort 
+increases, first at an increasing rate and subsequently at a decreasing rate. The 
+real wage is set such that the rate of increase of effort with respect to the wage is 
+just equal to the wage. For wage rates below the optimum wage, increasing the 
+wage leads to a larger increase in effort; whereas for wage rates above the 
+optimum, increasing the wage any further leads to a lower increase in effort. At 
+the optimum, the marginal product of effective labour equals its cost. 
+13.8.3 Implications of the Model Solution  
+Let w* and L* be the optimum levels of the real wage and physical units of 
+labour hired obtained as a solution to the model for the representative firm. Since 
+there are M such firms, the total demand for labour is given by M.L*. We bring 
+out some of the implications of this solution. 
+(i) The solution implies that workers could remain unemployed in the model 
+when the wage rate is set at w*. We have assumed above in the specification 
+of the model that the total number of workers in the model is N. 
+Unemployment can exist if N > M.L*, where M.L* is the total demand for 
+labour when the real wage rate is the efficiency wage  w*. On the other hand, 
+if M.L* turns out to be larger than N, then the wage is bid up above the 
+efficiency wage up to the point that demand N for and supply of labour are in 
+balance and there is no unemployment 
+(ii) The model implies that the increase in aggregate demand does not lead to an 
+increase in real wage. This is because the efficiency wage is determined 
+entirely by the properties of the effort function e = e(w) and there is no reason 
+for w* to change when aggregate demand increases. The model hence comes 
+close to rationalizing the empirically observed fact that in cyclical upswings, 
+it is employment, and not real wage, that increases – the real wage is only 
+moderately pro-cyclical. 
+
+
+--- Page 15 ---
+ 
+213 
+ 
+Nominal and Real 
+Rigidities 
+(iii) Rigidity of prices is also implied in the model. The fact that real wage and, 
+hence, effort do not change during cyclical upswings means that the labour 
+costs of firms do not change and hence price-setting firms do not have 
+incentives to adjust prices. You must connect this up with the conclusions 
+about price rigidity that were reached in the new Keynesian models. 
+We thus see that the efficiency wage model not only explains the possibility 
+of the existence of persistent unemployment, but also suggests why the 
+burden of adjustment falls on employment rather than on the real wage during 
+cyclical changes in business activity. 
+13.8.4 Possible Extensions of the Model 
+The efficiency wage model that we considered above, however, has an important 
+drawback: it is unable to distinguish between short-run cyclical effects and long 
+run secular effects. In the real world, though the short run effect is in terms of 
+increased employment and hence decreased unemployment, the long run is 
+characterised, not by a trend decrease in unemployment, but by a trend increase 
+in the real wage. The model is not able to make this transition from the short to 
+the long run. 
+The efficiency wage model can however be extended to deal with the above 
+problem. We only indicate the directions in which such an extension can take 
+place and do not develop the extended model in details. The extension is 
+basically given effect to through modifications in the effort function. The effort 
+function in the earlier model was e = e (w). It is now extended as: 
+    e = e (w, w’, u) 
+The real wage paid in the representative firm is w, whereas e is the effort. The 
+real wage available to the workers in alternative firms is denoted by w’ and the 
+unemployment rate in the economy is u. The inclusion of w’ and u in addition to 
+w as arguments in the effort function can be rationalised by examining some of 
+the reasons we set out at the beginning of Section 13.3 for the payment of higher 
+(i.e., efficiency) wages. If higher wages are paid to induce workers not to shirk 
+and to exert greater effort in situations where the effort cannot be continuously 
+monitored, then the higher wages will lead to the desired effect of workers not 
+shirking only if the wage rate obtained in other firms is lower and the 
+unemployment rate is high. If the wage rate obtained in other firms is as high and 
+if the unemployment rate in the economy is low then the worker will not mind 
+getting caught shirking because he can, with a high probability, obtain an 
+alternative job which is as paying as his current one. A higher (i.e., efficiency) 
+wage will not, in such a situation, induce him to exert greater effort. Effort e 
+depends positively on w, given w’ and u. Effort e, however, depends negatively 
+on w’ and positively on u. We can similarly work out the rationale behind the 
+extended effort function if reasons for paying a higher (i.e., efficiency) wage 
+have to do with tapping higher unobserved abilities or with engendering loyalty 
+or avoiding sabotage by disgruntled workers. 
+
+
+--- Page 16 ---
+ 
+214 
+ 
+Labour Markets Such an extension of the effort function again leads to a similar solution for the 
+efficiency wage as in the above model with a simpler effort function. Here too 
+the elasticity of effort with respect to the real wage is unity at the optimum real 
+wage. The wage paid by any of the firms has however to be necessarily equal to 
+that paid by the representative firm, i.e., w = w’ in the solution. Unemployment 
+can also emerge in this model if, at this common efficiency wage, the total 
+demand for physical units of labour by the firms falls short of the total supply of 
+physical units of labour.  
+Such an extended model can account for both, a larger effect of increased 
+aggregate demand on employment as compared to real wage in the short run and 
+an absence in trend unemployment in the long run. This is shown with the help of 
+an example in Romer (2001). Interested learners are advised to follow the 
+original. 
+Check Your Progress 3 
+1. Why do firms pay higher than market-clearing wages? List out some of the 
+reasons. 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+............................................................................................................................. 
+2. How would you interpret the first-order condition for optimum, viz., that the 
+elasticity of effort with respect to the wage is unity, in the efficiency-wage 
+model that you studied above? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+............................................................................................................................. 
+3. Show how unemployment can emerge in an efficiency-wage model. 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+............................................................................................................................. 
+
+
+--- Page 17 ---
+ 
+215 
+ 
+Nominal and Real 
+Rigidities 
+4. Why does an increase in demand for labour have a larger effect on 
+employment than on the real wage in the efficiency wage model constructed 
+above? 
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+5. Bring out an important drawback of the efficiency wage model that uses a 
+simple effort function. 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+13.9   CONJTRACTING AND INSIDER-OUTSIDER 
+ MODELS  
+The models in Section 13.7 departed from the Walrasian assumption of a market-
+clearing wage on efficiency considerations – it was postulated that a higher than 
+market-clearing wage leads to increased efficiency of workers for one reason or 
+another. In this section we consider briefly some models wherein the wage differs 
+from the Walrasian wage because of long-term relations between workers and 
+firms. We consider here, very briefly, two kinds of models – contracting models 
+and insider-outsider models.  
+The rationale underlying the contracting models is that firms do not hire workers 
+afresh each period. Workers continue to work for a firm for a large number of 
+years because many jobs involve firm-specific skills that are not valued as much 
+outside the firm and also because firms would find it costly to train new workers 
+in these skills afresh each period.  Workers are content to stay in their current 
+jobs so long as their expected earnings over a much longer period than just, say, 
+the current year are more than the opportunities that the workers would have 
+outside the firm, even if in the current year their earnings are low. A worker in 
+the United States, for example, lasts in a job, on an average, for ten years. In such 
+a situation wages do not have to adjust every period to clear the labour market 
+and the labour market becomes non-Walrasian. 
+The relationships between workers and firms are determined in such cases by 
+long-term contracts, arrived at through collective bargaining between worker 
+unions and firms. We can consider two kinds of contracts.  
+
+
+--- Page 18 ---
+ 
+216 
+ 
+Labour Markets The first kind is a fixed-wage contract under which the wage is pre-determined 
+and the firm is free to choose the level of employment that it provides depending 
+on the state of the economy that emerges in each period.  Workers agree to 
+supply all the labour demanded by the firm. Wage rigidity and unemployment 
+emerge immediately in such a model. A fall in labour demand does not affect the 
+real wage because of the contract. The labour supply too cannot fall. The only 
+thing that can happen when labour demand falls is that firms reduce employment 
+at the fixed real wage.  
+The problem with this type of fixed-wage, variable employment contract is, 
+however, that it is not an efficient contract because, under it, the marginal 
+product of labour is generally not equal to the marginal disutility of work, and so 
+it is possible to make both parties to the contract better off. You should recollect 
+from your microeconomics units that contracts are said to be efficient if it is not 
+possible to make one of the parties better off without making the other one worse 
+off (pare to efficiency).  This takes us to the idea of implicit contracts, which are 
+efficient contracts unlike the simple fixed-wage contracts.  
+Implicit contracts are contracts between the firm and workers wherein the firm 
+specifies the real wage and the employment that it will provide for each possible 
+state of the economy. The contracts are so called because actual contracts in the 
+real world do not explicitly specify employment and wage as a function of the 
+state of the economy. Not only are these contracts efficient, but also imply real 
+wage rigidity and the consequences of real wage rigidity that we have examined 
+in other contexts.  
+The insider-outsider models are a development on the contracting models, 
+wherein three categories of agents are recognised, viz., the firms, the workers that 
+are employed (insiders), and the unemployed workers (outsiders). It is in the 
+interest of the unemployed workers that the firms and the insider workers sign 
+contracts providing for lower real wages and higher employment. But the 
+unemployed, being outsiders, are not on the bargaining table. The real wage 
+rigidity, that is implied, provides a non-Walrasian characteristic to the labour 
+market and explains the existence of unemployment. Rich models have been built 
+up in the literature analysing the interactions between the three categories of 
+agents to explain some of the empirically observed characteristics of the labour 
+market.  
+Check Your Progress 4 
+1. Why are fixed-wage contracts inefficient? 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+
+
+--- Page 19 ---
+ 
+217 
+ 
+Nominal and Real 
+Rigidities 
+ 
+2. What is the difference between wage contracts and implicit contracts? 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+3. How do insider-outsider models explain the existence of unemployment? 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+............................................................................................................................. 
+13.10  LET US SUM UP 
+The distinction between the Classical and the Keynesian school revolves around 
+their assumption about flexibility/ rigidity of wage and prices. The Classical 
+economists assumed prices to be flexible and thereby postulated full employment 
+of resources, whereas the Keynesians assumed wage/ price rigidity and thereby 
+rationalised the existence of persistent unemployment. This distinction between 
+the Classicals and the Keynesians continues between the New Classicals and the 
+New Keynesians. 
+The New Keynesian theory largely rationalises existence of unemployment 
+through the existence of nominal and real rigidities. Nominal rigidities refer to 
+the inflexibility of nominal wages and prices. Real rigidities refer to 
+imperfections in the goods, credit and labour markets which lead to the relative 
+prices and real wages being different from what would be predicted by a 
+competitive Walrasian model. 
+Mankiw builds up a model to show why nominal rigidity exists and why it could 
+lead to large macroeconomic consequences like aggregate unemployment. The 
+concept used in showing this is that of menu costs – the costs incurred in 
+changing prices in a situation where the firm has a price-setting power. Such 
+costs are large in relation to incremental profits obtained by changing the price 
+especially when the elasticity of demand is low and the deviation of the actual 
+price from the profit-maximising optimal price is not too high. The nominal price 
+rigidity that follows leads to unemployment. 
+Macroeconomic consequences like unemployment also follow from 
+imperfections in the goods, credit and labour markets. Such imperfections are 
+referred to as real rigidities. In the labour market they occur because, for 
+
+
+--- Page 20 ---
+ 
+218 
+ 
+Labour Markets example, the real wage paid is higher than the market clearing wage for reasons 
+that will be dealt with in details in Unit 18. In the goods market, the real rigidity 
+follows from, e.g., countercyclical mark-ups used by price-setting firms, whereas 
+in the credit market the imperfections occur basically because of information 
+asymmetries. 
+The efficiency wage models postulate and rationalise a higher than market-
+clearing wage on the ground that the benefits accruing from higher wages are 
+more than the costs of maintaining wages at a higher level. The benefits come 
+from increased efficiency of workers. The increased efficiency could be due to 
+increased physical efficiency of workers obtaining higher wages, or due to the 
+engendering of a sense of loyalty and belonging among workers, or even due to 
+avoidance of work shirking by workers who do not want to lose high paying jobs 
+if caught shirking. The efficiency wage model not only rationalises the existence 
+of persistent unemployment, but also produces a larger effect on employment in 
+the short run. The shortcoming of an efficiency wage model using a simple 
+version of the effort function is that it implies that there is no increasing trend in 
+the real wage even in the long run. This is contrary to empirically observed facts. 
+The shortcoming can be easily remedied by using a more complex effort 
+function. 
+The contracting and insider-outsider models rationalise wage rigidity with 
+reference to the fact that wages are determined by long term contracts between 
+workers and firms, and are not necessarily set at the market-clearing level in each 
+period. This immediately rationalises wage rigidity and unemployment. The 
+insider-outsider models provide the insight that though it is in the interest of the 
+unemployed workers (outsiders) that wages are contracted to be low so that 
+employment is higher, the unemployed in a non-competitive economy have no 
+power in the matter, as wages are determined through bargaining between the 
+employed workers (insiders interested in higher wages) and firms. 
+13.11  ANSWERS/ HINTS TO CHECK YOUR   
+   PROGRESS EXERCISES  
+Check Your Progress 1 
+1. The distinction between flexibility and rigidity of prices is important because 
+the assumption of flexibility leads to the classical conclusion of full 
+employment, whereas the assumption of rigidity leads to the Keynesian 
+conclusion of existence of persistent unemployment. The two assumptions 
+give us two different ways of looking at macroeconomic phenomenon. 
+2. The New Classicals assume price flexibility and hence perfect competition, 
+whereas the New Keynesians assume price-setting power for firms in the 
+context of imperfect competition. There is no distinction, though in the 
+analytical tools of the two schools: both use optimisation models peopled by 
+rational individuals. 
+
+
+--- Page 21 ---
+ 
+219 
+ 
+Nominal and Real 
+Rigidities 
+3. Nominal rigidities exist when prices in money terms do not change as much 
+as they would under competitive conditions. Real rigidities, on the other 
+hand, refer to certain imperfections in the goods, labour and credit markets 
+which prevent relative prices and real wages from changing as much as they 
+would under Walrasian conditions.  
+Check Your Progress 2 
+1. Menu costs are costs incurred by price-setting firms in changing the price that 
+they charge. Such costs can be quite high in absolute terms if, for example, 
+price changes require costly adjustments to automatic dispensing machines. 
+2. Even if menu costs are not high in absolute terms they may turn out to be 
+higher in relation to the private benefit that would be obtained in terms of 
+increased profits by changing the price.  
+3. The distinction between private and social benefits becomes important in the 
+context of the Mankiw model because, under certain conditions defined by, 
+inter alia, the elasticity of demand, not much of private benefits are obtained 
+by a price-setting firm in terms of higher profits by changing the price. If 
+menu costs are higher than these private benefits, the firms do not change the 
+price. The price rigidity that this entails leads to unemployment. If only the 
+price had been changed the social benefit obtained by way of reduction in 
+unemployment would perhaps be higher than the menu costs. 
+Check Your Progress 3 
+1. Firms pay higher than market-clearing wages because the benefits from 
+higher wages could outweigh their costs. The benefits come from increasing 
+the work-capacity of the workers, from bringing in workers with higher 
+reservation wage who are expected to have higher abilities along some 
+unobservable dimensions, from engendering a sense of loyalty among 
+workers, and, above all, from generating incentives for workers to avoid 
+shirking in situations where the work effort cannot be perfectly monitored. 
+2. The condition is interpreted by understanding that when the elasticity is equal 
+to one, the firm minimises the per unit cost of buying effective labour, i.e., 
+the firm sets the real wage so as to get the maximum per unit of effective 
+labour at a given cost. The firm can do such a thing because we assume that 
+the effort expended by labour is an increasing function of the real wage. 
+3. In answering this question, you will have to fully specify an efficiency wage 
+model and characterise its solution. Unemployment can arise in such a model 
+if, at the efficiency wage (which is expected to be higher than the market 
+clearing wage) the total demand for physical units of labour by the firms is 
+less than the total available supply of physical units of labour. 
+4. Increase in labour demand has no effect on the real wage in the model 
+because the real wage is determined in the model only by the characteristics 
+
+
+--- Page 22 ---
+ 
+220 
+ 
+Labour Markets of the effort function and not by labour demand conditions. These latter 
+conditions, hence, only affect employment. 
+5. Simple effort function refers to the function wherein effort depends only on 
+the real wage. The efficiency wage model that uses a simple effort function is 
+not able to distinguish between the short run and the long run effects of 
+increase in demand for labour. We need a model that has a relatively larger 
+effect on employment in the short run and on the real wage in the long run, 
+which is what accords with empirical reality. The model that we have 
+developed in details has uniformly larger effect on employment both in the 
+short and the long run. 
+Check Your Progress 4 
+1. Fixed-wage contracts are inefficient because, under these contracts, the 
+marginal product of labour is not equal to the marginal disutility of workers, 
+so that it is possible to make both parties to the contract better off.  
+2. An important difference between a wage contract and an implicit contract is 
+that the former is generally inefficient, whereas the latter is efficient. Both 
+kinds of contracts, however, imply real wage rigidity and the usual 
+consequences of such real wage rigidity. 
+3. Insider-outsider models explain the existence of unemployment by reference 
+to the fact that in imperfectly competitive economies, the unemployed 
+workers have no power to influence the wage bargains between the employed 
+workers and the firms. Real wages are hence not low enough for employment 
+to increase.  
+ 
+ 

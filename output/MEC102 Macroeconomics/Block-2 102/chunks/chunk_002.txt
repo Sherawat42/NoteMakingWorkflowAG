@@ -1,0 +1,449 @@
+--- Page 10 ---
+ 
+88 
+ 
+Expectations, Inflation 
+and Unemployment 
+ 
+3. Explain the following concepts: 
+a) Adaptive Expectations 
+b) Rational Expectations 
+c) Non-Accelerating Inflation Rate of Unemployment (NAIRU) 
+d) Long-Run Phillips Curve 
+ ………………………………………………………………………….……
+ …………………………………………………………………………….…
+ …………………………………………………………………………….…
+ ………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………..... 
+6.6 LET US SUM UP 
+Unemployment results in loss of not only potential output at the macro level but 
+also in income at the individual level. Many a time unemployment culminates 
+into a crisis situation when there is widespread unemployment in the economy. 
+The social sigma and psychological trauma associated with unemployment often 
+compels policy makers to cut down on the rate of unemployment.  
+The classical economists assumed flexibility in real wage and prices which 
+ensured full employment in the economy all the time. Keynesian economists, 
+however, contest such an assumption and speak about rigidities in wage rate and 
+prices. In case of sticky prices there is a possibility of unemployment as per the 
+Keynesian model.  
+Phillips curve describes the inverse relationship between inflation and 
+unemployment. It shows the possibility that unemployment can be reduced at the 
+cost of higher inflation.  
+During the 1970s most economies in the world passed through a phase of 
+stagflation. The trade-off between inflation and unemployment was proved to be 
+false. In order to explain such a situation we bring in expectations into our 
+analysis. There are two models of expectations: adaptive and rational.  
+According to adaptive expectations, the Phillips curve is stable in the short-run 
+but in the long run it shifts. The long run Phillips curve is vertical. Thus there 
+could be some trade-off between inflation and unemployment in the short-run, 
+but in the long-run there is no trade-off. We explained the process through which 
+the shift in the Phillips curve takes place. According to rational expectation, there 
+is no trade-off between inflation and unemployment. Any policy of the 
+government to reduce unemployment becomes ineffective, as people can forecast 
+the expected changes correctly.    
+ 
+
+
+--- Page 11 ---
+ 
+   89 
+ 
+Inflation and 
+Unemployment 6.7 ANSWER/HINTS TO CHECK YOUR PROGRESS 
+EXERCISES 
+Check Your Progress 1 
+1. Your answer should include frictional, structural and cyclical 
+unemployment. Go through Section 6.2 for details.  
+2. Go through Section 6.3 and refer to Fig. 6.1.  
+3. These concepts are discussed in Sections 6.2 and 6.3.  
+Check Your Progress 2 
+1. Refer to the text in Section 6.5. You should explain Fig. 6.2.  
+2. These concepts are defined in Sections 6.5.  
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 12 ---
+UNIT 7 RATIONAL EXPECTATIONS  
+Structure 
+7.0 Objectives 
+7.1 Introduction 
+7.2 AS-AD Model and the Non-neutrality of Money  
+7.3 The Lucas Critique  
+7.4 Perfect Foresight and the Neutrality of Money 
+7.5 Rational Expectations Hypothesis (REH) 
+5.6 Lucas Supply Function 
+5.7 Policy Ineffectiveness Theorem 
+7.8 Let Us Sum Up 
+7.9 Answer/Hints to Check Your Progress Exercises 
+7.0 OBJECTIVES 
+After going through this Unit, you should be in a position to  
+ explain the concept of rational expectations and differentiate it from
+adaptive expectations;
+ explain the relationship between the AS-AD model and the non-neutrality
+of money;
+ discuss the Lucas critique;
+ bring out the relationship between perfect foresight and neutrality of
+money;
+ describe the rational expectations hypothesis;
+ discuss the Lucas supply function; and
+ explain the policy ineffectiveness theorem.
+7.1  INTRODUCTION 
+Several important decisions by economic agents are based on expected values of 
+economic variables. Let us take, for example, the case of Friedman’s permanent 
+income hypothesis. According to Friedman consumption expenditure depends not 
+on current income, but on permanent income. Thus a reduction in income tax will 
+Dr
+. Manjula Singh, St. Stephens College, University of Delhi 
+
+
+--- Page 13 ---
+ 
+ 
+ 
+106 
+Expectations and 
+Macroeconomics 
+lead to an increase in consumption expenditure only if the reduction in tax rate is 
+expected to be permanent; not temporary. Similarly, how much labour a worker 
+will supply to the market is based on his/her expectations of future real wages. 
+While nominal wages are negotiated before the work is undertaken, they are 
+received afterwards. Thus, real wages (= nominal wages/ aggregate price level) 
+received by labour is known only in the future, when the worker goes to spend it 
+at the prevailing price level of goods and services. An implication of the above is 
+that how the future expected price level is determined is critical in decision-
+making. Expected price level determines expected real wages; it further 
+determines whether a worker will continue to supply labour effort or withdraw it. 
+Therefore, it is important to know the way expectations are formed.  
+Recall from Unit 1 that the classical economists assumed money to be neutral. Its 
+implication is that a change in money supply affects nominal variables (e.g., price 
+level) only while real variables (e.g., output, employment) remain unaffected. 
+Most neo-classical economists, using the AS-AD approach, however realize that 
+money does have an impact on real variables such as real wages, unemployment 
+and output in the short run. This short-run impact of money arises due to the fact 
+that there is a lag between expected value of real wages and actual value of real 
+wages.  
+The initial impact of an increase in money supply is to increase the demand for 
+goods and prices. Workers offer more labour, being ‘fooled’ into thinking that 
+their real wages have increased, while actually real wages have not. In these 
+‘fooling models’, firms do not have any illusion – the firms realize that real 
+wages have decreased, and therefore the firms hire more workers.  
+In this Unit we will discuss the non-neutrality of money in the short run using the 
+AS-AD approach. Then, we will move on to the Lucas Critique which explains 
+why agents are unlikely to form expectations that will persistently underestimate 
+price rises. We will illustrate the results of the AS-AD model and contrast it with 
+the case of ‘perfect foresight’, where neutrality of money would hold even in the 
+short run.  
+We will discuss how expectations are formed using ‘rational expectations’. As 
+the name suggests, rational expectations refers to the value that a variable will 
+take in the future. Rational expectations are formed on the assumption of 
+rationality, i.e., based on incorporating all information about the variable and 
+what its factors, i.e., knowing the true model explaining the variable. Then the 
+variable is totally predictable except for random factors that cannot ever be 
+anticipated. Uncertainty about the impact of random events or lack of global 
+information can lead to less than ‘perfect foresight’, i.e., the variable not being 
+totally predictable, or the expected value differing from the actual value in the 
+future.  
+Rational expectations models come under the purview of new-classical 
+economics. We know that in classical economics, there is perfect information, 
+perfect flexibility in wages and prices and instantaneous market-clearing. These 
+
+
+--- Page 14 ---
+ 
+ 
+ 
+107 
+Rational Expectations  features of classical economics ensure full employment in the labour market and 
+corresponding full employment output. The new-classical economists allow for 
+imperfect information (agents may have local information, not global 
+information). Thus, workers and firms may not know the aggregate price level, 
+although they would know their own wages and price levels. Unlike the AS-AD 
+model, rational expectations models are not based on ‘asymmetric information’ 
+across agents – workers and firms have access to the same information and are 
+equally ‘fooled’ by unanticipated events. We will talk about this in details while 
+discussing the Lucas Supply Curve. Finally, we will discuss about the ‘policy 
+ineffectiveness proposition’. This proposition uses the Lucas Supply Curve and 
+the assumption of rational expectations to show that anticipated monetary policy 
+is neutral with no effect on output and that only the unanticipated part of 
+monetary policy impacts output. Thus it makes ineffective the use of any 
+systematic monetary policy.  
+7.2 THE AS-AD MODEL AND NEUTRALITY OF 
+MONEY 
+The aggregate demand (AD) function shows combinations of the aggregate price 
+level (P) and real income (Y) which show equilibrium in the goods and money 
+markets. It is a downward sloping curve reflecting that lower price levels are 
+associated with higher real money balances and the resulting lower interest rates 
+are associated with higher investment expenditure and therefore higher aggregate 
+demand. 
+The AD function: Y = f(G, T, M/P) is an increasing function of G, T and M/P, 
+where G= Government expenditure, T= Taxes; M/P = nominal money 
+supply/price level.  
+The aggregate supply (AS) equation shows labour market equilibrium – higher 
+levels of output are associated with higher employment, higher wages due to the 
+tighter labour market and, with cost plus pricing, imply higher prices.  
+The AS function comes from  
+a)  the wage function: W= P ef(u,z)  
+where W= wage rate; Pe = expected price, u = unemployment rate , and z is a 
+variable capturing all other factors affecting W  
+b)  the price setting relationship: P = (1 + m)W, where m = mark-up over cost 
+(lower for a more competitive economy). 
+Hence, the AS function is P = Pe (1 + m) f(u, z)  
+ Or,  P = Pe (1 + m) f(1 – Y/L, z)  
+where u is replaced by (1 – Y)/L (assuming a simple production function Y = N = 
+number of employed out of the total labour force = L). 
+
+
+--- Page 15 ---
+ 
+ 
+ 
+108 
+Expectations and 
+Macroeconomics 
+When P = P e, the real wage is what firms and workers have to jointly determine 
+in the labour market (given u and z), and the resulting rate of unemployment is 
+the ‘natural rate of unemployment’ 
+Now P = Pe coincide in the long run as any gap between price and expected price 
+decreases with workers reducing the expectation error over time. So the natural 
+rate of unemployment prevails in the long run.  
+However, in the short run, any divergence between actual P and expected P 
+implies that workers’ expected real wage level is not met and the AS curve will 
+shift accordingly, leading to output levels changing from the ‘natural level of 
+output’.  
+In Fig. 7.1, we start with aggregate demand curve (AD 0) and aggregate supply 
+curve (AS 0). Output is at the natural level of output Y N and price P 0 coincides 
+with the expected price P0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 7.1: The AS-AD Model without Rational Expectations 
+Let us assume that there is an increase in money supply. This will shift the AD 
+curve to the right (from AD 0 to AD1) and result in higher output Y 1 and a higher 
+aggregate price level P 1 (intersection of the AS and AD curves). Thus, in the 
+short run (where P e is fixed), the increase in the money supply has caused output 
+to change and we see that money is not neutral. This short run impact of money 
+comes from the lack of anticipation by workers on the future impact of the 
+increased money supply on prices and real wages, i.e., due to the miss-match of P 
+and Pe. The initial impact of the increase in money supply is to increase demand 
+for goods, demand by firms for more labour and nominal wages. However, 
+workers do not anticipate that prices will also rise and that while nominal wages 
+Pୣ = 𝑃 
+Pଵ 
+Pଶ 
+P଴ 
+Y୒  Yଶ Yଵ Y 
+AD଴ 
+ADଵ 
+AS୤ (Pୣ = P୊ ) 
+ASୗୖଵ  (Pୣ = Pଵ ) 
+AS଴  (Pୣ = P଴ ) 
+
+
+--- Page 16 ---
+ 
+ 
+ 
+109 
+Rational Expectations  have risen, real wages have fallen since P rises more than P e (which initially is 
+constant and on what the AS curve depends). Therefore, workers offer more 
+labour effort, being ‘fooled’ into thinking that their real wages have increased.  
+The traditional Phillip’s Curve showing the trade off between price rise and 
+unemployment was based on the same phenomenon of assuming that price 
+expectations of workers are unchanged even when a price rise is observed.  
+Only when workers spend their wages and realize that the price level (P 1) is 
+higher than they had expected (P 0), they realize that the real wages have actually 
+declined. Then the new wage contracts will demand higher nominal wages, and 
+the AS curve shifts up to AS 2. Here again, actual prices are higher than the 
+expected prices P1, output is lower at Y 2 but still higher than Y N. The economy is 
+still in the short run. The process continues iteratively, till the AS curve is finally 
+at AS f, where P = P e again, workers are getting their desired real wage, and 
+output is back at YN.  
+This is the same as what the ‘modified’ Phillip’s Curve shows: price expectations 
+rise when price is greater than expected price, so only a price rise higher than 
+expected will lead to an increase in employment or output, Y. Notice that in these 
+models, firms unlike workers realize that real wages have declined and therefore 
+hire more workers. Thus, there is asymmetric information on the part of workers 
+and firms.  
+In the above model, workers’ expectations of the price level are based on the past 
+period’s price level. In other words, expectations of workers is P t=Pt-1. This is a 
+form of adaptive expectations where expectations are changed according to past 
+observed actual values. 
+7.3  THE LUCAS CRITIQUE 
+The concept of rational expectations was introduced by John Muth in 1961. 
+Robert E. Lucas and Thomas Sargent introduced this concept in economics 
+through their writings in 1970s.  
+In the AS-AD model discussed earlier, money is neutral in the long run (when 
+P=Pe ). In the short run, however, workers think that their nominal wage increase 
+is a real wage increase. Thus, in the short run, money can have real impact on 
+employment and output. 
+Suppose, the policy maker increases the growth rate of money supply, as a result 
+of which there is a price rise. The expected price is P 0, but actual price turns out 
+to be P 1. Economic agents adapt their expected price to be P 1 in the next period. 
+Actual price however increase further to P 2. So, even though workers do not 
+realize it (since their expectations of price are taking time to catch up to the 
+actual price), real wages will fall – there is short run impact of money. 
+Lucas questions this ‘fooling’ of workers after past monetary policy has been 
+used to increase employment. Having observed similar episodes of rising prices 
+after increases in money supply in the past, should not economic agents raise 
+
+
+--- Page 17 ---
+ 
+ 
+ 
+110 
+Expectations and 
+Macroeconomics 
+their expected price? They should take lessons from the past along with all 
+relevant information in order to make rational predictions. A sensible forecast of 
+price should be made on the basis of the behavior of the actual economy i.e. 
+understanding the process or true model that generates the actual price and any 
+new relevant information that comes up.  
+Thus, Lucas questioned the premise that people’s expectations would remain 
+unchanged when policy makers take advantage of a relationship based on past 
+data on employment and inflation. The past relationship was based on people’s 
+average expectation of inflation remaining unchanged at zero. If policy makers 
+have been increasing money supply to increase employment, resulting in a 
+persistent price increase, people’s expectations of inflation are now likely to 
+increase, with the result that the increased money supply leads to higher prices 
+but not higher employment.  
+This is the ‘Lucas critique’ – past statistical relationships in data are based on a 
+certain expectations, when the policy environment changes, expectations are 
+likely to change and the statistical relationships displayed in the past may no 
+longer be hold. 
+As another example, let us take the case of policy makers decreasing the growth 
+of money supply. The objective of the policy maker is to reduce inflation. 
+Suppose, people base their expectation of future prices on last year’s higher 
+prices. Actual prices, however, would be lower due to decline in money supply 
+growth rate. This will result in higher real wages and lower employment. 
+In the above example, suppose the government announces that it would decrease 
+inflation by reducing the growth of money supply (and people believe the 
+government because of its past records). Consequently, people with rational 
+expectations will incorporate this relevant new information, and reduce their 
+expectations of the price level. Accordingly, the nominal wages would decrease. 
+Therefore, when actual prices fall, there is no increase in real wage and 
+unemployment. 
+According to Lucas, people make rational forecasts on variables (such as prices) 
+on the basis of policy environment and available information. Lucas’ critique is 
+that when there is a change in the policy environment, economic agents will 
+revise their expectations. 
+7.4  PERFECT FORESIGHT AND THE 
+NEUTRALITY OF MONEY 
+There is the ‘perfect foresight’ if we know the AS-AD model equations and 
+parameters that determine the actual price, P. If we use this model to get the 
+value of P e (expected price), the P e should equal P. That means there will be no 
+expectational error (P – P e = 0). Consequently, workers would not be fooled into 
+thinking that an increase in nominal wages is an increase in real wages. 
+
+
+--- Page 18 ---
+ 
+ 
+ 
+111 
+Rational Expectations  In that case, there would be no increase in employment that would result from the 
+increase in money supply and money would be neutral. Note that the above also 
+requires that wages and prices are totally flexible, so that the real wage can be 
+maintained at the desired level at all times and employment remains at the natural 
+rate of unemployment. Thus, it is very similar to the Classical Model with 
+regards to its performance.  
+In Fig. 7.1, if P e = P, then the level of output would remain at Y N. In the case of 
+perfect foresight, price would increase proportionate to the increase in money 
+supply immediately, real wages would remain unchanged and there is no change 
+in employment level. There would be no role for monetary policy to play in this 
+case because every policy that would be implemented would be immediately 
+understood by the public. As a result, only nominal variables would be affected 
+and real variables will remain unchanged. 
+However, in the real world, especially for economic variables which are impacted 
+by human behaviour with random elements, there is no ‘perfect foresight’. At 
+best, people can make ‘rational expectations’ on which to base decisions. 
+Check Your Progress 1 
+1.  Describe the AS-AD model. Illustrate the condition of natural rate of 
+unemployment in a diagram.  
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+2.  Illustrate the impact of an increase in money supply in the short-run through 
+the AS-AD diagram.  
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+3.  Explain the Lucas critique on the effectiveness of monetary policy.  
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+4.  What is meant by perfect foresight? Under such condition, how do the 
+changes in money supply affect an economy? 
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+
+
+--- Page 19 ---
+ 
+ 
+ 
+112 
+Expectations and 
+Macroeconomics 7.5  RATIONAL EXPECTATIONS HYPOTHESIS  
+In this section we will discuss as to how rational expectations are formed. Also 
+we will discuss the properties and implications of rational expectations 
+hypothesis (REH). We will start with a model that depicts ‘perfect foresight’ and 
+then contrast it with a rational expectations model. 
+The future value of a variable, e.g., prices, interest rates or output, can be 
+predicted or guessed in several ways – through astrology, throwing darts, based 
+on past trends, adapting (changing) or correcting past expectations using more 
+recent data on the variable. However, the above approaches are unlikely to 
+generate good predictions even on average because they ignore the underlying 
+process that influences the variable.  
+The method of rational expectations assumes that individuals have observed 
+enough history on the concerned variable to understand its explanatory factors, 
+and the systematic manner in which these explanatory factors influence the 
+variable. Thus, individuals use their knowledge about the process of generating 
+the variable. These systematic patterns then restrict the values that the variable 
+can take. This helps individuals in forming their expectations about the likely 
+future value (or expected value) of the concerned variable.  
+As an example, using a general algebraic representation, we assume that the ‘true 
+model’ (process that generates variable Y) is known with the relevant variables 
+affecting it are X, Y  and Z.  The relationship between the variables given as 
+follows:  
+Yt = α + βXt-1 + γYt-1 + ηZt-1       … (7.1) 
+where Yt  is the actual value of Y at time t and is a function of observed values at 
+time (t-1) of variables X, Y and Z. Assume that α  is a constant term, and β, γ and 
+η are coefficients of observed values of X, Y and Z. 
+Equation (7.1) is a deterministic model where the right hand side variables 
+completely determine the value of Y. Now, the mathematical expectation of Y t  
+is: 
+Et-1Yt = α + βXt-1 + γYt-1 + ηZt-1       … (7.2) 
+where E t-1Yt is the expected or predicted value of Y made at the end of time 
+period (t-1) for the future time period t based on observed values at time (t-1) of 
+variables X, Y and Z.  
+Equation (7.1) is also a model where agents have ‘perfect foresight’ and can 
+accurately predict the value of Y. Thus, expectational error = [actual value of Y 
+(that is, Y t) – expected value of Y (that is, Y et)] = 0 in the case of equation (7.1). 
+As an example, with perfect foresight, the expected price level following an 
+increase in the money supply would be an equi-proportionate increase in the 
+price level.  
+Let us try to re-formulate equation (7.1) in terms of rational expectations. The 
+actual value of Y in period t depends not only on the variables X, Y and Z and 

@@ -1,0 +1,162 @@
+--- Page 33 ---
+ 
+231 
+ 
+Search Theory and 
+Unemployment 14.6  SIGNIFICANCE OF THE CONCEPT AND 
+ THEORY OF SEARCH UNEMPLOYMENT 
+From what has been said earlier, you understand the significance of the theory of 
+search unemployment as an attempt to endow realism to the elegant neoclassical 
+model of employment and output. You should also understand the practical 
+significance of the concept of search unemployment as it has worked itself out in 
+the United States and in some of the countries of the European Union. 
+The idea of search unemployment gained importance in the US economy in the 
+1990s when the social security system was being restructured in that country. It is 
+easily understandable that the ability and desire of a person to keep looking for a 
+better job and to remain unemployed in the mean time depends in part on the 
+availability of unemployment benefits under such a system. The unemployment 
+that arises when a person quits a job to have more time to look for a better job, or 
+when an unemployed delays accepting a job in the hope of finding a better one, is 
+of course the search unemployment that we have been discussing. If all jobs are 
+the same, an unemployed person will take the first one offered. If some jobs are 
+better than others, it is worthwhile searching and waiting for a good one. The 
+higher the unemployment benefits, the more likely people are to keep searching 
+for a better job, and the more likely they are to quit their current job to try to find 
+a better one. It was consideration of these kinds that prompted the United States 
+to restructure their unemployment benefits system in the 1990s. If unemployment 
+rates in the European Union are by and large higher than those prevailing in the 
+United States in recent years, part of the explanation is the fact that it is not as 
+easy, as in the countries of the European Union, to obtain unemployment benefits 
+in the United States after the revamping of their unemployment benefits system.  
+Check Your Progress 4 
+1. Explain briefly the ways in which the search model of Pissarides goes beyond 
+the Howitt model. 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+2. Why should a sectoral shift in labour demand generate higher aggregate 
+unemployment? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+ 
+
+
+--- Page 34 ---
+ 
+232 
+ 
+Labour Markets 3. How will you use the concept of search unemployment to explain the 
+differences between the United States and the European Union vis-à-vis their 
+unemployment rates? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+14.7  LET US SUM UP 
+The Neo-Classical theory of employment and output is theoretically elegant, but 
+does not accord with the empirically observed fact of prolonged periods of high 
+unemployment. The search theory of unemployment attempts to remedy this 
+drawback of the Neo-Classical theory.  The existence of unemployed workers in 
+the context of the Neo-Classical model would imply a fall in wages in the market 
+for labour. In the context of search and matching models, though, the labour 
+market is not a market for a homogenous commodity, but is characterised by 
+heterogeneity. Each job is unique and requires the unique skills that are embodied 
+in an individual worker. Unemployed workers are matched with existing 
+vacancies not through the market, but through a complex process of search and 
+match. This generates a frictional kind of unemployment. Indeed the origins of 
+the search and matching models can be traced all the way back to Pigou’s 
+explanation of the inter-war unemployment as the unemployment of workers 
+moving between jobs. More recent approaches to the theory involve construction 
+of models wherein the unemployment emerges as an equilibrium phenomenon 
+when, for example, firms decide on hiring by equating the marginal benefits and 
+costs of hiring, where the costs include search costs. Such an equilibrium rate of 
+unemployment is not a social optimum due to the divergence between, e.g., 
+private and social benefits of hiring. Such models can be used to explain 
+variation of unemployment over time by postulating shocks to productivity, as in 
+the models of real business cycles. Unemployment can also emerge in models 
+where sectoral, as versus aggregate, shocks are postulated to productivity/ 
+demand, in the context of frictions in moving from one job to another.  
+14.8  ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCIES 
+Check Your Progress 1 
+1. Walrasian general equilibrium model is inconsistent with involuntary 
+unemployment. Labour market in this model is assumed to be competitive 
+and it always clears through wage adjustments at a point where labour 
+demand is equal to labour supply.  
+Any unemployment in the model is hence voluntary, i.e., of those who do not 
+want to supply labour at the going wage rate. 
+
+
+--- Page 35 ---
+ 
+233 
+ 
+Search Theory and 
+Unemployment 
+2. Your answer to this question should be based on Section 14.2. If the firm 
+accepts the offer of the outside worker and employs him/her at a lower wage, 
+you are in the realm of the neoclassical model. If the firm believes that the 
+outsider-workers do not necessarily possess the skills of the insider-workers 
+you are postulating a search and matching model. If the firm is unable to 
+lower the wage fixed through collective bargaining, in spite of the firm 
+wanting to accept the outsider worker’s offer to work at the lower wage, you 
+are subscribing to a contracting theory of unemployment. Finally, if you 
+postulate that the firm does not reduce wage because it believes that its 
+benefits exceed the cost of paying a higher wage, then you are working in the 
+realm of New Keynesian theories like the efficiency-wage theory. 
+Check Your Progress 2 
+1. The neo-classical model was theoretically elegant, but did not accord with the 
+observed phenomenon of high and varying unemployment in the real world. 
+It was hence necessary to augment the model to bring it more in tune with 
+reality. The search theory attempts to do this by modelling unemployment as 
+an equilibrium phenomenon. 
+2. Frictional unemployment is unemployment of workers moving between jobs. 
+In the search models workers are unemployed because they do not take up the 
+first job that is offered to them and keep searching to find the best job that 
+matches their skills. The unemployment is frictional, in as much as workers 
+and jobs are not continuously matched. 
+Check Your Progress 3 
+1. You will have to explain this by using the model expounded in Sub-sections 
+14.4. 1 and 14.4.2. Alternatively, you could use ideas from two or three 
+different search models to explain why unemployment occurs as an 
+equilibrium phenomenon in such models. You will be helped further in this 
+by the alternative models in Section 14.5.  
+2. Answer to this question is in Sub-section 14.4.3. Hiring generates a private 
+benefit, but imposes a social cost to other firms that is not accounted for by 
+the hiring firm. There is also a divergence between the private and social 
+benefits generated by hiring.  
+3. Refer to Sub-section 14.4.4 to be able to answer these questions. The 
+variability in unemployment is explained by productivity shocks that change 
+the benefit of hiring and hence generate more or less unemployment in 
+equilibrium. The pro-cyclical response of real wages is explained by the fact 
+that, in the model, workers obtain a constant share, and an increase in 
+productivity leads to an increase in real wages. Real wages increase to a 
+smaller extent if the share of the workers is smaller compared to the share of 
+firms in output. 
+
+
+--- Page 36 ---
+ 
+234 
+ 
+Labour Markets Check Your Progress 4 
+1. Unlike the Howitt model, the Pissarides model specifies the search 
+technology used by the workers and firms. Further, the Pissarides model also 
+helps in understanding the factors determining the share of workers in output. 
+2. In a frictionless world, a sectoral shift in demand cannot generate 
+unemployment because a decrease in employment in the declining sector is 
+made up for by an increase in employment in the expanding sector. However, 
+if, for example, it takes time for labour to relocate perhaps due to search and 
+matching considerations, labour released from the declining sector can be 
+unemployed in the interim that it locates itself in the expanding sector firms.  
+3. You will have to explain the difference in the unemployment rates between 
+the US and the EU with reference to the differences in the two regarding 
+obtaining unemployment benefits. The more liberal scheme in the EU means 
+that a larger number of workers can remain unemployed over longer period of 
+time in search for a better job. However, this is not the full explanation of the 
+observed differences in the unemployment rates. 
+ 
+ 

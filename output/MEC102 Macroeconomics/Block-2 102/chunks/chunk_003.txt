@@ -1,0 +1,486 @@
+--- Page 20 ---
+ 
+ 
+ 
+113 
+Rational Expectations  coefficients α , β, γ and η, but also on a random term ν t . The random term ν t 
+reflects the inherent stochastic (probabilistic) process in an economy (for 
+example, the unpredictable nature of human behaviour). Thus, 
+Yt = α + βXt-1 + γYt-1 + ηZt-1+ νt      …  (7.3) 
+Now, E t-1Yt below is the expected or predicted value of Y made at end of time 
+period (t-1) for the future time period t based on observed values at time (t-1) of 
+variables X, Y and Z.  
+Et-1Yt = α + βXt-1 + γYt-1 + ηZt-1        … (7.4) 
+This expected value above is likely to happen or realize on average. The actual 
+value of Y in period t, on the other hand, can be quite different depending on the 
+random element νt. Usually, the value of the stochastic error term is small, as it is 
+a composite of several variables; different variables pulling Y t away from its 
+average value in different directions. Thus, the final value of Y t is never totally 
+predictable since the random term is knowable only at time t and can be thought 
+of as the effect of human behaviour which is individual, unique and not entirely 
+predictable.  
+The random error term ν t = (Y t - E t-1Yt) is also the expectational error of the 
+rational expectations prediction. We can say that the distribution of ν t has mean 
+zero and known variance σ 2. Thus, on average, the expectational error will be 
+zero (because if not, we can change the value of α to make it so). The rational 
+expectations value will also be the most accurate expectations since it is based on 
+the true model on which the concerned variable is based.  
+Let us consider an example: a simple model of consumption may have C t 
+depending on past wealth, past consumption and past disposable income so the 
+rational expectations value of consumption will be the average or expected 
+consumption level of a set of people. However, each individual’s future 
+consumption level will not and cannot be exactly predictable – there will be some 
+variation around the average or expected consumption due to different 
+preferences, mostly close to the average.  
+According to the rational expectations hypothesis, economic agents in the model 
+(workers, consumers, firms, the Government) are knowledgeable about the true 
+model. They have learnt through observation the behaviour of all the relevant 
+variables (X, Y, and Z) and parameters (α, β, γ and η) in explaining Y. They 
+know the functional form (linear here; could be quadratic, exponential or some 
+other type) of the relationship. Thus, an individual with rational expectations can 
+predict everything predictable about the future values of Y. The only 
+expectational error to emerge then will be due to the inherently unpredictable 
+portion of the variable.  
+Rational expectations hypothesis can be criticized for its assumption of 
+rationality and availability of full information. People, in general, are not aware 
+of the economic processes that take place in an economy. To assume that people 
+can figure out the explanatory variables of the concerned variable and that they 
+
+
+--- Page 21 ---
+ 
+ 
+ 
+114 
+Expectations and 
+Macroeconomics 
+have all relevant information is unrealistic. However, people these days have 
+access to readily available forecasts by experts via multiple public media. Certain 
+relevant information may be expensive to procure. The rational expectations 
+prediction will still be correct on the average, though it may not be as accurate as 
+it could have been with the variable. 
+Despite these criticisms, to use all relevant available information to form rational 
+expectations when making decisions is nevertheless an appealing underlying 
+microfoundation for macroeconomic theory. It assumes that individual agents 
+optimize and make decisions that are rational and most beneficial to them. It also 
+leads to the outcome that with perfect information and rational expectations there 
+is market- clearing. This is due to the fact that each agent (firms and workers) is 
+making decisions. Firms decide on the quantity of output to produce on the basis 
+of a production function while workers decide on the amount of labour to supply 
+on the basis of a utility function. Notice that microfoundation is an integral part 
+of rational expectations hypothesis. With flexible prices and wages, demand and 
+supply for output and labour will match each other in their respective markets. 
+Thus, there will be no involuntary unemployment or no deviation of output from 
+the natural level of output.  
+We need to see whether the outcomes as predicted by rational expectations at the 
+micro level can explain macroeconomic relationships, e.g., between 
+unemployment and inflation. One key implication of rational expectations is that 
+government policy to reduce unemployment (monetary expansion or 
+monetarization of debt due to fiscal expansion) will not have the desired effect if 
+it is predictable or announced in advance. Monetary expansion to increase 
+aggregate demand and raise output, will not lead to higher employment if 
+workers with rational expectations anticipate that all prices (nominal wages and 
+prices of what they buy) will increase proportionately and that their real wages 
+are not going to increase.  
+A question arises at this point: How would rational expectations explain observed 
+booms and recessions? During a boom (recession) unemployment rate decreases 
+(increases), while actual output deviates from natural output. We will discuss 
+these issues in the next sections while discussing the ‘Lucas supply function’ and 
+the ‘policy ineffectiveness proposition’.   
+7.6  LUCAS SUPPLY FUNCTION 
+According to Lucas, economic agents care about their relative price, i.e., about 
+the price that they will receive for what they sell, relative to the price that they 
+will pay for what they buy. Thus a firm cares about the price of the output it is 
+selling, relative to the price of inputs that it buys, while a worker cares about the 
+real wage rate, i.e., the nominal wage, which is the price for the labour services 
+that he/she sells versus the prices of the goods that he/she will buy. An increase 
+in the firm’s relative price will then bring forth an increase in the output of firms 
+while an increase in the real wage will elicit higher labour supply (assuming the 
+substitution effect is greater than the income effect in the labour supply decision). 
+
+
+--- Page 22 ---
+ 
+ 
+ 
+115 
+Rational Expectations  However, Lucas also postulates that agents are unlikely to have perfect 
+information on their relative prices because they know much more about the 
+price of what they are selling than about the goods or services they will buy since 
+there are several inputs/ goods that they will buy relative to what they specialize 
+in and sell. Thus, firms and households have local information and not global 
+information. This can ‘fool’ them into making incorrect decisions (from their 
+welfare point of view). Suppose, there is an increase in the price of the good they 
+sell (or labour service), then each agent (firm/ worker) needs to determine 
+whether the increase is only or mainly in the price of their good/ labour or there 
+is a universal increase in prices of all the goods. Each agent thus has a ‘signal 
+extraction problem’ to distinguish between a relative prices increase vs. an 
+increase in the aggregate price level.  
+Lucas further postulates that economic agents face a second signal extraction 
+problem. Temporary increases in relative prices are more important than 
+permanent increases. Firms and workers need to be quick in taking advantage of 
+profitable opportunities.  If in the past, most increases in selling prices have been 
+partly increases due to general inflation and partly due to relative price increase, 
+then both firms and workers observing a general price increase will assume that 
+some of the price increase is a relative price increase for their product/ labour 
+service and will increase their supply of it.  
+Now, if there is general increase in the price level, say due to an increase in the 
+money supply, and all agents knew this, with rational expectations, they would 
+understand that all prices had increased proportionately and there is no relative 
+prices change, then there would be no change in labour supply or in output. Thus 
+any anticipated, expected or announced change in the aggregate price level will 
+not lead to any change in output. However, if there is a ‘price surprise’, i.e. a 
+difference between actual price level and the expected price level, then output (or 
+labour supply for workers) will increase.  
+We can thus write the Lucas Supply Curve as: 
+Yt/Yp = f(Pt/Et-1Pt)        ... (7.5) 
+where Yt = output in period t;  
+Yp = potential output (i.e., full employment output);  
+Pt = price of product; and 
+Et-1Pt = price of product in period t expected one period prior, i.e., in period (t-1). 
+In logarithmic terms, we can write equation (7.5) as  
+yt  – yp = f(pt – Et-1pt)        ... (7.6) 
+where the variables in lower case indicate the variables in logarithmic term.  
+Equation (7.6) indicates that output is higher than the full employment (or natural 
+level of) output when there is a positive price surprise reflecting a relative price 
+increase for the product (or labour service) being sold. 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+116 
+Expectations and 
+Macroeconomics 
+In an environment where prices have been stable, and most price increases have 
+meant a relative price increase for the product/ service being sold by the 
+firm/worker, both firms and workers can be ‘fooled’ into supplying more 
+output/labour supply if the money supply is increased suddenly. On the other 
+hand, if the prices have generally been volatile (as in some Latin American 
+economies with high inflation), monetary expansion will most likely have no 
+impact on output or labour supply since agents will not be fooled into thinking 
+that a price increase is for their product alone, but will realize that the price 
+increase is for all products due to general inflation. 
+If there was perfect information so that people could distinguish between general 
+(i.e., aggregate) price increase vs. a relative price increase. In other words, if 
+expected price increase mirrored the actual price increase, there would be no 
+increase in output for firms or increase in labour supply for workers. But since 
+both firms and workers get ‘fooled’ into thinking that their price has increased 
+(because they only have local information on their sale price and not global 
+information on all prices), that all firms and workers tend to increase output and 
+labour supply. According to Lucas, such ‘fooling’ behaviour leads to fluctuations 
+in the level of output. This explains business cycle in an economy. Note that 
+unlike the AS-AD approach of Section 7.2 where firms knew the correct real 
+wages but workers did not, in the Lucas Supply Curve both the agents (firms and 
+workers) are symmetrically ‘fooled’,  
+The Lucas supply function relies on a price surprise to explain why output 
+fluctuates from the ‘full employment’ or ‘natural level of output’ level. Had there 
+been perfect information, so that prices could be anticipated accurately, agents 
+would be able to distinguish between increases in nominal vs. real price increases 
+and we would get the results of the classical economists i.e., dichotomy between 
+the real and monetary sectors of the economy and that money is neutral. 
+7.7  POLICY INEFFECTIVENESS THEOREM  
+While the Lucas supply function focused on the supply side, the policy 
+ineffectiveness theorem focuses on the demand side to explain deviations of 
+output from the natural level of output. Here again, these deviations of output and 
+employment are explained by price surprises caused by the non-anticipatable 
+portion of money change. The model here is based on the seminal paper 
+“Rational expectations and the theory of economic policy” by Sargent and 
+Wallace (1976) [see, Sheffrin (1996)]. Note that only monetary and no fiscal 
+changes are being considered here. 
+Let us assume that economic agents have rational expectations. Therefore, they 
+have learnt from past observation how the monetary authorities operate, i.e., what 
+is their money supply rule (see Unit 18 for further discussion on this). However, 
+there is a random, unpredictable portion to the money supply since it is also 
+dependent on factors beyond the central bank’s control (e.g., capital flows in and 
+out of the country; banks may keep reserves higher than the required reserve 
+ratio; public may decide to hold more cash than bank deposits). According to the 
+
+
+--- Page 24 ---
+ 
+ 
+ 
+117 
+Rational Expectations  ‘policy ineffectiveness theorem’, output will not deviate (from the full 
+employment level) with a change in money supply unless it is unpredictable. Any 
+predictable change in money supply will lead to a change in expected prices such 
+that there will be a corresponding change in actual prices, but no change in 
+output. Prices, on the other hand, will be influenced by both predictable and 
+unpredictable parts of any money supply change. The model consists of an 
+aggregate demand relation, aggregate supply relation and a money supply rule, 
+along with an equation capturing rational expectations: 
+1) Aggregate Demand Relation:  
+Mt + Vt = Pt + yt      … (7.7) 
+Equation (7.7) is the familiar MV=PY equation of classical theory except 
+that each term above is in log form and therefore is a linear equation.  
+Mt = log of the money supply 
+Vt = log of the (assumed constant) velocity of money 
+Pt = log of the price level  
+yt = log of real output 
+Allowing V t to vary with interest rate is not critical to the argument so the 
+assumption that it is constant is for simplification. 
+This can be seen as the AD line in Fig. 7.2. An increase in M t will shift the 
+AD line to the right.  
+2) Aggregate Supply Relation: 
+yt = yp + β(Pt – t-1Pet)     … (7.8) 
+Where 
+yp = log of full employment output  
+ t-1Pet = log of the price level expected in period t, with the expectation 
+formed in period (t-1) 
+This is based on the Lucas Supply function. Output will differ from the full 
+employment level of output if there is a price surprise, i.e., the price level in 
+period t was not anticipated. In Fg. 7.2, this is the AS line. It shows that y t = 
+yp if P t = t-1Pet. However, y t increases relative to the fixed y p if P t is larger 
+than the expected  t-1Pet  (that is, when there is a positive price surprise). 
+  
+
+
+--- Page 25 ---
+ 
+ 
+ 
+118 
+Expectations and 
+Macroeconomics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 7.2:  Lucas AS Curve 
+3) Money Supply Rule: 
+Mt = αyt-1 + єt     … (7.9) 
+where E(єt|It-1) = 0 
+Implication of equation (7.9) is as follows: The monetary rule has a 
+portion αy t-1 that is under the control of the monetary authorities. This 
+portion is based on past observed data which is known to the general 
+public as well and can be anticipated by them. However, there is a 
+random component, є t in equation (7.9) which nobody can know before 
+the end of period t and cannot be predicted. All we can say is that the 
+expected value of this random component is zero given the information 
+I(t-1) (available at the end of period t-1) on the basis of which any 
+prediction for period t can be made.  
+4) Rational Expectations:  
+t-1Pet = E(Pt|It-1)    … (7.10) 
+Equation (7.10) captures the following: With rational expectations, the 
+expected value of price in period t (which is based on information I 
+available in period (t-1)) is endogenous. Endogenous means that the 
+variable (in this case, prices) is derived within the model. Thus, the same 
+model that explains prices is used to estimate expected prices. The price 
+level in period t that people ‘feel’ will prevail or psychologically expect 
+(that is, t-1Pet) is obtained from the model as the mathematical expectation 
+P 
+P଴ 
+y୮  yଵ  y 
+AS (𝑡 − 1 P௧
+௘ = P଴ ) 
+ADଵ  (𝑀ଵ ) 
+AD଴  (M଴ ) 
+
+
+--- Page 26 ---
+ 
+ 
+ 
+119 
+Rational Expectations  of prices in period t based on the information available in period (t-1), 
+that is, E(Pt|It-1).  
+Before we move to the mathematical derivation of the policy ineffectiveness 
+theorem, let us graphically see its results. In Fig. 7.2, if money supply is 
+increased (based on the money supply rule given at equation (7.9)), the AD curve 
+AD0 (P0 = M0 + V – yp) will shift to AD 1 (Pt = Mt + V – yt). In the absence of any 
+change in expected future prices, the AS curve (drawn for a particular expected 
+price) will remain unchanged, and the shift in the AD curve will result in 
+increased output as well as prices, from y p to y 1. This is consistent with the 
+original Phillip’s Curve. It shows a trade-off between lower unemployment 
+(increased output) and price rise.  
+Given rational expectations, in period (t-1) itself, people will anticipate the shift 
+of the AD curve due to the anticipated or expected component (not the random 
+portion) of the money supply rule. Therefore, the AS curve will shift up 
+corresponding to the price increase expected due to this expected component. 
+Such as shift in the AS curve is shown in Fig. 7.3 with the dotted AD curve 
+(which is only the anticipated and not the actual increase in the price level).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 7.3: AS-AD Model with Rational Expectations 
+If the random term є t in the money supply rule were zero, the actual price level in 
+period t would be exactly as anticipated; there would be no price surprise in the 
+Lucas supply function. Therefore, there is no change in the output level. 
+However, actual money supply M t can be different from the expected money 
+supply Met due to the random term є t . In Fig. 7.3, we have shown the difference 
+to be positive, as a result of which AD 1 is to the right of the dotted AD e1. The 
+Pଵ
+௘  
+Pଵ 
+P଴ 
+y୮  y 
+AD଴ (𝑀଴ ) 
+ASଵ  (𝑡 − 1  𝑃𝑡
+𝑒  = 𝑃1
+𝑒
+) 
+ 
+yଵ 
+ADଵ (𝑀ଵ ) 
+ADଵ
+௘ (𝑀ଵ ) 
+AS଴  (𝑡 − 1 𝑃𝑡
+𝑒 = P0) 
+ 
+
+
+--- Page 27 ---
+ 
+ 
+ 
+120 
+Expectations and 
+Macroeconomics 
+actual price level can be different from the expected price level t-1Pet and due to 
+this price surprise, the actual output will differ from the full employment level of 
+output yt. 
+Thus, both the anticipated and unanticipated portions of the increase in money 
+supply result in an increase in the price level. However, only the unanticipated 
+portion of the money supply increase which shifts the AD curve unexpectedly 
+leads to the price surprise, and therefore to a change in the output level. 
+Now, let us combine the four equations (7.7), (7.8), (7.9) and (7.10) together.   
+1) Aggregate Demand Relation:  M t + V = Pt + yt   ...(7.7)  
+2) The Aggregate Supply Relation:  y t  = yp + β(Pt –  t-1Pet)  ...(7.8)   
+3) The money supply rule:  M t = αyt-1 + єt    ...(7.9)   
+4) Rational Expectations:   t-1Pet = E(Pt|It-1)   ...(7.10) 
+Let us substitute yt from (7.8) and Mt from (7.9) in (7.7). We get 
+αyt-1 + єt + V = Pt + yp + β(Pt –  t-1Pet)     ... (7.11)  
+Now let us take the mathematical expectation of the above equation as of time (t-
+1) to get t-1Pet 
+αyt-1 + E(єt) + V = t-1Pet + yp + β(t-1Pet –  t-1Pet).  
+This simplifies to  
+αyt-1 + V = t-1Pet + yp or that  
+t-1Pet = αyt-1 + V –  yp        … (7.12) 
+From (7.7) we know that Pt = Mt + Vt –  yt . Substituting for Mt from (7.9), we get  
+Pt = αyt-1 + єt + V –  yp + β(Pt –  t-1Pet)    … (7.13) 
+Subtracting t-1Pet in equation (7.12) from Pt in equation (7.13), we obtain: 
+Pt  –  t-1Pet = єt + β(Pt –  t-1Pet)       … (7.14) 
+Equation (7.14) can be re-arranged to show that the gap between the actual and 
+expected price level is 
+Pt  –  t-1Pet = єt/(1+ β)       … (7.15) 
+From the Lucas Supply Function given at equation (7.8) we find that 
+yt = yp + β(Pt –  t-1Pet) 
+which means 
+yt  = yp + β єt/(1+ β)       … (7.16) 
+Equation (7.16) implies that output (y t) is higher than full employment output 
+(yp) only if there is some unexpected or unanticipated increase in the price level. 
+From (7.15), we find that P t = t-1Pet + є t/(1+ β). It means that both the expected 
+price level and the unanticipated portion of the money supply affect the price 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+121 
+Rational Expectations  level. These are the two results we set out to show in the policy ineffectiveness 
+proposition.  
+Only unanticipated (or, surprise) changes in monetary policy can influence 
+output, given rational expectations and thereby knowledge of how the monetary 
+authorities react to a given situation through the money supply rule. This money 
+supply rule could have taken a different functional form, but to the extent that it 
+is known, it cannot have any effect since the public anticipates it and changes 
+expectations accordingly. The policy ineffectiveness proposition thus negates the 
+possibility of any systematic policy rule to keep the actual output level of the 
+economy above its potential output level. 
+Both the Lucas Supply Curve and the Policy Ineffectiveness Proposition indicate 
+that money is not neutral in the short run. This is due to the fact that 
+unanticipated high prices fool the economic agents to voluntarily work harder or 
+increase output. Keynesian economists criticize this approach by arguing that 
+correct information should be available within a short time, so that booms and 
+recessions spanning several years are not well explained by rational expectations. 
+They also criticize the assumption that all markets clear (which implies that 
+people are voluntarily unemployed) when there is a high rate of unemployment. 
+Despite the criticism, we can say that rational expectations is an appealing way to 
+incorporate microeconomic foundations of macroeconomic relations and 
+variables. This has several interesting implications. In consumption, for example, 
+the random walk of consumption and the issue of Ricardian Equivalence.  
+Check Your Progress 2 
+1)  Bring out the salient features of the Rational Expectation Hypothesis. 
+Explain it by considering three variables.  
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+2)  Describe the Lucas supply curve.  
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+3)  What is meant by policy infectiveness theorem? 
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+........................................................................................................................... 
+
+
+--- Page 29 ---
+ 
+ 
+ 
+122 
+Expectations and 
+Macroeconomics 7.8  LET US SUM UP 
+In this unit we learnt about the relation between price and unemployment, the 
+short-run and long-run impact of money supply on output and prices by 
+discussing the non-neutrality of money, traditional and modern Phillips curve, 
+and the adaptive expectations. We also learnt about the Lucas critique and the 
+perfect foresight as related to the effect of monetary policy in an economy. In the 
+perfect foresight model, we learnt that the prediction is accurate by which the 
+expected error is zero. However, an economic variable may be dependent on a 
+random component that reflects the inherent stochastic process of the variable, on 
+which the rational expectations hypothesis is based on. Then we discussed the 
+formation of rational expectations hypothesis, its properties and implications.  
+We also learnt about the Lucas Supply function, which focused on the supply 
+side. In contrast, the policy ineffectiveness proposition focuses on the demand 
+side to explain deviations of output from the natural level of output that are 
+explained by price surprises caused by the non-anticipatable portion of money 
+change. 
+7.9  ANSWERS/ HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) The AD function: Y = f(G, T, M/P) is an increasing function of G, T and 
+M/P, where G= Government expenditure, T= Taxes; M/P = nominal 
+money/price level. The AS function is P = P e (1 + m)f(u, z). Use Fig. 7.1. 
+Refer to Section 7.2.
+ 
+2)  The traditional Phillip’s Curve shows the trade off between price rise and 
+unemployment, which is based on the same phenomenon of assuming that 
+price expectations of workers are unchanged even when a price rise is 
+observed. The ‘modified’ Phillip’s Curve shows that price expectations rise 
+when price is greater than expected price, so only a price rise higher than 
+expected will lead to an increase in employment or output, Y. Use Fig. 7.1. 
+3) Refer to Section 7.3 and answer. 
+4)  There is the ‘perfect foresight’ if the true AS-AD model equations and 
+parameters are known.  It implies that people have perfect information on 
+the true model that generates actual P. If the same model is used to get the 
+value of P e (expected price), then P e should equal P. That means there will 
+be no expectational error (that is, P – Pe = 0).  

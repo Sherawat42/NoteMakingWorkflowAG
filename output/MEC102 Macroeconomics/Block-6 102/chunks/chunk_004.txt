@@ -1,0 +1,519 @@
+--- Page 28 ---
+ 
+UNIT 17  THEORY OF MONETARY OF  
+   POLICY   
+Structure 
+17.0 Objectives 
+17.1 Introduction 
+17.2  Rules, Discretion and Dynamic Consistency 
+ 17.2.1 Loss Function 
+ 17.2.2 Rules vs. Discretion 
+ 17.2.3 Dynamic Inconsistency 
+17.3  Consensus View of Monetary Policy  
+17.3.1  Impact of Higher Inflation Target 
+17.3.2  Impact of Expansionary Fiscal Policy 
+17.4 Path Dependence in Macroeconomic Outcomes  
+17.5 Let Us Sum Up 
+17.6  Answer/Hints to Check Your Progress Exercise 
+17.0 OBJECTIVES 
+After going through this unit you would be able to: 
+ explain the discretion and rule of the Central Bank in determining 
+inflation and output; 
+ understand the current consensus of monetary policy; 
+ assess the impact of a higher inflation target on interest rate and 
+aggregate demand; 
+ assess the impact of an expansionary fiscal policy on interest rate, 
+inflation and aggregate demand; 
+ explain the path dependence in macroeconomic outcomes. 
+17.1 INTRODUCTION 
+In this unit we focus on three main themes related to the conduct of monetary 
+policy. First, we discuss the rules vs. discretion debate. Discretionary policy is 
+arbitrary and often mis-placed (policy makers may follow an expansionary policy 
+while the need is for a contractionary monetary policy). Further, discretionary 
+monetary policy results in various types of lags (such as identification lag, 
+decision lag and implementation lag). Thus, policy rules are preferred to 
+discretionary measures by mainstream economists. However, there appears to be 
+no consensus on the definition of rules. According to Friedman, Central Banks 
+ 
+ Dr. Vineet Kohli, Tata Institute of Social Sciences, Mumbai 
+
+
+--- Page 29 ---
+ 
+263 
+ 
+Theory of Monetary 
+Policy 
+should follow the rule of constant monetary growth over time. Other economists 
+such as Robert Barro define the rules as a commitment to zero/low inflation 
+policy. For most new-Keynesian economists, policy rules are shown in terms of 
+equations that link the Central Bank’s policy rate (i.e., the key lending rate of the 
+Central Bank; repo rate, for example, in India) to deviations from inflation and 
+output targets.  
+Secondly, we will discuss about the current consensus on monetary policy. In the 
+consensus model, monetary policy plays a major role in fixing inflation rate at its 
+pre-defined target. In other words, monetary policy can successfully provide the 
+nominal anchor. Moreover, monetary policy, while successful in determining the 
+rate of inflation, cannot influence the level of output, which is fixed at its natural 
+(i.e., full employment) level. In this sense, the new consensus is simply a revised 
+version of Friedman’s idea that market forces by themselves deliver full 
+employment and monetary policy is neutral. At best, Central Banks can hope to 
+reduce fluctuations of output around its natural level by following an appropriate 
+interest rate policy. 
+Finally, we will talk about the criticism of the new consensus model. The new 
+consensus model assumes that natural output is fixed. Critics point out that this 
+may not be so. High aggregate demand (injected through monetary or fiscal 
+means) may increase actual as well as natural output levels and take the economy 
+to a higher equilibrium. We will use the concepts of IS curve, expectations 
+augmented Phillips Curve, rational expectations, and adaptive expectations. You 
+are familiar with these concepts from the earlier Units. 
+17.2  RULES, DISCRETION AND DYNAMIC 
+ CONSISTENCY 
+As we saw in Unit 2, Keynes advocated active government intervention. When 
+there is shortfall in effective demand, the state was expected to increase 
+government expenditure, may be through a deficit budget. Similarly, when the 
+economy is passing through inflation, the government should go for a surplus 
+budget. Such variation in government expenditure necessitated certain 
+discretionary policy measures by the government. The classical economists, on 
+the other hand, had suggested minimum government intervention in the economy 
+so that market forces (demand and supply) can operate efficiently. The new 
+classical economists suggest certain policy rules on macroeconomic variables. 
+It may be useful to discuss Friedman’s (1968) prescription of what monetary 
+policy should seek to achieve. First, Friedman weighed in against the then 
+popular belief in trade-off between inflation and unemployment. According to 
+Friedman, no such trade-off exists in the long run and the attempts to push output 
+above its ‘natural’ level will only yield higher rates of inflation. As we shall see 
+in the next section, this part of Friedman’s analysis plays a very important role 
+even in the current consensus.  
+Secondly, Friedman believed that Central Banks do not use their discretion 
+
+
+--- Page 30 ---
+ 
+264 
+ 
+Issues in  
+Monetary Policy 
+entirely judiciously. For example, the Federal Reserve in the US contracted 
+money supply during the Great Depression. When Central Banks did not err in 
+the wrong direction, they did so by moving too far, thereby, causing wide swings 
+in money supply. Thus, Friedman proposed a ‘publicly stated policy of steady 
+rate of growth of money supply’ for Central Banks. Moreover, the constant 
+money growth rule is superior to other rules that targeted a certain price level or 
+inflation rate. This is because ‘we cannot predict accurately just what effect a 
+particular monetary action has on the price level and, equally importantly, just 
+when it will have that effect’. Most Central Banks and economists today do not 
+share Friedman’s confidence in the ability of monetary authorities to fix money 
+supply. They also do not share his pessimism regarding inflation targeting. Where 
+the two – Friedman and the current mainstream – do converge is in their shared 
+belief in the superiority of rules over discretion. 
+17.2.1 Loss Function 
+There is a belief that while rules are superior to discretion, they may be 
+dynamically inconsistent – having announced the rule, Central Banks may 
+subsequently find it optimal to violate it. Barro and Gordon’s work is an 
+important contribution in this area. Let us look at their main contributions 
+through a simple model. First, let us introduce the loss function of a Central 
+Bank. 
+The main objective of monetary policy is inflation targeting but control of 
+inflation should not be at the cost of economic growth and employment. We 
+assume that the economic welfare of the country is the maximum when the 
+economy is operating at its natural output level (i.e., full employment output 
+level) and inflation is at the targeted rate. There is a loss of welfare if inflation is 
+different from the targeted rate and actual output is different from the natural 
+output level. If we consider both these issues, we obtain a loss function  of the 
+Central Bank, given by 
+𝐿 = 𝑥ଶ + (𝑦 − 𝑦′′)ଶ        ... (17.1) 
+In equation (17.1), we denote inflation rate by x and output by y. The notation 𝑦′′ 
+is the output target pursued by the Central Bank. Let us denote natural output 
+level by  𝑦′. Natural output stands for the output level that will be produced when 
+labour force is fully employed. Let us assume that the Central Bank sets its 
+output target in excess of the natural output level, 𝑦′. The Central Bank dislikes 
+any inflation and deviations of output from its target. Higher value of the loss 
+function (L) implies greater loss or welfare cost suffered by the economy.  
+The Phillips Curve is given by the following equation: 
+𝑥 = 𝑥௘ + 𝑒(𝑦 − 𝑦′)        ... (17.2) 
+Equation (17.2) says that actual inflation ( 𝑥) will exceed expected inflation ( 𝑥௘ ) 
+whenever actual output ( 𝑦) exceeds natural output ( 𝑦′). Objective of the Central 
+Bank is to choose that combination of output and inflation that minimises its loss 
+function. Obviously, any such combination must lie on the Phillips Curve. Thus, 
+
+
+--- Page 31 ---
+ 
+265 
+ 
+Theory of Monetary 
+Policy 
+the Central Bank minimises its loss function subject to the constraint of equation 
+(17.2). The Central Bank tries to reach its optimal solution by varying either the 
+money supply or the rate of interest. We can add another equation to the model 
+that relates aggregate demand (which equals output y) to money supply and 
+inflation rate. The optimal combination of output and inflation can then be 
+inserted in the aggregate demand equation to obtain optimal money supply. 
+Without intending to carry out such an exercise, we simply assume that the 
+Central Bank moves some monetary policy instrument under its control to reach 
+its desired outcome. 
+The Central Bank’s optimisation exercise is similar to that of a household in 
+consumer theory. Just as the consumer tries to reach the highest possible 
+indifference curve for a given budget constraint, the Central Bank tries to attain 
+the lowest possible loss function for a given Phillips Curve. Fig. 17.1 shows the 
+relevant picture. Loss functions of the Central Bank are given by concentric 
+circles centred at B, where inflation rate is zero and output is at its target 𝑦′′. The 
+point B in Fig. 17.1 stands for the ‘bliss point’ as the Central Bank can do no 
+better than to achieve its output target at zero inflation. The larger is the circle, 
+the greater is the welfare cost incurred by the Central Bank. At each point on the 
+vertical axis, output is at its natural level and, from the Phillips Curve equation, 
+actual and expected inflation rates coincide. Since actual output increases with 
+the inflation rate, the Phillips Curve is an upward-sloping line. 
+At an optimum point, the slope of the loss function is equal that of the Phillips 
+Curve. Let the slope of the Phillips Curve be equal to e. The slope of the loss 
+function is given by 𝑒 =
+(௬ ′′ି௬ )
+௫
+ (you can verify this by totally differentiating 
+equation (17.1) and setting 𝑑𝐿 = 0). Hence, at the optimum point: 
+𝑒𝑥 = 𝑦′′ − 𝑦          ... (17.3) 
+After multiplying both sides of equation (17.3) by e and adding with equation 
+(17.2), we obtain: 
+𝑥 = [𝑥௘ + 𝑒(𝑦′′ − 𝑦′)]/(1 + 𝑒ଶ )     ... (17.4) 
+In other words, the Central Bank’s choice of inflation rate will vary positively 
+with its output target, 𝑦′′ and with the inflation rate expected by public, 𝑥௘ . 
+17.2.2 Rules vs. Discretion 
+We now endogenise expected inflation rate by assuming that public’s 
+expectations are rational. That is, the public is aware that the Central Bank 
+minimises its loss function subject to the constraint posed by the Phillips Curve 
+and, thus, fixes inflation rate according to equation (17.4). Therefore, public will 
+come to expect the inflation rate that the Central Bank actually fixes. This implies 
+the following equation: 
+𝑥 = 𝑥௘ = [𝑥௘ + 𝑒(𝑦′′ − 𝑦′)]/(1 + 𝑒ଶ )    ... (17.5) 
+On solving the above equation, we obtain: 
+
+
+--- Page 32 ---
+ 
+266 
+ 
+Issues in  
+Monetary Policy 
+𝑥 = 𝑥௘ = (𝑦′′ − 𝑦′)/𝑒      ... (17.6) 
+Equation (17.6) gives the discretionary outcome. Inflation rate under discretion is 
+endogenous. It depends on the output target set by the Central Bank. A higher 
+output target of the Central Bank results in a higher rate of inflation but fails to 
+stimulate output above its natural level. This is because output can be stepped 
+above its natural level only by increasing the inflation rate above its expected 
+level. But the Central Bank cannot create any inflation surprise as long as the 
+public forms its expectations rationally. When the Central Bank uses its 
+discretion to step output above its natural level, all it manages to achieve is a 
+positive inflation rate. In Fig. 17.1, the discretionary outcome is depicted at A. At 
+this point two conditions are fulfilled: (i) slope of the loss function equals the 
+slope of the Philips Curve, and (ii) actual inflation rate equals the expected 
+inflation rate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 17.1: Rules vs. Discretion 
+Now, suppose the Central Bank shifts from a discretionary policy framework to 
+rule-based policy framework. Instead of arriving at certain positive inflation rate 
+after solving its minimisation exercise, suppose the Central Bank declares a ‘zero 
+inflation rule’. Given rational expectations, the public will expect the rule that the 
+Central Bank intends to increase production. Therefore, under the zero inflation 
+rule: 
+𝑥௥ = 𝑥௘ = 0        ... (17.7) 
+where the subscript r stands for ‘rule’. 
+17.2.3 Dynamic Inconsistency 
+Given our formulation of the Phillips Curve, equation (17.5) implies equality 
+P
+C
+  
+A 
+ 
+y 
+y 
+x 
+A
+ 
+O B
+C 
+PC 
+
+
+--- Page 33 ---
+ 
+267 
+ 
+Theory of Monetary 
+Policy 
+between actual and natural output. The rule-based solution produces the same 
+level of output as the discretionary solution but at a lower inflation rate. 
+Therefore, the ‘zero inflation rule’ implies a lower welfare cost than the 
+discretionary solution. The rule-based solution is depicted by point O in Fig. 
+17.1. Now, suppose the Central Bank anchors expected inflation rate at zero by 
+declaring a ‘zero inflation rule’. Since actual inflation equals expected inflation 
+on the vertical axis, the relevant Phillips Curve (PC) passes through O in Fig. 
+17.1. It is clear that the Central Bank can do better than point O if it cheats on its 
+commitment by choosing point C on the PC line where its welfare cost is 
+minimised. Since the Central Bank’s minimisation exercise yields equation 
+(17.5), we can find the relevant inflation rate by inserting 𝑥௘ = 0 in equation 
+(17.5). This gives: 
+𝑥௖ = 𝑒(𝑦′′ − 𝑦′)/(1 + 𝑒ଶ )      ... (17.8) 
+where c stands for cheating. 
+Since  𝑦′′ > 𝑦′, equation (17.8) implies a positive inflation rate. The intuition is 
+simple. The Central Bank first anchors the public’s inflationary expectations by 
+announcing a ‘zero inflation rate’ policy and then creates an inflation surprise by 
+violating its rule. Given our formulation of the Phillips’ Curve, this causes the 
+output level to rise above its natural level. Also, the Central Bank has convex 
+preferences; it prefers averages to extremes. Therefore, the combination of zero 
+output gap (excess of actual over natural output) and zero inflation rate entails a 
+greater welfare cost than a point like C where both inflation rate and output gap 
+are positive.  
+The discussion so far can be summed up as follows: Rules, though superior to 
+discretion, suffer from dynamic inconsistency. Having announced a rule, the 
+Central Bank would be tempted to violate it. The problem is that once the 
+public’s trust is broken, the public would come to believe that the Central Bank, 
+regardless of what it proclaims, would apply its discretion in fixing the inflation 
+rate. The Central Bank would then maximise its welfare by taking public’s 
+inflationary expectations as given. The Central bank may discard its rule-based 
+policy and end up with the discretionary case.  Such shift in policy, however, 
+should be avoided; because such change would entail inflation with no gain in 
+output. 
+Mainstream economists maintain that delegation of monetary policy-making to 
+conservative Central Bankers, who place a high weight on inflation control, can 
+help to address the dynamic inconsistency problem. The benefits of delegation to 
+the conservative Central Banker were captured in a model developed by Kenneth 
+Rogoff. Suppose the conduct of monetary policy is delegated to an individual 
+whose loss function is given by: 
+𝐿 =
+ 𝑥ଶ + (𝑦 − 𝑦′′)ଶ         ... (17.9) 
+where  > 1. 
+The new loss function places a higher weight on inflation. The conservative 
+
+
+--- Page 34 ---
+ 
+268 
+ 
+Issues in  
+Monetary Policy 
+Central Banker minimises the objective function given by equation (17.9) subject 
+to the constraint given by the Phillips Curve (see, equation (17.2)). The public 
+believes in rational expectations, and thus, expected and actual inflation rates are 
+equal. The solution under discretion is now given by: 
+𝑥 =
+௬ ′′ି௬ ′
+௘         ... (17.10) 
+The intermediate steps involved in derivation of equation (17.10) are skipped 
+here. We leave it as an exercise for the reader (hint: repeat the steps that were 
+earlier followed in deriving equation (17.6)). Since 
+ > 1, inflation rate falls after 
+monetary policy is delegated to a conservative Central Banker (this can be 
+verified by comparing equation (17.10) with equation (17.6)). The government, 
+which delegates policy-making to a conservative Central Banker will benefit, 
+since a lower rate of inflation also reduces the value of the government’s loss 
+function given by equation (17.1). 
+Of course, delegation of policy-making to a conservative Central Banker will 
+work only when the banker is independent of government control. The 
+government may not be as inflation-averse as the Central Banker (if it is as 
+inflation averse, nothing is gained from delegation). Thus, delegation alone will 
+not lower the inflation rate; the conservative Central Banker must be free from 
+the control of the government to pursue the objective of inflation control. 
+Check Your Progress 1 
+1. Explain why policy rule is preferred to discretion.  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+2. What is meant by dynamic consistency?  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+17.3. CONSENSUS VIEW OF MONETARY POLICY 
+We start the analysis by describing the main objectives of a Central Bank. We 
+hypothesize that the Central Bank has an inflation target of 𝑥ᇱ in mind. It also 
+wishes to keep output at its natural level, 𝑦ᇱ. The main instrument of the Central 
+Bank policy is the rate of interest. In older versions of many textbooks, it is 
+
+
+--- Page 35 ---
+ 
+269 
+ 
+Theory of Monetary 
+Policy 
+assumed that the Central Bank pursues its objectives by regulating the supply of 
+money. Under this policy, the interaction between supply of money and demand 
+for money determines the rate of interest. An implication of the above is that 
+money supply is an exogenous variable (determined by the Central Bank) while 
+interest rate is an endogenous variable.  
+In recent years, the consensus has shifted in the other direction. Most economists 
+today argue that the main instrument of monetary policy is interest rate. For 
+example, the Reserve Bank of India fixes its repo rate (the rate at which it lends 
+to commercial banks), which in turn influences both loan and deposit rates in the 
+economy. Thus, we assume that the interest rate is exogenous and money supply 
+is endogenous. 
+The main variable that influences aggregate demand is the real rate of interest, 
+i.e., the excess of nominal interest rate over (expected) inflation. We shall assume 
+that the Central Bank can influence the short term real interest rate by varying the 
+short term nominal interest rate. A question arises: how does the Central Bank 
+decide on the interest rate?  
+In macroeconomic literature it is well established that the Central Bank fixes the 
+(real) rate of interest according to the following formula: 
+𝑟 = 𝑟ᇱ + 𝑎(𝑥 − 𝑥ᇱ) + 𝑏(𝑦 − 𝑦ᇱ)      ... (17.11) 
+The formula given at equation (17.11) is called the Taylor’s rule. Equation 
+(17.11) assumes that both a and b are positive. It implies that the rate of interest 
+is positively related to deviation of output (𝑦 − 𝑦ᇱ) and deviation of inflation 
+(𝑥 − 𝑥ᇱ) from their target levels. When output and inflation are at their target 
+levels, the rate of interest will be equal to 𝑟ᇱ. If actual inflation is higher than 
+targeted inflation (or, actual output is higher than natural output), the Central 
+Bank will increase the rate of interest. You would have noticed this in the 
+decisions of the Monetary Policy Committee of the RBI. 
+The demand side of the economy is represented by an IS curve of the following 
+type: 
+𝑦 − 𝑦ᇱ = 𝑐 − 𝑑𝑟        ... (17.12) 
+Equation (17.12) indicates that actual output and, thus, the output gap responds 
+negatively to real interest rate ( 𝑟), where c captures the effect of other factors 
+such as fiscal policy and external demand on output. Notice that the output gap 
+will be zero when 𝑟 =
+௖
+ௗ
+. The rate of interest ( 𝑟), at which output gap equals zero 
+is called as the ‘neutral rate of interest’. Both c and d are, of course, positive. 
+Inflation and output are related to each other through an “accelerationist” 
+Phillip’s Curve. Inflation is of the demand-pull variety. Inflation increases over 
+time when high aggregate demand causes output to remain above its natural level 
+(this requires e to be positive in equation (17.13)). This is captured by the 
+following simple expression: 
+∆𝑥 = 𝑒(𝑦 − 𝑦′)       ... (17.13) 
+
+
+--- Page 36 ---
+ 
+270 
+ 
+Issues in  
+Monetary Policy 
+ 
+The difference operator ( ∆) shows the change in the value of a variable between 
+two time periods. Notice that equation (17.13) can be derived from equation 
+(17.2) by assuming that the public expects the previous year’s inflation rate. That 
+is, equation (17.13) can be viewed as an adaptive expectations version of 
+equation (17.2). 
+Equations (17.11) and (17.12) suggest a positive relationship between inflation 
+rate and output. When inflation rate increases, the Central Bank responds by 
+increasing the real interest rate. This, in turn, contracts aggregate demand and 
+total output in the economy. By using equation (17.12) in equation (17.11), we 
+obtain the following equation of the aggregate demand (AD) curve: 
+𝑦 = 𝑦ᇱ + ቂ
+௖ିௗ௥ ᇲାௗ௔௫ ᇲ
+ଵା௕ௗ ቃ −
+ௗ௔௫
+ଵା௕ௗ       ... (17.14) 
+Aggregate demand is depicted in Fig. 17.2. Macroeconomic equilibrium will be 
+attained at that point on the AD line where output and inflation rate are at their 
+respective targets. Clearly, none of the variables will then have any tendency to 
+change. Since output is pegged at its natural level, inflation rate will remain 
+unchanged due to our formulation of the Phillips Curve in equation (17.12). Also, 
+since output and inflation targets have been achieved, the Central Bank will have 
+no incentive to change the rate of interest. Thus, the combination of 𝑦ᇱ and 𝑥ᇱ on 
+the AD curve in Fig. 17.2 represents an equilibrium condition. We observe from 
+equation (17.14) that if inflation is 𝑥ᇱ, output will be equal to 𝑦ᇱ when the 
+following condition holds hold 
+ 
+𝑟ᇱ =
+௖
+ௗ
+          ... (17.15) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 17.2: Macroeconomic Equilibrium 
+ 
+ 
+ 
+𝐴𝐷 
+ 
+𝐴𝐷ᇱ 
+y’ 
+𝑥ᇱ 
+ B 
+C 
+y 
+x 
+ 
+
+
+--- Page 37 ---
+ 
+271 
+ 
+Theory of Monetary 
+Policy 
+ 
+The Central Bank must set parameter 𝑟ᇱ equal to the neutral rate of interest. This 
+may not be simple, as the Central Bank may not be aware of the correct 
+parameters of the IS curve and may end up underestimating or overestimating the 
+neutral rate. Since 𝑦 = 𝑦ᇱ at the equilibrium point, it follows from equation 
+(17.1) that: 
+𝑟 = 𝑟ᇱ =
+௖
+ௗ          ... (17.16) 
+If the Central Bank fixes the value of 𝑟ᇱ according to equation (17.15), the 
+aggregate demand (AD) curve will pass through ( 𝑦ᇱ, 𝑥ᇱ) in Fig. 17.2. If 𝑟ᇱ ≠
+௖
+ௗ  , 
+then it must be the case that 𝑥 ≠ 𝑥ᇱ when 𝑦 = 𝑦ᇱ. This can be verified from 
+equation (17.14). In Fig.17.2, such a situation arises when aggregate demand is 
+given by the line 𝐴𝐷ᇱ. 
+Now, suppose the Central Bank fixes 𝑟ᇱ according to equation (17.15) so that 
+aggregate demand is given by the AD line in Fig. 17.1. If the economy lies to the 
+left of point ( 𝑦ᇱ, 𝑥ᇱ) on the AD line, actual output will remain below its natural 
+level. Therefore, due to our formulation of the Phillips’ Curve, inflation rate must 
+be falling. The Central Bank will then swing into action by reducing the rate of 
+interest and, thereby, expanding aggregate demand. Thus, from B, the economy 
+will move down along the AD line as indicated by the arrow pointed in the south-
+east direction. At B, actual output is less than the natural output and, thus, it 
+follows from equation (17.12) that actual interest rate must exceed the natural 
+interest rate fixed by equation (17.15). For any point to the right of ( 𝑦ᇱ, 𝑥ᇱ) on the 
+AD line, inflation must be rising causing our hypothetical economy to move in 
+the north-west direction. Similarly, the actual interest rate must be less than the 
+neutral interest rate. On the whole, the Central Bank has to first identify the 
+correct neutral rate of interest and then vary the actual rate of interest towards the 
+neutral rate. 
+Let us now examine the impact of two policy experiments: (i) an increase in 
+inflation target of the Central Bank, and (ii) a shift in fiscal policy.  
+17.3.1 Impact of a Higher Inflation Target  
+Suppose the economy is initially at equilibrium point A in Fig. 17.3 when the 
+Central Bank increases its inflation target 𝑥ᇱ. This causes the AD line to shift to 
+𝐴𝐷ᇱ in Fig. 17.2. It can be verified from equation (17.5) that the intercept of AD 
+line increases due to an increase in 𝑥ᇱ. Intuitively, this happens because a higher 
+inflation target results in a lower rate of interest due to interest rate rule. Note that 
+a shift in inflation target does not affect the neutral rate of interest in the 
+economy, which remains specified according to equation (17.15). The first 
+impact of a higher inflation target is felt by aggregate demand. There is an 
+increase in aggregate demand as actual interest rate falls below its neutral level. 
+This is captured by a movement from A to C in Fig. 17.3. At C, the actual output 
+level exceeds the natural output level causing inflation rate to increase and output 
+to fall along the 𝐴𝐷ᇱ line. The new equilibrium is attained at B where inflation is 
+at its new target, 𝑥ᇱᇱ. At B, actual output equals natural output and, since the 

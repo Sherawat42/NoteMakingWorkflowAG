@@ -1,0 +1,284 @@
+--- Page 31 ---
+ 
+ 
+ 
+194 
+Theories of  
+Business Cycles        +𝜆[𝑤ଵ 𝑙ଵ +
+ଵ
+ଵା௥ 𝑤ଶ 𝑙ଶ − 𝑐ଵ −
+ଵ
+ଵା௥ 𝑐ଶ ]     ... (12.17) 
+In equation (12.17), the choice variables of the household are 𝑐ଵ, 𝑐ଶ  , 𝑙ଵ  and 𝑙ଶ . 
+Our aim is to show the responsiveness of the relative labour supply due to the 
+variation in relative wage in the two periods. Hence, we need to find out the ﬁrst- 
+order conditions for 𝑙ଵ  and 𝑙ଶ  from equation (12.17). These conditions are:  
+௕
+ଵି௟ భ
+=  𝜆𝑤ଵ        ... (12.18) 
+௘ షഐ ௕
+ଵି௟ మ
+=  
+ଵ
+ଵା௥ 𝜆𝑤ଶ        ... (12.19) 
+In order to simplify the above two equations, we divide both sides of (12.18) by 
+𝑤ଵand both sides of (12.19) by 𝑤ଶ /(1 + r). Thus, we obtain 
+௕
+ଵି௟ భ
+ଵ
+௪ భ
+=  𝜆 and 
+௘ షഐ ௕
+ଵି௟ మ
+ଵା௥
+௪ మ
+=  𝜆      ... (12.20) 
+Now, 
+௘ షഐ ௕
+ଵି௟ మ
+ଵା௥
+௪ మ
+=  
+௕
+ଵି௟ భ
+ଵ
+௪ భ
+   
+The relative labour supply in the two periods is:     
+ଵି௟ భ
+ଵି௟ మ
+=  
+௕
+௘ షഐ ௕ (ଵି௥ )
+௪ మ
+௪ భ
+=  
+ଵ
+௘ షഐ (ଵି௥ )
+௪ మ
+௪ భ
+      ... (12.21) 
+In the two-period case, the wage rate enters into the labour supply function. 
+Equation (12.21) implies that there is a relation between the relative labour 
+supply and the relative wage. This is to note here that (1 − 𝑙ଵ )  means the 
+household releases 𝑙ଵ that means the remaining (1 − 𝑙ଵ ) refers to the leisure in the 
+first period. If 𝑤ଵ rises relative to 𝑤ଶ , then 𝑙ଵ has to be increased or (1 − 𝑙ଵ ) has 
+to be decreased to satisfy equation (12.21). That means if the wage rate increases 
+in the first period relative to the second period, labour supply has to increase in 
+the first period relative to the second period (or leisure has to decrease in the first 
+period relative to the second period). The elasticity of substitution between 
+leisure in the two time periods is 1 (due to its logarithmic functional form).  
+Let us consider the case of a rise in r in equation (12.21). It indicates that there is 
+an increase in the labour supply in the first period relative to second-period. A 
+rise in interest rate in the first period raises the incentive to work more (hence, 
+earn more and save more) in the first period relative to the second period. You 
+might have observed that the effect of interest rate is crucial to fluctuation in 
+employment in an economy. The effect of relative wage and interest rate on the 
+labour supply (or employment or leisure) is known as intertemporal substitution 
+in labour supply. 
+Check Your Progress 2 
+1)  Give four examples of negative real shocks to an economy?  
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+
+
+--- Page 32 ---
+ 
+ 
+ 
+195 
+Real Business Cycles 2)  Explain the concept of intertemporal substitution of labour.  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+3)  Explain how relative labour supply is dependent upon relative wage.  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+4)  In an intertemporal utility function, what is the impact of a rise in interest rate 
+on labour supply?  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+12.6  IMPACT OF SUPPLY SHOCKS TO THE 
+ECONOMY 
+Now let us discuss the impact of the productivity shocks or technology shocks 
+through our RBC model as we discussed in the previous section. Assume that 
+there is an exogenous and temporary (lasting for one time period) favourable 
+shock to technology in a given time period ( t). This is reflected in our model by a 
+rise in the 𝐴௧ term as in equation (12.1). Let us denote the initial level technology 
+as 𝐴଴  ௧ which increased to  𝐴ଵ  ௧ due to the shock. The growth in technology will 
+cause a rise in the income 𝑌௧ at the given levels of 𝐾௧ and 𝐿௧. 
+The effect of this shock is illustrated in Fig. 12.2. Initially, at the level of 
+technology 𝐴଴௧  the corresponding production function is 𝐾௧
+஑ (𝐴଴௧  𝐿௧)ଵି஑ . Let us 
+assume that  L଴  is the optimal amount of labour at this level of technology and 
+corresponding equilibrium output is 𝑌଴ . The beneficial productivity shock (or 
+technology shock) shifts the production function upward to 𝐾௧
+஑ (𝐴ଵ௧  𝐿௧)ଵି஑ . In 
+addition to this upward shift, the nature of the shock is assumed to be such that 
+the production function becomes steeper for any level of labour input. We know 
+from microeconomics that the slope of the production function is the marginal 
+product of labour. Thus, the positive technology shock increases marginal 
+productivity also. Hence, at the same level of labour input ( L଴ ), we have higher 
+output 𝑌ଵ
+ᇱ due to the increase in productivity. That means the favourable shock 
+has changed the production possibilities as well. If we increase the labour input 
+to Lଵ , the corresponding higher output is Yଵ  due to the increased productivity. 
+
+
+--- Page 33 ---
+ 
+ 
+ 
+196 
+Theories of  
+Business Cycles  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 12.2: Effect of Positive Technology Shock 
+Now, let us discuss about the distribution of such increased output. The increased 
+output is distributed between consumption and saving. One possibility is that the 
+increased output goes completely towards consumption. But, particularly in the 
+case of a temporary shock, we may not prefer to consume all, but we like to save 
+a portion of them for future higher consumption. If this is the case, equation 
+(12.2) suggests that the higher the saving higher will be the level of investment. 
+This will cause the capital stock to be higher in the next period as well as other 
+future periods. Thus, the exogenous and temporary technology shock leads to 
+increases in future capital stock. 
+Had the shock lasted for several periods or caused permanent effects, the 
+economy would have responded somewhat differently. A permanent shock 
+causes higher output for a longer period. Hence, the incentive to save would be 
+reduced and consumption would be increased. The other possibility in the 
+permanent shock case is that the increase in the labour input may not be high. 
+Nevertheless, a persistent productivity shock will cause an increase in output, 
+capital stock, and employment. 
+You should note that there is persistence of the effect of technology shocks. 
+However, this statement is criticized by Keynesian economists as it cannot 
+explain the persistence of real-world business cycles. The believers of RBC 
+model argue that as explained in the model, the dynamic responses of optimizing 
+𝑌௧ 
+𝑌ଵ  
+𝑌ଵ
+ᇱ 
+𝑌଴  
+𝐿଴  𝐿ଵ  𝐿௧ 
+𝐴ଵ ௧ 𝐹(𝐾௧, 𝐿௧) 
+𝐴଴ ௧ 𝐹(𝐾௧, 𝐿௧) 
+
+
+--- Page 34 ---
+ 
+ 
+ 
+197 
+Real Business Cycles agents to change in economic conditions will have sustained effects. Such 
+responses can explain periods of persistently high or low economic activity. 
+12.7 NEW-KEYNESIAN VIEW ON BUSINESS CYCLE  
+An important assumption of new-classical models is continuous market clearing, 
+which implies perfect competition and flexibility in wages and prices. Thus, 
+adjustments in prices and wages were instantaneous. Recall that classical 
+economics was based on the same assumptions. Keynes discarded such 
+assumptions and stressed on market imperfections. He advocated an activist role 
+for the government.   
+A major criticism of Keynesian economics by Robert Lucas was that Keynesian 
+economics does not have microfoundation. Further, expectations about future 
+prices are not taken into account in Keynesian economics. New-Keynesian 
+macroeconomics overcomes the above criticisms by including microfoundation 
+and rational expectations.  
+What will happen if the above two features is brought into Keynesian 
+economics? It implies that New-Keynesian economics also uses DSGE models. 
+However, New-Keynesian models retain market imperfections and rigidities in 
+prices and wages. Thus, there is not much difference between new-classical 
+macroeconomics and new-Keynesian macroeconomics so far as methodology is 
+concerned. The assumptions about market clearing are different however. New-
+Keynesian economists see certain imperfections in the market, particularly 
+imperfect competition in the market and rigidities in prices and wages. In order to 
+bring in such imperfections to DSGE models, new-Keynesian economists include 
+various price-setting and wage-setting equations. These models take care of 
+adjustment costs (such as menu costs) in wage setting, mark-up in price setting 
+(as a measure of market imperfection) and some form of Taylor Rule for interest 
+rate setting (policy rule).  
+Check Your Progress 3 
+1)  Explain the impact of a supply shock on the economy through a diagram.  
+.............................................................................................................................
+............................................................................................................................. 
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+2)  Sate the issues emphasised by new-Keynesian economics in dynamic 
+stochastic general equilibrium models.  
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+
+
+--- Page 35 ---
+ 
+ 
+ 
+198 
+Theories of  
+Business Cycles 12.8 LET US SUM UP 
+Real business cycle (RBC) theory is based on microeconomic foundations in the 
+sense that it takes into account the behaviour of economic agents such as firms 
+and households. Thus, it considers the production function for analyzing changes 
+in behavior of firms during a business cycle. Similarly, it considers the 
+consumption function, particularly substitutability between labour and leisure on 
+the part of households. Further, RBC theory is based on rational expectations in 
+the sense that economic agents optimize on their objective functions by taking 
+into account all information available to them. The RBC models adopt a general 
+equilibrium framework for empirical estimation. The assumptions of RBC 
+models, particularly its assumption of continuous market clearing, are challenged 
+by new-Keynesian economics. The  new-Keynesian economists, while adopting 
+microfoundation, rational expectations and general equilibrium framework, 
+incorporate market imperfections such as adjustment costs, staggered prices and 
+mark-up pricing in dynamic stochastic general equilibrium (DGSE) models.   
+12.11  ANSWER/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) There are three basic assumptions in new-classical models, viz., rational 
+expectations, continuous market clearing, and Lucas supply function. You 
+should discuss the implications of these assumptions. Refer to Section 12.2 
+for details.
+ 
+2) There are basically reasons, viz., inter-temporal substitution between labour 
+and leisure, and Lucas supply function. According to new-classical 
+economics, business cycles are rational response of economic agents to 
+shocks to the economy. Refer to Section 12.2.
+ 
+Check Your Progress 2 
+1) There could be several examples of real shocks. The negative shocks for 
+example could be decline in technology (i.e., technical regress), unexpected 
+rise in input prices (crude oil crisis), scanty rainfall (severe drought), and 
+large-scale increase in taxes on inputs. Refer to Section 12.3. 
+2) Refer to Section 12.4 and explain on the basis of equation (12.21). 
+3) Refer to equation (12.21). You can find that the ratio of labour supply in 
+both the periods is influenced by the ratio of wage rates.  
+4) Refer to Section 12.4 and explain on the basis of equation (12.21). 
+Check Your Progress 3 
+1) Refer to Fig. 12.2 and answer.  
+2) Refer to Section 12.7 and answer. 
+ 

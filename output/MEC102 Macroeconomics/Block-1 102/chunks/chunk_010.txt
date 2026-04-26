@@ -1,0 +1,388 @@
+--- Page 86 ---
+ 
+86 
+ 
+Traditional Approches 
+to Macroeconomics 
+capital mobility, which occurs when there are restrictions on cross-border capital 
+flows or when domestic and foreign bonds are imperfect substitutes, there can be 
+a difference between iand i f. However, here we will only consider the case of 
+perfect capital mobility.  
+5.3 MONETARY AND FISCAL POLICIES UNDER 
+ FLEXIBLE EXCHANGE RATE 
+When a country has a flexible exchange rate regime, its exchange rate is 
+determined by demand and supply in the foreign exchange market. We consider 
+the case of a pure float , where there is no official intervention in currency 
+markets and hence no role of foreign exchange reserves, with BOP equilibrium 
+achieved via exchange rate fluctuations.  
+5.3.1 Fiscal Policy under Flexible Exchange Rates  
+Consider the open economy IS-LM model with perfect capital mobility and 
+suppose the government follows expansionary fiscal policy in this set up as in 
+Fig. 5.2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fig. 5.2: Expansionary Fiscal Policy under Flexible Exchange Rates 
+Initially the economy is at E 1 (see Fig. 5.2), where goods and money markets are 
+in equilibrium and there is BOP equilibrium as well, with i 0= i f.  With fiscal 
+expansion (or fall in tax rate t), there is an increase in G. The IS curve shifts from 
+IS0 to IS 1 and the interest rises from i 0 to i 1 as the economy moves to the new 
+equilibrium E1. However, with if remaining the same, the rise in domestic interest 
+rate makes domestic bonds relatively more attractive and there is a surge in 
+capital inflows, that leads to a BOP surplus (excess supply of foreign exchange), 
+causing a currency appreciation (e falls). With given prices (implying prices 
+remaining constant), a nominal appreciation leads to a real appreciation (r falls), 
+reducing X, raising M and worsening the trade balance (NX falls). As a result 
+aggregate demand falls and the IS curve shifts to the left. It shifts back all the 
+way to IS 0, where once again i = i 0 = i f and output is back to Y 0.Note that at any 
+other IS curve, e.g., IS 2, the domestic interest rate is still above i f (i2> if), so e, r 
+i 
+i0 = if 
+i1
+i2 E0 
+E1 
+Y0 Y1 
+Y 
+IS0 
+IS1 IS2 
+BP 
+ LM ቀMഥ pൗ ቁ 
+
+
+--- Page 87 ---
+ 
+87 
+ 
+Open Economy 
+Macroeconomics-II 
+and NX would fall and IS would shift further to the left. Therefore, we see that 
+with flexible exchange rates, fiscal expansion is ineffective. It fails to raise output 
+(the increase in output from Y 0 to Y 1 is only temporary), the trade balance 
+worsens because of appreciation in the exchange rate (NX is lower) and the fiscal 
+position deteriorates (G has increased or tax rate t has fallen). 
+5.3.2 Monetary Policy under Flexible Exchange Rates  
+We now examine the impact of expansionary monetary policy under a flexible 
+exchange rate regime.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Fig. 5.3: Expansionary Monetary Policy under Flexible Exchange Rates] 
+In Fig. 5.3 an increase in nominal money supply (from M 0 to M 1) shifts the LM 
+curve outward from LM 0 to LM 1 and the economy moves from E 0 to E 1, as 
+domestic interest rate falls from i 0 to i1.At i1 there is  internal balance (output and 
+money markets are in equilibrium) but there is external imbalance (BOP 
+disequilibrium) that triggers capital flows. Since i 1< i f, this triggers a capital 
+outflow, leading to a BOP deficit (excess demand for dollars) and causing a 
+depreciation of the nominal (e rises) and real exchange rates (r rises). As a result 
+domestic goods become relatively cheaper, X rises, M falls and NX increases, 
+and with higher external demand, the IS curve shifts to the right. This process 
+continues till the IS curve shifts all the way to IS 3 and the economy is at E 3, 
+where once again i = if and both internal and external balance are restored. At any 
+other point (e.g., E 2 on IS 2, i2< if, so e and r would rise, NX would fall, moving 
+the IS curve further to the right). 
+This shows, that in complete contrast to fiscal policy, monetary expansion is an 
+extremely effective policy tool in an open economy with flexible exchange rates 
+i 
+i0 = if 
+i1
+i2
+E0 
+Y0 Y1 
+Y 
+IS0 
+IS3 
+IS2 
+BP 
+E
+E
+E
+Y3 
+LM଴ ቀM଴ pൗ ቁ 
+LMଵ ቀMଵ pൗ ቁ 
+
+
+--- Page 88 ---
+ 
+88 
+ 
+Traditional Approches 
+to Macroeconomics 
+and perfect capital mobility. It brings about currency depreciation that improves 
+the trade balance, so that output increases from Y0 all the way to Y3.  
+Check Your Progress 1 
+1. What is the effect of monetary expansion on output and interest rates in an 
+ open economy with perfect capital mobility under flexible exchange rate? 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+2. Comment on the effectiveness of monetary policy in open economies in light 
+ of your answer to Question 1 above.  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+3. What is the effect of fiscal contraction (cut in tax rate) on output and interest 
+ rates in an open economy with perfect capital mobility under flexible 
+ exchange rates?  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+5.4 MONETARY AND FISCAL POLICIES UNDER 
+ FIXED  EXCHANGE RATE 
+With fixed exchange rates, exchange rate fluctuations are ruled out and the 
+central bank plays a very important role as it holds foreign exchange reserves and 
+intervenesin foreign exchange markets to maintain the fixed parity. 
+5.4.1 Fiscal Policy under Fixed Exchange Rates  
+
+
+--- Page 89 ---
+ 
+89 
+ 
+Open Economy 
+Macroeconomics-II 
+We first consider the impact of expansionary fiscal policy under a fixed exchange 
+rate system, where e = e* is the official parity (Fig. 5.4).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 5.4: Expansionary Fiscal Policy under Fixed Exchange Rates 
+Suppose there is fiscal expansion, either through an increase in government 
+expenditure or via a cut in taxes. The IS curve shifts out from IS 0 to IS 1 and the 
+interest rate rises to i 1 (see Fig. 5.4). With higher domestic interest rates (i 1> if), 
+there is a surge in capital inflows as there is BOP surplus and an excess supply of 
+dollars (foreign exchange). This creates pressure for currency appreciation, but 
+the central bank is committed to maintaining a fixed rate. Therefore it intervenes 
+and buys dollars in order to mop up the excess supply. As a result foreign 
+exchange reserves increase, leading to an increase in money supply, which shifts 
+the LM curve outward. This process continues as long as i> i f and it stops only 
+when LM shiftsto LM 1, where money supply has increased to M 1 (M1> M0) and 
+the economy reaches E 1 where i =i f, output has increased to Y 1 and there is no 
+crowding out.  
+Therefore, fiscal policy is extremely effective under a system of fixed exchange 
+rates, as change in foreign exchange reserves brings about monetary expansion to 
+accommodate the fiscal expansion. This is in complete contrast to the case of 
+flexible exchange rates under which fiscal policy was quite ineffective. 
+i0 = if 
+i 
+IS0 
+Y0 
+Y 
+LM଴ ቀM଴
+pൗ ቁ 
+i1
+E1 E0 
+LMଵ ቀMଵ pൗ ቁ 
+BP 
+IS1 
+Y1 
+
+
+--- Page 90 ---
+ 
+90 
+ 
+Traditional Approches 
+to Macroeconomics 5.4.2 Monetary Policy under Fixed Exchange Rates  
+Now we consider the case of a monetary expansion under a system of fixed 
+exchange rates (Fig. 5.5).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 5.5: Expansionary Monetary Policy under Fixed Exchange Rates 
+Suppose the central bank engages in an open market purchase of bonds in a bid to 
+increase domestic money supply. This shifts the LM curve from LM 0 to 
+LM1(since money supply increases from M 0 to M 1) and the economy moves to 
+E1, where the interest rate i 1< i f (see Fig. 5.5). Due to lower domestic rates of 
+interest, investors would move to foreign bonds, triggering capital outflows and 
+giving rise to a BOP deficit and excess demand for dollars. This creates pressure 
+for currency depreciation, but the central bank is committed to maintain a fixed 
+parity. Therefore it intervenes to sell dollars against rupees, leading to a fall in 
+foreign exchange reserves and contraction in money supply. As money supply 
+falls, the LM curve shifts to the left of LM 1 and this process continues as long as 
+i< if. Ultimately the economy is back to E 0, with money supply falling back to its 
+initial level (M0), so that i = if and output is back to its initial level Y0. 
+Clearly with fixed exchange rates and perfect capital mobility, money supply 
+becomes ineffective as a policy tool as monetary expansion has no effect on 
+output in the short run.  
+i0 = if 
+i 
+IS0 
+Y0 
+Y 
+LM଴ ቀM଴ pൗ ቁ 
+i1 E1 
+E0 
+LMଵ ቀMଵ pൗ ቁ 
+BP 
+
+
+--- Page 91 ---
+ 
+91 
+ 
+Open Economy 
+Macroeconomics-II 
+In fact the above discussion indicatesthat money supply becomes endogenous 
+with fixed exchange rates and perfect capital mobility, in the sense that it 
+passively adjusts to changes in the foreign exchange reserves as the central bank 
+intervenes in foreign currency markets to defend the fixed parity. That is, since 
+the central bank wants to hold the exchange rate constant, it has to intervene to 
+keep the exchange rate from depreciating or appreciating, so foreign exchange 
+reserves and hence money supply adjusts accordingly.  
+Our discussion also highlights the fact that it is impossible to simultaneously 
+have the following three features in a single policy regime, viz.: (a) perfect 
+capital mobility; (b) independent monetary policy; and (c) fixed exchange rates. 
+This is also known as the ‘ policy trilemma ’.  In the presence of perfect capital 
+mobilityand fixed exchange rates, money supply becomes endogenous and the 
+Central Bank’s attempt to pursue an independent monetary policy isnot 
+effectiveasthe Central Bank is committed to maintaining a fixed parity. Whereas, 
+in the case of flexible exchange rates, perfect capital mobility and independent 
+monetary policy do indeed go together, as we saw that monetary policy is very 
+effective in this case. Countries may adopt fixed exchange rates and yet retain 
+monetary policy independence only with restrictions on international capital 
+flows, i.e., in the absence of perfect capital mobility. In this case, interest rate 
+differentials between countries would persist owing to restrictions on capital 
+mobility.   
+Check Your Progress 2 
+1. What is the effect of fiscal contraction (cut in tax rate) on output and interest 
+ rates in an open economy with perfect capital mobility under fixed 
+ exchange rate? 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+2. Comment on the effectiveness of fiscal policy in open economies in light of 
+ your answer toquestion 1 above.  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+
+
+--- Page 92 ---
+ 
+92 
+ 
+Traditional Approches 
+to Macroeconomics 
+3. (a) What is the effect of monetary contraction (sale of bonds by central bank) 
+ on output and interest rate in an open economy with perfect capital 
+ mobility under (i) fixed exchange rates, and (ii) flexible exchange rates? 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ ..............................................................................................................................
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ (b) Explain the concept of ‘endogeneity’ of money supply.  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ ..............................................................................................................................
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ (c) Comment on the effectiveness of monetary policy in open economies in 
+ light of your answer in part (a) above.  
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ ..............................................................................................................................
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+4. Use the open economy IS-LM model to explain the concept of ‘policy 
+ trilemma’.  
+ .............................................................................................................................. 
+ ..............................................................................................................................
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+ .............................................................................................................................. 
+5.5 LET US SUM UP 
+In this Unit we discussed the open economy IS-LM model wherein we saw that 
+international trade affects aggregate demand in an economy, while capital flows 
+play an important role in shaping policy outcomes through their impact on 
+interest rates, exchange rates and money supply. In particular we saw that with 
+fixed exchange rates and perfect capital mobility, money supply becomes 
+endogenous, i.e., countries cannot conduct independent monetary policy. Fiscal 
+
+
+--- Page 93 ---
+ 
+93 
+ 
+Open Economy 
+Macroeconomics-II 
+policy is an effective policy tool when the exchange rate is fixed; however, with 
+flexible exchange rates and perfect capital mobility, fiscal expansion becomes 
+ineffective as it has no effect on output and leads to a worsening of the trade 
+balance. Finally, the effectiveness of monetary policy under flexible exchange 
+rates demonstrates that countries can have at most any two of the three policy 
+choices of having independent monetary policy, fixed exchange rates and perfect 
+capital mobility.  
+5.6 ANSWER/HINTS TO CHECK YOUR PROGRESS 
+EXERCISES 
+Check Your Progress 1 
+1) Refer to Sub-section 5.3.1 and Fig. 5.3. 
+2)  Refer to Sub-section 5.3.1. 
+3) Refer to Sub-sections 5.2.2 and 5.2.3 and Fig. 5.1 
+Check Your Progress 2 
+1)   Refer to Sub-section 5.4.1 and Fig. 5.4. 
+2)  Refer to Sub-section 5.4.1 and Fig. 5.4. 
+3) a)  Refer to Sub-section 5.3.2 and 5.4.2, and Fig. 5.3 and Fig. 5.5. 
+    b)  Refer to Sub-section 5.4.2, and Fig. 5.5. 
+    c)  Refer to Sub-sections 5.3.2 and 5.4.2, and Fig. 5.3 and Fig. 5.5. 
+4)   Refer to Sub-section 5.4.2.  
+ 
+  
+ 

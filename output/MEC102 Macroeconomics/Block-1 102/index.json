@@ -1,0 +1,112 @@
+{
+  "source_pdf": "/Users/manishsherawat/Workplace/NoteMakingWorkflowAG/output/MEC102 Macroeconomics/Block-1 102/input/Block-1 102.pdf",
+  "source_filename": "Block-1 102.pdf",
+  "total_pages": 93,
+  "chunk_size": 10,
+  "smart_split": true,
+  "total_chunks": 10,
+  "chunks_directory": "/Users/manishsherawat/Workplace/NoteMakingWorkflowAG/output/MEC102 Macroeconomics/Block-1 102/chunks",
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "filename": "chunk_001.pdf",
+      "text_filename": "chunk_001.txt",
+      "page_range": [
+        1,
+        10
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 2,
+      "filename": "chunk_002.pdf",
+      "text_filename": "chunk_002.txt",
+      "page_range": [
+        11,
+        18
+      ],
+      "pages": 8
+    },
+    {
+      "chunk_id": 3,
+      "filename": "chunk_003.pdf",
+      "text_filename": "chunk_003.txt",
+      "page_range": [
+        19,
+        26
+      ],
+      "pages": 8
+    },
+    {
+      "chunk_id": 4,
+      "filename": "chunk_004.pdf",
+      "text_filename": "chunk_004.txt",
+      "page_range": [
+        27,
+        36
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 5,
+      "filename": "chunk_005.pdf",
+      "text_filename": "chunk_005.txt",
+      "page_range": [
+        37,
+        46
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 6,
+      "filename": "chunk_006.pdf",
+      "text_filename": "chunk_006.txt",
+      "page_range": [
+        47,
+        56
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 7,
+      "filename": "chunk_007.pdf",
+      "text_filename": "chunk_007.txt",
+      "page_range": [
+        57,
+        66
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 8,
+      "filename": "chunk_008.pdf",
+      "text_filename": "chunk_008.txt",
+      "page_range": [
+        67,
+        76
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 9,
+      "filename": "chunk_009.pdf",
+      "text_filename": "chunk_009.txt",
+      "page_range": [
+        77,
+        85
+      ],
+      "pages": 9
+    },
+    {
+      "chunk_id": 10,
+      "filename": "chunk_010.pdf",
+      "text_filename": "chunk_010.txt",
+      "page_range": [
+        86,
+        93
+      ],
+      "pages": 8
+    }
+  ],
+  "created_at": "2026-04-26T06:44:15.640417+00:00"
+}

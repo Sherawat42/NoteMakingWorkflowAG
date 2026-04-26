@@ -1,0 +1,430 @@
+--- Page 1 ---
+ 
+UNIT 6   INFLATION AND UNEMPLOYMENT   
+Structure 
+6.0 Objectives 
+6.1  Introduction 
+6.2   Types of Unemployment 
+6.3 Phillips Curve 
+6.4 Natural Rate of Unemployment 
+6.5 Expectation-Augmented Phillips Curve 
+ 6.5.1 Phillips Curve under Adaptive Expectations 
+ 6.5.2 Phillips Curve under Rational Expectations 
+6.6 Let Us Sum Up 
+6.7 Answers/ Hints to Check Your Progress Exercises 
+6.0  OBJECTIVES 
+After going through this unit you should be able to  
+ identify various types of unemployment; 
+ explain the concept of natural rate of unemployment; 
+ establish a relationship between unemployment and inflation; 
+ explain how the short-run Phillips curve shifts; and 
+ reconcile the difference in shape of the Phillips curve in short-run and long-
+run. 
+ 
+6.1 INTRODUCTION 
+In Units 7 and 8 of BECC 103 we gave some preliminary ideas of inflation – its 
+definition, causes and effects. In this Unit we describe the relationship between 
+inflation and unemployment. In the process, we discuss various types of 
+unemployment and its measurement. Recall that classical economists believed in 
+dichotomy of real and monetary variables. Thus, inflation being a monetary 
+variable should not have any effect on a real variable such as unemployment. 
+Keynesian economists, however, believed that change in monetary variables 
+could affect real variables.  
+Inflation, as you know, is defined as a persistent rise or, a tendency towards 
+persistent rise in the general level of prices . As and when there will be 
+ 
+ Prof. Kaustuva Barik, Indira Gandhi National Open University, New Delhi and Dr. Tarun 
+Manjhi, Sri Ram College of Commerce, University of Delhi. 
+
+
+--- Page 2 ---
+ 
+80 
+ 
+Expectations, Inflation 
+and Unemployment 
+ 
+increase in the general price level, purchasing power of households decline. 
+Increase in inflation is likely to reduce the value of national currency and it’s vice 
+versa. Although there are many types of inflation, it can be mainly classified into 
+three types of inflation- demand pull (caused by increase in demand), cost push 
+(cause by increase in cost of production) and built-in inflation (mainly caused by 
+past events).  The rate of inflation could vary from a low level to a very high 
+level. As of 2021, Venezuela for example has an inflation rate of nearly 10,000 
+per cent per year.  
+Unemployment is a state in which healthy person fails to get employment at 
+prevailing wage. It is caused by various factors that are concerned with demand 
+and supply. There are broadly six types of unemployment- structural (arises due 
+to change in structure of economy, frictional (arises due to time gap between 
+changing jobs), cyclical (arises due to change in cycle of economy i.e. boom, 
+recession, etc.), seasonal (arises due to change in season), disguised 
+unemployment (it is also called hidden unemployment where marginal product of 
+labour is very much close to zero) and under employment in which better 
+qualified person end with low quality, low paid jobs because of excess supply of 
+labour and lower availability of job opportunity.    
+6.2  TYPES OF UNEMPLOYMENT 
+‘Labour force’ as a concept includes all persons in the age group of 16 years to 
+64 years who are willing to work. Thus it includes both employed and 
+unemployed persons. The persons not included in the labour force include those 
+who are retired, too ill to work, keeping the house, or simply not looking for 
+work.  
+‘Work force’ as a concept is somewhat narrower – it includes the employed 
+persons only. Thus the difference between the labour force and the work force 
+gives us the number of unemployed.  
+By employed persons we mean those who perform any paid work (thus 
+homemakers are not included) and those who have jobs. On the other hand, the 
+unemployed as a category includes people who are not employed but are actively 
+looking for work. While considering unemployment we do not take into account 
+those who are not in the labour force. We define unemployment rate as the 
+number of unemployed divided by the total labour force. You should remember 
+that the concept of unemployment implies ‘involuntary unemployment’. This 
+concept implies that a person is willing to work at the prevailing wage rate, but 
+cannot find work.  
+
+
+--- Page 3 ---
+ 
+   81 
+ 
+Inflation and 
+Unemployment 
+There are three types of unemployment, viz., frictional, structural and cyclical. 
+We explain the differences below. 
+(i) Frictional unemployment: It takes place because people switch over from one 
+job to another. In many cases the tenure of job gets over and workers remain 
+unemployed till they get another job. In other cases workers migrate from one 
+region to another in search of better jobs or opt to remain out of job for short time 
+periods. Frictional unemployment takes place because in an economy with 
+imperfect information, job search and matching is not smooth and there are 
+frictions in the economy.  
+(ii) Structural unemployment: It results from the mismatch between supply and 
+demand for different kinds of jobs. For example, in recent years, the number of 
+engineers and management professionals looking for jobs in India has been much 
+higher than available jobs. This has resulted in a number of persons with 
+technical qualification opting for low qualification jobs. Structural 
+unemployment takes place largely due to structural shifts in an economy and 
+adjustments to such shifts take time. A large number of educational institutions in 
+India have discontinued their engineering education programmes. 
+(iii) Cyclical unemployment: It arises due to fluctuations in aggregate demand, 
+which is a part of business cycles. When aggregate demand declines, there is 
+simultaneous decline in the demand for labour and consequent increase in 
+unemployment. On the other hand, a general boom in the economy increases the 
+demand for labour and unemployment decreases. Thus cyclical unemployment is 
+pro-cyclical in nature.  
+Empirical data shows that the labour force in an economy is much less than the 
+total population. Total labour force in India, according to certain sources, is about 
+50 crores compared to an estimated population of 138 crores in 2020. Persons 
+above 65 years and children below 15 years of age however should not be taken 
+into consideration while comparing the size of the labour force to total 
+population. A relevant ratio in this context is the ‘Labour Force Participation 
+Rate (LFPR)’. It is defined as follows: 
+LFPR = Size of the labour force
+Size of population in the age group of 16 − 64 years
+ 
+The labour force participation rate (LFPR) varies across countries, and over time 
+for the same country. If we take gender into account, there could be male labour 
+force participation rate and female labour force participation rate. Usually, there 
+is a gap between male LFPR and female LFPR. In India, for example, female 
+LFPR is much lower compared to male LFPR. Further, there is a sharp decline in 
+female LFPR in recent years. Such a decline could be due to cultural and 
+structural issues.  
+The rate of unemployment u is defined as the ratio of unemployed persons to 
+total labour force. The rate of unemployment varies across countries and for a 
+country over time.  
+ 
+
+
+--- Page 4 ---
+ 
+82 
+ 
+Expectations, Inflation 
+and Unemployment 
+ 
+6.3 PHILLIPS CURVE 
+The Phillips curve, named after A W Phillips, describes the relationship between 
+unemployment and inflation. In 1958 Phillips, then professor at London School 
+of Economics, took time series data on the rate of unemployment and the rate of 
+increase in nominal wage rate for the United Kingdom for the period 1861-1957 
+and attempted to establish a relationship. He took a simple linear equation of the 
+following form:   
+𝑤̇ = 𝑎 − 𝑏𝑢 
+where 𝑤̇  is the rate of wage increase, a and b are constants and u is the rate of 
+unemployment. Phillips found that there exists a stable and inverse relationship 
+between 𝑤̇  and u, with the implication that lower rate of unemployment is 
+associated with higher rate of wage increase.  
+Subsequent to the publication of the results by Phillips, many economists 
+followed suit and attempted similar exercises for other countries. Subsequently, it 
+was established that there is a stable relationship between rising wage rate and 
+rising price level. This led some economists to refine the simple equation 
+estimated by Phillips and use of inflation (the rate of increase in prices) instead of 
+wage rate increase. In many cases the scatter of plot of variables appeared to be a 
+curve, convex to origin. As empirical studies reinforced the inverse relationship 
+between the rate of inflation and the rate of unemployment the Phillips curve 
+soon became an important tool of policy analysis.  
+The policy implication of such a result was astounding – an economy cannot 
+have both low inflation and low unemployment simultaneously. In order to 
+contain unemployment an economy has to tolerate a higher rate of wage increase 
+and vice versa. Thus the Phillips curve justifies the discretionary stabilization 
+policy of a government. 
+In Fig. 6.1 we depict a typical Phillips curve. Suppose the economy is operating 
+at point A with inflation rate of 𝜋ଵ  and unemployment rate of u 1. If the 
+government wants to reduce the rate of inflation to u 2, the economy has to 
+tolerate a higher rate of inflation (𝜋ଶ ).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 6.1: Phillips Curve 
+  Inflation rate 
+  A 
+  B 
+  Unemployment rate 
+ 𝜋ଶ       
+     u2    u1 
+  𝜋ଵ   
+
+
+--- Page 5 ---
+ 
+   83 
+ 
+Inflation and 
+Unemployment 
+During the 1960s and early 1970s the Phillips curve was considered to be an 
+important tool of policy analysis. The prescription was simple and straight 
+forward: During periods of high unemployment the government could follow an 
+expansionary monetary policy which leaves more money in the hands of people. 
+Such a policy may accelerate the rate of inflation while lowering unemployment. 
+Conversely, during periods of high inflation the government could follow a 
+contractionary economic policy so as to reduce inflation rate; the cost of such a 
+policy however was supposed to be higher rate of unemployment. Thus, 
+economists believed that there was a trade-off between inflation and 
+unemployment. The government could choose any combination of inflation rate 
+and unemployment rate depending upon the slope and position of the Phillips 
+curve.  
+During the late 1970s and early 1980s, however, such a belief got shattered. The 
+prescriptions of the Phillips curve did not work at all. Economies suffered from 
+both high inflation and high unemployment. As unemployment increased, there 
+was a lower level of output implying stagnation in economic growth. When 
+governments tried to follow Keynesian policy prescription of higher government 
+expenditure so as to increase aggregate demand, the rate of inflation accelerated. 
+Thus, what most countries experienced was ‘stagflation’ – a combination of 
+stagnation and inflation. The reason for stagflation was found to be supply shocks 
+due the ‘oil crisis’ of 1973 and 1979 (refer to Unit 6). Stagflation prompted 
+economists to explore further into the reasons for stagflation.  
+Check Your Progress 1 
+1. Write a brief note on the various types of unemployment.  
+ ………………………………………………………………………………
+ ………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+2. Explain how the Phillips curve could offer policy options before the 
+government.  
+ ………………………………………………………………………………
+ ………………………………………………………………………………
+ ………………………………………………………………………………
+………………………………………………………………………………
+ ………………………………………………………………………………
+………………………………………………………………………….…... 
+
+
+--- Page 6 ---
+ 
+84 
+ 
+Expectations, Inflation 
+and Unemployment 
+ 
+3. Define the following concepts: 
+a) Involuntary Unemployment 
+b) Natural Rate of Unemployment 
+c) Labour Force Participation Rate  
+d) Inflation-Unemployment Trade-Off 
+……………………………………………………………………………….
+ ………………………………………………………………………………
+ ………………………………………………………………………………
+……………………………………………………………………………….
+ ……………………………………………………………………………… 
+6.4  NATURAL RATE OF UNEMPLOYMENT 
+You might have come across the term full employment, which implies that all 
+workers in the economy are employed. Have you ever thought of such a 
+situation? Can it be attained? When we say that an economy is operating at ‘full 
+employment’ level, we do not mean that there is zero unemployment. Because of 
+imperfections in markets, rigidities in wages and prices, and various frictions in 
+the economy it is not possible to obtain zero unemployment.  
+For example, at any point of time, some workers are in the transition process 
+from one job to another (frictional unemployment). Similarly, a fraction of 
+workers cannot be employed because of mismatch between the skill they possess 
+and the skill required (structural unemployment).  
+In view of the above, a new concept termed ‘natural rate of unemployment’ was 
+introduced in the 1960s independently by Milton Friedman and Edmund Phelps. 
+Natural rate of unemployment takes into account the frictions and imperfections 
+in the economy and assumes that it is natural for an economy to have certain 
+fraction of its labour force unemployed, at any point of time. We observe that any 
+unemployment that is not natural could be due to business cycle, or policy 
+related.  
+For empirical purposes natural rate of unemployment is the total of frictional 
+unemployment and structural unemployment in an economy.  
+It varies across countries, and over time for the same country. For the US 
+economy, for example, natural rate of unemployment is estimated to be between 
+3.5 per cent and 4.5 per cent. Many countries do not report any estimate of 
+natural rate of unemployment.  
+The concept of natural rate of unemployment reshaped macroeconomic analysis 
+in subsequent years. As we will see later in this Unit, expectations of economic 
+agents (such as households, firms and government) about future economic 
+environment play a major role in the shape and position of the Phillips curve.  
+
+
+--- Page 7 ---
+ 
+   85 
+ 
+Inflation and 
+Unemployment 6.5  EXPECTATION-AUGMENTED PHILLIPS 
+ CURVE  
+The Phillips curve discussed earlier could not explain stagflation in an economy. 
+For explaining stagflation we need to bring in expectations into our analysis. In 
+fact, Phillips curve given in Fig. 6.1 holds true if there is no change in 
+expectations in the minds of people. In case people perceive that there is a change 
+in expectations, then the Phillips curve will shift. Both adaptive expectations and 
+rational expectations have important implications for Phillips curve.  
+6.5.1 Phillips Curve under Adaptive Expectations 
+You know from microeconomics that workers and employers take decisions 
+regarding employment on the basis of real wage; not nominal wage. According to 
+Friedman and Phelps, expectations do matter. Thus the ‘expected real wage’ 
+should be looked into account for determining equilibrium output and wage rate.  
+Workers usually enter into a contract with the employer regarding their salary for 
+certain time period. During contract period, salary cannot be re-negotiated; it can 
+be changed only after the contract period is over. As the workers are aware of 
+these conditions, they incorporate expected inflation into the contract. For 
+example, if the workers expect that inflation rate would be 3 per cent in the 
+coming year, they will negotiate the wage rate in such a manner that the real 
+wage rate does not decline due to price increase.  
+For an expected inflation rate of 𝜋ଵ  per cent, suppose the Phillips curve is given 
+by SRPC 1 (see Fig. 6.2). Suppose the economy is at point A. At this point the 
+expected inflation rate is 𝜋ଵ  (say 3 per cent) and unemployment rate is at the 
+natural rate u* (say 6 per cent). At point A, the workers and firms expect an 
+inflation rate of 3 per cent and they are getting it. Thus there is no pressure on the 
+economy for a change.  
+There is a possibility of trade-off between inflation and unemployment along the 
+curve SRPC 1. If there is higher inflation, then real wage will decline (because 
+nominal wage cannot be increased due to existing contracts). Consequently, firms 
+will employ more labour thereby leading to a decline in unemployment.  
+Suppose the government pursues an expansionist fiscal policy (government 
+expenditure increases or tax rate decreases), which will boost aggregate demand. 
+As a result, there is an increase in prices (means higher inflation rate). An 
+expansionist monetary policy, such as increase in money supply or decrease in 
+interest rate, will also have the same effect. It will lead to an increase in 
+investment which will, to some extent, increase the demand for labour also. In 
+either case, there is an increase in inflation rate to 𝜋ଶ  (say 6 per cent). The rate of 
+unemployment reduces to u 2 (below the natural rate). It implies that more 
+workers are employed, as a result of which output will be higher than potential 
+output. In Fig. 6.2 we have shown this situation as point B. 
+
+
+--- Page 8 ---
+ 
+86 
+ 
+Expectations, Inflation 
+and Unemployment 
+ 
+Equilibrium at point B, however, is temporary. Workers very soon realize that 
+there is an unexpected increase in inflation rate. In order to compensate for the 
+price rise, workers will demand a higher wage rate. It will lead to a shift in the 
+Phillips curve from SRPC 1 to SRPC 2. Equilibrium in the economy will be at 
+point C in Fig. 6.2. Consequently, inflation will be at 𝜋ଷ  while unemployment 
+will be at the natural rate, i.e., u*. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 6.2: Shift in Phillips Curve 
+Notice that unemployment in the economy is back at the natural rate (6 per cent). 
+The inflation rate however is much higher ( 𝜋ଷ ). Thus the attempt of the 
+government to reduce unemployment rate below the natural rate inflation rate, 
+results in higher and higher inflation. In view of this, the natural rate of inflation 
+is often termed as the ‘non-accelerating inflation rate of unemployment’ 
+(NAIRU). It means that there is no acceleration in inflation if unemployment is 
+maintained at this. Further, the term natural rate of unemployment indicates that 
+it is inflexible, but social optimal. The term NAIRU, on the other hand, does not 
+indicate any social optimality or desirability.  
+When unemployment is at the natural rate or NAIRU, there will be stability in the 
+rate of inflation. When unemployment departs from the natural rate, there is 
+acceleration or deceleration in inflation rate. Thus if actual unemployment is less 
+than u*, inflation will continue to accelerate – higher and higher in subsequent 
+years. The concept of NAIRU and expectations formation explains the 
+hyperinflation witnessed by many countries. Unless unemployment returns to its 
+natural rate the inflation spiral will keep on accelerating.  
+The above analysis brings us to an important conclusion. Under adaptive 
+expectations, the short run the Phillips curve is downward-sloping. In the long 
+run however, it is vertical. In Fig. 6.2, the vertical line LRPC depicts the long run 
+Phillips curve. Thus there is no trade-off between inflation and unemployment in 
+the long run.  
+ Interest Rate 
+  Unemployment Rate 
+  u2   u* 
+𝜋1 SRPC2 
+SRPC1 
+A 
+B 
+ C 
+LRPC 
+𝜋2 
+𝜋3 
+
+
+--- Page 9 ---
+ 
+   87 
+ 
+Inflation and 
+Unemployment 
+6.5.2 Phillips Curve under Rational Expectations 
+Under rational expectations economic agents such as firms and households are 
+forward looking. They take into account all available information – past 
+experience as well as present and future developments in the economy. There is 
+no perfect foresight under rational expectations, but the errors cancel out on the 
+whole.  
+An implication of the above is that actual inflation rate is equal to expected 
+inflation rate. Thus workers and firms do not commit any error regarding wage 
+rate during negotiations. Thus, there is no trade-off between inflation and 
+unemployment under rational expectations. Unemployment rate in the economy 
+is at the natural rate. 
+Suppose unemployment in the economy is at the natural rate. Firms and workers 
+expect inflation to be at the rate of  𝜋ଵ
+௘ . Suppose, the government pursues an 
+expansionary policy as a result of which there is an increase in aggregate 
+demand. Consequently, there is an increase in the rate inflation. If this policy was 
+expected by the economic agents, they would have factored in the increase in 
+inflation rate into their decision-making. If the policy is unexpected, then it 
+would have the desired effect, that is, reduction in unemployment. This brings us 
+to an important issue: how effective is government policy under rational 
+expectations?  If government policy is expected, it will not have any impact.  
+Check Your Progress 2 
+1. In 2019 the expected rate of inflation was 7 per cent while actual rate of 
+inflation was 5 per cent. If ʎ = 0.5, find out the expected inflation rate for 
+2020.  
+ ………………………………………………………………………….……
+ …………………………………………………………………………….…
+ …………………………………………………………………………….…
+……………………………………………………………………………….
+ …………………………………………………………………………….… 
+2. How do you reconcile the vertical long run Phillips curve with the 
+downward sloping short run Phillips curve? Explain through a diagram.  
+ ………………………………………………………………………….……
+ …………………………………………………………………………….…
+ …………………………………………………………………………….…
+ ………………………………………………………………………………
+……………………………………………………………………………..... 

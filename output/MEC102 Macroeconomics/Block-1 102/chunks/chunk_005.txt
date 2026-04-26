@@ -1,0 +1,498 @@
+--- Page 37 ---
+ 
+37 
+ 
+The Keynesian Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.5: Investment Multiplier 
+The initial equilibrium in Fig. 2.5 occurs at A where AD 0 (= C + I0) intersects 
+OL. With an increase in autonomous investment to I1 (i.e., I = I1 – I0), the AD 
+curve shifts upward to AD 1 (= C + I1) and the new equilibrium occurs at D 
+where AD1 intersects OL. Note that while investment increased by I (= DE), the 
+change in income Y (=DF) that it brings about is greater, i.e., Y > I (where, 
+Y = Y0Y1= AF = DF and DF > DE = I), indicating the operation of a multiplier 
+effect.  
+Induced Investment 
+Suppose the investment function is given by equation (2.2b) above, i.e., I = c + 
+dY. In this case, investment demand has an induced component that is affected by 
+changes in income. The equilibrium income would be derived as follows:  
+ Y = AD = a + bY + c + dY, so that: 
+ Ye = (a + c) / [1 – (b+d)]       … (2.7) 
+ceteris paribus, if there is a change in autonomous investment in this case (i.e., 
+I =c; a = 0), the multiplier would be given by: 1 / [1 – ( b+d)]. This would 
+follow since Y = {1 / [1 – ( b+d)]}c. Note that in this case we assumed that ( b 
++ d) < 1 (i.e., the sum of MPC and MPI is less than one).  
+2.3.3 Government Expenditure and Tax Multipliers 
+We now consider the case of a three-sector economy. For simplicity we assume 
+that investment demand is autonomous and the government incurs a constant 
+amount of expenditure G which is autonomous. The government also collects 
+taxes T. We will consider two cases: (i) the government collects a lump sum tax 
+T, and (ii) the government sets a proportional tax rate t, so that its tax revenue T 
+= tY. The government’s budget deficit ( B) is defined as B = G – T – TR , where 
+TR refers to transfer payments made by the government. In what follows we will 
+assume, for simplicity that TR = 0.  
+AD, C, I 
+∆ I 
+O 
+D 
+L 
+E 
+Y0 Y1 
+450 
+Y 
+A 
+AD1 = C + I̅1 
+AD0 = C + I̅0 
+F 
+
+
+--- Page 38 ---
+ 
+38 
+ 
+Traditional Approaches 
+to Macroeconomics 
+Lump Sum Taxes 
+When the government imposes a lump sum tax T, the equilibrium income would 
+be given by (2.4) above: Ye = (a – bT +I + G) / (1–b). In this case, the multiplier 
+for any change in autonomous expenditure (either investment or government 
+expenditure) would be given by: 1 / (1 – b). Thus, Y/G = 1 / (1 – b) or Y/I 
+= 1 / (1 – b). If there is an increase in the amount of tax collected, then income 
+would fall. In such a case the tax multiplier would be given by: –b / (1 – b). Thus, 
+Y/T = – b / (1 – b). Recall that taxes are a leakage from the income stream, so 
+increase in taxes leads to a decrease in disposable income. Consequently, there is 
+a decrease in consumption demand, leading to a decline in output (as output is 
+demand-determined, lower demand results in lowering of output). You should 
+note that there is a two-way relationship: consumption is influenced by the level 
+of income (evident from the consumption function) and income is influenced by 
+consumption demand.  
+Balanced Budget Multiplier 
+Suppose the government increases its spending (i.e., G > 0) and cut taxes by 
+exactly the same amount (T < 0). It implies that the government budget remains 
+unchanged. If B indicates budget balance, then B = G – T = 0. 
+Alternatively we can write G = T. You may think that such action would have 
+no impact on equilibrium income as the injection of additional demand ( G) is 
+exactly offset by a leakage from the demand stream ( G = T). However, we can 
+show that the multiplier in this case is equal to one, i.e. income increases by the 
+amount of increase in government expenditure. From equation (2.4) we know 
+that Ye = (a – bT +I + G) / (1–b), so that Y = (– bT + G) / (1– b). Since G 
+= T, this can be written as Y = (1 –b) G / (1– b), or Y / G = 1.  
+Proportional Taxes 
+Now suppose the government levies a proportional tax on income at tax rate t, 
+where 0 < t < 1. Since AD = a + b (Y – tY) + I + G, the equilibrium condition is 
+given by  
+Y = a + b (1 – t)Y + +I + G        … (2.7)   
+By re-arranging terms, we obtain the equilibrium level of output as  
+Ye = (a +I + G) / {1 – b (1 – t)}      … (2.8)   
+Equation (2.8) implies that the autonomous expenditure multiplier (for a change 
+in investment or government expenditure) is now lower compared to the cases 
+without the proportional tax. Without proportional taxes the multiplier is given 
+by 1/(1 – b). Now, in the presence of proportional taxes, it is given by Y / G = 
+Y / I = 1 /{1 – b (1 – t)). The reduction in the value of the multiplier arises 
+because, out of the increase in income in each round, a fraction t has to be paid in 
+taxes.  
+You can see from equation (2.8) that any increase in the tax rate would lower 
+equilibrium income, whereas any decrease in tax rate would have the opposite 
+
+
+--- Page 39 ---
+ 
+39 
+ 
+The Keynesian Model effect. Therefore, you should see the logic behind tax cuts offered by 
+governments to revive economic activity. However, remember that our 
+assumption is that there is excess production capacity, which is the main reason 
+why the increase in consumption demand spurred by a cut in taxes would lead to 
+an increase in output. Else, it will lead to price rise instead of increase in output.  
+2.3.4 Open Economy Multiplier 
+In an open economy there is an additional source of demand for domestic output, 
+viz., exports (X). Exports are autonomous as they depend on foreign incomes 
+(i.e., incomes of foreign residents who buy domestic products) rather than 
+domestic income. Therefore, an increase in exports will have multiplier effect on 
+income, via various rounds of induced increases in consumption. Firms and 
+households purchase goods and services from foreign countries in an open 
+economy. Such imports (M) are a leakage from the domestic expenditure and 
+income streams. We assume that demand for imports depend on domestic income 
+level. The import demand function is given by M = h + mY , where h is the 
+autonomous component of import demand. Here, m is the marginal propensity to 
+import (MPM) and m > 0. Note that both exports and imports are influenced by 
+exchange rate changes also (we will take up such issues later in the course on 
+International Economics). In the present Unit we consider any change in exports 
+and imports due to exchange rate fluctuation is treated as an autonomous change.  
+In an open economy, exports are an injection while imports are a leakage from 
+the stream of aggregate demand for domestic goods. Thus, aggregate demand is 
+given by: AD = C +
+I + G + X – M = a + b Y +I + G + X – h – m Y. Therefore, 
+the equilibrium condition is given by 
+ Y = a + b Y +I + G + X – h – m Y      … (2.9)  
+The equilibrium level of output or income is given by  
+Ye = (a – h +I + G + X) / (1 – b + m)     … (2.10) 
+In (2.10), the autonomous components are I, G and X . Any change in these 
+autonomous components will have a multiplier effect. The autonomous 
+expenditure multiplier for investment, government expenditure or exports is 
+given by: Y / G = Y / I = Y / X = 1 / (1 – b + m ). Clearly, the open 
+economy multiplier is smaller compared to the one for the closed economy (1/(1 
+– b). The reason is that a proportion m out of the increment in income is now 
+spent on imports and domestic demand is lower to that extent as compared to a 
+closed economy.  
+In general, from our discussion on multipliers you should note the following 
+points: (i) the multiplier would be larger, the larger is the MPC ( b) and MPI ( d), 
+the lower the tax rate (t) and the smaller the m; (ii) the multiplier is applicable 
+both in case of a rise as well as a fall in autonomous incomes, meaning that 
+income would fall by a multiple in case of a given cut in any autonomous 
+component of demand; and (iii) the operation of the multiplier is driven by the 
+
+
+--- Page 40 ---
+ 
+40 
+ 
+Traditional Approaches 
+to Macroeconomics 
+assumption that the economy has ample excess capacity and unemployed 
+resources, so that output can be demand-determined.  
+2.3.5 Limitations of the Keynesian Model 
+In the beginning of this section we mentioned that the Keynesian model is more 
+relevant for an economy facing recessionary conditions, having excess 
+production capacity in place. In economies having supply constraints (i.e., where 
+there are supply bottlenecks), an increase in demand is likely to result in a rise in 
+prices rather than in output. Second, Keynesian model would not apply to 
+economies that are operating near full employment, where increase in output 
+would require increase in factor and goods prices. Third, Keynesian model is 
+generally used for macroeconomic analysis pertaining to the ‘short run’. 
+Normally, once wage contracts are written they last for some time; also, prices 
+printed on sales catalogues are expected to be valid for some time. So the 
+assumption of wage and price rigidity is quite reasonable for the short run.  
+Check Your Progress 2 
+1. State the assumptions on which the Keynesian model is based. 
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................ 
+ 2.  You are given the following information for a closed economy: C = 10 + 
+ 0.75 Y and I = 20.  
+ a)  Find the aggregate demand function and calculate equilibrium  
+ income for this economy.  
+ b)  Suppose autonomous investment increases to 25. How would  
+ equilibrium income change? 
+ c)  What is the value of the multiplier?  
+d)  How would the value of the multiplier in (b) change if we introducethe 
+government sector which imposes (i) only a lump sum tax, and (ii) only 
+a proportional tax where t = 0.1?  
+ e)  How would the value of the multiplier in (b) change if the economy 
+ is open and MPM = 0.3? 
+  ....................................................................................................................
+ ....................................................................................................................
+ ....................................................................................................................
+ .................................................................................................................... 
+
+
+--- Page 41 ---
+ 
+41 
+ 
+The Keynesian Model 3.  By using appropriate diagram of the Keynesian model, explain how 
+situations of disequilibrium (excess demand or excess supply) are self-
+correcting.   
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+2.4 AN ALTERNATIVE VIEW OF EQUILIBRIUM  
+The Keynesian model can alternatively be described through the saving-
+investment relationship. When saving is equal to planned investment, the 
+economy is operating at the equilibrium level of output.  
+2.4.1 Saving Function 
+The saving function is a mirror image of the consumption function that gives the 
+relationship between planned saving (S) and income (Y) in the economy. In the 
+two-sector model, with only households and firms, aggregate income is either 
+consumed or saved. Thus,  
+Y = C + S         … (2.11)  
+The decision to consume more is essentially the same as the decision to save less.  
+The saving function may be derived as follows:  
+S = Y – (a + b Y) = – a + (1– b) Y      … (2.12).  
+Note that the intercept of the saving function is negative, indicating that ‘dis-
+saving’ (running down past saving) occur at relatively low levels of income. The 
+slope of the saving function is (1– b), which is known as the marginal propensity 
+to save (MPS). Note that MPS = (1–MPC), so that higher the MPC, lower is the 
+MPS. In economic analysis it is often assumed that richer households have higher 
+MPS compared poor households.  
+In Fig. 2.6 we derive the saving function diagrammatically. The top panel 
+represents the consumption function C, while the lower panel represents the 
+saving function.  
+ 
+  
+
+
+--- Page 42 ---
+ 
+42 
+ 
+Traditional Approaches 
+to Macroeconomics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.6: Saving Function 
+At income level Y 2, where C intersects OL (the 45 0 line), planned consumption 
+DY2 is equal to income OY 2 (= DY2) and planned saving is zero. At this level of 
+income, the saving function intersects the x-axis. For all income levels less than 
+OY2 planned consumption exceeds income so that saving is negative. For 
+example, in the top panel, at income level OY 1, planned consumption AY 1 is 
+greater than income BY 1 (= OY 1) and the difference is reflected in negative 
+saving Y 1G in the lower panel. For income levels such as OY 3, which is higher 
+than OY2, planned saving is positive (HY3, in the lower panel).  
+2.4.2 Determination of Equilibrium Output  
+In a two-sector economy with only households and firms, equilibrium in the 
+output market occurs at the level of income (or output) at which planned saving 
+is equal to planned investment. This can be shown as follows: Suppose 
+investment is autonomous and the investment function is given by I = I as in 
+(2.2a). Recall that Y = C + I at equilibrium. We know that income is either 
+consumed or saved, i.e., Y = C + S. Thus, we can put these together to write  
+C + S = Y = C +I, or, S =I        … (2.13) 
+In a closed economy without government, at equilibrium, planned saving must be 
+equal to planned investment. Abstaining from current consumption (i.e., saving) 
+C 
+O 
+A 
+D 
+E 
+L 
+F 
+Y1 Y3 Y2 
+450 
+Y 
+B 
+C = a + bY 
+S 
+-a 
+Y1 
+H S = – a + (1– b)Y Y 
+Y 
+Y1 
+Y2 Y3 
+
+
+--- Page 43 ---
+ 
+43 
+ 
+The Keynesian Model involves producing fewer consumer goods and freeing resources for the 
+production of investment goods. This can also be represented diagrammatically 
+as in Fig. 2.7, where equilibrium income Y e is attained at the intersection of the 
+saving function and the investment function.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Fig. 2.7: Saving-Investment Equality 
+In a three-sector economy, the output market equilibrium condition is Y = C + I 
++ G. Income has three uses: consumption, saving and payment of taxes. Thus, Y 
+= C + S + T. Putting these together, we can write the output market equilibrium 
+condition as:  
+C + S + T = Y = C +I + G, or, S + T =I + G    … (2.14)  
+This can also be written as S + (T – G ) =I , which shows that at equilibrium in a 
+closed economy, planned investment must be equal to total saving that include 
+planned saving by households and public saving (T – G). We can also re-write 
+(2.14) as, (S – I )= (G – T). An implication of the above is: when planned 
+investment is less than planned saving (S – I > 0), the government is running a 
+budget deficit (G – T > 0). The financing of the budget deficit is by borrowing 
+from households.  
+2.4.3 Paradox of Thrift 
+An important result regarding the role of saving in the Keynesian model is 
+referred to as the ‘saving paradox’ or the ‘paradox of thrift’. You know that 
+saving on the part of a household is considered as a virtue. Higher saving 
+increases the assets and wealth of a household in the long run. For the economy 
+as a whole, however, an increase in saving may not be good; it may be a vice. 
+When households plan to save more, aggregate saving either remain the same or 
+may even decrease. Let us explain it through a diagram (see Fig. 2.8).  
+In Fig. 2.8, equilibrium in the economy is at point A, where S = I. Output 
+produced is Y 0. Suppose there is an increase in the autonomous component of 
+households’ planned saving, i.e., at each level of income planned saving is 
+higher. This involves an upward shift of the saving function from S 0 to S 1. Note 
+that S 1 is parallel to S 0 since there is no change in MPS. Now, the equilibrium 
+output level increases to  
+Ye 
+S,I 
+0 
+S = –a + (1–b) Y 
+I̅ 
+Y 
+
+
+--- Page 44 ---
+ 
+44 
+ 
+Traditional Approaches 
+to Macroeconomics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.8: Paradox of Thrift 
+Since there is no change in planned investment, there is disequilibrium in the 
+economy now. Planned investment (DY 1) is the same as before  (DY 1 = AY 0). 
+Since people now wish to save more (saving function has shifted to S 1), income 
+must be lower, so that saving is the same as before. The paradox is, despite an 
+increase in thriftiness, there is no change in aggregate saving.  
+The desire to save more reduces planned consumption, thereby lowering 
+aggregate demand and hence output (and income). At lower income levels, 
+saving is correspondingly lower – instead of BY 0, aggregate saving fall to DY 1, 
+since income has fallen to OY1.  
+If the investment function has an induced component and is given by I = c + d Y, 
+as in (2.2b), then an increase in planned saving can actually lead to lower level of 
+saving at equilibrium, as shown in Fig. 2.9 below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2.9: Paradox of Thrift (Induced Investment) 
+In Fig. 2.9 the saving function shifts from S 0 to S 1. In this case, the reduction in 
+consumption demand (due to rise in planned saving), leads to lower output which 
+  0 
+ –a1 
+S,I 
+D 
+B 
+A 
+Y1 Y Y0 
+S1 = –a1 + (1–b)Y 
+S0 = –a0 + (1–b)Y 
+I̅ 
+S1 
+B A 
+Y1 Y0 
+I0 = c0 + dY S, I 
+c0 
+0 
+S0 
+Y 
+
+
+--- Page 45 ---
+ 
+45 
+ 
+The Keynesian Model further leads to a decrease in induced s, thereby lowering income further. At the 
+lower level of equilibrium income (OY 1 < OY 0), planned saving is 
+correspondingly lower (BY 1 < AY 0), with the desire to save more leading to 
+lower aggregate saving at equilibrium.  
+This result provides an important insight into the role of saving in the short run. 
+In an economy that faces no supply constraints and has excess production 
+capacity, an increase in the desire to save essentially lowers output by lowering 
+aggregate demand. Therefore, at a lower equilibrium income level aggregate 
+saving is the same or may even be lower than before. Note that such decline in 
+output due to higher saving could be a short run phenomenon. In the long run, 
+higher saving allows for higher investment and hence for creation of additional 
+productive capacity. You will learn more about the role of saving in the long run 
+while studying economic growth.  
+Check Your Progress 3 
+1. (a)  In a two-sector economy (with only households and firms) derive the 
+output market equilibrium condition in terms of planned saving and 
+planned investment.  
+    (b)  In a three-sector economy (with households, firms and government), what 
+would be the relation between saving and investment at equilibrium if the 
+government runs a budget surplus? 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+....................................................................................................................... 
+....................................................................................................................... 
+2. What is meant by the ‘paradox of thrift’? Use appropriate diagram to 
+explain the cases of (i) investment demand is autonomous; and (ii) 
+investment demand has an induced component. 
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................
+........................................................................................................................
+................................................................................................................... 
+....................................................................................................................... 
+ 
+  
+
+
+--- Page 46 ---
+ 
+46 
+ 
+Traditional Approaches 
+to Macroeconomics 
+3.  In a two-sector economy (with only households and firms), the 
+consumption function is given by C = 10 + 0.75 Y and I = 20.  
+(i) Derive the saving function. 
+(ii) Derive equilibrium output in terms of the equality of planned saving 
+and investment. 
+(iii) Suppose there is an increase in the desire to save while planned 
+investment remains unchanged. The new saving function is given by        
+S = – 8 + 0.25 Y. Find out the new equilibrium income level. 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+....................................................................................................................... 
+2.5 LIQUIDITY PREFERENCE  
+To complete our understanding of the Keynesian model we have to discuss the 
+concept of ‘liquidity preference’ or the demand for money in this system. An 
+important contribution of Keynes was to point out the interest sensitivity of the 
+demand for money. Note that demand for money refers to the demand for ‘real 
+balances’, i.e., nominal money demand deflated by the general price level. Since 
+prices are constant in the Keynesian system, any change in money demand is 
+essentially a change in the demand for real balances.  
+2.5.1 Components of Demand for Money  
+There are three main reasons people wish to hold money. The main components 
+of the demand for money are (i) transactions demand, (ii) precautionary demand, 
+and (iii) speculative demand. Let us discuss each of the above.  
+Transaction Demand: People hold cash since it is a medium of exchange and is 
+useful for making transactions. This gives rise to transactions demand for money. 
+You would have noticed that people with higher income tend to hold more 
+money for transactions compared to the poor. So it is assumed that the amount of 
+liquid cash people wish to hold for transactions is directly proportional to their 
+incomes.  
+Precautionary Demand : People wish to hold money as it would be useful in 
+contingencies such as medical emergency, accident, etc. It is reasonable to 
+assume that precautionary demand for money is also an increasing function of 
+income.  
+Speculative Demand:  According to Keynes, people also hold money for 
+speculation in the asset market, which gives rise to speculative demand for 
+money. To understand why speculative demand for money is sensitive to the rate 
+of interest, consider an economy where there are only two types of financial 

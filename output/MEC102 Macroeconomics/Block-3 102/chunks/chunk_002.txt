@@ -1,0 +1,620 @@
+--- Page 11 ---
+ 
+134 
+ 
+Intertemporal  
+Decision-making 
+The above condition implies that expectation as of period 1 about 2C  equals 1C . 
+In more general terms if expectations are formed at any period t about a future 
+period t+1, then optimality condition requires that expectation as of period t 
+about 1tC  equals tC , i.e., ][ 1 ttt CEC . Since under rational expectations the 
+actual value of a variable can differ from its expected value only by a random 
+term, this would imply 
+111 ][   tttt eCEC    1 tt eC                  .. (8.12) 
+where 1te  is a random term whose expected value is zero. If you look carefully, 
+equation (8.12) says that consumption from period t to period t+1 would remain 
+unchanged, except for an unpredictable random term. This is precisely the 
+conclusion of the random walk hypothesis. The hypothesis says that changes is 
+consumption over time is unpredictable, because they can only change due to the 
+presence of unpredictable random events.  
+The random walk hypothesis has important implications from the point of view 
+of policy effectiveness. It implies that any government policy to influence 
+consumption (for example, a tax cut) can work only to the extent that it is not 
+anticipated. For example, if the government announces a tax cut policy today, 
+which will be implemented from next year, then consumers with rational 
+expectations will adjust their consumption today itself, so that consumption 
+would remain unchanged when the tax policy actually becomes operative next 
+year.               
+8.4  CONSUMPTION AND RISKY ASSETS: 
+ CAPITAL-ASSET PRICING MODEL  
+While analysing consumption under uncertainty in the previous Section, we had 
+implicitly assumed that the source of uncertainty is the households’ income. In 
+other words, we had assumed that there was no uncertainty as far as the asset 
+return is concerned: the return to asset ( r) was treated as given. (In fact, for 
+simplicity we had assumed that it has a value equal to zero). If the return to asset 
+is non-zero, but the exact return is uncertain then the optimality condition of the 
+individual’s utility maximization will include an expected return term as shown 
+below: 
+ )]()1[()( 11 
+ tttt CurECu ,              ... (8.13) 
+where t is the time period when expectations are formed. 
+We know from the theorem for statistical expectation (operator E) for two events 
+that A and B )(Cov)( ).()( ABBEAEABE   (where Cov( AB)  is the co-
+variance between the two events A and B).  We can visualize (8.13) as a case of 
+two joint events and write the optimality condition as: 
+ )](,1[(Cov)]([)].1[()( 1111   tttttttt CurCuErECu           ... (8.14) 
+
+
+--- Page 12 ---
+ 
+135 
+ 
+Consumption  
+and Asset Prices Now suppose there are two assets: i) one with a certain return (i.e., risk-free) 
+given by 1ti , and ii) another with an uncertain risky return with an expected 
+return value equal to )( 1tt rE . For the risky asset, if we apply the condition (8.14) 
+we obtain  
+)]([
+)](,1[(Cov)()]1[(
+1
+11
+1
+
+
+
+
+
+tt
+tttt
+tt
+CuE
+CurCurE , 
+i.e., 
+)]([
+)](,1[(Cov)(][1
+1
+11
+1
+
+
+
+
+
+tt
+tttt
+tt
+CuE
+CurCurE .            ... (8.15) 
+For the risk-free asset, the return is certain and therefore is uncorrelated to 1tC . 
+In other words, for the risk-free asset 0)](,1[(Cov 11   ttt Cui . Hence for the 
+risk-free asset, the condition (8.14) implies that   
+)]([
+)(1
+1
+1
+
+
+
+
+tt
+t
+t
+CuE
+Cui .               ... (8.16) 
+Comparing (8.15) and (8.16) we get: 
+)]([
+)](,1[(Cov][
+1
+11
+11
+
+
+
+
+
+tt
+ttt
+ttt
+CuE
+CurirE .            ... (8.17) 
+The condition (8.17) gives us a way of determining the optimal (or equilibrium) 
+expected return of a risky asset. Note that a higher value of 1tC  implies a lower 
+value of )( 1 tCu .  Therefore a positive co-variance between 1tr  and 1tC  implies 
+a negative co-variance between  1tr  and )( 1 tCu . Hence (8.17) implies that the 
+higher is the correlation between 1tr  and 1tC , the greater is the required 
+expected return on a risky asset compared to the return from the risk-free asset. 
+To put it differently, the greater is the covariance between 1tr  and 1tC , the 
+higher is the premium that an asset must offer relative to the risk-free rate. This 
+model of determination of expected return of risky assets is known as the 
+Consumption Capital Asset Pricing Model. 
+Check Your Progress 2 
+1. Describe the Random Walk Hypothesis of consumption. What is the 
+implication of this hypothesis from the perspective of government policy? 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................  
+2. Explain the Consumption Capital Asset Pricing rule for a risky asset. 
+.......................................................................................................................
+.......................................................................................................................
+.......................................................................................................................  
+
+
+--- Page 13 ---
+ 
+136 
+ 
+Intertemporal  
+Decision-making 8.5 LET US SUM UP 
+The present unit viewed consumption in a dynamic set up and introduced you to 
+the problem of intertemporal utility maximization. In this context it discussed the 
+issue of consumption and savings when more than one time periods are 
+considered. The Fisherian idea that consumption is an outcome of household’s 
+intertemporal optimization exercise has been explained in the unit.  
+Empirical studies involving cross-section data find that richer households 
+consume a smaller fraction of their income compared to poorer households. 
+However, studies based on time series data show that the proportion of 
+consumption in income has remained more or less the same although household 
+income has increased manifold. This apparent discrepancy has been attempted to 
+be resolved through life-cycle hypothesis and permanent income hypothesis. 
+According to the life cycle hypothesis the short run consumption function shows 
+a declining average propensity to consume (APC) while the long run 
+consumption function exhibits constant APC due to increase in asset base. On the 
+other hand, the permanent income hypothesis explains the discrepancy in terms 
+of permanent income and transitory income. 
+In the presence of uncertainty actual consumption behaviour may be difficult to 
+predict. In this situation consumption may follow a random pattern. This theory 
+of consumption, known as the Random Walk Hypothesis, has been explained 
+here. Finally, in the presence of uncertainty the price of the risky asset may 
+follow a specific pattern which has been explained in the discussion on the 
+CAPM model. 
+8.6  ANSWER/HINTS TO CHECK YOUR PROGRESS 
+ EXERCISES 
+Check Your Progress Exercises 1 
+1. A change in income will shift the inter-temporal budget constraint. A 
+change in interest rate will affect the slope of the budget constrain. 
+Incorporate the changes in Fig. 8.1 and write your answer. 
+2. Kuznets found that average propensity to consume remained constant 
+while using aggregate time series data; unlike the Keynesian 
+consumption. In order to explain this difference, two hypotheses are 
+propounded – life cycle hypothesis by Modigliani and permanent income 
+hypothesis by Friedman. 
+Check Your Progress Exercises 2 
+1. The random walk hypothesis implies that any government policy to 
+consumption can work only if it is not anticipated.  
+2. It says that return has to be higher from risky assets. This model is used to 
+analyse market risk premium. See Section 8.4 for further details.  
+ 
+ 
+
+
+--- Page 14 ---
+ 
+ 
+UNIT 9 RAMSEY-CASS-KOOPMANS MODEL 
+Structure 
+9.0  Objectives 
+9.1  Introduction 
+9.2  Central Planner’s Problem 
+9.3  Decentralized Households’ Problem  
+9.4  Government in Ramsey-Cass-Koopmans Model and Ricardian Equivalence 
+9.5  Let Us Sum Up 
+9.6 Answer/Hints to Check Your Progress Exercises 
+9.7  Mathematical Appendix  
+9.0 OBJECTIVES 
+After going through this Unit you should be able to 
+ explain the Ramsey-Cass-Koopmans problem of optimal growth; 
+ compare the optimal growth problem of the central planner and that of the 
+decentralized perfectly competitive economy;  
+ explain the role of government in the optimal growth framework and the 
+corresponding concept of Ricardian Equivalence; and 
+ if you go through the Mathematical Appendix carefully you should be in a 
+position to solve any standard dynamic optimization exercise. 
+9.1 INTRODUCTION 
+In our discussion of household’s intertemporal consumption and saving decisions 
+in the previous unit, we considered optimization problems where the time 
+horizon was finite. While this is a valid assumption for an individual, a household 
+(or for that matter, the society as a whole) is generally infinitely lived. In other 
+words, we think of a household consisting of individual members, each of whom 
+live for a finite time period, but new members are born in each time period who 
+are an exact replica of the older members. Thus the household as a dynasty 
+continues to live forever. 
+An important economic question that is often asked in the context of an infinitely 
+lived household is the following: how should the household allocate its resources 
+between consumption and saving in each time period so that the utility level of 
+each of its members is maximized? In other words, what are the optimal 
+consumption path and optimal saving path for this household? To put is more 
+generally, in an economy consisting of identical infinitely lived households, what 
+should be the optimal savings/ accumulation pattern that maximizes the utility of 
+ 
+ Prof. Mausumi Das, Delhi School of Economics, University of Delhi 
+
+
+--- Page 15 ---
+ 
+138 
+ 
+Intertemporal  
+Decision-Making 
+each of the households over time? This latter question was first tackled by Frank 
+Ramsey (1928), which was later generalized by Cass (1965) and Koopmans 
+(1965). The model has subsequently been known as the the Ramsey-Cass-
+Koopmans (RCK) optimal growth model. 
+The Ramsey-Cass-Koopmans optimal growth model essentially involves a 
+dynamic optimization exercise. Here, an economic agent maximizes its objective 
+function defined over a period of time (finite or infinite) subject to some 
+constraints. The constraints are also dynamic in nature in the sense that they 
+relate to values of the variables for different time periods. The technique for 
+solving such dynamic optimization exercises has been specified in the 
+Mathematical Appendix given at the end of this Unit. In the discussion below we 
+will simply state the conditions for optimization (without getting into the 
+underlying technique) and explain the economic intuition behind each of these 
+conditions.  
+There are two versions of the model: (i) the central planner’s problem, and (ii) 
+the decentralized households’ problem. You should note that Ramsey introduced 
+his model in 1928 as a central planner’s problem in the sense that the planner 
+allocates resources between consumption and saving so as to maximize the utility 
+of the households. Solow model, which is a much simpler growth model 
+compared to Ramsey model, was developed by Robert M. Solow in 1957. 
+Subsequently, the Ramsey model was extended by David Cass and Tjalling 
+Koopmans (separately) in 1965 to include the decentralized households’ 
+problem. Keeping in view the similarity of approach in both the versions, they 
+are bracketed together.  
+9.2 CENTRAL PLANNER’S PROBLEM 
+In the original Ramsey formulation, the optimal growth problem was postulated 
+as the problem of a social planner who seeks to maximize the welfare of each 
+household subject to the economy’s resource constraint at each point of time. The 
+households are all assumed to be identical in terms of preferences and their 
+welfare is represented by an infinite horizon utility function of the form 
+tdcuW t
+t
+
+
+0
+ exp)(
+         
+where tc  is the per capita consumption in period t, 
+)( tcu  is the associated instantaneous utility in period t, and 
+ is a positive constant term which represents the subjective discount rate of the 
+household, or its rate of time preference.  
+Before we proceed further, it is important to explain the presence of the discount 
+factor in the household’s welfare function. The positive discount factor reflects 
+the household’s preference for present over future. In other words, it implies that 
+a household puts more weight on consumption today vis-à-vis consumption 
+
+
+--- Page 16 ---
+ 
+139 
+ 
+Ramsey-Cass-Koopmans 
+Model 
+tomorrow. Note that when 0t  (i.e., the initial time period) 1exp   t . 
+Subsequently when 1t  ,    expexp  t ; when 2t ,  2 expexp  t  and so 
+on, such that  2expexp1    …….. . Therefore in the infinite-time utility 
+function W, current utility at period zero is associated with the highest weight 
+(unity), and each subsequent utility term is associated with lower and lower 
+weights.  
+The social planner maximizes the integral W, but he is constrained by the fact 
+that at each point of time, the economy’s total consumption and total investment 
+cannot exceed its total output. 1 To put it formally, tt Ydt
+dKC  , where tC  is 
+aggregate consumption in period t; 
+dt
+dK  is the amount of investment in period t 
+which augments the capital stock ( K) of the economy and tY  is the total output 
+produced in period t. 
+Total population at time t is given by tL  , which is assumed to grow at a positive 
+exogenous rate n: ndt
+dL
+L 1 . 
+Output at any point of time is produced using the existing capital and labour at 
+that point of time. Technology is represented by a neoclassical production 
+function given by ),( ttt LKFY  . You should note that F is continuous, concave 
+and exhibits constant returns to scale (CRS). The CRS property of the production 
+function implies that per capita output ( y) can be written as the function of the 
+capital-labour ratio (k) in the following way: 
+)(1,)1 ,/( ),( kfL
+KFL
+LKFL
+L
+LKF
+L
+Yy 
+
+ . 
+Moreover, the marginal products of capital and labour can also be written as the 
+following functions of the capital-labour ratio: 
+)(kfK
+F 
+  ; )()( kfkkfL
+F 
+ . 
+The continuity and concavity properties of ),( KLF  ensure that )(kf  is also 
+continuous and concave. Additionally, we assume that 0)0( f ;  )0(f ;
+0)( f . The first of these assumptions implies that no production is possible 
+with zero capital-labour ratio. The last two assumptions are known as the ‘Inada 
+conditions’ which state that when the capital-labour ratio tends to zero, the 
+marginal product of capital tends to infinity, while an infinitely high capital-
+labour ratio implies that the corresponding marginal product of capital 
+approaches zero.  
+The aggregate resource constraint of the economy is given by 
+tt Ydt
+dKC  . 
+ 
+1 For simplicity, we rule out international borrowing here. 
+
+
+--- Page 17 ---
+ 
+140 
+ 
+Intertemporal  
+Decision-Making 
+Let us divide both sides of the above equation by L. Thus, we can write it as
+t
+t
+tt
+t
+L
+Y
+dt
+dK
+LL
+C  1  
+ i.e., )( ttt kfnkdt
+dkc    
+The above equation denotes the resource constraint faced by the social planner in 
+per capita terms.2  
+The economy starts with a certain given amount of capital stock and population; 
+hence the initial capital-labour ratio is given, denoted by 0k . At every point of 
+time the existing capital and labour stocks are fully employed. Hence, the capital-
+labour ratio k also denotes the per capita capital stock. While referring to k we 
+shall use these two terms interchangeably.  
+The complete dynamic optimization problem for the social planner can now be 
+written in terms of the two time dependent variables:  (i) per capita consumption 
+( tc ),  and per capita capital stock ( tk ). The maximization problem before us is 
+Maximize tdcuW t
+t
+
+
+0
+ exp)(    
+subject to 
+ ttt cnkkfdt
+dk  )( ; 0k  given. 
+The corresponding Hamiltonian function (H) is given by3 
+ tttt
+t
+t cnkkfcuH   )(exp)(    
+In the above equation, we have control variable ( tc ), state variable ( tk ) and co-
+state variable ( t ).The first order conditions are obtaind by taking partial 
+derivatives of the Hamiltonian with respect to tc , t  and tk and and equating it to 
+zero. Thus, we obtain 
+(ia) t
+t
+tcu     exp)(  
+(iia) ))(( nkfdt
+d
+tt    
+(iiia) ttt cnkkfdt
+dk  )(  
+The transversality condition is given by  
+(iva) 0lim 
+ ttt
+k  
+ 
+2 Note that nk
+dt
+dK
+Ldt
+dL
+LL
+K
+dt
+dK
+Ldt
+dk  
+
+ 111 . 
+3 See the Mathematical Appendix for the definitions of the Hamiltonian function, control, state 
+and co-state variables in a dynamic optimization problem.  
+
+
+--- Page 18 ---
+ 
+141 
+ 
+Ramsey-Cass-Koopmans 
+Model 
+Notice that t  is the shadow price of capital (Please go through the Appendix to 
+this Unit) or the value of capital in utility terms. Hence, condition (ia) states that 
+along the optimal path, the present discounted value of marginal utility from 
+consumption would be equal to the shadow price of capital. The economic 
+significance of this condition would become clear if you note that at any point of 
+time one unit of output can be put to two different uses – one can either consume 
+it or invest it which augments the capital stock. Now optimality condition 
+requires that the returns in terms of utility from these two uses should be equal, 
+which is precisely what condition (ia) states. Conditions (iia) and (iiia) 
+respectively show how the co-state and the state variable changes over time along 
+the optimal path. The fourth condition, known as the transversality condition , 
+implies that as the economy approaches its terminal time (which in this case is 
+infinity), either the value of capital goes to zero (in which case it does not matter 
+for the economy if it leaves a positive capital stock at the end), or, if the value of 
+the capital stock is positive, then the economy uses up all its capital stock (i.e., k 
+goes to zero).  
+Differentiating (ia) with respect to t and using (iia) to eliminate t
+ , we get the 
+following differential equation:  
+
+
+
+
+
+
+ nkfcu
+cu
+dt
+dc
+t
+t
+t ( )(
+)( . Noting that the 
+term 
+
+)(
+)(
+cu
+cuc  denotes the elasticity of marginal utility with respect to 
+consumption, the above equation can be written as: 
+(va)   
+
+
+
+ nkfc
+dt
+dc
+t
+t (      
+Equations (iiia) and (va) together form a system of differential equations which, 
+along with the transversality condition, determine the movements of per capita 
+consumption and per capita capital stock of the economy along the optimal path. 
+The qualitative characterization of this path is shown in the phase diagram given 
+at Fig. 9.3. 
+The phase diagram traces the lines/curves along which 
+0dt
+dc  and 0dt
+dk . The 
+point of intersection of these two lines is called the steady state. A steady state is 
+equivalent to long run equilibrium whereby the values of the variables remains 
+constant over time.   
+From (va), 0dt
+dc  implies either 
+௖೟
+ = 0  or 𝑓ᇱ(𝑘௧ − 𝑛 − ) =  0. In the first case, 
+0c . In the second case,  nkf )( . Thus, the equilibrium will remain on 
+these two lines. Let us consider equation (iiia). When 0dt
+dk , we have 𝑓(𝑘௧) −
+𝑛𝑘௧ − 𝑐௧ =  0. On re-arranging terms and ignoing the subscripts (since the values 
+will remain unchanged under equilibrium conditions), we obtain nkkfc  )( . 
+Let us first look into the dynamics of the differential equation
+
+
+--- Page 19 ---
+ 
+142 
+ 
+Intertemporal  
+Decision-Making   
+
+
+
+ nkfc
+dt
+dc
+t
+t ( . Since it can be represented by the lines 0c  and
+ nkf )( , we can describe the dynamic of consumption in Fig. 91. 
+ 
+ 
+ 
+ 
+ 
+ 
+                         Fig. 9.1: Dynamics of c 
+In Fig. 9.1, we take per capita capital stock ( k) on the x-axis and per capita 
+consumption (c) on the y-axis. The vertical line shows the equilibrium condition 
+where there is no change in per capita consumption over time. Therefore, along 
+this line, we have 
+ௗ௖
+ௗ௧ = 𝑐̇ = 0. To the left of this vertical line, we have 𝑐̇ > 0. It 
+implies there will be increase in consumption per capita over time (i.e., 𝑐௧ାଵ >
+𝑐௧). We have indicated the direction of such change in per capita consumption by 
+an upward-sloping red arrow. To the right of the vertical line, on the other hand, 
+𝑐̇ < 0, which implies a decrease in per capita consumption over time (thus, 
+𝑐௧ାଵ < 𝑐௧ in this case). If the economy is operating to the right of the vertical line 
+(indicating per capita consumption at a higher than the equilibrium level), there 
+will be decline in per capita consumption over time. We have indicated the 
+direction of such change in per capita consumption by a downward-sloping red 
+arrow in Fig. 9.1. 
+Now let us discuss how per capita capital stock evolves over time. When 
+ௗ௞
+ௗ௧
+=
+𝑘̇ = 0, we have nkkfc  )( . The equilibrium level 𝑘̇ = 0 is represented by an 
+inverted-U-shaped curve in Fig. 9.2. As you can see from Fig. 9.2, per capita 
+consumption increases with k up to certain leven and declines afterwards. In the 
+region below the curve, 𝑘̇ > 0 (thus, 𝑘௧ାଵ > 𝑘௧). We have indicated the direction 
+of such change in per capita capital stock by a right-facing blue arrow. If the 
+economy is oerating in the region above the curve, 𝑘̇ < 0 (thus, 𝑘௧ାଵ < 𝑘௧).  We 
+have indicated the direction of such change in per capita capital stock by a left-
+facing blue arrow in Fig. 9.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ct 𝑐̇ = 0  
+ct+1 >  ct  ct+1 < ct  
+kt 
+ct 
+𝑘̇ = 0 
+kt+1 <  kt  
+kt 
+kt+1 >  kt  
+
+
+--- Page 20 ---
+ 
+143 
+ 
+Ramsey-Cass-Koopmans 
+Model 
+Fig. 9.2: Dynmics of k 
+Now let us combine Fig. 9.1 and Fig. 9.2. Plotting all these lines and curves in 
+the c-k plane with c along the vertical axis and k along the horizontal axis, we get 
+a diagram as shown in Fig. 9.3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 9.3: Phase Diagram 
+The direction of arrows in the phase diagram shows the direction of movements 
+of c and k when they are not on the 0dt
+dc  and 0dt
+dk  lines respectively. From 
+Fig. 9.3 it is clear that there exits one steady state, denoted by point E in the 
+diagram, which is associated with positive values of c and k. It can be shown 
+(though we make no attempt to prove it here) that this steady state point is a 
+‘saddle point’ such that there exits a unique path which approaches the steady 
+state point; all the other paths move away from the steady state point. This unique 
+path (called saddle path) is denoted by the dotted purple line in the diagram. This 
+is the only path which satisfies all the first order conditions of optimality 
+(conditions (ia)-(iva)) including the transversality condition. This path is 
+therefore the optimal path which satisfies the social planner’s dynamic 
+optimization problem. Given any initial capital-labour ratio, the social planner 
+will choose the initial per capita consumption so as to be on this optimal path, 
+which will eventually take the economy to its long run equilibrium (or steady 
+state) point E. If the economy is operating on any point on the saddle path, it will 
+converge to the saddle point (E). If the economy, on the other hand, is operating 
+at any other point on Fig. 9.3, it will move farther away from the steady state.    
+At this juncture it is important to point out certain important features of the 
+steady state point E. As was mentioned before, at the steady state the per capita 
+capital stock, k, and per capita consumption, c, are constant. Also, at this non-
+zero steady state, the k-value and the corresponding c-value are defined 
+respectively by the equations: 
+ nkf )(  and nkkfc  )( . The condition 
+that  nkf )(  is called the modified golden rule . It states that the steady 
+state value of the capital-labour ratio is such that the marginal product of capital 
+is equal to the sum of the rate of population growth and the rate of time 
+E 
+𝑐̇ = 0 
+𝑘̇ = 0 
+ct 
+kt 

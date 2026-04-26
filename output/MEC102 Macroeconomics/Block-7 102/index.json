@@ -1,0 +1,42 @@
+{
+  "source_pdf": "/Users/manishsherawat/Workplace/NoteMakingWorkflowAG/output/MEC102 Macroeconomics/Block-7 102/input/Block-7 102.pdf",
+  "source_filename": "Block-7 102.pdf",
+  "total_pages": 27,
+  "chunk_size": 10,
+  "smart_split": true,
+  "total_chunks": 3,
+  "chunks_directory": "/Users/manishsherawat/Workplace/NoteMakingWorkflowAG/output/MEC102 Macroeconomics/Block-7 102/chunks",
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "filename": "chunk_001.pdf",
+      "text_filename": "chunk_001.txt",
+      "page_range": [
+        1,
+        10
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 2,
+      "filename": "chunk_002.pdf",
+      "text_filename": "chunk_002.txt",
+      "page_range": [
+        11,
+        20
+      ],
+      "pages": 10
+    },
+    {
+      "chunk_id": 3,
+      "filename": "chunk_003.pdf",
+      "text_filename": "chunk_003.txt",
+      "page_range": [
+        21,
+        27
+      ],
+      "pages": 7
+    }
+  ],
+  "created_at": "2026-04-26T15:27:38.692975+00:00"
+}

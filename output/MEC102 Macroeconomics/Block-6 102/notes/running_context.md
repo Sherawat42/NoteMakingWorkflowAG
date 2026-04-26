@@ -1,0 +1,107 @@
+# Running Context
+
+## Key Concepts Introduced
+- **Barter system / double coincidence of wants** (Chunk 001).
+- **Three functions of money** (Chunk 001).
+- **Five criteria money must satisfy** (Chunk 001).
+- **Money supply vs total stock of money** (Chunk 001).
+- **Fractional reserve system** (Chunk 001).
+- **Money multiplier (m = M1/M0)** (Chunk 001).
+- **Currency–deposit ratio (cd) / Reserve ratio (rd) / Currency–money ratio (cm)** (Chunk 001).
+- **Open Market Operations (OMO)** (Chunk 001).
+- **Expansionary vs contractionary monetary policy** (Chunks 001, 002).
+- **Four functions of a central bank** (Chunk 001).
+- **Repo / Reverse Repo / Bank Rate / Overnight Rate** (Chunk 002).
+- **Sterilisation** (Chunk 002).
+- **Money demand function Md = f(Y, i)** (Chunk 002).
+- **Money neutrality debate** (Chunk 002).
+- **Policy ineffectiveness proposition** (Chunk 002).
+- **Goals vs targets** (Chunk 002).
+- **Six monetary-policy goals** (Chunk 002).
+- **Discriminatory interest-rate policy** (Chunk 003).
+- **Quantitative vs qualitative credit control** (Chunk 003).
+- **Margin requirement / credit rationing / direct action** (Chunk 003).
+- **Multiple indicator approach (1998)** (Chunk 003).
+- **ILAF / RLAF / MPFA** (Chunk 003).
+- **Transmission mechanism** (Chunk 003).
+- **Tobin's q** (Chunk 003).
+- **Asymmetric information / adverse selection / moral hazard** (Chunk 003).
+- **Wealth effect / Liquidity effect / Cash flow channel** (Chunk 003).
+- **Three policy lags** (Chunk 004): identification, decision, implementation.
+- **Three definitions of "rules"** (Chunk 004): Friedman / Barro / new-Keynesian.
+- **Loss function L = x² + (y - y'')²** (Chunk 004).
+- **Phillips Curve x = x^e + e(y - y')** (Chunk 004).
+- **Bliss point B** (Chunk 004).
+- **Discretionary outcome (point A) / Zero-inflation rule (point O) / Cheating outcome (point C)** (Chunk 004).
+- **Dynamic inconsistency** (Chunk 004).
+- **Rogoff delegation to conservative central banker** (Chunk 004).
+- **New consensus monetary policy** (Chunk 004).
+- **Taylor's Rule** (Chunk 004).
+- **Accelerationist Phillips Curve Δx = e(y - y')** (Chunk 004).
+- **IS curve y - y' = c - dr** (Chunk 004).
+- **Neutral rate of interest r' = c/d** (Chunk 004).
+- **AD curve in consensus model** (Chunk 004).
+- **Nominal anchor** (Chunk 004).
+- **Higher inflation target experiment** (Chunk 005): only short-run output effect.
+- **Crowding out (consensus version)** (Chunk 005): expansionary fiscal policy raises neutral rate, displaces private spending.
+- **Path dependence / Hysteresis** (Chunk 005).
+- **Three sources of hysteresis** (Chunk 005): learning-by-doing, capital formation, labour-force expansion.
+- **Knife-edge property of natural unemployment** (Chunk 005, Friedman).
+- **Concave short-run Phillips Curve** (Chunk 005).
+
+## Definitions (⭐ exam-important)
+- **Fiat money / Commodity money** (Chunk 001).
+- **M0 / M1 / M3 / NM2 / NM3** (Chunk 001).
+- **CRR / SLR** (Chunk 001).
+- **OMO** (Chunk 001).
+- **Repo / Reverse Repo / Bank Rate / Overnight Rate** (Chunk 002).
+- **Sterilisation** (Chunk 002).
+- **Expansionary / Contractionary monetary policy** (Chunk 002).
+- **Policy ineffectiveness proposition** (Chunk 002).
+- **Quantitative / Qualitative credit control** (Chunk 003).
+- **Margin requirement / Credit rationing** (Chunk 003).
+- **LAF / ILAF / RLAF / MPFA** (Chunk 003).
+- **Transmission Mechanism** (Chunk 003).
+- **Tobin's q** (Chunk 003).
+- **Loss function** (Chunk 004).
+- **Natural output / Output target / Bliss point** (Chunk 004).
+- **Dynamic Inconsistency** (Chunk 004).
+- **Cheating outcome** (Chunk 004).
+- **Delegation to conservative central banker** (Chunk 004).
+- **Taylor's Rule** (Chunk 004).
+- **Neutral rate of interest** (Chunk 004).
+- **Accelerationist Phillips Curve** (Chunk 004).
+- **Aggregate Demand (AD) curve** (Chunk 004).
+- **Nominal anchor** (Chunk 004).
+- **Crowding out (consensus version)** (Chunk 005).
+- **Path dependence (hysteresis)** (Chunk 005).
+- **Knife-edge property of natural unemployment** (Chunk 005).
+- **Learning-by-doing** (Chunk 005).
+
+## Named Models / Laws / Theories
+- **Money multiplier formula** (Chunk 001): m = (cd + 1)/(cd + rd).
+- **WGMS (1998)** (Chunk 001).
+- **Friedman's constant money-growth rule** (Chunks 002, 004).
+- **Friedman (1968)** (Chunk 004).
+- **Sukhamoy Chakravarty Committee (1985)** (Chunk 003).
+- **Narasimham Committee II (1999)** (Chunk 003).
+- **Urjit Patel Committee (2014)** (Chunk 003).
+- **Mishkin (1995), Taylor (1995), Boivin et al. (2010)** (Chunk 003).
+- **Barro and Gordon's loss-function model** (Chunk 004).
+- **Rogoff's conservative-central-banker model** (Chunk 004).
+- **Taylor's Rule** (Chunk 004).
+- **Phillips Curve (original; accelerationist)** (Chunk 004).
+- **IS curve (consensus form)** (Chunk 004).
+- **Lavoie's path-dependence critique** (Chunk 005).
+
+## Key Data & Numbers
+- India CRR (2022): **4.5%**; SLR: **18%** (Chunk 001).
+- RBI sole monetary statistics authority since **July 1935** (Chunk 001).
+- FWG **1961**, SWG **1977**, WGMS **1998** (Chunk 001).
+- Multiplier example: cd = 0.4, rd = 0.1 → m = **2.8** (Chunk 001).
+- US inflation target: **≈ 2%**; India: **4% ± 2%** (Chunk 002).
+- Venezuela 2019 inflation ≈ **10 million % per year** (Chunk 002).
+- Sukhamoy Chakravarty Committee: **1985** (Chunk 003).
+- RBI banned from primary public-debt subscription: **April 2006** (Chunk 003).
+- ILAF: **April 1999**; RLAF: **May 2011**; Urjit Patel: **Sep 2014**; MPFA: **May 2016**; accommodative: **Feb 2019**; lending-rate linkage: **Aug 2019** (Chunk 003).
+- Friedman's prescription: **1968** (Chunk 004).

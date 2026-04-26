@@ -1,0 +1,451 @@
+--- Page 57 ---
+ 
+ 
+ 
+57 
+The Neoclassical 
+Synthesis 
+IS curve. An implication of the above is that any point outside the IS curve shows 
+disequilibrium in the real sector. In Fig. 3.2 we consider two such points ‘c’ and 
+‘d’ which are not on the IS curve, and find out their implications.  
+ 
+Fig. 3.2: Disequilibrium in the Real Sector 
+At point ‘c’ in Fig. 3.2, interest rate is 𝑖଴  while output is 𝑌ଵ  . Notice that at 𝑌ଵ  level 
+of output, the equilibrium rate of interest should be 𝑖ଵ . Thus, the actual rate interest 
+is higher than what it should. As a result, the aggregate demand will decrease 
+(largely due to decrease in investment) and the rate of interest will decline. It 
+implies that at point-c, there is excess supply of goods in the market. We can 
+generalize that any point which is above and to the right of the IS curve, indicates 
+excess supply of goods.  
+Let us look at point ‘d’ which is below and to the left of the IS curve. At point ‘d’ 
+in Fig. 3.2, income is at Y0 but the rate of interest is at 𝑖ଵ . Since the rate of interest 
+is lower than the equilibrium rate of interest, the demand for investment will 
+increase. Consequently, the rate of interest will rise upward. Thus, at point ‘d’ there 
+is excess demand for goods. We can generalize that at any point below and to the 
+left of the IS curve, there is excess demand for goods.  
+3.2.2 Shift in the IS Curve 
+The IS curve depicts the relationship between income and interest rate. Therefore, 
+any change in other parameters or variables will result in a shift in the IS curve. 
+The position and the slope of the IS curve depends upon the value of the parameters 
+in equation (3.4). If the IS curve is flatter, the economy is more sensitive to interest 
+rate – a small decrease in interest rate will lead to a large increase in income. On 
+the other hand, a steeper IS curve implies insensitivity to interest rate change. 
+There are two exogenous variables in equation (3.4), viz., G and T. In equation 
+(3.4) we assumed that government expenditure and taxes are fixed. Thus, changes 
+in taxes and government expenditure will also result in shifts in the IS curve. Let 
+us look into equation (3.4). An increase in the value of 𝐺̅  will result in an increase 
+in the intercept; thus, there will be an upward parallel shift in the IS curve. An 
+increase in 𝑇ത, on the other hand, will decrease the intercept and shift the IS curve 
+downward to the left.  
+
+
+--- Page 58 ---
+ 
+ 
+ 
+58 
+Traditional Approaches 
+to Macroeconomics 
+A change in the value of a parameter leads to a shift in the IS curve. An increase 
+in autonomous consumption (the coefficient ‘a’ in equation (3.4)) or autonomous 
+investment (the coefficient ‘c’ in equation (3.4)) will lead to a parallel shift of the 
+IS curve upward to the right. A change in the marginal propensity to consume, 
+however, will affect the slope of the IS curve.  
+Check Your Progress 1 
+1)  What will be the nature of change in the IS curve if there is a decrease in the 
+propensity to consume? 
+ ………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+2)  What is the implication of the following on the position of the IS curve? 
+(i) Decrease in autonomous government expenditure 
+(ii) Decrease in tax rate 
+ ………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+3.3 EQUILIBRIUM IN THE MONETARY SECTOR  
+The derivation of LM curve utilises the Keynesian view that speculative demand 
+and transaction demand for money are separate. The speculative demand for 
+money depends on the rate of interest while the transaction demand and the 
+precautionary demand for money depend on the level of income. Thus, total 
+demand for money (M) depends on both income (Y) and rate of interest (i). The 
+demand for money in real terms (
+ெ ೏
+௉
+) is given by 
+𝐿 = 𝑘𝑌 − ℎ𝑖          … (3.5) 
+where k > 0, h > 0; L is the demand for real balances (liquidity), Y is aggregate 
+income and 𝑖 is the rate of interest. You should remember three issues about the 
+monetary sector: (i) A person would like to deposit his money in bank and earn 
+interest on it. The alternative is to hold on to the cash, where no interest income is 
+earned. Thus, the opportunity cost of holding money is the interest foregone. If 
+there is an increase in the rate of interest, the interest foregone increases. 
+Conversely, if the rate of interest decreases, the interest income foregone 
+decreases. Therefore, the demand for money is a downward-sloping curve, if we 
+measure rate of interest on the y-axis and quantity of money on the x-axis. You 
+may be familiar with the concept of liquidity trap; a situation where the rate of 
+interest is very low, and people prefer to keep all their money in the form of liquid 
+cash as the interest income foregone is negligible. (ii) The demand for real balances 
+is described for a given level of income. We consider the money demand function 
+
+
+--- Page 59 ---
+ 
+ 
+ 
+59 
+The Neoclassical 
+Synthesis 
+while keeping the level of income fixed (say, 𝐿(𝑌଴ )). If there is an increase in the 
+level of income, there is an increase in the level of transactions and wealth in the 
+economy, which in turn increases the demand for money. Thus, there will be a 
+parallel shift in the money demand function. (iii) The supply of money is 
+determined by the central bank and it is constant. Thus, the supply of money is a 
+vertical straight line. If the supply of money is increased by the central bank, the 
+vertical straight line will shift to the right. When we deal with the short-run, we 
+assume that money supply does not change.  
+3.3.1 Derivation of the LM Curve  
+The supply of money in real terms is given by 
+ெ ೞ
+௉
+. Equilibrium in the money market 
+is achieved when 𝐿 = 𝑀 = 𝑀ഥ . Thus, equilibrium in the money market is given by 
+ெഥ
+௉ത = 𝑘𝑌 − ℎ𝑖          … (3.6) 
+We can re-arrange terms in the above equation and obtain 
+𝑌 = −
+ଵ
+௛
+ெഥ
+௉ത +
+௛
+௞ 𝑖        … (3.6a) 
+There is a positive relationship between 𝑌  and 𝑖 in the LM curve. In order to find 
+out the slope of equation (3.6) you have to express the equation in terms 𝑖 and find 
+out the slope 
+ௗ௜
+ௗ௒ . You can find out the slope of the LM curve as 
+௞
+௛ . Depending upon 
+the value of the parameters, the LM curve would be flatter or steeper. 
+  
+         Fig. 3.3: Derivation of the LM Curve 
+In Fig. 3.3, Panel (a) we depict the equilibrium in the money market (or, in the 
+monetary sector). We take demand for real balances (
+ெ
+௉ ) on the x-axis and the rate 
+of interest on the y-axis. Let the money demand in the economy be given as 
+ெ ೏
+௉ (𝑌଴ )  
+when the aggregate income is 𝑌଴ . In panel (a) of Fig. 3.3, this equilibrium is 
+represented by point ‘a’. The equilibrium rate of interest and income are 𝑖଴  and 𝑌଴  
+w respectively.  
+Let there be an increase in the level of income from 𝑌଴  to 𝑌ଵ . Such an increase in 
+income will lead to a parallel upward shift in the money demand function. We 
+
+
+--- Page 60 ---
+ 
+ 
+ 
+60 
+Traditional Approaches 
+to Macroeconomics depict this money demand function as a dotted line 
+ெ ೏
+௉ (𝑌ଵ ) in Panel (a) of Fig. 3.3. 
+With money supply remaining constant, an increase in aggregate demand will lead 
+to a rise in the interest rate. The economy is now at equilibrium with output level 
+𝑌ଵ and interest rate 𝑖ଵ . The intersection between the money supply function and the 
+money demand function is denoted by point ‘b’ in Fig. 3.3, panel (a).   
+In panel (b) of Fig. 3.3 we plot the LM curve by taking combinations of interest 
+rate and aggregate income where the money market is in equilibrium. We have two 
+such points, ‘a’ and ‘b’ in panel (a) of Fig. 3.3. You should note that the LM curve 
+is the combination of all the points where the money market is in equilibrium. The 
+LM curve is upward-sloping as you can see from the figure. An implication of the 
+LM curve is that as income increases people want to hold more money, thus driving 
+up the interest rate. If the speculative demand for money is perfectly elastic to 
+interest rate (liquidity trap situation) the LM curve will be horizontal. On the other 
+hand, if speculative demand is perfectly inelastic to interest rate, the LM curve will 
+be vertical.  
+To the left side of the LM curve there is excess supply of money (for example, 
+point ‘c’ in Fig. 3.3 panel (b)). Excess supply in the money market implies that the 
+demand for money is less than its supply. It means that people want to reduce the 
+amount of liquid cash they possess. This induces people to buy bonds so that bond 
+prices rise and rate of interest declines. A decline in the rate of interest restores 
+equilibrium in the economy. To the right side of the LM curve, there is excess 
+demand for money (for example, point ‘d’ in Fig. 3.3 panel (b)). Excess demand 
+for money causes people to sell bonds (so that they can keep higher amount of 
+liquid cash). This leads to a fall in bond prices and rise in the rate of interest. This 
+way equilibrium in the monetary sector is restored.     
+3.3.2 Shift in the LM Curve 
+The position and the slope of the LM curve depend upon certain factors, including 
+money supply. An increase in money supply shifts the LM curve to the right. As a 
+result, at every level of output, the equilibrium rate of interest is lower than before. 
+Thus, increase in money supply shifts the LM curve to the right. Conversely, a 
+decrease in money supply will shift the LM curve to the left so that equilibrium 
+rate of interest is higher at every level of output.  
+3.4 SIMULTANEOUS EQUILIBRIUM OF REAL 
+AND MONETARY SECTORS 
+Now let us combine IS and LM curves as shown in Fig. 3.4. Such integration of 
+IS-LM gives a unique combination of 𝑖 and 𝑌, which represents equilibrium in 
+both real market and money market. In Fig. 3.4 we superimpose 𝐼𝑆଴  and 𝐿𝑀଴  in 
+the same diagram. We measure income (Y) on the x-axis income (Y) and rate of 
+interest on the y-axis. The equilibrium rate of interest and the equilibrium output 
+level are given by 𝑖଴  and 𝑌଴  respectively.  
+
+
+--- Page 61 ---
+ 
+ 
+ 
+61 
+The Neoclassical 
+Synthesis 
+ 
+Fig. 3.4: Simultaneous Equilibrium 
+3.4.1 Shocks in the IS-LM Model 
+Previously we have discussed about the factors that lead to a shift in the IS curve 
+and the LM curve. Often the economy experiences exogenous demand shocks and 
+supply shocks. Let us analyse the impact of such shocks in terms of the IS-LM 
+model. Suppose there is a boom in the stock market, which changes the wealth of 
+households. Such a situation will increase the level of consumption in the 
+economy. Consequently, there will be an increase in aggregate expenditure and the 
+IS curve will shift to the right from 𝐼𝑆଴  to 𝐼𝑆ଵ  (see Fig. 3.4). As a result, there is an 
+increase in output from 𝑌଴  to 𝑌ଵ . A negative shock such as a decrease in business 
+confidence of firms will shift the IS curve to the left. Such a left-ward shift in the 
+IS curve will decrease output as well as interest rate. 
+Let us consider another example. Suppose there is a series of online financial fraud 
+cases in the country. This will send a negative signal to people – this will 
+discourage people to keep their income in the formal system; there will be a decline 
+in online transactions and the demand for money will increase. As a result, the LM 
+curve will shift to the right from 𝐿𝑀଴  to 𝐿𝑀ଵ (see Fig. 3.4).  Consequently, there 
+will be an increase in output from 𝑌଴  to 𝑌ଶ , and decrease in interest rate from 𝑖଴  to 
+𝑖ଶ .  
+You should note that the nature and extent of change in output and interest rate 
+will depend upon the slope of the IS and LM curves. If the LM curve is flatter, 
+monetary policy is quite effective. A small decrease in interest rate by the central 
+bank will increase output by a large amount. If the LM curve is steeper, monetary 
+policy will not be effective. In order to increase output by a small amount we will 
+need a large decrease in the interest rate.  
+3.4.2 Adjustment Process in the Economy 
+A question arises at this point: What happens to the economy if it is operating at a 
+point which is not at the intersection of the IS and LM curves? Does it 
+automatically converge to the equilibrium point? Let us try to answer this question. 
+
+
+--- Page 62 ---
+ 
+ 
+ 
+62 
+Traditional Approaches 
+to Macroeconomics 
+If the economy is not operating at the unique point where the IS and LM curves 
+intersect, there is disequilibrium in the economy. In that case an adjustment process 
+starts and the economy moves to an equilibrium point. The following two issues 
+are important in this context: 
+a) If there is an excess demand for money (to the right of the LM curve), the 
+interest rate will increase. The interest rate will fall in case we observe 
+excess supply in the money market. Fall in interest rate will lead to increase 
+in investment. Increase in investment will affect the IS curve.  
+b) Excess demand for goods (to the left of the IS curve) leads to an increase 
+in output. Increase in output will lead to increased demand for money. 
+Increase in demand for money will lead to rise in interest rate and outward 
+shift in the LM curve.   
+We observe from the above that both real sector and monetary sector are inter-
+related. A real shock to the economy will have effects on the monetary sector and 
+vice versa.  
+ 
+ 
+Fig. 3.5: Convergence to Equilibrium Point 
+In Fig. 3.5 we plot the IS and LM curves. The economy is in equilibrium at point 
+E, with 𝑖଴  to 𝑌଴  as equilibrium interest rate and output respectively. Suppose, due 
+to certain shock to the economy, the equilibrium is disturbed. We have indicated 
+the points F, G, H and K where the economy is not in equilibrium.  
+Let us consider point G. As mentioned earlier, at point G, there is excess demand 
+for money and excess supply of goods. The arrows given at point G specify the 
+direction in which adjustment takes place. Due to excess demand for money, there 
+will be a rise in the rate of interest. This is because people will sell bonds so as to 
+hold more of liquid cash, as a result of which the bond prices will decline and rate 
+of interest will increase. Upward pointing arrow in Fig. 3.5 represents rising 
+interest rate. At point G, there is excess supply of goods also. This will lead to 
+involuntary accumulation of goods; inventories will increase. As a result, firms 
+will cut down production and the level of output will decline. The leftward pointing 
+arrow represents the declining output. Finally, the economy will move towards 
+equilibrium point E. 
+
+
+--- Page 63 ---
+ 
+ 
+ 
+63 
+The Neoclassical 
+Synthesis 
+Points F, H and K in Fig. 3.5 also are disequilibrium points. You can analyse the 
+supply and demand conditions at these points and find out the directions in which 
+adjustment will take place. For example, at point ‘H’ there is excess supply of 
+money (since it is to the left of the LM curve) and excess demand for goods (since 
+it is to the left of the IS curve). Excess supply of money will lead to a decrease in 
+interest rate. Excess demand for goods will lead to an increase in output level. 
+Consequently, the economy will move towards the equilibrium point E.  
+Suppose the economy is at point F (see Fig. 3.5) – here the monetary sector is in 
+equilibrium, but the real sector is in disequilibrium. There is an excess supply of 
+goods in the economy. This will lead to an increase in inventory accumulation. As 
+a result, firms will decrease their production levels. Decrease in output will lead to 
+a decrease in the demand for money and consequent decrease in the rate of interest. 
+Finally, the economy will reach the equilibrium point E where both the IS and LM 
+curves intersect.  
+ 
+Fig. 3.6: Adjustment Process in the Economy 
+Note that when one of the two markets is observing disequilibrium, the economy 
+reaches back to equilibrium after the adjustment process. In Fig. 3.6 we have 
+indicated the direction of change by arrow marks.  
+3.4.3 Impact of Supply Shocks 
+In the IS-LM model it is not necessary that the equilibrium occurs at the level of 
+potential output of the economy (or, full employment output). Equilibrium could 
+be at any level of output in the economy. An objective of policy makers has always 
+been that the economy should operate at potential output level with unemployment 
+at its natural level. In the long run does the economy maintain equilibrium at the 
+full employment output level?  
+In the long run prices do not remain constant. If actual output is above the potential 
+out, there will be price rise. The aggregate expenditure of the economy (such as 
+consumption, investment and government expenditure) describes the demand for 
+goods and services, which refer to physical quantities of goods and services. A 
+change in the price level may not affect these quantities. Thus, the IS curve is 
+relatively stable – it may not shift. The LM curve, on the other hand, is based on 
+the supply of and demand for real balances. Thus, a change in price level will shift 
+the LM curve.  
+
+
+--- Page 64 ---
+ 
+ 
+ 
+64 
+Traditional Approaches 
+to Macroeconomics 
+The full employment output is given by the production capacity of the economy. 
+It is derived from the production function (see Unit 1). Suppose the full 
+employment output (potential output) of the economy is given by 𝑌∗. We depict it 
+by a vertical straight line in Fig. 3.7. The IS 0 curve and LM 0 curve intersect at E 
+which corresponds to the full employment output.  
+ 
+Fig. 3.7: Adjustment to Adverse Supply Shocks 
+Suppose the economy gets an adverse supply shock (for example, decline in 
+agricultural productivity due to drought), as a result of which there is a decrease in 
+the potential output of the economy from 𝑌∗ to 𝑌∗∗. As pointed out above, the IS 
+curve is relatively stable in such situations and the economy adjusts through a shift 
+in the LM curve. Due to the adverse supply shock, there is a rise in prices and 
+consequent leftward shift in the LM curve. Thus, there is a rise in the rate of interest 
+and the new equilibrium is at F.  
+Check Your Progress 2 
+1)  Explain how the LM curve is derived.  
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+2)  Suppose the LM curve is vertical. What are its implications? 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+3)   In the IS-LM model, explain how adjustment to supply shocks takes place. 
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+………………………………………………………………………………
+……………………………………………………………………………… 
+
+
+--- Page 65 ---
+ 
+ 
+ 
+65 
+The Neoclassical 
+Synthesis 3.5 AD-AS MODEL  
+In the IS-LM model we assumed that price level is constant. Let us relax that 
+assumption and look into the impact of prices on equilibrium output in the 
+economy. First, we derive the aggregate demand (AD) curve. Subsequently, we 
+juxtapose the AD curve with the aggregate supply (AS) curve and find out the 
+equilibrium level of output.  
+3.5.1 Derivation of the AD Curve 
+A change in the price level changes the real money supply (
+ெ ೞ
+௉ ) in the economy. 
+This will result in a shift in the LM curve if money supply (M) is assumed to be 
+constant. Thus, there will be a change in the equilibrium rate of interest and output. 
+If we assume that the price level keeps changing over time, we will obtain a series 
+of equilibrium levels of output corresponding to different price levels. If we plot 
+such combinations of prices and output, we obtain the aggregate demand (AD) 
+curve. 
+The derivation of the AD curve from IS-LM curves is shown in Fig. 3.8. In panel 
+(a) of Fig. 3.8 we juxtapose 𝐼𝑆଴  and 𝐿𝑀଴  curves intersecting at point E with an 
+equilibrium income level of 𝑌଴  and interest rate 𝑖଴ . The 𝐿𝑀଴   curve is based on real 
+money stock of 𝑀଴ /𝑃଴ . Thus, we describe the combination 𝑃଴  and 𝑌଴  as point ‘a’ 
+on the AD curve in panel (b) of Fig.3.8.  
+ 
+Fig. 3.8: Derivation of AD Curve 
+Now, let us assume that price level declines to 𝑃ଵ  . If there is no change in money 
+stock, supply of real balances increases to  𝑀଴ /𝑃ଵ . Note that the increase in real 
+balances is due to decrease in prices, not due to an increase nominal money stock. 
+The LM curve shifts to the right. In panel (a) of Fig. 3.8 we depict the new LM 
+curve as 𝐿𝑀ଵ .  With 𝐼𝑆଴  and 𝐿𝑀ଵ , the new equilibrium point is ‘b’; the rate of 
+interest falls to 𝑖ଵ  and income rises to 𝑌ଵ . The combination of 𝑃ଵ   and 𝑌ଵ  becomes 
+point ‘b’ in Panel (b) of Fig. 3.7. By joining all such points as ‘a’ and ‘b’, we obtain 
+the AD curve. 
+
+
+--- Page 66 ---
+ 
+ 
+ 
+66 
+Traditional Approaches 
+to Macroeconomics 
+The AD curve is downward-sloping, which indicates an inverse relationship 
+between prices and output. A decline in price level increases the real money 
+supply, which creates disequilibrium in the money market. Increase in the supply 
+of real balances lead to a decrease in interest rate. A decrease in the rate of interest 
+restores equilibrium in the money market. A decrease in the rate of interest leads 
+to an increase in the level of investment. An increase in the level of investment 
+leads to an increase in aggregate expenditure, thereby increasing the level of 
+output.  
+The AD curve is flatter, if a given change in price leads to a larger change in output. 
+On the other hand, the AD curve is steeper if a given change in price leads to a 
+smaller increase in output. The AD curve shifts upward to the right as a result of 
+expansionary fiscal policy (e.g., increase in government expenditure, reduction in 
+tax rate). A contractionary fiscal policy, on the other hand, shifts the AD curve 
+downward to the left. Similarly, an expansionary monetary policy (e.g., reduction 
+in interest rate, increase in money supply through open market operations, reserve 
+requirements, etc.) will shift the AD curve to the right while a contractionary 
+monetary policy will shift the AD curve to the left.  
+You should note that any factor that leads to a shift in the IS curve or the LM curve 
+to the right will shift the AD curve to the right side. Similarly, any factor that shifts 
+the IS curve or LM curve to the left will shift the AD curve to the left. Thus, an 
+increase in any component of autonomous spending such as an increase in 
+government spending leads to a rightward shift of the AD curve. Also, an increase 
+in the nominal money supply will shift the AD curve upwards.  
+3.5.2 Aggregate Supply (AS) Curve 
+From microeconomics we know that the AS curve is upward-sloping – when price 
+of a product increases, firms produce more of the product. In the case of the whole 
+economy, production capacity is limited. Resources available to the economy are 
+not unlimited. The behaviour of the AS curve is different in the long run compared 
+to the short run. Short run, as you know, is a time period in which wages and certain 
+other economic variables do not respond to changes in economic environment. In 
+the long run is a time period in which wages and prices are flexible.  
+Classical theory discussed in Unit 1 assumed that the AS curve is vertical at the 
+full employment level. Thus, output is perfectly inelastic to changes in prices. 
+Keynes went to the other extreme and assumed that the AS curve is horizontal. An 
+implication of the horizontal AS curve is that firms can increase production to any 
+level without affecting prices. Both the versions (vertical and horizontal) of the AS 
+curve seems unrealistic. As you will learn in later units, the new-classical 
+economists suggest that the AS curve is upward-sloping in the short run. Lucas’ in 
+his ‘aggregate supply hypothesis’ advocate that economic agents respond to price 
+and wage incentives, which influences their trade-off between leisure and work. 
+As a result, when actual wage is higher than equilibrium wage rate, households 
+supply more labour. Conversely, when actual wage rate is lower than equilibrium 
+wage rate, household will decrease their supply of labour. As a result of this, the 

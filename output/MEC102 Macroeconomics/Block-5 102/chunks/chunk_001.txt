@@ -1,0 +1,468 @@
+--- Page 1 ---
+ 
+ 
+UNIT 13 NOMINAL AND REAL RIGIDITIES 
+Structure 
+13.0 Objectives 
+13.1  Introduction 
+13.2 New Classical School versus New Keynesian School 
+13.3     Nominal Rigidities versus Real Rigidities 
+13.4     Nominal Rigidities and Menu Costs 
+13.4.1 Menu Costs 
+13.4.2 Mankiw Model of Nominal Rigidities 
+13.5 Real Rigidities 
+13.5.1 Real Rigidities in the Goods Market 
+ 13.5.2 Real Rigidities in the Credit Market 
+13.5.3 Real Rigidities in the Labour Market 
+13.6 New-Keynesian Theories of Wage Rigidity 
+13.7     Efficiency-Wage Theories 
+13.8 Efficiency-Wage Model:  An Example 
+ 13.8.1 Specification of the Model 
+ 13.8.2 Solution of the Model 
+ 13.8.3 Implications of the Model Solution 
+13.8.4 Possible Extensions of the Model 
+13.9 Contracting and Insider-Outsider Models  
+13.10 Let Us Sum Up 
+13.11 Answers/ Hints to Check Your Progress Exercises 
+ 
+13.0 OBJECTIVES  
+After going through this unit you should be in a position to 
+ explain why prices need not be flexible in the real world;  
+ distinguish between nominal and real rigidities; 
+ identify the different kinds of rigidities in the real world;  
+ explain why real wage rigidity and unemployment can emerge because of 
+contracting; and 
+ explain the unemployment situation in an economy through the insider-
+outsider model. 
+ 
+ Prof. Avadhoot Nadkarni (retd.), University of Mumbai  
+
+
+--- Page 2 ---
+ 
+200 
+ 
+Labour Markets 13.1 INTRODUCTION  
+The classical theory of the macro economy assumes that the economy is perfectly 
+competitive and that wages and prices are perfectly flexible. It is this 
+characteristic of perfect flexibility of wages and prices that enables the classical 
+economists to conclude that the perfectly competitive economy will always be at 
+full employment irrespective of aggregate demand conditions. According to the 
+classical and, subsequently, the new classical schools, when aggregate demand 
+goes up it is the aggregate price level that increases because the economy is at 
+full employment and the aggregate output cannot increase. On the other hand, 
+when demand falls at the full employment level of output, wages and prices fall 
+in the goods and the labour markets, respectively. The aggregate price level falls 
+and the employment of labour is not affected.  
+The Keynesians, on the other hand, postulate rigidity of wages and/or prices. 
+Suppose the economy is at full employment and aggregate demand goes down. 
+The adjustment in the economy happens not through a downward adjustment of 
+wages/ prices, but through a fall in employment and output. It is this different 
+response of the economy to changes in aggregate demand that leads to different 
+conclusions that the Classical and the Keynesian economists reach about the 
+possibility of the existence of persistent unemployment in the economy. The 
+flexibility versus rigidity of prices and wages hence becomes an important 
+theoretical issue in determining whether an economy can exhibit persistent 
+unemployment. In practice, since prices will neither be fully rigid nor perfectly 
+flexible, the issue reduces to the rate of adjustment of wages and prices to 
+changes in aggregate demand. 
+This basic difference between the classical and the Keynesian economists 
+continues to exist between the New Classicals and the New Keynesians. In this 
+unit we study how the New Keynesians rationalise the rigidity of prices and 
+wages in a modern economy and how they thereby conclude that an economy 
+will be subjected to booms and busts. We begin by understanding certain 
+important differences between the New Classical and the New Keynesian 
+Schools.  
+13.2 NEW CLASSICAL SCHOOL VERSUS NEW 
+ KEYNESIAN SCHOOL  
+We know that Keynesian economics was propounded as a revolution against the 
+then prevailing orthodoxy of the Classical School. In time, however, the 
+Keynesians themselves established orthodoxy. The Keynesians were helped in 
+establishing their own orthodoxy, initially through the Neo-Classical synthesis of 
+the Classical and Keynesian schools involving the IS-LM model, and then 
+through the AS-AD model. You have studied these models in Block 1. This latter 
+synthesis through the AS-AD curves produced a model that had Keynesian 
+properties in the short-run and classical properties in the long run. As aggregate 
+demand falls, the downward rigidities of prices and wages produces 
+
+
+--- Page 3 ---
+ 
+201 
+ 
+Nominal and Real 
+Rigidities 
+unemployment in the short-run, but full employment is restored in the long run as 
+prices and wages adjust slowly. The Keynesian revolution was appropriated 
+within the mainstream through the AS-AD model. 
+The ideas of rational expectations (see Unit 7) and real business cycles (see Unit 
+12) that came up in the 1970s developed into the New Classical School. This 
+School was a revolution against the Keynesian orthodoxy that had by now 
+established itself.  It propounded wage-price flexibility in a perfectly competitive 
+setting of optimising individuals so that there was no basis for the existence of 
+Keynesian unemployment even in the short run.   
+The New Classical ideas, though theoretically elegant and intellectually 
+appealing, flew in the face of empirical realities in a world characterised by 
+periodic booms and busts. The Keynesian ideas, on the other hand, attempted to 
+explain the real world, but did not rely on the tools of mainstream economics like 
+optimisation in the context of individuals who form expectations rationally. We 
+can say that the microeconomic foundations underlying the Keynesian 
+macroeconomics were weak.  
+Thus, a question could be asked to the Keynesians: Why would rational firms not 
+increase product prices when money supply is known to have increased, since 
+economic theory predicts that prices would ultimately increase as a consequence 
+of increase in money supply and rationally formed expectations require the 
+individuals to increase prices? It suffices to say, for now, that the New Keynesian 
+School emerged in the 1980s as a counter-revolution against the New Classical 
+ideas of the 1970s. The New Keynesians attempted to construct models that were 
+empirically well grounded in the sense that they made more realistic assumptions 
+about the macroeconomic world.  Moreover, these models were theoretically 
+elegant in that they explained through models of rational optimising individuals 
+why firms would not increase prices in the face of increased money supply.  
+Upward rigidity in prices would prevail in spite of the fact that not increasing 
+prices could, apparently at least, lead to a fall in profits. 
+You should note two characteristics of the New Keynesian School at this point. 
+The first makes it very different and the second not so different, from the New 
+Classicals: 
+(i) Imperfect Competition: New Classicals assume that firms do not change 
+prices if they so wish, i.e., they have the power to set prices. Unlike in the New 
+Classical world, the New Keynesian firms are operating in markets with some 
+degree of monopoly power. That is an important difference between the two 
+schools: the New Classicals assume perfect competition and the New Keynesians 
+work in the context of imperfectly competitive markets. We also had this in mind 
+when we said that the New Keynesian models are empirically well grounded. 
+(ii) Analytical Tools: When it comes to the use of analytical tools, the New 
+Keynesians are no different from the New Classicals. They build models to show 
+why optimising, rational individuals do hold prices fixed when macroeconomic 
+
+
+--- Page 4 ---
+ 
+202 
+ 
+Labour Markets conditions demand that prices be changed. In setting up their counter-revolution, 
+the New Keynesians meet the New Classicals on their home grounds, using the 
+same tools of optimising behaviour of individuals in their models. You must 
+note, in this context, that though we have associated the rational expectations 
+revolution (along with the real business cycle theory) with the New Classical 
+School, there is nothing intrinsic about rationally-formed expectations that make 
+them any closer to the New Classical way of doing things than to the New 
+Keynesian. The New Keynesian models can as much be propelled by individuals 
+who are not only rational in the sense that they optimise, but also in the sense that 
+they form expectations rationally. 
+13.3 NOMINAL RIGIDITIES VERSUS REAL 
+ RIGIDITIES  
+Before we proceed further we must make an important distinction – that between 
+nominal and real rigidities. In Section 13.2 above, we have been referring to 
+nominal rigidities. Nominal rigidities are said to exist when nominal prices and 
+wages do not change in the face of conditions that call for their change. As you 
+have seen in earlier units, this will lead to Keynesian unemployment. But 
+unemployment can also come about because of certain real rigidities in the 
+economy. Such rigidities can exist in the goods market, the labour market or even 
+the market for credit.  
+There could be reasons why the real wage paid in the labour market is higher 
+than the market-clearing wage. This will, of course, lead to unemployment of 
+some of those who are willing to work at a lower (market-clearing) wage. We are 
+not talking here about the nominal wage not changing when it needs to change, 
+but about firms rationally and voluntarily deciding to pay higher real wages to 
+their workforce because they find it to their advantage in some way. We will 
+explain this concept of real rigidities better when we list out all such rigidities in 
+Section 13.5 and the sub-sections therein.  
+The New Keynesian economists stress both the nominal and real rigidities to 
+explain the presence of booms and bust/ persistent unemployment in the real 
+world. We explain nominal rigidities further in Section 13.4 and then consider 
+real rigidities in greater detail in Section 13.5. 
+Check Your Progress 1 
+1. Why is the distinction between flexibility and rigidity of prices important in 
+macroeconomic theory? 
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+ 
+
+
+--- Page 5 ---
+ 
+203 
+ 
+Nominal and Real 
+Rigidities 
+2. Based on your answer to Question 1 above, bring out a few points of 
+distinction between the New Classicals and the New Keynesians. 
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+3. Distinguish between nominal and real rigidities. 
+.........................................................................................................................
+.........................................................................................................................
+.........................................................................................................................
+......................................................................................................................... 
+13.4  NOMINAL RIGIDITIES AND MENU COSTS 
+In this section we examine a simplified New Keynesian model to understand why 
+rational profit-maximising firms would not want to change prices in the face of 
+macroeconomic conditions that call for such a change, a rise in money supply.  
+For example, a firm would not increase prices in the event of a rise in money 
+supply. 
+These kinds of models owe their existence to the work of the likes of N. Gregory 
+Mankiw (“Small Menu Costs and Large Business Cycles: A Macroeconomic 
+Model of Monopoly”, Quarterly Journal of Economics , May 1985); and George 
+A. Akerlof and Janet L. Yellen (“A Near Rational Model of the Business Cycle, 
+With Wage and Price Inertia”, Quarterly Journal of Economics , Supplement, 
+1985). As indicated above, these papers use the analytical tools of the New 
+Classicals to arrive at Keynesian conclusions. As the title of Mankiw’s paper 
+indicates, an important concept in understanding the nominal price rigidity is the 
+concept of ‘menu costs’. We examine the concept, briefly, before we explain the 
+model proper. 
+13.4.1 Menu Costs 
+Why do firms not change their prices very frequently? Obviously, the costs of 
+changing prices at frequent intervals and in small amounts must be more than the 
+benefits obtained from such a change. Firms prefer to wait before they make 
+price changes in relatively large amounts and in the mean time absorb the losses 
+that they would suffer by not changing prices. This of course presumes that the 
+firms have some monopolistic price setting power and the losses referred to 
+above include lower profits than would have been possible if prices had been 
+raised, and not necessarily actual out-of-pocket losses.  
+It is easy to understand this behaviour of monopolistically competitive firms 
+through the example of restaurants competing with each other. The term ‘menu 
+costs’ immediately becomes meaningful as the costs that would be incurred in 
+
+
+--- Page 6 ---
+ 
+204 
+ 
+Labour Markets changing the menu cards every time there is a change in the prices of items on 
+the menu. These printing costs are surely negligible, but the more important costs 
+are in terms of the loss of customers that a firm would face if it subjects its 
+clientele to the ‘irritability’ of continuous, small changes in prices. 
+The concept of menu costs in a modern economy is indeed broad. It is also 
+widely applicable, given the proliferation of automatic dispensers (e.g., coffee 
+machines) and pay telephones that operate on coins. It is easy to imagine the cost 
+that would be incurred by the suppliers if these ubiquitous machines were to be 
+adjusted every time a price change is effected. The firms would rather not change 
+their prices. It is this idea of weighing the costs of changing prices against the 
+benefits obtained from changing prices that is formalised in the Mankiw model 
+that we consider below. 
+13.4.2 Mankiw Model of Nominal Rigidities 
+There are two related reasons for which firms do not frequently change prices. 
+First, as we saw in the discussion on menu costs, the costs of price changes are 
+not negligible and could exceed the private benefits that can be obtained by the 
+firms in the form of increased profits. More importantly, however, the benefits to 
+be reckoned from price changes are not so much in the private realm, but in the 
+social realm. Price rigidity leads to unemployment, the social costs of which are 
+much higher than the private costs reckoned by the firms in terms of menu costs. 
+The microeconomics-based models by Mankiw, and Akerlof and Yellen   show 
+that the private benefits of changing a price can be much smaller than the social 
+benefits if there is substantial monopoly power in the economy.  
+We follow Dornbusch, Fischer and Startz (2012) in presenting a simplified 
+version of the formal Mankiw model. The model relies on the fact that in 
+monopolistic markets firms face a downward-sloping (less than infinitely elastic) 
+demand curve and can set a price that deviates from the optimum profit-
+maximising price without a large swing in demand away from the firm. This is 
+not possible in a perfectly competitive market, where every firm faces a 
+horizontal (infinitely elastic) demand curve – a small deviation from the optimal 
+price can in this situation lead to a large swing demand and profits away from the 
+firm. Even if a competitive firm faces the same kind of menu costs as an 
+imperfectly competitive firm, the loss of profits by not changing the price can be 
+big enough to outweigh the menu costs. A competitive firm is not, of course, a 
+price setter. 
+Not so for the imperfectly competitive firm. Mankiw showed that the potential 
+profits from raising prices could be very small for such firms especially if the 
+elasticity of demand for firm’s output is low, i.e., if monopoly power of the firm 
+is high, and if the deviation of the actual price from the optimal profit-
+maximising price is small. The menu cost could well be higher than the potential 
+profits in such a case and the firm does not change its price. Other firms are 
+likely to be similar and they too leave their prices unchanged, with the result that 
+the nominal price level remains unchanged. 
+
+
+--- Page 7 ---
+ 
+205 
+ 
+Nominal and Real 
+Rigidities 
+The Keynesian conclusion of an increase in money supply on output rather than 
+on prices follows from this. An increase in money supply, prices remaining 
+unchanged, leads to an increase in real money supply. This leads to an increase in 
+aggregate output, either through a decrease in the rate of interest ( à la Keynes) or 
+through a real-balance effect. You should note that there would have been no 
+output effects in a classical model if prices were free to vary. An important 
+difference between the Classicals and the Keynesians is hereby established. 
+As Dornbusch, Fischer and Startz (2012) put it about the papers of Mankiw, and 
+Akerlof and Yellen: 
+This work provides a rigorous microeconomic justification for nominal price 
+stickiness. Since New Classical economists attack the rigor of the underpinnings 
+of Keynesian models, such justification is a key piece of Keynesian response to 
+rational expectations and real business cycle models. Not everyone agrees on the 
+empirical significance of the formulation by Mankiw and by Akerlof and Yellen, 
+but the work is certainly a mile stone in the New Keynesian counterrevolution. 
+13.5  REAL RIGIDITIES 
+As we brought out in Section 13.3, the New Keynesian economists rely both on 
+nominal and real rigidities to arrive at their conclusion that nominal changes in 
+money supply have real, and not merely nominal, effects on the economy. As we 
+indicated in Section 13.4, an increase in money supply can lead to a rise in the 
+aggregate output and not in the price level. The flip side of this is, of course, that 
+a fall in the money supply can lead to a fall in output and an increase in 
+unemployment.  
+There is, however, a view that introducing price-setting in imperfectly 
+competitive markets and menu costs into an economy is however not enough to 
+generate substantial nominal rigidity at the micro level. Further, as per this view, 
+menu costs can have important macroeconomic effects only in the presence of 
+real instead of nominal, rigidities. This is so because it can be shown that for 
+realistic values of elasticity of labour supply and elasticity of output demand, 
+price-setting firms have strong incentives to change price when aggregate 
+demand changes even by incurring menu costs required for changing nominal 
+prices. Thus if the elasticity of demand for a firm’s output is high, say 5, and the 
+elasticity of labour supply is low, say 0.1,  then Romer (2001) shows that, for a 3 
+per cent fall in output, the increase in profits by changing the price is about one-
+fourth of the revenue. This suggests that firms will be ready to bear even up to 
+one-fourth of the revenue as menu costs needed for changing the prices, if the 
+elasticity of output demand is high and the elasticity of labour supply is low. If 
+these elasticity values are realistic, then the existence of menu costs for changing 
+prices cannot be used as a rationale for nominal price rigidity and consequent 
+unemployment. Some other factors have to be invoked to explain the constancy 
+of nominal prices, in the face of, e.g., changes in money supply. The other factors 
+that have been invoked have to do with the characteristics of the goods, labour 
+
+
+--- Page 8 ---
+ 
+206 
+ 
+Labour Markets and credit markets. These markets differ in important ways from the competitive 
+model. In particular, the goods and labour markets appear to be such that shifts in 
+demand translate into a smaller variation in prices and a larger variation in 
+quantities than would be predicted in a competitive set-up. In the goods market, 
+for example, shifts in demand for goods, in an imperfectly competitive set-up, are 
+not accompanied by changes in mark-ups but by changes in output.  Again, in the 
+labour market, shifts in the demand for labour lead to large changes in 
+employment and small changes in real wages. Here we are referring the rigidity 
+in real prices in relation to quantities. Such rigidities occurring because of 
+specific characteristics of the goods, labour and credit markets are referred to as 
+real rigidities.   
+13.5.1 Real Rigidities in the Goods Market 
+The most important factor associated with real rigidity in the goods market is the 
+existence of imperfect competition. Imperfect competition enables producers to 
+be price-setters and generates rigidity in real prices in relation to quantities.  
+Under imperfect competition price is set, not equal to marginal cost, but as a 
+mark-up over cost. The mark-up covers fixed costs of production including 
+profits. One of the important propositions of the New Keynesian economics is 
+that the mark-up behaves in a countercyclical fashion, i.e., it decreases during 
+booms and increases over the downward phase of a business cycle. It is these 
+countercyclical movements of the mark-up that produce rigidity in prices of 
+goods. An increase in aggregate demand translates, not into an increase in prices, 
+but into an increase in quantities of goods produced, and thereby of employment.  
+Why do mark-ups behave in a countercyclical manner? Several reasons have 
+been postulated: 
+(i) Higher level of economic activity during booms reduces the importance 
+of costs of acquiring and disseminating information and thus makes 
+markets more competitive. This has been referred to in the literature as 
+“thick-market” effects. 
+(ii) It has been suggested that increased profits created by greater economic 
+activity make it difficult for oligopolists to maintain collusion – 
+incentives are generated to break away from oligopolistic structures. This 
+puts downward pressures on mark-ups. 
+(iii) It has also been suggested that mark-up is countercyclical because 
+marginal costs are pro-cyclical. Marginal costs are considered to be pro-
+cyclical because overtime paid to workers is highly pro-cyclical and 
+hence expensive to firms. This, however, begs the question about why 
+prices are rigid in the goods market. The argument here seems to be that, 
+because prices are rigid, the mark-up is compressed as marginal costs rise. 
+We have been attempting to explain the rigidity of prices by postulating 
+that mark-ups fall over booms in spite of costs rising (and not because of 
+increase in costs) for reasons independent of the rise in costs. 
+
+
+--- Page 9 ---
+ 
+207 
+ 
+Nominal and Real 
+Rigidities 
+ 
+When price rigidities exist in imperfectly competitive goods markets, the impact 
+of increase (decrease) in aggregate demand is borne by quantities leading to an 
+increase (decrease) in aggregate output and employment. 
+13.5.2 Real Rigidities in the Credit Market 
+You have seen in Sub-Section 13.5.1 how imperfections in the goods markets 
+enable firms to set prices so as to generate price rigidities, e.g., because of 
+countercyclical mark-ups used in setting the prices oligopolistically. You know 
+that such price rigidities have macroeconomic consequences, e.g., changes in 
+aggregate demand influence output and employment rather than prices. 
+Imperfections in the credit market too similarly have macroeconomic 
+consequences. The imperfections in the credit market which have 
+macroeconomic consequences are broadly classified as rigidities in the credit 
+market. In this sub-section we examine some of the macroeconomic 
+consequences of these credit-market rigidities.  
+Imperfections arise in the credit market primarily because of asymmetric 
+information between lenders and borrowers. Borrowers are better informed than 
+the lenders about the quality of their investment projects and even the probability 
+of success of the projects. It has been shown that these type of information 
+asymmetries can have important microeconomic consequences like equilibrium 
+credit rationing, need for financial intermediation, and need for government 
+intervention.  
+But, more importantly for us, credit market imperfections such as information 
+asymmetries have macroeconomic consequences. It has been shown that in the 
+monetary policy transmission mechanism 
+(i) credit channel is more important than money supply channel, and 
+(ii) credit-rationing is more important than increase in interest rate in the 
+implementation of a restrictive monetary policy. 
+Thus when a restrictive monetary policy reduces reserve money, i.e., the quantity 
+of bank reserves, the ability of the banks to lend is affected. The shortfall in 
+credit is not necessarily made up by other lenders, given the imperfections in the 
+credit market in the form of information asymmetries between lenders and 
+borrowers. Banks are actually in a better position than many of the other lenders 
+to overcome the adverse effects of information asymmetries through their role of 
+a financial intermediary. Thus, the transmission mechanism operates largely 
+through availability of loans. The process of credit rationing that takes place 
+when loans are curtailed become more important in reducing aggregate demand 
+than the process initiated by an increase in the rate of interest through the 
+reduction of money supply.  
+Given this importance of credit markets, credit-market imperfections can 
+propagate and magnify the effects of real disturbances. Shocks that act initially to 
+
+
+--- Page 10 ---
+ 
+208 
+ 
+Labour Markets reduce output or to redistribute wealth from borrowers to lenders cause credit 
+markets to function less efficiency which leads to a further decline in output 
+through the credit channel. It has been shown that disturbances that would have 
+mild effects with Walrasian credit markets (e.g., with no asymmetries of 
+information between lenders and borrowers) can cause a financial collapse in the 
+presence of such imperfections because of the magnification effects.   
+13.5.3 Real Rigidities in the Labour Market 
+New Keynesian theories of the labour market help in explaining the existence of 
+involuntary unemployment. The theories also attempt to explain why changes in 
+aggregate demand lead to larger changes in employment and relatively smaller 
+changes in the real wage in the labour market. One of the reasons postulated for 
+the existence of unemployment in the labour market is that firms voluntarily pay 
+higher real wages, as compared to the market-clearing wage, to the workers on 
+their rolls with a view to increasing their efficiency and/ or with a view to 
+providing them the incentives not to shirk work in a situation where the effort 
+level of the workers cannot be perfectly monitored. The imperfections caused 
+thereby in the labour market lead to unemployment. We will consider efficiency 
+wage model postulated in New Keynesian theories of unemployment in greater 
+details later in this Unit. 
+Check Your Progress 2 
+1. What are menu costs? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+............................................................................................................................. 
+2. How can the concept of menu costs be used to rationalise nominal price 
+rigidities? 
+.............................................................................................................................
+.............................................................................................................................
+.............................................................................................................................
+............................................................................................................................. 
+............................................................................................................................. 
+3. Why do real rigidities occur in the following markets? 
+1. Goods market 
+2. Labour market 
+3. Credit market 

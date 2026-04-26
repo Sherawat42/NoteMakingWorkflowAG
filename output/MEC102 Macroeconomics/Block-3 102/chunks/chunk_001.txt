@@ -1,0 +1,633 @@
+--- Page 1 ---
+ 
+UNIT 8 CONSUMPTION AND ASSET PRICES 
+Structure 
+8.0 Objectives 
+8.1  Introduction 
+8.2  Consumption as Intertemporal Choice 
+ 8.2.1  Life Cycle Hypothesis 
+ 8.2.2 Permanent Income Hypothesis 
+8.3  Consumption under Uncertainty: Random Walk Hypothesis 
+8.4  Consumption and Risky Assets: Capital-Asset Pricing Model  
+8.5  Let Us Sum Up 
+8.6  Answer/Hints to Check Your Progress Exercises 
+8.0 OBJECTIVES 
+After going through this Unit you should be able to explain 
+ the Fisherian idea of  consumption as an outcome of households’ 
+intertemporal choices; 
+ the Life-cycle hypothesis of Modigliani and Brumberg and the Permanent 
+Income hypothesis of Friedman;  
+ the Random Walk Hypothesis of Hall; and 
+ the asset price determination through the Consumption Asset Pricing 
+(CAPM) model. 
+8.1 INTRODUCTION 
+In Economics, there exist close links between the current economic variables and 
+their past and future values. As you know from economic growth models, past 
+state often determines the current state, just as the current state determines the 
+future. But there is also a link from future to the present. Future of course is often 
+unknown. However, expectations about future variables sometimes influence the 
+current economic decisions. In other words, the decision making process of an 
+economic agent is often ‘inter-temporal’ in nature -- involving different periods 
+of time. Consumption and savings are two prime examples of such inter-temporal 
+decision making.  
+How does a household decide upon how much to consume today and how much 
+to save? Keynes identified current income as the prime determinant of current 
+consumption. In its simplest form, a Keynesian consumption function can be 
+represented by the following linear equation: 
+ 
+ Prof. Mausumi Das, Delhi School of Economics, University of Delhi 
+
+
+--- Page 2 ---
+ 
+125 
+ 
+Consumption  
+and Asset Prices 
+ 
+ t tC C cY  ,  0,C   0 1 c  ,                                                          ...(8.1) 
+ 
+where tC  is current consumption and tY  is current income. Notice that one 
+important feature of this consumption function is that the average propensity to 
+consume  /t tC Y  falls as income rises.  
+Early empirical studies using cross-sectional household data found evidence in 
+support of decreasing  average propensity to consume: it was found that richer 
+households (with higher tY ) indeed consumed a lower fraction of their income. 
+However, in 1940s Simon Kuznets using long run time series data on aggregate 
+consumption and income found that the average propensity to consume remained 
+more or less constant, even though aggregate income increased substantially over 
+the period under consideration. This apparent puzzle led to the development of a 
+number of theories of households’ consumption behaviour, all of which focus on 
+the intertemporal nature of consumption expenditure. The following section 
+discusses some of the important theories from this literature. 
+8.2 CONSUMPTION AS INTERTEMPORAL CHOICE 
+One of the earliest works that depicts households’ consumption expenditure as an 
+outcome of households’ intertemporal optimization exercise is that of Irving 
+Fisher (1930). The Fisherian idea can be easily explained in terms of a two period 
+model of consumer optimization. Let us assume that each member of a household 
+lives for exactly two periods 1 and let 1C  and 2C  denote his consumption during 
+the first and the second period of his life respectively. The person derives utility 
+from both period’s consumption and his preferences are represented by the utility 
+function 1 2( , )U C C . Let 1Y  and 2Y  be the income of the individual in the two 
+periods respectively. Out of his first period income, the person consumes 1C  and 
+saves the rest ( 111 CYS  ) to earn an interest income 1)1( Sr  in the next 
+period. In Fisher’s model, the only purpose of savings is future consumption. 
+Accordingly, his second period consumption is equal to 122 )1( SrYC  .
+  
+By re-arranging the terms in 122 )1( SrYC  , we find that 1
+22
+11 Sr
+Y
+r
+C  .   
+Since 111 CYS  , we have )(11
+11
+22 CYr
+Y
+r
+C 
+ or r
+YYr
+CC  11
+2
+1
+2
+1 .   
+Thus the intertemporal budget constrain is given by 
+)say(ˆ
+11
+2
+1
+2
+1 Yr
+YYr
+CC                                    ... (8.2) 
+ 
+1  The time periods can be broadly defined so that the first time period covers his entire youth 
+and the second one covers his entire old age). 
+
+
+--- Page 3 ---
+ 
+126 
+ 
+Intertemporal  
+Decision-making 
+The left hand side of the intertemporal budget constraint denotes the present 
+discounted value of the total consumption expenditure of the person, while the 
+right hand side measures the present discounted value of his total life-time 
+income. The person decides on the levels of 1C  and 2C  by maximizing his utility 
+1 2( , )U C C  subject to his intertemporal budget constraint. Notice that the 
+optimization exercise of the household defines the current consumption as a 
+function of the present discounted value of life time income ( Yˆ ) as well as the 
+rate of interest (r) on saving 2. 
+In Fig. 8.1 we depict the optimal consumption choices.  We measure C 2 on the x-
+axis and C 1 on the y-axis.  The intertemporal budget constraint intersects the x-
+axis at point 21)1( YYr    because when C 1=0 in (8.2) we have C 2 = 
+21)1( YYr  .  Similarly, we find that r
+YYC  1
+2
+11  when C2 = 0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 8.1: Intertermporal Utility Maximisation 
+It is now easy to analyze the impact of a change in current income ( 1Y ) on current 
+consumption ( 1C ). Under the assumption that consumption in both periods are 
+normal goods (i.e., associated with positive income effects), an increase in 
+current income, ceteris paribus , increases the life-time income and hence both 
+1C  and 2C  will increase.  
+The impact of a change in the interest rate ( r) on current consumption is more 
+ambiguous. Note that an increase in r implies a decline in the relative price of 
+future consumption in terms of current consumption. 3 Such a change in the 
+relative price is typically associated with two effects: (i) an income effect, which 
+in this case will lead to an increase in consumption in both the periods (since a 
+decline in the price level implies the choice set of the consumer becomes 
+broader), and (ii) a substitution effect , which in this case will lead to a fall in 
+current consumption (since a decline in the relative price of future consumption 
+implies that people will substitute current consumption by future consumption). 
+ 
+2   Strictly speaking, the rate of interest r is the ‘expected’ future rate of interest (which is 
+expected to prevail in period 2). We are assuming here that future is certain and known.  
+3  This is because for the same amount of current consumption foregone (in the form of savings), 
+one will now get higher amount of future consumption. 
+C1 
+C2 
+U(C1,C2) 
+(1+r) Y1+Y2 
+Y1+ 
+Y2/(1+r) E 
+
+
+--- Page 4 ---
+ 
+127 
+ 
+Consumption  
+and Asset Prices 
+The overall effect of an increase in r on current consumption depends on the 
+relative strength of the two effects. In ceteris paribus an increase in r leads to an 
+increase in 1C  if the income effect dominates the substitution effect; on the other 
+hand, an increase in r leads to a decrease in 1C  if the substitution effect 
+dominates the income effect. In this context also note that in so far as 
+111 CYS  , an increase in the rate of interest would also imply higher or lower 
+savings depending on the relative strength of the income and the substitution 
+effect.   
+This Fisherian view of looking at consumption as an outcome of an intertemporal 
+optimization exercise on the part of the households came to play a key role in the 
+development of the subsequent influential theories of consumption, which are: (a) 
+the life-cycle hypothesis of Modigliani and Brumberg (1954), and (b) the 
+permanent income hypothesis of Friedman (1957). Both these theories attempt to 
+explain the empirically observed discrepancy between the cross-sectional and 
+time series evidence on the relationship between the average propensity to 
+consume and the income level. 
+8.2.1 Life Cycle Hypothesis 
+To explain the life-cycle and permanent income hypotheses, let us extend the two 
+period model that we have just discussed to a T-period model where each person 
+lives for T periods (where  
+2T ). The utility function of the representative 
+member of the household is again given by ),........,,,( 321 TCCCCU . For 
+expositional simplicity let us assume an additive utility function of the form: 
+ 
+
+
+T
+t
+tTT CuCuCuCuCCCCU
+1
+21321 )()(........)()(),........,,,( .         ... (8.3) 
+The utility function (8.3) is well behaved in the sense that marginal utility is 
+positive (in symbols 0u ) and increases at a decreasing rate (implies that the 
+second derivative is negative, 0u ).  For simplicity let us also assume that the 
+rate of interest is zero 4 so that the intertemporal budget constraint of the 
+household now becomes: 
+  
+
+
+T
+t
+t
+T
+t
+t YAC
+1
+0
+1
+,                 ... (8.4) 
+where TYYY ,.......,, 21  are the incomes of the household in periods 1,2,….., T 
+respectively and 0A  is the amount of initial level of wealth stock of this 
+household. Maximization of utility subject to the intertemporal budget constraint 
+will yield a Lagrangian function of the form: 
+  
+ 
+
+
+
+
+ 
+T
+t
+T
+t
+t
+T
+t
+tt CYACuL
+1 11
+0)(  ,              ... (8.5) 
+where   is the associated Lagrangian multiplier. First order conditions for 
+optimization yield: 
+ 
+4  Having a positive rate of interest will not have any effect on the subsequent analysis. 
+
+
+--- Page 5 ---
+ 
+128 
+ 
+Intertemporal  
+Decision-making 
+ )( tCu  for Tt ,....,2,1 , where )( tCu  is the marginal utility in period t. 
+The above condition implies that  )()()( 21 TCuCuCu , and 
+therefore TCCC  21 . Hence from the intertemporal budget constraint 
+(8.4) we obtain 
+ 
+
+
+
+ 
+
+T
+t
+tt YTT
+AC
+1
+0 1  for all t.      ...(8.6) 
+The term within the parenthesis in the right hand side of (8.6) is the average 
+value of the total life-time income of the individual. The optimization exercise 
+indicates that consumption in any period is determined the individual’s total life-
+time income. Let us denote the latter by Yˆ . Then consumption at any point of 
+time t is equal to TYA /)ˆ( 0  . This phenomenon, whereby the individual divides 
+his total life-time resources equally among each period and  consumption at 
+different points of time are spread evenly over the entire time horizon is called 
+consumption smoothing. 
+At any particular point of time t, the actual income of that period tY  may exceed 
+or fall short of the average life-time income ( TY /ˆ ). Given initial wealth, since 
+current consumption depends only on the average life-time income, therefore any 
+change in current income will have an effect on current consumption only to the 
+extent that it impacts upon the average life-time income . To be more precise, 
+suppose at some time period, say tt ˆ , current income rises by an amount Z for 
+some reason. The corresponding increase in average life-time income is equal to 
+TZ /  and as a result, consumption at period tt ˆ  increases only by the amount 
+TZ / . By the same token, if the current income at some period rises by an 
+amount Z and the income at some subsequent period falls by the same amount, so 
+that the average life-time income remains unchanged, then current consumption 
+does not change in any period. 
+Notice that while changes in current income have limited impact on the 
+consumption of that period, current income plays a crucial role in determination 
+of current savings. Recall that savings at any time period t is defined as
+111 CYS
+ . 
+By using the result obtained at (8.6) we get  
+𝑆௧ = 𝑌௧ −
+ଵ
+் (∑ 𝑌௧) −
+஺బ
+்
+்
+௧ୀଵ                                                               …(8.7) 
+An interpretation of (8.7) is that savings is high when current income is high 
+relative to the average life-time income. It is this idea which forms the basis of 
+Modigliani-Brumberg’s life-cycle hypothesis. 
+According to Modigliani and Brumberg, income varies systematically over the 
+life-time of an individual and savings allow people to smoothen consumption 
+over their life-time, even when incomes in different periods are not equal. In 
+other words, people maintain an even stream of consumption over their life-time 
+
+
+--- Page 6 ---
+ 
+129 
+ 
+Consumption  
+and Asset Prices 
+by saving more during high income periods and saving less during the low 
+income periods. 
+ The life-cycle hypothesis postulates that an individual typically has an income 
+stream which is low during the beginning and towards the end of one’s life, and 
+high during the middle years of one’s life. This is because productivity of a 
+person is typically low during the early and the late years of his life, and 
+productivity is at the peak during the middle years. On the other hand, 
+consumption at every period remains the same at 
+
+
+
+ 
+
+T
+t
+tt YTT
+AC
+1
+0 1 . The 
+typical income and consumption stream over the life-time of  the  individual is  
+represented by Fig. 8.2.  We observe from Fig.8.2, that during the early periods 
+of one’s life, an individual dissaves (by running down his initial wealth, and/or 
+by borrowing); he saves during the middle periods of his life and dissaves again 
+during the later years by running down his accumulated wealth.  
+                                 Fig. 8.2: Consumption Stream over Lifetime 
+Given that consumption and savings are postulated to behave in this manner over 
+the life-cycle of a person, it is now easy to see how this hypothesis can explain 
+the apparent disparity between cross-sectional and aggregate time series data on 
+consumption behaviour. When one is looking at the cross-sectional data for a 
+particular point of time, it is likely that in a randomly selected sample of 
+households (which are classified according to income), the high income category 
+will contain a higher-than-average proportion of  people belonging to middle 
+phase of their life cycle, and the low income category will contain a higher-than-
+average proportion of  people belonging to either the early or the late phases of 
+their life. Since during the middle phase, people have a higher average propensity 
+to save (i.e., a higher tt YS /  ratio) and correspondingly a lower average 
+propensity to consume (i.e., a lower tt YC /  ratio), the cross-sectional data will 
+t T 
+Ct 
+Yt 
+C , Y 
+1 
+
+
+--- Page 7 ---
+ 
+130 
+ 
+Intertemporal  
+Decision-making 
+reflect a lower propensity to consume for the high income category compared to 
+the low income category.    
+At this point it is important to note here that current consumption 
+
+
+
+
+ 
+
+T
+t
+tt YTT
+AC
+1
+0 1  depends not only on the life-time income of the individual, 
+but also on the initial stock of asset 0A . In the short run (or at any particular point 
+of time) the asset stock remains constant. As a result, if we diagrammatically 
+depict the above relationship between tC  and tY  (with tC  along the vertical axis 
+and tY  along the horizontal axis), then we get an upward sloping line (slope less 
+than unity) with a positive intercept, as shown in Fig. 8.3.  However, when we 
+are looking at the time series data where income is  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Fig. 8.3: Short run and Long run Consumption 
+increasing over a long period of time, then the stock of asset (which is positively 
+correlated to the level of income) is also increasing. Thus the intercept term on 
+the line will keep on increasing. In other words, the short run  tC  line will keep 
+shifting upward over time.(see Fig. 8.3).  Hence if we are examining the long run 
+consumption data to determine the long run relationship between tC  and tY , we 
+will observe points like A, B, C along successive short run consumption lines. In 
+other words, the long run consumption locus will be steeper, where tC  is 
+proportional to tY , as shown in Fig. 8.3.  Note that along this long run 
+consumption line, the average propensity to consume ( tt YC / ) remains constant. 
+8.2.2 Permanent Income Hypothesis 
+Friedman’s permanent income hypothesis provides an alternative explanation to 
+the apparent discrepancy between cross-sectional and time series data on 
+Yt 
+Ct 
+Ct (Short Run) 
+Ct (Long Run) 
+A 
+B 
+C 
+
+
+--- Page 8 ---
+ 
+131 
+ 
+Consumption  
+and Asset Prices consumption. The permanent income hypothesis is also founded on the Fisherian 
+theory of consumption as an intertemporal choice. However, unlike the life-cycle 
+hypothesis, Friedman does not postulate that income follow a regular pattern over 
+the life cycle of an individual; he instead argues that individuals experience 
+random and temporary changes in their income from time to time. Accordingly, 
+Friedman views the current income in any period ( tY ) as consisting of two 
+components: permanent income  
+ P
+tY  and transitory income   T
+tY . Permanent 
+income is that part of the income which expect to prevail over the long run. 
+Friedman interprets this as the long run average income of the individual; i.e.,  
+
+
+
+
+ 
+
+T
+t
+t
+P
+t YTY
+1
+1 . Transitory income is any random deviation from this average, 
+i.e., 
+
+
+
+ 
+
+T
+t
+tt
+T
+t YTYY
+1
+1 . A positive transitory income implies that the current 
+income exceeds the permanent income; a negative transitory income implies that 
+the current income is less than the permanent income. Since 
+P
+t
+T
+t
+tt YT
+AYTT
+AC 
+
+
+
+ 
+
+0
+1
+0 1 , i.e., current consumption of the household 
+depends only on the permanent income, any increase in the transitory part of the 
+current income, which leaves the permanent income unchanged, will have no 
+impact on the level of current consumption.   
+Let us now see how Friedman’s permanent income hypothesis solves the 
+apparent puzzle in the consumption data. According to Friedman’s hypothesis, 
+the average propensity to consume ( tt YC / ) depends on the ratio of permanent to 
+current income  t
+P
+t YY / .  Thus when current income temporarily rises above the 
+permanent income the average propensity to consume falls; the opposite happens 
+when  current income temporarily falls below the permanent income. Now when 
+we are looking at cross-sectional data of different households at any point of 
+time, typically the high income group will contain some people with a high 
+transitory income, who will have a lower propensity to consume than the 
+average. Similarly the low income group will contain some people with a low 
+transitory income, who will have a higher propensity to consume than the 
+average. As a result, we will observe a falling average propensity to consume as 
+we move from the lower to the higher income group. On the other hand, when we 
+are considering long run time series data, the random fluctuations tend to even 
+out so that any increase in income in the log run reflects a permanent increase in 
+the average income level. Hence in the log run time series data we are likely to 
+observe a constant average propensity to consume.   
+
+
+--- Page 9 ---
+ 
+132 
+ 
+Intertemporal  
+Decision-making 
+Check Your Progress 1 
+1. Explain the Fisherian idea of consumption as an intertemporal choice. 
+What are the impact of a change in income and a change in the interest 
+rate on current consumption? 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................  
+2. What is the puzzle in the consumption data that has been identified by 
+Kuznets? How do the Life-cycle hypothesis and permanent income 
+hypothesis solve this puzzle? 
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ .......................................................................................................................
+ ....................................................................................................................... 
+8.3  CONSUMPTION UNDER UNCERTAINTY: 
+ RANDOM WALK HYPOTHESIS 
+In our discussion so far we have assumed that people know their average life-
+time income (or the permanent part of the income) with certainty. What happens 
+if there is some degree of uncertainty with the permanent income as well? 
+Obviously, in the presence of uncertainty, people’s expectation about the future 
+becomes important.  We can extend the logic of the permanent income 
+hypothesis to argue that in the presence of uncertainty, individuals maximize 
+their expected utility subject to the constraint that the sum of total expected 
+consumption cannot exceed the total value of the expected life-time income. In 
+other words, the objective function of a consumer is now given by 
+
+
+
+T
+t
+tT CuECuECuECuEUE
+1
+21 )]([)]([.......)]([)]([][ ,            ... (8.8) 
+which he maximizes subject to the constraint  
+
+
+
+T
+t
+t
+T
+t
+t YEACE
+1
+0
+1
+)()( .                  ... (8.9) 
+Note that since future is uncertain, the expectation of people about future comes 
+to play an important role, and therefore how people form their expectation also 
+becomes important for the decision making process. You have earlier been 
+introduced to the rational expectation hypothesis in Block-3. According to the 
+
+
+--- Page 10 ---
+ 
+133 
+ 
+Consumption  
+and Asset Prices 
+rational expectations theory the outcomes do not differ systematically from what 
+people expected them to be. The extension of the permanent income hypothesis 
+in the presence of uncertainty combined with the assumption of rational 
+expectation led to the theory of ‘random walk consumption”, as expounded by 
+Robert Hall (1978).  
+Hall argued that if individual’s consumption indeed depended on their expected 
+average life-time income, and if people had rational expectations, then changes in 
+consumption over time will be unpredictable, i.e., consumption will follow a 
+‘random walk’. The intuition behind this result is simple: if the life-time income 
+is expected to change at some future point of time and people have this 
+information, then they will use this information optimally (under rational 
+expectation) and will therefore immediately adjust their consumption over 
+different time periods (consumption smoothing) so that current consumption 
+would not change at the time when the actual income changes. Current 
+consumption can change only if there are surprises in the life-time income, which 
+were not anticipated. To put it differently, current consumption can only change 
+due to events which are unpredictable and as a result changes in consumption 
+would also be unpredictable. 
+Theoretically it is easy to see how this hypothesis follows from the above 
+formulation of individual’s maximization problem. As we saw in (8.6) and (8.7) 
+the individual maximizes 
+
+T
+t
+tCuE
+1
+)]([  
+
+
+T
+t
+t
+T
+t
+t YEACE
+1
+0
+1
+)()( subject to . Since 
+the individual is taking his decision at time t=1, under rational expectations, all 
+his expectations are based on the information available at period 1. An 
+optimizing agent will equate his expected (as of period 1)  marginal utilities in 
+different periods. Now in period 1, consumption in period 1 is a certain event; 
+hence )(')]('[ 111 CuCuE
+ . On the other hand, expected (as of period 1) marginal 
+utility at any subsequent period is given by: )]([1 tCuE   ;  t = 2,3,…., T. Thus the 
+optimality condition implies:  
+)]('[)]('[)]('[)(' 131211 TCuECuECuECu             ... (8.10)
+   
+In order to explain (8.10) further let us take a quadratic utility function of the 
+form: 2
+2)( ttt CaCCu   for Tt ,.....,2,1 .  Then the marginal utility function is 
+linear in ttt aCCueiC  1)(.,.,  for all t. Therefore, 
+)(1]1[)]([ 111 ttt CaEaCECuE  . Using this in the optimality condition we 
+get: 
+ ][1][1][11 131211 TCaECaECaEaC  . 
+On simplification, 
+ ][][][ 131211 TCECECEC                                         ... (8.11) 

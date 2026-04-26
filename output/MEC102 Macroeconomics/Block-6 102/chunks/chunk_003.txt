@@ -1,0 +1,391 @@
+--- Page 20 ---
+ 
+254 
+ 
+Issues in  
+Monetary Policy 
+c) Availability of Credit  
+The ease with which credit is available in the economy is an important factor for 
+economic growth. The eligibility and norms to avail credit from the financial 
+system are set by the central bank or monetary authority of the country; hence, 
+these norms are part of the monetary policy. 
+16.4  MONETARY POLICY INSTRUMENTS  
+The various instruments of monetary policy to control credit are divided in two 
+categories, namely, Quantitative and Qualitative measures. Quantitative credit 
+control measures are non-discriminatory in nature, say for example, when a 
+certain interest rate is set by the central bank of a country, that rate applies to the 
+banking system of the country as a whole. In contrast, Qualitative / Selective 
+credit control measures vary from one section of the society to the other.  
+16.4.1 Quantitative Credit Control Measures  
+The important quantitative credit control instruments of the monetary policy are 
+as follows: 
+ Bank Rate 
+ Open Market Operations 
+ Change in Minimum Reserve Ratio 
+ Change in Liquidity Ratio 
+a) Bank Rate 
+The most noticed and significant instrument of monetary policy is the rate of 
+interest on borrowing and lending set by the central bank or monetary authority 
+of the country. Bank rate is the rate of interest at which the central bank provides 
+loans to commercial banks and other financial institutions. Increase in bank rate 
+has the effect of increasing the rate of interest in the economy. Similarly, 
+decrease in bank rate lowers the rate of interest in the economy. Higher bank rate 
+lowers the extent of credit creation in the economy which leads to a decline in 
+aggregate demand and hence lower prices. On the other hand, in a recessionary 
+phase a lower bank rate is propounded. Borrowing from the central bank, usually 
+for short period, by the commercial banks is done through the ‘repo rate’. 
+Similarly, commercial banks can deposit their excess liquidity in the central bank 
+for which the ‘reverse repo rate’ is applicable.  
+b) Open Market Operations  
+Purchase and sale of securities in the open market by the central bank or the 
+monetary authority is popularly known as open market operations. In order to 
+contract the credit in the economy, the central bank sells securities in the open 
+market. This leads to fall in aggregate demand and reduction in price level. 
+Whereas, when credit is to be expanded, there is purchase of securities by the 
+
+
+--- Page 21 ---
+ 
+255 
+ 
+Conduct of  
+Monetary Policy central bank in the open market. This leads to increase in money supply which 
+leads to increase in aggregate demand and production level in the economy.  
+c) Cash Reserve Ratio 
+The commercial banks are required to keep a certain percentage of their total 
+deposits as cash with the central bank of the country. If the aim of the central 
+bank is to reduce supply of money in the economy, it will raise the cash reserve 
+ratio (CRR). An implication of higher CRR is that commercial banks are required 
+to keep a higher percentage of their deposits in the form of cash with the central 
+bank. Thus a lesser amount is left for lending purposes. In contrast, reducing the 
+CRR would increase the credit creation in the economy as commercial banks 
+have larger availability of funds with them for the purpose of lending and 
+creating credit.  
+c) Statutory Liquidity Ratio  
+Statutory liquidity ratio (SLR) requires every bank to keep certain proportion of 
+its total deposits in the form of liquid (or near liquid) assets. When the central 
+bank needs to reduce credit, it raises the SLR. On the other hand, when the 
+objective of the central bank is to expand credit, it reduces the SLR.  
+16.4.2 Qualitative Credit Control Measures  
+Very often the monetary authority in a country controls the supply of credit in the 
+economy. Thus financial institutions may not extend credit to a borrower even if 
+he/she has a demand for credit. These measures are selective in nature (because 
+of it, they are often called selective credit control measures also) such that these 
+measures target certain sectors of the economy or certain sections of the society. 
+Secondly, it is discriminatory in the sense that different segments get differential 
+treatments. Thirdly, there is a market failure in the sense that supply and demand 
+for credit are not taken into consideration. Fourthly, there is disequilibrium in the 
+credit market – supply and demand do not match.  
+We can classify qualitative nature can be classified in the following types: 
+ Change in margin requirement  
+ Credit rationing  
+ Direct action  
+a) Margin Requirement  
+Margin requirement is the margin between the value of goods pledged as security 
+and the amount of loan. If the central bank finds that traders of any particular 
+area are stock piling certain commodities which leads to an increase in prices of 
+those commodities in the market, then the margin requirements of those 
+
+
+--- Page 22 ---
+ 
+256 
+ 
+Issues in  
+Monetary Policy commodities are increased. This way credit is contracted and those defaulting 
+traders are punished. 
+b) Credit Rationing  
+May a time the central bank resorts to credit rationing. Through rationing of 
+credit, the central bank can perform the following tasks: 
+ It can decline loan to a particular commercial  bank 
+ It can reduce the total amount of loan to all the commercial banks in 
+general. 
+ It can fix a certain quota for different banks. 
+Hence, through the above selective credit rationing methods, the central bank can 
+increase or reduce the credit in the market. 
+c) Direct Action  
+Central bank can take extreme actions against those commercial banks that 
+disobey its directives. One such extreme action is directly imposing harsh 
+restrictions on the credit of those commercial banks.  
+16.5 MONETARY POLICY IN INDIA 
+Reserve Bank of India (RBI) is the institution responsible for monetary policy 
+framework in India. The policy targets and instruments of RBI have changed 
+over the years in tandem with the domestic and global structural changes. Hence, 
+in brief we discuss the evolution of monetary policy in India.  
+16.5.1 Early Years of Monetary Policy 
+Post Independence; say from 1950 to 1970, the RBI provided support to the 
+government’s plan expenditure using deficit financing. It was the 
+industrialization phase when large scale public sector investments were financed 
+by borrowing from the RBI. The RBI then focused on selective credit control 
+check inflation while making sure that credit flowed to priority sectors. Since 
+1971, up to mid 1980s, the Indian government relied more on fiscal policy 
+measures compared to monetary policy as Statutory Liquidity Ratio (SLR) and 
+Cash Reserve Ratio (CRR) were increased. The high level of inflation in the 
+1980s led to the adoption of monetary targeting framework on the 
+recommendations of the Sukhamoy Chakravarty Committee in 1985. 
+After the economic reforms of 1991, the RBI’s role underwent a significant 
+change. Steps were taken to curb the monetization of fiscal deficit. Say for 
+example, by 1997 the ad-hoc treasury bills were completely phased out. 
+However, monetization of fiscal deficit continued through primary issue of public 
+debt in auctions. Since April 2006, the RBI is not allowed to subscribe to the 
+primary issue of public debt.   
+
+
+--- Page 23 ---
+ 
+257 
+ 
+Conduct of  
+Monetary Policy 
+16.5.2 Liquidity Adjustment Facility  
+Multiple indicator approach was adopted by RBI in 1998 in which high 
+frequency financial market rates and fortnightly/ monthly indicators were tracked 
+along with the output data for monetary policy purposes. In April 1999, on the 
+recommendations of the Narasimham Committee (second committee), Interim 
+Liquidity Adjustment Facility (ILAF) was introduced.  Repo and reverse repo 
+rates emerged as the primary policy rates of the RBI and the significance of CRR 
+and SLR as instruments of RBI to manage liquidity got reduced. However, the 
+ILAF suffered from non-existence of a ceiling rate and no unique policy rate. 
+Hence, since May 2011 the repo rate has become the only independently varying 
+rate under the Revised Liquidity Adjustment Framework (RLAF). In September 
+2014 the RLAF was fine-tuned following the recommendations of the Urjit Patel 
+Committee. In May 2016, the Monetary Policy Framework Agreement (MPFA) 
+was signed between the Government of India (GOI) and the RBI to regulate 
+inflation and bring it below 4 percent in financial year 2016-17. In case of failure 
+on the part of the RBI to comply with the above targets, it is accountable to the 
+GOI and suggest reasons and remedies to achieve the same in future by a 
+specified date.  
+Since February 2019 the RBI has followed an accommodative monetary policy in 
+order to provide stimulus to the ailing economy. The RBI, however, realized that 
+the Scheduled Commercial Banks (SCBs) do not transmit the rate cuts to the 
+general public. In view of the above, the RBI in August 2019 decided to 
+formalize the linkage between repo rate and bank lending rates.  
+16.6  TRANSMISSION MECHANISM OF MONETARY 
+ POLICY 
+As mentioned in the beginning of the Unit, monetary policy affects several key 
+economic variables in the economy. Monetary policy decision, particularly on 
+money supply and interest rate, sets in motion a sequence of effects. 
+Transmission mechanism means the process or the channels through which 
+monetary policy affects economic variables.  
+It is difficult to make a complete list of variables which get affected by a 
+monetary policy decision. Economists have attempted to make a comprehensive 
+list of the channels. There are differences amongst economists, however, on the 
+importance of various channels. We have tried to compile the various channels 
+(See Table 18.1) based on the studies of Mishkin (1995), Taylor (1995) and 
+Boivin et al. (2010). Second, the impact of monetary policy on all variables is not 
+uniform – while certain variables get influenced by a particular monetary policy 
+decision to a great extent, the impact is negligible on certain other variables. It 
+depends on the policy decision and its target variables. Third, some of these 
+effects are visible immediately while certain others are noticeable with a lag. 
+  
+
+
+--- Page 24 ---
+ 
+258 
+ 
+Issues in  
+Monetary Policy 
+ 
+Fig. 18.1: Monetary Transmission Mechanism 
+CHANNEL CAUSATION CHAIN 
+Interest Rate 
+Channel 
+(a) Nominal 
+Variant 
+ 
+ 
+(b) Real Variant   
+ 
+ 
+ 
+ 
+Money ↑ → Interest Rate ↓ → Investment ↑ → Aggregate Demand ↑ 
+ 
+ 
+Money ↑ → Expected Price ↑ → Expected Inflation ↑ → Real Interest 
+Rate ↓ → Investment ↑ → Aggregate Demand ↑ 
+ 
+Open Economy 
+Channel 
+ 
+Exchange Rate 
+Channel 
+ 
+ 
+ 
+Money ↑ → Interest Rate ↓ → Exchange Rate ↑ (Depreciates) → 
+Exports ↑ → Net Exports ↑ → Aggregate Demand ↑  
+ 
+Credit Channel 
+(a) Bank 
+Lending  
+ 
+(b) Balance 
+Sheet 
+ 
+ 
+ 
+(c) Cash Flow 
+ 
+ 
+(d) Unanticipated 
+Price Level 
+ 
+(e) Liquidity 
+Effects 
+ 
+ 
+Money ↑ → Deposits ↑ → Bank Loans ↑ → Investment ↑ → Aggregate 
+Demand ↑ 
+ 
+Money ↑ → Price of Stocks (Net Worth) ↑ → Adverse Selection ↓ → 
+Moral Hazard ↓ → Lending ↑ → Investment ↑ → Aggregate Demand ↑  
+ 
+ 
+Money ↑ → Interest Rate ↓ → Cash Flow ↑ → Adverse Selection ↓ → 
+Moral Hazard ↓ → Lending ↑ → Investment ↑ → Aggregate Demand ↑ 
+ 
+Money ↑ → Unanticipated Price of Stocks ↑ → Adverse Selection ↓ → 
+Moral Hazard ↓ → Lending ↑ → Investment ↑ → Aggregate Demand ↑ 
+ 
+Money ↑ → Price of Stocks ↑ → Value of Financial Assets ↑ → 
+Likelihood of Financial Distress ↓ → Consumer Durables and Housing 
+Expenditure ↑ → Aggregate Demand ↑ 
+ 
+Other Channels 
+(a) Wealth Effect  
+ 
+ 
+(b) Tobin’s q 
+ 
+(c) Expectations 
+ 
+Money ↑ → Price of Stocks ↑ → Wealth ↑ → Consumption ↑ → 
+Aggregate Demand ↑ 
+ 
+ 
+Money ↑ → Price of Stocks ↑ → Tobin’s q ↑ → Investment ↑ → 
+Aggregate Demand ↑ 
+ 
+Money ↑ → Expected inflation ↑ → Consumption/Investment ↑ → 
+Aggregate Demand ↑ 
+ 
+ 
+We now elaborate on some of the above transmission channels.  
+
+
+--- Page 25 ---
+ 
+259 
+ 
+Conduct of  
+Monetary Policy 
+a) Interest Rate Channel  
+Nominal Interest Rate: When there is an increase in money supply it leads to a 
+decline in nominal interest rate which further raises the incentives for investment. 
+An increase in investment has obvious impact of increase in aggregate demand.  
+Real Interest Rate: An increase in money supply increases the expected price 
+level, that is, it raises the rate of inflation in the economy leading to fall in the 
+real rate of interest. The fall in interest rate raises investment and as a 
+consequence the aggregate demand. The increase in expected price also provides 
+an incentive to firms to increase production. 
+We know from rational expectations hypothesis that the average of short term 
+rates is the long term rate. Therefore, transmission from short term rates to long 
+term rates is essential for this transmission channel to be effective. For a 
+developing economy like India, the costs of funding does not decrease in short 
+term as substantial segment of the deposits in banks are long term in nature. 
+Developing countries generally have an underdeveloped bond markets, less 
+competition in the banking sector, and existence of a large informal sector for 
+credit. These factors make the transmission mechanism through this channel 
+extremely weak.  
+b) Open Economy Channel 
+Exchange Rate: An increase in money supply leads to fall in interest rate. Fall in 
+interest rate leads to outflow of funds, as investors find it more profitable to 
+invest abroad. This leads to decrease in supply of foreign currency which leads to 
+depreciation of the domestic currency. Depreciation of domestic currency leads 
+to increase in net exports leading to an increase in aggregate demand.  
+After the economic reforms of the 1990s, the Indian economy gradually opened 
+up to the external sector. Therefore, the importance of this channel in monetary 
+transmission in India is on the rise.  
+c) Credit Channel  
+Bank lending: An increase in money supply leads to an increase in bank deposits 
+which enhance bank lending. Increase in bank lending leads to further 
+investments; leading in turn to increase in aggregate demand.  
+Banks may be reluctant to lend despite the growing cash reserve due to depressed 
+economic conditions, and some borrowers should be completely bank dependent 
+in order to make this channel of transmission really effective. In countries like 
+India, where financial markets are not fully developed as yet, this could be a 
+significant channel of transmission. Balance Sheet: An increase in money supply 
+raises the prices of the stocks as people invest money in stocks. This reduces the 
+
+
+--- Page 26 ---
+ 
+260 
+ 
+Issues in  
+Monetary Policy drawbacks of asymmetric information which boosts confidence of the lenders 
+and borrowers on each other. There is increased lending and thus investments in 
+the growing economy which ultimately raises the aggregate demand. 
+Cash Flow: An increase in money supply leads to fall in interest rate and increase 
+in cash flow in the economy. This again reduces the drawbacks of asymmetric 
+information and increased investment and aggregate demand follows.  
+Unanticipated Price level: An increase in money supply raises the otherwise 
+unexpected rise in price level of stocks in the economy. The drawbacks of 
+asymmetric information are reduced with further raises lending, investment and 
+aggregate demand.  
+Liquidity Effects: An increase in money supply raises the prices of stocks and 
+value of other financial assets. This reduces the risk of financial distress further 
+leading to increased consumption of consumer durables and hence increased 
+overall aggregate demand. 
+d) Other Channels  
+Wealth effect: An increased money supply raises the price of stock and thus 
+raising the wealth of the people. This increased wealth raises consumption and 
+aggregate demand.  
+Tobin’s Q Effect: 'Q' represents the ratio of the market value of a firm's existing 
+shares (share capital) to the replacement cost of the firm's physical assets (thus, 
+replacement cost of the share capital).  An increase in the money supply raises 
+the price of the stocks and thus raises the ‘Q’ value leading to increased 
+investment and aggregate demand.  
+Expectations: An increased money supply raises the expectations of increased 
+inflation in the economy which enhances present consumption and investment 
+leading to increased aggregate demand.  
+16.7  LET US SUM UP 
+Monetary policy is the macroeconomic policy implemented by the central bank 
+of the country in order to regulate credit through its various instruments. The 
+credit control measures are classified into quantitative and qualitative. The 
+quantitative measures are interest rates, open market operations, reserve 
+requirements and liquidity ratio conditions. The qualitative measures are changes 
+in margin requirements, rationing of credit and direct action. The transmission of 
+monetary policy takes through various channels. These channels include interest 
+rate channel, open market channel, credit channel and other channels such as 
+expectations, Tobin’s q and wealth effect. Every channel shows that an increased 
+
+
+--- Page 27 ---
+ 
+261 
+ 
+Conduct of  
+Monetary Policy money supply through various channels ultimately increase the aggregate 
+demand in the economy. In developed countries the dominant channel of 
+transmission is the traditional interest rate channel, whereas in developing 
+countries the exchange rate and bank lending channel play a significant role.  
+16.8  ANSWERS/ HINTS TO CHECK YOUR 
+ PROGRESS EXERCISES 
+Check Your Progress 1 
+1) By monetary policy we mean a deliberate change in the interest rates and 
+money supply by the central bank or monetary authority of the country.  
+2) The goals and targets of monetary policy are different and ultimately move 
+towards the overall objective of economic policy in general. 
+Check Your Progress 2  
+1) There are two types of credit control measures of monetary policy, namely, 
+Quantitative and Qualitative measures. The Quantitative measures are non 
+discriminatory in nature and apply to the entire country, while the 
+qualitative measures are selective or discriminatory in nature.  
+Check Your Progress 3 
+1) There are various channels of transmission of monetary policy.  
+ 
+ 
+ 
