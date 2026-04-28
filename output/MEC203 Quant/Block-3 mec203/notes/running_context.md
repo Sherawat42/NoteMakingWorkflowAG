@@ -1,0 +1,110 @@
+# Running Context
+
+## Key Concepts Introduced
+- **Limit of a function** (Chunk 001): value f(x) tends to as x → a; ε–δ definition.
+- **One-sided limit** (Chunk 001): RHL `f(a+0)` and LHL `f(a−0)`.
+- **Continuity** (Chunk 001): `lim_{x→a} f(x) = f(a)`; three-part test.
+- **Discontinuity types** (Chunk 001): ordinary, removable, infinite, oscillatory.
+- **Properties of continuous functions** (Chunk 002): IVT, boundedness, attainment of bounds.
+- **Derivative** (Chunk 002): limit of difference quotient; right/left derivatives.
+- **Differentiability ⇒ continuity** (Chunk 002).
+- **Standard derivatives + rules** (Chunk 002): power, exp, log, trig; sum/product/quotient/chain/parametric.
+- **Logarithmic differentiation** (Chunk 003).
+- **Differential** dy = f'(x) dx (Chunk 003).
+- **Higher-order derivatives** (Chunk 003).
+- **Average and Marginal Revenue/Cost** (Chunk 003): AR/MR, AC/MC; relations.
+- **Price elasticity of demand** (Chunk 003): ε_p = (dq/dp)(p/q); classification.
+- **Income elasticity / Engel curve** (Chunk 003).
+- **Constant-elasticity demand** (Chunk 003): q = A pᵅ ⇒ ε = α.
+- **Slope and curvature** (Chunk 003): f' direction, f'' bend; convex/concave.
+- **Taylor series** (Chunk 004): polynomial approximation around a; Maclaurin = Taylor at 0.
+- **Mean Value Theorem** (Chunk 004): ∃ c with f(b)−f(a) = (b−a) f'(c).
+- **L'Hôpital's Rule** (Chunk 004): for 0/0 or ∞/∞, limit of f/g = limit of f'/g'.
+- **Partial derivative** (Chunk 005): ∂f/∂xᵢ holding others fixed.
+- **Higher-order partial derivatives & cross-partials** (Chunk 005).
+- **Young's theorem** (Chunk 005): f₁₂ = f₂₁ when continuous.
+- **Total differential** (Chunk 005): dy = Σ fᵢ dxᵢ.
+- **Total derivative** (Chunk 005): chain rule when all xᵢ depend on parameter t.
+- **Implicit function differentiation** (Chunk 005): dy/dx = −fₓ/fᵧ.
+- **MRTS** (Chunk 005): f_L / f_K along an isoquant.
+- **Elasticity of substitution σ** (Chunk 005): % change in input ratio per % change in MRTS; σ = 0 (Leontief), 1 (Cobb–Douglas), ∞ (perfect substitutes).
+- **Homogeneous function** (Chunk 005): f(kx) = kⁿ f(x); degree n.
+- **Properties of homogeneous functions** (Chunks 005–006): φ(y/x) form; first partials degree n−1; Euler's theorem.
+- **Indefinite integral** (Chunk 006): F(x) + C with F'(x) = f(x).
+- **Properties of indefinite integral** (Chunk 006): linearity; power rule.
+- **Method of substitution** (Chunk 006).
+- **Trigonometric integration** (Chunks 006–007): standard forms; identities; product-to-sum; (ax + b) generalisation.
+- **Integration by parts** (Chunk 007): ∫ u dv = uv − ∫ v du.
+- **Useful integration formulae** (Chunk 007): power, log (1/x), exp, sin/cos with linear arg.
+- **Constant of integration determination** (Chunk 007): from boundary condition.
+- **Definite integral via Riemann sum** (Chunk 007): ∫ₐᵇ f dx = lim Σ f(xᵢ*) Δx.
+- **Properties of definite integral** (Chunk 007): linearity, additivity over intervals, comparison, reversal flips sign.
+- **Fundamental Theorem of Calculus** (Chunk 008): Part 1 (F'(x) = f(x)); Part 2 (∫ₐᵇ f = F(b) − F(a)).
+- **Net area** (Chunk 008): signed area; differs from total area when f changes sign.
+- **u-substitution in definite integrals** (Chunk 008): two methods (revert vs change bounds).
+- **Improper integrals** (Chunk 008): infinite limits or unbounded integrand; convergent vs divergent.
+- **Comparison theorem for improper integrals** (Chunk 008).
+- **Partial fraction decomposition** (Chunks 008–009): for rational integrands; templates by factor type.
+
+## Definitions (⭐ exam-important)
+- **Limit** (Chunk 001): unique number t such that f(x) can be made arbitrarily close to t by taking x close to a.
+- **Continuity at x = a** (Chunk 001): `lim_{x→a−} f = lim_{x→a+} f = f(a)`.
+- **Removable discontinuity** (Chunk 001): one-sided limits agree but ≠ f(a) or f(a) undefined.
+- **Ordinary discontinuity** (Chunk 001): f(a+0) ≠ f(a−0).
+- **f'(x) exists** (Chunk 002): ⟺ R f'(x) = L f'(x).
+- **Right-hand derivative R f'(x)** (Chunk 002).
+- **Left-hand derivative L f'(x)** (Chunk 002).
+- **Marginal Revenue MR** (Chunk 003): dR/dq.
+- **Marginal Cost MC** (Chunk 003): dc/dq.
+- **Point price elasticity** (Chunk 003): ε_p = (dq/dp)(p/q).
+- **Engel curve** (Chunk 003): graph of demand vs income.
+- **Convex curve** (Chunk 003): f''(x) > 0.
+- **Concave curve** (Chunk 003): f''(x) < 0.
+- **Monotonically increasing function** (Chunk 003): f' > 0.
+- **Analytic function** (Chunk 004): expressible as Taylor power series.
+- **Maclaurin series** (Chunk 004): Taylor at 0.
+- **Mean Value Theorem** (Chunk 004): ∃ c ∈ (a, b) with f(b) − f(a) = (b − a) f'(c).
+- **L'Hôpital's Rule** (Chunk 004): limit of 0/0 or ∞/∞ ratio = limit of derivative ratio.
+- **Partial derivative ∂f/∂xᵢ** (Chunk 005).
+- **Marginal utility** (Chunk 005).
+- **Cross-partial f₁₂** (Chunk 005).
+- **Young's theorem** (Chunk 005).
+- **Total differential** (Chunk 005).
+- **Total derivative** (Chunk 005).
+- **MRTS** (Chunk 005).
+- **Elasticity of substitution σ** (Chunk 005).
+- **Homogeneous of degree n** (Chunk 005).
+- **Indefinite integral** (Chunk 006).
+- **Constant of integration C** (Chunk 006).
+- **Riemann sum** (Chunk 007).
+- **Definite integral** (Chunk 007).
+- **Antiderivative** (Chunk 008).
+- **Fundamental Theorem of Calculus Part 2** (Chunk 008).
+- **Improper integral** (Chunk 008).
+- **Convergent / Divergent integral** (Chunk 008).
+- **Partial fraction decomposition** (Chunk 008).
+
+## Named Models / Laws / Theories
+- **Sandwich (Squeeze) Theorem** (Chunk 001).
+- **Algebra of Limits** (Chunk 001).
+- **Intermediate Value Theorem** (Chunk 002).
+- **Boundedness Theorem** (Chunk 002).
+- **Mean Value Theorem** (Chunk 004).
+- **L'Hôpital's Rule** (Chunk 004).
+- **Taylor's Theorem (with Lagrange remainder)** (Chunk 004).
+- **Young's Theorem** (Chunk 005).
+- **Implicit Function Differentiation** (Chunk 005).
+- **Cobb–Douglas production function** (Chunk 006): q = A L^a K^{1−a}; CRS, σ = 1.
+- **Euler's Theorem on homogeneous functions** (Chunk 006): x f_x + y f_y = n f.
+- **Fundamental Theorem of Calculus** (Chunk 008).
+- **Comparison Theorem for Improper Integrals** (Chunk 008).
+- **Substitution Rule (u-sub)** (Chunks 006, 008).
+- **Integration by Parts** (Chunk 007).
+
+## Key Data & Numbers
+- Standard limits: `sin x/x → 1`, `(1+1/x)^x → e`, `(eˣ−1)/x → 1`, `xⁿ/n! → 0`.
+- AR–MR identity: MR = AR + q f'(q).
+- AC–MC identity: d(AC)/dq = (1/q)(MC − AC).
+- Cobb–Douglas σ = 1; Leontief σ = 0; perfect substitutes σ = ∞.
+- ∫ 1/xᵖ on [1, ∞): converges if p > 1, diverges if p ≤ 1.
+- Maclaurin series of eˣ, sin x, cos x, log(1+x).

@@ -1,0 +1,63 @@
+Dynamic
+Optimisation
+
+88
+
+24.12 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Progress 1
+
+1. a) Because Pris always restricted in sign i.e., pt > 0 we need lim eA, =0
+
+res
+b) We define Hamiltonian functional
+
+H*(.)=u(xt)+ At Pf
+
+> H"(.)=In(Xt)+At(a+bpt—Xt)
+The necessary condition for optimisation
+
+HW) 94 ysosaet . 6)
+Ox Xt Xt
+
+From co-state condition of optimisation
+
+aH"(.)
+Pt
+
+ak=yAt— =rAy—Ayb .. (ii)
+
+Using eqn. (i) in eqn. (ii) we get
+
+—-x 101
+
+M= 3 =r—-—b
+x Xt Xt
+xt
+
+=ct=b-r
+Xt
+xt
+
+— =(b-r)dt
+xX (b-r)
+
+Integrating above equation we get,
+
+Oxt py
+Goose r) dt
+
+=> Inxt = (r—b)t
+
+=> Xt =kel')t, where k is constant. (Ans.)
+Check Progress 2
+
+1. The present value of profit of firm (objective functional) is,
+
+%
+v(.)= Jet [y(t)—lt)-y(I(t)] dt
+t=0
+Therefore the current value of Hamiltonian
+
+H"(.)=[AF(K(t)— Kt) — (l(t) + x(t) -3k(t))]

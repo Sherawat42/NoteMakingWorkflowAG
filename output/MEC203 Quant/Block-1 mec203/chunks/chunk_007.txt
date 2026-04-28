@@ -1,0 +1,543 @@
+Review of Basic
+Mathematics
+
+60
+
+Solution Types (with examples)
+For the quadratic equation
+axtbxtce=0,witha#O 2 (i)
+
+depending on the value of (b? — 4ac), there are 3 types of solutions of the
+quadratic equations:
+
+Case (i) when (b? — 4ac) = 0
+
+then equation (1) has two identical roots. For example, for the quadratic equation
+X-4x44=0, 00, (ii)
+a=l1, b=—4, and c = 4, and hence
+
+(b? — 4ac) = (— 4)” — 4(1) (4) =0.
+
+Therefore, we expect two coincident roots:
+
+x =[—b + V (b? — 4ac)] / (2a) = [- (— 4) + 0J/ 2 =2,
+
+are two coincident roots of the given quadratic equation (i1)
+
+Case (ii) when (b? — 4ac) > 0,
+
+then equation (i) has two real and distinct roots. For example, for the quadratic
+equation
+
+X-6x44=0, 0 ee (iii)
+a=1, b=— 6, and c = 4, and hence
+(b? — 4ac) = (- 6Y — 4(1) (4) =36— 16 = 20.
+Thus, the roots are
+
+x = [—b + V (b? — 4ac)] / (2a) = [- — 6) #V20]/ 2 =[ 6 + 2V5]/ 2 = (3 V5)
+Thus, the two roots of (iii) are x = (3 +V5), and x= (3 — V5).
+Case (iii)when (b* — 4ac) < 0
+
+then equation (1) has two complex and distinct roots. For example, for the
+quadratic equation
+
+X-2x44=0, 00 (iv)
+a=l1, b=— 2, and c = 4, and hence
+
+(b? — 4ac) = (- 2) — 4(1) (4) =4- 16 =- 12.
+
+Thus, the roots are
+
+x =[—b + V (b?— 4ac)] / (2a) = [—- 2) V © 12)]/ 2 =[ 24i 2V3]/ 2 = (14iV3)
+
+Thus, the two complex roots of (iv) are x = (1 +iV3), and x= (1 — iV3).
+Check Your Progress 4 Overview of
+Basic Methods
+
+. . . . . . . of Mathematics
+1) Arjun is twice as old as Rahim. Five years ago, Arjun’s age was three times
+
+Rahim’s age. Find their present ages.
+
+eer ere rere rere rere erse eee sere reser esreresrerereeeresrere reser esrerereereeeeeresresresresreresrereeeesreeeeeecce
+weer rere rere rere rere eres erererere reser ereeeeeesrerere rere erereresrerereererere reser esrereeeeeeerereoes
+
+11/7
+
+eee ere rere rere rere rere eeeereere rere sre reser ereeererererereresre reser eereeeeerererereeresre rere eeeeeeeos
+eer ere rere rere rere re eee sre rere reser ereeeeeeeesresrererererererereeeereesresrereresererereeeeerererece
+
+eee ere rere rere rere rereereerererererere rere sreeereeseeesrere rere erere reese eeeeerereererereee rere eee eeeoecos
+were rere ere rere sreereeer eres ererereresresresrereeeeeesresrerereeresresresresreereresresresesreresresreresreeeesrerecce
+were rere rere rere reese esreseeresrereresrerereeeeseeseeseeesresereresrereereeeeseseeresresesrerereesesreeescce
+
+ee eer ere rere reece eceereeresresrere reser ereeeeeeeresresreerereresresrere reer eeeereresrerereresre reser eeeeeoeos
+
+4) Solve each of the following quadratic equations in one variable x:
+
+i) x°*+6x+9=0
+ii) x°+6x+3=0
+iii) x°+ 6x + 12=0
+
+eo errr ere rere rere reresreerere rere eeresreresresresresrerereeeseeererereeresrereereeesrereresreresresreeresresesecce
+eo oe ere reer ere rere re rere ereereeere sere sre rere rere reeeresesresreresrerereereereereeseresresrerererereeseeeeece
+eo ee erer cere rere reser e rere sreeeresresresreresreeresesesreseeeeresreresresreeresresresresreeereeresrereeresre rere ereecececes
+
+2.4 LET US SUM UP
+
+In this unit, first we have explained a number of concepts—involved in
+formulating, defining and solving problems using mathematical tools—including
+those of symbol, parameter, variable, constant, § mathematical
+expression/formula/well-formed-formula, equation, solution/root of equation,
+zero of function, polynomial identity, polynomials, and polynomial equations.
+Then we explained how to apply algebraic operations to polynomials, and how to
+use polynomial identities in solving specific type of problems. Finally, we
+discussed how to solve following type of equations: linear equations in one
+variable single, linear equations in two variables, system of two or more linear
+equations in two or more variables, and quadratic equations. 61
+Review of Basic
+Mathematics
+
+62
+
+2.5 KEY WORDS
+
+Linguistic Expression
+
+Mathematical
+expression (also called
+‘formula’)
+
+Symbol
+
+Variable
+
+Linguistic expression is a language, a structure, or
+a sequence of characters, which is constructed
+according to its structuring rules--the totality of
+which is called its syntax/grammar.
+
+By this, we mean a sequence of mathematical
+terms (including constants, variables, parameters,
+relations and operations) formed by using the
+structuring rules of mathematics.
+
+A symbol is a notation which represents, or stands
+for, something else. For example, the four-letter
+word /ake represents some water-body. By
+‘something else’, we mean that through trying to
+touch the four-letter word Jake, our finger does not
+get wet, but through trying to touch what is
+represented by the four-letter word, finger
+becomes wet. However, in case we wish to talk
+about the four-letter word Jake itself, and not the
+water-body, then the symbol for it is generally
+written as either of (1) ‘lake’, (i1) “lake”, and
+(iii) Jake, or some combination of these,
+e. g. ‘lake’.
+
+It is a symbol which can be measured and which
+may change. Examples of a variable from the field
+of economics include price, interest-rate, wages,
+quantity-bought, and quantity-sold.
+
+2.6 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1) (i) and (iv) are M.E. But (11) is not M. E., because the multiplication symbol
+
+‘x’ must be followed an expression, (iii) is not M. E., because one of the
+
+arguments of multiplication symbol ‘x’ is (8< y), which contains a relational
+
+operator, viz. ‘<’, (v) is not M.E., because, it contains two left parentheses,
+
+but only one right parenthesis: A mathematical expression must contain
+
+pairs of matching parentheses.
+
+Check Your Progress 2
+1) (2a — 4b -5c) = (2a)? + ( 4b)’ +(-Sce)” + 2 (2a) (— 4b)+ 2 (2a) (-Se)+ 2
+
+4b) (—Sc)
+
+= 4a” +16b” +25c7— 16ab — 20ac + 40bc
+2)
+
+3)
+
+As in Example 2.2.4.1.2, (625/ 16) = (25/4) and (9/ 49) = (3/7). Therefore,
+(625/ 16) x*— (9/ 49) y*= [(25/4) x° + (3/7) y’] [ (25/4) x*-G/7) v7]... @
+By further factoring [ (25/4) x7 (3/7) y"] =[ (5/2) x + V (3/7) y] [ (5/2) x—
+V (3/7) y] ...Gi)
+
+Substituting (11) in (1), we get
+
+(625/ 16) x*— (9/ 49) y*= [(25/4) x” + (3/7) y*] [ (5/2) x + V (3/7) y] [ (5/2)
+x —V (3/7) y].
+
+We have x + 4y’ + 2° — 4xy — 4yz + 2xz
+= (x) + 2p) + (2)° + 2(x) (-2y) + 2(-2y) (@) + 2@—)@)
+=[x—2y +z] =[x-2y +z] [vx -2y +2].
+
+Check Your Progress 3
+
+I)
+
+(i) P (x, y) + Q (x, y) = [4x 3xy + Sy] +[- 4x 3xy + Sy]
+= 4x*_ 3xy + 5y — 4x"— 3xy + Sy”
+Collecting like terms together
+
+= 4x*— 4x°— 3xy— 3xy + 5y + Sy? =— 6xy + 5y +5y
+May be further simplified as
+
+=— oxy + 5y (1+ y),
+Or even, further as
+
+=y[-6x+5(l+y)]
+
+(ii) P (x, y)—Q (x, y) = [4x"— 3xy + 5y] —[ — 4x*— 3xy + 5y’]
+
+Changing the signs of Q (x, y) in the above we get
+
+P (x, y)—Q (x, y) = [4x"— 3xy + Sy] + [4x°+ 3xy — 5y"]
+Collecting similar terms together,
+
+4x? + 4x*_ 3xy + 3xy + S5y—5y°
+
+=8x"+ Sy- Sy
+
+May be further simplified as
+
+=8x*+ 5y (I-y).
+
+2) (4x°— 3xy + Sy) x (2x*— Ty)
+
+= 4x? (2x*~ Ty)— 3xyx (2x*— Ty) + 5y x (2x"— Ty)
+
+= [ 4x? 2x?+ 4x? (— Jy) + [ — 3xy 2x” — 3xyx (— Ty)] + [Sy x 2x7 + 5y
+x(— Ty)]
+
+=8x'28x’y -6x°yt+21 xy +10x*y-35y
+
+Overview of
+Basic Methods
+of Mathematics
+
+63
+Review of Basic
+Mathematics
+
+64
+
+Check Your Progress 4
+
+1)
+
+2)
+
+Let Rahim’s current age = x years
+
+Arjun’s current age =2x years
+
+5 years earlier Rahim’s age = (x — 5) years
+
+5 years earlier Arjun’s age = (2x — 5) years
+
+But given Five years ago, Arjun’s age was three times
+Rahim’s age, we get
+
+(2x — 5) =3 (x—5S)
+
+=3x-15
+
+Transferring all x’s to L.H.S and constants to R.H.S,we get
+2x — 3x =—15+5=- 10
+
+—x =— 10 implying x =10
+
+Rahim’s current age = 10 years
+
+Arjun’s current age = twice Rahim’s age = 2 (10) =20 years.
+Except for the value x= — 7/3, the equation
+
+(2x+ 5)/ (3x+7) = 11/16, ... ... ... (1)
+
+is equivalent to linear equation
+
+(2x+ 5) = (11/16) (3x+7), or
+
+16(2x+5)=1103K +7) ete es (11)
+Le., 32 x +80 = 33x + 77
+
+Shifting terms involving x’s to L.H.S. and the rest to the R.H.S., we get
+—-x=-3
+
+Or x =3 is a solution of (11).
+
+As 34— 7/3, therefore,
+
+x =3 1s a solution of the given equation (1) also.
+
+3) Except for (2x + 3y) =0, i. e., for x = (— 3/2) y, the equation (1) is equivalent
+
+to (3x+4y+1) = (8/5) (2x +3y) ee eee wee (ii),
+
+which is a linear equation in two variables x and y, and hence, is expected to
+have infinitely many solutions. From (11), we get
+
+5 (3x+4y+1) = 8 (2x + 3y),
+equivalently
+
+15 x+20 y +5 = 16x +24 y.
+Shifting y’s to L.H. S. and the rest to R. H.S., we get Overview of
+Basic Methods
+
+of Mathematics
+
+20y — 24 y= lox—-15x-5
+4y=x-Sory=(x+5)/4
+
+For the solutions of equation (11) above, for each value of x, we get a value of
+y, including the following
+
+(x, y) =, 1), (2, 3/4), (3, 1/2), ...
+
+For solutions of equation (1), out of these, we reject, if any, those for which x
+= (— 3/2) y.
+
+4) Each of the above equation is of the form
+ax’+bx+c=0,
+two solutions of which are
+x =[—b+ V(b? — 4ac)] / (2a).
+For equation (1),
+a=1, b= 6, and c= 9;
+Therefore,
+b*— 4ac = (6)° — 4(1)(9) = 0
+Hence the two roots are coincident, and equal to = —6/ 2 (1) =—3.
+For equation (11),
+a=1, b= 6, and c= 3;
+Therefore,
+b*— 4ac = (6)° — 4(1)(3) = 24 >0.
+The two roots are real, and are given by [—6 + V24]/2, i. e
+The two roots are given by [-3 + V6]
+For equation (111),
+a=1, b= 6, and c= 12;
+Therefore,
+b*— 4ac = (6) — 4(1)(12) =-12 < 0.
+The two roots are complex, and are given by [—6 + V (—12)]/2, i.e
+
+The two roots are given by [-3 + iv3].
+2.7 EXERCISES
+
+Q1. Factorise x° + 16)" + 2? — 16xy — 16yz + 8xz.
+
+Ans: We have x” + 4y° +. 2° — 4xy — 4yz + 2xz
+
+= (x) + (-2y)* + (2)? + 20x) (-2y) + 2-2) (2) + 2002) 6
+Review of Basic
+Mathematics
+
+66
+
+=[x—2y +z] =[x—2y +z] [x-2y +z].
+Q2. Find the product of (8x*— 6xy + 10y) and (4x"— 1 ly)
+Ans: (4x7— 3xy + Sy) x (2x*— Ty)
+= 4x?x (2x"— Ty)— 3xyx (2x*— Ty) + 5y X (2x"— Ty)
+= [4x°x 2x*+ 4x°x (— Ty) + [ — 3xy x 2x” — 3xyx (— Ty)] + [Sy « 2x7+ 5y x
+Ty)
+=8x'-28x’y ~6x°yt+21 xy +l0x’y-35y
+
+Q3. The digits of a two-digit number differ by 4. If the digits are interchanged,
+then the original number is one less than double of resulting number. What
+is the original number?
+
+Ans: A two-digit number, for example, 52 =5 x 10 +2 x 1, has 2 at unit’s place
+and 5 at ten’s place.
+
+As on interchanging digits, the number decreases, 10’s place digit is more than
+that of unit’s place.
+
+Let unit’s digit of original number =x
+Then 10’s digit of original number = x +4
+And the original number is (x+4) x 10+x=11x+40
+On reversing digits, new number’s unit’s digit = (x+4)
+new number’s 10’s digit = x
+Therefore, new number = 10 x +(x +4) = 11x +4.
+Original Number = 2 (New number) — 1
+Therefore
+11x +40 = 2 [11x +4] — 1 = 22x +8 - 1= 22x +7, 1. e.
+11x +40 = 22x +7
+
+For solving the equation, shifting all x’s on one side and constants to the other,
+we get
+
+—1l1lx=7-40=-33
+x = 3 (unit’s digit of original number)
+10’s digit of the original number = x +4 =7
+Thus, original number = 73
+(New number =37).
+Q4. Solve the following system of equations
+2x +5 y =16
+3x +2y= 13
+Ans: Overview of
+Basic Methods
+
+2x45 y=16 0 (i) of Mathematics
+B8xt+2y= 1300 ee (11)
+In order to get an equation not involving x’s, multiply (1) throughout by 3 (the
+coefficient of x in (ii)), and multiply (11) throughout by 2 (the coefficient of x in
+(i)), we get
+Oxt1Sy=4R 00 ee (111)
+Ox+4y= 260 20 eee (iv)
+By (iii) — (iv), we get
+ISy-4 y= 48 — 26 = 22,1. €.
+lly =22,
+y =2,
+using y=2 in (1) (we could have used this value of y in (ii), (iii) or (iv)), we get
+2x + 5 (2) = 16
+2x = 16-10=6
+x=3
+
+Thus, x=3, and y= 2 is a solution of the system of equations represented by (1)
+and (11).
+
+APPENDIX: PROOF TECHNIQUES
+
+In an applied discipline like Quantitative methods in Economics, most of the
+time, only calculations with operations like +, —, x, +, and \ etc. are involved.
+And, proofs using techniques & rules of inference are rarely required. However,
+‘proof’ is the soul of Mathematics, and hence it has to be an essential component
+of any mathematics curriculum. In this section, we briefly discuss the following
+well-known techniques of proof in mathematics:
+
+i) Direct proof and counter examples
+
+11) Proof by contradiction and Proof by contrapositive
+
+111) Proof by cases
+
+iv) Existence proof
+
+v) Proof by mathematical induction
+
+vi) Proof of equivalences
+
+Generally, for different types of problems, different techniques may be more
+appropriate, yet, of course, for some problem types, more than one technique
+may be equally appropriate.
+
+67
+Review of Basic
+Mathematics
+
+68
+
+A problem requiring a proof consists explicitly of two parts, viz. (1) what is given
+as a set of assumed facts/axioms/ postulates etc, all taken together to be called
+Hypotheses and (11) what is to be proved (to be called Conclusion). Apart from
+these, implicitly, a number of definitions, tools/ techniques/ strategies, earlier
+proved theorems etc. commonly used in such type of proofs, are also assumed to
+be given.
+
+For example, suppose that we are given the problem: Prove that for all integers
+
+m and n, ifm and n are odd, then their product (m. n) is odd.
+
+In this problem, the explicitly given/assumptions include (1) each of m and n is an
+integer and (i1) each of m and n is an odd integer. Here, (11) subsumes (1), 1. e.
+whatever is said under (1) is implied by (11). What is to be proved is: product ‘m.n
+is odd’. Implicitly, a number of appropriate definitions, appropriate properties of
+the involved elements, the valid rules of inference, and proof techniques are also
+assumed to be given, along with some other assumptions. Appropriate choice of
+rules of inference and technique(s) play significant role in solving the problem
+convincingly and efficiently.
+
+Next, we give a sort of working definition of each of the techniques, and then
+illustrate the defined technique with some suitable example(s).
+
+I) Direct proofs and counter examples
+In a direct proof, the proof process begins with taking Hypotheses as true.
+Some required implicit assumptions including other axioms, definitions,
+previously derived theorems, and rules of inference, are also taken as true.
+Then using valid rules of inference, properties of the involved elements etc.,
+we try to reach the conclusion.
+
+Example: Consider the problem: Prove that for all integers m and n, if m
+and n are odd, then their product (m. n) is odd.
+
+Here, definition of odd integer is among the implicit assumptions. As m and
+n are given to be odd integers, by definition, m = 2. Ki+1 and n = 2. Kot+1,
+for some integers K; and K>. Therefore,
+
+(It may be noted that a number of laws about numbers like commutativity of
+‘+’ and ‘.’, distributivity of ‘.’ over ‘+’ etc. are among implicit assumptions
+which are used in the equations above).
+
+By definition of even number, each of 4 K;K» and 2 (K;+ Kz) is even and so
+
+is their sum 4 K,K» + 2 (K;+ K)). Finally, by definition of ‘odd’—the
+remainder is 1 on division by 2--the product m. n is odd.
+
+Refutation through counter examples
+
+If an intended conclusion is not correct, then the whole proof process need
+not be gone through. Rather, one counter-example, as explained below is
+sufficient for the purpose.
+I)
+
+Example: To prove that the claim that for all integers m and n, if m and n
+are odd, then their sum t (m +n) is odd’ is false. The problem is equivalent
+to showing that for integers m and n, if m and n are odd, then m + n need not
+be odd.
+
+One of the solution processes may be: Starting the proof as in Example
+above, let
+
+m = 2. K,+1 and n= 2. K>+1, for some integers K; and Ko. Therefore,
+
+m+n = (2. Kj+l) + (2. Ko+1) = 2 (Ki+ Kp) + 2, is an even integer. An
+integer x can be exactly one of (i) x 1s even and (11) x is odd. Therefore, x is
+not odd (as the intended conclusion requires)
+
+The shorter, and possibly better method: for m = (say) 1 and n= (say) 3, m+
+n= 1+3 = 41s not odd. The one-line proof, of the statement not being true is
+sufficient, through an example. This type of example for refuting a statement
+is called refutation through counter-example.
+
+Proof by contradiction and Proof by Contrapositive (also called
+‘Indirect Proof’ methods)
+
+The distinct feature of the technique (along with ‘Proof by Contrapositive’)
+is that, in the beginning itself, the intended conclusion is assumed to be
+wrong. Let H be the hypothesis (may be composed of a number of
+statements) and C be the intended conclusion. Then, in this technique, ~ C,
+the negation of C, is assumed to be true. And the proof of C from H follows
+if we are able to derive a contradiction, using in the process, as in Direct
+proof technique, hypothesis, definitions and earlier proved theorems etc.
+
+A contradiction is a proposition of the form S A —S (S may be any
+statement, which may or may not occur in H or C), where S A—S means
+
+both S is true and its negation —S is also true. In other words, (S is both
+
+true and False simultaneously). This last statement is NOT acceptable in
+logic, and Mathematics.
+
+Example: We prove that empty set is a subset of any other set, 1.¢e., to show
+OC X, for any set X, where X be an arbitrary set.
+
+Assume that O€ X is wrong. Then, @ ¢ X, which, by definition, is possible
+iftx EO such that x¢ X. However,
+
+4x €@ is against the definition of @. The situation has arisen out of the
+assumption ‘OC X is wrong’. Hence WE X is wrong’ is not possible. Hence,
+proof by contradiction establishes @C X, for every set X.
+
+Overview of
+Basic Methods
+of Mathematics
+
+69

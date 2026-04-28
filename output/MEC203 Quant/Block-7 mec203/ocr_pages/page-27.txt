@@ -1,0 +1,56 @@
+Dynamic
+Optimisation
+
+26
+
+Case II
+When tr is fixed xt, is free
+hence dt, = 0
+
+here we need to solve equation (22.25) and (22.27) to get solution. No need of
+equation (22.26)
+
+Case IIT
+
+When tris free and xt; is fixed.
+
+Hence dx, =0
+
+Then we need to solve (22.5) and (22.6) to obtain optimal path. No need of
+equation (22.27).
+
+Case IV
+
+When end point B is restricted to a curve g(t)
+
+Then we need to solve equation (22.25) along
+
+[vo al G@®-g9'@)|_ =0 (22.28)
+
+tat,
+
+Equation (22.26), (22.27), (22.28) are called transversality equations for
+corresponding model. In other words, transversality equations are additional
+end point restriction imposed by the model constraints in order to solve the
+respective model.
+
+22.10 DISCRETE TIME DYNAMIC OPTIMISATION
+
+We assume that time evolves in a discrete way, meaning that t€ {0,1,2.....}
+that is teN,
+
+The model is described by at least two categories of variables that evolve along
+time: a state variable x, and a control variable U,. More on state and control
+variable in next chapter. Although discrete time dynamic optimisation problems
+can be solved by Lagrange multiplier method (Ref. Chow, 1997), we here adopt
+dynamic programming method to solve the problem. Consider a two variable
+discrete optimisation problem
+
+t,&t2=t
+JO = Learnt, f ea Xt) (22.29)
+Where ty = 0 and t= N
+
+If x; and x2 are independent in nature, the optimum of J() can be thought of as
+sum of optimum of (N-1) processes. J(.) which can be thought of as sum (N-1)
+static optimisation. Therefore, we can safely jump to constrained discrete
+dynamic optimisation.

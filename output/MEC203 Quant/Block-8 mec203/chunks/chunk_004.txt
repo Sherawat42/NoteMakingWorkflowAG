@@ -1,0 +1,560 @@
+
+--- Page 1 ---
+
+Ans. i) Total number of trials = 1000. Probability
+Theory
+
+The frequency of a tyre required to be replaced before covering 4000 km
+= 20
+So, P(E:) = 20/1000 = 0.02
+
+11) The frequency that tyre will last more than 9000 km = 325 + 445 = 770
+So, P(E2) = 770/1000 = 0.77
+
+ii) The frequency that tyre requires replacement between 4000 km and
+14000 km = 210 + 325 = 535.
+
+So, P(E3) = 535/1000 = 0.535
+
+Q4. A coin is tossed three times, consider the following events.
+
+P: ‘No head appears’,
+
+Q: ‘Exactly one head appears’ and
+
+R: ‘At Least two heads appear’.
+
+Check whether they form a set of mutually exclusive and exhaustive events.
+Ans: The sample space of the experiment is:
+
+S = {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT} and
+
+P= {TTT},
+
+Q = {HTT, THT, TTH},
+
+R = {HHT, HTH, THH, HHH}
+
+PUQUR={TTT, HTT, THT, TTH, HHT, HTH, THH, HHH} = S
+
+Therefore, P, Q and R are exhaustive events.
+
+and
+
+PN Q=9,PNR=QandQNn R=o
+
+Therefore, the events are mutually exclusive.
+
+Hence, P, Q and R form a set of mutually exclusive and exhaustive events.
+Q5. If P(A) = 7/13, P(B) = 9/13 and P(ANB) = 4/13, evaluate P(A|B).
+Ans: P(A|B) = P(ANB)/P(B) = (4/13)/(9/13) = 4/9
+
+121
+
+--- Page 2 ---
+
+122
+
+UNIT 26 PROBABILITY DISTRIBUTIONS-I
+
+Structure
+
+26.0 Objectives
+
+26.1 Introduction
+
+26.2 Elementary Concept of Random Variable
+
+26.3. Probability Mass Function
+
+26.4 Probability Density Function
+
+26.5 Probability Distribution Functions
+
+26.6 Moments and Moment Generating Functions
+26.6.1 Moments
+26.6.2 Moments Generating Functions
+
+26.7 Let Us Sum Up
+
+26.8 Key Words
+
+26.9 Answers/Hints to Check Your Progress Exercises
+
+26.10 Exercises
+
+26.0 OBJECTIVES
+
+After going through this unit, you should be able to
+
+e discuss the concept of random variable;
+
+e estimate the probability density function;
+
+e find the probability mass function;
+
+e distinguish between probability mass function and probability density
+
+function; and
+
+e identify moments generating functions.
+
+26.1 INTRODUCTION
+
+The previous unit has discussed the theory of probability. This unit will
+introduce the concepts related to probability distribution. Random variables are
+always generated with a particular pattern of probability attached to them. Thus,
+based on the pattern of probability for the different values of random variable, we
+can distinguish them. Once we know these probability distributions and their
+properties, and if any random variable fits into a probability distribution, it will be
+possible to answer any question regarding the variable. In this unit, we have
+defined the random variable and made a broad distinction of the probability
+distributions based on whether the random variable is continuous or discrete.
+Then we have discussed how the moments of a probability distribution describe
+the distribution completely; how the technique of moment generating function
+could be used to obtain the moments of any probability distribution.
+
+--- Page 3 ---
+
+26.2 ELEMENTARY CONCEPT OF RANDOM
+VARIABLE
+
+When a random experiment is performed, we are often not interested in the
+detailed results, but only in the value of some numerical quantity determined by
+the experiment. It is natural to refer to a quantity whose value is determined by
+the result of a random experiment as a random quantity.
+
+A variable is called random when its occurrence depends on the chance factor.
+In other words, there is a probability that the variable will take a particular
+value. When we toss a coin, say thrice, the number of heads we obtain is a
+random variable. Suppose in this case, X denotes the number of heads. Clearly,
+X can take four values, 0, 1, 2, and 3. More importantly, there is a probability
+attached with every value of the variable X. Therefore, X is a random variable.
+We can cite several examples of random variable: the number of red cards
+drawn when we draw 10 cards from a pack of 52 cards, the number we obtain
+when a die is rolled, number of accidents in a city and the number of printing
+mistakes in a page of a newspaper.
+
+Random variables could be either continuous or discrete. A discrete random
+variable takes only distinct values. In the above examples all are discrete
+variables. If Y is a variable that denotes the number when we roll a die, it will
+always take integral values. Practically, it will take any value among {1,2, 3, 4,
+5, 6} and cannot take the value 5.5 or 4.3. Therefore, Y is a discrete random
+variable.
+
+Similarly, a random variable is continuous if it takes infinite number of values
+within a given interval or range. The life of an electrical gadget, duration of
+phone calls received by a telephone operator and the amount of annual rainfall
+in a particular district of India are examples of continuous random variables. A
+random variable always takes real values. Therefore, we can define a random
+variable as a real valued function defined over the points of a sample space (set
+of all possible outcomes of an experiment) with a probability measure.
+
+26.3 PROBABILITY MASS FUNCTION
+
+Probability distribution of a random variable is a statement specifying the set of
+its possible values together with the respective probabilities. When a random
+experiment is theoretically assumed to serve as a model, the probabilities could
+be represented as a function of the random variable. Let a discrete random
+variable X assume the values xj, x2, x3 ... Xn with probabilities pi, pz, ps .......... Pn,
+satisfying the conditions: > DP; =1,0< p<1. The specification of the values of
+i=l
+
+xi together with the probabilities p; defines the probability distribution of the
+random variable X. It is called the discrete probability distribution of X.
+
+Probability
+Distributions-I
+
+123
+
+--- Page 4 ---
+
+Probability and
+Probability
+Distributions
+
+124
+
+Often, the probability that the discrete random variable X assumes the value x is
+represented by f (x), where, f(x) = P (X = x) = probability that X assumes a
+specific value x. The function f(x) is known as the probability mass
+function(p.m.f.).
+
+The discrete random variable X can assume countably infinite number of values
+with the p.m.f. f(x).The p.m.f. f(x) must satisfy the following two conditions:
+
+1) f(x) >0
+2) SF(x;)=1
+i=1
+
+Example: An unbiased coin is tossed until the first head is obtained. If the
+random variable X denotes the number of tails preceding the first head, then what
+is the probability distribution of X?
+
+Here S={HTHTTHTTTH.....}S = {H, TH, TTH, TTTH, ........ }.
+Sample point H TH TTH | wee. eee eee cece eee
+X= No. of tails preceding a head | 0 1 2
+
+The probability distribution of the random variable X is shown in the table.
+
+Clearly, the p.m.f. of X isF(X=x)=(1/2)""'. It satisfies the two conditions
+n
+
+mentioned earlier, i.e., f(x) is always greater than ‘0’ and >f(x;)=1. Note that
+i=1
+
+X is a countably infinite random variable.
+
+Table 26.1: Probability Distribution of X
+
+Values of X f (X=x)
+0 (%)
+1 (“yp
+2 (4)3
+3 (4)
+4 (AY
+N (“yp
+
+= ¥F(x;) = 1/2 + (1/2)? + (1/2)3 + (1/2)4 +....(4/ 2)"
+i=1
+= {1+ (“)HAPHP veces +)
+=% 1/(1-% =a
+=|
+
+--- Page 5 ---
+
+Example: Let X be a discrete random variable. Its probability distribution is
+given by Table 26.2. Its density could be represented by Fig. 26.1.
+
+Table 26.2: Probability distribution of X
+
+Values of X f (X=x)
+-3 0.216
+-1 0.432
+1 0.288
+3 0.064
+452
+values
+of
+fl) 216 288
+| 064
+|
+
+-3 -2 -1 ie) 1 2 3
+—_—_—? )3values of x
+
+Fig. 26.1: Probability density of X
+
+26.4 PROBABILITY DENSITY FUNCTION
+
+In the previous section, we discussed the probability distribution of a discrete
+random variable. But what if the random variable is continuous, i.e., it can take
+any value within a given range. Since the number of possible values, a
+continuous variable can take is uncountably infinite, we cannot assign a
+probability to each value taken by the variable, as we did in case of the discrete
+random variable. In case of continuous random variable, we assign probability to
+an interval, which is in the range of the relevant random variable. Therefore, a
+continuous random variable has its probability density function as f(x) if it is a
+continuous non-negative function and it gives the probability that the random
+variable will lie in a specified interval when integrated over the interval. Let x be
+a continuous random variable which can assume any value in the interval (a, b)
+Le., a<X<b.
+
+Let f(x)f(x) be a non-negative function such that:
+P(c<x<d)= fe f(x)dx
+
+1.e., the probability of x lying in any given interval (c, d) can be obtained by
+integrating the function between the two limits of the interval.
+
+The function f(x) is called the probability density function (p.d.f.) provided it
+satisfies the following two conditions
+
+1) f(x) > 0
+
+Probability
+Distributions-I
+
+125
+
+--- Page 6 ---
+
+Probability and
+Probability
+Distributions
+
+126
+
+b
+2) If the range of the continuous random variable is (a,b) such that | f(x) =1;
+a
+
+pe f(x)dx = 1where, a< x <bis the range of x.
+
+P(c < x <d)= Area under the probability curve between the vertical line c
+and d (refer Fig. 26.2).
+
+The shaded area in Fig. 26.2 represents the probability that the variable x will
+take values between the interval (c, d), whereas its range is (a,b). In the
+figure, we have taken the values of x in the horizontal axis and those of f(x)
+on the vertical axis. This is known as the probability curve. Since f(x) is a
+
+b
+
+p.d.f., total area under the probability curve is 1 (1.e., { f(x) =1) p f(x)dx =
+a
+
+1) and the curve cannot lie below the horizontal axis as f(x) cannot take
+
+negative values. Any function that satisfies the above two conditions, can
+serve as a probability density function in the presence of real values only.
+
+a c d b
+Fig. 26.2: Probability curve
+
+Example: If x is a continuous random variable with the probability density
+function f(x)=k.e°*for x>0 and Ootherwise, then find k and P(0.5 < x< 1)
+
+If the function specified in the problem is to serve as ap.d.f., then the following
+two conditions must hold:
+1) f(x) 20 for all values of x
+b
+2) Ifthe range of the continuous random variable is (a,b) | f(x) =1 f f(x)dx = 1
+a
+
+Clearly, the range of the function given in the problem is -« to « and for
+every value of x within that interval, f(x) is positive, provided that ‘k’ is
+positive. To satisfy these condition.
+
+Tf(x)dx =1
+
+—-o
+
++400 0
+or, J f(x)dx+ ff(x)dx =1
+0 oo
+
++00 oo
+or, {f(x)dx =1f" f(x)dx = 1
+0
+
+--- Page 7 ---
+
++400 Probabilit
+_ +00 y
+or J ke 3x dx = 1f, ke Distributions-I
+0
+or, k/3 = 1
+or, k =3
+
+Thus ,we get ,f(x)=3.e°* for x>0 and 0 otherwise.
+
+1
+P(0.5<X<1)= [3e**dx =-e-9 +e71 =0.173
+0.5
+
+26.5 PROBABILITY DISTRIBUTION FUNCTION
+
+The Cumulative distribution function (c.d.f) - F(x), represents the probability that
+the random variable takes a value less than or equal to a specified value x. Thus
+F(x) shows the area under probability curve f(x) to the left of the ordinate at any
+specified value. Thus, for example:
+
+Cc
+F(c)=P(x <c)= Jf(x)dx 1.e., Area under the probability curve to the left of the
+
+vertical line c.
+P(c <x <d)=P(c < x < d) = Area between the ordinates c and d = (Area to the
+left of the ordinate at d minus (Area to the left of the ordinate at c) = F(c) — F(d)
+
+Thus, P(c < x <c)=F(c)—F(c) P(c < x < c) = Area between the ordinates c and
+c, which is 0. i.e., P(x =c)=0. Thus, for continuous probability distribution a
+
+random variable takes any specific value is zero.
+
+The distribution function of a continuous random variable has the same nice
+properties as that of a discrete random variable viz.,
+
+i) F(-c)=0, F(o)=1
+ii) Ifa<b, then F(a) < F(b) where and bare any real number.
+
+iii) Furthermore, it follows directly from the definition that P (a < x < b) = F(b)
+— F(a), where a and b are real constants with a <b
+
+iv) F(x) =d/dx F(x) where the derivatives exist
+
+m- »
+[= Fal
+
+Fig. 26.3: Distribution of a Continuous Random Variable
+127
+
+--- Page 8 ---
+
+Probability and
+Probability
+
+Distributions previous example and use it to re-evaluate P(0.5<x<1)
+
+Example: Find the distribution function of the random variable x of the
+
+For all non-positive values of x, f(x) takes the value 0. Therefore,
+F(x)=0forx< 0.
+
+For x>0,
+
+F(x) = (3e~3* dt + Tt(tat
+0
+
+Xx
+Thus, F(x)=Oforx<0,andF(x)=1-e°*forx>0.
+
+To determine P(0.5<x<1),we use the fourth property of the distribution function
+of a continuous random variable.
+
+P(0.5) <x)S1)=F(1)- F(0.5) =(1-e?”—(1-e3°>)=0.173
+Check Your Progress 1
+
+1) IfX isa discrete random variable having the following p.m.f.,
+
+x o/1)/2 ]3 }4 15 |6 |7
+P(X=x) |0|k | 2k | 2k] 3k | k? | 2k? | 7k? +k
+
+i) determine the value of the constant k
+ii) find P(X<5)
+iii) find P(X>5)
+
+2) For each of the following, determine whether the given function can serve
+as a p.m.f.
+
+i) f(x) = (x - 2)/5 for x = 1,2,3,4,5
+ii) f(x) = x?/30 for x = 0,1,2,3,4
+iii) f(x)= 1/5 for x=0,1,2,3,4,5
+
+L280 ence cece ence eee e eee n eee e eee eee ee ena e ene ene eee ene enae tee eeeeneeeneeneenaeeneenaengeegs
+
+--- Page 9 ---
+
+26.6 MOMENTS AND MOMENTS GENERATING
+FUNCTIONS
+
+26.6.1 Moments
+
+Let X be a discrete random variable, which takes the values x1, X2, X3,....... » Xn
+and f(x) is the probability that X will take the value x. Then the expected value of
+X is given by
+
+n
+E(X) = & xjf(x;)
+i=1
+Correspondingly, if X is a continuous random variable and f(x)gives the
+
+probability density at x, the expected value of x is given byE(X) = | xf(x)dx
+
+—0oo0
+
+In the definition of continuous random variable, we assume that the integral
+exists, otherwise, the mathematical expectation is undefined. The expected value
+of a random variable gives its mean value if we think f(x) as the relative
+frequency of the random variable X when it takes the value x.
+
+Again, if g(x) is a continuous function of the value of the random variable X,
+
+n
+then the expected value of g(x) is given by E(g(x)) = © 9(x;) f(x;), when X is a
+i=1
+
+discrete random variable. When it is a continuous random variable, the expected
+
+value of g(x) is given by E(g(Xx)) = T9(x)f(x)dx .
+
+—o
+
+The determination of mathematical expectation can often be simplified by using
+the following theorems:
+
+1) E(at+ b.X)= a +b.E(X)
+
+2) E(a)=a, where a is a constant.
+
+3) Ifci, ca, c3,....... , Cn are constants, #| ew(a)| = > ¢Ele(x,)]
+i=l i=l
+
+In statistics as well as economics, the notion of mathematical expectation is very
+important. It is a special kind of moment. We now introduce the concept of
+moments and moment generating functions.
+
+The r order moment about the origin of a random variable x is denoted by pL}.
+and is given by the expected value of x"
+
+Symbolically, for x being a discrete random variable np; = E(x") ==,x'f(x) yy, =
+
+E(x") for r= 1, 2,3,....,n
+
+[e@)
+For x being a continuous random variable uy = E(x") = {x"f(x)dx
+
+—oO
+
+The term moment comes from physics. If f(x) symbolizes quantities of points of
+
+Probability
+Distributions-I
+
+129
+
+--- Page 10 ---
+
+Probability and
+Probability
+Distributions
+
+130
+
+masses, where x is discrete, acting perpendicularly on the x axis at distance x
+from the origin, then up, as defined earlier would give the center of gravity,
+
+which is the first moment about the origin. Similarly, u5 gives the moments of
+inertia.
+
++00
+When r = 0, we have uo =E(x°) = E(1)= Jf(x)dx =1. When r = 1, we have
+
+—o
+wy = E(x" )=E(x). In statistics, 14 gives the mean of a random variable and it is
+generally denoted by wu.
+The special moments we shall define are of importance in statistics because they
+
+are useful in defining the shape of the distribution of a random variable,viz., the
+
+shape of it’s probability distribution or it’s probability density.
+
+The r‘ moment of random variable about mean is given by u:. It is the expected
+n
+
+value of (X-np)', symbolically p" =E((X—p)')= 4(x%)-p)' f(x), — for
+i=1
+
+r=1,2,3,......n, when x is discrete and om variable and when x is a continuous
+
+random variable, r" moment is given by, = [(x—p)'.f(x)dx.
+
+a) ae | |
+
+1 @oo s&s §& 6 F 2°34. Ss 6 F
+variance = 5.26 variance = 3.18
+
+92 3 4 5 +6 23 4 5 6 7
+variance = 1.66 Variance = 0.88
+
+Fig. 26.4: Distributions with same Means but different Variances
+
+Note that, ug =1 and py, =O for any random variable for which p exists. The second
+moment about mean i.e., Wy =E(x- u)* is called the variance and denoted by
+
+o* or Var(x). o2orVar(x)
+
+The above example shows how probability distributions vary with the variance
+of the random variable. A high value of o? means the spread of the distribution
+is thick at the tails and a low value of o? implies the spread of the distribution is
+tall at the mean of the distribution and the tails are flat. Similarly, third order

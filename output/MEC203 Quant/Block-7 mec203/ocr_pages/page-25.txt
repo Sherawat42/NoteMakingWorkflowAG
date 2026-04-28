@@ -1,0 +1,54 @@
+Dynamic
+Optimisation
+
+24
+
+A matrix M is positive definite if fx’ Mx>0 where x is NX 1 nonzero column
+vector
+
+A matrix M is negative definite if fx’ Mx<0
+
+Where x is NX 1 non zero column vector
+
+22.8 ISOPERIMETRIC PROBLEM
+
+There are types of problems for which we seek optimal value of functions
+which are subjected to integral constraint, in addition to ‘ordinary’ boundary
+
+conditions. Such problems are called isoperimetric problems. Let
+G(x, y,x’)dx =L. The condition J(y) = L is called the integral constraint for
+
+some constant ).
+
+An optimisation problem may be subject to an integral constraint as follows:
+Consider J() = Me V(x,x', dt
+
+subject to Se F(x,x’', t)dt = B, x(to) =xo0 X(t) = xr
+
+where v and F are twice differentiable continuous function and B is a given
+number. So solve this category of problem we append constraint to J(.) by an
+undermined Lagrange multiplier A. Hence, we consider our objective function
+
+as
+
+JO = JV, x1, 0)dt — APG, x", )] dt + AB
+
+= fi S(.)dt + AB (22.22)
+The necessary condition for optimality is
+
+BO _ 2 =0 ves..(22.23)
+
+We solve this above equation to get x*(A,c;,C2) ic. we get an equation with
+three unknown: A, c,, Cz use this function of x* to solve Se F(x,x',t)dt =B
+0
+
+use brundary value condition x(to) = xo and x (tp) = xp to get Cy, Cy and A.
+Check Your Progress 2
+
+1) Find extremals for
+
+I ‘(x OP + 10x.) at
+0
+
+subject to x(to)=2 x(t) =3
+

@@ -1,0 +1,604 @@
+
+--- Page 1 ---
+
+Find P[X, Y ¢ A] where A is the region (x,y)|0<x<1/21<y<2
+PIX Y € A] =P(0<x<1/21<y<2|
+
+21/23
+={f 5 XY + x)axdy
+
+2 2 3 2 2 2
+| 10 15 40 40 80 40 ; 80
+
+—
+lo)
+
+1
+
+If X and Y are continuous random variables, the cumulative density or
+distribution function is given by
+
+F(x,y) =P(X <x, Y < y)= f if(s,t)ds dt;
+
+—0o0 —00
+
+for —co < x < aco < y
+
+where, f(s,t) is the value of the joint probability distribution of X and Y at (s, t)
+and is called the joint distribution or the joint distribution function of X and Y.
+
+We assume that the joint distribution is continuous everywhere and partially
+
+differentiable with respect to each variable, for all but a finite set of values of the
+2
+two random variables and is analogous of the relationship f(x, y) = <— F (xy)
+xoy
+
+whenever this partial derivative exists. The joint distribution of two continuous
+variables determines their joint density at all point (x, y), where the joint density
+is continuous.
+
+(x+y)for0<x<LO0<y<l
+
+Region 1: For0<x<1;0<y< 1; we get
+vx 1
+F(xy)=|[@+y)dedy=Say(e+y);
+00
+Region II: For x > 1; 0<y< 1, we get
+yl
+1
+F(xy)=|[@+ydedy=Sy(ty)
+00
+Region III: For 0 <x <1, y < 1; we get
+1x 1
+Fxy)= | [e+ y)dedy => x(1+x)
+00
+Region IV: For x > 1, y > 1; we get
+
+F (x,y) = [fort area =]
+
+Probability
+Distributions-II
+
+141
+
+--- Page 2 ---
+
+Probability and
+Probability
+Distributions
+
+142
+
+Since the joint distribution function is continuous everywhere, the boundaries
+between any two of these regions can be included in either one and we can write
+
+0, 0<x<0,y<0
+
+1
+7 Et YO<x<L0<y<I
+
+F(x,»)= Suy#Dix2L0< p<
+
+x(x+1);0<x<ly2l
+1; x2l1y2l1
+
+27.3 MARGINAL DISTRIBUTION
+
+Now, there would be cases where we might need to remove the influence of an
+event. This might happen if some events are irrelevant for some experiment or
+we could alternatively be only interested in a subset of the events. Therefore, we
+resort to ‘marginalisation’ which refers to the process of removing/omitting the
+
+influence of one or more events.
+
+If X and Y are discrete random variables and f (x, y) is the value of their joint
+probability distribution at (x, y), then the function given by
+
+g(x) = f(x,y) for each value of x within the range of X is called the
+y
+
+marginal distribution of X and correspondingly the function given by
+
+h(y) => f(x y)or each value of y within the range of Y is called the marginal
+x
+
+distribution of Y.
+
+If X and Y are the continuous random variables and f(x,y) is the value of their
+
+joint probability density at (x,y) then the ffunction given’ by
+1e.6)
+g(x) = J f(x,y) dy;for—co <x <is called the marginal density of X and the
+
+—oo
+
+lo@)
+corresponding function given by h(y)= J|f(x,y)dx; for-«0<y< wis called the
+
+marginal density of Y
+
+Example: We continue the example discussed for joint distribution and calculate
+marginal distribution (Refer Table 27.3& 27.4):
+
+--- Page 3 ---
+
+Table 27.3: Marginal Distribution of X Table 27.4 Marginal Distribution of Y
+x xX
+2 3 4 5 f(xy)
+Xx
+0 0 0.14 0 0 2 3 4 7
+1 0.35 0.3 0.05 | 0.05
+y Yio; 0/014} 0 | 0 0.14
+2 0 0 0.11 0
+1 | 0.35] 0.3 | 0.05 | 0.05 0.75
+f(x,y)
+y 0.35 0.44 | 0.16 | 0.05 2/1 0 0 lol o 0.11
+
+Check Your Progress 1
+
+1) Let the joint probability density function for (X,Y) be
+f(x,y) = x >0y>0, 3x+y<3,
+
+zero otherwise.
+Find the marginal probability density function of 1) X, fx( x ) ii) Y, fy(y)
+
+2) Given the joint probability density
+
+2
+f(x,y) =4 3
+0, elsewhere
+
+(x+2y);for0<x<1l0<y<l
+
+Find the marginal densities of X and Y
+
+27.4 THREE IMPORTANT PROBABILITY
+DISTRIBUTIONS
+
+In real life, we come across various situations that can be modelled using
+probability distributions. This helps in understanding the probability of a certain
+occurrence. Therefore, based on distinct characteristics of different situations
+under consideration, we resort to the different probability distribution that best
+suits the characteristics.
+
+Probability
+Distributions-II
+
+143
+
+--- Page 4 ---
+
+Probability and
+Probability
+Distributions
+
+144
+
+The following section will deal with the three most common probability
+distributions. Here, we start off with the discussion of Binomial distribution
+leading to Poisson and then lastly Normal distribution.
+
+27.4.1 Binomial Distribution
+
+Repeated trials play has a very important role in probability and statistics,
+especially when the number of trials is fixed and the probability of success (or
+
+failure) in each of the trial is independent.
+
+The theory, which we discuss in this section, has many applications; for
+example, it applies to events like the probability of getting 5 heads in 12 flips of
+a coin or the probability that 3 persons out of 10 having a tropical disease will
+recover. To apply binomial distribution in these cases, the probability (of
+getting head in each flip and recovering from the tropical disease for each
+person) should exactly be the same. More importantly, each of the coin tossed
+
+and chance of recovering of each patient should be independent.
+
+Let x be a discrete random variable following a binomial distribution. The
+sampling distribution of x is the probability mass function (p.m.f) and is defined
+by f(x)=,C,P*Q"™:x =0,,2,...,.m,(P +Q)=1; where P and Q are positive
+
+fractions.
+
+Suppose that we have a series of independent trials, in each of which the
+probability of occurrence of an event is fixed and constant (say P). Let us
+denote the occurrence of the event as success and its complement that is the
+nonoccurrence of the event as failure. Then the probability that an event occurs
+
+exactly r times in n trails is »C,P'Q""; where Q = 1 — P and r may assume
+
+values = 0, 1, 2, ..., n. Thus, in a series of n independent trials, if the probability
+of success in each trial is a constant (say P) and the probability of failure is Q,
+then the probability of x success (and obviously n — x failure) is given by the
+Binomial distribution. The two constants n and P appearing in the p.m.f f(x) are
+known as the parameters of Binomial distribution. If the values of n and P are
+known the distribution is completely known. It should be noted that the
+
+binomial distribution holds under following conditions:
+
+1) The outcomes of any trial can be classified under only two categories (say
+success and failure)
+
+2) The probability of success of each trials remain constant and does not
+change from one trial to another
+
+3) The trials are independent, so that the probability of success in any trial
+remains unaffected by the results of other trials.
+
+Example: Find the probability of getting 7 heads and 5 tails in 12 tosses of an
+unbiased coin.
+
+Substituting x = 7, n = 12, p = % in the formula of binomial distribution, we get
+
+--- Page 5 ---
+
+the desired probability of getting 7 heads and 5 tails.
+B(7;12,1/2)="C7.1/27.(1— 1/2)°= ?C7.(1/2)"
+
+There are a few important properties of the binomial distribution. While
+discussing these, we retain the notations used earlier in this unit.
+
+e Binomial distribution is a discrete probability distribution where the random
+variable assumes a finite number of values (0, 1, 2, 3, ...,.n). The distribution
+is specified by two parameters n and P.
+
+e Mean =n P; Variance = nPQ (where n is the number of repeated trials and P
+and Q are the probability of success and failure).
+
+e Binomial distribution may have either one or two modes. When (n+1)P is
+not an integer, mode is the largest integer contained therein. However, when
+(n+1)p is an integer, there are two modes given by (n + 1)P and
+{(n+1)P-l}.
+
+Q-P -Kurtosis = 1 6PQ
+
+JnPQ nPQ
+
+When P = Q = % the distribution becomes symmetric for all values of n.
+
+e Skewness of binomial distribution is given by=
+
+e If X and Y are two random variables, where X follows binomial distribution
+with parameters (ni, p) and Y follows binomial distribution with parameters
+(n2, p), then the random variable (X+Y) also follows binomial distribution
+with parameters (ni+n2,p).
+
+e The moment generating function of a binomial distribution is given by
+
+M(t) = E(e%) = e%f(x) = Ye%™.Cx.pX(1— py
+i=0 i=O
+
+= 3 NC, (pet)x(1—p)"-* . The summation is easily recognized as the
+i=0
+binomial expansion of {p.et + (1—p)}" = {14+ p(et —1)}"
+
+We can derive the mean and variance of the binomial distribution using the
+moment generating function.
+
+If we differentiate Mx (t) with respect to t twice, we get:
+M’x(t) = npet[1+ p(et —1)]9-1
+
+My (t) = npe [(1+ p(e' - 1)" + n(n—1)e“"p7[1 + ple’ 1)?
+Mx (t) = npet(1—p + npet)[1+ p(et —1)]9-4
+
+And substituting t = 0, we get uw, =npand us =np(1—p+np).Thus, W =N.p and
+of =u — (n'y )* =np (1—p+np)— (np)? =n.p.(1—p)
+
+Probability
+Distributions-II
+
+145
+
+--- Page 6 ---
+
+Probability and
+Probability
+Distributions
+
+146
+
+We can verify that the mean and the variance of binomial distribution are
+ut=npando’ = np(1—p), when n is the number of trials and p is probability of
+
+success and (1 — p) = q is the probability of failure as follows:.
+
+Jeroen
+
+n n
+a= Ssl
+0
+
+X
+
+_ yt x4- yr%
+~ 4x Dn—xy SP
+
+We have omitted the term x = 0 and cancelled the x against the first factor of
+
+n
+x! = x(x —1)! in the denominator of ") . Then factoring out the factor
+
+n!=n(n—1)! and one factor p we get
+
+n(n—1) ,_ -
+al Jp ‘(1—py™
+
+x=1\X-1
+
+Letting y = x — 1 andm=n~— 1, this becomes
+n m _
+w=np > Jpop Y=np
+x=1\ Y
+The last summation is the sum of all the values of a binomial distribution with
+
+the parameters n and p and hence equal to 1.
+
+To find the expression of w!,ando’, let us make use of the fact that
+EX? =E[X(X-1)]+E(X) and first evaluate E[X(X—1)] . Duplicating for all
+practical purposes the step used before, we get :
+0 n Xx n-x
+E[X(X—1)]= 2 x(x—1)| | |p" (1—p)
+x=0 X
+
+n n!
+~ i (x —2)\(n—x)!
+
+=n(n-1)p? ¥ r p*(1-p)"™*
+x=2\X-2
+
+p*(1-p)"™
+
+Letting y = x — 2 and m =n — 2, this becomes
+
+E[x(x-1)] = n(n —1)p* aM p¥(1—p)™Y
+
+=n(n- 1) 07
+Therefore p> = E[X(X-1)] + E(X) = n(n- 1) 0? +np
+Finally, o* = b> — Ta =n(n- 1) 07 +np + n2p* =np(1—p)
+
+Example: Three coins are tossed. Find the probability of (i) 0 head, 1 head, 2
+heads, 3 heads (11) more than one head (iii) at least one head.
+
+Ans. Let the random variable x is the number of heads obtained in a toss of three
+
+--- Page 7 ---
+
+Probability
+
+coins. If we denote the occurrence of head as success and the non-occurrence as __ Erob:
+Distributions-II
+
+failure and the coins are assumed to be unbiased then let
+P = Probability of success in a single trial
+= Probability of head in a single trial
+=
+Q=1-P=1-%=%
+n = Number of independent trials.
+Since the value of P is constant and for each coin the trials are independent, the
+variable x follows a binomial distribution with parameters n = 3 and p = 4. Thus,
+probability of x success is f(x)=,C,P*Q™™ = 3C,(1/2)*(1/2)>™ = 3C,(1/2)°
+1) Putting the values of x = 0, 1, 2, 3 respectively
+(0) = Probability of 0 head = 3Cy (1/2) =1x1/8=1/8
+f(1) = Probability of 1 head = 3C,(1/2)° =3x1/8=3/8
+(2) = Probability of 2 heads = 3C5(1/2)° =3x1/8=3/8
+{(3) = Probability of 3 heads = 3C3(1/2)° = 1x1/8 =1/8
+2) Prob. of more than one head = f(2) + f(3) = 3/8 +1/8 = 4/8 = '4
+3) Prob. of at least one head = 1 — Prob (0 head) = 1 — f(0) = 1 — 1/8 = 7/8
+
+Proposition: If x; follows a Binomial distribution with parameters (mi, P) and x2
+follows a Binomial distribution with parameters (m2, P), and x: and y2 are
+statistically independent, then (x: + x2) also follows Binomial distribution with
+parameters (m; + mz, P).
+
+The result can be extended to several independent variables with a common P.
+
+Proof: Suppose x; and x2 are distributed independently in the binomial form with
+parameters mj, P and mz, P respectively. Then the distribution of the sum (xi +x2)
+can take values 0, 1, 2,..., mi + mp.
+
+k
+Also, P[X1,X2 =k] = SP[xX, =k]P[x2 =k—kj]
+k,=0
+
+us m4 M2 k m,+mM>—-k
+= $ (0) (m2 cpm
+k,=0\ ky J (kK -ky
+
+k (m m
+
+k m4+m2-k y 1 2
+“ee ( |
+k,=0 ky k —k4
+
+Now, this sum is nothing but the sum of products of the coefficients of tin
+
+(1+ t)™ and tk*1 in (1+t)"2 for varying k,,the hence equals the coefficients of
+
+m, .)
+
+thin (14t)™7™2 | which is [ k
+
+147
+
+--- Page 8 ---
+
+Probability and m4+m :
+Probability Thus, P[x, +X = k] _ [ 1 2 of (1 —py™tme k
+
+Distributions k
+This shows that x,+ xis itself binomially distributed with parameters m,+mp
+and p. We also get from the general result that if x4,Xo,...,x, are independently
+distributed binomial variables with parameters my,p;mM9);...,M,,p; then the sum
+X,+X,+...4+x, 18 also a _ binomial variable with parameters
+m4 +Mp +...+M, and p.
+
+This implies that if x4,X9,.....X, are a random sample from a_ binomial
+distribution with parameters of the statistic, x,+X2+...+X,is also binomial with
+
+parameters n, m and p.
+
+27.4.2 Poisson Distribution
+
+When the number of trials discussed in the case of binomial distribution is very
+large, the calculation of the probabilities with binomial distribution becomes
+very cumbersome. Suppose we want to know what is the probability that in a
+clinical test 200 out of 300 mice will survive, after being infected by a virus.
+There is 50% chance that each mouse can fight with the virus by producing
+antibodies. If we use binomial distribution, the required probability is given
+by*C200.% 300. In this section, we will discuss a probability distribution, which
+can be used to approximate binomial probabilities of this kind. Specifically, we
+will investigate the limiting form of the binomial distribution when n—< and
+p—0, while n.p remains constant. Let us suppose A=n.p, therefore p=A/n.
+
+We can also write the binomial distribution as
+
+b(x,n,p) = "Cx (A/n)* (1-(A/n))"™
+
+= n(n-1)(n-2)(n-3)...(n-x+1)/ x! X (A/n)* (1-A/n)"™
+=1.0-1/n)(1—2/n)Q—3/n)...(—(x—1)/n)/x1x# xf —-(A/n)) —""* J x -—(A/n))”"*
+
+Finally, if we have no while x and p are constants
+(1-1/n)(1-2/n)(1—3/n)...(1—(x-1)/n) > 1
+(1—(A/n)) —* > 1
+(1-(A/n))-"/% >e
+
+Therefore, the limiting form of the binomial distribution becomes
+P(x,A)=ax%e*/x! for x= 0, 1, 2,3, 2.0... which is the p.m.f of a poisson
+
+random variable
+Thus, in the limit when n > «, p +0 and np = A remains constant; the number
+of success is a random variable which follows a poisson distribution with only
+
+one parameter A. This distribution is named after the French mathematician
+Simeon Denis Poisson.
+
+148
+
+--- Page 9 ---
+
+Following random variables are classic examples of poisson distribution. Probability
+
+1)
+2)
+3)
+4)
+
+Distributions-II
+
+Number of accidents on a road crossing.
+Number of defects per unit area of a sheet material.
+Number of telephone calls received by a telephone attendant.
+
+Number of suicides in a year in an area etc.
+
+Poisson distribution is a discrete probability distribution and is defined by the
+
+p.m.f: f(x) =
+
+—AyX
+ON x = 012....,07
+
+where 4 1s positive and is known as the parameter of Poisson distribution and e is
+
+the mathematical constant which is equal to 2.718 approx.
+
+There are few important properties of the poisson distribution.
+
+Poisson distribution is a discrete probability distribution, where the random
+variable assumes countably infinite number of values such as
+0,1,2,3,....... to 00.The distribution is completely specified if the
+parameter A is known.
+
+Mean and variance of poisson distribution are the same, both being i.
+
+Poisson distribution, like the binomial distribution, may have either one or
+two modes. When A is not an integer, mode is the largest value contained
+in A and when A is an integer, there are two modes, A and (A-1)
+
+The distribution has skewness = 1/ VA and kurtosis = 1/ 2. Therefore, we
+can conclude that poisson distribution is positively skewed and
+leptokurtic.
+
+If X; and X2 are two random variables following the poisson distribution
+with parameters A; and A2 respectively, then the random variable (Xi + Xz)
+also follows poisson distribution with the parameter (A1+A2).
+
+As we have discussed earlier, the poisson distribution could be used as an
+approximation to binomial distribution when n is large but np is fixed.
+
+The moment generating function of the poisson distribution is given by
+
+M(t) = E(e*) =e"
+
+M(t) = Se® F(x)
+i=O
+
+= > ee Ke /x!
+
+i=0
+
+co
+=e” ver /x!
+
+i=0
+
+149
+
+--- Page 10 ---
+
+Probability and
+Probability
+Distributions
+
+150
+
+=e* > (ey / x!
+i=0
+
+. Ke] . . .
+In the above expression >°(Aet)x/x! can be recognized as the Maclaurin’s series
+i=0
+
+of e2 where z=Ael.
+Thus, the moment generating function of the Poisson distribution is
+M,,(t) = e~*.eAet
+M,x"'(t) =ArA.et.er(et-) + 22 e2t er(et 1)
+Therefore, 4 =My,'(0)=A% and ps =M,"(0)=A+22 and we get p=A and
+oO =u, HAF -V =A
+Example: Let X be a random variable following poisson distribution. If P(X=1)
+= P(X= 2), find P(X = 0 or 1) and E(X).
+For poisson distribution, the p.m.f. is given by P(x,A) = A*e"/x!
+Therefore, P(X=1) = A!e/1!=A0e
+P (X=2) =07e%/2! = A7e%/2
+As P(X=1) = P(X=2), from the equation Ae*=A7e"/2, we get A=2.
+Therefore, E (X)=A= 2 and
+P(X=0 or 1)= P(X=0)+P(X=1)=2°e7/0!42!'e?/1!= 3.e7.
+
+Example: A random variable x follows a Poisson distribution with
+parameter 3. Find the probabilities that the variable assume the values:
+(1) 0, 1, 2, 3 (41) less than 3 (111) at least 2. Given that e =.0498.
+
+Ans. For the Poisson distribution with parameter 1 = 3, the probability
+
+of x success is:
+
+e°3*
+f= —
+x!
+i Putting x = 0, 1, 2, 3 successively the required probabilities are:
+g y
+-30
+(0) = &° > =e 3 = 0498
+0!
+3.91
+f(1) =" 7 = 3e~3 = 3(0.0498)
+e°3? 9(0.0498)
+2 = =
+f (2) i 5
+e°3° 27(0.0498)
+3 = =
+f (3) 31 6
+
+11) Probability less than 3 success is the sum of the probabilities: f(0) +
+f(1) + £(2)

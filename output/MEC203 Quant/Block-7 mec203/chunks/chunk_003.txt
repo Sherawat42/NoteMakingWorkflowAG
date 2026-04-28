@@ -1,0 +1,597 @@
+--- Page 21 ---
+Dynamic
+Optimisation
+
+20
+
+Suppose x is a single case then the solution for Euler-Lagrange equation is a and
+order differential equation. We have two integration constants and these
+integration constants can be found from initial and final condition of problem.
+Suppose x is n variable case then we shall get 2n constants and those can be got
+
+from initial and final conditions.
+
+In conclusion Euler-Lagrange equation is necessary condition for optimisation
+of a functional.
+
+Remarks:
+
+1) Euler-Lagrange equation is non-linear differential equation since product of
+x”(t), x’(t) and x(t) may appear in equation.
+
+2) Solution involve Two-point boundary value problem.
+
+3) Solution through numerical technique and solution through analytic
+
+methods are very difficult.
+
+4) If Euler-Lagrange equation is not satisfied for any function, this indicates
+the optimum does not exist for that functional.
+
+Example (courtesy Wikipedia)
+
+Find the real-valued function y(x) on the interval [a,b], such that y(a) = ¢ and
+y(b) = d, for which the path length along the curve traced by y is as short as
+possible.
+
+s=f dx? +dy? -| l+y"dx,
+
+the integrand function being L(x, y, y’)= I+ y”
+The partial derivatives of L are:
+
+ALG y,y') = png LOY) 9)
+oy’ Vi+y? oy
+
+By substituting these into the Euler-Lagrange equation, we obtain
+
+ad y¥@® 6
+dx J1+(y'(x))?
+
+yx)
+
+Vi+Q'@oy?
+
+Sya=
+
+=C=constant
+
+=> y(x)=Ax+B
+
+In other words, the function must have a constant first order derivative, and
+hence, its graph is a straight line.
+
+--- Page 22 ---
+Check Your Progress 1
+
+1) Let J be the functional defined by
+1
+J(y) = f(y? +y? +4ye" at
+0
+
+With boundary conditions y(0) = 0 and y (1) = 1 Find the extremal(s) in
+interval [0, 1] for J(y)
+
+22.4 EULER EQUATION IN SPECIAL CASES
+
+Here, we discuss two special cases of EL equation (I) with no Explicit x(t)
+Dependence and (II) with no Explicit ‘t’ Dependence.
+
+22.4.1 Case I: No Explicit x(t) Dependence
+Suppose that the functional is of the form
+JR) = fF v(x’ (0), Ode
+
+Where the variable x(t) does not appear explicitly in integrand. Evidently the
+Euler-Lagrange equation reduces to
+
+140)
+
+oa, (22.13)
+
+avi
+Where C; is a constant of integration. Now a0 oF is a known function of t and
+
+PuG)
+
+x’(t) so that the above equation is first order differential equation in form of
+ass )
+
+x(t). In principle this equation is solvable for x’(t) provided = + 0 (one can
+
+invoke a variant of the implicit function theorem), so that this equation could be
+recast in form
+
+x(t) = g(t, Ci) eee(22.14)
+
+for some function g and then integrand.
+
+22.4.2 Case II: No Explicit ‘t’ Dependence
+
+Another simplification is available when the integrand does not contain the
+independent variable ‘t’ explicitly.
+
+Theorem: Let J be functional of the form
+J(x(t)) = ff v0), x'(@)at and define the function H by
+
+avi)
+
+B x(t),2’(Q)= 0 [3 — VO] (22.15)
+
+Intertemporal
+Optimisation-I
+
+21
+
+--- Page 23 ---
+Dynamic
+Optimisation
+
+22
+
+Then, H is constant along any extremal x*(t).
+
+Proof: Suppose x*(t) an extremal for J (.) Now,
+
+SH we x" (O)- £0" ZO-Vy)
+
+OVC), pd av 2 _ ( rave ) "() av( 2)
+
+=x 3 x 5 x 7
+axr@ + * Geax ay ax
+
+_ (amu )_ ave )
+dtax"©® —“ax(t)
+
+senses same as equation (22.15)
+And since x* is an extremal, the Euler-Lagrange equation is satisfied. Hence,
+
+d r =
+
+Su (ee@x"@)=0 (22.16)
+Consequently, H must be a constant along an extremal.
+
+Note that the function H depends on x(t) and x’(t) and thus the equation
+
+H(x(t) x’(t)) = constant is a first order differential equation for x*(t)
+
+22.5 SECOND ORDER CONDITION FOR
+OPTIMALITY
+
+This is called also sufficient condition and this condition determines whether
+the optimal is minimal or maximal. The sufficient condition is same as the
+condition for multivariable static optimisation.
+
+Earlier we have set VJ = 5) + 6)?
+
+We have to optimise the functional we have seen 2" variation of functional in
+Taylor series expansion of incremental of functional i.c.6J? (2! derivative of
+moment)
+
+t, 2 2
+oP = at ‘oxo. As D ax(t) + 2ax(t) HO ag
+ty
+
+5 ax? (t) Ax(t)dx'(t)
+1 .9VC ).,
++ dx'(t) Fey o* | at}
+a?v() av)
+_1) pty ' ax) Bx(Nax"(O| [ Ax(t)
+= 54 Se lax(e) ax’) BVO avo |lax'(t) dt vese(22.17)
+
+ax(ax'() —-ax!2(0)
+
+Let the above matrix is A
+
+07J >0 if A is positive definite at x* then J* (x* (t)) is minimum.So what we
+have to do is use 1“ order condition to evaluate x* then calculate value of
+
+--- Page 24 ---
+matrix ‘A’ at x*. If the matrix is positive definite then x* is path that minimizes Intertemporal
+oe Optimisation-I
+J(.) by similar analogy
+
+When 47J<0 if A is negative definite matrix at x*.
+
+22.6 LEGENDRE CONDITION
+
+Consider a continuously differentiable function x(t) that maximizes
+Sv V(x, x’, dt subject to x(to) = xo , x(t) = xr
+0
+
+Where V is twice continuously differentiable in its three arguments. Then the
+Legendre condition states that for a maximizing path x* must satisfy not only
+the Euler-Lagrange equation but also the Legendre condition i.e.,
+
+a*vC_)
+
+sas ve++(22.18)
+rar a’vc )
+
+For a minimizing path Bar 20 22.19)
+
+However, if the integrand V(.) is concave in (x, x’) a path that satisfies the
+Euler equation is maximizing. If the integrand is convex in (x, x’), then a path
+satisfying the Euler equation is minimizing. Thus, the Euler equation together
+with concavity (convexity) of the integrand in (x, x’) are sufficient for a
+maximum (minimum).
+
+22.7 NECESSARY AND SUFFICIENT CONDITION
+FOR OPTIMALITY
+
+Let’s consider a functional J() which is defined as Su V(x(0),x'(t), dt we
+
+wish to find x*(t) that in turn optimise (minimize or maximize) the objective
+functional J(.), where to = initial time. tr = final time
+
+Further x(to) = xo and x(t) = xp
+We assume V(.) is continuous and twice differentiable in all its arguments.
+
+For minimization,
+
+Necessary condition WO _ 4 ( vO) _
+
+axcty) atlax() (22.20)
+
+This is Euler-Lagrange equation. Solve the above equation to get x*(t)
+a?v(_) atv)
+
+ax2(t) Ax(tyax" (t)
+a’v(_) _a?vC_)
+ax(t)x! (t) ax!2(t)
+
+sufficient condition: The matrix A=] oy (22.21)
+
+The matrix A evaluated at x* is positive definite.
+For maximization,
+Necessary condition: Same as necessary condition for minimization
+
+Sufficient condition: The matrix A evaluated at x* is negative definite.
+
+23
+
+--- Page 25 ---
+Dynamic
+Optimisation
+
+24
+
+A matrix M is positive definite if fx’ Mx>0 where x is NX 1 nonzero column
+vector
+
+A matrix M is negative definite if fx’ Mx<0
+
+Where x is NX 1 non zero column vector
+
+22.8 ISOPERIMETRIC PROBLEM
+
+There are types of problems for which we seek optimal value of functions
+which are subjected to integral constraint, in addition to ‘ordinary’ boundary
+
+conditions. Such problems are called isoperimetric problems. Let
+G(x, y,x’)dx =L. The condition J(y) = L is called the integral constraint for
+
+some constant ).
+
+An optimisation problem may be subject to an integral constraint as follows:
+Consider J() = Me V(x,x', dt
+
+subject to Se F(x,x’', t)dt = B, x(to) =xo0 X(t) = xr
+
+where v and F are twice differentiable continuous function and B is a given
+number. So solve this category of problem we append constraint to J(.) by an
+undermined Lagrange multiplier A. Hence, we consider our objective function
+
+as
+
+JO = JV, x1, 0)dt — APG, x", )] dt + AB
+
+= fi S(.)dt + AB (22.22)
+The necessary condition for optimality is
+
+BO _ 2 =0 ves..(22.23)
+
+We solve this above equation to get x*(A,c;,C2) ic. we get an equation with
+three unknown: A, c,, Cz use this function of x* to solve Se F(x,x',t)dt =B
+0
+
+use brundary value condition x(to) = xo and x (tp) = xp to get Cy, Cy and A.
+Check Your Progress 2
+
+1) Find extremals for
+
+I ‘(x OP + 10x.) at
+0
+
+subject to x(to)=2 x(t) =3
+
+
+--- Page 26 ---
+2) Find the extremal for the functional
+= Si (2x? + 24x(t).t) dt,
+Boundary condition x(t) =0, —x(t¢ =2
+
+to=0 te=2
+
+22.9 FREE END VALUE PROBLEMS AND
+TRANSVERSALITY CONDITION
+
+Until now we have been dealing with the specific optimisation problems where
+both ends are fixed. Now we consider a general case where one end point is
+fixed while other is free.
+
+Again our functional is J(.) = ie V(x(0),x'(t), dt
+
+We need to find trajectory of x(t) so that J() is optimised.
+Refer to the Fig. 22.1.
+Now as per our problem A is fixed and B is free. In other word ty is free.
+
+With little mathematical calculation as we did in theorem now the 1* variation
+
+of functional is
+
+1 = Si [eam ae (Ser), xO: dt + [rep], 840
+
++
+t=ty
+
+V(txO, xO), 8t
+
+For functional to be optimal
+We have to use Euler-Lagrange equation
+
+avi.) a fave] _
+mT alow! = 9 veen(22.25)
+
+avc )
+dxi(t)
+
+So 5) = | I. dx(t) + V( x(t), x(t), Dleae, Oty
+
+So, we have four cases
+Case I
+
+When trand xyare free we need to solve 3 equations
+
+avc 2 (ove J _
+ax(t) dt Laxr(t)]
+
+0
+
+ave) _,
+and [VC )- S02 .x oll, =0 00 (22.26)
+
+av)
+G21) ty
+
+S00 (22.27)
+
+Intertemporal
+Optimisation-I
+
+25
+
+--- Page 27 ---
+Dynamic
+Optimisation
+
+26
+
+Case II
+When tr is fixed xt, is free
+hence dt, = 0
+
+here we need to solve equation (22.25) and (22.27) to get solution. No need of
+equation (22.26)
+
+Case IIT
+
+When tris free and xt; is fixed.
+
+Hence dx, =0
+
+Then we need to solve (22.5) and (22.6) to obtain optimal path. No need of
+equation (22.27).
+
+Case IV
+
+When end point B is restricted to a curve g(t)
+
+Then we need to solve equation (22.25) along
+
+[vo al G@®-g9'@)|_ =0 (22.28)
+
+tat,
+
+Equation (22.26), (22.27), (22.28) are called transversality equations for
+corresponding model. In other words, transversality equations are additional
+end point restriction imposed by the model constraints in order to solve the
+respective model.
+
+22.10 DISCRETE TIME DYNAMIC OPTIMISATION
+
+We assume that time evolves in a discrete way, meaning that t€ {0,1,2.....}
+that is teN,
+
+The model is described by at least two categories of variables that evolve along
+time: a state variable x, and a control variable U,. More on state and control
+variable in next chapter. Although discrete time dynamic optimisation problems
+can be solved by Lagrange multiplier method (Ref. Chow, 1997), we here adopt
+dynamic programming method to solve the problem. Consider a two variable
+discrete optimisation problem
+
+t,&t2=t
+JO = Learnt, f ea Xt) (22.29)
+Where ty = 0 and t= N
+
+If x; and x2 are independent in nature, the optimum of J() can be thought of as
+sum of optimum of (N-1) processes. J(.) which can be thought of as sum (N-1)
+static optimisation. Therefore, we can safely jump to constrained discrete
+dynamic optimisation.
+
+--- Page 28 ---
+22.10.1Assumptions Intertemporal
+Optimisation-I
+
+e Timing the state variable x; is usually a stock and is measured at the
+beginning of period t and the control U; is usually a flow and is measure in
+the end of period t.
+
+e Horizon on some text it is referred as planning horizon or time horizon and
+that can be finite or is infinite (T = 00). The second case more common.
+
+© Objective functional there is an intertemporal utility function which is
+additively separable, stationary and involves time-discounting (impatience)
+
+Peo B Fx ee (22.30)
+- 0< B<1,, model impatience as B° = 1 and limp* =0
+- f(.) is well behaved: it is continuous, continuously differentiable and
+concave in (U, x).
+
+e The economy described by an autonomous difference equation x+; =
+g(XpUr)
+
+Where g() is autonomous continuous, differentiable concave. Then, the
+difference equation verifies the condition for existence and uniqueness of
+solutions.
+
+e The non-Ponzi game condition holds:
+lim; 0° x; = 0 holds for a discount factor 0<@<1
+
+e There may be some side condition such as x;= 0 U;> 0, which may
+produce corner solutions. We deal only with the case in which the solutions
+are interior (or the domain of the variables is open).
+
+These assumptions are formalized as optimal control problems;
+
+Definition 1: The simplest optimal control problem
+
+Find {Uy x,}7_9 which solves
+
+maxyye, LieoB FU) tee (22.31)
+Xtu = g(x, Uz) for xo, xr given and T is free
+
+Definition 2: The free terminal state optimal control problem: Find {Uj x;}f29
+which solves
+Max yt, Vreo Bt (Uz, Xe) such that
+seve (22.32)
+Us VU and Xi = g(%4,Uz)
+For Xo, T is given and xr is free. If T = 00, we have infinite horizon discounted
+
+optimal control problem
+
+Feasible candidate solutions: path of {x;,U,} that verify x1 = g(x%p,Uz) Xo is
+given for any choice of {U,€ U}f_9 27
+
+--- Page 29 ---
+Dynamic
+Optimisation
+
+28
+
+Necessary and sufficient condition: Hamilton — Jacobi- Bellman (HJB) equation
+gives a necessary and sufficient condition for optimality of a control with
+respect to objective functional. In general if the behavioral functions f() and g()
+are well behaved (continuous, continuously differentiable and concave) then
+necessary conditions are also sufficient.
+
+Next, we discuss another approach to dynamic optimization, viz., Dynamic
+Programming.
+
+22.10.2 Dynamic Programming
+
+The principle of dynamic programming (Richard Bellman 1957) state that an
+optimal trajectory has the following property: for any given initial values of the
+x, and for a given value of x; and U; in the beginning any period, the U; should
+be chosen optimally for the remaining period, if we take the optimal values of
+the x; which result from the previous optimal decisions.
+
+We next follow a heuristic approach for deriving necessary condition for
+problem following the principle of dynamic programming.
+
+Finite horizon: Assure that we know a solution optimal control {U* x7}7_9
+Definition: Value function for time t
+Vrae(%e) = Thee BPE (22.33)
+
+Proposition 1: Given an optimal solution to the optimal control problem
+solution optimal control {U* x{}?_9 then it verifies Hamilton- Jacobi Equation.
+
+Vor (%q) = max, {£(x,0,)+BVp 1%}
+In literature, this is called HJB equation, so, simply Bellman equation
+Vp(X0) = Dio BY S (UE xt)
+T
+= max) 6° {Uz )
+UO) t=0
+
+= max(f (xo Uo) + B fa Ui) + B?f (x2 Ua) «.)
+
+Whee
+
+T
+
+= max( fo Uo) +B YB FO Ud)
+
+YO} uo 1
+
+= max f(@%o Uo) +B max ye f&% Ue)
+° VOSpa1 T=1
+
+By principle of dynamic programming then
+
+V7(Xo) = max {fo Uo) + B Vr_1(%1)}
+
+--- Page 30 ---
+We can apply the same idea for the value function for any time 0S t < T to get
+equation Vy_.(x,) = max {f (x,.u,)+ BV ras (x,)} which holds for feasible
+
+solutions, i.e., verifying
+Xtl=g(x,U,)andgivenXo, el (22.34)
+
+Intuition: we transform the maximization of a functional into a recursive two
+period problem. We solve the control problem by solving the HJB equation. To
+do this we need to find the sequence {Vr Vo} through the recursion
+
+Vrii(x) = max {f (x,U) + B V.(g(x,U))} weee(22.35)
+
+Infinite Horizon: For infinite horizon discounted optimal control problem the
+limit function V = limj_.. V; is independent of j so HJB equation becomes
+
+V (x) = max {f@u) +B V(g@eu)) = max Cr) (22.36)
+
+Properties of the value function. It is usually difficult to get the properties of
+V(). In general continuity is assured but not differentiability (this is a subject for
+advanced course on DP), see stokes and Lucas (1989).
+
+If some regularity conditions hold, we may determine the optimal control
+through the optimality condition
+
+aH(x%U)
+
+nn (22.37)
+
+IfH(.) is Ce (twice continuously differentiable) then we get the policy function
+U*= h(x)
+
+which gives an optimal role for changing the optimal control, given the state of
+the economy. If we can determine (or prove that there exists such a relationship)
+then we say that our problem is recursive. In this case the HJB equation
+becomes non-linear functional equation
+
+V(x)=f(% AOD) F+BVIG A) ees (22.38)
+
+Solution to HJB is by numerical method (most cases) by value function
+iteration.
+
+22.10.3 The Cake Eating Problem
+Example: The cake eating problem (Refer to the section 22.2.2)
+We restate the problem as max);}_, In(Ct)
+Subject to Wini= W: -C; and Wo> 0
+The steps we follow for solving the problems are as follows:
+1) Set up Bellman equation
+
+2) Take a guess for what v(W,) is and use that in our Bellman equation (use
+that for V(x+1) in our Bellman equation, just change the time subscript).
+
+Intertemporal
+Optimisation-I
+
+29
+

@@ -1,0 +1,50 @@
+Dynamic
+Optimisation
+
+42
+
+Example 4: Suppose distance between Madurai and Delhi is 2000 Kms. During
+each cycle of driving, a motorist covers integral multiples of 100 kms, including
+0 kms. In order to know how much distance remains to reach Madurai after a
+number of cycles, the problem is better modelled by using an internal/system
+variable s for recording the distance covered just before the beginning of the
+current cycle, instead of keeping record of the sequence of (cycle-i, distance-i), i
+= 1, 2, ..., k, where distance-i, which—denotes the distance covered during
+cycle-i—may be 0 kms, 100 kms, 200kms., 300kms, ....
+
+A single value—of the variable s, the distance-covered-so-far, with value, say,
+s3 denoting 300 kms covered so far (in general sj denoting (100i) kms covered
+so far, i= 0, 1, 2, ...)}—-represents various possible combinations of (cycle-i,
+distance-i): (J, 0) + (2, 200) +(3, 100);(1, 100) + (2, 0) +(3, 0) + (4, 100) + (5,
+100);(1, 100) + (2, 400); ... Number of such combinations is potentially infinite.
+
+The variable s, the Distance-covered-so-far indicates the progress made toward
+the goal of reaching Madurai, irrespective of different combinations of (cycle,
+distance-covered;). From this internal variable and the initial information that
+Madurai is 2000 Kms from Delhi, we can calculate the required output: the
+remaining distance. Such an internal variable is called state-variable with
+possible values, in this case, as so, si, ..., 820. Using this state-representation
+of the problem, the following easily follow: next-state (s4, (cycle10, 300)) = s7;
+and distance-remining (sa, (cycle10, 300)) = 2000 — (400 + 300) = 1300 Kms,
+where s4 denotes distance-covered so far is 4 x 00 kms.
+
+The next example, we consider, is about global system of petroleum production
+and consumption. This example will be used in explaining another important
+concept, viz. control variable, which distinguishes the to-be-discussed approach
+of ‘Optimal control’ from the earlier discussed ‘Calculus of Variations’
+
+approach.
+
+Example 5: The petroleum production process involves a number of stages
+including exploration, drilling, extraction, processing, storing, transportation,
+refining and distribution, all before consumption of the product starts.
+
+Each stage involves a number of variables, for example, for keeping record of
+the extraction process/ stage, the two variables amount-of-oil-drilled-out and
+amount-of-oil-extracted may be required. Thus, there may be a large number of
+internal variables involved in the complete process from exploration to
+distribution. However, if the purpose is to study the consumption pattern of
+petroleum products over a period of time, only two variables as  state-
+variables—viz. sum-amount-of oil-inflow-at-distribution-centre-i_ and sum-
+amount-of-oil-outflow-at-distribution-centre-i_ are required, and—would be
+sufficient.

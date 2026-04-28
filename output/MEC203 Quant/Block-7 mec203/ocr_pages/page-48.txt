@@ -1,0 +1,45 @@
+~ SGU st) Sle) te) lmertemporal
+
+= 514, .1/)= [| $60 lar set. f) ... (23.3)
+Using equation (23.3) in “ we get
+J(.) = | v(x(t),u(t),t) dt+ [9900.0 + S(x(to), to) «+» (23.4)
+0 to
+Because S(x(tg), tg) is fixed Quantity, minimization of 1‘ two integral in above
+
+equation give minimal value of functional J(.).
+
+Therefore optimisation ora (23.4) is equivalent to that of
+
+t
+JE) = | vox(t),u(t), dt + | [ ASCx(»E) gp 235)
+
+to tp at
+We know that if there is function
+F(x(t), y(t),Z(t)
+then of _ Of &x rece ae Of oz
+
+at ax’ at vay’ at ez" at
+= A ty + a y(t)+ ty
+ox oy oz
+
+Hence our problem is to optimise J(.) which becomes
+J.) = i v(x(t),u(t),t)dt+ J i x(t) += © Jat .-. (23.6)
+Subject to x’(t) = f(x(t),u(t),t) .- (23.7)
+
+We need to find u' (t) converting equation (23.6) and (23.7) into unconstrained
+
+optimisation problem using lagrange multiplier our modified objective
+functional becomes
+
+_fy 6s(x(t),t) 44) , 28(x(t),t)
+JQ)= {Wow .ut.tats ox(t) x (t+ dt
++ A(t)[f(x(t), u(t), t) — x’(t)]dt ... (23.8)
+
+What we have done is that instead of x(t) as a vector and u(t) as vector we have
+taken them as scalar for sake of simplicity. Later it will be generalized to a
+multivariate case.
+Moreover, we have added A(t)[f(x(t),u(t),t)— x’(t)] dt to objective functional
+because x’(t) = f(x(t),u(t),t),so no change in value of functional.
+A(t)is Lagrange multiplier this can be interpreted as marginal valuation of the
+associated state variable at time t.
+47

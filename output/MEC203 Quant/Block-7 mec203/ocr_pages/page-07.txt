@@ -1,0 +1,87 @@
+MATHEMATICAL SYMBOLS/ NOTATIONS
+
+USED IN THE COURSE
+
+Symbol Symbol Name/Meaning Attached
+
+[a,b] Closed interval
+
+(a,b) Open interval
+
+€ Element of
+
+A Delta/Change in
+
+dx Differential
+
+km, f(x) Limit
+
+In Natural log
+
+[fooax Definite Integral
+
+Vv Universal quantifier: :for all”
+
+4 Existential quantifier: “there exists”
+
+yy Existential quantifier: “there exists exactly one”
+ay Existential quantifier: “there exists more than one”
+a Negation; =P “not P”
+
+A Conjunction: “and”
+
+Vv Disjunction: “or”
+
+> Implication; p > q”if p then q”
+
+J Equivalence: “if and only if”
+
+a,xeR Numbers, scalars
+
+a=(4,4,,...,d,) ER"
+
+Vector of parameters
+
+Vector of variables
+
+A,X
+
+Sets
+
+A,X Matrices (with dimensions m by) with m rows and n
+columns
+
+x~y Vector x is indifferent with respect to vector y
+
+> Strong preference relation
+
+x~y Vector x is strongly preferred over vector y
+
+> (weak) Preference relation
+
+x>y Vector x is (weakly) preferred over vector y
+
+R Set of real numbers
+
+R. Set of nonnegative real numbers
+
+intR, Set of positive real numbers
+
+R" =RxRx...xR n—Dimensional space of real numbers, Cartesian
+
+product of set R
+
+Ri ={xeR"|x20}cR"
+
+Nonnegative orthant (subspace) of set R"
+
+intR" CR"
+
+Interior of set R"
+
+f:X9Y
+
+Function,
+X-—Domain of a function (set of arguments of a
+function)
+

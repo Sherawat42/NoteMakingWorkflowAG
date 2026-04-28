@@ -1,0 +1,560 @@
+--- Page 61 ---
+
+Real Analysis
+
+60
+
+14.4 OVERVIEW OF PARTIAL DERIVATIVES &
+HIGHER ORDER PARTIAL DERIVATIVES
+
+In this section, we just summarise basic concepts, notations and related issues
+discussed in Unit! 1. Most of the explanations are in terms of relevant examples.
+
+For our purpose, a dependent variable may be specified in terms of independent
+variables, on which it depends, mainly in the following THREE forms:
+
+i) Explicitly, as a single function of independent variables
+ii) Implicitly, in the form an equation, in which, neither side of ‘=’ being a
+single variable
+
+iii) As a composition, or a non-circular chain of compositions of functional
+definitions of some variables in terms of other variables.
+
+In this regard, we may recall the following facts
+
+i) In the case of functions, say z= f(x), of only one variable, the derivative,
+(dz/dx)x=a or f’(a) represents the rate of change of the function f(x), at
+the point x=a, as the independent variable x changes in the
+neighbourhood of x =a,
+
+ii) _ the issue of partial derivative of a variable arises only when a variable is
+dependent, directly or indirectly, on two or more, variables.
+
+Thus, our concerns in the case of functions of two or more variables, are
+to discuss
+
+a) how the process of calculating derivative is modified for partial
+derivatives
+
+b) how the notations of derivative are modified, and also
+c) how the idea of ‘rate of change’ evolves.
+14.4.1 Partial Derivative of Function with Explicit
+Representation: Notational & Conceptual Issues
+
+For general discussion, we use the function U = f(x, y), and for the purpose of
+specific explanation, we use the following two functions:
+
+i) z=8(%, y)= 5x" y*
+li) v=h(x, y, w)= x? cos(y) / w,
+
+where z and v are dependent variables, depending, respectively, on
+independent variable sets {x, y} and {x, y, w}.
+
+We know that, for the function U=f (x, y),
+
+Se (% y) is used to denote the derivative of f(x, y), taking y as a constant, and is
+
+defined as
+limpsol[{f (x +h, y)-fq p/h] .». (14.4)
+
+Alternative notations for f, (x, y) are
+
+--- Page 62 ---
+
+i) Off Ox, Calculus of Several
+Variables
+
+ii) OU/Ox, where U = f (x, y), and sometimes, even the notation
+iii) Dy f or Dx f (x, y)
+
+Similarly, fy (x, y) is used to denote the derivative of f(x, y), taking x as a
+constant, and is defined as
+
+lim, ol fy + )— foe Wh] ++ 14.5)
+
+Alternative notations for f(x, y) are of/ dy, OU/Oy, where U = f (x, y), and
+sometimes, even the notation Dy f(x, y).
+
+Similarly, we can define and denote partial derivatives (of first order) for
+functions of three or more variables.
+
+Example 14.4
+
+i) For the function z = g (x, y) = 5x? y‘, for calculating g, (x,
+y) = Og/ Ox, we treat y as a constant, and hence,
+
+Bx (x, y) = Sy? {3 x"} = 15 y* x?
+
+Similarly, for calculating gy (x, y), we treat x as a constant, and
+By (X, y) = (Sx") (4 y') = 20x? y?.
+
+For v=h(x, y, w)= x? cos(y) / w,
+
+Ov/ Ox = 2x(cos(y) / w),
+
+treating w and y as constants.
+
+Ov/ dy = (x7/ w’) (= sin(y)) =— (x’ sin(y)/ w’)
+
+treating w and x as constants, and
+dv/ Ow = {x’cos(y)} {-2 w*) =—2 {x’cos(y)/ w°);
+treating x and y as constants.
+14.4.2 Partial Derivative of Function with Implicit
+Representation
+
+For the purpose of discussing partial derivatives, an implicit equation must
+
+involve at least THREE variables, e. g.
+
+2x7 yz = xt+y’ «+. 14.6)
+
+And, then
+
+i) Either, we mention explicitly which one of the variables is to be treated as
+dependent variable, and rest as independent variables,
+
+ii) | Or, we mention the partial derivatives required, e. g. 0y/ Ox implying y is
+being treated as dependent variable, and all others as independent variables.
+
+Let us assume we are to calculate 0z/ 0x and 0z/ Gy, treating implicitly z as
+dependent variable. 61
+
+--- Page 63 ---
+
+Real Analysis
+
+62
+
+i) Differentiating both sides of (14.6) with respect to x, taking y as a
+constant, we get
+
+24(4 x?) 23 + x* (327) z/ Ox} —Ty° {(2x)) 2 +x°Oz/ Ox} =4 x3 + 0;
+
+Keeping terms containing 0z/ Ox on LHS and shifting the remaining terms
+on RHS, we get
+
+2x* (327) z/ dx-Ty’ (xz dx) =4x9 - 8x 2+14 yx z
+Cancelling out x throughout, and rearranging, we get
+
+X (6 x°z—7 y>) Oe/ dx = {x" (4-8 23) +14 y°z}
+
+Ov Ox = {x" (4-8 7°) +14 y°2}/ x (6 x°2"-T y’).
+
+Similarly,
+
+2x17 7X yz = xity’, +. (14.7)
+
+ii) for 0z/ dy, differentiating both sides of (d) with respect to y, taking x as
+a constant, we get
+
+(2 x") (3 z 6z/ dy)-(7x’) {5y'z + y’ dz/ Oy} = 0+3y=3y’.
+
+Keeping terms containing 0z/ dy on LHS and shifting the remaining terms
+on RHS, we get
+
+{6 x'z°— (7x") y°} Oz/ Oy =3 y+ (7x") 5y‘z =" {3 +35 xyz}
+Ov dy =(y"/ X°){3 + 35 xy’ Z}/ [{6 x°z7— Ty}.
+14.4.3 Chain Rule &Partial Derivative when Function is
+Composite
+
+We, first briefly discuss, in sub-section 14.4.3.1, chain rule for the case of single
+independent variables only. Next, we extend, in sub-section 14.4.3.2, to the case of
+two or more independent variables and partial derivatives.
+
+14.4.3.1 Chain Rule for Single Independent Variable
+
+For explaining the ideas involved in this subsection, let us assume that we are
+given the following function
+
+Y= fies) = (log (Sin (e°+ 7x°)),
+in which we are interested for knowing dy/ dx, the rate of change in the value of
+y at some point w. r.t to the change in independent variable x at that point.
+Comprehending the function in itself seems to be quite a daunting task. The task
+may be facilitated by exploring it layer by layer as follows:
+
+At the top level, we consider y = log (Sin (e*+ 7x’), as
+
+y = log (...), with(...) = (Sin (e*+ 7x’) =z (say)
+
+Thus, y = log z, with z =Sin (e+ 7x”)
+
+Next, we consider z= sin (...), with (...) =(e*+ 7x”) = w(say)
+
+Thus, z= sin w, with w= (e%+ 7x’)
+
+--- Page 64 ---
+
+Hence, we have arrived at a representation of y as a chain of simplified Calculus of Several
+ariables
+
+functions:
+y= log z, so that the derivative of y w.r.t z is easily visualised;
+Z= sin w, so that the derivative of z w. r. t w is easily visualised
+w= e*+ 7x’, so that the derivative of w w.r.t x is easily visualised
+But how this visualisation helps us in finding the rate of change, i. e. dU/ dx.
+
+The well-known CHAIN RULE helps in simplifying the calculation of complex
+derivatives like dy/dx. In this particular case, the chain rule states that
+
+dy/dx= (dy/ dz) x (dz/ dw) x (dw/dx) .. (14.8)
+
+where,
+
+(dy/ dz) = d(log z)/dz = 1/z = 1/ (sin w) = 1/ (sin &+ 7x’)
+
+(dz/ dw) = d(sin w)/ dw =cos w= cos ( e+ 7x”)
+
+(dw/dx) = d(e*+ Tx’)/dx = e+ 14x.
+Substituting these values in (e) above, we get
+
+dy/dx = {1/ (sin e+ Tx’)} x {cos (e+ 7x’)} x fe + 14x}
+
+=(e*+ 14x) cot (e“+ 7x’).
+We could have calculated dy/dx without explicit substitutions as follows.
+Consider again
+y = log (Sin (e*+ 7x°)),
+At the top level, y is function of some variable, say z
+dy/dx = d (log (...)/ d(...) x d(...)/ dx = [1/(...)] x d(...)/ dx =
+[I/ (Sin (e+ 7x*))] x d(Sin (e+ 7x’))/ dx,
+For calculation of d(Sin (e+ Tx°))/ dx =[d (sin (...)/d (...)] x d(..)/dx = cos
+(...) *
+d (e+ 7x°))/dx = ... and so on.
+
+In such cases, for faster calculations, we should adopt the latter method without
+explicit substitutions.
+
+Remarks/ Caution
+We may think that the chain rule
+dy/dx= (dy/ dz) x (dz/ dw) = (dw/dx) w. (14.9)
+
+is obtained by simply cancelling out dz (and dw) in the denominator respectively
+with dz (and dw) in the numerator. Completely Wrong!
+
+63
+
+--- Page 65 ---
+
+Real Analysis
+
+64
+
+We must remember that dy/dx is a single symbol, not composed of dy and
+dx. It is just a matter of chance and prolonged usage that a ‘/’ (slash) is used
+in it. This slash is not representing fraction. Here, we better consider it as
+f(x).
+
+Recall, for y =f(x)
+(dy/dx)x-a = (P'(X))x =a = limp-solf(a + h) - f(a)]/h.
+Once we take limit, there is no question of fraction.
+
+Coming back to the validity of chain rule, it has been PROVED. Here, we
+
+assume it without proof.
+14.4.3.2 Chain Rule for Partial Derivatives
+
+The chain rule involving partial derivatives is similar with some modifications
+
+explained below. Its applications are explained through a couple of examples.
+
+Case I: When w(x, y) is function of two variables, and each of x =x(t) and y =y(t)
+is a function of one variable, say t.
+
+In this case, we also have partial derivatives Ow/ Ox and Ow/dy. But we have only
+simple derivatives dx/dt and dy/dt, and then follow the chain rule explained in the
+
+previous subsection.
+Example 14.6
+Let w (x, y) = (2x+3y)”, x= (t +1)! and y = (t)’.
+
+Then the involved derivatives are 0w/ 0x, Ow/dy, dx/dt, dy/dt and also dw/dt. The
+last one in view of the fact that
+
+w (x, y) = (2x+3y)= [2(t 4 1? + 3 t’ }’ may be considered as function of single
+variable t.
+
+Thus,
+dw/ dt = (Ow/ dx) (dx/dt) + (Ow/ dy) (dy/dt)
+= (0 (2x+3y)/dx) (d (t +1)!V/dt) + (A (2x+3y)’/éy (d (?)/dt)
+
+= [2 (2x+3y)]2 x (4% (t +1) 1”) + [2 (2x+3y)] 3x (20) =
+By substituting values of x and y in terms of t, we may get the final answer in
+
+terms of t only
+
+Case II: When w (x, y) is function of two variables, and each of x =x(r, s) and
+
+y =y(r, s) is a function of two variables.
+
+In this case, we again have partial derivatives Ow/ Ox and Ow/dy. Also, as each of
+x and y is a function of two variables, partial derivatives Ox/Or, Ox/Os, Oy/Or and
+
+Oy/Osexist. Also, w can be considered as a function of two variables, viz r and s,
+
+--- Page 66 ---
+
+Calculus of Several
+
+we have partial derivatives Ow/Or, Ow/ds and then follow the chain rule explained Variables
+
+in the previous subsection.
+
+Example 14.7
+
+Let w (x, y) = (2x+3y)’, x= (2rt+ s)'? and) y =(r—2s)’.
+
+Then
+
+Ow/Or = Ow/0x Ox/ér + Ow/dy dy/ér
+
+=[{2 (2x+3y)}2] (1/2) (2r+s)'?x 2) + [{2 (2x+3y)}3] x [2 (r—2s)x I}, =...
+
+We may replace variables x and y by variables r and s to get the value of the
+
+partial derivative in terms r and s. Similarly,
+Ow/0s = Ow/0x Ox/0s + Ow/dy Oy/ds
+= [{2 (2x+3y)}2] (1/2) (2r +s) 7x 1) + [{2 (2x+3y)}3] [2 (r—2s) x © 2), =
+
+We may replace variables x and y by variables r and s. ...
+
+14.4.4 Higher Order Partial Derivatives
+
+In the previous subsections 14.4.1 to 14.4.3, we discussed methods of calculating
+partial derivatives (of first order) of dependent variables as functions of more
+than one variable. Each of the partial derivatives, so obtained, itself may be
+considered as some function of the same variables.
+
+For example, for the function z = f(x, y) = 5x’ y*,
+we obtained f. (x, y) = 15 y* x and fy (x, y) = 20 xy.
+
+We may recall the various equivalent notations for fare Of/0x and Z,, Similarly,
+for Zy etc.
+
+Now considering f; (x, y) = U (x, y) = 15 y* x’,
+Fry) =V (x, y)=20x° y’,
+
+as new functions, we can differentiate each w.r.t the same independent variables.
+The derivatives of U (x, y) and V (x, y) will be called second order partial
+derivatives of the original function z = g (x, y).
+
+Notation for Higher Order Derivatives:
+
+Now consider
+
+(Zx)x. = (f)x= OU/ Ox = 30y*x (treating y as a constant)
+
+(Zx)y = (fx y =OU/ Oy = 60y°x° (treating x as a constant),
+
+where U itself is Of/ Ox = f,. Replacing, in the above equations, we get
+Zxx= fx = O/ Ox (Af! Ox) = 30y*x, and
+
+Zxy = fey = O/ Oy (Cf! Ox) = 60y*x?
+65
+
+--- Page 67 ---
+
+Real Analysis
+
+66
+
+The notations are simplified as
+
+Zxx = fx=(fy)x =0'f/ 6x? = 30y*x.
+
+Zxy = fey =(f,))= O/Oy (Gf Ex) = OF Gy Ex = 60y*x?
+
+Please note the relative orders of x and y as suffixes of f and of 0. The suffixes
+for LATER variables come on the RIGHT in f, and on the LEFT in 0.
+
+Similarly, Third Order (partial/ complete) derivatives are derivatives of
+appropriate Second Order derivatives. And, we may continue so on for still
+
+higher order derivatives.
+
+In his respect, we may note:As we might have observed, the first order partial
+derivatives Z,and Z, of the variable Z have always an explicit representation—
+whether the variable z itself is explicitly, implicitly or through composition
+
+dependent on the variables x and y.
+
+Hence, method of finding all higher order derivatives is exactly the same as the
+one covered under 14.4.1 for EXPLICIT representation.
+
+As calculating higher order derivatives is just a problem of finding appropriate
+derivatives of the next lower-level ones, calculating Higher Order derivatives is
+NOT a new type of problem. Hence, we will discuss the relevant problems under
+
+‘Check Your Progress’
+14.4.5 Interpretation of Partial Derivatives
+
+From our knowledge of single variable calculus, we know that derivative of a
+function (f(x) at a particular point, say x=a, represents the rate of change of the
+function as the variable x changes around a. Similarly, the partial derivative,
+Jc (% y) represents the rate of change of the function f (x, y) as we change x and
+hold y fixed; and partial derivative f, (x, y) represents the rate of change of
+f (x, y) as we change y and hold x fixed.
+
+Example 14.8
+
+Determine if f (x, y) = 2x°/3 yris increasing or decreasing at the point (1, 3),
+a) if we allow x to vary and hold y fixed.
+
+b) if we allow y to vary and hold x fixed.
+
+Solution
+
+We know
+
+fx (x, y) = 0 (2x"/3 y’)/ Ax = 4x/B y’)
+
+fy (x, y) = 6 (2x°/3 y’V dv = [(2/3) ° ©3)]/y! =-2x° ly’
+
+Thus
+
+(fx (&, Y))a3) = (40/8 y’))a, 3) = (4/3) (1/27) >0.
+
+--- Page 68 ---
+
+Calculus of Several
+
+Hence the function is increasing at (1,3), if x is allowed to change, but y is kept Variables
+
+constant
+(fy (x, y)) a3) = 2 x*/y*) a3) = 2/81 <0,
+
+Hence the function is decreasing at (1,3), if y is allowed to change, but x is kept
+
+constant.
+From the above example, we find that a function, at a point, may be
+
+e increasing if one, say the first, of the two variables is allowed
+to change, keeping the other/ second as constant, and at the
+
+same time,
+
+e decreasing if the second of the two variables is allowed to
+change, keeping the first as constant.
+
+14.4.6 Differential/ Total-Differential
+
+We briefly revisit the concept of differential, also called total differential, which
+has already been discussed in Unit 11. The concept plays significant role in the
+disciplines of Integral Calculus and Differential Equations.
+
+In the case of single independent variable, say x, and some dependent variable
+y, with y = f (x), each of the notations-cum-terms dy and dx is called differential.
+Further, the two differentials have the following relationship: dy =f ’(x) dx
+
+If we are only given f (x), without any dependent variable y, then the differentials
+are df and dx and they are related as df =f ’(x) dx
+
+In the case of more than one independent variable.
+
+For a function z = f (x, y), the differential dz or df is given by,
+dz =f, dx + fy dy or
+df= fx dx + fy dy
+
+The concept can be extended to functions of three or more variables. For
+example, for
+
+w=h(x, y, z), a function of three variables, the differential is given by
+dw =h, dx + hy dy +h, dz, or
+dh = hy dx + hy dy + h, dz
+
+14.5 DIRECTIONAL DERIVATIVES
+
+In the previous section, viz. interpretation of partial derivatives, we noticed that
+for a function z = f(x, y), the value of z increases if x is allowed to change, and y
+kept fixed, and at the same time the value of z decreases if y is allowed to
+change, and x kept fixed.
+
+67
+
+--- Page 69 ---
+
+Real Analysis
+
+68
+
+Similarly, there may be functions z, in which z decreases if x is allowed to
+change, and y kept fixed, and at the same time the value of z decreases if y is
+allowed to change, and x kept fixed.
+
+The later situation may be visualized graphically below, where z= f(x, y) is a
+surface, in three-dimensional space, and as x increases, with y constant, the
+value/ surface is moving downwards; and as y increases, with x constant, the
+value/ surface is moving upwards.
+
+The situation becomes more complex when both x and y are allowed to change
+simultaneously, specially, as we observed while discussing limits, that a point, in
+our case, (0, 0), may be approached from infinitely many directions as shown in
+the following figure.
+
+The problem of determining rate of change, which is fundamental issue in
+calculus, is made manageable, by fixing the direction of change, and then
+determining the change as we move to the point along that direction. The rate of
+change, so determined along a direction is called Directional Derivative.
+
+More explicitly, by the derivative in the direction 8, we mean the rate of change
+in the value of function fat the point (x, y) with respect to distance|A|> 0 toward
+(x, y) along the vector Athat forms the angle @ with the positive direction of
+
+x-axis.
+
+--- Page 70 ---
+
+Formally, Directional derivative in the direction of the vector Ais given by Calculus “ Sever
+ariables
+
+f (x+ |A| cos 8, y+ |A| sin @)
+|A| ,
+
+DAL(x, y) = lim, where, |A| is the length of vector
+
+We state, without proof, the following quite significant result:
+
+For a differentiable function f(x, y), the directional derivative along vector Ais
+given by
+
+Daf (x, y) = fx cos 6 + fy sin 0= f, cos 0 + f, cos (1/2 —0) ... ... (*)
+The unit vector Ais specified by (cos 9, cos (1/2 — )),
+
+where, 0 is the angle of direction of vector A w.r.t positive direction of X-
+
+axis.
+
+Recalling the concept of scalar/ inner product of two vectors, from section 6.4
+of Unit 6, we can write the expression (*) as scalar product of two vectors <
+fx, fy> and <cos 0,cos (1/2 —0) >.
+
+In other words, the directional derivative along unit vector Ais given by
+Daf (x, y) = fx cos 0 + f, cos (1/2 -0) =< fx, fy>.<cos 0,cos (1/2 -0) >... ... (*)
+
+The unit vector < fx, fy> which occurs frequently in calculus of two variables,
+is called the gradient of f or just gradient, and is denoted as Vf =< fx, fy>
+
+Thus from (*), the directional derivative of function f along vector A =Vo.
+A
+
+A, and 0 is the angle which vector A makes with positive direction of X-axis.
+Example 14.9
+
+Find directional derivative for the function
+
+x
+
+f(x, y)=x’e
+0 = 22/3
+
+Y+3 y’at the point (0, 2) along the unit vector 7’ in the direction of
+
+The vector w’ is specified by < cos 21/3, sin 20/3> =< %, (V3)/ 2>
+Thus, directional derivative is given as
+Dux, y) =— % fi +((V3)/ 2) f,
+=~ Vy {2x eX¥+ xy eX} + ((V3)/ 2) {x'e*¥ +6 y} =...
+Dw'(0, 2)=— % {0} + ((V3)/ 2) {0+6 (2)} = 6V3
+Example 14.10
+
+Calculate Dw f (x, y, z) for f (x, y, z) = 2x2 + 3y'2— x’yz,in the direction of the
+vector V= <-1, 0, 3>
+
+69

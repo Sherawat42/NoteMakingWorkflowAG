@@ -1,0 +1,575 @@
+--- Page 101 ---
+
+100
+
+UNIT 15 BASIC CONCEPTS OF METRIC SPACE
+
+AND POINT SET TOPOLOGY
+
+Structure
+
+15.0 Objectives
+15.1 Introduction
+15.2. Metric Space
+
+15.2.1 Metrics, the Formalised Distances
+15.2.2 Metric Space
+15.2.3. Open Interval/ball/sphere and Closed Interval/ Ball/sphere
+15.2.3.1 Open Sphere, Open Set, Closed Set of Metric Space
+15.2.3.1.1 Open Sphere, Closed Sphere of Metric Space
+15.2.3.1.2 Open Set, Closed Set of Metric Space
+15.2.4 Convergence, Continuity, Connectedness and Compactness in Metric
+Space
+15.2.4.1 Convergence of a Sequence in Metric Space
+15.2.4.2 Continuity of a Function in Metric Space
+15.2.4.3 Connectedness of a Set in a Metric Space
+
+15.2.4.4 Compactness of a Set in a Metric Space
+
+15.3. Point Set Topology
+
+15.3.1 Basic Definitions
+
+15.3.2 Continuity, Connectedness and Compactness in Topological Space
+15.3.2.1 Continuity of a Function in Topological Space
+15.3.2.2 Connectedness of a Set in a Topological Space
+15.3.2.3 Compactness of a Set in a Topological Space
+
+15.4 Let Us Sum Up
+15.5 Key Words
+15.6 Answer or Hints to Check Your Progress
+
+15.7 Exercises and Answers
+
+15.0 OBJECTIVES
+
+After going through this unit, you will be able to:
+
+define ‘metric space’, and explain how it generalises the concept of Euclidean
+space;
+
+define ‘topological space’, and explain how it generalises each of the
+concepts of metric space and Euclidean space;
+
+explain the significance and applications of each of the disciplines of ‘metric
+space’ and ‘topology’,
+
+--- Page 102 ---
+
+e define the concepts of open interval, closed interval, open set and closed set in
+
+a metric space, and tell about their properties.
+
+e define the concepts of convergence of a sequence, continuity of a function,
+and connectedness and compactness of a set in a metric space, and use these in
+solving relevant problems
+
+e define the concept of ‘topology’, or, ‘topological space’
+
+e define the concepts of continuity of a function, connectedness, and
+compactness of a set in a topological space, and use these in solving relevant
+problems
+
+15.1 INTRODUCTION
+
+Generalization is the hallmark of Modern Mathematics. Since the beginning of
+20" century, a significant part of the developments in Mathematics have taken
+place through generalizations of earlier concepts and disciplines in Mathematics.
+Metric space and topology are disciplines which are generalizations of some of
+the disciplines studied earlier: (1) ‘metric space’ being generalisation to arbitrary
+sets of Euclidean spaces (R°, and, in general R") studied in the previous unit; and
+(ii) ‘topology’ being generalization of geometry, and even of metric space.
+
+The concept of ‘Metric’ is formalisation (i. e. expression in mathematical terms
+and symbols) of the intuitive concept of distance in our daily lives. The concept
+of distance occurs
+
+e not only spatially, say as, distance between two cities, oras between two
+stars; it also occurs
+
+e temporally as difference of number of days in between, say, of two dates
+of a year;
+
+e as difference in the average temperatures, say, in May and December in
+a particular place;
+
+e in human relations, say,
+
+e as from sibling (at distance 1) to first cousin (at distance 2) to second
+cousin (at distance 3) etc.; or
+
+e as generational difference from parents (at distance 1) to grand-parents
+(at distance 2) to great-grand-parents (at distance 3) etc.
+
+The parenthetical phrases above give an idea of formalization/ metrification of
+
+the corresponding distance concepts.
+
+The concept of distance and its mathematical version ’metric’ have now
+become an essential tool in quantitative analysis for almost every academic
+discipline and its applications including probability, statistics, graph theory,
+clustering, data analysis, pattern recognition, computer graphics, image analysis,
+speech recognition, and information retrieval, astronomy, molecular biology etc.
+
+Basic Concepts of
+Metric Space and
+Point Set Topology
+
+101
+
+--- Page 103 ---
+
+Real Analysis For example, Genetic distance measures genetic divergence between species or
+between populations within a species.
+
+In economics, the economic distance (Patel, 1965) between two countries is the
+time (in years) for a lagging country to catch up to the same per capita income
+level as the present one of an advanced country. Some of the well-known
+Production Economics distances include the directional distance function, the
+Shephard input distance function, and the distance to frontier.
+
+Those who are interested in the finer applications of the concept of distance may
+refer to the tome by Deza and Deza (2016).
+
+Some introductory remarks on topology: Look at the two figures below, which
+may serve as nice introduction to topology and its applications. The LHS gives a
+sort of aerial view of Delhi Metro Network, and the RHS shows a type of map
+available within a Metro rail.
+
+The differences are (i) the curved lines, and angles between them, of LHS are
+replaced on RHS by straight lines with almost uniform angles between
+consecutive pairs of them, and (11) any two consecutive halts/ stations—despite
+possibly having quite different distances between them—are shown equidistant in
+the map on RHS.
+
+By losing the sense of exact distance and exact angle, we get a map which is
+much more comprehensible to the travellers. (The above idea of maps is
+borrowed from Richard Earl)
+
+These are some of the ideas which lead us to the discipline of topology from
+Euclidean geometry.
+
+Topology is also known as Rubber-Sheet Geometry,
+by which, in the figure on RHS, the cup on the left
+and the doughnut on the right, obtained from cup,
+
+through continuous transformations, are taken
+topologically equivalent, in the same sense as two
+
+congruent triangles are taken equivalent in Euclidean
+geometry.
+
+102
+
+--- Page 104 ---
+
+For the similar reasons, the four letters E, F, T, Y are taken topologically
+equivalent in the sense that each can be obtained from the other by stretching/
+shrinking the rubber on which any one of these is supposed to be written.
+
+Topology has applications to a number areas in economics, including the study
+of General Equilibrium, a branch of economic theory that studies the equilibrium
+state of an economy inhabited by agents with different, and sometimes
+conflicting, interests. Nash equilibrium is well-known. For more details, in this
+respect, one may refer to the beautiful article Topology and Economics by Songzi
+Du.
+
+The word topology is derived from the Greek words ‘topo’ meaning ‘place, or
+location’, and ‘logy’, meaning ‘study’. It is concerned with the properties of a
+geometric object that are preserved under continuous deformations, such as
+stretching, twisting, crumpling, and bending.
+
+The working definition and the rest of the discussion on topology follow in
+section 15.3.
+
+Before we discuss the topics in finer details, let us know the origins of the two,
+quite closely related, disciplines:
+
+Maurice Fréchet, a French mathematician, introduced in 1906, the notion of
+‘Metric Space’ through his outstanding thesis Sur Quelques Points du Calcul
+Fonctionnel (within a systematic study of functional operations). And, Felix
+Hausdorff, a German mathematician, published in 1914, his famous Grundziige
+der Mengenlehre (Foundations of Set Theory) where the theory of topological
+and metric spaces (metrische Raume) was created.
+
+In this unit, first we generalize some of the important concepts, e. g. convergence
+and continuity of Euclidean space to a metric space, and then to topological
+space. We initiate our discussion with the topic of Metric Space.
+
+15.2) METRIC SPACE
+
+In practical applications, we may need more than one metric or formal distance
+between the same pair of points.
+
+15.2.1 Metrics, the Formalised Distances; and some well-known
+Metrics
+
+We are already familiar with the Euclidean distance/ metric in R? (or, even in
+R°), by which distance dg between two points P (x1, y1) and Q (x2, y2), as shown
+in the figure below on LHS, is given by the formula on RHS
+
+(a2, y2) dr (P, Q) =
+V [(x1 x2)? + (M1
+-y2’]
+
+(v1.41)
+
+Basic Concepts of
+Metric Space and
+Point Set Topology
+
+103
+
+--- Page 105 ---
+
+Real Analysis
+
+However, this is not the (minimum) distance actually covered by a road taxi in a
+city. Theoretically, we assume the roads in a city are mutually parallel and
+perpendicular, somewhat like in the figure on RHS below.
+
+Then the (minimum) distance, which is called Taxicab distance, drt, is the sum of
+the distance covered along x-axis and the distance covered along y-axis, as
+shown below in the figure on LHS, and in red colour in figure on RHS,
+
+(x2, y2)
+y2—- V1
+(m71,41) Z2— 21
+
+Symbolically,
+
+Taxicab distance, dr between points x= (x1, y1) and y= (X2, y2) = dr (x, y) = |x1
+x2| + [yr — y2|.
+
+The Taxicab distance is also called Manhattan distance. Both Manhattan
+distance and Euclidean distance are special cases of Minkowski distance. In
+general, Minkowski distance of order p for R", the n-dimensional space over real
+
+x 1/p
+(x |ti — yi ’)
+i=1
+
+for order p= 1, 2,3, ...
+
+For example, in the matter of urban planning,
+Taxicab distance is more useful than Euclidean
+distance: planning of the medical, educational and
+other facilities in a city, depends more on the mass-
+transit facilities, including road and metro network,
+which involve Taxicab distance, rather than the
+Euclidean distance. (For example, Road Map of
+Chandigarh on RHS)
+
+numbers, is given by
+
+Manhattan/Taxicab distance is the Minkowski distance of order one, and
+Euclidean distance is the Minkowski distance of order 2.
+
+Minkowski distances of different orders, including Euclidean distance and
+
+Manhattan distance, find applications in a number of domains including statistics
+
+and for optimization problems in various domains including economics. In
+
+practical applications, some distances are more appropriate than others depending
+on application domain.
+
+104
+
+--- Page 106 ---
+
+Q Similarly, the distance between two points, say P and Q, on
+Lo the surface of earth may be considered alternatively as (i)
+the length of the shortest path along (the great circle of)
+
+aviation, and as (ii) the straight-line distance through the
+
+\ the surface, (in blue colour) which is used for shipping and
+
+Earth's interior (in red colour). The latter notion is used,
+for example, in seismology for measuring the length of
+
+time taken for seismic waves to travel (Wikipedia).
+
+Summarising the above discussion, for the same set of points, there may be many
+metrics giving different values depending upon the problem domain. However,
+there cannot be any appropriate measure which gives distance between Delhi
+and Chennai by direct train to be more than that of distance of Delhi and
+Chennai via the moon. So, any such measure cannot be a metric. Hence, the
+question arises that what should be the criteria for a_ relation/
+
+function/measure to be called a metric on an arbitrary set.
+
+Mathematics, which involves both the art of abstraction, and the science of
+reasoning in the world of abstracts, decides—taking into consideration the
+above discussion—the set of desired criteria, and, which in turn, lead to a very
+useful mathematical discipline, viz. Metric Space, discussed in the next
+subsection.
+
+15.2.2 Metric Space
+We start with the fundamental concept of Metric space, viz.
+
+15.2.2.1 Metric on a Set: For a given non-empty set, say S, and a function,
+(generally, denoted by d) d:SxS >R, the set of real numbers, which, for x,
+
+and y ES, satisfies the following conditions, is called a metric
+i) d(x, y) =0, (the cost of going from any point to any point is
+non-negative)
+ii) d(x, y)=0 ifand only ifx =y, i.e.
+a. d(x, x) = 0, for any x in S, (it does not cost to remain at
+
+the same point) and
+
+b. d(x, y) > 0, if x 4 y, (the cost of going to a different point
+is positive),
+
+iii) d(x, y)=d(y, x) (symmetry property: the cost of going from
+x to y is the same as the cost of going back to x from y)
+
+iv) d(x,z)<d(x, y)+dQy, z) (transitive property: the cost
+of going directly from x to z does not exceed the cost of
+going from x through y to z)
+
+Basic Concepts of
+Metric Space and
+Point Set Topology
+
+105
+
+--- Page 107 ---
+
+Real Analysis
+
+106
+
+15.2.2.2 Metric Space: The ordered pair (S, d), where set S # @, and d is a
+metric on S, is called a metric space.
+
+Example 15.1: In Unit 3, we introduced the mod function as follows
+
+Mod: R= R such that
+
+—-x, x<0
+x, x20
+
+Mod (x) =Ix! = {
+Thus, Mod (x) =|x| = 0
+The above function can be used to define a metric d on R, as follows
+d:RxRWR, such that
+d(x, y)=Ix —yl
+We show (R, d) is a metric space, as d satisfies the following properties:
+i) Asxandy €R, then x-y € R, hence, by definition of Mod, d
+
+(x, y)= |x —y|20
+ii) Also, we know, |x| = 0, if and only if x = 0.
+
+Therefore,
+
+d (x, y) = |x — y| =0 if and only if (x-y) =0, i. e. iff x =y
+iii) (Symmetry)
+
+d (x, y) =|x —yl= ly —x| (by definition of mod function)
+
+= d (y, x) (by definition of d)
+
+iv) (Triangular Inequality)
+
+For x, y, z € R, consider
+
+d(x, z)= Ix—zl= |@-y) + —2)l
+
+<| (x-y)|+1|(y —2z)| (by triangular property of mod)
+=d (x, y) +d (y, z) = (by definition of d).
+
+Hence, the proof.
+
+Example 15.2: Let S be any non-empty set, define function
+d: SxS >R, such that for x, y € S,
+
+0,ifx=y
+d(x,y)= | 1Lifxy.
+
+Then (S, d) is a metric space.
+Solution:
+
+i) Asd(x, y)=0 or 1, Hence, d(x, y)>0
+
+--- Page 108 ---
+
+ii)
+
+iii)
+
+iv)
+
+Let d (x, y) =0, then x = y (must), else d (x, y) will be 1.
+(symmetry) If d (x, y) = 0, then x=y, hence d (x, y) = d (x, x)
+=d(y, x)
+
+else, if d (x, y) =1, then y # x, and hence, d (y, x) =1
+
+Thus, d (x, y) =d (y, x).
+
+(Triangular inequality)
+
+Case (a): if x =z, then
+
+d(x, z)=0=0+0<d(x, y)+dVy, z)
+
+Case (b): x # z, then d (x, z) = 1,
+
+and hence,
+
+for any y of S, y is not equal to at least one of x and z.
+Letx#y
+
+Then d (x, y) = 1
+
+d(x, z)=1<1+0<d(x, y)+d(y, z) (asd (y, Z) is at least 0).
+
+Hence the proof.
+
+Check Your Progress 1
+
+1)
+
+2)
+
+Show that (R?, dr) is a metric space, where, R? = R x R, and
+dr, the Taxicab distance, is defined as follows.
+
+For x= (x1, X2),and y= (yi, y2),
+dr (x, y) = |x1— yi] + |x2— yp].
+
+Show that (R’, de) is a metric space, where, R? = R x R, and
+de, the Euclidean distance, is as defined as follows.
+
+For x= (x1, X2),and y= (yi, y2),
+de (x, y) = V [(x1-x2? + (1-27)
+
+15.2.3, Open Interval/ball/sphere and Closed Interval/ ball/sphere
+
+From Unit 1, we are familiar with the concepts of open and closed intervals in R,
+equipped with mod (viz. |x|) induced distance/metric function.
+
+An open interval on real line can (always) be considered as
+
+Ja—¢,a+e[ = {x: |x—a|<e}, for some real number a, and for ¢ >0.
+
+Basic Concepts of
+Metric Space and
+Point Set Topology
+
+107
+
+--- Page 109 ---
+
+Real Analysis
+
+108
+
+A closed interval on real line can (always) be considered as
+[a—&,a+ 6] = {x: |x—a|<e}, for some real number a and for ¢ >0.
+
+We may extend the concept of open interval to 2-dimension as an open ball as
+follows
+
+Let a= (a1, a2) ER” be a point in the R* Euclidean space. Then, open ball B (a, r)
+centred at point a and of radius r>0, a real number, is the following subset of R?
+B (a, r) = {x= (x1, x2) ER: de (x, a) <r}, where dg is the Euclidean distance on
+R?. In other words, open ball B (a, r) is the set of all members of R? which are at
+
+a Euclidean distance of at most r from the point a.
+
+We call it a ball, as its shape in Euclidean space R? is of the form as shown below
+on LHS, but without boundary.
+
+Open Ball Open Sphere
+
+We may further extend the concept of open interval to 3-dimension as an open
+sphere as follows
+
+Let a= (ay, a2, a3) ER’ be a point in the R? Euclidean space. Then, open sphere S
+(a, r) centred at a and of radius r>0, a real number, is the following subset of R?
+S (a, r) = {x= (x1, x2, x3) ER*: de (x, a) <r}, where de is the Euclidean distance
+on R?,
+
+In other words, open sphere S (a, R) is the set of all members of R3, which are at
+
+a Euclidean distance of at most r from a.
+
+We call it a sphere, as its shape is of the form as shown above on RHS, but
+without boundary.
+
+We may further extend the concepts of interval/ ball/ sphere to the Euclidean
+space R"
+
+Let a= (a1, ...,an) ER" be a point in the R" Euclidean space. Then, open sphere S
+(a, r) centred at a and of radius r>0, a real number, is the following subset of R”
+
+S (a, r) = {x= (41, ..., Xn) ER": de (x, a) <r}, where dg is the Euclidean distance
+on R®.
+
+In other words, open sphere S(a, R) is the set of all members of R®, which are at a
+
+Euclidean distance of at most r from the point a.
+
+Also, the concept of closed interval may be extended to closed ball and closed
+sphere in respectively R? and R" for n > 3, as follows.
+
+--- Page 110 ---
+
+BE (a, r) = {x= (41, x2) ER*: de (x, a) <r}, where dr is the Euclidean distance on Basic Concepts of
+2 Metric Space and
+R’. Point Set Topology
+
+S‘ (a, r) = {x= (x1, ..., Xn) ER": de (x, a) <r}, where dg is the Euclidean distance
+on R®.
+
+(Please note, the notations B°, and S° are not standard notations for closed ball,
+
+and closed sphere)
+
+Also, from the previous unit of this block, we know the concepts of open set and
+closed set (not just open interval and closed interval) as defined below, in R, R?
+and R", each of which is equipped with Euclidean metric.
+
+Definition Open set: A set S of real numbers is said to be open set, or just open,
+if for each element a of S, there is a number ¢ >0 such that the open interval Ja —
+é, at+ ef © S. In other words, every member of open set S is well inside S, and
+hence, no member is a boundary point. In the previous unit, we also established
+
+i) Every open interval A= |a, b[ is an open set,
+
+ii) Union of open intervals is an open set.
+
+Definition Closed set: A set S € R is said to be a closed if
+R-S = (-«, + 0) —S is open. R.
+
+We may note that set of real numbers is also denoted as open
+interval (—o, + 0).
+
+Next, we generalize these concepts to a metric space, i. e. to the system (X, d), where
+X is an arbitrary non-empty set, and d is a metric on X.
+
+15.2.3.1 Open sphere, Closed sphere, Open set, Closed set of Metric space
+15.2.3.1.1 Open sphere, Closed sphere of arbitrary metric space
+Let (X, d) be a metric space, where set X # M, and d is a metric on X. Then
+
+a) The open sphere with centre a and radius r>0, a real
+number, is the set
+
+S (a, r) = {x EX: d (a, x) <r}.
+b) The closed sphere with centre a and radius r >0, a real
+number, is the set
+S° (a, r) = {& EX: d (a,x) <r}
+(Please note (i) the term ‘ball’ is also used instead of ‘sphere’ (ii) the notations S°
+
+is not standard notation for closed ball, and closed sphere)
+
+Our examples are based on examples of previous subsection (viz.15.2.2.2) and
+Check Your Progress 1.
+
+Example 15.3: For the metric space (R, d), with R, the set of real numbers, and
+
+d: Rx R DR, such that 109

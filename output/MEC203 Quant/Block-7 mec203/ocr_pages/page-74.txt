@@ -1,0 +1,48 @@
+Economic
+
+x, Applications of
+
+t .
+Dynamic
+
+ax, kK saesueenseaeeseenaesaeeseenssaeesenassaes vases Optimisation
+
+dx, .
+— maximum
+dy;
+
+KIZ Ls
+
+Fig 24.4: Optimal MSY Stock at Discount Rate Zero
+
+1 \_adx,_d yx
+SQ)= Tt -Lrs }
+
+Setting g'(xt)=0
+
+We get y-27% =0
+
+2
+=a =y
+=> x, =k/2
+
+Therefore, in absence of discounting the bio-economic optimum is equivalent to
+what might be called the purely biological optimum, the MSY.
+
+24.6 OPTIMAL DEPLETION OF NON- RENEWABLE
+RESOURCE
+
+We need to determine the optimal depletion rate for a non-renewable resource
+
+(for example oil or coal). Suppose that the output rate now depends on two inputs
+capital k(t) and resource depletion rate R(t), that is,
+
+Y = F(k, R)
+Now suppose output is either consumed or used to increase the capital stock
+giving
+
+Yac+5
+dt
+= B=FkR)-c w. (24.11)
+
+73

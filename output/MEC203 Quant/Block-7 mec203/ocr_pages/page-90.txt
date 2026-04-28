@@ -1,0 +1,54 @@
+where itis the multiplier of capital accumulation constraint and represents the
+shadow value of an additional unit of capital at instant t (Note I(t) is control
+variable and k(t) is state variable)
+
+The necessary condition for optimisation is,
+
+oH" (.)
+
+=0>1+yi(l(t)) =a ws (24.57)
+al
+aL arne A) _ rip — COED gag
+ak(t) ék(t)
+f(r 43) oO lat = AR K(t)) (24.58)
+0) we (24,
+
+Equation (24.57) determines the optimal shadow value of an additional unit of
+capital }as equal to marginal cost of investment. This is equal to the purchase
+price of capital goods (assumed equal to unity) plus the marginal installation
+(adjustment cost w’(I(t)).
+
+Equation (24.58) requires that at the optimum, the firm will invest until the user
+cost of capital (on the left hand side) is equal to the marginal product of capital
+(on the right-hand side). The user cost of capital is the real interest rate, plus
+depreciation rate, minus the expected appreciation rate of capital stock, all
+multiplied by the shadow value of capital A(t)
+
+24.13) EXERCISES
+
+Q1. Write profit optimisation condition for a firm in Ramsey model.
+
+Ans. Refer Section 24.8
+
+Q2. Explain constant elasticity of intertemporal substitution (EIS) utility function
+Ans. Refer Section 24.8
+
+Q3. Derive optimal saving rate under Ramsey model.
+
+Ans. Refer Section 24.8
+
+Q4. Explain the relevance of investment adjustment cost in macro models. Why
+
+the adjustment cost is assumed to be convex?
+Ans. Refer Section 24.9
+
+The convex functions have unique property which is local minimum is
+global minimum and this property helps us in unique convergence of
+dynamic optimisation.
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+89

@@ -1,0 +1,575 @@
+--- Page 31 ---
+Dynamic
+Optimisation
+
+30
+
+3) Take first order condition and solve for W;},, (* for optimal)
+
+4) Set our initial guess equal to our Bellman equation evaluated at its
+maximum W,,,
+
+5) Identity the unknown coefficient from our guess
+6) Use the coefficient to identity our policy function from Wi,4
+
+Let us now look at the solution. Consider the diagram below
+
+t=-0 tl
+At t=0 Ct=0 because the muncher just starts eating at t=1 the consumption is
+recorded so consumption begins effectively at t=1.Similarly Wo is the initial
+cake size which is fixed for the model. In other words, we need to maximizes
+Wi for each time interval to maximize the consumption
+
+We know C, = Wi — West
+
+C, is maximized to W,4; is maximized as Wt is fixed. So, we can rewrite the
+question as under
+
+max ) In(W, — Wr41)
+
+(Werstten
+
+Hence our bellman equation is
+V(Wy) = pax fin. — Wersd+BV Wer eee (22.39)
+
+Wea}
+
+We make a guess of V (W;)
+Let that be V (W,) = C; + C2 In Wr
+Moving one period ahead V (W,4) = Ci + C2 In Wixt
+
+Substituting this result into our bellman equation we have
+
+V (Wi) = max{In(W, — Wes) + B [CG +, In Wii)
++1
+
+Take F O C of above equation for W;",,
+av) -1 BC,
+West We -Werr  Wesa
+
+— BCoWe
+
+Wr, =
++1 Type,
+
+voce cesneee (22.40)
+
+Set our initial guess equal to our bellman equation evaluated W;4,,
+
+Cr+ Cz In Wi = In (W, = roe) +B[G+C,In (ee)
+
+
+--- Page 32 ---
+) +B [+c In fed Intertemporal
+
+=In (
+1+BCo 14+B C2 Optimisation-I
+
+= In(W, )—In(1+BC,)+Bi{C, +C,[In(BC, ) + nC W, )—In(1+ BC, )]} => C, +C, In W,
+
+=BC, —In(1+BC,)+C, [in( BC, )—In(1+ BC, )]+(1+BC, )InCW, )
+
+i 2
+
+We can see that our constant term in our guess C; must be equal to the constant
+terms on right hand side of our boxed in equation denoted by (1). We require
+however that the coefficient on In (W;) need to be equivalent on both sides
+
+This implies C) = 1+ BC,
+
+c- a besee (22.41)
+
+Use the coefficient to identity our policy function from W,4,4
+Recall from equation (22.40) our optimal value
+BOQWe
+
+Let g(W.) = Wes, = esse (22.42)
+
+Plugging equation 22.41 in equation 22.42 in above equation
+
+6m
++6 (=)
+
+Further rearranging we obtain our policy function for how much cake should be
+
+Wea =
+
+left for each period
+g(Wi) = BW, = Wea
+The corresponding consumption policy is denoted by
+Ch= We - Wes
+= W.-gW,) =W, - BW, = (1- BM
+Therefore, our optimal consumption function is
+
+Ch= BIW, eee (22.43)
+
+22.11 LET US SUM UP
+
+We initiated our discussion with clarifications about distinctions between
+(i) static & dynamic optimization approaches, and (ii) function and functional.
+Then we enumerated various dynamic optimization approaches, discussed the
+essential idea of cach approach, stated the theoretical results which form the
+foundations of the approaches, and then explained how to use each one for
+solving dynamic optimisation problems. More explicitly, first we discussed the
+Calculus of Variations approach, stated the foundational theorem justifying the
+basis of the approach, and then explained how to use it in solving appropriate
+
+problems. Next, we explained the dynamic programming approach for dynamic
+31
+
+--- Page 33 ---
+Dynamic
+Optimisation
+
+32
+
+optimization, and used it in deriving optimality criteria of discrete dynamic
+optimisation. Finally, we explained how to use the approach in solving relevant
+problems.
+
+22.12 KEY WORDS
+
+Euler-Lagrange : The necessary condition for optimisation in
+equation calculation of variation which can be found by
+setting 1“ variation of functional to zero.
+
+Necessary and sufficient condition for optimal:
+2™variation of functional is positive definite for
+maximum and negative definite for maximum.
+
+Function : The function of with its domain as a set of
+fucntions.
+
+Objective : The function which needs to be optimized ice.,
+
+functional either maximized or minimized.
+
+Isoperimetric Types of problems for which we seek optimal
+
+Problems value of functions which are subjected to integral
+
+constraint, in addition to ‘ordinary’ boundary
+conditions. Such problems are called
+
+isoperimetric problems
+
+Bellman- : Value functional of objective functional.
+equation VOot= max{f(%, u) + BV(g@,x))}
+u
+
+22.13, SOME USEFUL BOOKS
+
+Chiang.C.Alpha, 1992, Elements of Dynamic Optimisation, International
+Editions, Mc Graw — Hill, Inc.
+
+Kamien. I. Morton, Schwartz. L. Nancy, 1991, Dynamic Optimisation, The
+calculus of variations and optimal control in Economics and Management,
+Second Edition, Elsevier Science B.V, The Netherlands.
+
+Seierstad Atle, Sydsaeter Kunt, 1987, Optimal Control Theory with Economic
+Applications, First Edition Elsevier Science B.V., The Netherlands
+
+Stokey.L.Nancey, Lucas.E.Robert, Jr., Prescott.C.Edward, 1989, Recursive
+methods in economic dynamics, first edition, Harvard University press.
+
+Weber.A.Thomas, 2011 Optimal Control Theory With Applications In
+Economics, The MIT press.
+
+Whittle. Peter, 1996, Optimal Control, Basic and Beyond John Wiley& Sons
+Ltd.
+
+--- Page 34 ---
+Daniel Liberzon (2012) Calculus of Variations and Optimal Control Theory: A
+
+Concise Introduction, Princeton University Press, Princeton and Oxford.
+
+22.13 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1
+1) Problem 1 J(y)= f(y’? + + 4ye!)dt
+0
+
+We know from E — L condition that
+
+a.) d a) _ ~y2ay24avet
+ot) at 17° where v(.)=y'* + y* + 4ye
+re OO) t OV) _ oy,
+hence () 2y+4el, ait) > 2y'(t)
+
+Therefore  2y+4e' = 2y"(t)
+
+= y'(t)-y(t) =2e"
+First we find particular integral Yp
+Let yy= Bte! => Yt= Bite! +e]
+y(t) = Bite +e'] = Bite’ +e' +e']= Be' +2Be'
+So Bte' + 2Bet —Bte! = 2e!
+=> 2Be! = 2e' >B=1 SO yp =1.te!
+for complimentary function y, let y(t)= Aet
+then y"= Are
+= Arzet— Ae" =0
+=r? 1207? =1>5r=41
+So Yo =Ayelt + Ane” = Aye t+ Agett
+We know y(0)=0 = A;+Az =0=>A,=-Ap
+We know y(1)=1= Aye + Ane! =1
+
+=> Age + Age”! =1> Ay =
+
+1-e
+Using boundary condition
+t e
+
+e -t act
+y(t)=Y¥e+¥p =e + e' +te' (Ans)
+an 1-e?
+
+Intertemporal
+Optimisation-I
+
+33
+
+--- Page 35 ---
+Dynamic
+Optimisation
+
+34
+
+Check Your Progress 2
+
+1
+1)Optimise few? +10x(t).t}dt
+fe)
+
+Here v =x’? +10x.t given x(0)=2
+We know OM) _ dO) 9
+ex dt ox’
+
+= 10t-42x’=0
+at
+
+=> 5t-x"=0
+x
+This can be written a =5t
+
+dx dy
+Let 2 =y>Y=st
+at at
+
+= dy =5tdt
+
+=> J dy = fotat
+
+t2
+= dx =5- dt + cya
+
+= fdx= [ot ate foyat
+
+=x-5 +eqyt+e
+3 t+ C2
+
+8
+3
+Using boundary condition
+
+X(to) =2 => 2=0+0+¢C2>¢2=2
+. 51
+Similarly x(1)=3 > 3=7 ato +2
+
+=>, =1/6
+. * 5.3.1
+Therefore x ()=¢t +gtr2 (Ans)
+2) Let V = (x(t), (0), t) = 2x!7(t) + 24x(t).t
+Writing Euler-Lagrange equation
+
+av( ) dave )
+x(t) Fo
+
+x(1)=3
+
+--- Page 36 ---
+Intertemporal
+
+d a
+=> 24t — a (4x'(t)) =0 Optimisation-I
+
+> 24t — 4x"(t) = 0
+
+=> x"(t) = 6t
+
+a "(t) = 6t
+> =
+an
+2 [ax@=foca
+
+2
+axH= 65 + C, where Cis constant
+
+2
+
+d t
+nae, xO) =65+
+
+> | dx(t)= Joe + (C,)dt
+
+=> x(t) = t? + Cyt + Cy where C> is constant
+
+We need to find C; , C2 for which boundary condition can be used.
+
+X(to) = X90 =0=Cy, tp + > C2 =0
+
+at t=te x(th= xp= 2 > 8+2C;+C,=2
+=C,=-3
+
+Hence, we can write x(t) = -3t + t° This equation satisfied initial and boundary
+
+value constraint.
+
+2
+In order to verify we use Legendre condition we calculate SeaGh =
+aD 4x'(t) = 4 > 0 hence the value of x*(t) minimizes the functional J(.)
+
+22.14 EXERCISES
+
+Q 1. Solve Euler-Lagrange equation for
+JO= J? — 2xx' + 10tx) dt subject to x(0)=0 and x(1) =2
+
+Ans. We have to find E.L. equation for
+
+1
+d= Je —2xx'+10xt)dt st. x(0)=0 x(1)=2
+0
+
+So here v()= x? — 2x’ + 10xt
+
+ov.) 4 av(.)
+o eore a =0
+As per theorem ox dt Ea + (a)
+M0) _ oy t0t
+Ox
+a = 2x! 2x so 3 {x0 = fox! 2x] = 2x" — 2x’
+ax dt| a’ | dt
+
+35
+
+--- Page 37 ---
+Dynamic
+Optimisation
+
+36
+
+Putting the results in equation (a)
+—2x' +10t—2x" +2x'=0
+=> 2x"=10t
+Let x'=y so 2y'=10t
+=> J2dy = Jrotat
+
+t?
+Sy=105 +e
+
+= Joe= rotate
+
+3
+
+=> x(t)= Ba tert+e
+
+at time t = 0 we get 0 = cy =0
+
+A 1 1
+at time t = 1 we get 2=5.24>O=3
+
+3
+Therefore x’ (t) = 5S + At(Ans)
+
+Q. 2 . Find the x*(t) which in turn shall minimize
+Sj [x'COP de subject to f. x(t) dt = K, x(0) =1, x(1) =2
+
+Ans. This is a case of isoperimetric problem the augmented objective function
+is
+
+(x? -Axit’s E- L equation is -A-2x"=0
+=> 2x"+2=0
+
+The solution of x(t) is equal to
+
++cyt+C2
+
+1
+The constraint equation is fxpat =k
+0
+
+1 2
+= [2 sores} .. (a)
+4
+0
+x(0)=1> cy =1
+x(1)=2> 46,4122 0, =14%
+4 4
+
+Using the value of c1and cp in equation (a)
+
+1 2
+We get ie vate atok
+0
+
+--- Page 38 ---
+41 Intertemporal
+> ayt at? +4t+at+ ala =k Optimisation-1
+0
+842 28 7
+=>|-A—+—+A—+4t] =4k
+3 2 2
+
+= 24 ne 4-0 =4k
+3 2
+
+> =4k-6
+
+N|>
+w|>
+
+3 P= Ak -6 3 1.= 24(K 1)
+
+Using value of c4,c2 and A
+
+x’ (t) = -6(k —1)t? + t+ 6(k -1)t +1
+
+Q3. Find the extremal for functional
+JO = f(242(O + 2x(t).Qat
+t= to = 0 such that x(to) =0, x~=2
+(Hint use transversality equation (22.26)
+
+Ans. We have to find the extremal for the functional
+
+ty
+M()= fex? + 24xt)dt
+ty=0
+
+Where the left end point is fixed i.e., x(tg) =0 at tp =0
+
+We can assign that as point A. The right end point ¢, is free but xt; = 2
+v(x(t), x'(t),t) = 2x? +24xt
+
+Writing Euler-Lagrange equation
+
+wv _d
+
+ov 20-0 2at—axr() 0 x'()= 81.
+ax dt| ax
+
+Solving the differential equation x(t) = 6t will give us
+
+x(t)=t? + cyt +c (1)
+We want to find cand cz so doing we use the boundary condition
+X(to) =O =cy > C2 =0
+
+2-8
+fc, ... 2)
+
+at t=tp.xp =2=cytp top +t? >
+f
+
+because c, and cp value is known the description or trajectory is known
+
+provided the value of t; is known. 37
+
+--- Page 39 ---
+Dynamic
+Optimisation
+
+38
+
+Using transversality condition (when X¢ is fixed, t, is tree)
+
+[vo a) x |aty=0
+
+ex'(t)
+=> [2x’? + 24xt — 4(x')?] = 0 => 2x’? = 24x(t),t ... (Ia)
+x'(ty) = 3tf? + cy (by differentiating eq(1)) . B)
+
+Using (3) in (la) and using (2) in that and setting x =x, =2
+We get 8 ~ 412 +1=0 let z=t?
+=z? -424+1=052=24V3
+So 24=2+V8 and z7=2-V3, 2,=3.732 zp = 0.2679
+So tf; we get c;=-1.117 and for tfp we get c, = 2.6871
+So tf, = 93.732 tf, = 92679 =.6446
+for tf; we get c;=—1.117 and for tfy we get cy = 2.6871
+then x(t)is —1.117t+t® — one solution
+or 2.687 1t +t? another solution
+these above equations are a result of x(t) =c t+ i
+Q4. Derive Bellman equation for max $=} f (U; x;)
+Subject to Up=X_ — Xt41
+Ans. In the space of the sequence {Ut,X;}{29 such that u, ¢P and x, «P we
+
+have to choose a sequence {Ut, Xt }{29 that maximizes the sum
+co
+max >> B'f(x;,uy}
+{v} {20
+
+Subject to the sequence of budget constraint
+Xty1 = Xt —Uy, t=O.....00
+
+Xo is given let x¢.4 = g(x¢ Ut)
+
+where o<p<—-<1 where p>0
+1+p
+
+By applying the is principle of dynamic programming the 1“ order necessary
+condition for this problem is given by bellman equation
+
+v(x,) =max {(f (x, u,) + Br(g (utgd)}
+
+which usually written as
+
+v(x) = max {f(x,u) + Bv(g(x,u))} (Ans).
+u
+
+--- Page 40 ---
+UNIT 23, INTERTEMPORAL OPTIMISATION-II
+
+Structure
+23.0 Objectives
+23.1 Introduction
+23.1.1 Summary of Optimization & Dynamic Optimization so far
+23.2 First Order Necessary Condition: Euler Lagrange Equation
+23.3 Hamiltonian Formation of Optimal Control Problem
+23.4 Hamiltonian Optimality Condition in Special Cases
+23.5 Transversality Condition
+23.6 The Discounted Problem
+23.7 Second Order Condition
+23.8 Let Us Sum Up
+23.9 Key Words
+23.10 Answers/Hints to Check Your Progress Exercises
+
+23.11 Exercises
+
+23.0 OBJECTIVES
+
+After going through this unit, you should be able to
+
+¢ show how Hamiltonian formation is derived for constrained dynamic
+optimisation;
+
+e determine necessary and sufficient condition for optimizing Hamiltonian
+
+functional; and
+
+¢ elucidate two special types of dynamic optimisation techniques encountered
+in economics viz., infinity horizon models and optimisation models with
+discounting.
+
+23.1 INTRODUCTION
+
+In the previous unit, we have discussed the problem of optimisation of a
+functional under integration sign by using calculus of variations. Moreover, we
+have noted various end-point conditions with their transversality conditions. We
+derived necessary and sufficient conditions for extremum. Here we apply
+calculus of variations to find solutions to optimal control problems.
+
+Before we go into details of ‘Optimal Control Theory’, we summarise our
+discussion, so far, of optimisation, and in the process, introduce some concepts,
+essential for any further discussion on Optimisation.
+
+39
+

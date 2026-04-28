@@ -1,0 +1,62 @@
+matrix ‘A’ at x*. If the matrix is positive definite then x* is path that minimizes Intertemporal
+oe Optimisation-I
+J(.) by similar analogy
+
+When 47J<0 if A is negative definite matrix at x*.
+
+22.6 LEGENDRE CONDITION
+
+Consider a continuously differentiable function x(t) that maximizes
+Sv V(x, x’, dt subject to x(to) = xo , x(t) = xr
+0
+
+Where V is twice continuously differentiable in its three arguments. Then the
+Legendre condition states that for a maximizing path x* must satisfy not only
+the Euler-Lagrange equation but also the Legendre condition i.e.,
+
+a*vC_)
+
+sas ve++(22.18)
+rar a’vc )
+
+For a minimizing path Bar 20 22.19)
+
+However, if the integrand V(.) is concave in (x, x’) a path that satisfies the
+Euler equation is maximizing. If the integrand is convex in (x, x’), then a path
+satisfying the Euler equation is minimizing. Thus, the Euler equation together
+with concavity (convexity) of the integrand in (x, x’) are sufficient for a
+maximum (minimum).
+
+22.7 NECESSARY AND SUFFICIENT CONDITION
+FOR OPTIMALITY
+
+Let’s consider a functional J() which is defined as Su V(x(0),x'(t), dt we
+
+wish to find x*(t) that in turn optimise (minimize or maximize) the objective
+functional J(.), where to = initial time. tr = final time
+
+Further x(to) = xo and x(t) = xp
+We assume V(.) is continuous and twice differentiable in all its arguments.
+
+For minimization,
+
+Necessary condition WO _ 4 ( vO) _
+
+axcty) atlax() (22.20)
+
+This is Euler-Lagrange equation. Solve the above equation to get x*(t)
+a?v(_) atv)
+
+ax2(t) Ax(tyax" (t)
+a’v(_) _a?vC_)
+ax(t)x! (t) ax!2(t)
+
+sufficient condition: The matrix A=] oy (22.21)
+
+The matrix A evaluated at x* is positive definite.
+For maximization,
+Necessary condition: Same as necessary condition for minimization
+
+Sufficient condition: The matrix A evaluated at x* is negative definite.
+
+23

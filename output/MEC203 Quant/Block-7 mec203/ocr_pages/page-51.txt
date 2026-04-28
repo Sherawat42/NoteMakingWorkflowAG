@@ -1,0 +1,70 @@
+Dynamic
+Optimisation
+
+50
+
+ty
+Using the lemma if {g(t)8x(t) dt = Othen
+to
+g(t) = 0 at every point over the interval [tg t>]
+so our necessary condition for optimality is (as 5x(t) and du(t) are not equal to
+
+zero)
+
+mel =0 ... (23.14)
+ax(t) dt ax‘(t)) |.
+
+In case x is nx 1 vector
+
+co O42) -0,, ... (23.18)
+ax(t)  dt\ éx'(t) m
+
+In order to solve these differential equations we need boundary condition.
+
+Similarly, Aah =0 «+. (23.16)
+ol
+
+if u(t) is scalar
+
+aN(.) _
+and Butt) * Om .. (23.17)
+
+ifu is mx vector
+
+Because | “two terms are zeros in equation 23.13
+
+ANG)
+
+24 = AU Iotay, St (22), 8x (t) It, ... (23.18)
+
+After some algebraic calculation which takes into consideration 6x'(t). dt; +0
+
+ont) 0) st, + OMY)
+ox'(t) tty ox'(t)
+
+We get as=[Lo- 3x, =0 ... (23.19)
+
+ttt,
+Therefore in order to make necessary condition the equation 23.19 needs to be
+solved. This is general boundary condition this takes into account that x¢ and ts
+
+are both free. We are getting two boundary condition as there are two terms in
+equation (23.19). (Note that we need to make yas small as possible so we set
+
+23.19 to zero)
+If x and u are vector of dimension nx 1and mx ‘respectively.
+
+then the boundary condition would be
+T ~ T
+aQ-| AQ) xa] at +{ AO xf =0 ... (23.20)
+ox'(t) '
+tat,
+
+ax'(t)
+In summary we need to solve
+
+equations (23.14) (23.16) (23.19) when x and u are scalars and equations (23.17)
+
+(23.15) (23.20) when x and u are vectors. Solving these pairs of equation will
+give us u* (t)which in turn gives us x *(t).
+

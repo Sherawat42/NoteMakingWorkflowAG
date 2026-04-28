@@ -1,0 +1,57 @@
+Dynamic
+Optimisation
+
+44
+
+23.1.3 Calculus of variations: Summary
+
+The standard problem of optimisation for continuous variable, mentioned
+earlier, as of optimizing/ maximizing the following functional
+
+Viy] =fFIt y(t), y@lat cee bee ee (I-4)
+
+where y = y(t), is time-dependent state-variable,
+takes the following form, in the case of ‘Calculus of Variations’:
+
+Optimise/ maximize the following functional
+T
+Vivl=[Fity@.y(@ldt (1-5)
+0
+
+Subject to the conditions that
+
+Initial state y (0) (say =A), the terminal time T, and
+
+the final state y(T) (= say Z) are given.
+
+In the above, y(t) is the state at time t, and y’(#) is the rate of change in state-
+variable at time t.
+
+The solution of (I-5) is given by the following Euler-Lagrange equations
+
+d
+K= at F,=0  forallte[Q.T] se ee (1-6)
+And, more explicitly by the equation
+
+Ry y+ Ryy(Q+Fy-R=0 ee eee (I-7)
+
+23.1.4 Optimal control theory: Summary
+
+We start our discussion of ‘optimal control theory’ with mentioning the fact that
+the essential difference between ‘Calculus of Variations’ and ‘Optimal control
+Theory’ is the additional use of ‘control variable’ in the latter.
+
+Combined with Example 5 above, in this context, let us recall the recent
+news (dated: June 04, 2023): OPEC+ member countries consider more
+
+production cuts as oil prices slump.
+
+The above is the case of use of control variable: Despite the availability of
+technology and capacity for production, the oil will not be produced according
+to maximum capacity because of the above decision which stipulates the upper
+limit on the production over a period of time.
+
+A control variable is external to the production-consumption system.
+
+With this, we outline the Standard/ simplest Optimal Control Problem and its
+Theory

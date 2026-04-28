@@ -1,0 +1,58 @@
+(using 24.17) Economic
+
+Applications of
+
+~ Dynamic
+
+= 8 (FC) _ oF) oF) (24.19) Optimisation
+dt\ aR) ok aR
+
+Using equation 24.14 and differentiating that w.r.t ‘t’ and equating with equation
+(24.16) we get
+
+U"C).c’ = 8(u(c)- ue) 9 ... (24.20)
+
+An important quantity in economic term is
+
+_ _UvO
+(Eta) u'(.)
+
+This relative risk aversion, the inverse of which will give us intertemporal
+elasticity of substitution EIS More on EIS when we will discuss Ramsey model.
+In some literature it is called elasticity of marginal utility. It is often assumed
+
+constant.
+
+Therefore equation (24.20) can be rewritten as
+
+c= (SU - a/n ... (24.20)
+ak
+
+Equation (24.19) and (24.20) are basic equation governing the optimal path
+
+together with state equations. The equations are non-linear and coupled and to
+proceed further we must specify the production function let the production
+
+function
+F(.) =k¢Rb (24.21)
+where ois positive constant such that 0<a <1
+where we find SFO) _,a-tpt-a, FU) _ (1-a)k¢R-*
+ok oR
+
+setting x =k/R =capital/resource depletion rate ratio
+
+OF(.) _ gat OF.) 4 yy
+mK 7o% and aR =(1-a)x
+$(%0 =(1-a)ax*"x'
+
+dt\ oR
+
+and equation (24.19) reduces to
+yex® ws (24.22)
+
+This can be integrated to give
+1
+x=[(1-a)t+xph @] ho (24.23)
+where Xq is constant
+
+75

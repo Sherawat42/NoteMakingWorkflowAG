@@ -1,0 +1,59 @@
+T
+Maximize or minimize V[u]= J F[t, y(t), u(t)] dt
+0
+
+Subject to the conditions that
+
+yO®=ft yO, ud),
+
+initial state y (0) (say =A), the terminal time T,and is. ws (1-8)
+the final state y(T) (= say Z) are given.
+
+The equation y’(t) = f (t, y(t), u(t), derivative of y with respect to ¢ is called
+State Equation as well as Equation of Motion.
+
+Though (I-8) appears to be quite similar to (I-5), yet there are subtle and
+significant differences in the optimization problems corresponding to
+respectively ‘Optimal Control Theory’ and ‘Calculus of Variations’, as discussed
+below
+
+i) y’(t) = the rate of change of the state in (I-5) was a function of t and y(t)
+only. But in ‘Optimal Control Theory’, y’(t) = f (t, y(t), u(t), i. e. it is also
+controlled by the (external) control variable. This is a significant
+change.
+
+ii) The functional to be optimized in ‘Calculus of Variations’ (i. e., in (I-5)), is
+Vy), i. e. it is treated mainly as a function of y, the internal state. But the
+functional to be optimized in ‘Optimal Control Theory’ (i. e., in (I-8)), is
+V(u), i. e. it is treated mainly as a function of u, the external control
+variable. In other words, the emphasis in the problem definition has shifted
+from the internal state y to u, the external control variable.
+
+23.1.4.1 Slight Modification in notation
+
+In order to keep uniformity of notation used in the rest of this unit, the following
+changes to the above notations have been made:
+
+i) The objective function, for which we used V(u), henceforth, we will be
+using J(u)
+
+ii) The state variable for which we used y(), henceforth, we will be using x(t)
+iii) The derivative with respect to t will be denoted as x, instead of x’ ete.
+
+iv) The initial time is taken as t= to instead of t=0.And the final time will be
+taken as tr instead of T.
+
+In view of the above notational changes, Standard/ simplest Optimal control
+problem represented by (I-8), now becomes
+
+J(u) > max,
+uC.)
+
+X(t) =f(t,x(), u(t),
+
+x(to) denotes initial state, and x(tr) denotes final state.
+
+Intertemporal
+Optimisation-II
+
+45

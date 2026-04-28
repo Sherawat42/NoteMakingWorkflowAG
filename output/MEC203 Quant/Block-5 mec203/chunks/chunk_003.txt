@@ -1,0 +1,588 @@
+--- Page 01 ---
+
+UNIT 17 UNCONSTRAINED AND CONSTRAINED
+OPTIMISATION
+
+Structure
+17.0 Objectives
+
+17.1 Introduction
+17.2. Unconstrained Optimisation
+
+17.2.1 First Order Condition
+
+17.2.2 Second Order Condition
+17.3. Some Economic Problems: Unconstrained Optimisation
+17.4 Constrained Optimisation
+
+17.4.1 Equality Constrained Optimisation
+
+17.4.2 Inequality Constrained Optimisation
+17.5. Kuhn- Tucker Theory
+
+17.5.1 The Kuhn-Tucker (KT) Theorem
+
+17.6 Simple Economic Problems: Constrained Optimisation
+17.7. Let Us Sum Up
+17.8 Key Words
+17.9 Answers or Hints to Check Your Progress Exercises
+
+17.10 Exercises
+
+17.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+e determine the first order condition and second order condition with respect
+to unconstrained optimisation;
+
+e _ solve unconstrained optimisation problems;
+
+e apply the concept of unconstrained optimization on simple economic
+problems;
+
+e solve the basic optimisation problems with equality as well as inequality
+constraint using Lagrange method; and
+
+e use Kuhn-Tucker method while solving optimisation problems with
+inequality constraint.
+
+17.1 INTRODUCTION
+
+In the previous unit, we learnt about the extreme points of a function in terms of
+maxima and minima. We also understood the stationary point and inflexion point.
+Now, in this unit, our objective is to find and explain the necessary and sufficient
+conditions for any unconstrained optimisation problem as well as for constrained
+optimization problem. Optimisation in mathematical sense means either
+maximisation or, minimisation of different mathematical functions.
+Unconstrained optimisation deals with those problems whose domain is not
+
+151
+
+--- Page 02 ---
+
+Extreme Values
+and Optimisation
+
+152
+
+compressed by any constraint. We are going to use simple calculus to solve these
+kinds of optimisation problems. First, we find and discuss the necessary first
+order conditions for optimisation before moving on to the sufficient condition or,
+the second order condition. We will also work out some simple economic
+applications dealing with unconstrained and constrained optimisation.
+
+17.2 UNCONSTRAINED OPTIMISATION
+
+Under optimisation exercise we either maximise or, minimise some mathematical
+functions consisting of either one variable or, several variables. To optimise a
+mathematical function, we need to find the necessary first order conditions from
+which the optimum values of the variables can be found. But to find whether the
+value is maximum or, minimum we have to check the sufficient second order
+condition.
+
+17.2.1 First Order Condition
+Consider the function y= f(x), which is shown in Fig 17.1. The function has
+
+the maximum point A and the minimum point B. Note that at these two points the
+value of y must be stationary. We can say that it is a necessary condition for an
+extremum of y that dy =(as x varies. This condition is known as the differential
+version of the first order condition for an extremum and we have already
+discussed it in the preceding unit. As mentioned earlier, this condition is
+necessary but not sufficient for either a maximum or, a minimum. Therefore, the
+necessary first order condition for both maxima and minima are the same.
+
+¥
+
+y=f(x)
+
+Fig 17.1: First order condition for optimum
+
+We will see that the above condition is equivalent to the differential version of
+
+the first order condition “ =Oor, f (x) =(). We note that when there is no
+x
+
+change in x (i.e., dx = 0), dy will automatically be zero. But this, of course, is not
+what the first order condition is all about. What the first order condition requires
+is that dy be zero as x is varied, that is, as arbitrary (positive or, negative, but not
+zero) infinitesimal changes of x occur. In such a context, with dx #0, dy can
+be zero if and only if f (x)=0. Thus, the derivative condition f (x)=0 and the
+
+differential condition dy = 0 “for arbitrary nonzero values of dx” are indeed
+equivalent.
+
+--- Page 03 ---
+
+Now, suppose y= /(x,,%,,...,Xn) . In this case, the first order condition for
+optimisation is given by the n-equation viz., — = f'(x)=0, = f*(x)=0,
+
+oy
+
+3B = f"(x) =0. From these n equations, we can find Xr »X2 Oe
+xX
+
+n
+
+Example 17.1: Find the optimal values of y=x-x in the domain
+OO < X< +00.
+
+Ans. The necessary first order condition is <. =(). For the above equation we
+x
+
+have 3x7-1=O0 0 re (17.1)
+
+From equation (17.1) we get values of x as either x° =+5 or, x =-——.
+3
+
+Putting these values of x, we get optimum y Le., y .
+
+Example 17.2: Find the optimal values of Z= y —xy +x° on the domain
+
+—00 < X < +00and —0< y<+.
+
+Ans. The necessary first order condition gives = = 0 and = = 0, from which
+x yy
+
+we can get —y+2x=Oand 2y—x=0. We solve this and get x°=Oand y =0.
+
+Finally putting these optimum values into the original equation we get z =0.
+
+17.2.2 Second Order Condition
+
+For the time being, let us assume the function z= f(x, y) can give us two first
+
+order partial derivatives, f: = Bea fz &
+
+A . Since fc is itself a function of x (as
+X
+
+well as y), we can measure the rate of change of f< with respect to x, while y
+
+remains fixed, by a particular second order (or, second) partial derivative denoted
+Oz
+
+by either fi. or, —.
+y f Ox?
+
+Oz 6(2a
+fez jx) Or, e2(2]. The notation fx has a double subscript
+Ox Ox” = Ox\.Ox
+
+signifying that the primitive function f has been differentiated partially with
+2 2
+
+respect to x twice, whereas the notation 22 resembles that of “except for the
+
+X
+
+ox
+use of the partial symbol. In a perfectly analogues manner, we can use the second
+. or oO 0 | Oz
+partial derivative f= oO ph) or, — = <| ~ |to denote the rate of change of
+oy Oy Oy ay
+
+Jy with respect to y, while x is held constant.
+
+Recall however, that fis also a function of x. Hence, we can write two more
+
+oO 2
+partial derivatives: f= OF _ =0/@ and fix= OF =o [ 4 . These are
+OxOy Ox ay Oyox Ooy\ Ox
+
+called cross (or, mixed) partial derivatives because each measures the rate of
+
+Unconstrained
+and Constrained
+Optimisation
+
+153
+
+--- Page 04 ---
+
+Extreme Values
+and Optimisation
+
+154
+
+change of one first order partial derivative with respect to the “other” variable.
+We can also note that using total differential equation we get
+
+d?z =d(dz)= _ dx+ a dy.
+
+Using the concept of d*z, we can state the second order sufficient condition for a
+maximum of z = f(x, y) as follows:
+
+d*z <Ofor arbitrary values of dx and dy, not both zero. w===-====-= (a)
+
+The rationale behind this is very similar to that of the d?z condition for the one
+variable case and it can be explained by means of a figure (Fig. 17.1) that depicts
+the bird’s-eye view of a surface. Let point A on the surface — the point lying
+directly above the point (xo, yo) in the domain — satisfy the first order condition.
+Then the point A is a prospective candidate for a maximum. Whether it in fact
+qualifies depends on the surface configuration about A (Fig. 17.1). If an
+infinitesimal movement away from A in any direction along the surface
+invariable results in a decrease in z, 1.e., if dz< 0 for arbitrary values of dx and
+dy, not both zero then A is a pick of a dome. Given that dz = 0 at point A,
+however, the condition dz< 0 at point about A amounts to the stipulation that dz
+is decreasing, that is, d°z =d(dz) <0, for arbitrary values of dx and dy, not
+both zero. Thus (a) constitutes a sufficient condition for identifying a stationary
+
+value as a maximum of z.
+
+Analogous reasoning would show that a counterpart second order sufficient
+condition for identifying value as a minimum of z = f(x, y) is as follows:
+
+d*z > Ofor arbitrary values of dx and dy, not both zero 88 ------- (b)
+
+The reason why (a) and (b) are sufficient conditions but not necessary conditions,
+is that it is again possible for dz to take a zero value at a maximum or, a
+minimum. For this reason, second order necessary conditions must be stated with
+weak inequalities as follows:
+
+For maximum of z: d*z < 0 for arbitrary values of dx and dy, not both zero.
+For minimum of z: dz = 0 for arbitrary values of dx and dy, not both zero----(c)
+
+In the following, however, we pay more attention to the second order sufficient
+conditions.
+
+For operational convenience, second order differential conditions can be
+translated into equivalent conditions on second order derivatives. In the two-
+
+variable case, this would entail restrictions on the signs of the second order
+partial derivatives fx, fyand fy. The actual translation would require knowledge
+
+of quadratic forms. But we may first introduce the main results here: For any
+values of dx and dy, not both zero, we have
+
+d?z <Oif and only if fu<0, fy<0, and fofy> fo
+
+d’z>Oif and only if fe>0, fr>0, and fofy > for.
+
+--- Page 05 ---
+
+Note that the sign of d’z hinges not only on fx and fj, which have to do with the
+
+surface configuration around point A (Fig. 17.1), but also on the cross partial
+derivative fy. The role played by this latter partial derivative is to ensure that the
+
+surface in question will yield (two-dimensional) cross sections with the same
+type of configuration in all possible directions. The above result, together with
+
+the first order condition, enables us to construct Table 17.1.
+
+Table 17. 1: Conditions for Relative Extremum: z=f(x, y)
+
+Condition Maximum Minimum
+First order necessary condition fr=fr=0 fe=fr=0
+Second order sufficient condition fx, fy <0 fe, fy >90
+
+and fof > fo and fofwy > fo”
+
+We should understand that all the second order partial derivatives therein are to
+
+be evaluated at the stationary point where fx = fy = 0. It should also be stressed
+that the second order sufficient condition is not necessary for an extremum. If a
+
+stationary value is characterised by fof» = fy then that stationary value may
+nevertheless turn out to be an extremum. On the other hand, in the case of
+another type of violation, with a stationary point characterised by fofy < fo’, we
+
+can identify that point as a saddle point, because the sign of d*z will in that case
+
+be indefinite (positive for the same values of dx and dy, but negative for others).
+
+For n-variable case we can generalise the above second order condition. The
+satisfaction of the first order condition earmarks certain values of z as the
+stationary values of the objective function. If at a stationary value of z we find
+that d’z is positive definite, this will suffice to establish that value of z as a
+minimum. Analogously, the negative definiteness of d’z is a sufficient condition
+
+for the stationary value to be maximum.
+
+When there are n choice variables, the objective function may be expressed as
+Z= f (X,%X>5-.5%,).
+The total differential will then be dz = f,dx, + f,dx, +...+ f,dx, so that the necessary
+
+condition for extremum (dz = 0 for arbitrary dxi) means that all the n first order
+
+partial derivatives are required to be zero.
+
+The second order differential d’z will again be a quadratic form, which can be
+expressed as an nxnarray. The coefficients of that array, properly arranged, will
+
+now give the (symmetric) Hessian matrix
+
+Unconstrained
+and Constrained
+Optimisation
+
+155
+
+--- Page 06 ---
+
+Extreme Values
+and Optimisation
+
+156
+
+re |i Sa
+with principal minors | H, |= f,,, | 4. ,..., |, |} H|. The second
+tn fn
+
+order sufficient condition for extremum is, as before, that all the n principal
+minors be positive (for a minimum in z) and that they duly alternate in sign (for
+
+a maximum in Z), the first one being negative.
+
+In summary, then — if we concentrate on the determinantal test — we have the
+criteria as listed in Table 17.2, which is valid for an objective function of any
+number of choice variables. As special cases, we can have n= 1 or, n= 2. When
+n = 1, the objective function is z = f(x), and the condition for maximization,
+f, =Oand | H, |K0, reduce to f (x)=Oand f (x) <0, exactly as we learned
+
+above. Similarly, when n = 2, the objective function is z= f(%,,x,), so that the
+
+first order condition for maximum is f, =f, =0, whereas the second order
+
+Ii Sn
+In Sn
+
+merely a restatement of the information given above.
+
+|itoA >0, which is
+
+sufficient condition becomes f,, < 0 and
+
+Table 17.2: Determinantal Test for Relative Optimum: z= /(%,,X,...,%,)
+
+Condition Maximum Minimum
+
+First order necessary condition hah ==F, fas, =m f,
+
+Second order sufficient condition (—1)' | H; |>0 Vi=l,....n |, [> 0 Vi=l,...n
+
+Example 17.3: Find the extreme value(s) of Z= x +xy+2 y +3and determine
+whether they are maximum or, minimum.
+Ans. The relevant first order conditions are the following:
+
+fe=2x+y=O0and f=x+4y=0. Solving these two equations we get x" = 0
+and y' = 0. Note that fa=2>0 and f,=4>0 and as fy=1 we have
+
+fey > fo” . So at x"= 0 and y* = 0 the function z is minimized.
+
+Example 17.4: Find the extreme value(s) of Z= =x" + xy- y +2x+y and
+determine whether they are maximum or, minimum.
+Ans. The relevant first order conditions are the following:
+
+fre=—2x+y+2=O0and f.=x-2y+1=0. Solving these two equations we get
+x = 5/3 and y = 4/3. Now note that fr=—2<Oand fy=-2<Oand as fy=1
+we have fofy > fr . So, at x" = 5/3 and y* = 4/3 the function z is maximised.
+
+--- Page 07 ---
+
+Check Your Progress 1 Unconstrained
+
+and Constrained
+Optimisation
+
+1) Find the extreme value(s) of Z= =x? +xy- y +x+5y and determine
+
+whether they are maximum or minimum.
+
+2) Find the extreme value(s) of y =x*—6 and determine whether they are
+
+maximum or minimum.
+
+3) Find the extreme value(s) of y= x —2x° +x—-6 and determine whether they
+
+are maximum or minimum.
+
+4) Find the extreme value(s) of Z = x —2x -y and determine whether they are
+
+maximum or minimum.
+
+17.3 SOME ECONOMIC PROBLEMS:
+UNCONSTRAINED OPTIMISATION
+
+In this section, we will give some economic applications concerning
+unconstrained optimisation. Our first example is concerning the multi-product
+firm that takes the prices as given 1.e., it produces under competitive structure.
+The second example is also regarding multi-product firm but here the firm acts
+as a monopolist where it can choose how much to produce and at what price. In
+both the cases the firm’s objective is to maximise its own profit where profit is
+defined as net revenue minus net cost. These objectives we take for simplicity
+Le., we can think of some other objective of the firm viz., revenue
+
+maximisation.
+157
+
+--- Page 08 ---
+
+Extreme Values
+and Optimisation
+
+158
+
+Example 17.5: This example is regarding the problem of a multi-product firm.
+Let us first postulate a two-product firm under circumstances of pure
+competition. Since, with pure competition the prices of both commodities must
+be taken as exogenous, these will be given by p; = 5 and p2 = 3, respectively.
+Accordingly, the firm’s revenue function will be R = piqi + p2q2 = 5qi + 3qp,
+where qi represents the output level of the i product per unit of time. The
+firm’s cost function is assumed to be C = 2qi7 + 2q2? + qiqe.
+
+Note that 2© — 4q, +q, (the marginal cost of the first product) is a function not
+1
+
+only of qi but also of q2. Similarly, the marginal cost of the second product also
+depends, in part, on the output level of the first product. Thus, according to the
+assumed cost function, the two commodities are seen to be technically related in
+
+production.
+
+The profit function of this hypothetical firm can now be written readily as
+m= R-C=5q, +39, —29, —29,° — 9,95, a function of two choice variables (qi
+
+and q2) and two price parameters. It is our task to find the levels of qi and qp,
+which in combination, will maximise z. For this purpose, we find the first
+
+order partial derivatives of the profit function:
+
+On On
+™,| =~ |=5—44,—q, and 7,| =>— |=3—-4q, -4, +. (a)
+04, 09,
+
+Setting these both equal to zero, to satisfy the necessary condition for
+maximum, we get the two simultaneous equations 4¢,+q,=Sand g,+4q, =3,
+
+which yield the unique solution g, = ahs = and q, = <P? == .
+
+Thus, the maximum profit that the firm will get is z° =5.51 (approx).
+
+To be sure that this does represent a maximum profit, let us check the second
+order condition. The second order partial derivatives, obtainable by partial
+differentiation of equation (a), give us the following Hessian matrix:
+
+ale ace nH
+Ty, Hy -| -4
+
+Since |H, --4<0 and |H,|=15>0, the Hessian matrix (or, d’z) is negative
+definite, and the solution does maximise the profit. In fact, since the signs of the
+principal minors do not depend on where they are evaluated, dz is in this case
+everywhere negative definite. Thus, the objective function must be strictly
+concave, and the maximum profit found above is a unique absolute maximum.
+
+Example 17.6: This example is again regarding a multi-product firm but with
+the modification that in earlier case the firm faced a given price i.e., multi-
+product firm under competitive structure. In this example the multi-product firm
+is a monopoly in both the products i.e., the firm can decide how much quantity
+to be produced and at the same time it can choose any price for its product.
+
+--- Page 09 ---
+
+Now by virtue of this new market-structure assumption, the revenue function
+must be modified to reflect the fact that the prices of the two products will now
+vary with their output levels (which are assumed to be identical with their sales
+levels, no inventory accumulation being contemplated in the model). The exact
+way prices will vary with output levels is, of course, to be found in the demand
+functions for the firm’s two products.
+
+Suppose that the demand facing the monopolist firm, are as follows:
+
+gq, =40-2p,+p,and q,=15+p,-—Py sence eeeeeeeeeee (17.2)
+These equations reveal that the two commodities are related in consumption;
+specifically, they are substitute goods, because an increase in the price of one
+will raise the demand for the other. As given, equation (a) expresses the
+quantities demanded qi and q2 as functions of prices, but for our present
+purposes, it will be more convenient to have prices p: and p2 expressed in terms
+
+of the sales volumes qi and qp, that is, to have average revenue functions for the
+two products. Since equation (17.2) can be rewritten as
+
+—2p,+p,=49,-40 and p,-p,=9,—-15, we may (considering qi and qo as
+parameters) apply Cramer’s rule to solve for p: and pz as follows:
+P,=55-q,-9,and p,=70-G,-2G@, hace ee eee eee eee (17.3)
+These constitute the desired average-revenue functions, since p, = AR, and
+p, = AR,. Consequently, the firm’s total-revenue function can be written as:
+
+R= PG + Pdr
+= (55-49, —4,)q, + (70-9, -24,)¢,
+
+= 554, + 70g, - 29,9, -4; -2q,°
+If we again assume the total cost function to be C=4,' +4,9,+49,, then the
+profit function will be:
+
+mz=R-C
+=55q, + 70q, -— 39,9, - 2q, - 39, bebe ee eneeeeeeaes (17.4)
+which is an objective function with two choice variables. Once the profit
+
+maximizing output levels qi and q2’ are found, however, the optimal prices pi"
+and p2’ are easy enough to find from equation (17.3).
+
+The objective function yields the following first order and second order partial
+derivatives:
+
+= 55 — 3q2-4q17, =70—3q, —6q,
+
+m,=-4 My =M,, =-3 Ty, =—6
+
+Unconstrained
+and Constrained
+Optimisation
+
+159
+
+--- Page 10 ---
+
+Extreme Values
+and Optimisation
+
+160
+
+To satisfy the first order condition for a maximum of z, we must have
+H,=7,=0; that is 4g,+3q, =55 and 3g,+6q,=70. Thus, the solution
+
+output levels (per unit of time) are
+* * 2
+
+Upon substitution of this result into equation (17.3) and (17.4), respectively, we
+find that
+
+pi = 39- p2 = 46= and z= 488- (per unit of time)
+
+In stet much as the Hessian is Al , we have | H, |—-4<0 and|H, |=15>0,
+
+so that the value of z’ does represent the maximum profit. Here, the signs of the
+principle minors are again independent of where they are evaluated. Thus, the
+Hessian matrix is everywhere negative definite, implying that the objective
+function is strictly concave and that it has a unique absolute maximum.
+
+17.4 CONSTRAINED OPTIMISATION
+
+When an economic project such as the production of a specified level of output is
+to be carried out, there are normally several alternative ways of accomplishing it.
+One (or more) of these alternatives will, however, be more desirable than others
+from the standpoint of a producer. Need, therefore, arises to choose the best
+alternative available without compromising the basic objective of the project.
+Essentially, the constraint optimisation helps arrive the decision.
+
+The most common criterion of choice among alternatives in economics is the
+goal of maximising something (such as maximising a firm’s profit, a consumer’s
+utility, or the rate of growth of firm or of a country’s economy) or, of minimising
+something (such as minimising the cost of producing a given output).
+Economically, we may categorize such maximisation and minimisation problems
+under the general heading of optimisation, meaning “the quest for the best”.
+From a purely mathematical point of view, however, the terms maximum and
+minimum do not carry with them any connotation of optimality. Therefore, the
+collective term for maximum and minimum, as mathematical concepts, is the
+more matter-of-fact designation extremum, meaning an extreme value.
+
+In formulating an optimisation problem, the first order of business is to delineate
+an objective function in which the dependent variable represents the object to
+maximisation or minimisation and in which the set of independent variables
+indicates the objects whose magnitudes the economic unit in question can pick
+and choose, with a view to optimising. We shall, therefore, refer to the
+independent variables as choice variables. They can also be called decision
+variables, or policy variables. The essence of the optimisation process is simply
+

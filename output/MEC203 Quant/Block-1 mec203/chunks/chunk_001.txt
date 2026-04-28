@@ -1,0 +1,425 @@
+School of Social Sciences
+
+Indira Gandhi National Open University QU ANTITATIVE Mi ETH ODS
+
+us WwW
+
+PROBABILITY +:
+
+n CR } . a =
+| ore. -
+rT ie
+if i) 3)
+Ri. a
+
+: =
+: 4 Ppa Mem rer
+. ; -
+mea ; ’ =
+” - f
+
+Volume-1
+©))|'Sases MEC-203
+UNIVERSITY
+QUANTITATIVE METHODS
+
+(Vol. 1)
+
+ignou
+THE PEOPLE'S
+UNIVERSITY
+
+©)
+
+School of Social Sciences
+
+Indira Gandhi National Open University
+Maidan Garhi, New Delhi-110068
+EXPERT COMMITTEE
+
+Prof. Atul Sarma (retd.)
+Former Director
+
+Indian Statistical Institute,
+New Delhi
+
+Dr. Indrani Roy Chowdhury
+CSRD, School of Social Sciences
+Jawaharlal Nehru University
+New Delhi
+
+Prof. Prem S.Vashistha
+
+Former Director, Agro Economic
+Research Centre, Delhi School of
+Economics, University of Delhi,
+New Delhi
+
+Prof. Subrata Guha,
+
+CESP, School of Social Sciences,
+Jawaharlal Nehru University,
+New Delhi
+
+Dr. Rajeev Malhotra,
+
+Professor & Executive Director,
+OP Jindal Global University,
+Gurugram, Haryana
+
+Prof. Kaustuva Barik
+Indira Gandhi National Open
+University, New Delhi
+
+Prof. B S Prakash
+Indira Gandhi National Open
+University, New Delhi
+
+Sh. Saugato Sen
+
+Associate Professor of Economics,
+Indira Gandhi National Open
+University,
+
+New Delhi
+
+Dr. Vijeta Banwari
+Associate Professor of
+Economics,
+
+Indira Gandhi National
+Open University, New
+Delhi
+
+Dr. Nidhi Tewathia
+Assistant Professor of
+Economics,
+
+Indira Gandhi National
+Open University, New
+Delhi
+
+Prof. Narayan Prasad
+(Convener)
+
+Indira Gandhi National
+Open University,
+
+New Delhi
+
+PROGRAMME COORDINATORS
+
+Prof. Narayan Prasad
+Professor of Economics,
+
+School of Social Sciences, IGNOU, New Delhi
+
+Dr. Vijeta Banwari,
+Associate Professor,
+
+School of Social Sciences, IGNOU, New Delhi
+
+COURSE COORDINATOR
+
+Dr. Nidhi Tewathia
+
+Assistant Professor, Discipline of Economics, SOSS, IGNOU, New Delhi
+
+COURSE EDITORS
+
+FORMAT AND LANGUAGE EDITING
+
+Prof. Manohal Lal (Block 1,2,3,4 & 7)
+
+Shri Saugato Sen (Block 5 & 6)
+
+Dr. Indrani Roy Choudhary (Block 8 & 9)
+
+Dr. Nidhi Tewathia
+
+Assistant Professor, Discipline of Economics,
+
+SOSS, IGNOU, New Delhi
+
+Adaptation of units from course MEC-103
+
+Dr. Nidhi Tewathia (Units- 4,5,6,9,10,11,12,16,17,20,25-31)
+
+PRINT PRODUCTION
+
+SECRETARIAL ASSISTANCE
+
+Mr. Tilak Raj, Assistant Registrar, IGNOU, New Delhi
+
+Sh. Ankur Gupta, SOSS, IGNOU, New Delhi
+
+Graphics/ Cover Design —
+September, 2023
+
+© Indira Gandhi National Open University, 2023
+
+ISBN : 978-93-5568-925-2
+
+All rights reserved. No part of this work may be produced in any form, by mimeograph or any other means, without
+permission in writings from the Indira Gandhi National Open University.
+Further information on the Indira Gandhi National Open University courses may be obtained from the University’s
+
+office at Maidan Garhi, New Delhi -110068 or visit our website: http://www.ignou.ac.in
+
+Printed and published on behalf of the Indira Gandhi National Open University, New Delhi, by Registrar, MPDD.
+Printed at : Dee Kay Printers, 5/37 A, Kirti Nagar Indl. Area, New Delhi - 110 015
+
+2
+COURSE PREPARATION TEAM
+
+Unit Block/Unit Title Unit Writer
+BLOCK 1 | REVIEW OF BASIC MATHEMATICS
+Unit 1 Fundamental Concepts of
+Mathematics Dr. Meenakshi Sridhar, Associate Professor,
+Unit 2 Overview of Basic Methods of Department of Computer Sciences,
+Mathematics Rajdhani College, University of Delhi,
+Delhi
+Unit 3 Relations and Functions
+Unit 4 Co-ordinate Geometry and Prof. Gopinath Pradhan
+Representation of Functions
+BLOCK 2 | LINEAR ALGEBRA
+Unit 5 Matrix Algebra
+Unit 6 Vector Analysis Sunando Basu
+Unit 7 Vectors and Matrices
+Unit 8 Vector and Matrix Representations of | Dr. Meenakshi Sridhar, Associate Professor,
+Linear Equations Department of Computer Sciences, Rajdhani
+College, University of Delhi, Delhi
+BLOCK 3 | CALCULUS
+Unit 9 Limit and Continuity
+Unit 10 Differential Calculus: Functions of
+One Variable Sunando Basu & Prof. Gopinath Pradhan
+Unit 11 Differential Calculus: Functions of
+Several Variables
+Unit 12 Integration: Introduction and Prof. Gopinath Pradhan
+Techniques
+BLOCK 4 | REAL ANALYSIS
+Unit 13 Real Analysis Dr. Meenakshi Sridhar, Associate Professor,
+Unit 14 Calculus of Several Variables Department of Computer Sciences,
+Unit 15 Basic Concepts of Metric Space and Rajdhani College, University of Delhi,
+Point Set Topology Delhi
+BLOCK 5 | EXTREME VALUES AND OPTIMISATION
+Unit 16 Optimisation: An Introduction Sunando Basu
+Unit 17 Unconstrained and Constrained Rittwik Chatterjee
+Optimisation
+Unit 18 Advanced Topics in Optimisation— I | Dr. Ram Prasad Yadav, Assistant Professor,
+Unit 19 Advanced Topics in Optimisation — IT Dep artment of Mathematics, SRM
+University, Sonepat, Haryana
+
+BLOCK 6 | ECONOMIC DYNAMICS
+Unit 20 Difference Equations: Theory and
+Economic Applications Prof. Gopinath Pradhan
+Unit 21 Differential Equations
+BLOCK 7 | DYNAMIC OPTIMISATION
+Unit 22 Intertemporal Optimisation-I
+Unit 23 Intertemporal Optimisation-II Mr. Debasish Dash, Independent Researcher
+——— New Delhi
+Unit 24 Economic Applications of Dynamic
+Optimisation
+BLOCK 8 | PROBABILITY AND PROBABILITY DISTRIBUTIONS
+Unit 25 Probability Theory
+Unit 26 Probability Distributions-I Sisir Debnath
+Unit 27 Probability Distributions-II
+BLOCK 9 | INFERENTIAL STATISTICS
+Unit 28 Sampling Theory Biswadeep Basu
+Unit 29 Sampling Distributions
+Unit 30 Estimation Biswadeep Basu
+(updation by Ms. Nivedita Mullick)
+Unit 31 Hypothesis Testing Biswadeep Basu
+
+COURSE CONTENTS
+
+(Volume 1)
+BLOCK 1 REVIEW OF BASIC MATHEMATICS Page
+Unit 1 Fundamental Concepts of Mathematics 15
+Unit 2 Overview of Basic Methods of Mathematics 43
+Unit 3 Relations and Functions 74
+Unit 4 Co-ordinate Geometry and Representation of 106
+Functions
+BLOCK 2 LINEAR ALGEBRA
+Unit 5 Matrix Algebra 155
+Unit 6 Vector Analysis 187
+Unit 7 Vectors and Matrices 198
+Unit 8 Vector and Matrix Representations of Linear 211
+Equations
+BLOCK 3 CALCULUS
+Unit 9 Limit and Continuity 235
+Unit 10 Differential Calculus: Functions of One Variable 248
+Unit 11 Differential Calculus: Functions of Several Variables 271
+Unit 12 Integration: Introduction and Techniques 286
+
+ignou
+THE PEOPLE'S
+UNIVERSITY
+
+COURSE INTRODUCTION
+
+The importance of quantitative methods in economic analysis cannot be undermined.
+Apart from helping us in quantitative expression of attributes, it allows greater precision
+and accuracy in measurement. We observe an ever-increasing usage of mathematics and
+statistics in all branches of economics. This calls for an extensive and compulsory study
+of quantitative methods in the present academic programme. After going through this
+course a student will be able to:
+
+e use mathematics as a language to represent economic ideas, concepts, phenomena,
+and relationship among variables;
+
+e apply mathematics as a tool to explain various economic phenomena, events and
+situations at local, regional, national and global level;
+
+e acquire basic knowledge of mathematical methods and statistical tools to explain
+economic theory;
+
+e apply optimization techniques to find out optimum level of objective functions
+pursued by economic agents; and
+
+e apply statistical tools for data presentation, data analysis, hypothesis formulation, and
+testing of hypothesis.
+
+The course is divided into nine blocks comprising thirty-one Units.
+
+Block 1, entitled Review of Basic Mathematics, provides an overview of fundamental
+concepts of mathematics. It comprises four Units. Unit 1 deals with the basic concepts of
+set theory while Unit 2 discusses algebraic concepts and expressions such as polynomial
+functions. Unit 3 deals with relations and functions and their types. Representation of
+such functions through coordinate geometry is the subject matter of Unit 4.
+
+Block 2, entitled Linear Algebra, comprises four Units. Unit 5 provides an overview of
+matrix algebra, particularly the concepts of determinants, cofactors and matrix
+operations. Unit 6 deals with vector space and different types of vector operations. Unit 7
+moves into further issues related to vectors and matrices such as characteristic values,
+Eigen values and vector differentiation. Unit 8 deals with linear independence of vectors
+and certain concepts such as R” space.
+
+Block 3, comprising four Units, provides certain introductory ideas on Calculus. Unit 9
+focuses on limit and continuity of a function. Unit 10 introduces the concept of
+differentiation of a function, particularly the one-variable case. In the process it interprets
+the concept and provides several illustrations from economics. Unit 11 continues with
+differentiation of functions in several-variables case. Unit 12 deals with the concept and
+applications of integration in the field of economics.
+
+Block 4, entitled Real Analysis, comprises three Units. Unit 13 introduces the students to
+n-dimensional real space and mathematical logic. Unit 14 extends the ideas discussed in
+the previous Unit further to the several-variables case. Unit 15 discusses basic concepts
+of matrix space and point set topology. This block includes several important topics such
+as extreme value theorem, mean value theorem and Taylor’s theorem.
+
+Block 5, entitled Extreme Values and Optimisation, builds upon the previous two
+blocks. It comprises four Units. Unit 16 deals with the concept of optimization in one-
+variable and several-variables cases. Through several examples, the Unit illustrates how
+maxima and minima of a function can be identified. Unit 17 extends the topic further to
+the constrained-optimisation scenario. Units 18 and 19 carry forward the topic of
+constrained optimisation to an advanced level and deal with several variants of
+constraints that find applications in the field of economics.
+
+The title of Block 6 is Economic Dynamics, and it deals with the time path followed by
+economic variables. Unit 20 deals with the theory and applications of difference
+equations, which treats time as a discrete variable. The solution to first order and second
+order difference equations are presented in the Unit. Unit 21 presents the continuous
+variables case and discusses the theory and applications of differential equations in the
+field of economics.
+
+Block 7, titled Dynamic Optimisation, consists of three Units. Unit 22 introduces the
+students to the issue of intertemporal optimisation, that is, optimisation of variables in
+cases involving several time periods. It deals with the Euler’s equation, its solution and
+applications in economics. Unit 23 continues with the topic of intertemporal optimisation
+and deals with on optimal control problems. Unit 24 focuses on economic applications of
+dynamic optimisation problems.
+
+Block 8, entitled Probability and Probability Distributions, comprises three Units.
+Unit 25 deals with the concept of probability and various theorems on probability. For
+better elucidation the Unit provides a number of examples where various probability laws
+are applied. Unit 26 presents discrete probability distributions such as binomial and
+Poisson. Unit 27, in a similar vein, presents continuous probability distributions such as
+normal distribution.
+
+Block 9, consisting of four Units, focuses on Inferential Statistics. Unit 28 discusses
+issues related to drawing of various types of samples from a population. The concept,
+properties and applications of sampling distribution are presented in Unit 29. In Unit 30
+the issues related to estimation of parameters on the basis of a sample is discussed. The
+concluding unit of the course, Unit 31, deals with the formulation and testing of
+hypothesis and drawing inferences on the basis hypothesis testing.
+MATHEMATICAL SYMBOLS/ NOTATIONS
+
+USED IN THE COURSE
+
+Symbol Symbol Name/Meaning Attached
+[a,b] Closed interval
+(a,b) Open interval
+= Element of
+A Delta/Change in
+dx Differential
+iim F(x) Limit
+ln Natural log
+; :
+{ f(xdx Definite Integral
+V Universal quantifier: :for all”
+4 Existential quantifier: “there exists”
+Ay Existential quantifier: “there exists exactly one”
+AY Existential quantifier: “there exists more than one”
+= Negation; =P “not P”
+A Conjunction: “and”
+Vv Disjunction: “or”
+=> Implication; p > q”if p then q”
+cs Equivalence: “if and only if”
+a,xER Numbers, scalars
+
+d =(,,a),...,a,) ER!
+
+Vector of parameters
+
+X =(X,,%X,--5X,) ER’
+
+Vector of variables
+
+A,X
+
+Sets
+
+A,X Matrices (with dimensions m by) with m rows and n
+columns
+
+x~y Vector x is indifferent with respect to vector y
+
+> Strong preference relation
+
+X~y Vector x is strongly preferred over vector y
+
+> (weak) Preference relation
+
+X>y Vector x is (weakly) preferred over vector y
+
+R Set of real numbers
+
+R, Set of nonnegative real numbers
+
+intR, Set of positive real numbers
+
+R’” =RxRx...xR n— Dimensional space of real numbers, Cartesian
+
+product of set R
+
+Ri ={xeER"| x20} CR"
+
+Nonnegative orthant (subspace) of set R”
+
+intR! CR’
+
+Interior of set R”
+
+f:Xx3Y
+
+Function,
+
+X— Domain of a function (set of arguments of a
+function)
+
+Y —Codomain of a function (set of values of a
+function)
+
+9
+

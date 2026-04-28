@@ -1,0 +1,560 @@
+--- Page 51 ---
+
+Diff tial Calculus:
+x x x x x
+
+Ox Variables
+
+=x"! m(2] -
+x
+
+degree (n — 1).
+
+{2} (2) Thus, & is a homogeneous function of
+x x ax
+
+ew IS
+
+Property3: Let z = f(x,y) be a homogeneous function of degree n. Then we
+have xf + yf = nf (x, y) . This result is known as Euler’s theorem.
+
+Check Your Progress 2
+
+1) Find the total differential of the function y = sin x; + cos x9,
+
+2) The function q=AL’K'“ , A,a> 0 is known as the Cobb-Douglas
+
+production function. q, L and K are the level of output, labour and capital
+respectively.
+
+Prove the following:
+a) | Cobb-Douglas production function is homogeneous of degree one.
+
+b) The marginal and average productivities of the two inputs depend on
+the ratio of the two inputs only.
+
+c) Elasticity of substitution is unity.
+d) —_Iso-quants are downward sloping and convex to the origin.
+
+11.5 LET US SUM UP
+
+This unit provided us with the understanding of the concept of partial derivatives,
+when we deal with functions of several variables. We learnt about the higher
+order derivatives and partial derivatives after gaining an understanding of basic
+partial derivatives. Then we moved on and discussed about total differential and
+total derivative. In the latter half of the unit, we learnt the technique for
+differentiation of multivariate cases, and noted how the concept is applied in
+economics. The rules to be kept in mind while dealing with implicit functions
+were also outlined. Lastly, we have applied the notion of partial differentiation to
+illustrate one important class of functions, namely homogeneous functions and
+
+we also discussed properties of such functions. 283
+
+--- Page 52 ---
+
+Calculus
+
+284
+
+11.6 KEY WORDS
+
+Homogeneous Function
+
+Partial Derivative
+
+Total Derivative
+
+Total Differential
+
+A function which satisfies f (tx, ty) = t"(x, y).
+Partial derivative refers to the derivative of a
+multivariate function when only one of the
+independent variable is allowed to change, other
+variables remaining constant; e.g., the function
+U= f(x, x2),
+
+Through total derivative, we measure the rate of
+change of the dependent variable owing to any
+change in a variable on which it depends, when
+none of the variables is assumed to be constant.
+Rate of change of a variable in terms of another
+variable, without assuming that all other
+variables are held constant.
+
+11.7 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1) Qi=LK’, Qk =L’K.
+2) fe=1= fy, Thus, f= fy=0
+
+f (x, ¥) =y sin x’ +x? cos y. Find fx, fy,
+
+3) fk =2yx cosx” + 3x’ cosy
+
+Ley 32:
+fy = sinx” — x’siny
+
+fx = 2ycosx” _ 4x’ysin x
+
+3
+fyy = -x"cosy
+
++6x cos y
+
+4) By Young's theorem, fyx = fry, hence, fry = fyx = Ae ?Y,
+
+Check Your Progress 2
+
+1) = dy=cos x; dx; - sin x2 dx.
+
+2) Hint: Proceed along the lines for the proof of Property 2.
+
+3) The function g=AL’K'“ , A, a> 0 is known as the Cobb-Douglas
+
+production function. q, L and K are the level of output, labour and capital
+
+respectively.
+
+The equation of the iso-quant is given by g = AL*K'™. Take that gis
+
+fixed level of output for different possible combinations of L and K. The
+
+. d?k : :
+slope is given byia > 0. Thus, the iso-quant is convex.
+
+--- Page 53 ---
+
+11.8 EXERCISES
+
+Q1. Suppose that the cost function for a manufacturer is given by
+C(x) = (10%)x? — .003x? + 5x + 1000
+a) Describe the behaviour of the marginal cost.
+b) Sketch the graph of C(x).
+Ans. a) The first two derivatives of C(x) are given by
+C’(x) = (3-10 °)x” — .006x +5
+C” (x) =(6 10 ®)x — .006.
+The marginal cost function y = (3:10 °)x? — .006x + 5 has its graph as a
+
+parabola that opens upward. Since y = C’’’(x) = .000006(x — 1000), we
+see that the parabola has a horizontal tangent at x = 1000.
+
+So, the minimum value of C’(x) occurs at x = 1000. The corresponding
+y-coordinate is (3 -10°°)(1000)° — .006 -(1000) + 5 = 3 — 6+5=2.
+
+Consequently, at first, the marginal cost decreases. It reaches a minimum
+of 2 at production level 1000 and increases thereafter. Now make the
+graph on your own.
+
+b) Try making the graph with the help of this information. We know that
+C’(x) is never zero, so there are no relative extreme points. Since C’(x) is
+always positive, C(x) is always increasing (as any cost curve should).
+Moreover, since C’(x) decreases for x less than 1000 and increases for x
+greater than 1000, we see that C(x) is concave down for x less than 1000,
+is concave up for x greater than 1000, and has an inflexion point at x =
+1000. Keep in mind that the inflexion point of C(x) occurs at the value of
+x for which marginal cost is a minimum.
+
+Q2. The demand equation for a certain product is p = 6— 1/2x rupees. Find the
+level of production that results in maximum revenue.
+
+Ans. In this case, the revenue function R(x) is
+R(x) = x:‘p =x (6— 1/2 x)
+= 6x — 1/2 x’ rupees.
+
+The marginal revenue is given by R(x)=6 — x. The graph of R(x) is a
+parabola that opens downward. It has a horizontal tangent precisely at those
+x for which R’(x) = 0—that is, for those x at which marginal revenue is 0.
+
+The only such x is x = 6. The corresponding value of revenue is
+R(6) = 6-6 — 1/2 (6)° = 18 rupees
+
+Thus, the rate of production resulting in maximum revenue is x = 6, which
+results in total revenue of 18 rupees.
+
+Differential Calculus:
+Functions of Several
+Variables
+
+285
+
+--- Page 54 ---
+
+286
+
+UNIT 12 DIFFERENTIAL CALCULUS:
+FUNCTIONS OF SEVERAL VARIABLES
+
+Structure
+12.0 Objectives
+12.1 Introduction
+12.2 Indefinite Integrals
+12.2.1 The Integral Sign
+12.3. Properties of Indefinite Integrals
+12.3.1 Integral of a Power of x
+12.3.2 Method of Substitution
+12.4 Integration of Trigonometric Functions
+12.5 Integration by Parts
+12.6 Some Useful Formulae
+12.7 Determination of the Constant of Integration
+12.8 Definite Integrals
+12.8.1 Finding Area
+12.8.2 Definition of Definite Integral
+12.8.3 Properties of Definite Integral
+12.9 Fundamental Theorem of Calculus
+12.9.1 Evaluation of Definite Integrals
+12.10 Integration with Chain Rule
+12.10.1 Integration with Chain Rule and Substitution
+12.11 Improper Integrals
+12.11.1 Convergent and Divergent Integrals
+12.12 Integration with Partial Fractions
+12.13 Let Us Sum Up
+12.14 Key Words
+12.15 Answers/Hints to Check Your Progress Exercises
+
+12.16 Exercises
+
+12.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+e explain integration as a mathematical process for problem solving ;
+
+e perform integration of various types of functions using different integration
+methods: substitution rule, integration by parts, trigonometric substitution,
+partial fractions, rational substitution 0 ; and
+
+e evaluate improper integral sand use the see valuation processes and
+definitions to compute an improper integral if it is convergent or divergent.
+
+--- Page 55 ---
+
+12.1 INTRODUCTION
+
+This unit is devoted to finding and computing integrals. There are two types of
+integrals that we will be looking at in this unit, viz., Indefinite Integrals and
+Definite Integrals. The first half of the unit is devoted to indefinite integrals,
+properties of indefinite integrals, integrals of trigonometric functions. The latter
+half is devoted to definite integrals wherein we will understand about properties
+of definite integrals, fundamental theorem of calculus, integration with chain
+rule, improper integrals, integration with partial fractions. In order to equip you
+with application of these concepts of integration in terms of solving problems,
+some economic applications of definite and indefinite integration are also
+discussed in the unit.
+
+12.2 INDEFINITE INTEGRALS
+
+Indefinite integral is reverse of the concept of derivative. The differential
+calculus is used to derive the rate of change (or, derivative) of a given function
+whereas indefinite integration reverses such a process and finds the unknown
+function whose rate of change (derivative) is given. Thus, differentiation is just
+like finding square root of a number while integration is the process off in ding
+the square.
+
+The integral of function f(x) is written symbolically as ic dx, which is read as
+“the integral of f(x) with respect to x” andf(x)is called the ‘integrand’. We can
+write | f()dx =F00), provided F(x)is the derivative off(x)i.e., f(x) = dF(x)/dx It
+is immediately clear that the functionF(x)is not unique, because if F(x)has the
+derivative f(x), then so has the function F(x)+C where C is any arbitrary
+constant. That is why the value of the indefinite integral is always written by
+adding an arbitrary constant C as | f(x)dx =F(x),+ C and then C is called ‘the
+constant of integration’. As we wish to perform the opposite process to
+
+differentiation, it is called "anti-differentiation" and we will call it "integration".
+Let us look at few basic examples.
+
+Example: If we know that dy/dx=3x’,and need to know the function from which
+this derivative has come from, then we "undo" the differentiation process. It is
+easy to see that y=x'is one anti-derivative of dy/dx=3x’.
+
+Example 12.1 : Find { (x? — 5)dx
+
+As we know from our knowledge of differentiation that
+d (x7/3 — 5x+ C)/ dx = (x? —5)
+
+sO, we can write
+
+[(x? -5)x =x? /3-5x+C
+
+Differential Calculus:
+Functions of Several
+Variables
+
+287
+
+--- Page 56 ---
+
+Calculus
+
+288
+
+In general, if [fed =F(x)+C, f f(x)dx = F(x) +C, then we say F(x) +C is
+
+indefinite integral of | f(x) dx .
+
+12.2.1 The Integral Sign
+
+The sign, viz |, is an elongated “S” which stands for “sum”. The sum-symbol for
+integration is used in view of the fact, which we will see later, that the integral is
+the sum of the areas of infinitesimally thin rectangles. Sometimes we may write a
+capital letter to signify integration. For examples, we write F(x) to mean the
+
+integral of f(x). In that usage we have: F(x) = [feoex.
+
+12.3 PROPERTIES OF THE INDEFINITE
+INTEGRALS
+
+Let us now proceed to the properties of the integrals, most of which are
+derived from the corresponding properties of derivatives.
+
+1) a) Jk f(x)dx = kf(x)dx, where k is any number. So, we can factor
+
+multiplicative constants out of indefinite integrals.
+b) Jx®dx =x"'/(n+1)
+
+Proof: a) Suppose that F(x)is an anti-derivative of F'(x) = f(x). Then by the
+basic properties of derivatives we also get (kF(x))’ =kF’(x) =k f(x).
+
+So kF(x)is an anti-derivative of k f(x); i.e., (kF(x))’ =k f(x).
+Thus, | kf(x)dx=kF(x)dx+C =k] f(x)dx. Similarly,
+
+b) Integral of a power: As d(x"''/(n+1))/dx = x", therefore Jx"dx =
+x™ (n+l).
+
+3
+Example 12.2 : [sx dx = Sfx” dx = {5 + :
+
+Ans.
+
+Example 12.3 : Integrate | x5dx
+
+S+1 6
++C=~+C
+6
+
+Ans. Using the formula obtain: frax =>
+5+]
+
+Example 12.4 : Integrate [ 8x®dx
+
+xotl
+
+Ans. 8
+
+=(8/7)x’ +C
+6+1 (8/7)x
+
+See that 8 is a constant, so it is kept out in the beginning while calculating.
+
+--- Page 57 ---
+
+2) J f(x) + g(x)dx = J f(x) dx+[ g(x) dx Differential Calculus:
+
+Functions of Several
+Variables
+
+Proof: Suppose that F(x)is an anti-derivative of f(x)and that G(x) is an anti-
+derivative of g(x). So, we have that F'(x)=f(x) and G'(x)=9(x). Basic
+properties of derivatives also tell us that
+
+(FOE GOO) = (F(x) = GOD) = F00 = 90) | go FOO + GO) ig an anti-derivative of
+
+F(X) +90) ang FOCO- GOO is an anti-derivative of (0-90) In other words,
+f(x) = g(x) dx = F(x) + G(x) + _ J f(x) dx + J g(x)dx.
+
+Example: 12.5
+
+fax +7x+3)dx = [(4x*yax = fax*yax + Jorxdx + [3ax = a +h? +3x+e
+
+Ans.
+_ 2
+Example 12.6 : Integrate dy =(5x" —4x +3) dx
+
+Ans.: Write [dy = {(5x2 - 4x +3)dx.
+
+In the left side Jeav=|@ay=y . Integration of the constant 1 with respect to
+
+y yields y
+On the right-hand side, we integrate each of the terms, one at a time:
+
+3 2
+[(Sx2 ~ 4x +3)dx =5 7 - 47 +3x+C
+
+So, putting it all together, we have the solution:
+
+y =(5/3x°)/3—2x? +3x+C
+
+Example 12.7: i(x +x -5) dx
+x
+
+Ans. Re-write the exponents to make it easier to integrate. So,
+i(ox +vx Jax
+
+x3
+3/2 2 3/2 2
+[x2 +x!!? sx fax = 3 + ~5X 4.023 42% +55—+C
+3°23 3 2
+2
+
+Remarks: The value of the constant of integration can be uniquely determined
+
+by other constraints, e. g.
+Example 12.8 : A particular curve’s derivative is given by & = 3x? —2x. The
+x
+
+curve passes through the point (2,5). Find the equation of the curve.
+
+Ans: The first step for this problem is to integrate the expression (i.e., find the
+
+anti-derivative). This will give us the expression for
+
+y: J (3x2 —2x)dx = x3 —x2+C
+289
+
+--- Page 58 ---
+
+Calculus
+
+290
+
+So, we have y=x°-x° +C
+
+This represents a family of curves, and depends on the value of C for the
+y-intercept. We must now find the value of C from the information given in the
+question. Since the curve passes through (2, 5), we substitute this value into
+y=x? =x? +C to give: 5=(2) -(2)7 +Cor, 5=8-44+C.
+
+So, C = 1 giving the required curve is y= xx? 41, The graph of the curve is
+presented in Fig. 12.1.
+
+Fig. 12.1: Graph of the curve y = xt]
+Notice the curve passes through the point (2,5).
+
+Example 12.9: Consider the integration [(2x4 -5)®x3dx
+
+An examination of the expression indicates that we cannot integrate it using
+the rules we have learned so far. Finding integrals of products of functions is
+generally tricky. In some cases, the method of substitution, discussed next,
+may be helpful.
+
+n+l
+
+If futau==
+n+l
+
+is some function of X.
+
++C,it is true if n+—1.We need a substitution step, where u(x)
+
+Now let us go back to example 9 to see how to apply this formula.
+
+Integrate (2x* - 5)° x*with respect to x, we use, as a starting point, the
+substitution u = 2x*— 5, because 2x* — 5 is the expression in brackets in the
+question. Differentiating u gives: du = 8x° dx
+
+On dividing both sides by 8, we get 1/8du= xdx.
+
+Rewriting the integration as (2x4 —5)®x3dx = 2 Judy we integrate with
+
+res 1 u? ul
+pect tou we get —x4 4ou4 sc.
+8 56
+
+Substituting back the value of x, you get [(2x* - 5)"/ 56]}+ C
+
+--- Page 59 ---
+
+The method of substitution explains how a product in the integrand may be Differential Calculus:
+Functions of Several
+
+reduced to a single function: derivative of one of the factors in the product may Variables
+subsume the other factor, as derivative of (2x‘- 5) subsumed x’, the other
+factor.
+
+12.3.1 Method of Substitution
+
+If F(x) = [f()dx, then the indefinite integral can be obtained by resorting to
+transformation. If we take x = g(y) then
+[£@ dk = [ flee") dy
+
+See that x = g(y) => dx =g'(y)dy, x = g(y) > dx =g(y)dy where g’(y)
+denotes derivative of g(y) with respect to y.
+
+if 4(y)= [fle(le")Ay, then
+
+F(x) = dg! (.) is the inverse of g(.)].
+
+Example 12.10: Solve F(x)= [(1+5x)!/7 dx
+
+Let y=1+5x
+So, dy = 5dx or dx = 1/5 dy
+
+2 3/2
+23!
+
+Teg 1
+F(x) == dy =—. +e
+(x) sl¥ Y=S5
+
+2
+
+3/2 2 3/2
+=—. +e=—(1+5x +e
+i 15 )
+
+Example 12.11: Solve F(x) = [ane
+x—
+
+Let y =3x- 1
+So, dy = 3dx or dx = 1/3dy
+
+oF =tf% =H 1 to=—! +e
+3+y? 3h ey 3(3x +1)
+
+Example 12.12 : Evaluate | e2% dx, using substitution.
+
+Let u = 2x so du = 2dx and dx = 4 du. Thus, we get 3 fevdu- Integration
+
+ex
+
+. lru ly
+ives us —|e du=—e =—_.
+8 2! 2 2
+
+Example 12.13: Find [2xy(x? +1) dx
+
+Here we let g(x) =x’ + 1. We have J2x/(x2 +1)dx = [ Jg(x) g(x) dx
+
+Now, we let u =x’ + 1 which gives us
+
+du/dx = 2x which in turn gives us
+291
+
+--- Page 60 ---
+
+Calculus du = 2xdx. Therefore, we have
+
+3/2
+[oxelx? +nax =f fu du=™ +C.
+
+3
+
+Check Your Progress 1
+1) What do you understand by indefinite integral?
+
+12.4 INTEGRATION OF TRIGONOMETRIC
+FUCNTIONS
+
+Let us recall the basic trigonometric identities before understanding their
+
+integration.
+
+i) Ratio Trignometric identities:
+tan A = sin A/cos A
+cot A = I/tan A = cos A/sin A
+ii) Reciprocal Trignometric Identities:
+sin A = I/cosec A or cosec A = 1/sin A
+cos A= 1/sec A or sec A= I/cos A
+292 tan A = I/cot A
+

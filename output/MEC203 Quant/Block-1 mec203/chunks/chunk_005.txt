@@ -1,0 +1,522 @@
+Review of Basic
+Mathematics
+
+40
+
+1.8 ANSWERS/HINTS TO CHECK YOUR PROGRESS
+EXERCISES
+
+Check Your Progress 1
+
+1) Each of (1), (41), (vi) being well-defined collection is a set. Of course, (11) is
+empty set, having no element. Also, (vi) has FOUR elements, and no repeated
+element. On the other hand, each of (111) and (iv) is not well-defined, hence
+is NOT a set (Each of ‘most renowned’ or ‘most talented’ is not well-
+defined). (v) is generally not considered as a Set, as repetition of elements in
+
+set notation is not allowed
+2) a) {2, 3,5}, cardinality =3,
+b) {5, —2}, cardinality =2
+3) a)itisaset; {x: xEN, 3 divides x, and 6 <x <27}, cardinality =8
+b) it is a set, {x: x= 2", n EN}, cardinality =infinite (or, 0)
+c) itisaset, {x:x = {l, ...1}, 1€ N, andi < 10}, cardinality = 10.
+Check Your Progress 2
+
+1) i) X=Y,
+li) X#Y,as 15E€Y, and 15 €X
+ill) X#Y,as2EX, but 2 EY
+iv) X=Y.
+2) 1) X CY,as IGNOU has students enrolled in other disciplines also,
+il) XZY and YE C,
+iv) XcY,
+v) X¢ZYas2 €Xand2 ¢Y; Y ¢ Xas {2,3} EY and {2,3} €X
+3) 1) False
+i1) False
+i11) False
+iv) True
+v) True
+vi) False
+
+vil) True.
+Check Your Progress 3
+
+1) 1) it is convex
+
+11) 1t is NOT convex
+2) 8
+3) i) There are 2° = 64
+
+ii) The answer is 62: there are 2° = 64 subsets in U altogether. We exclude
+two: U itself (because it is not proper) and the empty set (because it is not non-
+
+empty).
+4) {d}, {a, d}, {a, b, d}, {a,c, d}, {a, b,c, d}, {b, d}, {b, c, a}, {c, d}.
+
+Check Your Progress 4
+
+1) a)XUY={1, {2,3}, {4,5}, 6, {2, 4}, (5. 6, 7H}:
+b) XN Y= {I};
+c) X-Y = {{2, 33, {4, 53, 6}
+d) Y-X = {{2, 4}, {5. 6, 7}
+
+Check Your Progress 5
+
+1) 1.18725.4625 = 187254625/ 10000 = simplify by dividing numerator and
+denominator each by 25, and then dividing each of the resultant numerator
+and resultant denominator again by their G.C. D. (Greatest Common
+Divisor).
+
+2) 2.31/12 =2. 58333... =2.58 3
+
+1.9 EXERCISES
+
+Q1. Find the power set of the set X= {1, {2,3}}
+Ans. The set X = {1, {2,3}} has 2 elements. Therefore P(X), the power set, has 4
+elements. P(X) = {®, {1}, (12, 33}, th (2.3555.
+
+Q2. State and prove De Morgan’s Laws.
+Ans. The two De Morgan’s Laws about operations on sets, in English, state
+
+e The complement of the union of two sets is the same as the intersection of
+their complements
+
+e The complement of the intersection of two sets is the same as the union of
+their complements
+
+In Mathematical Language
+(Af) B)S=A‘SU BS ...... (i)
+(A U B)S=A‘N) BS... ... (ii)
+
+Fundamental Concepts
+of Mathematics
+
+41
+Review of Basic
+Mathematics
+
+42
+
+Proof of (i) Set equality is proved by taking an arbitrary element of LHS,
+and showing that the element belongs to RHS, and vice-versa.
+
+Let x E(A [1 B),
+By definition of complement
+
+xe U, the universal set, and x €A 1) B, (The symbol © stands for ‘if
+and only if’)
+
+By definition of ‘1’
+
+= x€ U and (x GA or x € B)
+
+(xe U and x GA) or (x€ U and x € B)
+By definition of complement
+
+© (xEA‘) or (xEB‘)
+
+By definition of union of sets
+
+= x EAS U BS=RHS.
+
+Similarly,
+
+Proof of (ii)
+
+Let x E(A UB),
+
+By definition of complement
+
+= x€ U, the universal set, and x €A U B,
+By definition of ‘U’
+
+&x€ U and (x GA and x ¢ B)
+
+© (x€ U and x GA) and (xe U and x € B)
+By definition of complement
+
+=(xEA*‘) and (xEB*)
+
+By definition of intersection of sets
+
+= x EA*f) B= RHS.
+UNIT 2 OVERVIEW OF BASIC METHODS OF
+MATHEMATICS
+
+Structure
+
+2.0 Objectives
+2.1 Introduction
+2.2 Concepts and Methods for Solving Equations
+2.2.1 Symbol, Parameter, Variable and Constant
+2.2.2 Some Algebraic Concepts and Expressions
+2.2.2.1 Expression
+2.2.2.2 Mathematical Expression
+2.2.2.3 Classification of Mathematical Expressions
+2.2.2.4 General Forms
+2.2.2.5 Mathematical Identity
+2.2.2.6 Various Usages of ‘=’ in Mathematics
+2.2.3 Polynomials and Polynomial Equations
+2.2.4 Polynomial Identities
+2.2.5 Algebra of Polynomials
+2.3 Solving Polynomial Equations
+2.3.1 Solving Linear Equation in One Variable
+2.3.2 Single Linear Equation in Two Variables
+2.3.3 System of Two or More Linear Equations in Two or More Variables
+2.3.4 Quadratic Equations
+2.4 Let Us Sum Up
+2.5 Key Words
+2.6 |Answers/Hints to Check Your Progress Exercises
+2.7 Exercises
+
+2.8 Appendix
+
+2.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+e explain the concepts of symbol, parameter, variable and constant;
+e distinguish between, symbol, parameter, variable and constant;
+
+e explain the concepts of mathematical expression/formula/well-formed-
+formula, equation, solution/root of equation, zero of function, polynomial
+identity, polynomials, and polynomial equations;
+
+e use of polynomial identities in solving problems; 43
+Review of Basic
+Mathematics
+
+44
+
+e apply algebraic operations to (1. e. add, subtract, multiply) polynomials; and
+
+e solve linear equations in one variable, single linear equations in two
+variables, system of two or more linear equations in two or more variables,
+quadratic equations.
+
+2.1 INTRODUCTION
+
+In the previous unit, we discussed the two basic concepts of Mathematics, viz.
+number and set. In this unit, we discuss some basic methods for solving some
+types of equations. Mathematical equations involve concepts of variable,
+constant, parameter and solution. In this unit, before discussing the methods, we
+briefly discuss the concepts first.
+
+In the Appendix, we discuss concepts and proof methods for deriving correct
+conclusions. A mathematical proof involves concepts of hypothesis, conclusion,
+rules of inference etc. You can learn how to apply various proof techniques to
+draw valid inferences from some given/ assumed facts.
+
+2.2 CONCEPTS AND METHODS FOR SOLVING
+EQUATIONS
+
+From our earlier encounters with solving equations, we know that x* — 16 = 0 is
+an equation, more precisely a quadratic equation, which involves one variable
+viz., X, and two constants, viz. 16 and 0. The equation has two solutions,
+viz.,X =4andx=~— 4.
+
+Before we discuss the topic in more details, it may be pointed out that equations
+play an important role in economics. Some specific equations, which actually
+state some law/ principle of economics, are quite well-known. For example, the
+Fisher equation expresses the relationship between nominal interest rates and
+real interest rates under inflation. it can be expressed as real interest rate ~
+nominal interest rate — inflation rate, where the symbol ~ denotes
+‘approximately equal to’.
+
+Though, we know intuitively the concepts of constant, variable, equation and
+solution, yet, it is desirable to examine these and other related concepts in some
+detail.
+
+2.2.1 Symbol, Parameter, Variable and Constant
+
+Symbol: More explicitly, each of the concepts viz. constant, variable, and
+parameter is a symbol, where, in general, a symbol is a notation which
+represents, or stands for, something else. For example, the four-letter word lake
+represents some water-body. By ‘something else’, we mean that through trying to
+touch the four-letter word Jake, our finger does not get wet, but through trying to
+touch what is represented by the four-letter word, finger becomes wet. However,
+in case we wish to talk about the four-letter word Jake itself, and not the water-
+body, then the symbol for it is generally written as either of (1) ‘lake’, (11) “lake”,
+and (111) Jake, or some combination of these, e. g. ‘lake’.
+Parameter: In addition to the equations of the type x° — 16 = 0, we also come
+across statements of the form: the equation x* + y’ =, with real number c>0,
+represents a family of circles of radii Vc centered at origin (0, 0). Here the c on
+R. H. S. is neither a constant nor a variable, but is a parameter, a concept
+somewhat a hybrid of constant and variable. By taking a particular constant
+value of c, say 4, we get one member, viz. the circle x’ + y’ = 4 of radius 2.
+Then, we may discuss various questions, e. g. dimensions of a rectangle,
+inscribed in the circle, having maximum area. Again, by taking c= 15, another
+constant, we pass on to another member of the family, viz. x7 + y’ = 15, a circle
+of radius V15. The significance of the concept of parameter lies in the fact that
+many questions like ‘dimensions of a rectangle, inscribed in the circle, having
+maximum area’ need not be discussed for each individual circle, but may be
+discussed for the general member/circle x’ + y’ = c, for arbitrary positive real
+number c. Then the answer for an individual case is obtained easily from the
+answer for the general case. In this sense, a parameter is a sort of generalized
+constant.
+
+Variable is a symbol which can be measured and which may change. Examples
+of a variable from the field of economics include price, interest-rate, wages,
+quantity-bought, and quantity-sold. The quantity associated with a variable at
+some particular point of time is called its value at that particular point of time.
+For example, for the variable /nterest-rate on a particular day, if it is 6%, then
+6% is a value of ‘Interest-rate’. A variable, e. g. ‘Interest-rate’, may assume only
+any of its possible values. For example, (V—8) is not a possible value for the
+variable ‘percentage-of-Interest-rate’; but it may be a possible value for the
+variable x in the equation ax” + b x +c =0. The end letters x, y, z of Latin alphabet
+along with some other letters are commonly used for naming variables.
+
+Constant is a symbol for which possible value is a unique single value. For
+example, each of the symbols 6 in Latin notation, and &, in Devnagari notation,
+
+can assume only a unique value. Generally, the beginning letters a, b, c etc. of
+Latin alphabet along with some other letters are used for naming constants.
+
+2.2.2 Some Algebraic Concepts and Expressions
+
+An equation—for example, ax° + b x +c =dx’+ g, is a mathematical expression
+which involves the relation of equality (‘=’) exactly once, and each of the L.H.S.
+and R.H.S. of ‘=’ is also a mathematical expression which does not involve any
+of the mathematical relations including =, #,<,< and > etc. We will discuss the
+concept of expression in some detail, but before that we discuss some of the
+relevant issues, about which we know intuitively, yet require some formal
+statement.
+
+2.2.2.1 Expression
+
+Language is a means of communication between cohorts (for our purpose, who
+share some common minimum vocabulary and language-structuring rules).
+Grammar of a language is the set of all rules for structuring more complex
+linguistic entities from simpler ones, starting from the basic units, e. g. Latin
+
+Overview of
+Basic Methods
+of Mathematics
+
+45
+Review of Basic
+Mathematics
+
+46
+
+alphabet for English language. Thus, grammar informs us that the sequence
+‘Everest is the highest mountain peak in the world’ of characters of Latin
+alphabet, is correct/ acceptable in English language, but the sequence ‘the world
+in Everest peak highest mountain is the’ is not acceptable. In a language,
+whatever is constructed according to its structuring rules--the totality of which is
+called its syntax/grammar—is an expression in the language.
+
+2.2.2.2 Mathematical Expression
+
+With mathematical expression we mean a sequence of mathematical terms
+(including constants, variables, parameters, relations and operations) formed by
+using the structuring rules of mathematics, for example,
+
+i) Each of constant, variable, parameter, by itself forms a mathematical
+expression. Thus, each of 7, x, c, 14.78 is a mathematical expression.
+
+i1) Each unary operator should be accompanied, at appropriate position, by a
+single operand which may be a constant, variable, parameter, or a
+mathematical expression not containing relational operators. Thus, each of
+the following is a mathematical expression: V(8—y) (involving unary operator
+\V and single operand (8—y)); (x+ yy’ (involving unary operator ()° and single
+operand (x+ y) ), &’* “(involving unary operator e and single operand
+x+2y—4z ), log (3 x+5) (involving unary operator log and single operand
+3x+5), |y + 56|(Involving a unary operator | | and single operand y+56).
+But none of the following is a mathematical expression:(a)—8V, (b) x log,
+(c) “e, and (d)y| |, (as operator is not in the right position in each of these);
+(e) V (8< y), (f) (36x =49)"(as each involves a relational operator).
+
+111) Each of the binary operator should be accompanied, at appropriate positions,
+by two operands, each of which may be a constant, variable, parameter,
+and/or a mathematical expression not containing relational operators. Thus,
+
+each of the following is mathematical expression: (V 867 — e* *)
+
+(involving binary operator minus (—), and two operands V 867 and e**?**).
+Similarly, each of (x+2y—4z), and (V(8-y) x (x+ y)’ + log (x-e’)) is a
+mathematical expression. But none of the following is a mathematical
+expression: V (8< y) x (x+ y)’; ((36x =49)° —8V) (each involves a relational
+operator, and the last also involves 8V, which is not a mathematical
+expression)
+
+iv) Similarly, each binary relation should be accompanied, at appropriate
+positions, by two constants, variables, parameters, and/or mathematical
+expressions not containing relational operators. Thus, (Vv 867 —e*?*”
+(V(8-y) x (xt+ y)’ + log (x-e’)) is a mathematical expression, but(V 867
+=e ?94%) << ((8-y) x (x+ y)>log (x—e”)) is not a mathematical expression,
+
+)<
+
+as the R.H.S of the binary operation ‘<’ is a mathematical expression
+containing a relation, viz. ‘>’.However, sometime we write x < y< z, as a
+shorthand for x < y and y< z, and similarly each of x < y <z, and x > y >z etc.
+is shorthand.
+n
+v) Other Mathematical Expressions: (a) lim, —.. (1 + -) (b) < (c) f(3x+
+2) dx. We will discuss in the units ahead.
+2.2.2.3 Classification of Mathematical Expressions
+
+For our purpose, we may classify the mathematical expressions as(i) arithmetic
+expressions (11) polynomial expressions (111) algebraic expressions (iv)general
+mathematical expressions. Jn this sequence, each preceding expression is special
+
+case of all the succeeding ones.
+
+i) An arithmetic expression is a special case of mathematical expression which
+does not involve any variable, e. g. ((V (— 8 + 489) x (7! + 56)? + log (155-—
+e°)), where e is the Euler’s constant 2.718281828459045...
+
+i1) A polynomial expression is a mathematical expression which may involve
+variables only with nonnegative integer powers. For example, each of (a)((V
+(— 8 + 489) x (7! + 56)’ + log (155 &°)), (b) 7x°— 5x +((N (— 8 + 489) x
+(7! + 56)? + log (155- e°)) and (c) (x+ y)is a polynomial expression, where
+a) does not involve any variable, or equivalently involves, say x°, with
+
+exponent of x being 0,
+b) involves only one variable, and
+c) involves two variables.
+However, none of
+a) V(8-y) (which is equal to (8-y)"”)
+b) log x
+
+pc”
+
+d) limps. (1++).
+
+dy
+ax
+
+f) [(8x + 2) dx
+is a polynomial expression.
+
+ii) An algebraic expression is a mathematical expression which may involve
+variables only with powers of the form p/q, with p and q + 0, being integers.
+Thus, V(8—y) is algebraic expression, though not polynomial expression. Also
+[V(1+ x”) / V(1— x’)] is an algebraic expression.
+
+AS, we saw earlier, these are not polynomial expressions too.
+2.2.2.4 General Forms
+
+Coming back to mathematical equations, which are special forms of
+mathematical expressions, with each involving exactly one equal-to (=) relation,
+and no other relation. From each type of expression, we get that type of equation
+by putting equal to sign between two expressions of that type. For example,
+(x+ y)’ = 3x +y is a polynomial equation, and [V(1+ x’) / \(1— x”)] = 8x —9 is an
+
+Overview of
+Basic Methods
+of Mathematics
+
+47
+Review of Basic
+Mathematics
+
+48
+
+algebraic equation, but not polynomial equation.For our purpose, in addition to
+algebraic equations, mathematical equations also include
+
+1) Equations involving logarithms, Euler’s constant e = 2.718281828459045...,
+trigonometric functions etc.
+
+11) Set-theoretic equations, e. g. (X f) Y)’ =(X’ U Y’), where X and Y are sets.
+This is not merely an equation, but an identity,
+
+i111) Logical equations (to be discussed later)
+
+iv) Derivatives (Differential equations), integrals (Integral equations) (to be
+discussed later).
+
+By our discussion above, general form of equation may be of the form
+[V+ x’) / V(1- x’)] + e log (x’) = Sin (x)
+
+which may be also re-written as
+
+[V(1+ x’) / V(1- x’)] + e*— log (x’) — Sin (x) = 0,
+
+in which the R.H.S is 0. As the above equation involves variable, viz. x, from our
+discussion later, the equation may be written, in the general form, as
+
+where f (x) = [V(1+ x’) / V(I- x*)] + e*— log (x’) — Sin (x), is a function of
+variable, viz. x.
+
+Root/ Solution of an equation: for equation (i) above, a solution/ root is a
+constant value say, a of variable x, such that f(a), which is a constant, is 0.
+
+For example, for the equation
+f (x)= x°- 4= 0,
+
+by taking x= 2, we get f (2) = 2?-4=4-4 =0. Thus, x =2 is a root/ solution of
+the equation f (x)= x” — 4= 0.
+
+In this case, we may also say that 2 is a ZERO of the function f(x) (zero is
+spoken of the function f(x), and NOT of the equation f(x) =0)
+
+2.2.2.5 Mathematical Identity
+
+Consider the following mathematical expressions, involving a single variable X
+i) X’~16=0,and
+
+ii) X°’-16=(X+4)(X-4).
+
+The expression (1) above, is satisfied byonly two values of X, viz. X= 4, and X=
+— 4, But the expression (11) above is satisfied by every real, and even complex,
+number.
+
+Take, for example, X=3, then
+L.H.S. of (ii) = (3) *~ 16 =—7, and
+R.HLS. of (ii) = (3 +4) 3 —4) =—7.
+The expression (i) above is an example of an equation, and the expression (ii) is B tend a
+asic ethods
+
+an example of an identity. of Mathematics
+
+Though, most of the time, the notation ‘=’ is used for both mathematical
+‘equation’, and mathematical ‘identity’, yet, in specific cases, where the
+distinction needs to be emphasized, the notation ‘=’ is used instead. For example,
+the expression (11) above, is expressed as
+
+X?— 16=(X + 4) (X — 4).
+2.2.2.6 Various Usages of ‘=’ in Mathematics
+
+The following are some of the different usages of the symbol ‘=’
+a) In equations: find the value of x satisfying the equation x* + 4x+ 3 =0;
+
+b) In arithmetical laws/ identities: e. g. (a+ b)’ =a’ + b*+2ab, for all real
+numbers a and b;
+
+c) if we need to be more specific, then we use ‘=’, e. g. (a+b) =a’ + b’+2ab;
+
+d) in relations: (1) 3=4+2 return is false, 3 =2+1 return is true, for example, in
+
+In conditional statements: ‘If x=7, then ... ‘;
+
+e) In assignments: Let x= 8. To be more specific, in some programming
+languages like Pascal, the symbol ‘:=’ is used instead, e. g. x:= 8;
+
+f) In definitions: For example,
+i) Area = length x breadth;
+ii) (dy/dx) x=, = lim, o[f(a + h) - (f(a)]/h
+
+To be more specific, the symbol © is used, e. g.
+
+i) Area © length x breadth;
+
+ii) (dy/dx) x=. = limp,so[f(a + h) -(F(a)]/h .
+Check Your Progress 1
+
+1) Which of the following is not a mathematical expression (M. E.)? Justify
+your answer.
+
+(i) Vly +56] (ii) V(8-y) x (iii) log ((8< y) x (x+ y)’) (iv) log (x+ yy’ (v) log
+(xt yy.
+
+eee e err rere esr e reese recesses eeereeseereseereeeeseesrereeesreseeeeeeereeeseeereresreeeeeeresreeeeeeresreseeeeerecs
+eee ee errr rere eer sere eeeeeseereesceseeeeeeeseeeseerereeeeeeeeereerseeeeeeeeresreseeseeereresreseeeeerereeeeeerecs
+eee ere rrr er eres essere eeeeseeeeesreeseeerereeeeseeeereersreseeeeeeeseeeseeererereseeereeeeeeseeeeeeeeeeeeeeres
+eee eer ere ere ececee rere reese rrereeeeeeereseeeeeeeereseseeeeeeereeeseesreesreseseerereerseeerereerereeeecereereece
+wee cere rere eee e eee reese eeerereeeeeeeeeeeseeeeeeeseesreeeeeeeesresreeeeeesesrereeeeeesreseeeeeeeseeeseeee
+
+eer ec rere eer ererc ere rere rere rere resrerereeeresreerererereresre rere seesrereresresesrereeeeresrereeresreereseccecce
+
+49

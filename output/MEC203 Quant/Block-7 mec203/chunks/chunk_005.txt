@@ -1,0 +1,577 @@
+--- Page 41 ---
+Dynamic
+Optimisation
+
+40
+
+23.1.1 Summary of Optimization & Dynamic Optimization so far
+23. 1.1.1 Optimisation Problem
+
+Here, we start our summarization of the topic by recalling that optimization
+problem has three components: an objective function, decision variables, and
+constraints, where
+
+The objective function, often denoted as f or z, reflects a single quantity to be
+either maximized or minimized.
+
+The decision variables ((also called choice variables, often denoted as the
+vector X) are independent variables, and reflect aspects of the problem that we
+(or the decision maker) have control over.
+
+Constraints represent any kind of limitation/bounds on the values that the
+decision variables must satisfy.
+
+The involved concepts are illustrated through the following two examples.
+
+Example 1: A business firm may seek to maximize profit P. In the simplest
+case, profit is the difference between total revenue R and total cost C.,
+respectively depending on market demand for the firm’s product and production
+capacity for output, say Q. Thus, both R and C are functions of Q, and hence so
+is the profit P.
+
+P(Q) =R (Q)—C (Q) see tee eee eee oe (IL)
+This equation constitutes the relevant objective function, with P as the object of
+maximization
+and Q as the (only) choice variable.
+
+The optimization problem then is that of choosing the level of Q that
+maximizes P
+
+It may be noted that the goal is to find the value of Q, for which P is maximized.
+The goal is not to find the maximum value of the choice/independent variable Q.
+
+Example 2: We have 60 feet of fence available, and wish to enclose the largest
+possible rectangular area. What dimensions should be chosen for the fenced-
+off area? For this problem,
+
+The objective is to maximize the rectangular area enclosed by the fence.
+(Objective function, which is to be maximized, is area bounded by the fence)
+
+The decision variables are not directly given in this problem. Rather, you are
+told to enclose a rectangular area, which, of course, is determined by its length
+(L) and its width (W). These are both decision variables which can be
+controlled directly by us.
+
+There is one obvious constraint—the perimeter of the fence cannot exceed 60
+feet—and
+
+--- Page 42 ---
+two less obvious ones: the length and width must be nonnegative.
+
+All of this information is mathematically represented in the following way:
+
+max LxW,
+L,W
+
+such that 2L+2W<60;L>0;W2>0. tee tee tee eee eee (1-2)
+
+23.1.1.2. Dynamic Optimisation problem for continuous choice/independent
+variable. The form the dynamic optimisation problem, takes, is explained
+through the following example
+
+Example 3 Consider a profit-making firm which wishes to maximize its profit
+over a period of time. Let the beginning of time of calculation be t,, and end
+time be tr. The current profit V depends on both current output and rate of change
+of output with respect to time. If x(t) denotes output at time t, then the rate of
+change of output is x’(t), and V(x(t), x’(t), ) denotes the profit functional. Thus,
+the problem may be mathematically modelled/expressed as
+
+MaxJ,/ V (x(),2" (0), £) dt.
+
+Subject tox(t)2>0 = x(to)=xX0 ae cee ee (I-3)
+
+In general, the standard problem of optimisation for continuous variable takes
+the form of optimizing/ maximizing the following functional
+
+T
+
+Vivl=fFlty@.y@ldt ee (L-4)
+
+oO
+Where y=y(t), is time-dependent state-variable.
+
+In the previous unit, we have mentioned that for handling this type of problems,
+there are mainly three dynamic optimization approaches, viz. (i) calculus of
+variations, (ii) optimal control theory, which is modern generalization of
+
+variational calculus and (iii) dynamic programming.
+
+However, before we recall, from the previous unit, our discussion of Calculus of
+Variations and discuss in detail ‘Optimal Control Theory’, the subject matter of
+this unit, we need to discuss, the concept of STATE, which is fundamental/
+indispensable concept of any dynamic system.
+
+23.1.1.3 Concept of STATE in a system & State-space representation
+
+The concept of STATE is quite crucial for understanding the behaviour of a
+Dynamical System, including of any economic system. However, explaining,
+what to talk of defining, the concept is hardly attempted, specially, in view of the
+difficulty involved in doing so. The concept is taken as if it is an undefined term
+like a point, or a straight line in Geometry. We attempt to explain and define
+the concept through the following two examples.
+
+Intertemporal
+Optimisation-II
+
+41
+
+--- Page 43 ---
+Dynamic
+Optimisation
+
+42
+
+Example 4: Suppose distance between Madurai and Delhi is 2000 Kms. During
+each cycle of driving, a motorist covers integral multiples of 100 kms, including
+0 kms. In order to know how much distance remains to reach Madurai after a
+number of cycles, the problem is better modelled by using an internal/system
+variable s for recording the distance covered just before the beginning of the
+current cycle, instead of keeping record of the sequence of (cycle-i, distance-i), i
+= 1, 2, ..., k, where distance-i, which—denotes the distance covered during
+cycle-i—may be 0 kms, 100 kms, 200kms., 300kms, ....
+
+A single value—of the variable s, the distance-covered-so-far, with value, say,
+s3 denoting 300 kms covered so far (in general sj denoting (100i) kms covered
+so far, i= 0, 1, 2, ...)}—-represents various possible combinations of (cycle-i,
+distance-i): (J, 0) + (2, 200) +(3, 100);(1, 100) + (2, 0) +(3, 0) + (4, 100) + (5,
+100);(1, 100) + (2, 400); ... Number of such combinations is potentially infinite.
+
+The variable s, the Distance-covered-so-far indicates the progress made toward
+the goal of reaching Madurai, irrespective of different combinations of (cycle,
+distance-covered;). From this internal variable and the initial information that
+Madurai is 2000 Kms from Delhi, we can calculate the required output: the
+remaining distance. Such an internal variable is called state-variable with
+possible values, in this case, as so, si, ..., 820. Using this state-representation
+of the problem, the following easily follow: next-state (s4, (cycle10, 300)) = s7;
+and distance-remining (sa, (cycle10, 300)) = 2000 — (400 + 300) = 1300 Kms,
+where s4 denotes distance-covered so far is 4 x 00 kms.
+
+The next example, we consider, is about global system of petroleum production
+and consumption. This example will be used in explaining another important
+concept, viz. control variable, which distinguishes the to-be-discussed approach
+of ‘Optimal control’ from the earlier discussed ‘Calculus of Variations’
+
+approach.
+
+Example 5: The petroleum production process involves a number of stages
+including exploration, drilling, extraction, processing, storing, transportation,
+refining and distribution, all before consumption of the product starts.
+
+Each stage involves a number of variables, for example, for keeping record of
+the extraction process/ stage, the two variables amount-of-oil-drilled-out and
+amount-of-oil-extracted may be required. Thus, there may be a large number of
+internal variables involved in the complete process from exploration to
+distribution. However, if the purpose is to study the consumption pattern of
+petroleum products over a period of time, only two variables as  state-
+variables—viz. sum-amount-of oil-inflow-at-distribution-centre-i_ and sum-
+amount-of-oil-outflow-at-distribution-centre-i_ are required, and—would be
+sufficient.
+
+--- Page 44 ---
+Explanation & attempted definition of STATE: A state of a system may be
+considered as a sort of indicator/measure of the progress in the direction of the
+goal/ solution, irrespective of the moves made so far for solving the problem.
+
+In general, SV, the state-variable, of a system may consist of more than one
+internal variable, where an internal variable is a variable which neither appears in
+the input, nor in the output. Thus, in general, the state-variable is a state-vector
+by «+45 Diy +++) Yn), With yi’s as internal variables. Particular value of state-vector
+is called (just) state at some particular juncture.
+
+Formally, SV, the state-vector is a subset (y1, ..., Yi +++) Yn) of (possibly very
+large set) IV of internal variables, such that
+
+i) SV is a minimal independent subset of IV, i. e. if an internal variable z = 3
+yi + 4y2, then z is not included in SV
+
+ii) the output: SV x JP DOP is well-defined, i. e. is a function: for each s;
+ESV, and j € IP, output (s;, j) € OP, is unique,
+
+iii) the Next-state: SV x JP DSV is well-defined, i. e. is a function: for each
+si€SV, and j € IP, the next-state (s;, j) = sk is unique. We may note that the
+Next-state function is required to know the outputs corresponding to the
+
+later inputs.
+
+iv) The state of a dynamical system remains unchanged, unless some input
+is made from the environment, external to the system. In detail, though
+the internal variables may be affecting each other, and the values of some
+of the internal variables may be changing without external inputs, but the
+values of those internal variables which constitute the state, remain
+unchanged between two consecutive inputs.
+
+In essence, STATE variable may be considered as a sort of implicit, dynamically
+changing function from the set of choice-variables to the output, which is
+
+i) Dynamically changing, in the sense, that each given input not only returns
+the output, but also changes the relation between (state for) the next input
+
+and next output, and
+
+ii) Implicit, in the sense, that it is not stated in the form output = f(input), for
+
+some f.
+
+State Space Representation: (courtesy Wikipedia): In a dynamic system,
+including economic systems, a state-space representation is a mathematical
+model of a physical system specified as a set of input, output and variables,
+generally related by first-order (not involving second derivatives) differential
+equations or difference equations. As explained above, such variables, called
+state variables, evolve over time in a way that depends on the values they have at
+any given instant and on the externally imposed values of input variables. Output
+
+variables’ values depend on the values of the state variables.
+
+Intertemporal
+Optimisation-II
+
+43
+
+--- Page 45 ---
+Dynamic
+Optimisation
+
+44
+
+23.1.3 Calculus of variations: Summary
+
+The standard problem of optimisation for continuous variable, mentioned
+earlier, as of optimizing/ maximizing the following functional
+
+Viy] =fFIt y(t), y@lat cee bee ee (I-4)
+
+where y = y(t), is time-dependent state-variable,
+takes the following form, in the case of ‘Calculus of Variations’:
+
+Optimise/ maximize the following functional
+T
+Vivl=[Fity@.y(@ldt (1-5)
+0
+
+Subject to the conditions that
+
+Initial state y (0) (say =A), the terminal time T, and
+
+the final state y(T) (= say Z) are given.
+
+In the above, y(t) is the state at time t, and y’(#) is the rate of change in state-
+variable at time t.
+
+The solution of (I-5) is given by the following Euler-Lagrange equations
+
+d
+K= at F,=0  forallte[Q.T] se ee (1-6)
+And, more explicitly by the equation
+
+Ry y+ Ryy(Q+Fy-R=0 ee eee (I-7)
+
+23.1.4 Optimal control theory: Summary
+
+We start our discussion of ‘optimal control theory’ with mentioning the fact that
+the essential difference between ‘Calculus of Variations’ and ‘Optimal control
+Theory’ is the additional use of ‘control variable’ in the latter.
+
+Combined with Example 5 above, in this context, let us recall the recent
+news (dated: June 04, 2023): OPEC+ member countries consider more
+
+production cuts as oil prices slump.
+
+The above is the case of use of control variable: Despite the availability of
+technology and capacity for production, the oil will not be produced according
+to maximum capacity because of the above decision which stipulates the upper
+limit on the production over a period of time.
+
+A control variable is external to the production-consumption system.
+
+With this, we outline the Standard/ simplest Optimal Control Problem and its
+Theory
+
+--- Page 46 ---
+T
+Maximize or minimize V[u]= J F[t, y(t), u(t)] dt
+0
+
+Subject to the conditions that
+
+yO®=ft yO, ud),
+
+initial state y (0) (say =A), the terminal time T,and is. ws (1-8)
+the final state y(T) (= say Z) are given.
+
+The equation y’(t) = f (t, y(t), u(t), derivative of y with respect to ¢ is called
+State Equation as well as Equation of Motion.
+
+Though (I-8) appears to be quite similar to (I-5), yet there are subtle and
+significant differences in the optimization problems corresponding to
+respectively ‘Optimal Control Theory’ and ‘Calculus of Variations’, as discussed
+below
+
+i) y’(t) = the rate of change of the state in (I-5) was a function of t and y(t)
+only. But in ‘Optimal Control Theory’, y’(t) = f (t, y(t), u(t), i. e. it is also
+controlled by the (external) control variable. This is a significant
+change.
+
+ii) The functional to be optimized in ‘Calculus of Variations’ (i. e., in (I-5)), is
+Vy), i. e. it is treated mainly as a function of y, the internal state. But the
+functional to be optimized in ‘Optimal Control Theory’ (i. e., in (I-8)), is
+V(u), i. e. it is treated mainly as a function of u, the external control
+variable. In other words, the emphasis in the problem definition has shifted
+from the internal state y to u, the external control variable.
+
+23.1.4.1 Slight Modification in notation
+
+In order to keep uniformity of notation used in the rest of this unit, the following
+changes to the above notations have been made:
+
+i) The objective function, for which we used V(u), henceforth, we will be
+using J(u)
+
+ii) The state variable for which we used y(), henceforth, we will be using x(t)
+iii) The derivative with respect to t will be denoted as x, instead of x’ ete.
+
+iv) The initial time is taken as t= to instead of t=0.And the final time will be
+taken as tr instead of T.
+
+In view of the above notational changes, Standard/ simplest Optimal control
+problem represented by (I-8), now becomes
+
+J(u) > max,
+uC.)
+
+X(t) =f(t,x(), u(t),
+
+x(to) denotes initial state, and x(tr) denotes final state.
+
+Intertemporal
+Optimisation-II
+
+45
+
+--- Page 47 ---
+Dynamic
+Optimisation
+
+46
+
+23.2 FIRST ORDER NECESSARY CONDITION:
+EULER LAGRANGE EQUATION
+
+Consider a dynamic system described by the following system of differential
+equations.
+dx(t)
+
+x(t) = = f (x(t)u(t), t)dt ... (23.1)
+
+dt
+
+with initial condition x(¢,) = x(0) =x°
+where x(t) =[x,(9,x,()...x,0[
+
+u(t) = [ug(t),ug(t)....um (t)]
+
+x(t) andu(t) are respectively referred to as state and control variables.
+
+f= [fy f cee fh J'is assumed to be continuously differentiable with respect to all
+its arguments and xis given vector in P"
+
+We have assumed that the given process starts at t = 0 and ends at the fixed
+terminal time tz > 0. Any piecewise continuous function u from [tg,t]into P m
+may be taken as an admissible control.
+
+We now consider an optimal control problem where a control U € Uis be chosen
+
+such that the cost functional/objective functional/performance index.
+t
+Ju) = S(x(t).t) ht, + J VOx(t),u(t), at (23.2)
+to
+is minimized.
+Note here that J(.)is a scalar quantity, S(x(t),t) |t-t, is terminal cost and a
+continuous function.
+
+We assume S(.) and V(.) are continuously differentiable with respect to their
+respective arguments.
+
+Note that the cost functional can be regarded as depending on u only as x is
+implicitly determined by u. from (23.1).
+
+Our objective is 2» | System |— > to find u(t) such that objective
+
+functional is optimised. In other words, we have a continuous dynamic
+optimisation problem at hand with equality constraint.
+
+The popular name of such problem is called “Bolza problem”.
+
+The terminal cost is in quadratic form and must be positive quantity. The
+constraint is also called dynamic equation of system.
+
+‘Tds(x(t)st)) | ay tt
+Now A [Seg a = (Set). nha
+
+--- Page 48 ---
+~ SGU st) Sle) te) lmertemporal
+
+= 514, .1/)= [| $60 lar set. f) ... (23.3)
+Using equation (23.3) in “ we get
+J(.) = | v(x(t),u(t),t) dt+ [9900.0 + S(x(to), to) «+» (23.4)
+0 to
+Because S(x(tg), tg) is fixed Quantity, minimization of 1‘ two integral in above
+
+equation give minimal value of functional J(.).
+
+Therefore optimisation ora (23.4) is equivalent to that of
+
+t
+JE) = | vox(t),u(t), dt + | [ ASCx(»E) gp 235)
+
+to tp at
+We know that if there is function
+F(x(t), y(t),Z(t)
+then of _ Of &x rece ae Of oz
+
+at ax’ at vay’ at ez" at
+= A ty + a y(t)+ ty
+ox oy oz
+
+Hence our problem is to optimise J(.) which becomes
+J.) = i v(x(t),u(t),t)dt+ J i x(t) += © Jat .-. (23.6)
+Subject to x’(t) = f(x(t),u(t),t) .- (23.7)
+
+We need to find u' (t) converting equation (23.6) and (23.7) into unconstrained
+
+optimisation problem using lagrange multiplier our modified objective
+functional becomes
+
+_fy 6s(x(t),t) 44) , 28(x(t),t)
+JQ)= {Wow .ut.tats ox(t) x (t+ dt
++ A(t)[f(x(t), u(t), t) — x’(t)]dt ... (23.8)
+
+What we have done is that instead of x(t) as a vector and u(t) as vector we have
+taken them as scalar for sake of simplicity. Later it will be generalized to a
+multivariate case.
+Moreover, we have added A(t)[f(x(t),u(t),t)— x’(t)] dt to objective functional
+because x’(t) = f(x(t),u(t),t),so no change in value of functional.
+A(t)is Lagrange multiplier this can be interpreted as marginal valuation of the
+associated state variable at time t.
+47
+
+--- Page 49 ---
+Dynamic
+Optimisation
+
+48
+
+Equation 23.8 can be written as
+tr
+JAb(,ult),2(t), at
+
+to
+
+Where Lagrangian function A(x(t),u(t),A(t),t) is equal to
+v(x(t), u(t), t) + A(t)F(x(t), u(t), t)
+6s(x(t),t)
+
+6s(x(t),t) -, ,
++ ox(t) x(t) + ae A(t)x'(t)
+
+We further write Hamiltonian function
+
+H(x(t), u(t), A(t), t) = V(x(t), u(t), t) + A(t)F(x(t), u(t), t) +. (23.9)
+Hamiltonian function is named after 19" century Irish mathematician W.R.
+Hamilton
+
+Therefore, our Lagrangian function becomes
+
+A(x(t),u(t), A(t), t)
+
+6s(x(t),t)
+x(t)
+
+as(x(t).t)
+
+= H(x(t),u(t),A(t),t) + be + SME). (23.10)
+
+The question arises, what is the value of perturbed condition. Perturbed
+condition means the sequence J(.) is defined when x™* is perturbed by
+
+x*(t)+8(x(t))and u(t) is perturbed by u*(t)+Su(t). Our job is to look for
+optimal trajectory of u * (t)which, in turn, will optimise our functional.
+
+Let that perturbed objective function be Ja(-)
+
+Hence, we can write
+
+teat
+Ja(= [ Ap()at w (23.11)
+
+to
+Where A,(.) is Lagrangian function of perturbed state. This is achieved by
+replacing u(t) =u" (t) + du, and x(t) = x'(t) + &x(t) in equation (23.10)
+
+ty ty +dty
+= Jal.) = [Ap(dat + j Ap(.) at
+to ty
+
+Consider the figure in this page
+
+Ap(.)is a scalar
+
+If we consider
+te +8t,
+j Ap(.)dt =area under the curve AE, which is nearly equal to area ABDC.
+t
+tptdty
+Hence J A,,()dtapproximately equals to A(,) |t=t, -Sty,a8 dt, is very small.
+
+1
+f
+
+--- Page 50 ---
+Intertemporal
+Optimisation-II
+
+Lo)
+
+iC D
+t Tt Ot
+
+>
+
+Fig. 23.1: Trajectory of Largrange Functional
+
+Therefore, variation to functional AJg = Ja(.)—J(.)
+
+ty+8ty ty
+=> Ma = j Ap(.)dt— Jacoat
+to to
+tr tr
+= [Apa + ACI, dtr - Javat
+to to
+ty
+= fIAp()- AQ at + AQ) leat, Bt
+to
+
+= [a,c + Ox(t),u * (1) + du(t), A(1),1)
+
+— A(x’ (t),u* (t),A(t), t)]dt
++ ACC (t),U* (LACE). t) It, Bt (23.12)
+
+Using Taylor series expansion and integration by parts we can get 1“ variation of
+functional (pleas ref to unit -22 for proof of theorem in calculus of variations)
+
+For necessary condition after simplification
+
+Oy =1* variation of functional
+
+t By BY
+-| [ae-3( 20) 8x(t).dt
+x Loxtt) at&t).
+* means at optimal path
+
+t
+Ont) aA()
+“a) aunts AO) oxi, + AG)
+
+tat, Str ... (23.13)
+
+49
+

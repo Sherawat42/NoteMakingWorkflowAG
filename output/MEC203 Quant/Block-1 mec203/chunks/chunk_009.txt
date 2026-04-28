@@ -1,0 +1,529 @@
+Review of Basic
+Mathematics
+
+80
+
+Fig. 3.3 explains how to obtain matrix representation of a relation, say,
+
+R= {(1, a), C1, b), C1, c), (2, b), (2, c), (2, d)} from the set X= {1, 2, 3, 4} to the
+set Y = {a, b, c, d}
+
+a bcd
+f sy
+1 1 1 $1 #0
+2/0 1 #1 =4
+< >
+3/0 0 0 QO
+4\0 0 0 O07
+
+Fig. 3.3: Matrix Representation of a Relation
+
+For representing a relation R on a set X, 1. e. when domain of R = codomain of
+
+R, a directed graph may also
+
+be used. For example, the relation R = {(1, 1), (1, 2), (2, 2), (3, 1), (3, 3)} on the
+set X= {1, 2, 3}, may be
+
+represented by the following directed graph (Fig. 3.4).
+
+|
+
+Fig 3.4: Directed Graph Representing a Relation R on a Set X
+
+Let us recall the difference between a relation and an operation (covered in Unit
+1). A relation returns a value TRUE or FALSE. For example: 3< 5 returns
+TRUE; 7< 5 returns FALSE. On the other hand, an operation gives something
+new, in the following cases new numbers: 8+15 gives new number 23; and
+(+V16) gives a new number 4. In the next subsection, we discuss relations on (set
+of) relations (rather, we will discuss mainly properties (1. e. unary relations) of
+relations. In the subsequent subsection, we discuss operations on (set of)
+
+relations.
+
+3.2.2 Properties of Relations
+
+We will discuss properties of only for those relations R for which the domain and
+range is the same set, say X, 1.e., the relations on a set, say X. Unless mentioned
+otherwise, all relations are on the set X (fixed for all the relations under
+consideration). The discussion revolves around three important properties of
+relations on a set, viz. (i) reflexive, (ii) symmetric, and (iii) transitive. Other
+relations to be discussed are directly or indirectly modifications of these
+properties.
+1) Reflexive, Not-Reflexive, Anti-Reflexive/Irreflexive
+
+a) A relation R on set X is said to be reflexive, if for every a € X, then (a, a)
+
+ER. For example, each of the following is a reflexive relation
+i) the relation of equality (=) on N = {1, 2, 3, ...}
+11) the relation of is-sibling-of on the set of all human beings
+i) The universal relation on X, is reflexive.
+
+b) by definition under (a) above, R is not reflexive on X, if for at least one a €
+X, we have (a, a) € R. For example,
+i) Let X= N = (1, 2, 3, ...}. Define (a, b) E R, if and only if the product
+(a x b) is an even number. Then 1x1 =1 is not even, therefore (1, 1) € R.
+Therefore, R is not reflexive on N. Note that there are other elements like
+3, for which (3, 3) € R, but we need not discuss other cases, just one
+example of (1, 1) € R is sufficient to establish R as not reflexive.
+
+i1) The relation is-brother-of on the set of all human beings is not reflexive,
+because for a female,
+
+say Sheela, (Sheela, Sheela) € is-brother-of.
+
+Note: We may formally define is-brother-of (x, y) = is-male (x) and is-
+sibling-of (x, y).
+ili)The empty relation on a set X # @is not reflexive, because for a €.X, then
+
+(a, a) €M (because @ has no element).
+
+iv) We may construct our own simple counter-examples., e. g. Let X = {1, 2,
+3}, and R= {(1, 1), C1, 2), (1,3), (3,3)}. Then as (2, 2) € R, R is not
+reflexive.
+
+c) Anti-reflexive/ irreflexive: A relation R on set X is said to be anti-reflexive (or
+irreflexive), if for every a € X, we have (a, a) €R. For example, the relation
+
+1) is-less-than (<) on numbers 1s anti-reflexive, as x < x is false for every
+number x, 1. e. (x, x) € 1s-less-than
+
+11) is-mother-of on the set of human beings 1s anti-reflexive, for every
+human x, (x, x) € is-mother-of
+
+i) R= {(Q, 3), (3,1), (2, 1)} on the set {1, 2, 3} is anti-reflexive.
+Remarks:
+a) Difference between not-reflexive and anti-reflexive
+
+For a relation R to be not-reflexive, we require for some a € X, (a, a) fails to
+be in R. For a relation R to be anti-reflexive, we require for every a € X,
+(a, a) fails to be in R.
+
+b) Every anti-reflexive relation is a not-reflexive relation, but a not-reflexive
+
+relation may not be anti-reflexive.
+
+Relations and
+Functions
+
+81
+Review of Basic If R is anti-reflexive on set X, then, by definition, for every a EX, (a, a) ER
+
+Mathematics . . . . ; ;
+implies for at least one a, (a, a) €R implies R is not reflexive.
+
+Examples:
+
+1) R= {(2, 2), (3,3), (2, 1)} on the set {1, 2, 3} is a not-reflexive relation as (1, 1)
+€ R. But it is not anti-reflexive, as (2, 2) ER.
+
+i1) the relation is-brother-of on the set of all human beings is not reflexive,
+because, if x is a female human being, then (x, x) ¢is-brother-of. But the
+relation is not anti-reflexive also as for each male x, we have (x, x) €is-
+
+brother-of, contradicting the requirement of anti-reflexivity.
+c) Just by changing the underlying set of a relation, its property may change.
+For example,
+i) For the relation is-brother-of, if
+a) Underlying set X= set of all males, then the relation is reflexive
+b) Underlying set X= set of all females, then the relation 1s anti-reflexive
+
+i1) For the relation R on integers, such that R (x, y) if and only the product x x
+
+y is even, then if
+a) Underlying set X= set of all even integers, then the relation is reflexive
+
+b) Underlying set X= set of all integers, then the relation is not reflexive,
+
+and also not anti-reflexive
+c) Underlying set X= set of all odd integers, then the relation is anti-
+reflexive
+
+Check Your Progress 1
+
+1) Let R be a relation from X= {1, 2, 3, 4}, to Y = {1, 2, 3, 4}, with
+R= (C1, 2), 2, 1), 2, 3), GD, GB, 2), 3B, 4), (4 3)5
+1) Give Graphic representation of R
+
+i1) Give Matrix representation of R
+
+eee er crc rere ere resreerecre rere reereeeresrereresrereresreeecsreseeseereeereeresre reser eeeresrereresre rere reser eeereoeces
+
+2) For each of the following relations, tell whether it is reflexive, not-reflexive or
+
+anti-reflexive
+
+i) The relation of is-congruent-to on the set X of all triangles
+ii) the relation less-than-or-equal-to (<) on numbers
+11) The relation less-than (<) on N
+
+82 i ary
+2) Symmetric, Not-Symmetric, Anti-Symmetric, Asymmetric Ketitons and
+
+a) A relation R on a set X is symmetric for a, b € X, if (a, b) ER, then ((b, a) ER.
+Examples: Each of the following is a symmetric relation
+
+i) the relation of equality (=) on N= {1, 2,3, ...}.
+
+11) The relation of is-congruent-to on the set X of all triangles
+
+i11) the relation of is-sibling-of on the set of all human beings.
+
+But the relation less-than-or-equal-to (<) is NOT symmetric, though < is
+reflexive on numbers.
+
+b) By definition (a) above, a relation R on a set X is not symmetric if there is
+some pair a, b € X, with (a, b) ER, but (b, a) GR. For showing not-symmetric,
+we need to show just one instance violating condition of symmetry.
+
+Examples:
+
+i) The relation R of less-than-or-equal-to (<) on integers is NOT symmetric,
+as (3, 4) ER, but (4, JER
+
+i1) Relation R of is-mother-of on the set of all human beings is not symmetric
+
+iii) Relation R= {(1, 1), (2, 2), (3, 3), (1,2)} on the set {1, 2, 3} is NOT
+symmetric, as (1,2)€ R, but (2, 1) €R. We may note that R is reflexive
+relation
+
+a) Antisymmetric: a relation R on a set X is anti-symmetric, if we have (a, b)
+E R, and (b, a) € R—for two elements a, b € X—then we must have a= b.
+
+Examples:
+i) The relation of is-less-than-or-equal-to on integers is antisymmetric
+i1) On the set X = {1, 2, 3}:
+a) Each of the relations {(1, 1)}, and {(1, 1), (2, 2)} is both
+symmetric and antisymmetric.
+b) The relation {(1, 2), (1, 3)} is antisymmetric, but not symmetric.
+Remarks
+
+a) Difference between not-symmetric and anti-symmetric: For a relation R to be
+not-symmetric, we require for some pair a, b € X, if (a, b) € R, then (b, a)
+fails to be in R. For a relation R to be anti-symmetric, we require for every
+pair a, b € X, if (a, b) € R, and a ¥#b then (b, a) fails to be in R.
+
+b) Every anti-symmetric relation R is a not-symmetric relation, but a not-
+symmetric relation need not be anti-symmetric. If R is anti-symmetric on set
+X, then, by definition, for every pair a, b € X, anda#b, if (a, b)ER, then (b,
+a) fails to be in R. It implies for at least one pair a, b € X, anda #b, if (a,
+
+b)ER, then (b, a) fails to be in R, which implies R is a not-symmetric 93
+vow ot paste relation. For the converse, only an example is required: The relation
+athematics
+R= {(a, b), (a, c), (c, a)}is not-symmetric as (a, b) € R, but (b, a) fails to be in
+
+R. However, R is not anti-symmetric as (a, c) € R, and also (c, a) E R.
+Check Your Progress 2
+1) For each of the following relations, tell whether it is symmetric, not-
+symmetric, anti-symmetric
+1) The relation of is-congruent-to on the set X of all triangles
+11) the relation less-than-or-equal-to (<) on numbers
+
+iii) The relation is-brother-of, if underlying set X= set of all male human
+beings.
+
+eee eerr reer errr ere rere rereerer eee ereeresrere rere re reser eeeereereereere rere eresreresresreereerererere reese eeeos
+
+3) Transitive, Not-Transitive, Anti-Transitive
+
+a) A relation R on a set X is transitive if whenever (a, b) ER and also (b, c)
+€R—for elements a, b, c € X—then (a, c) ER.
+
+b) From (a) above, a relation R on a set X is not transitive if—for some a, b, c
+€ X—whenever (a, b) ER and also (b, c) ER then (a, c) fails to be in R.
+
+Examples
+1) Each of the relations =, < and < 1s transitive on set of numbers.
+11) The relation is-congruent-with on the set of all triangles is transitive.
+
+111) The relation is-mother-of is not transitive on the set of all human beings
+(because, if a is mother of b, and b is mother of c, then a is grand-mother of
+c, and a is not mother of c.)
+
+iv) The relation is-brother-of is transitive on the set of all human beings.
+For (v) & (vi), on the set X = {1, 2, 3},
+v) Each of the relations Ri= {(1, 2), (3, 3), (2, 3), (1, 3)}, and Ro= {(1, 1),
+
+(3, 3)} is transitive,
+vi) The relation R3= {(1, 2), (3, 3), (2, 3), (2, 2), (2, 1)}is not transitive,
+because, for (1, 2) ER and (2, 3) € R, (1, 3) € R. The proof is completed.
+
+However, the claim could also be established in another way as follows:
+(1,2) ER, (2, 1) ER, but (1, 1) ER.
+
+c) A relation R on a set X is anti-transitive if—for each triple a, b, c € X—
+whenever (a, b) ER and also (b, c) ER then (a, c) fails to be in R.
+
+84
+Examples of anti-transitive:
+
+i) Inthe plane geometry, the relation—in the set of all straight lines—of being
+perpendicular (1) is anti-transitive: because, if for any three straight lines a,
+b, and c, with a L b, and b Lc, then a Ive (a is not perpendicular to c)
+
+i1) By the same argument discussed earlier, the relation of is-mother-of on the
+set of human beings is anti-transitive.
+
+iii) On the set X = {1, 2, 3}, the relation R= {(1, 2), (2,3), (3, 1)} is anti-
+transitive, because, only pairs of the form (a, b) and (b, c) are
+
+a) (1, 2), (2,3), for which (1, 3) fails to be in R
+
+b) (2,3), (3, 1), for which (2, 1) fails to be in R
+
+c) (3, 1), C1, 2), for which (3, 2) fails to be in R.
+Remarks:
+
+a) Difference between not-transitive and anti-transitive: For a relation R to
+be not-transitive, we require for some triple a, b, c € X—if (a, b) ER and
+also, (b, c) ER then (a, c) fails to be in R. For a relation R to be anti-
+transitive, we require for every triple a, b, c € X—if (a, b) ER and also (b,
+c) ER then (a, c) fails to be in R.
+
+b) Every anti-transitive relation is a not-transitive relation, but the converse
+may not be true. From (a) above, if R is anti-transitive, then for every
+triple a, b, c € X—if (a, b) ER and also (b, c) ER then (a, c) fails to be in
+R. Hence, for relation R, for at least one triple a, b, c € X—if (a, b) ER
+and also (b, c) ER then (a, c) fails to be in R. And hence R is not-
+transitive. For the opposite direction, just one example is sufficient.
+Example: (1) R= {(1, 2), (2, 3), (1, 3), (3, 2))} on the set {1, 2, 3} 1s a not-
+transitive relation as (2, 3)ER , (3,2)ER, but (2, 2)€ R. But it is not anti-
+transitive, as (1, 2)ER, (2, 3)ER, and also (1, 3)ER.
+
+4) A Simple Method of Generating Examples and Counter-Examples
+
+Start with a small set say, X= fa, b, c}, and for the required relation R, take pairs,
+one by one, of elements of X, which satisfy, or violate the conditions as required
+for the relation R. For example, if R is required to be (1) reflexive & (il)
+transitive, but not symmetric. Take pairs which make the relation reflexive, by
+including in R the pairs (a, a), (b, b) and (c, c). So far, the relation R is transitive
+and symmetric. But we require R to be not symmetric. Include, say, only (a, b),
+but not (b, a), so that
+
+{(a, a), (b, b), (c, c), (a, b)} GR.
+As L. H. S. satisfies the required conditions, the process may be terminated.
+
+Care must be taken that while satisfying one condition, some earlier satisfied
+condition may be violated. Then the process needs to be continued. For example,
+
+Relations and
+Functions
+
+85
+Review of Basic
+Mathematics
+
+86
+
+we wish to have a relation which is reflexive, but not symmetric and not
+transitive. Then we may continue from {(a, a), (b, b), (c, c), (a, b)} © R, and add a
+pair so that transitivity is disturbed, e. g.
+
+{(a, a), (b, b), (c, c), (a, b), (b, c)} ER, which satisfies the required conditions. If
+R is required not to be reflexive, exclude, say (a, a) from R. And so on.
+
+Various combinations of the above-mentioned properties lead to some
+mathematically interesting and practically useful properties of relations. These
+interesting and useful combinations of properties include
+
+1) Equivalence of relations, and
+i1) Partial ordering of relations.
+
+These two form the subject matter of next two subsections.
+Check Your Progress 3
+
+1) For each of the following relations, tell whether it is transitive, not-transitive,
+anti-transitive.
+
+i) In the plane geometry, the relation R—in the set of all straight lines—is
+defined as R (a, b), for straight lines a and b, if and only angle between a
+and b is 30 degrees.
+
+ii) The relation less-than-or-equal-to (<) on numbers
+
+iii) The relation is-brother-of, if underlying set X= set of all human beings
+
+weer ere rere eer eesre rere ere rere rere reese eeeresreeresrerereresreereeeeeresreresreeresereeresreeseeeeeseeeeeeecce
+a
+
+ee rere rere rec erer eer eee resrere rere sre reece eerereeereresresresrere rere resrereresrereeeresresreereerceseesresresreecos
+
+3.2.3 Equivalence Relations, Equivalence Classes, Partition of A
+Set
+
+A relation R on a set X is said to be an equivalence relation, if R is reflexive,
+symmetric and transitive. In more detailed form, R is an equivalence relation on
+set X, if and only if
+
+(1) R is reflexive on X, 1. e. for every x € X, we have (x, x) € R, and
+(11) R is symmetric on X, 1. e. for x, yE X, if (x, y)E€ R, then (y, x) € R, and
+
+(111) R is transitive on X, 1. e. for x, y, zZ€ X, if (x, y)E R, and(y, z)E R, then (x,
+zZ)ER
+
+Examples
+
+i) The relation of equality (=) on the set of numbers, say Q, the set of
+rational numbers, is an equivalence relation
+ii) The relation of ‘is-parallel-to’ on the set of all straight lines in a plane, is Ketitons and
+u 1
+an equivalence relation
+
+iii) The relation of ‘is-congruent-to’ on the set of all triangles in a plane, is an
+equivalence relation
+
+iv) The relation of ‘is-sibling-of (male or female having same parents) on the
+set of human beings, is an equivalence relation.
+
+Not-equivalent relation: A relation R on a set X 1s not an equivalence relation,
+
+ifR
+
+1) fails to be reflexive on X: 1. e., even for one particular a € X, if (a, a) € R.
+For example, for set X = {1, 2, 3}, the relation R= {(2, 2), (3, 3), (2, 3),
+(3, 2)} is not equivalence relation, as it is not reflexive, because (1, 1)¢ R,
+
+despite (2, 2), (3, 3) € R(this is an example of a relation which is symmetric,
+and transitive, but which is not reflexive)
+
+Or
+
+11) fails to be symmetric on X, 1. e. even for one pair of elements a, b € X, we
+have (a, b) € R, but (b, a) ¢ R. For example, X = {1, 2, 3}, the relation
+R= {(1, 1), (2, 2), (3, 3), (2, 3)} 1s not symmetric, and hence not equivalence
+relation on X, as (2, 3) € R, but (3, 2) € R. (this is an example of a relation
+which is reflexive, and transitive, but which is not symmetric)
+
+Or
+
+i11) fails to be transitive on X, 1. e. for a, b, c € X, if for pair of elements (a, b) €
+R, and (b, c) € R but (a, c) € R. For example, X = {1, 2, 3}, the relation
+R= {(, 1), (2, 2), (3, 3), C, 2), (2, 1), (2, 3), (3, 2)} is not transitive, and
+hence not equivalence relation on X, as (1, 2), and (2, 3)E R, but (1, 3) ER.
+(this is an example of a relation which is reflexive, and symmetric, but which
+is not transitive)
+
+Next, we discuss a concept which is quite closely associated with equivalence
+relation, viz Partition of a set. The close relation (which we will prove) is that for
+each equivalence relation R on set X, there is a partition of X, and for every
+partition of a set, say X there is an equivalence relation on X.
+
+A. Partition of A Set
+
+For a given set X, a partition of X is a non-empty, finite or infinite, collection
+P ={X;}, where X;’s are mutually disjoint non-empty subsets of X, with their
+
+union equal to whole X. More explicitly, a collection P ={X;} is a partition of
+X, if
+
+i) X,#@, for each X; EP,
+li) X; M X;=9, for every distinct pair of X; and X; in P
+
+iii) Uiep Xi=X
+87
+Review of Basic
+Mathematics
+
+88
+
+A non-empty set may have several distinct partitions. Examples: Let X = {a, b,
+c}. Then each of the following is a partition of X:
+
+1) (tag, tby, tess, Gttay, tb, cf} Cl) ta, bf, teFF Civ) LIb§, ta, CFF (V)
+tia, b, ef 5
+
+. Equivalence Class of an Equivalence Relation
+
+For an equivalence relation R on a set X, the subset [a] of X defined as
+[a] = {x: (x, a) ER} is called an equivalence class of a under the equivalence
+relation R.
+
+Example: Consider the relation R= {(a, a), (b. b), (b, c), (c, b), (c, c)} on set
+X= {a, b, c}. The relation is an equivalence relation. Two equivalence classes
+in X under R are {a} and {b, c}.
+
+C. Every equivalence relation on a set X determines a partition of X.
+
+Conversely, if we are given a partition of a non-empty set, then it
+determines an equivalence relation on X.
+
+Let P ={Aj;} be a partition of X. Then we define a relation R on X such that
+for x, yE X, (x, y) € R if and only if x and y belong to the same class Aj, of the
+partition. Then, to show R is an equivalence relation on X: (I) Reflexive: for
+each x € X, the elements x, and x belong to the same class, hence (x, x) € R.
+(Il) Symmetry: if (x, y) € R, 1. e., if x and y belong to the same class of
+partition, then y and x also belong to the same class. Hence, (y, x) € R. (I/D)
+Transitivity: 1f (x, y) € R, and (y, z) € R. Then, by definition of R, x and y are
+in the same class Aj, and y and z are in the same class Aj; By definition of
+partition, Aj and Aj are either equal or are disjoint. But y belongs to both A;
+and Aj. Hence, Aj = Aj. Implying x and z belong to the same class of the
+partition; implying (x, z) ER.
+
+. Applications of Equivalence Relation and Partition of a Set
+
+Motivation for equivalence relation is that for some specific purpose, many
+apparently distinct elements behave identically, and hence need not be
+distinguished from each other. By clubbing all such elements, we reduce
+complexity for designing solutions of problems concerning the purpose. For
+example, for designing time-table for a school having 1000 students, 5 classes,
+say, from VIII to XII, each class having 4 sections, say A, B, C & D, and each
+section having 50 students. Now time-table need not be designed
+independently for 1000 distinct students, but needs to be designed for only 20
+class-sections
+
+(5 x 4). For the purpose of designing time-table, all the 50 students of a class-
+section are treated as a single entity, which is an equivalence class under the
+equivalence relation R with (x, y) € R if and only if students x and y belong to
+the same class-section. These 20 class-sections determine a partition of the set
+of all students in the school.
+The equivalence relation has useful applications in the design of digital Ketitons and
+
+computers and other sequential machines.
+
+Check Your Progress 4
+
+1) Show that the three properties of relations, viz. reflexive, symmetric and
+transitive are independent of each other, 1. e. a relation may be (i) reflexive,
+but neither symmetric, nor transitive; (11) symmetric, but neither reflexive, nor
+transitive; and (111) transitive, but neither reflexive, nor symmetric.
+
+were rere rece eee eres e rere reser ereeeereesreeresreresrerererereeeesrerererereresrereerereeeesreererererecece
+were rere rec ere rere eere rere re rere reser erereerererereresre rere rereresresrerereerereee rere reeereereeereereeeees
+
+2) Find out partition of the set X = {1, 2, 3, 4} given by the equivalence relation
+R= i, 1), (2, 2), (3, 3), (4, 4), CL, 3) G, 1), (2, 4), (4, 2)5
+
+were rere rere rere eee ere erererere rere eesre seer erere rere eererererereseeesrererere rere re rere eeeeeerereeeos
+were rere ee eresre rere ere rere reser ere rere sreeeresreresrereere rere eeeesreesrerereresrereresresreereeeresrerereeece
+
+3.2.4 Partial Order Relation, Partially Ordered Sets
+
+A relation R on a set X is said to be a partial order, if R is reflexive,
+antisymmetric and transitive. In more detailed form, R is an equivalence relation
+on set X, if and only if
+
+i) Risreflexive on X, 1. e. for every x € X, we have (x, x) € R, and
+
+11) R is anti-symmetric on X, 1. e. for x, yE X, if (x, y)€ R, and (y, x) € R, then
+x=y, and
+
+ili) R is transitive on X, 1. e. for x, y, z€ X,if (x, y)€ R, and(y, z)E R, then (x, z)
+ER
+
+Examples
+
+1) The relation of less-than-or-equal-to (<) on the set of numbers, say Q, the set
+of rational numbers, is a partial order relation
+
+11) The relation of subset-of(G) on a set of subsets of a given set, is a partial
+order.
+
+111) The relation of is-divisor-of on N, the set of natural numbers is a partial
+order.
+
+The relation is called partial order because, some pairs of elements of domain
+under a partial order may not be related. For example, in (11) just above, the two
+subsets {a, b, c} and {b, c, d} are not related to each other under subset-of(©)
+
+89

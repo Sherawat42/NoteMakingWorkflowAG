@@ -1,0 +1,62 @@
+Dynamic
+Optimisation
+
+82
+
+The agent chooses the trajectory of consumption that allows for the highest inter-
+
+temporal utility.
+
+The Ramsay model (in some literature Ramsey-Cass-—Koopman model) is
+different from Solow model — in contrast to Solow model in which savings are
+exogenous; in Ramsey model savings are optimally derived given intertemporal
+preference of representative agent; thus, dynamic inefficiencies are ruled out),
+and is a constrained continuous dynamic optimisation problem.
+
+(Please refer to discounted problem in Unit: 23 for formula)
+Forming Hamiltonian functional we get
+
+H* =ufe(t)]+At[A&“(t)—c(t) - 84(t)] .. (24.46)
+where Ais co-state variable associated with state variable, k. For us, u[c(t)]is
+from equation (24.42).Applying necessary condition for optimisation, we get
+
+ay*
+oH
+
+- 08
+e(b =O c(t)? =r4 ... (24.43)
+
+From co-state equation, we get
+, oH", (14
+M =pht = Mt=[p +3—aAK(t) (onlay ++ (24.44)
+t
+In equation 0 > Ois the concavity parameter of the utility function
+
+Differentiating equation (24.43) and using that in equation (24.44) we get
+
+(t)= a aa(y ee) =(p +8)]o(t) ... (24.45)
+
+Transversality condition is essential for solution Le.,
+
+lim ApePta(T) =0
+
+too
+The dynamics of Ramsey model is found by analysing (24.41) and equation
+(24.45)
+
+In order to derive steady-state locus we need to set &‘(t)=0 and c'(t) = 0 which
+
+in turn determine c’ and k*
+
+1/1-a
+Kk -( | ... (24.46)
+p+s
+1/(1-a)
+o'=(tptots\( 2A) ... (24.47)
+a a pt+s
+
+The equilibrium level of capital and consumption is directly proportional to value
+of the technology index. The rate of time preference and depreciation rate have
+inverse proportional relation on capital accumulation, the impact of these
+parameters on consumption is not straight forward unless we attribute exact
+values of various involved parameter.

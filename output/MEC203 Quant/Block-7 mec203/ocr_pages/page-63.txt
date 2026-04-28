@@ -1,0 +1,53 @@
+Dynamic
+
+Optimisation From state equation x’ = ax — c(t)
+
+dx
+=X
+
+dt Ox = ogra =k, e(*-t wherek, is constant.
+e
+
+Using the formula
+x(t) =e/vat (a +Jwel at)
+where v=-o w =k,e%
+we get x(t)=e7! “asta + fkelMtel at)
+=et (a + ket)
+= Ae% + =k (ant
+r
+
+Using boundary condition x(0) = xg
+
+xo = A-*
+
+x(T)=0 = 0=Ae®™ —K elon ~Aert (ake) =0
+r r
+asa>0 e*! 0 so A-KetT <05k=Are™
+r
+
+rt
+So xo A- ATE” _ at—e'T)
+r
+
+T)-1 Xo
+A=Xxo(1-e y' =—9_
+4-e7
+rT
+x'(t) = 2 ent Are” g(a-r)t
+4-e r
+=o gat _ 0 lanriy
+
+© [=e l-er,
+
+1
+max [(x+u)dt st. x’=1 -u2 x(0)=1 x(1)
+Q3. 0 is free.
+
+Ans.
+
+1
+max |(x+u)dt stx’=1 -u2 x(0) =1
+0
+
+From Hamiltonian H(.) = x +u+A(1—u2)
+62

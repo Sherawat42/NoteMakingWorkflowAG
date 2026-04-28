@@ -1,0 +1,58 @@
+two less obvious ones: the length and width must be nonnegative.
+
+All of this information is mathematically represented in the following way:
+
+max LxW,
+L,W
+
+such that 2L+2W<60;L>0;W2>0. tee tee tee eee eee (1-2)
+
+23.1.1.2. Dynamic Optimisation problem for continuous choice/independent
+variable. The form the dynamic optimisation problem, takes, is explained
+through the following example
+
+Example 3 Consider a profit-making firm which wishes to maximize its profit
+over a period of time. Let the beginning of time of calculation be t,, and end
+time be tr. The current profit V depends on both current output and rate of change
+of output with respect to time. If x(t) denotes output at time t, then the rate of
+change of output is x’(t), and V(x(t), x’(t), ) denotes the profit functional. Thus,
+the problem may be mathematically modelled/expressed as
+
+MaxJ,/ V (x(),2" (0), £) dt.
+
+Subject tox(t)2>0 = x(to)=xX0 ae cee ee (I-3)
+
+In general, the standard problem of optimisation for continuous variable takes
+the form of optimizing/ maximizing the following functional
+
+T
+
+Vivl=fFlty@.y@ldt ee (L-4)
+
+oO
+Where y=y(t), is time-dependent state-variable.
+
+In the previous unit, we have mentioned that for handling this type of problems,
+there are mainly three dynamic optimization approaches, viz. (i) calculus of
+variations, (ii) optimal control theory, which is modern generalization of
+
+variational calculus and (iii) dynamic programming.
+
+However, before we recall, from the previous unit, our discussion of Calculus of
+Variations and discuss in detail ‘Optimal Control Theory’, the subject matter of
+this unit, we need to discuss, the concept of STATE, which is fundamental/
+indispensable concept of any dynamic system.
+
+23.1.1.3 Concept of STATE in a system & State-space representation
+
+The concept of STATE is quite crucial for understanding the behaviour of a
+Dynamical System, including of any economic system. However, explaining,
+what to talk of defining, the concept is hardly attempted, specially, in view of the
+difficulty involved in doing so. The concept is taken as if it is an undefined term
+like a point, or a straight line in Geometry. We attempt to explain and define
+the concept through the following two examples.
+
+Intertemporal
+Optimisation-II
+
+41

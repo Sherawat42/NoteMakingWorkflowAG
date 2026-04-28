@@ -1,0 +1,59 @@
+Case C: Fixed final time and free final state. Intertemporal
+Optimisation-II
+
+=> dt, =O and dx¢ is free.
+Hence for optimality we need to solve the 3 set of equations as in case A and
+
+[=a] =0 ...(23.30)
+OK Itt,
+
+(for univariate case)
+
+5 T
+for multivariate case E - nt) = Ont .. (23.31)
+x
+
+Case D: Free final time and free final state.
+
+For optimally besides solving 3 sets of equation we need to solve two boundary
+
+condition.
+H()+ 30) 9 --.(23.32)
+at
+os we
+[£ - «0 =0 ... (23.33) (For univariate x) or
+x
+os u
+E - a) =On ... (23.34) (For multivariate ‘x’ case)
+ox
+
+23.5 TRANSVERSALITY CONDITION
+
+Sometimes, the terminal value of the state variable x(t, ) = X¢ is restricted in
+
+sign. This is usually the case in economic application of the maximum principle,
+where a typical state variable is the stock of productive capital in the economy.
+We have as transversality condition.
+
+xf 20, xy Ay =O (23.35)
+
+which implies that either x; =Oor else Atp =O. If on the contrary, x is not
+restricted in value or sign, then we must have as transversality condition x+, =O
+
+if the planning problem has an infinite time horizon, the transversality condition
+becomes
+
+lim Xp 20, lim xt Atp =O .-. (23.36)
+tp oo ty 00
+
+when X¢ is restricted in sign and lim 2, =0
+toe
+
+when xy is not restricted in sign or value.
+
+23.6 THE DISCOUNTED PROBLEM
+
+In case of especially economic growth problems the global intertemporal
+objective is the result of aggregative overtime an instantaneous objective
+
+function subject to sometime discount @. That is function 533

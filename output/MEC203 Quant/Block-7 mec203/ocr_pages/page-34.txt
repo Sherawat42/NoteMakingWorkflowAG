@@ -1,0 +1,50 @@
+Daniel Liberzon (2012) Calculus of Variations and Optimal Control Theory: A
+
+Concise Introduction, Princeton University Press, Princeton and Oxford.
+
+22.13 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1
+1) Problem 1 J(y)= f(y’? + + 4ye!)dt
+0
+
+We know from E — L condition that
+
+a.) d a) _ ~y2ay24avet
+ot) at 17° where v(.)=y'* + y* + 4ye
+re OO) t OV) _ oy,
+hence () 2y+4el, ait) > 2y'(t)
+
+Therefore  2y+4e' = 2y"(t)
+
+= y'(t)-y(t) =2e"
+First we find particular integral Yp
+Let yy= Bte! => Yt= Bite! +e]
+y(t) = Bite +e'] = Bite’ +e' +e']= Be' +2Be'
+So Bte' + 2Bet —Bte! = 2e!
+=> 2Be! = 2e' >B=1 SO yp =1.te!
+for complimentary function y, let y(t)= Aet
+then y"= Are
+= Arzet— Ae" =0
+=r? 1207? =1>5r=41
+So Yo =Ayelt + Ane” = Aye t+ Agett
+We know y(0)=0 = A;+Az =0=>A,=-Ap
+We know y(1)=1= Aye + Ane! =1
+
+=> Age + Age”! =1> Ay =
+
+1-e
+Using boundary condition
+t e
+
+e -t act
+y(t)=Y¥e+¥p =e + e' +te' (Ans)
+an 1-e?
+
+Intertemporal
+Optimisation-I
+
+33

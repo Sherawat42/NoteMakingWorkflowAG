@@ -1,0 +1,461 @@
+Review of Basic
+Mathematics
+
+110
+
+4.2 COORDINATE GEOMETRY
+
+Coordinate Geometry is an approach to making investigations into, and solving
+problems from, the domain of geometric objects like straight lines, triangles,
+planes, cubes etc. The approach consists in representing geometric objects as
+algebraic expressions and equations like a x + b y + c =0 for a straight line,
+and x°+ y’ = c for a circle etc. And then use algebraic tools for making
+inferences and solving problems. The process of translating geometric objects to
+algebraic expressions is achieved using coordinate systems. There are several
+different coordinate systems, each more useful than the others for some specific
+purposes. We will discuss some of these briefly. However, before that we
+mention some synonymous and related terms, and a little bit of history.
+
+Coordinate geometry is also called analytical geometry, or cartesian geometry
+(in honour of René Descartes,17" century French philosopher, and
+mathematician). Though evidence of the use of coordinates in geometry is
+found in the work of mathematicians from earlier periods, particularly of some
+Greeks and of the 11" century Parsian mathematician Omar Khayyam, yet the
+discipline in its current form was invented independently by two 17" century
+mathematicians viz. René Descartes and Pierre de Fermat.
+
+Earlier form of geometry, which has been practiced for thousands of years, was
+retrospectively called since 17" century, synthetic geometry, which uses, instead
+of algebraic tools, the axiomatic method (based on proof techniques) for proving
+results from a few basic properties called postulates/ axioms.
+
+From our experience of school mathematics, we know that for 2-dimensonal
+space, cartesian coordinate system uses, as shown in Fig 4.5, two intersecting
+and mutually perpendicular real lines.
+
+7
+y* | (2,3)
+Tee
+. +2
+(-3,1)
+eevee eceeeeeeeccemte]
+“3-31 -] 1204 x
++-1
+---2
+(—1.5,-2.5)+-3
+
+Fig 4.5: Two-Dimensional Cartesian Coordinate System
+
+Though, we will be using mainly cartesian coordinate system, yet we should
+know the names of other coordinate systems which include polar coordinate
+system, cylindrical & spherical coordinate system, homogeneous coordinate
+system and Curvilinear coordinate system.
+4.2.1 Cartesian Coordinate System
+
+In the rest of the discussion, unless mentioned otherwise, the term ‘coordinate
+system’ will be used for cartesian coordinate system, which 1s also called
+rectilinear coordinate system.
+
+In this coordinate system for 2-dimensional space, two mutually perpendicular
+intersecting lines (called axes), as shown in the figure below form basis of
+
+rectangular co-ordinate system for 2-dimension
+1) The horizontal number line is called the x- axis.
+
+2) The vertical number line is called the y-axis.
+
+The origin is where the two lines/axes intersect. (See Fig. 4.6). It has four
+quadrants marked with Roman numerals.
+
+¥
+
+(Quadrant I . QuadrantI
+ane) GH |
+
+5 oO 5
+
+ae
+— Quadrant IT 2 QuadrantIV
+C; G, -}
+44
+
+Fig. 4.6: Rectangular Co-ordinate System
+
+Each point on the graph is associated with an ordered pair. At the origin, it 1s
+assumed that value of x = 0 = value of y. When dealing with an (x, y) graph, the
+x coordinate is always written first and the y coordinate as second in the
+ordered pair (x, y).
+
+Normally, the values of the independent variable (generally the x-values) are
+placed on the horizontal axis, while the values of the dependent variable
+(generally the y-values) are placed on the vertical axis.
+
+For a point P (x, y), the x-value, called the abscissa, is the perpendicular
+distance of P from the y-axis, and the y-value, called the ordinate, is the
+perpendicular distance of P from the x-axis.
+
+The values of x and y together, written as (x, y) are called the co-ordinates of
+the point P. The centre of the coordinate system (where the two lines intersect)
+is called the origin.
+
+Such a formulation is called the "rectangular" coordinate system because the
+scale used along the x-axis is evenly spaced, as is the scale along the y-axis.
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+111
+Review of Basic
+Mathematics
+
+112
+
+4.2.2 Translating Geometric Figures to Algebraic Equations
+
+For translating a geometric figure, say, a straight line, we create a coordinate
+system around the object, or, equivalently, the geometric figure is embedded in a
+coordinate system as shown in Fig. 4.7. How and where to place the geometric
+figure in the coordinate system depends on the problem under consideration.
+Each point in Fig 4.7, has coordinates, as one of the points, say A, in the figure
+above, has coordinates (2, 0), with 2 as abscissa and 0 as ordinate, and another
+point, say B, has coordinates (0, —2).
+
+In order to represent a geometric figure by an algebraic equation, we take an
+arbitrary point in Fig 4.7, assuming its coordinates as (x, y) with x as abscissa
+and y as ordinate. Then an algebraic equation representing the figure is some
+relationship (to be determined) between x and y.
+
+y -axis
+(x,y)
+00, 0)
+E X - axis
+va (2, 0) QU, 0)
+(0,-2)
+
+Fig. 4.7: Coordinate System
+
+To derive the algebraic equation corresponding to Fig. 4.7, let us take
+P (x, y) outside the segment A (0, —2) and B (2, 0), and drop a
+perpendicular PQ on x-axis. Then triangles AOB and AQP are similar.
+From conventional/synthetic geometry, we know
+
+| AO |/|AQ|=|BO]/| PQ], .-- (i)
+Where, |X| denotes length of line segment X.
+
+Now | AO | =2, | AQ | = x -2, | BO | = 2, | PQ | =y ... (ii)
+From (i) and (11) we get
+2/ (x —2) = 2/y implying
+y =x —2 1s the algebraic translation of the Figure 4.7.
+
+Using similar method, we may obtain algebraic equations corresponding to
+the well-known curves, including the following standard algebraic forms
+
+e x+y =a’ for Circle
+(x/a)’ + (y/b)’ = 1 for Ellipse Coordinate
+
+5 Geometry and
+y =4ax, with a>0 for Parabola Representation
+
+of Functions
+(x/a)’ — (y/b)’ = 1 for Hyperbola
+
+e xy=c’ for Rectangular Hyperbola.
+
+Also similarly, for solids of 3-dimensional space, corresponding algebraic
+forms may be obtained including the general equation of a sphere in the
+form
+
+(x — a)’ + (y—b) + (z-c)’ =d with a, b, c, and d being constants, and
+d>0
+
+As the concern of this unit is how to draw a graph (a geometric figure)
+corresponding to a given algebraic equation, which is just the reverse of
+what we discussed just above. The discussion here was just for the sake of
+explaining how equations have been obtained for geometric figures.
+
+Check Your Progress 1
+
+1) Draw the graph of the equation y"=x+5 and comment if it is a function.
+
+ee eer ec reece ere rere rere reece eeereeresresresresreereereereeeesesresereresrereeresrereereeeesresrereresrereereeeecece
+eo errr rere rere rere reece eeereereererererereeereeereesreresrereresreresreeresreeererererere rere reese eeeeeoes
+eo errr reer ere sre rere rere eeeeesresre reser ereresresreeeeereresreresreresreresresrereseerererereresresreereeeeeece
+
+eee eer err ececee reece eecscesreereeeeceseeseeesreeeesseseesresreseeeeeeeeseseesreeesreeeereseesesereeresereseceoe
+ee eer ore cece eee reece er eer eseceeereereeesceeeeeseeeeeeeeeeereeeresesreecesreesesreescesresesreceesesescccce
+Coe rere eee ecee ree eeeeceeereeeeecereeeesrerereeeesesreseeeeeesceseseeeeseeesreseesceeseesesreesceceereeeccce
+Cee ero ere errr sree eee eeeereseereeresreeesreeseeeesesrereeeseseesreeeresseeseesresreseeeeseesresesreeeeeeseeeccces
+
+4.3 GRAPHING LINEAR FUNCTIONS
+
+A function y = f(x), is called linear if the power of x in f(x) is not more than 1.
+A linear function corresponds to a linear equation A x + B y + C = 0, in which
+degrees of x and y do not exceed 1, and A, B, C are constants.
+
+To plot a graph of a function, we take, one by one, values in the domain (xj) as
+independent variable x, and then find the corresponding values in the range y; of
+the dependent variable y. It helps record the values of xand y while plotting the
+graphs. For example, consider a linear function depicting the relationship
+between price (x) and market demand (y)for a commodity. To plot the graph for
+
+evaluating the relationship, it is convenient to first prepare a_ table
+113
+Review of Basic called, t-chart, comprising the values of x and y. If a function takes the form of
+Mathematics
+
+y = 7—-5x, then t-chart is as under:
+Table 4.1: t-chart of y = 7—5x
+
+x y=7-5x
+-1 12
+0 7
+1 2
+2 —3
+3 —8
+
+In general, we may have to take many values of the independent variable x,
+then find corresponding values of y. But in the case of functions, we need to
+take only two values of the independent variable x and calculate two
+corresponding values of the independent variable y. Thus, to draw the required
+graph, we need only the following part of the table
+
+xX y=7-5x
+
+—1 12
+0
+
+The graph of such a function 1s as follows (refer Fig. 4.8):
+y
+
+Fig. 4.8: Graph of Function y = 7 — 5x
+
+The graph has x-intercept on a point where y is zero and y-intercept on a point
+where x is zero. For example, to find the x and y intercepts of the equation
+3x+4y=12proceed as follows:
+
+To find the x-intercept, set y = 0 and solve for x. That is, 3x+4 (0) = 12 or, x
+=12/3 = 4. Similarly, to find the y-intercept, set x =0 and solve for y.
+
+114
+That is, 3(0) +4y=12 or, y=12/4 = 3. Thus, the x-intercept is (4, 0) and the
+y-intercept is (0,3).
+
+As a linear equation represents a straight line, and a straight line is specified by
+only two of its point. Hence, the graph of the line is as given in Fig 4.9.
+
+mi
+a,
+
+Fig. 4.9: Graph of 3x+4y =12
+
+4.3.1 Absolute Value Function
+
+Absolute Value Function is given as f(x) = |x| indicating that we need to
+consider modulus |x| of a real number keeping it as the non-negative value
+without regard to its sign. That is, |x| =x for a positive x, |x| = —x for a negative
+x (in which case —x is positive), and |O|= 0.
+
+Thus, the function y = |x|, is defined by the following two equations
+y = |x| =x for x 20, ... (1)
+and y= |x| =—-x for x < 0 ... (2)
+
+As each of (1) and (2) is a linear equation, each is represented by a straight line
+as Shown in Fig. 4.10 below:
+
+ys
+
++
+
+Fig. 4.10: Graph of Absolute Value
+
+However, for some linear functions, the x-intercept & y-intercept method may
+not yield the required result, because the required curve may not intersect
+X-aX1S OF y-axis.
+
+Example: f is a function given by f (x)=|x — 2|. The y intercept is given by
+(0, f(0)) =(0, |-2|) =(0, 2); x intercept is at the point (2, 0)since we solve for
+|x — 2| = 0. But 0 = y = f (x)= |x — 2| = 0 has no solution.
+
+Since |x — 2| is either positive or zero for x = 2; the domain of / 1s the set
+
+of all real numbers and the range of f is given by the interval [0,+ 0). The
+corresponding graph is shown in Fig 4.11.
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+115
+Review of Basic
+Mathematics
+
+(0,2
+
+Fig. 4.11: Graph of f (x)=|x — 2].
+In general, for drawing a graph for a linear function, we need just two
+pairs (Xi, Yi,1 =1, 2 of values of (x, y).
+4.3.2 Step Function
+
+A step function (or staircase function) is a piecewise function containing all
+constant "pieces". The constant pieces are observed across the adjacent
+intervals of the function, as they change value from one interval to the next.
+A step function is discontinuous (not continuous) as you can see in the
+Fig. 4.12. You cannot draw a step function without removing your pencil
+from your paper.
+
+Example of a step function: For definition of our particular step function
+y= f(x),
+
+First, we write every x =Int-x + Fraction-x, where Fraction-x > 0.
+
+E.g., for x= 5.46, Int-x = 5, and Fraction-x =.46
+
+For x = — 3.87, Int-x = —4, and Fraction-x =.13
+
+Then we define y= f(x) = Int-x
+
+Thus, f (5.46) =5, and f (— 3.87) = —4.
+
+ot!’ y=[x]
+2 oO
+1 oO
+
+? 2 a
+
+MathBits.com
+
+116 Fig. 4.12: Graph of Step Function
+Note: The domain of a function is the set of all inputs for which the
+function is defined. For piece wise functions, the domain is union of all the
+individual cases. The range of a function is the set of all the possible
+function outputs. For piece wise functions, this is the union of the range so
+fall the individual cases.
+
+Check Your Progress 2
+1) Draw the graph of y = (—5/3) x-2.
+
+eo eer rere er ere rere rere rere re reese erererererere reser esreesrererereerereerereresresreeererere rere rere eeeos
+
+eo eoer rere rere rere rere rere e ee ere rere rere ee eereeeeereeeresrere reece eereereeeeeeerererereeresre reer eeeeoeece
+eo ee ere rere rere rere rere rere erere rere rere reser eeeeeesrererererereresresresreesrerererereresrereeeeeece
+
+3) A truck rental company, charges a rental fee of Rs. 25 plus Rs. 0.30 per mile
+for driving between 0 and 500 miles for the standard -sized truck. For the
+same truck, the company charges Rs.100 plus Rs. 0.15 per mile for driving
+more than 500 miles, but less than 1000 miles. Write a step function that
+represents the situation.
+
+eo ee erce cece rere rere rere eereereere rere reererere reser er eee srererere reser eeererere rere eereereeereeeeeesoe
+eee e errr ere rere rere reere reser eresreresrerereresre rere sreeeresreresreresesreeesreeeeereresresresresreereeeeeerecece
+
+4.4 GRAPHING NON-LINEAR FUNCTIONS
+
+Determining the nature of the functions that produces non-linear type curves
+requires additional considerations compared to those of linear types. When you
+graphed straight lines, you only needed two points to graph the line, though you
+generally plotted three or more points just to be on the safe side. However, three
+points will almost certainly not been ought points for graphing curve so
+f quadratic or cubic functions. We discuss the caution to be exercised for
+sketching the graphs of such function.
+
+4.4.1 Even and Odd Functions
+
+A function f is even if its graph is symmetric with respect to the y — ax is.
+This criterion can be stated algebraically as follows: f is even if f(—x)=f(x) for
+all x in the domain off. For example, if you evaluate at 3 and at—3, then you
+will get the same value, if f is even. Geometrically, such functions are
+symmetric about the origin.
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+117
+Review of Basic We have seen that for an even function f(x)=f(—x) for all x, there is symmetry
+Mathematics
+
+about y-axis. The graph, in this case is shown in Fig 4.13.
+
+Fig. 4.13:Graph of Even Function
+
+A function is "odd" when f(x) = — f(—x) for all x and symmetry is observed
+from the point of origin (Fig. 4.14).
+
+equal distance
+
+aan
+1
+4
+all
+
+Fig. 4.14:Graph of Odd Function
+
+Note: The graph based on f(x)=x*—x is an odd function
+
+4.4.2 Quadratic Functions
+
+Quadratic functions help describing demand, cost, revenue and profit which
+you will find while covering microeconomic analysis. The general
+technique for graphing quadratics is the same as for graphing linear
+functions. However, since quadratics graph as curvy lines (for example,
+parabolas, ellipses etc.), rather than the straight lines generated by line are
+quations, there are some additional considerations.
+
+The most basic quadratic is y = x°. When you graphed straight lines, you
+only needed two points to graph your line, though you generally plotted
+three or more points just to be on the safe side. However, three points will
+almost certainly not be enough points for graphing a quadratic. For
+example, compute these three points:
+
+Table 4.2: T-chart of y=x’
+
+x yax"
+0 0
+
+1 1
+
+2 4
+
+118
+Then, based only on this experiment, the plotted graph will produce a
+straight line. Thus, the graph is not the correct presentation of the function.
+More points need to be considered. By extending the above table with more
+
+points we construct Table 4.3.
+Table 4.3: Extension with more points
+xX | -3 | -2 | -l 0 1 2
+Y | 9 4 1 0 1 =
+
+¥
+“NN
+
+AN
+\
+
+WY
+Fig. 4.15: Graph of Equation y=x
+
+We observe that the graph in Fig 4.15 is a parabola. Note that the parabola
+does not have a constant slope. In fact, as x increases byl, starting with
+x = 0, y increases by 1, 3, 5, 7, , . As x decreases by 1, starting with x=0, y
+again increases by 1,3,5,7, ....
+
+Consider a quadratic function of the form: f(x) = ax’ + bx + cwith a#0.The
+graph of such a function takes one of the two general forms shown in Fig.
+4.16, depending on the sign of a.
+
+A quadratic function A quadratic function
+witha > 0 with a < 0
+
+Fig. 4.16: Graph of Quadratic Function
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+119

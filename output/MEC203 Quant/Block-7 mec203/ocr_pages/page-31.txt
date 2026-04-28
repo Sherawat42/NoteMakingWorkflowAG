@@ -1,0 +1,59 @@
+Dynamic
+Optimisation
+
+30
+
+3) Take first order condition and solve for W;},, (* for optimal)
+
+4) Set our initial guess equal to our Bellman equation evaluated at its
+maximum W,,,
+
+5) Identity the unknown coefficient from our guess
+6) Use the coefficient to identity our policy function from Wi,4
+
+Let us now look at the solution. Consider the diagram below
+
+t=-0 tl
+At t=0 Ct=0 because the muncher just starts eating at t=1 the consumption is
+recorded so consumption begins effectively at t=1.Similarly Wo is the initial
+cake size which is fixed for the model. In other words, we need to maximizes
+Wi for each time interval to maximize the consumption
+
+We know C, = Wi — West
+
+C, is maximized to W,4; is maximized as Wt is fixed. So, we can rewrite the
+question as under
+
+max ) In(W, — Wr41)
+
+(Werstten
+
+Hence our bellman equation is
+V(Wy) = pax fin. — Wersd+BV Wer eee (22.39)
+
+Wea}
+
+We make a guess of V (W;)
+Let that be V (W,) = C; + C2 In Wr
+Moving one period ahead V (W,4) = Ci + C2 In Wixt
+
+Substituting this result into our bellman equation we have
+
+V (Wi) = max{In(W, — Wes) + B [CG +, In Wii)
++1
+
+Take F O C of above equation for W;",,
+av) -1 BC,
+West We -Werr  Wesa
+
+— BCoWe
+
+Wr, =
++1 Type,
+
+voce cesneee (22.40)
+
+Set our initial guess equal to our bellman equation evaluated W;4,,
+
+Cr+ Cz In Wi = In (W, = roe) +B[G+C,In (ee)
+

@@ -1,0 +1,511 @@
+Review of Basic Cardinality of a set X, denoted by |X| or #X, is the number of distinct
+Mathematics .
+elements in the set X. For example,
+
+1,3, 73/=3, [O|=O|N[=o= |Z/=|Q], Oj] =1
+Two unequal/ different sets may have same/ equal cardinality. For example,
+
+{1, 3, S34 {1, 3, 7}, but their cardinalities are equal, as|{1, 3, 5}| =|{1, 3, 7}| =3.
+Check Your Progress 1
+
+1) Which of the following collections are sets? Justify your answer.
+i) The collection of all the months of a year beginning with the letter M.
+i1) The collection of all the months of a year beginning with the letter Z.
+i11) The collection of ten most talented living writers of the world.
+iv) A team of eleven most renowned football players of the world.
+v) {1, 2,2, 3}
+vi) {1, 2, {2, 3}, 3}
+
+eo eer rece ereerere rere ere rere rere eeeeresrerererereresreeeeeeereereereeesresre rere rereerereere rere rere ee re eeees
+eo cere er ere reser e rere rerere reese eresrere reser eererereeeesrereresre reser eeeeeresreresesresresreseeeeeeeece
+
+2) For each of the sets consisting of following members, write it in roster/
+tabular form and its cardinality:
+
+a) positive prime integer factors of 180
+
+b) solutions of the quadratic equation x” —-3x -10 =0
+
+eo eee rec ere rere rere re rere sre reese eeresreresre reser eresreeeeeeeeeresreeresresrereeeeeresresreresresresresreeeeecece
+eo cere ec ese rere rere rere ereereeeeseesresrereresresreereeeeseesresreeresresreereeeereeseeeesresresreereereereese ee eeesecce
+
+3) Tell which of the following is a set, and if it is a set, then (1) write it in set-
+builder form (11) tell its cardinality.
+
+a) {6,9, 12, 15, 18, 21, 24, 273
+b) {2,4,8,16,...3
+c) f{13, {1,2}, (1, 2,33, ..., £1, 2, 3, 4...103}
+
+eo oer eece sre sre rere rere reece e eee sere sere rere re reece eesresreresreere reser eereerereeseeeereereeoeoecee
+eo eee ererc cere ere ere rere srec rere sresrecereeeresresrereeresreeresrecresresreceeresresre rere sre reese esresresreereereerecececce
+eo creer errr e sre rere rere reere rere esresrererere rere srereeeeeereesrereresrereeeeeresresresreresreereerecce
+
+20
+1.2.4 Relationships between Sets
+
+For any two sets X and Y, the set relationships that we discuss are (1) equality (=)
+of X and Y (ii) X 1s a subset/ superset(©G) of Y (iii) X is a_ proper
+subset/superset(C)of Y, and (iv) is not a subset of (‘€’).
+
+1.2.4.1 Notations, Definitions and Examples
+
+i) Two sets X and Y are said/defined as equal if every element of X is an
+element of Y, and every element of Y is an element of X.
+
+The notation X= Y is used for ‘equality of sets X and Y’
+
+Example: Let X = {1, 2, 3, 4, 5}, and Y= {x: x is a natural number such that
+1<x<5}, and W= {3, 5, 2,4, 1}. Then X = Y = W.
+
+ii) X is said to be a subset of Y if every element of X is an element of Y.
+Instead of saying ‘X is a subset of Y we may equivalently say ‘Y is a
+superset of X’, or ‘X is contained in Y' or'Y contains X’.
+
+The notation XC Y is used for ‘X is a subset of Y’.
+
+Examples: (i) Let X = {a, e, 1}, and Y = set of all vowels in English
+language. Then XC Y. (ii) Every set is its own subset, 1. e.X © X (can be
+easily verified by applying the definition).
+
+ili) X is said to be a proper subset of Y if (i) every element of X is an element of
+Y, and also(i1) there is at least one element of Y which does not belong to X.
+Then, it can also be said that Y is a proper superset of X.
+
+The notation X C Y is used for ‘X is a proper subset of Y’ and also for ‘Y 1s
+a proper superset of X’.
+
+Example: Let X = set of even decimal digits = {0, 2, 4, 6, 8} and let Y= set of all
+decimal digits = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Then XC Y, as every even decimal
+digit is also a digit. But 1€ Y, and 1€ X.
+
+The notation X ¢ Y denotes the fact that X is not a subset of Y. For showing X
+¢ Y, we need to show only that there is some one element of X which does not
+belong to Y. For example,Let X = {1, 5, 10, 15}, and Y = {1, 12, 14, 15}. To
+show X ¢ Y, we need only to say/show that 5 € X, and 5 ¢ Y. We need not go
+further to say that 10 € X, and 10 € Y. Also, X ¢X, as condition (ii) for being
+
+proper subset is not satisfied.
+
+Remarks: There is no complete standardization of the notation of subset.
+Some people use C Y, as every even decimal digit is also a digit. But 1 ‘C’ to
+denote a subset, which may or may not be a proper subset. Then, they use the
+symbol © for proper subset. We could have used these symbols. But we would
+continue with symbols ‘©’ and ‘Cc’ denoting respectively ‘subset’ and ‘proper
+subset’.
+
+Fundamental Concepts
+of Mathematics
+
+21
+Review of Basic
+Mathematics
+
+22
+
+1.2.4.2 Establishing Set Relationships
+
+Here, through a simple example, we demonstrate how to establish each of these
+set relationships. Later, we will consider some more complex examples of
+establishing these relationships, particularly regarding the equality (=).
+
+Let us consider sets
+
+A= {x: x*+3x + 2 = 0}, the set of solutions of the equation x? + 3x +2 =0.
+B= {-1, -2}, C= {-2}, E= {0, -1, -2}
+
+i) Easiest case is that of “is not a subset of’: In our case,
+
+E ZC,as0 EE, but 0 EC. Similarly, E Z A, as 0 EE, but 0 is not a root of
+x74+3x +2=0.
+
+11) Next, in order to show BC E, we need to consider, one by one, each element
+of B, and show that the considered element belongs to E also. In complex
+cases, we do not consider each element one by one, but take an arbitrary
+element. The methodology will be explained later.
+
+iii) Further, in order to show that B is a proper subsetof E (1. e.B CE), in
+addition to what we have done in (11) above, we need to show the existence
+of an element of E, which does not belong to B. In our case 0 € E, but 0 € B.
+
+iv) To show equality (=) of two sets, we need to repeat case (11) two times,
+reversing the roles of the sets under consideration.
+
+In our case, A= B, because —1, which belongs to B, is a root of x7+3x + 2 =
+0, hence, belongs to A. Similarly, —-2, which belongs to B, is a root of x7+3x
++ 2 = 0, hence, belongs to A. Conversely, as x’+3x + 2 = 0 is a quadratic
+equation, it has exactly two roots, viz. —1, —2.
+
+Check Your Progress 2
+1) For the pair of sets X and Y, state whether X = Y or not, along with
+explanation for your response.
+i) X= {2,4, 6, 8, 10}, Y = {x: x is positive even integer and x < 10}
+iil) X= {x: xis a multiple of 10}, Y = {10, 15, 20, 25, 30...}
+iii) X= {2,3}, Y= {x:x is solution of x? + 5x+6=0}
+
+iv) X= {x: x 1s a letter in the word FOLLOW}, Y = {y: y is a letter in the
+word WOLF}
+
+eo oreo eere reece rere rere reece ee eere sere rere rere re reese sresesreere reser eeeeeesrereere reser eeeereeeeeeeeoecce
+eee eer ecec eer eere rere rere reser e eee eesresresresreresre reser esreeeresresresre reser esreeeresreresresresreresesreereeecece
+eo cece er ere rere rere re rere ee reer eeresre rere reser eereeeresresreresrererererereesresresresre reser ereereeeerccce
+2)
+
+Find out the correct relation of XS Y,YE X,X CY, Yc Xor XEY ete for
+the following pairs of sets X and Y:
+
+i) X= {x: x is a student enrolled in IGNOU and having Economics as one
+of the courses, Y= {x: x is a student enrolled in IGNOU}
+
+iil) X= {x: x is a triangle in a plane}, Y= {x: x is a rectangle in the plane}
+
+ili) X= {x: x is an even natural number}, Y= {x: x is an integer}
+
+iv) X= {1,2,3} and Y = {1, {2,33}, 4, 5}
+
+eee rere rere ere eee eeereere rere srerereerereeeeseresresresesreresrerereereeeesresresresresrereeresrereereeceeee
+were rere rere reer eere rere rere rere rererereeerererererereereresrerereeeererereresrererere rere eeees
+
+3) For X = {1, {2, 3}, 3, 4}, which ones of the following is/are true statement(s)?
+
+(i) 2€ X (ii) @ € X (iii) O ¢ X (iv)OC My) {2,33 EX (vi) {233 CX,
+(vii) {£2,333 CX
+
+1.2.
+
+ee ee ercer rere rere rere sre rere reer esreresre reser e reser eseseeeeeeresrere rere reser eresreseeeerereereereeeeeeece
+
+weer rere rere rere re rere rereeeresrere re reser eseresreseeeeresresrereresreresresresreeeesreresrererereereerecece
+
+5 Some Special Sets: Universal Set, Null Set, Power Set and
+Convex Set
+
+Next, we briefly discuss some of the special type of sets, which we encounter
+
+frequently in Mathematics, especially relating to economic problem solving.
+
+a)
+
+Universal Set: For discussing problems relating to educating people in India,
+we need not take into consideration all human beings, we need to consider
+set of only Indians. While using mathematics for solving problems (like
+educating Indians) from some domain of human experience, some sets of
+entities from the domain are considered as and when required. For
+facilitating arguments, a sufficiently large set of entities from the problem
+domain— which includes all possible entities that may be required at any
+time during the discussion or solution-process of solving the problems of the
+type under consideration—is taken. For example, in our present case, the set
+of all Indians. Such a set is called the Universal set and is generally
+denoted by U. Thus, by definition, every set X under consideration will be a
+subset of the Universal set U. i. e. X GU for all sets X under consideration
+during solving a particular (type of) problem.
+
+Remarks:
+
+It may be noted that for different problem-types or different contexts,
+there will be different universal sets.
+
+By definition of universal set U, every set X is a subset of U, 1. e. XSU.
+Also, from the fact that X © X for every X, we get U € U.
+
+Fundamental Concepts
+of Mathematics
+
+23
+Review of Basic
+Mathematics
+
+24
+
+e The concept of ‘Universal set’, since its inception, has been both
+controversial and problematic. Specially, it has led to a number of well-
+known paradoxes including the Russell’s paradox, which implies that X,
+the collection of all sets, is not a well-defined collection, and hence, X is
+
+not a set.
+
+However, the concept of Universal Set has facilitated representation and
+solution of problems from most of the domains of our concern including from
+
+mathematics itself.
+
+b) The empty or null set: It may appear strange, at least when heard for the first
+time, that a set may have no member at all, or the number of elements in a set
+may be zero. According to our definition of a set, the following is a set
+
+S = {x: x is an even integer, and x? = 9}.
+
+The collection S is well-defined, and hence, is a set. But there is no member
+which satisfies the conditions of its membership. Therefore, the number of
+members of S is zero. There are many combinations of conditions, which may
+make a set to have no member. Each of such sets is called a Null set, a Void
+set or an Empty set. A null set is denoted by the standard notation © or by
+
+Ue
+
+Remarks: @ is a subset of every set X, i. e. @© X, for every set X.
+
+The fact is easily established through contradiction, a common proof technique in
+Mathematics: Assume what is to be proved as wrong, and then reach a fact which
+conflicts with some earlier established fact. So, let OS X be false. Then there
+must an x EW, and x € X. But x €&@ is not possible by definition of W. Hence, the
+assumption that ‘WCX be false’ is wrong. Hence the proof.
+
+Proper subsets of a set X: As © and a set X itself are subsets of the set X. These
+two subsets are not considered as proper subsets. All other subsets are considered
+as proper subsets.
+
+c) Power Set of a Set: The set of all subsets of a given set A is called Power Set
+of A, and is denoted as P(A). For example, if A= {1, 2, 33, then
+P(A) = {@, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}$. Sometimes power
+set of a given set A is denoted by 24, because that is the cardinality of the
+power set A.
+
+Next, we state, without proofs, some important results about the relation of subset
+e ACA for every set A. Every set is a subset of itself.
+
+e If AS Band BEC then ACC. We say that € is a transitive relation
+
+between sets.
+e IfAC& BandB C€ AthenA = B.
+e If |A|=n, then P(A) = 2". For example, the set {1, 2,3} has 3 elements,
+and, the power set of A, viz. P(A) = {@, {1!, {2!, {3!, {1, 23, {1, 33, aaa eet ees
+{2,3}, {1, 2, 33} has 2° = 8 elements.
+
+Next, we discuss a type of set which is frequently encountered while attempting
+solutions of economy related problems.
+
+d) Convex Set: A convex set in a space (generally 2-dimensional real-space) is a
+set of points such that, given any two points A, B in the set, the line AB
+joining them lies entirely within that set.
+
+Thus, a subset S of a space is called convex if and only if for any pair of points p
+and q in the set S, the line section from p to q is enclosed completely in the set of
+S, as done in the figure on L.H.S. below.
+
+P———Q P—*_ Q
+
+Convex Non-Convex
+
+Algebraically, if x, and x2 are two numbers in the set S, then all the points on
+the straight line x1 xx—which can be represented as Ax, + (1 — A)x2 for any A
+
+such that 0 < A < 1—also belong to S.
+Check Your Progress 3
+
+1) Tell which one of the following is a convex set, within set of real numbers.
+(1) [4, 5[ = {x:4<x <5}, (i) [1, 4] U[7, lI[ = {x: 1 <x <4} U {x: 7<x< 11}
+
+eo eee rerc rere rere rere rere eres e rere eeresrererereresreresrereeeeeresreresresresresresresrereeeeerereresresrevecs
+
+2) What is the Cardinality of the Power set of the set {0, 1, 2}?
+
+3) LetU = {u,v,w,x,y, z}.
+1) Find the number of subsets of U.
+11) Find the number of proper non-empty subsets of U.
+
+eee erereec ere ere erec rere rere eres e reese esresresrereere rere sresreeeseeresrereresresre reser esreseereeresreeresreerecececoecs
+
+25
+Review of Basic
+Mathematics
+
+26
+
+4) List the 8 subsets of {a, b, c, d} containing{d}.
+
+eo eer rer eer ere rere rere rere re reer erererererere rere rere esrererererererererereereesrereresrereereeee
+
+1.2.6 Quantifiers and Logical Symbols/ Operators
+Quantifiers and Logical operators appear frequently throughout mathematics.
+
+a) Quantifiers
+
+(Vx) x €X denotes Yor all x EX’;
+(ax) x EX denotes ‘for some x EX’;
+
+(Ax € X) ‘there does not exist an x in X’ OR ‘there is no x in X, which
+satisfies’.
+
+Brief explanation of Quantifiers: The phrases like ‘for all’ and ‘for at least
+one’ occur frequently in the discussion of properties of elements of a given
+set. These phrases are called quantifier phrases. The following special
+symbols have been introduced to economize on number of letters used to
+represent these phrases. Let X be a given set, and x be an arbitrary element of
+X, then
+
+(Vx) denotes the phrase ‘for all x EX’.
+
+It may be noted that the set X is understood to be given or known already for
+the notation. However, if the set under consideration is not clear, then the
+name of the set also may be included in the notation as:
+
+(Vx EX) or (Vx) xEX
+
+For example, for the set Sq_int = {0, 1, 4, 9,...}, 1t 1s true that every one of its
+members is square of some integer. This fact may be denoted as
+
+(Vx €Sq_int) (x = y’), for some y EZ
+
+Another frequently used quantifier phrase is ‘for some’. In mathematics and
+logic, ‘for some’ is taken as equivalent of ‘for at least one’.
+
+For explanation again, let X be a given set, and x be an arbitrary element of X,
+then
+
+(Ax), or (Ax EX) denotes the phrase ‘for some x EX’.
+
+For example, for the set Sq_int = {0, 1, 4, 9 ...}, it is true that some element of
+Sq_int is greater than 100 (because, 144 and many other members of Sg_int
+are greater than 100). The fact may be denoted as
+
+(Ax € Sq_int) (x > 100).
+The notation for the earlier statement Fundamental Concepts
+of Mathematics
+
+(Vx €Sq_int) (x = y’), for some y EZ
+may be further refined as
+(Wx €Sq_int) (Fv €Z) (x =”), Zis the set of all integers.
+
+Sometimes, we need to use the phrase ‘there is no x in X’ or equivalently,
+‘there does not exist an x in X’ etc. Such a phrase is denoted as (Ax €.X).
+
+For example, for the set Sq_int = {0, 1, 4, 9...}, itis known that no member of
+Sq_int is less than zero. The fact may be denoted as
+
+(Ax €Sq_int) (x< 0).
+b) Logical operators
+P — Q denotes ‘/f P then OQ’,
+‘P <> Q’ denotes ‘P if and only if QO’,
+‘PQ’ is equivalent to both P ~Q and Q —P combined.
+Brief explanation of Logical operators:
+
+The /ogical expressions of the form ‘/f P then Q’ occur frequently, where, P
+and Q are statements (i. e. each of P and Q is either ‘true’ or ‘false’, and not
+both ‘true’ and ‘false’ simultaneously). The logical expression ‘/f P then Q’ 1s
+denoted by P 0.
+
+For example, the statement ‘Jf x is an integer, then its square is a non-negative
+integer’ may be denoted as (Vx€ Z) — (x’> 0)
+
+Also, the logical expression ‘P if and only if Q’ occurs frequently in
+mathematical arguments. The expression ‘P if and only if Q’ is sometime
+shortened as ‘P iff QO’. The expression is denoted by
+
+‘P —Q’
+
+The notation P <Q is equivalent to both ‘P — Q and Q—P’ taken together.
+
+,
+
+For example, we may say that ‘x? = 100 if and only if x =10 or x = —10’.
+The notation for this true statement is: (x? = 100 < (x =10 or x =—10)).
+
+Further, it may be noted that though ((x =10) — (x? = 100)) is true, yet
+(x? = 100 — x =10) is not (essentially) true. Because, x? = 100 then x may be
+(— 10) also. Hence, to say (x? = 100 — x =10) is INCORRECT. But to say
+(x = 10 — x? =100) is CORRECT.
+
+1.2.7 Some Conceptual Clarifications and Explanations
+
+In this subsection, we discuss the difference between the concepts of ‘Relation’
+& ‘Operation’, Sets operations: union, intersection, difference, complementation,
+more clarifications: operands/ argument/ inputs; value/ result/ output; operation
+vs. operand. 27
+Review of Basic
+Mathematics
+
+28
+
+1.2.7.1 Difference between the Concepts of ‘Relation’ and ‘Operation’
+
+Let us now understand the difference between the two concepts ‘relation’ and
+‘operation’, which 1s illustrated through the following examples for numbers: for
+numbers 8 and 15, the notation 8 < 15 denotes a relation ‘is less than’; similarly,
+the notation 8 # 15 denotes the relation ‘is not equal to’, and 3+5 = 8 denotes the
+relation ‘is equal to’. Each of the relations does NOT give a new number, but,
+tells some already existing fact, e. g. the notation 8 # 15 denotes the already
+existing fact of 8 ‘not being equal to’ 15.
+
+A relation returns a value TRUE or FALSE. For example:
+3< 5 returns TRUE; 7< 5 returns FALSE.
+8 # 15 returns TRUE; 8 # 8 returns FALSE.
+
+On the other hand, an operation gives something new; in the following cases new
+numbers: 8+15 gives new number 23; 8 — 15 gives new number — 7; and (+1 16)
+gives a new number 4.
+
+To apply the operation of ‘+’, we must have at least two numbers, therefore, ‘+’
+is called a binary operation. On the other hand, to take a square-root (V), we
+need only one number, therefore, operations like square-root () is called unary
+operation.
+
+For discussion in general, we need the concept of cross-product of sets.
+
+Cross-Product of sets: for two non-empty sets A; and Ao, their cross-product
+(Cartesian product), denoted as A; x Az, is the set of all ordered pairs (a1, az),
+where a;€Aland a2€Az. The concept may be generalized to any finite number
+of sets say Aj, Az, ... An. denoted as A7 X Azx ... X An. The cross-product of n
+sets is the set of all n-tuples of the form (a1, a2. ..., an), where ai € Ai for I =1, 2,
+
+Relation on a set X is a subset of cross-product of the X with itself n times,
+where n is the arity of the Relation. For example, is-male involves a single
+person, hence, it is a relation of arity one; is-mother-of involves two persons,
+hence its arity is two. A relation returns as value exactly one of ‘true’ or ‘false’.
+For example, if Sheela is not mother of Mohan, then the value of the relational
+expression is-mother-of (Sheela, Mohan) returns false.
+
+Operation on a set X is quite similar to the concept of relation. An operation on
+X maps the cross-product of X with itself n times, where n is the arity of the
+operation. But it returns, as value, an element of X itself. For example, operation
+of square on N, the set of natural numbers, involves a single number, hence, it is
+an operation of arity one; the operation of sum involves two numbers, hence its
+arity is two. But in both the cases of square and of sum, the value returned is a
+single number/ member of X.
+Connection between relation on a set and operation on a set:
+
+An (n+!)-ary relation on a set can be converted to an n-ary operation on the set.
+For example, is-mother-of is a binary relation on the set X of all human beings.
+This binary relation can be converted to unary operation name-mother-of on X.
+which returns the name of the mother of x EX. For example, if Sita is mother of
+Mohan, then the binary relation is-mother-of (Mohan, Sita) is true. On the other
+hand, the unary operation name-mother-of (Mohan) returns Sita.
+
+1.2.7.2Operations on Sets: Union, Intersection, Difference, Complementation
+
+We have already discussed Relations between sets. Now we discuss Operations
+on Sets. Similar to the case of numbers, for the sets also, we can get new sets
+from given sets by employing operations. Here we discuss only three binary set
+operations, viz. union, intersection and difference of sets. By binary, we mean,
+each of these operations requires TWO sets for its application. Further, we
+discuss one unary set operation viz. complementation, 1. e. complementation
+
+requires only one set for its application.
+a) Union XU Y of two sets X and Y is defined as
+XUY =: x EXorx EY}
+
+Here, x € X or x € Y also includes the case that x may belong to both of X
+and Y.
+
+For example, if X= {1, 2, 3, 4} and Y = {2, 3, 5, 8, 9}, then
+XU Y= {1, 2, 3, 4, 5, 8, 9}
+
+Elements, like 2 and 3, which are occurring in both X and Y appear only once
+in X UY, as elements are not repeated in representation of a set.
+
+b) The Intersection X (1 Y of two sets X and Y is defined as
+XO Y= {x:x €EX and x € Y}
+
+For example, if X= {1, 2, 3, 4} and Y = {2, 5, 8, 3, 9}, then XN Y = {2, 3},
+
+XNY
+
+Fig. 1.1:On L.H.S., shaded area is the union X UY; and on R.HLS., the shaded area is
+the intersection X M Y of the sets X and Y.
+
+c) The Difference X — Y of two sets X and Y is defined as
+X—Y={x:x €EXandx €Y}
+
+Fundamental Concepts
+of Mathematics
+
+29

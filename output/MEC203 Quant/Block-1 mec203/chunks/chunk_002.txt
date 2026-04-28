@@ -1,0 +1,376 @@
+y = f(x)
+
+Scalar function of one variable
+
+X — Independent variable
+
+(argument/input of a function)
+
+y — Independent variable (value of function)
+
+y = f(X4,X9) Scalar function of two variables
+X4,X9 — Independent variables
+(arguments/inputs of a function)
+y — Independent variable (value of function)
+
+dy y', F(x) Derivative of first order of function y = f(x)
+
+dx 7 7
+
+d*y tn Derivative of second order of function y = f(x)
+
+dx
+
+Oy Of(X4,x2) Partial derivatives of first order for function
+
+0x; OX y =f(X4,X2) with respect to variable x i= 1,2
+
+°F (x 4X2) a(x 4,X2) Partial derivatives of second order for function
+
+Ox; OX; ax? y = f(Xx4,X2)
+i 67F( X4,X9) 674( X4,X9 ) | Hessian, symmetric matrix of partial derivatives of
+5 2™order for function y = f(x4,X>)
+oxt OX4 0X2 me
+H (X4, X92 ) ~1 9 2
+O°T(X4,X2) O° T(X4,X2)
+OX2 0x4 oxs
+df(x) Value of a derivative of one variable function at point
+dx X=X x
+Cf (x4, Xp) Value of a derivative of one variable function at point
+X = (X4,X2)
+OX) |g 1:42
+(p x) q Spe Scalar product of two vectors p,x €R?
+i=1
+det(A)or | Al Determinant of matrix A
+
+de(x',x*) = $ fs - ef
+
+Euclidean metric (distance)
+
+d(x'|x?) = max x -»?\j
+i=1,2
+
+Non-Euclidean metric (distance)
+
+.
+
+Euclidean norm
+
+|x| — max |x;|! Non-Euclidean norm
+i=12 |
+t=0,1,2... Time as discrete variable
+t € [0;+00) Time as continuous variable
+
+V f,gradf, Gradientof functionf, Vf = (cfox1,...,cfoxn)
+
+10
+
+SOME LETTERS OF THE GREEK ALPHABET (AND
+CORRESPONDING SYMBOLS) YOU MAY ENCOUNTER
+
+Symbol Greek Alphabet | Symbol | Greek Alphabet
+a Alpha 0 Theta
+B Beta A Lamba
+y Gamma 1 Pi
+O Delta o Sigma
+é Epsilon Xx Chi
+4 Psi HM Mu
+Pp Rho a) Omega
+
+11
+ignou
+THE PEOPLE'S
+UNIVERSITY
+
+BLOCK 1
+
+REVIEW OF BASIC MATHEMATICS
+
+Unit 1
+Unit 2
+Unit 3
+Unit 4
+
+Fundamental Concepts of Mathematics
+Overview of Basic Methods of Mathematics
+Relations and Functions
+
+Co-ordinate Geometry and Representation of
+Functions
+
+13
+ignou
+THE PEOPLE'S
+UNIVERSITY
+
+UNIT 1 FUNDAMENTAL CONCEPTS OF
+MATHEMATICS
+
+Structure
+
+1.0 Objectives
+1.1 Introduction
+1.2 Set Theory
+1.2.1 Concept of Set
+1.2.2 Notations
+1.2.3 Forms of Set Representation
+1.2.4 Relationships Between Sets
+1.2.4.1 Notations, Definitions and Examples
+1.2.4.2 Establishing Set Relationships
+1.2.5 Some Special Sets: Universal Set, Null Set, Power Set, Convex Set
+1.2.6 Quantifiers and Logical Symbols/ Operators
+1.2.7. Some Conceptual Clarifications and Explanations
+1.2.7.1 Difference between the Concepts of ‘Relation’ and
+‘Operation’
+1.2.7.2 Operations on Sets: Union, Intersection, Difference,
+Complementation
+1.2.7.3 More Clarifications
+
+1.3. Numbers: From Natural to Complex
+1.3.1 Some Standard Number Sets
+1.3.2 R, The Set of Real Numbers
+1.3.3. Real Number Intervals
+1.3.4 Complex Numbers
+1.3.5 Number Miscellany
+1.3.6 Properties of Real Numbers as Ordered Field
+
+1.4 Decimal Representation of Rational and Irrational Numbers
+1.5. Real Number Exponentiation
+
+1.6 Let Us Sum Up
+
+1.7 Key Words
+
+1.8 Answers/Hints to Check Your Progress Exercises
+
+1.9 Exercises
+
+1.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+e differentiate between concept, term, notation and definition of number;
+
+e explain the concept of set;
+
+e use set notation;
+
+e find relations on sets;
+
+e apply set operations; 15
+Review of Basic
+Mathematics
+
+16
+
+e differentiate between the concepts of ‘relation’ and ‘operation’ on sets;
+
+e discuss relations and operations on numbers and their properties;
+
+e define various types of numbers;
+
+e apply operations on them; and use their properties in numerical problem
+solving;
+
+e express real numbers, including irrational numbers, as decimal numbers;
+
+e apply rules of exponentiation of numbers.
+
+1.1 INTRODUCTION
+
+The discussion in the unit is centred on the two foundational concepts of
+Mathematics, viz. (1) number, the basis of conventional mathematics; and (11) set,
+
+the basis of modern mathematics.
+
+Let us first understand the concept, term/name, notation/symbol, and system of
+
+the number.
+
+Fig. 1 (a) Fig. 1 (b) Fig. 1 (c)
+
+Number Concept: when one views Fig. l(a) as different from Fig. 1(b), and
+views Fig. 1(b) as similar to Fig. 1(c), then one has number-sense, the idea/
+concept of number (of at least up to 2). The number sense/concept tells one that
+despite so many common features that both figures Fig. 1(a) & Fig. 1(b) have,
+e.g., both are about horse(s), and even about black horses, they are in one sense
+different. Similarly, about figures Fig. 1(b) & Fig. 1(c), despite having so many
+differences—Fig. 1(b) being picture of actual black horses, but Fig. 1(c) being
+picture of marble white elephants (toys)—the two figures have something in
+common, viz. ‘twoness’. The ‘twoness’ is a concept.
+
+Number name/term: for the number of horses in Fig. 1(b), there are different
+names/terms in different languages: ‘two’ in English, ‘’ in Hindi, ‘zwei’ in
+German, ‘@)60or(h)’ or ‘Zrantu’ in Tamil.
+
+Concept & Term: the word ‘term’ is used for the name of a concept.
+For example, the terms ‘two’ and ‘’ represent the same concept of ‘twoness’.
+
+For this concept, even in English, other terms like ‘pair’, ‘couple’, and even
+‘twin’ may be used in some contexts. On the other hand, the term ‘bank’ may
+refer to two different concepts, viz. the one in context of a river, and the other in
+context of ‘the place where money is deposited’ etc.
+
+Numeral/Number-Notation/Number-Symbol: For the number ‘six’, various
+known notations include ‘6’, ‘VI’, and ‘&’. Thus 6 is actually name of a number,
+
+1.e., it is numeral, and not a number. But it is incorrectly called a number.
+In Mathematics, it is a practice to call the numerals as numbers. We will also
+generally use the term number, instead of the actual one the numeral.
+
+Term, notation and definition: One of the mathematical terms is ‘square root’;
+the corresponding notation/symbol is V. And the definition of square-root is ‘For
+a given number x, its square-root y is a number which satisfies the equation y x
+
+y= x, where the meaning of ‘x’ or multiplication is already known’
+
+Numeral system (or system of numeration): We have heard of various number
+systems (more precisely, numeral systems), e. g., decimal number system,
+Roman numeral system, binary number system. For example, the decimal
+number ‘47’ may be represented as ‘XZP in Roman numeral system, and as
+‘101001 in binary number system. The same expression may represent different
+numbers in different number system. For example, the expression ‘111’
+represents ‘One hundred & eleven’ in decimal number system, ‘seven’ in binary
+number system, and ‘three’ in ‘unary number system’.
+
+The term ‘Number System’—against the term ‘Numeral system’—is different,
+and will be discussed later.
+
+1.2 SET THEORY
+
+Conventionally, the concept of number and geometric concepts like ‘straight
+line’, triangle’ and ‘square’. have been the most fundamental, and the very first
+of the concepts discussed in introductory mathematics. Since almost the middle
+of the previous century, the concept of ‘set’ is considered as the most
+fundamental concept of mathematics and all other concepts, including even those
+of counting numbers and geometrical shapes, are discussed in terms of set.
+
+1.2.1 Concept of Set
+
+Set is a basic concept like ‘point’, & ‘’straight line’ in geometry and like
+‘number’ in arithmetic, and hence, should be left undefined. However, in view of
+the fact, that ‘set’ is now-a-days considered as one of the most fundamental
+concepts in mathematics; to make a beginning in new mathematics, we just give a
+sort of working definition, and define some elementary operations on sets to be
+frequently used in the subsequent discussion.
+
+Roughly, a set may be considered as a collection of things or entities, like names
+of animals, names of books, names of numbers, names of geometrical shapes, or
+any mixture of these. Any entity in a set is called its member, or its element.
+Further, in a set, no member is repeated more than once. Also, the entities must
+be distinctly identifiable. For example, as the drops of water in a glass cannot be
+distinctly identified, therefore drops of water in a glass do not form a set.
+
+More formally, we take a set as a well-defined collection of objects. What is
+meant by ‘well-defined’ needs to be understood clearly. A collection is said to be
+well-defined, if (i) entities included in it are distinctly identifiable, and, (ii) if we
+
+Fundamental Concepts
+of Mathematics
+
+17
+Review of Basic
+Mathematics
+
+18
+
+pick up any distinctly identifiable entity in the world, then we should be able to
+tell whether the picked-up entity is in (i. e. belongs to) the collection or not. For
+example, let us consider the collection of all those students of IGNOU who
+enrolled in 2021 for M.A. (Economics) program. This is a _ well-defined
+collection, and hence, a set. But if we say the collection of some of those students
+of IGNOU who enrolled in 2021 for M. A. (Economics) program, then, it is NOT
+a set. Also, if we say ‘collection of all drops of water in this glass’, then it is
+NOT a set, because, as mentioned earlier, a ‘drop of water’ is not distinctly
+identifiable. Thus, not any collection is a set, only a well-defined collection is a
+set.
+
+Let us look at a well-known example of a collection which is not well-defined,
+and hence is not a set:
+
+A small village has only one (male) barber, who shaves all those, and only
+those males, who do not shave themselves. Let X be the collection of all the
+villagers shaven by the barber. Then, it is not possible to tell whether barber
+belongs to X or not. This is so because, if the barber as a villager shaves
+himself, then he cannot be shaven by the barber. Similarly, if he, as a villager
+does not shave himself, then he must be shaven by the barber. Thus, it is not
+possible to tell whether the barber is in X or not. Hence, X is not a well-defined
+collection, and thus, not a set.
+
+1.2.2 Notations
+
+Like most of the mathematical concepts, sets have special notation. For
+illustration, the notation {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} is used to denote the set of all
+decimal digits, viz., 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+The notation for a set has at the leftmost position a left brace, denoted by ‘?’,
+followed by one of the elements, say 0, then a comma and a blank-space, next
+another element say 1, followed by a comma and blank-space, and so on, till the
+last element is written, which is followed by the right-brace, denoted by ‘}’.
+Generally, a set is given a name, e. g., in this case the name of the set may be
+Num-Digits, then we write Num-Digits= {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Any distinct
+name—the name which has not been used earlier for naming any other set—may
+be assigned. However, generally, name assigned is mnemonic (i. e., name
+assigned should be helpful in remembering its contents or members).
+
+Member/element of a set is what is included, except commas, within braces. For
+example, 0 is a member, or element, of Num-Digits, 5 is a member of
+Num-Digits etc. Instead, we may also say 0 belongs to Num-Digits, 5 belongs to
+Num-Digits etc. However, we say 35 does not belong to Num-Digits.
+
+Notation for member is the symbol €, called epsilon. It is used to denote
+membership of a set. For the above example of Num-Digits, we will write
+0 € Num-Digits, 9 € Num-Digits etc. Similarly, if we have a set called Vowels,
+with Vowels = {a, u, e, 0, 1}, then e € Vowels, u € Vowels ETC. Whenever x is a
+member of the set X, or equivalently, when x € X, then we also say ‘x belongs to
+X’. The notation for ‘is not a member of or for ‘does not belong to’ is €. For
+example, for the definition of Num-Digits given above, 35 € Num-digits.
+
+Convention for notation of sets and elements: generally, set names start with a
+capital letter, e. g. X, Y, N, Num-Digits, Value. And members, or elements are
+denoted by small letters, e. g. a, b, x, y etc. However, it is not at all binding; we
+may use small letters for set-names and capital letters for elements/members.
+
+Extension of Set Notation: the problem with the set notation mentioned above,
+arises when the number of elements in a given set is either very large or infinite,
+because then it is quite difficult or even impossible to specify all the elements for
+using the notation. In such cases, if there is some pattern among the elements,
+then only some initial members are mentioned followed by triple dots (...)._ For
+example, the set of numbers, each of which is less than 10,001 and is also square
+of some integer, may be denoted by {0, 1, 4, 9, ..., 100, 121, ..., 400, ...,
+10000}, or even more briefly by {0, 1, 4, 9, ..., 10000} etc. It may be named
+asSq_int_less_10001.
+
+1.2.3 Forms of Set Representation
+The following two are well-known forms for denoting sets:
+
+1) Tabular or roster form: The notation, so far used for denoting a set, is called
+tabular or roster form. In this form, each of the elements/ members, or
+enough members to indicate a pattern must be included within braces. The
+notation is quite convenient if the number of members is a small number.
+However, the notation has problems, specially, in the case of large sets.
+
+ii) Set-builder form: The other notation is called set-builder form. Consider
+again the set Sq_int_less_10001. Every element of it has two properties: (a) it
+is square of an integer and (b) it is less than 10001.
+
+The set-builder form uses these properties to denote the set as follows
+Sq_int less _10001= {x: x= y’, y is an integer, and x < 10001},
+
+The notation above states that the members of the set Sq_int less _1000/ are x,
+where (‘where’ is denoted by ‘:’ or ‘|’) x satisfies three conditions: x= y’, y is
+an integer, and x < 10001.There may be shades of differences in the set-builder
+notation. For example
+
+The set Decimal _ digits = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} may be denoted as
+Decimal digits = {x:x €Nandx< 10}; OR
+Decimal _ digits = {x EN: x < 10} etc.
+
+The set-builder notation is quite convenient if the properties satisfied by all the
+members can be easily described, even if the set has very large number or
+infinite number of members.
+
+Fundamental Concepts
+of Mathematics
+
+19

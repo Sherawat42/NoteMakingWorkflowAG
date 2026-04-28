@@ -1,0 +1,49 @@
+Dynamic
+Optimisation
+
+72
+
+Using formula in equation (23.40)
+
+éH ae(.)
+
+"=P Ul, - =ryu,+——— p, g'(x,
+Mary, a, Hy ax, H, &'(%,)
+aH apy 01 g¢x,)
+
+H OxXt bw
+
+This result as in the exhaustible resource problem has an economic interpretation.
+The new term on right hand side g'(x) provides and extra dividend, the extra
+
+growth that results from holding an extra unit of the resource in the stock.
+
+In steady state yt’ = 0 so r = Q'(Xt)— det.) 4
+Ox(t) bt
+oc
+If =0>r=g(x
+Ox 9(xXt)
+
+Assuming r > 0, this implies that the steady state stock corresponds to g(x)
+increasing (g'(x) > 0)or in other words the stock is to left of (is less than the
+
+maximum sustainable yield (MSY) stock, as shown in Fig. 24.3.
+
+g(x)
+
+ero
+
+Optional MSY Xt
+
+stock stock
+
+Fig. 24.3: When the discount rate is positive, the optimal stock size is less
+than MSY stock size.
+
+of course, if r= then g'(x) = 0 and the MSY stock is optimal as in Fig. 24.4.
+
+we can characteristic the MSY stock as follows:
+
+dx x
+o =—t= y-st
+a(x,) t rm s)

@@ -1,0 +1,54 @@
+23.3 HAMILTONIAN FORMATION OF OPTIMAL
+CONTROL PROBLEM
+
+Let us restate what we have learned so far
+x(t) = f(x(t), u(t), t)
+
+Given the above constraint we have to optimise
+
+t
+JO) = SOx(t), t) leet, i v(x(t),u(t), t)dt
+‘0
+
+We have derived necessary condition
+aA.) A/adc))|_¢
+ax(t) dt ex’(t)
+
+and boundary condition
+
+OA) )., ~~  OA(.)
+[a0-{ 2) ol St, + xd)
+
+where * stands for optimal value of u* (t)which in turn gives us x(t)
+
+OX
+"tty
+
+: , 880) ) vy , 280) 9 ry
+and we know A(.) = satu) 2¢9,0-+{ $0} (W+e A(t) x(t)
+
+Note:
+H = Hamiltonian function (this is free from x’(t)
+= V(x(t),u(t),t) + AQx(t), u(t), t)
+
+Using equation 23.10 in equation (23.14) ie., the value of L(.) is used in
+necessary condition.
+
+Using the fact that oH =0 and 6 és =0
+ox'(t) éx'(t) | ot
+
+and after simplification we get
+
+oH() _ .. (23.21) for u(t) as scalar
+
+u(t)
+
+Gh =Omet ... (23.22) for u(t) as mx ‘vector
+ox =-x(t) ... (23.23) for x(t) is scalar
+ont = aa) «+. (23.24) for x(t) is nx 1 vector
+on =x'(t) ... (23.25) for x(t), u(t) as scalar
+
+Intertemporal
+Optimisation-II
+
+51

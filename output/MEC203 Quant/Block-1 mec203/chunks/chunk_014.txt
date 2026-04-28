@@ -1,0 +1,430 @@
+Review of Basic
+Mathematics
+
+130
+
+4.6.2 Discontinuous Function
+
+A continuous function is a single unbroken curve. You could draw without
+lifting your pen from the paper. For example, here is a graph of a continuous
+function (Fig 4.31):
+
+Fig. 4.31: Graph of Continuous Function
+
+In case of a discontinuous function, you cannot draw on a graph without lifting
+your pencil. There are three types of discontinuities:
+
+4.6.2.1 Asymptotic Discontinuities
+
+Consider a function f(x)=  (x+4)/(x-1) (x+8)
+
+We know that its domain is limited to all real numbers except land -8. Often, the
+most interesting points in a function are the problematic points, and indeed, we
+can see in the graph (Fig. 4.32) that the function behaves very strangely at the
+holes in the domain.
+
+| oa-
+
+-10
+
+Fig. 4.32: Graph of Discontinuous Function
+
+Look at the values (Table 4.6) of the function approaching one of the
+problematic points, x=1
+Table 4.6: Values of y=(x+4)/((x-1) (x+8))
+
+xX Y
+0.25 -0.687
+0.5 -1.059
+0.75 -2.171
+1.0 Undefined
+1.25 2.270
+1.5 1.158
+1.75 0.786
+
+As we approach x = 1 from the left side, with increasing x values, the y value
+drops to lower and lower negatives. The graph shows us that the y value seems to
+approach -from the left as the x-value approaches x = 1, marked by the dotted
+line. This represents a discontinuity, since the function is not connected over the
+dotted line. Specifically, this type of discontinuity is called an asymptotic
+discontinuity. The dotted lines represent asymptotes; they are values for which
+the function never takes a value, yet still approaches. The asymptotes we see
+with this function are called vertical asymptotes because they are vertical lines.
+There are also horizontal asymptotes. To see horizontal asymptotes, we graph
+the function f(x)=2x/ (x+4). It should have a horizontal asymptote at y=2.
+
+4.6.2.2 Point Discontinuities
+
+Consider the function
+
+1, for x=3
+f(x)= x",
+all other real values of x
+
+Where as we have defined the value of the function to be 1 at x=3, and in the
+rest, the function is f(x) = x’. Asa result, the graph of the function is continuous
+except for the tiny hole in the curve at x = 1. It is discontinuous at a single point,
+vz. x = 1, and this discontinuity 1s called a pointed is continuity.
+
+Point Discontinuities also arise when our function has a denominator that can be
+equal to zero, but that part of the denominator can also be cancelled out with a
+like term in the numerator. Consider the function f(x)=x* (x-2)/(x-2). If we try to
+find the value of the function at x=2, we get f(2)=27 (2-2)/(2-2) = 0/0. As 0/0
+represents an undefined number, the function does not exist at that point.
+
+However, if we restrict the function to a domain that does not include 2, we can
+simply cancel out the (x-2)/(x-2) and be left with f(x)=x.This leaves us to define
+the function as:
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+131
+Review of Basic
+Mathematics
+
+132
+
+x’, x #2
+
+f(x) =x? (x-2)/(x-2) = undefined, x= 2
+
+The new definition has removed the discontinuity to show that the function
+behaves exactly like f(x)=x’, except at x=2, where it is undefined.
+
+4.6.2.3 Jump Discontinuities
+
+Consider the function f(x)=x’,~x < 1
+2-x,>1
+
+For all intents and purposes, we can consider it two separate functions —
+one that is defined for x less than or equal to 1 and another function that is
+defined for x greater than 1. It is useful to think of it this way when we
+eventually use integration, differentiation, and other such mathematical
+tools. However, as it is written, f is a single function, called a piecewise
+function, since it is defined piece-by-piece. Note that the function adheres
+to our definition of being continuous (Fig. 4.33).
+
+sk sey=[{ 78)
+
+2-a,471
+
+Fig. 4.33: Graph with Discontinuities
+
+Now, suppose we change our functions lightly to et x ,x< 1
+-x,x> 1
+
+The two pieces now have a different value around x = 1, and we can see in the
+graph (Fig. 4.34) that our function f seems to "Jump" from one branch to the
+other. Note this jump makes the function discontinuous. We refer to this as a
+jump discontinuity.
+gr
+_{ #,281
+ropa] ee
+oe
+al |
+r |
+L |
+|
+ae
+\ r |
+
+Fig. 4.34:Graph with Jump Discontinuities
+Example:
+
+We have to check the following function for discontinuities:
+
+f(x)= xt+4/x, x<2
++1 yd
+
+We begin by looking at the first branch of the function. First, note that it has an x
+in its denominator. This tells us that it has a problem in its domain at x = 0. As
+the values for x get very small, the value of the function approaches infinity, so
+we have an asymptotic discontinuity at x = 0. We also have to check if the
+branches correspond to the same value at x=2. The first branch yields x+4 =3and
+these condbranchyields2’+/=9. We can see the functions approach different
+values at x=2 so there is a jumped is continuity at x=2.There are no other
+discontinuities. (See Fig.4.35)
+
+Fig. 4.35: Graph with Discontinuities
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+133
+Review of Basic
+Mathematics
+
+134
+
+Check Your Progress 5
+1) Draw the graph of f(x) =-x°+4.
+
+eo eer e rere rere rere rere reer eeresrererere reser e rere eereresrerererereresrereereeerererererere reser eereeeces
+
+eo ore e reece ere rere ere rere ereereeeresrere rere re rere rere reesreeesreresrereresrerereeeesresresreresrereereeeereece
+eo errr r er ere rere rere rere eer eres e rere rere reser ereeeesresrererererereresreeeeeesrerererere rere ereereeeces
+
+eo ee erer rere rere rere rere rere ere erereere rere rere reser eeeererereresresrere sere eesrererere rere rere eeereeecs
+eo cere ere rere rere rere rere reeerererere rere sresrereresreeeresreresrereresresresreeeesresrerererererereeeeeece
+
+4.7 GRAPHING HYPERBOLA AND PARABOLA
+
+We put together the functions that have characteristics of curves and pieces. In
+order to see such graphs, we need to see the intersection of a plane with a cone.
+Graphs of hyperbola and rectangular hyperbola which can be produced from
+such intersections are presented in the following.
+
+4.7.1 Hyperbola
+
+A hyperbola looks like two mirrored parabolas, with the two "halves" being
+called "branches". The definition of a hyperbola is the set of all points where the
+difference in the distance from two fixed points (called the foci) is constant.
+
+There are two kinds of hyperbolas: horizontal and vertical.
+The equation for a horizontal hyperbola is (x-h)’/a” — (y-b)’/b* = 1
+The equation for a vertical hyperbola is (y-v)*/a* — (x-h)*/b” = 1
+
+Notice that x and y switch places (as well as the / and v with them) to bring in
+the difference between horizontal and vertical hyperbolas.
+
+The centre of a hyperbola is in between the two vertices of the hyperbola. While
+plotting, the centre is taken up first. A hyperbola has two axes of symmetry. The
+one that passes through the centre and the two foci is called the transverse axis;
+the one that is perpendicular to the transverse axis through the centre is called the
+conjugate axis. A horizontal hyperbola has its trans verse ax is at y = v and its
+conjugate axis at x = h; a vertical hyperbola has its trans verse axis at x = hand its
+conjugate axis at y=v.
+Coordinate
+Geometry and
+Representation
+of Functions
+
+conjugate axis
+
+transverse~ —
+axis —,. vertex
+transverse conjugate axis
+
+axis center center
+
+vertex
+
+co-vertex
+
+Fig. 4.36: Graph of Hyperbolas
+
+You can see the two types of hyperbolas in Fig. 4.36: a horizontal hyperbola on
+the left, and a vertical one on the right. If the hyperbola that you are plotting is
+not in standard form, then you need to complete the square to get it in to standard
+form.
+
+For example, the equation (y-3)*/16 — (x+1)’/9 = lis a vertical hyperbola. The
+centre (h,v) is(—1,3).If a> = 16, a = 4, which means you count in vertical
+direction the number being under y variable given that b’ = 9 or, b = 3.Thus,you
+count horizontally 3 units from the centre both to the left and to the right. The
+distance from the centre to the edge of the rectangle marked “a” determines half
+the length of the transverse axis, and the distance to the edge of the rectangle
+marked “b” determines the conjugate axis. In a hyperbola, could be greater than,
+less than, or equal to b. If you count out a units from the centre along the
+transverse axis, and b units from the centre in both directions along the conjugate
+axis, these four points will be the midpoints of the sides of a very important
+rectangle. This rectangle has sides that are parallel to the x- and y-axis. This
+rectangle becomes a useful guide at the time of plotting the graph the hyperbola.
+
+As may be seen from Fig. 4.36, hyperbolas contain other important parts. For
+example, a hyperbola has two vertices. There are two different equations—one
+for horizontal and one for vertically perbolas:
+
+e A horizontal hyperbola has vertices at (/ +a,v).
+
+e A vertical hyperbola has vertices at (h, vta).
+The vertices for the above example are at (—1,3+4), or (—1,7) and (-1,-1).
+You find the foci of any hyperbola by using the equationa’+b°=F”
+
+where F is the distance from the centre to the foci along the transverse axis, the
+same axis that the vertices are on. The distance F' moves in the same direction as
+a. As per the example under consideration, 16+9=F *or,25=F?
+
+135
+Review of Basic
+Mathematics
+
+136
+
+To name the foci as points in a horizontal h y perbola, you use (h + F, v); to
+name them in a vertical hyperbola, you use (A, v + F). The foci in the example
+would be (—1, 3 + 5), or (-1, 8) and (—1, —2). Note that this places them inside the
+hyperbola.
+
+Through the centre of the hyperbola run the asymptotes of the hyperbola. These
+asymptotes help in sketching the curves. Remember that the curves cannot cross
+asymptotes at any point on the graph.
+
+The slopes of the asymptotes are m= +a/b for vertical parabola or, =+ a/b for a
+horizontal parabola. To graph a hyperbola (Fig. 4.37), follow steps as given
+below:
+
+1) Mark the centre: In our example hyperbola (y-3)°/ 16 —(x+1)7/9 = 1
+
+You find that the centre of this hyperbola is (—1, 3). Remember to switch the
+signs of the numbers inside the parentheses, and remember that h is inside
+the parentheses with, and v is inside the parentheses with y.
+
+2) From the centre in Step 1, find the transverse and conjugate axes. Go up and
+down the transverse axis a distance of 4 (because 4 is under y), and then go
+right and left 3 (because 3 is under x). The points you marked as a (on the
+transverse axis) are your vertices.
+
+3) Use these points to draw a rectangle that will help guide the shape of your
+hyperbola.
+
+4) Draw diagonal lines through the centre and the corners of the rectangle that
+extend beyond the rectangle. This gives you two lines that will be your
+asymptotes.
+
+5) Sketch the curves.
+
+Fig 4.37: Graph of The Hyperbola
+
+6) Draw the curves, beginning at each vertex separately, that hug the
+asymptotes the farther away from the vertices the curve gets.
+
+Hyperbolas are used extensively in economics and finance (specifically port folio
+theory), where they can represent the various combinations of securities, funds,
+etc., that yield similar risk-return ratios. Therefore, you often see efficient
+portfolio frontiers represented as partial hyperbolas. For similar reasons,
+production frontiers, which represent various combinations of capital and labor
+
+that produce a given output, as hyperbolas.
+
+4.7.2 Difference between Hyperbola and Parabola
+
+When a set of points present in a plane are equidistant from the directrix, a given
+straight line, and are equidistant from the focus, a given point which is fixed, it is
+called a parabola. When the difference of distances between a set of points
+present in a plane to two fixed foci or points is a positive constant, it is called a
+
+hyperbola.
+
+All parabolas are of the same shape no matter what the size; all hyperbolas are of
+different shapes
+
+The parabola is given by the equation Y°=X; a hyperbola is given by the
+equation XY=1
+
+In a parabola the two arms become parallel to each other where a sin a hyperbola
+they do not.
+4.7.3 Rectangular Hyperbola
+
+It is a hyperbola with rectangular asymptotes. When the function is in the form
+1/x", the graph is a rectangular hyperbola. There are two types:
+
+When n= 2k + 1,i.e.,nisanoddintegery='/, (Fig. 4.38)
+
+4
+
+es | x lo
+
+eo
+
+Fig 4.39: Rectangular Hyperbola y=1/x’
+Properties of the rectangular hyperbola:
+1) There is a vertical asymptote at x=0.
+2) There is a horizontal asymptote at y=0.
+3) There are no stationary points.
+
+4) There are no intercepts (since the axes are asymptotes. This is not true when
+the axes are not asymptotes.)
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+137
+Review of Basic
+Mathematics
+
+138
+
+5) For n= odd integer, the gradient is always decreasing throughout the defined
+portion of x.
+
+6) For n= even integer, the gradient when x<0 is always s increasing, whilst the
+gradient when x>0 is always decreasing.
+
+Example: Draw the graph ofy= x-1 /x+1
+
+Ans. Intercepts: when x= 0,y=-land when y=0,x=1. Turning point: There are no
+turning points for this kind of graph. Asymptotes: As x tends to infinity, y tends
+to 1. As y tends to infinity, x tendsto-1. x=-lis a vertical asymptote and y=lis a
+horizontal asymptote. Gradient: The gradient is always increasing (Fig.4.40).
+
+Fig 4.40: Graph of y= x-1 / x+1
+
+Rectangular hyperbola is used represent unitary elasticity of demand, average
+fixed cost, transformation curve and indifference map to name a few examples.
+
+Check Your Progress 6
+
+1) Tell the difference between hyperbola and rectangular hyperbola.
+
+2) What would be the price elasticity of a rectangular hyperbola shaped
+demand?
+
+eo eer ecere rere reece eer e rere eee ere ere rere rere eer e ese ereeresrere rere sre rere re reese eere reser ererereeeereeeece
+eee eer ec cere creer e rere recsrecerecsceeesesrererere rere sresresreeeseeresresreeresreeresresesreereeeceeresresreerere rere eresececes
+
+eee rere er reer ec rere re reser ere reer eeresresrereeresresresreereeereeresresrereresresre sere eereeresresrereere rere eesecece
+4.8 GRAPHING FUNCTIONS WITH TWO
+VARIABLES
+
+In the above discussion we have seen that for a function of one variable, y=/(x),
+the graph of f is the set of all points (x,y) in 2-dimensional space such that
+y=f(x). In general, these points lie on a curve in the plane. Now consider a
+function of two variables.
+
+The graph of a function of two variables is a surface in three dimensions. Thus
+we deal with a three-dimensional graph, the graph of a function z = f(x, y) of
+two variables, or the graph of a relationship g(x, y, z) among three variables. For
+example, here (Fig. 4.41) is the graph of z=2x7+2y"—4.
+
+Fig. 4.41: Three-Dimensional Graph
+
+The information in a three-dimensional graph is often collapsed into a two-
+dimensional graph with the use of contour lines. The procedure is: The x and y
+axes are retained, but instead of depicting z or f(x,y) axis, all x, y combinations
+giving rise to the same z or f(x, y) values are connected with a contour line; an
+arbitrary number of these may be shown for various values of z or f(x,y).
+
+4.8.1 Level Curves
+
+Let f be a function of two variables, and ca constant. The set of pairs (x, y) such
+that f (x, y)=c is called the level curve (or, contour lines) of f for the
+valuec.Example: Let f (x, y)=x* + y’ for all (x, y). The level curve of f for
+value lis the set of all pairs (x, y) such that x° + y°=1, a circle of radius 1. This
+
+tN
+yy,
+
+set is shown in Fig. 4.42.
+
+1
+bo
+bo
+
+7
+
+Fig. 4.42: Level curve
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+139

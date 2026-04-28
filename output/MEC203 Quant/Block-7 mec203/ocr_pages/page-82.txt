@@ -1,0 +1,72 @@
+gross investment (output less consumption) and capital depreciation Equation
+(24.41) constitutes the basic relation through which we discuss economic growth.
+
+Now we consider the preference of household which is expressed as utility
+function. Assume that consumption is the only argument of such function and it
+is expressed as U(C(t))for some point of time t.
+
+The utility function has few basic standard properties namely continuity
+
+differentiability and concavity. Function u is both increasing (u'>0) and
+
+concave (u"<0O) mean that marginal utility of consumption is positive and
+
+diminishing (Gossen’s first law), additional increments in consumption will
+
+generate progressively lower increases in utility.
+
+A class of utility function which obeys above mentioned properties is the
+
+constant elasticity of intertemporal substitution (CEIS) function A function of
+
+this class is typically formulated as
+
+cho —
+1-0
+
+u(c(t)) = ‘oe (0,0) {1} (24.42)
+
+Here Ois the coefficient of relative risk aversion defined as — cyu"(c(t))/u'(c(t)).
+The coefficient of relative risk aversion tells us how the household is going to
+
+rank different lotteries.
+
+—Oplays another role: It is also the inverse of the instantaneous elasticity of
+intertemporal substitution (EIS). The intertemporal elasticity of substitution
+between two points in time t and s > t is defined as
+
+Sts =—dIn(Cg/ct)/din(u(cg)/u(ct)) if we take limit of this expression
+s—twe yet
+
+' ," 1
+o = —u'(ct)/ cq (r)=5
+
+The EIS tells us how willing the household is to shift consumption from one
+period to another.
+
+The case 8 =1is a particular case, obtained by applying L’-Hopital’s rule to
+above expression (to equation 24.42) which allows us defining utility as a
+logarithmic function
+
+u(t) =In(c;) ws (24.44)
+
+The optimal growth problem is to maximize the following
+«
+
+u = fe-Ptufo(t)}dt .. (24.45)
+0
+
+max
+where p = Orepresents the rate of time preference.
+
+Mathematically speaking we have a objective function written in equation
+
+(24.45) which we wish to maximize subject to constrain which is in equation
+(24.41). Further ¢(t) is control variable and &(t) is state variable.
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+81

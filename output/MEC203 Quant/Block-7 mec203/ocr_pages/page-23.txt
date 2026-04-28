@@ -1,0 +1,61 @@
+Dynamic
+Optimisation
+
+22
+
+Then, H is constant along any extremal x*(t).
+
+Proof: Suppose x*(t) an extremal for J (.) Now,
+
+SH we x" (O)- £0" ZO-Vy)
+
+OVC), pd av 2 _ ( rave ) "() av( 2)
+
+=x 3 x 5 x 7
+axr@ + * Geax ay ax
+
+_ (amu )_ ave )
+dtax"©® —“ax(t)
+
+senses same as equation (22.15)
+And since x* is an extremal, the Euler-Lagrange equation is satisfied. Hence,
+
+d r =
+
+Su (ee@x"@)=0 (22.16)
+Consequently, H must be a constant along an extremal.
+
+Note that the function H depends on x(t) and x’(t) and thus the equation
+
+H(x(t) x’(t)) = constant is a first order differential equation for x*(t)
+
+22.5 SECOND ORDER CONDITION FOR
+OPTIMALITY
+
+This is called also sufficient condition and this condition determines whether
+the optimal is minimal or maximal. The sufficient condition is same as the
+condition for multivariable static optimisation.
+
+Earlier we have set VJ = 5) + 6)?
+
+We have to optimise the functional we have seen 2" variation of functional in
+Taylor series expansion of incremental of functional i.c.6J? (2! derivative of
+moment)
+
+t, 2 2
+oP = at ‘oxo. As D ax(t) + 2ax(t) HO ag
+ty
+
+5 ax? (t) Ax(t)dx'(t)
+1 .9VC ).,
++ dx'(t) Fey o* | at}
+a?v() av)
+_1) pty ' ax) Bx(Nax"(O| [ Ax(t)
+= 54 Se lax(e) ax’) BVO avo |lax'(t) dt vese(22.17)
+
+ax(ax'() —-ax!2(0)
+
+Let the above matrix is A
+
+07J >0 if A is positive definite at x* then J* (x* (t)) is minimum.So what we
+have to do is use 1“ order condition to evaluate x* then calculate value of

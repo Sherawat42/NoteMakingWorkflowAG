@@ -1,0 +1,53 @@
+Dynamic
+Optimisation
+
+84
+
+Adjustment cost model originates from the seminal work of Eisner and Strotz
+(1963). We consider a model of adjustment cost of a firm, which is price taking
+and producing at constant return to scale. The adjustment cost function is
+assumed to be convex.
+
+The firm faces following optimisation problem
+
+max V(.) = fe“ R(t)at
+0
+
+.. (24.50)
+[where R(t) = pF(A(t),L(t)) = G(I(t), A(t) w(L)L(t) — p*1
+» (24.51)
+where p* relative price of capital
+F(A(t),L(t)is output & w(t) is wage
+Because  G(I(t)A(t)) the adjustment cost  fimction is convex
+
+a 3028 59,8 <o,6(0,4)- 0
+“a” a2” 0k
+
+Trax < Lyin 20,5>0 and r>O are depreciation rate and interest rate
+respectively.
+
+a“ )
+
+Subject to =I(t)—5A(t) ws. (24,52)
+
+(Please refer to discounted problem in unit: 23 for formula)
+
+Using equation (24.50) and (24.52) we formulate Hamiltonian functional as
+under
+
+H* = pF(k,L)—G(, A) — wh —pé1+ (I-84)
+.. (24.52a)
+(Note we are omitting ‘t’ subscript for neatness)
+
+The necessary condition for optimisation)
+
+aH” _ 9 _, paF() _y _, OF.) _w
+aL aL al op
+». (24.53)
+OH 9 5 OW) pk gp <0 py =p +2
+al al a
+(24.54)
+From co-state equation
+, OF(.) _ dG(. =
+Be = Fut =p), SOs
+Sp()=(r +d), -p Tt), SO) ... (24.55)

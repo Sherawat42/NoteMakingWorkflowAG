@@ -1,0 +1,56 @@
+) +B [+c In fed Intertemporal
+
+=In (
+1+BCo 14+B C2 Optimisation-I
+
+= In(W, )—In(1+BC,)+Bi{C, +C,[In(BC, ) + nC W, )—In(1+ BC, )]} => C, +C, In W,
+
+=BC, —In(1+BC,)+C, [in( BC, )—In(1+ BC, )]+(1+BC, )InCW, )
+
+i 2
+
+We can see that our constant term in our guess C; must be equal to the constant
+terms on right hand side of our boxed in equation denoted by (1). We require
+however that the coefficient on In (W;) need to be equivalent on both sides
+
+This implies C) = 1+ BC,
+
+c- a besee (22.41)
+
+Use the coefficient to identity our policy function from W,4,4
+Recall from equation (22.40) our optimal value
+BOQWe
+
+Let g(W.) = Wes, = esse (22.42)
+
+Plugging equation 22.41 in equation 22.42 in above equation
+
+6m
++6 (=)
+
+Further rearranging we obtain our policy function for how much cake should be
+
+Wea =
+
+left for each period
+g(Wi) = BW, = Wea
+The corresponding consumption policy is denoted by
+Ch= We - Wes
+= W.-gW,) =W, - BW, = (1- BM
+Therefore, our optimal consumption function is
+
+Ch= BIW, eee (22.43)
+
+22.11 LET US SUM UP
+
+We initiated our discussion with clarifications about distinctions between
+(i) static & dynamic optimization approaches, and (ii) function and functional.
+Then we enumerated various dynamic optimization approaches, discussed the
+essential idea of cach approach, stated the theoretical results which form the
+foundations of the approaches, and then explained how to use each one for
+solving dynamic optimisation problems. More explicitly, first we discussed the
+Calculus of Variations approach, stated the foundational theorem justifying the
+basis of the approach, and then explained how to use it in solving appropriate
+
+problems. Next, we explained the dynamic programming approach for dynamic
+31

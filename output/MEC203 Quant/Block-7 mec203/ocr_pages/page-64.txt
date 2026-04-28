@@ -1,0 +1,51 @@
+.. OH Intertemporal
+necessary condition —=0=>1-2au=0 Optimisation-II
+éu
+
+because x(1) is free
+
+we use boundary condition est.) _ A(t) =0
+ox t=t;
+
+as S(.) = 0 (no terminal condition given) (1) =0
+
+Further a =-M(t)> A(t) =-1
+
+0
+=f 4a, =-14t
+dt
+=>A(t) = -t + Cusing M1) =0
+
+We get A(t)=1-t
+Sou’ = fa -t)
+2
+Using the u’ in state dynamic equation (i.e., constraint)
+
+x =1-L (1-12) given (x(0) = 1)
+. . * 1 5
+integrating we get x (t)=t— 4 (1-t)+ 4 (Ans).
+
+Q4. Determine a control law that would drive the system from an initial state
+X4(0) =0, xp(0) = 2to final state x4(t¢)=Xp(t¢)=Oin minimum waste
+or minimal control effort
+
+4 > :
+PL= Ipu (t)dt st x4(t) = x(t)
+0
+
+Xo(t) = x(t) + u(t)
+here S = (x, ts) =0
+
+Ans. Rewriting the problem P.I. Performance index
+
+a1 2
+
+= Inu dt wd)
+s.t. X4(t) = Xo(t) .. (2)
+Xa(t) = —x4(t) + u(t) .- GB)
+
+given x4(0), X2(0)=2 Xytp = Xot- =0
+
+forming Hamiltonian
+
+63

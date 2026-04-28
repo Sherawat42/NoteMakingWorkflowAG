@@ -1,0 +1,38 @@
+Intertemporal
+Optimisation-II
+
+Therefore, x4(t) = 2sint +3 a4(0) [sint -cost] -49(0)tsint (16)
+From eq. (2) X4 = Xa(t)
+
+=2cost+ 3 24(0)foost —(cost + t(—sint)]
+1 .
+~542(0) (sint + tcost)
+
+Therefore, X2(t) = 2cost + 5h4(0)(tsint -F0 (0)(sint + tcost) ... (17)
+applying the given end-point boundary condition we
+getat t=tp X4(tp)=xo(tp)=0
+here ty as free x(tf)is fixed
+
+HU ete. st <0
+[HO ak
+
+as Sts # O and s(x(t),t)=0 (no terminal condition given in problem)
+
+HO, =
+Rewriting equation (4)
+1
+H()=—ZRAlte) + alte) Xolte)— alte) -Ceaty) = 0
+
+Using initial condition x,t = xgt =0
+
+Aa(te)=0
+From e.g. (14) Ag(tp) =%2(0) cost, — A4(0) sints
+=> 0=A9(0)costs — A4(0)sints ... (18)
+
+We have 3 equations e.g. (16), (17) and (18) [put t= tin (16) and (17)] and
+18 is given. We have 3 unknowns A9(0),A4(O) and ts these are non-linear
+
+equations need not to be solved analytically. Rather to be done by numerical
+method.
+
+65

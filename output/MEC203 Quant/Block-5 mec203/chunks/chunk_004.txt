@@ -1,0 +1,575 @@
+--- Page 01 ---
+
+to find the set of values of the choice variables that will yield the desired
+extremum of the objective function.
+
+17.4.1 Equality Constrained Optimisation
+
+We have been given an objective function f:R”" > Rto maximise, subject to k
+constraints. That is, there are k functions, g':R" > R,g°:R" OR,...,.g° :R" OR,
+
+and we wish to
+Maximise f(x) over all x eR” such that g!(x)=0,..., g*(x)=0.
+
+More compactly, collect the constraint functions (looking them as component
+functions) into one function g: R” > R, where g(x) = (g!(x),...,g*(x)). Then what
+
+we want is to
+Maximise f(x) over all xR" such that g(x)ixk = O1xk.
+
+The theorem of Lagrange provides the necessary conditions for a local optimum
+x’. By local we mean that the value f(x") is a maximum or minimum compared to
+other values f(x) for all x contained in some open set U containing x” such that x
+satisfies the k constraints. Thus, the problem considered is to provide necessary
+conditions for a maximum or a minimum of f(x) over all xeS , where
+S=UN{xeER' | g(x) =6}, for some open set U.
+
+The following example illustrates the principle of ‘no arbitrage’ underlying a
+maximum. A more general illustration, with more than one constraint, requires a
+little bit of the machinery of linear inequalities for the illustration of which is out
+of the scope of this unit. However, such inequalities go a long way in
+optimisation theories of asset pricing, Nash equilibrium etc.
+
+Example 17.7: A household has a utility function U = U(x1,x2) with budget
+constraint P)x; + P2x2 = I. Suppose x” solves Max U(x1, x2) subject to (s.t.), I —
+Pix; — Pox2 = 0 and suppose x >0. Then reallocating a small amount of income
+from one good to the other does not increase utility. Say, income dI> 0 is shifted
+from good 2 to good 1. So dx; = (dI / Pi) > 0 and dx2 = — (dI / P2) < 0. Note that
+this reallocation satisfies the budget constraint, since
+
+pi(xit dxi) + p2(x2+dx2) =I. The change in utility is dU =Uidxi+U2dx2,
+or dU =[(U1/ pi) —(U2/ p2)|dI <0, since the change in utility cannot be positive
+
+at a maximum. Therefore,
+
+(Ui/ p)—(U2/ pr2)<0 (17.5)
+
+Similarly, dI> 0 shifted from good 1 to good 2 does not increase utility, so that
+[—(U1/ pi)+(U2/ p2)|dI <0, or [-Ui1/ pr) +(U2/ p2)] SO eee (17.6)
+
+Equations (17.5) and (17.6) imply
+(Ui(x") / Pit) = (U(X) / Px =e (17.7)
+
+Unconstrained
+and Constrained
+Optimisation
+
+161
+
+--- Page 02 ---
+
+Extreme Values
+and Optimisation
+
+162
+
+That is, the marginal utility of the last bit of income equals (Ui(x’)/P1) = (Ux(x’)/
+P2) at the optimum. Also, equation 17.7 implies Ui(x’)=A"Pi, U2(x')=AP2. Along
+with P;x"|+P2x "=I, these are the first order conditions of the Lagrangian function
+
+Max L(x, A) = U(x1, x2) +A[I — Pixi — P2x2]
+
+Let us take a general case. Suppose F': R” > RandG: R" > R, and suppose x*
+solves Max F(x) s.t. c — G(x) = 0.
+
+Contemplate a change dx in x" that respects the constraint G(x) = c.
+That is, dG = Gix1+Gox2 = 0.
+
+Therefore, Gix1 = —G2x2 = de and dx: = (de/Gi), dx2 = (de/G2). If de>0, then
+change dx implies dx:>0, dx2<0. F does not increase at the maximum, x’. So,
+
+dF = Fixit F2x2 <0,
+or, [(Fi / Gi) - (F2 / G2)|de <0.
+
+Therefore, in the general case,
+(Fi(x’)/Gile’))=(Fax)/G(xX)=e nn, (17.8)
+
+Caveat: We have assumed that Gi(x’) and G2(x") are not both zero at x*. This is
+called the constraint qualification. Again, note that equation (17.8) can be taken
+as the first order condition (FOC) of the problem
+
+Max L(x, A) = F(x) + A [c — G(x)].
+Let’s go back to the utility example. At the optimum (x’, A’), suppose you
+increase income by AI. Buying more x; implies utility increases by (Ui(x’)/
+p1) AL, approximately. Buying more x2 implies utility increases by (U2(x')/ p2) AL
+At the optimum, (Ui(x")/p1) = (U2(x’)/p2) = A". So in either case, utility increases
+by AAI, where A” gives the change in the objective function (here, the objective
+is utility), at an optimum that results from relaxing the constraint a little bit.
+
+The interpretation is the same in the more general case: If G(x) = c, and c is
+
+increased by Ac. Suppose x; alone is then increased,
+so, AG = gidx; = Ac,
+or, dx; = (Ac/G}).
+
+That means, at x, F increases by dF = Fidx: = (Fi(x')/Gi(x*))Ac = A‘Ac. If
+instead x2 is changed, F increases by dF = Fodx2 = (F2(x’)/Go(x*))Ac = Ac.
+
+Now we discuss the Lagrange theorem in detail. The set up is the following:
+f :R" > Ris the objective function, g':R" >R,i = 1,....n k, k<n are the
+constraint functions.
+
+Let g:R">R* be the function given by g(x) = (g/(x),....... , g2X(x)).
+Df (x) = (fF (x)/ Ax1,..., Of (0) / Xn).
+
+--- Page 03 ---
+
+(Gg'(x)/Ox1) ... (Ag'(x)/ Oxn) Dg'(x)
+
+Deg(x) = : "t = :
+(Og*(x)/Ox1) +++ (Ag*(x)/ Oxn) Dg* (x)
+
+Thus, Dg(x) is a kxn matrix.
+
+The theorem below provides a necessary condition for a local maximum or local
+minimum. Note that x" is a local maximum (respectively, minimum) of f on the
+constraint set {x € R" | g'(x) =0,i=1...., Atif f(x’) > f(x) (respectively for < f(x))
+for all x €U for some open set U containing x’, s.t.g'(x) = 0, i= 1,...,k. Thus x” is
+a maximum on the set S=U {x € R" | g'(x) =0,i=1....,k}.
+
+Theorem of Lagrange:
+
+Let f:R">R and g':R" Rg: R" OR....,2':R" OR , k < n be once
+continuously differentiable functions. Suppose x” is a maximum or a minimum of
+f on the set S=UA{x eR" | g'(x)=0,7=1....,k}, for some open setU CR”.
+
+Then there exists real numbers 1", A1 ,...,Ax , not all zero, such that
+UDf (x")+ >) AF De! (x°) = O1xn.
+
+Moreover, if rank (Dg(x’)) =k, then we may put p = 1.
+
+Notes:
+
+1) The condition rank (Dg(x*)) = k is called the constraint qualification. The
+first part of the theorem says that at a local maximum or minimum, under
+the assumption of continuous differentiability of f and g', i = 1,..., k, the
+vectors Df(x"), Dg!(x’),..., Dg*(x") are linearly dependent. The constraint
+qualification (CQ) basically assumes that the vectors Dg!(x’),..., Dg*(x’)
+are linearly independent. In that case, wDf (x) 4+ 0 Ar Dg! (x°) = Ox
+
+implies that 4 cannot equal to zero, for then ~~ Ai Dg’ (x") = @1«n, Which
+
+along with linear independence implies A; = 0, i = 1,..., k. This cannot be.
+So, if the CQ holds, then np # 0, and we can divide through
+
+by p.
+
+2) In most applications, the CQ holds. We usually check first whether it holds,
+and then proceed. Suppose it does hold. Note _ that
+uUDf (x )+ >, Ai Dg' (x) = @1xn subsumes the following n equations:
+
+(Of (x )/ Oxi) + ~~ Ai (6g'(x')/ 0xj/) =0, j =1,...,2 . Note also that
+
+this leads to the ‘usual’ procedure for finding equality constrained
+maximum or minimum, by setting up a Lagrangian function:
+
+L(x, A) = f(x) +>" Aig! (x),
+
+and solving the FOC
+
+Unconstrained
+and Constrained
+Optimisation
+
+163
+
+--- Page 04 ---
+
+Extreme Values
+and Optimisation
+
+164
+
+(OL(x, 2)/ Oxi) = (Of (x) / Ox) + >, Ai(Og' (x)/ Ox) =0, j =1,....n
+(AL(x,2)/6/:) = g'(x) =0,i=1,...,k which is (nt+k) equations in (ntk)
+
+variables X1,..., Xn, Al,..., Ak.
+
+Second order condition: These conditions are characterised by definiteness or
+semi-definiteness of the Hessian of the Lagrangian function, which is the
+appropriate function to look at in this constrained optimisation problem. In
+addition, we don’t have to check the appropriate inequality for the quadratic form
+for all x; only those x are relevant that satisfy the constraints. Second order
+conditions in general capture the change of the curvature of the objective
+function around the local maximum or minimum, i.e., how the graph curves as
+we move from x’ to a nearby x. In constrained optimisation, we cannot move
+from x" to any arbitrary x nearby; the move must be to an x, which satisfies the
+constraints. That is, such a move must leave all g'(x) at 0. In other words, dg'(x) =
+Dg'(x).dx = 0, where dx is a vector x — x’ that must be orthogonal to Dg'(x).
+Thus, it is suffices to evaluate the appropriate quadratic form at all vectors x that
+are orthogonal to all the gradients of the constraint functions.
+
+Since L(x,A) = f(x) +)" Ag'(x),
+D?L(x,A)nxn =D? f (X)nxnt >) AD? g! (x)n =n,
+
+where p?f(xy=| t,t and prgigg=|: m :
+Fin) Sin) a imme toh Ee)
+
+k i k F
+filX)t+ 2 Agile). fin) + DY) Aig’ n(x)
+kK i k i
+frit Agin(x) + f+) Aig'n(x)
+second order derivative of L with respect to the x variables. Note, that D°L(x, A)
+is Symmetric so we may work with this quadratic form.
+Ata givenx’ € R",
+Dg'(x")
+Dg(x )kxn= : . So the set of all vectors x that are orthogonal to all the
+Dg" (x")
+gradient vectors of the constraint functions at x‘ is the Null Space of Dg(x’),
+N(Dg(x*)) = {x ER” | Dex )x = Grex}.
+Theorem of Second Order Optimum:
+
+Suppose there exists (xn xl, Mx 1) such that Rank (Dg(x"))=k
+
+and Df(x")+\" Dg'(x*)=8.
+
+--- Page 05 ---
+
+i) A necessary condition: If f has a local maximum (respectively, local
+minimum) on § at point x", then x’ D°L(x',2")x <0, (respectively > 0) for
+allx < N(De(x )).
+
+ii) A sufficient condition: Ifx’D°L(x ,A°)x <0, (respectively for >0), for all
+xe N(Dg(x')), x#9, then x" is a strict local maximum (respectively for
+strict local minimum) of fon S.
+
+Note: The theorem means that for maximum, the second order condition should
+
+be that the bordered Hessian matrix of the problem is negative semi-definite
+
+(necessary) or negative definite (sufficient) given the FOC. For minimum, the
+
+second order condition should be positive semi-definite (necessary) or positive
+
+definite (sufficient given the FOC). Here the bordered Hessian is the matrix of
+second derivatives of L(x, 4) with respect to x and i.
+
+Check Your Progress 2
+
+1) Let U(x, y) = x’y and px=2, py=1. Suppose, I=200. Find out x” and y’, if
+I=pxx + pyy holds.
+
+2) Let U(x, y) = x*+y and px=2, py=1. Suppose, I=200. Find out x” and y’, if
+I=pxx + pyy holds.
+
+17.4.2 Inequality Constrained Optimisation
+
+The problem is to find the maximum or the minimum of f:R" > Ron the set
+{x eR" | o'(x)>0,i=1,...,k, where g':R" > Rare the k constraint functions. At
+
+the optimum, the constraints are now allowed to be binding (or tight or effective),
+i.e., g'(x) = 0, as before, or slack (or non-binding), i.e., g'(x) > 0.
+
+Example 17.8: Max U(x1, x2) s.t. x1> 0, x2> 0, I— pix: — p2x2. If we do not know
+whether xi = 0, for some I, at the utility maximum, or whether x;> 0, then clearly,
+we cannot use the theorem of Lagrange. Similarly, if there is a bliss point, then
+we do not know in advance whether there at the budget constrained optimum the
+budget constraint is binding or slack. Again, we cannot then use the theorem of
+Lagrange, to use which we need to be assured that the constraint is binding.
+
+Unconstrained
+and Constrained
+Optimisation
+
+165
+
+--- Page 06 ---
+
+Extreme Values
+and Optimisation
+
+166
+
+Note the general nature of a constraint of the form g'(x)>0. If we have a
+constraint h(x) <0, this is equivalent to —h(x)’ 0. And something like h(x) <c is
+equivalent to c — h(x) * 0.
+
+We use Kuhn-Tucker Theory to address optimisation problems with inequality
+constraints. The main result is a first order necessary condition that is slightly
+different from that of the theorem of Lagrange; the main difference is that the
+first order condition g(x) = 0, i = 1,...,k in the theorem of Lagrange are replaced
+by the conditions Aigi(x) = 0, i= 1,...,k in Kuhn-Tucker theory.
+
+17.5 KUHN-TUCKER THEORY
+
+Recall that the problem is to find the maximum or the minimum of f :R" > Ron
+the set {xe R"| e'(x)>0,i=1,...,k} , where g':R" >R are the k constraint
+functions. The main theorem deals with local maxima and minima, though.
+Suppose that 1 of the k constraints bind at the optimum x’. Denote the
+corresponding constraint functions as (2')i < ©, where © is the set of indexes of
+the binding constraints. Let go: R" > R' be the function whose components are
+the constraint functions of the binding constraints. That is, go(x) =(g'(x))ico
+
+Dg'(x)
+Dgo(x) = : , where i,..., m are the indexes of the binding constraints.
+
+Dg" (x)
+So, Dge(x) is a /xn matrix.
+
+We now state FOC for the problem. The theorem below is a consolidation of the
+Fritz-John and the Kuhn-Tucker theorems.
+
+17.5.1The Kuhn-Tucker (KT) Theorem
+
+Let f:R" >R, and g':R" >R,i=1,...,k
+
+be once continuously differentiable functions. Suppose x° is a maximum of f on
+the set
+
+S=Un{x eR" |g'(x)>0,i=1....,k}, for some open set U c R”.
+
+Then there exist real numbers un, Al, ...> -Ak, not all zero such that
+
+* k * i *
+UD (x")+ >), Ar Dg! (x) = O1xn-
+
+Moreover, if g'(x") > 0 for some i, then A; = 0. If in addition, rank Dgo(x’) = 1,
+then we may take 1 to be equal to 1. Furthermore, Ai ? 0, i= 1,..., k and Ai > 0
+for some I implies g'(x') = 0.
+
+Suppose the constraint qualification, Rank Dgo(x’) = 1, is met at the optimum.
+Then the KT equations are the following (n+k) equations in the n+k variables
+
+X1,..., Xn, Al,..+, Ak.
+
+Aig’ (x) =0,i=1,...,k, A: =0,g'(x )>0 with complementary slackness _ ....(17.9)
+
+--- Page 07 ---
+
+Df (x°)+ 0 Ai Dg! (x) =0 ... (17.10)
+
+If x" is a local minimum of f on S, then —f(x*) attains a local maximum value.
+Thus, for minimisation, while equation (17.9) stays the same, equation (17.10)
+changes to
+
+—Df (x")+ 0" Ai Dg! (x) =6 ....(17.10a)
+
+Equation (17.9) and (17.10) are known as the Kuhn-Tucker conditions. Note
+finally that since the conditions of KT theorem are not sufficient conditions for
+local optima, there may be points that satisfy equations (17.9) and (17.10) or
+(17.10a) without being local optima. This method does not require checking for
+
+concavity of objective functions and constraints, and does not require checking
+any second order condition.
+
+Next, we give one useful theorem that gives some link between local and global
+maxima, where the crucial assumption is that the objective function is concave.
+
+Theorem: Suppose Sc R” is a convex set, and f:.S —R is concave. Then
+
+1) Any local maximum of f is a global maximum of f.
+2) The set of maximisers of f on S, argmax{f(x)|x eS}is either empty or
+
+convex.
+Check Your Progress 3
+
+1) Consider the following utility maximisation problem, in which the utility
+
+function of the consumer is given by — U(x, y) = x°°y®*. The consumer
+
+income is I = 100 and it is given to him that px = 2 and py = 3. Find the
+utility maximising x and y when the budget constraint of the consumer may
+or may not bind (Apply the Kuhn-Tucker method).
+
+2) Maximize U(x, y) = (x — 3)(y — 2) subject to the following constraints:
+i) x > 0.
+i) yO.
+ili) 5x+3y < 50.
+
+Unconstrained
+and Constrained
+Optimisation
+
+167
+
+--- Page 08 ---
+
+Extreme Values
+and Optimisation
+
+168
+
+17.6 SIMPLE ECONOMIC PROBLEMS:
+
+CONSTRAINED OPTIMISATION
+
+In this section, we present two simple utility maximisation problems.
+
+Example 17.9: In this problem our objective is to
+
+maximise U(x1, x2) = x1 + X2,
+
+over the set {x =(x1,x2) ER? | 120,22 20,1 — pim— pix = 03,
+
+where I > 0, pi> 0 and p2> 0 are given.
+
+So, there are three inequality constraints:
+
+g'(x,x2)=m1 20, 9° (x1,x2)=%220 and g?(x,x2) =] —pixi— pox2>0
+
+At the maximum x’, any combination of these three could bind; so there are eight
+
+possibilities. However, since U is strictly increasing, the budget constraint binds
+
+at the maximum, therefore g*(x") = 0. Moreover, g!(x’) = g°(x) = 0 is not
+
+possible since consuming 0 of both goods gives utility equal to 0, which is clearly
+
+not a maximum.
+
+Therefore, we have to check just three possibilities out of the eight.
+Case (1) g(x") > 0, g7(x") > 0, °(x") = 0
+Case (2) g(x") = 0, g7(x") > 0, 2°(x") =0
+Case (3) g'(x") > 0, g°(x") = 0, g°(x") = 0
+
+Before using the Kuhn Tucker conditions, we verify that
+
+i)
+
+ii)
+
+A global max exists (here, because the utility function is continuous and the
+budget set is compact).
+
+The CQ holds at all three relevant combinations of binding constraints
+described above.
+
+Indeed, for Case (1), Dgo(x) = Dg*(x) = (-p1, -p2), so Rank[Dg?(x)] = 1, so
+
+CQ holds. For Case (2), Dgo(x) [pe re } so Rank [Dgo(x)] =
+Dg*(x)) \-P, -P
+0 1
+
+2. For Case (3), Dga(x) (Pe) -(
+“Pi ~P2
+
+) so Rank [Dgo(x)] = 2.
+Dg” (x)
+
+Thus, for the maximum, x’, there exists a A” such that (x, A’) will be a
+solution to the KT FOCs. Of course, there could be other (x, 2)’s that are
+solutions as well, but a simple comparison of U(x) for all candidate
+solutions will isolate for us the maximum.
+
+L(x, 4) = x1 + X2 + Aix + A2x2 + Ag(I — pixi — p2x2)
+The KT conditions are —
+A(OL/ 02) =4,x, =0,A, 20,x, 20, with CS (17.11)
+
+--- Page 09 ---
+
+1,(@L0A,) = Ax, =0, A, 2 0,x, 20, with CS (17.12) Unconstrained
+
+and Constrained
+
+A,(OL1 0As) = AI — PX, — PyX)) = 0,4; 2 0,(1 — px, — P)X,) 20, Optimisation
+with CS (17.13)
+(AL/dx,)=1+4,-Ap, =0 (17.14)
+(AL/ ax,)=1+ 4, -Ap, =0 (17.15)
+
+Since we don’t know which of these three cases select the constraints that bind
+
+at the maximum, we must try all three.
+
+Case 1: Since xi> 0, x2> 0, (17.11) and (17.12) imply A1 = A2 = 0. Plugging these
+in equation (17.14) and (17.15), we have 1 = A3 "pi = A3 po. Since utility is strictly
+increasing, relaxing the budget constraint will increase utility. So, the marginal
+utility of income is A3'> 0. Thus A3 pi = As p2 implies p: = po. From equation
+(17.14) it can also be seen that 43° = 1/pi> 0.
+
+Therefore, if at a local maximum both x; and x2 are strictly positive, then it must
+be that their prices are equal. All (x1, x2) that solve equation (17.13) are solutions.
+The utility in any such case equals xi + ((I — p1x1)/p2) = I/p, where p = pi = p>.
+Note that in this case, (U1/p1) = (U2/p2) = 1/p.
+
+Case 2: x1 = 0 implies, from equation (17.13), that x2 = (I/p2). Since this is
+greater than 0, equation (17.12) implies A2 = 0. Hence from equation (5), A3 p2 =
+1. Since A1°>0, equation (17.14) and (17.15) imply As pi = 1+ Ai= 1 = As po.
+Moreover, since A3 > 0, this implies p1>p2.
+
+That is, if it is the case that at the maximum, x: = 0, x2 > 0, then it must be that
+
+p1=p2. Note that is this case,
+
+(U2/p2) = (1/p2) = (U1/p1) = (1/pi).
+
+For completeness sake, equation (17.15) implies 43° = (1/p2). So from equation
+(17.14), Ai” = (pi/p2) — 1. So the unique critical point of L(x, A) is
+
+(x", A") = (x1, x2", An’, A2", As") = (0, (I/p2), (pi/p2) — 1, 0, (1/p2)).
+
+Case 3: This case is similar, and we get that x." = 0, x1 > 0 occurs only if pi <p».
+
+We see that which cases apply depends upon the price ratio (p2/p1). If (p2/p1) = 1,
+then all these three cases are relevant, and all (x1, x2)€ R? such that the budget
+
+constraint binds are utility maxima. But if (p2/p1) > 1, then only Case (2) is
+applies, and the solution to the KT conditions in that case is the utility maximum.
+Similarly, if (p2/pi) < 1, only Case (3) applies.
+
+Example 17.10: Max U(x1, x2) = (xi/(1+x1))+(x2/(1+x1)), subject to x1 > 0, x2>
+
+0, prxitp2x2<.
+
+Check that the indifference curves are downward sloping, convex and that they
+
+cut the axes. This last condition is due to the additive form of the utility function, 169
+
+--- Page 10 ---
+
+Extreme Values
+and Optimisation
+
+170
+
+and may result in 0 consumption of one of the goods at the utility maximum.
+Exactly as in the previous Example, we are assured that a global max exists, that
+the CQ is met at the optimum, and that there are only three relevant cases of
+binding constraints to check.
+
+The Kuhn-Tucker conditions are:
+
+A(6L/0A,) = A,x, = 0,4, >0,x, > 0, with CS ...(17.16)
+A,(€L/6A,) = Ax, =0,A, > 0,x, >0, with CS ... (17.17)
+A,(OL/0A,) =A, — px — P,X,) = 9,4, 20,7 — px, — px) 29,
+with CS ...(17.18)
+1
+_ _ = . (17.19
+(AL / 6x, ) Guay? A,p, =0 ( )
+1
+= (__ _ = ...(17.20
+(OL /éx,) Gray A, p, =0 (17.20)
+
+Case 1: x1> 0, x2> 0 implies A1 = A2 = 0. Equation (17.19) implies A3> 0, so that
+
+1
+
+1 2
+equation (17.19) and (17.20) give ( +4) = 2. |
+(1+x,) D>
+
+(1—p,x,)
+
+| , above, we get
+P»
+
+Using equation (17.18), which gives (
+
+iu
+(p, +1 — px) {2}
+(p, (1+, )) P2
+Therefore, simple consumptions yield
+
+_ [T+ p, (02)
+7 [> + (P,P )
+
+- [>. +(n.p2)
+
+A, = 1 _ 1
+P, (1+x,) Po (1+x,)
+
+1 1
+
+x1> 0, x2> 0 implies J >(p,p,)? —p,,J >(p,p,)? —p, - If either of these fails,
+
+then we are not in the regime of Case (1).
+

@@ -1,0 +1,324 @@
+
+--- Page 1 ---
+
+27.5 LET US SUM UP Probability
+
+Distributions-II
+
+In this unit, you learnt the concepts of joint distribution and the associated
+marginal distribution. You have also been introduced to the three most
+elementary and most used distributions in the theory of probability namely,
+Binomial, Poisson and Normal. First two of these are discrete and the last one is
+continuous. A distribution is defined mostly by its moments; therefore, having
+understood the concepts concerning moments we discussed how these moments
+are used to characterize a distribution.
+
+27.6 KEY WORDS
+Binomial : A discrete probability distribution satisfying the
+Distribution following conditions is a binomial distribution:
+
+1) It involves finite repetition of identical trials.
+
+2) Each trial has two possible outcomes: success
+and failure.
+
+3) Trials are independent of each other.
+
+4) The probability of the outcomes (success and
+failure) does not change from one trial to
+
+another.
+Normal : It is a continuous probability distribution with the
+Distribution: following properties:
+
+1) Itis symmetrical about its mean;
+
+2) All the measures of central tendency for this
+distribution is the same, ie., for normal
+distribution Mean = Mode = Median; and
+
+3) A variable following normal distribution can
+take any value within the range (—90,00)
+
+Poisson : A discrete probability distribution which is the
+Distribution limiting form of the binomial distribution, provided
+
+1) The number of trials is very large is fact tending to
+infinity.
+
+2) The probability of success in each trial is very
+small; tending to zero.
+
+Probability : Probability distribution of a random variable is a
+Distribution statement specifying the set of its possible values
+together with the respective probabilities.
+
+161
+
+--- Page 2 ---
+
+Probability and
+Probability
+Distributions
+
+162
+
+27.7 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+3-3x
+lL) (x)= f a y= 2-(8/2)K+ 2x20 <x<1
+0
+MYy!3) yy 1 1 5
+fy(y) = dx =—+—y-— y20 3
+y(y) J 7 = Bt Gy z5 <<
+
+ee) 1
+2) Hint: g(x) = g(x) = | F(x,y)dy = [F(x + 2y)dy == (x + 1)for0 <x <1andg(x) =0
+2
+
+—oO
+
+elsewhere
+
+Likewise, you can find out h(y)
+Check Your Progress 2
+
+1) As the formula for mean and variance of binomial distribution are given by n.p
+andn.p.(1—p)respectively, we get the following two equations
+
+1 Oe (1)
+N.p.(1-p) = 8/3... ce eeeeeeseeeeeeee (2)
+
+Solving these two equations we get n= 12 and p= 1/3.
+2) See Section 27.4.2.
+
+3) Hints: x follows a Binomial distribution and the event of a candidate
+passing the examination as success. Thus the probability of success:
+f(x) = 6C, (60/100)* (40/100)°-* . Find out f(4) + f(5) + £(6)
+
+Ans: 1701/3125
+4) Hints: Let the f(x)=10C,(P)* (Q)'°™ : and it is given that £(5) = 2£(4)
+
+10
+Ans: 3)
+8
+
+5) A=10 x 0.1 = 1,hence the probability of three defectives in the sample is
+given by
+f(3)=e!x17/3!=0.061
+
+6) The number of defectives follows a binomial distribution. Since p=
+.02 and n=100 which is very large, making up, n.p = A = 100x.02 =
+2, a finite quantity, we use the poisson approximation to binomial
+distribution.
+
+P (of 3 or more defectives)=1—[f(0)+f(1)+f(2)]=1-e7[1+2+27/2!]= 0.325
+
+--- Page 3 ---
+
+7) Substituting x= 7, n = 10, and p = 0.8 into the formula for binomial __ Probability
+Distributions-II
+
+distribution, we get
+b(7;10,0.8) =!°C7.(0.8)’(0.2)°=0.2 (approximately)
+Check Your Progress 3
+1) Clearly, the random variable denoting the weight, say X, of the students
+
+follow a normal distribution, mean (X) = 151; Var (X)= 15?
+
+1) Proportion of students whose weight lie between 120 and 155 lbs
+=Area under the standard normal curve between the vertical lines at
+the standardized values; z = (120—151)/15= -—2.07 and z = (155-
+151)/15 =0.27
+
+P(120 < X < 155) = ©(0.27)-B(-2.07) = B(0.27)-{1-(2.07)}
+=0,6064—-1+0.9808=0.5872
+ii) P(X >155) =1— P(X < 155) =1-© (0.27) = 0.3936
+
+2) The probability that X takes values greater than 60 is 5% or 0.05. This
+must be the area under the standard normal curve to the right of the
+ordinate at the standardized value z = (60—50)/o= 10/o
+
+0.05
+
+-10/o 0 10/o
+Since the area to the right of z = 0 is 0.05 and the area between z = 0 and z
+=1.64 is given to be 0.45, the area to the right of z =1.64 is .5 —.45=.05.
+Thus, we get 10/o = 1.64, or, o= 6.1.
+
+27.8 EXERCISES
+
+Q1. Find the binomial distribution of getting a six in three tosses of an unbiased
+dice.
+
+Ans: Let X be the random variable of getting six. Then X can be 0, 1, 2, 3.
+Here, n= 3
+p = Probability of getting a six in a toss = %
+q = Probability of not getting a six ina toss = 1-—'%=%
+P(X = 0) = "Cr pt = 3Co (%) (%)>—°
+=1x 1 x 125/216 = 125/216
+P(X = 1)="Cr pp’ gq®- =3C1 (%)! (%)P~!
+=3 x % x 25/36 = 25/72 163
+
+--- Page 4 ---
+
+Probability and
+Probability
+Distributions
+
+164
+
+P(X =2)="Cr pl? = 302 (%) (HP?
+=3 x 1/36 x % = 5/72
+
+P(X =3)="Cr pig? =3C3 (4) (%)>-3
+=1x 1/216x 1=1/216
+
+The required binomial distribution of X is:
+
+X 0 1 2 3
+P(X) 125/216 25/72 5/72 1/216
+Q2.
+
+There are four fused bulbs in a lot of 10 good bulbs. If three bulbs are drawn
+at random with replacement, find the probability distribution of the number
+of fused bulbs drawn.
+
+Ans: This is a problem of binomial distribution as the event of drawing a fused
+
+bulb is independent.
+
+p = P(drawing a fused bulb) = 4/(10 + 4) = 2/7
+q = P(drawing a bulb which is not fused) = 1 — 2/7 = 5/7
+X = event of drawing a fused bulb
+
+X can take up the values 0, 1, 2, 3
+
+P(X = 0) = P(getting zero fused bulbs in all draws)
+="C, p" gq’?
+
+=*Co (2/7)? (5/7)°
+
+=1 x 1 x (125/343) = 125/343
+
+P(X = 1) =P (getting one time fused bulb)
+="C, p' q’-”
+
+=*C1 (2/7)! (5/T)P~?
+
+= 3 x (2/7) x (25/49) = 150/343
+
+P(X = 2) = P(getting two times fused bulbs)
+=C, pi q®-)
+
+= 3C> (2/7) (5/7)8-?)
+
+=3 x 4/49 x (5/7) = 60/343
+
+P(X = 3) = P(getting three times fused bulb)
+="C, p' g@-9
+
+= 3C3 (2/7) (5/7)8- 9
+
+=1 x 8/343 x 1 = 8/343
+
+The required probability distribution:
+
+X 0 1 2 3
+
+P(X) | 125/343 150/343 | 60/343 | 8/343
+
+
+--- Page 5 ---
+
+Probability
+
+Q3. A life insurance salesman sells on the average 33 life insurance policies per 1 r0ns
+Distributions-II
+
+week. Use Poisson's law to calculate the probability that in a given week he
+
+will sell
+a) Some policies
+b) 2 or more policies but less than 5 policies.
+
+c) Assuming that there are 5 working days per week, what is the probability
+that in a given day he will sell one policy?
+
+Ans. Here, pu = 3
+
+a) "Some policies" means "1 or more policies". We can work this out by
+finding 1 minus the "zero policies" probability:
+
+P(X> 0) = 1— P(x)
+Now P(X)=e “u* / x!
+So,P(xo) = e 3? 3°/0!
+=4.9787x 10?
+
+Therefore, the probability of 1 or more policies is given by: Probability =
+P(X= 0)
+
+=1—P(xo)
+=1-4.9787x10 ?
+=0.95021
+b) The probability of selling 2 or more, but less than 5 policies is: P (2 < X <5)
+= P(x2)+P(x3)+P(x4)
+= (e? 37/2!) + (e? 39/3!) + (e? 34/4!)
+=0.61611
+c) Average number of policies sold per day: 3/5=0.6
+So, on a given day, P(X)=e °°(0.6)'/1!
+=0.32929
+
+Q4. For some computers, the time period between charges of the battery is
+normally distributed with a mean of 50 hours and a standard deviation of 15
+hours. Rohan has one of these computers and needs to know the probability
+that the time period will be between 50 and 70 hours.
+
+Ans: Let x be the random variable that represents the time period.
+Given Mean, p= 50
+and standard deviation, o = 15
+
+To find probability that x is between 50 and 70 or P( 50< x < 70):
+165
+
+--- Page 6 ---
+
+Probability and
+Probability
+Distributions
+
+By using the transformation equation, we know;
+z=(X-yp)/o
+
+For x = 50, z=(50—50)/15=0
+
+For x = 70 , z=(70—50)/ 15 = 1.33
+
+P (S50< x < 70) = P(O< z < 1.33) = [area to the left of z = 1.33] — [area to the
+left of z= 0]
+
+From the table we get the value, such as;
+P( 0< z < 1.33) = 0.9082 — 0.5 = 0.4082
+
+The probability that Rohan’s computer has a time period between 50 and 70
+hours is equal to 0.4082.
+
+Q5. The speeds of cars are measured using a radar unit, on a motorway. The
+speeds are normally distributed with a mean of 90 km/hr and a standard
+deviation of 10 km/hr. What is the probability that a car selected at chance is
+moving at more than 100 km/hr?
+
+Ans: Let the speed of cars be represented by a random variable ‘x’.
+Now, given mean, pt = 90 and standard deviation, o = 10.
+To find probability that x is higher than 100 or P(x > 100):
+By using the transformation equation, we know;
+z=(X-up)/o
+Hence,
+For x = 100 ,z=(100- 90) /10=1
+P(x > 100) = P(z > 1) = [total area] — [area to the left of z = 1]
+P(z> 1) =1-—0.8413 = 0.1587
+
+166

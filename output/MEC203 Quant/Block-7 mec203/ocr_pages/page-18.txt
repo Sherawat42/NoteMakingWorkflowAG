@@ -1,0 +1,52 @@
+Where V (.) has continuous partial derivative of second order with respect to x
+(t), x°(t) and t and x;, = xo and Xp = Xe and Xep and x;, € R, te to. Then there
+exists an external path x* for which the objective function J (.) is either
+maximized or minimized, if and only if.
+
+avi) d AV) _
+ax(t) dt axr(t)
+
+The above equation is a second order (generally non linear) ordinary differential
+equation that any continuous and differentiable external x" must satisfy. This
+differential equation is called the Euler-Lagrange equation. The boundary
+values associated with this equation for the fixed end point problem are x (to) =
+Xo, X(t) = Xr
+
+Euler-Lagrange equation is necessary condition if x(t) is single variable we get
+24 order differential equation but if x (t) is a nX1 vector i.e. consists of n
+variables, then we get 2n differential equations. In general these equations are
+non linear time varying equations.
+
+Proof: We are assuming that to and tr are fixed and they are the end points.
+
+If the point A corresponds to and B to in Fig. 22.1 then let x* (t) be optimal
+path from A to be B and this x* (t) will optimise (either maximize or minimize)
+functional J (.)
+
+B (xt, t)
+
+x ()
+
+x(t) [Xto
+
+a) To
+
+fe
+
+Fig. 22.1: Representation of Optimal and Sub-Optimal Path
+
+Let x, (t) is a path very close to optimal path but it is sub-optimal path:
+Let x, (t) =x" (t) +6x (t) (22.5)
+
+\|6x(t)|lz > 0 and satisfy following boundary condition
+
+Xato)= x" (to) = Xo
+
+Xa (t) = x" (te) = Xr
+
+5x (Cleat, = 0, 5% (Olea, = 0, that means A and B are fixed points.
+
+Intertemporal
+Optimisation-I
+
+17

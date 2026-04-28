@@ -1,0 +1,604 @@
+--- Page 81 ---
+
+Real Analysis
+
+80
+
+14.8.4 Maclaurin’s Series
+
+when we take a=0, then the Taylor’s series is called Maclaurin’s series. The
+function f(x) in terms of Maclaurin’s series/ expansion, under the conditions of
+Taylor’s theorem, is
+
+fo) 5 f*@) ,; . f? 0)
+
+T M+ rT +... ; Mh.
+! ! n}
+
+f= fO)+ / O)xe+
+
+.. (14.14)
+14.8.5 Linear/Quadratic Approximation
+
+Linear approximation
+If in (#1) of subsection 14.8.1, we take k=1 in Py, «, then the Taylor’s polynomial
+becomes Pi,a= f(a) + f (a) (x -a). ... (14.15)
+
+This is called linear approximation of the function f(x), provided the values f(a)
+and f?(a) are Known.
+
+Taylor’s formula, for expansion of f (x), in this case, is
+
+Sx) = Pi.a+Rilx, a),
+provided lim,_,q Ri(x, a) =0, ... (14.16)
+where R(x, a) depends on x, a and the function f-
+
+Hence, the error of approximation in the computation of f(x) using linear
+approximation isR7(x).
+
+Quadratic approximation
+
+If in (14.11) of subsection 14.8.1, we take k=2 in Px g, then the Taylor's
+polynomial
+
+becomes Po, a= f(a) + f(a) (x —a) + f’’(a) (x -a)’/2 ... (14.17)
+
+This is called quadratic approximation of the function f(x), provided the values
+f(a), f(a), and f’’(a) are Known.
+
+Taylor’s formula, for expansion of f (x), in this case, is
+So) = P2,. + Ro(x, a), provided limy_,g Ro(x, a) =0 -. (14.18)
+
+Hence, the error of approximation in the computation of f(x), using quadratic
+approximation is R2(x).
+
+Example 14.14
+
+For the function f(x) = sin(x), find (i) linear and quadratic approximations, and
+(ii) Maclaurin’s series expansion of the function.
+
+Solution:
+
+We calculate values at x ==0 of sin(x) and of its various order derivatives,
+starting with the first derivative.
+
+Sin(X)x=9 =O; 7X) x=9 = COS (X) x=9 =1; f?00) x=0 = — SiN (X) x=9 =O3 fF?) x0 = -
+cos(x) x=-9 =— 1. (14.19)
+
+--- Page 82 ---
+
+Part (i) Calculus of Several
+Variables
+
+Linear approximation of f(x) = Pi, 9 =f(0) + x (P(0)), where the remainder term
+R{(Xx) is neglected
+
+Linear approximation of sin(x)= sin(0) + x (cos(x))x=9 = 0 +x = x.
+
+Quadratics approximation of f(x) = P2,9=f(0) + x f(x) + (x’/ 2!)f ?(x) , where the
+remainder term R(x) is neglected
+
+Quadratics approximation of sinx = (sinx)x-9 + x (f(sinx))x-9 + (°7/ 2!)
+(f ’?(sinx))x=0
+
+= 0 +x.1 + ((x7/2!). 0=x
+
+Part (ii) Maclaurin’s expansion
+
+The sequence of values of the derivatives in (14.19) above is repeated for higher
+order derivatives as follows:
+
+f'(sin()x-0 =O; f (8in(<))x-0= 1; f'(sin()x-0 =O; f ™(sin(<))x-0 =- 1.
+
+The repeating of the above sequence of the values of derivatives may be further
+generalized as follows:
+
+Sin) x0 =O; f!" (sin (0) 0 = 1; f* (sin (0) x0 =0;— f'*? (sin (x)
+x=0 1.
+for k= 0, 1, 2, 3, 4, ...
+
+Substituting these values in Maclaurin’s series expansion given by
+
+A ob
+
+x + 3 wat x +
+2! 3! n}
+
+S@O= fO)+ f O)x+
+
+we get
+
+sin(x) = 0 +x.1 + (x7/2!). 0 + (x7/3)). (-D + (x/ 41.04...
+=x —(x°/ 31) + (x°/ SN A(x TN HR ON +...
+
+14.9 MULTIVARIATE POLYNOMIAL
+
+APPROXIMATION: TAYLOR’S THEOREM,
+LINEAR APPROXIMATION
+
+In view of the fact that the involved ideas, and even the notation, are quite
+complex, specially, for the general case, we build up the approximation process
+gradually, starting with the simplest cases first.
+
+We start our discussion with polynomial approximation of functions of only
+TWO variables. Even this restricted discussion is also carried out in stages.
+Initially we discuss
+
+81
+
+--- Page 83 ---
+
+Real Analysis
+
+82
+
+14.9.1 Linear Approximation in Terms of Taylor’s Polynomials of
+Order I
+
+Similar to Taylor’s Polynomial of first order, and Taylor’s formula, for single
+variable functions, given by (#3) and (#4) respectively in subsection 14.8.5, there
+correspond
+
+Pi, ab) =F (a, b) +(x-e) fx (a, b) +(y-b) fy (a, b), .»- (14.20),
+the Taylor’s polynomial of degree ONE, in two variables, x and y, at the point
+(a, b),
+and Taylor’s formula for expansion of the function f(x, y) of two variables
+around (a, b), given by
+S (% Y) = Pi, (av) + Rix, y),
+provided limz>a Ri(x, y) =0 14.21)
+
+yr
+
+Thus, f(x, y),is approximated by polynomial P,, (a, »),
+where
+
+i) f-and f, are the partial derivatives off(x, y)w. r. t. respectively
+x and y,
+ii) the values f(a, b), f: (a ,b) and f, (a, b) at (a, b) of the function
+f(x, y) and its first order partial are known.
+iii) the error in the approximation isRj(x, y).
+The approximation is called linear in view of the fact the approximating Taylor’s
+
+polynomial P_ is of degree one, i. e. is linear.
+
+(It may be noted that higher the order of the Taylor’s polynomial, lesser is the
+expected error in the approximation.)
+
+14.9.2 Quadratic Approximation in Terms of Taylor’s Polynomials
+of Order2, Around (a, b).
+
+Similar to Taylor’s Polynomial of second order, and Taylor’s formula, for single
+variable functions, given by (14.17) and (14.18) respectively in subsection 14.8.5,
+there correspond
+
+Po, a, =F (a, b) + £0e-a) f(a, b) + (yb) fy (a, BY} + {(x-a)"/21)fex (a, b)+ (xa)
+(V-b)fiy(a, b) +
+
+((y-b)’/2!) fry (a, b)} «+» (14.22),
+Which is the Taylor’s polynomial of order 2, and
+
+the Taylor’s formula of order 2, for expansion of the function f(x, y) of two
+variables, say x and y, around (a, b) given b
+
+FS (% Y) = Prva, 5) + Rox, y),
+provided limx—a, R2(x, y) =0 ... (14.23)
+yob
+
+--- Page 84 ---
+
+Necessary condition for (14.23) to be true is that f has continuous first-order & Calculus or Several
+ariables
+
+second order partial derivatives at (a, b).
+Then f(x, y), is approximated by the Taylor’s PolynomialP, (a, 5) given by (14.22)
+where
+
+i) f,and f, are first order partial derivatives of f(x, y) w. r. t.
+respectively x
+
+li) few feyand f,, are second order partial derivatives of f w. r. t.
+xandy
+
+Siy(@, b),at point (a, bare known.
+
+iv) the error in the approximation is Ra(x, y).
+
+The approximation is called quadratic in view of the fact the approximating
+Taylor’s polynomial P is of degree two, i. e. is quadratic.
+
+In practical applications, generally we use at most quadratic approximation,
+however, for theoretical consideration, we discuss here briefly the kK" order
+approximation of a function of n variables, where n stands for ‘several’. We
+state, without proof, the corresponding Taylor’s theorem, the proof of which can
+be obtained in almost straight manner, by generalizing the arguments and
+conclusions used for linear and quadratic approximations.
+
+Check Your Progress 4
+
+1) Determine all the numbers c which satisfy the conclusions of the Mean
+Value Theorem for the following function f(y) = y? + 2y- y on [- 1, 2]
+
+2) Verify Mean Value Theorem for the function
+f (x) =x (x — 1) (k—2) in [0, 1/2].
+
+2) For the function f(x)= cos(x), find (i) linear and quadratic approximations,
+and (ii) Maclaurin’s series expansion of the function.
+
+83
+
+--- Page 85 ---
+
+Real Analysis
+
+84
+
+4) For the function f(x) = log x, around the point x= 1, find (i) linear and
+quadratic approximations, and (ii) Taylor’s series expansion of the
+function.
+
+(Note: log(x) is NOT defined at x =0. Hence, Maclaurin’s series in NOT
+defined)
+
+14.9.3. General Taylor’s Theorem & Approximation of Functions
+of Several Variables by k'" Order Polynomial (optional
+reading)
+
+Let F: R"> R, be a function of n variables, x = (x1, ... Xi, ..., Xn), and a = (aj, ... ai,
+.-+) An), Such that F(x), and F(a)e R.
+
+Then, by generalizing to n variables, and to kth order Taylor’s polynomial,
+the earlier obtained
+
+i) — the Taylor’s polynomial P;,, and Taylor formula f(x), for one variable and
+order k, given respectively by (14.15) and (14.16), AND
+
+ii) Taylor polynomial Py», (a, ») and Taylor formula f(x, y) for 2 variables &
+order 2 given respectively by (14.17) and (14.18),
+
+we get
+
+P(x, a)
+
+= F(a) + > Fy, (a)(xj — a4) + 3 Sy Fa 2j(a)(@; — a;)(2; — a3)
+i=1 ij=l
+
+n
+
+1
+Tet kl > F2,, Lip (a) (ai, _ ai) ue (wi, ~ ai, )
+
+is in
+«+. (14.24)
+where,
+OkF
+
+Then general Taylor’s theorem for n variables and of order k states that, there
+
+exists
+R, (x, a) such that
+F (x, a)= P(x, a) + Rx (x, a) F (x, a) +e (14.25),
+
+withlim, sq Rx(x, a) =0
+
+--- Page 86 ---
+
+Hence,
+
+Error of approximation in the computation of f(x), x = (Xi, ... Xi, -.-, Xn), using
+kth order approximation is R;(x, a).
+
+Explanation of the notation in (14.24)
+
+In ($$1), each of the expressions
+
+S> F,, (a)(#i — a3)
+
+i=1
+and
+
+1
+ij=l
+etc. needs explanation.
+For the sake of explanation, we take k=3.
+
+Then
+
+¥- Fs, (a)(0i = a4)
+i=1
+
+means
+
+(OF/ &x;) (<1 ~ ay) +(OF/ Oxs) (<p ag) + (OF/ Ox3) (3— a3), Next,
+> Fz, 2;(a)(«i — ai)(2j — aj)
+
+igel
+
+means
+
+In the summation, each pair(i, j) takes value (@’F/ éx; Ax) (xi— aj) (j— aj) +(’F/ 6x;
+Ox;) (4j— a}) (%;— aj), and
+
+when i=j, then it becomes a single term (@°F/ (@xj” (x;— ai)’.
+Similarly,
+
+Di, jt FXiXj Xx (Xi —ai) (Xj aj) (Xk ax),
+
+means
+
+in the summation, each triple (i, j, ) takes value (6°F/ Ax; Ox; Ox) (xi— aj) (xj— aj)
+(xr- a))+other similar terms obtained by commuting orders of i, j and 1, etc., and
+in case of any two or three of i, j and / being equal, then similar treatment as
+above.
+
+And, so on for four or more of suffixes i, j, J, v etc.
+
+The above argument and conclusions may be further generalized to functions
+f; R" > R™, where m is any natural number. Generalization is quite
+
+Calculus of Several
+Variables
+
+85
+
+--- Page 87 ---
+
+Real Analysis
+
+86
+
+straightforward in the sense that the function f: R"D> R™, with f(x1,... Xi, ...
+
+Xn) = (Yi, ---) Yis --- Ym) can be consider equivalently as
+
+f=(fi, ..., fj, ... fm) with fj (1, ... Xi, ..., Xn) = yj, with j = 1, 2, ..., m. for (x1, ... xi,
+vey Xn) ER”.
+
+Example 14.15: Let F: R°> R such that forx= (X1, X2, X3)
+
+Let F (x) = eX!" Find Taylor’s third order polynomial in the neighbourhood
+of (0, 0, 0).
+
+. Le x24 x3:
+For i=1, 2, 3, we have F = e*!* °*
+
+x1+ x2+ x3,
+
+Fyj-0F/ox)= 8 PS: B i i= O'F/Oxxj=0 F/ex? =e ;
+
+a3 ayn xl + x2+ x3
+F xixjxk= OF/0x)xjxp= «.. =O F/oxp= &' ™
+
+Hence, (F)o, 0,0) = e=1, (Fxi)(o,0,0) =1, (Fxi xj)(0, 0, 0) =1; Fx xj xk)(0,0,0)= 1,
+For all i, j,k ... (14.26)
+
+In (14.26), we substitute n=3, k=3, aj=0, a2=0, a3=0, a = (a1, a2, a3) = (0, 0, 0),
+and values of partial derivatives as given in (14.24) just above, as concluded
+above, we get
+
+F(X) = (x1, X2, X3) = F(O, 0, 0) + E23, Fui( xi — 0) + (1/2!) D23, Fai (0, 0, 0) (i: —
+
+j=l
+0) (xj - 0)
++ (1/3!) D323 Fri xj xk (Xi — 0) (Xj — 0) (Xx — 0).
+
+j=1,
+
+k=1
+
+1+ 1. (xit+ x2 +x3) + 1/2 (1) {(X1 P+ X{X2 + Xp X34+ Xo Xy+ (x) + X2X34+X3X) +
+
+2
+X3X2+ (x3) }
+
++ (1/3!) (1) [(%1) £(x1)°+ (K1)X2 + (K1)X3 + (X2)°+X2 X3 + (Xa) F
+
++(X2) {(xi)° + (X4)Xo + (x1)x34 (x2)"4 X2 X3 + (x3) }
+
++ (x3) (1) + (X12 + (X13 + (Ka) X2.X3 + (Kay FT
+
+= 1+ (Xt Xp +%3) (1/2!) (X1+ xX +x3)" + (1/8!) (it x2 HG)
+
+14.9.3.1 Taylor’s Series Expansion
+
+As in the case of single variables, there are some nice functions of several
+
+variables, like e"Y'
+
+‘which are partially differentiable infinitely many times at
+some points of its domain. In such cases, similar to #2.1 for single variable
+functions, we can expand such several variable functions, in terms of Taylor’s
+
+series, around that point by varying k from 1 to coin ($$1) as follows
+
+--- Page 88 ---
+
+1
+= F(a) + > F,, (a)(2; _— ai) + 9 > F,, 5 (a)(2; _ ai) (x; — a;) Calculus oy Several
+i=1 i
+
+i,j=1
+
+1 n
+He kl > Fz,, “Dip (a)(zi, _ ai,) ue (ri, ~ ai, )
+
+es |
+
+Example 14.16
+
+Using Taylor’s approach, find Taylor’s series expansion for the function for
+SF % Vs 3) = XYZ;
+
+around the point (1, 1, 1). In other words, expansion involves (x — 1), (y— 1), and
+(z— 1), and partial derivatives of Ht y, z) at (, 1, 1)
+
+Let us calculate values of partial derivatives in increasing order:
+
+e f(1,1,1)=1.
+
+e First order partial derivatives: Of/ Ox = yz; Of/ Oy = xz; Of/ Oz
+= xy.
+The value of each of these is | at (1, 1, 1)
+
+e Second order partial derivatives, for example,
+
+Of! Ox? =0=O0'f/ dy ~~ =0"f/ Gz”. And Of/ dy Ox = z, Of! Oz Ox = y, and
+of/ Oy Oz=x, each of which has value 1 at (1, 1, 1).
+
+¢ Out of third order derivatives, @f/ @xéyéz = 1 and all others
+are 0.
+
+e All fourth & higher order derivative are 0.
+
+Substituting the values in
+
+= F(a) + > Fas(a)(0i ~ a3) +5 > Favay(a)(0— a4)(0j — a)
+
+ij=l
+1 nm
+He kt > Fz,, Dip (a)(z:, ~ ai,) ee (zi, ~ ai, )
+er tee.
+
+we get
+fx y,z)=14+ {1 &-D+th (D+ @D}
++ (1/2) {(x-D (yD ty- De D)+&-D@ED)+GZ1)K-1
+H(y- D1) + (y- D&D}
++0/3D t&-DG-DED+Q-DE-DZED)+ZVYVO-D&- DV}
++ (1/41). 0+...
+IHt@-D+tQ-)+eZ YH ta- DG Yte-YDZ D+ (y-D EDV}
++iK-DO- DZ DV}.
+
+87
+
+--- Page 89 ---
+
+Real Analysis
+
+88
+
+14.10 LET US SUM UP
+
+In this unit, first of all we clarified the concept of limit, and its significance as the
+(most) fundamental concept of continuous mathematics. Next, we discussed
+methods of calculating limits of functions of two or more variables. Then, we
+introduced the concept of partial derivative and higher order partial derivatives,
+and discussed methods for calculating these when involved functions are defined
+(i) explicitly (ii) implicitly and (iii) through functional composition, the last one
+using chain rule. Next, we defined concepts of directional derivatives, Jacobian
+Matrix, Hessians, and explained how to use these in solving problems. We
+discussed Mean Value Theorem, & its applications for single variable and
+multivariable functions. Finally, we discussed Taylor’s theorems, and Taylor’s
+series expansion, both for single variable and multivariable functions, and their
+applications in approximating functions through polynomial approximation.
+
+14.11 KEY WORDS
+
+Partial When a variable, say z, is a function of two or more variables,
+derivative say X, y, W ..., then a derivative—of the dependent variable z
+w.r.t any one or more of the variables out of x, y, w, ..., while
+
+treating at least one of these as a constant—is called a partial
+derivative (in our case) of z w. r. t the variables not treated as
+constants.
+
+Unit vector ‘In n-dimensional space, with n > 2, when treated as a vector
+
+specification space, with xj, ... Xi, ..., X, aS independent variables, each treated
+as an axis, a unit vector is specified as (cos 8), cos 92, ... cos 8i,
+... COS 0,), where 6; is the angle which the vector makes with i®
+axis.
+
+For example, for n=2, let X-axis and Y-axis be two mutually
+perpendicular axes, and let @ be the angle which a unit vector
+makes with positive direction of X-axis. Then wnit vector’s
+specification is (cos 9, cos (1/2 —6)).
+
+Gradient of function f of n independent variables, viz.x), ... Xi,
+..., Xn, denoted as Vf (x1, ... Xi, -.., Xn) is the n-tuple < fii, ... fi,
+..+y fxn>, Where f,; is the partial derivative of f w.r.t. xi, and i= 1,
+2, ...,0.
+
+Directional derivative
+
+In the case of functions of two or more variables, there are
+potentially infinite number of derivatives at a point of the
+domain: one derivative along one of infinitely many directions.
+Each such derivative is called a directional derivative.
+
+If unit vector Wis specified asu’= (cos 01, ... cos 0;, ... COS On),
+and Vf =< fx, ... fii, ..., fin> is the gradient of f, then the
+directional derivative of function f along vector WisVf.w.
+
+--- Page 90 ---
+
+Mean Value
+Theorem
+
+Taylor’s
+formula
+
+Jacobian of the function f: R"> Ris the m x n matrix of partial
+derivatives
+
+Tp ((X) = (0 FOX) i= 1,2, «0.4 m and j=1, 2, 4 0
+
+Hessian: For a function f° R' > R, which mapsx = (x1, X2, ..., Xj,
+we Xn)E R" to f~ER
+
+the Hessian is, ann x n square matrix, of all second order partial
+derivatives of f,
+
+For real numbers a and b, with a < b, ifa function f: [a, b] > R,
+is continuous on the closed interval [a, b] and differentiable on
+the open interval /a, b/then there exists a point c in the open
+interval Ja, b[ such that
+b)-f(a
+
+P (c) =F
+k™ Order Taylor’s Polynomial, Py, ,, involving the available
+knowledge about values of the derivatives f/(a) at the point x=a,
+for j =0, 1, ... k, as given by
+
+Px, a =
+(a
+f(a) + f'(a)(@— a) + +220)
+
+(z@—a)? +---4+ 7] (a — a)*
+
+f"(a)
+2!
+
+The value f(x), at a general point x, is given by the following
+Taylor’s formula, involving Taylor’s Polynomial:
+
+Sd) = Pxa t+ Rx a(x),
+
+where, Rx, q (x)—which depends on k, the order of Taylor’s
+polynomial, and a, the point at which the values of the function
+and its derivatives are known—is called the remainder term.
+
+14.12 ANSWERS OR HINTS TO CHECK YOUR
+PROGRESS
+
+Check Your Progress 1
+
+1) Determine if the following limit exists or not. If it exists, give the value of
+
+the limit.
+
+lime.) (4,1) 3xY"/ (xt y)
+
+Apparently, the function is not continuous along the path x+ y =0.
+
+However, point of our concern, viz. (4, 1) does not lie on it. For the
+
+remaining points, including (4,1), in the domain of the function, the
+
+function is continuous. Thus, the /imit of the function is the value of the
+function at (4,1).
+
+lime.) 54,4 3xY7/ (xt y) = lime.) 54, 3(4)V7/ (44 2) = 12/5
+
+Calculus of Several
+Variables
+
+89

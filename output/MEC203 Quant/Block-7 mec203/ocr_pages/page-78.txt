@@ -1,0 +1,44 @@
+We can also find k from x = k/R since we know both x and R, finally we can Economic
+ds Applications of
+
+determine S from (24.25) with — =-R Dynamic
+dt Optimisation
+
+We still have to determine the appropriate values for the constants introduced
+using boundary condition
+
+k(0)=ko K(T) =ky
+s(0) = So s(T)=0
+
+A typical solution is shown in Figure (24.5).
+
+Ro
+
+Consumption
+
+Capital
+
+Depletion Rate:
+
+T
+Fig. 24.5: Typical Optimal Trajectories
+
+This presentation closely resembles to the optimal depletion of exhaustible
+resources by Partha Dasgupta and Geoffrey Heal, 1974. Further models can be
+referred from Pearce (1975) and Davison (1978).
+
+Check Your Progress 1
+1) Consider a fishing optimal control problem which is defined by
+
+P{ =a+bpt — xt where Pris fish population at time t. Xt is fishing intensity or
+
+catch (a & b are constants). If r is the discount rate and objective function
+
+oo
+V(.)= fe Mu(xt) dt, u(xt) is utility function of consumption i.e., Ct = Xt
+0
+
+a) State the transversality condition
+b) Find the optimal consumption, Xtif u(xt) =LyXxt
+
+77

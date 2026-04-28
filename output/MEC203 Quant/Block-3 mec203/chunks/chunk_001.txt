@@ -1,0 +1,524 @@
+--- Page 1 ---
+
+BLOCK 3
+
+CALCULUS
+
+Unit 9
+Unit 10
+Unit 11
+
+Unit 12
+
+Limit and Continuity
+Differential Calculus: Functions of One Variable
+
+Differential Calculus: Functions of Several
+Variables
+
+Integration: Introduction and Techniques
+
+233
+
+--- Page 2 ---
+
+ignou
+THE PEOPLE'S
+UNIVERSITY
+
+--- Page 3 ---
+
+UNIT 9 LIMIT AND CONTINUITY
+
+Structure
+9.0 Objectives
+9.1 Introduction
+9.2 Limit of a Function
+9.3 Right-Hand and Left-Hand Limits of a Function
+9.4 Functions Tending to Infinity
+9.5 Fundamental Theorems on Limit
+9.6 Continuity
+9.6.1 Some Properties of Continuous Functions
+9.7 Let Us Sum Up
+9.8 Key Words
+9.9 Answers/Hints to Check Your Progress Exercises
+
+9.10 Exercises
+
+9.0 OBJECTIVES
+
+After going through this unit, you should be able to
+
+e identify limit of a function;
+
+e evaluate the right-hand and left-hand limits of a function;
+e examine the continuity of a function;
+
+e present the properties of continuous functions; and
+
+e calculate the point of discontinuity of a function.
+
+9.1 INTRODUCTION
+
+The present discussion is devoted to introduce you to the ideas of limit and
+continuity. These two are the basic concepts on which you will be able to build
+your further understanding of this course. We discuss the left hand and right-hand
+limits of a function and examine the continuity of a function. Some theorems of
+limits are also presented in the unit. Some properties of continuous functions are
+also discussed which will help you to find out whether the function is continuous
+or not. Ample examples and solved problems are provided in this unit for better
+understanding of the concepts. Apart from continuity, it is imperative that we
+
+also learn about discontinuity of a function as well.
+
+235
+
+--- Page 4 ---
+
+Calculus
+
+236
+
+9.2 LIMIT OF A FUNCTION
+
+Limit is the basic concept which allows us to describe and analyse the study of
+continuous change. Using limit of a function we try to describe the behaviour of
+the function when the variable is near but is not equal to a specified number.
+Thus, by the phrase ‘x tends to the value a’, we mean |x- al is gradually smaller
+and smaller. Then we can write this asx > a.
+
+If the successive values of a are always greater thana, then we say ‘x tends to a
+from right’ and write this as x > a+0 orx— at. Similarly, if the successive
+values of a are always less than a, then we say ‘x tends to a from left’ and write
+itasx—> a-—Oorx>a.
+
+When x approaches a constant quantity a from either side, if there exists a
+definite finite number t towards which f(x) tends to, the numerical difference of
+f (x) and t can be made as small as we can think by taking x sufficiently close
+toa. Then t is defined as the limit of f(x) as x tends to a. This is written as
+
+lim f(x) =t
+Analytically, lim f(x) =t means, given any pre-assigned positive quantity € (as
+
+small as we like), we can find another positive quantity 5 such that |f{x) — t] <e V
+x such that 0 <|x-a| <6.
+
+[V means ‘for all’]
+
+Example 9.1:
+gti <a iy
+xl x—]
+
+Ifx =1(8> or <0) thent—=2+6
+
+x°-l
+
+Taking 6 small enough, the difference between and 2 can be made as
+
+x-l
+small as we like. Hence, limit of the function is 2. However, when x = 1,
+
+the function is non-existent.
+
+ii) lim (2x— 1)=1
+\fcx) — 1| = |2x — 2|. Let € be a very small positive quantity.
+
+Then |f(x) — 1| <e if0 <I 1 <5
+
+Take = =8>0, then /(x) ~ 1| <e if0<|x-1|<8
+
+--- Page 5 ---
+
+9.3. RIGHT-HAND AND LEFT-HAND LIMITS OF A Limit and Continuity
+FUNCTION
+
+A) Right Hand Limit of a Function
+
+Given any pre-fixed positive quantity e however small, we can determine a
+positive quantity 5 such that |x) -— ti| <e€ whenever 0<x-a<6,
+ie,a<x<6.
+
+This right-hand limit is also denoted by the symbolf(a + 0).
+
+The above limit is so called because as x approaches the value a from the
+right (i.e., from bigger values), the numerical difference between f(x) and t;
+can be made as small as we please by taking x closer to a, keeping x always
+greater than a.
+
+B) Left Hand Limit of a Function
+
+When a quantity t2 can be obtained such that given any pre-assigned quantity
+eé, however small, we can determine a positive quantity 5, so that
+\fGx) — te| <e whenever 0 < a-x <6,ie,a-S5 <x <a.
+
+The left-hand limit is also denoted by the symbol f(a-0). When
+lim f@= him f(@) , each of these is equal to lim f(x), i-e., for lim f(x)
+
+to exist, each of lim (x) and to exist, each of lim f(x) and lim F(x)
+
+xat x at0
+
+must exist and must be equal.
+
+. |x| f
+Example: Does lim,_,9 4 exist?
+
+Take lim, .o+ = limyo+ =1. This is not equal to
+
+. [x] ‘ |x|
+
+limyo- = = limyo- = = —1.
+x30 x x30 x
+
+. |x| .
+
+Thus, lim,_,9 > does not exist.
+
+Note: f (0) does not exist.
+
+9.4 FUNCTIONS TENDING TO INFINITY
+
+If corresponding to any pre-assigned quantity N , however large, we can
+determine a positive quantity 5, such that f(x) > N, whenever 0 < |x-a] <6,
+
+we say lim f(x) =.
+Similarly, we can define
+
+— lim f(x) =, lim, f(x) = 003 lim, f(x) = -%, lim, f(x) = -00
+
+xat0
+
+Example 9.2 :
+
+: _ 1 _ | . 1 .
+
+i) lim — =, lim — =-—o Hence, lim — does not exist.
+x3040 Xx x0-0 xX x040 KX
+
+237
+
+--- Page 6 ---
+
+Calculus
+
+238
+
+Limit of a Function as the Variable Tends to Infinity
+
+lim f(x) =t, provided, given any pre-assigned positive quantitye, however
+small, we can determine a positive quantity M, such that |f(x) — t| <e for all
+values of x > M.
+
+Similarly, lim f(x) =t, provided, given any pre-assigned positive quantity e,
+
+however small, we can determine a positive quantity M, such that |f(x) — t|
+<ewhenever - x > M. Ina similar way, we may define
+
+lim f(x) =, lim f(x)=- ©
+Example 9.3:
+_ i _ x : 3
+lim — =0, lim — =0 lim eX =, lim x*=-
+xm X x0 X 0 xo x ©
+
+?
+
+9.55 FUNDAMENTAL THEOREMS ON LIMIT
+
+Let lim f(x) =t, and lim $(x)=t, where t; and t, are finite quantities. Then,
+i) lim {f (x) +O(x)}=t, +t);
+
+lim {f).900}= tt
+lil) in| 12 - t, (t, #0);
+iv) lim FI/(@)]=FLlim £09]
+
+?
+
+v) If o(x)<f(x)< w(x) in a certain neighbourhood of point ‘a’ and
+
+lim $(x) =t and lim w(x) then lim f(x) =t.
+
+vi) If limo(x)=t, and lim y(x)=t, and if o(x)<w(x) in a certain
+neighbourhood of a except a, then tiS to.
+
+The first three theorems may be extended for any finite number of functions.
+
+Some important formulae on limits:
+
+i) him simX =] , X is expressed in radian
+
+x! x
+
+. 1) 1
+ii) a) lim |1+—] =e, b) lim (1+x)x =e
+x—-bo0 x x0
+
+iii) lim diog(t +x) =1
+
+x20 Xx >
+ivy) lim 271-1
+
+x00 Xx
+v) lim ue =na™1, for all rational values of n, provided a> 0.
+
+--- Page 7 ---
+
+. . (It+x)"- 1 Limit and Continuity
+vi) lim ~———— =n,
+
+x0 x
+
+vii) lim™ =0
+
+noo n
+Example 9.4:
+: -1
+i) ii ayx” tax™! +..+a, lim (apx" tax" +... Fa,)
+im =
+x90 box +b x™! +..4+b, lim (6)x" +b,x"' +... +b,)
+x30
+lim a,x" + lim a,x"'+...+ lima,
+= 20 __s ___ x20 __ = a,/b, [since lim x" =0]
+lim byx" + lim b,x” +...+ lim b, x0
+x0 x0 x0
+. sinx
+ii) lim . Put x -m=z as xX > 2, z— 0 so that
+. sin(zt+z)_,. sinzcosa—coszsinaz
+lim = lim =
+z0 Z z0 Z
+. Sinz
+lim —— (—1)=-1
+z>0 Z
+: + | lim } + lim :
+Aa, Bex. sR Fee 2 ce MR0u0
+iii) lini. yo im* = i = =
+20 Zan .
+i =tl lim — +1 O+1
+x roe X
+. . 1 2 n . 14+2+..4+n
+iv) lim |—>+— 4 +..+ = |= lim | ——.—
+xo | y n n x00 n
+_ nin+1 he il 1 1 _ | 1 1
+= lim nat 1) = tim =|1+ —|==|1+ lim —]= —(1+0)= —
+x0 ON x90 2 n} 2 xm 2 2
+
+v) lim Vx-—2 Here lim Vx—2 does not exist. Hence, the limit does
+x>2- 0
+
+x72
+
+not exist.
+Check Your Progress 1
+
+1) Evaluate the following limits:
+
+: : Vatx-— Va-x
+i) lim. —————
+
+x30 x
+
+ii) lim sinx = 0
+
+x0
+
+iii) lim sinx = sin®@
+x6
+
+239
+
+--- Page 8 ---
+
+Calculus
+
+240
+
+2) 3) 10 x>1
+
+f@ = 41 x=
+-10 x<l
+Find lim F&
+ti) fix) = 1 x#1
+-l x=1
+Find lim f(x)
+3) Find the limit.
+: 2
+i) lim “*
+x30 x
+. cosecx - cotx
+ii) = lim ———_
+x30 x
+sin x
+
+iii) lim
+x00 x
+
+iv) f(x)=ax*+bx+c,
+
+show that lim {fe fol 2ax +b
+
+n0 n
+
+P4+24+..4n°
+
+v) lim 5
+ne n
+-1
+g tan’ x
+vi) lim
+n>0 x
+
+9.6 CONTINUITY
+
+Intuitively, a function f(x) is continuous provided its graph is continuous, i.e., a
+continuous function does not have any break at any point of its graph.
+More formally, a function f(x) is said to be continuous for x = a, provided
+
+lim f(x) exists, finite and is equal to a.
+xa
+
+That is, for f(x) to be continuous at x =a
+
+lim fO) = lim, f(x) =f(@)
+
+, we should have
+
+--- Page 9 ---
+
+If f(x) is continuous for every value of x in its domain, it is said to be
+
+continuous throughout the interval.
+
+A function, which is not continuous at a point, is said to have a discontinuity at
+
+that point.
+
+Analytically, the function f(x) is continuous at x = a, provided f(a) exists
+
+and given any pre-assigned positive quantity ¢, however small, we can determine
+
+a positive quantity 6 such that |f(x) -f(a)| < for all values of x such that
+O6sxsat+6.
+
+i)
+
+iii)
+
+If f(a + 0) #f{a — 0) then f(x) is said to have an ordinary discontinuity at
+x=a.
+
+Example 9.5: lim V¥x- a. _ In this case, f(a) may or may not exist.
+
+xa
+
+If ffa + 0) = fla — 0) #f(a), or fla) does not exist, f(x) is said to have a
+removable discontinuity at x = a.
+x°- 1
+
+Example 9.6: In f(x) = i
+x-
+
+, lim F(®) =2, fC) does not exist.
+A function with removable discontinuity at a point x = acan be made
+continuous by defining the function at the particular point, e.g., f(1) = 1.
+
+If one or both f(a + 0) or f(a- 0) tend to infinity, then f(a) is said to
+have an infinite discontinuity atx = a. Here f(a) may or may not exist;
+
+1.
+eg. f@M=—, lim f(x)>
+
+X = x70+0
+There may be oscillatory discontinuity at a point where the function may
+oscillate finitely or oscillate infinitely and does not tend to a limit or + 0.
+Example 9.7:
+a) f(x)=(C1)%, lim f(x) oscillates finitely
+
+b) fx=(02%, lim f(x) oscillates infinitely
+
+9.6.1 Some Properties of Continuous Functions
+
+i)
+
+The sum or difference of two continuous function is a continuous function.
+This result is valid for any finite number of functions.
+
+The product of two continuous functions is a continuous function. This
+result is also valid for any finite number of functions.
+
+The quotient of two continuous functions is a continuous function,
+provided the denominator is not zero anywhere for the range of values
+considered.
+
+If f(x) is continuous at x = a and f(a) #0, then in the neighbourhood of
+x = a, f(x) has the same sign as that of f(a), i.e., we can get a positive
+
+Limit and Continuity
+
+241
+
+--- Page 10 ---
+
+Calculus
+
+242
+
+quantity 5 such that f(x) preserves the same sign as that of f(a) for every
+value of f(x) in the intervala-d <x<a+t 6.
+
+v) If f(x) is continuous throughout the interval (a,b), and f(a) and f(b) are
+of opposite signs, then there is at least one value, say € of x within the
+interval for which f(€) = 0.
+
+vi) Let f(x) is continuous throughout the interval (a,b) and f(a) # f(b).
+Then f (x) assumes every value between f(a) and f(b) at least once in the
+interval.
+
+vii) A function, which is continuous throughout a closed interval, is bounded
+therein.
+
+viii) A continuous function in an interval actually attains its upper and lower
+bounds, at least once each, in the interval.
+
+ix) A function f(x), continuous in a closed interval [a,b], attains every
+intermediate value between its upper and lower bounds in the interval, at
+least once.
+
+Example 9.8:
+
+i) f(x) = x”, nis any rational number.
+
+ii) f(x)=tanx=
+
+lim x" =a" for all n, except when a = 0 and n< 0. Thus, x” is
+
+xa
+continuous for all x when n is positive and continuous for all values of x
+except 0 when n is negative.
+
+sin x
+
+COS X
+
+lim sin x= sina and lim cos x =cosa — both are continuous.
+
+xa xa
+
+tan x is also continuous except when cos x = 0, i.e., X =(2n+ 1) 3°
+
+iii) f(x) =x forx > 0
+
+0 forx = 0
+
+-xforx < 0
+
+f (x) is continuous atx = 0.
+
+Check Your Progress 2
+
+3)
+
+i) fx= xsin= for x# 0. Examine the continuity of f(x)at x = 0.
+
+ii) Find the point of discontinuity of the following function: f(x) =
+x?-2x+4
+x?—-5x+6
+

@@ -1,0 +1,56 @@
+Dynamic
+Optimisation
+
+34
+
+Check Your Progress 2
+
+1
+1)Optimise few? +10x(t).t}dt
+fe)
+
+Here v =x’? +10x.t given x(0)=2
+We know OM) _ dO) 9
+ex dt ox’
+
+= 10t-42x’=0
+at
+
+=> 5t-x"=0
+x
+This can be written a =5t
+
+dx dy
+Let 2 =y>Y=st
+at at
+
+= dy =5tdt
+
+=> J dy = fotat
+
+t2
+= dx =5- dt + cya
+
+= fdx= [ot ate foyat
+
+=x-5 +eqyt+e
+3 t+ C2
+
+8
+3
+Using boundary condition
+
+X(to) =2 => 2=0+0+¢C2>¢2=2
+. 51
+Similarly x(1)=3 > 3=7 ato +2
+
+=>, =1/6
+. * 5.3.1
+Therefore x ()=¢t +gtr2 (Ans)
+2) Let V = (x(t), (0), t) = 2x!7(t) + 24x(t).t
+Writing Euler-Lagrange equation
+
+av( ) dave )
+x(t) Fo
+
+x(1)=3

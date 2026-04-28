@@ -1,0 +1,69 @@
+Dynamic
+Optimisation
+
+48
+
+Equation 23.8 can be written as
+tr
+JAb(,ult),2(t), at
+
+to
+
+Where Lagrangian function A(x(t),u(t),A(t),t) is equal to
+v(x(t), u(t), t) + A(t)F(x(t), u(t), t)
+6s(x(t),t)
+
+6s(x(t),t) -, ,
++ ox(t) x(t) + ae A(t)x'(t)
+
+We further write Hamiltonian function
+
+H(x(t), u(t), A(t), t) = V(x(t), u(t), t) + A(t)F(x(t), u(t), t) +. (23.9)
+Hamiltonian function is named after 19" century Irish mathematician W.R.
+Hamilton
+
+Therefore, our Lagrangian function becomes
+
+A(x(t),u(t), A(t), t)
+
+6s(x(t),t)
+x(t)
+
+as(x(t).t)
+
+= H(x(t),u(t),A(t),t) + be + SME). (23.10)
+
+The question arises, what is the value of perturbed condition. Perturbed
+condition means the sequence J(.) is defined when x™* is perturbed by
+
+x*(t)+8(x(t))and u(t) is perturbed by u*(t)+Su(t). Our job is to look for
+optimal trajectory of u * (t)which, in turn, will optimise our functional.
+
+Let that perturbed objective function be Ja(-)
+
+Hence, we can write
+
+teat
+Ja(= [ Ap()at w (23.11)
+
+to
+Where A,(.) is Lagrangian function of perturbed state. This is achieved by
+replacing u(t) =u" (t) + du, and x(t) = x'(t) + &x(t) in equation (23.10)
+
+ty ty +dty
+= Jal.) = [Ap(dat + j Ap(.) at
+to ty
+
+Consider the figure in this page
+
+Ap(.)is a scalar
+
+If we consider
+te +8t,
+j Ap(.)dt =area under the curve AE, which is nearly equal to area ABDC.
+t
+tptdty
+Hence J A,,()dtapproximately equals to A(,) |t=t, -Sty,a8 dt, is very small.
+
+1
+f

@@ -1,0 +1,70 @@
+Dynamic
+Optimisation
+
+74
+
+where C =C(t)is the consumption rate. If S(t) denotes the resource stock, then
+we clearly have & =R
+
+(24.12)
+
+we wish to maximize the welfare integral
+
+T
+W =[e*u(c) dt w. (24.13)
+
+0
+
+by finding the optimal paths for resource depletion rate, R and consumption rate,
+c, subject to the constraint (equation 24.11, 24.12) and also with some initial
+condition for example k =kg,$ = Sq att=0.
+
+Here the capital k, and resource stock, s are the state variables, the consumption
+rate, c and depletion rate, R, are control and F(k, R) is the production function.
+Because we have two constraints, we need two A's, ie., Aqtand Age (two co-state
+
+variables)
+
+Formulating Hamiltonian we get,
+
+H(*) =e *u(e) + Aq(F(KR)—¢) + Aat(-R)
+
+[pl refer to discounted problem in unit 23 for formula]
+We set H” =e H(.)
+
+For necessary condition of optimisation
+
+oH
+
+By OP Ue) Ht == wit =U) ws (24.14)
+re)
+
+oH” oF(.) oF(.)
+
+ae Lot = = » (24.15
+oR O=> ut oR Hat O= pat = Ht aR ( )
+Now the co-state equation
+
+aF(.) eH”
+
+= 8uy — by 2 = Sug - .. (24.16
+Hag = Oblat — Hat eo = Oba — He ¢ )
+, OH”.
+
+Hot = Bhat = Sat 24.17)
+
+s
+differentiating both sides of equation (24.15) we get
+, OF(.) d oF(.)
+
+= tug . (24.18
+Hat =Hit Be + Ht Ge GR ( )
+Using (24.16) in (24.18) we get
+
+, OF(.) \ OF(.) d oF(.)
+
+=| Sug —uy —7 + La —
+H2t [ Hat — Ht ak } aR Ht dt aR
+- OF _.  OF(.) OF(.) OF(.) d OF(.)
+=> Spy = Spyp_— = 5H) - : + ht
+M2t Lt oR Hat oR Mat ck aR ‘Tt dt oR

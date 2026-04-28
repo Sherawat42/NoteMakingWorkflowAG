@@ -1,0 +1,57 @@
+22.1.1.1 Static Optimization vs. Dynamic Optimization
+
+We briefly illustrate the essential difference in the subject-matter of the current
+block, viz. dynamic optimization, vis-a-vis the subject-matter of the previous two
+blocks, which we retrospectively call static optimization. For this purpose, we
+consider a very simplified case of profit maximization. Consider the case of a
+producer of, say fruit-icecream using three fruits, viz. mango, grapes and banana.
+
+Let
+
+CP (fruit)= (CP (mango), CP (grape), CP (banana)), the cost-price-vector per unit
+of the fruits,
+
+Q (fruit) = (Q(mango), Q(grape), Q(banana)), the quantity vector used per unit
+of icecream,
+
+SP(Icecream) = sales-price per unit of icecream
+
+Total-Production (Icecream) = the total production of fruit-icecream
+Thus,
+
+Total-revenue = Total-Production (Icecream) < SP(Icecream).
+
+Total-cost = Total-Production (Icecream) < {CP (fruit). Q(fruit)"}, where Q’ is
+the transpose of matrix Q, and ‘.’ denotes product of two matrices.
+
+Total-Profit = Total-revenue — Total-cost, is the objective function, the value of
+which is sought to be optimized, subject to CP(x), Q(x) etc.
+
+In the above, the variables CP(x), Q(x), SP(Icecream), Total-Production
+(Icecream) are treated as independent variables.
+
+However, on deeper analysis, we find that the prices of fruits depend on the
+season, i. e. the time period of the year. For example, mango, in India, is the
+cheapest (and, of course, of the best quality) during peak period, viz. from May
+to August. And its price varies over the year according to the distance in time
+from the peak period. Similarly, grape, in India, has the peak period from January
+to May. Thus, CP(x) is not independent variable, but dependent on time t.
+
+Hence, regarding price, instead of CP(x), its appropriate modelling is by CP (x,
+Q). Similarly, the quantities, of various fruits used in one unit of icecream,
+depends on time, e. g., during February-April, more of grape, and less of mango
+may be used because of respective availability and quality during the period.
+Hence, instead of Q(x), the appropriate modelling is by Q (x, 0).
+
+Also, regarding sales, the units of icecream sold depends on the time of the year,
+e. g. during the summer period of April to July, sales may be at the peak, while
+during December-February, the sales may be the least. Thus, Total-Revenue, and
+the objective function Total-profit also are functions of time.
+
+Thus, in such problems, time is an important independent variable, and in many
+of such cases, the only independent variable. Other variables, like CP(x), Q(x),
+
+Intertemporal
+Optimisation-I
+
+13

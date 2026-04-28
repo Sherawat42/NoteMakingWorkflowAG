@@ -1,0 +1,469 @@
+
+--- Page 1 ---
+
+BLOCK 8
+
+PROBABILITY AND PROBABILITY
+DISTRIBUTIONS
+
+Unit 25. Probability Theory
+Unit 26 —- Probability Distributions-I
+Unit 27 ~~ Probability Distributions-II
+
+91
+
+--- Page 2 ---
+
+92
+
+--- Page 3 ---
+
+UNIT 25 PROBABILITY THEORY
+
+Structure
+25.0 Objectives
+25.1 Introduction
+25.2 Deterministic and Non-Deterministic Experiments
+25.3 Some Important Terminology
+25.4 Definitions of Probability
+
+25.4.1 Classical Definition
+
+25.4.2 Axiomatic Definition
+
+25.4.3 Empirical Definition
+
+25.4.4 Subjective Definition
+25.5 Theorems of Probability
+
+25.5.1 Theorem of Total Probability
+
+25.5.5.1 Deductions from Theorem of Total Probability
+25.5.2 Theorem of Compound Probability
+25.5.2.1 Deductions from Theorem of Compound Probability
+25.6 Conditional Probability and Concept of Independence
+25.6.1 Conditional Probability
+25.6.2 Concept of Independent Events
+
+25.7 Bayes’ Theorem and its Application
+25.8 Mathematical Expectations
+25.9 Let Us Sum Up
+25.10 Key Words
+25.11 Answers/Hints to Check Your Progress Exercises
+25.12 Exercises
+25.0 OBJECTIVES
+
+After going through this unit, you should be able to
+
+e identify the reasons for taking decisions under uncertain situations;
+
+e define the concept of probability;
+
+e differentiate between total probability and compound probability;
+
+e describe the concept of independent events; and
+
+e solve different probability problems in accordance with theoretical
+
+prescriptions.
+
+93
+
+--- Page 4 ---
+
+Probability and
+Probability
+Distributions
+
+94
+
+25.1 INTRODUCTION
+
+Probability theory is a branch of mathematics that is concerned with random (or
+chance) phenomenon. It originated in the games related to chance and an Italian
+mathematician Jerome Cardan was the first to write on the subject. However, the
+basic mathematical and formal foundation on the subject was provided by
+Pascal and Fermat. Contribution of Russian as well as European mathematicians
+helped the subject to grow.
+
+In this unit, we will learn about some basic terminologies which are used in
+probability related matters, deterministic and non-deterministic experiments.
+Further we dwell into the theorems of probability (total and compound), and
+conditional probability. Before moving on to the Bayes’ theorem, we will
+understand about the concept of independence and independent events.
+
+25.2 DETERMINISTIC AND NON-DETERMINISTIC
+EXPERIMENTS
+
+The agreement among scientists regarding the validity of most scientific theories
+rests, to a considerable extent, on the fact that the experiment on which the
+theory is based will yield the same result when they are repeated. If the same
+results are obtained when the experiment is repeated under the same conditions,
+we can conclude that the results are determined by the conditions, or the
+experiment is deterministic. For example, anywhere in the world if we throw a
+
+stone to the sky it will certainly come back to the earth after sometime.
+
+However, there are experiments, which do not yield the same result even if the
+experimental conditions are kept constant. Examples are throwing a dice or
+picking a card from a well-shuffled pack of cards or tossing a coin. These
+experiments could be thought of as the ones with unpredictable results. If we are
+willing to stretch our idea of experiment, then there are many examples of this
+kind in our day-to-day life. For example, two people living in same conditions
+will die at different and unpredictable ages. In literature, these experiments or
+events are referred to as “random experiments” or “random events”. Thus, we
+define “non-deterministic” or “random experiments” as those experiments
+(experiment is an act which can be repeated under some given conditions)
+whose outcomes are not predictable before-hand. Probability and branches of
+statistics are developed specially to deal with this kind of random events.
+
+Each of the following may be called a random experiment:
+1) Tossing a coin (or several coins)
+
+2) Throwing a die (or several dice)
+
+3) Drawing cards from a pack
+
+4) Studying the distribution of boys and girls in families of India having two
+children
+
+--- Page 5 ---
+
+5) Drawing balls from an urn (or urns) having a given number of — different-
+kind of balls in each.
+
+The result of a non-deterministic event is not predictable beforehand, for there
+may be a number of outcomes associated with it. The same outcome of a
+random experiment could be described in several ways. In our and example of
+random experiment, i.e., throwing a die, the possible outcomes are (1,2,3,4,5,6)
+These outcomes could have been described as “odd number of points” or “even
+number of points”.
+
+The term event in probability theory is used to denote any phenomenon, which
+occurs as a result of a random experiment. Events can be ‘elementary’ as well as
+‘composite’. An ‘elementary’ event cannot be decomposed into simpler events
+whereas a ‘composite’ event is an aggregate of several elementary events.
+
+25.3 SOME IMPORTANT TERMINOLOGY
+
+Sample Space: All possible outcomes of an on-deterministic experiment
+constitute the sample space of that experiment and are generally denoted by ‘S’.
+
+For example, if one coin is tossed, either head(H)or tail (T)will appear.
+Therefore, H and T constitute the sample space and we can write S={H,T}.
+
+Similarly if two coins are tossed, S={(HH),(HT),(TH),(TT)}
+
+A subset of sample space, which might be favourable to the occurrence of a
+particular event, is called a sub-sample space. For example, in the previous
+example, S; = {(HH), (HT), (TH)} is a sub sample space and it is favourable to
+the event that atleast one head appears if two coins are tossed.
+
+Example: The sample space of rolling two dice (x, y) of an experiment can be
+written as follows:
+
+The number of events N(S) = 6 x 6 = 36:
+S= {x,y}: x =1,2,3,....6; y =1,2,3,...6
+
+Here x and y represent the number turned up in the top of the first and second
+dice respectively.
+
+Events: When some of the elements of all the possible outcomes in the sample
+space of a random experiment satisfy a particular criterion, we call it an event. If
+three unbiased coins are tossed, the sample space is
+
+S={(HHH),(HHT),(HTH),(HTT),(THH),(THT),(TTH),(TTT)} and
+Following events can be picked up from it:
+
+E,= {(HHH)} = Event of getting all heads
+
+E.= {(HHH),(HHT),(HTH),(THH)}=Event of getting atleast 2 heads
+
+E3= {(HHT),(HTH),(THH)}=Event of getting exactly 2 heads........... etc.
+
+Probability
+Theory
+
+95
+
+--- Page 6 ---
+
+Probability and
+Probability
+Distributions
+
+96
+
+Example: Consider an event A that the total number of points rolled with a pair
+of dice is 7. So among the 36 possibilities only (1,6), (2,5), (3,4), (4,3), (5,2),
+(6,1) yield a total of 7. So we write:
+
+A= {(1,6), (2,5), (3,4), (4,3), (5,2), (6,D}
+
+Thus an event (outcome or result) can be identified as a collection of points
+which constitute a subset of appropriate sample space for which the particular
+event occurs.
+
+Mutually Exclusive Events: Events are said to be mutually exclusive if two or
+more of them cannot occur simultaneously. For example, while tossing a coin,
+the elementary events ‘head’ and ‘tail’ are mutually exclusive. Similarly, when
+we throw a die the appearance of the numbers 1, 2, 3, 4, 5, 6 are mutually
+exclusive. We define the events from these experiments as follows:
+
+A: the event of odd number of points; and
+
+B: the event of even number of points.
+
+These are also mutually exclusive
+
+Fig. 25.1: Mutually Exclusive Events
+
+In Fig. 25.1, the rectangular box represents the sample space and the circles
+represented by A and B represent subsample spaces and contain favourable
+elements to the events A and B. The complete separation of the circles indicates
+that there is no element, which is common to both the events. Thus, A and B
+events are mutually exclusive. The above way of representing events is called
+Venn diagram.
+
+Mutually Exhaustive Events: Several events are said to be mutually exhaustive
+if and only if at least one of them necessarily occurs. For example, while tossing
+a coin, the events of head and tail are mutually exhaustive, as one of them must
+occur.
+
+Equally Likely Events: The outcomes of a non-deterministic event are said to
+be equally Likely if occurrence of none of them can be expected in preference to
+another. For example, while tossing a coin, the occurrence of the event head or
+tail is equally likely if the coin is unbiased.
+
+Exhaustive Events: Several events are said to form an exhaustive set, if atleast
+one of them must necessarily occur. The complete group of all elementary
+events of a random experiment given is an exhaustive set of events. For
+example, in tossing a coin the two events head or tail form an exhaustive set
+because one of these two must necessarily occur.
+
+--- Page 7 ---
+
+Independent Events: Events are said to be independent of each other if
+occurrence of one event is not affected by the occurrence of the others. For
+example, while throwing a die repeatedly, the event of getting a ‘3’ in the first
+throw is independent of getting a ‘6’ in the second throw.
+
+Conditional Events: When events are neither independent nor mutually
+exclusive, it is possible to think that one of them is dependent on the other. For
+example, it may or may not rain if the day is cloudy but if there is rain, there
+must be clouds in the sky. Thus, the event of rain is conditioned upon the event
+of clouds in the sky.
+
+25.4 DEFINITIONS OF PROBABILITY
+
+The term probability has been interpreted in terms of four definitions viz.,
+1) Classical definition
+
+2) Axiomatic definition
+
+3) Empirical definition
+
+4) Subjective definition
+
+25.4.1 Classical Definition
+
+The classical definition states that if an experiment consists of N outcomes
+which are mutually exclusive, exhaustive and equally likely and Na are the
+number of outcomes that are favourable to an event A, then the probability of
+the event A (P(A))is defined as
+
+In other words, the probability of an event A equals the ratio of the number of
+outcomes Na favourable to A to the total number of outcomes. See the following
+example for a better understanding of the concept.
+
+Example: Two unbiased dice are thrown simultaneously. Find the probability
+that the product of the points appearing on the dice is18.
+
+There are 36 (N) possible outcomes if two dice are thrown simultaneously.
+These outcomes are mutually exclusive, exhaustive and equally likely based on
+the assumption that the dice are unbiased. Now we denote A: the product of the
+points appearing on the dice is 18.
+
+The events favourable to ‘A’ are [(3, 6), (6, 3)] only, therefore, Na- 2. According
+to classical definition of probability
+
+P(A)= Na/N=1/18
+
+When none of the outcome is favourable to the event A, Na= 0, P (A) also takes
+the value 0. In that case we say that event A is impossible. If Na, =N,P(A) takes
+
+the value 1. In that case we say that event A is a sure event.
+
+Probability
+Theory
+
+97
+
+--- Page 8 ---
+
+Probability and
+Probability
+Distributions
+
+98
+
+There are some limitations of the classical definition of probability. Unless the
+outcomes of an event are mutually exclusive, exhaustive and equally likely,
+classical definition cannot be applied. Again, if the number of outcomes of an
+event is infinitely large, the definition fails. The phrase ‘equally likely’
+appearing in the classical definition of probability means equally probable, thus
+the definition is circular in nature.
+
+Techniques of Counting
+
+1) Fundamental Principle of Counting if several processes can be performed in
+the following manner: the first process in p ways, the second in q ways, the
+third in r ways, and so on, then the total number of ways in which the whole
+process can be performed in the order indicated is given by their product:
+
+p.q.r....
+2) Permutation: The total number of ways of arranging n distinct objects taken
+
+rat a time is given by: "P-
+"P. =n(n—1)(n—2)......(n—r +1)
+3) Arrangement in a line or circle: The total number of ways in which n distinct
+
+objects can be arranged among themselves is:
+1) ina line: n!=1.2.3.4....n
+il) in a circle: (n— 1)!
+4) Permutation with repetition: The number of ways of arranging n objects
+nl
+p!.ql.rl.....
+
+among which p are alike, q are alike, r are alike, etc. is:
+
+5) Combination: The total number of possible groups that can be formed by
+taking r objects out of n distinct objects is given by: "C, =
+
+NC. = nh = n(n—1)(n—2)...(n—r +1)
+rl(n—r)t r!
+
+6) Choosing balls from an urn: The total number of ways of choosing a number
+
+of white balls and b number of black balls from an urn containing A number
+of white balls and B number of black balls is: “C,. °C,
+
+7) Ordered Partition (Distinct Objects): The total number of ways of
+
+distributing n distinct objects into r components marked as 1, 2, 3, 4, ..., ris
+
+rr”
+
+The number of ways in which n objects can be distributed so that the r
+compartments contain respectively 4,N9,N3,...,N- objects is
+
+n!
+ny!ng!ng!...,n,!
+
+
+--- Page 9 ---
+
+8) Ordered Partition (identical objects): The total number of ways of
+distributing n identical objects into r compartments marked as 1, 2, 3, ...r is
+
+n+r—1
+C4
+
+If none of the compartments should remain empty, the total number of ways of
+
+distributing the objects is n Cr_4
+
+25.4.2 Axiomatic Definition
+
+In the axiomatic definition of probability, we start with a probability space ‘S’
+where set ‘S’ of abstract objects is called outcomes. The set S and its subsets are
+called events. The probability of an outcome A is by definition a number P (A)
+assigned to A. Such a number satisfies the following axioms:
+
+a) P(A)=01.e., P(A) is a non-negative number.
+b) The probability of the certain event S is 1, 1.e., P(S)=1.
+
+c) Iftwo events A and B have no common elements, or, A and B are mutually
+exclusive, the probability of the event consisting of the outcomes that are in
+A or in B equals to sum of their probabilities, which can be written as A
+union B (AUB):
+
+P(AUB)=P(A)+P(B)
+
+We comment next on the connection between an abstract sample space and the
+underlying real experiment. The first step in model formation is between
+elements of S and its experimental outcomes. The actual outcomes of a real
+experiment can involve a large number of observable characteristics. In the
+formation of the model, we select from these characteristics the one that is of
+interest in our investigation.
+
+For example, consider the possible models of the throwing of an unbiased die by
+the 3 players X, Y and Z.
+
+X says that the outcomes of this consist of six faces of the die, forming the
+sample space {1,2,3,4,5,6}.
+
+Y argues that the experiment has only 2 outcomes, even or odd, forming the
+sample space {even, odd}
+
+Z bets that the die will rest on the left side of the table and the face with one
+point will show. Her experiment consists of infinitely many points consisting of
+the six faces of the die and the coordinate of the table where the die rests finally.
+
+25.4.3. Empirical Definition
+
+In N trials of a random experiment, if an event is found to occur m times, the
+relative frequency of the occurrence of the event is m/N. If this relative
+frequency approaches a limiting value p, as N increases indefinitely, then ‘p’ is
+called the probability of the event A.
+
+Probability
+Theory
+
+99
+
+--- Page 10 ---
+
+Probability and
+Probability
+Distributions
+
+100
+
+. m
+
+P(A) = lim | —
+
+Noo N
+To give a meaning to the limit we must interpret the above formula as an
+assumption used to define P(A). This concept was introduced by Von Mises.
+
+However, the use of such a definition as a basis of deductive theory has not
+enjoyed wide acceptance.
+
+25.4.4 Subjective Definition
+
+In subjective interpretation of probability, the number P (A) is assigned to a
+statement. A, is a measure of our state of knowledge or belief concerning the
+truth of A. These kinds of probabilities are most often used in our daily life and
+conversations. We often make statements like “I am 100% sure that I will pass
+the examination” i.e., P(of passing the examinations) = 1, or “there is 50%
+chance that India will win the match against Pakistan” i.e., P(India will win the
+match against Pakistan) = '2
+
+Check Your Progress 1
+
+1) What is the probability that all three children born in a family will have
+different birthdays? Hint: Use rule number 1 (Techniques of Counting
+section)
+
+2) Five persons a, b, c, d, e occupy seats in a row at random. What is the
+probability that a and b will sit next to each other? Hint: Use rule number 3
+(Techniques of Counting section)
+
+3) Two cards are drawn at random from a pack of well-shuffled cards. Find
+the probability that
+
+a) Both cards are red
+
+b) One is a heart and another is a diamond

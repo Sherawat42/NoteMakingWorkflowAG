@@ -1,0 +1,63 @@
+Intertemporal
+
+d a
+=> 24t — a (4x'(t)) =0 Optimisation-I
+
+> 24t — 4x"(t) = 0
+
+=> x"(t) = 6t
+
+a "(t) = 6t
+> =
+an
+2 [ax@=foca
+
+2
+axH= 65 + C, where Cis constant
+
+2
+
+d t
+nae, xO) =65+
+
+> | dx(t)= Joe + (C,)dt
+
+=> x(t) = t? + Cyt + Cy where C> is constant
+
+We need to find C; , C2 for which boundary condition can be used.
+
+X(to) = X90 =0=Cy, tp + > C2 =0
+
+at t=te x(th= xp= 2 > 8+2C;+C,=2
+=C,=-3
+
+Hence, we can write x(t) = -3t + t° This equation satisfied initial and boundary
+
+value constraint.
+
+2
+In order to verify we use Legendre condition we calculate SeaGh =
+aD 4x'(t) = 4 > 0 hence the value of x*(t) minimizes the functional J(.)
+
+22.14 EXERCISES
+
+Q 1. Solve Euler-Lagrange equation for
+JO= J? — 2xx' + 10tx) dt subject to x(0)=0 and x(1) =2
+
+Ans. We have to find E.L. equation for
+
+1
+d= Je —2xx'+10xt)dt st. x(0)=0 x(1)=2
+0
+
+So here v()= x? — 2x’ + 10xt
+
+ov.) 4 av(.)
+o eore a =0
+As per theorem ox dt Ea + (a)
+M0) _ oy t0t
+Ox
+a = 2x! 2x so 3 {x0 = fox! 2x] = 2x" — 2x’
+ax dt| a’ | dt
+
+35

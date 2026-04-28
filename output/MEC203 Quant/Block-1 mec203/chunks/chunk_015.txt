@@ -1,0 +1,525 @@
+Review of Basic
+Mathematics
+
+140
+
+Economists call the level curves of a utility function indifference curves and
+those of a production function is o guants. Thus, level curves have algebraic
+equations of the form f (x, y)=k for all possible values of k. A contour diagram
+or contour map of a function f (x, y) is a 2-dimensionalgraph (Fig. 4.43)
+
+showing several level curves in the xy-plane corresponding to several values of
+k.
+
+>
+¥
+
+Good X~
+
+Fig. 4.43: Indifference Curve Map
+Example: Cobb-Douglas Production Model
+
+Given P=the monetary value of all goods produced, K= total capital investment
+over the same period, and L= the total labor force, the following relationship
+between these quantities holds: =1.01L°”°K°”>
+
+The contour diagram shown in Fig. 4.44 below shows that reducing labour
+
+Fig. 4.44: Indifference Curve Map- Cobb Douglas Example
+
+increases capital investment in order to maintain the same level of production
+1.e., Supposedly more investment is needed in machinery to make up for the lack
+of available labour. Conversely, increasing labour reduces capital investment
+since supposedly the work is being done by the labor force.
+
+Example:
+Let f (x,)=x°—y*. We will study the level curves c=x*—y’.
+
+First, look at the case c=0.The level curve equation x* — y* = 0 factors to (x — y).
+(x + y) = 0. This equation is satisfied if either y = x or y = —x. Both these are
+equations for lines, so the level curve for c=0 is two lines.
+
+If c#0, then we can rewrite the level curve equation c=x*—y’ as 1= x°c—y’c.
+
+See that this is the equation for a hyperbola. If c is positive, the hyperbolas open
+to the left and right. If c is negative, the hyperbolas open up and down.
+For example, if c=1, the equation is x"—y*=1. If c=—1, the equation is x°—y*=1. Coordinate
+
+Several level curves are plotted in Fig. 4.45. Geometry and
+Representation
+
+of Functions
+
+-1
+-2 x
+Fig.4.45: Level Curves
+Check Your Progress 7
+
+1) Explain the meaning of level curve.
+
+wee rere rec reece e rere sre rere rere rereeeeeesresesreresreresresresrereseesrereeerereresresreresesreeeeeeereresrerecce
+ee eer erer ere sre rere ere rere rere eeeeesre rere sreeresreereeeeeersesresereeresreeereerereeeesresreeereeresreresreereerecce
+eo rer erec reece eee ere erec ere ere ere eee eee rere eeecer eee rere rere ee eeee eee eeere rere ere ereee reer eeeeeereeoeeeereeeeeeoe
+
+eer ere rere rece er rere resrerere rere sresreresreeesesreresreresresresesresesreeeresreresresresresresresresreeeeereresreccce
+
+eo ee ece reece rere rere ere rere ere rere eeresre reser esrereereeseeeresresrerererererereeseeereresrereresresreereeeereece
+eo eoere ere sre creer ere rere eeeee ee ere ere re rere ere rere es eeresreresrereerereereereee eee sere reser e rere reese eee eece
+eee errr e rere rere rere sere sreeeresrererereere reser esreeereeresresreereresresresre sere esreresreresresre sre seeeeececcces
+
+3) Suppose a function is defined by f(x,y)=Ifor all (x,y). Comment on the
+shape of level curves.
+
+ooo ere er ere rere rere reese eeee ere sre rere sere eeeereeeesrereresreereeeereereereeeeerere rere rereerereeeeeeceece
+eee rere rc ere ere rere re reser ereereresrerereereereresresreresreeeresrereresre reser esreeerereresrere rere reeeereecececes
+
+Lene eee e ee eee EEE EE EEE EERE EE EEE EEE EE EEE EEE EEE EEE e EEE EEE Sees EEE EEE Sees EERE Eee ee EEE EES 14]
+Review of Basic
+Mathematics
+
+142
+
+4.9 LET US SUM UP
+
+In this unit we discussed mainly the method of sketching graphs of functions.
+However, first we discussed how to obtain algebraic equations corresponding to
+some well-known geometric figures. In the reverse direction, for the purpose of
+graphing functions, starting with relationship between elements of domain and
+co-domain, we recalled the basis of functional relationships. An operational
+method of dealing with a function was pointed out to identify dependent and
+independent variables. Thus, we discussed y = f(x), it would be to treat x as the
+independent variable picked up from among the elements of domain and y to be
+the dependent variable present as an element in the range. Such a formulation
+helped translate the functional relationships into graphical representation in the
+rectangular co-ordinate system where x-a x is would contain the values taken by
+independent variables and they-ax is the values of dependent variables. Before
+proceeding with a process of sketching graph of a function, the use of vertical
+line test for testing a relationship for its possibly being a functional relationship
+was discussed. According to this test, equations of circle and ellipse etc. fail to
+meet its requirement of functional relationship.
+
+While dealing with the method of drawing the graph, the unit considered
+functions in five groups, viz., linear, curve, asymptotic, piece-wise and curve
+with branches. The linear types of graphs were drawn when the functions would
+be in the nature of linear, absolute value or step-like. In cases of graphs showing
+curves, functions included were odd and even, quadratic and cubic. Among the
+graph of asymptotic types, functions included were square root, exponential and
+logarithmic. Graphs appearing in pieces in the xy—plane comprised rational
+functions, piecewise functions and discontinuous functions. In the last group of
+graph shaving curve with branches functions concerned with hyperbola and
+rectangular hyperbola were discussed. In the last part of the present unit, graphs
+of functions with two variables were introduced.
+
+4.10 KEY WORDS
+
+Abscissa : x-coordinate (horizontal) of a point in a 2-
+dimensional coordinate system.
+
+Absolute Value : Obtaining the absolute value (or magnitude) of a
+
+Function number.
+
+Asymptote : A line that a curve approaches, as it heads towards
+infinity.
+
+Asymptotic : Graph approaching a point but never touching the
+
+Discontinuity point.
+
+Axis of Symmetry : A line of symmetry for a graph. The two sides of a
+graph on either side of the axis of symmetry look
+like mirror images of each other.
+Cobb-Douglas
+Production
+Function
+
+Contour Diagram
+(contour map)
+
+Co-ordinates
+
+Cubic Function
+
+Directrix
+
+Discontinuous
+Function
+
+Even Function
+
+Exponential
+Function
+
+Hyperbola
+
+Indifference Curve
+Map
+Isoquants
+
+Jump Discontinuity
+
+Level Curves
+
+Logarithmic
+Function
+
+Odd Function
+
+Production function which is applied to describe
+how much output two inputs into a production
+process make.
+
+Graph that provides one way of visualizing
+functions of two variables.
+
+Any of a set of two or more numbers used to
+determine the position of a point, line, curve, or
+plane in a space of a given dimension with respect
+to a system of lines or other fixed references.
+
+A polynomial function of degree 3.
+
+A line perpendicular to the axis of symmetry of a
+parabola.
+
+A function which for certain values or between
+certain values of the variable does not vary
+continuously as the variable increases.
+
+Univariate function is f(x) is said to be even
+provided that f(x)=f(—x).
+
+Function defined by ex p(z)=e2.
+
+A hyperbola is a curve where the distances of any
+point from: a fixed point (the focus), and a fixed
+straight line (the directrix) are always in the same
+ratio.
+
+A group of indifference curves for two commodities
+showing different levels of satisfaction.
+
+A graph of all possible combinations of inputs that
+result in the production n of a given level of output.
+
+A function that jumps from one location to another
+at a certain point.
+
+A contour diagram or contour map of a function
+f(x;y) 1s a 2 dimensional graph showing several
+level curves in the xy—plane.
+
+A function (as y = log , x or y = In x) that is the
+inverse of an exponential function (as y = a’ or
+y =e) so that the independent variable appears in a
+logarithm.
+
+Univariate function f(x) is said to be odd provided
+
+that f(—x)=— f(x).
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+143
+Review of Basic
+Mathematics
+
+144
+
+Ordinate
+
+Piecewise Function
+(split function)
+
+Point Discontinuity
+
+Polar Coordinates
+
+Quadratic Function
+
+Rational Function
+
+Rectangular Co-
+ordinate System
+
+Rectangular
+Hyperbola
+
+Square Root
+Function
+
+Step Function
+Vertex
+
+Vertical Line Test
+of Function
+
+Element of an ordered pair which is plotted on the
+vertical axis of a two-dimensional Cartesian
+coordinate system.
+
+A function can be in Pieces.
+
+Graph of the function has a hole at x=a.
+
+A two-dimensional coordinate system in which each
+point P on a plane is determined by a distance rfrom
+a fixed point Othat is called the pole (or origin) and
+an angle @ from a fixed direction.
+
+A function that can be described by an equation of
+the form(x)=ax’+bx+c, where a#0.
+
+A function that is the ratio of two polynomials.
+
+Two real number lines that intersect at a right angle.
+
+A hyperbola for which the asymptotes are
+perpendicular.
+
+A function that maps these to f non-negative real
+numbers onto itself.
+
+A function whose graph looks like a series of steps.
+A synonym for anode of a graph.
+
+A vertical line anywhere on a graph so that it hits
+the graph in more than one spot, then the graph is
+not a function.
+
+4.11 ANSWERS/ HINTS TO CHECK YOUR
+PROGRESS EXERCISE
+
+Check Your Progress 1
+
+1) The graph is
+
+By the vertical line test, this graph is not the graph of a function, because
+
+there are many vertical lines that hit more than once.
+2) As in the case of straight line, for translating the geometric figure a circle,
+create a coordinate system around the object, with centre of circle as origin
+of coordinate system, as shown below.
+
+OD,
+
+Mark an arbitrary point, say P, on the circle, as (x, y). Draw a perpendicular
+
+from P onto X-axis, meeting it in say point Q. Then length of perpendicular
+is of length y. and x is the length of the intercept on X-axis. Then from
+conventional/ synthetic geometry, we know
+
+vty=r
+
+is an algebraic equation of the circle with radius r.
+
+Check Your Progress 2
+1) First prepare the t-chart which is Table :t-chart of y=(—5/3) x —2
+x y=(—5/3) x —2
+-6 8
+-3 -2
+0 2
+3 -7
+
+Then you draw the graph.
+
+2) x =4/3 or x = -8/3
+3) f(x) = 25 + 0.30x, for 0 <x < 500
+
+100+0.15x, for 500<x<1000
+
+Check Your Progress3
+yA
+1)
+3 —
+2
+
+Ca
+I
+nN
+I
+ena)
+
+I
+
+mh
+ae
+
+Ay
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+145
+Review of Basic
+Mathematics
+
+146
+
+2) Accurve like’s’.
+
+Check Your Progress 4
+
+1) The x intercept is found by solving f (x)=0 or, x + 1=0. The x intercept is at
+the point (—1, 0). The y intercept is at the point (0, f (0)) = (0,-1).
+
+2) Since total fixed cost is a constant quantity, average fixed cost will steadily
+fall as output increases without t becoming zero.
+
+Check Your Progress 5
+
+1) The function can be written f(x)= ax’ +c, where a= 1 and c= 4. Since a
+is— 1, the graph is reflected across the x -axis. Since c = 4the graph is
+translated up 4 units. So, the graph of y =— x°+ 4 is the graph of y = x°
+reflected across the x-axis and translated up 4 units. Now you draw the
+graph.
+
+2) The cubic function is y =x
+
+3) f(x)=1/x 1s a discontinuous function. Either it has a value at which f(x) does
+not exist or has an asymptote. It is discontinuous at x=0 because f(x) is
+undefined there. The discontinuity is visible in the graph.
+
+fed
+
+Check Your Progress 6
+
+1) The rectangular hyperbola in general is defined as a hyperbola which has
+orthogonal asymptotic lines.
+
+2) Price elasticity equal to unity.
+
+3) Hint: write the standard form of a hyperbola with horizontal transverse axis.
+Check Your Progress 7
+
+1) A curve in two dimensions on which the value of a function f(x, y) is a
+constant.
+
+2) The following figure may be seen. The number beside each curve is the
+value of the function to which it corresponds. The level curve for the value
+Oconsists of the axes.
+
+i
+
+— — = ———
+—
+cut
+
+— — ae ==
+I
+
+ha
+
+Z
+\
+
+A level curve is defined as a set, and indeed some level curves of some
+functions are not" curves" at all. In the given function the value of f is 1
+for all values of xand y. As a result you get straight lines, not curves.
+Moreover, the level curve of this function for the value 2 is empty as there
+are no values of (x,y) such that f(x,y)=2.
+
+4.12 EXERCISES
+
+Q1. Find the vertex and intercepts of y= 3x’+x—2 and graph; identify the vertex
+and the axis of symmetry.
+
+Ans. To find the y-intercept, set x equal to zero and solve:
+y = 3(0)°+ (0)-2=0+0-2=2
+Then they-intercept is the point (0,—2). To find the x-intercept, set y
+Equal to zero, and solve:
+0=3x7+x-2
+0=(3x-2)(x+1)
+3x—2=0 or x+1=0
+x= 2/3 or x1
+From the above, the x-intercepts are at the points (1, 0) and (7/3, 0). The
+
+axis of symmetry is half way between the two x-intercepts at (-1, 0) and
+at(“/3, 0).
+
+The complete answer is a listing of the vertex, the axis of symmetry, and
+all three intercepts, along with an ice, neat graph:
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+147
+Review of Basic
+Mathematics
+
+The vertex is at ("/6, 23) 12), the axis of symmetry is the line x = "6, and the
+intercepts are at (0,2), (-1,0),and(7/3,0).
+
+Q2. Let y=x'—13x7+36. Draw its graph.
+Ans. This is a positive even power ("to the fourth"), so the graph will be upon
+both ends. Factoring the polynomial, we get y=(x+3). (x —3) (x+2)
+
+(x-2), so the zeroes (x-intercepts) are—3, —2, 2, and 3. If you plot a few
+other points on your T-chart, it will be no trouble to graph this:
+
+x y=x'—-13x°+36
+-4 84
+-2.5 -6.19
+-] 24
+36
+1 24
+2.5 -6.19
+4 84
+
+Li nit tit it
+
+TTI
+
+Graph of y=x*—13x7+36
+Q3. A quadratic function is given as y=x°—6x+5. Draw its graph.
+
+Ans. We need to plot more than three points to get the correct shape. Find the
+intercepts, which in this case are at (1, 0), (5, 0), and (0, 5); find the vertex,
+which in this case is at (3, —4).Remember that parabolas look like
+"smilies", not like straight lines. So, we want to plot a few more points:
+
+148
+Table: Chart of y=x"+6x+5 Coordinate
+Geometry and
+
+Representation
+x y= x*+6x+5 of Functions
+0
+1
+3 -4
+5 0
+6
+
+Graph of y=x’+6x+5
+Q4. Sketch the graph of f(x)=(x-1)°+3
+
+Ans. We need to pick values of x to plug-in. Here are the function evaluations.
+
+x f(x) (x,y)
+-| -7 (-1, -7)
+0 0 (0,0)
+| | (1,1)
+2 2 (2,2)
+3 9 (3,9)
+
+You can sketch its graph now.
+
+Q5. Sketch the graph of the following piece wise function.
+
+_ —x7+4ifx<1
+g(x)=
+
+2x if x>1
+Ans. Recall that graphing piecewise functions are like graphing several
+
+functions at once, except we are only going to graph them on very
+
+specific intervals. So, we will graph the following two functions,
+149

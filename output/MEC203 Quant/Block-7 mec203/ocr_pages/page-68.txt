@@ -1,0 +1,57 @@
+24.2 DISCOUNTING
+
+Perhaps we all have heard the maxim — Money received today is more than
+
+money received tomorrow; and this message is true in the world even without
+inflation. The question therefore begs, why that-discounting happens. The answer
+lies with the fact, that money is attached with interest it can accrue. Consider the
+case of simple interest for one year being 10%. If we invest € 1 today, we will get
+1.1 after a year from now. In other words, one can be indifferent between 7 1
+today and € 1.1 a year after one year from today, given market interest rate 10%.
+If we want to have =1 a year from Now, we need to invest
+1/(1+0.1) = 0.91 % today. Put another way having to wait a year to receive that
+
+= 1 make it worth F 0.09 less to us today.
+
+The value today of payment to be received in the future is called present value.
+We use present values to compare cost and benefits that occur at different points
+
+in time.
+
+Similarly, considering interest-rate 10% per year, if we receive € 0.83 today that
+would be equal to receiving & 1 after 2 years from now.
+
+The formula for compounding is
+
+r T
+=pi14—
+y (+35)
+
+where p = principal or money today
+r=rate of interest
+T = Time period of consideration
+Y =net money after compounding at end of ‘T’ year.
+
+The present value PV of x represents how much you need to invest today in order
+to have x at end of T years from now. Symbolically,
+
++
+PV(x) = (4) x-—~ «.. (24.1)
+1+r (4+r)?
+
+where T is the number of the year from today in future, in which we receive x.
+
+If x is a cost that occurs in the future, you can think of the present value as money
+you need to set aside today in order to cover that cost the day it takes place. In
+generalized case ‘r’ the annual rate of interest can be calculated monthly, daily
+etc. Similarly, T can be one year, half year, quarter year etc. Our reference year
+does not need to be the present day; it could also be next year or 10 years from
+now, what is important is that all costs and benefits be valued relative to the same
+reference year, for the sake of analysis.
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+67

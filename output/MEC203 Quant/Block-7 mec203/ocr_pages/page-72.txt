@@ -1,0 +1,44 @@
+24.5 OPTIMAL CONTROL OF A GENERIC
+RENEWABLE RESOURCE’
+
+Consider the optimal management of a generic renewable resource. Here we have
+an addition of a biological growth function g(x,) the problem can be rewritten as
+
+max {[p,q,—¢(q,.x leat ... (24.8)
+0
+Subject to x’=g(x,)—q, w (24.9)
+where ats,)=rx(1-™] ... (24.10)
+
+Here 9(Xt) follows the logistic growth law, as used in example of forestry
+
+problem, to characterize the behaviour of a renewable natural resource or
+population, where, yis the intrinsic growth rate of resource and k is the carrying
+capacity of environment. As noted earlier, for xX, very small g(x,)=yx,;
+exponential growth as x, —>k g(x,)—>0 these relationships are illustrated in
+
+Fig.24.2.
+
+Xt
+a(x) K
+g (X)
+—_—_
+0 0 g (x)
+
+Fig. 24.2: The growth function
+The optimal problem can be expressed as
+H” =pyae —6(ae, Xt) + me (a(t) — a)
+So the necessary condition
+
+on” ac(.)
+OH gp, - 2)
+Oat
+
+? Fisher Anthony. C, Lecture Notes on Resource and Environmental Economics. Springer Nature,
+Switzer land AG 2020
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+71

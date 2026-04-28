@@ -1,0 +1,55 @@
+Dynamic
+Optimisation
+
+40
+
+23.1.1 Summary of Optimization & Dynamic Optimization so far
+23. 1.1.1 Optimisation Problem
+
+Here, we start our summarization of the topic by recalling that optimization
+problem has three components: an objective function, decision variables, and
+constraints, where
+
+The objective function, often denoted as f or z, reflects a single quantity to be
+either maximized or minimized.
+
+The decision variables ((also called choice variables, often denoted as the
+vector X) are independent variables, and reflect aspects of the problem that we
+(or the decision maker) have control over.
+
+Constraints represent any kind of limitation/bounds on the values that the
+decision variables must satisfy.
+
+The involved concepts are illustrated through the following two examples.
+
+Example 1: A business firm may seek to maximize profit P. In the simplest
+case, profit is the difference between total revenue R and total cost C.,
+respectively depending on market demand for the firm’s product and production
+capacity for output, say Q. Thus, both R and C are functions of Q, and hence so
+is the profit P.
+
+P(Q) =R (Q)—C (Q) see tee eee eee oe (IL)
+This equation constitutes the relevant objective function, with P as the object of
+maximization
+and Q as the (only) choice variable.
+
+The optimization problem then is that of choosing the level of Q that
+maximizes P
+
+It may be noted that the goal is to find the value of Q, for which P is maximized.
+The goal is not to find the maximum value of the choice/independent variable Q.
+
+Example 2: We have 60 feet of fence available, and wish to enclose the largest
+possible rectangular area. What dimensions should be chosen for the fenced-
+off area? For this problem,
+
+The objective is to maximize the rectangular area enclosed by the fence.
+(Objective function, which is to be maximized, is area bounded by the fence)
+
+The decision variables are not directly given in this problem. Rather, you are
+told to enclose a rectangular area, which, of course, is determined by its length
+(L) and its width (W). These are both decision variables which can be
+controlled directly by us.
+
+There is one obvious constraint—the perimeter of the fence cannot exceed 60
+feet—and

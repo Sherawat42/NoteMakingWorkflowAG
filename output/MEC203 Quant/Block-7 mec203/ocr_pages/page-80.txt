@@ -1,0 +1,59 @@
+H* =PF(k,L)-wh -ql+p4(I-8k) . (24.29) Economic
+Applications of
+The necessary conditions for optimisation (note here we have two control Optinveatton
+
+variables: L & I and one state variable) are:
+
+OH y= pO _ OF _¥ ... (24.30)
+aL aL aL op
+a =0>-q+p=0> 14 =q «.. (24.31)
+
+equation (24.30) is the equation for dynamic marginal productivity of Labor
+
+From co-state equation we get
+
+=n pO)
+Bt =Tht ak
+
++d ++» (24.32)
+
+Using equation (24.31) in equation (24.32) we get
+
+= OF(.
+qf =(r+ 8) pO
+ok
+— FO _a(r+d)~q' _& ..- (24.33)
+ok P P
+
+where C = q(r +8)-q'
+
+equation (24.33) defines the implicit rental value of capital services supplied by
+the firm itself.
+
+Once we know the production function we can calculate marginal productivity of
+labour and capital. Because rand 6 for the model are taken constant, equation
+(24.33) is a 1™ order differential equation that needs to be solved in order to find
+rental to capital.
+
+24.8 OPTIMAL GROWTH MODEL
+
+This model is also known as the Ramsey Model. For sake of simplicity consider a
+firm which is a representative agent for economy. The firm produces as well
+consume as a household. The firm maximizes its profit that it maximizes the
+difference between its income (output) and the cost of production. Let
+
+y(t) = output = F(k¢,L¢)
+
+w(t) = Unitary cost of hiring a Labor
+
+1(t) = Unitary cost of borrowing capital
+
+5 = rate of depreciation for capital = a constant 6 € (0,1)
+
+whatever the firm produces the household consumes that and the balance
+production after consumption is invested back in firm. The household buys the
+
+product. The household has two sources of income i.e., wage from firm and
+interest on capital. Household buys at price pt per unit output. Without loss of
+
+79

@@ -1,0 +1,56 @@
+66
+
+UNIT 24 ECONOMIC APPLICATIONS OF
+DYNAMIC OPTIMISATION
+
+Structure
+
+24.0 Objectives
+
+24.1 Introduction
+
+24.2 Discounting
+
+24.3 Calculation of Current Value (present value) of Investment Streams
+24.4 Optimal Rate of Extraction of Exhaustible Resources by Monopoly
+24.5 Optimal Control of a Generic Renewable Resource
+
+24.6 Optimal Depletion of Non-Renewable Resource
+
+24.7 Neoclassical Investment Theory
+
+24.8 Optimal Growth Model
+
+24.9 Neoclassical Theory of Investment with Adjustment Costs
+
+24.10 Let Us Sum Up
+
+24.11 Key Words
+
+24.12 Answers/Hints to Check Your Progress Exercises
+
+24.13 Exercises
+
+24.0 OBJECTIVES
+
+After going through this unit, you should be able to
+compute the present value of economic variables;
+
+® appreciate the mathematical tool of Hamiltonian functional used in
+
+environment economics analysis;
+© derive optimisation criteria in few standard macroeconomic models; and
+
+¢ perform analysis of dynamic models post optimality condition.
+
+24.1 INTRODUCTION
+
+In this concluding unit of Block 7, by using the formula derived as well as
+explained in Unit 23, we exemplify the beauty of dynamic optimisation.
+Therefore, a grasp of contents of Unit 23 is prerequisite for reading Unit-24.
+Sourced from established literature, the Unit 24 presents six applications-3 each
+from microeconomics and macroeconomics, which demonstrate model
+formulation, optimal solution & necessary analysis. The concept of dynamic
+optimisation is well founded and its application in economics is ever expanding.
+Unit 24 is a humble yet solid endeavour to innervate students for exploring the
+vast area of applied dynamic optimisation in economics.

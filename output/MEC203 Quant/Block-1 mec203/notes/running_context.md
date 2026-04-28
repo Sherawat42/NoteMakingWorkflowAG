@@ -1,0 +1,91 @@
+# Running Context
+
+## Key Concepts Introduced
+- **Mathematical Notation Standards** (Chunk 001–002): Symbols for derivatives, partial derivatives, gradients, norms, vectors used throughout the course.
+- **Number Concept vs Term vs Notation** (Chunk 002): Distinguishing the abstract idea ("twoness"), the name ("two"), and the symbol ("2").
+- **Set** (Chunk 002): Well-defined collection of distinct objects; basis of modern mathematics.
+- **Set Representation Forms** (Chunk 002): Roster, set-builder, descriptive, Venn diagram.
+- **Cardinality** (Chunk 003): Size of a set, |A|.
+- **Set Relationships** (Chunk 003): Equality, subset (⊆), proper subset (⊂).
+- **Special Sets** (Chunk 003): Universal (U), null (∅), power (P(A)), convex.
+- **Quantifiers** (Chunk 003): Universal (∀) and existential (∃) quantifiers.
+- **Set Operations** (Chunks 003–004): Union (∪), intersection (∩), difference (\), complement (Aᶜ).
+- **Number Sets** (Chunk 004): ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ ⊂ ℂ.
+- **Real Number Intervals** (Chunk 004): Open, closed, half-open notation.
+- **Ordered Field Properties** (Chunk 004): Field axioms + order axioms for ℝ.
+- **Decimal Representation** (Chunk 004): Rational ↔ terminating/repeating; Irrational ↔ non-terminating non-repeating.
+- **Exponentiation Rules** (Chunk 004): Product, quotient, power, zero/negative exponents.
+- **De Morgan's Laws** (Chunk 005): (A∪B)ᶜ = Aᶜ∩Bᶜ; (A∩B)ᶜ = Aᶜ∪Bᶜ.
+- **Symbol/Parameter/Variable/Constant** (Chunk 005): Foundational algebraic vocabulary.
+- **Mathematical Identity vs Equation** (Chunk 005): Identity holds for all values; equation only for specific values.
+- **Polynomial** (Chunk 006): Sum of terms aₙxⁿ + … + a₀.
+- **Polynomial Identities** (Chunk 006): (a±b)², (a±b)³, a²−b², etc.
+- **Linear Equation Solving** (Chunk 006): One variable; system of two variables (substitution, elimination, graphical, Cramer).
+- **Quadratic Equation** (Chunks 006–007): ax² + bx + c = 0; three discriminant cases.
+- **Proof Techniques** (Chunks 007–008): Direct, contradiction, contrapositive, cases, existence, induction, equivalences.
+- **Mathematical Induction** (Chunk 008): Base + inductive step.
+- **Relation** (Chunk 008): Subset of Cartesian product A × B.
+- **Properties of Relations** (Chunk 009): Reflexive, symmetric, antisymmetric, transitive (and their negations).
+- **Equivalence Relation** (Chunk 009): Reflexive + symmetric + transitive; induces a partition.
+- **Partial Order & Poset** (Chunk 009): Reflexive + antisymmetric + transitive.
+- **Hasse Diagram** (Chunk 010): Visual representation of a finite poset.
+- **Operations on Relations** (Chunk 010): Inverse, composition.
+- **Function** (Chunk 010): Each input maps to exactly one output.
+- **Injective / Surjective / Bijective** (Chunk 010): One-to-one, onto, one-to-one correspondence.
+- **Vertical Line Test** (Chunk 011): Distinguishes functions from general relations on graphs.
+- **Cartesian Coordinate System** (Chunk 012): 2D plane with perpendicular axes.
+- **Translating Geometry to Algebra** (Chunk 012): Equations describe geometric loci.
+- **Even and Odd Functions** (Chunk 012): Symmetry about y-axis vs origin.
+- **Step / Greatest Integer Function** (Chunk 012): ⌊x⌋ — piecewise constant.
+- **Quadratic Function & Vertex** (Chunks 012–013): y = a(x−h)² + k; vertex at (h,k); axis x=h.
+- **Cubic Functions** (Chunk 013): General behaviour, inflection point.
+- **Asymptotes** (Chunks 013–014): Horizontal, vertical, oblique.
+- **Square Root, Exponential, Logarithmic Functions** (Chunk 013): Domains, ranges, asymptotic behaviour.
+- **Rational and Piecewise Functions** (Chunk 013): P(x)/Q(x); domain restrictions.
+- **Continuity** (Chunk 014): Limit equals value; jump, removable, infinite discontinuities.
+- **Hyperbola** (Chunk 014): x²/a² − y²/b² = 1; vertices, foci, asymptotes y = ±(b/a)x.
+- **Rectangular Hyperbola** (Chunk 014): xy = k; perpendicular asymptotes.
+- **Functions of Two Variables / 3D Graphs** (Chunk 014): Surfaces in 3D space.
+- **Level Curves** (Chunk 015): f(x,y) = c — indifference curves and isoquants in economics.
+
+## Definitions (⭐ exam-important)
+- **Set** (Chunk 002): Well-defined collection of distinct objects.
+- **Subset** (Chunk 003): A ⊆ B iff every element of A is in B.
+- **Proper Subset** (Chunk 003): A ⊂ B if A ⊆ B and A ≠ B.
+- **Power Set** (Chunk 003): P(A) = set of all subsets; |P(A)| = 2^|A|.
+- **Convex Set** (Chunk 003): For any two points p, q in S, the segment λp + (1−λ)q ∈ S for all λ ∈ [0,1].
+- **Universal Set, Null Set** (Chunk 003): Reference set vs empty set ∅; ∅ ⊆ every set.
+- **Union/Intersection/Difference/Complement** (Chunks 003–004): Standard set operations with Venn-diagram interpretations.
+- **Real Number Intervals** (Chunk 004): (a,b) open, [a,b] closed, (a,b] and [a,b) half-open.
+- **Ordered Field Axioms** (Chunk 004): Closure, associativity, commutativity, identity, inverse, distributivity, plus order trichotomy and compatibility.
+- **De Morgan's Laws** (Chunk 005): (A∪B)ᶜ = Aᶜ∩Bᶜ; (A∩B)ᶜ = Aᶜ∪Bᶜ.
+- **Polynomial Identities** (Chunk 006): (a+b)² = a²+2ab+b²; a²−b² = (a−b)(a+b); (a±b)³.
+- **Quadratic Formula** (Chunk 006): x = (−b ± √(b²−4ac)) / 2a.
+- **Discriminant Cases** (Chunk 007): Δ>0 (two real roots), Δ=0 (one repeated), Δ<0 (complex conjugate pair).
+- **Principle of Mathematical Induction** (Chunk 008): If P(1) holds and P(k) ⇒ P(k+1), then P(n) for all n.
+- **Equivalence Relation** (Chunk 009): Reflexive + Symmetric + Transitive.
+- **Partial Order** (Chunk 009): Reflexive + Antisymmetric + Transitive.
+- **Function** (Chunk 010): f: A → B such that ∀a ∈ A, ∃! b ∈ B with f(a) = b.
+- **Injective** (Chunk 010): f(a₁) = f(a₂) ⇒ a₁ = a₂.
+- **Surjective** (Chunk 010): ∀b ∈ B, ∃a ∈ A with f(a) = b.
+- **Bijective** (Chunk 010): Both injective and surjective.
+- **Vertical Line Test** (Chunk 011): A curve is the graph of a function iff every vertical line meets it in at most one point.
+- **Even/Odd Function** (Chunk 012): f(−x) = f(x) (even, y-axis symmetric); f(−x) = −f(x) (odd, origin-symmetric).
+- **Vertex of Parabola** (Chunk 013): For y = ax² + bx + c, vertex at (−b/2a, c − b²/4a).
+- **Hyperbola Equation** (Chunk 014): x²/a² − y²/b² = 1; asymptotes y = ±(b/a)x.
+
+## Named Models / Laws / Theories
+- **De Morgan's Laws** (Chunk 005): Set complement laws.
+- **Cramer's Rule** (Chunk 006): Solution of n × n linear systems via determinants.
+- **Quadratic Formula** (Chunk 006): Roots of ax² + bx + c = 0.
+- **Pythagorean Theorem / Distance Formula** (Chunks 011–012): √((x₂−x₁)² + (y₂−y₁)²).
+- **Principle of Mathematical Induction** (Chunk 008).
+- **Vertical Line Test** (Chunk 011).
+- **Lerner / Indifference / Isoquant Curves** (Chunk 015): Economic applications of level sets.
+
+## Key Data & Numbers
+- **Greek alphabet table** (Chunk 002): α, β, γ, δ, ε, η, θ, λ, μ, π, ρ, σ, χ, ψ, ω commonly used.
+- **|P(A)| = 2^|A|** (Chunk 003): For a set with 6 elements, 64 subsets.
+- **Discriminant Δ = b² − 4ac** (Chunk 006): Sign determines root nature.
+- **Vertex of generic parabola y = ax² + bx + c**: (−b/2a, c − b²/4a) (Chunk 013).
+- **Hyperbola asymptote slope**: ±b/a (Chunk 014).

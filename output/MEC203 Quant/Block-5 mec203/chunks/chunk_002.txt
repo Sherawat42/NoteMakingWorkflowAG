@@ -1,0 +1,544 @@
+--- Page 01 ---
+
+16.3.1 Sufficient Condition for Extreme Values Optimisation:
+
+An Introduction
+A function y = f(x1, x2) is said to be at maximum at a point (a, b) if
+f(a,b)>f(x1,x2) for all values of (x1,x2) in the domain a—d <x, <a+o and
+
+b-dO <x, <b+6. Here,x, #a, x, #band dis a very small quantity, 1.e.,
+f(a +h, b +k) — f(a, b) <0
+where, |h| <6 and |k| <6.
+
+This implies, the function y = f (x1, x2) is said to have a maximum at the point (a,
+b) if any movement from the point in any direction gives us a lower value of y.
+
+If dy = 0 at the point of maximum and dy<0 elsewhere, we can conclude that the
+sufficient condition to have a maximum is that the change in dy should be
+diminishing i.e.,
+
+d(dy) <0 >d’y <0.
+
+From y = f (x1, x2) we have
+
+dy = fidx; + f2 dx2 =0
+
+or, d’y = d(fidx: + f2 dx2)
+
+i.e., dy = d(fidx1) + d(f dx2)
+
+= dfi(dx1) + df2(dx2)
+
+= (f11 dx1 + fiz dx2) dxi + (f21 dx + fo2 dx2) dx2
+
+By Young’s theorem, fi2 = f21.
+
+Thus, d’y < 0 implies
+
+fin (dxi)* + 2fi2 dxi dx2+ foo (dx2?<O 0 (i)
+
+Note that fi1, fi2 and f22 are derived on any particular point, say (a,b). Thus, their
+values can be assumed to be constant. However, dx; and dx2 are variables.
+
+Let, u = dx1, v = dx2, a= fii, b = feo, h= fiz.
+The left-hand expression of (i) can be written in a quadratic form as
+
+q = au’ + 2huv+ bv”
+
+2 2
+= af w hava Ey] a[o-% Jy
+a a a
+
+=a{us4y) -abah (v’).
+a a
+
+h 2
+Since both [v4] and v’ are positive, sign of q depends entirely on the
+a
+
+values of the coefficients a, b and h. The inequality q<0 holds if a < 0 and
+
+ab—h?> 0.
+141
+
+--- Page 02 ---
+
+Extreme Values
+and Optimisation
+
+142
+
+Again, since the product a b must be positive in order to get positive (ab—h’),
+both a and b must bear the same sign. Thus, if a<0, b<0 and ab — h?> 0, then
+q<0.
+
+Alternatively, d*y<0, if fii< 0, fo2< 0 and fi1 f22 — fi2?> 0. This is the sufficient
+condition for a maximum.
+
+The sufficient condition for a minimum of a bivariate function is
+fi1> 0, f22> 0, fir f22 — fi2*> 0 which can be derived in a similar way.
+
+Let us now consider the case when fi; f22< (fi2). A stationary point of a bivariate
+function, where fi = 0 = fp is called
+
+i) A saddle point if
+fi fo2<fi2?and fi; and f22 have different signs.
+ii) An inflexion point if fi: foo<fi2’and fi1, f2 have the same sign.
+If fir fo2 = fio”, the change becomes inconclusive.
+Now, let us consider the case of two variables and take the following expression:
+q = au’ + 2huv+ bv’.
+= au’ + huv + huv + bv’.
+
+This may be put in the following matrix form:
+
+Since we are not concerned with the value of x and v, matrix of order 2x2 i.e.,
+
+ah
+; A supplies us the required conditions for q to be positive or negative.
+
+1) q will have positive sign
+h
+
+>0
+b
+
+a
+if |a| > 0 and
+h
+
+11) q will have negative sign
+; ah
+al <Oand > 0
+h b
+
+h i
+
+Next, consider the position of |a| and
+
+The determinant |a| is the sub-determinant of H that consists of the first element
+of the principal diagonal and is called the first principal minor of H.
+
+The determinant can also be considered as sub-determinant of H. Since it
+
+involves the first and second elements on the principal diagonal of H, it is called
+
+--- Page 03 ---
+
+the second principal minor of H. In the case of a function of two variables, only
+two principal minors are available but there will be three if the function involves
+three variables.
+
+Check Your Progress 3
+
+1) Find the stationary values and test whether they are maximum or minimum
+for z = 3x” + 6xy + Ty’
+
+2) Show that the only stationary point of the function z = 4x? — 2y” + 7xy isa
+saddle point.
+
+16.3.2 Function of Three Variables and Extrema
+Assume, z = f(x, y, w).
+Then dz = fxdx + fy dy + fydw.
+d?z = fxdx” + frydxdy + frwdxdw + fyy(dy)? + fywdydw + fyxdwdx +fyydwdy
++fyxdydx + fiw (dw).
+fx fey — few || de
+=|dx dy dw|| fx fy fw) dy
+
+tux fwy fww|| dw
+fxx fxy fxw
+The determinant of the matrix | fyx fvy fyvw
+fux fwy fww
+shall have three principal minors namely,
+D1 = [fx [Dal = mar
+Styx fy
+tux fxy  fxw
+and |D3|= | fyx fry fyw
+Sux fuy fi
+
+Our problem is to determine the restrictions that should be placed upon D;, D2
+and D3, so that, for any value of dx and dy, the value of d’z will turn out to be
+positive or negative.
+
+Optimisation:
+An Introduction
+
+143
+
+--- Page 04 ---
+
+Extreme Values
+and Optimisation
+
+144
+
+For this, we once again put the quadratic form of three variables in a way that
+the three variables always appear as components of some square.
+
+Let q = ax” + by” + cw’ + 2hxy + 2fyx + 2¢wx
+dz = fxx (dx?) + fyy(dy”) + fw (dw)? + 2fxy dxdy + 2fywdydw + 2fwdxdw.
+
+We can rewrite q in the following form:
+
+=a hq ) abah (yo) [ae —ch 28h)
+
+w
+
+Ta” a ab — hr ab — I
+So that
+1) for q to be positive, the following must hold:
+
+a> 0, ab—h*> 0, and
+
+abc — af * — be” —ch? + 2fgh > 0.
+
+The above three conditions can be put as the three principal minors of the
+matrix
+
+ah g
+h b f
+g fie
+
+D,>0, D2>0 and D3>0.
+
+Translating these elements in terms of partial derivatives, we have the
+following three conditions for dz to be positive for the given function to
+have minimum value.
+
+xx fx
+D, =|fe| > 0, D, =|" feo
+tyx fy
+fxx fxy fxw
+D; =| fyx  fyy  fyw > 0.
+fux fuy fi
+ii) for q to be negative, following conditions must hold:
+ah
+D,; =a<0, D, = > 0,
+h b
+ah eg
+D,=|h b f\<0.
+g fic
+
+or, in terms of partial derivatives for d’z to be negative (or the given function
+to have maximum value), following conditions must hold good:
+
+fx fp
+
+x
+Di=|fal <0, Da =f mee
+YX SY.
+
+--- Page 05 ---
+
+fxx fxy few Optimisation:
+An Introduction
+D;=|frx fyy fyw <0.
+fux fwy fi
+
+i.e., the principal minors of the determinant of d’z should be successively
+negative, positive and negative.
+16.3.3 Function of n Variables and Extrema
+
+When there are 1 independent variables, the objective function may be expressed
+as
+
+Z = f(X1, X2, .... Xn).
+The total differential will then be.
+dz = f; dx; + --- + frdxn
+
+so that F.O.C. for minimum or maximum will be that all the n first order partial
+derivatives must vanish (since dz = 0) and therefore,
+
+fi=h=f,=0.
+For the second order condition
+
+i) dz will have positive sign (i.e., function will have the minimum value) if
+all the n principal minors of the Hessian determinant:
+
+fii a Fin
+
+fn to
+\A|=—
+
+Fn Snax Sm
+
+ii) d°z will have negative sign (i.e., function will have maximum value, if n
+principal minors of H possess alternate signs - the first being negative.
+
+2n oye
+are positive.
+
+Let us now summarize the extremum conditions in the tabulated form:
+
+For z = f(x1, X2, --, Xn) to be
+
+Condition Maximum Minimum
+F.O.C. dz=0Oie., fi=h=..=f,=0 dz=0Oive., fi=fh =-- =f, =0
+S.0.C dz < 0, i-e., [Hi] < 0, |H2| > 0, |H3| <0, -- | d?z>0 i.e., |Hi| > 0 [H2{>0, |H3| >0, ---
+
+Example 16.4:
+1) Indicate whether the function
+
+Z = f(x1, X2, X3) = X17 - 3x1 X2 + 3x2? + 4x2 x3 + 6x3” has maximum or minimum
+value.
+
+F.O.C.
+
+f, = 2x; —3x2 =0
+145
+
+--- Page 06 ---
+
+Extreme Values
+and Optimisation
+
+146
+
+fo =—3x)+ 6x2 + 4x3 = 0.
+f3 = 4xot 12x3= 0.
+
+Solving these equations, we get x1=0, x2 = 0 and x3 = 0.
+
+fii fio fis 2 -3 0
+Z| =|h In fos =|-3 6 4
+fa fo fs 0 4 12
+for (x1, X2, x3) = (0, 0, 0).
+where fij = fxixjV 1, J = 1, 2, 4.
+
+2 -3
+|Hi| = 2 >0, |H,| = >0
+-3 6
+2 -3 0
+and |H,|=|-3 6 4/>0.
+0 4 12
+
+i.e., all principal minors are positive. Hence, the given function has
+minimum value equal to zero at point (0, 0, 0).
+
+11) Determine whether the function v = f (x, y, z)
+
+=—x? + 3xz + 2y — y” — 3z’ has miaximum or minimum value.
+F.O.C: f) =-3x? + 3z=0
+
+f=2-2y=0
+
+f3 =3x -6z=0
+
+Solving these equations, we get x = 0, or 2; y=1;z=Oor%.
+
+Thus, there are two stationary points (0, 1, 0) and (1/2, 1, 1/4) and we have to
+examine whether the given function has maximum or minimum value at
+those points.
+
+Sex Sy Sc — 6x 0 3
+S.0.C:|H|=|f,. Sy Sfel=| 9 -2 0
+Sax ty te 3 0 -6
+At (0, 1, 0)
+0 0 3
+|JH|=(0 -2 0
+3 0 -6
+fx = 0.
+
+Thus, S.O.C. cannot be fulfilled.
+At (1/2, 1, %),
+
+--- Page 07 ---
+
+-3 0
+|H|=|0 -2 0
+3 0 -6
+
+|Hi| =—3 < 0, |H2| = 6 > 0, |H3| = -18 <0
+which alternate in sign.
+
+Hence at (1/2, 1, 4), the given function possesses maximum value which will be
+17
+16
+
+Check Your Progress 4
+
+1) Examine the following functions for maxima or minima.
+a) z=2x?+xy+4y*+xz+7°+2
+b) z= e* — e¥ +e” —2(x +e) ty.
+
+16.4 LET US SUM UP
+
+In this unit, we have discussed the extrema of a function and the condition under
+which it attains (relative/ absolute) extrema. We started with single variable case
+for simplicity extended the argument for multivariable cases. The emphasis was
+on the technique of how to obtain extrema of a function, which is differentiable.
+
+16.5 KEY WORDS
+
+Local (relative) : A function attains local maximum at any
+Maxima and Global particular point in the domain of definition
+(absolute) Maxima implies that the value of the function is maximum
+
+in the neighborhood of that point only, and the
+function can assume higher values elsewhere.
+This can be non-unique. The global maximum is
+the highest value of the function with reference to
+its entire domain and hence unique
+
+Local (relative) : A function attains local minimum at any
+Minima and Global particular point in the domain of definition
+(absolute) Minima implies that the value of the function is minimum
+
+in the neighborhood of that point only, and the
+function can assume lower values elsewhere. This
+can be non-unique. The global minimum is the
+lowest value of the function with reference to its
+entire domain and hence unique.
+
+Optimisation:
+An Introduction
+
+147
+
+--- Page 08 ---
+
+Extreme Values
+and Optimisation
+
+148
+
+Points of Inflexion : The point of inflexion is defined as a point at
+
+which a curve changes its curvature. The
+sufficient condition for a point of inflexion is
+f(x) =0 and f"(x) #0. Thus, if a function has
+
+f (x) =90, f'"(x) = 0 and f(x) # Oat the point x,
+the point is said to be stationary and inflexional.
+
+Stationary Points : The points, at which first order derivatives are
+
+zero, are called stationary points. The values of
+the function at those points are called stationary
+
+values.
+
+16.6 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+I) f'() =3(x? 4x +8) =3{(x—2)? +4}>0 Ve. Thus, the function
+
+does not have a maximum or a minimum.
+
+2) x =—1 and x = 1 are minima. X = 0 is the maximum
+
+Check Your Progress2
+
+1) x= —1/3 is the point of inflexion.
+Check Your Progress 3
+
+1) Here, f (x) = 6x + 6y, f(y) = 6x + 14y.
+F.O.C. requires fx = fy = 0 ie.,
+
+6x + l4y=0..... (11)
+Solving (1) and (ii) for x and y we get, x = 0, y= 0.
+
+The given function reaches its minimum value at the stationary point and its
+minimum value is zero. This is because
+
+fi 62 0.3) =14>0.
+y=0
+
+y=0
+
+Also, fxx.fvy—(fxy)”
+
+x=0
+y=0
+
+= 84-36=48>0.
+
+2) Here fx = 8x + 7y, fy =— 4y + 7x, fix = 8, fay = 7, fyy =-—4
+F.O.C. for having stationary values is fx = fy = 0
+i.e., 8x + 7y =0
+—4y+7x=0
+
+--- Page 09 ---
+
+Solution of these equations gives us x=0, y = 0. Thus, the given function
+has only one stationary point at (0, 0). Now fxx and fyy have opposite signs
+and fxx.fyy — (fxy)’ < 0. Thus, the stationary point for the given function is a
+saddle point.
+
+Check Your Progress 4
+
+1) a) No maxima or minima
+
+b) Maximum at (0,0,0)
+
+16.7 EXERCISES
+
+Q1. Find the maxima and minima of 1 + 2 Sin x + 3 Cos* x where
+
+0<x<4],
+2
+
+Ans. To find the maxima and minima of 1 + 2 Sin x + 3 Cos? x.
+
+[ocx get
+
+f(x) = 1+ 2 Sin x+ 3 Cos? x
+f(x) = 2 Cos x — 6 Cox x Sin x
+f(x) = 0 when 2 Cos x(1 —3 Sin x) =0.
+
+i.e., when Cos x = 0 and when Sin x = ; .
+f(x) =— 2 Sin x — 6 (Cos*x—Sin’x)
+
+1 .
+when Cos x = 0, x= % “. Sin x =1
+
+~£'(x)=-24+6=4>0.
+
+For Cos x = 0, f(x) is a minimum and the minimum value is 3.
+1
+When Sin x = 3
+
+f(x) =— 2 Sin x — 6(1 — 2 Sin’x)
+
+1 ~2 6 1-2 <0
+
+Therefore, for Sin x = ; , f(x) is a maximum and the maximum value is 4 .
+
+f"x)
+
+Q2. If y= xi? + 2x2? — 6x1? + 9x2? — 63x1 — 60x2 — 24, find the optimum
+points and verify the nature for the function.
+
+Ans. x1 =~—3, x2 = 2 saddle point
+X1 = 7, x2 =—5 saddle point
+xX; =—3, x2 =—5 relative maximum
+
+X1 = 7, X2 = 2 relative minimum
+
+Optimisation:
+An Introduction
+
+149
+
+--- Page 10 ---
+
+Extreme Values
+and Optimisation
+
+150
+
+Q3. Examine y = —x1? + 9x1 — 4x” for relative extrema.
+
+Ans. The necessary conditions for maximum or minimum are
+
+fj) =-3x;? + 0=0...()
+
+f2 =—8x2 = 0 ...(ii)
+
+from (i) and (11) we get xi = + V3, x2 =0.
+
+Thus, we get two stationary points for this function, namely, (3 0) and
+
+(- V3.0). At stationary point, (3,0) the function has a maximum. At
+(- v3 0) the function has a saddle point.
+

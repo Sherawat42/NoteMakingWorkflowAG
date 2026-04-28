@@ -1,0 +1,543 @@
+--- Page 11 ---
+
+3)
+
+What are the types of bias in a sample survey?
+
+28.5 TYPES OF SAMPLING
+
+We proceed by partitioning sampling techniques into two groups:
+
+Non-probability (non-random) sampling
+
+Probability (random) sampling.
+
+A.
+
+Non-probability sampling is used in the absence of a sampling frame and
+are characterized by the following properties:
+
+1) Some population units have no chance (zero probability) of being
+selected.
+
+2) Units which can be selected have an unknown (non-zero) probability of
+
+selection.
+
+3) Sampling errors cannot be quantified.
+
+There are three types of non-probability sampling:
+
+i)
+
+Convenience Sampling — samples are selected from the members of the
+population which happen to be in the vicinity. Of course, such an approach is
+unlikely to yield a representative sample. For example, media is approaching
+people in a market for some debated political opinion. In such sampling, there
+is no sampling frame and sample is collected as per the convenience. People
+who accept the offer and give some opinion cannot be generalized because
+people who did not accept the offer of providing their opinion are completely
+ignored.
+
+ii) Judgement Sampling - uses expert opinion to judge which individuals to
+
+choose. An example would be a research firm selecting people to participate
+in a focus group by telephoning people and identifying who matches the
+target profile through a series of questions developed by an expert. Similarly
+in a popular TV show people from different expertise are called to discuss
+their opinion.
+
+iii) Quota Sampling - attempts to obtain a representative sample by specifying
+
+quota controls on certain specified characteristics, such as age, gender, social
+class and any other variables relevant to the investigation being undertaken.
+The (approximate) distribution of such characteristics in the population is
+required in order to replicate it in the sample. Such sampling is useful in the
+absence of a sampling frame. Since non-probability sampling technique does
+not require a sampling frame, it does not allow us to measure the sampling
+
+error.
+
+Sampling Theory
+
+177
+
+--- Page 12 ---
+
+Inferential
+Statistics
+
+178
+
+All three techniques above (convenience, judgement and quota) have some
+appeal. However, in all cases we have no real guarantee that we have achieved an
+adequately representative sample (we might do by chance, of course, but this
+would be highly unlikely). Since we do not know the probability that an
+individual will be selected for the survey, the basic rules of inferential statistics
+which we will later learn to use (like confidence intervals and hypothesis testing)
+are not applicable here. Specifically, standard errors (a key ingredient in
+inferential procedures) are not estimatable. However, in the absence of a
+sampling frame, we will have to resort to non-probability sampling methods.
+
+B. Probability sampling means that every population unit has a known (not
+necessarily equal), non-zero probability of being selected in the sample. In all
+cases, selection is performed through some form of randomization. For
+example, a pseudo-random number generator can be used (like Tippet’s
+random numbers tables or by throwing of a dice, draw of a lottery, etc.) to
+generate a sequence of ‘random' numbers. Suppose we want to select r
+candidates out of n, we assign the numbers | to n, one number to each
+candidate and write this numbers (1 to n) on n slips which are made as
+homogeneous as possible, in shape, size, etc. These slips are then put in a bag
+and thoroughly shuffled and the r slips are drawn one by one. The r
+candidates corresponding to the number on the slips drawn will constitute the
+random sample.
+
+Relative to non-probability methods, probability sampling survey can be
+expensive and time-consuming, and requires a sampling frame. However, we
+can aim to minimize both the (random) sampling error and the systematic
+sampling bias. Since the probability of selection is known, standard errors can
+be computed which allows confidence intervals to be determined and
+hypothesis tests to be performed.
+
+Note: Tippet’s random number tables consist of 10400 four-digit numbers,
+giving in all 10400 x 4, i.e., 41600 digits, taken from the British census reports.
+These tables have proved to be fairly random in character. Any page of the table
+is selected at random and the number in any row or column or diagonal selected
+at random may be taken to constitute the sample.
+
+Following are the different types of probability sampling:
+
+i) Simple Random Sampling (SRS) -It is a special case where each population
+unit has a known, equal and non-zero probability of selection. Of the various
+probability samples, it is simple and it produces unbiased estimates, although
+more accurate methods exist (i.e., those with smaller standard errors).
+
+ii) Systematic Random Sampling - Systematic sampling is a statistical method
+involving the selection of elements from an ordered sampling frame. The
+most common form of systematic sampling is an equi-probability method.
+The sampling starts by selecting an element from the list at random and then
+
+--- Page 13 ---
+
+every kth element in the frame is selected, where k, is the sampling interval:
+this is calculated as: k =" /n> where n is the sample size, and N is the
+population size. Systematic sampling is to be applied only if the given
+population is logically homogeneous, because systematic sample units are
+uniformly distributed over the population. The researcher must ensure that the
+chosen sampling interval does not have a pattern. Any pattern would threaten
+randomness.
+
+iii) Stratified Random Sampling- This sampling technique achieves a higher
+
+level of accuracy (smaller standard errors) by exploiting natural groupings
+within the population. Here the entire heterogeneous population is divided
+into a number of homogeneous groups, usually termed as ‘strata’, which
+differ from one another but each of these groups is homogeneous within
+itself. Then units are sampled in random from each of these strata, the sample
+size in each stratum varies according to the relative importance of the stratum
+in the population. A simple random sample is taken from each stratum, thus
+ensuring a representative overall sample since a broad cross-section of the
+population will have to be selected. Hence great care needs to be taken when
+choosing the appropriate stratification factors, which should be relevant to the
+purpose of the sample survey such as age or gender. The sample, which is the
+aggregate of the sampled units of each of the stratum, is termed as stratified
+sample and the technique of drawing this sample is known as stratified
+sampling. Such a sampling is by far the best and can safely be considered as
+representative of the population from which it has been drawn.
+
+iv) Cluster Sampling — This sampling is used to reduce costs (time and money).
+
+Here the population is divided into clusters, ideally such that each cluster is
+as variable as the overall population (i.e., heterogeneity within clusters and
+homogeneity between clusters). Next, some of the clusters are selected by
+SRS. This is where some savings are expected, since typically the clusters
+may be constructed on a geographical basis allowing interviewers to restrict
+themselves to visiting households in certain areas rather than having to travel
+long distances to meet the respondents required by a simple random sample
+who potentially cover a large area.
+
+A one-stage cluster sample would mean that every unit in the chosen clusters
+is surveyed. It may be that the cluster sizes are large meaning that it is not
+feasible to survey every unit within a cluster. A two-stage cluster sample
+involves taking a simple random sample from the clusters selected by SRS
+during the first stage. When a subsample is taken from a selected cluster, this
+is known as a multistage design.
+
+Multistage Sampling- It refers to the case when sample selection occurs at
+two or more successive stages. Multistage sampling is frequently used in
+large surveys. During the first stage, large compound units are sampled
+(primary units). During the second stage, smaller units (secondary units) are
+
+Sampling Theory
+
+179
+
+--- Page 14 ---
+
+Inferential
+Statistics
+
+180
+
+sampled from the primary units. From here, additional sampling stages of this
+type may be performed, as required, until we finally sample the basic units.As
+we have already seen, this technique is often used in cluster sampling (as we
+initially sample main clusters, then clusters within clusters, etc.) We can also
+use multistage sampling with a mixture of techniques. A large government
+survey will likely incorporate elements of both stratification and clustering at
+different stages.
+
+28.6 PARAMETER AND STATISTIC
+
+In order to avoid verbal confusion with the statistical constants of the population,
+viz., mean (1), variance (c”), etc., which are usually referred to as ‘parameters’,
+statistical measures computed from the sample observations alone, e.g., mean
+(x), variance ( s’), etc., have been termed by Professor R. A. Fischer as
+‘statistic’.
+
+As discussed in the introduction, in practice, parameter values are not known and
+the estimates based on the sample values are generally used. Thus, statistic,
+which may be regarded as an estimate of parameter, obtained from the sample, is
+a function of the sample values only. It may be pointed out that a statistic, as it is
+based on sample values and as there are multiple choices of the samples that can
+be drawn from a population, varies from sample to sample. These differences in
+the values of a ‘statistic’ are called ‘sampling fluctuations’. The determination of
+the characterization of variation (in the values of the statistic obtained from
+different samples of a same population) that may be attributed to chance or
+fluctuations of sampling is regarded as one of the fundamental problems of the
+sampling theory.
+
+Note: Now onwards, and o” will refer to the population mean and variance
+respectively while the sample mean and variance will be denoted by x and s
+respectively.
+
+Check Your Progress 2
+
+1) List the important types of sampling.
+
+2) Distinguish between simple random sampling and _ stratified random
+sampling.
+
+--- Page 15 ---
+
+3) Differentiate between parameter and statistic. Sampling Theory
+
+4) Distinguish between cluster sampling and stratified sampling. Are they
+both one stage or multistage sampling?
+
+28.7 SAMPLING DISTRIBUTION OF A STATISTIC
+
+Let a random sample of size n be drawn from a population of size N. Consider
+
+the sample variable X to assume the values X1,%2, X3, «+... ..X,. Consider the
+. 1
+
+sample mean: = isa Xj
+
+If we want to use this statistic to make inferences regarding the population mean,
+lu, we need to know something about the probability distribution of x. The
+distribution of a sample statistic is known as a sampling distribution. Two of its
+characteristics are of particular interest, the mean or expected value E(x) and
+the variance o” or standard deviation 6. What can we say about E(x), the mean
+of the sampling distribution of x?
+
+If we draw a sample of size ‘n’ from a given finite population of size ‘N’, then
+the total number of ways of drawing possible samples is:
+
+“C,=N!/ {n! (N—n)!} =k, (say).
+
+Suppose, we repeatedly draw sample of size n from the given population, and
+each time record the sample mean, and then take the average of those sample
+means. It is unlikely that any given sample will yield a value of X that precisely
+equals to ut, the mean of the population from which we are drawing the sample.
+Due to (random) sampling error some samples will give a sample mean that
+exceeds the population mean, and some will give an x that falls short of p. But if
+our sampling procedure is unbiased, then deviations of x from p in the upward
+and downward directions should be equally likely. Therefore, on an average, they
+should cancel out. In that case: E(x) = u = E(X), or the sample mean is an
+unbiased estimator of the population mean.
+
+Consider a simple example where the population size is N = 3. The members are
+x, = 1,x2 =3,x3 =5. So, population mean is 1, = 3. Suppose 2 samples are
+to be drawn from the population of 3. So, n = 2 and the number of ways it can be
+done is NC, = 3C, = 3 possible ways.
+
+Suppose the population mean is unknown. We use simple arithmetic mean to
+estimate population mean.
+
+181
+
+--- Page 16 ---
+
+Inferential
+Statistics
+
+182
+
+Let the sample 1: (1,3) and the sample mean (X;) = 2;
+Sample 2:(3, 5) and the sample mean (Xz) = 4
+
+Sample 3:(1,5) and the sample mean (%3) = 3
+X1 + Xz +%X3
+
+Therefore expected value of X = E(x) = 3
+
+=(2+4+3)/3
+=3 =u (Population mean)
+
+The frequency distribution of the statistic that would be obtained if the number of
+samples, each of the same size (‘n’), were infinite is called the ‘sampling
+distribution’ of the statistic. In the case of random sampling, the nature of the
+sampling distribution of a statistic can be deducted theoretically, provided the
+nature of the population is given, from considerations of probability theory.
+
+Like any other distribution, a sampling distribution would have its mean,
+standard deviations and moment of higher orders. Of particular importance is the
+standard deviation, which is designated as the ‘standard error’ of the statistic.
+For example, the standard error of the sample mean is 0, = = .
+
+As an illustration, in the next section we derive for the random sampling the
+means (expectations) and standard errors of a sample mean and sample
+proportion.
+
+We often use 0.6745 times the standard error, as the ‘probable error’ of the
+statistic. The relevance of the probable error stems from the fact that for a
+normally distributed variable x with mean 1 and s.do,
+
+P [uw —0.67450< x <p + 0.67456 ] = 0.5 (approximately).
+
+28.8 STANDARD ERROR
+
+Let us try and answer this question. What factors do you think are going to
+influence the degree of dispersion of the sample mean around the population
+
+mean?
+
+SE: 6, = z
+The more widely dispersed are the population values around their mean, the
+greater the scope for sampling error (i.e., drawing by chance an unrepresentative
+sample whose mean differs substantially from 1).In the denominator is the square
+root (Vn) of the sample size, n. It makes sense that if our samples are larger, this
+reduces the probability of getting unrepresentative sample, and hence narrows the
+dispersion of x. Note that, it is vVn,rather than n, that enters the formula. It
+indicates that an increase in sample size is subject to diminishing returns, in
+terms of increasing the precision of the estimator. For example, increasing the
+sample size by a factor of four will reduce the standard error of ¥ only by a factor
+of two.
+
+--- Page 17 ---
+
+The standard deviation of the sampling distribution of a statistic is known as its Sampling Theory
+
+“standard error’, abbreviated as S.E. The standard errors of some of the well-
+known statistics, for large samples, are given in Table 28.1, where ‘n’ is the
+sample size, o” is the population variance, and P is the population proportion, and
+Q = 1-P. n: and m represent the sizes of two independent random samples
+respectively drawn from the given population(s).
+
+Table 28.1: Standard Errors of some of the well-known Statistics (for Large Samples)
+
+S.No. Statistic Standard Error
+l. Sample mean: X o/Vn
+2. Observed sample proportion: ‘p’ PQ
+
+on
+
+3. Sample s.d: ‘s’ Vo? /2n
+4. Sample variance: s” o V2/n
+5. Sample quartile 1.36263 o/Vn
+6. Sample median 1.25331 o/Vn
+7. Sample correlation coefficient (1-p?)/ Vn,
+
+p being the population correlation
+
+coefficient
+8. Sample moments p13 0 V96/n
+9. Sample moments 14 o V96/n
+10. Sample coefficient of variation (v) v 1 ow Vv
++ —_ =
+V2n 10¢ v2n
+ll. Difference of two sample means: o o
+(x, -x,) cL +S
+XX. n, n,
+12. Difference of two sample s.d.’s: o; 0;
+—t + —2
+(s1-s2) 2n, 2n,
+13. Difference of the two sample PQ, 4 P,Q,
+proportions: (p;-p2) n, n,
+
+28.8.1 Utility of Standard Error
+
+S.E plays a significant role in the large sample theory and forms the basis of the
+testing of hypothesis.
+
+i) The magnitude of the standard error gives an index of the precision of the
+estimate of the parameter. The reciprocal of the standard error is taken as the
+
+measure of reliability or precision of the statistic. 183
+
+--- Page 18 ---
+
+Inferential
+Statistics
+
+184
+
+ii) S.E. enables us to determine the probable limits within which the population
+parameter may lie.
+
+Check Your Progress 3
+
+1) What are the mean and standard deviation of the sampling distribution of
+the mean?
+
+2) | What is a standard error and why is it important?
+
+3) Inarandom sample of 400 students of the university teaching departments,
+it was found that 300 students failed in the examination. In another random
+sample of 500 students of the affiliated colleges, the number of failures in
+the same examination was found to be 300. Find out the S.E of the
+difference between proportion of failures (i) in the university teaching
+departments and (ii) in the university teaching departments and affiliated
+colleges taken together.
+
+28.9 EXPECTATION AND STANDARD ERROR OF
+SAMPLE MEAN
+
+Suppose a random sample of size ‘n’ is drawn from a given finite population of
+size ‘N’. Let X, (a = 1, 2, ..., N) be the value of the variable x for the ath
+
+member of the population. Then the population mean of x is p = (1/ N)>X, ;
+
+and the population variance is o°= (1/N) YX, —).
+
+Again, let us denote by xi (i=l, 2, ... , n) the value of x for the i member
+(i.e., the member selected at the i drawing) of the sample. The sample mean of x
+
+. -_ ld _ . =
+is then x=-)ox; . For deriving the expectation and standard error of x, we
+n
+
+isl
+
+consider two distinct cases:
+Case I: Random Sampling With Replacement
+
+Let us recall the following two theorems of the probability theory; (i) If y = bx,
+then E(y) = bE(x), and (ii) if x and y are two random variables and z a third
+random variable such that z = x + y, then E (z) = E(x) + E(y).
+
+--- Page 19 ---
+
+Based on the above information, we can write the following: Sampling Theory
+
+E (3)=— DEG) and
+
+var(X)= E{x — E(x)}?
+= (I/n?) E[ {xi E(x}?
+
+= (1/n?) >? E {xi -E(xi)}? + (1/0) » E {xi — E(ai)} {xj - Qs)
+
+i#j
+
+= (1/n?) > var(x,) + (1/1?) ¥* cov (x; x;)
+
+i¥j
+
+To obtain E (xj) and var (xi), we note that xican assume the values X1, X2, ... ,Xn,
+each with probability (1/N).
+
+Hence E (xj) = YX, P [xi = Xa] = YX, x (I/N) = p and
+2 .
+var (xi) = E(xi — w= YX, —p) x (1/N)= o? for each i
+
+Again, cov (xi, xj) = E (xi — w)(xj — w)
+= DX, w(K =H) PX, j= XY]
+
+Since in sampling with replacements the composition of the population remains
+the same throughout the sampling process, x; can take any one of the values Xj,
+
+X2, ... , Xn, with probability (1/N), irrespective of the value taken by xi. In other
+words, for i # j, xi and xj are independent, we have:
+
+P[x,=X,,x;=X,]=P[x,=X,] P[xj=X,]=(1/N’)
+
+Hence, cov (xi, xj) = (1/N’) > (X, -b (X, -B)
+
+= (LIN?) D(X, = W(X =H) =0
+[Since, for each ij (1#]j), YX, -p)= YX —p), (being the sum of the
+deviations of Xi, X2, ... , Xn from their mean is zero)].
+
+Hence, we have, E(x )= (1/n)Xn p= pt
+
+and var(X) = (1/n’) no*+ (1/n’) n(n-1)x 0 = 6? /n
+The standard error of x is, therefore, 6, =o/ Vn
+
+Case II: Random sampling without replacement
+
+As before for each i, E (xi) = p and var (xi) =o",
+
+since here too x; can take any one of the values Xi, X2, ... , Xn, with the same
+probability (1/N). The covariance term, however, needs special attention. 185
+
+--- Page 20 ---
+
+Inferential
+Statistics
+
+186
+
+Here, for i # j
+PIx,=X,,x,=X,,]=PIx,=X,] Plx,= X,.|x,= X, ]=(I/N)(IMN — 1) ifa dol
+
+[since x; can take any value except Xa, the value which is known to have been
+already assumed by xi, with equal probability 1/(N-1)] = 0 ifa=oa
+Hence, cov (xi,x;) = (I/N (N-1)) ) (XK, -H (XK, — ph) = (IN (N-1)
+
+aa
+ata
+
+PK, “v0, n= 08, =n} = a= { EK, WPI, 1-6, -vP
+
+a. at a. at a.
+
+=—(1/N (N-1)) No? =- 67/(N-1)
+
+Thus, in this case we have E(x)=(1/n)np=p
+
+and var (X) = (1/n’) Xo? + (1/n’) x n(n-l1) X (- o?/ (N-1)) = (07 /N) {1 -(n-
+Ly (N-1)}
+
+=(0°/n) {(N-n)/ (N-1)}
+
+: N-
+Hence the standard error of X is o,= (o/ Vn )fl- :
+N-
+
+In both the cases, the standard error decreases with increasing n. The standard
+
+error of the mean in sampling without replacement is, however, smaller than that
+in sampling with replacements. But the difference become negligible if N is very
+large compared to n. Also, in sampling without replacements, the standard error
+of the sample mean vanishes if n = N, which is to be expected because the sample
+mean now becomes a constant, i.e., the same as the population mean. However,
+this is not the case with sampling with replacements.
+
+28.10 EXPECTATION AND STANDARD ERROR
+OF SAMPLE PROPORTION
+
+Suppose in a population of size N, there are Np members with a particular
+characteristic A and Nq members with the characteristic not-A. Then p is the
+proportion of members in the population having the characteristic A. Let a
+sample of size n be drawn from the population, and let f be the number of
+members in the sample having characteristic A. To find the expectation and
+
+standard error of the sample proportion f/n, we adopt the following procedure.
+
+We assign to the a member of the population the value Xa, which is equal to 1 if
+this member possesses the characteristic A and equal to 0 otherwise. Similarly, to
+the i'* member of the sample we assign the value xi, which is equal to 1 if this
+member possesses A and is equal to 0 otherwise.
+
+In this way, we get a variable x, which has population mean (1/N) YX, =p
+

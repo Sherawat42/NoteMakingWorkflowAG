@@ -1,0 +1,261 @@
+--- Page 1 ---
+
+oF _100-u,—u, =0
+OA
+
+Starting with the first two equations, we see that u,=u, and A drops out.
+From the third equation we can easily find that u,=u,=50 and the
+
+constrained maximum value for u, isu, =u,u, = 2500
+
+2) Set up the Lagrangian Equation
+L=4u; +3uu, + 6u; + A(56—u, —u,)
+
+Take the first-order partials and set them to zero
+
+oL
+
+— =8u, +3u,-A=0
+uy
+
+of _3y +12u,—-A=0
+
+Ou,
+
+OF _56—-u, —u, =0
+
+OA
+
+From the first two equations we get
+8u, +3u, = 3u, +12u,
+u, =1.8u,
+
+Substitute this result into the third equation
+56—1.8u, —u, =0
+
+u, =20
+Thus u, =36, u,=20, 2=348
+
+Check Your Progress 2
+
+1) For a given value of a, the function f are given by
+
+Sf _
+
+—=-2u+2a=0Gu=a
+Ou
+
+The solution yields is a local (and global) maximum
+
+Thus, we know that u"(a)=a and the value function at the optimum is
+V(a) = f(u (a);a) =-a’ +2a’ +4a? =5a°
+
+Hence, the derivative of the value function is given by
+
+OV _Of(u'(a);a) _ O(Sa*) |
+da Ca da
+
+10a
+
+We could derive this directly using the envelope theorem
+
+Advanced Topics in
+Optimisation— II
+
+221
+
+--- Page 2 ---
+
+Extreme Values OV Oe
+and Optimisation —_= ca » =2ut+8a | » =2a+8a=10a.
+Ca Ca u=u (a) u=u (a)
+
+2) The NDCQ condition is satisfied when a #0, and the Lagrangian is given
+by
+L=u+3v—y(u’ +av’ —10)
+
+By the envelope theorem, we have
+f(a)) _(_,2 _ 9
+Ga), ( ” Jessy a)
+
+Anestimate for f (1.01) is therefore given by
+
+f (01) = f' (1) +0.01: {Ze @) =10—0.045 =9.955
+
+a=l
+
+To find an exact expression for f (a), we solve the first order conditions
+
+ae ee
+Ou 2y
+Cb 3-4 -2av=0->v=——
+Ov 2ay
+
+We substitute these values into the constraint wu? + av’ =10, and get
+
+2 2
+|) 4a 2] =106 4? =10
+2y 2ay 4ay
+
+a+9
+
+This gives y=+ when a>0 or a<-9. Substitution gives
+
+40a
+solutions for u(a@),v(a@) and f(a). For a=1.01, this gives
+u (1.01) 1.0045, v (1.01) =2.9836 and f (1.01) = 9.9553.
+
+Check Your Progress 3
+1) The function f(u,,u,) =3u;u, +2u;u3 —3u; us,
+By definition of homogeneous function
+f (tu, tu,) = 30°up tu, + 20°u; tus —3Pujtu; =t° f(u,,u,)
+Hence, f is a homogeneous function of degree 6.
+2) The function f(u,,u,) =a In(u,)+ Bln(u,) =In(u7u’) = h(g(u,,u,)) ,
+
+where g(u,,u,)=u?us and h(u,) =In(u,)
+
+222
+
+--- Page 3 ---
+
+Check Your Progress 4 Advanced Topics in
+Optimisation— II
+
+1) The bordered Hessian of f is
+
+0 —u,e“" e"
+
+—|_ Uy Uy —_p “41
+=| —u,e U,e e
+e" -e" 0
+
+2-2
+D(u,,U,) =—uze “" <0
+—3u
+We have D,(u,,u,) =u,e ~" <0
+3 - -2 2 3
+and D,(u,,u,)=u,e “+e “(u,e “™ —u,e “") =u,e~" 20
+
+Both determinants are zero ifu,=0, so while the bordered Hessian is not
+
+inconsistent with the function’s being quasi-concave, it does not establish that
+
+it is in fact quasi-concave either. However,
+
+the test does show that the function is quasi-concave on the domain in which
+u, is restricted to be positive (rather than only non-negative).
+
+2) F _ 6u2, =-12u,
+uy; Uy
+
+2 2 2
+OF Lin OF =9, PF --19
+
+u
+2 1? 2
+Ou, Ou, Ou, Ou,
+
+12u, 0 |
+
+H(u,)=
+
+o-oo
+If u, <0, 12u, <0.
+
+Determinant of H(u,)=—144u, >0.
+
+Hence H(u,) is negative semi-definite for u, <0. Thus f(u,,u,) 1s concave for
+
+u, <0.
+19.1 EXERCISES
+
+Q1. A firm products goods A and B. The price of Ais 13, and the price of
+B is p. The profit function is z(u,v) =13u+ py—C(u,v), where
+
+C(u,v) = 0.04u* —0.0luv+0.01v* +4u+2v+500.
+
+Determine the optimal value function 7’ (p). Verify the envelope theorem.
+Ans. The profit function is z(u,v) =13u+ pv—C(u,v), hence we compute
+(u,v) =—0.04u* + 0.01luv—0.01v" + 9u + (p—2)v—500
+
+The first order conditions are
+
+1, =—0.08u + 0.01v+9 =0 => 8u—v =900
+
+a, =0.01lu—0.02v+ p—2=0>u—2v=200—-100p
+223
+
+--- Page 4 ---
+
+Extreme Values
+and Optimisation
+
+224
+
+This is a linear system with unique solution wu” = ma 600+100p) and
+
+—0.08 0.01
+0.01 —0.02
+definite since D, =—0.08<0 and D,=0.0015>0. We conclude that (u’,v )
+
+is a (local and global) maximum for 7.
+
+v= “= (700-8007). The Hessian a"-( } is negative
+
+Hence the optimal value function z'(p)=2(u',v ) is given by
+80p° -140p +80
+3
+
+_ 160p—140
+—
+
+“i (1600+100p), = (-700+800 »)| =
+
+*
+
+)
+
+and its derivative is therefore ap m(u ,v
+
+On the other hand, the envelope theorem says that we can compute the
+
+derivative of the optimal value function as
+—140+160p
+
+» 1
+on =v" =—(-700+800p) =
+Op (u,v)=(u'" ,v") 15
+
+Q2. Show that a monomial of degree 6, f(u,,u,,u;) =u;u5u, is a homogenous
+
+function of degree 6.
+
+Ans.
+
+Sf (tu,, tu,,tu,) = (tu,)’ (tu, (tu,) = tu; Pu,tu, = t°u;usu, =t° f (tu,,tu,,tu;)
+
+The function f(u,,u,)=./u; +u; is a homogeneous function of degree : :
+
+3
+f(u,,u,) = y(tu,)’ + (tu,)’ = (up+u3) =t? up tu}.
+
+Q3. Minimise 2uz + uz Subject to: u,+u, =1
+Ans.The Lagrangian is:
+
+L(u,,U5,4,) = 2u; +uy +A,(1—u, —u,)
+
+Solve for the following:
+
+OL(u, ,u3,4,) = dy *
+~ 1
+
+-,' =0
+Ou, 4
+
+Ou, °
+
+AL(uyU3,4) 1 _y*_y? =0
+aA oS
+
+Solving this system of equations yields u,* = =u; = =, A, = =.
+

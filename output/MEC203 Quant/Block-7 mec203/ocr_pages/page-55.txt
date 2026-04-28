@@ -1,0 +1,59 @@
+Dynamic
+Optimisation
+
+54
+
+f(xt,Up, t)is of the form
+
+Ot
+
+F(xt,Up,t) = O77 Gxt, Ur, t)
+
+Where the time discount makes the net contribution of a given level of the
+objective function g(.) to be lower the farther it occurs into the future.
+
+Therefore, our problem is
+
+T ot
+Max fe7"" 9(x¢, Ut, t)
+Uuoio
+
+Subject to constraint x’(t) =h(x;¢,uz,t) and xg = Xg given
+As discussed earlier we can write the Hamiltonian as
+H(.) =e" g(.) + 24h(,)
+=e gl.) + aye" h(.)] ... (23.37)
+
+We define the current value multiplier ut = ree which provides us with the
+
+shadow price or marginal value of the state variable x; at time t.
+
+We define the current value of HamiltonianH”
+
+H’(.) = eH(.) = g(.) + uh(.) «++ (23.38)
+Where it is easy to see that the choice of uj maximizing the current value
+
+Hamiltonian H’ is same as maximizing the Hamiltonian H(.)(ref equation 23.37)
+
+Using the same optimality condition as discussed earlier
+
+aH.) _g_, 2e"H'(.) _ ot HH ()
+
+a ++ (23.39)
+Out Out Out
+(1) Form which we get
+CHG) _ 9, H =0 --.(23.39a)
+Out Out
+
+(2) We know
+my = Aye
+
+=> py = Op, +e at
+
+oH(.)
+=O, +e%-5
+bt ox,
+= oy, +6 |- et catt) at ant.)
+OXt oxt
+6g(.) ot dh(.)
+= Ont - —aye
+Max at

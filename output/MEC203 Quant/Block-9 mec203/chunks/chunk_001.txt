@@ -1,0 +1,476 @@
+--- Page 1 ---
+
+BLOCK 9
+
+INFERENTIAL STATISTICS
+
+Unit 28
+Unit 29
+Unit 30
+Unit 31
+
+Sampling Theory
+Sampling Distributions
+Estimation
+
+Hypothesis Testing
+
+167
+
+--- Page 2 ---
+
+168
+
+--- Page 3 ---
+
+UNIT 28 SAMPLING THEORY
+
+Structure
+
+28.0 Objectives
+
+28.1 Introduction
+
+28.2 Advantages of Sample Survey
+
+28.3 Sample Design
+
+28.4 Biases in the Survey
+
+28.5 Types of Sampling
+
+28.6 Parameter and Statistic
+
+28.7 Sampling Distribution of a Statistic
+28.8 Standard Error
+
+28.8.1 Utility of Standard Error
+
+28.9 Expectation and Standard Error of Sample Mean
+
+28.10 Expectation and Standard Error of Sample Proportion
+28.11 Let Us Sum Up
+
+28.12 Key Words
+
+28.13 Answers/Hints to Check Your Progress Exercises
+28.14 Exercises
+
+28.0 OBJECTIVES
+
+After going through this unit, you should be able to
+
+define sample survey;
+identify the advantages of sample survey over the total enumeration;
+
+describe how to design a sample survey and the associated probable biases
+that can occur;
+
+explain different types of sampling;
+enlist the merits and demerits of different types of sampling methods;
+distinguish between a parameter and a statistic; and
+
+calculate the standard error and the standard deviation of a sample mean and
+a sample proportion.
+
+28.1 INTRODUCTION
+
+Before giving the notion of sampling, we will first define population. In a
+
+statistical investigation, interest generally lies in the assessment of the general
+magnitude and the study of variation with respect to one or more characteristics
+relating to individuals belonging to a group. The group of individuals under study
+is called population or universe. Thus, in statistics, population is an aggregate of
+objects, animate or inanimate, under study. The population may be finite or
+infinite.
+
+169
+
+--- Page 4 ---
+
+Inferential
+Statistics
+
+170
+
+It is obvious that for any statistical investigation complete enumeration of the
+population is rather impracticable. For example, if we want to have an idea of the
+average per capita (monthly) income of the people in India, we will have to
+enumerate all the earning individuals in the country, which is rather a very
+difficult task both in terms of time and monetary costs.
+
+A finite subset of statistical individuals in a population is called a sample and the
+number of individuals in a sample is called the sample size. Every effort has to be
+put to make a sample representative of a population, i.e., a sample should capture
+all the heterogeneity embedded in a population. Thus, all salient features of
+population are supposed to be present in the sample. For example, if a population
+has 30% male and 70% female, then we also expect the sample to have nearly
+30% male and 70% females.
+
+A population is defined by some numerical characteristics called parameters
+(like population mean or variance etc.). Generally, the values of the parameters of
+interest remain unknown to the researcher; we calculate the “corresponding”
+numerical characteristics of the sample, known as statistics (like sample mean or
+sample variance) and use these to estimate, or make inferences about the true
+value of the unknown parameter.
+
+In the absence of time and budgetary constraints we conduct a census that is a
+complete enumeration of the population (say size N). Examples include the
+population census in India. The advantage is that there is no sampling error,
+because all the units of a population are observed, and so there is no estimation or
+prediction of population parameters (we can, in principle, determine the true
+values exactly). However, non-sampling errors may occur.
+
+In practice, surveys are usually conducted under circumstances which cannot be
+fully controlled. Since the sample size (say n) cannot be very large, the design
+and implementation of surveys requires considerable planning and teamwork.
+
+Sample surveys are how new data are collected on a population. In a sample
+survey, the true value of the population parameter is not known and is estimated
+on the basis of sample statistics. Given that the sample is only a small subset of
+population, the estimation exercise is subject to uncertainty and cannot be
+expected to be 100 percent accurate. Thus, as we resort to estimating population
+parameter values, sampling errors occur. The sampling error is inherent and
+unavoidable in any sampling scheme. But because of the smaller numbers
+involved (n < N), resources can be used to ensure high quality interviews, with
+detailed questionnaire, ensure minimum missing information etc. So, non-
+sampling errors are supposed to be less.
+
+Thus, a Census is difficult to administer, time-consuming, expensive and does
+not guarantee complete accuracy due to non-sampling errors. In contrast, a
+sample survey is easier, faster and cheaper, although it introduces sampling errors
+while non-sampling errors can be expected to be less.
+
+--- Page 5 ---
+
+Sampling is quite often used in our day-to-day practical life. For example, in a
+shop, we assess the quality of sugar, wheat or any other commodity by taking a
+handful of it from the bag and then decide to purchase or not. A housewife
+normally tests the cooked products by a sample to find if they are properly
+cooked and contain the proper quantity of salt.
+
+28.2 ADVANTAGES OF SAMPLE SURVEY
+
+Sample survey has some significant advantages over doing complete enumeration
+or census study. The following are some of the advantages of sample
+survey:
+
+i) Reduction of Cost: Since size of the sample is far less than the entire
+population, for a sample survey lesser number of staff and time are required
+and that reduces the cost associated with it.
+
+ii) Better Scope for Information: In the sample survey, the surveyor has the
+scope of interacting more with the sample households and hence better
+equipped to elicit better information on any particular issue than that of
+census method. In the census method, due to time and financial constraints,
+the surveyor cannot afford much time with any particular household to get
+
+better information.
+
+iii) Better Quality of Data: In the census method, due to time constraint, we do
+not get good quality of data. But in sample survey, one can have a better
+quality of data as the survey consists of all the information related to the
+objectives of the study.
+
+iv) Gives an Idea of the Error: For the population census, we do not have a
+standard error, but for the sample survey we do have a standard error.
+Given the information of the sample mean and standard error, we can
+construct the limit within which the true value of population parameter will
+lie.
+
+Hence, to avoid the problems associated with complete enumeration, sample
+survey is the best alternative for a statistical analysis.
+
+28.3 SAMPLE DESIGN
+
+In the absence of population data, we resort to draw a sample from the population
+of interest, and use the sample observations (our data) to estimate a certain
+parameter when its true value is unknown (due to the absence of population-level
+data). The key aim of sampling is to select a representative sample from the
+
+population in order to avoid sampling error.
+
+Random Sampling - A simple random sample is a special case where each
+population unit has an equal, known, non-zero probability of selection. In order
+
+Sampling Theory
+
+171
+
+--- Page 6 ---
+
+Inferential
+Statistics
+
+172
+
+to collect a random sample, the researcher needs a sampling frame i.c., a list of
+all population members. The key advantages of random sampling are:
+
+It avoids systematic bias, and
+It allows an assessment of the size of the sampling error.
+
+Access to a sampling frame allows a known, non-zero probability of selection to
+be attached to each population unit. This is the main feature of a random sample
+and that is why the collection of random sampling techniques is also known as
+probability sampling.
+
+Randomization is the process by which a random sample is selected. It avoids the
+biases caused by the prejudices of the person taking the sample. However, just by
+chance, a random sample may have the appearance of extreme bias - for example,
+drawing from a population of men and women produces a sample containing men
+only. Such difficulties are usually resolved with some suitable form of restricted
+randomization. One might for instance, in this example, use a stratified random
+sample (by gender) and select half the sample from all men and the other half
+from all women.
+
+Random sampling is carried out, for large populations, by choosing a random
+sample without replacement, when a subset of the very large population units, N
+is selected.
+
+If the sample is a sufficiently small proportion of the population (n is sufficiently
+small), then we generally use random sampling with replacement.
+
+Two things to be required to plan a survey — one is validity, i.e., we must review
+the valid answers to the questions that we are looking at and the second is
+optimising cost and efficiency. It is obvious that cost increases with the sample
+size. Whereas efficiency, which is measured by inverse of variance of the
+estimator [e.g., v(x, )=o'/n] increases with the sample size. If the sample size
+
+increases, then values tend to stick around a central value, thus variance
+decreases. Now from the cost point of view, a smaller number of sample is
+desirable while from efficiency point of view large number of sample is
+desirable. So given these two opposite facts, we design the sample in order to
+collectively optimise the constraints.
+
+Sample survey is done in three different stages. The first and the foremost is the
+planning stage which includes —
+
+Defining the Objectives: The most important thing is to determine clearly the
+objectives of the survey, the subsequent research questions and the scope of the
+survey. The research question will help us to identify the variables of our
+concer. This is of immense help in deciding about the type of data to be
+collected and the statistical techniques to be used for the processing and analysis
+of the data. In the absence of the purpose of the enquiry being explicitly
+specified, we are bound to collect some irrelevant information which is never
+
+--- Page 7 ---
+
+used subsequently and omit some important information which will ultimately
+lead to fallacious conclusions and wastage of resources.
+
+Defining the Population to be Sampled: The population from which units are to
+be sampled should be defined clearly without any ambiguity. The sampling frame
+or complete list of population members is critical for the design of random
+sampling. For example, in field experimentation, the field should be clearly
+defined in terms of the shape, size, etc., keeping in mind the border line cases so
+that nothing is left at the discretion of the investigator. Due to certain practical
+limitations and problems in dealing with certain units of the population, they are
+usually eliminated from the scope of the survey.
+
+Determination of the Data to be Collected: The decision about the type of the
+data to be collected should be taken keeping in view the nature, objectives and
+the scope of the survey, the time and finances at our disposal and the degree of
+accuracy aimed at in the final results. Before starting the survey, the target group
+must be defined, otherwise, the sample collected would not be the representative
+one. Attempt should be made to eliminate the collection of irrelevant and
+unnecessary data which are never used subsequently and to ensure that no
+important or essential information is omitted. An outlying of the tables needed
+for the results of the survey is quite helpful in this regard.
+
+The Questionnaire or Schedule: After deciding about the nature of data to be
+collected, the next step is the preparation of the questionnaire (to be filled by the
+respondents) or schedule of enquiry (to be completed by the investigators after
+interviewing people) for collecting the requisite information. The questionnaire
+or the schedule should be designed and drafted with utmost care and caution,
+keeping in view the knowledge, understanding and the general educational level
+of respondents.
+
+Determining of the Method of Collecting Data: There can be two methods of
+collecting data; questionnaire method and interview method. Both these methods
+have some demerits. In the questionnaire method, the responder may not respond
+at all or may respond partially. In that case, those observations must be excluded
+for better analytical results though there can be a risk of inadequate sample
+observations. If the survey is having lot of non-response and such non-response
+follow some pattern, then the data might get contaminated and suffer from
+endogeneity problem. In such cases, merely dropping those observations may not
+solve the problem.
+
+Choice of the Sampling Units: Sampling unit must be chosen based on the
+objectives so that surveying can be done easily.
+
+Designing the Survey: It has two parts, (i) conducting a pilot survey, where
+small scale survey is done before the original survey, to have a brief idea about
+the survey; and (ii) deciding on the flexible variables, where target group should
+be chosen to capture the exact information as far as possible.
+
+Sampling Theory
+
+173
+
+--- Page 8 ---
+
+Inferential
+Statistics
+
+174
+
+From practical point of view, it is useful to conduct a pre-test or a pilot survey,
+on a small scale before starting the main survey. Such small scale survey is useful
+in various ways: (1) It helps in improving the organisation of the field work by
+removing the defects or faults observed in the pilot survey (ii) It helps in
+formulating effective methods of asking questions and also in the improvement
+of the questionnaire (iii) The preliminary insights help in training of field staff
+(iv) First-hand information exposes certain unknown issues or problems that may
+otherwise be of a serious nature in a large scale main survey (v) It helps in
+estimating the cost of the main sample survey and also the time needed for the
+availability of the results.
+
+Organisation of Field Work: To obtain reliable results in a sample survey, the
+sampling errors should be minimized. For this it is essential that the field work is
+properly organised and the personnel engaged in the conducting and execution of
+the survey should be properly trained to handle the problems of the survey like
+locating the sample units, use of the equipment and recording of the observations,
+the methods of collecting the desired information, dealing with non-response, etc.
+It is also desirable to provide for adequate and frequent supervisory check on the
+field work.
+
+Drawing the Sample: The easiest way to draw a sample is to identify each
+sample unit with a given number; then putting the numbers in an urn, mix them
+up and then draw out the required number of units as the sample size.
+
+28.4 BIASES IN THE SURVEY
+
+Bias often occurs in a survey when the sample does not accurately represent the
+population. So, in the presence of bias there is a tendency of sample statistic to
+systematically over- or under-estimate a population parameter. There is a long
+list of statistical bias which may occur in a given sample survey. These are:
+
+1) Selection Bias: The bias that results from an unrepresentative sample is
+called selection bias. Some common examples of selection bias are described
+below.
+
+a) Under-Coverage — This occurs when some members of the population
+are inadequately represented in the sample. Example: Exit poll/opinion
+survey. Similarly, the survey which relies on aconvenience sample,
+drawn from telephone directories and car registration lists, face the under-
+coverage problem.
+
+b) Nonresponse Bias- Sometimes, individuals chosen for the sample are
+unwilling or unable to participate in the survey. This incompleteness of
+information, known as non-response, is very likely to change the results
+of the survey. Nonresponse bias arises when respondents differ in
+meaningful ways from non-respondents. For example, a common
+problem with mail survey or telephonic survey is that the response rate is
+often low, making mail surveys vulnerable to nonresponse bias. In case of
+
+--- Page 9 ---
+
+d)
+
+8)
+
+large proportion of non-response, the results based on the information
+supplied by a very small proportion of the selected individuals cannot be
+regarded as reliable. Attempts should be made to minimize non-response
+and the reasons for non-response should be recorded by the investigator.
+An example would be ‘call-in radio’ shows that solicit audience
+participation in surveys on controversial topics (like abortion, affirmative
+action, transgender rights, gun control). The resulting sample tends to
+over represent individuals who have strong opinions.
+
+Substitution Bias- If difficulties arise in enumerating a_ particular
+sampling unit included in the random sample, the investigators usually
+substitute a convenient member of the population. This obviously leads to
+some bias since the characteristics possessed by the substituted unit will
+usually be different from those possessed by the unit originally included
+in the sample.
+
+Faulty Demarcation of Sampling Units- Bias due to defective
+demarcation of sampling units is particularly significant in area surveys
+such as agricultural experiments in the field or crop cutting surveys. In
+such surveys, while dealing with border-line cases, it depends on the
+discretion of the investigator whether to include them in the sample or
+not.
+
+Self-Selection Bias - If the subjects of the analyses are allowed to select
+themselves, less proactive people may be excluded. The bigger issue is
+that self-selection is a specific behaviour — that may correlate with other
+specific behaviours. Hence, sample does not represent the entire
+population.
+
+Recall Bias - Recall bias is another common error of survey situations,
+when the respondent does not remember things correctly. Humans have
+selective memory by default. It is normal, but it makes research more
+difficult.
+
+Observer Bias -Observer bias happens when the researcher
+subconsciously projects his/her expectations onto the research. It can
+come in many forms, such as (unintentionally) influencing participants
+(during interviews and surveys) or doing some serious cherry picking
+(focusing on the statistics that support our hypothesis rather than those
+that do not)
+
+h) Survivorship Bias - Survivorship bias is a statistical bias in which the
+
+researcher focuses only on that part of the data set that has already gone
+through some kind of pre-selection process — and missing those data-
+points, that fell off during this process (because they are not visible
+anymore). Example: Reading case studies. Case studies are useful for
+inspiration and ideas for new projects. But remind yourself all the time
+
+Sampling Theory
+
+175
+
+--- Page 10 ---
+
+Inferential
+Statistics
+
+176
+
+2)
+
+that only success stories are published! You will never hear about the
+stories where someone used the exact same methods, but failed.
+
+All the biases discussed above are related to procedural bias. It can be in
+the form of response bias, where people do not tend to respond properly;
+observational bias, where sample chosen are not representative of the
+population. Very often either of the two occurs. There can be other types
+of procedural biases, like, non-response bias, where people do not
+respond at all; and interviewer bias, where the interviewer collects the
+information with a biased frame of mind.
+
+Omitted Variable Bias - In statistics, omitted-variable bias (OVB) occurs
+when a statistical model leaves out one or more relevant variables. The bias
+results in the model attributing the effect of the missing variables to the
+estimated effects of the included variables. More specifically, OVB is the bias
+that appears in the estimates of parameters in a regression analysis. When the
+assumed specification is incorrect, it means that an independent variable that
+is correlated with both the dependent variable and one or more of the
+included independent variables is omitted.
+
+A survey produces a sample statistic, which is used to estimate a population
+parameter. If you repeated a survey many times, using different samples each
+time, you might get a different sample statistic. And each of the different
+sample statistics would be an estimate for the same population parameter. If
+the statistic is unbiased, the average of all the statistics from all possible
+samples will equal the true population parameter; even though any individual
+statistic may differ from the population parameter. The variability among
+statistics from different samples is called sampling error. Increasing the
+sample size tends to reduce the sampling error; that is, it makes the sample
+statistic less variable. However, increasing sample size does not affect survey
+bias or procedural bias. A large sample size cannot correct for the
+methodological problems (under coverage, nonresponse bias, etc.) that
+produce survey bias.
+
+Check Your Progress 1
+
+3)
+
+2)
+
+List the advantages of sample survey.
+

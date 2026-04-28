@@ -1,0 +1,522 @@
+--- Page 91 ---
+
+Real Analysis
+
+90
+
+2)
+
+3)
+
+Determine if the following limit exist or not. If it exists, give the value of
+the limit.
+lime yo, -1y "+ 2xyt y'V/ + y?),
+The function is not continuous at point (1, —-1), as at this point, the
+denominator becomes zero. However, except for the line x +y =0, at which
+the point (1, -1) lies and at which the limit is intended to be calculated, the
+function(x? + 2xy+ yy (xo+ y) equals the function (x+ y)/ (- xyt+ y).
+And, we know, in calculating the limit at a point (here (x, y) = (1,
+—1)), the value at the point is NOT taken into consideration. Therefore, for
+the purpose of limit
+
+lime sa, yl? + 2xyty’y¥ OP+ y/ =lime. ya, aylOet W/ =
+
+xyt y’)
+
+=limgysa, -ylC-1)/ (?-()(-1) + (-1)71 = 0/3 =0
+The limit has been calculated by removing the problematic condition, i. e.
+division by zero, at the point/line where limit is to be computed.
+
+Determine if the following limit exist or not. If it exists, give the value of
+the limit.
+
+lim (yy) 54,1) [2-y) +3 («-D]/ &-y)
+
+In this case, (i) function is not continuous at the point (1, 1), as the
+denominator becomes 0 at (1, 1) and (ii) no factor which makes
+denominator 0, can be cancelled out. Therefore, there is possibility of the
+limit of the function NOT existing at point (1, 1). If the limit, actually,
+does not exist, and to show so, we need to find two paths to the point (1, 1)
+along which the proposed limits differ.
+
+A path on a surface of a function of two variables is obtained generally
+either (i) by taking one of the variables as constant; or (ii) replacing one
+of the variables as function of the other, e. g. y=x, or y = 2x+1 etc.
+
+We try some paths, which may lead to differing values of limit, and hence
+establishing non-existence of limit.
+
+First, we take the path x=1, for which
+[2(1 -y) +3 (x-1)]/ (xy) becomes [2(1 —y)]/ (I-y) =2
+Therefore,
+lime yy) 5,4 [2C-y) +3 (x-D)/ (&-y) = lima, yy 5¢4,1) 2 =2
+Then, we take the path y=1, for which
+[2(1 -y) +3 (x—1)]/ (x-y) becomes 3((x—1)]/ (x—1) =3
+
+Therefore
+
+lim @,1) (4,1) [2C-y) +3 (x-1)/ (&-y) = lime, 1) 54,1) 3 =3
+
+--- Page 92 ---
+
+The two proposed limits along two different paths do not coincide, hence the
+required limit does not exist.
+
+Check Your Progress 2
+
+1) z=8x/(x’+5y)
+€z/Ox = {8 (x? + Sy) — 8x (2x)}/ (x’ + 5y)’; treating y as a constant
+= {8 x7+40 y— 16x°}/ (x? + 5y)’
+dzldy = 8x {(— 1) (x? + 5y) °(5)}; treating x as a constant
+=—40 x/(x’+ Sy)?
+2) f (x; y; z) =x sin (y)/ 2
+Of/Ox = sin (y)/ z’; treating y and z as constants
+af/dy = x cos (y)/ z’; treating x and z as constants
+af/éz = x sin (y) (— 2)/ z°; treating y and z as constants
+3) z=V (x? + log (5x-3 y’)
+Oz/Ox = {% 1 (x? + log (5x—3 yt} {2x + (5/(5x— 3 y’) }
+Azléy = {¥/ (x? + log (5x—3 y*)!7} (— 6y(5x- 3 y’) }
+= (— 3y/ (5x—3 y)(x? + log (5x-3 yy? =...
+
+4)  Findé"f/ayéx’, for f(x, y) = e*”
+By definition
+@f/dydx? = d/dy (A/ Ox (A/ 6x (e*")))
+= O/dy (6/ Ox fy e**}; taking y as a constant
+= léy fy (y e*)} = d/éy fy’ e*")}; taking y as a constant
+= (e*”) d/éy (y’) + (y’) d/éy (e*"); taking x as a constant
+= 2y (e**) + (yx e*’)
+= (2y + xy’) e*’)
+5) For the function z = f (x, y) = 5x° y’, calculatez xx Zxxy,Zxyx, Zxyy, Zyyy
+From section 14.4.4, we know that
+Zrx= fx =(fx)x = Of! Ox? = 30y*x.
+Zxy = fey =(Fy = O/By (Gf/ Ax) = °F! Ay Ox = 60y'x?
+
+Therefore
+
+Zxxx= faxx =(fex)x =O°f/ Ox*= G/Ox (C'f/ Ox?) = /Ox (30y*x) = 30y*
+Ixxy= Fxxy =(fexy ==0°f7 OyOx"= Gay (Cf Ox’) = d/ey (30y*x) = 120y*x
+
+Calculus of Several
+Variables
+
+91
+
+--- Page 93 ---
+
+Real Analysis Zxyx = (fy)x =O f/Ox Oy Ox = G/Ox (fxy) = G/Ox (60y*x) = 120 y>x
+Zxyy = (fxy)y =O f/8x Oy Oy = ldy (fxy) = d/ey (60y"*x’) = 180 y* x”
+For Zyyy, we know
+z=f (x, y) = 5x? y?
+ay = fy (% y) = 20 x’ y°
+Zy = fy = (CFT Gy’) = 60 x? y*
+Zyyy =Sny =(fy)y ==0'f/ Oy*= G/dy (Cf Gy’) = 120 x* y
+
+6) The vector wis specified by < cos 7/4, sin 1/4> = <1/V2, 1/V2 >
+
+Thus, directional derivative is given as
+
+Du'(x, y) = 1/V2 f+ I/V2 fy = 1/V2 {+ fy}
+
+Dux, y) = (1/V2) [{2x tan y + 3 log y} + {x’Sec” y+3 (x /y)}
+Dw (1, 2/3) = (1/V2) [ 2 tan 2/3 + 3 log (/3) + sec*(n/3) +9/n] =...
+
+Check Your Progress 3
+I) Let fi(sy)=sinx, — fry y)=2xy, fa 0s y) = 3x9".
+fvax Of ay OS X 0
+Jp=| Of7/0x 0 fx dy =| 2p 2x
+0 f3/Ox Of; Oy 3y" Oxy
+Therefore, - 0
+(Jp (a, x12) = 1 20
+30/4300
+2)
+Let fi (x, y) =2z+ sinx, fo (x, y) = 2xy- 2, Boy= 3xy"- 3z.
+fvOx Of dy9d f/0z cosx 0 2
+Jp = 0 fx/Ox 0 fx OO fx/ Oz = 2y 2x —2z
+0 fyOx 8 fy dyad fydz 3y 6xy —3
+Therefore, [1 0 2
+J) (a22.)5 7 2n—2
+| 30/4 30-3
+
+3) First, we calculate first order partial derivatives
+afax afidy 6x| by’
+
+af/ax afay =6x | 6y
+92
+
+--- Page 94 ---
+
+Therefore Calculus of Several
+Variables
+H;= [ 0t2 faxt2 at2 faxdy 6 0
+12 fdydx at2 fat2y =| 0 12y
+wher
+
+0t2 f/0x12 etc denote second order partial derivative of f etc. w. r. t. x.
+
+(As) 1,2) = 0
+0 24
+Check Your Progress 4
+1) We know from our earlier knowledge of calculus that every
+polynomial is differentiable on its domain of definition.
+Hence, both the conditions of Mean value theorem are
+satisfied. Therefore, there exists c €]— 1, 2[s. t.
+P(c) = {f(2)—f(-I}/(2-C 1) ) = tf) — f-D}/ (3)
+Differentiating the given function
+f(y)=y' + 2y-y
+w.r.t y, we get
+P(y)=3 y+ 4y-1
+By mean value theorem, c satisfies
+3c? + 4c -1 = [f(2) — f CI)V/ { 2—(-1)} = (14-2)/3 =4
+3c? + 4c —5 = 0, which is a quadratic equation. Solving the quadratic
+equation for c we get two values for c as
+c=(-4+V 76)/6 =
+i.e.
+c= (-2 $V 19)/3 =0.7863 and ¢) = (-2—V 19)/3=-2.1196
+However, c2 is not in the interval ]— 1, 2[.
+Hence, c; = 0.7863 is he only required value.
+2) Since f is a polynomial, f is continuous on the closed interval [0, 1/2] and
+
+derivable on the open interval ]0, 1/2[. Hence, by mean value theorem,
+there exists c €]0, 1/2[ such that
+
+f'(c) = (f(1/2) — £(0))/ (1/2 —-0) ... (i)
+For knowing the value of f(c ),the derivative of f(x) is given by
+
+P(x) = (= 1) (&=2) +x (R= 1) Hx (K=2) 93
+
+--- Page 95 ---
+
+Real Analysis
+
+94
+
+3)
+
+or f(x) = 3x? — 6x +2. ... 22.02... (ii)
+
+Also, f(1/2) = 3/8, and f(0) =0 ... ... (iii)
+
+From (i), (ii) and (iii), we get
+
+3c" — 6c + 2 = (3/8)/ (1/2) = %, implying
+
+12c? — 24c +5 =0. Hence, c = (6 + V21)/6
+
+Out of these two values of c only / —(N21/6) lies in ]0, 1/2[. Hence,
+the required value is | —(\21 / 6)and the theorem is verified.
+
+We calculate values at x ==0 of cos (x) and of its various higher order
+derivatives, starting with the first derivative.
+
+SO) x= = C08 (X) x=9 =1; f°(X) x9 = — Sin (0) x=9 =O; f (0) x=0 = — €0S(X) x=9 =
+-1,
+
+SL???) x=0=SiNn(X)x=0 =O; vee tee aes (%%3)
+Part (i)
+
+Linear approximation of f(x) = Pi, o= f(0) + x (f(0)), where the remainder
+term Rj(x) is neglected
+
+Linear approximation of cos(x) = cos (0) + x (sin(x)),-9 = 1 +0 = 1.
+
+Quadratics approximation of f(x) = Po, o= f(0) + x f(x) + (x7/ 2Nf (x) ,
+where the remainder term R2(x) is neglected.
+
+Quadratics approximation of cos (x) = P2,0= (cos x)x=-9 + x (f’(cos x)),=0
++ (x7/ 2!) (£ ?(cos x))x=0
+
+=1- (x’/2!).
+Part (ii) Maclaurin’s expansion
+
+The sequence of values of the derivatives in (%%3) above repeats as
+follows:
+
+Sf? (cose))x-0 =1; ff (cos(X) x-0= 0; f'(cos())x-0 — 1; f “(cos(x))x=0
+=0.
+
+The repeating of the above sequence of the values of derivatives may be
+further generalized as follows:
+
+S*(cos(xx0 =1; "(cos (x) x0 = 0; f? (cos (x) x0 = 13 f?
+(cos (x) x=0 =0.
+for k= 0, 1, 2, 3, 4, ...
+
+Substituting these values in Maclaurin’s series expansion given by
+
+7 3) ah
+f@M=/O+f Oxe+ me e+ _— ee + fo) We
+! ! n!
+
+--- Page 96 ---
+
+4)
+
+we get: cos(x) = 1+ x.0 + (x7/2!). (-I) + (x°/3!). (+ (x/4).1 +... Calculus of Several
+
+Variables
+
+= 1-(x"/ 2!) + (x*/ 4!) — (x7 6!) +(x*/ 8!) 4
+
+For the function f(x) = log x, around the point x= 1, find (i) linear and
+quadratic approximations, and (ii) Taylor’s series expansion of the
+
+function.
+
+(Note: log(x) is NOT defined at x =0. Hence, Maclaurin’s series in NOT
+defined)
+
+We calculate values at x = 1, of f(x) = log (x) and of its various order
+derivatives, starting with the first derivative.
+
+SC) x=1 = log (x) x=1 =0;
+L090 x=1 =) x=1 =1;
+
+f°) x1 = ILE) i= 1,
+
+f°) x=1=OP%) x1 =2; ses ae eee (%%3)
+Part (i)
+
+Linear approximation of f(x) = Pi, i= f(1) + (« -D(f()), where the
+remainder term Rj(x) is neglected
+
+Linear approximation, around x=1, of log (x)= P;, = 0 + (x -l)=(x -1).
+
+Quadratics approximation of f(x) = P2 j= f) +(x -l PU) + (& -1)7/ 2')f
+”°(1) , where the remainder term R2(x) is neglected
+
+Quadratics approximation, around x=1, of log(x) = 0 + (x -1) + ((x -1)/
+2N)\(- DP = (x -1){(x -1)’/ 2
+
+For Taylor’s series expansion around x=1, of log(x),
+
+first, we generalize (%%3), derivatives of f(x) = log x and their values at
+x=1.
+
+We obtained
+S00) x1 =270) a= 23
+In general,
+
+f (log x) = [(— I*" (k-D)1)/x*; Hence,
+
+(f (log x))xar = [(- D" (k-)] ec sus eae ses (@HS)
+Using in Taylor's series expansion, with a=1, given in general by #2.1:
+(a) + FO (ea) + FO (ea? 4 EO ea) + ig
+
+(f (log x) x=1 = [(- I" (k-I)!] given by (@#5), and 0!=1, we get
+
+(log (x))x-r. = 0+ (¢ -1) — £ (¢ -1)/ 2} + {x -I)°/ 3} — {x -D)/ 4} te +
+
+k-I k
+CY «&-I'/ (ED +... 05
+
+--- Page 97 ---
+
+Real Analysis
+
+96
+
+= (x -l) — § (x -1)/ 2} + fe -D)*/ 3} — {0% -Y 4 t. t+ CDE (xe -l/
+(kK-1) +...
+
+14.13. EXERCISES
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+7)
+
+8)
+
+Determine if the following limit exist or not. If it exists, give the value of
+the limit.
+
+limgy-+(0,0)L X* YV Lx* + y']
+For the function y= f(x) = (log (Sin (é'+ 7x’)
+Calculate d’y/dx”
+
+Suppose that the amount of water in a holding tank at t minutes is given
+by Vy =5t- 64t +45.
+
+Determine each of the following.
+
+a) Is the volume of water in the tank increasing or decreasing at t =3
+minute?
+
+b) Is the volume of water in the tank increasing or decreasing at t = 7
+minutes?
+
+co) Is the volume of water in the tank changing faster at t = 3 or t= 7
+minutes?
+
+Calculate the differential for each of the following
+a) y= x sin(5x)
+
+b) f(w) =e"
+
+c) z= exsiny)
+
+d) g(x y,z=xy/2
+
+Calculate the directional derivative Du’f (%’) for f (x; y; z) = sin (yz) + log
+(x)at (1, 1, 2) in the direction ofv’ =<1, 1,— 1>
+
+Let f: R?> R* be defined as
+f(x, y)) = (x logy, sin x, xy, y"),
+find the Jacobian J;at the point (1/2, 2/4).
+
+If f is defined and continuous on closed interval [a, b] and is derivable on
+the open interval]a, b[, and if f? (x) = 0, for all x in Ja, b[, then f (x) has a
+constant value throughout [a, b].
+
+If f is continuous on closed interval [a, b] and f(x) >0 in Ja, b[, then f is
+strictly increasing in the interval [a, b].
+
+--- Page 98 ---
+
+Answers to Exercises Calculus of Several
+
+1)
+
+2)
+
+3)
+
+4)
+
+Variables
+In this case, (i) function is not continuous at the point (0, 0), as the
+denominator becomes 0 at (0, 0) and (ii) no factor which makes
+denominator 0, can be cancelled out. Therefore, there is possibility of the
+limit of the function NOT existing at point (0, 0). If the limit, actually,
+does not exist, and to show so, we need to find two paths to the point (0, 0)
+along which the proposed limits differ.
+
+The popular paths x=0, and y=0 will not yield the intended result, as along
+these paths, both the limits will be 0.
+
+We try another well-known path x=y, along which
+lim@,y) (0,0) x! yl [ xt yl = lime, y)>(0,0)[ x? xJ/ [x + x7]
+
+= lim x/(K°+1)=0 0... i
+(xy) 20,0)" (x ) ()
+
+In this case, from the expression of the function, it appears that the path y
+= x* may yield the desired inequality.
+
+Along y = x*
+lime,y)¢0,0)[ X* YV [x+y] =
+
+lime, yo 4x47 px84x9= lim 1/2=1/2....... (ii).
+(x,y) (0,0) X x \/[x +x] (xy)7(0,0) (ii)
+
+As (i) and (ii) differ, the required limit does NOT exist.
+We know from 14.4.3.1 that
+
+dy/dx = (e* + 14x) cot (e*+ 7x’), therefore
+d’y/dx? = d/dx ((e*+ 14x) cot (e*+ 7x”)
+
+= (e*+ 14) cot (e+ 7x”) + (e*+ 14x) [ {— cosee*(e“+ 7x°)} x (e*+14x)]
+
+= (e*+ 14) cot (e%+ 7x”) + (e* +14x)*— cosec’(e*+ 7x”)}
+
+We know that the rate of change, at time to, in the dependent variable V is
+given by the value of the derivative V’(t) at time to,
+
+Vv’ () = 10 t- 64
+(a) As V’(3) = 10(3) - 64 = -34<90,
+Therefore, the volume of water in the tank is decreasing
+(b) As V’(7) = 10(7) - 64=6>0
+Therefore, the volume of water in the tank is increasing
+
+(c) Here, the question is about only magnitude, irrespective of sign. At
+which point of time the magnitude is larger. The magnitude is
+larger at t=3.
+
+97
+
+--- Page 99 ---
+
+Real Analysis
+
+98
+
+5)
+
+6)
+
+72)
+
+(a) dy =(3x’sin 5x + 5x° cos(5x)) dx
+
+(b) df=(3 ee") dw
+
+(ce) dz=(sin(y)e*™” ) dx + (x cos(y)e*"™™) dy
+
+(d) dg =(5x*y'/z’) dx + By’ x/ z’) dy +(—2. x°y'/z?) dz
+
+Calculate the directional derivative Du’f (x’) for f (x; y; z) = sin (yz) + log
+(x) at (1, 1, x) in the direction of v = <1, 1, —1>
+
+VIO VD = So fy L> = <2442 COS (yz), y COS (yz)>
+VE (1, 1, 2) =< 2, 2 cos (1), cos (1)> =< 2,-—2, — 1>
+
+PI =aV (yr ++i) = B41
+
+Hence, unit vector Win the direction of V is W = <1/V3, 1/V3,-1/V3/>
+Thus,
+Du f(x, y,2z) =H, 1,7). Ww
+
+=<2,-1,-1>. <1/N3, 1/V3,-1/V3/>
+
+= 13 {2-241} =(-2)/ 1X3.
+
+Let fils y) =x logy, Ploy) =sinx, filo y=xy, filey) =y’.
+
+fvOx Ofy logy x/y
+fl 0 fy Ox 0 fx7dy cos x 0
+Ofydx Afydy| =| 2xy x
+afyax a fydy =| 0 3y
+Therefore, log (1/2) 2
+Jp (kaan= WN2 0
+w/4 w/16
+0 30/4
+Let c be any arbitrary point of [a, b], with c# a. We will show using
+
+mean value theorem that f(c) =f(a). As c is an arbitrary point of Ja, b],
+value of f at every point of the interval equals to f(a), implying f is constant
+on [a, b].
+
+As f satisfies all the conditions of Mean Value Theorem for interval [a, b],
+it also satisfies the conditions for [a, c], because ¢ € [a, b]. Therefore, by
+Mean Value Theorem, there exists d in the interval [a, c] such that
+
+(f(c) — f(a))/ (c-a) = f'(d) =0 (f(x) =0 for all x, (given)), implying
+f(c) — f(a))=0, i. e. f(c) =f(a) for all cin Ja, b].
+
+--- Page 100 ---
+
+8)
+
+Let x1 and x2 be any two distinct points of [a, b] such that x2>x1. Then Calculus or Several
+ariables
+
+[x1, x2] S[a, b] and f satisfies all the conditions of the Mean value theorem
+in [xl, x2].
+
+Therefore, there exists a number c with x1 <c <x2 and
+(f (x2) — f (x1))/(x2 — x1) =P°(c)
+Implying
+(f (x2) — f (k1))= f'(c)(x2 — x1)>0 (as x2 > x1, assumed; f’(c) >0 (given))
+
+Hence f(x2) > f(x1), for x2> x1; implying f is a strictly increasing function.
+
+99

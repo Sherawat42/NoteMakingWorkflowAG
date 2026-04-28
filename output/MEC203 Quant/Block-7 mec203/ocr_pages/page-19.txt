@@ -1,0 +1,61 @@
+Dynamic
+Optimisation
+
+Lemma:- Suppose that a function g(t) is continuous on interval to to tp then
+Sig (t)dx(t).dt = 0 (22.6)
+if and only if
+
+g(t) =0 everywhere over the interval to to tr
+
+Our task is to find a trajectory (path) x* (t) connecting (to, xo) and (te xs) along
+which J (x(t), x’(t), t) is extremum.
+
+Using the same analogy as we have used in static optimization i.e.,Vf(x) = 0,
+where x is a vector of n variables.
+
+We can write
+
+6] = First variation of functional
+
+— ptr (favo ava , _
+= (PE) ox +[28] ox@faeso 2.7)
+For expanding the term ie [2 5x'(0)| dt we use
+
+Integration by parts rule
+We know d (UV) = UdV + VdU
+Integrating both side within limit t, tots
+tf tf tf
+d (Uv) =U dv+v du
+
+to to to
+
+t t t
+[Uv] =u fe dv tv f,f du
+
+ty t tr
+| udv= (uv) - | vdu
+ti
+
+0 to
+
+We can write 5x'(t) = 2 dx(t)
+
+Taking
+
+ava .
+dann SS and d x(t) asdv
+
+Therefore, we can write equation (22.8) as
+
+_ (lize), -2x}! _ ie 8x05), edt ee (22.9)
+
+axr(t)
+
+Since both ends are fixed
+6x(t) at t= to is zero and 5x(t) at t = tris zero.
+
+Now we derive the necessary condition for functional to optimise is 6; (1“
+variation of functional) = 0. The Sufficient condition for functional to optimise
+is 62; (2" variation of functional) > 0 for minimum and 5; <0 for maximum
+
+value of functional.

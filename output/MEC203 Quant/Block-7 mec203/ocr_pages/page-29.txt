@@ -1,0 +1,55 @@
+Dynamic
+Optimisation
+
+28
+
+Necessary and sufficient condition: Hamilton — Jacobi- Bellman (HJB) equation
+gives a necessary and sufficient condition for optimality of a control with
+respect to objective functional. In general if the behavioral functions f() and g()
+are well behaved (continuous, continuously differentiable and concave) then
+necessary conditions are also sufficient.
+
+Next, we discuss another approach to dynamic optimization, viz., Dynamic
+Programming.
+
+22.10.2 Dynamic Programming
+
+The principle of dynamic programming (Richard Bellman 1957) state that an
+optimal trajectory has the following property: for any given initial values of the
+x, and for a given value of x; and U; in the beginning any period, the U; should
+be chosen optimally for the remaining period, if we take the optimal values of
+the x; which result from the previous optimal decisions.
+
+We next follow a heuristic approach for deriving necessary condition for
+problem following the principle of dynamic programming.
+
+Finite horizon: Assure that we know a solution optimal control {U* x7}7_9
+Definition: Value function for time t
+Vrae(%e) = Thee BPE (22.33)
+
+Proposition 1: Given an optimal solution to the optimal control problem
+solution optimal control {U* x{}?_9 then it verifies Hamilton- Jacobi Equation.
+
+Vor (%q) = max, {£(x,0,)+BVp 1%}
+In literature, this is called HJB equation, so, simply Bellman equation
+Vp(X0) = Dio BY S (UE xt)
+T
+= max) 6° {Uz )
+UO) t=0
+
+= max(f (xo Uo) + B fa Ui) + B?f (x2 Ua) «.)
+
+Whee
+
+T
+
+= max( fo Uo) +B YB FO Ud)
+
+YO} uo 1
+
+= max f(@%o Uo) +B max ye f&% Ue)
+° VOSpa1 T=1
+
+By principle of dynamic programming then
+
+V7(Xo) = max {fo Uo) + B Vr_1(%1)}

@@ -1,0 +1,51 @@
+dw =| dw =-c;dt Intertemporal
+—=-¢; Optimisation-II
+dt > w=-cy t+C9
+
+Using boundary condition at time T=t w=0
+=>-c,T+C2=0 =cp=ct
+
+att=0 w=6 >C2=$
+
+Setting t=T o= —e Plc b>6- eT C4
+= Ino =-pT —cy
+
+=>c,=Ino+pT
+
+Hence W’ =-e Pt Ino-eT tag
+
+Q2. Consider an investor who at time t = 0 is endowed with initial capital of
+x(0) = X9 >0. At any time t <[0,T] where T > 0 is given he decides
+about his rate of consumption c(t) <[0,¢] where C>0 is a large
+
+maximum allowable rate of consumption thus his capital stock evolves
+according to x=ox-—c(t) where a >OQ is a given rate of return the
+
+investor’s time-t utility for consuming at rate c(t) is u(c(t)) where
+u:P,-—>P is his increasing strictly concave utility function. The
+investor’s problem is to find a consumption plan c(t),t <[0,T]so as to
+
+maximize his discounted utility.
+T
+J(c) =f etu(e(t)) dt u(ct) = In(ct)
+0
+
+x(0)=Xg x7 =0
+
+wherer > Ois a given discount rate subject to the solvency constraint that
+the capital stock x(t) must be positive for all t <[0,T).
+
+t
+Ans. J(.)= fe In(ct) dt. s.t. =x’ = a—c(t)
+0
+
+Let H” = 9(.) + n¢h(.) where g(.) =In ct
+h(.) = ax —c
+‘ pity scat
+oc Cc H(t)
+The costate equation (ref equation 23.40)
+BE =P et Oxy Bt ax Ht Ont
+d * -
+> 7 =(r-a)>y = kel" where k is constant.
+
+61

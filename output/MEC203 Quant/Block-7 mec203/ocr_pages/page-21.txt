@@ -1,0 +1,60 @@
+Dynamic
+Optimisation
+
+20
+
+Suppose x is a single case then the solution for Euler-Lagrange equation is a and
+order differential equation. We have two integration constants and these
+integration constants can be found from initial and final condition of problem.
+Suppose x is n variable case then we shall get 2n constants and those can be got
+
+from initial and final conditions.
+
+In conclusion Euler-Lagrange equation is necessary condition for optimisation
+of a functional.
+
+Remarks:
+
+1) Euler-Lagrange equation is non-linear differential equation since product of
+x”(t), x’(t) and x(t) may appear in equation.
+
+2) Solution involve Two-point boundary value problem.
+
+3) Solution through numerical technique and solution through analytic
+
+methods are very difficult.
+
+4) If Euler-Lagrange equation is not satisfied for any function, this indicates
+the optimum does not exist for that functional.
+
+Example (courtesy Wikipedia)
+
+Find the real-valued function y(x) on the interval [a,b], such that y(a) = ¢ and
+y(b) = d, for which the path length along the curve traced by y is as short as
+possible.
+
+s=f dx? +dy? -| l+y"dx,
+
+the integrand function being L(x, y, y’)= I+ y”
+The partial derivatives of L are:
+
+ALG y,y') = png LOY) 9)
+oy’ Vi+y? oy
+
+By substituting these into the Euler-Lagrange equation, we obtain
+
+ad y¥@® 6
+dx J1+(y'(x))?
+
+yx)
+
+Vi+Q'@oy?
+
+Sya=
+
+=C=constant
+
+=> y(x)=Ax+B
+
+In other words, the function must have a constant first order derivative, and
+hence, its graph is a straight line.

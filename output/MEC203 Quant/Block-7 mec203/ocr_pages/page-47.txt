@@ -1,0 +1,58 @@
+Dynamic
+Optimisation
+
+46
+
+23.2 FIRST ORDER NECESSARY CONDITION:
+EULER LAGRANGE EQUATION
+
+Consider a dynamic system described by the following system of differential
+equations.
+dx(t)
+
+x(t) = = f (x(t)u(t), t)dt ... (23.1)
+
+dt
+
+with initial condition x(¢,) = x(0) =x°
+where x(t) =[x,(9,x,()...x,0[
+
+u(t) = [ug(t),ug(t)....um (t)]
+
+x(t) andu(t) are respectively referred to as state and control variables.
+
+f= [fy f cee fh J'is assumed to be continuously differentiable with respect to all
+its arguments and xis given vector in P"
+
+We have assumed that the given process starts at t = 0 and ends at the fixed
+terminal time tz > 0. Any piecewise continuous function u from [tg,t]into P m
+may be taken as an admissible control.
+
+We now consider an optimal control problem where a control U € Uis be chosen
+
+such that the cost functional/objective functional/performance index.
+t
+Ju) = S(x(t).t) ht, + J VOx(t),u(t), at (23.2)
+to
+is minimized.
+Note here that J(.)is a scalar quantity, S(x(t),t) |t-t, is terminal cost and a
+continuous function.
+
+We assume S(.) and V(.) are continuously differentiable with respect to their
+respective arguments.
+
+Note that the cost functional can be regarded as depending on u only as x is
+implicitly determined by u. from (23.1).
+
+Our objective is 2» | System |— > to find u(t) such that objective
+
+functional is optimised. In other words, we have a continuous dynamic
+optimisation problem at hand with equality constraint.
+
+The popular name of such problem is called “Bolza problem”.
+
+The terminal cost is in quadratic form and must be positive quantity. The
+constraint is also called dynamic equation of system.
+
+‘Tds(x(t)st)) | ay tt
+Now A [Seg a = (Set). nha

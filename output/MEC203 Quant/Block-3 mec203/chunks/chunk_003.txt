@@ -1,0 +1,571 @@
+--- Page 21 ---
+
+Some Notes:
+
+i) Algebraical or trigonometrical transformations sometimes prove easier to
+
+perform a complicated differentiation.
+Example 10.4:
+a) Lety = (cosecx)'*, then logy = cotxlogcosecx
+
+Differentiating both sides with respect to x,
+
+1 dy 2
+—.— = —cosec’x log cosec x +
+y dx cosec x
+
+(—cosec x cot x)
+
+2 2
+= —(cosec’x log cosec x + cot”x)
+
+. ° = —(cosecx)*"* (cosec’x log cosec x + cot”x)
+Xx
+, V1+ sin x —V¥1—sin x _, l—cos x
+b) If y=tan™ = tan~ ———
+V1+ sinx + V1- sin x | sin x
+2sin? i x 1 1
+= tan”! a tan” (tan—x) = =x
+F 2
+2sin — x cos—xX
+2 2
+_ dl
+“dx 2
+
+ii) Derivative of a determinant
+
+Let
+AQ) &&) YX)
+AQ) = A) $.(K) V(x)
+A) 950%) W5(x)
+
+Then,
+
+f®) 6&®) Yew) |A® o/@%) V(x)
+A®=|fW 6) V,~) K® 6'(x) W,(x)
+KO (x) Y,%) 4 0; (x) W,(x)
+
+ACO x) W(x)
+AS) 6,(%) W(x)
+A) 6) W(X)
+
+Example 10.5 :
+sinx cosx  sinx
+A(x) = Jcos x -sinx cos x
+x 1 1
+
+Differential Calculus:
+Functions of One
+Variable
+
+253
+
+--- Page 22 ---
+
+Calculus
+
+254
+
+cosx cosx sinx] |sinx -sinx sinx
+A'(x) = |-sinx -sinx cosx| |cosx -cosx cosx
+
+1 1 1 yl X 0 1 4
+
+sinx cosx  cosx
+cosx -sinx —sinx
+x 1 0
+
+= cosx (- sinx- cosx) - cosx (-sinx-cosx) + sinx (-sinx + sinx) +
+sinx(-cosx) + sinx(cosx-xcosx) + xsinxcosx + sin?x-xsinxcosx +
+cosx (cosx + xsinx) = sin?x + cos?x = 1
+
+10.3 GEOMETRICAL INTERPRETATION OF
+DERIVATIVES
+
+Geometrically, the derivative of a function is the slope of the concerned curve.
+
+y M
+A
+
+Fig.10.1: Graphical Representation of how ratio [f(x + h) - f(x)/h], represented by chords
+approaches the tangent, representing derivative f(x).
+
+The function drawn here isy = f(x), let P and Q be the two points on this
+function. We start from the point P, where x = xg Suppose x has risen from xg
+
+tox’,ie, Agx = Xx’. As a result, y has changed from P to Q on the curve and
+
+Ay _ QR
+we get — = — =tang
+8 PR
+
+Ax
+
+This shows as Q approachesP, Ax increases and we get steeper and steeper lines,
+when Ax > 0 the point Q almost coincides with P and the chord PQ ultimately
+becomes tangent at point P. Let MN be the tangent to f(x) at point P. Thus, the
+derivative of a function at a point is actually the value of the slope of the function
+at that point. Thus, the derivative for a linear function is constant, but for a non-
+
+linear function the derivatives are different for different values ofx.
+
+--- Page 23 ---
+
+10.4 DIFFERENTIALS
+
+If f'(x) is the derivative off (x), and Ax is an increment ofx, then the differential
+of f(x) , denoted by the symbol df(x) , is defined by the relation
+
+af (x) = f'(x)Ax ... (10.1)
+If f(x) = x, then f’(x) = 1 and (i) reduces to dx = Ax
+
+Thus, when x is the independent variable, the differential of x (= dx) is identical
+with Ax . Hence, if y-f(x) , then the relation (10.1) becomes
+dy = f'(x)dx ... (10.2)
+
+ie., the differential of a function is equal to its derivative multiplied by the
+differential of the independent variable.
+
+Thus, ify = tanx, thendy = sec*xdx.
+
+From the definition of the differential of a function, the following formulae are
+obvious —
+
+d(c) = O where c is constant
+d(u+v-w) =du+ dv-dw
+d(uv) =udv + vdu
+
+u vdu— vdu
+v v
+
+Differentials are especially useful in applications of integral calculus.
+Notes:
+
+i) For the independent variablex, incrementAx and differential dx are equal,
+but same is not true with the dependent variabley, i.e., Ay dy generally.
+
+ii) The relation (ii) can be written asdy/dx = f'(x), i-e., the quotient of the
+differentials of y and x is equal to the derivative of y with respect to x.
+
+10.5 HIGHER ORDER DERIVATIVES
+
+The derivative of a function ofx, f(x), is in general a function of x. This new
+function may have a derivative, which is called the second derivative (or second
+differential coefficient) or, f(x). The original derivative is called the first
+derivative (or, first differential coefficient). Similarly, the derivative of the
+second derivative is called the third derivative and so on for the n™ derivative.
+
+Example 10.6: Let y = 4x° + 7x‘ + 3x + 9, then ”. = 20x* + 28x° +3
+xX
+
+dy d/a dy d (a
+» (=) =80x3 + 84x? 5 = (=) = 240x? + 168x
+
+dx? dx
+
+Differential Calculus:
+Functions of One
+Variable
+
+255
+
+--- Page 24 ---
+
+Calculus Check Your Progress 1
+
+: dy :
+
+1) Find x of the following:
+i) y=sin?x— ex + 4%
+ii) y = 3x*cosecx
+sss _ logx-sinx
+ili)y = a
+iv) y = 2cosv + tan’v, v =e°*,
+v) y=acos0,xx =bsin@
+
+2 3
+2) Find os and 7 for the following functions:
+iy = —e* + x*
+ii)y = 3x? log(2x)
+
+3) For natural number n, find n' derivative of each of the following functions
+(i) y = e* (ii) y = sin x (iii) y= cos x (iv)y =1/(1+x) (v) y= log (1+x)
+
+10.6 APPLICATION OF SIMPLE DERIVATIVES IN
+ECONOMICS
+
+The derivatives have wide application in economics. We always deal with
+functional relations while studying economic problems. While dealing with these
+functional relations, sometimes we get prompted to find out the rate of change of
+one (dependent) variable owing to the change of the other (independent) variable.
+
+10.6.1 Average and Marginal Revenue
+
+The price (p) set by the sellers in an imperfect market depends on the quantity of
+output (q) the sellers expect to sell, ie. p = f(q). This is the inverse demand
+function. The total revenue (R) obtained by the seller isR = p.q = f(q).q.
+
+Thus, R is a function of q only, ic., R = (q). This implies R varies in
+256
+
+--- Page 25 ---
+
+response to a variation in q. We get two concepts — average revenue and
+marginal revenue. The average value of R, the average (AR) measures the
+average variation of R over a range of values of q extending from zero upto a
+certain specified value. The specified value of q is the one at which we seek the
+average value of R.
+
+Hence, the function p = f (q) gives us the AR curve when plotted graphically.
+The marginal value of R or, the marginal revenue (MR) measures the variation of
+R at the margin.
+
+dR _, ,
+MR= 7 =f@t+4.f'(@
+Thus, q
+
+We can establish a relation between MR and AR: MR = AR + q.f'(q)
+
+The relation describes that the difference between MR and AR will always be
+equal to gf'(q). Since q is always non-negative and sincef'(q) < 0, we have
+MR-AR < Oi.e., MR < AR for all q.
+
+Thus, when the AR curve is downwards sloping, the MR curve always lies below
+the AR curve. However, if AR curve be upward rising MR > AR and the MR
+curve will lie above the AR curve. Whenf'(q) = 0, the MR curve and the AR
+curves coincide. This happens when p is a given quantity and fixed for allq. The
+AR curve will then be a parallel line to the horizontal axis. When gq = 0,
+AR = f(0) and MR = f(0). Thus, at g = 0 the two curves intersect each
+other.
+
+10.6.2 Average and Marginal Cost
+The total cost (c) of a firm depends on the total output (q) produced,
+
+ie.,c = c(q).
+Proceeding by the same argument in the last section, average cost (AC) = @
+and marginal cost(MC) = ao
+
+Again, we can establish a relation between AC andMC. Let us differentiate AC
+function with respect toq.
+
+de ol
+df{c\ dq” ~ (¢ “| 1
+yf )= So = PE | bic ac
+wals) q° q\dq q al )
+
+d
+If AC curve slopes downwards, then #(5) <0 or, 1 (mc- ac) <0 or,
+q q
+
+MC <AC.
+
+Differential Calculus:
+Functions of One
+Variable
+
+257
+
+--- Page 26 ---
+
+Calculus
+
+258
+
+i.e., MC curve lies below the AC curve when AC is falling. When AC slopes
+upwards, we can conclude MC curve lies above the AC curve. The AC curve
+intersects the MC curve if the slope of the AC curve is zero.
+
+10.6.3 Elasticity of Demand
+
+Demand is a multivariate function. We simplify our analysis by assuming
+demand to depend mainly on two factors — price and income. If one or both of
+these factors change, demand changes accordingly. The elasticity of demand
+measures the percentage change in quantity demanded due to one percent change
+in one of these two variables.
+
+Suppose, the demand function is given by q = f(p) where p denotes price and q
+quantity demanded. Then by definition, price elasticity of demand (eg) is given
+by
+
+“x10 _Aqp
+
+200 =a? where Apand Agare the changes in quantity demanded and
+
+eq =
+
+price respectively. The price elasticity of demand defined in this way is called the
+are price elasticity of demand. If we now assume Ap to be infinitesimal we get
+the concept of point price elasticity of demand (¢€,).
+
+6, = lim S42 =P jim44=P 44 (103)
+
+ap>0 Ap q q “Ap Ap q . dp
+p and q are restricted to non-negative values only. Since the demand curve is
+
+generally downward sloping, i.e., a <0, the price elasticity of demand is
+Pp
+
+generally negative. The negative value of the right hand expression in (1) gives
+us absolute elasticity. Thus,
+
+p dq
+
+les|= —=
+
+q dp
+This can take any value between zero and infinite. The demand is said to be
+
+i) perfectly inelastic le,|= 0
+ii) inelastic if 0< le,| <1
+
+iii) unity elastic if |e,| = 1
+
+iv) _ elastic if 1 < |e,] <
+
+v) _ perfectly elastic if le a > 0
+
+Note: Since the value of ¢g depends on initial price-quantity combination, there
+is no necessary connection between the slope and price elasticity of demand
+curve. Curve with different slopes may have the same elasticity and curves with
+different elasticities may have the same slope.
+
+--- Page 27 ---
+
+Now, suppose that price remains the same and income changes. The demand
+function in this case can be written asq = f(y). The income elasticity of
+demand (ng), measures the percentage change in quantity demanded due to one
+percent change in income (y).
+
+Thus, n, = dq/q x 100 _ dq y
+
+In measuring the income elasticity of demand we assume price to be fixed at a
+certain level. The demand curve in this case can be written in the following
+alternative form q = q(y). In this form, the demand curve is called the Engel
+curve. The income elasticity of demand is thus, the elasticity of the Engel curve.
+
+The shape of the Engel curve depends on the nature of the commodity in
+question. If the good is a luxurious one its demand will increase with increasing
+income and the Engel curve slopes upward. Thus, for luxurious goods ng is
+positive. Again for luxurious goods demand not only increases with increase in
+income, but it increases more than proportionately than increase in income. Thus,
+dq J dy | dq / q
+
+>loanH>l
+q y dy/ y
+
+For necessities 0 <ng< 1 and for inferior goods na< 0.
+
+10.6.4 Constant Elasticity Demand Curve
+
+The price elasticity of demand differs at different points on a demand curve. But
+we may have a special kind of demand curve every point of which shows same
+constant elasticity. The exponential demand functions are of this nature.
+
+The general form of the constant elasticity demand curve is given by gq = Ap®
+where A, @ are constants.
+
+Let us derive the elasticity expression for this function at any point on this curve.
+
+&= PB dq _ P 4 Cap’) = P aap™ = Pd aps =a
+
+qdp = q dp q q Pp
+
+Thus, €g is a pure number and constant throughout the whole curve. Consider a
+particular case whena =-1.Then,qg = Ap~‘or, pq =A.
+
+. d .
+In this case,” =-—1. Such a term and curve is represented by rectangular
+
+hyperbola.
+10.7 SLOPE AND CURVATURE
+
+The first and second-order derivatives are of much use in the graphical analysis
+of economic functions. We know the first derivative of a function at any point
+measures the slope of the function at that particular point. Consider a
+functiony = f(x). The value of f’(x) atx = ais f’(a).f’(a) > 0 implies that
+at x = a the tangent gradient of the curve is positive, i.e., tangent to the curve at
+the curve x = a slopes upwards. This implies that f(x) increases through x = a
+
+Differential Calculus:
+Functions of One
+Variable
+
+259
+
+--- Page 28 ---
+
+Calculus
+
+260
+
+as x increases. Thus, the sign of the first order derivative informs us whether the
+function increases upwards or decreases downwards at the point in question. If
+f'(x) > 0 for all values of x in the domain of the function, then we can say f (x)
+rise continuously from left to right.
+
+The function which rises continuously is called monotonically increasing
+function. Thus, the function to be monotonically increasing implies the first
+derivative must be positive. Similarly, a function y = f(x) is said to be
+monotonically decreasing if f’(x) < 0 for all x.
+
+Example 10.7:
+
+i) Consider the demand functiong = 3-5p. Here“ =-5<0. Thus, the
+function is a monotonically decreasing function.
+
+ii) c= aq?+bqtc, (a,b,c > 0). This cost function is monotonic because
+
+a =2aq+b>0 giveng = 0. Actually, this function is monotonically
+
+increasing.
+
+From the first derivative we learn about the direction of change of f(x) with a
+change in x. The function f(x) changes in the same direction at which x changes
+if f'(x) > 0 and in the opposite direction if f'(x) < 0.
+
+One question immediately follows. What will be the pattern of change of f(x)
+with a change in x? How can we know whether a function, which is known to be
+increasing, increases at a constant rate, or at an increasing rate or at a decreasing
+rate? The second derivative plays its role here. The bending of a curve or
+
+f f
+
+Convex Concave
+
+Fig. 10.2: Convex function and Concave function
+
+curvature is measured by the rate of change of f’(x) or the slope of the curve
+(Refer Fig.10.2). If the rate of change of the slope is positive, i-e.,f’"(x) > 0, the
+curve is said to be convex. For a convex curvef (x) increases or decreases at an
+increasing rate. If f(x) < 0, the curve increases or decreases at a decreasing
+rate. Such curves are known as concave curves. Lastly, the curves which increase
+or decrease at a constant rate have f'"(x) = 0, e.g., linear curves.
+
+--- Page 29 ---
+
+Below we summarise the nature of the function y = f(x) depending on the
+values of f(x) and f'"(x).
+
+If, as x increases through a, then
+
+The curve atx = ais The tangent to the curve atx = a
+f'(@>0 upward rising } turns anti-clockwise
+f"(a)>0 convex
+
+f'(a)>0 upward rising t does not turn
+
+f"(a) =0 © linear
+
+f'(a)>0 upward rising } turns clockwise
+f"(a) <0 concave
+
+f'(a)<0 downward sloping } turns anti-clockwise
+f"(a)>0 convex
+
+f'(a<0 downward sloping i does not turn
+
+f"(a) =0 | linear
+
+f'(a)<0 downward sloping } turns clockwise
+f"(a) <0 — concave
+
+Example 10.8:
+
+i)
+ii)
+
+iii)
+
+The function y = 5x? + 6 is convex becausef"(x) = 5 > 0.
+
+Consider the demand functionp = aq? + bq + c. Obtain the expression
+for its price elasticity of demand and tell what restriction should be imposed
+
+upon the value of q to make the demand function unitary elastic.
+
+-Pdg_p 1 _aq'+bqte
+qdp q 2aqt+b 2aq’ + bq
+> +bq+
+If €, = , af =| ie, aq’ =c,ie., q=vc/a
+2aq° + bq
+
+Demand function is = aq?,(a>0,b > 0). Obtain the marginal revenue
+function and comment on its shape.
+
+Since R = p.q = aq’*) , MR = = a(b + 1)q” > 0 ; for q>0.
+Thus, MRis for all q >0. The MR curve in this case is upward rising
+
+aR b-1
+asza2 = ab(b + 1)q >0.
+
+Differential Calculus:
+Functions of One
+Variable
+
+261
+
+--- Page 30 ---
+
+Calculus
+
+262
+
+10.8 TAYLOR SERIES
+
+Suppose, we wish to approximate a function f(x) at some arbitrary point x = a
+
+by a polynomial of the form -
+f(x) = do + a(x —a) + a2(x—a) +.....+.an(x—a)" where, x(x) is the
+approximate value of f(x).
+
+This exercise will be particularly helpful in finding the conditions for extrema of
+functions. The functions expressed in the above form are called analytic
+
+functions.
+
+Our next task is to find appropriate values of the coefficients of the above
+polynomial. To do this, we proceed as follows:
+
+First, we note that f(x) should equal f:(x) whenx = a. Thus, a, = f(a).
+
+To approximate f(x) even better, let us make the derivatives of f(x) and fn(x)
+
+equal at x = a. We know,
+f(x) = ait 2a2(x—a)+4.....+-ndn(x—a)"|
+
+fu"(x) = 2a2+3.2.a3(x—a).....+¢n(n—lan(x—a)""
+
+Sr’ (x) =n!an
+
+Clearly, whenx = a, we get
+a= f(a)
+aC)
+
+2!
+
+Thus, we can write,
+
+£@ yg LM
+
+2
+i! I (x-a) +...
+
+L@O=f@t
+
+This is known as Taylor series.
+
+Note that we have not included the last term (i.c., the (2 +1)" term)
+
+LO (yay in the above expression. This is because f(x) may be any type of
+nt
+
+function. If we take the last term in the above form, then the approximation will
+
+not be exact if f(x) itself is not a polynomial.
+
+The power series can be made exact (when f "Dig continuous) if the last term
+
+is evaluated not atx = a, but at some pointx*, such that x < x* < a (why this is
+
+so is beyond the scope of the treatment).
+

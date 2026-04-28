@@ -1,0 +1,592 @@
+--- Page 41 ---
+
+And the p.d-f of s’ is,
+
+es expf-n -1)s'2/207](s'2)" 3/20 < s'2 < 00
+(202 yearn)
+
+u(s’) =
+
+2
+
+29.5 CENTRAL LIMIT THEOREM
+
+For any positive constant c, the probability that X will take a value (u—c) and
+
+2
+
+is at least 1-
+(u+c)is at leas nod
+
+. When n->, the probability tends towards 1. The
+
+result is called the law of large numbers and is of critical interest in theoretical
+statistics. One of its important applications is the Central Limit theorem, which
+concerns the limiting distribution of the standardized mean of n random variable
+when n>.
+
+The central limit theorem may be stated as follows:
+
+If xj(i=12,...,.n) are independently distributed random variables such that
+
+E(x})=py and V(x) = of, then under certain very general conditions, the
+random variables Sy = X4+X 2 +...+Xpy, is asymptotically normal with mean pt
+and standard deviation o where
+n n
+p= Dpjand o? = Sy?
+i=1 i=1
+
+This result helps us in dealing with the observations which are not randomly
+distributed.
+
+Check Your Progress 2
+
+1) Given a test that is normally distributed with mean=30 and a standard
+deviation = 6, what is the probability that a single score drawn at random
+will be greater than 34?
+
+2) Assume a normal distribution with a mean of 90 and a standard deviation of
+7. What limits would include the middle 65% of the cases?
+
+Sampling
+Distributions
+
+207
+
+--- Page 42 ---
+
+Inferential
+Statistics
+
+208
+
+29.6 LET US SUM UP
+
+This unit presented different types of sampling distributions. We learnt about the
+
+concept of critical value or significant value of different distributions, their
+
+probability density function and Jacobian transformation. Finally, we also had the
+
+intuitive idea about central limit theorem, which is useful for the non-randomly
+
+distributed sample.
+
+29.7 KEY WORDS
+
+Central Limit
+Theorem
+
+Chi-square
+Distribution
+
+F Distribution
+
+Fisher’s ‘t’
+Distribution
+
+Standard Normal
+Distribution
+
+Student’s ‘t’
+Distribution
+
+If xi (i = 1,2,.......n) are independently distributed
+random variables such that E(xi)=p; and
+
+V(xi) = of then, under certain assumption,
+n
+== S| is asymptotically normal with mean u
+i=1
+and variance o* where
+n n
+w= Dp,o* = oP.
+i=1 i=1
+The square of a standard normal variate is known as
+
+chi-square variate with | df.
+
+If X~ xe and Y~xe and if X and Y are
+
+independent to each other then F statistic is defined
+by
+_ X/ ny
+
+Fe Ving Pmuna)
+
+If t~N(O1) and x*~x%, and if both are
+independent, then Fisher’s ‘t’ is given by
+t=t/Vx?/n ~ty
+
+A continuous random variable, which is normally
+
+distributed with mean zero, variance 1 is called
+standard normal distribution.
+
+If xi, (i = 1,2,...,n) is a random sample of size n
+from a normal population with mean pand variance
+3, then student’s ‘t’ is defined by the statistic
+X-u
+t= ~ tin_1)-
+olvn
+
+
+--- Page 43 ---
+
+29.8 ANSWER OR HINTS TO CHECK YOUR ps ameline
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1) See Section 29.3
+2) 2 =14.5 df =5,p=.017
+
+3) See Section 29.3
+
+4) Hint: Here we set up the null hypothesis that the digit occurs equally
+frequently in the directory. Under the null hypothesis, the expected
+frequency for each of the digits 0,1,2,....,9 is 10000/10=1000.
+
+2
+
+n(O,—E,
+
+The value of 2 = 5 Oi- Ei)”
+i=1 i
+
+Here Ej = 1000 Vi=0,1.....9
+
+= 58.542
+
+Oj; = observed frequency given in the table.
+
+Degree of freedom =10—1=9(since we are given the total frequencies,
+
+we are subjected to only one linear constraint YO; = YE; = 10000.
+i i
+
+The tabulated 73 95,9 = 16-919 < 58.542
+
+Thus, we conclude that digits are not uniformly distributed.
+Check Your Progress 2
+
+1) 0.2524
+2) 83.46 and 96.54
+
+29.9 EXERCISES
+
+Q1. The theory predicts the proportion of bins in the four groups A, B, C and D
+should be 9:3:3:1. In an experiment among 1600 bins, the numbers in the
+four groups were 882, 313, 287 and 118. Does the experimental result
+support the theory?
+
+Ans. Total no. of bins = 1600
+
+E(882) = 6 x 1600 = 900
+
+E(313) = = 1600 = 300 and so on
+
+2
+ye- | ose = 4.7266 < 73.95,3(= 7.815)
+
+.. The null hypothesis is accepted.]
+209
+
+--- Page 44 ---
+
+Inferential
+Statistics
+
+Q2. The CEO of light bulbs manufacturing company claims that an average
+light bulb lasts 300 days. A researcher randomly selects 15 bulbs for
+testing. The sampled bulbs last an average of 290 days, with a standard
+deviation of 50 days. If the CEO’s claim were true, what is the probability
+that 15 randomly selected bulbs would have an average life of no more than
+290 days?
+
+Ans: The traditional approach requires you to compute the t statistic, based on
+data presented in the problem description.
+
+The first thing we need to do is compute the t statistic, based on the
+following equation :t = £-w/(s/VN) where Zis the sample mean, p is the
+population mean, sis the standard deviation of the sample, and nis the
+sample size.
+
+Therefore, t = (290-300)/(50/V15)
+
+=-10/12.909945
+
+=-0.7745966
+
+e The degrees of freedom are equal to 15-1 = 14.
+
+e Assuming the CEO’s claim is true, the population mean equals 300.
+e The sample mean equals 290.
+
+e The standard deviation of the sample is 50.
+
+The cumulative probability is 0.226. Hence, if the true bulb life were 300
+days, there is a 22.6% chance that the average bulb life for 15 randomly
+selected bulbs would be less than or equal to 290 days.
+
+210
+
+--- Page 45 ---
+
+UNIT 30 ESTIMATION
+
+Structure
+
+30.0 Objectives
+
+30.1 Introduction
+
+30.2. Theory of Estimation
+
+30.3
+
+30.4
+
+30.5
+
+30.6
+
+30.7
+30.8
+30.9
+30.10
+
+30.2.1 Parameter Space
+
+Characteristics of Estimators
+
+30.3.1 Unbiasedness
+
+30.3.2 Consistency
+
+30.3.3 Efficiency
+30.3.3.1 Most Efficient Estimator
+30.3.3.2Minimum Variance Unbiased Estimator
+
+30.3.4 Sufficiency
+
+Cramer Rao Inequality
+
+30.4.1 MVUE and Blackwellisation
+
+30.4.2 Rao —Blackwell Theorem
+
+Asymptotic Properties
+
+30.5.1 Consistency
+
+30.5.2 Unbiasedness
+
+30.5.3 Convergence in Distribution and Asymptotic Normality
+
+Methods of Estimation
+
+30.6.1 Maximum Likelihood
+
+30.6.2 Generalized Method of Moments
+
+30.6.3 Partial Least Squares
+
+Let Us Sum Up
+
+Key Words
+
+Answers/Hints to Check Your Progress Exercises
+
+Exercises
+
+30.0
+
+OBJECTIVES
+
+After going through this unit, you should be able to
+
+e describe the characteristics of good estimators;
+
+e discuss the Cramer Rao Inequality;
+
+e explain the Asymptotic properties of the estimators; and
+
+e estimate the value of the estimator using various methods of estimation.
+
+211
+
+--- Page 46 ---
+
+Inferential
+Statistics
+
+212
+
+30.1 INTRODUCTION
+
+The objective of sampling is to study the features of the population based on
+sample observations. A carefully selected sample is expected to reveal these
+features, and hence we shall infer about the population from a statistical analysis
+of the sample. This process is known as ‘statistical inference’.
+
+There are two types of problems. First, we may have no information at all about
+some characteristics of the population, especially the values of the parameters
+involved in the distribution, and it is required to obtain estimates of these
+parameters. This is the problem of ‘estimation’. Secondly, some information or
+hypothetical values of the parameters may be available, and it is required to test
+how far the hypothesis is tenable in the light of the information provided by the
+sample. This is the problem of ‘hypothesis testing’ or ‘test of significance’.
+
+This unit will elaborate on estimation. In order to delve deep into the topic,
+properties of good estimators are introduced initially which are unbiasedness,
+consistency and efficiency. After describing these properties, the famous Cramer
+Rao Inequality is introduced along with the asymptotic properties of the
+estimators. The last sub-section of the unit deals with the methods of estimation
+
+used for ascertaining the ‘best guess’ of true values of the estimators.
+
+30.2 THEORY OF ESTIMATION
+
+Suppose, we have a random sample x1, x2, ... ,Xn on a variable x, whose
+distribution in the population involves an unknown parameter 0. It is required to
+find an estimate of 8 based on sample values. The estimation is done in two
+different ways: (i) Point estimation, and (ii) Interval estimation.
+
+In ‘point estimation’, the estimated value is given by a single numerical value,
+which is a function of sample observations (i.e., statistic). This function is called
+an ’estimator’. Since the point estimate is just a numerical figure, the value of it
+is less likely to coincide with the true value of the population parameter. Some
+degree of uncertainty is bound to be there due to sampling error. To overcome it,
+some intervals are constructed and it is claimed that the true value of the
+population parameter will lie within this interval at a confidence level of say 95%
+or 99%.
+
+In ‘interval estimation’, an interval within which the true value of a parameter is
+expected to lie is computed by using two quantities based on sample values. This
+is known as ‘confidence interval’, and the quantities, which are used to specify
+the interval, are known as ‘confidence limits’. Since our basic objective is to
+estimate the parameter associated with the sample conservations, so before going
+into further details, let us discuss about the notion of parameter space.
+
+--- Page 47 ---
+
+30.2.1 Parameter Space
+
+Let us consider a random variable (r.v) x with p. d. f, f(x, 8). In most common
+application, though not always, the functional form of population distribution is
+assumed to be known except for the value of some unknown parameter(s) 9,
+which may take any value on a set ©. This is expressed by writing the p. d. f in
+the form f(x, 6), 8=©. The set ©, which is the set of all possible values of 8, is
+called the ‘parameter space’. Such a situation gives rise not to one probability
+distribution but a family of probability distributions which we write as [f(x, 8), 0
+€@}. For example, if X~ N (u, 6”), then the parameter space @ = {(1, 6”): 20 <
+<0; 0<o< oo}.
+
+Foro*= 1, the family of probability distribution is given by {N (u, 1); pe O},
+
+where © = {u: — © < pp <oo}. In the following discussion we shall consider a
+general family of distributions {f(x; 01, 02, ... , 9x): (i¢@,i=1,2,...,k.}.
+
+Let us consider a random sample x1, x2, ... ,Xn, of size “‘n’ from a population, with
+probability function f(x; 01, 02, ... , 9x), where 01, 02, ... , Ox are the unknown
+population parameters. There will then always be an infinite number of functions
+of sample values, called statistic, which may be proposed as estimates of one or
+
+more parameters.
+
+Evidently, the best estimates would be the one that falls nearest to the true value
+of the parameter to be estimated. In other words, the statistic whose distribution
+converges as closely as possible near to the true value of the parameter may be
+regarded the best estimate. Hence, the basic problem of estimation in the above
+
+case can be formulated as follows:
+We wish to determine the functions of the sample observations:
+Ti= 61 (X1, X2, ... , Xn), T2= 65 (x1, X2, ..., Xn), eee Tr=6, (X1, X2, ... , Xn), such
+
+that their distribution is concentrated as closely as possible near to the true value
+
+of the parameter. The estimating functions are then referred to as ‘estimator’.
+
+30.3 CHARACTERISTICS OF ESTIMATORS
+
+The following are some of the criteria for a good estimator: (i) Unbiasedness, (11)
+Consistency (iii) Efficiency and (iv) Sufficiency. We shall now briefly explain
+these terms one by one.
+
+30.3.1 Unbiasedness
+
+An estimator (T,)is an unbiased estimator of the parameter 0 if any only if
+E(T, )=9.
+
+The sample mean xis unbiased estimator of the population mean, py, because
+E(x) =h.
+
+Estimation
+
+213
+
+--- Page 48 ---
+
+Inferential
+Statistics
+
+214
+
+Note: If E(T,)>(0),T, is said to be positively biased and if E(T, )< (9), it is said
+to be negatively biased, the amount of bias v(0) being given by
+b(0)=E(T,, )—7(0),0<0.
+
+Following are some examples of unbiased and biased estimators:
+
+1) If X has a binomial distribution with the parameters n and 0, show that the
+
+sample proportion — is an unbiased estimator of 0.
+n
+
+If E(X)=n6, it follows that “{*) =+28(x)=1ne=0.
+
+n n n
+Hence X/n is an unbiased estimator of 0,
+
+2) If S? is the variance of a random sample of an infinite population with the finite
+
+variances o then ES? )- o.
+
+Proof: By definition Es? )- a s(x; - xy
+
+Although (S?) is an unbiased estimator of the variance of an infinite population, it
+is not an unbiased estimator of the variances of a finite population and in neither
+case is S an unbiased estimator of o. There are difficulties associated with the
+
+concept of unbiasedness. The property may not be retained under functional
+transformations, i.e., if dis an unbiased estimator of 0, it does not necessarily
+
+follow that w()is an unbiased estimator of w(0). Another difficulty associated
+with the concept of unbiasedness is that unbiased estimators are not necessarily
+unique. Unbiasedness is a property associated with finite ‘n’. A statistic
+Ty = 1(x1,X2,...,X,), is said to be an unbiased estimator of y(0)if E(T,,)=y(0), for
+all 0cO
+
+--- Page 49 ---
+
+30.3.2 Consistency Estimation
+
+A desirable property of a good estimator is that its accuracy should increase as
+the sample size becomes larger. That is, the estimator is expected to come closer
+to the parameter as the size of the sample increases.
+
+An estimator T,, =T(X1,X9505%n) based on a random sample of size ‘n’, is said to
+be a consistent estimator of y(0),0<0, if T, - converges to y(0) in probability i.e.,
+if T,P > y(0)as noo. In other words, T, is a consistent estimator of y(@)if for
+every ¢>0,1>0, there exists a positive integer n>m/(e,n) such that
+
+Pit, -y(0) <el>1 as n 0 PiT, -y(0) <e|> 1—-y;Vn=m, where m is some
+very large value of n.
+
+Note: If X,,X>,..X, is a random sample from a population with finite mean
+E(X; )= <oo, then by Khinchin’s weak law of large numbers (WLLN), we have
+
+— 12
+Xn oa + E(X;)=p,as n>.
+
+Hence sample mean (x,,) is always a consistent estimator of population mean.
+Obviously, consistency is a property concerning the behavior of an estimator for
+indefinitely large values of the sample size ‘n’, i.e., as n — o. Nothing is
+regarded of its behavior for finite ‘n’.
+
+Moreover, if there exists a consistent estimator, say, Tn of y(@), then infinitely
+many such estimators can be constructed, e.g., Tn = (n-a)/(n-b), Tn = [1- (a/n)]/
+[1-(b/n)], where Tn — Tn— y(0), as n — © and hence, for different values of a
+and b, Tn is also consistent for (6).
+
+Sufficient Conditions for Consistency:
+
+Let {Tn} be a sequence of estimators such that for all 0¢@
+
+i) Eo(Tn) > y(0)asn—
+
+ii) Vare(Tn) +0 as n — 20
+
+Then Th is a consistent estimator of (0).
+
+30.3.3 Efficiency
+
+Even if we confine ourselves to unbiased estimates, there will be more than one
+consistent estimator of a parameter. There may be a large number of consistent
+estimators for p. Indeed, if T is consistent, so are T+ a/ yw (n) and T {l+a/w
+(n)}, where ‘a’ is any constant independent of ‘n’ and y (n) is any increasing
+function of ‘n’. To choose among these rival estimators, some additional criteria
+would be needed. Thus, we may consider, together with stochastic convergence,
+the rate of stochastic convergence, i.e., we may demand not only that T should
+converge stochastically to y(0) but also that it should do so sufficiently rapidly.
+We shall confine our attention to consistent estimators that are asymptotically
+
+normally distributed. In that case, the rapidity of convergence will be indicated 015
+
+--- Page 50 ---
+
+Inferential
+Statistics
+
+216
+
+by the inverse of the variance of the asymptotic distribution. Denoting the
+asymptotic variance by ‘avar’, we may say that T is the best estimator of y(0) if it
+
+is consistent and normally distributed and if avar (T) < avar (T’) whatever the
+other consistent and asymptotically normal estimator T’ may be.
+
+A consistent, asymptotically normal statistic T having this property is called
+‘efficient’.
+
+30.3.3.1 Most Efficient Estimator
+
+If in a case of consistent estimator for a parameter, there exists one whose
+sampling variance is less than that of any such estimator, it is called the most
+efficient estimator. Whenever such an estimator exists, it provides a criterion for
+measurement of efficiency of the other estimators.
+
+Definition: If T; is the most efficient estimator with variance V; and T2 is any
+
+other estimator with variance V2, then the efficiency E is defined as: E = V1 /V2.
+Obviously, E cannot exceed unity. If Ti, Tz, ... , Tn are all estimators of y(0) and
+
+Var(T) is minimum, then the efficiency of Ej of T;, (i= 1, 2, ... , n) is defined as:
+Ej = Var(T)/ Var(Ti); Ei <1, G@= 1, 2, ...,n).
+30.3.3.2 Minimum Variance Unbiased Estimator (MVUE)
+
+Ifa statistic T = T(x1, X2, ... , Xn), based on sample of size ‘n’ is such that:
+
+i) Tis unbiased for y(0), for all 0<¢@ and
+
+ii) it has the smallest variance among the class of all unbiased estimators of y(0) ,
+then T is called the minimum variance unbiased estimator (MVUE) of (0).
+
+More precisely, T is MVUE of y(0)if Eo(T) = y(®) for all 0¢ © and Varo(T)
+< Vare(T’) for all 0¢ © where T’ is any other unbiased estimator of (0).
+
+Let us discuss some important theorems concerning MVUE.
+
+e A MVUE is unique in the sense that if T; and T2 are MVUE for Y (8), then T;
+= T2.
+
+e Let T; and T2 be the unbiased estimators of (0) with efficiencies e; and e2
+respectively and let p = po be the correlation coefficient between them, then
+(e1e2) — y (1 — e1)(1 — e2) Sp S$ (e1e2) + YA — €1) 1 — e2)
+
+e IfT: isa MVUE of y(®), 8<© and T> is any other unbiased estimator of y(0)
+with efficiency e = eo, then the correlation coefficient between T; and Tz is
+given by p =e, i.e., po = Veo, for all 0<O.
+
+Example: Show that X is a minimum variance unbiased estimator of the mean y
+
+of a normal population.
+
+xy
+1 AS
+
+Since IO)= ee"
+
+3 for —0<x<o
+

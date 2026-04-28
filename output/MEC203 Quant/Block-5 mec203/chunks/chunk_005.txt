@@ -1,0 +1,591 @@
+--- Page 01 ---
+
+Case 2: xi = 0 with equation (17.18) implies x, = ! | Since this is positive, A2 =
+P2
+1
+
+A = Aap — 1 (from x: = 0 and equation (17.19)). A, “Gan For this to
+Pp tl
+
+0, so equation (17.20) implies 2, =
+
+1
+be greater than zero it is required that Oi} >1,thatis /< ( PiP> 2 — p>.
+Pr
+
+Utility equals 8 !
+(1+x,) (p, +I)
+
+kk Dk pe ae I PiP> P>
+’ > > ’ = 0,—, —1,0, :
+(x7,2,°,4,4,',4) Cp, #1 ad
+
+Case 3: By symmetry, the solution is
+
+(vanes a)-| 4.00 P\P2 +1, Py
+
+Po (pty (ptl)
+1
+and for this case to hold it is necessary that P72 _ >l,or/< ( DP» 2 —P,.
+(p, +1)
+
+To summarise, suppose pi = p2 = p, then (pip2)!” — pi = (pip2)'? — p2 = 0. So
+since I > 0, we are in the regime of Case I, and x; = x2 = (I/2p) at the maximum.
+Suppose on the other hand that pi< p2 (the contrary can be worked out similarly).
+Then, po> (pip2)"”?> pi. Thus, considering I > (pip2)!” — pi, we use Case (1), or in
+case of I < (pip2)!? — pi we use Case (3). Case (2), that in which a positive
+amount of good 2 and zero amount of good | is consumed at the maximum, does
+
+not apply.
+
+17.6 LET US SUM UP
+
+In this unit we emphasized on two important tools, which have enormous
+applications in economics viz., unconstrained and constrained optimisation.
+Unconstrained optimisation problem deals with optimisation (ie., either
+minimisation or, maximisation) problems where the domain of the objective
+function is not limited by any constraint. We emphasised the basic theory of
+constrained optimisation, with its division into two main parts viz., constrained
+optimisation in the case of equality constraints and constrained optimisation in
+the case of inequality constraints. There are many real-life economic problems
+for which unconstrained and constrained optimisation techniques are necessary.
+In the case of optimisation under equality constraints, we apply the Lagrangian
+method and in the case of optimisation under inequality constraints, we apply the
+Kuhn-Tucker theory. We also worked out some simple economic problems
+which use these techniques of unconstrained and constrained optimization.
+
+Unconstrained
+and Constrained
+Optimisation
+
+171
+
+--- Page 02 ---
+
+Extreme Values
+
+and Optimisation 17.7 KEY WORDS
+
+Necessary and
+Sufficient
+Condition for
+Optimum
+
+Stationary Point
+
+Theorem of
+Lagrange
+
+Theorem of
+Second Order
+Optimum
+
+The Kuhn-
+Tucker (KT)
+Theorem
+
+172
+
+Given a function z = f(X,,X,,...,%,), the conditions are
+
+obtained as the following:
+
+FOC (Necessary condition) for Maximum
+
+haha = Sy
+
+FOC (Necessary condition) for Minimum
+
+SOC (Sufficient condition) for Maximum
+(-1) | H, > 0 Vi=l,...,n
+
+SOC (Sufficient condition) for Minimum | H, |>0 V
+
+i=l,...,n
+
+In calculus, a stationary point is referred to a point on
+a graph where the tangent to the graph is parallel to the
+x-axis or, equivalently, where the derivative of the
+function equals zero.
+
+Let f:R" > Rand g':R" >R,g*:R" OR,...,2° :R" OR
+, k <n be once continuously differentiable functions.
+Suppose x is a Max or a Min off on the set
+S=Un{xeR"|g'(x)=0,i=1,....k} , for some open set
+U cR’. Then there exist real numbers 1", A1,..., Ak 5
+not all zero, such that
+
+* k * i *
+LDS (x) +>) Ai Dg! (x) = rx».
+
+Moreover, if rank (Dg(x')) = k, then we may put p = 1.
+
+Suppose there exists (x nx1,/ &«1) such that
+Rank(Dg(x’)) =k and Df(x")+ ~~ Dg'(x')=6.
+
+i) A necessary condition: If f has a local maximum
+(respectively for local minimum) on § at point
+x, then x”D°L(x",A")x <0, (respectively for >0)
+for all x e N(De(x )).
+
+ii) A sufficient condition: If x’D°L(x,4’)x<0 ,
+(respectively for >0), for all xeN(Dg(x)), x40,
+
+then x” is a strict local maximum (respectively
+for strict local minimum) of fon S.
+
+Let f:R" >R, and g':R" >R, i = 1,..., k be once
+continuously differentiable functions. Suppose x’ is a
+maximum of f on the set
+S=Un{xeR"|g'(x)20,i=1....,k}, for some open set
+
+--- Page 03 ---
+
+U CR’. Then there exist real numbers u, Ai, ...,Ak 5
+not all Zero such that
+
+* k * i *
+UD (x) +>), Ar Dg! (x") = O1xn-
+
+Moreover, if g'(x") > 0 for some i, then Ai = 0. If in
+addition, RankDgo(x’) = 1, then we may take p to be
+equal to 1. Furthermore, Ai? 0, i= 1,..., k, and Ai > 0
+
+for some I implies gi(x") = 0.
+
+17.
+
+8 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1)
+2)
+
+3)
+
+4)
+
+See the example given in Sub-section 17.2.2.
+
+The objective function is y=x-6, Therefore, from the first order
+
+condition for optimisation, we get 2x=(0). Solving this equation, we have x
+= 0. The second order condition gives that d*y=2>0, which is not a
+
+function of x. Therefore, we have d*y = 2 at x = 0. So, at x = 0, we reach
+the minima of the objective function.
+
+The objective function is y=x°—2x°+x-6. Therefore, we get the first
+
+order condition 3x* —4x+1=0 or, either x = : or, x = 1. Note that
+d’y=6x-4. So, d’y > 0 atx = 1 and d’y < 0 atx = 7 Therefore, at x = 1,
+we have the minima and at x = : we have the maxima.
+
+The objective function is z=x°—2x-y’. The necessary first order
+condition yields 2x—2=Oand 2y = 0. From these two first order conditions
+
+we get x = 1 and y = 0. The corresponding Hessian matrix is | H |= F , ,
+
+so we get that | H, ||2>0and | H, |= 4>0. Therefore, we have the minimum
+
+value of z at x =1 and y = 0.
+
+Check Your Progress 2
+
+1) The Lagrange function of the problem: L(x,A) = x’y + A [200 — 2x — y]
+The FOC for this problem are:
+
+2xy = 2A -(1), x’ = A -(2) and 200 = 2x + y -(3). Solving these three
+equations, we get x. = (200/3), y= (200/3) and 4* = (200/3)’.
+
+Note that CQ satisfied because px> 0 and py> 0.
+
+The second order condition of this problem is —
+
+Unconstrained
+and Constrained
+Optimisation
+
+173
+
+--- Page 04 ---
+
+Extreme Values
+and Optimisation 0 -2 ~1
+
+|H\j=|—2 2(200/3) 2(200/3)|. One can check that this matrix is
+-1 2(200/3) 0
+negative definite. Therefore, second order condition fulfilled.
+
+2) The problem can be solved exactly the same way as done in the previous
+one.
+
+Check Your Progress 3
+1) See the method of solving optimisation problem under inequality constraint
+in Section 6.3. You should able to get x" = 25 and y' = (50/3).
+Note that Lagrangian function is
+L(x, y, A) = xy? + A [100 — 2x — 3x]
+The first order Kuhn-Tucker conditions are:
+0.5x sys - 20 < 0, x = 0, x[0.5x?5y°> - 20] =0
+0.5x°>y°> — 3X < 0, y = 0, y[0.5x°°y° — 3A] =0
+100 —2x — 3x < 0, A> 0, A[100 — 2x — 3x]
+
+2) See the method of solving optimisation problem under inequality constraint
+in Section 17.4. You should able to get x" = 6.1 and y = 6.5.
+
+Note that the Lagrangian function is
+
+L(x, y, A) = (xk —3)(y —2) + A [50 — 5x — 3y]
+The first order Kuhn-Tucker conditions are:
+(y—2)—S5A< 0,x = 0, x[(y— 2) - 5A] =0
+(x—3)-—3A< 0,y = 0, y[(k— 3) — 3A] =0
+[50 —5x —3y] = 0, A= 0, A[S50 — 5x — 3y] =0
+
+17.9 EXERCISES
+
+Ql. f(x, y) = 2xy + 2x — x’ — 2y’, find the optimum of f(x, y).
+Ans. Of/Ox = 2y + 2 — 2x,
+
+Of/Oy = 2x — Ay.
+
+Let of/Ox = 0, —-2x + 2y =-2.
+
+Let Of/dy = 0, 2x — 4y = 0.
+
+Then x*= 2 and y* = 1, 1.e., (2, 1) is a critical point.
+
+O£/0x" = 0/Ox(2y + 2 — 2x) = -2
+174
+
+--- Page 05 ---
+
+Q2.
+
+flay? = d/dy (2x — 4y) =-4
+
+© f/0x/dy = 6/0x(2x — 4y) = 2, or
+
+Of/dyOx = O/dy (2y + 2 — 2x) =2
+
+|H| = 0°f/0x" - 6°f dy? — Of/Exdy - 6’f/Oydx = (—2) x (-4) - 27 =4>0
+
+O£/0x? < 0. (x*, y*) = (2, 1) is a local maximum.
+
+Maximise utility u = f(x, y) = xy subject to the constraint g(x, y) = x +4y =
+240. Here the price of per unit x = Rs. 1 and price of per unit y is Rs 4. The
+
+total income is 240.
+
+Ans. Here the optimization problem is:
+
+Objective Function: u = f(x, y) = xy
+Subject to the constraint: g(x, y) = x +4y = 240.
+
+Step 1: Find out the slope of the indifference curve through the objective
+function. —(y/x)
+
+Step 2: Find out the slope of the budget line 1.e., the constraint. -(1/4)
+
+Step 3: Equate both the slopes (Utility maximization requires both the
+slopes to be equal) to get x = 4y
+
+Step 4: From step 3 use the relation between x and y in the constraint
+
+function to get the optimal/critical values of x & y.
+
+y= 30 and hence x = 120.
+
+Q3. Suppose a consumer consumes two goods, x and y and has utility function
+
+u(x,y)=xy. He has a budget of Rs. 400. The price of x is Px=10 and the price
+of y is Py=20. Find his optimal consumption bundle using the Lagrange
+method.
+
+Ans. Here the optimization problem is:
+
+Objective function: maximize u(x,y)=xy
+Subject to the constraint: g(x,y)=10x+20y=400.
+This is a problem of constrained optimization.
+Form the Lagrange function:
+
+L(y, Wf y)-W(gy)-k)
+
+L(& ,y,wW=xy—p(10x+20y—400)
+
+Unconstrained
+and Constrained
+Optimisation
+
+175
+
+--- Page 06 ---
+
+Extreme Values
+and Optimisation
+
+176
+
+Set each first order partial derivative equal to zero:
+
+OL/Ox=y—10u=0 (1)
+OL/6y=x—20u =0 (2)
+OL/Op= —(10x+20y—400)=0 (3)
+
+From equations (1) and (2) we find:
+
+x=2y
+
+Use x=2y in equation (3) to get:10x+20y=400
+40y= 400
+
+Y =10
+
+X=2Y =20
+
+--- Page 07 ---
+
+UNIT 18 ADVANCED TOPICS IN OPTIMISATION - I
+
+Structure
+
+18.0 Objectives
+
+18.1 Introduction
+
+18.2 Convexity and Concavity
+18.2.1 Convex and Concave Functions and Generalization
+18.2.2 Examples of Convex and Concave Functions
+18.2.3. Differentiable Convex and Concave Functions
+18.2.4 Quasi-Convex and Quasi-Concave Functions
+
+18.3 Constrained Optimisation - Non - Degenerate Constraint Qualifications
+(NDCQ)
+
+18.4 Optimisation with Inequality Constraint(s) - Binding and Non- Binding
+Constraints
+
+18.5 Complementary Slackness Condition and Kuhn-Tucker Formulations
+18.5.1 Complementary Slackness Condition
+18.5.2 Kuhn-Tucker Formulations
+
+18.6 Let Us Sum Up
+
+18.7 Key Words
+
+18.8 Answers/Hints to Check Your Progress Exercises
+
+18.9 Exercises
+
+18.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+e explain the basic optimisation problems with convexity as well as
+
+concavity;
+
+e describe whether the boundary is binding or non- binding while solving
+
+optimisation problems with inequality constraints;
+
+e describe the constrained optimisation and inequality constrained
+
+optimisation; and
+
+e state the complementary slackness condition and Kuhn Tucker
+
+formulations.
+
+177
+
+--- Page 08 ---
+
+Extreme Values
+and Optimisation
+
+178
+
+18.1 INTRODUCTION
+
+Concave functions and homogeneous functions are widely observed in
+economic models. Concave functions serve as spending functions and
+homogeneous functions as demand functions. Cost and profit functions are
+inherently homogeneous and concave. Hence, this unit discusses the concepts
+of concavity and convexity in detail, including quasi-convexity and quasi-
+concavity. Complementary slackness conditions and Kuhn—Tucker conditions
+for the general mathematical programming problem, including equality and
+inequality constraints are also explained as well as non-negative and free
+
+variables are provided along with some applications.
+
+18.2 CONVEXITY AND CONCAVITY
+
+In this section we will learn about the basic concepts of convexity and
+concavity first and then proceed to differentiable convex, quasi/convex and
+
+concave, quasi/concave functions.
+18.2.1 Convex and Concave Functions and Generalization
+
+There are numerous unique and significant characteristics of concave and
+convex functions. Concave and convex functions are important subjects that
+are introduced here along with some of their characteristics. For optimality
+issues involving convex and concave functions, these qualities can be used to
+create adequate optimality criteria and computational frameworks. Convexity
+is a key idea in economics. Convexity is frequently assumed in economic
+models for the budget set of agents. In many cases, we suppose that agent
+preferences are convex and utility functions are (quasi)concave. These facts
+provide us with motivation to examine the (quasi)concave and (quasi)convex
+functions.
+
+Convex functions are described algebraically as follows: a map fis convex
+iff f(@u+(l1—OW)<@ f(u)+(1—@)f(v), for any real numbers u,v,0
+and for all 0<@<1. In the above expression, if the inequality is a strict one,
+the function is strictly convex. For convex functions, a general property is
+that the sum of convex functions is also a convex function. Also, if a convex
+
+function is multiplied by a positive constant, we obtain another convex
+
+function.
+
+In the case of concave map (function), the set below the function must be
+convex. Also, the inequality in the expression above is reversed in the case of
+
+a concave function. We will learn more about it in subsequent sections.
+
+--- Page 09 ---
+
+f(u
+
+(u) 0
+
+: |
+
+|
+
+P |
+
+| R |
+
+| | |
+
+| | |
+
+f°) | | |
+Ho Hy H2 EL
+
+Fig. 18.1: Convex Function v= f(u)
+
+Consider Fig.18.1. For mapping v= f(u) ,let f be a differentiable convex
+function, and suppose u<v and 0<@<1,so that u, =@Qi+(1—-O)v.
+
+Now, let points P, Q, R and S in the wy—plane be defined as shown in Fig. 18.1.
+Since f is convex, R cannot lie above S, therefore the slope of the chord PR
+cannot be more than the slope of the chord PQ. This inequality holds even as 0
+tends to 1, in which case R approaches P along the curve and the slope of PR
+approaches the tangent or slope of the curve at P. Hence the slope (tangent) of the
+curve at P will be less than the slope of the chord PQ. Thus,
+
+fO)-fw)
+
+v-Uu
+
+Ws
+
+Similarly, as 9 tends to 0, we obtain
+
+voy LM=—LW
+fw
+
+Convex function: Assume Sc R” be a convex set and f:S—R. Then f is
+
+called a convex function if for all u,veS and for all O< <1, we have
+
+f(@+(1-O)< F(u)+(1-4)/(-) .. (18.1)
+The map f:S — R is called strictly convex on S if the above inequality is
+true as a strict inequality for each and, u,ve S and 0 €[0,1].
+
+Concave function: Let SR” be a convex set and f:S—R. Then f is
+called a concave function if for all u,v eS and for all OS @<1, we have
+
+S(Q+(1-0)2 F(u)+ (1-9) f(r).
+The function f :S > R is called strictly convex on S' if the above inequality
+
+is true as a strict inequality for each and, u,veS and Oe€[0,1]. Also, f(u) is
+said to be concave on [a,b] iff the function — f(u) is convex on [a,b].
+
+Now we will express the geometric interpretation of convex and concave
+functions. Let uw and v be two distinct points in the domain of f , and
+
+consider the point @:+(1—@) with 6 €[0,1]. So for a convexity f, the value
+
+Advanced Topics
+in Optimisation— I
+
+179
+
+--- Page 10 ---
+
+Extreme Values
+and Optimisation
+
+180
+
+of f at points on the line segment @+(1—@)v_, is less than or equal to the
+height of the chord joining the points [u, f(u)|and [v, f(v)]. For the concave
+
+function, the chord is below the function itself. Hence, a function is both
+convex and concave if and only if it is affine.
+
+18.2.2 Examples of Convex and Concave Functions
+
+Examples of Convex Functions:
+
+1) Any function of the form f(u)=au+b:a,beR.
+
+2) Powers: f(u)=u’;p2l.
+
+3) Powers of absolute value: f(u) =|u|" on R, for p>1.
+4) Exponential: f(u)=e", for any aeR.
+
+5) Every linear transformation taking values in R is convex.
+6) f(u,,u,)=2u; +u; -2uu,.
+
+Examples of Concave Functions:
+
+1) f(u=-w’.
+
+2) fu) =Vu.
+
+3) Any linear function f(u)=au+b:a,beR.
+
+4) The map f(u)=sin(u) is concave in [0,7].
+
+We give below some particularly important instances of convex functions that
+arise very often in practice.
+
+1) Suppose f,, f5.....f, :R" > R be convex maps. Then,
+
+k
+a) f(u)= dic fu), where c,; >0 for j =1,2,3,....,4 is a convex map.
+j=l
+
+b) f(u) =Maxtf,(u), f,(u),.... f,(u)} is a convex map.
+
+2) Assume that function (map) g:R"—R is a_ concave. Let
+
+S={x:g(u)>0}, and define f:S—R" as f(x)= xO . Then, function
+Qix
+f is also convex over S.
+
+3) Consider map g:R—R be a non-decreasing, convex, univariate and let
+
+function h:R"—R be a convex. Then, the composition function
+f:R" SR defined as f(u) = g[h(u)] is a convex.
+
+4) Let function g:R" >R bea convex, and let function h: R" + R” be an
+affine of the form A(w)=au+b, where A is a mxn matrix and b is a
+m X 1 vector. Then, the composite function f:R"—>R defined as
+f (u) = g[A(u)] is a convex function.
+

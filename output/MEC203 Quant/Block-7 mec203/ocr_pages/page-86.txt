@@ -1,0 +1,64 @@
+i i Economic
+Using (24.54) in (24.55) we get Applications of
+
+5 4 Dynamic
+H(t) =(ea}(ps +B) -p FO, 50 ... (24.56) Optimisation
+fa) 0.
+
+Before proceeding for analysis of optimal solution we have following
+observation
+
+i) If we ignore adjustment cost function in equation (24.52a) then the equation
+becomes (24.29). In other words, without adjustment cost the model would
+be practically equivalent to the Jorgenson’s formulation thus yielding
+
+condition analogous to equation (24.33)
+
+ii) Because the adjustment cost function in Hamiltonian formulation is proceed
+with minus sigh and function is convex function, max— G(.) = min G(.)
+
+Maximizing H’ will automatically minimizes—G(.)i.e., maximizing H’ will give
+a minimum adjustment cost there by a maximum capital k* that would in turn
+maximizes profit.
+
+Analysis of Optimal Path
+
+We have two equations; i.e., equation (24.52) and equation(24.56) for analysis.
+
+a) jis the marginal value of installed capital can be interpreted as the present
+
+value of the increase in net revenues that would be provided by additional
+unit of capital, after other inputs have been adjusted pis always positive
+
+because p* and & is always greater than zero.
+
+b) Because of assumption of constant return to scale is constant
+
+OF (.)
+
+ok
+considering o <0 we take from equation (24.56) that w’ is downward
+slopping against increasing capital
+
+c) Setting equation (24.52) to zero
+
+k(t) =Kt) -Bk(t) =0= «(=O .. (24.57)
+
+Setting equation (24.56) to zero
+
+. OF(.)  eG(.)
+O=(r+8)n, po + PY
+(r+98)ut-P ak + ak
+taking r+8=Cy4, constant ort)
+fel
+
+= Cg, a constant.
+
+zc)
+
+=up= — ... (24.58)
+
+d) As G(.)is convex, assuming economy consists of fixed number but large
+identical firms, eq (24.56) implicitly defines the following aggregate
+
+investment function 85

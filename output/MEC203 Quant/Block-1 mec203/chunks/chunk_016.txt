@@ -1,0 +1,140 @@
+Review of Basic —x? on x< land
+Mathematics
+
+2x—-lon x>1
+
+Use x = 1 in both functions not overlooking to the point at x = 1
+since technically that will only be valid for the bottom function. The
+table of values for each function on the specified range 1s:
+
+x f (x)=-x'+4 (x,y)
+-2 0 (-2,-0)
+-1 3 (-1,3)
+0 4 (0,4)
+1 3 (1,3)
+x 2x-1 (x,y)
+1 1 (1,1)
+2 3 (2,3)
+3 5 (3,5)
+
+Sketch the graph. For the top function we used an open dot for the point at
+x = land for the bottom function we used a closed dot at x = 1. In this way
+we make it clear on the graph that only the bottom function really has
+appoint at x=1.
+
+1
+
+oa)
+
+mo
+|
+
+|
+ba
+bo
++
+ta
+1
+
+tn
+
+I
+
+Note that two graphs did not meet at x = land there a blank space in the
+graph.
+
+Q6. Sketch the graph of the following piece wise function.
+x+3 if x<2
+h(x)= x if -2<x<1
+—x+2 if x =1
+
+Ans. In this case we will graph three functions on the ranges given above. So, as
+with the previous example we will get function values for each function in
+150 its specified range and we will include the endpoints of each range in each
+computation. When we graph we will acknowledge which function the end Coordinate
+Geometry and
+
+point actually belongs with by using a closed dot as we did previously. Representation
+; ; f Functi
+
+Also, the top and bottom functions are lines and so we do not need more ees
+
+than two points for these two. We will get a couple more points for the
+
+middle function.
+
+x x+3 (x, y)
+-3 0 (-3,
+0)
+2 1 (-
+2,1)
+x x” (x,
+y)
+2 4 (-
+2,4
+-] 1 (-
+1,1)
+0 0 (0,0)
+1 1 (1,1)
+x -x+2 (x,
+y)
+1 1 (1,1)
+2 0 (2,0)
+
+Q7. Given the following equation 9x? —16y’ = 144
+a) Find the x and y intercepts, if possible, of the graph of the equation.
+b) Find the coordinates of the foci.
+c) Sketch the graph of the equation.
+Ans: a) 9x7/144 — 16y7/144 = 1 or x7/16—y?/9=1 or x°/42-y*/32=1
+The equation is that of a hyperbola with a=4 and b=3.
+To get the x intercept, set y=0 in the equation. Thus, x7/4°=landx=¥4.
+
+For they intercept set x=0.So—y’/3*=1. Without any real solution of the
+equation, we do not get y intercept.
+
+b) Find c first.
+Asc’=a’+b’, from (a) values of a and b can be put to obtain
+c°=47+3" or, =F5
+Thus, foci are F)(5,0) and F(-5,0).
+
+C)
+
+i) Find the asymptotes y = — (b/a) x andy = (b/a) x and plot them.
+Thus, =—(3/4) x and y=(3/4)x
+Then plot the x intercepts
+
+l1)set x=6 and find’ y_ such that 9(6) —16y" = 144 or,
+
+— 16y" =144-324 or,y’=45/4 or,y=3(5)'7/2 and y=-3(5) 17/2. 15]
+Review of Basic
+Mathematics
+
+152
+
+Graph of hyperbola is:
+
+y= -[(2s/4yx
+
+18
+
+y = (Bape
+
+Q8. Suppose you have following rational function: y= 2x* -18/ x*-4. Draw its
+graph.
+
+Ans. Before you draw a T-chart, first find the asymptotes and intercepts. Then
+choose x'sbetween the x-intercepts and vertical asymptotes, to give you the
+additional information n necessary to graph the function.
+
+The vertical asymptotes are at x = 2 and x = —2, the horizontal asymptote is
+at y = 2, the x-intercepts are at x = —3 and x = 3, and the y-intercept is a
+ty=4.5. Now, plot a few additional points between these other points:
+
+x y =2x°-18/ 2x°-4
+-5 1.5
+-2.5 -2.4
+-] 5.3
+1 5.3
+2.5 -2.4
+5 1.5
+

@@ -1,0 +1,59 @@
+Check Your Progress 1
+
+1) Let J be the functional defined by
+1
+J(y) = f(y? +y? +4ye" at
+0
+
+With boundary conditions y(0) = 0 and y (1) = 1 Find the extremal(s) in
+interval [0, 1] for J(y)
+
+22.4 EULER EQUATION IN SPECIAL CASES
+
+Here, we discuss two special cases of EL equation (I) with no Explicit x(t)
+Dependence and (II) with no Explicit ‘t’ Dependence.
+
+22.4.1 Case I: No Explicit x(t) Dependence
+Suppose that the functional is of the form
+JR) = fF v(x’ (0), Ode
+
+Where the variable x(t) does not appear explicitly in integrand. Evidently the
+Euler-Lagrange equation reduces to
+
+140)
+
+oa, (22.13)
+
+avi
+Where C; is a constant of integration. Now a0 oF is a known function of t and
+
+PuG)
+
+x’(t) so that the above equation is first order differential equation in form of
+ass )
+
+x(t). In principle this equation is solvable for x’(t) provided = + 0 (one can
+
+invoke a variant of the implicit function theorem), so that this equation could be
+recast in form
+
+x(t) = g(t, Ci) eee(22.14)
+
+for some function g and then integrand.
+
+22.4.2 Case II: No Explicit ‘t’ Dependence
+
+Another simplification is available when the integrand does not contain the
+independent variable ‘t’ explicitly.
+
+Theorem: Let J be functional of the form
+J(x(t)) = ff v0), x'(@)at and define the function H by
+
+avi)
+
+B x(t),2’(Q)= 0 [3 — VO] (22.15)
+
+Intertemporal
+Optimisation-I
+
+21

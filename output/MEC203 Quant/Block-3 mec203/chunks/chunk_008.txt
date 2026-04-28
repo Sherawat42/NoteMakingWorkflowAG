@@ -1,0 +1,640 @@
+--- Page 71 ---
+
+where F is any anti-derivative (or indefinite integral) of continuous function fon _ Differential Calculus:
+. . . . . Functions of Several
+
+a closed interval [a, b]. This part of the theorem is one that we use is finding area. Variables
+
+It allows us to compute the definite integral of a function by using one of
+
+infinitely many anti-derivatives, or indefinite integrals. Here is a simple example
+
+of the fundamental theorem of calculus:
+
+1
+Joost) at= sin (t)&| =sin (x) = sin(0) = sin(x)
+0
+
+It is important to note that if F(x) is an anti-derivative of f(x) and the function is
+defined on some interval, then every other anti-derivative G(x) off(x) differs
+from F(x) by a constant:
+
+G(x) =f(x)=C
+If we recall the general power rule for integration, taking the integral of a
+
+function will give us a constant. So, there are infinitely many different anti-
+derivatives for any given function.
+
+12.9.1 Evaluation of Definite Integrals
+Let us now consider a few examples using the fundamental theorem of calculus.
+
+Example 12.25 : Evaluate: ¢_ Fat3at
+dx 4
+
+x
+Ans: f4t3dt = J 4)
+dx 3 dx
+
+Use the second part of the theorem and solve for the interval [a, x]
+
+(xt -at) = 4x?
+x
+
+Taking the derivate with respect to x will leave out the constant giving f(x) = 4x°.
+
+Example 12.26 : Evaluate: ae et dt
+x 2
+
+Ans: We need to find out the derivative of the integrand from the interval
+[2, sin(x)]. In other words, From the first part of the fundamental theorem of
+calculus, we get the following:
+
+2
+Let G(x) = Tet at Then G'(x)=e*
+2
+3
+Example 12.27 : Evaluate: |x? dx
+2
+
+3
+Ans: [x?dx = x? B= 39-23 =19
+2
+
+2
+Example 12.28: Evaluate [(t? —3t+10)dt
+0
+
+Ans: | (t? ~3t+10dt=30 se +10t+ce
+
+303
+
+--- Page 72 ---
+
+Calculus
+
+304
+
+2
+So, [(? -3t +10) at = 82 40\-0-2
+32 3
+
+0
+
+Check Your Progress 4
+
+1) What do you understand by fundamental theorem of calculus?
+
+12.10 INTEGRATION WITH CHAIN RULE
+
+We now discuss the area between the graph of y = f(x) and the x — axis by the
+
+definite integral (Fig. 12.7). You will see it gives a positive result for a graph
+above the x — axis, and a negative result for a graph below the x — axis.
+
+y > fx)
+
+X-axis
+
+a b
+Fig. 12.7: Area between the graph of y = f(x) and x-axis
+
+If the graph of y = f(x)is partly above and partly below the x — axis, the formula
+
+given below generates the net area (Fig 12.8). We get the area above the axis
+minus the area below the axis.
+
+Example 12.29: Find the area between y = 7 — x’ and the x-axis between the
+values x = -1 and x = 2 (Fig. 12.8).
+2
+
+2
+Ans: Arca = [7-x?)dx -[(n-38)
+-l
+
+-l
+
+1 1
+-|12-4)]-|1-9-2-0] =18
+
+--- Page 73 ---
+
+Differential Calculus:
+Functions of Several
+Variables
+
+-2 2
+Fig. 12.8: Area between y = 7 — x’ and ordinates corresponding to different values of x
+
+Example 12.30: Find the net area between y = sin x and the x-axis between the
+values x = 0 and x = 2.
+
+Fig. 12.9: Area of curve which is above and below x-axis
+
+Qn
+Ans: Net Area = fosin xdx NetArea = i" sin x dx
+0
+
+=(—cosx)|g"=(-)-C-1) =0.
+
+However, the actual area can be calculated by taking the sum of the positive
+an
+
+values of the following two integrals J and i)
+0 Tt
+
+12.10.1 Integration with Chain Rule and Substitution
+
+Next, we briefly discuss how to change limits in definite integrals in substitution
+
+process. When evaluating a definite integral using u-substitution, how does one
+
+deal with the limits of integration? There are two possibilities. As before, we
+
+have with an integral of the form jf(x)f'(x)dx). We will again let u = f(x), giving
+a
+
+us du = f (x)’ dx. When we make the substitution in the integral, the limits of
+
+integration also change, giving us fudu . Normal integration, as before, gives
+U4
+
+lu
+us “? udu _ ( } . But what are these new limits of integration ujand u2? We
+2
+
+U4 uy
+
+can regard them simply as place holders. When we reverse our replacement,
+substituting sin x for u, the limits of integration also revert to the original a and b.
+
+2\]42 2 b
+This gives us ? udu - (3) -(* ‘) which can be evaluated in the
+2 2 ,
+uy
+
+uy a
+
+2\\2
+standard fashion. Alternatively, after finding a udu = (¢) we could use the
+2
+
+U4 uy
+
+fact that since u=f(x),U = f(b) and uy = f(a), to evaluate directly without
+305
+
+--- Page 74 ---
+
+Calculus
+
+306
+
+reversing the — u-substitution. Using the method, we have
+
+b up VT) ;
+[f(x)f'(x)dx = [udu = (| = A(0y? ~(f(a))?}
+a
+
+M4 f(a)
+
+Example 12.31 : Evaluate the following using u-substitution:
+
+fox (4-x’) dx
+
+Ans. Let u= (4 -x’), then du = —2x dx
+
+1
+T
+
+2
+Example 12.32: Evaluate [ sinxcos xdx .
+0)
+
+Ans. Method 1: Put u= sin x to get du = cos x dx.
+On substitution of u and du the problem reduces to f udu integrating, reversing
+U4
+
+the substitution, and evaluating, we get
+
+u a sin? : 1 T 1 1
+(=) -( 55 | =4|[s ()} sin“ (0) 5 0) 5
+uy
+
+Method 2: As in method 1, we substitute and integrate to find
+
+Ug u2
+sin x cosxdx = J udu = ( —
+2
+
+uy
+
+oman la
+
+uy
+
+Since u = f(x),u4 = f(0) = sin(O) = Oand uz = 5] =sin (5) =1. Thus, we have
+
+Ug
+(5) = rw = = which is the same as the answer we found using method
+uy
+
+1.
+
+zx
+Example 12.33: Evaluate F sin2x cos xdx -
+
+)
+Ans. We make the same substitution as in examples | and 2, u = sin x du=cos x
+du. This gives the integral u’ du, which can be evaluated normally exactly as
+
+U2 .
+fudu . In this case, we find
+U4
+
+--- Page 75 ---
+
+3\ ue 3 n Differential Caleulus:
+Ug i 2 Functions of Several
+fu2du=(4-)| =(S@ \|" = 5 (sin9 (5) -sin80)) =la-oy=1 Variables
+uy 3/\, 3 /|, 3 2 3 3
+
+1
+
+Check Your Progress 5
+
+1) What is the relation between integration and differentiation with respect to
+the use of chain rule?
+
+2) Suppose you are evaluating, integral [4x(2x? + 3)* dx by u-substitution. If
+-l
+you take u = 2x”+ 3, what are the new limits?
+
+-l
+
+12.11 IMPROPER INTEGRALS
+
+We now discuss briefly one special type of definite integral, the improper
+integral. When one of the limits of integration is + 00 or - 00 a definite integral is
+called an improper integral. Such integrals are evaluated using the concept of
+limits according to the following rules:
+
+co b
+i) i} F(x)dx = im Jfeoax
+
+b b
+ii) i) f(x)dx = lim i) f(x)dx
+a—o0
+
+—00 a
+
+Example 12.34: Evaluate Tox
+2
+1x
+: bdx 1 : : :
+
+Ans. Since, | haan +1, the desired integral is
+
+1x
+
+b
+
+lim j= = lim (- ;) =1
+boy x- bowl b
+
+307
+
+--- Page 76 ---
+
+Calculus
+
+308
+
+This integral can be interpreted as the area of the unbounded region between
+
+(x) = —4.y = 0 (the x —axis), andx = 1.
+x
+
+12.11.1 Convergent and Divergent Integrals
+Definition: Let f be a function which is continuous on the closed interval [b,
+
+oo[.We define
+
+b b
+J f(x) dx = limpy_,_.. J f(x) dx
+N
+
+—oO
+
+re : . . b .
+If this limit exists and is finite then we say that the integral f(x)dx is convergent;
+
+otherwise, we say that the integral is divergent.
+Example 12.35: Determine if the integral a dx is convergent or divergent and
+4X
+
+if it is convergent find its value.
+
+Ans: So, the first thing we do is convert the integral to a limit.
+
+oo a
+fedx =lim | dx
+1% 1%
+
+Now, do the integral and the limit.
+
+[ax = limMg_500 IN(a)—In(1) = co
+J
+
+So, the limit is infinite and the integral is divergent.
+
+Example 12.36: Determine if the integral i u
+-«V3—-X
+
+dx is convergent or divergent.
+
+If it is convergent find its value.
+
+Ans: There really is not much to do with these problems once you know how to
+do them. We will convert the integral to a limit/integral pair, evaluate the integral
+and then the limit.
+
+(e) 4 0 1 0
+dx =limp_,_.. | ————dx = limp_,_,.-2\V3-—x] =
+J Box b> J Box b> | i"
+
+limp_5-<o(-2V3 + 2(3 —b)) = -2/3 +00
+So, the limit is infinite and so this integral is divergent.
+
+Definition: Let f be a function which is continuous for all real numbers. If, for
+some real number c, both of T(x) dx and ‘Tf dx are convergent, then we define
+00 c
+fora) Cc ioe) ioe}
+J f(x)dx = f f(x)dx+/f(x)dx and we say that the integral [f(x)dx is
+—00 —2 Cc —2
+
+convergent; otherwise, we say that the integral is divergent.
+
+--- Page 77 ---
+
+Example 12.37 : Determine if the integral {xe dx is convergent or divergent. If
+
+2
+
+it is convergent find its value.
+
+Ans: Since the problem has infinities in both limits we need to split up the
+integral into two separate integrals. Let us choose a = 0 which is a convenient
+point for the evaluation process. The integral then is,
+
+*” —x? 0 —x2 x2
+J xe™* dx = jf xe-* dx+Jfxe* dx
+00 —0 ie)
+
+We can now look at each of the individual limits.
+
+° 2 o 2 1 -2 °
+fxe> dx = lim | xe * dx = lin) =e
+
+boo box] 2 »
+1 14) 1
+mtimssf-5 458" Jo
+
+So, the first integral is convergent. Let us examine the second integral.
+
+° Mi pp 2
+[xe dx = lim bow | xo™ d= tiny ya(—Se™
+
+0 0
+{ 1» 1) 1
+
+=lImp5 | =e +2 /=—
+Thus, the second integral is convergent and we deal with convergent integral. Its
+value is,
+
+oo 2 0 2 eo 2
+
+Jxe™ dx = fxe* dx + Jxe* dx --14,1 <9
+
+-_ 9 0 2 2
+
+Comparison Theorem: Let f and g be functions which are continuous on the
+closed interval [a,). Suppose that f(x) >g(x) >0 for all x in [a,0o).
+
+i) If Tf(x)dx is convergent then ‘Tg(x)ax is also convergent.
+a a
+
+ii) If ‘Ta(x) dx is divergent then ‘Tf(x)ax is also divergent.
+a a
+
+Check Your Progress 6
+1) What is meant by improper integral?
+
+Differential Calculus:
+Functions of Several
+Variables
+
+309
+
+--- Page 78 ---
+
+Calculus
+
+310
+
+2) Determine if the integral sin xdx is convergent or divergent. If it is
+-2
+convergent, find its value.
+
+3) Determine if the integral]
+o(V¥3—x)
+
+dx is convergent or divergent. If it is
+
+convergent, find its value.
+
+12.12 INTEGRATION WITH PARTIAL FRACTIONS
+
+Suppose we deal with integrals of rational expressions of polynomials. For
+
+example, consider an integral like pee You may see that substitution
+x? -x-6
+
+method will not work here. However, if you break the integrand as,
+
+S| Ne i , then the integration can be performed as follows:
+
+x2_-x-6 X-3 x+2
+
+a +11 -{f 44 Jax =f a}-nfc +2),
+x~ -x-6 x-3 x+2
+
+Such a decomposition of the rational expression is called partial fraction
+decomposition. Let us have a quick review of such fractions. We will also
+
+consider some examples and their solutions for better understanding.
+
+a(x)
+are polynomials. We can use decomposition to solve the expression if the degree
+
+Start with a rational expression of the form: ¢(,) — P(x) where both p(x) and q(x)
+x
+
+of p(x) is smaller than the degree of q(x). Thus, you need to remember that partial
+fractions can be considered only if following conditions are satisfied: (i) the
+rational expression has polynomials in numerator and denominator and (ii) the
+degree of the numerator is strictly less than the degree of the denominator. After
+these two conditions are satisfied, we need to find the decomposition for a given
+
+function.
+For example, a partial fractions decomposition for _6 can be performed by
+2
+x*-1
+factoring the denominator such that 6 _ © _ Let us assume that
+x21 (x—1)(x +1)
+6 A B
+
+there are constants A and B, so that . It can be
+
+(x—1)(x+1) (x—1) (+1)
+shown that such constants always exist for the rational function P() if the above
+q(x)
+mentioned two conditions are met. So far, we have
+6 | 6 _ A, B
+x21 (x-1)(x4+1) (x-1) (x #1)
+
+--- Page 79 ---
+
+_ A (x+1) | B (x-1)_ A (x+1) | B (x-1)_ A(x +1)+B(x-1)
+
+~ x=1(x=1)) x 41(x=1) (x=1)(x=1) (x +1) (K=1) (x —1)(x +1)
+6 — A(x +1)+B(x—1)
+
+(x=D(x+1) (K—-1)(x +1)
+
+or.
+
+or,6=A(x+1)+B(x- 1)
+
+Now if we let x = 1
+
+then 6 = A (1+1) + B(1-1) = 2A +0
+
+so that A =3
+
+If we choose to let x = -1
+
+then 6 = A (-1 +1) + B (-I1-1) = (0) -2B
+
+so that B = -3
+
+6 is equal to ss + a3
+
+The decomposition of ___? __
+(x —1)(x +1) x-1 x+1
+
+Here is another important point to consider when applying the method of partial
+
+fractions to the rational function P(™). If the degree (highest power) of p(x)is
+a(x)
+
+equal to or greater than the degree of q(x), then you must rewrite the given
+
+rational function as the sum of a polynomial and a new rational function
+
+satisfying condition (ii) above.
+
+For example, to find a partial fractions decomposition for 2x-3 begin by
+x3 +X
+
+2x-3 2x-3
+
+factoring the denominator such that ar
+x” +X x(x? +1)
+
+Assuming that there are three constants A, B and C, write
+
+2x-3 _ A Bx+c_ A(x? +1) _(Bx+C)K _ AQ +1) +(Bx+ Ox
+
+a vat) wig
+x(x“ +1) X x%4+1- x(x +1) x(x? +1) x(x? +1)
+
+Thus, 2x — 3 =A (x’ +1) + (Bx + C)x
+
+Now if we choose x = 0, then 2(0) - 3= A ((0)’ +1) + B(0) + C (0) =A so that A
+=-3. If we choose to let x = I, where i is an imaginary number, then
+
+21-3 =A (+ 1) + (Bi+ CI=A (C1) + 1) + Bi’ + Ci= Ci -B
+
+so that B = 3 and C = 2. With these values we get a partial fractions
+decomposition
+2x-3 _-3  3x+2-
+
+We can now say that a partial fractions decomposition for =
+x(x? +1) x x2 44
+
+Example 12.38: Let us find partial fractions decomposition of a rational function
+repeated factors in the denominator.
+
+3
+Ans: Let 2x" +5xX—1 A, B + Cc , Dx+E Fx+G
+
+(x41)3(x2 442 X41 (x41)? (x 418 0241) 2412
+
+Differential Calculus:
+Functions of Several
+Variables
+
+311
+
+--- Page 80 ---
+
+Calculus
+
+312
+
+So, once we have determined that partial fractions can be carried out, we factor
+the denominator as completely as possible. Then for each factor in the
+denominator we can use determine the term(s) in the partial fraction
+decomposition.
+
+Example 12.39: Find solution of the integral when degree of the numerator is not
+less than the degree of the denominator.
+
+4 3 2
+Integrate { eee tt dx
+x°+X-2
+Ans:
+4 3 2 _ _
+pF haa = [x2 84 GT Ne = [x2 434 OT) ax
+x“ +x-2 x*+x-2 (x + 2)(x—1)
+
+I(x A +B x= Nox + BO +2) =n +7
+
+x+2 x-l
+let x =-2 so that A(-3)+B(0)=13 > A=—23;
+let x = 1 so that A(0)+B(3)=4 +B =-5
+13 4
+Now j x2 434 3 + ax = |(x? 13-83) dx
+x+2> -1 3 x+2 3x-1
+x3
+
+=~ 43x Bink 2+ 4inx—dc.
+3 3 FS)
+
+Example 12.40: Find solution of the integral when there is a repeated linear
+factor.
+
+Integrate ;_X*? gy
+x?(x+2)
+A x47 (A,B, x
+“ aan” “Nxt x? x42
+or, A(x+2)+B(x+2)+Cx? =x+7;
+let x =Oso that A(0)+B(2)+C(0)= 7>B=7;
+let X=-2so that A(0)+B(2)+C(4)=5>C =>;
+7 5 5
+let x =—1 so that AC) +BO)+CQ)=-A+ 547 =6 DAR-7
+-5 7
+4,2, 5\1 3 (?} 1
+No + dx =|] -| — |-—+} = |— +/-— dx =
+” I i (2): E x2 \4)x4+2
+

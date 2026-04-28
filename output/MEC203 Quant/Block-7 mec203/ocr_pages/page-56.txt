@@ -1,0 +1,59 @@
+ég(. oh Intertemporal
+= Ou, — 8) ~ Hy .-. (23.40) Optimisation-II
+Oxt Oxt
+
+Simplifying equation (23.39a)
+
+oH ég(.) ahi.
+
+OH 9, GW), 1, MO) _9 .. (23.41)
+Out Out Out
+
+We can perform a similar transformation in the transversality conditions, to have
+
+for the infinite horizon case, in terms of the current-value multiplier,
+
+—t xt =0 .. (23.42)
+
+lim x72=0 lime
+To To
+
+when xz is restricted is sign and lim er 7 =0
+T3300
+
+when xy is not restricted in sign or value
+
+23.7 SECOND ORDER CONDITION
+
+In order to determine the nature of optimisation (to determine the functional
+
+value as the one out of minimum or maximum) we need 2"4 order condition.
+For sufficient condition, we calculate
+67J =2™ variation of functional
+
+(Note we minimize 1‘ variation of functional to get necessary condition) * is
+optimal path/trajectory).
+
+2y_" 7H.) s(t) HU)
+oJ= ‘ 0/00 2a) |, 5x(t) + 28x(t) ax(t)au(ty dull)
+
+o2
+vo 2 H(. ) su(t) | dt
+du2 t) a
+
+We know from our earlier discussion that is 87J > 0 then the functional value is
+minimum and if 8°J < Othen the functional value is maximum.
+
+One can write this in matrix and vector form (in quadratic form)
+
+a°H(.) aH.)
+2) feo ax?(t)  Ox(t)du(t) | [8x(t)
+3 Je! [8x(t) :Su(t)] a) ancy | Laut dt ... (23.43)
+
+ax(t)au(t) u(t)
+
+Let the matrix in above equation be A
+
+then A is a symmetric hessian matrix
+
+55

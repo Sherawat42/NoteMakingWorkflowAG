@@ -1,0 +1,551 @@
+--- Page 111 ---
+
+Real Analysis
+
+110
+
+dy, y)=Ix —yl,
+The open sphere S (a, r), with centre a € R, and r >0, a real number, is given
+by
+
+S (a, r) = {x € R: d (x, a) = |x — al<r}, and
+
+S¢(a, r), the closed sphere with centre a € R’, and r >0, a real number, is
+given by
+
+S¢(a, r) = {x € R: d (x, a) = |x —alsr}.
+Example 15.4:
+In the metric space, (R, dz), where, R? = R x R, and dg, the Euclidean distance
+
+de (x, y) = V [(x1 x2? + (v1 yy], for x= (x1, x2, and y= (y1,y2),
+The open sphere S(a, r), with centre a=(a1, a2) € R, and r >0, a real number, is
+given by
+
+S(a, r) = {x € R?: de (x, a) = V [(x] — ay)? + (x2- ay)?/< r}, and
+S‘(a, r), the closed sphere with centre a € R’, andr >0, a real number is given
+by
+
+S(a,r)= S€(a, r) = {x € R?: de (x, a) = V [(x7_-ay)? + (x2- a7] St}.
+
+15.2.3.1.2 Open set, Closed set of arbitrary metric space
+
+Definition Open set of a metric space (X, d): A subset T of X is said to be an
+open set, if for each element x of T, there is an open sphere S(x, €), with ¢ >0 such
+that S(x, ¢)& T. In other words, every member of T is well inside T, and hence, no
+member is a boundary point.
+
+Examples and Non-Examples
+
+i) Jl, 3[U] 5, 7[ is an open set; because (a) every open interval is an open set,
+and (b) union of open sets is open ((Both (a) and (b) are proved in one of the
+theorems that follow)
+
+ii) The semi-closed interval X= [1, 3[ is NOT an open set, as no open sphere ]1
+—e,1 + e[, with ¢ >0, can be contained in [1, 3[. Similarly, closed interval X=
+[1, 3] is NOT an open set, as the no open sphere ]1 —¢, 1 + ¢[, with ¢ >0, can
+be contained in [1, 3].
+
+iii) Fora given real number a each of
+(iii-b) |—~©, al and (iii-c) |a, [ is an open set:
+For (iii-b): Let x €] — ©, a[, then x< a. Lete=a-—x>0.
+
+Then S(x, €) © ]—, al. Hence, the proof of the claim.
+
+--- Page 112 ---
+
+For (iii-c): Basic Concepts of
+Metric Space and
+
+Poi Topol
+Let x €]a, of, then a <x. Let ¢ =x—a>0. Then S(x, €) © Ja, «[. Hence, the oint Set Topology
+
+proof of the claim.
+
+Next, we establish some significant properties of open sets.
+
+Theorem 15.2.3.1.2.1: In a metric space (X, d)
+
+i)
+ii)
+
+Union of arbitrary number of open sets is an open set.
+
+intersection of finite number of open sets is open
+
+iii) The universal set X is an open set
+
+iv) @, the empty set, is open,
+
+v)
+
+Every open sphere S (a, r) is an open sez,
+
+Note: Here, we prove (i) and (ii) only; (iii) and (iv) are proved under check
+your progress; and
+
+v) is proved under Exercises and Answers
+
+Proof
+
+i)
+
+ii)
+
+Union of arbitrary number of open sets is an open set
+
+Let each Xi, be open for i € I, where I is an index set, which may be finite or
+infinite
+
+To show U;<, Xi is open.
+
+Let x €U;e,Xi, then x € Xj, for some particular j. As Xj is open, therefore
+there is an e >0
+
+such that S (x, €) © Xj; and Xj ©U;e,Xi. Therefore, for every x € Uje Xi,.
+Hence, S (x, €) © Uje Xi.
+
+Finite intersection )7_, Xi of open sets is an open set
+Let x EM?_, Xi, where each Xi is open
+If Ni, Xi is @, the empty set, then, by (iv) it is open.
+else, if NL, Xi is NOT @, let x EN}, Xi,
+x € Xi, for each Xi, which is an open set, fori =1, 2, ...,n
+
+As each Xi, is open, for i =1, 2, ..., n, there exists ej >0 such
+that
+
+S(x, €i) S Xi fori=1, 2, ..., n.
+Let ¢ = min {g,} fori=l, 2, ..., n.
+Then, S (x, ¢) © S(x, si) © Xi for each i =1, 2,...,n
+S (x, 8) S NE, Xi,
+
+Thus, for every x€ NL Xi, S (x, €) S NL, Xi, Hence NL, Xi, is
+open.
+
+Definition Closed set of a metric space (X, d): A set T € X is
+said to be a closed if its complement X — T is an open set in X.
+
+111
+
+--- Page 113 ---
+
+Real Analysis
+
+112
+
+Examples 15.5:
+
+i) [1,3] U[5, 7] is a closed set, because (a) every closed interval is a closed
+set, and (b) union of closed sets is closed
+
+(Both (a) and (b) are proved in one of the theorems that follow)
+
+ii) The semi-closed interval X= [1, 3[ is NOT a closed set, because its
+complement] — 0%, 1[ U [3, «[ is not open as no sphere S(3, € ) = ] 3 —¢, 3 + €[
+can be contained in ] — 0%, 1[ U [3, of.
+
+iii) For a given real number a each of
+(iii-b) |— ©, a] and (iii-c) [a, [ is closed:
+
+For (iii-b): For ] — ©, a], its complement is Ja, 2% [, which is
+open.
+
+Hence, the given set is closed.
+For (iii-c):
+For [a, [, its complement ]— ©, a[ is open.
+Hence, the proof of the claim.
+Theorem 15.2.3.1.2.2: In a metric space (X, d),
+i) union of a finite number of closed sets is a closed set.
+ii) arbitrary intersection of closed sets is open
+iii) the universal set X is a closed set
+iv) @, the empty set, is a closed set,
+
+(From Theorems 15.2.3.1.2.1 and 15.2.3.1.2.2, we may observe that the Universal
+set X, and the empty set @ each is both an open set and a closed set.)
+
+Here, we prove (i) and (ii) only; (iii) and (iv) are proved under check your
+progress.
+
+Proof:
+i) Union of a finite number of closed sets is a closed set.
+Let Ci, i= 1, 2, ..., n be n closed sets.
+Consider the complement of their union
+X—(U_, Ci), which, by De Morgan’s Law,
+=MiL, (X-Ci), where each X - Ci, by definition, is open.
+Also, we have proved a finite intersection of open sets is open.
+Hence, the proof.
+ii) intersection of close sets is closed
+The proof is exactly on the lines of the above proof.
+Let Cj, i€ I, be arbitrary number of closed sets.
+Consider the complement
+
+X— Nie Ci by De Morgan’s Law,
+
+--- Page 114 ---
+
+=Uije;(X-Ci), where each X - Ci, by definition, is open. Basic Concepts of
+Metric Space and
+Also, we have proved union of open sets is open. Point Set Topology
+
+Hence, the proof.
+Check Your Progress 2
+
+1) For the metric space (X, d), with
+
+d: X x X> R, such that for x, y € X,
+| Oifx=y
+d(x, y) = Lifx#y,
+
+find S (a, 1) and S°(a, 1), respectively the open and closed spheres of radius
+1, and centred at a.
+
+15.2.4 Convergence, continuity, connectedness and compactness
+in metric space
+
+In Unit 9 of the previous block, and Unit 12 of the current block, we discussed
+the concepts of convergence of sequences, and continuity of functions, for R, set
+of real numbers, equipped with Euclidean metric, and then extended these
+
+concepts to R" the n-dimensional Euclidean space.
+
+113
+
+--- Page 115 ---
+
+Real Analysis
+
+114
+
+Here, we extend these concepts to metric space, and in the next section, extend
+
+these to topological space.
+
+Our discussion is limited to just introduction of the concepts, and to the
+statements of some relevant and directly applicable theorems without proofs.
+15.2.4.1 Convergence of a sequence in metric space
+
+Definition Let (X, d) be a metric space, with X # @, and metric d on X. Further,
+let (Xn) = (X1,X2,..., Xn ...) be an infinite sequence of points of X. Then, we say
+
+that the sequence (Xn) is convergent if there exists a point x in X such that for
+each ¢ > 0, there exists a positive integer k, such that d(xn, x) < ¢; for all n>k.
+
+In the case of a metric space, the definition given above can be equivalently
+stated (without proof) as follows:
+
+Theorem 15.2.4.1.1: In a metric space, a sequence (Xn) = (X1,X2, ..-) Xny «.) Of
+points of X. is said to be convergent if for each open sphere S (x, &), €>0,
+centered on x, there exists a positive integer k such that x, is in S(x, ¢) for all n
+>k.
+
+Next, we extend the concept of continuity of a real-valued real function to that of
+
+a function from one metric space to another metric space.
+15.2.4.2 Continuity of a function in metric space
+
+Let (Xi, di), for i= 1, 2, be two metric spaces. Then a function
+f: X, 3X2
+
+is said to be continuous at point x = xoof Xi,
+
+if for each ¢ > 0, there exists a real number 6 >0, such that for all points x in X1,
+satisfying
+
+di(x, xo) < 6 imply dz (f(x), f(xo)) < €.
+
+It needs to be noted that points f(x) and f(xo) belong to X2.
+
+The above definition of continuity is exactly on the same lines as that of
+continuity of real valued real function discussed in Unit 9. The examples and
+
+problems discussed over there can be included here also, because this definition
+of continuity subsumes the definition of continuity given in Unit 9.
+
+Next, we state two theorems, without proof, about continuity of a function
+
+between metric spaces.
+
+Theorem 15.2.4.2.1: Let (Xi, di), for i= 1, 2, be two metric spaces. Then a
+function
+
+f: X1 >X2
+
+is continuous at point x = xo of Xi, if and only if
+
+--- Page 116 ---
+
+for each open sphere, say S2 in X2, with centre f(xo) and radius ¢>0, there is an
+open sphere Si in X having centre xo and radius 6 >0 such that f(S1), the image
+of S1, in X2, is contained in the sphere Sz.
+
+As every open sphere is an open set, the above theorem may be stated as
+
+Theorem 15.2.4.2.2: Let (Xi, di), for i= 1, 2, be two metric spaces. Then a
+function
+
+f: Xi >X2
+is continuous at point x = xo of Xi, if and only if
+
+for each non-empty open set, say S2 in X2, there is an open set Si in X1 such that
+f(S1), the image of S:, in X2, is contained in So.
+
+Theorem 15.2.4.2.3: Let (Xi, di), for i= 1, 2, be two metric spaces. Then a
+function
+
+f: X1 >X2
+
+is continuous at point x = xo of Xi, if and only if for every sequence (Xn) = (x1,
+X2,..., .-.) Which converges to xo, then the sequence (f(xn)) converges to f(xo) in
+X2, i. e., symbolically,
+
+if and only if Xn > xo implies f(xn) > f(xo).
+15.2.4.3 Connectedness of a set in a metric Space
+A set S in a metric space (X, d) is said to be connected, if it cannot be
+
+represented as the union of two or more disjoint non-empty open sets in the
+
+metric space.
+We state some theorems without proof.
+
+Theorem 15.2.4.3.1 A set S in a metric space (X, d) is connected, if and only if it
+
+cannot be represented as the union of two or more disjoint non-empty closed sets.
+
+Theorem 15.2.4.3.2 A subset of R, equipped with Euclidean metric, is connected
+if and only if it is an interval—whether open, semi-open, or closed.
+
+Example 15.6:
+
+Example 1: In the Euclidean (metric) space R of real numbers, each of the
+intervals ]3,7[, [3, 7[, [3, 7] is a connected set. In general, any interval—
+whether open, semi-open, or closed—is connected.
+
+Example 15.7: The set S =/ 3, 7/ UJ ]10, 16[ is NOT connected in Euclidean
+(metric) space R of real numbers. In general, union of two non-overlapping
+intervals—whether open, semi-open, or closed— is not connected.
+
+Basic Concepts of
+Metric Space and
+Point Set Topology
+
+115
+
+--- Page 117 ---
+
+Real Analysis
+
+116
+
+15.2.4.4 Compactness of a set in a metric space
+
+In the previous unit, we have already discussed the concept of compactness for
+Euclidean space R, where we mentioned that a subset of R is compact, if it is
+closed and bounded. There, we also discussed the related Bolzano-Weierstrass
+Theorem and its Economic Applications. Here, we briefly discuss extension of
+the concept of compactness to a general metric space, and in the next section, we
+extend the concept further to a topological space.
+
+We already know that, in a metric space, a closed set is complement of an open
+set. In order to know what is compact set in a metric space, \et us know what is
+bounded set in a metric space, through the
+
+Definition: A subset S of X in a metric space (X, d) is called bounded if there
+exists r > 0 such that for all s and t in S, we have d (s, t) <r. The metric space (X,
+d) is a bounded metric space (or d is a bounded metric) if X is bounded as a
+subset of itself.
+
+Example 15.8: Every finite set in a metric space is compact, i. e. it is closed and
+bounded.
+
+Let {a1, a2, ..., an} be a finite set of metric space (X, d). Further,
+let
+
+Max = {d(xi, xj), 1,j =I, 2, ..., n, then,
+by definition, for any pair (xi, xj), we have d(xi, xj) < Max
+Thus, a finite set is a bounded set.
+Next, we show X — {a1, a2, ..., An} is a closed set.
+
+For this purpose, first of all, we know that the universal set X of metric space (X,
+d) is open. Consider
+
+X— fai, a2, «5 an} = (X— {arf) U (X- {a2}) VU... U(X fai}JU ... UX fan},
+
+The set {a1, a2, ..., an} would be closed, if we show each X— {aj} is open set, as
+follows:
+
+Let y € X— {aj}, then y # aj. Let d (y— ai) =, and then ¢ >0.
+
+Then S(y, ¢/2) does not contain aj, In other words,
+
+The sphere S(y, ¢/2) is completely contained in X— {ai}. Hence,
+X-— {ai}, is open for i=1, 2, ..., n,
+
+And therefore, the set {a1, a2, ..., an} is closed.
+
+Next, we discuss the topic of Topology, which in one sense is further
+generalization of the concept/discipline of Metric Space.
+
+--- Page 118 ---
+
+Metric Space and
+. . . Point Set Topology
+Let us again look at the two figures below, where the LHS gives a sort of aerial
+
+view of Delhi Metro Network, and the RHS shows a type of map available within
+a Metro rail.
+
+As mentioned earlier, by losing sense of exact distance and exact angle, we get
+a map which is much more comprehensible to the travellers.
+
+Also, in real life problems, we encounter situations, for which no useful metrics
+are defined, or even can be defined, but which—for solution of the relevant
+problems—require the concept of continuous function to be used. For such
+situations/ problems, it is necessary for us to liberate our concept of continuity
+from its dependence on metric spaces.
+
+The discipline of topology, being a generalization of both metric space and of
+Euclidean geometry, ignores
+
+i) the concept of distance, between two points, which forms the
+basis of Metric space, and
+
+li) the concepts of distance, angle, and geometric congruence
+etc. of Euclidean Geometry.
+
+Topology uses the concept of open set as its fundamental concept. The concept
+of ‘open set’ was discussed for a general metric space, and also for various
+Euclidean geometries. In all of these, the concept of distance was used in
+defining open sphere, which, in turn was used to define the concept of open set.
+
+Repeating for the sake of emphasis, in topology, we take the concept of OPEN
+SET as its fundamental concept, completely ignoring the concepts of
+distance/metric, angle, geometric congruence etc.
+
+Most of the concepts and theorems etc. of Metric space—based upon, or
+using—the concept of OPEN SET, may be generalized, or carried over almost
+directly, to the corresponding ones in Topology. Also, in this respect, Theorem
+15.2.4.2.2 shows that crucial concept of ‘continuity’ can be also discussed in
+terms of open sets only.
+
+117
+
+--- Page 119 ---
+
+Real Analysis
+
+118
+
+15.3.1 Basic Definitions
+
+The concept/ discipline of topology on a set X is defined, developed and
+discussed in terms (i) subsets of X, and (ii) unions and intersection operations on
+the subsets.
+
+For defining the concept of topology, briefly we recall, from Unitl, the concept
+of Powerset of a set:
+
+The set of all subsets of a given set A is called Power Set of A, and is denoted as
+P(A).
+
+For example, if A={1, 2, 3}, then P(A) = { @, {1}, {2}, {3}, {1, 2}, {1, 3}, {2,
+3}, U1, 2, 33}.
+
+Topology: For a given non-empty set X, a topology on X is the ordered pair (X,
+
+T), where T is a collection
+
+of subsets of X, (i. e. T & P(X), the power set of X), satisfying the following
+conditions
+
+i) the universal set X € T
+
+ii) the empty set 6 € T
+
+iii) the union, of any number of sets from T, is a set in T;
+
+iv) _ the intersection, of any finite number of sets from T, is a set in T.
+
+In other words, (X, T) is topology, if T is closed under (i) union of sets, and (ii)
+finite intersection of sets, apart from T having X and @ as its members.
+
+A topology (X, T) is also called a Topological Space.
+
+Open Set: Each set in T is called an open set of the topological space (X, T).
+And, a set is open only if it belongs to T. Thus, in every topology, the universal
+set X, and the empty set ® are open sets.
+
+Closed Set: A subset S of X is said to be closed, if its complement X —S is in T.
+Thus, in every topology, the universal set X, and the empty set @ are closed sets
+also.
+
+Neighbourhood of a point x, or a set S, in topological space (X, T): A
+neighborhood of a point x (or a set S), in a topological space is an open set (i. e,
+is a member of T) which contains the point x (or the set S).
+
+It may be noted that that for different collections of subsets of X, we get
+different topologies on X.
+
+Example 15.9: Let X be a non-empty set, and let T = {@, X}, where @ is the
+empty set, and X is the universal set. The (X, T) is a topology.
+
+The first two conditions (i) the universal set X € T, and (ii) the empty set @ € T,
+are obviously satisfied.
+
+--- Page 120 ---
+
+The other two topological conditions are satisfied, as explained below.
+iii) Only possible union of sets in T is X U @ = X, which belongs to T
+iv) Only possible intersection of sets in T is X M @ = @ which belongs to T.
+
+Example 15.10: The ordered pair (X, P(X)), is a topology on X, where X is a
+non-empty set, and P(X) is the power set of X.
+
+The first two conditions (i)the universal set X € T, and (ii) the empty set @ € T,
+both being in P(X) are satisfied.
+
+The other two topological conditions are satisfied, as explained below:
+As P(X) is the set of all subsets of X, hence,
+iii) union of any number of subsets of X—being itself a subset of X—is in P(X).
+
+iv) intersection of any number of subsets of X—being itself a subset of X—is in
+P(X).
+
+This topology is called the discrete topology on X.
+
+Example 15.11: Let (X, d) be a metric space, and T= {S: S is an open set in the
+metric space (X, d)}. Then, (X, T) is a topological space. The topological space
+(X, T) is called topology induced by the metric space (X, d), or topology on X
+induced by the metric d.
+
+In a metric space (X, d), the universal set X, and the empty set @ are always
+open, hence both belong to T.
+
+The other conditions are satisfied by Theorem 15.2.3.1.2.1, which states that in a
+metric space (X, d)
+
+i) Union of arbitrary number of open sets is an open set.
+
+ii) Intersection of finite number of open sets is open.
+
+15.3.2 Continuity, connectedness and compactness in topological
+space
+
+Each of the above-mentioned concepts for topological space, is obtained by
+generalizing the corresponding concept for metric space.
+
+15.3.2.1 Continuity of a function in topological space
+
+Let (Xi, Ti), i =1, 2 be two topologies, and f:X: > X2 be a mapping of one
+topological space into the other. Then, f is said to be continuous at a point Xo of
+Xi, if for each neighbourhood H of f(xo) in X2, there exists a neighbourhood G of
+xo in X1 such that f(G) © H.
+
+15.3.2.2 Connectedness of a set in a topological space
+
+The intuitive idea behind connectedness—is similar to that of continuity of
+functions from one domain to another; but here, it is about a set in the domain,
+
+Basic Concepts of
+Metric Space and
+Point Set Topology
+
+119

@@ -1,0 +1,522 @@
+
+--- Page 1 ---
+
+moment about mean describes the symmetry or skewness (ic., lack of _ Probability
+Distributions-I
+
+symmetry) of the distribution of a random variable.
+
+We state a few important theorems on moments without going into details as
+they have been covered in the unit on probability.
+
+1) 0? =p -p?0?
+2) Ifthe random variable X has the variance o” , then Var (aX + b)= a*o*
+
+3) Chebyshev’s theorem: To determine how o or o” is indicative of the spread
+or the dispersion of the distribution of the random variable, Chebyshev’s
+theorem is very useful. Here we will only state the theorem:
+
+If u and o” are the mean and variance of a random variable, say X, then for any
+constant k
+
+P(\X-u|<k.o)=I-1/P ; 0 #0
+
+p-k.o utk.o
+Fig 26.5: Chebyshev’s Theorem
+26.6.2 Moment Generating Functions
+
+Although moments of most distributions can be determined directly by
+evaluating the necessary integrals or sums, there is an alternative procedure,
+which some times provides consider able simplifications. This technique is
+known as the technique of moment generating function.
+
+The moment generating function of a random variable X, where it exists is given
+by,
+
+n
+M,.(t) =E(e%) = Ye™(x); when X is discrete and
+i=1
+
+oe)
+M,(t)=E(e%)= fe™f(x)dx ; when X is continuous
+
+The independent variable is t, and we are interested in values of t in the
+neighbourhood of 0. To explain why, we refer to this function as a “moment
+generating function”. Let us substitute for e™ with its Maclaurin’s series
+expansion as follows:
+
+e®=]+txtt?x?/2 1413x3/3 Heo. HUG Yee ecececcceceeeceeeeeeens
+
+131
+
+--- Page 2 ---
+
+Probability and
+Probability
+Distributions
+
+132
+
+Thus, for discrete case we get,
+
+Mx(t}=E(e%)= Se™f(x) = Sf(x) EE, ef
+i i=1
+
+(1ttxt+t?x?/2 1443x3/3 Ie. ttt Meee )
+
+u u 2/5 Sy2 3 paywy3 Typ wyt
+f(x) + td xf(x)+t©/2) YS x“F(x)t+t? /3 SY xr f(x)+...4t Jr Sx f(x) +...
+i=1 i=1 i=1 i=1 i=1
+=14+tytt/2!. Mot... ttleloweti.
+
+Thus, we can see that in the Maclaurin’s series of the moment generating function
+of X, the coefficient of t'/r! is p’:, which is nothing but the r" order moment about
+the origin. In the continuous case, the argument is the same.
+
+To get the r™ order moment about the origin, we differentiate M;(t) r times with
+respect to t and put t=0 in the expression obtained. Symbolically,
+
+L-=d"Mx(t)/dt"|-0
+An example will provide more clarity.
+
+Example: Find the moment generating function of the random variable whose
+probability density is given by
+
+F(x)=e™ if x>0
+0 otherwise
+and use that to find the expression for w’,.
+
+By definition,
+
++00 (oe) co
+M,(t)=E(e%)= f eM f(x)dx = fe%e-* dx = fe*( ax =1/1-t fort <1
+00 0) 0
+
+When |t|<1,the Maclaurin’s series for this moment generating function is
+
+M(t) =1 ++? +P +Ht44. 2. tte =14+ 1 14/1 142 17/2143 1.
+[3 I+... tr !et/r Ite.
+
+Hence, w’.=d"M(t)/dt'|-o=r ! for r= 0,1,2...
+If ‘a’ and ‘b’ are constants, then
+
+1) M,,,()= Ee") =e" M0)
+
+2) M,,(t)=E(e””) = M, (64)
+
+3) M(x+a)/b(t) = E(e*?””) =e" M (t/b)
+
+Among the above three results, the third one is of special importance. When a
+= —pandb = 6M x_1)/o(t) = Ee" #)/?) = et!) M, (t/c)
+
+--- Page 3 ---
+
+Check Your Progress 2
+
+26) Given X has the probability distribution f(x)=1/8.°Cx for x=0,1,2,
+and 3, find the moment generating function of this random variable and
+use it to determine pi; and 115.
+
+26.7 LET US SUM UP
+
+In this unit, we learnt about the various concepts related to probability
+distribution. We understood how random variables are always generated with a
+particular pattern of probability attached to them. Based on that, we discussed the
+probability distributions and their properties. We defined the random variable and
+made a broad distinction of the probability distributions based on whether the
+random variable is continuous or discrete. Then we discussed how the moments
+of a probability distribution describes the distribution completely; how the
+technique of moment generating function could be used to obtain the moments of
+any probability distribution.
+
+26.8 KEY WORDS
+
+Continuous Random :__ Ifa random variable can take any value with in its
+
+Variable range, then it is called a continuous random
+variable.
+
+Discrete Random : Ifarandom variable takes only countable number of
+
+Variable values and there are no possible values of the
+
+variable located between two juxt a posed values of
+the variable, then it is called a discrete random
+
+variable.
+Probability : Probability distribution of a random variable is a
+Distribution statement specifying the set of its possible values
+
+together with the respective probabilities
+
+Probability Mass : Often the probability of the discrete random
+
+Function variable X assuming the value x is represented by
+f(x), f(x) = P (X = x) = probability that X assumes
+value x. The function f(x) is known as _ the
+probability mass function (p.m.f.) given that it
+satisfies following two conditions:
+
+Probability
+Distributions-I
+
+133
+
+--- Page 4 ---
+
+Probability and
+Probability
+Distributions
+
+134
+
+1) f()>0
+
+2) Df(xi)= 1h fe
+
+Probability Density : A continuous random variable having a probability
+
+Function distribution f(x) which is a continuous on-negative
+function, gives the probability that the random
+variable will lie in a specified interval when
+integrated over the interval, 1.e.,
+
+P(e <x<d) ={ Foods
+
+The function f(x) is called the probability density
+function (p.d.f.) provided it satisfies following two
+conditions
+
+1) f(x)>0
+
+2) Ifthe range of the continuous random variable is
+
+b
+(a,b) integration J St (x)dx =1
+
+26.9 ANSWERS TO CHECK YOUR PROGRESS
+EXERCISES
+
+Check Your Progress 1
+
+1) A p.m.f. must satisfy the following two properties
+i) f(x)20
+
+ii) Sf0G4) <1 f(x) = 1
+i=1
+
+Using the second property, we get 10k? + 9k — 1 =0. It gives two values of k,
+viz., -1 and 1/10. Clearly, k cannot take the value -1 (as f(X = 1) =k and f(x)is
+always non-negative).Given k =1/10 rest is merely algebra.
+
+2) i) Cannot, (since, f(x=1) < 0 and probability cannot be negative
+
+A
+ii) Yes, can be a p.m.f since (f(x) 20 and f(x) =1
+0
+
+A
+iii) Cannot since (f(x)) 2 0 but ¥f(x)#1
+0
+
+Check Your Progress 2
+tx 3 tx 13 t t t t
+1) Mx(t)=E(e™)= & e% 2° Cy = 1/8 (1+ 3e! + 3e2' + e3') = 1/8 (1 +e!)
+i=0
+wi=M;(0)=3/2
+1o=M;(0)=3
+
+--- Page 5 ---
+
+26.10 EXERCISES
+
+Q1. A fair coin is tossed twice. Let X be defined as the no. of heads shown. Find
+the range of X and its probability mass function Px.
+
+Ans. The sample space S = {HH, TT, HT, TH}
+The no. of heads can be 0,1,or 2.
+So, R(x) = {0,1,2}
+
+The probability mass function Px(x) = P(X = x) for x = 0,1,2
+
+Px(0) = P(X = 0) = 4 [ i.e. probability of getting no head]
+
+Px(1) =P(X=1)=%+%=%
+Px(2) = P(X= 2) ="%
+
+Q2. From the below given p.m-f, find the value of r.
+
+Y 0 1
+
+P(Y=y) 0 2r
+
+3r
+
+61?
+
+Ans. We know, > P(yi)=1.
+Thus,
+0+ 2r+3r+6r=1
+Sr+ 6r?-1=0
+6r? + 6r—r-1=0
+6r(r + 1) -1(r + 1) =0
+(6r—1)(r+1)=0
+So, 6r-1=Oandr+1=0
+
+r =-1 is not possible as the value of probability lies between 0 and 1.
+
+Thus, r= 1/6
+
+Therefore, the value of r from the above stated PMF is 1/6.
+
+Q3 What are the two conditions for probability density function?
+
+Ans. The probability density function will only be valid if it meets the following
+
+conditions:
+
+1) f(x) should be non-negative for all values of the random variable.
+2) The area underneath f(x) should be equal to 1.
+
+Probability
+Distributions-I
+
+135
+
+--- Page 6 ---
+
+Probability and
+Probability
+
+Distributions probability density function?
+
+Q4. What is the difference between the probability mass function and the
+
+Ans. The main difference between the probability mass function (PMF) and the
+probability density function (PDF) is that PDF is used to describe the
+continuous probability distribution whereas PMF is used to describe the
+discrete probability distribution.
+
+136
+
+--- Page 7 ---
+
+UNIT 27 PROBABILITY DISTRIBUTIONS-II
+
+Structure
+
+27.0 Objectives
+
+27.1 Introduction
+
+27.2 Joint Distribution
+
+27.3. Marginal Distribution
+
+27.4 Three Important Probability Distributions
+27.4.1 Binomial Distribution
+27.4.2 Poisson Distribution
+27.4.3 Normal Distribution
+
+27.5 Let Us Sum Up
+
+27.6 Key Words
+
+27.7 Answers/Hints to Check Your Progress Exercises
+
+27.8 Exercises
+
+27.0 OBJECTIVES
+
+After going through this unit, you should be able to
+e discuss the concept of joint and marginal distribution;
+
+e explain the three most common probability distributions (binomial, poisson
+and normal); and
+
+e solve questions related to these three distributions.
+
+27.1 INTRODUCTION
+
+The previous unit has elaborated on the concept of random variables and the
+basics of probability distribution. This understanding would serve as the basis
+of the topics that we are going to cover in this unit. Uptil now, we have
+introduced the probability models involving only a single random variable.
+This unit will explain how probability modelling changes when we are
+interested in more than one random variable at the same time. Therefore, we
+would discuss about joint distribution, the associated marginal distribution and
+further the case of how to represent these when variables are independent.
+Additionally, three very commonly used probability distributions would be
+discussed, namely: binomial distribution, poisson distribution and normal
+distribution.
+
+137
+
+--- Page 8 ---
+
+Probability and
+Probability
+Distributions
+
+138
+
+27.2 JOINT DISTRIBUTION
+
+After having discussed about the random variables and the basics of probability
+distribution, we are now proceeding to the topic of joint distribution.
+
+Very commonly, there might arise situations where we are dealing with more
+than one random variable. This concept of joint distribution allows us to
+understand the relationship between multiple events happening at the same time,
+e.g., from a deck of 52 cards, the joint probability of picking up a card that is
+both red and 6
+
+Let us denote two events A and B and these be described by random variables X
+at value x and Y at value y. So, PPA MN B) = P(X =xN Y=y) = P(X =x, Y=y)
+and this expression is referred to as the joint probability of X=x and Y=y.
+
+More formal way to describe the same concept is as follows:
+
+If X and Y are discrete random variables, then the function given by f(x,y)=
+P(X=x, Y=y) for each pair of values (x,y) within the range of X is called the joint
+probability distribution of X and Y.
+
+Thus a bivariate fucntion can serve as the joint proability distribution of a pair
+of discrete random variables X and Y if and only if the values of f(x, y) satisfies
+the condition:
+
+i) f(x,y) =O for each pair of values (x,y) within its domain
+
+il) + > fey) where the double summation extends over all possible points
+x y
+
+(x,y) within its domain.
+
+Example: Determine the value of k for which the fucntion given by
+f(x, y) =kxy; for x = 1, 2, 3; y = 1, 2, 3 can serve as a joint distrbution.
+
+Ans. Substituting the values of x and sy we get:
+f(x,= 1, y = 1) =k;f(1,2) = 2k; (1,3) = 3k;
+
+(2,1) = 2k; f(2,2) = 4k, f(2,3) = 6k; f(3,1) = 3k; and f(3,2) = 6k, f(3,3) = 9k
+
+We now have to check the condtions for the joint probability distribution: k > 0
+and
+
+~>dXf(% y) =k + 2k + 3k + 2K + 4k + 6K + 3k + 6K + OK =1
+
+xy
+
+1
+So that 36k = 1 and k = —.
+Oo a an 36
+
+If we have more than two discrete random variables i.e., X4, X9,...,Xp, then the
+joint p.m.f of the variables is the function,
+
+If the variables are continuous, the joint p.d.f of Xj,...,X, 1s the function
+f(X4,X2,..-,X,) such that for any n intervals [aj,b4],...,[aq, On],
+
+--- Page 9 ---
+
+by bp
+
+a, an
+
+Example: Assume we have a corpus of 100 words. Table 27.1 depicts the words
+and the associated frequencies and probabilities of each of those words.
+
+Table 27.1: Frequencies and Probabilities of 100 words
+
+W c(w) P(w) x y
+Shall 5 0.05 5 1
+Up 8 0.08 2 1
+Next 5 0.05 4 1
+AS 5 0.05 2 1
+Fore 3 0.03 4 2
+To 10 0.1 2 1
+We 12 0.12 2 1
+Some 8 0.08 4 2
+Will 30 0.3 4 1
+BBC 14 0.14 3 0
+
+Here random variable X denotes the length of the word and Y denotes the
+
+number of vowels in the word.
+
+Now, let us calculate f(x,y)= P(X=x, Y=y) taking different values of the random
+
+variable defined here (refer Table 27.2).
+f(x = 4,y = 2) = P(Fore) + P(Some) = 0.03+0.08 = 0.11
+
+f(x = 3,y = 0) = P(BBC) = 0.14
+Table 27.2: Calculation of f(x, y)
+
+x
+2 3 4 5
+0 0 0.14 0 0
+1 0.35 0.3 | 0.05 | 0.05
+2 0 0 0.11 0
+
+Moving forward, it becomes imperative to also mention about the special case of
+
+the theorem of joint distribution of independent random variables. According to
+this theorem, if X and Y are independent, then f(x,y) = fx(x).fy(y) for all values
+
+of x and y. This can also be stated in an alternative manner: We say that the
+random variables Xi, X2, . . ..Xnare independent if for every subset Xj,, Xi,,..., Xi,
+
+of the variables, the joint p.m.f or p.d.f of the subset is equal to the product of the
+
+marginal p.m.fs or p.d.fs.
+
+Probability
+Distributions-II
+
+139
+
+--- Page 10 ---
+
+Probability and
+Probability
+
+Distributions F(x,y)=P(X<x%,Y<y)= © Df(s,t);for-©<xX<a-o<y<oo
+xss yst
+
+If X and Y are discrete random variables the function given by
+
+where, f(s,t) is the value of the joint probability distribution of X and Y at (s, t) is
+called the joint distribution function or the joint cumulative distribution of X and
+Y.
+
+A bivariate function with values f(x, y) defined over xy plane is called joint
+probability density function of two continuous random variables X and Y if and
+only if
+
+P[X, Y € A] = Jf(x, y)dxdy; for any region in the x y plane.
+A
+
+Similarly, a bivariate function can serve as joint probability density function of a
+pair of continuous random variable if its values f(x, y) satisfy the conditions
+i) f(x,y) =O0j;-00< x < W}-010 < y< 00
+
+ii) i i f(x, y)dxdy =1
+
+—0O0 —oO
+
+Example: Given the joint probability density function of two random variable X
+and Y
+
+3
+x(x+ y)=; for0<x<1/2;1<y<2
+LOGY) = 5
+
+0; elsewhere
+
+y
+
+Til : IV
+
+Fig. 27.1: Joint Probability Density Function of X and Y
+
+140

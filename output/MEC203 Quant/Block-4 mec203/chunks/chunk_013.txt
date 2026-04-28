@@ -1,0 +1,678 @@
+--- Page 121 ---
+
+Real Analysis
+
+120
+
+the idea is that we can trace our path from one point in the domain to another,
+without picking up our pencil.
+
+Formally, we say a set S in a topological space (X, T) is connected if S = A UB,
+with both A, and
+
+B being open in X (i. e., A, BE T), with A U B = @ then either A= @ or B= @.
+In other words, in a topological space (X, T), a set S € T is connected if it cannot
+be written as the disjoint union of two or more non-empty open sets.
+
+Next, we state a theorem, without proof, as the proof is quite complicated, despite
+the claim appearing to be quite simple/obvious.
+
+Theorem: In (R, d), with R, the real-number set, and d (x, y) = |x — y |, for any
+
+two real numbers x and y, any interval in R, say [a, b] with a <b, is connected.
+Examples and Non-examples:
+
+Example 15.12: In the topology, (R, T). being induced by mod function |x — y |,
+each of the intervals ]3, 7[, ]3, 7], [3, 7[, and [3, 7] is connected. In general, any
+interval—open, closed, semi-open etc.—is connected in this topology.
+
+Example 15.13: For a topology (X, T), each set in T (by definition, an open set
+of the topology), is connected.
+
+Example 15.14: None of the following is a connected set in the topology (R, d),
+d being induced by mod function |x — y |: ]3, 7[ U ]8,11[. In general, union of at
+least two intervals is not connected, where intervals are of the form [ai, bi], [a2,
+bo], ..., [ai, bi], ..., [an bn], in which aj < bj, and bj < aj+1, for all i=1, 2, ...i, ...
+
+The claim of the example is true for any intervals, not necessarily only closed:
+even for of the type: Ja, bf, [a, bf, Ja, b/.
+15.3.2.3 Compactness of a set in a topological space
+
+In metric space, we say a set S is compact set if and only if S is closed and
+bounded. Here, the concept is extended to topological space.
+
+We initiate our discussion with the definition of the concept of cover—in a
+topological space—which is used in the definition of compactness.
+
+Cover: In a topological space (X, T), for a set S, cover of S is a family F of
+subsets of X with the property that S C Uger B.
+
+Open Cover: A cover is called an open cover if every set B in the family F is an
+open set, i. e. FS T.
+
+Subcover and Finite Subcover of a Cover: For a cover F of the set S, a
+subcover F’ is a family—with F’ © F—which is also a cover of S. If, in addition,
+F’ contains only finitely many sets, we call it a finite subcover.
+
+Compact Set/ Space: A set S in a topological space (X, T) is called compact if
+every open cover
+
+--- Page 122 ---
+
+of S has a finite subcover. If X, itself, is compact, we say X is a compact space.
+Examples and Non-Examples:
+
+Example 15.15: N, the set of Natural numbers, is not compact in metric space
+(R, d), where d= |x - yj.
+
+To see this, let us consider open intervals On = Jn — 1/4,n + %[, forn=1, 2, ..,
+then
+
+NCU, On, because, n € On foreverynEN.
+But if N were compact, finitely many of the On would cover N. However, each
+
+On contains only one integer. Therefore, finitely many On contain only finitely
+many natural numbers, and not whole of N. A contradiction.
+
+Check your Progress 3
+1) In the metric space (R, d), where R is the set of real numbers, and d is the
+
+metric induced by mod function |x — y |, show that
+
+i) Each of N, Z, and Q which is a subset of R, is not connected. And, also,
+any subset of N, Z, and Q is NOT connected.
+
+ii) Any singleton set {a} of Euclidean metric space is not connected
+
+ili) Any finite subset {a1, a2, ..., an} of Euclidean metric space is not
+connected.
+
+2) Let X = {a, b, c} bea set of three elements. and T = {@, {a}, {a, b}, {a, c},
+X}. Then show that (X, T) is a topology
+
+3) Let X be any infinite set, and let T= {S: S € X, and X — S is a finite subset
+of X} U {@}, then show that (X, T) is a topology.
+
+4) Show that a finite set in (R, d)—where R is the set of real numbers, and d =
+|x - y|—1s compact.
+
+Basic Concepts of
+Metric Space and
+Point Set Topology
+
+121
+
+--- Page 123 ---
+
+Real Analysis
+
+122
+
+15.4 LET US SUM UP
+
+In this unit, at the top level, we discussed topics from two very advanced and
+useful disciplines of Mathematics, viz. Metric Space and Topology. We began
+with formal definition of each. In the process of defining these, we defined the
+underlying concepts of open interval/ sphere and closed interval/sphere etc., and
+discussed their properties.
+
+Within each of these two disciplines, we defined some of their practically useful
+concepts, including convergence of series, continuity of functions, connectedness
+and compactness of sets; and discussed their properties and explained some of
+their applications.
+
+15.5 KEY WORDS
+
+Euclidean Distance dr between points P (x1, yi) and Q (x2, y2) in 2-dimensional
+space R?:
+
+de (P(x1, yi), Q(x2, y2)) = V [(x1 - x27" + (yi -y2"]
+Taxicab/ Manhattan distance, dr between points P (x1, y1) and Q (x2, y2)
+= dr (x, y) = |x1— x2| + [yr — y2].
+
+Minkowski distance of order p for R", the n-dimensional space over real
+numbers, is given by
+
+»
+
+x 1/p
+( zi — u)
+ah for order p= 1, 2, 3, ...
+
+Metric on a Set: For a given non-empty set, say S, and a function, (generally,
+denoted by d) d:S x S DR, the set of real numbers,
+
+which, for x and y ES, satisfies the following conditions, is called a metric
+
+i) d (x, y) = 0, (the cost of going from any point to any point is
+non-negative)
+
+li) d(x, y) =0 if and only if x =y, i.e.
+a. d(x, x) = 0, for any x in S, (it does not cost to remain at
+
+the same point) and
+
+b. d(x, y) > 0, if x # y, (the cost of going to a different point
+is positive),
+
+iii) d(x, y)=d (y, x) (symmetry property: the cost of going from
+x to y is the same as the cost of going back to x from y)
+
+iv) d(x, z)<d (x, y) +d \y, z)(transitive property: the cost of
+going directly from x to z does not exceed the cost of going
+from x through y to z)
+
+--- Page 124 ---
+
+Metric Space
+
+Open ball/ sphere
+
+Open Set
+
+Closed Set
+
+Basic Concepts of
+Metric Space and
+Point Set Topology
+
+The ordered pair (S, d), where set S 4 G, and d is a
+metric on S, is called a metric space.
+For a= (ai, ..., an) ER" a point in the R” Euclidean
+space, open sphere S (a, r) centred at a and of radius
+r>0, a real number, is the following subset of R"
+S (a, r) = {x= (x1, ..., Xn) ER": dr (x, a) <r},
+
+where dg is the Euclidean distance on R".
+Closed ball/ sphere in R" for n, a natural number is
+the following subset of R"
+
+S° (a, r) = {x= (x1, ..., Xn) ER": de (x, a) <r},
+where dg is the Euclidean distance on R".
+
+(The notations S° is not standard notation for closed
+sphere)
+
+A set S of real numbers is said to be open set, or just
+open, if for each element a of S, there is a number ¢
+>0 such that the open interval J/a—«, at+ ef CS.
+
+A set S € R is said to be a closed if R — S is open in
+R.
+
+Open Sphere Closed Sphere of Arbitrary Metric Space
+
+Open Sphere
+
+Closed Sphere
+
+Open Set of a Metric
+Space (X, d)
+
+Closed Set of a Metric
+Space (X, d)
+
+Convergence of a
+Sequence in Metric
+Space
+
+Continuity of a
+Function in Metric
+Space
+
+For a metric space (X, d), where set X # O, and dis a
+metric on X, the open sphere with centre a and radius
+r>0, a real number, is the set
+
+S (a, r) = {x € XK: d (a, x) <r}.
+
+For a metric space (X, d), where set X # O, and dis a
+metric on X, the closed sphere with centre a and
+radius r>0, a real number, is the set
+
+S (a, r) = {x € X: d (a, x) <r}.
+
+A subset T of X is said to be an open set, if for each
+element x of T, there is an open sphere S(x, €), with ¢
+>0 such that S(x, ¢)& T.
+
+A set T € X is said to be a closed if its complement
+X —T is an open set in X.
+
+For (X, d), a metric space, with X # @, and metric d
+on X, and an infinite sequence (Xn) = (x1, X2, «+65 Xn
+..), of points of X, we say that the sequence (Xn) is
+convergent if there exists a point x in X such that for
+each ¢ > 0, there exists a positive integer k, such that
+d(Xn, x) < €; for all n>k.
+
+For two metric spaces (Xi, di), for i= 1, 2, a function
+f: X1 >X2 is said to be continuous at point x = xo of
+Xi, if for each ¢ > 0, there exists a real number 6 >0,
+such that for all points x in X1, satisfying
+
+123
+
+--- Page 125 ---
+
+Real Analysis
+
+124
+
+Connected Set
+
+Bounded Set and
+Bounded Metric Space
+
+Topology
+
+Open Set in a Topology
+
+Closed Set in a
+Topology
+
+Neighbourhood of a
+Point x, or a Set S, in
+Topological Space (X, T)
+
+Continuity of a
+Function in Topological
+Space
+
+Connectedness in
+
+topological space
+
+Cover
+
+Open Cover
+
+Subcover and Finite
+Subcover of a Cover
+
+di(x, xo) < 6 imply dz (f(x), f(xo)) <.
+
+A set S in a metric space (X, d) is said to be
+connected, if it cannot be represented as the union of
+two or more disjoint non-empty open sets in the
+metric space.
+
+A subset S of X in a metric space (X, d) is called
+bounded if there exists r > 0 such that for all s and t
+in S, we have d (s, t) <r. Metric space (X, d) is
+called a bounded metric space (or d is a bounded
+metric) if X is bounded as a subset of itself.
+
+For a given non-empty set X, a topology on X is the
+ordered pair (X, T), where T is a collection of
+subsets of X, (i. e. T © P(X), the power set of X),
+satisfying the following conditions
+
+i) the universal set X € T
+ii) the empty set @ € T
+
+iii) the union, of any number of sets from T, is a set
+in T; the intersection, of any finite number of
+sets from T, is a set in T.
+
+A topology (X, T) is also called a Topological Space.
+
+Each set in T is called an open set of the topological
+space (X, T).
+
+A subset S of X is said to be closed, if its
+complement X —S is in T.
+
+A neighborhood of a point x (or a set S), in a
+topological space is an open set, i. e, a member of T,
+which contains the point x (or the set S).
+
+For two topologies (Xi, Ti), i=1, 2, a function f:X1 >
+X2 from Xi to X2 is said to be continuous at a point
+Xo of Xi, if for each neighbourhood H of f(xo) in X2,
+there exists a neighbourhood G of xo in X; such that
+f(G) CH.
+
+In a topological space (X, T), a set S € T is
+connected if it cannot be written as disjoint union of
+two or more non-empty open sets.
+
+In a topological space (X, T), for a set S, cover of S
+is a family F of subsets of X with the property that S
+C Uper B.
+
+In a topological space, a cover is called an open
+cover if every set B in the family F is an open set, i.
+e FCT.
+
+In a topological space, for a cover F of the set S, a
+subcover F’ is a family—with F’ © F—which is also
+
+--- Page 126 ---
+
+a cover of S. If, in addition, F’ contains only finitely Basic Concepts of
+
+. . Metric S d
+many sets, we call it a finite subcover. Point Set Topology
+
+Compact Set/ Space A set S in a topological space (X, T) is called
+compact if every open cover of S has a finite
+subcover. If X, itself, is compact, we say X is a
+compact space.
+
+15.6 ANSWERS OR HINTS TO CHECK YOUR
+PROGRESS
+
+Check Your Progress 1
+1) Show that (R?, dr) is a metric space, where, R? = R x R, and dr, the Taxicab
+distance, is defined as follows: For x= (x1, x2),and y= (yi, y2),
+dr (x, y) = |x1— yi] + [ko— ya| =D 2, [xi - yil, for i= 1, 2.
+i) As |xi— yi]> 0, fori =1, 2,
+dr (x, y) = Dy |xi- yi] > 0 +0 =0
+ii) Also, we know, |xi— yi| = 0, for i=1, 2.
+dr (x, y) = £2, [xi - yi] =0 iff |xi— yi] =0 for i= 1, 2.
+iff xi— yi =0 (as, |x| = 0 iffx =0)
+iff xi=yi fori=1,2
+iff x=y.
+
+ili)(symmetry)
+
+dr (x, y) = 52, |xi- yi] =X? lyi- xi| (by definition of mod function)
+= dr (y, x) (by definition of d)
+iv) (Triangular Inequality)
+For x= (X1, X2), y = (y1, yy; and z = (zi, z2) € R?, consider
+dr (x, 2) = Yea xi - zi] = DEaLI{@i- yD + (vir zi]
+< Diillxi - yi] + lyi - zil] (by fai+ bil s jail + | bil).
+= Lialxi- yi] + Lea lyi- 2i|
+(by rearranging the terms in the summation)
+= dr(x, y) + dr(y, z)
+Hence, the proof.
+
+2) Show that (R?, de) is a metric space, where, R? = R x R, and de, the
+Euclidean distance, is as defined as follows: For x= (x1, x2), and y= (yi, y2),
+
+de (x, y) = V [(xl yy? + (x2-y2?]
+=YzRal(xi — yi) * 2]
+Solution:
+
+i) As (x1-yn?> 0, for i=1,2, 125
+
+--- Page 127 ---
+
+Real Analysis
+
+ii)
+
+iii)
+
+iv)
+
+De (x, y)= DAal(i — yi) * 2]20+0-0
+Again as (x1_y1’> 0, for i =1, 2.
+Hence,
+de(x, y)=D2y[(ai — yi) * 2]=0
+iff
+(xi — yi) * 2 =0 for each i= 1,2.
+iff xi=yi, for i=1,2.
+iff xy
+(symmetry)
+de (x y)= DEl(xi — yi)*2] =D2alQi - xi) +2]
+= dr (y, x) (by definition of d)
+(Triangular Inequality)
+For x= (x1, X2), y = (y1, yz); and z = (z1, 22) € R’, consider
+de (x, z)= Lal {i — zi} * 2]
+= Dial {xi — yi)+ Gi — z}* 2}
+(By Pythagorean Theorem, (a +b) <a’ + b’, we get)
+<Dial @i — yi) *2)+ DEL O% — zi] * 23]
+= dr (x, y) + de (y, Z)
+
+Hence, the proof.
+
+Check Your Progress 2
+
+)
+
+2)
+
+3)
+
+126
+
+For a € X, the open sphere of radius 1,
+S(a, I) = {a}, consists of only one point, viz. a,
+
+because, except point a, all other points have distance equal
+to exactly 1,
+
+but not less than 1. However, S(a, 1) consists of all points at
+a distance less than 1.
+
+S¢ (a, 1) = X, because every member of X is at a distance equal to, or less
+than, 1.
+
+The universal set X is an open set:
+
+Let x € X, then for any ¢ >0, the open sphere
+
+S(x, &) = {fy € X: d(x, y)< € }, by definition, © X, the
+universal set.
+
+Hence, the proof.
+
+@, the empty set, is open: The claim is proved by
+
+contradiction. Let @ be not open. Then @ must contain an
+element, say y such that S(y, €) is not contained in @. But the
+
+--- Page 128 ---
+
+4)
+
+5)
+
+assumption about existence of y in @ is contradictory to the Basic Concepts of
+sys Metric Space and
+fact that @, by definition, has no element. Point Set Topology
+
+Hence the proof.
+The universal set X is a closed set
+
+For showing X to be closed, let us consider X - X, which equals Q, the empty
+set; and we have proved that 0, is an open set. Complement of X is an open set.
+Hence, X is a closed set.
+
+The empty set, @, is a closed set,
+
+For showing @ to be closed, let us consider X - @ = X, the universal set. We
+have already proved that X, the universal set, is an open set. Complement of @ is
+
+an open set. Hence, (0) is a closed set.
+
+Check Your Progress 3
+
+1)
+
+ii)
+
+iii)
+
+2)
+
+The solutions follow from the theorem which states that a subset of R,
+equipped with Euclidean metric, is connected if and only if it is an
+interval—whether open, semi-open, or closed. Each of N, Z, and Q which
+is a subset of R, is not an interval in R. And, also, any subset of N, Z,
+and Qis NOT connected, because each is not an interval in R.
+
+Any singleton set {a} of Euclidean metric space is not connected as = R—
+{a} =] — 0, a[ U] a, © [, which is a union of two intervals, each of ] — ©, a[
+and ] a, «of is open.
+
+Any finite subset {a1, a2, ..., an} of Euclidean metric space is not
+connected. Let us assume aj < a2 <...<an. Then R— {a1, a2, ..., an} = ] —
+oo, ai[ U J ai,a2[ U... ] an-1,an [U ] an, Of , and each of ]—, al, Jai, ai+i[,
+and ] an, ©[, fori = 1, 2, ... (n—1) is an open interval.
+
+The first two conditions (i) the universal set X € T, and (ii) the empty set
+9 €T, by definition of T.
+
+The other two topological conditions are satisfied, as explained below.
+It can be easily verified that
+
+iii) Unions of any number of sets from T is in T, e. g. any union involving
+X is X, which is in T.
+
+Any union of a set S in T involving @ is S, which is also in T.
+
+Further, {a, b} U {a,c} = X= {a, b} U {a, c} Uf{a}= X, where X is in
+T.
+
+iv) Intersection: any intersection, involving @ is @ which is in T. Any
+intersection involving
+
+{a} is {a} is again in T. Further, {a, b} M {a, c} = {a} is in T, etc. 127
+
+--- Page 129 ---
+
+Real Analysis
+
+128
+
+3)
+
+i)
+
+ii)
+
+4)
+
+The first condition (i)the universal set X € T is satisfied as X —X =@, is a
+finite set.
+
+For the second condition(ii) @ is given, by definition, as a member of T
+For the other two conditions, let each of Yi, Y2, .... belong to T.
+
+As union Y of two or more sets say Y1, Y2, ... have more elements than
+each of the Yi, hence, Y has more elements than Y;. Therefore, X —Y will
+have lesser number of elements than the number of elements in X —Y1,
+which is finite. Hence X —Y has only finite number of elements, implying
+Y eT.
+
+Also, X — (Intersection of finitely many Yi, Y2, ...Yn), by Demorgan’s
+Laws
+
+=UL,(X - Yi), which being finite union of finite sets is finite.
+
+Hence finite intersection of members of T is also in T
+
+Let U, Oa be an arbitrary, finite or infinite, cover of a finite set S = {x1,...,
+xx}. Then for each xi, there is some Oai, with xi € Oai, for 1 <i<k, and
+hence, the finite collection {Oal, ..., Oak} covers E.
+
+15.7 EXERCISES
+
+1)
+
+2)
+
+3)
+
+4)
+
+Show that (R", dr) is a metric space, where, R°=Rx ... Rx
+R, and dr, the Taxicab distance, is as defined as follows.
+
+For x= (x1, X2, ..., Xn), and y= (y1, y2, -.-, Yn)
+
+dr (x, y) = dr (x, y) = [x1 — yi + [k2— yal ... + [Xn yal
+= Lea [xi — yil
+Show that (R", de) is a metric space, where, R"=Rx... Rx R, and de, the
+Euclidean distance, is as defined as follows.
+For x= (x1, X2, ..., Xn), and y= (y1, y2, ..., Yn)
+de (4 y= Vili — yi) 2]
+
+In the metric space (R”, dr) where, R? = R x R, and dr, the Taxicab distance,
+defined as follows, with dr (x, y) = |x1— yi] + |x2— yo, for x= (x1, x2), and y=
+
+(y1, ¥2), for a= (a1, a2), find S (a, 1), the open sphere and S‘ (a, 1), the closed
+sphere, each of radius 1.
+
+Every open sphere S (a, r) is an open set,
+
+Answers to Exercises
+
+I) dr(x,y)= LLy [xi - yi
+
+i)
+
+As |xi-— yil 2 0, for i=1,2, ..., n,
+dr (x, y) = X24 |xi- yi] >0+0+...+0=0
+
+Again, as |xi— yil > 0,
+
+--- Page 130 ---
+
+ii)
+
+iii)
+
+2)
+
+ii)
+
+iii)
+
+iv)
+
+dr (x, y) = YLy [xi - yil =0 iff |xi— yi =0 for each i =1,2, ..., n,
+
+iff xi— yi =0 for each i =1,2, ..., n (because, |x| = 0, if and only if x = 0).
+
+iff xi=yi for each i =1,2, ..., n,
+iff x=y.
+(symmetry)
+dr (x, y) = D2, [xi- yil =X, lyi- xil (by definition of mod function)
+= dr (y, x) (by definition of d)
+(Triangular Inequality)
+For x= (X1, X2, ..., Xn © R", y = (yi, y2, --, Yn) € R®, and
+Z= (Zi, Z2, ..., Zn) € R", consider
+dr (x, z)= YE, |xi- zil =D, [] {Cxi- yi) + Cyi- zi)}I]
+< Leallxi- yi] + lyi- zil] (by |ai + bil Sail + | bi).
+= Yiealxi- yil + Di lyi- zil
+(by rearranging the terms in the summation)
+= dr(x, y) + dry, 2)
+
+Hence, the proof.
+
+As (xi-yj)?> 0, for i=1,2, ..., n.
+
+dr (x, y)=V¥™,[(xi — yi)? 2]>0+404+...+0=0
+
+Again, as (x7_-y1 > 0, for i=1, 2, ..., n.
+
+de (x, yy=V >" [(x, -y,)2]=0 if (xi — yi) * 2 =0 fori=1,2, ...,n.
+
+iff xi=yi, i=1,2,..., n.
+
+iff x=y
+(symmetry)
+
+de (x, y= VO" [; -y)2]= VE) Io, -x)2]
+
+= de (y, x) (by definition of d)
+(Triangular Inequality)
+For x= (X1, 2, ..., Xn), Y = (X1, X2, ..-5 Yn) E R",
+
+and z = (Z1, Z2, ..., Zn) € R", consider
+de(x, 2) = VELL {xi — 2i)}* 2]
+=VEEal {xi — yi)+ Gi — zi)}* 2H... @
+(By generalized Pythagorean Theorem,
+(ai taz+... tan)? Sart ay + ..+ an’)
+
+we get
+
+Basic Concepts of
+Metric Space and
+Point Set Topology
+
+129

@@ -1,0 +1,48 @@
+UNIT 22, INTERTEMPORAL OPTIMISATION-I
+
+Structure
+
+22.0 Objectives
+22.1 Introduction
+22.2 Some Examples
+22.2.1 Example of Continuous Dynamic Optimisation
+22.2.2 Example of Discrete Dynamic Optimisation
+22.3. The Calculus of Variations
+22.3.1 Theorem for Optimality
+22.4 Euler Equation in Special Cases
+22.4.1 No Explicit x(t) Dependence
+22.4.2. No Explicit ‘t’ Dependence
+22.5 Second Order Condition for Optimality
+22.6 Legendre Condition
+22.7 Necessary and Sufficient Condition for Optimality
+22.8  Isoperimetric Problem
+22.9 Free End Value Problems and Transversality Condition
+22.10 Discrete Time Dynamic Optimisation
+22.10.1 Assumptions
+22.10.2Dynamic Programming
+22.10.3The Cake Eating Problem
+22.11 Let Us Sum Up
+22.12 Key Words
+22.13 Answers/Hints to Check Your Progress Exercises
+22.14 Exercises
+
+22.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+e distinguish between static and dynamic models as well as between
+continuous and discrete dynamic models
+
+e enumerate various dynamic optimization approaches, state the essential idea
+of each approach, state the theoretical results which form the foundations of
+the approach, and use each one for solving dynamic optimisation problems.
+More explicitly,
+
+e explain the Calculus of Variations approach, state the foundational theorem
+justifying the basis of the approach, and use it in solving appropriate
+problems.
+
+e Explain the dynamic programming approach for dynamic optimization, and
+using it derive optimality criteria of discrete dynamic optimisation.
+
+11

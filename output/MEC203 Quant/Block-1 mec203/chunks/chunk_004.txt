@@ -1,0 +1,584 @@
+Review of Basic
+Mathematics
+
+30
+
+For example, if X= {1, 2, 3, 4} and Y = {2, 5, 8, 3, 9}, then
+X-Y= {1,4} and Y—-X = {5, &, 9}
+
+d) Unary Set operator ‘Complement’: X’ denotes ‘complement of X’.
+‘Complement of a set X’ is a special case of the ‘Difference of Two Sets’. For
+defining ‘complement of a set’, we need to know the value of the Universal set
+U, where universal set is the largest set under consideration in the particular
+context. If U denotes Universal set under consideration, then complement of
+X, denoted by X’, is defined as U—X.
+
+IfU = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and X = {2, 5, 8, 3, 9}, then
+
+X’ = Complement of X = {1, 4, 6, 7, 10}.
+
+Different notations for the complement of the set A include (i) A’(ii) ~A and
+(iii) AS.
+
+Fig. 1.2: If area shaded in red on L.H. S. represents A, then area Shaded in red on R. H. S.
+
+represents Complement Set of A.
+1.2.7.3 More Clarifications
+
+1) operands/ argument/ inputs; value/ result/ output: Let us understand these
+concepts through examples.
+
+In one of the examples above, we mentioned ifX= {1, 2, 3, 4} and Y = {2, 3,
+5, 8,9}, then X UY = {1, 2, 3, 4, 5, 8, 9}.
+
+The values {1, 2, 3, 4} and {2, 3, 5, 8, 9}, which are given as inputs to the
+operation of union are generally called operands, or arguments, or even just
+inputs. The value {1, 2, 3, 4, 5, 8, 9/obtained after application of the
+operation of union is called value, or result, or output.
+
+The above definitions, discussed just now, are explained for operations.
+These definitions are equally applicable to relations also. For example, we
+mentioned above that 7< 5 returns FALSE. Then the numbers 7 and 5 which
+are given as inputs to the relation of ‘less-than’ are generally called
+operands, or arguments, or even just inputs. The returned value, viz.
+FALSE after application of the relation ‘<’ is called value, or result, or
+output.
+
+11) Operation vs. operator
+
+The two concepts of ‘operation’ and ‘operator’ are quite similar and are
+often confused for each other. For our purpose, the symbol for union, namely
+U, is called the operator. On the other hand, if we are more interested in
+getting //, 2, 3, 4, 5, 8, 9}from the operands {1, 2, 3, 4! and {2, 3,5, 8,9} | Fundamental Concepts
+
+Lo. . of Mathematics
+then we talk of Operation of union. Similarly, in the case of relations, the
+
+notation/symbol <used for ‘less than’ is called operator. On the other hand,
+if we are more interested in getting FALSE from the operands 7 and 5 then we
+talk of relation of ‘less than’.
+
+Check Your Progress 4
+
+1) Let X = {1, {2, 3}, {4, 5}, 6} and Y = {1, {2, 4}, {5. 6, 7}}. Find the
+following:
+a) XU Y
+
+b) XN Y
+c)X-—Y
+d) Y-X
+
+eo cere rere reser erere rere sre reese rerereresresresresresreseeeereresereresreresrerereseeeeresrereseresreeece
+
+1.3 NUMBERS: FROM NATURAL TO COMPLEX
+
+1.3.1 Some Standard Number Sets
+
+We just mention some frequently occurring number sets and their standard names
+
+& notations.
+N = {1, 2, 3...}1is called the set of natural/ counting numbers
+W= {0. 1, 2,3 ...}is called the set of whole numbers
+
+(*It may be noted that for quite some time now, even 0 is being treated as a
+counting/ natural number. Thus N=W, and hence, there is no need for the
+
+concept of whole number and for a separate notation W.
+
+Z= {...,—3,-—2,—1,0, 1, 2, 3...}1s called the set of integers,
+
+Q = {x: x =p/q with q #0, and p, g € Zthis called the set of rational numbers.
+Remarks: It can be easily seen that OCNC WCZCQ.
+
+Except Z CQ, other set-inequalities given above are obvious. For showing Z CQ,
+letn EZ, then n=(n/1) €@Q. Further, 3/4 € OQ, but 3/4€ Z
+
+1.3.2 R, The Set of Real Numbers
+
+Next, we briefly discuss the numbers, viz. the real numbers, which are
+encountered most frequently in our attempts at numerical problem solving.
+31
+Review of Basic
+Mathematics
+
+32
+
+The Set of Real numbers is denoted by Rand has geometric connotation as
+explained below.
+
+Take a straight line and mark two distinct points on it, naming the /eft mark as 0
+and the right mark as 1. Then every point on the straight line (extended infinitely
+in both directions) can be made to correspond to a number, called a real number.
+
+t + t ot -—+t
+6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6
+<
+
+Negative numbers Positive numbers
+
+The correspondence to members of N can be obtained as follows: For obtaining a
+point corresponding to number 2, mark a point on the line on the right side of 1
+and at a distance equal to the distance between points, on the straight line,
+corresponding to 0 and 1. Similarly, points for 3, 4 etc. may be obtained.
+
+To get points corresponding to negative members of Z, \et us consider how the
+point on line corresponding to (— 1) is obtained. Mark a point to the /eft of 0 at a
+distance equal to the distance between points corresponding to 0 and 1. This
+point corresponds to — 1. Moving similarly more and more fo the left yields
+successively points on line corresponding to — 2,—3, and so on.
+
+To get a point corresponding to a rational number say 3.45, divide into 100 parts
+the length of line between points corresponding to the points 3 and 4, and then
+move 45 parts to the right from the point corresponding to 3. The point on the
+line so obtained, is the point that corresponds to the rational number 3.45.
+Similarly, points corresponding to other rational numbers may be obtained.
+
+Each of the numbers—so obtained by corresponding it to a point on a straight
+line in the manner described above—is called a real number.
+
+The set of all such numbers is called Set of Real Numbers, and is denoted by
+R, where R ={x| x is a real number}.
+
+It can be easily seen that the /ength of hypotenuse of a square of length one unit
+is V2 units. Thus, moving on the straight line from 0 towards right for a distance
+of V2 units, yields a point, which corresponds to the real number V2. But it has
+been proved that there is no rational number p/q which equals to V2. Such a real
+number, which is vot a rational number, is called an irrational number. It has
+been proved that number of irrational real numbers is more than number of the
+rational real numbers. The set of irrational numbers may be denoted as R-Q
+or, as R~Q.
+
+Remarks: From the discussion above, the containment relation ‘C’between
+various number sets can be further extended to include R as follows
+
+It can be easily seen thatOc NCWCZCQCR
+The argument above establishes the inequality Q € R (as, V2 € QO, but V2¢ R).
+1.3.3 Real Number Intervals
+Here are the definitions presented through examples:
+
+e the interval [3, 7.5] denotes the set of all real numbers between 3 and 7.5 and
+it also includes both the boundary numbers 3 and 7.5. Such an interval is
+called a closed interval.
+
+e the interval] 3, 7.5] (also, denoted as (3, 7.5]) denotes the set of all real
+numbers between 3 and 7.5 and it includes 7.5, but not 3. Such an interval is
+called a semi-closed or semi-open interval.
+
+e the interval [3, 7.5[ (also, denoted as [3, 7.5)) denotes the set of all real
+numbers between 3 and 7.5 and it also includes 3, but not 7.5. Such an
+interval is also called a semi-closed or semi-open interval.
+
+e the interval ]3, 7.5[ (also, denoted as (3, 7.5)) denotes the set of all real
+numbers between 3 and 7.5 but, it includes neither of 3 and 7.5. Such an
+interval is called an open interval.)
+
+1.3.4 Complex Numbers
+
+Next, we discuss how the above sequence of inequalities of containment in
+number-sets is further extended to C, the set of complex numbers
+
+The set of complex numbers developed in context of attempts at solving
+equations of the type x’+1 =0, for which no real number solution exists. A new
+type of number i was introduced for which i? = —1 was assumed. Then C is
+
+defined as C= {z:z=x+1y: x,yER}
+(Note: x + iy is also written as x + y i)
+
+Then inequality RC C follows from the following argument: Let x€ R, then
+x = x+1i0€C. Thus, R € C Also, there are many complex numbers including,
+
+say,
+1 +12 €C such that 1 + 1 2¢ R. (Also, alternatively, as discussed above, i ¢ R,
+
+but i= 0 +1 1 € C). Hence, the proof. Also, using the earlier set inequalities, we
+get
+
+QCNCWCZCQCRCC
+
+Remarks: The notations 0, N,W, Z, Q, R, C are standard and can be used
+without giving their respective definitions/contents. However, the other set names
+like Sg_int are not standard; we could have used some other name instead of
+Sq_int. For all such set names, in every new context, its definition has to be given
+afresh.
+
+1.3.5 Number Miscellany
+
+e Number(Examples: 3, -12, 8.7, 2/3, V2, a, and 7 — 31, where 3 is a natural
+number, — 12 is an integer, each of 8.7 and 2/3 is a rational number, each of
+V2 and # is an irrational number. Each of the numbers 3, —12, 8.7, 2/3, V2,
+
+Fundamental Concepts
+of Mathematics
+
+33
+Review of Basic
+Mathematics
+
+34
+
+m is also areal number. The number 7 — 31 is a complex number, but it is not
+a real number.
+
+Each of the numbers quoted here is such that the number does not have the
+preceding properties. For example, V2 is an irrational number, but it is not a
+
+rational number, it is not an integer, and also it is not a natural number),
+
+Arithmetic/Algebraic operations (for example, +, —, x, + are all binary
+
+operations, as each requires two numbers for its application.
+
+Examples of unary operations on numbers—which requires only one number
+for its application—include (i) Exponent/ power e. g, x°; and in general, x",
+for any fixed n; and (ii) |x] denoting absolute value of a real number x,
+defined as
+—xX, x<0
+Ix] = { X, x>0
+For example, |5| = 5, and | —5| =5
+
+Arithmetic relations(Examples: =,#,< and >),
+
+Fraction & Rational Number: The number expressions 3/5 and 6/10 are two
+distinct/different fractions, but represent the same rational number. Two
+fractions p/q and r/s with q # 0 # 8, are equal as rational number, if
+px s = q* r, as mentioned just above that distinct fractions 3/5 and 6/10 equal
+as rational numbers. Now, let us look at Prime Numbers. A natural number p
+is said to be a prime number, if the only natural numbers which divide p are 1
+and p itself. For example, each of the numbers 2, 3, 5, 19, and 31 etc. is a
+prime number. However, 4 and 21 etc are not prime numbers. Though the
+natural number 1 has property somewhat like a prime number, but I is NOT
+considered as a prime number. The reason 1s that the number | is a wnit in N,
+i. e. for 1, we have 1x1 =1. For any other natural number q # 1, there is no s in
+N, such that q x s =1.
+
+The symbol z, spoken as Pi, is standard notation which represents a real
+number defined by the relation c = ad, with c denoting circumference of a
+circle and d denoting the diameter of the same circle. The real number “x is
+
+irrational. But the proof is beyond the scope of the course.
+
+Nomenclatures for Number sets: The symbol N is the initial letter of
+Natural of the full name ‘Natural Numbers’ for the set. The symbol Z is the
+initial letter of the German language word ‘Zahlen’ meaning ‘Integer’. This 1s
+why, the set Z is sometimes also denoted by I. The symbol Q is the initial
+letter of Quotient of the full name ‘Quotient Numbers’ for the set. The symbol
+R is the initial letter of the word Real of the full name ‘Real Numbers’ for the
+set. And finally, the symbol C is the initial letter of the word Complex for the
+
+full name ‘Complex Numbers’ for the set.
+1.3.6 Properties of Real Numbers as Ordered Field
+
+The following properties of real numbers—w.r.t the two binary operations ‘+’
+
+and ‘x’, w.r.t binary relation ‘*<’, and the unary relation | |--are used frequently,
+
+knowingly and unknowingly, in calculations and proofs of statements involving
+
+real numbers.
+
+a) R, the set of real numbers, satisfies the following properties (as a Field)
+
+b)
+
+w.r.t the two binary operations ‘+’ and ‘x’:
+
+For all x, y and z € R, we have
+
+I)
+2)
+
+3)
+
+4)
+
+5)
+6)
+
+R,
+
+Closure properties: x + y € R, andx x yER,
+
+Associative properties: (x + y)+z=x+(y+tz); (xx y)xz=x x(y x
+Z)
+
+Existence of (unique) identities: 0 and 1 € R, such that (x+0) = (0+ x) =
+x and (xx1) =(1x x) =x
+
+Existence of (unique) inverses: for x € R, 4 (there exists) (— x), such that
+(x + (—x)) =((( x) + x ) =0, and for x 40,3 (x"'), such that xx x 1=x!x
+x =1
+
+Commutativity: (x + y) = (y+ x); and (x x y) = (yx x).
+
+Distributivity of ‘x’ over ‘+7: xx (y +z) =xx y + xx z.
+
+the set of real numbers, additionally satisfies the following properties
+
+(as an Ordered Field) w.r.t the two binary operations ‘+’ and ‘x’, and
+
+the binary relation ‘<’:
+
+For all x, y and z € R, we have
+
+I)
+2)
+
+3)
+4)
+5)
+
+6)
+
+If 0 <x, and 0 <y, then 0 < x+ y; and 0 < xx y;
+
+Trichotomy property: for x € R, exactly one of the following three is
+true (a) x < 0, (b) x = 0, and (c) 0 <x.
+
+Transitivity property: if x <y, and y < z, then x <z.
+
+If x <y then x + z < y+ z, (monotone property of addition)
+
+If x < y and O< z then x x z < yx z, (monotone property of
+multiplication)
+
+Archimedean property: given two positive numbers A and B, there is a
+natural number n such thatB <nxA
+
+c) R, the set of real numbers, additionally satisfies the following properties
+
+Metric/ norm) w.r.t the two binary operations ‘+’ and ‘x’, and the
+y op
+
+binary relation ‘<’, and unary operation |x| (modulus)
+
+For all x, y and z € R, we have
+
+I)
+2)
+3)
+4)
+
+|x| >0 and |x| =0 if and only if x=0;
+x] = -—x|;
+—|x| <x < |x|; and,
+
+Triangular inequality: |x + y| < |x| + ly].
+
+Fundamental Concepts
+of Mathematics
+
+35
+Review of Basic
+Mathematics
+
+36
+
+Mod function introduces the distance function || ||: Rx RR
+such that, For all x,y ER
+IIx — yll = [x yl.
+Then, for all x, y and z € R, we have
+1) ||x —y||> 0 and ||x — y|| = 0 if and only ifx =y
+2) |Ix—yll=lly — xl], and
+3) |[x —z||<||x — y]| + |ly— z||. (Triangular Inequality)
+
+14 DECIMAL REPRESENTATION OF RATIONAL
+AND IRRATIONAL NUMBERS
+
+The method is explained through examples. First, we consider examples of
+decimal representations of rational numbers, and then those of irrational
+numbers.
+
+1) The terminating decimal representation of rational: Consider 3/8. We
+know it is represented in decimal notation as 0.375. This representation is
+terminating, as it contains only finite number of digits.
+
+it) Non-terminating recurring/ repeating decimal representation of rational
+numbers: 7/3 is represented in decimal notation as 2.333..., in which the
+digit 3 continues repeating for ever, i. e. the decimal representation 1s non-
+terminating, but the sequence consists of a single digit 3, which repeats
+itself,
+
+Similarly, the rational number 29/7 = 4. 142857 142857142857..., in which
+the sequence 142857 of decimal digits repeats itself for ever or the sequence
+is non-terminating, but repeating.
+
+Notation: Instead of repeating infinitely many times some digits in notation, the
+notation 142857is used forl142857142857...
+
+Thus, 7/3 =2.3333 ...=2.3, and 29/7=4.142857.
+
+111) Decimal representation of an irrational number, which is always non-
+terminating non-repeating sequence of digits. For example
+mw =3.14159..., Similarly,
+
+\2 = 1.4142857...,
+where there is no pattern in...’
+
+The process of converting decimal numbers to fractions: Let us understand
+the process through the following example:
+
+187 0145075
+
+187. 01450 83 = ;
+10000000
+
+On R.H.LS., in the denominator, under the decimal point, we write 1. Then, for | Fundamental Concepts
+of Mathematics
+
+every digit (zero or non-zero) after the decimal of the numerator, in the
+denominator, a 0 is placed starting from the position on the right of 1.
+
+Then, the expression on R.H.S. is simplified by dividing both numerator and
+
+denominator by their common factor. For example, first, we divide both
+748058003
+
+400000
+common to numerator and denominator, then we can further simplify the fraction
+
+numerator and denominator by 25 to get = . If there are more factors
+
+through division by the common divisor.
+
+1.5 REAL NUMBER EXPONENTIATION
+
+We know that the notation x? stands for x. x. x, i. e. x multiplied by itself three
+times. In general, for n€ N, the notation x" stands for x. x... (n times), 1.€., X
+multiplied by itself 7 times. Then x is called the base of x" and n is called the
+exponent or power of x”.
+
+For example,
+(19)* = 19x19x19x19;
+(— 15)? =(— 15). (15). (— 15)
+(3/4)° = (3/4). (3/4). (3/4). (3/4). (3/4) = (3). (3). (3). (3). (3)/ (4). (4). (4).
+(4). (4)
+=(3)/ (4).
+In general, (x/y)" = x"/y"
+
+The definition can be extended to zero and negative integer exponents as
+follows:
+
+x°=1,and x~!=(1/x)!=(1/x). In general, x "= (x !)" =(1/x)" for néEN.
+For example, (19)~? = (1/19)° = (1/19) (1/19) (1/19).
+
+The following rules for exponent can be easily verified for m, n € Z (and,
+even, for m,n € R)
+
+xmin = ym. yn,
+x” = (x™)", where
+
+(x™)" = (x™) (x™) (x)... repeated n times, if n is positive integer (or even 0). And,
+x= (x ™)y" = (x) (x ”) (x ”)... repeated (—n) times ifn is negative.
+
+x "=1/x", and x™-"=x'/ x";
+
+For extending the definition to fractional exponents, let us first understand
+what \2 means? It means the number such that V2xV2 =2
+
+Similarly, V7 means V7 xV7 xV7 xV7 =7,
+Or (8/11 means 4/(8/11 =4/(8/11 x\/(8/11 = 8/11.
+
+37
+Review of Basic
+Mathematics
+
+38
+
+The notation \\2 is used for (2)'”, and the notation V7_ is used for (7).
+
+The notation is in consonance with (8/11 x1/(8/11 x7/(8/11 =
+(8/11)!3« (8/11) (8/11) = ((8/11)!3 = (8/11) 3 = (B/LI),
+
+In general, forn 40, Vx denotes (x)', where x may be any real (or complex);
+and the number n, so far, is a natural number.
+
+Further, for m€Z and n€N, x™™=xm(n) = Wf xm.
+and forn#0,x™™=(x!™)™=(Vo x)”.
+
+So far, we discussed addition, subtraction etc. of only exponents. Next, briefly we
+discuss arithmetic operations on bases.
+
+First, we discuss cases in which base is either a product (x. y) or a quotient (x/y),
+then
+
+(xx y)*= (x*x y*) and (x/y)*= (x’/ y*) for any real or even complex number a
+
+For addition and subtraction of x" and y", the expressions x™+ y" and x™— y”
+are treated as almost independent irreducible expressions, except when x and y
+have some common factor # 1, as explained by the following example:
+
+3° + 6”, we may write as 3° + 67 = 3° + (3x2)? = 3° + (3x2)? = 3° + (3)7(2)" = (3)?
+[(3)* + (2)7]
+
+Check Your Progress 5
+
+1) Express the decimal number 18725.4625 as a fraction.
+
+eo eceerecec ere ee sre rere rere reser eeeresrere rere rere reece rere esreereeeresrererec rere resrereesrererereeeceece
+
+eo cere cere ere re rere re rere reereeeeresrereresrereeeresrereeeesesresresresresreresreereseeeresreeesresresrecevece
+
+eo cere ec errr e rere rere rere reereeeeeresrereresresrereresrereeeeeresreresreresresresresresreseeseereeresreresreees
+
+1.6 LET US SUM UP
+
+In this unit, we had a sort of bird’s eye view of the (most) fundamental concepts
+of Mathematics, viz. (i) the number, the basis of conventional mathematics; (11)
+the set, the basis of modern mathematics. In this respect, we discussed the
+operations having following operation-symbols (operation-symbols are
+generally called operators):
+
+i) Set operators (or set operation-symbols): (examples)X U Y (for union), XM Y
+(for intersection), X — Y (for difference), and X’ (for complementation) etc.
+
+i1) Set-relational symbols: (examples) equality (=) of sets; subset (©); proper
+subset/ superset (C), and, not a subset of (‘¢’), belongs to (6), does not
+belong to (€) etc.
+iii) Algebraic/arithmetic operators (or algebraic operation-symbols): Fundamental Concepts
+of Mathematics
+
+(examples)+, —, x, +, Vx, |x|, log x, e* etc.
+iv) Algebraic/arithmetic relational symbols: (examples) =, #, >, >, <, < etc.
+
+1.7 KEY WORDS
+Cross-Product of :  Cross-product of sets for two non-empty sets Ai and
+sets A2, denoted as Az x Az is the set of all ordered pairs
+
+(ai, a2), Where a1€Aland a2€A2. The concept may be
+generalized to any finite number of sets say Aj, A2,
+... An, denoted as Az X Ar ... X An. The cross-
+product of n sets is the set of all n-tuples of the
+form(a1, a2. ..., An), where aj€Ai for I =1, 2, ... n.
+
+Number :  Itis used for counting, measuring or labelling. It is an
+abstract concept, which is made tangible through
+number-names, called numerals, e. g. five is purely an
+idea, which becomes tangible through the numeral 5.
+
+Operation ona : It is quite similar to the concept of relation. An
+
+set X operation on X maps the cross-product of X with
+itself n times, where n is the arity of the operation.
+But it returns an element of X itself. For example,
+operation of square on N, the set of natural numbers,
+involves a single number, hence, it is an operation of
+arity one; the operation of sum involves two numbers,
+hence its arity is two. But in both the cases of square
+and of sum, the value returned is a single number.
+
+Relation onaset X :_ It is a subset of cross-product of the X with itself n
+times, where n is the arity of the Relation. For
+example, is-male involves a single person, hence, it is
+a relation of arity one; is-mother-of involves two
+persons, hence its arity is two. A relation returns
+exactly one of the values ‘true’ or ‘false’. For
+example, if Sheela is not mother of Mohan, then the
+value of the relational expression is-mother-of
+(Sheela, Mohan) returns false.
+
+Set : Set is a well-defined collection of objects, where, a
+collection C is said to be well-defined, if we think of
+or pick up anything, say x, then we should be able to
+tell whether x belongs to C, or does not belong to C.
+
+39

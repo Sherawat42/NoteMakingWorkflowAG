@@ -1,0 +1,486 @@
+Review of Basic
+Mathematics
+
+70
+
+Proof by Contrapositive
+
+Proof by contrapositive is just a special case of proof by contradiction in the
+sense explained below:
+
+Let H be the hypothesis (may be composed of a number of statements) and
+C be the intended conclusion. Then, in this technique, ~ C, the negation of
+C, is assumed to be true as is done in Proof by contradiction. The proof of C
+from H follows if we are able to derive ~ H, and hence, a special
+contradiction, viz. H and ~ H both become true. In the Proof by
+contradiction’, the contradiction may be constituted of S and ~S, where S
+may be any statement.
+
+Example: For every n €Z, if n° is even, then n is even.
+
+We prove the result by contrapositive method. Now H: (n €Z, and n’ is
+even), C: 1 is even. Let us assume ~ C as true, 1. e. n is odd, which means n
+= 2k +1 for some k EZ. Then n*= (2k+1)? = 4k?+4k+1. Hence n° is odd.
+Thus, we get ~H. Initially, H is assumed to be true. Thus, we arrive at the
+contradiction that both H and ~H, being simultaneously true. Hence, the
+proof by contrapositive follows.
+
+IID) Proof by Cases
+
+The technique is explained through the following example
+
+Example: Show there are no solutions for integers x & y such that x? +
+3y° =8
+
+Consider the following cases
+
+Case (i) |x |>3 then x?> 8 Hence, x* + 3y°>8, and not =8
+
+Case (ii) | y |> 2, then 3y’ > 8 Hence, x” + 3y*>8, and not =8
+
+Thus|x|<2 and ly|< 1.
+
+The only possibilities for integers x and y satisfying these two inequalities
+are
+
+Case (iii) x =-2,-1,0,1, or 2 & y=—1,0, 1. Thus
+possible values for x°=0,1,4
+possible values for 3y” = 0, 3
+
+Then Maximum possible value of (x + 3y”) = 7, and not 8 as required.
+
+IV) Existence Proofs
+
+a) Constructive
+(7X) P(x) is shown by the existence of b such that P(b) is true
+
+Problem: show that any positive integer can be written as sum of two
+cubes in two different ways
+Solution:1729 = 10° + 9° = 12° + 1° Overview of
+Basic Methods
+
+. . of Mathematics
+b) Non-constructive Existence Proof
+
+Problem: For some irrationals x and y, the number x” is rational
+
+Solution: We know (V2) is irrational. Then either (i) (V2) is rational, or
+(ii) (v2)? is irrational. In case of (i) the problem is solved, because for
+x=y=V2, irrational, we get (V2)? is as rational. In case (11) if (V2)? iS
+irrational then (2) 1} = 2 is rational, for x= (V2 y? and y = V2, both
+irrationals.(In the non-constructive existence, the actual values of
+
+irrational numbers are not calculated)
+V) Proof by Mathematical Induction
+
+A proof by mathematical induction is used to prove infinitely many
+statements, if
+
+1) all of them happen to be True, and
+11) which can be indexed by elements of N, the set of Natural numbers.
+
+For example, the statement S,, the sum of first n Natural numbers = n (n
++ 1)/2, is true for all nEN.
+
+Then, the set {S,:nEN} is an infinite set of statements indexed by members
+of N, and also each S, is true. The truth of all S,,’s can be established by
+
+using Principle of Mathematical Induction to be explained below.
+
+The method of Mathematical Induction has following three major steps:
+1) Initial/ base step
+
+11) Induction Hypothesis step
+
+111) Inductive step
+
+Some people combine (ii) Induction Hypothesis step and (iii) Inductive step
+into a single step and call it Jnductive Step. We explain the method
+through applying it to prove truth of infinitely many statements
+{S,:n€N}, where the n" statement is S, = the sum of first n Natural
+numbers = n (n+ 1)/2.
+
+We may note that here we are not dealing with a single statement, but
+infinitely many statements:
+
+Prove that
+S; = sum of first one natural number =1 (1+1)/2
+
+S2 = sum of two natural numbers = 2(2+1)/2
+
+71
+Review of Basic
+Mathematics
+
+72
+
+Sio= sum of first ten natural numbers =10 (10+1)/2
+
+Sioo0= sum of first one natural number =1000 (1000+1)/2
+
+But the proof is not required for each of the above separately. The proof is
+
+for general n, and hence for all of them simultaneously.
+
+Base/ initial step: show for n=1, 1. e. S; 1s true, 1. e. sum of first one natural
+numbers = 1(1+1)/2 =1
+
+But this is true. Hence, for this problem, base is established/ shown as true.
+
+Remarks: some time instead of {S,:nEN}, the set of statements to be proved
+is of the form {S,:n€N and for all n => t> 1, for some t EN}. Then, base step
+starts with S;
+
+Induction Hypothesis: Let, for any k >1, S,: sum of first k natural numbers
+= k(k+1)/2 be assumed to be true.
+
+Inductive Step: With the help of base step result and the assumption of
+Induction hypothesis, we attempt to show that S,+;: sum of first (k+!) natural
+numbers = (k+2). (k+1)/2.
+
+If we are able to show it, the Principle of Mathematical Induction states
+that
+
+S,. sum of first n natural numbers = n(n+1)/2 is true Vn EN.
+So, consider
+Sar =14+24....4¢ktk+] =(1+24.... Hy) + (k+1) = Sit (41)
+
+(By induction hypothesis) = k(k+1)/2 + (k+1) = (k+1) (k/2 +1) = (k+1) (k +
+2)/2.
+
+Hence, by Principle of Mathematical Induction
+
+S,- sum of first n natural numbers = n(n+1)/2 is true V~nEN
+
+VI) Proof of Equivalences
+
+An equivalence in a statement to be proved is indicated by the phrase ‘if and
+only if’, which 1s also written as ‘iff’.
+
+Example: For x, y €N, the set of natural numbers, then x > y iffx’> y*
+Ans. The proof consists of two parts:
+i) By assuming x, y € N, and x > y, to show that x*> y’, and
+
+ii) By assuming x, y € N, and x*> y’ to show that x > y
+. . ° ce 9. > Overview of
+For part (i) (this part is generally called ‘if part’: let x > y, as x€ N, Basic Methods
+
+therefore, x>0, multiplying both sides by x, we get x° =x. x >x.y of Mathematics
+Similarly, as y > 0, from x> y, we get y.x > y. y= y
+Using commutativity, and associativity of ‘=’ etc. of ‘.”, we get x°>y”
+
+For part (ii) (this part is generally called ‘only if part’: let x, y € N, and
+x’> y’, to show that x> y.
+
+The argument is similar, except that, initially, we will state that as each of x
+>0 and y>0, therefore each of (1/x)>0 and (1/y)>0,
+
+Then by replacing x by (1/x) and y by (1/y) throughout the argument,
+ultimately, we get x >y.
+
+Remarks: Sometimes, the two parts ‘if part’ and ‘only if part’ may be
+combined. For example, to show that the integer n is even if and only if
+2n+3 is odd
+
+The proof may be written as follows, in which each of the symbols (1)
+‘=’ and (ii) ‘ff’ is used for phrase: if and only if’
+
+Proof: nis even©& n=2k for some k € Z & 2n =2 (2k) fork € Z & 2n+3 =
+4k + 3 &2n+3 = 4k4+2 +1 2n+3 = 2 (2k+1) +1, & 2n+3 =2 K’ +1 for K’
+=2k+1 & 2n+3 is odd & (2 K’ +1) is odd for K’ =2k+1. But R.HS is true.
+Hence the proof is complete.
+
+73
+74
+
+UNIT 3 RELATIONS AND FUNCTIONS
+
+Structure
+
+3.0 Objectives
+3.1 Introduction
+3.2 Relation
+
+3.3
+
+3.4
+3.5
+3.6
+cs
+
+3.2.1 Definition, Notation and Illustrations
+3.2.2 Properties of Relations
+3.2.3 Equivalence Relations, Equivalence Classes, Partition of a Set
+3.2.4 Partial Order Relation, Partially Ordered Set
+3.2.5 Operations on Relations
+Function
+3.3.1 Conceptualising Function
+3.3.2 Function: Definition and Examples
+3.3.3 Operations as Functions
+3.3.4 Types of Functions
+3.3.4.1 Injective Function
+3.3.4.2 Surjective/ Onto Function
+3.3.4.3 Bijective Function
+Let Us Sum Up
+Key Words
+Answers/Hints to Check Your Progress Exercises
+
+Exercises
+
+3.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+distinguish between concepts of relation and function;
+use the notation for relation;
+
+explain different properties like reflexivity, symmetry and transitivity of
+relations;
+
+apply the concepts of equivalence relation, equivalence class, and partition of
+a set;
+
+identify partial order relation, and partially ordered set;
+
+draw Hasse diagram for a partially ordered set;
+
+apply operations, like composition, inverse and union, to relations;
+apply operations on functions; and
+
+determine various types of function: injective, surjective and bijective.
+3.1 INTRODUCTION
+
+In Unit 1, we have already talked of set-relations (i. e., relations on sets)—
+like (subset), C (proper subset), and = (equality) of sets—between pairs of sets;
+and number-relations—like < (less than), > (greater than), and = (equal to)—
+between pair of numbers. In everyday life, we talk of relations like of ‘father to
+daughter’, ‘mother to son’, ‘sister to brother’, ‘teacher to student’, and ‘employer
+to employee’. In economics, occurrence of the concept of relation is almost
+universal, e. g. (item, cost-of-production), (item, sales-price), (income-of-a-
+
+family, expenditure) to name a few.
+
+In most of such cases, there is a sense of direction/order from the first to the
+second in the sense that if X is mother of Y, then Y is not mother of X, i.e., X and
+Y cannot be exchanged in the relation of is-mother-of. Similarly, for the relation
+of is-less-than (<), we have 4< 5, and we cannot exchange roles of 4 and 5 for the
+relation ‘<’ to be true. Except in special cases of relations like equal-to (=) in
+numbers, or the relation of sibling (persons, male or female, having same pair of
+parents) among human beings, the order of arguments involved in a relation, in
+
+general, has to be taken into consideration.
+
+Also, a relation need not be between two similar sets, as discussed above:
+between two sets of sets, between two sets of numbers, or between two sets of
+human beings. It may be between two different types of sets. For example, the
+relation of age-of-person is from a set of human beings fo a set of numbers. This
+leads us to the concepts ‘ordered set’ and ‘cross-product of two sets’, which are
+
+discussed next.
+
+a) Ordered Set: Earlier, in Unit 1, it was pointed out that in a set, order of
+
+occurrence of elements is irrelevant:
+For example, {1, 2, 3, 4} = {4, 2, 1,3} = {3,2, 4,1} =....
+
+However, there are situations, as mentioned just above, in which the change
+of order of occurrence of the elements, changes the situation. For example, in
+co-ordinate geometry (Fig. 3.1), the location of the point (2, 5) is different
+from the location of the point (5,2).
+
+Relations and
+Functions
+
+75
+Review of Basic
+Mathematics
+
+76
+
+Fig. 3.1: Location of Points in Co-ordinate Geometry
+
+Such a set, in which order of occurrence of elements is significant, is called an
+ordered set. In the notation of ordered sets, the elements are enclosed between
+parentheses, instead of braces/ curly-brackets. Thus
+
+(a, b) 4 (b, a), but {a, b} = {b, a}.
+
+b) Cross-product of two sets X and Y, for X # 04 Y, denoted by X xY is the
+set of all ordered pairs (x, y) with x belonging to X and y belonging to Y, 1. e.
+
+X XY = {(x, y): xEX,yE Y}.
+
+3.2 RELATION
+
+The concept of ‘relation’ is one of a few fundamental concepts of mathematics.
+We begin its discussion with its formal/ mathematical definition and illustrations
+through some well-known examples.
+
+3.2.1 Definition, Notation and Illustrations
+
+In Mathematics, a relation from a set X to a set Y is defined as a subset of the
+cross-product X xY. Earlier mentioned relations like is-mother-of or is-less-than
+can be discussed as subsets of cross-products of some sets as follows.
+
+Notation (in Mathematics)
+If Sheela is mother of Shivam, then the fact may be expressed as
+
+Sheela is-mother-of Shivam.
+In mathematics, it is preferred to denote the fact as
+(Sheela, Shivam) € is-mother-of,
+
+where the relation is-mother-of is considered as the set of all the pairs (m, c), for
+which mis mother of c.
+
+In one of methods of mathematical shorthand, is-mother-of is denoted in set
+notation as
+
+is-mother-of = {(m, c): m € X, c € Y, and m is mother of c}& X xY,
+where X= Y=setofhumanbeings.§ = wea. (1)
+
+(The above form (i) is called set-builder form, in which the name of the property
+viz. is mother of is used)
+
+Then the fact Savitri is not mother of Mohan, is denoted as
+
+(Savitri, Mohan) ¢ is-mother-of.
+
+Similarly, the relation ‘is-/ess-than’ (<) on N, may be considered as a subset of a
+cross-product—by taking X= Y = N = {1, 2, 3, ...}—as follows
+
+is-less-than = {(1, 2), (1, 3), C1, 4), ..., (2, 3), (2, 4), (2,5), ..., (3, 4), (3, 5), (3,
+6), ...}, or more systematically as
+
+is-less-than = {(1, 2), (1, 3), (1, 4), (2, 3), (1, 5), (2,4), C1, 6), (2, 5), (3, 4), C1, 7),
+(2, 6), (3, 5), C1, 8), (2, 7), (3, 6), (4, 5), C1, 9), (2, 8) ...} ON XN... GD
+Thus, (1, 4) € is-less-than, and (4,1) € is-less-than.
+
+(The above form (ii) is called roster form, in which each pair for which property
+holds is mentioned explicitly instead of the name of the property is-less-than)
+
+The set-builder form of is-less-than 1s given by
+
+is-less-than = {(x, y): x, y € N, and x < y}
+
+Argument(s) of a relation: the values supplied to a relation are called arguments
+of the relation. The relations discussed just above involve exactly two arguments:
+two human beings, two numbers, or two sets. However, some relations may
+involve just one argument, e. g. is-male or is-female: for example,
+
+is-male (Mohan) is true, and is-female (Mohan) is false.
+
+A unary relation is also called a property of its argument, e. g. is-male is a
+property of Mohan, is-female is not a property of Mohan; is-prime-number is a
+property of 19, is-composite-number 1s not a property of 19.
+
+Some relations may involve more than two arguments, e. g. the relation is-
+integer-strictly-between involve three integers, such that 4 is-integer-strictly-
+between 7 and 2 1s True. But 4 is-integer-strictly between 7 and 9 is False. Also,
+4 is-integer-strictly-between | and 3 1s also False. We may express the relation,
+in set-builder form as is-integer-strictly-between = {(x, y, 2): either y< x < Z, or
+
+Relations and
+Functions
+
+77
+Review of Basic
+Mathematics
+
+78
+
+y> x > 2}. This relation involves three arguments, and such relations are called
+ternary relations.
+
+Similarly, the relation are-parents-of involves three arguments, and may be
+defined as are-parents-of = {(x, y, Z): X, y, z are human beings; and x & y are
+parents of z}. In economics, the (item, cost-production, sales-price) is a ternary
+relation.
+
+Similarly, we may have relations involving four, five or more arguments. For
+example, the relation of time-table of a high-school may involve four arguments
+as follows.
+
+Time-table = {(class, subject, subject-teacher, room-number): class € {VI, VII,
+VIII, IX, X},
+
+subject € {Science, Maths., Hindi, English, ...},
+subject-teacher € {Ms. Geeta, Mr. John, Mr. Abdul, ...},
+room-number = {1, 2, 3, ...}}.
+
+This is an example of guaternary relation. In general, a relation R may involve n
+sets, say Xi, Xo, ... Xn, then R © X {x Xx ... x X,, and R is called n-ary
+relation.
+
+However, most of the time, we will be discussing only relations, like is-mother-of
+or is-less-than, each of
+
+which requires exactly two arguments. A relation which involves two arguments
+is called a binary relation.
+
+Unless, we explicitly state otherwise, the term ‘relation’ will stand for ‘binary
+relation’.
+
+Some more definitions
+
+e Domain, Codomain & Range of a relation: For a binary relation R from X
+to Y, 1. e. R ©X x Y, the set X 1s called the domain of R and the set Y is
+called the codomain of R. For example, consider the relation of R= (Person,
+Number), number stands for 10-digit mobile number. Then domain of R is
+the set of all persons, and the codomain of the relation R is the set of all 10-
+digit natural numbers. The set of all 10-digit numbers, which are used as 10-
+digit mobile numbers of some persons, constitute the range of R.
+
+e Image of an element of the domain: For the relation R €X x Y, for x € X
+(domain), and y € Y (codomain), if (x, y) € R, then an image of x under
+relation R is y. For example, If Shee/a is mother of Shivam, then under the
+relation is-mother-of, one of the images of Sheela is Shivam.
+
+e Relation on a set X: For a binary relation R, if codomain = domain (1. e., R
+is from X to X), then R 1s said to be a relation on X.
+e Onto relation: For a binary relation R from X to Y, we know R &X x Y. It
+is not necessary that every element of Y should occur as second component
+of some ordered pair in R. Consider the relation of (Person, Number),
+number stands for 10-digit mobile number. Then, it is not necessary that
+every 10-digit number is a mobile number of someone. Thus, (Person,
+Number) is not an onto relation. But the relation is-mother-of is onto,
+because, if P is a person, then P must have a mother, say M, Thus, P occurs
+as second component of (M, P).
+
+e One-to-one relation: A binary relation R from X to Y is said to be One-to-
+one relation if any two distinct elements of the domain cannot have the same
+image. One of the examples for one-to-one relation is (Person, Mobile-
+Number): no two different persons can have the same mobile number.
+
+e Empty Relation: A relation R from a set X to a set Y is called empty
+relation, if no element of X is related under R to any element of Y,
+i.e. R= @CX x Y. For example, X = set of decimal digits = {0, 1, 2, 3, ...,
+9}, and the relation R is defined on X as R = {(a, b): a— b = 10}. This is
+empty relation, as no pair (a, b) of decimal digits satisfies the condition
+a—b=10.
+
+e Universal Relation: A relation R from a set X to a set Y is called Universal
+Relation, if each element of X is related to every element of Y,
+Le. R=Xx Y.
+
+e The empty relation and the universal relation are sometimes called trivial
+
+relations.
+
+Notations re-visited: In general, for R, a relation on a set X, the fact that x is
+related to y under R may be denoted by either of the notations (i) (x, y) E R, or
+(ii) x R y. Apart from the above-mentioned set notations for relations, two more
+forms are popular, and will be discussed in details under (1) Graphs and (11)
+Matrices. Here, we just give glimpses of the notations through examples. Fig.3.2
+explains how to obtain graphic representation of a relation, say,
+
+R= {C1 a), (1, b), (2, a), (3, a), (4, b), (4, ©), (4, d)} from the set X= {1, 2, 3, 4} to
+the set Y = {a, b, c, d}
+
+x Y
+
+Fig. 3.2: Graphic Representation of a Relation
+
+Relations and
+Functions
+
+79

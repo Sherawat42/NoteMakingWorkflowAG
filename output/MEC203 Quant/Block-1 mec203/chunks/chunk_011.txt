@@ -1,0 +1,485 @@
+Review of Basic
+Mathematics
+
+Injective Function
+
+Partition of a set
+
+Partial order relation
+
+Partially ordered set
+(Poset)
+
+Surjective Function
+
+100
+
+associates to each element x of X a unique
+element, say, y of Y. The unique element y
+associated with x of X is denoted as f(x), 1. e.
+
+y=f(x).
+
+A function f: X — Y is called injective, if for xj,
+X2 In X with x;# x2 then f( x,) # f( x2 ). The
+definition can be equivalently stated as: A
+function f: X — Y 1s called injective, if f(x) =
+f(X2) then x|= X2.
+
+For a given set X, a partition of X is a non-empty,
+
+finite or infinite, collection P ={X;}, where X;’s
+
+are mutually disjoint non-empty subsets of X,
+
+with their union equal to whole X. More
+
+explicitly, a collection P ={X;} is a partition of X,
+
+if
+
+i) X,#@, for each Xj EP,
+
+li) X; M X;=@, for every distinct pair of X; and
+Xj in P
+
+lll) Ujep Xi=X
+
+A relation R on a set X is said to be a partial
+order, if R is reflexive, anti-symmetric and
+transitive. In more detailed form, R is an
+equivalence relation on set X, if and only if
+
+i) R is reflexive on X, 1. e. for every x € X, we
+have (x, x) € R, and
+
+1) R is anti-symmetric on X, 1. e. for x, yE X, if
+(x, y)E R, and (y, x) € R, then x=y, and
+
+ii) R is transitive on X, 1. e. for x, y, zE Xif (x,
+y)E R, andy, z)E R, then (x, z) ER.
+
+An ordered pair (X, R)—where X is non-empty
+set and R, a partial order relation on X—is called
+a partially ordered set (for short, poset). For
+example, (N, is-divisor -of) is a partially ordered
+set.
+
+A function f: X — Y is called surjective, if for an
+arbitrary element y of Y (the codomain), we can
+find an x in X (the domain) such that f(x) = y.
+3.6 ANSWERS/HINTS TO CHECK YOUR PROGRESS Ketitons and
+EXERCISES
+
+Check Your Progress 1
+
+1.1) Graphic Representation
+
+——
+——
+{=|
+
+xX Y
+
+i1) Matrix Representation
+
+1 3 4
+i[o 1 0 & |
+2 1 8) 1 9)
+3 _ = 0 1
+4 | 9 O 4. o |
+
+2.1) The relation of is-congruent-to on the set X of all triangles is symmetric
+
+i1) The relation less-than-or-equal-to (<) on numbers is not symmetric, as 3 <
+4 is true, but 4 < 3 is false. Also, < is anti-symmetric, as x < y and y <x,
+then x =y.
+
+iii) The relation is-brother-of, if underlying set X= set of all male human
+beings, is symmetric, as every male is its own brother (by definition, x is-
+brother-of y, if x is male and x and y have same parents). Also, it is not
+anti-symmetric, as for x # y, it is possible that we simultaneously have
+(x is-brother-of y) and (y is-brother-of x)
+
+Check Your Progress 2
+
+1. 1){C, 1), (2, 2), (3, 3)} is both symmetric and antisymmetric.
+11) {(1, 2), (2, 3), C1, 3)} is antisymmetric, but not symmetric.
+ii) {(1, 2), (2, 1), C1, 3), (3,1)}1s symmetric, but not anti-symmetric, as (1, 2),
+(2, 1), but 142.
+Check Your Progress 3
+1) For each of the following relations, tell whether it is transitive, not-transitive,
+anti-transitive
+
+i) the relation R defined as R (a, b), for straight lines a and b, if and only
+angle between a and b is 30 degrees, is NOT transitive, because for R (a, 101
+Review of Basic
+Mathematics
+
+b) and R (b, c), the angle between (lines a and b) and also (lines b and c)
+may be 30 degrees, but angle between a and c may be 60 degree also.
+
+i1) the relation less-than-or-equal-to (<) on numbers is transitive
+
+iii) The relation is-brother-of, if underlying set X= set of all human beings is
+transitive.
+
+Check Your Progress 4
+1) The three properties of relations on a set X, are independent of each other.
+Examples of relation which is
+1) reflexive, but neither symmetric, nor transitive:
+R on Z, the set of integers, (a, b) € R, if and onlyif O<a-—b<1
+Reflexive: 0=a-—a< 1;
+
+not symmetric: (4, 3) € R, (3, 4) € R; not transitive: (4, 3) € R, (3, 2) E R,
+(4,2)€R
+
+11) symmetric, but neither reflexive, nor transitive:
+
+R, the relation of being perpendicular to each other in the set of all straight
+lines in a plane
+
+lil) transitive, but neither reflexive, nor symmetric
+
+R is less-than (<) on the set of numbers, say, rational numbers
+
+2) Partition of X = {{1, 3}, {2, 4}}
+
+Check Your Progress 5
+1.i) |
+| — 6
+
+For (1) above, Minimal element = 1, Maximal element =30;
+
+For (11) above, Minimal element = 1, Maximal element =24
+
+102
+15@ 09 ae me °
+
+4
+
+2
+
+(iii) ”
+
+For (111) above Minimal element = 1, Maximal element =60;
+
+For (iv) above Minimal element = 1, Maximal element= 32
+Check Your Progress 6
+
+1) 1) Domain =R, Range = {x ER and x < 0}. (11) Domain = [0,3], Range = [0,3].
+Note: had the function been complex-valued complex function, i. e. f: C OC,
+then Range = Domain=C.
+
+2) 1) —5, (ii) 9 (ai) — 11
+3) 1) f: N > N is not a function, as f{(0) =— 3 € N, the codomain of f.
+
+i1) f: N — Z, is a function.
+
+3.7 EXERCISES
+
+Q1. For each of the following relations, tell whether it is reflexive, not-reflexive
+
+or anti-reflexive
+i) R= {, 1), Q, 2), (1,3), (2, 3)} on X = {1, 2, 3}
+11) The relation is-brother-of, if underlying set X= set of all human beings
+Ans. As (3, 3) € R, R is not reflexive. It is not anti-reflexive as (2, 2) ER.
+
+i) For the relation is-brother-of, if underlying set X= set of all human beings,
+then the relation is not reflexive, because if x is a female, then
+(x, x) € is-brother-of, and also not anti-reflexive, because if x is a male,
+then (x, x) € 1s-brother-of.
+
+Q2. For each of the following relations on the set X = {1, 2, 3}, tell whether it is
+symmetric, not- symmetric or anti-symmetric
+
+i) iC, D, 2, 2), GB, 3)5
+iil) 4, 2), 2, 3), A, 3)5
+iii) {(1, 2), (2, 1), (1, 3), B,D}
+
+Relations and
+Functions
+
+103
+Review of Basic
+Mathematics
+
+104
+
+Ans. 1) {(1, 1), (2, 2), (3, 3)} is both symmetric and antisymmetric.
+1) {(1, 2), (2, 3), (1, 3)} is antisymmetric, but not symmetric.
+
+ii) {(1, 2), (2, 1), C1, 3), (3,1)}is symmetric, but not anti-symmetric, as
+(1, 2), (2, 1), but 14 2.
+
+Q3. For each of the following relations on the set X = {1, 2, 3}, tell whether it is
+transitive, not-transitive, anti-transitive
+
+1) tC, 1, 2, 2), GB, 3)5
+
+i) {(1, 2), (2, 3), C, 3)5
+
+i) {(1, 2), (2, 1), , 3), B.D}
+Ans.
+
+i) {(, 1), (2, 2), (3, 3)} is transitive
+
+i) {(1, 2), (2, 3), (1, 3)} is transitive
+
+i) {(1, 2), (2, 1), C1, 3), (3,1)}is not transitive, as (1, 2) € R, (2, 1) ER, but
+(1,1) ER.
+Q4. Justify each by an example (i) A relation may be reflexive and symmetric,
+
+but not transitive (11) A relation may be reflexive and transitive, but not
+symmetric (111) A relation may be symmetric and transitive, but not reflexive.
+
+Ans. Let R be a relation on {1, 2, 3}. Then
+
+i) R= {d, 1), Q, 2), (3, 3) C, 2), (2, 1), (1,3), (3,1)} is a relation which is
+reflexive and symmetric, but not transitive, as (2,1) and (1,3) € R, but
+(2,3)€R
+
+i) R= {d, 1), (, 2), (3, 3) C1, 2), (1,3), (2, 3)} is a relation which 1s reflexive
+and transitive, but not symmetric, as (2, 3) € R, but (3, 2)€ R
+
+ii) R = {(1, 1), (2, 2)} is a relation which is symmetric and transitive, but not
+reflexive.
+
+Q5. Under the relation of is-proper-divisor-of, draw Hasse diagram for set
+X = {l, 2, 3, ..., 10}, and tell all the minimal elements, and maximal
+elements.
+
+Ans.Minimal element =1, Maximal elements = 5, 6, 7, 8, 9, 10.
+
+2Y 3 Vea
+aa
+Relations and
+Functions
+
+Q6. Find whether the function f: Z—> R, defined by the rule f(x) =x’ is injective?
+
+Ans. Let f(x;) = f(x2), i. e. (x 1)” = (x 2)’ implies x ; = +x 2, for x ; and x 2in Z.
+e. g. f(5) =f(-5), hence, fis NOT injective.
+Without the previous process, we could have directly used f(5) = f(—5), to
+say, fis NOT injective.
+
+Q7. Find whether the function f: C — R, defined by the rule f(x) =x’ is
+
+surjective?
+
+Ans. Let x€ R be arbitrary element of R. then vxe C, such that
+f (V x) =(V x)’ =x. Hence, f is surjective.
+
+105
+106
+
+UNIT 4 COORDINATE GEOMETRY AND
+
+REPRESENTATION OF FUNCTIONS
+
+Structure
+
+4.0
+4.1
+
+4.2
+
+4.3
+
+4.4
+
+4.5
+
+4.6
+
+4.7
+
+4.8
+
+4.9
+
+Objectives
+Introduction
+4.1.1 Vertical Line Test of Function
+4.1.2 Relationship between Equation and Function
+Coordinate Geometry
+4.2.1 Cartesian Coordinate System
+4.2.2 Translating Geometric Figures to Algebraic Equations
+Graphing Linear Functions
+4.3.1 Absolute Value Function
+4.3.2 Step Function
+Graphing Non-Linear Functions
+4.4.1 Even and Odd Functions
+4.4.2 Quadratic Functions
+4.4.2.1 Computation of Vertex
+4.4.3, Cubic Function
+Graphing Asymptomatic Functions
+4.5.1 Graph of Asymptote
+4.5.2 Square Root Function
+4.5.3. Exponential Function
+4.5.4 Logarithmic Function
+Graphing Piecewise Functions
+4.6.1 Rational Function
+4.6.2 Piecewise Functions
+4.6.3 Discontinuous Function
+4.6.3.1 Asymptotic Discontinuities
+4.6.3.2 Point Discontinuities
+4.6.3.3. Jump Discontinuities
+Graphing Hyperbola and Parabola
+4.7.1 Hyperbola
+4.7.2 Difference between Hyperbola and Parabola
+4.7.3 Rectangular Hyperbola
+Graphing Functions with Two Variables
+4.8.1 Level Curves
+Let Us Sum Up
+
+4.10 Key Words
+
+4.11 Answers/Hints to Check Your Progress Exercises
+
+4.12 Exercises
+4.0 OBJECTIVES
+
+After going through this unit, you should be able to
+
+apply vertical line test to identify a non-function;
+
+explain how coordinate geometry differs from the conventional/
+synthetic geometry;
+
+obtain algebraic equations corresponding to simple geometric figures;
+graphically represent various types of functions of a single variable; and
+
+handle the graphs of two variable functions at a preliminary level.
+
+4.1 INTRODUCTION
+
+From the previous unit, we know that a function is a relationship between its
+domain (X, in Fig. 4.1A) and codomain (Y, in Fig. 4.1A) such that every
+element of the domain is related to exactly one element of the codomain/ range.
+
+On this ground, Fig. 4.1A does not represent a function (or functional
+
+relationship) on each of the following two grounds:
+
+i)
+
+ii)
+
+the element 5 of domain (X) is related to three elements, viz. 4, 5, 7 of the
+codomain
+
+each of the elements 3 and 4 of domain X is not related to any element of
+the codomain Y.
+
+Fig. 4.1A: A Non-Functional Relationship
+
+However, for a relationship to be a function, there is no such restriction on the
+
+elements of codomain Y. For example, Fig. 4.1B represents a function or
+
+functional relationship, even when
+
+1)
+
+ii)
+
+element C of codomain Y corresponds to two elements viz. 2 and 3 of
+domain X, and
+
+element A (or even B) of codomain Y is not related to any element of
+domain X.
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+107
+Review of Basic 4
+Mathematics
+
+\ {
+
+> O wm OD }x
+
+Fig. 4.1B: A Functional Relationship
+
+4.1.1 Vertical Line Test of Function
+The vertical line test for graphically testing (only) failure of a relationship f(x)
+to be a function of x indicates that the vertical line crosses the graph of f(x) at
+
+two points (Fig 4.2).
+A
+
+f(x)
+
+i~
+ye
+
+wv
+
+Fig. 4.2: Graph that does not Represent a Function
+Thus, using vertical-line test we can identify the graphs that are not functions.
+
+at *.]
+
+For example, you can show that each of the following graphs is not a function
+
+Fig. 4.3: Graph of Not-Function
+
+Fig. 4.4: Graph of a Function
+
+108
+But the graph shown in Fig 4.4 above represents a function. Thus, some of the
+important equations such as ellipse, circle and parabola may not represent a
+function.
+
+One must note that the above test can be used for testing failure of a
+relationship to be functional. It cannot be used for testing (success) of
+a relationship to be functional. There are other additional requirements for a
+relationship to be functional.
+
+4.1.2 Relationship between Equation and Function
+
+Before we discuss functions in detail, we need to be clear about possible
+relationship between an equation and a relation/ function.
+
+Consider the equation
+X°+Y°=4 (1)
+
+Then to talk about mathematical relation/function, we rewrite the above
+equation so that one of the variables, say, Y is written on L.H. S. and everything
+else is shifted to R.H.S.as follows:
+
+Vie? — x (2)
+
+Next step to talk about a relation/ function corresponding to Equation (1) is to
+rewrite (2), so that only Y (and not its power, or square-root etc.) 1s written on
+L.H.S. as follows:
+
+Y= + V(4- xX’) (3)
+
+At this stage, after reducing the L.H.S. to a single variable, with the power of
+the variable as exactly 1, we can talk of a (mathematical) relation/function. As
+(3) does not satisfy single-value rule, hence, equation (1) does not correspond to
+a function. Of course, it corresponds to a relation. Equation (3) is obtained to
+make Y as dependent variable, and X as independent variable. By interchanging
+the roles of X and Y in the above process, we can make X as dependent
+variable, and Y as independent variable. Similarly, by taking the following
+equation in three variables
+
+X°+ Y°4Z77=4 (4)
+Through the similar process, we may rewrite the Equation (4) as
+Z= + V(4—-X*-Y’) (5)
+
+At this stage, we may talk of Z being a function or not, and this time, function
+of two dependent variables, viz. X and Y. Again (5) does not represent a
+function.
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+109

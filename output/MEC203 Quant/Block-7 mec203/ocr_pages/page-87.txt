@@ -1,0 +1,44 @@
+Dynamic
+Optimisation
+
+86
+
+1=F(up*,k) with FO. 9 FO Lg FO Lg 24.59)
+ou ok apk
+
+This is the general result of the model with convex and symmetric adjustment
+cost (Ceteris paribus, the adjustment cost of increasing the capital stock by some
+
+amount is equal to the adjustment cost of decreasing it by same amount.
+
+e)
+
+The model shows a negative elasticity of investment to interest rate (2 < 0|
+r
+
+- a standard characteristic of neoclassical model). From equation (24.56) a
+lower interest rate increases the present value of an additional capital p
+
+resulting in a faster speed of convergence and higher investment rate.
+
+Optimal k* and w is shown in figure (6)
+
+k* K
+Fig. 24.6: Dynamics of 1,and k(t)
+
+Check Your Progress 2
+
+y
+
+Consider a competitive firm producing good y. The production function of
+the firm is given by Y(t) = AF(k(t)) where A is total factor productivity and
+
+k is the capital stock. The market price of capital stock and market price of
+output is unity. If the gross investment I is equal to k'(t)+ 5k(t) where Sis
+
+depreciation rate. Assuming the instantaneous cost of gross investment for
+firm is equal to K(t)+(I(t)) where y is a convex function for which it holds
+w(0)=0 w'>Oandy">0. If the firm chooses the investment path that
+maximizes the present value of current and future profits. Find necessary
+condition for profit optimisation assuming infinite time horizon and its
+economic interpretation and r is real interest rate.

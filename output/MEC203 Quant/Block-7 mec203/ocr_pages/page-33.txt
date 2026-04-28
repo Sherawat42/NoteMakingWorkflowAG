@@ -1,0 +1,59 @@
+Dynamic
+Optimisation
+
+32
+
+optimization, and used it in deriving optimality criteria of discrete dynamic
+optimisation. Finally, we explained how to use the approach in solving relevant
+problems.
+
+22.12 KEY WORDS
+
+Euler-Lagrange : The necessary condition for optimisation in
+equation calculation of variation which can be found by
+setting 1“ variation of functional to zero.
+
+Necessary and sufficient condition for optimal:
+2™variation of functional is positive definite for
+maximum and negative definite for maximum.
+
+Function : The function of with its domain as a set of
+fucntions.
+
+Objective : The function which needs to be optimized ice.,
+
+functional either maximized or minimized.
+
+Isoperimetric Types of problems for which we seek optimal
+
+Problems value of functions which are subjected to integral
+
+constraint, in addition to ‘ordinary’ boundary
+conditions. Such problems are called
+
+isoperimetric problems
+
+Bellman- : Value functional of objective functional.
+equation VOot= max{f(%, u) + BV(g@,x))}
+u
+
+22.13, SOME USEFUL BOOKS
+
+Chiang.C.Alpha, 1992, Elements of Dynamic Optimisation, International
+Editions, Mc Graw — Hill, Inc.
+
+Kamien. I. Morton, Schwartz. L. Nancy, 1991, Dynamic Optimisation, The
+calculus of variations and optimal control in Economics and Management,
+Second Edition, Elsevier Science B.V, The Netherlands.
+
+Seierstad Atle, Sydsaeter Kunt, 1987, Optimal Control Theory with Economic
+Applications, First Edition Elsevier Science B.V., The Netherlands
+
+Stokey.L.Nancey, Lucas.E.Robert, Jr., Prescott.C.Edward, 1989, Recursive
+methods in economic dynamics, first edition, Harvard University press.
+
+Weber.A.Thomas, 2011 Optimal Control Theory With Applications In
+Economics, The MIT press.
+
+Whittle. Peter, 1996, Optimal Control, Basic and Beyond John Wiley& Sons
+Ltd.

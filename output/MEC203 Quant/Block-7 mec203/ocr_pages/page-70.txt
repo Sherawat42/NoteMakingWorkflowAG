@@ -1,0 +1,59 @@
+max [[p,q,-(q,)le™ at ws. (24.5)
+
+Subject to x’ = —q; . (24.6)
+where Pp; = market price of extracted resource at period, t
+Qt = Quantity of resources sold/extracted at period
+
+t (This has an assumption i.e., no resources is stored for next period at source or
+zero inventory)
+
+C(t) =cost of resource extraction at period t
+
+x’ =rate of change of stock of resource
+
+eta discounting factor.
+
+(Please refer to the discounted problem in unit: 23)
+
+We can write H” = pyat — C(t) — Heat
+
+Setting OF gp, eq Pt o(qu)—1y =0 ... (24.7)
+oat dq,
+Total revenue = TR = pq
+
+Hence marginal revenue R’(q)=pt +t gp
+
+dq
+From necessary condition of optimisation
+
+ws rhe
+
+From equation (24.7) py = [r +t ) —c'(q)
+
+Special case elasticity <=constant and c'(q) = 0
+
+R=[pegd?) af 1+ 20.9) of 4.2)
+iq dq p €
+
+=> R'=kp where k = constant = [: + |
+€
+
+We can write py =R’-—c'(q) if c'(q) =0 the py =R’
+
+1_ dR) _ py
+= =rR'
+a at
+. dp d(kp)
+If we take —- =rp then SY? = 1
+we take dt pthen at ‘kp
+if 2 ~othen SR =e) _ AR’ _ r(R’-c’)
+dt dt dt
+
+So we can write
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+69

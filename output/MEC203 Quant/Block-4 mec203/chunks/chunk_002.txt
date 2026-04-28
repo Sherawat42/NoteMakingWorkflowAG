@@ -1,0 +1,506 @@
+--- Page 11 ---
+
+ignou
+THE PEOPLE'S
+UNIVERSITY
+
+©)
+
+--- Page 12 ---
+
+UNIT 13 REAL ANALYSIS
+
+Structure
+13.0 Objectives
+13.1 Introduction
+13.2 Sequences
+13.2.1 Set-type Conceptualization of a Sequence
+13.2.2 Sequence as a Function
+13.2.3 Some Relevant Notations and Definitions
+13.2.4 Well-known Types of Sequences
+13.3 Properties of Sequences
+13.3.1 Bounded Sequence
+13.3.2 Monotone Sequence
+13.3.3 Convergent, Divergent, Oscillatory Sequences
+13.4 Properties of Sets of Real Numbers
+13.4.1 Definitions: Open Sets, Closed Sets, Bounded Sets, Compacts Sets
+13.4.2 Bolzano-Weierstrass Theorem for Sets and its Economic
+Applications
+13.5 Analysis of Several Variables
+13.5.1 Introduction to Multivariable Functions
+13.5.2 R", the n-dimensional Real Space and n-dimensional Euclidean
+Space
+13.5.3 Functions Over Euclidean Spaces
+13.5.4 Concepts of Analysis of R”
+13.6 Let Us Sum Up
+13.7 Key Words
+13.8 Answers/Hints to Check Your Progress Exercises
+13.9 Exercises
+413.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+e explain the essence of the discipline of real analysis;
+
+e explain the concepts of a sequence and related concepts like term, length of
+
+sequence, and subsequence;
+
+e define well-known types of sequence such as Arithmetic Progression (A P),
+
+Geometric Progression (G. P)., (H.P) and use these in problem-solving;
+
+e define and characterise sequences with different properties like boundedness,
+
+Monotonicity, Convergence, Divergence, Oscillation;
+
+e define the concepts of limit and limit point of a sequence;
+
+11
+
+--- Page 13 ---
+
+Real Analysis
+
+define, explain and, use in economic problem solving, the Bolzano-
+Weierstrass theorem for sequences as well as for sets;
+
+define some specific types of (sub-)sets of real numbers such as Open Sets,
+Closed Sets, Bounded Sets, Compacts Sets; and
+
+apply the concepts of function, limit, and continuity etc. in respect of
+several variables over R"
+
+13.1 INTRODUCTION
+
+This unit will cover real analysis in detail but to start with we will first
+
+understand a few basics about real analysis, like what is real analysis, difference
+
+between calculus and real analysis, requirement of real analysis by calculus and
+
+the areas where real analysis is applied.
+
+a)
+
+Real analysis, and in general, Mathematical Analysis, are mathematical
+disciplines, which dominantly use analytical skills for solving mathematical
+problems. Real analysis is a branch of Mathematical Analysis, that restricts
+itself to the domain of real numbers. Analytical skills include the human
+capability to recursively
+
+e relate a hard problem to relevant simpler problems, and/or break down it
+into smaller sub problems which are already solved or are easily solvable,
+
+e solve independently the simpler problems, or smaller sub problems; and
+then
+
+e reassemble/ integrate the solutions of the simpler problems, and/or sub
+problems into a solution of the (difficult) problem.
+
+For example,
+
+Finding the behaviour of the members of the following series as we proceed
+further
+
+from the first term
+1, (1/2), (1/2), (1/2), (1/2), ...,
+
+through examining the behaviour/ pattern of some of the initial terms like 1,
+1/2, (1/2), i.e. through examining only some of the initial terms,
+
+Finding the sum of a series like
+S = 1+ (1/2) +(1/2)+(1/2+(1/2)? + ...
+through examining partial sums
+
+Si=1, So= 1+ (1/2) =3/2,  S3= 1+ (1/2) + (1/4) =7/4, ...
+
+Calculating change at a particular point of time/space is quite a difficult
+problem, which is attempted to be solved through evaluating change over
+small intervals containing the point, and, gradually making the intervals
+smaller so as to coincide with the point. Evaluating change over an interval is
+simpler.
+
+--- Page 14 ---
+
+Finding area bounded by an irregular figure by approximating it through the
+areas of small 2-dimensional closed regular figures, where the sizes of the
+closed figures is gradually reduced.
+
+Developing recursively theories of larger sets of numbers from those of the
+smaller sets: The actual constructions and theories of reals from those of
+rationals; that of rationals from those of integers, and so on.
+
+Some of the categories of analytical skills include logical reasoning, critical
+thinking, and data analysis.
+
+b)
+
+c)
+
+d)
+
+Subject matter of Real Analysis: It is the study of behaviour and
+properties of real numbers (R), of sequences and series of real numbers, and
+of real functions. Most of the functions studied are real-valued, however, the
+codomain may be any other non-empty set also. A function is a
+
+e real function if its domain is R, or subset of R containing an interval.
+e real-valued if its codomain is R.
+
+Limit is the fundamental concept of analysis both for real sequences/series
+and for real-valued functions. For sequences and _ series, the other
+fundamental concepts include convergence. For functions, other fundamental
+concepts include continuity, differentiability and integrability.
+
+Difference between Calculus and Real Analysis: Despite of the fact that
+subject matter of each of calculus and real analysis involves most of the
+same concepts including limit, continuity, derivative, integrals etc., the two
+disciplines approach these topics from different perspectives: Real analysis
+provides sound theoretical foundations and justifications for the calculations
+done through calculus. For example, in calculus, we apply the rule of finding
+derivative of quotient u/v, of two derivable functions u and v of x, with v 4
+0, using the Quotient Rule:
+
+d(u/v)/dx = (v du/dx - u dv/dx)/v" ..- (13.1)
+
+However, the justification for the facts that—(i) d(u/v)/dx exists, and (ii)
+Equation (A) above is true—is provided by real analysis.
+
+Similarly, the fundamental theorem of calculus is used for finding definite
+integral of a function f for which an anti-derivative F is known. However, the
+proof of fundamental theorem is subject matter of Real Analysis.
+
+Calculus requires the theoretical foundations from Real Analysis: Let us
+illustrate this through a couple of examples:
+
+Example 13.1
+Find the sum of the series 1 + (1/2) +(1/2) +(1/2)° + ...,
+
+For this purpose, consider the following method of finding sum of the series:
+
+Let S=14+(1/2) H12) +12) +...
+Then 28 =2+[1+(1/2) +(1/2) +(1/2)° + ...]
+
+Real Analysis
+
+13
+
+--- Page 15 ---
+
+Real Analysis
+
+=2+S
+Therefore 28 -—S =2.
+S=2
+is the required solution.
+Apply the above method to find sum of the following series
+S'=14+24+2?+24...
+Then, through the above method, we get
+28° =2[14+24+2°4+23 4+...) =24+274+27+...=87-1
+
+Therefore S’ = —1, which is completely absurd.
+
+Reason for absurdity: The method is valid only under certain conditions.
+Determining validity of conditions is the concern of Theory (in our case, Real
+Analysis). The role of calculus is to apply the method, under the validity
+conditions determined by Real Analysis.
+
+Example 13.2
+Let L= limp, 0(y)™
+
+Further, by letting m= n+l, we get L=limysyo0(y)"™? =limpsssoy (y)” =
+y limny150(¥)”
+
+But as n+1 oo then n 40», therefore,
+
+L=limayis0(¥)"** = limpsis0y ()" = limayis0(¥)"= ylimnso(y)”
+=y (L).
+
+(y— 1) L=0, implying either y=1, or, L=0
+
+Thus, for all y’s with y#1, we have limmso(y)™ =L=0.
+
+But again, this is absurd, because by taking y = 2, we get the limit of the
+sequence 2, (2), (2)°, (2)', ... as zero. Again, determining/ explaining the
+absurdity is the job of theory (Real Analysis). The role of calculus is to apply the
+method under the conditions determined by the theory (Real Analysis).
+
+e) Application Domains: In the area of natural sciences, social sciences and
+engineering, the notion of continuous change plays a significant role.
+Specifically, in economics, some of the areas of its applications include
+expected utility theory, welfare economics, financial economics, cooperative
+games, e. g. the Nash Bargaining Solution.
+
+13.2 SEQUENCES
+
+We have an intuitive idea of what a sequence is, e. g. a sequence of events in a
+cultural program or we have an idea that (1, 2, 4, 8, ...) is a sequence of numbers
+which are powers of 2. Sequence is a concept in which entities of its concern
+come, in some order, one after another. A sequence, may be considered either as
+a (special type) of set or as a (special type) of function.
+
+--- Page 16 ---
+
+Notation: Before we proceed further, it may be noted that the (standard) notation
+for a sequence is the same as that for an ordered set, e. g., (1, 2, 4, 8, ...), which
+is bounded by parentheses ‘()’instead of the set notation {1, 2, 4, 8, ...}, bounded
+by braces ‘{}’.
+
+13.2.1 Set-type Conceptualization of a Sequence
+A sequence is a sort of a set, such that it
+
+e is an ordered set: (E, V, I, L) and (V, I, L, E) are distinct sequences formed
+out of the same set {E, I, V, L}.
+
+e is an enumerated set, i.e., all the elements can be listed one after another
+according to some ordering. For example, in the sequence {0, 1, 4, 9, ...} of
+squares of integers, | is listed after 0; 4 is listed after 1, and so on. This sort
+of listing is not possible for the elements of the set of real numbers with any
+ordering. This sort of listing is not possible even for the elements of a small
+interval like [0, 1]. For example, w.r.t the order-relation ‘<’, for the purpose
+of listing, we do not know the real number immediately next to 0. Thus, any
+interval of real numbers cannot be represented as a sequence w.r.t the
+relation “<’. Actually, R, or any of its sub-interval, cannot be represented by
+a sequence w.r.t any relation, because |R| > |N|, where |S| denotes the number
+of elements in (or cardinality of) the set S.
+
+e unlike a set, allows repetition of its elements, e. g. (1, 2, 4, 2, 4) is a correct
+sequence representation, though {1, 2, 4, 2, 4}is not accepted as proper
+notation for the set {1, 2, 4}.
+
+Alternatively, more formally, a sequence is considered as a function as follows.
+13.2.2 Sequence as a Function
+A sequence of real numbers is a function
+£SDR,
+where
+i) S, the domain, is either
+a) the set N of natural numbers, or
+
+b) an interval subset of N—e. g. (i) integers in the interval //0, 20/, or in the
+interval [10, «[, or even
+
+c) integers in the finite extensions [— k, n], [— k, o[, for ke N&n EN, e. g.
+integers in /— 0, 20], or in /— 10, ~«/, and
+
+ii) R, the codomain, is the set of real numbers. The codomain may be Q, the set
+of rational numbers; Z, the set of integers; C, the set of complex numbers; or,
+in general any non-empty set.
+
+According to this definition of the sequence, our main concern is the images of
+the function, written in order from the first towards the last, e. g., for the
+sequence
+
+Real Analysis
+
+15
+
+--- Page 17 ---
+
+Real Analysis
+
+f: NDR,
+we are interested in the ordered set (f(1), f(2), (3), ...),
+which, most of the time, we write as (fi, fr, f3, ...).
+A shorthand for (f1, fo, f3, ...) is (fr), n= 1, 2, 3, ..., or even (fn)nen
+Examples of sequence as a function
+Example 13.3
+
+The sequence of all non-negative integral powers of 2, may be considered as the
+
+function
+
+ISQ: NON, s. t. (ISQ, our shorthand for Integer Square)
+ISQ (n) =n for all ne N.
+
+But our interest here is in the set of images
+(ISQ (1), ISQ (2), ISQ (3), «..)s
+
+Which, in context of sequences, is written as
+
+(ISQj, ISQo, ISQ3, ...) with ISQ,= 2”,
+
+or, ISQ,= 2", n= 1, 2, 3, ...or, (2")n en
+
+Example 13.4
+
+However, if we are interested only in the sequence of powers of 2, which are
+two-digit integers, then the functional representation of the sequence may be
+
+ISQ: [4, 9] > N, s. t. ISQ (n) = 1 for all n.
+And, then our interest is in the set of images
+(ISQ4, ISOs, .., ISOv)= (2%, 2°, 2°, 2’, 2°, 2”)
+Which in shorthand is written as
+ISQ,= 2", forn=4, 5, ..., 9, or
+ISQ,= (2") 4<n<9, n € N may be taken as understood
+Example 13.5
+
+Further, if we are interested only in the sequence of powers of 2, with values
+between2 ’” to 2'°, then the functional representation of the sequence may be
+
+ISQ: [- 10,10] N, s. t. ISQ (n) = n? for all n€ [- 10,10].
+And, then our interest is in the set of images
+
+(ISO_ 19, ISO_»9, «..,1SQo, ISO jo) = (21°, 2°, ... 27, 2°, 2"... 2!)
+
+--- Page 18 ---
+
+Which in shorthand is written as
+
+ISQn= (2") n Nand n€|- 10,10], Of, even n € N may be taken as understood, and then
+
+as
+
+ISQ.= (2") n &€[- 10,10]
+
+13.2.3. Some Relevant Notations and Definitions
+
+A sequence is generally denoted as (S,), representing the infinite sequence
+(S1, Sz, S3, ...). However, for the restricted sequences, we mention the range
+of the integers which are used as indices of the restricted sequence. For
+example, (Sn) n € - 10,10) Tepresents the sequence (S_/9,S_»,...,89,S79), and
+(Sn) n es10,2represents the infinite sequence (510,811,872, ...).
+
+The constituents of a sequence are called elements or terms of the sequence.
+For example, the elements or terms of the sequence (2, 3, 4, 2, 1,1) are 1, 2,3
+and 4.
+
+The domain S for functional representation of a sequence f: S > R, is called
+indexing set. From the above examples, indexing set may be [— 10, 10].
+
+The term index or rank of an element in a sequence is, unfortunately not
+standard. For our purpose, for the sequence f: SD R, index of an element,
+say r in the sequence is the element s of the domain S which maps to r. More
+explicitly, index of r of R is s such that f(s) =r.
+
+For example, for sequence [SQ, = (2”) n € ¢- 10,10» index of 2 10 is (= 10),
+because ISO (- 10) = 2 '°, though it is the first element in the sequence.
+Similarly, Index of 2=2' is 1, because SO (10) = 2', though it is 12" in the
+sequence.
+
+Length of a sequence:
+
+The number of occurrences of the terms in a sequence is called its length.
+For example, the length of the sequence (1, 0, 1, 0, 1, ...) is infinite.
+However, the corresponding set {0, 1} has only two elements. From the
+above, it is clear that a sequence may be finite or infinite. A finite sequence
+having n elements is also called n-tuple.
+
+Subsequence of a sequence:
+For a given sequence, say (Sn), a sequence is called its subsequence, if
+
+i) The subsequence is obtained by deleting some of the terms of (S,),
+i. e. each term of subsequence occurs somewhere in (S,), and
+
+ii) without disturbing the relative positions of the remaining elements,
+i.e.
+a) if S, and S, are two terms of the sequence which are also in the
+
+subsequence, and
+
+b) S, precedes S, in the sequence (S,), then S, also precedes Sq in the
+subsequence.
+
+Real Analysis
+
+17
+
+--- Page 19 ---
+
+Real Analysis
+
+For example, (2, 4, 6, ...) is a subsequence of (1, 2, 3, ...). But (4, 2, 6, ...)
+is not a subsequence of (1,2, 3, ...).
+
+Recursively definable sequences: A sequence (a,) is said to be recursively
+definable if the n™ term of the sequence can be obtained through a formula
+involving some or all the previous terms.
+
+For example, we discussed earlier the sequence (Sp) = (2") nen.
+
+. : 1
+This sequence can be defined recursively as: 8) = 2\ =2; and sp= 2 * Sp-1,
+because
+
+Sp = 2P=2x2"'=2x shy.
+
+Next, we discuss some of the well-known types of sequences, which are all
+recursively definable. In the rest of the discussion in the unit, we will assume
+that, unless it is mentioned otherwise, our sequences (S,) are indexed by
+n€N, where 0 may be considered as belonging to N.
+
+Check Your Progress 1
+
+1)
+
+2)
+
+3)
+
+4)
+
+Tell which of the following is a subsequence of S= (4, 6, 8, ...)
+a) (6, 12, 16) b) (12, 6, 16) c) (8, 64, 243, ...)
+
+Write first five terms of each of the following, considering S; as first term
+
+a) S,=[n+(1)"V/n b) [1—-(/ (+1) "'?
+
+Write general term for the following sequence
+a) 11/2, 11/8, 11/14,... b) —1,1,5,13,...
+
+Define the following sequence recursively
+a) 1,4, 13,40, ... (b) 4, 9, 16, 25
+
+--- Page 20 ---
+
+13.2.4 Well-known Types of Sequences Real Analysis
+
+Here, we consider some well-known sequences like; Arithmetic progression
+(A.P); Geometric progression (G.P); Harmonic Progression (H.P); Fibonacci
+sequence. All these sequences are recursively definable.
+
+A) Arithmetic progression (A.P)
+For some constant real numbers a and d, the sequence
+a, at d, at 2d, at 3d, ...
+
+is called arithmetic sequence or arithmetic progression. For this sequence, the
+number a is called the initial term and the number dis called the common
+difference.
+
+n" term of A. P: It can be easily verified that n™ term tyof A. P., viz, (t,)—with
+initial term as t;=a, and common difference as d—is given by t, = at+ (n—1)* d.
+Example 13.6
+
+i) The sequence 3, 7, //, /5, ... is an A.P. with initial term as 3, and common
+difference as 4
+
+ii) The Sequence 5, 3.5, 2, 0.5,— 1, — 2.5, ... is an A. P. with initial term as 5,
+and common difference as (— 1.5).
+
+40" term of sequence (i) = (3) + (40-1) x 4=159.
+21" term of sequence (ii) = (5) + (21 — 1) 1.5) =—25.
+
+Sum of first n terms of an A.P
+(ti, te, «ee thy a)
+isgivenby  S, = (n/2) (t; + ty)
+
+The proof of the above formula for sum S, follows from the following argument:
+
+Sn t)4 bt tty oth
+Writing in reverse order, we get
+Sn=trttrr+b+t
+
+Summing corresponding terms, we get
+2 Sn = (titty) + (tott pp) +... H( tat th)
+
+But each of the sum of pair of terms within one pair of parentheses is = (t)+ty).
+
+For example, (t2+t »-1) = [ (tit+d) + (tn — d)] = (titth)
+Thus, 2 S,=n (t+t») or Sn= (1/2) (titta).
+
+For an A.P with initial term t; =a and common difference = d, the sum formula
+becomes
+
+Sn= (n/2) (titta) = (0/2) [a + (a +(n- 1) d]
+=(n/2) [2at+(n—1)d].... 2.2... @D 19

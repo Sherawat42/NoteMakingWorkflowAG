@@ -1,0 +1,599 @@
+--- Page 01 ---
+
+Su, 5U5,...5U,, ) = Fy, ,U5,...5U, Ll) . Advanced Topics in
+Optimisation— II
+
+Then this restriction allows to reconstruct whole
+u u,,
+
+F(u,,U5,-.U,5Z) = f(A+,...5—).
+Zz Zz
+
+Proof:
+
+u u u u u u
+F(u,,Uy,...5U,,2Z)=F(z:—,..4.2°-, 2 Daz FAD = f(y 4)
+Zz Zz Zz Zz Zz Zz
+
+19.4.2 Homothetic Functions and Properties
+
+Homotheticity is a generalization of homogeneity. In fact, we will show that
+homothetic functions are the ordinal equivalent of homogeneous functions.
+
+Definition: A function y:r” > Ris called homothetic if it is a monotonic
+
+transformation of a homogeneous function, that is there exist a strictly
+increasing function g: R > Rand a homogeneous function x: R” — R such that
+
+Y=A§ox
+Homotheticity is an ordinal property: monotonic transformation of homothetic
+function is homothetic.
+Example 19.2 : Let x(u,v)=uv, a homogeneous function of degree 2. Then
+the monotonic transformations
+2
+g.(z)=z+l, g,(2)=2 +2, g,(z)=Inz,
+generate the following homothetic (but not homogeneous) functions
+
+y, (u,v) =uv +l, y,(u,v) =u’v? +uv, y;(u,v) =Inu+Inv.
+
+Properties of Homothetic Functions:
+
+Theorem D: Level sets of a homothetic function are radial expansions of one
+another, that is y(u)=y(v) implies y(tu) = y(tv) for arbitrary
+U=(U,,U>,....U,, ),V=(V,5V>5-5V,), £>0.
+
+Proof: y(t) = g(x(tu) = g(t*x(u)) = g(t*x(v)) = g(x(tv)) = (tv).
+
+Theorem E: For a homothetic function the slopes of level sets along rays
+from the origin are constant, that is
+
+oy oy
+ay an
+
+BN
+ay au,
+
+J
+
+For all i,7 and ¢>0.
+
+In other words, Marginal Rate of Substitution (MRS) for a homothetic
+function is a homogeneous function of degree 0.
+
+211
+
+--- Page 02 ---
+
+Extreme Values
+and Optimisation
+
+212
+
+Proof:
+sn) 3, BED) BOOMD)SE (a) SE
+we) 5, Beate) ar (atu) SE (tw) SC)
+x1 OX Ox
+x1 OX Ox
+
+Substituting t=1 we get
+
+oy Ox
+uu) ay,
+
+Way kay
+
+au) ay,
+
+Thus
+
+oy Ox oy
+En. WS i au,
+dy — ex. oy.’
+a.) a au,
+
+This completes the proof.
+Theorem F: If x is homothetic and y is ordinally equivalent to x, then y is
+also homothetic.
+
+Proof: Suppose y(u)> y(v). Then x(u) = x(v) be equivalence. For all t>0,
+x(tu) > x(tv) by homotheticity of x and then (tw) > (tv) for all t>0 by
+
+equivalence.
+Check Your Progress 3
+
+1) Let f(u,,u,) =3u;u, + 2u;u; —3u;u3.Find out homogeneity and degrees of
+
+homogeneous function.
+
+2) Determine whether the function /f(u,,u,)=aIn(u,)+fln(u,) is
+homothetic.
+
+--- Page 03 ---
+
+19.5 CONCAVE AND QUASI-CONCAVE FUNCTIONS Advanced Topics in
+
+Optimisation— II
+
+Let us recall that a function f(u) is called concave in an interval [u,,w, |
+
+(where u, <u, ) if the line joining any two points on the graph is never above
+the curve. Let function f be continuous in the interval X and twice
+
+differentiable in the interior of that interval, X¥°. Then,
+
+f isconcave on X° = f"(u)<0 forall we X°.
+Example 19.3: Is f(u) = au’ + bua concave function?
+
+Ans. f(u)=au’ +bu . Differentiating both sides w.rt. u, f'(u)=2autb.
+Again, differentiating both sides w.r.t. u, f''(u)=2a. Now, if a<0, then
+f''(u) <0. Then the function f(u) would be concave.
+
+19.5.1 Maximum and Minimum Condition for Concave
+Functions
+
+Let f(u) is a concave function in an interval YX . If a is a stationary point in
+the interval X for f(u), then a is a minimum (maximum) point for f(w) in
+
+Xx.
+
+In short, when a is an interior point of X, and the following conditions are
+satisfied:
+
+1) f''(u)=0 for all values of ue X
+2) f'(a)=0
+
+Then, this implies u =a is a minimum point for f(u) in X
+
+Similarly, when a is an interior point of X , and the following conditions are
+
+satisfied:
+1) f"(u) <0 for all values of u eX
+2) f\(a)=0.
+
+Then, this implies u=a is a maximum point for f(u) in X.
+Formal Graphical Definition of Concave Functions
+
+In the above section we have defined concavity only for twice differentiable
+function. There is a way to characterize concavity which is applicable even
+
+when the function is not differentiable and that is through a geometric
+(graphical) way. A function f(u) is called concave if the line joining any two
+
+points on the graph is never above the curve (Fig. 19.1).
+
+One can easily prove that for differentiable functions, the definition of
+concavity in terms of the sign of the second derivative is equivalent to the
+geometric definition of concavity. To examine the geometric definition of
+concavity, we must have an algebraic formulation of the geometric definition
+of the given function.
+
+213
+
+--- Page 04 ---
+
+Extreme Values
+and Optimisation
+
+214
+
+f(u
+
+<7
+Fig. 19.1: Concave Function
+
+Let there exist an arbitrary point uw in the interval [a,b] where a<b and for
+some a €[0,1] can be written as
+
+u=(1-—a)at+ab=a+a(b—a).
+
+If a<b and O<a@<l, then a<a(b—a)<b. Conversely, if ue[a,b] and we
+
+u-a
+
+useu =
+
+then 0<a<l and(l-aarhab =(1- 2a pau,
+b-a b-a
+
+—a
+
+Here @ is the ratio between the distance from u to a and the total distance
+between a and b (Fig. 19.2).
+
+Vv v=f(u)
+
+_-\(b.f(b))
+
+>
+u
+
+Fig. 19.2: Concave function with a line segment
+where A= f[(l—@)a+ab] and B=[(l—a)a+ab]
+Now according to the definition of concavity, a function f would be concave
+
+if the graph of a function is on or above the line segment. So, a line segment
+joining (a, f(a)) and (b, f(b)) has the equation
+
+v-f(ay=LOLO (ua)
+
+Denote the height of the line segment from (a, f(a)) and (b, f(b)) at the
+point u by hA(u).
+Thus, v= h(u) and we put the value of u so,
+
+neu) fa) = LO LO (1 a)a+ab=a+a(b~a)~a)=al fb)- f(a)
+
+--- Page 05 ---
+
+This implies that h(w) =(1—@) f(a)+ af (b) . Now as a €[0,1] so the number
+(1—a@)a+abcan also take all the values in [a,b].
+
+Now, as the definition says that the line segment should always lie below or
+on the graph of /, this implies
+
+h(u) < f(d-—a@)a+ab) for all a €[0,1].
+(l—a) f(a) + af (b) < f(1—a)a+ab), for all @ € [0,1].
+
+Definition: A function f defined on the convex set X c R" is called concave if
+for every u,,u, € X and 0<t<1, we have
+
+(l—a) f(a) + of (6) s f(l—a@)a+ ab).
+
+Concave Functions of One Variable:
+
+Theorem G: Let f be a differentiable function on the open convex set
+
+X CR. It is concave if and only if for every u,,u eC, we have
+
+fs fu,)+ fu, )\u-u,)-
+
+Theorem H: Let f be a differentiable function on the open convex set
+
+0?
+
+X CR. It is concave if and only if f' is a non-increasing (decreasing)
+function
+Concave Functions of Several Variables:
+
+Definition: For any function f on X and any AER the set U(S,A)
+defined by
+
+U(f,A)={u:ue X, f(u) >A}
+
+is called the upper level (or contour) set of f. The set
+L(f,A)={u:ueX, f(uysa}
+
+is called the lower level (or contour) set of f.
+
+Proof: Let u' and u'' be two points in U(f,A), Le, f(u')=A and
+f(tu")=A. By concavity of f,
+
+f(au'+(—a@)u") = af (u')+ -a) fu") = aa+(l-adz=a2.
+Therefore, au'+(l—@)u"'eU(f,A).
+
+The converse statement of the above theorem is not always true. To guarantee
+the sufficiency we would need a weaker condition called quasi concavity.
+
+Theorem I: Let f be a differentiable function on the open convex set
+
+X CR". It is concave if and only if for every u,,u¢X , we have
+
+Su)—fUu,)<VF(U,):(U-u,)
+Proof: Let us assume that f be concave on X. Let u,,ueX , by the
+
+concavity of f, we have V a €[0,l],
+
+f(Up + A(U—Uy)) = f(Uy) + Lf (W)— fF (U,)1
+
+Advanced Topics in
+Optimisation— II
+
+215
+
+--- Page 06 ---
+
+Extreme Values
+and Optimisation
+
+216
+
+=> f(y tatu a > f(u)—f (uy)
+
+Taking the limit of the above expression as a + 0*, we have
+
+fu)- fu) <Vfu,)-(u-u,).
+
+To prove the converse, takeu' and uw" in X, and let u* =au'+(1—a@)u". By
+
+assumptions,
+fU')s fUYFVIU) (uu),
+fu")s fU)+VFUT)-(u—u*)
+
+Multiplying the first inequality by a and the second inequality by 1—a@, and
+adding we get
+
+SU) 2fu')+-a@) fu").
+Hence proved.
+
+Quasi-Concave Functions
+
+Theorem J: Let f be defined on the convex set X c R”. It is a quasi-concave
+
+function if and only if
+f (ou, +(1—a@)u,) 2 min[ f(u,), f(u,)] for every u,,u,¢X and 0<a<l.
+
+Proof:First suppose that U(f,a) is convex. Take u,,u, ¢X and ae€[0,l].
+Assume without loss of generality that f(u,)2f(u,)=a . Thus,
+u,,u,EU(f,a) , and by convexity of U(f,a) we have
+au, +(1—a)u, €U(f, a), which means
+
+f (ou, +(1-@)u,) 2 = f (uy) =min[ f(u,), f(u5)].
+
+To show the converse, suppose that f(au, +(1—a@)u,) 2 min[ f(u,), f(u,)] for
+all u,,u, €X and for all a €[0,1]. If U(f,a@) is empty or singleton, then it is
+trivially convex. So, suppose that U(f,a) contains at least two points u, and
+u, . Then f(u,)2a@ and f(u,)2a, and so min[f(u,), f(u,)]2a. By
+hypothesis f(ou,+(U-a@)u,) 2 min[ f(u,), f(u,)] and hence
+ou, +(1-a)u, €U(f,a@). Since a was chosen arbitrarily, this completes the
+
+proof of the first part.
+Alternatively:
+
+Definition: Let f be defined on the convex set X c R". It is said to be quasi
+concave if its upper-level setsU(/,a@) = {u uUEex, f(u)= a} are convex sets
+
+for every real a.
+Differentiable Quasi-Concave Functions
+
+Quasi Concave functions have derivative characterizations as do the concave
+functions.
+
+--- Page 07 ---
+
+Theorem K (Quasi concavity for C'[C! function is a continuous function
+
+with a continuous first derivative] functions)
+
+Let f be differentiable on the open convex set X CR". Then f is quasi
+
+concave if and only if for every u,,u, € X
+
+Proof: First, suppose that f is quasi concave on X, and let u,,u, © X such
+that f(u,)2= f(u,). Leta € [0,1]. Since f is quasi concave, we have
+
+= f(u, + atu, —u,))— f(u,)
+
+a
+
+>0, forall q@e[0,l].
+
+Taking the limit of the above expression as a@—0O* , we _ have
+Vf (u,)-(u, —u,) 20.
+To show the converse, let us say g(a~)= f(u,+a(u,—u,)). Observe that
+2(0)= f(u,)< f(u,) =g(), and that g isa C' function on [0,1] with the
+derivative g'(a)=Vf(u,+a(u, —u,)).(u, —u,). Now suppose that, for all
+U,,u, EX , we have f(u,)2 f(u,)=Vf(u,)-(u, —u,)20. We will show that
+this implies the quasi concavity of f ,1.e.,
+
+g(a@)= flu, +a(u, —u,) 2 min[ f(u,), f(u.)] = f(u,) = g(0), for all a €[0,1]
+Suppose on the contrary that the above is not true, i.e., there is some a €[0,1]
+such that g(a,)<g(0). Because g(0)<g(1), we can choose a, such that
+g'(a,)>9 . Now let Zy =u, + Q(u, -u,) Because
+F(u,) = g() > g(a) = f(z) andz, € X , we have, by hypothesis, that
+VF (Zy): (Uy — 29) = VF (Zo) “(-& )(u, —u,) 20> VF (z,)-(u, -u,) <0 (19.27)
+The above is true since @ >0. On the other hand, we have chosen @, such
+
+that
+8'()) = VF (Zy)(-& (uy —u,) > 0 (19.28)
+
+Inequalities (19.27) and (19.28) contradict each other. Therefore, there cannot
+be such a, €[0,l] with g(a@)<g(0) , and we conclude that f is quasi
+
+concave.
+Hence proved.
+
+Theorem L
+
+Let f bea twice differentiable quasi concave function on the open convex set
+XCR' Ifu,eX, veR', y'Vfu,)=0> y'V’ flu,)y <0.
+
+Advanced Topics in
+Optimisation— II
+
+217
+
+--- Page 08 ---
+
+Extreme Values . Pre . *
+and Optimisation (VI) Determinant Criterion for Quasi-Concavity
+
+First let us define the bordered Hessian determinants as the criterion for
+checking quasi- concavity of a function by checking the signs of certain
+
+determinants.
+
+If z= f(u,,u,) is twice differentiable with the continuous partial derivatives
+
+of the first and second order, defined in an open convex set X , then
+z= f(u,,u,) is strictly quasi- concave if the bordered Hessian determinant be
+
+represented by u, € X,
+
+0 ft) - £@)
+fu) fiw) fu)
+A necessary condition for f to be quasi-concave is that(—1)’D,(u)>0 for
+
+b=1,---,n andallueX.
+
+The sufficient condition for f to be quasi-concave is that(—1)’ D,(u) >0 for
+
+b=1,:--,n andallueX.
+
+Check Your Progress 4
+
+1) Use the bordered Hessian condition to determine whether the function
+f(u,,u,)=u,e “ is quasi-concave for the region in whichu,20 and
+u,20.
+
+19.6 ECONOMIC APPLICATIONS OF EULER’S
+THEOREM
+
+Suppose the production function ¢= f(u,,u,,...,u,,) is homogeneous of degree
+
+kand p be the price of one unit of the product. Then, by Euler’s Theorem
+
+fa} ra}
+mph (u)+--+u,p w= hog
+
+1 n
+Here, pq is the total value of output;
+of
+
+Fu (u) is amount of additional output when the input u; is increased by 1,1.¢., the
+u.
+
+L
+
+218 marginal product of the i™ input;
+
+--- Page 09 ---
+
+0, . . a : . . Advanced Topics in
+pw) is price of additional output when the inputw, is increased by 1, 1e., n Optimisation. II
+
+L
+
+marginal revenue of the i-th input, assuming wis profit maximiser, it equals to
+
+marginal cost of the i" input;
+
+Of
+uP Ou,
+
+L
+
+of of
+
+u,;p——(u)+-::+u,p Bu, (u) is the total cost of production at profit maximiser.
+
+1 n
+
+(u) is the total cost of the i input;
+
+Thus, from Euler’s Theorem follows:
+If k =1 the firm spends whole revenue on input, so no profit in this case.
+
+If k >1, then the total payment exceeds the value of output.
+
+If 0<k <1, then the total payment is less than the value of output, so the firm
+
+makes a positive profit.
+
+19.7 LET US SUM UP
+
+In this unit, we emphasised on the basic theory of constrained optimisation,
+with its division into two main parts viz., constrained optimisation in the case
+of equality constraints and constrained optimisation in the case of inequality
+constraints. We considered two different techniques for solving these two
+different types of problems. In case of optimisation under equality constraints,
+we apply Lagrangian method to solve those problems, and in the latter case,
+that is, in the case for optimisation under inequality constraints, we apply the
+Kuhn-Tucker theory. We saw that this theory is different in many respects.
+First, the first order conditions of Lagrangian theory and the Kuhn-Tucker
+theory are different. Secondly, in Kuhn-Tucker theory there is no need to
+check the second order condition, while in case of Lagrangian case one must
+check it to ensure whether the optimum value (that we get from first order
+condition) is maximum or minimum. Finally, in Kuhn-Tucker theory there is a
+new set of conditions called “complementary slackness condition”, which
+does not exist
+
+We started with the Envelope Theorem for unconstrained optimization
+problems and moved towards more general case for constrained optimization
+problems. We then presented characterizations of optimisation problems under
+a weakening of the condition of concave functions, called “quasi-concave”
+functions. Some of the characterizations of these functions as a generalization
+of concave functions and proves are discussed in terms of its contour sets
+(level sets), derivatives and extreme properties of the functions on line
+segment.
+
+219
+
+--- Page 10 ---
+
+Extreme Values
+and Optimisation
+
+220
+
+19.8 KEY WORDS
+
+Bordered
+Hessian
+
+Cardinal
+Property of a
+Function
+
+Euler’s
+Theorem:
+
+Monotonic
+Transformation
+
+Ordinal Property
+
+of a Function
+
+Let ff be a twice-differentiable function of n
+Variables. For r=1,---,n the 7th order Bordered
+Hessian of f atthe point u is the matrix
+
+0 fu) - fw)
+fu) fiw fi,u)
+
+fu) fa@) -- f,(u)
+
+A property of a function is called cardinal if it depends
+on the shape, location of level sets and also the actual
+values of the function.
+
+Let f(u,,uU,,...,u,,) be a function that is homogeneous
+
+of degree k. Then
+
+ua) t--tu, Hwa)
+Ou, Ou,,
+
+or, in gradient notation u-Vf(u) = kf (u)
+
+Such integrals are evaluated using the concept of Let J
+be an interval on the real line. Then g:J—>R is a
+
+monotonic transformation of Jif gis strictly increasing
+function on J . Furthermore, if g is a monotonic
+transformation and wis a real valued function of n
+variables, then gou:x—g(u(x)) 1s a monotonic
+
+transformation of u limits.
+
+A property of a function is called ordinal if it depends
+only on the shape and location of level sets and does not
+depend on the actual values of the function.
+
+19.9 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check your Progress 1
+
+1) L=uu,+A(100—u, —u,)
+
+Now take partial derivatives, one for each unknown, including 4
+
+aL
+Ou,
+OL
+Ou,
+
+=u,—-A=0
+
+=u,-A=0
+

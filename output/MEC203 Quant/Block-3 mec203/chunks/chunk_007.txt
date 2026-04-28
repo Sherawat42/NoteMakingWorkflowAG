@@ -1,0 +1,570 @@
+--- Page 61 ---
+
+iii) Pythagorean Trignometric identities:
+sin’ A+ cos? A=1
+1+ tan? A= sec” A
+1+cot” A=cosec” A
+Now, let us look at the differentiation rules for trigonometric functions.
+D(sinA) =cosA
+D(cosA) =-sinA
+D(tan A) = sec” A
+D(cotA) = cosec7A
+D(secA) = secA tan A
+
+D(cosec) = —cosec AcotA
+
+Some generalised formulae for integration:
+
+Integral Rule General Rule
+
+Joosxdx =sinx +C [eostax +b)dx = +sin (ax +b)+C
+a
+
+Jin xdx =-cosx +C Jsin(ax + b)dx =—1 costax +b) +C
+a
+
+i) tan xdx =—In|cosx|+C ftan@x +b)dx =—1in |cos(ax+b)+C
+a
+
+J cot xdx = In|sin x| + C Jeot(ax +b)dx = “injsin (ax +b +C
+
+Jsec xdx = In|sec x tanx|+C [sec(ax +b)dx = 1 injsectax +b)
+
++tan(ax+b))+C
+
+Jeosee xdx Jcosec (ax + b)dx = “injoos ec(ax +b)
+a
+= In|cos ec x + cot x|+ C
+
++ cot (ax +b)|+C
+
+Example 12.14 : Evaluate the integral Jcos(15x)cos(4x)dx
+
+Ans: You may notice that we have utilised trigonometric identities to convert
+products to sums
+
+feosa 5x) cos(4x)dx = 5 Jeosa 1x) + cos(9x)dx =
+
+4(4 sin(11x)+ = sin(1 9x)| +C
+
+Example 12.15: Evaluate | cos x sin® xdx
+
+Ans: Put u = sin x so that du = cos x dx
+
+Differential Calculus:
+Functions of Several
+Variables
+
+293
+
+--- Page 62 ---
+
+Calculus
+
+294
+
+Thus, {cos xsin® xdx = fue du= A siné x+C
+
+Example 12.16: Evaluate the following integral: fsin® xdx
+Ans: f sin® xdx = J sin4 x sin xdx = [ (sin? x)? sin xdx = [(1—cos? x)? sin xdx
+
+Put u = cos x to get
+
+fsin® rex =-J(1-u2) du = [(1-2u? +us)du=-{u- Zu? + Lu?) +c
+
+- [08x +2089 x cos5 x40),
+3 5
+Example 12.17: Evaluate [@sinx - 4sec2x) dx
+Ans: [@sin x —4sec2x) dx 3sin xdx - [4sec2x,
+Or, 3) sin xdx ~ 4] secdxdx = 3f sin xdx — 4 sec” xdx =—3cosx —4tanx+C.
+Example 12.18: Evaluate } cos(2x — 6) dx
+Ans: J cos(2x — 6)dx
+
+Put u=2x-—6 so that du _» or, dx =4au
+dx 2
+
+cos? Xx
+
+We now have cos(@x ~6)dx = foos du = w’du=—- +C=- +C.
+
+12.5 INTEGRATION BY PARTS
+
+A method of integration is often useful when two functions are multiplied
+together. Let us return to differentiation of product of two functions u = f(x) and
+
+v = f(x) which gives,
+
+d(uv) = uv + vat
+dx dx
+
+From this, we can obtain
+
+Jovyax = fuviax + Jve'dx
+
+Because feavy'ex =uv
+
+“.uv'dx =uv— i} vu'dx
+
+Example 12.19: Solve F(x) = [ xe-dx
+Ans: Let u(x) =x,v(x)=—e *
+
+So that u(x) =4,v'(x) =e-*
+
+“f(x)= fuv'dx
+
+--- Page 63 ---
+
+Differential Calculus:
+Functions of Several
+Variables
+
+=uv ~ J vu'dx
+=—xe™ + fe-* dx
+
+=-xe *-e*+ce=-e(l+x)+ce
+
+Example 12.20: Evaluate the following integral: f(3t+ 5)co¢{ + | dt
+Ans: Put u=3t+5 and qv coe +) dt
+
+So that du = 3t and v= asin( +
+
+The integral is then,
+ft+ 5)cos{ +) dt = 4(3t + 5)sin (3) -12{ sin (3) dt = 4(3t+ 5)sir( +)
++48/ cos (3) +C.
+4
+Example 12.21: Integrate [xin xdx
+
+2
+Ans: Let u=Inx and dv = xdxso that du=axand vas
+
+2 2 2
+Therefore, [xinxdx =~ nx — [2 Lax = nx —2 fxdx =
+2 2x 2 2
+2 2 2
+2S x SES. c -*S - Be aC.
+2 22 2 4
+Check Your Progress 2
+
+1) Since indefinite integration is the anti-derivative, how do you show that
+
+1.
+Jcos axdx = —sin ax+C.
+a
+
+2) While solving the integration problem, how do you decide to use a)
+substitution and b) integration by parts?
+
+3) Use the formula for integration by parts to evaluate fx4 Inxdx. Why Inx
+
+would be the best choice for u?
+
+295
+
+--- Page 64 ---
+
+Calculus
+
+296
+
+12.6 SOME USEFUL FORMULAE
+
+Here are some useful formulae for integration.
+
+xn+1
+1) [x"dx =——+e,n#-1
+n+1
+
+2) [x-tdx = | % =togx +6 for any x > 0
+x
+
+3) femax= 2" 6 for any m
+m
+
+ain
+
+4) fat™dx= +
+mloga
+
+sinax
+
+5) Jcosaxdx = +c
+
+cos ax
+a
+
+7) [IK £00) +K2g(%)dx]=K, [f() dx +Ky g(x)dx-+ efor Ky,K, 20
+
+6) {sinaxdx =-
+
++C
+
+12.7 DETERMINATION OF THE CONSTANT OF
+INTEGRATION
+
+We have noted that the indefinite integral always contains an arbitrary constant.
+
+The value of this constant can be precisely determined (and the integral rendered
+unique thereby) if it is known that the integral function y =f(x)+c obeys some
+
+prescribed initial condition (y= yo when x = 0) or more generally boundary
+
+condition (y = yg when x = Xo). To illustrate, we know fo? +3)dx = ox +3x+e
+
+Here y =f(x)+c= ae +3x+c. Suppose, we are given the initial condition, y
+
+= 20 when x = 0. Then
+yo =f(0)+c=c=20
+
+This fixes the integral as the unique function y — x8 +3x+20-
+
+12.8 DEFINITE INTEGRALS
+
+When we use integration to arrive at a number, definite integral helps. It has both
+the start and the end values: in other words, we operate in an interval. This type
+of integration is useful in finding areas, volumes and central points.
+
+12.8.1 Finding Area
+
+We look at the Area Problem before we deal with definite integrals. It will help
+us interpret definite integral and lead us to the definition of the definite integral.
+Suppose we have a function f(x) that is positive on some interval [a, b]. If we
+want to determine the area of the region between the function and the x-axis, we
+
+--- Page 65 ---
+
+do this in two ways: using an approximation (finding areas of rectangles) and
+using integration, where the latter is also a method of approximation, of course,
+by dividing the area under consideration into very large number of very small
+rectangles/ areas.
+
+For the method of approximation, the space under the function is divided into
+rectangles and adding areas of those rectangles we get the area under the curve
+(Fig. 12.2). For example, to determine the area under the curve, that is, the
+shaded region below we divide the area into rectangles.
+
+FO)
+
+c
+Fig. 12.2: Finding area using inner rectangles
+The height of each rectangle is found by calculating the function values, as
+shown for the typical case x = c. We get a better result if we take more and more
+rectangles. In Fig. 12.2, we are approximating the area using inner rectangles
+(each rectangle is inside the curve).
+
+We could also find the area using the outer rectangles.
+
+To understand the process let us estimate the area by dividing up an interval, [a,
+
+b] into n subintervals each of width, ax = b-@ Then construct a rectangle whose
+n
+
+height is given by the function value at a specific point in the interval. The area
+of each of these rectangles can be derived by Ax.h g where h is the height of the
+rectangle in that interval. When we add each of these, we get an estimate of the
+area under the curve using three options of right, left and the middle value of the
+rectangles of the curve.
+
+Suppose you want to determine the area of the function f(x) = x’ +1 in the
+interval [a, b] by considering 4 subintervals. Fig. 12.3 shows the area under
+
+examination.
+
+¥
+5
+
+4
+
+x
+ao. o5 1. 15 2.
+
+Fig. 12.3: Finding area using outer rectangles (right end points)
+
+Differential Calculus:
+Functions of Several
+Variables
+
+297
+
+--- Page 66 ---
+
+Calculus From Fig. 12.3 it is apparent that by choosing the height of each of rectangle
+overestimates the area. The reason is that each rectangle takes in more area
+
+stretching beyond the value of the function as shown by the curve in each case.
+
+Since the width of each of the rectangles is % and the height of each rectangle at
+
+the value given by the function at the right endpoint of the concerned interval
+f(x;) the estimated total area is
+
+1f1) 1 1,(3) 1
+A, =<f/ = |+-f(@+=—f| = |]+-f(2
+r (3) 2) {3 31)
+=31(3} Steeda 2] 2009) =51
+2\4) 2 2\4) 2
+
+The option of choosing the right end point of the height of a rectangle is not
+unique and its left end point can also be considered. Such an alternative gives the
+
+graph shown in Fig. 12.4 and estimated area.
+
+|
+
+a5 1. 15 2.
+
+Fig. 12.4: Finding area using left end point of the outer rectangles
+1 1/1) 1 1 (3
+A, =~f(0)+=f] = |+-f@+=f] =
+1=3f) (5) yf) (3)
+-teaaty 5 steayaty 13 =3.75
+2 2\4) 2 2\4
+
+In this case, the estimation is an underestimation since each rectangle misses
+some of the area each time. Instead of using the right or left endpoints of each
+sub interval, option of taking the midpoint of each subinterval as the height of
+
+each rectangle yields the graph shown in Fig. 12.5.
+
+298
+
+--- Page 67 ---
+
+x
+
+0. 05 1. 15 2.
+
+Fig. 12.5: Finding area using mid points of the outer rectangles
+
+The estimation of the area in case of mid-point height of the rectangle is
+
+Ay -ii(G)}31( 2} +22) 2e( 2)
+24) 2\4)"2 4) 24
+
+2 \16) 2 \16/ 2 (16) 2 \16
+Estimating the area by the approximation method produces three estimates viz.,
+right corner, left corner and mid-point height values. Moreover, finding the
+approximate area through these three options is also influenced by the nature of
+curve and whether it is increasing or decreasing. For a better result, you need to
+take more rectangles (i.e., increase n) that will result in minimizing the features
+of including the curve areas above the curve in the option of right corner height
+and below the curve areas in the option left corner height. For a more general
+result, we look into functions that produce curves of various types that may lie
+
+above or below that x-axis as well. Doing that leads to our adoption of the
+method of definite integral to find the area under a curve.
+
+Let us start out with a continuous function f(x) > 0 on [a, b]. Note that by
+
+specifying the interval we are considering a situation that has start and end
+
+points. If we divide the interval into n sub intervals each of length we get,
+b-a
+
+Ax =-—*
+n
+
+The end points of each subinterval are,
+
+Xo =a
+X4=a+Ax
+X2 =at+2Ax
+xj =a+iAx
+
+Differential Calculus:
+Functions of Several
+Variables
+
+299
+
+--- Page 68 ---
+
+Calculus
+
+300
+
+Xn_1 = a+(N—1)Ax
+Xn =at+nAx=b
+Thus, in each interval we have [Xg,X,],[X1,X2],...-[Xj_1.Xi],---[Xp_1.Xn]. From
+
+each we choose a point x;,x>,....x, such that these will give the height of the
+
+rectangles in each subinterval. Seen in terms of a graph, the formulation will look
+like Fig. 12.6.
+
+¥
+
+SN
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+x:
+
+%
+q
+@ 6
+
+Fig. 12.6: Finding area in a given interval
+
+™ Tx 7x, & ; x.
+yu 1 mx ae ee
+
+The area under the curve on the given interval is then approximately,
+
+A = £(x4)AX + (Xo )AX +... + F(X] JAX + F(xp, JAX
+
+So A = S:f(xi )Ax
+i=1
+
+The summation above is called a Riemann Sum and A =lim,_,., Sfx) )Ax
+i=1
+
+gives the exact area under the curve.
+
+12.8.2 Definition of Definite Integral
+
+Given a continuous function f(x) on the interval [a, b], if we divide the interval
+into n subintervals of equal width, Ax, and from each interval choose a point,
+
+x} , then the definite integral of f(x) from a to b is
+b n *
+
+Jf(x)dx =limpy_,.. XF(%j Ax
+a i=1
+
+Example 12.22: Using the formula given above, compute of the exact area under
+f(x) = x? +10n [0, 3].
+
+3 n —
+2 , (b-a) . 27 9
++1)dx =lim f(x;). =lim 12444 —~_
+Joe )dx = li noe (x) n | nom On =, |
+
+2,00 2.002
+
+-(124 Zh +85) -12+000-12
+
+--- Page 69 ---
+
+12.8.3. Properties of Definite Integral
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+1dx =b-a
+
+b tps
+cf (x)dx =c Jf(x)dx if ¢ is a constant.
+a
+
+(f(x) + g(x)) dx = it(x)dx + Ta(x)dx
+a a
+
+f(x)dx= If(x)ax + Tx(x)dx
+
+a Cc
+
+o-F7 O89 TOT DO- OT O—O
+
+If the integral of y = 2x +3 from 1 to 3 is 14 and the integral of the same
+function from 3 to 5 equals 22, then the integral from 1 to 5 of the function
+y = 2x + 3 equals 14 + 22, or 36 because the two integrals (from 1 to 3 and 3
+to 5) make up the whole integral (from | to 5). Conversely, since the integral
+of y = 4x° — 2x from 2 to 4 equal 228, then you know that the sum of the
+integrals from 2 to 3 and 3 to 4 the same function must also equal 228. If 0
+
+<f(x) < g(x) for all x in [a, b], then 0 < F(x) ax < fa(x) dx -
+a a
+
+a
+f(x)dx =0
+
+Example 12.23: The integral of y = 3x + 4 from 2 to 2 because the integral
+of any function in which both bounds are the exact same number is zero.
+
+a b
+Ifa <b then it is convenient to define [foodx = -[foodx
+
+b a
+
+Example 12.24 : If the integral from 1 to 4 of the function y = x’ is 21, then
+the integral from 4 to 1 of xis -21 because when the bounds of an integral
+are switched, the integral is the same, but has the opposite sign (positive
+changes to negative, and/or negative changes to positive).
+
+Check Your Progress 3
+
+1) What is a definite integral?
+
+Differential Calculus:
+Functions of Several
+Variables
+
+301
+
+--- Page 70 ---
+
+Calculus
+
+302
+
+3) Why f(x) dx = 0?
+a
+
+12.9 FUNDAMENTAL THEOREM OF CALCULUS
+
+The processes of differentiation and integration developed quite independently,
+unrelated to each other. However, the fundamental theorem of calculus
+established the relationship between differentiation and integration. We have
+seen from finding the area that the definite integral of a function can be
+interpreted as the area under the graph of a function. It justifies our procedure of
+evaluating an anti-derivative at the upper and lower bounds of integration and
+taking the difference.
+
+The first part of the theorem shows that indefinite integration can be reversed by
+differentiation. It also proves that for every continuous function, there is an anti-
+derivative (integral).
+
+Let F be any anti-derivative, or indefinite integral, for f on [a, b]. If f is a
+continuous function and is defined by
+
+F(x)= frmat
+Then, F’(x) = f(x)
+
+And therefore, £ frat f(x)
+dx 4
+
+Every continuous function f has an anti-derivative, and there is one anti-
+derivative F(x) given by a definite integral of a f with a variable upper boundary.
+Varying the lower boundary of the integrand will produce other anti-derivatives.
+One of the first things to notice about the fundamental theorem of calculus is that
+the variable of differentiation appears as the upper limit of integration in the
+integral. This makes sense because if we are taking the derivative of the
+integrand with respect to x, it needs to be in either (or both) the limits of
+integration. If we are integrating a function with respect to x, the function we end
+up with, needs to be in terms of x.
+
+The second part of this theorem tells us how to evaluate a define integral
+assuming that f has an indefinite integral:
+
+b
+[ rear =F -F@
+

@@ -1,0 +1,488 @@
+Review of Basic
+Mathematics
+
+120
+
+Example: Sketch the graph of function y = 2x* — 8x + 6. As the coefficient
+ofx’ is positive, so the graph is U-shaped (Fig. 4.17)
+
+|
+
+-2
+
+Fig. 4.17:Graph of Function y=2x’—8x+6
+
+In the graph of y =x ”, the point (0, 0) is called the vertex. The vertex is the
+lowest point in a parabola that opens upward. In a parabola that opens down
+ward, the vertex is the highest point. We can also graph a parabola with a
+different vertex. For example, see the graph of y=x°+3 (Fig 4.18). The graph
+is shifted up 3 units from the graph of y =x *, and the vertex is (0, 3).
+
+NAN
+\
+
+AN
+
+> =
+
+WY
+
+Fig. 4.18: Graph of y=x’+3
+
+We can also shift the vertex left and right. Observe the graph of y=(x+3)°
+in Fig 4.19.
+
+AN
+\
+
+“WY
+
+Fig. 4.19: Graph of y=(x+3)’
+The graph is shifted /eft 3 units from the graph of y=x’, and the vertex is
+(-3, 0). Next, see Fig. 4.20, the graph of y=(x-3)°, which is obtained by
+shifting to the right.
+
+ee
+
+AN
+\
+
+V
+Fig.4.20: Graph of y=(x-3)
+The graph is shifted to the right 3 units from the graph of y=x’, and the
+vertex is (3,0). Remember that the axis of symmetry is the line which
+divides the parabola into two symmetrical halves. It is given by the equation
+x=h. For example, the line of symmetry in the graph (Fig. 4.21) of
+_ o_o
+y=(x-2)+lisx=2.
+
+\
+\
+
+AN AN
+/
+|
+
+aN
+Y
+>4
+
+WY
+
+Fig. 4.21: Axis of Symmetry
+4.4.2.1 Computation of the coordinates of Vertex
+
+Consider a generic quadratic expression: y=ax°+bx+c. Start with completing
+the square on the equation to have y=a [x*+bx/at+c/a] or y=a
+[(x+b/2a)’—-(b/2a)°+c/a]
+
+The expression —(b/2ay + c/a — (b/2a)’ + c/ais a constant and it does not depend
+on x.So, we can replace it with k. Thus, we writey=a [(x + b/2a)°+k]
+
+Now, depending on whether a is positive or negative, the parabola given by y
+will either have either a maximum value or a minimum value. Since a and k are
+fixed, this must occur when (x + b/2a)’ = 0. Hence, x =—b/2a which implies that
+the function y has either a minimum value or a maximum value whenx = —b/2a.
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+12]
+vow ot paste Thus, x-coordinate of the vertex is —b/2a. The y-coordinate can be obtained by
+athematics
+replacing, in the equation y=ax°+bx+c, the variable x by (—b/2a).
+
+Example: Find the vertex of y=3x°+x—2 and graph the parabola.
+
+To find the vertex, we look at the coefficients a, b and c. Then & is obtained by
+evaluating y at h—1/6
+
+x-coordinate of the vertex = (—b/2a) = (—1/(2 x3)) =—-1/6.
+The y-coordinate is given by replacing x by (—1/6) in the equation
+y=3x°+x-2.
+=3(— 1/6)’+(— 1/6) -2=3/36-1/6 -2
+=1/12—2/12 —24/12=——-25/12
+
+We get y-coordinate as -25/12. Thus, the vertex is at (-1/6, -25/12).
+T-chart can be prepared as shown in Table 4.4.
+
+Table 4.4: T-chart of y= 3x? +x -2
+
+Xx y= 3x’? +x-2
+-2 8
+-1 0
+0 -2
+1 2
+2 12
+
+The graph (Fig. 4.22) can be drawn with the specification vertex:
+
+y
+(2, 12)
+
+(-2, 8)
+
+(1, 2)
+
+(-1, 0)
+
+1 25
+(- eg)
+
+122 Fig. 4.22: Graph of y=3x°+x-2
+4.4.3 Cubic Functions
+
+Cubic functions are encountered in the discussion of total cost in microeconomic
+analysis. Consider a cubic function of the form f(x)= ax’+bx*+cx+d. Its graph
+(Fig 4.23) is obtained as follows:
+
+Boo f. On om om) oon
+
+—_
+
+a
+=
+pa
+
+a
+
+co om one doo
+
+>
+
+“7
+
+Fig. 4.23: Graph of Cubic Function f(x)=x°
+
+ba
+
+To trace the cubic function given by f(x)=x” find the x and y intercepts of the
+graph of f, find the domain and range of f and then sketch the graph of f. The
+y intercept is given by (0, f (0))=(0, 0). The x coordinates of the x-intercepts are
+the solutions to x° = 0. The only x-intercept is at the points (0,0). The domain of
+f(x) is the set of all real numbers. Since the leading coefficient of x° is positive,
+the graph of f is up on the right and down on the left and hence the range of f is
+the set of all real numbers. Table of values is as follows:
+
+x 2 |-l 0 ]1 2
+f(ix)=x | -8 | -1 0 |1 8
+
+Since f(-x) = - f(x), function f is odd and its graph is symmetric with respect to
+the origin (0,0).
+
+Check Your Progress 3
+
+1) Draw the graph for the function, y=x°-2x.
+
+i
+eee errr ere reser e rere rere sreereresresresrereereeresresresreceeresrerereeresresreeresresresreeereresresre rere rere eeececece
+
+eo ee ere rere ere rere rere rere eeeeresrerere rere rerereererseesresrerererereeereeeresresresresrereresrereereeeececece
+
+eee eer creer ere rere rere rere re eres e rere reser ererereeereresresreresresreresresrereeereeresreresresre reece eececece
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+123
+Review of Basic
+Mathematics
+
+124
+
+4.5 GRAPHING ASYMPTOTIC FUNCTIONS
+
+We are familiar with exponential growth models such as population growth and
+compound interest. Such models are represented by functions, which are called
+asymptotic functions. Next, we examine behavior of such functions through their
+
+graphical representations.
+
+4.5.1 Graph of Asymptote
+
+An asymptote is, essentially, a line that a graph approaches, but does not
+intersect (Fig. 4.24). For example, in the following graph of y=//x, the line
+approaches the x-axis (y=0), but never touches it. No matter how far we go into
+infinity, the line will not actually reach y=0, but will always get closer and closer
+
+to it.
+
+rH
+mF Wn rm Ink IM
+
+Fig. 4.24: Graph of Asymptote
+
+This means that the line y=0 is a horizontal asymptote. Horizontal asymptotes
+occur most often when the function is a fraction where the top remains positive,
+but the bottom goes to infinity. Going back to the previous example, y=1/x is a
+fraction: When we go out to infinity on the x-axis, the top of the fraction remains
+1, but the bottom gets bigger and bigger. As a result, the entire fraction gets
+smaller, although it will not hit zero. As we increase the values of x, the values
+of the function will gradually have values 1/2, then 1/3, then 1/10, even 1/10000,
+
+but never quite 0. Thus, y=0is a horizontal asymptote for the function y=I/x.
+
+The function also serves as an example of vertical asymptote, because as y
+becomes larger and larger in absolute value, x becomes smaller and smaller in
+
+magnitude, but never becomes 0.
+Similarly, the equation y =4/(x—2), gives one of the horizontal asymptotes, viz.
+y= 0, and one of the vertical asymptotes, viz. x=2 (Fig. 4.25).
+20
+10
+
+5
+
+-20 -i5 -107 =] 5 10 15 20
+
+-5
+-10
+
+-1i5
+
+Fig. 4.25: Graph of the Function y =4/(x—2)
+
+Note that as the graph approaches x=2 from the left, the curve drops rapidly
+towards negative infinity. This is because the numerator is staying at 4, and the
+denominator is getting close to 0. That means that the fraction itself is getting
+very big and negative. When x is exactly 2, the function does not exist because
+you cannot divide by 0. Immediately after 2 it resumes at positive infinity,
+because the numerator is 4 and the denominator is again very tiny, but this time it
+is positive.
+
+Next, we consider two examples of functions one of which gives only
+
+(1) horizontal asymptote, but not a vertical asymptote, and (11) vertical asymptote,
+
+which is not horizontal.
+
+i) The function y= 1/ (x —2), for 0 < x < 2, is asymptotic with x= 2, being a
+vertical asymptote. Similarly,
+
+i1) The function x= 1/ (y —2), for 0 < y < 2 is asymptotic with y= 2, being a
+horizontal asymptote
+
+4.5.2 Square Root Function
+
+As the name indicates we take a variable x to write the function in the form
+off(x)=Vx, with Domain/Range: [0,c), and intercept (0,0), and which is neither
+even nor odd and is increasing on(0,°0). Plotting its graph yields Fig. 4.26.
+
+ay
+
+X
+[=
+
+ae)
+
+a 5 10
+
+Fig. 4.26: Graph of Square-root Function
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+125
+Review of Basic
+Mathematics
+
+126
+
+You may see that square root function is used to depict an is o cline which
+provides information on the way different is o quant are related to each other. In
+fact, this is o cline based on square root function converges to a point where
+output is maximized and marginal product is zero.
+
+4.5.3 Exponential Function
+
+A general exponential function is of form y =a", where a is an arbitrary constant,
+and x any real variable. The discussion of the general exponential function
+requires substantial space, and hence, will not be discussed here. We discuss a
+special such function which is found useful in several applications, viz. the
+natural exponential, which is of the for my= e*where e is Euler's number (a
+number approximately equal to 2.718281828). If we take its domain as the set of
+all real numbers 1.e., (co, 0), then its range is (0, 0). Since the graph never
+intersects or goes below the x-axis, the y-values are not zero or negative
+(Fig. 4.27).
+
+y=e*x
+
+=.
+Oo
+
+TaSee=Ee
+
+10-68 6-4
+
+Il
+ha
+bo
+fn
+
+1
+—_
+|
+
+Fig. 4.27: Graph of Exponential Function
+
+Three of the most common applications of exponential and logarithmic functions
+(to be discussed soon) have to do with interest earned on an investment,
+population growth, and carbon dating. For example, exponential functions are
+used to describe growth or decay processes with constant growth (or decay rate),
+population growth, growth of GDP, inflation etc.
+
+4.5.4 Logarithmic Function
+
+A logarithm function is a sort of inverse function of exponential function. Thus,
+if y = b*=f(x) is an exponential function, then x = log 5 y = g(y) (read as log of
+y to the base b) is such that, with some restrictions, f(g(y)) = y, and g(f(x)) =x. A
+function given by y=logpx, where b is any number such that b>0, b#1, and
+x> 0, denotes logarithmic function. When b> 1, the values of the logarithm
+increase; and for 0<b< 1, the values decrease.
+
+The logarithmic function slowly grows towards positive infinity as the variable
+increases and slowly goes towards negative infinity as it approaches 0. Three
+special cases of logarithm are quite well-known and useful: (1) b =10, called
+decimal or common logarithm and is more used in science and engineering
+applications. (11) b = e, approximately equal to 2.718281828 is called natural
+logarithm and used frequently in Mathematics and physics, and (111) base =2, is
+called b in arylogarithm, and is frequently used in computer science. For all
+bases b, including the three mentioned here, log 51 = 0
+
+In the logarithmic function, the domain is all positive real numbers (never zero)
+while the range is all real numbers. The graph is asymptotic to the y-axis — gets
+very, very close to the y-axis but does not touch it or cross it (Fig 4.28).
+
+a
+
+Fig. 4.28: Graph of Logarithmic Function
+
+Check Your Progress 4
+
+1) Let f be a rational function defined by f(x)=x+1/x-1.Find the x and y
+intercepts of the graphs of the function.
+
+eo ee ece reer ere ere re rere reece eeeresreresrerereresresrereseeeresreresresresreresereresrereresresresresreereeeeeececce
+
+2) Draw the graph of an average fixed cost curve. Why do you think it is
+asymptomatic?
+
+4.6 GRAPHING PIECEWISE FUNCTIONS
+
+Up to now, in this chapter, a function has been represented by a single equation.
+In many real-life problems, however, functions are represented by a combination
+of equations, each corresponding to a part of the domain. Such functions are
+called piece wise functions, graphs of which will be discussed below.
+
+4.6.1 Rational Function
+
+A rational function can be represented as the quotient of polynomials, just as a
+rational number is a number which can be expressed as a quotient of whole
+numbers. The graphs of rational functions can be very complicated sporting
+bumps, holes and asymptotes. Consider a rational function that is a quotient of
+polynomials g(x) and h(x) #0.
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+127
+Review of Basic
+Mathematics
+
+128
+
+It looks like
+Y= g(x)/h(x)
+Where g and / are polynomials (h # 0). f(x)=x+2/ x-5) is a rational function.
+
+It is not necessary that the denominator of the function must have variable to be
+in this category of function. Note that the domains of the rational functions must
+be restricted to values of x that will not make the denominator of the function
+equal to zero.
+
+Table 4.5: T-chart Value
+
+xX f(x)
+-4 -.25
+-2 -0.5
+-| -1
+
+-.1 -10
+-.01 - 100
+01 10
+
+l l
+
+2 0.5
+4 0.25
+
+The range of a rational function is sometimes easier to find by first finding the
+inverse of the function and determining its domain. Let us sketch the graph
+of(x)=1/x. For drawing the graph, we must be careful that for no value of the
+independent variable, denominator becomes 0. Now, by plugging in some values
+of x and we get Table 4.5.
+
+So, as x gets larger in magnitude (positively and negatively) the functional
+value has the same sign as the sign of x but reduces in magnitude. Likewise, as
+we approach x = 0 the function again keeps the same sign as x but starts getting
+quite larger. It gets very close to the y-axis but will never cross or touch it. As a
+result, there will be no y-intercept. Here is the sketch of this graph (Fig. 4.29).
+
+l 2 4
+
+Fig. 4.29: Graph of Rational Function
+You may see that the graph is in two pieces. Most of the rational functions will
+have graphs in multiple pieces. As may be seen the graph does not have any
+intercepts (with any of the axes) of any kind. Similarly, we get x-intercepts by
+solving f(x) = 0. In the example above the numerator is one and will never be
+zero. So, the function will haven ox-intercepts. Again, the graph will get very
+close to the x-axis but it will never touch or cross it. In the graph above
+(Fig. 4.29) as the value of xapproaches x = 0 the graph starts gets very large on
+both sides of the line given by x = 0. This line is called a vertical asymptote.
+Also, as xget very large, both positive and negative, the graph approaches the
+line given by y=0.This line is called a horizontal asymptote.
+
+4.6.2 Piecewise Functions
+
+Piecewise functions (split functions) are defined in pieces. So, their graphs are
+drawn in pieces. For instance, suppose we have y =[x* — 2, x</
+—2x + 4, >]
+
+Since this function has two pieces, you may find it helpful to work with two sets
+of x and y values independently, one at a time; if it had more pieces, work with
+each piece independently and draw graph for each, one at a time more charts. In
+this case, the break between the two "halves" of the function (the point at which
+the function changes rules) is at x=1, so that is where your charts will break
+(Table 4.5).
+
+Table 4.5:Chart of the piecewise function
+
+x y=x-2 x y =-2x+4
+-4 14 I
+-3 2
+-2 3 -2
+-| -] + -4
+0 -2
+-|
+
+=~
+|
+
+Vv
+
+Fig. 4.30: Graph of the Piecewise Function
+
+Coordinate
+Geometry and
+Representation
+of Functions
+
+129

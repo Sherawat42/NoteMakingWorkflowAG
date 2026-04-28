@@ -1,0 +1,545 @@
+Review of Basic
+Mathematics
+
+50
+
+2.2.3 Polynomials and Polynomial Equations
+
+In the case of equations, which are not identities, we are interested in finding
+solutions. However, finding solution of a general mathematical equation, or of
+even a general algebraic equation 1s quite a complicated matter. Here, we restrict
+to polynomial equations, rather, to some very restricted types of polynomial
+equations.
+
+Let us recall that a polynomial expression 1s a mathematical expression which
+may involve variables only with nonnegative integer powers. It may involve one
+or more variables. For example, x° +8x — 4; x? + (17)'” (the constant in a
+polynomial may have fractional power); (x — 4y)’ etc. A polynomial equation is a
+mathematical expression involving exactly one relational operator, and that also
+must be equal-to sign (=) and two polynomial expressions, one on each side of
+‘=’. For example, (x — 4y)° =x? + (17)'; (x +y)° = 0.
+
+Some basic definitions around polynomial expression/equation
+
+a) Term: each component of an expression separated by either of the two
+symbols ‘+’ and ‘—‘is called a term. For example, the expression x° +8x — 4
+has three terms, viz. x°, 8x, and — 4 (or, instead of — 4, we may take just 4).
+However, (x — y)’, at highest level, has only one term. Of course, on
+expansion, (x — y)’ =x’ + y — 2x y has 3 terms.
+
+Examples of power of a variable in a term: The expressionx’y +8x — 4y”
+has three terms, viz. x’y, 8x, and — 4y’. The power of x in term xy is 3; in
+term 8x is 1; and in — 4’, it is 0. The power of y in term x°y is 1; in 8x it is 0;
+and in term (— 4y”), it is 2.
+
+A single term, at highest level, does not contain any of the two symbols ‘+’
+and ‘—‘. A term of a polynomial expression/ equation involves only
+multiplication (x) including power/ exponentiation, e. g. (45 x” y’). However,
+a term of an algebraic expression/ equation may involve both (x) and
+division (+) symbols, but none of ‘+’ and ‘—‘. For example, (45 x’) / (78 y ) is
+an algebraic term, but not a polynomial term. Unless mentioned otherwise,
+our term is a polynomial term only.
+
+Factor & Coefficient: The term, for example (45 x’ y’) has many factors.
+For example. each of 3, 5, 9, 45, x, x’, y; y, y, and any products of these is a
+factor of (45 x’ y’). The constant 45 is called coefficient in the term (45 x’ y’).
+Similarly,17 is the coefficient in the term (17xy) and the coefficient in the
+term —25x is —25.
+
+b) Monomial, binomial, polynomial: Coming back to general polynomial
+expression, an expression, e. g. (45 x’ y’), which involves only one term is
+called monomial expression; an expression, e. g. each of (45 x’ y’ -25) and
+a+ b, which involves two terms is called binomial expression; an expression,
+e. g. each of (45 x’ y’ -25x* + 71 y’) and a + b— 72, which involves three
+terms is called trinomial expressionand so on. In general, an expression
+containing, one or more terms—each with non-zero coefficient and variables
+having non-negative exponents—is called a polynomial. A polynomial may
+involve:
+
+e one variable, e. g. 45 x°-25x* + 91 x — 36, involving only variable x,
+
+e two variables, e. g. (45 x’ y’ +y° 25), involving two variables, viz. x and
+y;
+
+e or more variables e.g. x +3y+z+2u+vete.
+
+General form of a polynomial equation: For all practical purposes, a
+polynomial equation, containing at least one variable, can be obtained by
+postfixing ‘= 0’ to a polynomial expression, which does not already contain
+‘=’, For example, (45 x’ y’ +71 y’—25x") = 0.
+
+Degree of a polynomial and a polynomial equation: For this purpose,
+degree of a term is the sum of the powers of all the variables occurring in the
+term, e. g. degree of the term (45 x’ y’) = power of x + power of y =2 +3=5;
+and, degree of the term (345) is 0, as 345 = 345x 1 may be considered as
+(345 x°), or (345 x° y°) etc. (as x” =I, for any x, which may be any variable or
+any non-zero constant). Degree of a polynomial is the maximum of the
+degrees of the terms occurring in the polynomial, e. g. degree (45 x’ y’+ 71
+y> —25x*) is 5. Generally, a polynomial is written in order of decreasing
+degree of its terms: Though it is perfectly correct to write a polynomial as 45
+x’ y+ 71 y —25x*,yet for better understanding, it is generally written as45 x?
+y —25x*+ 71 y’.Degree of a polynomial equation is the maximum of the
+degrees of the terms occurring in the equation, e. g. degree of polynomial
+equation (71 y+ 45 x’ zy’ + 2xy =— 25x’)is 7,
+
+Name for a polynomial: Instead of repeating, if required, a polynomial
+expression at several places, we may give a name to it. If a polynomial, say
+45 x’y°+ 71 y —25x"+ 76, involves two variables say x and y, then we may
+name it as P(x, y), with P (x, y) =45 x? y + 7] y ~25x*+ 76.
+
+Evaluating a polynomial for given values of involved variables: By
+definition of a variable, its value may change. The variable may take any
+value from a set of possible values, where each value of a variable is a
+constant of appropriate type. For example, a real variable may take any real
+number as its value, e. g. if x is a real variable, then each of 4.75 and V2 is a
+possible value of x, but 2+ 3 i, where i? 1, is not a possible/appropriate
+value of x. For given (constant) values of the variables, e. g. x and y, the
+value of a polynomial, say P (x, y) is also a constant obtained by replacing the
+variables by respective values in the polynomial expression. For example, for
+x=2 and y =—1, the value of the polynomial P (x, y) = 4 x°—7 xy’ + 1lis
+
+P (2, -1) =4(2)° —7 (2) (-ly’ + 11 = 16 — 14+11 =13, but
+P (-l, 2) = 4(-1)-7 (-1) (2) + 11 =4 + 28 +11= 43.
+
+Overview of
+Basic Methods
+of Mathematics
+
+51
+Review of Basic
+Mathematics
+
+52
+
+Solution of an (polynomial) equation: We have already mentioned that a
+polynomial equation—in say two variables x and y—is of the form
+
+P (xy, y)=Q (x,y)... ... ... (1)
+
+where P and Q are polynomials in x and y. Then, (constant) values a of
+variable x and 5 of variable y constitute a solution of equation (1) just above,
+if values P(a, b) and Q(a, b) are equal.
+
+2.2.4 Polynomial Identities
+
+We have already discussed that x°— 4 = 0 is a polynomial equation, having two
+solutions, viz. x = 2, and x= —2. However, the equation x*— a” = (x+ a) (x— a) is
+satisfied by every value of x.
+
+2
+
+Equations like x” — a” = (x+ a) (x— a), which are satisfied by every value of
+
+variable x, are called identities, and, whenever the distinction between equation
+and identity needs to be highlighted, then an identity is distinctly written, by
+using =, as
+
+x-a= (x+ a) (x- a).
+
+There are a number of well-known polynomial identities, including the
+following ones. Though these are identities, we are using the symbol ‘=’ instead
+of ‘=’.
+
+l) (x+y) =x “ty + 2xy
+
+2) (x-—y) =x*+ y- 2xy
+
+3) (x-y)=(x + y) (K-y)
+
+4) (xta)(xt+b)=x°+(a+b)x+ab
+
+5) (xt+ytzy=x ty’ +2°+ Ixy + 2xzt 2yz
+
+By replacing throughout any one or two of x, y and z by corresponding
+negative(s), e. g. by replacing y by (— y) efc., we get some other identities. For
+example, by replacing y by (— y), and z by (—z), we get
+
+6) (x-y-z) =x “+ yy +(-z)°+ 2x Cy) +2x Gz) + 2Cy) C2)
+i. =x “ty? +z7—2x y—2xz+2yz
+7) (Ktyy =x? ty? +3xy (x+y)
+Also, by replacing y by (—y) in the above Identity, we get
+8) (K-yyY=x°H(-y)'+ 3 x Cy) (x + (Cy) =x 3 xy (x-y)
+9) x ty +z -—3xyz=(x+ytz) (x+y +z —xy—yz~—zx)
+Applications of Polynomial Identities
+Example: Evaluate 105 x 95 without multiplying directly.
+Ans. 105 x 95 = (100 + 5) (100-5) = 1007— 5’(using (x°—y’) = (« + y) (x—y))
+= 10000— 25= 9975.
+Example: Factorize (625/ 16) x*— (9/49) y”
+
+Ans: As (625/ 16) = (25/4) and (9/ 49) = (3/7)’, therefore,
+(625/ 16) x°— (9/ 49) y= (25/4) x°- (3/7) y°
+
+= [(25/4) x] *-{(3/7) y] °
+
+= [(25/4) x + (3/7) y] [ (25/4) x— (3/7) y]
+
+Check Your Progress 2
+
+1) Write (2a — 4b —5c)’ in expanded form
+
+eo eer e rere rere rere rere rerereereerererere rere reerereeerseeesrererere rere rerereesrerere rere re rere eeseros
+
+eo errr rere rere rere re rere eeerererere reser esreresreeeereresereresresresresreeeesrerereresresresesreeeeerece
+
+eee errr e rere rere rere ee eeeereerseere rere reser ereeer eee er eee erere rere sresreereeererererereresrere reese eesecece
+
+eo cece reer ere sre rere rere ereeeerereresrereresresresreeeeeeeesreresesresresresereesrererereereresreereereeeeerece
+
+2.2.5 Algebra of Polynomials
+
+In this subsection, we discuss how to add, subtract, multiply and divide
+
+polynomials. First, we take up addition and subtraction of polynomials.
+
+1) Sum and Difference of Two Polynomials
+
+For this purpose, for a short while, we shift our attention from the abstract
+world of numbers, constants and variables etc. to the concrete world of
+animals. Sum of 3 cows and 4 cows may be written in simplified form as (3
++4) cows, 1. e. as 7 cows. But sum of 3 cows and 4 horses can NOT be
+simplified in the similar way; the sum of 3 cows and 4 horses can, at most, be
+written in simplified form as 3 cows + 4 horses. Thus, if c represents a cow
+and h a horse, then sum of 3c and 4c can be simplified as 7c. But simplified
+form of the sum of 3c and 4h is only 3c+ 4h.
+
+Returning to the abstract world of numbers now. Each of x, x’, x, ys y’, xy,
+xy’, and a constant c or 3 is a distinct animal. Hence, the sum 3x°+ 4 x? can
+be simplified as 7x”. But the sum 3x+ 4 x’ cannot be simplified in similar
+way. Of course, 3x+ 4 x° may be further simplified as x (3+ 4 x).
+
+Overview of
+Basic Methods
+of Mathematics
+
+53
+Review of Basic
+Mathematics
+
+54
+
+2)
+
+Like terms & Unlike terms: For finding sum of two mathematical
+expressions—similar to the categorization of animals—we categorize terms
+occurring in the expressions. For our purpose, we categorize terms as ‘Like
+terms’ and ‘Unlike terms’. ‘Like terms’ are sort of ‘animals of the same
+type’ and hence their sum can be simplified. Two unlike terms are sort of
+‘animals of different types’, and hence, their sum cannot be simplified in the
+
+same manner.
+
+Like Terms are terms which are identical except for their constant parts.
+For example, two terms are 17 x’ y’ and —39 x’ y’ are like terms, their sum
+can be written in the simplified form as (17 + (-39)) x? y= -22 x’ y’.
+However, the two terms 17 x’ y’ and —39 x’ y’ are unlike terms, the sum of
+17 x’ y’ and —39x’ y® cannot be simplified in similar manner. Their sum has
+to be written as 17 x’ y’+(-39 x’ y’), or as 17 x’ y'-39 x’ y’. Of course, the
+sum17 x? y’-39 x’ y’may be simplified further in a different manner as
+x’ y’ (17-39y). As addition and subtraction are opposite operations, therefore
+the above argument equally applies to subtraction also.
+
+Example of sum of two polynomials:
+
+P(x, y) = 3x°— 5xy +3x +8
+
+Q(x, y) =6y’ + 12 xy—5x 416i. e.
+
+P(x, y) + Q(x, y) = (3x7— 5xy +3x +8) + (6y’ + 12 xy — 5x +16)
+It may be simplified as
+
+(3x°— 5xy+ 12 xy +3x — 5x +8+16) + 6y
+
+= 3x” + (— 5+ 12) xy +(3 —5)x +(8+16) + 6y°
+
+= 3x? + 7 xy + 6y’— 2x + 24.
+
+Example of difference of two polynomials:
+
+In order to find the difference P (x, y) — Q (x, y), first, we get a new
+polynomial R(x, y) from Q(x, y), by changing each ‘+’ before a term to ‘—‘,
+and each ‘—‘ before a term to ‘+’, and keeping the rest of the polynomial
+expression unchanged. Then we find P (x, y) + R (, y).
+
+For example, to find P(x, y) — Q(x, y) for P(x, y) = 3x’— 5xy +3x +8 and
+Q(x, y) = 6 + 12 xy — 5x +16, first we obtain R(x, y) =— 6y"— 12 xy + 5x —
+16. And then calculate P(x, y) + R (x, y) as above.
+
+Product of Two Polynomials
+
+Sum and difference do NOT produce new kinds of terms (each term is a kind
+of animals). But product and quotients generally produce new kinds of terms.
+
+Simplest case is that in which one of the polynomials is a constant. For
+
+example,
+
+P (x, y) = 3x°— 5xy +3x +8; and Q (x, y) =7,
+then P x Q= (3x7 Sxy +3x +8) x7 Overview of
+
+Basic Methods
+=3x7x2- 5x7xy 43x7x +8x7 of Mathematics
+=21 x*-35xy+21x+56.
+
+Product of two general polynomials is obtained from products of the terms,
+one from each of the two polynomials as follows: If polynomials P = T; + T2
++ ... +Tm and Q = 8; + S2 +... +S, be two polynomials, respectively having
+terms T;, Tz, ... Tm and S;, Sz, ..., Sa. Then the polynomial product, P x Q is
+the sum of term-products T;xSj where i= 1, 2, ..., m andj =1, 2, ..., n.
+
+Term-products T;<Sj is explained through the following example:
+
+If T=5 x’y and S=-16 x yz’, then
+
+Tx § = (5) (-16) x2*Fy3220
+
+=-80x° y z’,
+
+1.e., constants are multiplied as usual, and powers of each of the variables
+occurring in the two terms are added to obtain product-term.
+
+Example of product of two polynomials:
+
+Find product of P (x, y) = (4x — 3y + 5) and Q (x, y) = (2x— 7)
+
+One of the methods may be first to take product of each term of P (x, y) with
+whole of Q (x, y)
+
+= (4x — 3y + 5)xQ(x, y)
+
+= 4x xQ(x, y) — 3y x Q(x, y)+ 5* Q(x, y)
+
+= 4x x (2x— 7)}- 3yx(2x— 7) + 5x (2x— 7).
+
+= [4x x 2x + 4x x (-7)] + [—3yx 2x —3yx(—7)] + [ 5x 2x + 5x(-—7)]
+= [ 8x°-28x] + [- 6xy + 21 y] + [10x — 35],
+
+Collecting like terms, and simplifying, we get
+
+= 8x*-28x + 10x —6 xy +21 y— 35 = 8x" — 18x — 6 xy + 21 y— 35.
+Check Your Progress 3
+
+1) For P (x, y) = 4x” 3xy + 5y, and Q (x, y) =— 4x*— 3xy + 5y’find the (i) sum
+P (x, y) + Q (%, y) and the (11) difference P (x, y) — Q (x, y).
+
+55
+Review of Basic
+Mathematics
+
+56
+
+2.3 SOLVING POLYNOMIAL EQUATIONS
+
+As mentioned earlier, finding solution of a general mathematical equation, or of
+even of a general algebraic equation is quite a complex matter. Even solving
+general polynomial equations is quite complex issue, and hence, we restrict to
+only the following special types of polynomial equations:
+
+i) Single linear equations in one variable
+11) Single linear equation in two variables
+iii) System of two or more linear equations in two or more variables
+
+iv) Quadratic equation in one variable
+
+Before we define the various concepts—like linear and quadratic equations etc.—
+involved in (1)-(iv) above, and go into details of solution processes, it may be
+pointed out that—in view of our earlier experience of solving such equations—
+treatment here is not at all exhaustive. The methods are illustrated only through
+some examples.
+
+An equation is said to be Jinear in one, two or more variables, if each term
+involving variable of the equation has degree 1. For example, 3 — 29 x = 5x +17
+(linear in one variable x); 7y — 29 x = 5x +17 (linear in two variables x and y);
+x+2z — 7 y =17 (linear in three variables x, y, z)
+
+None of the following is a linear equation: 3 — 29 x* = 5x +17 (power 2 of x
+involved); 45= 27 + 18 (no variable is involved); xy = x+ 55; (no products of
+variables can occur in a linear equation); log x +17 = 0; e*= x+ 25; (logarithmic
+and exponential functions cannot be involved in polynomial, and hence in linear
+
+equations).
+
+System of linear equations: Two or more linear equations—in two or more
+variables, say x and y—constitute a system of linear equations. We need to find
+values x =a, and y= b. Where A for constants a and b are such that each of the
+equations involved in the system is satisfied by the same values x =a, and y= b.
+For example, each of the two equations 2x +3y = x + J/; and 7x — 2y = Sis
+satisfied by x =2 and y =3.
+
+An equation is said to be quadratic in one variable, say y, if one, or more terms
+in it are non-zero constant multiples of y’, and other terms involve either
+constants or a constant multiple of y. General form of a quadratic equation in y:
+ay°+by +c = 0, with a # 0. For example, each of the following is a quadratic
+equation in one variable: 33 y” + 3= 0; 25x” = 5x” +17x — 52.
+
+None of the following is a quadratic equation in one variable:— 9y= 5 +17;
+45y= 27+ 18
+
+2.3.1 Solving Linear Equation in One Variable
+
+A general linear equation in one variable, say x, is of the form
+
+ax+b=cxcd......... (1)
+where, a, b, c and d are constants, with a 4c. The reason for requiring a # c is Overview of
+Basic Methods
+
+that, in case of a =c, the equation (1) reduces to b=d, which does not contain any of Mathematics
+variable.
+
+Basic rules in solving such equations are
+
+1) to transfer all constant terms on one side of ‘=’, generally to R. H. S., and all
+terms containing variable to the other side of ‘=’, generally L. H.S.,
+
+11) while switching sides of a term, its sign is switched from + to —, and from —
+to +.
+
+Example: Solve the /inear equation 2x + 5 = 4 — 3x
+
+Ans: By the application of rules (1) & (11) above to our equation, we get
+2x +3x =4-—5, implying
+S5x=-l,
+x =— 1/5, is the required solution.
+
+Some equations are not linear, not even polynomial equations, but may be
+converted/ reduced to a linear equation, where the new equation is not exactly
+equivalent, but nearly equivalent to the original equation.
+
+Example: Consider the equation
+
+(3xt2)//(2Qx-D=2000 0 ne eee (1)
+The equation (1) above is not exactly equivalent to
+
+Gxt2Ze2.Q2x-YO7 fy | CUO OG Beemer: (11)
+
+because equation (i) is NOT defined at x = '4, but equation (11) is defined at
+
+X=,
+But except for the value x =I/2, equations (i) and (ii) are equivalent.
+Now, equation (11) is linear,
+
+For solving equation (11), we shift all x’s to L.H. S. and the rest of the terms to
+R.H.S., we get
+
+3x — 4x = —2 -2 = +4, implying
+
+—x =—-4, or x= 4.
+Thus, x= 4 is a solution of (11), and hence, is a solution of equation (1) also, as
+AL.
+2.3.2 Single Linear Equation in Two Variables
+A general linear equation in two variables, say x and y, is of the form
+Ax+By+C=DxtEyt+Fo ee bee ee eees (1)
+
+where, A, B, C, D, E and F are constants.
+
+57
+Review of Basic
+Mathematics
+
+58
+
+By appropriate shifting of terms, (1) may be rewritten as
+
+(A-D) x + (B- E) y + (C— F) =0
+
+By taking a = (A—D), b = (B- E), and c= (F—C©),
+
+Thus, a general equation in two variables may be considered of the form
+axtby=C ence eee e eee (11)
+We consider some special cases:
+
+Case (a) if a = 0 and b= 0 then the equation (11) reduces to c=0, which is not
+linear, and even may not be true if c #0.
+
+Case (b) if a = 0, but b# 0, then equation (11) reduces to b. y= c, which 1s a linear
+equation in one variable, covered under case(1) above
+
+Case (c) of if a 40, but b= 0 is similar to case(b) above.
+
+Thus, in the following, we assume that a # 0 and b # 0. Then the equation (11)
+reduces to
+
+by=-ax+c
+Or y= [—axte]/ Di... cece cece cece ees (111)
+
+For each value of x, we get a value of y. Therefore, the equation has infinitely
+many pairs of solutions.
+
+Example: Solve the linear equation
+Bx -2ZyYt+4=4xt3 y—5 aac eenneeeeteneteceeseeeeeees (iv)
+
+In such cases, we transfer all terms containing y on one side of ‘=’, and all other
+terms on the other side, taking care that while switching sides, signs of terms get
+changed from ‘+’ to ‘—‘, and from ‘“—‘ to ‘+’. Thus, we get
+
+—2y—3y =4x —-3x-5-4, Le.
+—Sy=x-9
+or, y = (9-x)/5,\
+We get infinitely many pairs of values of (x, y) satisfying the equation (iv),
+including the following (1, 8/5), (2, 7/5), (3, 6/5, (4, 1), ...
+2.3.3 System of Two or More Linear Equations in Two or More
+Variables
+
+In its general form, the topic will be discussed in detail in later units, specially, in
+units dealing with matrices and determinants. Here we discuss only a special case
+when there are TWO linear equations in TWO variables.
+
+A general linear equation in two variables may be considered of the form
+
+ax + by=c
+Hence, a general system of two linear equations is of the form Overview of
+
+Basic Methods
+axt+by=C 0, (i) of Mathematics
+and
+Ax+ey= fo a ence eee ee (11)
+
+One of the approaches to solving this system of equations is to get a new
+equation not involving one of the variables, say x, by multiplying equation (1)
+throughout by d, and equation (11) throughout by (— a), and then getting the new
+equation by adding corresponding terms.
+
+The rest of the method is explained through attempting to solve the following
+system of equations
+
+Ss a te (111)
+2Xt+3y= 130 cnet eee ee ee ee eees (iv)
+
+Multiplying coefficients of terms in (111) by 2 throughout (where 2 is coefficient
+of x in (iv)), we get
+
+Ce) oo a a en ee (iii’)
+
+Similarly, multiplying coefficients of terms in (iv) by 3 throughout (where 3 is
+coefficient of x in (111), we get
+
+Ox + Sy = SOR WN | __i_ ee centteesctesecccessacecs (iv’)
+
+By subtracting coefficients of terms in (iv’) from the corresponding ones of (111’),
+
+we get
+
+—19y =-18 -39 =-57
+
+y=3
+
+Substituting y=3 in (111) (we may do so even in (iv), (i11’), and (iv’)), we get
+
+3x —5 (3) =-9
+
+3x= 15-9 =6
+
+x =2.
+
+Thus x=2, and y=3 is the unique solution of the system of equations given by
+(111) & (iv).
+
+2.3.4 Quadratic Equations
+
+From our earlier discussion, we know that, for variable x, equationax” +bx +c = 0,
+with a # 0 is the general form of a quadratic equation.
+
+A quadratic equation has two solutions, not necessarily distinct, given by
+i) x=[-b+V(b?—4ac)] / (2a), and
+ii) x=[-b—V(b?—4ac)] / (2a)
+
+If (b*— 4ac) =0, then the two roots coincide. 59

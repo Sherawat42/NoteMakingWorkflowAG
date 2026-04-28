@@ -1,0 +1,59 @@
+Dynamic
+Optimisation
+
+58
+
+aH(.) 2?H(.)
+ay? éyéu f °
+
+Forming the hessian matrix, A = 3 3 =
+2H.) 2H()
+
+duéy = au?
+
+detA =-2 < Ohence A is
+
+1 At) (1)
+
+negative definite consequently u(t) =
+
+nN]
+
+maximize the objective function.
+OH(.) _
+oy
+
+From costate equation A (th=r
+
+We get general solution A(t) = ket .. Q)
+
+at t=0 A(0)=khence A(t) = 4(0)e*
+
+using eq (2) in (1) u(t) = ake ... 3)
+. . . . , 1, +t
+Using (2), (3) in state dynamic equation y’ = y + 3
+1, -t
+>y'-y==ke
+y-y 2
+
+This is a first order linear differential equation with a variable
+
+coefficient and a variable term of type & uty = W(t) here with
+
+1, -
+u(t) =—1and w(t) = 3K ‘via standard formula
+y(t) = et tle + kei at}
+= e'(c + ik jer*at]
+
+Hence y(t) = e(c fre")
+=cet—1ket (4)
+4
+
+where c is an arbitrary constant.
+Using the boundary value condition y(0) = 1 y(1) =0
+
+1 4e2
+3 and Kes 2
+
+We get c=
+

@@ -1,0 +1,624 @@
+--- Page 31 ---
+
+| . eyes . Sampli
+For large n, 2,2 can be shown to be approximately normally distributed with Distributions
+
+mean ¥2n—1 and standard deviation 1. This approximation is generally used to
+
+calculate values of 2 at different probability levels for n > 30.
+
+Let us denote toon the value of 2 (with df = n) for which ply? > en|= a
+i.e., the area to the right of the point en is a (see Fig. 29.2).
+P(e’)
+
+Accept Region 1-a
+
+Critical value
+
+Rejection region @)
+
+Fig. 29.2: Critical Value of y? Distribution
+
+The value ten is known as upper (right - tailed) a point or Critical Value or
+
+Significant Value of 7 for n df and has been tabulated for different values of n
+
+and ain the 2 Table. From the Table, we observe that the critical values of 7
+increase as n(df) increases and level of significance («)decreases.
+
+Note: The lower (left-tailed) « point of the x? distribution is given by Lian .
+
+If X has a standard normal distribution, then X? has the Chi-square distribution
+with (n-1) degree of freedom. In other words, if X4, X2,X3,...,Xp are independent
+
+N
+random variables having standard normal distribution, then Y = > x? has the
+i=1
+Chi-square distribution with n-1 degrees of freedom.
+
+Proof: Using moment generating function (discussed in the previous unit) with
+
+df= 1, we find that:
+
+1
+Mya (t)=(1-2t) 2
+
+-1 —n
+n — —_—
+It follows that: My2(t)=[][(1-2t) 2 =(1- 2t) 2
+i=t
+Thus, moment generating function is readily identified as the Chi square
+distribution with n degrees of freedom.
+
+197
+
+--- Page 32 ---
+
+Inferential
+Statistics
+
+198
+
+Following are two important properties of Chi Square distribution:
+
+1) Let X4,X2,Xg,....Xpn be n random variables having Chi square distributions
+with n4,n2,n3,...,N, degrees of freedom. Then, if X1,X2are two independent
+random variables, with X; having a Chi-square distribution with nj degrees
+of freedom, and X;+ Xz having a Chi-square distribution with n (> nj)
+degrees of freedom, then Xz has a Chi-square distribution with n—n, degrees
+
+of freedom.
+
+2) If Xand S2are the mean and the variance of a random sample of size n from
+a normal population with a mean ui and the standard deviation o, then
+
+a) Xand S2are independent and
+
+(n—1)82
+
+b) The random variable
+o2
+
+has a Chi-square distribution with (n-1)
+
+degrees of freedom.
+
+Proof of the 2" part:
+We begin with the identity:
+
+n n —- n — (__
+¥(X —w)? = ¥(%) - K+ K—wP = OK — XP +n(K -pP
+i=1 i=1 i=1
+h 2
+If we divide each term by 6? and substitute (n - 1)S2 for v(x - x) , We get:
+i=1
+2
+ul _ 2 _ (n-1)S2 X-u
+2% uw) "32 + C
+
+Left hand side of the above identity is representing a random variable with Chi-
+square distribution with n degrees of freedom, whereas the second term of the
+right-hand side is a random variable with Chi-square distribution with 1 degree of
+freedom. Since X and S2are assumed to be independent, it follows that the two
+
+terms on the RHS of the equation are independent and we conclude that
+(n-1)S2
+
+3 is a random variable having a Chi-square distribution with (n-1)
+
+°
+degrees of freedom.
+
+29.3.1.1 Chi-square Test of Goodness of Fit
+
+‘Chi-square test of goodness of fit! is a test for testing the significance of the
+discrepancy between theory and experiment.
+
+If Oi, (i = 1, 2, ..., n) is a set of observed (experimental frequencies) and Ej (i = 1,
+2, ..., n) is the corresponding set of expected (theoretical or hypothetical)
+
+--- Page 33 ---
+
+Sampling
+Distributions
+frequencies, then Karl Pearson's chi-square test for goodness of fit is given by:
+
+un -¥|O-8) where px “Se,
+
+i i=l
+
+x above follows a chi-square distribution with (n-1) df. This is an approximate
+
+test for large values of n.
+
+29.3.2‘? Distribution
+29.3.2.1 Student’s ‘t’
+
+Let xi, (i = 1, 2, ..., n) be a random sample of size n from a normal population
+with mean p and variance oc”. Then the random variable X has a normal
+
+2 X_
+distribution with mean jand the variance ©" | In other words, (x=) has the
+coy
+
+n
+vn
+
+standard normal distribution. Although this is an important result, there is a major
+
+difficulty in applying it when the population standard deviation o is unknown.
+
+This makes it necessary to replace o by sample standard deviation S. Then
+
+student's 't' is defined by the statistic
+
+t=
+s/vn
+where x=19(,-xP is the sample mean and = S(a,-x) is an
+n¢ ' n-l¢ '
+
+i=l i=l
+
+unbiased estimate of the population variance o,
+
+and it follows t distribution with v = (n -1) df, with probability density function
+1 1
+3-00 << t<o
+
+f(t)= : 3
+(t) a2) 2 (v+)/2
+2°2 Ih
+
+A statistic t following Student's t - distribution with n df will be abbreviated as
+t~ty.
+
+If we take v =1, then f()=—
+B il (1+t*)
+22
+1 1
+3-00 < t < 00
+
+REC)
+
+oo
+
+which is the p.d.f of standard Cauchy distribution.
+
+Hence, when v =1, Student's t distribution reduces to Cauchy distribution.
+199
+
+--- Page 34 ---
+
+Inferential 29.3.2.2 Fisher’s ‘t’
+
+Statistics
+It is the ratio of a standard normal variate to the square root of an independent
+chi-square variate divided by its degree of freedom. If t is a N(0, 1) and y? is an
+
+independent chi-square variate with n degrees of freedom, then Fisher's t is given
+by
+
+t=T/yy?/n
+and it follows Student's t distribution with n degrees of freedom.
+
+Since + and y” are independent, their joint density function is given by
+
+2 2 oa
+L sex -7 vA expe" /2) 1°)?
+lon 2 gn! >r {ny
+—0<T <0,0<y7 <0,
+Making one-to-one transformation
+
+t=T/yy7/n
+
+T
+
+(-2<t<0,0<u<o),
+u=x
+
+so that = T =tvu/n,y" =u,
+
+and noting that the Jacobian of the transformation is
+
+erat |
+Bs u
+J= ot Ou | VA a =|%
+n
+OY” OY 0 1
+ot ou
+
+The joint p.d.f. of t and u becomes
+
+1 re) nil
+——en- 4h e}h3 2
+a 2 n
+V2n.22.P(n/2).\n
+
+-—0<t<0,0<u<oo
+
+The p.d.f. of t is, therefore,
+
+1 + u v (n-1)/2
+———_.— =] | expj-—]} 1+— ]pu du |dt
+V2n.2"/ onl | Al “|
+
+_ 1 T[(n+1)/2]
+V2n.2"/2 (0/2) | ; 2 (n+1)/2
+[+5]
+2 n
+T[(n+1)/2] 1
+
+fara) apn
+n
+
+200
+
+--- Page 35 ---
+
+= 3 (arya? <<
+sna 3 yee]
+
+272 n
+
+which is same as the probability function of Student's t - distribution with n df. It
+should be noted here that, Student's t is a particular case of Fisher's 't'. Like the
+standard normal distribution, the t distribution is symmetrical about t = 0. But
+unlike the normal distribution, it is more peaked than a normal distribution with
+the same standard deviation (Fig. 29.3).
+
+The symbol t, ,, will be used to denote the value of t (with df= n) such that
+plt>tynJ=o
+
+ton = —ton :
+
+For small n, the t distribution differs considerably from the standard normal
+distribution, t, , being always greater than T, if 0<a< 7 For large value of n,
+
+however, the t distribution tends to the standard normal form and t, , may then
+
+be well approximated by T, .
+
+0.3
+
+0.2—
+
+0.1—
+
+Fig. 29.3: t distribution with 5 Degrees of Freedom (n=5)
+29.3.3 ‘F’ Distribution
+
+If X and Y are two independent chi-square variates with ni and n2 df respectively,
+then F statistic is defined by
+F= X/ny
+Y/ny
+
+In other words, F is defined as the ratio of two independent chi-square variates
+divided by their respective degrees of freedom and it follows Snedecor's F
+distribution with (n1, nz) df with probability function given by
+
+Sampling
+Distributions
+
+201
+
+--- Page 36 ---
+
+Inferential
+Statistics
+
+202
+
+ny ™% Ay
+Ny F 2
+B(ny /2,n /2) (a)
+2
+petty
+
+0<F<o
+
+ng
+
+Note: i) The sampling distribution of F-statistic does not involve any
+population parameters and depends only on the degrees of freedom ni
+and no.
+
+ii) A statistic F following Snedecor’s F distribution with (ni, n2) df will
+be denoted by F ~ F (ni, nz).
+
+To derive the above result, note that the joint p.d.f of X and Y, is given by:
+ny
+
+_ 1 (n,/2)7 [ 2 }
+foe moe) 1/2)" _ exp[-(X + Y)/2]
+2 1 2 ~ 2 2
+
+0<X<a,0<Y,<a.
+
+Let us now make the one-to-one transformation
+
+X/ny
+F=
+
+Y/ny (0<F<a,0<u<a)
+u=Y
+
+So that, X= 71 Fy,
+ny
+
+and Y=u.
+
+The Jacobian of the transformation is
+
+pia ny ny
+_| OF _[--u —-F_ ny
+J=lay ay/=|P2 m2 [=U
+—— 0 1 2
+OF du
+
+Hence, the joint p.d.f of F and u is
+
+*)
+a)
+h(F,u) = n2 yl tng) /2]-1 py /2)-1
+2(1*72)/27(y, /2)P(n9 /2)
+
+x oo ( +21 3]
+2 no
+
+0<F<a,0<u<a.
+
+The p.d.f of F is therefore,
+
+d
+f(F) = facwdu
+0
+
+--- Page 37 ---
+
+nj +n } Sampling
+
+yr /2) rf
+ny \_4 Distributions
+ee, 8
+
+2
+Ame) x» 2)
+ra) (9) "
+2 2 (14 BLF °
+(n,/2) (m
+ne
+x
+
+n2
+n (namyi2*
+Aa) 1+". F
+2°2 n,
+
+The distribution is highly positively skewed (Fig. 29.4). It is easily seen from the
+definition of t and F that an F with n; = lis at’, t having df= no.
+
+0<F<a
+
+ny
+n
+1
+n
+ny
+n
+
+As in the previous cases, we shall denote by Fons the upper a point of the F
+distribution with df= (n1, nz); ie.,
+
+PIF > Fy
+
+]=0
+
+syn
+
+0.8]
+
+PROBABILITY DENSITY
+
+Fig. 29.4: F distribution with (10, 4) Degrees of Freedom (ni=10, n2=4)
+
+As regards the lower a point Fy_g-n jn» We see that
+
+PIF <Fron,n.] =o
+
+o, pt>— t—
+F Fr_osnying
+
+Y
+Now, = which is of the form Yaa, is itself distributed as an F with df = (no, n1).
+
+Yn
+
+Q
+
+It follows that
+1
+= = Fr-aing,n
+Fr_cunyno ment
+1
+Fteasnyng = =
+ue F_asny,ny
+
+It is, therefore, unnecessary to tabulate the lower o points of F distributions with
+various degrees of freedom, once the upper o points are tabulated.
+
+203
+
+--- Page 38 ---
+
+Inferential
+Statistics
+
+Check Your Progress 1
+1) Discuss the features of x’, t and f distributions.
+
+2) A die is suspected of being biased. It is rolled 24 times with the following
+
+result.
+Outcome 1 2 3 4 5 6
+Frequency | 8 4 1 8 3 0
+
+Conduct a significance test to see if the die is biased.
+
+3) When can you use a y? or az test and reach the same conclusion?
+
+4) The following figures show the distribution of digits in numbers chosen at
+random from a telephone directory.
+
+Digits: 0 1 2 3 4 5 6 7 8 9 Total
+
+Frequency: | 1026 | 1107 | 997 | 966 | 1075 | 933 | 1107 | 972 | 964 | 853 | 10,000
+
+Test whether the digits may be taken to occur equally frequently in the
+directory.
+
+204
+
+--- Page 39 ---
+
+29.4 SAMPLING DISTRIBUTIONS OF MEAN AND bis ameling
+VARIANCE IN RANDOM SAMPLING FROM A
+NORMAL DISTRIBUTION
+
+Since statistics are random variables, their values will vary from sample to
+sample and the distribution is referred to as sampling distribution.
+
+Let x1, X2, ..., Xn be a random sample from a normal distribution whose p.d.f is
+
+| exp| 6 W/ 0 <x <0
+ov2n 20? |
+
+We shall denote the sample mean and the sample variance of x by x and s,
+respectively.
+
+Thus, x= 4
+i=l
+
+f(x)
+
+n
+
+ands? =—1_Y'(x,-x)
+
+a-lit
+
+In order to obtain the sampling distributions of x and s*, we start from the joint
+p.d.f of x1, X2, ..., Xn, Which is
+
+1
+
+1 2 jy 2
+rif (xj) = exp| — (xj 1)? 20
+
+We make the following one-to-one transformation from x; (i =1, 2, ..., n) to
+y;(i=1,2,....n)!
+
+(xi-n)/ (2-H), nH)
+Y= Ya “ va
+
+Yj = 1S) 4 9,{ 22). a, (Saw) fori=2,3,...,n.
+oO fey fey
+
+where the (n—1) vectors (ai1, ai2, ..., ain) are of unit length, mutually orthogonal
+
+and each orthogonal to the vector Es s +z] .
+
+n’ vn” vn
+
+One such set of vectors is:
+
+(1,—1,0,0,...,0,0),
+
+(1,1,-2,0,..,0,0)
+
+si- Ie
+
+(1,1,1,....,-(n—-1))
+
+i
+
+n(n-1
+
+205
+
+--- Page 40 ---
+
+Inferential
+Statistics
+
+206
+
+The Jacobian of the transformation is then J, such that
+
+oy OM OM
+Ox, 0X2 OXy
+, (2 2 , Oat |
+y (1 Xa OnE?
+Cyn Yn, On|
+Ox; OX2 OXn
+
+implying that J=¥o" and |J|=o".
+
+Further, 3 y? = (x - uP /o?
+
+i=l i=l
+
+Hence, the joint p.d.f of y1, y2, ..., Yn is
+
+caylee
+
+This shows that yi, y2, ..., Yn are independently and identically distributed, each
+being a standard normal variable.
+
+1 xX-p). : : < : :
+But y;= (xi - w="), is a linear function of X. Since y: is a
+ovn 4 3
+standard normal variable, x must be a normal variable with mean p and variance
+of
+n
+
+Thus, the p.d.f of x is
+
+vn
+
+g(x) = ov2n
+
+n n
+Again, )'y? = )y? -y?
+i=2 i=1
+
+-+| (x -n)? ne-vP|
+i=1
+
+exp n(x —p)?/202| 0 <X<oo
+
+fo]
+
+1
+
+o* 4
+
+(x; x)?
+
+Ms
+
+I
+=
+
+_(n=1)s*
+
+o2
+
+n
+Now, dy? being the sum of squares of (n-1) independent standard normal
+i=1
+
+variables, is a 42 with df = (n-1), and this is distributed independently of yi. It
+
+follows that (n—1)s’”/o? is distributed as a y? with df=(n—1) and is
+independent of x.
+

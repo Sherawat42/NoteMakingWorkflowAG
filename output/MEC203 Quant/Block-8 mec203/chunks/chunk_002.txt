@@ -1,0 +1,510 @@
+
+--- Page 1 ---
+
+4) A bag contains 6 white and 4 red balls. One ball is drawn at random. What Probability
+eor
+is the probability that it will be white? ,
+
+5) 15 identical balls are distributed at random into 4 boxes numbered 1, 2, 3,
+4. Find the probability that, (a) each box contains at least 2 objects and (b)
+no box is empty.
+
+6) A box contains 20 identical tickets, the tickets being numbered as 1,2,3,....,
+20. If 3 tickets are chosen at random, what is the probability that the
+numbers on the drawn tickets will be in arithmetic progression?
+
+25.5 THEOREMS OF PROBABILITY
+
+In this section, we will consider the basic theorems of probability. We will
+denote the sub-sample spaces by A,B,C ... which represent the elements of the
+sample space S, which are favourable to the events A, B and C.
+
+Note that P(S)=1 and P(A),P(B),P(C)....liebetween0 and 1.
+
+25.5.1 Theorem of Total Probability
+
+If two events A and B are mutually exclusive, exhaustive and equally likely, then
+the probability of occurrence of either A or B, is given by P(A + B) or P(A U B)
+is given by the sum of their probability. Thus,
+
+P(AU B) = P(A)+ P(B)
+
+This is also known as the Addition Theorem.
+
+Let us assume that a random experiment has n possible outcomes which are
+
+mutually exclusive, exhaustive and equally likely. While m; of them are
+favourable to A, mz are favourable to B. By the classical definition of probability
+
+P(A) = m,/nandP(B) = m)/n 101
+
+--- Page 2 ---
+
+Probability and
+Probability
+Distributions
+
+102
+
+Since A and B are mutually exclusive and exhaustive, the number of m, cases
+favourable to the event A is completely distinct from m2 cases favourable to the
+event B. Thus, the number of cases favourable to A and B are (AUB), is therefore
+
+given by mj+mp,
+
+P(A+B) = P(AUB)=(m;+m_2)/n=(m,/n)+(m)2/n)=P(A)+P(B)
+Deductions from Theorem of Total Probability
+
+1) Theorem of Complementary Event
+
+If A denotes the occurrence of the event A, then A‘ (read as ‘compliment of A’)
+denotes non-occurrence of the event A and
+
+P(A) = 1— P(A).
+
+Since A and A° are mutually exclusive and exhaustive events, S = {A, A‘.
+Applying the theorem of total probability we get,
+
+P(S) = P(A) + P(A’) = 1
+or, P(A’) = 1—P(A)
+
+AS
+
+Fig. 25.2: Complementary Event
+
+See that this theorem is very intuitive. If the probability of getting head while
+tossing an unbiased coin is 5, then the probability of getting a tail is obviously
+0.5(1-.5).
+
+2) Extension of Total Probability Theorem
+
+The theorem of total probability can be extended to any number of mutually
+exclusive events. If the events A;, A», Az, ....... , Ax are mutually exclusive, then
+the probability of occurrence of any one of them (U‘;-; Aj ) is given by the sum
+of their probabilities.
+
+P(U*-) Aj) = P(A; + Ap + Ag + ...,+Ag) = P(Ay)+P(Az)+P(A3)4.0 eee +P(A,)
+3) Theorem of Total Probability with Mutually Non-exclusive Events
+
+The probability of occurrence of at least one of the events A and B (which are
+
+not necessarily mutually exclusive) is given by
+
+P(AUB) = P(A) + P(B) — P(ANB)
+
+--- Page 3 ---
+
+Probability
+
+The symbol ‘N’ means joint occurrence or ‘and’. Hence, (A  B) means the Theory
+
+occurrence of the event A and B, whereas ‘U’ means ‘or’ i.e., (A U B)=> the
+
+occurrence of either the event A or the event B.
+
+Proof: The occurrence of the event (A U B) is analogous to the occurrence of
+
+any one of the following three mutually exclusive events:
+
+(ANB*), (ASOB) and (ANB). i-e.,
+P(A +B) = P(A UB) = P(AMB‘)+(AS +B) + (AB) = P(AB)+P(AB)+ P(AB)
+
+In terms of Venn diagram,
+
+$
+
+Aand B complement
+
+Aand B
+
+pl Dead
+
+Aand B complement
+
+Fig. 25.3: Union and intersection of A & B
+Therefore, using the definition of total probability, we get
+P(AUB) = P(A + B) = P(AMB‘) + P(ASNB) + P(AN B) = P(AB)+P(AB)+P(AB) ......000- [1]
+
+Again, the occurrence of A is analogous to the occurrence of any one of the
+
+following two mutually exclusive events P (A  B) i.e., P(AB) and P(A  B*)
+i.e., P(AB), Thus, we get
+
+P(A) = P(AMB) + P(ANB‘) or P(A) = P(AB)+ P(AB)...... [2]
+Similarly, for B
+
+P(B) = P(BNA) + P(BNA‘) or P(B) = P(AB) + (AB)...... [3]
+Using [1], [2], [3] we can derive that
+
+P(AUB) = P(A + B) = P(A) — P(AB) + P(B) — P(AB) = P(A) +P(B) — P(AB) = P(A)
++ P(B)—P (ANB).
+
+The above result could be extended to three events A, B, C, which are not
+
+mutually exclusive
+
+P(AUBUC) = P(A) + P(B) + P(C) — P(ANB) — P(ANC) — P(CNB) + P(ANBNC)
+
+103
+
+--- Page 4 ---
+
+Probability and
+Probability
+Distributions
+
+104
+
+We illustrate the situation in Fig. 25.4.
+
+Fig. 25.4: Union and intersection of A, B and C
+
+In this context, we mention that there are two standard results in the theory of
+
+probability
+1) P(AUB) < P(A) + P(B)... ce cccreeetteeeeseeeeeteeeees Boole’s inequality
+2) P(ANMB) = P(A) + P(B) = Lone eccccseeseeeteeteesseeneeeaes Bonferroni’s inequality
+
+25.5.2 Theorem of Compound Probability
+
+The probability of occurrence of the event A and B is given by the product of
+the probability of the event A and conditional probability of the event B given
+that A has actually occurred, which is denoted by P(A|B). P(A|B) is given by the
+ratio of the number of events favourable to the event A and B to the number of
+events favourable to the event A. Symbolically,
+
+P(ANB) = P(A) x P(BIA).
+
+Suppose a random experiment has n mutually exclusive, exhaustive and equally
+likely outcomes among which m;, m2 and m2 are favourable to the events A, B
+and (ANB) respectively.
+
+So, P(A) = m,/n;
+The number of cases favourable to A as well as B: P(AN B)=mj2/n
+
+Note that event A has actually occurred, and so the occurrence of the event B is
+limited to only m, cases. Thus P(B/A) = mj2/m;. Therefore,
+
+This theorem is also known as the multiplication theorem.
+25.5.2.1 Deductions from Theorem of Compound Probability
+
+The occurrence of one event, say, B may be associated with the occurrence or
+non-occurrence of another events say, A. This in turn implies that we can think
+of B to be composed of two mutually exclusive events (A \ B) and (A°N B).
+Applying the theorem of total probability
+
+P(B)=P(ANB)+P(ASNB)
+
+=P(A) xP(BJA)+P(A‘)xP(BJA‘)......... [using theorem of compound probability]
+
+--- Page 5 ---
+
+Probability
+
+1) Extension of Compound Probability Theorem
+Theory
+
+The above theorem can be extended to include the cases when there are three or
+more events. Suppose there are three events A,B and C. Then
+
+P(ANBNC) = P(A) x P(BIA) x P(C/(ANB)
+And soon for more than three events.
+
+Example: Given P(A) =1/4, P(B) = 2/5 and P(A UB) = % find P(A|B) and
+P(BIA).
+
+P(ANMB) = P(A) + P(B) — P(AUB) = % + 2/5 — % = 3/20
+
+Therefore, P(A/B) = P(ANB) / P(B) = 3/20 x 5/2 = 3/8 and P(B/A) = P(ANB) / P(A)
+= 3/20 x 4 = 3/5
+
+Example: At an examination in three courses A, B and C the following results
+were obtained
+
+25% of the candidates passed in course A
+
+20% of the candidates passed in course B
+
+35% of the candidates passed in course C
+
+7% of the candidates passed in course A and B
+
+5% of the candidates passed in course A and C
+
+2% of the candidates passed in course B and C
+
+1% of the candidates passed in all the subjects.
+
+Find the probability that a candidate got pass marks in atleast one course.
+P(A) = 0.25, P(B) = 0.2, P(C) = 0.35, P(ANB) = 0.07, P(CMB) = 0.02, PPANC)
+= 0.05 and PPANBNC) = 0.01.
+
+Therefore, P0PAUB UC) = .25 + .2 + .35 - .07 - .05 - .02 + .01 = .67
+
+Check Your Progress 2
+
+1) If P(A) =%, P(B)=1/3, P(ANB)=% find P(A‘), P(AUB), P(AIB), P(A°NB),
+P(A‘NB‘), P(ASUB). State whether the events A and B are mutually
+exclusive, equally likely, exhaustive.
+
+Lanne enn n eee een EEE EEE eee EE EEE Eee een EEE EEE ee E EEE EEE EES ee EE EeeE EEE eee EE Es 105
+
+--- Page 6 ---
+
+Probability and
+Probability
+Distributions
+
+106
+
+2) For three events A, B, C which are not mutually exclusive, prove P(A U B U C)
+= P(A) + P(B) + P(C) — P(ANB) — P(ANC) — P(CNB) + P(ANBNC) usingVenn
+diagram.
+
+25.6 CONDITIONAL PROBABILITY AND CONCEPT
+OF INDEPENDENCE
+
+25.6.1 Conditional Probability
+
+From the theorem of compound probability we can get the probability of one
+event, say, event B conditioned on some other event, say A. As we have
+discussed earlier, this is symbolically written as P(B|A). From the theory of
+compound probability, we know that
+
+P(AMB) = P(A)xP(BIA)
+or, P(B|A) = P(ANB)/P(A) provided that P(A)0.
+
+Example: Find out the probability of getting the Ace of hearts when one card is
+drawn from a well-shuffled pack of cards given the fact that the card is red.
+
+Let A denote the event that the cardis red and B denote the event that the card is
+the Ace of hearts. Then we are interested in finding P (B|A). From the theorem
+of conditional probability
+
+P(BIA) = P(ANB)/P(A) = (13/52) (1/13) / (26/52) = (1/52) (52/26) = 1/26
+
+25.6.2 Concept of Independent Events
+
+Two events A and B are said to be statistically independent if the occurrence of
+one event is not affected by the occurrence of another event. Similarly, several
+events are said to be independent, if the occurrence of one event is not affected
+by the supplementary knowledge of the occurrence of other events. This implies
+
+P(BJA) = P(BIA‘) = P(B)
+
+Therefore, from the theorem of compound probability, we get
+P(ANMB) = P(A) x P(BJA)
+
+= P(A) x P(B)
+
+Similarly, for three events that are mutually or statistically independent, we have
+the following results
+
+P(A A BN C)=P(A) x P(B) x P(C) along with P(ANB)=P(A)xP(B)
+
+--- Page 7 ---
+
+P(CNB)=P(C)xP(B) Probabitity
+P(CNA)=P(C)xP(A)
+
+For more events A, B, C, D to be mutually independent following should hold:
+P(ANBNCND) = P(A)xP(B)xP(C)x P(D) along with
+
+P(ANBNC) = P(A)x P(B)xP(C)
+P(ANBMD) = P(A) x P(B) x P(D)
+P(DABNC) = P(D) x P(B) x P(C)
+P(ANDNC) = P(A) x P(D) x P(C)
+P(ANB)=P(A) x P(B)
+
+P(CNB) = P(C) x P(B)
+
+P(CN A) = P(C)xP(A)
+
+And soon........
+
+Thus, two events are said to be independent if the probability of occurrence of
+both or all equals the product of their probabilities.
+
+For pairwise independence of events the above should hold for any two of the
+events.
+
+Deductions from the Concept of Independence
+
+If the events A and B are independent then A° and B* are also independent.
+Since A and B are independent
+
+P (ANB)=P(A)xP(B)
+
+P(ASMB‘)=P(AUB)....... [De Morgan’s theorem]
+
+= |-P(AUB)
+
+=|—P(A)-P(B)+P(ANB)
+
+= |—-P(A)-P(B)+ P(A) P(B) [- P(AUB) = P(A) + P(B) — P(ANB)]
+= {1 P(A)} {1 P(B)}
+
+=P(A‘)xP(B‘)
+
+Example: Given that P(A)=3/8 and P(B)=5/8 and P(AUB)=*% find P(B|A) and
+P(A|B). Are A and B independent?
+
+Using the relationship
+P (A UB) = P(A) + P(B) — P (A 2 B), we get P(PANB)=%
+Thus, the given information does not satisfy the equation P(ANB)=P(A)* P(B)
+
+Therefore, A and B are not independent.
+107
+
+--- Page 8 ---
+
+Probability and
+Probability
+Distributions
+
+108
+
+Example: One urn contains 2 white and 2 red balls and a second urn contains 2
+white and 4 red balls
+
+a) If one ball is selected from each urn, what is the probability that they will be
+
+of the same colour?
+
+b) If an urn is selected at random and then a ball is selected at random, what is
+
+the probability that it will be a white ball?
+
+Ans.
+
+a)
+
+b)
+
+Let A denote the event that both the balls drawn from each urn are of the
+same color. A; denotes that they are white and A> denotes that they are red.
+Clearly, A; and A, are two mutually exclusive events. Applying the theorem
+of total probability,
+
+P(A)=P(A1)+P(Aa)
+
+Here A; is a compound event formed by two independent events of drawing
+
+a white ball from each urn, Therefore, P(A; ) = % x 1/3 = 1/6. Similarly,
+
+P(Ao) => x . x= 5
+
+Hence, P(A) =1/6 + 2/6 = 4.
+
+A white ball can be selected in two mutually exclusive ways, when urn 1 is
+selected and a white ball is drawn from it (denoted by the event A) and when
+urn 2 is selected and a white ball is drawn from it (denoted by the event B).
+
+P(A)=P(urnlis selected)xP(a white ball is drawn),because selection of urn 1
+and selection of a white ball are mutually independent.
+
+P(A) =2x'2='/.
+
+Similarly,
+
+P(B)=2x 1/3=1/6
+
+Using the theorem of total probability,
+
+P(drawing a white ball from an urn)=P(A)+ P(B)=5/12.
+
+Check Your Progress 3
+
+1)
+
+A salesman has 50% chance of making a sale. If two customers enter the
+shop, what is the probability that the salesman will make a sale?
+
+--- Page 9 ---
+
+2) Ifthe events A and B are independent, then show that Ac,Bc,A and B are Probability
+eory
+
+pair wise independent.
+
+3) If A and B are mutually exclusive events, then show that P(A|AUB)
+=P(A)/P(A)+P(B).
+
+4) A bag contains 8 red and 3 white balls. Two successive draws of 3 balls are
+made without replacement. Find the probability that the first drawing will
+give 3 white balls and the second 3 red balls.
+
+25.7 BAYES’ THEOREM AND ITS APPLICATION
+
+Suppose an event A can occur if and only if one of the mutually exclusive
+events Bi, Bz Bz... B, occurs. If the unconditional probabilities
+P(B;),P(B2),P(B3),.............. ,P(Bn) are known and _ the _ conditional
+probabilities are P(A|B;), P (A|B2), P(A|B3),.......... , P(A |B,) and known, then
+the conditional probability P(B;|A) could be calculated when A has actually
+
+occurred.
+P(A) = P(ANB,) = PB) P(A|B,)
+
+_P(B.OA)_ P(A|B,)xP(A)
+
+P(B, | A) — , therefore
+PA) PB) P(A[B,)
+PB, | Ay = PCALB)*P(A)
+
+>P(B)P(A|B))
+
+This is known as Bayes’ theorem. This is a very strong result in the theory of
+probability. An example will illustrate the theorem more vividly. 109
+
+--- Page 10 ---
+
+Probability and
+Probability
+Distributions
+
+110
+
+Example: Two boxes contain respectively 2 red and 2 black balls and 2 red and
+4 black balls. One ball is transferred from one box to another and then one ball
+is selected from the second box. If it turns out to be black, what is the
+probability that the transferred ball was red?
+
+B,.-the transferred ball was red.
+
+B»:the transferred ball was black.
+
+A: the ball selected from the second box is black. P(B,)="2
+P(B2) ='%
+
+P(A| B,) = 3/7
+
+P(A|B2)=5/7
+P(B,|A)=P(B1)<P(AIB;)/P(B,)*P(A|B1)+P(B2)xP(A|B2)
+= X3/7/((2 X3/7+'2x5/7)=3/8
+
+Check Your Progress 4
+
+1) In a bulb factory there are three machines a, b and c. They produce 25%,
+35% and 40% of total product. Of their output 5, 4 and 2 percent of bulbs
+respectively are defective. If one bulb is selected at random, what is the
+probability that it was produced by the machine?
+
+2) We have two coins. The first coin is fair with probability of head= 4, but the
+second coin is loaded with head. Therefore, probability of getting head in the
+second coin = 2/3. Suppose we pick one coin at random, we toss it, and the
+
+head shows. Find the probability that we picked the fair coin.
+
+25.8 MATHEMATICAL EXPECTATIONS
+
+Suppose a random experiment has n mutually exclusive and exhaustive
+
+outcomes. Let the variable x take values x1,x2,x3 Xn With probabilities pj, po,
+
+P3,......., Pn. Then the mathematical expectation or the expected value of the
+variable is defined as the weighted sum of the values of the variable, the weights
+being the probabilities of the values of the variable. Expected value of a variable
+
+‘x’ is denoted by E(x). Therefore,
+
+E(X) = pj}Xj + p2X2 +--+ PpXn

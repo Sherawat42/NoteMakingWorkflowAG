@@ -1,0 +1,590 @@
+--- Page 71 ---
+
+obsv Value— Exp.Value or
+
+to the statistic ‘t’ is standard normal i.e., viz., Z =
+Std Error
+
+_ t-E(t)
+SE(t)
+
+under the null hypothesis is known as the ‘test statistic’. The critical value of test
+
+~ N (0, 1), as n — o. The value of Z given by the above relation
+
+statistic at level of significance o for a two-tailed-test is given by za. where Za is
+determined by the equation P [|Z| > za] = a i.e., Za is the value so that the total
+area of the critical region on both tails is a. Since the normal probability curve
+is symmetrical curve, from P [|Z| > za] = « we can write,
+
+P[Z> Zz] +P [Z<-zJ= a
+=>P[Z>z]+P[Z<z]= 0
+=> 2P[Z>z]= 0
+
+=> P [Z> za] = a/2
+
+i.e., the area of each tail is a /2.
+
+Thus, Za is the value such that the area to the right of za is a /2 and to the left of -
+Za is o/2.
+
+In case of single-tail alternative, the critical value z. is determined so that the
+total area to the right of it (for right-tailed test) is a and for left-tailed test the
+total area to the left of -za is a, i.e., P [Z > za] = a (for right-tailed test) and P [Z
+<~-zZa] = a (for left tailed test).
+
+Thus, the significant or critical value of Z for a single-tailed test (left or right) at
+the level of significance ‘ @’ is the same as the critical value of Z for a two-tailed
+test at level of significance ‘2a’. The critical values of Z at commonly used
+levels of significance for both two-tailed and single-tailed test are given in Table
+31.1:
+
+Table 31.1: Critical Values of Z (commonly used)
+
+Level of Significance (a)
+Critical Values (Za)
+1% 5% 10%
+Two-tailed test \Za| = 2.58 \Za| = 1.96 |Za| = 1.645
+Right-tailed test Za = 2.33 Za = 1.645 Za = 1.28
+Left-tailed test Zo = -2.33 Za = -1.645 Za = -1.28
+
+Note: Ifn is small (usually less than 30), then the sampling distribution of the
+test statistic Z will not be normal and in that case we cannot use the above
+
+significant values, which have been obtained from normal probability curves.
+
+Hypothesis
+Testing
+
+237
+
+--- Page 72 ---
+
+Inferential
+Statistics
+
+238
+
+31.3 CRITICAL REGION METHOD & P-VALUE
+METHOD OF HYPOTHESIS TESTING
+
+In the Figures 31.1, 31.2 and 31.3, the dividing lines of the test criteria (i.e., the
+boundaries of critical regions, or the critical values) require the knowledge of z,
+
+OF Z/2- These values are provided above for the different levels of significance
+(for one tail test or two tail test) or in the table of Standard Normal Distribution.
+Similarly, if the sample distribution of the test statistic is based on t distribution,
+or a Chi Square distribution or a F distribution the corresponding tables will
+provide the necessary values for the respective values of a. It is rather convention
+to base the statistical hypothesis testing on the level of significance a = 0.05 or
+a= 0.01 or atmost a= 0.10.
+
+Apart from the Critical region method (Rejection Region method) of
+hypothesis testing (discussed above) there is another method to test the
+hypothesis called the P value method.
+
+With reference to a test statistic, the P value (or the probability value) is
+presented by the shaded region as in Fig. 31.4. The P value is compared with «
+value (instead of comparing the test statistics with the tabulated value). We reject
+the Null hypothesis if the shaded region is less than the o value.
+
+Fig. 31.4: Diagram for Definition of P-Values
+
+Thus, corresponding to an observed value of a test statistic the P value is the
+lowest level of significance at which the Null hypothesis could be rejected.
+
+Steps for computing the P-value for a two tailed test:
+1) Compute the value of test statistic (say Z)
+
+2) Ifthe value of the test statistic is in upper tail (Z > 0), find the area under
+the standard normal curve (i.e., probability to the right of Z). If the value
+of the test statistic is in the lower tail (Z > 0), find the area under the
+standard normal curve to the left of Z.
+
+3) Double the tail area, or probability, obtained in step 2 to obtain the
+
+P-value (since we are considering a two-tailed test).
+4) a)Ifthe P value <a—=Reject the Null Hypothesis.
+b) If the P value >= Do not reject the Null Hypothesis
+
+--- Page 73 ---
+
+Guidelines for P values: Hypothesis
+1) IfP value<0.01,Reject the Hg. The difference is significant (1%). ven
+2) If 0.01 <P value < 0.05, Reject the Hg. The difference is significant
+
+(5%).
+3) If0.05 <P value < 0.10, Reject the Hp. Consider the consequences of
+
+Type I Error before rejecting Hp.
+
+4) IfP value is > 0.10, do not reject the Hp. The difference is not significant.
+
+Procedure for Testing of Hypothesis: We now summarise below the various
+steps in the testing of a statistical hypothesis in a systematic manner.
+
+1) Null Hypothesis: Set up the null hypothesis Ho.
+
+2) Alternative Hypothesis: Set up the alternative hypothesis H;. This will
+enable us to decide whether we have to use a single-tailed (right or left) test
+or two-tailed test.
+
+3) Level of Significance: Choose the appropriate level of significance (a)
+depending on the reliability of the estimates and permissible risk. This is to
+be decided before the sample is drawn, i.e., ais fixed in advance.
+
+t-E(t)
+
+E(t)
+
+4) Test Statistic (or Test Criterion): Compute the test statistic z =
+
+under the null hypothesis.
+
+5) Conclusion: We compare z, the computed value of Z in step 4 with the
+significant value (tabulated value) za, at the given level of significance ‘a’.
+
+If |Z| < za, i.e., if the calculated value of Z (in modulus) is less than za, we say it
+is not significant. By this, we mean that the difference t — E(t) is just due to
+fluctuations of sampling and the sample data do not provide us sufficient
+evidence against the null hypothesis which may therefore be accepted.
+
+If |Z| > za, i.e., if the calculated value of Z is greater than the critical or significant
+value, then we say that it is significant and the null hypothesis is rejected at level
+of significance ‘ a’, i.e., with confidence coefficient (1 - a).
+
+Table 31.2: Summary of Hypothesis Tests about Population Mean (co Known)
+
+Lower Tail Upper Tail Test | Two-Tailed
+
+Test Test
+Hypotheses Hy: LH My Hy: LS My Hy: H= My
+
+At H< My A: M> My A, M# My
+Test Statistic ze X= My _ X= Ly _ X— My
+
+olVn olvn olNn
+
+Rejection Rule: Reject Ho if Reject Ho if Reject Ho if
+p-value Approach | p-value <@ p-value <@ p-value <@ 239
+
+
+--- Page 74 ---
+
+Inferential
+Statistics
+
+240
+
+Rejection Rule: Reject HO if Reject Ho if Reject Ho if
+Critical Value Z<-z, Z2Z, ZS -Zy)
+Approach
+
+PP or 2224)
+
+Example: A researcher reports that the average salary of Junior manager is more
+than Rs. 42000/. A sample of 30 junior manager has a monthly mean salary
+Rs. 43260/. At «=0.05, test the claim that the junior manager earns more than
+Rs 42000/. The SD of population is Rs 5260.
+
+Ans. Given n= 30, x =Rs 43260, 1» =Rs 42000, o=Rs 5260, « =0.05
+
+Let, Ho: u<Rs 42000 and H;:u>Rs 42000 (Thus it is therefore a Right tail
+test.)
+
+The critical z, values for « =0.0sis 1.65
+
+The test statistics is: z= obsvV— Exp V _ (x=n) — 43260 = 42000 _ 1.32
+Std Error o/Vvn 5260/30
+
+Since z=1.32<z,, =1.65, the test statistic is not lying in the critical region — do
+not Reject Hop. There is not enough evidence to support the claim that the Junior
+
+Manager earns more than Rs 42000/ on an average.
+
+Though the sample mean is higher than the population mean, it is not
+significantly higher. Hence the difference may be due to chance.
+
+Example: A researcher claims that the average wind speed of a certain city is 8
+
+miles/hr. A sample of 32 days shows an average wind speed of 8.2 miles/hr. The
+standard deviation of the sample is 0.6 mile/hr. At a =0.05, is there enough
+
+evidence to reject the claim? Use P value method.
+Ans. Given n = 32, xX =8.2,u =8,s =0.6,a =0.05
+Let, Hp: =8 (Claim) and Hy: #8.
+
+Computing the test statistics:
+
+7 — ObsvV—ExpV _ (X=) _ 82-8 |
+Std Error ovn 0.6/V32,
+
+Using the z table the area corresponding to z = 1.89 is 0.4706
+
+For deriving the P value, we need to deduct 0.4706 from 0.5
+= 0.5 - 0.4706 = 0.0294.
+
+It is a two-tailed test, 0.0294 > 5 = 0.025 => P value is greater than ; .
+
+=> Accept the Null Hypothesis
+
+Thus, there is not enough evidence to reject the claim that the average wind speed
+is 8 miles/hr.
+
+--- Page 75 ---
+
+Check Your Progress 1 Hypothesis
+Testing
+
+1) What is meant by test of significance?
+2) State the purpose of hypothesis testing.
+
+3) Define: 1) Critical Region and Level of Significance & Confidence Limit,
+ii) Two Tail Test & One Tail Test.
+
+4) Suppose that 100 tires made by a certain manufacturer lasted on the
+
+average 21,819 miles with a standard deviation of 1,295 miles. Test the
+Null hypothesis ~1.=22000 miles against the alternative hypothesis
+
+pL #22000 miles at the 0.05 levels of significance. Check the result with the
+
+P value method as well.
+
+31.4 TYPE I AND TYPE II ERROR
+
+The main objective in sampling theory is to draw valid inferences about the
+population parameters on the basis of the sample results. In practice, we decide to
+accept or reject the lot after examining a sample from the population. As such,
+we are liable to commit the following two types of errors:
+
+Type I Error: Reject Ho when it is true.
+
+Type II Error: Accept Ho when it is wrong, i.e., accept Hp when H, is true.
+If we write, P [Reject Hp when it is true] = P [Reject Ho | Ho] = a
+
+and P [Accept Ho when it is wrong] = P [Accept Ho | H:] =B
+
+then o and f are called the sizes of type I error and type II error respectively.
+
+In practice, type I error amounts to rejecting a lot when it is good and type II
+error may be regarded as accepting the lot when it is bad.
+
+Thus, P [Rejecting a lot when it is good] = a
+and __ P [Accepting a lot when it is bad] = B
+
+where a and B are referred to as ‘Producer’s risk’ and Consumer’s risk’
+
+respectively.
+241
+
+--- Page 76 ---
+
+Inferential
+Statistics
+
+242
+
+The probability of type I error is necessary for constructing a test of significance.
+It is in fact the ‘size of the critical region’. The probability of type II error is used
+to measure the ‘power’ of the test in detecting the falsity of the null hypothesis.
+
+It is desirable that the test procedure be so framed that it minimises both the types
+of error. But this is not possible, because for a given sample size, an attempt to
+reduce one type of error is generally accompanied by an increase in the other
+type. The test of significance is usually designed as to limit the probability of
+type I error to a specified value (usually 5% or 1%) and at the same time to
+minimize the probability of type II error. Note that when the population has a
+continuous distribution,
+
+Probability of type I error = Level of significance = Size of critical region
+
+31.5 POWER OF THE TEST
+
+The null hypothesis is accepted when the observed value of test statistic lies
+outside the critical region as determined by the test procedure. Type II error is
+committed when alternative hypothesis holds even though null hypothesis is not
+rejected, i.e., the test statistic lies outside the critical region. Hence, the
+probability of type II error is a function of the value for which alternative
+hypothesis holds.
+
+If B is the probability of type II error (i.e., probability of accepting Ho when Ho is
+false), then (1- B) is called the ‘power function’ of the test hypothesis Hp against
+the alternative hypothesis Hy. The value of the power function at a parameter
+point is called the ‘power of the test’ at that point.
+
+Power = | — Probability of Type II error = Probability of rejecting Hp when H; is
+true.
+
+31.6 OPTIMUM TEST UNDER DIFFERENT
+SITUATIONS
+
+The discussion till now enabled us to obtain the best test under different
+situations. In any testing problem, the first two steps, viz., (i) the form of the
+population distribution with the parameter(s) of interest and (ii) the framing of Ho
+and H; are obvious from the very description of the problem. The most crucial
+step is the choice of the ‘best test’, i.e., the basic statistic ‘t’? and the critical
+region W. By best test we mean the one in which besides controllinga at any
+desired low level, we also have the minimum type II error B or maximum power
+(1- B). This is when compared to the B of all other tests having the samea. This
+leads to the following definition.
+
+31.6.1 Most Powerful Test
+
+Let us consider the problem of testing a simple hypothesis Ho: 8 = 80 against a
+simple alternative hypothesisH;: 0 # 00.
+
+--- Page 77 ---
+
+Definition: The critical region W is the most powerful critical region of size a ae eeeatne
+(and the corresponding test the most powerful test of level o) for testing Hp: 0 =
+00 against H;: 0 # 00 if P (ke W | Ho) = a and P (xe W | H7) > P (xe Wi | A) for
+
+every other critical region Wi satisfying the first condition.
+31.6.2 Uniformly Most Powerful Test
+
+Let us now take up the case of testing a simple null hypothesis Ho: 6 = 00 against
+a composite alternative hypothesis H: 0 # 80. In such a case, for a predetermined
+a, the best test for Hp is called the uniformly most powerful test of level oa.
+
+Definition: The critical region W is called the uniformly most powerful critical
+region of size «(and the corresponding test as uniformly most powerful test of
+level o.) for testing Ho: 8 = 0 against H7: 0 # 00 if P (xe W | Ho) = a and P (xe
+W | H7) = P (xe W:1| Hz) for all 0 # 00, whatever the other critical region W1
+satisfying the first condition may be.
+
+31.7 TEST PROCEDURE UNDER NORMALITY
+ASSUMPTION
+
+The general procedure to be followed in testing a statistical hypothesis has been
+explained in the previous sections.We shall now take up one by one some of the
+common tests that are made on the assumption of normality for the underlying
+random variable or variables.
+
+31.7.1 Problems Regarding the Univariate Normal Distribution
+
+Consider a population where x is normally distributed with mean u and standard
+deviations. Let x1, x2, ... .Xn be a random sample obtained from this distribution.
+
+| n
+We shall denote by x the sample mean of x: x= -)x, and by s”” the sample
+
+irl
+
+n
+variance of x: s’? = UG ~xy . The distinction between s* and s’” is to be
+4 isl
+
+noted. In s” the divisor is (n—1), which makes it an unbiased estimator of 6 >
+
+n
+
+For >,(x, -¥) = d(x; nu) —n(¥- yp)" ,
+
+i=l i
+
+so that BS") = —— B{D (% — 9}= EL G, - WW}
+
+1 tek,
+= poy aval) —m var} = rari “n—}=6 ;
+
+Case I: wu unknown, o known
+
+Here we may be required to test the null hypothesis Ho: u = to. It has already
+been shown that the test procedure for Ho in this case is based on the statistic,
+
+243
+
+--- Page 78 ---
+
+Inferential
+Statistics
+
+244
+
+Vn(X-—1U9)/o, which is distributed as a normal variate (+) under this
+
+hypothesis.
+
+a) For the alternative H: 1 > Wo, Ho is rejected if for the given sample T > T, (and
+
+is accepted otherwise)
+b) For the alternative H: t < Wo, Ho is rejected if for the given sample 1<T,_, (=
+c) For the alternative H: #0, Ho is rejected if for the given sample |:\> Ta).
+
+In each case, a denotes the chosen level of significance.
+
+As regards the problem of interval estimation of 1, it has been shown that the
+limits (x =1,),.0/Vn ) and (x + 1, ,.6/Vn ), computed for the given sample, are
+
+the confidence limits for 1 with confidence coefficient (1 - 0).
+Case IT: p known, sc unknown
+
+Here one may be interested in testing a hypothesis regarding o or in estimating o
+
+A sufficient statistic for is" (x, —p)? or, > (x, —p)’ . It is seen that such
+
+an x; is a normal variable with mean p and standard deviations .
+
+2
+Hence, r(* = , being the sum of squares of n independent normal
+F fo}
+
+deviates, is distributed as % with df=n.
+
+For testing Ho: o=9% 9, we make use of the fact
+
+2
+ae = t) = > (x, —p)°/03 isa ? with df =n under this hypothesis.
+
+a) For the alternative H: c>©y, Ho is rejected in case for the given sample va >
+2
+Xan
+b) For the alternative H: «<6 , Hp is rejected if for the given sample va <Ui-an .
+
+c) For the alternative H: o#9%,, Ho is rejected if for the given sample va <
+
+2 29
+Xi-aizn™ X > Xan
+
+As consistent (but biased) point estimate ofc, we have ae.4 —p) .To geta
+ny
+
+confidence interval ofc, we note that
+
+(x; —ny
+
+--- Page 79 ---
+
+_ yy —_y2 Hypothesis
+or, FES se cE |e Testing
+
+2
+i Xa/2n i Xt-a/2,n
+
+or, PES se eB Pato
+
+i Xa/2,n i Xi-a/2n
+The confidence limits of 6” with confidence coefficient (1-@) are therefore,
+2 2
+=) ond (si fo)
+
+2
+Xal2n Xi-a/2n
+
+roots of these quantities, with the same confidence coefficient, (1 - a).
+
+. The confidence limits ofc are just the positive square
+
+Case IIT: p and o both unknown
+
+In this case, xand s’ are jointly sufficient for 1 ando. Here to test Ho: = bo or
+to have confidence limits for u, one cannot use the statistic vn(x —p)/osinces
+
+is unknown. o in this case is replaced by its sample estimate,
+
+s= [4 acs —x) . The resulting expression will be Vinx -p)/s'.
+n-h =
+
+Now from the discussion made in the last unit, it is clear that
+
+(n—1) s” 2 (x; - x)
+
+2 = 2
+o o
+
+is a x with df = (n-1) and is distributed independently
+
+_ x —p)/
+of x. Thus, Jae—pyis'= —X2@—wle being of the form
+
+T
+@=D8" p41) VeMa-1)”
+ey
+
+where ra has df = (n— 1) and is independent oft, is distributed as a ‘t’ with
+Df=(n_1)
+
+To test Ho: 1 = wo we may, therefore use the statistic t =Vn(x -u,)/s' with df=
+
+(n-1). We shall have to compute ‘t’ (computed from the given sample) with ta, n-
+1 or ‘t? with - ta,n-1 or |t| with ta 2,n-1, according as the alternative of interest is
+AT: w> po, H:  < Wo or: wb F bo.
+
+In order to obtain confidence limits for 1, we see that
+
+_ s! _ s'
+P (X—toieSh < (xt team) =l-a
+
+1
+
+_ Ss
+The 100(1—0)% confidence limits for 1 will, therefore, be (x- tom i and
+n
+S 1
+(xt tian a , these having been computed from the given sample.
+n
+
+The above procedure is called as the Student's t-test.
+
+245
+
+--- Page 80 ---
+
+Inferential
+Statistics
+
+246
+
+In this case, we may have also the problem of testing Ho: c=, or the problem of
+obtaining confidence limits foro. From what has been said above, it is clear that
+
+LO) ys?
+
+2 2
+9 99
+
+is, under the hypothesis Ho, a 1° with df = (n-1). This
+
+provides us with the test for Ho. The value of this xe , computed from the given
+
+sample, is compared with Lon or Xian , according as the alternative is
+FA: o>%y or H: o<Oy.
+
+For the alternative H: o#0 , on the other hand, the computed value is to be
+compared with both Liat dnt and x2 12-1» Ho being rejected if the computed value
+is smaller than the former or exceeds the latter value.
+
+(n-1) s”
+2
+
+a/2,n-1 —
+oO
+
+Since Pf s s Bow] =l-0
+
+2
+Xal2.n-1 Xt-a/2,n-1
+
+12 . 2
+ie, Fo) <o< (a Ds re
+
+2 1)
+(al) Sand fa Ds . The
+Xa/2,n-1 X1-a/2,n-1
+
+The confidence limits for 6” are therefore,
+
+confidence limits with the same confidence coefficient (1-a) to o are, of
+course, the positive square roots of these quantities.
+
+Check Your Progress 2
+
+1) Which is wider, a 95% or a 99% confidence interval?
+
+2) When you construct a 95% confidence interval, what are you 95%
+confident about?
+
+3) When computing a confidence interval, when do you use t and when do you
+use z?
+

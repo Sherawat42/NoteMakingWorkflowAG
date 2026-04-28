@@ -1,0 +1,474 @@
+--- Page 01 ---
+
+BLOCK 5
+
+EXTREME VALUES AND OPTIMISATION
+
+Unit 16
+Unit 17
+Unit 18
+Unit 19
+
+Optimisation: An Introduction
+Unconstrained and Constrained Optimisation
+Advanced Topics in Optimisation— I
+
+Advanced Topics in Optimisation — II
+
+131
+
+--- Page 02 ---
+
+ignou
+THE PEOPLE'S
+UNIVERSITY
+
+
+--- Page 03 ---
+
+UNIT 16 OPTIMISATION: AN INTRODUCTION
+
+Structure
+
+16.0 Objectives
+
+16.1 Introduction
+
+16.2. Concept of Maxima and Minima
+16.2.1 Identification of Maxima and Minima
+16.2.2 Point of Inflexion
+16.2.3 A Conclusive Criterion
+
+16.3. Extreme Values of Multivariate Functions
+16.3.1 Sufficient Condition for Extreme Values
+16.3.2 Function of Three Variables and Extrema
+16.3.3 Function of n Variables and Extrema
+
+16.4 Let Us Sum Up
+
+16.5 Key Words
+
+16.6 Answers/Hints to Check Your Progress Exercises
+
+16.7 Exercises
+
+16.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+e define and identify the maximum and minimum points of a function;
+
+e state the necessary conditions for maximum and minimum for functions;
+e distinguish between a global and a local maximum/minimum;
+
+e characterise an extremum; and
+
+e distinguish an extremum from a point of inflexion.
+
+16.1 INTRODUCTION
+
+We have already learnt about the shapes of different functions and their
+curvature in Unit 4. To add on to our knowledge about functions, this unit
+provides us an understanding of the concepts like maximum and minimum of a
+given function. We will introduce the notion of a stationary point also where the
+first order derivatives of a function are zero and the function comes to a
+standstill momentarily. We then move on to the point of inflexion which is
+nothing but the point where the curve changes its curvature. We also learn about
+the extreme values of a function with several variables.
+
+133
+
+--- Page 04 ---
+
+Extreme Values
+and Optimisation
+
+134
+
+16.2 CONCEPT OF MAXIMA AND MINIMA
+
+To start with, we assume the function y = f(x) is differentiable (and hence
+continuous) throughout its range. The function may be represented by one of the
+following types of graphs:
+
+¥ ¥
+»/
+
+B
+x
+0 x 0 %
+i) Constant 11) Monotonically increasing
+Y Y
+F
+I
+pn /i\ Hw
+Cc I | I
+1 | | I
+| |E | 1G 4
+| | | | I
+| | | | I
+| I | | | I
+0 I 0 | | ||
+ii) Monotonically decreasing iv) Fluctuating
+
+Fig. 16.1: Types of differentiable (hence continuous) functions
+
+In the first case, the function is the same for all values of x. We shall consider
+the values of y as both maximum and minimum value.
+
+In the second case, the value of the function is monotonically increasing. Let us
+restrict the domain of x to the interval 0 < x < x, . Then in this closed interval, y
+can assume a maximum of B;x; and a minimum of OB. These maximum and
+minimum values of the function are called absolute maximum (global) and
+absolute (global) minimum respectively. Such maximum and minimum values of
+a function are called extreme values or extrema. Accordingly in the third case,
+
+OC becomes the global maxima and XC; the global minima if we restrict in the
+interval of x toO<x<~x,.
+
+Let us consider the fourth case. Here y oscillates with changes in x. The function
+generates three peaks, D, F and H and two bottoms E and G. The value of the
+function at D is the highest in comparison to the values at other points in its
+immediate neighborhood. Symbolically,
+
+f(%-€)< f(~) and f(x, +6) > f(x) as e350.
+
+--- Page 05 ---
+
+Thus, we can say that the value of the function at D is maxima, at least in some
+small interval x,-e<x<x,t+e . Similarly, in another small interval
+
+X;—-€<xX<x,+é, the value of the function is maximum at x = x3 and in the
+
+neighborhood of F,
+f(x; —€) < f (3) and f(x, +€) > f(x).
+
+The function attains another maximum in the neighborhood of point F. These
+maximum values are called local (relative) maxima. A relative maximum gives
+us the information that the value of the function is maximum in the
+neighborhood of the maximum point only, and the function can assume higher
+values elsewhere. For example, in the fourth diagram of Fig 16.1, points D and
+H describe relative maximum, though the function assumes a higher value at F.
+The relative maxima are unlike global maxima. The global maximum is the
+highest value of the function with reference to its entire domain and hence
+unique.
+
+A function can have several local maxima and unique global maxima. The
+concept of local minima and global minima can be explained in the same
+manner. For a continuous function, the global maximum must always be greater
+than the global minimum.
+
+The local extrema always appear as point interior to an interval, however small.
+These local extrema are thus strictly interior extrema. In the following
+discussion, we shall consider only these types of extrema.
+
+16.2.1 Identification of Maxima and Minima
+
+Let us now look at maximum and minimum through Fig. 16.2.
+
+Vv A Vv
+
+_
+
+} == === to
+
+Vv
+Vv
+
+(a) (b)
+
+Fig. 16.2: Cases of Maximum and Minimum
+The extremum described by panel (a) in Fig 16.2 is a maximum, while that of
+panel (b) is a minimum. In panel (a) the curve y = f(x) takes a turn at point A. To
+the left of A, the curve is increasing i.e., f’(x)>0 while to the its right f(x) is
+decreasing i.e., f(x) <0. Thus, at the turning point A, f(x) must be zero 1L.e.,
+f’(xo) =0. Similarly, at point B in panel (b) of Fig.16.2, f(xo)=0. Therefore, we
+
+Optimisation:
+An Introduction
+
+135
+
+--- Page 06 ---
+
+Extreme Values
+and Optimisation
+
+136
+
+can conclude that an extremum can take place only at the stationary points where
+
+f’(x)=0. The extreme values are always stationary values.
+
+Let us construct ein the neighborhood of the point xo (where xo is the point where
+the perpendicular from point A meets the x-axis)in panel (a). As A is local
+maximum, we know that in the interval xo - e< x < xo + ¢, the value of f(x) at
+X = xo is the highest.
+
+Thus, to the left of xo,
+
+¥ <x) > (2) < (0%) = LO LOW 5 9. jim LO= LO) , 9
+X—-X,
+
+0 XX x- Xp
+Let the value of this limit be 1; > 0. Then
+
+lim f@)-fO%)
+XX X-Xy
+To the right of xo,
+£()= f%) & 9
+
+te Xp
+
+X>X) > f(x) < f(%) =>
+
+1 = -—I, (say) where, lo> 0
+XX X— Xo
+
+Thus, we get the result that the right-hand limit and left-hand limit of xo assume
+two different values. Naturally, the limit does not exist. But the curve is smooth
+
+and continuous. So, the limit must exist at xo also. This can happen, if
+
+XX X-Xy XA>X+ X-X,
+h=-hbie,l +h=0. 1e., ifl;=hb=0.
+
+The value of the first derivative at that point is zero is the necessary condition
+for a function to be maximum or minimum at that point.
+
+We assume the function to be differentiable everywhere in the domain of its
+definition. To obtain sufficient condition for maxima and minima, we observe
+the pattern of change of the slope of the curves in panel (a) of Fig. 16.2. We saw
+that to the left of point A, f’(x)>0 and to the right of A, f(x) <0. This means that
+while passing through the maximum point A, the slope of the curve f(x) changes
+its sign from positive to negative. This is the sufficient condition for maximum.
+This condition, along with the necessary condition, gives us the necessary and
+sufficient condition for an extremum to be maximum. Mathematically, the
+sufficient condition means f’(xo) # 0. We find that the above two definitions are
+not equivalent. But we shall assume f’(xo) assumes a non-zero value.
+
+--- Page 07 ---
+
+Let us now summarise the result we have obtained so far.
+i) Necessary condition
+a) for maxima: f”(x)=0
+b) for minima: f’(x)=0
+ii) Sufficient condition
+a) for maxima: f’(x)=0 and f’(x)<0
+b) for minima: f’(x)=0 and f’(x)>0.
+Example 16.1: Find the maxima and minima for the following function:
+a) y = 3x*— 10x? + 6x7 +5
+First order condition (F.O.C.):
+12x? — 30x? + 12x =0
+or, 3x (4x — 2) (x —2) =0.
+Either, x = 0 or, x =2 or x = %.
+Second, order condition (S.O.C.):
+36x? — 60x +12 =0
+At x = 0, f(x) = 36 (0) — 60 (0) +12
+=12>0.
+At x = 2, f(x) = 36 (2)? — 60 (2) +12
+= 144 — 120+12 =36
+=36>0.
+At x = 1/2, f(x) = 36 (1/2)? — 60 (1/2) +12
+=9-30+4+12=-9
+=-9<0.
+
+1
+Hence, the function attains maximum at x = 5 and minimum at x=0 and x = 2.
+Example 16.2:
+
+b) Show that for the function y=x+—, the maximum value is less than its
+Xx
+
+minimum value.
+
+2
+
+f@=i-+, f@=2
+
+x x
+f'()=90>x=1 or-l
+ff") =2>0=> f(x)has its minima at x = 1 and f (1) =2
+f'(-)l) =-2 <0= f(x)has its maxima at x = -1 and f (-1) = -2
+
+Thus, the maximum value is less than its minimum value.
+
+Optimisation:
+An Introduction
+
+137
+
+--- Page 08 ---
+
+Extreme Values
+and Optimisation
+
+138
+
+Check Your Progress 1
+
+1) Show that f(x) = x? — 6x” + 24x + 4 has neither a maximum nor a minimum.
+
+16.2.2 Point of Inflexion
+
+Now we will consider the cases for which the second derivative is zero. If
+the second derivative is zero at a point, the function may have a maximum, a
+minimum or a point of inflexion. The point of inflexion is defined as a point
+
+at which a curve changes its curvature.
+
+At the point of inflexion, a curve does not change its direction of movement
+but only the nature of its slope (Fig 16.3). At each inflexion point, the first
+order derivative of the curve either reaches a maximum or a minimum. The
+
+sufficient condition for a point of inflexion is
+
+f(x) = 0 and f'"(x) #0
+
+Inflection
+point
+
+\"
+
+k 1
+fF v
+
+Concave Concave
+up down
+
+Fig.16.3: Inflexion point
+Thus, if a function has f'(x) =0, f'"(x) =0 and f'"(x) # Oat the point x, the
+
+point is said to be stationary and inflexional.
+At this stage, we state an important result:
+
+If a monotonic function is first convex and then concave, the point of
+inflexion generates a maximum f(x). Similarly, if the function is initially
+
+concave, and then convex, the point of inflexion generates a minimum f(x).
+
+Example 16.3: Find the point of inflexion for the function f(x) =x*+2
+Here, f(x) =3x’, f"(x) = 6x and f(x) =6 40
+When f(x) =6x =0, x=0. Thus, the function has point of inflexion at the
+
+origin.
+
+--- Page 09 ---
+
+Check Your Progress 2 Optimisation:
+
+An Introduction
+1) Find the point of inflexion for the function f(x) =x° +x° +x+1
+
+16.2.3 A Conclusive Criterion
+
+Let us expand the function f(x) around the point x =a.
+
+f(x) - fa) = F@«-a) + Oo a)*t+...... + — (x — a)”
+
+where, x*=a+@(x-a),0<O@<1.
+
+The above series is the Taylor series with Lagrange’s form of the remainder.
+
+From this result we will consider various possible cases:
+
+Case-I: f(a) #0
+
+For simplicity, we assume n = 0. By Taylor’s expansion,
+F(x) -F(D= f' OO) — a).
+
+Since f'(a)#0, f'(x*)#0. To the left of x*,(x—a)<0O and to its right,
+(x—a)>0O. Thus, to the left and the right ofx =a, f(x)-— f(a) has opposite
+signs. This implies the extrema of a function is characterized by f'(x)= 0.
+
+Case-II: f '(a) =0, f "(a) #0
+Suppose n = 1. From the Taylor series,
+
+Lo)
+
+F(x) ~ f(a) = f (a(x- a) + (x a)"= sf "(x*)\(x— ay’
+
+Now, (x—a)’ >0 implies that the sign of f(x)— f(a) depends on the sign of
+Ff '"(x*) which again depends on the sign of f"(a) .
+Thus if
+1) f"(a)>0, f(x) — f(a)>0 and the curve is minimum at x =a
+ii) f"(a) <0, f(x) — f(a)<0 and the curve is maximum at x =a
+Case-III:
+f(a) = 0, f"(a) = Oand f"(a) # 0
+Let us assume n=2.
+
+Here from the Taylor expansion,
+
+fo fla=f (ayx- +L @)
+
+2, F"Q*)
+(xray +
+
+(x= a)'=2 fm)
+
+139
+
+--- Page 10 ---
+
+Extreme Values
+and Optimisation
+
+140
+
+Here again f"(x*) # Oand depends on the sign of f"(a). We find that (x —a)°
+
+>0 to the right of a and <0 to the left of a. Thus, the whole right-hand
+expression has opposite signs at the two opposite sides ofa. Thus ais not an
+
+extremum, rather a point of inflexion.
+Case-IV:
+f(a) =0, f(a) = 0, f(a) =0
+
+and
+
+f'(a)#0
+
+Here we assume n=4. Again, by Taylor expansion,
+
+PO) fla = f(a)",
+
+Since (x —a)*>0, the sign of f(x)— f(a) depends on the sign of f*(x*) which
+in turn depends on the sign of f*(a).
+
+We can conclude that
+
+i) f*(a)>0, f(x)— f(a)>0 and the curve is minimum at x = a
+
+ii) f*(a)<0, f(x)— f(a)<0 and the curve is maximum at x =a
+Generalizing the above argument we may conclude;
+
+When / (a) =0, f"(a) =0.......f” (a) =0& f"(a) #0 , the point x =a has
+i) amaximum ifn is even and f”(a) <0
+
+ii) aminimum ifn is even and f”"(a)>0
+
+111) an inflexion if n is odd.
+
+16.3 EXTREME VALUES OF MULTIVARIATE
+FUNCTIONS
+
+Let y = f(x) and the first order condition for optimisation is f’(x)=0.
+Now, dy = f(x).
+Thus, F.O.C. for optimisation requires dy = 0.
+
+To find out the extrema of a bivariate function, we proceed according to the
+same argument.
+
+Consider the bivariate function y = f(x1, x2).
+dy = fi dx; + f2 dx2.
+
+The first order condition for optimisation is
+dy = fidx; + f2 dx2 =0
+
+As both dx: and dx2 are not equal to zero, the above equation can hold only
+when f] = f2 = 0.
+
+Hence, F.O.C. for optimum of a bivariate function are
+
+f\=0 and f2=0.
+

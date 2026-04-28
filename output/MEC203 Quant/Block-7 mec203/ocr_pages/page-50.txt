@@ -1,0 +1,48 @@
+Intertemporal
+Optimisation-II
+
+Lo)
+
+iC D
+t Tt Ot
+
+>
+
+Fig. 23.1: Trajectory of Largrange Functional
+
+Therefore, variation to functional AJg = Ja(.)—J(.)
+
+ty+8ty ty
+=> Ma = j Ap(.)dt— Jacoat
+to to
+tr tr
+= [Apa + ACI, dtr - Javat
+to to
+ty
+= fIAp()- AQ at + AQ) leat, Bt
+to
+
+= [a,c + Ox(t),u * (1) + du(t), A(1),1)
+
+— A(x’ (t),u* (t),A(t), t)]dt
++ ACC (t),U* (LACE). t) It, Bt (23.12)
+
+Using Taylor series expansion and integration by parts we can get 1“ variation of
+functional (pleas ref to unit -22 for proof of theorem in calculus of variations)
+
+For necessary condition after simplification
+
+Oy =1* variation of functional
+
+t By BY
+-| [ae-3( 20) 8x(t).dt
+x Loxtt) at&t).
+* means at optimal path
+
+t
+Ont) aA()
+“a) aunts AO) oxi, + AG)
+
+tat, Str ... (23.13)
+
+49

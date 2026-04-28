@@ -1,0 +1,647 @@
+--- Page 51 ---
+Dynamic
+Optimisation
+
+50
+
+ty
+Using the lemma if {g(t)8x(t) dt = Othen
+to
+g(t) = 0 at every point over the interval [tg t>]
+so our necessary condition for optimality is (as 5x(t) and du(t) are not equal to
+
+zero)
+
+mel =0 ... (23.14)
+ax(t) dt ax‘(t)) |.
+
+In case x is nx 1 vector
+
+co O42) -0,, ... (23.18)
+ax(t)  dt\ éx'(t) m
+
+In order to solve these differential equations we need boundary condition.
+
+Similarly, Aah =0 «+. (23.16)
+ol
+
+if u(t) is scalar
+
+aN(.) _
+and Butt) * Om .. (23.17)
+
+ifu is mx vector
+
+Because | “two terms are zeros in equation 23.13
+
+ANG)
+
+24 = AU Iotay, St (22), 8x (t) It, ... (23.18)
+
+After some algebraic calculation which takes into consideration 6x'(t). dt; +0
+
+ont) 0) st, + OMY)
+ox'(t) tty ox'(t)
+
+We get as=[Lo- 3x, =0 ... (23.19)
+
+ttt,
+Therefore in order to make necessary condition the equation 23.19 needs to be
+solved. This is general boundary condition this takes into account that x¢ and ts
+
+are both free. We are getting two boundary condition as there are two terms in
+equation (23.19). (Note that we need to make yas small as possible so we set
+
+23.19 to zero)
+If x and u are vector of dimension nx 1and mx ‘respectively.
+
+then the boundary condition would be
+T ~ T
+aQ-| AQ) xa] at +{ AO xf =0 ... (23.20)
+ox'(t) '
+tat,
+
+ax'(t)
+In summary we need to solve
+
+equations (23.14) (23.16) (23.19) when x and u are scalars and equations (23.17)
+
+(23.15) (23.20) when x and u are vectors. Solving these pairs of equation will
+give us u* (t)which in turn gives us x *(t).
+
+
+--- Page 52 ---
+23.3 HAMILTONIAN FORMATION OF OPTIMAL
+CONTROL PROBLEM
+
+Let us restate what we have learned so far
+x(t) = f(x(t), u(t), t)
+
+Given the above constraint we have to optimise
+
+t
+JO) = SOx(t), t) leet, i v(x(t),u(t), t)dt
+‘0
+
+We have derived necessary condition
+aA.) A/adc))|_¢
+ax(t) dt ex’(t)
+
+and boundary condition
+
+OA) )., ~~  OA(.)
+[a0-{ 2) ol St, + xd)
+
+where * stands for optimal value of u* (t)which in turn gives us x(t)
+
+OX
+"tty
+
+: , 880) ) vy , 280) 9 ry
+and we know A(.) = satu) 2¢9,0-+{ $0} (W+e A(t) x(t)
+
+Note:
+H = Hamiltonian function (this is free from x’(t)
+= V(x(t),u(t),t) + AQx(t), u(t), t)
+
+Using equation 23.10 in equation (23.14) ie., the value of L(.) is used in
+necessary condition.
+
+Using the fact that oH =0 and 6 és =0
+ox'(t) éx'(t) | ot
+
+and after simplification we get
+
+oH() _ .. (23.21) for u(t) as scalar
+
+u(t)
+
+Gh =Omet ... (23.22) for u(t) as mx ‘vector
+ox =-x(t) ... (23.23) for x(t) is scalar
+ont = aa) «+. (23.24) for x(t) is nx 1 vector
+on =x'(t) ... (23.25) for x(t), u(t) as scalar
+
+Intertemporal
+Optimisation-II
+
+51
+
+--- Page 53 ---
+Dynamic
+Optimisation
+
+52
+
+(22) = anu ... (23.26) for x is (nx 1) vector.
+
+Equation 23.25 or 23.26 is called state equation
+Equation 23.23 or 23.24 is called co-state equation
+For multivariate case Ais (nx 1)vector as x is nx 1 vector
+
+Solving state and co-state equation and ao =
+
+Owill give us u* (t)and in turn
+x*(t)
+
+In order to get boundary condition under Hamiltonian formulation, we need to
+put (23.10) in equation (23.20). after simplification, we get the boundary
+
+s(.)
+ote + ( nT 1)
+t-te x(t)
+
+condition.
+és(.)
+HOSP)
+
+The above equation is for x’ (t) and u* (t)as scalar. When x * (t)and u* (t)are
+
+dx, =0 ... (23.27)
+t=t,
+
+vectors of (nx 1)and (mx 1) dimension then
+
+;
+[HO = ] - at + 20 1)
+
+Is the boundary condition equation for multivariate case.
+
+dx_ =0 ++» (23.28)
+
+Check Your Progress 1
+
+1
+1) Optimize V=J—u2dt st. y’=y+u andy (0)=1, y(1)=0
+0
+
+23.4 HAMILTONIAN OPTIMALITY CONDITION IN
+SPECIAL CASES
+
+Case A: Fixed final time and fixed final state.
+
+For solving this type of problems there is no boundary condition we need to
+solve only (23.21)/23.22), (23.23)/(23.24), (23.25)/(23.26) to get optimality
+condition
+
+Case B: Free final time and fixed final state here dt, is free and 5x¢ =0
+
+Hence for optimality, besides solving the three equations we need to solve one
+more boundary condition needs to be solved.
+
+H()+ 8) <9
+
+ie.,
+at
+
+... (23.29)
+
+--- Page 54 ---
+Case C: Fixed final time and free final state. Intertemporal
+Optimisation-II
+
+=> dt, =O and dx¢ is free.
+Hence for optimality we need to solve the 3 set of equations as in case A and
+
+[=a] =0 ...(23.30)
+OK Itt,
+
+(for univariate case)
+
+5 T
+for multivariate case E - nt) = Ont .. (23.31)
+x
+
+Case D: Free final time and free final state.
+
+For optimally besides solving 3 sets of equation we need to solve two boundary
+
+condition.
+H()+ 30) 9 --.(23.32)
+at
+os we
+[£ - «0 =0 ... (23.33) (For univariate x) or
+x
+os u
+E - a) =On ... (23.34) (For multivariate ‘x’ case)
+ox
+
+23.5 TRANSVERSALITY CONDITION
+
+Sometimes, the terminal value of the state variable x(t, ) = X¢ is restricted in
+
+sign. This is usually the case in economic application of the maximum principle,
+where a typical state variable is the stock of productive capital in the economy.
+We have as transversality condition.
+
+xf 20, xy Ay =O (23.35)
+
+which implies that either x; =Oor else Atp =O. If on the contrary, x is not
+restricted in value or sign, then we must have as transversality condition x+, =O
+
+if the planning problem has an infinite time horizon, the transversality condition
+becomes
+
+lim Xp 20, lim xt Atp =O .-. (23.36)
+tp oo ty 00
+
+when X¢ is restricted in sign and lim 2, =0
+toe
+
+when xy is not restricted in sign or value.
+
+23.6 THE DISCOUNTED PROBLEM
+
+In case of especially economic growth problems the global intertemporal
+objective is the result of aggregative overtime an instantaneous objective
+
+function subject to sometime discount @. That is function 533
+
+--- Page 55 ---
+Dynamic
+Optimisation
+
+54
+
+f(xt,Up, t)is of the form
+
+Ot
+
+F(xt,Up,t) = O77 Gxt, Ur, t)
+
+Where the time discount makes the net contribution of a given level of the
+objective function g(.) to be lower the farther it occurs into the future.
+
+Therefore, our problem is
+
+T ot
+Max fe7"" 9(x¢, Ut, t)
+Uuoio
+
+Subject to constraint x’(t) =h(x;¢,uz,t) and xg = Xg given
+As discussed earlier we can write the Hamiltonian as
+H(.) =e" g(.) + 24h(,)
+=e gl.) + aye" h(.)] ... (23.37)
+
+We define the current value multiplier ut = ree which provides us with the
+
+shadow price or marginal value of the state variable x; at time t.
+
+We define the current value of HamiltonianH”
+
+H’(.) = eH(.) = g(.) + uh(.) «++ (23.38)
+Where it is easy to see that the choice of uj maximizing the current value
+
+Hamiltonian H’ is same as maximizing the Hamiltonian H(.)(ref equation 23.37)
+
+Using the same optimality condition as discussed earlier
+
+aH.) _g_, 2e"H'(.) _ ot HH ()
+
+a ++ (23.39)
+Out Out Out
+(1) Form which we get
+CHG) _ 9, H =0 --.(23.39a)
+Out Out
+
+(2) We know
+my = Aye
+
+=> py = Op, +e at
+
+oH(.)
+=O, +e%-5
+bt ox,
+= oy, +6 |- et catt) at ant.)
+OXt oxt
+6g(.) ot dh(.)
+= Ont - —aye
+Max at
+
+--- Page 56 ---
+ég(. oh Intertemporal
+= Ou, — 8) ~ Hy .-. (23.40) Optimisation-II
+Oxt Oxt
+
+Simplifying equation (23.39a)
+
+oH ég(.) ahi.
+
+OH 9, GW), 1, MO) _9 .. (23.41)
+Out Out Out
+
+We can perform a similar transformation in the transversality conditions, to have
+
+for the infinite horizon case, in terms of the current-value multiplier,
+
+—t xt =0 .. (23.42)
+
+lim x72=0 lime
+To To
+
+when xz is restricted is sign and lim er 7 =0
+T3300
+
+when xy is not restricted in sign or value
+
+23.7 SECOND ORDER CONDITION
+
+In order to determine the nature of optimisation (to determine the functional
+
+value as the one out of minimum or maximum) we need 2"4 order condition.
+For sufficient condition, we calculate
+67J =2™ variation of functional
+
+(Note we minimize 1‘ variation of functional to get necessary condition) * is
+optimal path/trajectory).
+
+2y_" 7H.) s(t) HU)
+oJ= ‘ 0/00 2a) |, 5x(t) + 28x(t) ax(t)au(ty dull)
+
+o2
+vo 2 H(. ) su(t) | dt
+du2 t) a
+
+We know from our earlier discussion that is 87J > 0 then the functional value is
+minimum and if 8°J < Othen the functional value is maximum.
+
+One can write this in matrix and vector form (in quadratic form)
+
+a°H(.) aH.)
+2) feo ax?(t)  Ox(t)du(t) | [8x(t)
+3 Je! [8x(t) :Su(t)] a) ancy | Laut dt ... (23.43)
+
+ax(t)au(t) u(t)
+
+Let the matrix in above equation be A
+
+then A is a symmetric hessian matrix
+
+55
+
+--- Page 57 ---
+Dynamic
+Optimisation
+
+56
+
+when x(t) is (n x 1) vector and u(t) is (m x 1) vector then the dimension of A
+
+will be [(n + m) x (n + m)] so what we need to do is following
+
+i) Solve the Hamiltonian equations to get u* (t) and x *(t)
+
+ii) Formulate hessian matrix A
+
+iii) Compute hessian matrix A at U* and x* to get A*
+
+iv) If A*is positive definite then we can conclude that J*is minimum or else
+if the matrix A * is negative definite then J*is maximum.
+
+Check Your Progress 2
+
+1) Consider the following simple problem
+
+min {gq(u)} = f {OY + u(y} at}
+0
+
+Subject to * =u(t), x(0)=1
+
+23.8 LET US SUM UP
+
+By using the similar arguments that we used to prove the theorems in unit-22 we
+
+formulate Lagrangian for continuous dynamic optimisation problems, each with
+
+equality constraint and with fixed final state. From the Lagrangian we derive the
+
+Hamiltonian functional and the state, the necessary condition for optimisation.
+
+Four types of boundary value conditions are derived. The transversality
+
+condition, the discounted problems are discussed separately as they hold
+
+considerable importance in economics. Further we state sufficient conditions that
+
+finally decide one out of maximum or minimum after necessary condition.
+
+23.9 KEYWORD,
+
+Boundary :
+Condition
+Control Variable 3
+
+The conditions that need to be solved in order to
+find optimal control. Boundary conditions arise
+because either final state or final time or both are
+free (unspecified) in objective functional.
+
+In optimal control theory a control is a variable
+chosen by the controller or agent to manipulate
+state variables similar to an actual control value.
+Unlike the state variable, it does not have a
+predetermined equation of motion. The goal of
+optimal control theory is to find some sequence of
+controls (within an admissible set) to achieve an
+optimal path for the state variables.
+
+--- Page 58 ---
+Hamiltonian : A function which is formulated by taking
+Function objective functional and constraints to optimise
+the objective functional.
+
+Necessary : The series of equation that needs to be solved in
+Condition order to find U * (optimal control variable).
+State Variable : A state variable is one of the set of variables that
+
+are used to describe the mathematical state of a
+dynamic system. In our case these are series of
+first order differential equation.
+
+Sufficient Condition: The status of hessian matrix borne out of
+for optimality Hamiltonian functional gives sufficient condition
+(Hamiltonian) (or 2"! order condition). For minimality the
+
+hessian matrix is positive definite and for
+maximality the hessian matrix is negative definite.
+
+Transversality : In optimal control, a transversality condition is a
+
+Condition boundary condition for terminal values of the
+costate variables (A(t)). It is one of the necessary
+conditions for optimality in case of infinite
+horizon optimal control problems without an end
+point constraint on state variables.
+
+23.10 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1) First and foremost, since X}q and xts are both fixed no boundary value
+
+condition is needed. Rewriting the problem
+
+1
+optimize = {— u2dt st. y’ = y + Ugiven the boundary value of state variable
+u(t) 0
+
+y(0) = 1 y(1) = 0. Forming the Hamiltonian we get H(.) = =u? + My +u)
+OH(.) _ 0
+
+For the necessary condition we need to set and
+al
+7 2.
+AHL) gy PHL) __p
+oy ou
+
+oH 1
+Setting — =0 => -2u+A=0>u(t)==A(t
+etting au > => u(t) 3 (t)
+
+a a2 a2 2
+OF 4 and 2H <9 simitarty SHC) _ 2 HC) _ 9
+oy ay? duéy — éyou
+
+Intertemporal
+Optimisation-II
+
+57
+
+--- Page 59 ---
+Dynamic
+Optimisation
+
+58
+
+aH(.) 2?H(.)
+ay? éyéu f °
+
+Forming the hessian matrix, A = 3 3 =
+2H.) 2H()
+
+duéy = au?
+
+detA =-2 < Ohence A is
+
+1 At) (1)
+
+negative definite consequently u(t) =
+
+nN]
+
+maximize the objective function.
+OH(.) _
+oy
+
+From costate equation A (th=r
+
+We get general solution A(t) = ket .. Q)
+
+at t=0 A(0)=khence A(t) = 4(0)e*
+
+using eq (2) in (1) u(t) = ake ... 3)
+. . . . , 1, +t
+Using (2), (3) in state dynamic equation y’ = y + 3
+1, -t
+>y'-y==ke
+y-y 2
+
+This is a first order linear differential equation with a variable
+
+coefficient and a variable term of type & uty = W(t) here with
+
+1, -
+u(t) =—1and w(t) = 3K ‘via standard formula
+y(t) = et tle + kei at}
+= e'(c + ik jer*at]
+
+Hence y(t) = e(c fre")
+=cet—1ket (4)
+4
+
+where c is an arbitrary constant.
+Using the boundary value condition y(0) = 1 y(1) =0
+
+1 4e2
+3 and Kes 2
+
+We get c=
+
+
+--- Page 60 ---
+Putting it altogether
+
+2
+* 1 t e? -t * 4e -t
+y (t)= e- e ‘anda (t)= e
+1-7 1-e? 1-e?
+2
+and u"(t) = 2e +e* (Ans)
+l-e
+Check Your Progress 2
+
+1
+1) Rewriting the problem min go(u) = f(x? + u’) dt
+u 0
+
+s.t.x’ = ugiven x(0) =1 that means x(1) is free
+
+The corresponding Hamiltonian H(.) = x? +u2 +Au
+Using necessary condition a =0>2u+A=0
+du
+
+* 1
+=>u =-rA(t
+2 (t)
+Using co-state equation = =X (t)
+
+= oh __ox(ty 5 x--1%
+dt 2 dt
+
+Using boundary value condition (ref 23.30) here t, =1
+
+[S-] =0=4(1)=0
+ox Itt
+
+The state dynamic equation x’ =—U
+
+dx -A(t)
+=>—=e
+
+dt 2
+
+Sopa tits . __ dx
+Differentiating both sides of above equation =
+t
+2)
+2.
+Therefore, we can write —> —x =0
+dt?
+
+For complementary solution let Ae” = x
+
+then equation (5) can be written Ae" (r? —1) = 0
+
+as Ae™ = Ois trivial solution we set r? = ‘then r £4
+Hence the solution of equation (5) can be written
+
+x(t) = Ae' +Bet ... (6)
+
+Intertemporal
+Optimisation-II
+
+.()
+
+..Q)
+
+.. B)
+
+A)
+
+oh. =X (usin
+dt 5
+
+6)
+
+59
+

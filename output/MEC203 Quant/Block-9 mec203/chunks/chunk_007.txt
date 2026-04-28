@@ -1,0 +1,521 @@
+--- Page 61 ---
+
+Maximum
+Likelihood
+
+Minimum
+Variance
+Unbiased
+Estimator
+
+Most Efficient
+Estimator
+
+Parameter Space
+
+Partial Least
+Squares
+
+Sufficiency
+
+It is the most widely used method of constructing an
+estimator for unknown parameter 0. In case of large
+samples, it gives the best estimator of the unknown
+parameter. Here, maximizing L(@)with respect to 0 will
+yield the Maximum likelihood estimator (MLE).
+
+L(0) = log L(0) =log]] f(x|@)= log f(x,
+
+@)
+
+T is Minimum Variance Unbiased Estimator of (0) if
+Eo(T) = (8) for all @¢© and Varo(T) < Varo(T’) for all 6
+€0 where T’ is any other unbiased estimator of y(0)
+
+If T; is the most efficient estimator with variance V; and
+Tz is any other estimator with variance V2, then the
+efficiency E of T2 is defined as: E = V\ /V2. E cannot
+exceed unity. If T), To, ... , Tn are all estimators of y(0)
+and Var(T) is minimum, then the efficiency of Ej of Ti, (i
+=1,2,..., n) is defined as: Ej = Var(T)/ Var(Ti); Ei < 1,
+G=1,2,...,n).
+
+For a random variable x with p. d. f. f(x, 0), 00, the set
+@is the set of all possible values of 8 and is called the
+“parameter space’.
+
+This method is used for estimation when either the
+number of explanatory (independent) variables are quite
+large as compared to the number of observations in the
+data or these explanatory variables are correlated.
+
+If Tn= T (x1, X2, ... Xn) is an estimator of a parameter 0,
+based on a sample x1, X2, ... , Xn of size ‘n’ from the
+population with density f(x, 6) such that the conditional
+distribution of x1, x2, ... , Xn given T, is independent of 0,
+then T is sufficient estimator for 0. A sufficient statistic
+summarises all the information in a sample about the
+
+parameter.
+
+30.9 ANSWER OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1) See Section 30.2
+2) See Section 30.3
+
+Estimation
+
+227
+
+--- Page 62 ---
+
+Inferential
+Statistics
+
+228
+
+3)
+
+4)
+
+5)
+
+Here we are given E (xi) =p, v(x) =1 Vi=1,2,...,n
+Now E (xi) = v (xi) + {E (x) }? = 14+
+1 n
+E(= AS ‘|-2 EG )= “Si eye te
+il i=l
+We are given E (Xi) = p, var (Xi?) =o”
+Cov (Xi, Yi) =0 GG #j=1,2,...,n)
+
+i) Eti)= LYE, )=(1/5).5p = w=> ti is an unbiased estimator of pL.
+
+ii) E(s)=p>’u=0=>2=0
+v (tr) = [v(X1)+ v(X2)+ v(X3)+ v(X4)+ v(Xs)] / 25 = 07/5
+v (t2) = [v(X1)+ v(X2)] / 4+ v(X3) = 3.07 /2
+Vv (t3) = [4v(X1)+ v(X2)]/9 =507/9 (since A = 0)
+
+Since v (t1) is the least, t; is the best estimator (in the sense of least
+variance) of pL.
+
+L(x, 0) =] J£(,.8)= 0] [@*)
+
+i=l
+
+9" [ITs Fig (ty,0). b (Xt, x3, «+. aXn), (Say).
+(Is)
+
+n
+Hence by Factorization theorem, t1 =T[ x; , is sufficient estimator for 0.
+
+i=l
+
+Check Your Progress 2
+
+9)
+2)
+
+3)
+
+A)L(K1,.0Xnl0)= TT
+
+See Section 30.5
+See sub- section 30.5.3
+Let p be the probability of getting heads. Then the probability of getting
+HHT is p°(1—p). Taking the derivative and setting equal to zero gives
+p=(2/3)
+
+n Ox?- 4
+i=1 28
+
+INL(x1,...,Xn[9) = 3 (Ine + (0 —1)In x; — 9In2)
+
+i=1
+
+fa) n
+Jp nL. Xnl0) = (3 +Inx — In2]=0
+
+ol 3
+
+3
+
+Inx; —nIn 2=0
+"a
+
+--- Page 63 ---
+
+n n Estimation
+= =nln2- > inx;
+8 int
+a n
+8MLE =,
+nin2-> In x;
+
+i=
+30.10 EXERCISES
+Ql. Let Xi, X2, ... .Xn be a random sample from a Cauchy population:
+
+f(x,o-1_1 _., — 0<x<m, —- 0<Q<o,
+nm 1+(x-06)
+
+Examine if there exist sufficient estimate for 0.
+
++ ly 1
+Ans. L(x, 8) = f(x;, 0) =—. ———— | #¢ (ti, 9). h (1,x2,...,Xn).
+(= [] (0) = Mccoy | g (C1, 8). B (%1,X25. Kn)
+Hence by Factorization Theorem, there is no single statistic, which alone is
+sufficient for 0.
+
+However, L (x, 6) = ki (Xi, Xo, ... ,Xn, 8). ko(X1, Xa, ... ,Xn) => The whole
+set (Xi, X2, ... , Xn) is jointly sufficient for 0.
+
+Q2. Given that baby weights are normally distributed with mean p and standard
+deviation o, with the three babies weighing 8, 9, 10 ounces, what is the
+maximum likelihood for 1?
+
+Ans. The p.d.f for a normal distribution is ne HF /20? So, we want to
+
+oo TT
+
+maximize
+
+Ve g(8-W)? /202-(9-p)? / 202 -(10-p)2 202
+3 3
+of V2n
+
+For p and take the logarithmic derivative and set that equal to 0.
+
+Q3. The number of sixes made during a match is Poisson distributed. Last week,
+the number of sixes made was 14, 27, 25, and 12. Calculate the maximum
+likelihood estimate for the parameter i.
+
+Ans. The likelihood function is L(X.[14,27,25,12)=P(14,27,25,12| A)
+
+14e-2 727Q-h 725-2 712—-2 178 —-42
+~44l 27) (tts 71261121
+it equal to 0
+
+Take the derivative and set
+
+Q4. If Xj are normally distributed random variables with mean p, then:
+
+229
+
+--- Page 64 ---
+
+Inferential xX <=
+Statistics w= ZX =X
+n
+
+is the maximum likelihood estimators of. Is the MLE unbiased for the
+
+parameter?
+
+Ans. If Xj is a normally distributed random variable with mean pand variance
+o?, then E(X;) =u and Var(X;)= 02. Therefore:
+
+s 1N 10 1 1
+E(X)= e(13x) = Ze) = not = = (nu)= uu
+
+Therefore, the MLE of pis unbiased.
+
+230
+
+--- Page 65 ---
+
+UNIT 31 HYPOTHESIS TESTING
+
+Structure
+31.0 Objectives
+31.1 Introduction
+31.2 Test of Significance
+31.2.1 Null Hypothesis
+31.2.2 Alternative Hypothesis
+31.2.3 Critical Region and Level of Significance
+31.2.4 Confidence Interval and Confidence Limits
+31.2.5 One-Tailed and Two-Tailed Test
+31.2.6 Critical Values and Significant Values
+31.3. Critical Region Method & P-value Method of Hypothesis Testing
+31.4 Type I and Type II Error
+31.5 Power of The Test
+31.6 Optimum Test Under Different Situations
+31.6.1 Most Powerful Test
+31.6.2 Uniformly Most Powerful Test
+31.7 Test Procedure Under Normality Assumption
+31.7.1 Problems Regarding the Univariate Normal Distribution
+31.7.2 Comparison of Two Univariate Normal Distributions
+31.7.3 Problems Relating to a Bivariate Normal Distribution
+31.8 Let Us Sum Up
+31.9 Key Words
+31.10 Answers/Hints to Check Your Progress Exercises
+31.11 Exercises
+31.0 OBJECTIVES
+
+After going through this unit, you should be able to
+
+e form the null hypothesis and the alternative hypothesis;
+
+e determine the critical region and the level of significance;
+
+e specify the confidence interval and confidence limits;
+
+e calculate the critical values in one-tailed and two-tailed tests;
+
+e distinguish between Type I and Type II errors;
+
+e identify the optimum test under different situations;
+
+© compare two univariate normal distributions; and
+
+e solve the problems relating to hypotheses testing.
+
+231
+
+--- Page 66 ---
+
+Inferential
+Statistics
+
+232
+
+31.1 INTRODUCTION
+
+After understanding the theory of estimation and various methods of estimation
+in the previous unit, now we are prepared to learn further about statistical
+inference. We generally have some information or hypothetical values of the
+parameters and it is required to test how far the hypothesis is tenable in the light
+of the information provided by the sample. The procedure which enable us to
+decide whether a certain hypothesis is true or not is called the test of hypothesis
+or test of significance. In this unit, we will learn about the basics like null
+hypothesis, alternative hypothesis, how to determine the critical region and the
+level of significance, how to specify the confidence interval and confidence
+limits, etc. You will be able to understand the difference between Type I and
+Type II errors and also know about the optimum test under different situations.
+Further there will be a discussion about the comparison between two univariate
+normal distributions and how to recognize the problems relating to a bivariate
+normal distribution.
+
+31.2 TESTS OF SIGNIFICANCE
+
+A very important aspect of the sampling theory is the study of tests of
+significance, which enables us to decide on the basis of the sample results, if (i)
+the deviation between the observed sample statistic and the hypothetical
+parameter value, or (ii) the deviation between two independent sample statistics,
+is significant or might be attributed to chance or the fluctuations of sampling.
+Hypothesis testing is always about a population parameter, not about a sample
+statistic.
+
+Since, for large ‘n’, almost all the distributions, e.g., binomial, poisson, negative
+binomial, hypergeometric, t, F, chi-square, can be approximated very closely by a
+normal probability curve, we use the ‘normal test of significance’ for large
+samples. Some of the well-known tests of significance for studying such
+differences for small samples are t-test, F-test and Fisher’s z-transformation.
+
+31.2.1 Null Hypothesis
+
+The technique of randomization used for the selection of sample units makes the
+test of significance valid. For applying the test of significance, we first set up a
+hypothesis — a definite hypothesis of no difference. It is called as the ‘null
+hypothesis’ and usually denoted by Ho. According to Professor R. A. Fischer,
+null hypothesis is the hypothesis, which is tested for possible rejection under the
+assumption that it is true.
+
+For example, in case of single statistic, Hp will be that the sample statistic does
+not differ significantly from the hypothetical parameter value and in the case of a
+comparison between two statistics, Ho will be that the sample statistics do not
+differ significantly. Having set up the null hypothesis, we compute the
+probability P that the deviation between the observed sample statistic and the
+
+--- Page 67 ---
+
+hypothetical parameter value might have occurred due to fluctuations of
+sampling. If the deviation comes out to be significant (as measured by a test of
+significance), null hypothesis is refuted or rejected at the particular level of
+significance adopted and if the deviation is not significant, null hypothesis may
+be retained at that level.
+
+31.2.2 Alternative Hypothesis
+
+Any hypothesis, which is complementary to the null hypothesis is called an
+alternative hypothesis, usually denoted by H7.
+
+For example, if we want to test the null hypothesis under the three scenarios
+related to the population mean u, specified by (say 1=L19,uUS Ho, 2 Uo) then the
+
+alternative hypothesis could be
+1) Ho: H=Ho,Hy:H¥ Ho
+li) Ho: HS po,Hy :H> Ho
+lil) Ho :H2H9,Hy 2M <Mo
+
+The alternative hypothesis in (i) is known as ‘two-tailed alternative’ and the
+alternatives in (ii) and (iii) are known as ‘right-tailed alternative’ and ‘left-tailed
+alternative’, respectively. The setting of alternative hypothesis is very important
+since it enables us to decide whether we have to use a single-tailed (right or left)
+or two-tailed test.
+
+31.2.3 Critical Region and Level of Significance
+
+A region (corresponding to a statistic t) in the sample space S that amounts to
+rejection of Ho is termed as ‘critical region’. If @ is the critical region and if
+t =t(X1, X2, ... , Xn) is the value of the statistic based on a random sample of size
+‘n’, then P[t € @| Ho] =a and P[t € ow’ | H7] =, where w’ is the complementary
+set of w, called the ‘acceptance region’. We have @ U w’ =S and M w’ =9q. The
+probability of o that a random value of the statistic t belongs to the critical region
+is known as the ‘level of significance’. In other words, level of significance is the
+size of the type I error (or the maximum producer’s risk). The levels of
+significance usually employed in testing of hypothesis are 5% and 1%. The level
+of significance is always fixed in advance before collecting the sample
+information.
+
+31.2.4 Confidence Interval and Confidence Limits
+
+Let xi, (i= 1, 2, .., n) be a random sample of ‘n’ observations from a population
+involving a single unknown parameter 0 (say). Let f(x, 8) be the probability
+function of the parent distribution from which the sample is drawn and let us
+suppose that this distribution is continuous. Let t = t(x1, x2, ... , Xn), a function of
+the sample values, be an estimate of the population parameter 0, with the
+sampling distribution given by g(t, 8).
+
+Hypothesis
+Testing
+
+233
+
+--- Page 68 ---
+
+Inferential
+Statistics
+
+234
+
+Having obtained the value of the statistic t from a given sample, the problem is,
+“Can we make some reasonable probability statements about the unknown
+parameter 0 in the population, from which the sample has been drawn?” This
+question is very well answered by the technique of ‘confidence interval’ due to
+Neyman and is obtained below.
+
+We choose once for all some small value of «(5% or 1%) and then determine
+two constants, say, ci and c2 such that P [ci < @ < c2]=1—@. The quantities c; and
+C2, so determined, are known as the ‘confidence limits’ and the interval [c1, c2]
+within which the unknown value of the population parameter is expected to lie, is
+called the ‘confidence interval’ and (1—@) is called the ‘confidence coefficient’.
+Thus, if we take «= 0.05 (or 0.01), we shall get 95% (or 99%) confidence limits.
+
+How to find c; and c2?
+
+Let T; and T2 be two statistics such that P (T; > 0) = 0, and P (T2 > 0) = @,
+where ,and ©, are constants independent of 6. So, it can be written that P
+(T:<0< Tz) = 1-a@ where a =0,+@,. Statistics T; and T: may be taken as ci
+and c2 as defined in the last section.
+
+For example, if we take a large sample from a normal population with mean
+
+and standard deviationa, then Z = a ~N(0, 1)
+o/ sin
+
+and P (— 1.96 <Z<1.96) = 0.95 [from normal probability tables]
+
+=(- 1.96<= H 1.96) 0.95
+
+alk va
+
+o
+Thus, x + 196 are the 95% confidence limits for the unknown parameter
+n
+
+— the population mean and the interval
+
+fo) 6
+[x- 1.96—=, x + 1.96 =] is called the 95% confidence interval.
+vn vn
+
+31.2.5 One -Tailed and Two-Tailed Tests
+
+In any test, the critical region is represented by a portion of the area under the
+probability curve of the sampling distribution of the test statistic.
+
+A test of any statistical hypothesis where the alternative hypothesis is one-tailed
+(right-tailed or left-tailed) is called a ‘one-tailed test’. For example, a test for
+testing the mean of a population Ho: u = uo against the alternative hypothesis: H7:
+uu > wo (right -tailed) or Hz: p < wo (left-tailed), is a ‘single-tailed test’. In the
+right-tailed test (H7: 1 > Mo), the critical region lies entirely in the right tail of the
+sampling distribution of x (Fig 31.1), while for the left-test (Ay: [1 < po), the
+critical region is entirely in the left tail of the distribution (Fig 31.2).
+
+--- Page 69 ---
+
+Hypothesis
+Testing
+
+Reject Hy
+Accept Hy
+
+|
+
+Fig. 31.1: Critical Region for One-Tailed Test (H,: > Mo)
+
+Reject Hy
+
+Accept Hy
+
+k
+
+Fig. 31.2: Critical Region for One-Tailed Test (Hy: ¢ < Mo)
+
+Let us consider a test of statistical hypothesis where the alternative hypothesis is
+two-tailed (Fig 31.3) such as: Ho: u = po, against the alternative hypothesis H7: w
+# uo (indicates both the possibilities u > po and  < wo). Such a test is known as
+“two-tailed test’ and in such a case the critical region is given by the portion of
+
+the area lying in both the tails of the probability curve of the test statistic.
+
+235
+
+--- Page 70 ---
+
+Inferential
+Statistics
+
+236
+
+Reject Hy Reject Hy
+
+Accept Hy
+
+al
+
+a: 2 a ly
+_A4 |
+
+Ho-Za z Hotze z
+
+Fig. 31.3: Critical Region for Two-Tailed Test
+
+In a particular problem, whether one-tailed or two-tailed test is to be applied
+depends entirely on the nature of the alternative hypothesis. If the alternative
+hypothesis is two-tailed, we apply the two-tailed test and if the alternative
+hypothesis is one-tailed, we apply the one-tailed test.
+
+For example, suppose there are two popular brands of bulbs, one manufactured
+by standard process (with mean life 11) and the other manufactured by some new
+technique (with mean life u2). To test if the bulbs differ significantly, our null
+hypothesis is Ho: (41 = bz and the alternative will be H: uu # v2, thus giving us a
+two-tailed test. However, if we want to test if the bulbs produced by new process
+have higher average life than those produced by standard process, then we have
+Ao: Wi = p2 and 7: wWi< pp, thus giving us a left-tailed test. Similarly, for testing if
+the product of new process is inferior to that of standard process, we have to set:
+Ho: pu = 2 and Hy: i> py, thus giving us a right-tailed test. Accordingly, the
+decision about applying a two-tailed test or a single-tail test (right or left) will
+depend on the problem under study.
+
+31.2.6 Critical Values or Significant Values
+
+The value of the test statistic which separates the critical (or rejection) region and
+the acceptance region is called the ‘critical value’ or ‘significant value’. It
+depends upon: (i) the level of significance used, and (ii) the alternative
+hypothesis, whether it is two-tailed or single-tailed. As has been pointed out
+earlier, for large samples, the standardized variable asymptotically corresponding
+

@@ -1,0 +1,53 @@
+Dynamic
+Optimisation
+
+16
+
+respect to time. If x(t) denotes output at time t, then the rate of change of output
+is x’(t), and V(x(t), x’(t),t) denotes the profit functional. Thus, the problem may
+be mathematically modeled/expressed as
+
+Max f,/ V(x(t),x'®, t) de. (22.1)
+0
+
+Subject to x(t) => 0 X(to) = Xo
+
+22.2.2Example of Discrete Dynamic Optimisation
+The Cake Eating Problem
+
+Assume that there is a cake whose size at time t is denoted by Wt and a
+muncher who wants to eat it in T time periods. Let C, denote the size of cake
+eaten during time-periods (t, t+1). The initial size of the cake is Wo = a(say),
+and finally, we have Wry = 0. The eater has psychological discount factor
+0<f<land a static logarithmic utility function. The question here is what should
+be the optimal eating strategy.
+
+The problem is to find the optimal path C* ={C,"}73 and W* = {W,"}I_o that
+solve the problem
+MaxyF_5 Bela (Cy) os vee vee (22.2) subject to Wix1 = Wi- Cy
+
+Wo=a,and Wr=0
+For handling the type of problems discussed above through the two examples,
+there are mainly three dynamic optimization approaches, viz. (i) calculus of
+variations, (ii) dynamic programming, and (iii) optimal control theory, which is
+modern generalization of variational calculus. We start our discussion with the
+firs of these.
+
+22.3. THE CALCULUS OF VARIATIONS
+
+The origin of calculus of variations can be traced back to John Bernoulli who in
+year 1696 posed a problem called brachistochrone problem: (If a small object
+moves under the influence of gravity which path between two fixed points
+enables it to make the trip in the shortest time). The problem was solved by him
+and independently by his brother James in 1697. Other eminent mathematician
+who contributed to this branch of calculus include Euler, Lagrange, Legendre,
+Jacobi, Hamilton, Weierstrass, Hilbert.
+
+Next, we discuss fundamental result, of Calculus of Variations, viz, Euler-
+Lagrange Equation, also known as Euler-Lagrange Condition, or even E-L
+condition, EL equation etc.)
+
+22.3.1 Theorem for Optimality
+Theorem: Let J: C? [xo, Xe] >R be a functional
+
+FOROD=LIV OO Ode setetteteeceen (22.3)

@@ -1,0 +1,58 @@
+Dynamic
+Optimisation
+
+We can now deal with (24.20) which gives
+
+SN gxot_gy 2% _8
+c nx 7
+
+integrating
+
+t
+log c=“ log x og A
+n n
+
+that is c = Ax#/Ne-dt/n
+and if at time t= 0 C = Cgwe have
+
+© =Co(x/xg)%/" e@ St/n
+
+a.
+
+That is c=c, e* "[1+(1—a)t/x,° 7] (24.24)
+
+We can also determine the other control the depletion Rate R, from
+a t)- Rk'-Rk_k’ | R’
+dt \R
+
+R? R RR
+
+Using equation (24.12) we get
+
+Given F =k°Rt
+
+F_(ky ya
+R \R
+xb peey_xRF 8,8
+
+R R RR R
+= x'=xt-S_ xe
+
+R R
+
+Using equation (24.22) in above equation
+R’=-c/x
+that is
+
+Ri = coe Ot! M14 (1-ax)t/xqh 4-0-2) 7 x9
+
+This can be integrated numerically except in the rather special case when a =n,
+
+R’=-c, ee!" /x
+On integration this becomes
+
+R=Ro ee 4) (24.25)
+
+Where the constant of integration has been chosen so that R=Rgat t=0
+
+76

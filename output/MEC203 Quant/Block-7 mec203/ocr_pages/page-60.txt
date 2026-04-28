@@ -1,0 +1,75 @@
+Putting it altogether
+
+2
+* 1 t e? -t * 4e -t
+y (t)= e- e ‘anda (t)= e
+1-7 1-e? 1-e?
+2
+and u"(t) = 2e +e* (Ans)
+l-e
+Check Your Progress 2
+
+1
+1) Rewriting the problem min go(u) = f(x? + u’) dt
+u 0
+
+s.t.x’ = ugiven x(0) =1 that means x(1) is free
+
+The corresponding Hamiltonian H(.) = x? +u2 +Au
+Using necessary condition a =0>2u+A=0
+du
+
+* 1
+=>u =-rA(t
+2 (t)
+Using co-state equation = =X (t)
+
+= oh __ox(ty 5 x--1%
+dt 2 dt
+
+Using boundary value condition (ref 23.30) here t, =1
+
+[S-] =0=4(1)=0
+ox Itt
+
+The state dynamic equation x’ =—U
+
+dx -A(t)
+=>—=e
+
+dt 2
+
+Sopa tits . __ dx
+Differentiating both sides of above equation =
+t
+2)
+2.
+Therefore, we can write —> —x =0
+dt?
+
+For complementary solution let Ae” = x
+
+then equation (5) can be written Ae" (r? —1) = 0
+
+as Ae™ = Ois trivial solution we set r? = ‘then r £4
+Hence the solution of equation (5) can be written
+
+x(t) = Ae' +Bet ... (6)
+
+Intertemporal
+Optimisation-II
+
+.()
+
+..Q)
+
+.. B)
+
+A)
+
+oh. =X (usin
+dt 5
+
+6)
+
+59

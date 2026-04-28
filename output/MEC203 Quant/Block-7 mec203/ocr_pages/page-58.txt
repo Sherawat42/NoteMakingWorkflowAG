@@ -1,0 +1,61 @@
+Hamiltonian : A function which is formulated by taking
+Function objective functional and constraints to optimise
+the objective functional.
+
+Necessary : The series of equation that needs to be solved in
+Condition order to find U * (optimal control variable).
+State Variable : A state variable is one of the set of variables that
+
+are used to describe the mathematical state of a
+dynamic system. In our case these are series of
+first order differential equation.
+
+Sufficient Condition: The status of hessian matrix borne out of
+for optimality Hamiltonian functional gives sufficient condition
+(Hamiltonian) (or 2"! order condition). For minimality the
+
+hessian matrix is positive definite and for
+maximality the hessian matrix is negative definite.
+
+Transversality : In optimal control, a transversality condition is a
+
+Condition boundary condition for terminal values of the
+costate variables (A(t)). It is one of the necessary
+conditions for optimality in case of infinite
+horizon optimal control problems without an end
+point constraint on state variables.
+
+23.10 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1) First and foremost, since X}q and xts are both fixed no boundary value
+
+condition is needed. Rewriting the problem
+
+1
+optimize = {— u2dt st. y’ = y + Ugiven the boundary value of state variable
+u(t) 0
+
+y(0) = 1 y(1) = 0. Forming the Hamiltonian we get H(.) = =u? + My +u)
+OH(.) _ 0
+
+For the necessary condition we need to set and
+al
+7 2.
+AHL) gy PHL) __p
+oy ou
+
+oH 1
+Setting — =0 => -2u+A=0>u(t)==A(t
+etting au > => u(t) 3 (t)
+
+a a2 a2 2
+OF 4 and 2H <9 simitarty SHC) _ 2 HC) _ 9
+oy ay? duéy — éyou
+
+Intertemporal
+Optimisation-II
+
+57

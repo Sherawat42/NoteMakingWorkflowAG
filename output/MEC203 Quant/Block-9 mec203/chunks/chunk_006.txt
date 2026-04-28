@@ -1,0 +1,594 @@
+--- Page 51 ---
+
+Estimation
+
+2
+it follows that Inf(x) =—In oV2n- ; (=)
+
+oO
+
+so that ont) _ +4),
+Ow ol oO
+4 2 _ 2
+Hence, E (Sa) -+E (="} ee
+Ou o o o o
+
+2
+
+Thus, | -! =-2.
+n
+
+ainf(x))|) a
+INT (xX n—
+| au | o
+2
+
+Since xis unbiased and Var(x) = —, it follows that xis a minimum variance
+unbiased estimator of pt.
+
+If Vo be the variance of the most efficient estimator and V be the variance of any
+other estimator, then efficiency of the estimator is defined as: <2 <1.
+
+In sampling from a Normal distribution N(u.0?), both the sample mean and
+
+2
+variance are consistent estimators of u. We know that the Var(x) = 2— and
+n
+
+2
+fey
+2 ae
+Var(Median) =n So, efficiency of Mean = SS = 0.64 . So, Var(x) is
+n
+no
+2n
+
+smaller than Var(Median). Hence, mean is more efficient than median in
+estimating the parameter p. A statistic t which has the minimum variance among
+
+all estimators of 0 is called Minimum Variance (MV) estimator.
+
+30.3.4 Sufficiency
+
+An estimator is said to be sufficient for a parameter, if it contains all the
+information in the sample regarding the parameter. More precisely, if Tna= T (x1,
+X2, ... ;Xn) is an estimator of a parameter 0, based on a sample x1, x2, ... , Xnof
+size ‘n’ from the population with density f(x, 8) such that the conditional
+distribution of x1, X2, ... , Xn given T, is independent of 0, then T is a sufficient
+estimator for 0.
+
+Factorization Theorem (Neyman)
+
+It is very tedious to check whether a statistic is a sufficient estimator of a given
+parameter by following the above definition. It is easier to base it on the
+Factorization theorem which gives a necessary and sufficient condition for a
+statistic to be a sufficient estimator of a parameter.
+
+Statement: T = t(x) is sufficient estimator of the parameter 0 if and only if the
+
+joint probability distribution or density function L of the random variable can be 217
+
+--- Page 52 ---
+
+Inferential
+Statistics
+
+218
+
+expressed in the form L = go[t(x)].h(x) where go[t(x)] depends on 0 and x only,
+
+through the values of t(x) and h(x) is independent of 0.
+
+Note:
+
+i)
+
+ii)
+
+By ‘a function independent of 8’ we not only mean that it does not involve 0
+but also that its domain does not contain 0. For example, the function f(x) =
+1/2a; a— 9< x <a+t0 and -c0 < @ < «0, depends on 0.
+
+The original sample X = (X1, Xo, ... ,Xn), is always a sufficient statistic.
+
+iii) The most general form of the distributions admitting sufficient statistic is
+
+Koopman’s form and is given by L = L(x, 8) = g(x).h(@).exp{a(0) w (x)}
+where h(6) and a(@) are functions of the parameter 8 only and g(x) and w(x)
+are the functions of the sample observations only. The above equation
+represents the famous ‘exponential family of distributions’, of which most of
+the common distributions like the binomial, the Poisson and the normal with
+unknown mean and variance are its members.
+
+iv) Invariance property of sufficient estimator:
+
+If T is a sufficient estimator for the parameter 0, and yw (t) is a one-to-one
+function of T, then y (t) is sufficient for y (6).
+
+Fisher — Neyman Criterion:
+
+A statistic ti = ti(x1, X2, ... ,Xn) is sufficient estimator of parameter 0 if and
+only if the likelihood function (joint p.d.f of the sample) can be expressed as:
+
+L= T[f«.
+il
+= g(t, 0). k(x, Kyo vers X,)
+
+where gi(ti, 9) is the p.d.f. of statistic t) and k(x1, x2, ... , Xn) is a function of
+sample observations only, independent of 0.
+
+Note that this method requires working out the p.d.f (p.m.f) of the statistic
+ti(X1, X2, ... ,Xn), Which is not always easy.
+
+Check Your Progress 1
+
+3)
+
+2)
+
+Define point estimation and interval estimation.
+
+--- Page 53 ---
+
+3) Xi, X2, ... ,.Xn Is a random sample from a normal population N (u, 1). Show Estimation
+
+1X . . .
+= yx} , is an unbiased estimator of we +1,
+ni
+
+that x =
+
+4) A random sample (Xi, X2, X3, X4, Xs) of size 5 is drawn from a normal
+population with unknown mean pu. Consider the following estimators to
+estimate :
+
+i) ti = (Ki + Xo+ X3+ X4t Xs) / 5; and (ii) ty = (2K + Xr + AX) /3.
+
+Find out A. Are t; and tz unbiased? State the estimator which is best
+between t; and tz. Give reasons.
+
+5) Let Xi, X2, ... ,Xn be a random sample from a population with p.d.f f (x,0)
+=0x°°!; 0<x<1, 0>0. Show that t,= [|] X; , is sufficient for 6.
+
+i=l
+
+30.4 CRAMER-RAO INEQUALITY
+
+To check whether a given unbiased estimator has the smallest possible variance,
+
+i.e., whether it is a minimum variance unbiased estimator (also called best
+unbiased estimator) then the variance of the unbiased estimator (©) of parameter
+
+6 must satisfy the following inequality:
+
+aE ( ainfo
+a0
+
+where, f(x) is the value of population density at x and n the sample size. This is
+
+Var(6)>
+
+the Cramer Inequality which leads us to the following result:
+
+If (6) is an unbiased estimator of @ and
+
+Var(6)=
+
+1
+nE
+
+3) ,
+a0
+
+219
+
+--- Page 54 ---
+
+Inferential
+Statistics
+
+220
+
+Then (6) is an unbiased estimator of ©. Here, the term in the denominator
+captures the information 1(0) about 6 that is provided by the sample. Thus,
+
+smaller the variance indicates greater information.
+
+The Cramer-Rao inequality holds given the following assumptions, which are
+known as the ‘regularity conditions for Cramer-Rao inequality’.
+
+i) | The parameter space © is a non-degenerate open interval on the real line R!
+
+(-20, 2).
+ii) For almost all x = (x1, x2, ... ,Xn), and for all 0€0, 59 £09) exists, the
+
+exceptional set, if any, is independent of 0.
+
+iii) The range of integration is independent of the parameter 0, so that f (x, 0) is
+differentiable under integral sign.
+
+iv) The conditions of uniform convergence of integrals are satisfied so that
+differentiation under the integral sign is valid.
+
+2
+v) L(0) = le log (3.0) exists and is positive for all 0c 0.
+
+An unbiased estimator t of y(0) for which Cramer-Rao lower bound is attained is
+
+called a minimum variance bound (MVB) estimator.
+
+30.4.1 MVUE and Blackwellisation
+
+Cramer-Rao inequality provides us a technique of finding if the unbiased
+estimator is also a MVUE or not. Here, since the regularity conditions are very
+strict, its application becomes restrictive. Moreover, MVB estimator is not the
+same as MVUE since the Cramer-Rao lower bound may not always be satisfied.
+Moreover, if the regularity conditions are violated, then the least attainable
+variance may be less than the Cramer-Rao bound. There is a method of obtaining
+MVUE from an unbiased estimator using sufficient statistic. This technique is
+called Blackwellisation named after D. Blackwell. The result is contained in the
+following theorem due to C. R. Rao and D. Blackwell.
+
+30.4.2 Rao-Blackwell Theorem
+
+Let X and Y be random variables such that E(Y) = p and var (Y) = o;> 0. Now,
+if E(Y | X =x) = (x), then i) E [@(x)] = p and (ii) var [9(x)] < var (Y).
+
+The above result, called the Rao-Blackwell theorem, enables us to obtain the
+MVUE through a sufficient statistic. If a sufficient estimator exists for a
+
+parameter, then in our search for MVUE we may restrict ourselves to functions
+of the sufficient statistic.
+
+--- Page 55 ---
+
+The above theorem can be stated in a slightly different manner as follows:
+
+Let U = U(x, x2, ... , Xn) be an unbiased estimator of parameter y(0) and let T =
+T(x, X2, ... , Xn) be a sufficient statistic for y(0). Consider the function @ (T) of
+
+the sufficient statistic defined as m (T) = E (Y | T = t) which is independent of 0
+(since T is sufficient for y(0). Then Eg(T) = y(6) and var  (T) < var (U).
+
+This result implies that starting with an unbiased estimator U, we can improve
+upon it by defining a function @ (T) of the sufficient statistic given as @ (T) =
+E(Y | T = t). This technique of obtaining improved estimator is called
+Blackwellisation. If in addition, the sufficient statistic T is also complete, then the
+estimator ~(T) discussed above will not only be an improved estimator over U
+
+but also the “best (unique)’ estimator.
+
+30.5 ASYMPTOTIC PROPERTIES
+
+The section focuses on the study of statistics with respect to the asymptotic
+theory or the large sample theory for understanding the properties of the
+estimators and statistical tests. This essentially amounts to discussing the
+properties of estimators that hold true when the sample size in consideration
+becomes large i., the properties of estimators are studied for the
+
+limit n — oo, This section enumerates such properties.
+
+30.5.1 Unbiasedness
+
+We refer to 6n as an asymptotically unbiased estimator of 6 if its expected value
+
+converges to 8 when sample becomes very large i.e., as n > o. The following
+expression depicts this property of the estimators: lim B(6,)= 0.
+
+no
+
+If this does not hold true, then we refer to the estimators as being asymptotically
+biased.
+
+30.5.2 Consistency
+
+6 converges in probability to if for any ¢>0, we can write the following:
+
+n>
+
+lim Pr(|6—4 >é )- 0
+
+If this holds true, then we can also say that 6is consistent for 0. Intuitively, this
+means that for a reasonably large sample size the sample statistic 6 equals 0.
+Thus, when the sample size n is large we can be practically be certain that an
+error made with a consistent estimator will be less than any small pre-assigned
+positive constant. This kind of convergence expressed in the form of limit, as in
+the above equation, is generally called ‘convergence in probability’. In practice,
+we can ensure whether an estimator is consistent or not by using the following
+
+sufficient condition, which is a corollary of Chebyshev’s theorem.
+
+Estimation
+
+221
+
+--- Page 56 ---
+
+Inferential
+Statistics
+
+222
+
+If (6) is an unbiased estimator of 6 and (6) Oas noo, then (6)is a consistent
+
+estimator of 0.
+
+Example: Show that for a random sample from a normal population the sample
+variance S$” is a consistent estimator of o7.
+
+If sample variance of a random variable is S? from an infinite population with a
+
+finite variance o” then we can show E(s?)- o.
+
+Note: The above result is owing to the fact that E(x; -p)}? =02
+
+B(u-x) | o/n
+
+Keep it in mind that S? is an unbiased estimator of the variance (c2) of the
+
+and
+
+infinite population. It is not an unbiased estimator of the variances of the finite
+population and in neither case is S an unbiased estimator of o.
+
+Since S? is an unbiased estimator of o2,it remains to be shown that VarS2 > 0
+
+as noo, We find that for a random sample from a normal population,
+
+4
+VarS2 -= Hence, it follows that VarS2 +0 as n—>0o.Thus, the sample
+
+variance S? is a consistent estimator of the variance of a normal population o2.
+
+30.5.3 Convergence in Distribution and Asymptotic Normality
+
+Convergence in Distribution: A sequence of random variables Zn converges in
+distribution to a continuous random variable Z if for any real z, the following
+holds true:
+
+Pr(Zp <z)>Pr(Z <z) as n>
+
+This essentially means that the shape of the distribution of Zn gets closer and
+closer to that of Z.
+
+Asymptotic Normality: For this particular property, we say that if the limiting
+distribution of Znis normally distributed i.e., Z ~ N(y,02}, then Zn is said to have
+asymptotic normal distribution. If Z ~N(0, 1), then Zn has an asymptotic standard
+
+normal distribution.
+
+Therefore, for the case when n is large, we have the following approximation:
+Pr(Z, < z) = @(z) where ®(z) is the standard normal c.d_f.
+
+--- Page 57 ---
+
+Central Limit Theorem: To explain this, let us suppose that Xi, X2,... ,Xn
+form an independent and identically distributed sample from a distribution with
+
+X-H
+
+olvn
+
+E (Xj) = p and Var (Xi) = 6”. Then, we say that, Z, = —2 M01) where
+
+——> denotes ‘convergence in distribution’.
+
+Intuitively, this means that if we have a population with mean pi and standard
+deviation o and also take large random samples (usually n>30) from the
+population with replacement, then the distribution of the sample means will be
+approximately normally distributed. Additionally, the mean of samples will be
+approximately equal to mean of the whole population.
+
+30.6 METHODS OF ESTIMATION
+
+When we are given a parameter, for example population proportion (p) or
+population mean (u), the ultimate objective is to arrive at a number that best
+represents the true value of the parameter. To achieve the objective, a sample is
+used to compute that number which is a good guess for this true value of the
+parameter. In this section, we will focus on three methods of estimation, namely:
+Maximum Likelihood, Generalized Method of Moments and Partial Least
+Squares.
+
+30.6.1 Maximum Likelihood (ML)
+
+Maximum Likelihood is the most widely used method of constructing an
+estimator for an unknown parameter 0. In case the sample is large, it gives an
+
+excellent estimator of the unknown parameter.
+
+To understand the concept, let us suppose that the random variable X,....., Xn is
+a random sample from a distribution f(x|®@). Further, for every observed random
+sample of the form x1,...Xn, we write f(x1,...Xn|0) = f(x:]0): - - f(xn|0). This
+function is denoted as L(®@) and is called the likelihood function. It is a joint
+density function if f(x|0) is a p.d.f. or the joint probability function if f(x|0) is a
+p.mf.
+
+Intuitively, for any observed data of X1,...xn, we have to consider a value of 0 for
+which the likelihood function L(®) is maximum. Therefore, that value of 6 will
+serve as the estimate of the unknown parameter 0. It essentially means that we
+are choosing the parameter that yields the likelihood of having the data that has
+
+been obtained as maximum.
+
+In case we had no numerical values attributed to the random variables Xj,.....,
+Xn,, ML (Maximum Likelihood) function will yield us a function of n variables
+which itself will be referred to as the maximum likelihood estimate 6. However,
+in case actual data of numerical values are available, the estimate will have a
+
+Estimation
+
+223
+
+--- Page 58 ---
+
+Inferential
+Statistics
+
+224
+
+particular numerical value. It is then referred to as the ‘maximum likelihood
+
+estimator’.
+
+Given the form of the likelihood function, it is not an easy task to maximise it.
+Therefore, maximising this function is equivalent to maximizing log L(@) as log
+is a monotonically increasing function. So, we get:
+
+(8) = logL.(@) = log] [f(Xil0)= Slogt(xi[o)
+i=1 i=1
+
+Hence, maximizing I(0) with respect to 0 will yield the Maximum Likelihood
+Estimator (MLE).
+
+30.6.2 Generalized Method of Moments (GMM)
+
+This method of estimation is in many ways similar to the Maximum Likelihood
+(ML) method of estimation. The GMM puts to use the assumptions about specific
+moments of the random variables rather than making assumptions about the
+entire distribution. Therefore, this approach makes the GMM estimators more
+robust than the estimators calculated by the method of maximum likelihood.
+
+To describe it further, suppose the data in consideration is composed of T
+
+observations {Y1}+=1,...7, Where Ytis an n-dimensional multivariate random
+
+variable. As a condition to use GMM, we require the moment conditions i.e. a
+vector-valued function g(Y,0) for which m(0o)= E[g(Y1,0)] = 0 where E signifies
+the expectation and Y; is a generic observation. Intuitively, applying GMM
+
+amounts to replacing the expected value E["] with the sample average:
+
+fo) = 4 F0(%.0)
+
+t=1
+
+The next step is to minimise the norm of the expression so that we get to our
+estimator 89. Such estimators, called the GMM estimators, are known to be
+asymptotically normal, consistent and the most efficient in the class of estimators
+that do not use/require any information other than the one gathered from the
+moment conditions.
+
+30.6.3 Partial Least Squares (PLS)
+
+Partial Least Squares (PLS) method is used for estimation when either the
+number of explanatory (independent) variables are quite large as compared to the
+number of observations in the data or these explanatory variables are correlated.
+This method of estimation decreases the number of independent variables so that
+we just have relevant variables for the analysis. It further uses another method
+known as Principal Component Analysis to identify the uncorrelated
+components. Principal component analysis (PCA) is a method that reduces the
+dimensionality of large data sets by transforming the large set of variables into a
+smaller one that still contains most of the information in the original large set of
+variables.
+
+--- Page 59 ---
+
+Check Your Progress 2 Estimation
+
+1) Enumerate and discuss the asymptotic properties of estimators.
+
+3) Suppose you have a coin that you think is biased. You flip it 3 times and get
+the sequence HHT. What is the maximum likelihood estimate (MLE) for the
+probability of getting heads?
+
+4) Suppose x, ...,X, are independent and identically distributed samples from a
+distribution with density
+
+0-1
+= 5 OSXS3
+fx (x(0) =
+0, otherwise
+
+Find the MLE for®é.
+
+30.7 LET US SUM UP
+
+We began the unit with the characteristics of good estimators and then we
+proceeded to the topic of Cramer Rao Inequality. We then discussed the
+properties of estimators that hold true when the sample size becomes quite large
+i.e., the asymptotic properties of the estimators like unbiasedness, consistency,
+convergence in distribution and asymptotic normality. Lastly, the methods of
+estimation were discussed to understand the ways of computing the best value of
+the parameter using the methods of Maximum Likelihood, Generalized Method
+of Moments and Partial Least Squares. 225
+
+--- Page 60 ---
+
+Inferential
+Statistics
+
+226
+
+30.8 KEY WORDS
+
+Central Limit
+Theorem
+
+Completeness
+
+Cramer-Rao
+Inequality
+
+Consistency
+
+Efficiency
+
+Generalized
+Method of
+Moments
+
+Intuitively, this means that if we have a population with
+mean wu and standard deviation o and also take large
+random samples (usually n2>30) from _ the
+population with replacement, then the distribution of the
+sample means will be approximately normally
+distributed.
+
+This is the property of an estimator which ensures that
+the distributions corresponding to different estimates are
+distinct. Hence, it is possible for a ‘complete statistic’ to
+provide no information about @. It is therefore, also
+necessary for it to be ‘sufficient’.
+
+If t is an unbiased estimator of y(0) , a function of
+
+parameter 0, then
+
+a9] [roy
+|Z loot] 10)
+00
+3 2
+and I(0) = (3 log L(x, 0| }
+
+where I (0) is the information on 0, supplied by the
+
+var (t) =
+
+sample. In other words, Cramer-Rao inequality provides
+' 2
+
+[ 7) |
+16)
+
+estimator of y(0) .
+
+a lower bound to the variance of an unbiased
+
+Tn is a consistent estimator of y(@) if for every e> 0, n>
+0, there exists a positive integer n > m(e, n) such that
+
+P [|Ta— y(0)| <e] > 1 asn > © =>P [Tn - y(0)| <e] >
+1—n; Vn>m where m is some very large value of n.
+
+T is the best estimator (or efficient estimator) of (0) if it
+is consistent and normally distributed and if
+avar (T) < avar (T’) whatever the other consistent and
+asymptotically normal estimator T’ may be i.
+
+In case of GMM, it puts to use the assumptions about
+specific moments of the random variables rather than
+using assumptions about the entire distribution.
+Therefore, this property makes the GMM estimators
+more robust than the estimators calculated by the method
+of maximum likelihood.
+

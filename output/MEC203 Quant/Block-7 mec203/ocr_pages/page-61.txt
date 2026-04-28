@@ -1,0 +1,61 @@
+Dynamic
+Optimisation
+
+60
+
+x(0) =1 x(1) = O(from eq 2 & 3)
+
+Where A and B are constants to be determined by the boundary
+condition. Some elementary algebra then leads to the exact solution of
+
+TPBVP.
+u'(t)= ~2e sinh (1-2)
+l+e
+* 2e
+x"(t)= cosh (1-t)
+14+62
+
+while the above example could be solved analytically, it is far less complex
+than that one can expect to encounter in practice. In fact, most practical
+optimal control problem cannot be solved analytically.
+
+23.12, EXERCISES
+
+Ql. The problem is to find the optimal flows of cake munching
+C ={C'():te[0,7]} and of the size of the cake
+
+W* ={W(t):t €[0,7]} such that
+T
+max | Inc(t) e-P dt subject to W" =—C, t <(0,T)
+co
+W(0) = 6, W(T) = 0 where 6 > Ois given
+
+T
+Ans. Our objective function is max Jeet In(ct)dt
+0
+st.=W'=-C
+Therefore H’ = e* H(.) = In(ct) + p4(—Ct)
+
+The necessary condition for optimisation
+
+5
+oH =0> < In(ct) + pe é (ct) = 0 where uy = cy
+Out Ou; Out
+
+1 1 .
+=>— +u(-1) > cf = — we (i)
+
+Ct Mt
+
+_ OH
+Settin; =-Lt
+
+is aw; Ht
+
+= Hh =pue > SE = pat = Inny = ptr
+t
+
+=> py = err . ii)
+We know W' =—c(t)
+
+So, cp =e Pt

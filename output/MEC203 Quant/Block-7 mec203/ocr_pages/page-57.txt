@@ -1,0 +1,64 @@
+Dynamic
+Optimisation
+
+56
+
+when x(t) is (n x 1) vector and u(t) is (m x 1) vector then the dimension of A
+
+will be [(n + m) x (n + m)] so what we need to do is following
+
+i) Solve the Hamiltonian equations to get u* (t) and x *(t)
+
+ii) Formulate hessian matrix A
+
+iii) Compute hessian matrix A at U* and x* to get A*
+
+iv) If A*is positive definite then we can conclude that J*is minimum or else
+if the matrix A * is negative definite then J*is maximum.
+
+Check Your Progress 2
+
+1) Consider the following simple problem
+
+min {gq(u)} = f {OY + u(y} at}
+0
+
+Subject to * =u(t), x(0)=1
+
+23.8 LET US SUM UP
+
+By using the similar arguments that we used to prove the theorems in unit-22 we
+
+formulate Lagrangian for continuous dynamic optimisation problems, each with
+
+equality constraint and with fixed final state. From the Lagrangian we derive the
+
+Hamiltonian functional and the state, the necessary condition for optimisation.
+
+Four types of boundary value conditions are derived. The transversality
+
+condition, the discounted problems are discussed separately as they hold
+
+considerable importance in economics. Further we state sufficient conditions that
+
+finally decide one out of maximum or minimum after necessary condition.
+
+23.9 KEYWORD,
+
+Boundary :
+Condition
+Control Variable 3
+
+The conditions that need to be solved in order to
+find optimal control. Boundary conditions arise
+because either final state or final time or both are
+free (unspecified) in objective functional.
+
+In optimal control theory a control is a variable
+chosen by the controller or agent to manipulate
+state variables similar to an actual control value.
+Unlike the state variable, it does not have a
+predetermined equation of motion. The goal of
+optimal control theory is to find some sequence of
+controls (within an admissible set) to achieve an
+optimal path for the state variables.

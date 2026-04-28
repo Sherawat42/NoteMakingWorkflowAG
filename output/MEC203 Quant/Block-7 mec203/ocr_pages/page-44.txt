@@ -1,0 +1,58 @@
+Explanation & attempted definition of STATE: A state of a system may be
+considered as a sort of indicator/measure of the progress in the direction of the
+goal/ solution, irrespective of the moves made so far for solving the problem.
+
+In general, SV, the state-variable, of a system may consist of more than one
+internal variable, where an internal variable is a variable which neither appears in
+the input, nor in the output. Thus, in general, the state-variable is a state-vector
+by «+45 Diy +++) Yn), With yi’s as internal variables. Particular value of state-vector
+is called (just) state at some particular juncture.
+
+Formally, SV, the state-vector is a subset (y1, ..., Yi +++) Yn) of (possibly very
+large set) IV of internal variables, such that
+
+i) SV is a minimal independent subset of IV, i. e. if an internal variable z = 3
+yi + 4y2, then z is not included in SV
+
+ii) the output: SV x JP DOP is well-defined, i. e. is a function: for each s;
+ESV, and j € IP, output (s;, j) € OP, is unique,
+
+iii) the Next-state: SV x JP DSV is well-defined, i. e. is a function: for each
+si€SV, and j € IP, the next-state (s;, j) = sk is unique. We may note that the
+Next-state function is required to know the outputs corresponding to the
+
+later inputs.
+
+iv) The state of a dynamical system remains unchanged, unless some input
+is made from the environment, external to the system. In detail, though
+the internal variables may be affecting each other, and the values of some
+of the internal variables may be changing without external inputs, but the
+values of those internal variables which constitute the state, remain
+unchanged between two consecutive inputs.
+
+In essence, STATE variable may be considered as a sort of implicit, dynamically
+changing function from the set of choice-variables to the output, which is
+
+i) Dynamically changing, in the sense, that each given input not only returns
+the output, but also changes the relation between (state for) the next input
+
+and next output, and
+
+ii) Implicit, in the sense, that it is not stated in the form output = f(input), for
+
+some f.
+
+State Space Representation: (courtesy Wikipedia): In a dynamic system,
+including economic systems, a state-space representation is a mathematical
+model of a physical system specified as a set of input, output and variables,
+generally related by first-order (not involving second derivatives) differential
+equations or difference equations. As explained above, such variables, called
+state variables, evolve over time in a way that depends on the values they have at
+any given instant and on the externally imposed values of input variables. Output
+
+variables’ values depend on the values of the state variables.
+
+Intertemporal
+Optimisation-II
+
+43

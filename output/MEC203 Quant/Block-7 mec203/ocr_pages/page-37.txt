@@ -1,0 +1,58 @@
+Dynamic
+Optimisation
+
+36
+
+Putting the results in equation (a)
+—2x' +10t—2x" +2x'=0
+=> 2x"=10t
+Let x'=y so 2y'=10t
+=> J2dy = Jrotat
+
+t?
+Sy=105 +e
+
+= Joe= rotate
+
+3
+
+=> x(t)= Ba tert+e
+
+at time t = 0 we get 0 = cy =0
+
+A 1 1
+at time t = 1 we get 2=5.24>O=3
+
+3
+Therefore x’ (t) = 5S + At(Ans)
+
+Q. 2 . Find the x*(t) which in turn shall minimize
+Sj [x'COP de subject to f. x(t) dt = K, x(0) =1, x(1) =2
+
+Ans. This is a case of isoperimetric problem the augmented objective function
+is
+
+(x? -Axit’s E- L equation is -A-2x"=0
+=> 2x"+2=0
+
+The solution of x(t) is equal to
+
++cyt+C2
+
+1
+The constraint equation is fxpat =k
+0
+
+1 2
+= [2 sores} .. (a)
+4
+0
+x(0)=1> cy =1
+x(1)=2> 46,4122 0, =14%
+4 4
+
+Using the value of c1and cp in equation (a)
+
+1 2
+We get ie vate atok
+0

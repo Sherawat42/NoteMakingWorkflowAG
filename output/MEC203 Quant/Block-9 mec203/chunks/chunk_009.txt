@@ -1,0 +1,613 @@
+--- Page 81 ---
+
+4) What Greek letters are used to represent the Type I and II error rates.
+
+5) | What levels are conventionally used for significance testing?
+
+6) When is it valid to use a one-tailed test? What is the advantage of a one-
+tailed test? Give an example of a null hypothesis that would be tested by a
+one-tailed test.
+
+7) Distinguish between probability value and significance level?
+
+8) The following are 12 determinations of the melting point of a compound (in
+degrees centigrade) made by an analyst, the true melting point being 165°C.
+Would you conclude from these data that her determination is free from
+bias?
+
+164.4, 161.4, 169.7, 162.2, 163.9, 168.5, 162.1, 163.4, 160.9, 162.9, 160.8,
+167.7.
+
+31.7.2 Comparison of Two Univariate Normal Distributions
+Let the distribution of x in each of two populations be normal. Suppose the mean
+and the standard deviation of x for one population are 11 and6,, for the other they
+
+are W2 andO,, respectively. Suppose further that x11, X12, ... , Xin are a random
+
+sample from the first distribution, and x21, x22, ... , X2n are a random sample for
+the second set. The first set of observation is also supposed to be independent of
+
+the second set. Then X=>ox, /n, and s, - [6s ~x,)’ /(n, -1) are the
+j j
+
+Hypothesis
+Testing
+
+247
+
+--- Page 82 ---
+
+Inferential
+Statistics
+
+248
+
+mean and standard deviation of x in the first sample, and X=) xy, /n, ,
+j
+
+s, - [Ee ~—x,)’ /(n,—-1) are the corresponding statistics of the second
+j
+
+sample.
+
+Case I: 1, W2 unknown but©,,0, known
+
+In this case, one may be concerned with a comparison between the population
+means. One may have to test the hypothesis that 111 and bl differ by a specified
+quantity, say Ho: 1— p2= 0, or one may like to obtain confidence limits for the
+difference [1 - b2.
+
+It may be seen that X, —X,, being a linear function of normal variables, is itself
+
+normally distributed. It has mean E (X, —X,) = E (%,) — E (X,) = wi - po and
+
+2 2
+variance var(X, —X,) = var(X,) + var(X,) = —- + — , and the covariance term
+n, n,
+: . = > : X, -X,)- — :
+being zero since X,and X, are independent. As such (1 =%2)— Wi he) is
+Or 4 S212
+( )
+
+n, n,
+distributed as a standard normal variable. To test Ho: 1 - 2= €0, we make use of
+.,. (X, — X,)- eo ys :
+the statistic GX) 50 which is distributed as a standard normal variable
+
+(ce + Say 2
+n n
+
+1 2
+
+(+) under Hp. Hois to be rejected on the basis of the given samples if T> 7, or if
+T< -T,, according as the alternative hypothesis in which the experimenter is
+interested i.e., in H7: wi— b2> €o or Ay: wi— ba < €o.
+
+On the other and, if the alternative is H: 1 - 2 # €0, Ho is to be rejected when Ir|>
+
+T,,7. In the commonest cases, the null hypothesis will be Ho: bi = p2 for which €o
+
+= 0. If the problem is one of interval estimation, then it will be found that
+following the usual mode of argument that the confidence limits to bi = b2 (with
+
+2 2
+. 8 o 6
+confidence coefficient 1 - @) are(X, -X,) -1,,,(—+ + —)? and
+n, n,
+2 2
+z > oj 9 Vin
+(x, 7 X,) FT py(— +=)".
+n, n,
+
+Case I: 1, u2 known but 0,9, unknown
+
+Here it may be necessary to test the hypothesis that the ratio of the two unknown
+standard deviations has a specified value, say Ho: 5;/ 0, = £0, or to
+
+--- Page 83 ---
+
+set confidence limits to this ratio. Since )’(x, —p,)’/o; and
+jal
+
+>) (Ky — Hy)? /o3 are independent xs with ny and n degrees of freedom,
+jal
+
+1 &,; — 1)? /n,oy 1
+respectively, P <4 < =l-a where
+
+F 2 F
+
+‘a/2;n2, nl 2 2 ‘a/2; nl, n2
+S&, — py /n,65
+j=l
+
+D&; _ bi)” /n,o;
+is distributed as an F with (m, m) df. Under the
+
+ny
+
+i, ~ bw) /n,03
+
+jl
+De; - i) /o;
+
+hypothesis Ho: 5,/ ©,= &, therefore, a x— is an F with df =
+Dicer ~ ,)” 163 %o
+j=l
+
+(m1, n2). This provides a test for Ho. When the alternative is H7: 5,;/ 0,> €, Ho is
+
+to be rejected if for the given samples F > F o; n1, n2.
+
+If the alternative is H;: 5;/ 0, < &, HO is to be rejected if for the given samples
+F<Fia:nn, Le., if I/F > Fo:n2,n1.
+
+Lastly, when the alternative is H7:5;/ 0,4 €0, Ho is to be rejected if the samples
+in hand give either F < Fi. «1/2; n1,n2, i.¢., 1/F > Fo /2;n2,n1, OF
+
+F> Fa; n2,n1-
+
+The commonest form of the null hypothesis will be Ho: 9,=9, for which €0= 1,
+
+YS &, ~ a)” /n,
+1
+
+and hence, F = =
+
+Di (% — Hy)? /m,
+il
+
+For the purpose of setting confidence limits to 5;/0,, we see that
+
+ny
+
+S&, ~ wy)” /n,o;
+
+Pye 1. a < =l-a
+
+‘a/2; n2, n1 7 x — p/n 0? Fy; nt, n2
+Xj H,) /N,0,
+j=l
+
+ny ny
+
+YG; = p,)°/n, 2 Y«&; = p,)°/n,
+: F fey 1 j=l
+1.€., P s
+
+1
+ny 2>F ny
+2 ‘a/2; nl, n2 2
+Y&, —p,) /n,
+jl
+
+A
+
+< =l-a
+
+Foy m.n
+areal Ys, — p,)’/n,
+
+Hypothesis
+Testing
+
+249
+
+--- Page 84 ---
+
+Inferential 2
+
+Statistics The confidence limits to or with confidence coefficient (1 - 0) will, therefore,
+ory
+1 De, — wy /n, 1 Vi &, ~ Hy? /n,
+be a and a
+
+a/2;nl,n2 d&,; _ u,)° /n, a/2;n2,n1 > &,; _ uw, /n,
+jp jel
+
+The corresponding limits to 9,/ 6, will naturally be the positive square roots of
+these quantities.
+Case IIT: Means and standard deviations all unknown
+
+We shall first consider methods of testing for the difference of the two means and
+of setting confidence limits to this difference.
+
+For the sake of simplicity, we shall assume that the two unknown standard
+deviations are equal. Now if o denotes the common standard deviation, then
+
+(x, _ x,) = (4, _ Hs)
+
+is a standard normal variable, while
+
+o(t + Ly
+n, n,
+(n,-1) 52 +(n, 152 HH “RYU —*%)
+; _ i ; 44 ;
+fo) fey oO
+
+which is the sum of two independent va s, one with df = (ni — 1) and the other
+with df= (nz — 1) and hence is itself a va with df= (ni + n2— 2).
+
+Hence, denoting by s’” the pooled variance of the two samples, so that
+2 (n, -1) 7 +(n, -1)s,’
+s2 =
+
+we have
+n,+n,—2
+(x, 7 X,) 7 CH, _ ey)
+(1 1)"
+= tad
+(x, — X,) — Cy — by) n, OQ,
+a : 1 ) 12
+s iit (n, -1)s,” +(m, -1)s,”
+Yn, n, o’(n, +n, — 2)
+
+tT
+
+Vx /(a, tn, — 2)
+has df = (ni + nz -2). As such, the quantity on the left hand side of the above
+equation is distributed as t with df= (ni + n2—2).
+
+is a quantity of the form , where " is independent of + and
+
+(, 7 X,) 7 bo
+
+A test for Ho: 1 - 2 = Eois then given by the statistic t= 7
+s|—+—
+n, Nn,
+
+with df = (ni + n2—2). This is called Fisher’s t.
+
+250
+
+--- Page 85 ---
+
+For acceptance or rejection of the hypothesis Hp, one will have to compare the
+computed value of t’ with the appropriate tabulated value, keeping in view the
+alternative hypothesis.
+
+Following the usual procedure, it can be found that the confidence limits to
+
+(qu ~ 2) are (x, ~ X,) ~ (tasamn -2) s 444 and
+omy +My Vn, n,
+
+8 fit ; ; 9
+(XK, — Xy) + Cayanim2) 8 nom . Obviously, in both cases we are using s’* as
+1 2
+
+the estimate of the common variance o?.
+
+Next, consider the problem of testing a hypothesis regarding the ratio 9,/ ©, or
+
+the problem of setting a confidence limit to the ratio. The difference between this
+problem and the corresponding problem mentioned in case II may be noted.
+Since 1 and p2 are unknown in the present case, they are replaced by their
+estimates X, and xX, , and we use the fact that
+
+ny
+
+Di; - x,)/ (n, No ss?
+; = + x— is an F with (m1, n2-1) degrees of
+
+De, -%)Y/@, - oe FO
+j
+
+freedom. For testing Ho: 9;/ 0,= &, we will use the F statistic, but now F =
+'2
+
+sx = with (ni — 1, no— 1) degrees of freedom. The confidence limits for o; / o;
+S) 0
+
+1 s, 1 s,
+now will be ——————_-+. and —__—__-1.. The corresponding limits to
+
+‘a/2; nt-l, n2-1 So Fos not, nti 82
+
+6,/ 0, will be the positive square roots of these quantities.
+
+Check Your Progress 3
+
+1) When is a significance test done using z? When is it done using t? What is
+different about the test for differences between proportions?
+
+2) The scores of random sample of 8 students on a physics test are given
+below. Test to see if the sample mean is significantly different from 65 at
+the .05 level
+
+60, 62, 67, 69, 70, 72, 75, 80
+
+Hypothesis
+Testing
+
+251
+
+--- Page 86 ---
+
+Inferential
+Statistics
+
+252
+
+3) State the effect on the probability of a Type I and of a Type II error of:
+a) the difference between population means
+b) the variance
+c) the sample size
+
+d) the significance level
+
+4) The following data are the life in hours of two batches of electric bulbs.
+Test whether there is a significant difference between the batches in respect
+of average length of life.
+
+Batch I: 1505, 1556, 1801, 1629, 1644, 1607, 1825, 1748.
+Batch II: 1799, 1618, 1604, 1655, 1708, 1675, 1728.
+
+31.7.3. Problems Relating to a Bivariate Normal Distribution
+Suppose in a given population, the variables x and y are distributed in a bivariate
+normal form with means px and ply, standard deviation 0, and 6, and correlation
+
+coefficient p. Let (x1, y1), (x2, y2), -.., (Xn, Yn) be random sample of size ‘n’ drawn
+from this distribution. We shall assume that all the parameters are unknown.
+
+Test for correlation coefficient:
+
+Ye, —x)(y;-y)
+
+where xand yare the sample means. When p = 0, the sampling distribution of r
+
+. 1
+assumes a simple form /(r) = fa and in that case
+)
+
+Here the sample correlation coefficient is T=
+
+’
+
+2 2
+r¥n—2 /V1-1’ is distributed as a t with df = (n - 2).
+
+This fact provides us with a test for Ho: p = 0. As to the general hypothesis Ho: p
+= po, an exact test becomes difficult, because for p 4 0 the sample correlation has
+a complicated sampling distribution. For moderately large n, there is an
+approximate test, which we have not discussed presently.
+
+--- Page 87 ---
+
+Problems regarding the difference between pxandpy:
+
+Information regarding the difference between the means, pxandpy, may be of
+some importance when x and y are variables measured in the same units.
+
+To begin with, we note that if we take a new variable, z = x — y, then this z, being
+a linear function of normal variables, is itself normally distributed with mean pz =
+
+Ux—py and variance 07=0, + 6; -2 p9,9,.
+It will follow, from what we have said in the section for univariate normal
+; 1
+se . 2 sy
+distribution, that if we put zi = xi- yi, z= di z,/n and Ss, = rep AC —Zzy,
+ae n-ly
+
+then Vaz —,)/s, will be distributed as a t with df = (n — 1). This will provide
+
+us with a test for Ho: uUx- by = €0, which is equivalent to Ho: wz = & and with
+confidence limits to the difference uz = Ux—py. The statistic Vn(Z-p,)/s, is
+
+often referred to as a paired t.
+
+We may, instead, be interested in the ratio [x/Hy= n (say). In this case, we shall
+take z = x — ny, which again is normally distributed with mean pz = Lx— Ny = 0.
+Hence the statistic t =Vn z/ s, is distributed as at (i.e., paired t) with df = (n — 1).
+
+This can be used for testing the hypothesis Ho: x/ly = no or for setting
+confidence limits for the ratio px/ py.
+
+Problems regarding the ratio©,, / 6 y
+
+When x and y are variables measured in identical units, one may also be
+interested in the ratio 9, /o y- Let us denote the ratio by &.
+
+If we consider the new variables u=x+€y andv=x — &y,
+then u and v are jointly normally distributed, like x and y, and
+cov (u, v) = 02 — eo, =0
+
+Thus, u and v are uncorrelated normal variables.
+
+In testing for the hypothesis Ho: 6, / 6, = &, we shall therefore take the new
+
+variables u = x + € y and v = x — € y and shall instead test for the equivalent
+hypothesis Ho: puy = 0. The test procedure for this will be given by the statistic
+t=r,,Vn—2 /J1—12, with df = (n—2), ru being the sample correlation between
+u and v. To have confidence limits for €, we utilize the fact that, with u=x+€y
+and
+
+v=x-&y
+
+-2
+p[ltwm=2
+Jinn 0"
+
+=l-a
+
+Hypothesis
+Testing
+
+253
+
+--- Page 88 ---
+
+Inferential
+Statistics
+
+254
+
+_ r = *al2,n-2
+
+uv
+
+2
+or, P Tw (= 2) 2 Jr
+
+By solving the equation 12, (n—2)= ty,2d-n) or, say, w (€) = 0 for the
+
+unknown ratio € =0, /o,, two roots will be obtained. In case, the roots, say &1
+
+and &, are real (€1< 2), this will be the required confidence limits for € with
+confidence coefficient (1— a).
+
+Again, w (&) may be either a convex or concave function. In the former case, we
+shall say &) < E< &2, while in the latter we shall say 0 < E< & or & < E< w.
+
+But the roots may as well be imaginary, in which case we shall say that for the
+given sample 100(1—@) % confidence limits do not exist.
+
+Check Your Progress 4
+
+1) The correlation coefficient between the nasal length and stature for a group
+of 20 Indian adult males was found to be 0.203. Test whether there is any
+correlation between the characters in the population.
+
+2) a) What proportion of a normal distribution is within one standard deviation
+of the mean? b) What proportion is more than 1.8 standard deviations from
+the mean? c) What proportion is between 1 and 1.5 standard deviations
+above the mean?
+
+3) A test is normally distributed with a mean of 40 and a standard deviation of
+7. a) What score would be needed to be in the 85" percentile? b) What
+score would be needed to be in the 22™ percentile?
+
+4) Assume a normal distribution with a mean of 90 and a standard deviation
+of 7. What limits would include the middle 65% of the cases?
+
+--- Page 89 ---
+
+31.8 LET US SUM UP
+
+In this unit, we have learnt how by using the test of significance, an estimator can
+be analysed and how sample observations can be tested for any statistical claim.
+The unit illustrates the way of testing various real-life problems. The basic
+concepts of hypothesis testing like null hypothesis, critical region, confidence
+limits, Type-I and Type-II errors are explained at length. Then we moved on to
+the understanding of the test procedure under normality assumption wherein we
+learnt the problems regarding the univariate normal distribution, comparison of
+two univariate normal distributions and problems relating to a bivariate normal
+distribution.
+
+31.9 KEY WORDS
+
+Alternative : Any hypothesis, which is complementary to the null
+Hypothesis hypothesis, is called an alternative hypothesis,
+usually denoted by H7.
+
+Confidence Interval : Ifwe choose once for all some small value of a (5%
+and Confidence or 1%) i.e., level of significance and then determine
+Limits two constants say, ci and c2 such that P [ci < 0 < cz]
+
+= 1—a, where 0 is the unknown parameter then, the
+quantities c; and c2, so determined, are known as the
+‘confidence limits’ and the interval [c1, cz] within
+which the unknown value of the population
+parameter is expected to lie, is called the
+‘confidence interval’ and (1—a) is called the
+
+‘confidence coefficient’.
+
+Critical Region : A region (corresponding to a statistic t) in the
+sample space S, which amounts to rejection of HO,
+is termed as ‘critical region’.
+
+Level of Significance : The probability that a random value of the statistic t
+belongs to the critical region is known as the ‘level
+of significance’.
+
+Null Hypothesis : A definite hypothesis of no difference is called ‘null
+hypothesis’ and usually denoted by Ho.
+
+One -Tailed and : <A test of any statistical hypothesis where the
+
+Two - Tailed Tests alternative hypothesis is one-tailed (right-tailed or
+
+left-tailed) is called a‘one-tailed test’. For example,
+a test for testing the mean of a population Ho: = po
+against the alternative hypothesis: H7: pb > uo (right-
+tailed) or Hy: uw < wo (left-tailed), is a ‘one-tailed
+test’. Let us consider a test where the alternative
+
+Hypothesis
+Testing
+
+255
+
+--- Page 90 ---
+
+Inferential
+Statistics
+
+256
+
+Critical Values or
+Significant Values
+
+Most Powerful Test
+
+Parameter Space
+
+Power of the Test
+
+Type I and Type II
+Error
+
+Uniformly Most
+Powerful Test
+
+hypothesis is two-tailed like: Ho: ub = wo, against the
+alternative hypothesis H7: u # [Ho (> po and Lt < plo).
+This is known as a ‘two-tailed test’.
+
+The value of the test statistic, which separates the
+critical (or rejection) region and the acceptance
+region is called the ‘critical value’ or ‘significant
+
+value’.
+
+The critical region W is the most powerful critical
+region of size a (and the corresponding test the most
+powerful test of level a) for testing Ho: 8 = 00
+against H;: 0 = 0; if P (xe W | Ho) = a and P (xeW
+| H1) = P (xe W1| 7) for every other critical region
+W; satisfying the first condition.
+
+Let us consider a random variable x with p.d.f.
+f(x, 0). The p. d. f. of x can be written in the form
+f(x, 0), 8€ ©. The set ©, which is the set of all
+possible values of 0, is called the ‘parameter space’.
+
+The power of the test is defined as
+Power = | — Probability of Type II error
+
+= Probability of rejecting Ho when Hy, is
+true.
+
+Type I Error: Rejecting the null hypothesis Hp when
+it is true.
+
+Type Il Error: Accepting the null hypothesis Ho
+when it is wrong, i.e., accept Hp when H7 is true
+
+The critical region W is called the uniformly most
+powerful critical region of size oa (and the
+corresponding test as uniformly most powerful test
+of level a) for testing Ho: 0 = 00 against H;: 0 # 00.
+if P (xeW| Ao) =a and P (xeW| 1) > P (xeW!|
+#17) for all 6 # 90, whatever the other critical region
+W; satisfying the first condition may be.
+
+31.10 ANSWER OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1) See Section 31.2
+2) See Section 31.2
+3) See Section 31.2
+

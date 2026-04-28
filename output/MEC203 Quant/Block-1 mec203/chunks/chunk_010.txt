@@ -1,0 +1,533 @@
+Review of Basic
+Mathematics
+
+90
+
+relation. Similarly, for (111) just above, the number 5 does not divide 9, nor 8
+divides 5. Hence, 5 and 9 are not related to each other under divisibility relation.
+
+A. Partially ordered set (Poset):An ordered pair (X, R)- where X is non-empty
+set and R, a partial order relation on X — is called a partially ordered set (for
+short, poset). For example, (N, is-divisor-of) is a partially ordered set.
+
+B. Total order: For a partial order R on a set X, if for every pair x,y€ X, either
+(x, y) € R, or (y, x) € R, 1. e. every pair of elements is related, then the
+relation R is called Total order, and (X, R) 1s called a totally ordered set. For
+example, If for the relation is-divisor-of is defined on the set {2° =], 2! 2°,
+2°, ...}, of all powers of 2, then is-divisor-of is a total order on the set. In
+general, the relation is-divisor-of defined on the set {p’ =1, p', p’, p’, ...}, of
+all powers of p, for a prime number p, is a total order.
+
+C. Hasse Diagram
+
+In partial order theory, Hasse Diagram is a graphical representation of a finite
+partially ordered set obtained as follows. Let (X, R) be a finite partially
+ordered set. The Hasse diagram is obtained by drawing an upward line from x
+to y whenever for x, y EX, we have x R y, (i.e., (x, y)€ R) as shown and
+explained in the following examples.
+
+Example: Let X = divisors of 12= {1, 2, 3, 4, 6, 12}, and forx Ryifxisa
+proper divisor of y, for x, y € R. Then the corresponding Hasse diagram is
+
+shown in Fig. 3.5.
+12
+
+— an
+Fig. 3.5: Hasse Diagram 1
+
+/
+
+i Ee
+G2 oe
+
+Example: Let X= Power set of {x, y, z}, 1. e. X = {@, {x}, {y}, {z}, {x, y},
+{x, Zt, {y, z}, {x, y, z}}. Define R on X such that for A, B € X, then (A, B) € R,
+if AC B. The Hasse diagram is as shown in Fig 3.6.
+
+Fig. 3.6: Hasse Diagram 2
+Example: Let X = {3, 4, 12, 24, 48, 72}, and under the relation R, for x, y EX,
+(x, y) ER, ifx is proper divisor of y. The Hasse diagram is shown in Fig 3.7.
+
+72 N\, Ta
+|
+4 a : “,
+
+Fig. 3.7: Hasse Diagram 3
+D. Some Definitions
+
+Here we provide definitions of maximal element, minimal element, maximum/
+greatest element, minimum/ least element of a set under a partial order.
+
+In the previous Fig. 3.7 there are two elements, viz. 4 and 3, at the lowest level
+in the sense that xE€_X does not divide 3, for x #3, and xE.X does not divide 4
+for x #4. Such elements are called minimal elements.
+
+Thus, in a poset (X, R), an element a of X is a minimal element under R, if
+there does not exist x in X, such that x is related to a. A poset may have, one,
+two or more minimal elements. We have also shown in previous example that
+we also have cases of two minimal elements. In cases when we just have one
+
+minimal element, we also call it minimum/least element.
+
+Maximal Element: In Figure 3.7, there are two elements, viz. 48 and 72, at the
+highest level in the sense that 48 does not divide x€_X, for x # 48, and also 72
+does not divide x € X for x # 72. Such elements are called Maximal elements.
+
+Thus, in a poset (X, R), an element a of X is a maximal element under R, if
+there does not exist y in X, such that a is related to y. A poset may have, one,
+two or more maximal elements. In the example corresponding to Fig.3.7, we
+have two maximal elements, viz. 48 and 72.
+
+In the example corresponding to Fig.3.5 we have just one maximal element, viz.
+12. In such cases, the maximal element is also called maximum/greatest element
+
+of the poset.
+
+3.2.5 Operations on Relations
+
+A relation on input of required number of arguments returns true/ false, e. g. is-
+less-that (3, 5) is true, and is-less-that (5,3) is false. On the other hand, an
+operation on input of required number of arguments returns a new element of the
+domain, e. g. Sum (3, 5) returns 8.
+
+In this section, we discuss operations on relations, 1. ¢., operations for which
+inputs are relations, and the output is again a relation. Unless otherwise
+mentioned, all operations are binary relations on (a single) set, say, X.
+
+Relations and
+Functions
+
+9]
+Review of Basic
+Mathematics
+
+92
+
+The operations which we discuss may be classified as
+
+a) Set-type operations: union, intersection and difference of relations
+
+b) Mapping-type operations: inverse of operation, composition
+
+c) Closure operations: reflexive-closure, symmetric-closure, transitive closure.
+
+A. Set-type operations on Relations: The set-type operations on relations
+
+include union of relations, intersection of relations etc. The definitions of
+these operations are exactly on the lines of the definitions of operations on
+sets given in section 1.2.7.2 of Unit 1. We explain this type of operations on
+relations through examples only. For the discussion of this type of operations
+on relations, let R and S be two relations from X = {1, 2, 3, 4} to Y= {a, b,
+c}, with
+
+R= (1, a), (2, a), (2, €), (3, b), (4, b), (4 ©)}
+
+S= {CL, b), (2, a), (3, a), (3, b), (4, a)$
+
+Then, Universal relation U has 4 x 3 =12 elements of the form (x, y) with all
+x€ X, and all ye Y.
+
+1) Union of R and S denoted by RUS, is given by
+RUS = X(1, a), (2, a), (2, c), (3, b), (4, b), (4, €), CL, b), G, a), (4, a)}
+
+ii) Intersection of R and S denoted by RNS, is given by RNS = {(2, a), (3,
+b)5
+ii) Difference R—S = {(1, a), (2, c), (4, b), (4, c)}, and
+
+Difference S — R = {(1, b), (3, a), (4, a)}
+
+iv) Complement of relation R= R*= {(1, b), (1, c), (2, b), (3, a), (3, ©),
+(4, a)}.
+
+B. Mapping-type operations: inverse of operation, composition.
+
+i) For a relation R from set X to Y, the inverse relation of R, denoted by R ‘is
+
+the relation from Y to X, such that (y, x) ER™, if and only if (x, y) ER. For
+example, if R= {(1, a), (2, a), (2, c), (3, b), (4, b), (4, c)} from X = {1, 2, 3,
+4‘ to Y= {a, b, c}then RT= {(a, 1), (a, 2), (c, 2), (b, 3), (b, 4), (c, 4)}is from
+Y= {a, b, c} to X = {1, 2, 3, 43.Note the difference between R’ and R™.
+
+11) Composition of relations denoted by R°S.
+
+Here, R and S are defined in a slightly different way than these were defined
+
+just above.
+Let R be a relation from X = {1, 2, 3, 4} to Y= {a, b, c}, say, R= {(1, a), (2, a), Ketitons and
+(2, c), (4, c)};
+
+And, S be a relation from Y= {a, b, c} to Z = {triangle, square}, say S= {(a,
+
+triangle), (b, square), (b, triangle), (c, square)}. Note the Codomain of R =
+
+Domain of S, is essential for the definition of composition.
+
+Then the relation RoS is from X = {1, 2, 3, 4} to Z = {triangle, square}, given
+by
+
+ReS= {(1, triangle), (2, triangle), (2, square), (4, square) }
+C. Closure operations: reflexive-closure, symmetric-closure, transitive
+
+closure. These operations are relevant only for a relation R on a set, say X.
+
+The operations are illustrated through examples:
+
+1) Reflexive-closure of a relation R is a relation S such that RES, and S is
+obtained from R by adding minimum number of ordered pairs (x, x) so
+that S is reflexive. For example, for R = {(2, 2), (3, 3), (2, 3), (3, 1)},
+Reflexive-closure (R) = {(2, 2), (3, 3), (2, 3), (3, 1), 7, D)}
+
+11) Symmetric-closure of a relation R is a relation S such that RE S, and S
+is obtained from R by adding minimum number of ordered pairs (x, y) so
+that S is symmetric. For example, for R = {(2, 2), (3, 3), (2, 3), (3, 1)},
+Symmetric-closure (R) = {(2, 2), (3, 3), (2, 3), (3, 1), 3, 2), 7, 3)}
+
+iii) Transitive-closure of a relation R is a relation S such that RE S, and S
+is obtained from R by adding minimum number of ordered pairs (x, y) so
+that S is transitive. For example, for R = {(2, 2), (3, 3), (2, 3), G,
+1)}, Transitive-closure (R) = {(2, 2), (3, 3), (2, 3), (3, 1), (2, D)}.
+
+Check Your Progress 5
+
+1) Under the relation of is-proper-divisor-of, draw Hasse diagram for set X,
+where X= all divisors of
+
+(1)30 = (ai) 24 (iii) 60 (iv) 32
+and for each case, write all the minimal elements, and maximal elements.
+
+Lee een eee enn e eee e nee een e eee eee E eee eens ee eer Eee eee e eases eens eset reete eee baeee ee eaee es 93
+Review of Basic
+Mathematics
+
+94
+
+3.3 FUNCTION
+
+Now we introduce another fundamental concept of Mathematics, viz. that of a
+function, which is a special case of relation, but more general than that of
+‘operation’ on a set.
+
+3.3.1 Conceptualising Function
+
+A function is a mathematical term, which is a tool used to describe some aspects
+of the real world, including the following:
+
+a) Given that a vehicle moves at a constant average speed (say 50 km./hour),
+then the distance (say d) covered depends on the time (say t hours) over which
+the vehicle moves,
+
+b) If a person takes a loan L (say, of Rs. 50,000/-) on simple interest R (say, at
+6% per annum), the amount (say A) payable depends on the time 7, after
+which the payment is made, in addition to L and R.
+
+c) The area (say Area) of a circle depends on the radius (say r) of the circle.
+
+The statements (a), (b) and (c) above express some real life situations, and each
+of which can be mathematically expressed respectively as (a) d = 50* t, (a) A =
+50000 (1+6/100)', and Area = z.1°.
+
+In each of these cases, there are two variable quantities involved: one on LHS
+and the other on RHS. For example, in (a) the quantity d occurson LHS and
+quantity t occurs on RH§; in (b) the quantity A occurson LHS and quantity ¢
+occurs on RHS; and in (c) the quantity Area occurs on LHS and quantity 7 occurs
+on RHS.
+
+For further discussion, first, we consider only (a) above. The value of d,
+occurring on L.H.S., is given by RHS, viz. 50*t, and 50*t depends on the value
+of t only. For example, if t = 3(hours), the distance covered, 1. e. d=50* t =50*3=
+150 km.; if t= 5 hours, then distance covered, i. e. d = 50*5=250 km. Further, the
+dependence of 50*t on t is unique in the sense that for t=3, we get the unique
+value 150 or 50*3, and for t=5, we get the unique value 250 or 50*5. This unique
+dependence of 50*t, and hence of variable quantity d is, in mathematical terms,
+called functional dependence, and 50*t is denoted as f(), for some f, and t inside
+shows that it depends on variable quantity t.
+
+In view of the discussion above, f is called the function name, the variable
+quantity ¢ is called the independent variable and the variable quantity d is called
+the dependent variable, and the relation between d and t is called d’s functional
+
+dependence on t.
+
+Going back briefly to (b), A = 50000 (1+6/100)'. Let g(t) = 50000 (1+6/100)',
+then A = g(t). Here, g is a function name, t is independent variable, and A is the
+dependent variable, and the relation between A and t is called A’s functional
+
+dependence on t.
+
+In case of (c), let h(r) = x. r’, then Area = h(r), and h is a function name, r is the
+
+independent variable, &Area is the dependent variable, and the relation between
+
+Area and r is called Area’s functional dependence on r.
+
+3.3.2 Function: Definition and Examples
+
+A function from a set, say A, to a set, say B, is a special type of relation where (1)
+
+each element a €A is in relationship with some element b €B, and (i1) there is
+
+exactly one element b €B in relationship with each element a €A. More
+
+explicitly,
+
+For two given non-empty sets X and Y, a function f from X to Y, denoted as
+
+f: X — Y
+
+is a rule which associates to each element x of X a unique element, say, y of Y.
+
+The unique element y associated with x of X is denoted as f(x), 1. e. y=f(x).
+
+For the function f: X — Y, the set X is called the domain of f and Y is called the
+codomain of f. Also, if f(x) =y, then y is called image of x under f, and x is
+
+called pre-image of y. Also, the y, or f(x), is called the value of x under the
+
+function f. The names ‘map’ and ‘mapping’ are also used instead of the name
+
+function’. The subset of Y which consists of all images f(x) of elements of X is
+
+called the range of function f (in Y)
+
+Remarks:
+
+The role/ meaning of ‘—’ here is not at all logical as discussed earlier. It is
+just a part of notation for a function. It just indicates that the symbol X,
+immediately on left of “—’ is the domain, and the symbol Y, immediately on
+the right of ‘—’ is the codomain of the function-symbol f, the symbol which
+precedes *:’.
+
+Also, in our discussion so far, in each case there is only ONE independent
+variable associated with each dependent variable. However, for a dependent
+variable, there may be more than one independent variable. For example,
+A-Rect, the area of a rectangle of length / and breadth b is given by A-Rect=
+/*b. The dependent variable A-Rect depends on two independent variables,
+viz. / and b. It may be written as A-Rect=f)(1, b), where fi(l, b) = 1*b. Note
+the comma in A-Rect= fi(l, b). Similarly, the volume v of a railway container
+of length /, breadth 5 and height h is given by v = /*b*h. Then the volume v
+may be written as a function /> (1,b, h) of three independent variables /, b, and
+h,
+
+However, in the rest of the discussion, we will discuss functions only of one
+
+independent variable with domain R, the set of real numbers; and hence, it will
+
+be of the form /; R — Y, where R is the set of real numbers. A function having its
+
+Relations and
+Functions
+
+95
+Review of Basic
+Mathematics
+
+96
+
+domain as R or its subset is called a real function. We may note that if g: X — Y
+is a function, and if Y=R, i. e. g: X — R, then g is called a real-valued function.
+In the next subsection, we discuss some specific single-variable functions that are
+frequently used in practical applications, especially in the field of economics.
+
+As mentioned just above, if Y= R, the function f: X — R is called real-valued
+function. If Y= C, then f: X — C is called complex-valued function. Similarly, by
+taking Y, the codomain, as Z or Q, we get respectively integer-valued function
+and rational-valued functions.
+
+Let us look at some more examples for illustrating the concept of function.
+i) Let X=Y =N, the set of natural numbers, then
+f: NON,
+such that f(x) = 2x+1l, Vx EN.
+
+Clearly, for each x € N, 2x+1 exists in N and is unique for each x.
+Hence, f: N — N 1s a function.
+
+ii) Let f: Z > N, such that f(x) = x° + 3,
+then for each x €Z, x7 +3 €Nand is unique, therefore, f is a function
+iii) Let f: Z — N, such that f(x) = x*— 3,
+
+then for x=0, x 3 =-3¢ N, Hence, f: Z — N 1s not a function from Z
+to N.
+
+iv) Let f: Z > Z, such that f(x) =x°—3€Z
+
+then x°— 3 € Z (codomain),¥ x € Z (domain).Hence, f: Z > Z is a
+function from Z to Z.
+
+(Note: Change of codomain has converted a non-function to a function)
+
+3.3.3 Operations as Functions
+
+The binary operation‘+’ on Natural numbers may be considered the function
+Plus: Nx N ON, such that
+
+Plus (x, y) = (x+ y), for each pair of Natural numbers.
+
+The union operation XU Yon sets can be considered as a function Union:
+PXP POP,
+
+where FP is a Set of all subsets of universal set U, such that Union (X, Y) = X
+UY, for each pair X, Y of sets from P.
+
+In general, an operation is a function in which the domain of function is either
+the codomain or cross-product of codomain of function, Cross-product may
+involve the codomain finitely many times: Codomain <x Codomain x ... x
+Codomain. For example, the square operation on N is the function SQ: N ON,
+such that SQ (n) = n’. The domain of function SQ is the codomain of the
+function SQ. In the case of Plus and Union, just above, the Domain is a cross-
+product of codomain.
+3.3.4 Types of Functions
+
+By definition of function f: X — Y, for each x, its image f(x) must belong to Y
+and f(x) should not have more than one value in Y, as happens in the case of f(x)
+= square-root of x. However, there is no restriction on elements of X, for f to be
+a function. For example, for the function Mod, and for both values 5 &—5,
+Mod (5) =Mod (—5) = 5.
+
+3.3.4.1 Injective function
+
+A function f: X — Y is called injective, if for x;, x2in X with x;# x2 then f( x,)
+
+The definition can be equivalently stated as:
+A function f: X — Y 1s called injective, if f(x;) = f(x2) then x)= x2
+
+Note: The term JI-/ is also used instead of injective. However, there is a similar
+term J-to-1 used for a distinct concept viz. bijective. For this reason, the terms
+1-1 and 1-to-1 may be avoided.
+
+Examples:
+1) The function
+f: NN,
+
+such that f(x) = 2x+1, Vx E€ N is injective. Let f(x) = f(y), then 2x+1 =
+2y+1 implying x=y
+
+1) The function
+f: N — R, defined by the rule
+f(x) = positive square-root of x is injective. Let f(x) =f(y), 1. e. Vx = Vy
+squaring both sides, we get x =y.
+i11) The function
+f: N — R, defined by the rule
+f(x) =x’ is injective, as, for x, y from N, if f(x) = f(y), i. e. x°= y’ then x
+=y or x = -y, but as y is in N, the number -y cannot be in N. Hence, x
+=y,
+Procedure (generally adopted) to establish a function as injective:
+
+For function f: X— Y,
+
+i) assume that f(x) = f(y) and then show x =y (must) for x, y €.X or alternatively,
+in order to establish fis NOT injective, show for some pair of elements x, y,
+with x # y of X, that f(x) = f(y).
+
+Relations and
+Functions
+
+97
+Review of Basic
+Mathematics
+
+98
+
+The latter method was used in showing f: Z > R, defined by the rule f(x) =x’, is
+not injective by using f(2) = f (— 2) =4.We have already used the first one to
+show the function f: N— R, defined by the rule f(x) =x’ as injective.
+
+3.3.4.2 Surjective/ Onto Function
+
+For a function f: X — Y, it is essential that every element of X(domain)
+corresponds to some element of Y. But, for f to be a function, it is not
+compulsory that for every y of Y (codomain), there be a corresponding element x
+of X such that f(x) =y.
+
+For example, for the function f: N — N, with f(x) = 2x+1 Vx EN,
+
+For the element 4 of N (the codomain) an x in N (the domain), if exists, satisfies
+2x+1 =4, 1. e. x= 3/2, which is not in N. Hence fis not surjective.
+
+A function f: X — Y is called surjective, if for an arbitrary element y of Y (the
+codomain), we are able to find an x in X (the domain) such that f(x) = y.
+
+Procedure for establishing a function as surjective/onto
+
+Take an arbitrary element y of the codomain Y, and show the existence of some
+element x of domain X with f(x)= y. If it is possible to find such an element x of
+domain X, then the function is surjective, else, it is not surjective.
+
+Example: For the function Mod: Z — N such that
+
+—x, x <0
+
+Mod (x) =|x| ={ so
+
+let x be in the codomain N, then this x belongs to Z, the domain (because N&Z)
+with |x| =x, hence, Mod is surjective.
+Next, consider f: Z — C, defined by the rule f(x) = positive square-root of x.
+
+Let, for x in Z, with f(x) = 3.75, 1. e. positive-square-root of x =3.75. Therefore,
+x= (3.75), which is not in Z. Hence, f: Z — C is not surjective
+
+However, we can show that f: C — C, the set of complex numbers, defined by
+the rule f(x) = positive square-root of x, 1s surjective.
+
+3.3.4.3 Bijective Function/ 1-to-1 correspondence
+
+A function f: X — Y is called Bijective if (and only if) it is both injective and
+surjective. A bijective function from X to Y is also called I-to-1 correspondence
+between X and Y.
+
+Check Your Progress 6
+
+1) Find the domain and range of the following real-valued real functions:
+(i) fl) =— |x|(ii) fo) = + V (9-2)
+2) A real-valued real function fis defined by f(x) = 2x —5. Write down the values
+of (i) f (0), (i) (7), (it) f(-3).
+
+were rere rere reer ere rere rere re rere reeereresrerererererere reser eeerererererereererereeeeerererereeoeoe
+
+3) For each of the following, tell whether f is a function or not. Justify your
+answer.
+
+i) f: N — N, such that f(x) = x —3 (41) f: N — Z, such that f(x) = x —3
+
+eo oe ere eee ere sre rere ereereereeeeeeereresresreresrereereeeeseereeresreeresrereerereereereeeresreerereresreereeeeeeeece
+eo eee rere er ere rere rere rere reeereeerere reser esreresreeeeereerereresrere rere rereeereeeerere rere rere eeeeeecs
+
+3.4 LET US SUM UP
+
+Relation and Function are two of the most fundamental concepts of Mathematics.
+In this unit, we introduced the concepts through respective definitions and
+illustrative examples. Also, we discussed three main properties of relation, viz.
+reflexivity, symmetry and transitivity, along with some of the variants of these
+properties, and some interesting combinations of these properties, viz.
+equivalence relation and partial order relations. Next, we discussed some
+operations on relations. Finally, we discussed some special type of functions, viz.
+injective, surjective and bijective functions.
+
+3.5 KEY WORDS
+
+Equivalence Relation : A relation R on a set X is said to be an
+equivalence relation, if R is reflexive, symmetric
+and transitive. In more detailed form, R is an
+equivalence relation on set X, if and only if
+
+1) R 1s reflexive on X, 1. e. for every x € X, we
+have (x, x) € R, and
+
+11) R is symmetric on X, 1. e. for x, ye X, if
+(x, y)E R, then (y, x) € R, and
+
+ili) R is transitive on X, 1. e. for x, y, zE X, if
+(x, y)E R, and(y, z)E R, then (x, z) ER.
+
+Equivalence Class of an : For an equivalence relation R on a set X, the
+
+equivalence relation subset [a] of X defined as [a] = {x- (x, a) ER} is
+called an equivalence class of a under the
+equivalence relation R
+
+Function : For two given non-empty sets X and Y, a function
+f from X to Y, denoted as f: X — Y is a rule which
+
+Relations and
+Functions
+
+99

@@ -1,0 +1,59 @@
+41 Intertemporal
+> ayt at? +4t+at+ ala =k Optimisation-1
+0
+842 28 7
+=>|-A—+—+A—+4t] =4k
+3 2 2
+
+= 24 ne 4-0 =4k
+3 2
+
+> =4k-6
+
+N|>
+w|>
+
+3 P= Ak -6 3 1.= 24(K 1)
+
+Using value of c4,c2 and A
+
+x’ (t) = -6(k —1)t? + t+ 6(k -1)t +1
+
+Q3. Find the extremal for functional
+JO = f(242(O + 2x(t).Qat
+t= to = 0 such that x(to) =0, x~=2
+(Hint use transversality equation (22.26)
+
+Ans. We have to find the extremal for the functional
+
+ty
+M()= fex? + 24xt)dt
+ty=0
+
+Where the left end point is fixed i.e., x(tg) =0 at tp =0
+
+We can assign that as point A. The right end point ¢, is free but xt; = 2
+v(x(t), x'(t),t) = 2x? +24xt
+
+Writing Euler-Lagrange equation
+
+wv _d
+
+ov 20-0 2at—axr() 0 x'()= 81.
+ax dt| ax
+
+Solving the differential equation x(t) = 6t will give us
+
+x(t)=t? + cyt +c (1)
+We want to find cand cz so doing we use the boundary condition
+X(to) =O =cy > C2 =0
+
+2-8
+fc, ... 2)
+
+at t=tp.xp =2=cytp top +t? >
+f
+
+because c, and cp value is known the description or trajectory is known
+
+provided the value of t; is known. 37

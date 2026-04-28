@@ -1,0 +1,544 @@
+--- Page 71 ---
+Dynamic
+Optimisation kp) _ r(kp —c’)
+
+Since k <1 ee and [p-<}<te-er
+
+Since the completive equilibrium is tee) =1(p—c’) which is for < =0
+
+reduces to
+
+oP -rp-c)
+
+Price is growing more slowly for monopolist and the extraction path is also
+flatter. (Refer Fig 24.1)
+
+Note: 1 60,0 -{p-S) 26 k
+
+dt ° ‘dt k)° dt
+. de’ dc’ dc’
+If th k
+at oma Fat
+dp dp
+
+which implies that monopoly at is further reduced relative to competitive at
+
+qe
+
++
+
+Fig. 24.1: Competitive and Monopoly Price and Extraction Path
+
+70
+
+--- Page 72 ---
+24.5 OPTIMAL CONTROL OF A GENERIC
+RENEWABLE RESOURCE’
+
+Consider the optimal management of a generic renewable resource. Here we have
+an addition of a biological growth function g(x,) the problem can be rewritten as
+
+max {[p,q,—¢(q,.x leat ... (24.8)
+0
+Subject to x’=g(x,)—q, w (24.9)
+where ats,)=rx(1-™] ... (24.10)
+
+Here 9(Xt) follows the logistic growth law, as used in example of forestry
+
+problem, to characterize the behaviour of a renewable natural resource or
+population, where, yis the intrinsic growth rate of resource and k is the carrying
+capacity of environment. As noted earlier, for xX, very small g(x,)=yx,;
+exponential growth as x, —>k g(x,)—>0 these relationships are illustrated in
+
+Fig.24.2.
+
+Xt
+a(x) K
+g (X)
+—_—_
+0 0 g (x)
+
+Fig. 24.2: The growth function
+The optimal problem can be expressed as
+H” =pyae —6(ae, Xt) + me (a(t) — a)
+So the necessary condition
+
+on” ac(.)
+OH gp, - 2)
+Oat
+
+? Fisher Anthony. C, Lecture Notes on Resource and Environmental Economics. Springer Nature,
+Switzer land AG 2020
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+71
+
+--- Page 73 ---
+Dynamic
+Optimisation
+
+72
+
+Using formula in equation (23.40)
+
+éH ae(.)
+
+"=P Ul, - =ryu,+——— p, g'(x,
+Mary, a, Hy ax, H, &'(%,)
+aH apy 01 g¢x,)
+
+H OxXt bw
+
+This result as in the exhaustible resource problem has an economic interpretation.
+The new term on right hand side g'(x) provides and extra dividend, the extra
+
+growth that results from holding an extra unit of the resource in the stock.
+
+In steady state yt’ = 0 so r = Q'(Xt)— det.) 4
+Ox(t) bt
+oc
+If =0>r=g(x
+Ox 9(xXt)
+
+Assuming r > 0, this implies that the steady state stock corresponds to g(x)
+increasing (g'(x) > 0)or in other words the stock is to left of (is less than the
+
+maximum sustainable yield (MSY) stock, as shown in Fig. 24.3.
+
+g(x)
+
+ero
+
+Optional MSY Xt
+
+stock stock
+
+Fig. 24.3: When the discount rate is positive, the optimal stock size is less
+than MSY stock size.
+
+of course, if r= then g'(x) = 0 and the MSY stock is optimal as in Fig. 24.4.
+
+we can characteristic the MSY stock as follows:
+
+dx x
+o =—t= y-st
+a(x,) t rm s)
+
+--- Page 74 ---
+Economic
+
+x, Applications of
+
+t .
+Dynamic
+
+ax, kK saesueenseaeeseenaesaeeseenssaeesenassaes vases Optimisation
+
+dx, .
+— maximum
+dy;
+
+KIZ Ls
+
+Fig 24.4: Optimal MSY Stock at Discount Rate Zero
+
+1 \_adx,_d yx
+SQ)= Tt -Lrs }
+
+Setting g'(xt)=0
+
+We get y-27% =0
+
+2
+=a =y
+=> x, =k/2
+
+Therefore, in absence of discounting the bio-economic optimum is equivalent to
+what might be called the purely biological optimum, the MSY.
+
+24.6 OPTIMAL DEPLETION OF NON- RENEWABLE
+RESOURCE
+
+We need to determine the optimal depletion rate for a non-renewable resource
+
+(for example oil or coal). Suppose that the output rate now depends on two inputs
+capital k(t) and resource depletion rate R(t), that is,
+
+Y = F(k, R)
+Now suppose output is either consumed or used to increase the capital stock
+giving
+
+Yac+5
+dt
+= B=FkR)-c w. (24.11)
+
+73
+
+--- Page 75 ---
+Dynamic
+Optimisation
+
+74
+
+where C =C(t)is the consumption rate. If S(t) denotes the resource stock, then
+we clearly have & =R
+
+(24.12)
+
+we wish to maximize the welfare integral
+
+T
+W =[e*u(c) dt w. (24.13)
+
+0
+
+by finding the optimal paths for resource depletion rate, R and consumption rate,
+c, subject to the constraint (equation 24.11, 24.12) and also with some initial
+condition for example k =kg,$ = Sq att=0.
+
+Here the capital k, and resource stock, s are the state variables, the consumption
+rate, c and depletion rate, R, are control and F(k, R) is the production function.
+Because we have two constraints, we need two A's, ie., Aqtand Age (two co-state
+
+variables)
+
+Formulating Hamiltonian we get,
+
+H(*) =e *u(e) + Aq(F(KR)—¢) + Aat(-R)
+
+[pl refer to discounted problem in unit 23 for formula]
+We set H” =e H(.)
+
+For necessary condition of optimisation
+
+oH
+
+By OP Ue) Ht == wit =U) ws (24.14)
+re)
+
+oH” oF(.) oF(.)
+
+ae Lot = = » (24.15
+oR O=> ut oR Hat O= pat = Ht aR ( )
+Now the co-state equation
+
+aF(.) eH”
+
+= 8uy — by 2 = Sug - .. (24.16
+Hag = Oblat — Hat eo = Oba — He ¢ )
+, OH”.
+
+Hot = Bhat = Sat 24.17)
+
+s
+differentiating both sides of equation (24.15) we get
+, OF(.) d oF(.)
+
+= tug . (24.18
+Hat =Hit Be + Ht Ge GR ( )
+Using (24.16) in (24.18) we get
+
+, OF(.) \ OF(.) d oF(.)
+
+=| Sug —uy —7 + La —
+H2t [ Hat — Ht ak } aR Ht dt aR
+- OF _.  OF(.) OF(.) OF(.) d OF(.)
+=> Spy = Spyp_— = 5H) - : + ht
+M2t Lt oR Hat oR Mat ck aR ‘Tt dt oR
+
+--- Page 76 ---
+(using 24.17) Economic
+
+Applications of
+
+~ Dynamic
+
+= 8 (FC) _ oF) oF) (24.19) Optimisation
+dt\ aR) ok aR
+
+Using equation 24.14 and differentiating that w.r.t ‘t’ and equating with equation
+(24.16) we get
+
+U"C).c’ = 8(u(c)- ue) 9 ... (24.20)
+
+An important quantity in economic term is
+
+_ _UvO
+(Eta) u'(.)
+
+This relative risk aversion, the inverse of which will give us intertemporal
+elasticity of substitution EIS More on EIS when we will discuss Ramsey model.
+In some literature it is called elasticity of marginal utility. It is often assumed
+
+constant.
+
+Therefore equation (24.20) can be rewritten as
+
+c= (SU - a/n ... (24.20)
+ak
+
+Equation (24.19) and (24.20) are basic equation governing the optimal path
+
+together with state equations. The equations are non-linear and coupled and to
+proceed further we must specify the production function let the production
+
+function
+F(.) =k¢Rb (24.21)
+where ois positive constant such that 0<a <1
+where we find SFO) _,a-tpt-a, FU) _ (1-a)k¢R-*
+ok oR
+
+setting x =k/R =capital/resource depletion rate ratio
+
+OF(.) _ gat OF.) 4 yy
+mK 7o% and aR =(1-a)x
+$(%0 =(1-a)ax*"x'
+
+dt\ oR
+
+and equation (24.19) reduces to
+yex® ws (24.22)
+
+This can be integrated to give
+1
+x=[(1-a)t+xph @] ho (24.23)
+where Xq is constant
+
+75
+
+--- Page 77 ---
+Dynamic
+Optimisation
+
+We can now deal with (24.20) which gives
+
+SN gxot_gy 2% _8
+c nx 7
+
+integrating
+
+t
+log c=“ log x og A
+n n
+
+that is c = Ax#/Ne-dt/n
+and if at time t= 0 C = Cgwe have
+
+© =Co(x/xg)%/" e@ St/n
+
+a.
+
+That is c=c, e* "[1+(1—a)t/x,° 7] (24.24)
+
+We can also determine the other control the depletion Rate R, from
+a t)- Rk'-Rk_k’ | R’
+dt \R
+
+R? R RR
+
+Using equation (24.12) we get
+
+Given F =k°Rt
+
+F_(ky ya
+R \R
+xb peey_xRF 8,8
+
+R R RR R
+= x'=xt-S_ xe
+
+R R
+
+Using equation (24.22) in above equation
+R’=-c/x
+that is
+
+Ri = coe Ot! M14 (1-ax)t/xqh 4-0-2) 7 x9
+
+This can be integrated numerically except in the rather special case when a =n,
+
+R’=-c, ee!" /x
+On integration this becomes
+
+R=Ro ee 4) (24.25)
+
+Where the constant of integration has been chosen so that R=Rgat t=0
+
+76
+
+--- Page 78 ---
+We can also find k from x = k/R since we know both x and R, finally we can Economic
+ds Applications of
+
+determine S from (24.25) with — =-R Dynamic
+dt Optimisation
+
+We still have to determine the appropriate values for the constants introduced
+using boundary condition
+
+k(0)=ko K(T) =ky
+s(0) = So s(T)=0
+
+A typical solution is shown in Figure (24.5).
+
+Ro
+
+Consumption
+
+Capital
+
+Depletion Rate:
+
+T
+Fig. 24.5: Typical Optimal Trajectories
+
+This presentation closely resembles to the optimal depletion of exhaustible
+resources by Partha Dasgupta and Geoffrey Heal, 1974. Further models can be
+referred from Pearce (1975) and Davison (1978).
+
+Check Your Progress 1
+1) Consider a fishing optimal control problem which is defined by
+
+P{ =a+bpt — xt where Pris fish population at time t. Xt is fishing intensity or
+
+catch (a & b are constants). If r is the discount rate and objective function
+
+oo
+V(.)= fe Mu(xt) dt, u(xt) is utility function of consumption i.e., Ct = Xt
+0
+
+a) State the transversality condition
+b) Find the optimal consumption, Xtif u(xt) =LyXxt
+
+77
+
+--- Page 79 ---
+Dynamic
+Optimisation
+
+78
+
+24.7 NEOCLASSICAL INVESTMENT THEORY
+
+Consider a production process with single output. Let the production function we
+assume that the production function has following properties
+
+i) F(k,0)=0Vk & F(0,L) = OVLso that both factors are essential.
+
+li) aa >Oand # > Oso more of either factor implies more output.
+al
+
+a7F(.)_ 07F(.) (Se
+
+iii x
+, ak? al? | GkaL
+We often also assume constant returns to scale so _ that
+F(Ak, AL) = AF(k,L)'VA > 0 Consider profit, R(t) is defined by
+
+RO = POF EK L)-wOLO-gOlo --- (24.26)
+
+}<0 so that the production function is concave.
+
+where
+
+F(kt,L_) =level of output
+
+p(t) = price of output
+
+w(t) = wage
+
+L(t) = labor
+
+q(t) = price of unit investment
+I(t) = Investment
+
+Assumption: firm takes the price (Pt,qt,Wt) which prevail at each ‘t’.
+Investment, don’t affect the prices Wt and qt for each time t.
+
+We define present value as the integral of discounted net profit with rate of
+discount is a constant without loss of generality
+
+w=fert R(t) dt ... (24.27)
+0
+
+Present value is maximized subject to constraints. First the rate of change of the
+flow of capital services is proportional to the flow of net investment. Net
+investment is equal to total investment less replacement, where replacement is
+proportional to capital stock
+
+dk
+ae 7 8K(t) .. (24.28)
+
+We can say investment is rate of change in capital plus depreciation.
+where at is the time rate change of flow of capital services at time t. we will use
+
+k in place of k(t), I in place of I(t) and so on.
+
+Therefore we can write Hamiltonian (please refer to the discounted problem in
+unit 23)
+
+--- Page 80 ---
+H* =PF(k,L)-wh -ql+p4(I-8k) . (24.29) Economic
+Applications of
+The necessary conditions for optimisation (note here we have two control Optinveatton
+
+variables: L & I and one state variable) are:
+
+OH y= pO _ OF _¥ ... (24.30)
+aL aL aL op
+a =0>-q+p=0> 14 =q «.. (24.31)
+
+equation (24.30) is the equation for dynamic marginal productivity of Labor
+
+From co-state equation we get
+
+=n pO)
+Bt =Tht ak
+
++d ++» (24.32)
+
+Using equation (24.31) in equation (24.32) we get
+
+= OF(.
+qf =(r+ 8) pO
+ok
+— FO _a(r+d)~q' _& ..- (24.33)
+ok P P
+
+where C = q(r +8)-q'
+
+equation (24.33) defines the implicit rental value of capital services supplied by
+the firm itself.
+
+Once we know the production function we can calculate marginal productivity of
+labour and capital. Because rand 6 for the model are taken constant, equation
+(24.33) is a 1™ order differential equation that needs to be solved in order to find
+rental to capital.
+
+24.8 OPTIMAL GROWTH MODEL
+
+This model is also known as the Ramsey Model. For sake of simplicity consider a
+firm which is a representative agent for economy. The firm produces as well
+consume as a household. The firm maximizes its profit that it maximizes the
+difference between its income (output) and the cost of production. Let
+
+y(t) = output = F(k¢,L¢)
+
+w(t) = Unitary cost of hiring a Labor
+
+1(t) = Unitary cost of borrowing capital
+
+5 = rate of depreciation for capital = a constant 6 € (0,1)
+
+whatever the firm produces the household consumes that and the balance
+production after consumption is invested back in firm. The household buys the
+
+product. The household has two sources of income i.e., wage from firm and
+interest on capital. Household buys at price pt per unit output. Without loss of
+
+79
+

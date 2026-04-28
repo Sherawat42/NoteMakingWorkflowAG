@@ -1,0 +1,600 @@
+--- Page 01 ---
+
+Consider an X, and \y, feasible in the primal and dual respectively. That is, _Advanced Topics
+in Optimisation— I
+
+Ax, <b and = A’ y,=c; yy 20. Then c’x,=b'y, if and only if
+
+(%); 70> Ax =O,
+
+Proof: First assume that the complementary slackness condition holds. We
+need to prove that the costs of the points are equal, i.e., suppose
+(¥)); >0= Ax) =5,. To show c’x, =b'y,
+
+We know: ¢, =4),(%y), +45,(Vo)o FoF Unt (Von «
+
+Cy = Ayy(Vo), + Ay2(Vo)o Fe + Ina (Vo) n
+
+Cy, =A, (Vo) +4, (Vo )o t+ + Gun (Vo) m
+
+C1 Xp) =C,(Xp), +Cy(Xp)o ++ +C, (Xp),
+
+CX =(Vp) AX + (Vp) 2 Xp Foe + (Np) An Xo
+
+By hypothesis, whenever (),); > 0, 4.x) =8,
+
+.C'xX, =b' yy
+
+Now assume that the costs are equal.
+
+Suppose c’x, =b’y,.To show ()); >0> 4x, =8,
+
+Once again use the fact that:
+
+C1 Xp) = (Vp), AX + (Yq) 2 AoXp toe + (Vy) pp Ay Xo
+
+If for some i with()),; >0,we have 4,X) <b,.Then c’x, <b’ y, (Contradicting
+our hypothesis).
+
+—> whenever ())); >0, we have 4.x, =8,.
+
+Mixed Constraints:
+
+Now consider the general problem, in which we have equality and inequality
+constraints:
+
+max f(u,,...,u,,)
+
+u,eR
+Subject to
+2 (Uj,U>5-5U,) SB, seers &, (Ut, yeast, )S b,,
+
+191
+
+--- Page 02 ---
+
+Extreme Values
+and Optimisation
+
+192
+
+h, (Uy ,U>,-.U,) = Cyyeeeg My, (Uy pues, = Cre
+
+Summarizing the conditions for equality and inequality constraints that we found
+
+above we can formulate the following theorem:
+
+Theorem: Suppose that wu” is a local maximizer of f on the constraint set given
+by the k inequality and m equalities above. Without loss of generality, assume
+
+that the first ky inequality constraints are binding and that the other k—k,
+
+inequality constraints are not binding. Further suppose that the Jacobian of the
+equality constraints and the binding inequality constraints at uw’ has full rank.
+
+Form the Lagrangian
+
+L(u,A,v)= u)- LAL) b)- yal [h,(u,)—¢,]
+
+Then there exist multipliers A " A, and Vv, io Vy such that
+ae) =0 forall ie {1,---,n}
+
+A,.g,(u)-b,]=0 for all ie {1,---,4}
+h,(u’) =c, for all ie {l,---,m}
+g,(u') <0, for all ie f1,---,k
+
+A, 20 for all ie {1,---,k}
+
+18.5.2 Kuhn-Tucker Formulations
+
+The most common problems in economics are maximization problems dealing
+with only inequality constraints. Many of these constraints come in the form of
+non-negativity constraints, such as requiring consumption to be weakly positive.
+
+Consider the following problem:
+
+max f (u,,...,U, )
+
+eR
+Subject to
+
+(Uy Uy yueyll) S Byers Zp (Upees,, )SB,
+And x, 20,...,x, 20
+
+The Lagrangian function we would write would take the form
+L(u,A,v)= ")-LAlg(w)- b+ dn,
+
+which would lead to the vom first order conditions:
+
+cE. _ By
+a “2 “DAs Uu, sae
+
+Uu,
+
+
+--- Page 03 ---
+
+Al g,(u)—b]= 0)... A nL Sn (U)— 4, ] = 0
+(Uy Uy yoeyll) SB yeees Zp (UpeesU, )SB,
+yu, =9,...,v,u, =0, and Au, 20,Vi=l,...m and Vj =l1...,n
+These are a lot of conditions (3m + 3n)
+
+Now consider the Lagrangian without the non-negativity constraints, and call
+it the Kuhn-Tucker Lagrangian:
+
+L(u, A, v) = L(u,A)+ Sv,
+i=l
+
+The first n first order conditions can be rewritten as
+
+OL _ OL, _o Vj =1,...,n,
+Ou, Ou, /
+
+Which implies
+
+aL
+
+— =-y,_ ,Vj=l,...,n.
+
+Ou ao
+
+Plugging those into the non-negativity constraints we have that
+
+And notice that
+
+OL aL
+
+=< =p -¢ (u)>0,Vj=1....,m,
+aa, oa,
+
+Which implies
+
+OL og and a, »Vj=l1,...,.m.
+OA "OA
+
+J J
+
+In summary, the following are the first order conditions for the Kuhn-Tucker
+
+Lagrangian:
+
+oF <9 and xf =0 Wj Hl)...
+
+Ox, “Ox;
+
+oF 59 and a, 24 <0 Vj =1,...,m
+i 5 OA,
+
+A, 20,Vj=1,...,m
+
+This is 2” + 3m constraints, n less than before. If we are dealing with a lot of
+non-negativity constraints it is therefore faster to use the Kuhn -Tucker
+Lagrangian.
+
+Check Your Progress 3
+
+1) Maximize f(u,,u,)=u,u, subject to h(uju,)=u, +4u, =16.
+
+Advanced Topics
+in Optimisation— I
+
+193
+
+--- Page 04 ---
+
+Extreme Values
+and Optimisation
+
+194
+
+U,,U, 20.
+
+18.6 LET US SUM UP
+
+The crucial concepts of convexity and concavity were thoroughly covered in
+this unit. Uses of concave and convex functions are common in economics,
+and they serve as a basis for the concept of optimisation, a fundamental and
+often occurring concept in economics. Further, the usage of second
+derivatives in relation to these functions was provided. Certain requirements
+and conditions of convex and concave functions along with the idea of quasi-
+concavity and quasi-convexity was also highlighted. The other part of the unit
+focused on the fundamentals of restricted optimisation, which can be broken
+down into two primary categories: constrained optimisation under equality
+constraints and constrained optimisation under inequality constraints. The
+complimentary slackness requirements that demonstrate that the primal and
+dual values are the same have also been presented in this unit. In addition,
+Kuhn-Tucker requirements for the general mathematical programming
+problem, such as non-negative and free variables, equality and inequality
+constraints, are included.
+
+18.7 KEY WORDS
+
+Convex Function : In mathematics, a real-valued function is
+
+Differentiable Function
+
+Maximum and Minimum:
+
+called convex if the line segment between any
+two distinct points on the graph of the
+function lies above the graph between the two
+points.
+
+A differentiable function of one real variable is
+a function whose derivative exists at each point
+in its domain. In other words, the graph of a
+differentiable function has as non-
+vertical tangent line at each interior point in its
+domain.
+
+A function, known generically as extremum
+(extrema), are the largest and smallest value
+taken by the function, either within a given
+
+--- Page 05 ---
+
+range (the local or relative extrema), or on the
+entire domain (the global or absolute extrema).
+
+18.8 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISE
+
+Check Your Progress 1
+
+Or Or
+Ou; Ou,Ou 12u O
+H _— 1 1 2] _ 1
+Ou,Ou, ous
+of _
+Here > =12u, <0 for u, <0 and 2Oand u, >0, and |H(u)| =—144u, 20
+Uy
+
+for u, <0 and 2Oand u,>0. Hence H(u) will be negative semi definite
+
+and f(u) is concave for u, <0.
+
+A
+b) f(@) = —8u* » Hu) = af = —16 <O for all real values
+
+2
+u
+of u. Hence f (22) is strictly concave.
+
+2) The idea of quasi concavity is, in fact, less strong than the idea of
+concavity. This is due to the fact that while every quasi-concave function is
+also a concave function, the reverse is not always true.
+
+Check Your Progress 2
+
+1) The Lagrangian is
+L=u; tu; +u; —A,(3u, +u, +u; -5)-A2(u, +u, +u, -1)
+The first order conditions are
+L,, = 2u,—34,—A, =0
+
+L,, =2u,-A,-A, =0
+
+L,, =2u;,—A,—A, =0
+And L, =3u,+u, tu,—5=0
+L,, =u, +u, +u,-1=0.
+
+The linear system of five equations in five unknowns has a unique solution.
+
+-1 —- 311
+Le. > 5 ol . The Jacobian of the constraints is (; nl , which has rank
+
+2, and so the NDCQ holds.
+2) The Lagrangian is
+
+L=3+u,u, —A(u; +u; -1)
+
+Advanced Topics
+in Optimisation— I
+
+195
+
+--- Page 06 ---
+
+Extreme Values
+and Optimisation
+
+196
+
+The first order conditions are
+
+L,, =u, —2Au, =0
+
+uy
+
+L,, =u, —2Au, =0
+
+Us
+—,/2 24
+L, =u; +u; -1=0
+
+The solutions are the four (U,,U;) pairs such that Uy =a zs and
+2
+
+uz, = as . Fora maximum, zz, and 3 must have the same sign, so
+the solutions are (3/2 ——) and (~3V/2 —).
+ee 7s Fe “5
+
+The value of the maximum in each case is < , and NDCQ holds.
+3) Solve as per 1) and 2)
+Check Your Progress 3
+
+1) Form the Lagrangian L(zz,,u,) =u, —ACu, +4u, —16)
+
+The first order conditions are
+
+dL
+
+—— =u,—-A=0
+
+du,
+
+dh =u,—-4’A=0
+
+du,
+
+a _ 4 4 Au, —16 =0
+da
+
+From the first two equations we have
+= 4u,
+Plugging this into the last equation we have that 2, = 2 , which in turn
+
+implies that 2, =8, and that A = 2. This states that the only candidate for
+the solution is (zz,,7,, 2) = (8,2,2)
+
+First let us form the Jacobian matrix
+2u, 2u,
+
+Diu otey.t) =[ 1 oO 1
+
+Notice that this is only singular if both z, =z, =O. However, if this is
+the case, then our first constraint fails to hold. Therefore, the matrix is non-
+singular for all points in the domain, and so we do not need to worry about the
+NDCQ. Form the Lagrangian
+
+LU, ,U,,Uz) = U,UnU; —A,(u,* + U5” —1)—-A,(@, +u,;—1)
+
+The first order conditions are
+
+--- Page 07 ---
+
+aL Advanced Topics
+
+—— =u,u,—24A,u,—-A, =O in Optimisation— I
+du,
+GL =u,u,—2Au, =O
+du,
+
+L
+ah uu, —A, =O
+du,
+GE _ yy? +u, —1=0
+dA,
+
+L
+aE =u, —u,—1=0
+da,
+
+We can solve the second and third equations for A, and 2,
+
+uUju,
+
+2u,
+
+A, = » A, = UU
+
+and plug these into the first equation to get
+
+Multiply both sides by x,
+u, U, uu; —u,us =O
+
+Now we want to solve the two constraints for w, and WU; in terms of u,,
+
+plug them into this equation, and get one equation in terms of u,
+(—u,7)d—u,)—u, A—u,)—u,d—u;) =0
+(—u,)[d—u,?)—u,* —u,d+u,)]=0
+(l—u,)[{1—3u,* —u,]=0
+
+—14+/13 —1—V13
+6 ° 6
+
+This yields, 7, = 1s } . Let us first analyse
+
+u, =1. From the second constraint we have that u,=0 , and from the first
+
+constraint we have that wu, = {1,—-1} . However, this violates the equation
+u, U, — u, WU, —u,us =O, and therefore u, =1 cannot be a solution.
+
+Plugging in the other values, we get four candidate solutions
+u, =.4343, u, =+0.9008, u;, = 0.5657
+
+u, =—.7676, u,=+0.6409, uu, =1.7676
+
+197
+
+--- Page 08 ---
+
+Extreme Values
+and Optimisation
+
+198
+
+2) Lagrange function:
+
+L(u,,u53;4) =—(u, — 5)? —(u, — 5)? +A9—U,* — U5)
+Kuhn- Tucker Conditions
+
+(A) Z,, = —2(u, —5)—2Au, <0
+(B) L,, =—2(u, —5)-AZO
+
+(C) L, =9-—u,* —u, =0
+
+(D) u,,u,,A 20
+
+(1) wL,, =—u,(2(u, —5)+2Au,) =0
+
+(2) unL,, =—u,(2(u, —5)+A)=0
+
+(3) AL, =A(9-u; -u,) =0
+
+Express equations (1) - (3) as
+
+(1) u,=0 or 2(u,-5)+2Au, =0
+
+(2) u, >0 or 2u,—-5)+1=0
+
+(3) 2=0 or 9-u; —u, =0
+
+We have to compute all 8 combinations and check whether the resulting
+solutions satisfy inequalities (A), (B), (C) and (D).
+
+If 2 =0 then from (1) and (2) there exist four solutions for (2z,,22,;4):
+(0,0;0), (0,5;0), (5,0;0) and (5,530).
+
+However, none of these points satisfies all inequalities (A), (B), (C).
+
+Hence A # O.
+
+If 20 then from (3) implies uw, =9—w;.
+
+If 240 and u, =0, then u, =9 and because of (2), 2=-8. A contradiction
+to (D).
+
+If A#0 and u, =0, then u, =3 and because of (1), A ==. A contradiction
+to (B).
+
+Consequently, all three variables must be non-zero. Thus u, =9—u; and
+
+A =-2(u, —5)=-2(4—u;). Substituted in (1) gives 2(u,-5)—4(4—-u;)u, =0 and
+
+_Vi+1 _12-Vi
+2 2
+
+uy 24.342, a= V11-2=1.317
+
+22.158, uu,
+
+The Kuhn-Tucker conditions are thus satisfied only in point
+
+V11 1 12-VvV11
+(ut, 32) = ( > 5 NI
+
+—2).
+
+--- Page 09 ---
+
+18.9 EXERCISES
+
+QI. Maximise /(u,,u,)=u,
+Subject to
+Si(uj,M,) =u; tu; —4<0
+y(uy,Uy) =—uy +u, <0
+83 (uj,U,)=—u, $0
+8,4 (U,,U,) =U, <0
+Ans. The Kuhn Tucker conditions are given by
+uy +u, -4<0, —u, <0
+-u; +u, <0, —u, <0
+2u,A, —2u,a, — A, =9
+2u,A, +A, —-A,=1
+A,(u, +uz —4) =0
+A,(-u, +u,) =0
+Au, =9, Au, =0, A, > 0, A, 20,420 2,20
+The optimal solution can be obtained by inspection as
+u, = 1.24962, u, = 1.56155, A, =A, = 0.24254, 4, =A, =0.
+
+This solution satisfies the Kuhn Tucker condition. But the solution “1 = 9 u, =0,
+A, =0,4, =1, 4,=4,=0 which is not optimum also satisfies the Kuhn Tucker
+
+conditions.
+
+Q2. Show whether it is convex, concave or neither;
+I) fu) =10-w’
+
+Ans. f(u)=10-u?
+
+df af_,
+me and due
+
+d°f
+Since 7 is always < 0 for all value of w, the function is concave.
+
+Il) f(u,,u,) =5u, + 2u;
+
+oe
+Ans, & =5 and f 0,
+
+2
+du, Ou 1
+
+Advanced Topics
+in Optimisation— I
+
+199
+
+--- Page 10 ---
+
+Extreme Values
+and Optimisation
+
+200
+
+2 > du,” 7
+Of
+ou,0u,
+af Of
+7 0. > =
+Ou, Ou,
+
+of
+
+-[——
+
+Ou,0u,
+
+The function is convex.
+
+f =0
+
+Q3.Verify whether the following function is convex or concave?
+
+f(u) = 4u,' +3u3 +us — 6u,u, + UU; Fou, +15
+
+Ans. The necessary conditions are
+
+df
+du,
+
+df
+
+—— = 6u, — 6u, —
+
+uy
+
+df
+
+—— =2u, +u, =90.
+
+du,
+
+2=0,
+
+7 8, — buy +, ~~ =0,
+
+The solution of these equations gives u, = -5, u, =—2, U;,=——
+ay Of @S |
+Ou; Oudu, 6u,du,
+ar arf af 8 -6 1
+H(u)= 5 =|-6 6 0
+Ou,0u, Ou, Ou,0u, ; 5
+of of of
+| Ou;0u, Ou;0u, Ou;
+8 -6 1
+The principal minor determinants are | 8 |, 8 “I =12,|-6 6 O=18-
+1 0 2
+
+Since all the principal minor determinants are non - negative, the function is convex.
+

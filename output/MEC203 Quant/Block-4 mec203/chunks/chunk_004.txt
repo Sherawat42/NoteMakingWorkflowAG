@@ -1,0 +1,539 @@
+--- Page 31 ---
+
+Real Analysis
+
+30
+
+2) Find limit points, if exist(s), for each of the following:
+a) (4,3, 2, 1,4, 3,2, 1,...)
+b) (3, 2, 2.5, 2.5, 2. 333..., 2.666..., 2.25, 2.75, ...)
+
+= (2+1, 3-1, 2+1/2, 3-4, 2+1/3, 3— 1/3, 2+1/4, 3-4, ...)
+
+3) Show that lim n‘” =1
+n-oco
+
+4) Show that the sequence (n), for all natural numbers n, does not have a limit
+
+13.4 PROPERTIES OF SETS OF REAL NUMBERS
+
+We have discussed the concepts of open interval, e. g.]2, 4[ = {x: 2< x <4};
+closed interval e. g. [2, 4] = {x: 2 <x <4}; semi-open/semi-closed interval
+
+e. g.]2, 4] = {x: 2< x <4} etc.
+Open interval is open in the sense that we cannot tell its boundary elements, e. g.
+in ]2, 4[, we do not know the first/least member of ]2, 4[, because 2€]2, 4[, and
+
+immediately next greater number is not known. A closed interval is closed in the
+sense, we know its boundary points/numbers e. g. 2 and 4 in [2, 4].
+
+The concepts of open and closed intervals have been extended to open and closed
+sets as follows.
+
+13.4.1 Definitions: Open Sets, Closed Sets, Bounded Sets,
+Compacts Sets
+
+A) Open set: A set S of real numbers is said to be open, if for each element a of
+S, there is a number ¢ >0 such that the open interval /a— ¢, a+ e/SS. In other
+words, every member of S is well inside S, and hence, no member is a boundary
+point.
+
+Example 13.18
+
+i) Every open interval A=/a, bf is an open set. Let x €A, then
+a<x <b, and (x — a)>0, (b — x) >0. Let ¢ = min. ((x — a), (b — x)) >0. Then, ] x—¢,
+x+e[ CJa, bf.
+
+--- Page 32 ---
+
+ii) Union of open intervals is an open set:
+
+We consider union of two open intervals. But the argument is valid for any
+number of open intervals. Let A=/a;, b;[ Ufaz, b2[be union of two open intervals.
+We may assume b; < ap, otherwise either the two intervals collapse into one
+interval, or the two intervals may be mutually interchanged. Let xe A, then
+x € Jay, bif or x E]az, bof, say x E]az, bof then as above Ae >0. Such that ] x—«,
+x +e[ SJaz, bof A. Hence the proof.
+
+B) Closed set: A set S € R is said to be a closed if R — S = ( —00, + «)- S (the set
+
+of real numbers not in S) is open. R, the set of real numbers is also denoted as
+
+open interval (—s0, + 00).
+
+Example 13.19
+
+i) Every closed interval A = /a, b/ is a closed set. For a closed interval [a, b],
+we have R-[a, b] = (-~, a) U (b, + 0), but each of (—00, a), and (b, + 0) is an
+open interval, hence, their union is an open set.
+
+ii) Every finite set {aj, a2, ..., an} is closed. We prove the result for 3-element
+set {ai, a2, a3} which easily may be extended to n-element set. Consider
+R —{aj, a2, a3} = (0, ay) Ufa), a2) U (a2, + ©). But each of three intervals is
+open, hence, each is an open set, and union of open set sets is open. Thus,
+R—{aj, a, a3} is open, Therefore, {a), a2, a3} is closed.
+
+Remarks: The two sets, and only the following two sets, are both closed and
+
+open: (i) @, the empty set, and (ii) R, the set of all real numbers.
+
+C) Bounded set: The concept of bounded set generalizes the concept of bounded
+sequence. A set S is said to be bounded if it is both (i) bounded above, and (ii)
+bounded below. (i) A set S is bounded above, if there is a real number M, such
+that x < M for all x € S (ii) A set S is bounded below, if there is a real number
+M’, such that, M’< x, for all x € S.
+
+Example 13.20
+1) Each of
+i) 3, 10",
+ii) [—10'°, 1000], and
+iii) {1,2, 10, 10000} U[- 10'°, 1000] is bounded.
+Upper and lower Bounds respectively are
+i) 2and 10'', among other bounds
+ii) —10'° and 1000 among others
+iii) — 10'° and 10000 among others
+2) None of (i) (—, 10), and (ii) (100, «) is bounded.
+
+i) is not bounded below, but is bounded above with one of upper bounds
+being 10,
+
+Real Analysis
+
+31
+
+--- Page 33 ---
+
+Real Analysis
+
+32
+
+ii) is not bounded above, but is bounded below, with one of the lower
+bounds being 100.
+
+D) Compact set: A subset of R is called compact, if it is both (i) closed, and (ii)
+bounded.
+
+Example 13.21
+Each of (i) [3, 10'°], (ii) [- 10°, 1000], and (iii) {1, 2, 10, 10000} Uf- 10"°,
+1000] is bounded and closed. Hence, each is compact.
+
+13.4.2 Bolzano-Weierstrass Theorem and its Economic
+Applications
+
+Bolzano-Weierstrass Theorem for sets says that every infinite and bounded set
+has a limit point.
+
+The concept of limit point of a sequence is generalized to the concept of limit
+point of a set. A real number p is called a limit point of set S of real numbers if
+for every ¢ >0the open interval] p—e, p + ¢ [contains a point of S different from p.
+
+Theorem: A point p is a limit point of a set S if and only if for every ¢ >0 the
+open interval] p—e, p + ¢ [contains infinitely many points of S.
+
+Limit point of a set is also called accumulation/condensation/ cluster point of a
+set.
+
+Example 13.22
+
+i) Foran interval Ja, b[, [a, b], Ja, b], [a, b[, whether open, closed, semi-open,
+every point of it is its limit point.
+
+ii) For an open interval Ja, b[, or semi-open interval Ja, b], or [a, b[, both
+boundary points viz. a and b are also its limit points.
+
+There are different important equilibrium concepts in economics, the proofs of
+
+the existence of which often require variations of the Bolzano—Weierstrass
+
+theorem. One example is the existence of a Pareto efficient allocation. The
+
+Bolzano—Weierstrass theorem allows one to prove that if the set of allocations is
+
+compact and non-empty, then the system has a Pareto-efficient allocation.
+(Wikipedia)
+
+Check Your Progress 4
+
+1) Prove each of the following:
+a) Acclosed interval is not an open set.
+b) A semi-closed/semi-open interval is not an open set.
+c) None of (i) (—«, 10), and (ii) (100, «) is bounded.
+d) Every finite set {a), a2, ..., an} is compact.
+
+--- Page 34 ---
+
+2)
+
+Find limit points of the following sets:
+a) {1,2,3,...}
+b) 3,5] U {6, 7} U[8, 9]
+
+13.5 ANALYSIS OF SEVERAL VARIABLES
+
+So far, we have discussed various concepts like sequence, limit, continuity,
+
+derivative, integral etc. in R, the set of real numbers. In the rest of this unit, we
+
+extend/ generalize some of these concepts to R” the set of n-tuples of real
+
+numbers. We start with the concept of ‘function of several variables’.
+
+13.5.1 Introduction to Multivariable Functions
+
+We initiate our discussion of multivariable functions with some examples (i)
+
+from everyday life of the use of multivariable functions, and then about (ii) how
+
+to evaluate such functions for a set of values of the involved variables.
+
+Example 13.23
+
+i)
+
+ii)
+
+iii)
+
+The area (A) of a rectangle depends on its length (L) and breadth (B), and it
+is given by the following well-known equation
+
+A=LxB.
+Thus, the (dependent) variable A depends on two (independent) variables,
+and hence, A is a function of two variables, viz. L and B.
+
+The amount of money (M) that becomes due, from a bank, depends on (1)
+the demand deposit (i.e., money deposited) (DD), (ii) rate of annual interest
+(r), and (iii) time (t) in years over which the money is deposited. AM is
+given by the following well-known equation.
+
+M=DD (1 +r)
+Thus, M depends on three variables, and hence, M is a function of three
+variables, viz. DD, r and t.
+
+We know from our previous understanding that, for plotting a graph,
+evaluation of functional value corresponding to independent variable is
+required. The same is true for plotting graphs of functions of more than one
+variable. Next, we consider some examples of functional evaluation of more
+than one variable.
+
+Find the domain, range and the value of the function given by
+fs, y) =2 x*v + 2y"-3 x,
+
+at each of the points (i) x = 2, and y = 3, and (ii) x = 3, and y = 2.
+
+Real Analysis
+
+33
+
+--- Page 35 ---
+
+Real Analysis
+
+34
+
+Solution: As the function is defined for every pair of values of (x, y),
+therefore, Domain of fis Rx R.
+
+Also, as every real number u can be assumed as a value of f (because, for
+
+x =u/ (— 3) and y =0, f(x, y) =u.) Hence, range of fis R
+(a) fE2, 3) =2 © 2)°(3) + 2(3)°-3 (2) =— 48 + 18 +6 = 24
+(b) f£(G,-2) =2 3) 2) + 26-2)-3 (3) =—108 + 8-9 109.
+
+13.5.2 R", the n-dimensional real space & n-dimensional
+Euclidean Space
+
+In Unit 3, we discussed the concept of cross-product of two sets as follows.
+
+Cross-product of two sets X and Y, for X # O# Y, denoted by X xY, is the set of
+all ordered pairs (x, y) with x belonging to X and y belonging to Y, i. e.
+
+XxY = {(x,y): xEX, ye Y}.
+
+The concept of cross-product can be generalized to cross-product of n non-
+empty sets, with n being any natural number. We consider the special case—
+when each of the n involved sets is R, the set of real numbers—as defined
+below.
+
+R"= {(a, a2, An):ai€ R}.The elements of R" are called n-tuples
+
+We may introduce algebraic structures on R", similar to the structures on R, by
+defining operations like
+
+For x = (%),X2,.., Xn), and vy = (v7, V2, Vn) in R", andr € R, we define
+
+XFVY = (14 VE X24 V2 vy Xn 4 Vn)s .. (13.3)
+and, rx =(raj, rX2,..., 1 Xn). ... (13.4)
+0=(0, 0, ..., 0),
+and — x = (—X),—X2, ...,-Xn)-
+
+Also, we know from coordinate geometry and 3-dimensional geometry, the
+metric/topological concepts of (Euclidean) distance (denoted by d_ below)
+between two points, and the length/norm of straight-line, or a vector (denoted by
+|lx ||, or sometime by |x|). First, we discuss these concepts only for x= (x1, X2)€ R’.
+
+d (x, y) =d (Cp, %2), (Yn YY) = [yy + yy], and
+lx I] = (Cen x2), (0, 0) =N [ Ov? + Ge2)"] = |e
+
+These metric/ topological concepts are extended to R" as follows.
+For x = (7,2, .., Xn), and y = (7, V2, .., Yo) in R
+
+i) Euclidean Distance
+
+A(x, vy) =d (xp, X2 oy Xv (On Ya vr Vad) = VE Oi + Oe yr? FA
+(r-Yn)] ... (13.5)
+
+--- Page 36 ---
+
+il) Norm
+
+Nx |] = (Cen 2, oo Xs (OO, 0, oor OY =N LE 6? + (2? + 2 + Cn?) = [xh
+... (13.6)
+
+As XV = (IVb XPV2 oo Xv Inds WII] = VL Or i? + G2 yp? +
+(n-Yn)"]
+
+Hence, Ix—vl| =d (% y) .» (13.7)
+13.5.3. Functions over Euclidean Spaces
+
+Like functions with domain as R and/ or codomain as R, we can define functions
+with domain as R" and/or codomain as R", for different natural numbers n. For
+example, (13.3) to (13.6) of 13.5.2 above may be considered as functions
+respectively as follows:
+
+For x = (%1,X2,...Xn), and y = (V1,V2,.. Yn) in R", andr ER,
+i) +: R"* R"D R", such that
++H: ((X1, X2, .., Xn)> (V1, Y2, ..., Ya) = (Kr +1, X2+ Yas «++ Xn + Va)s ... (13.8)
+ii) Product by a scalar ‘.’ is defined as
+Rx R°> R", such that
+TX =T (X),X2, .., Xn) = (€ X1X2, «+5 Xn), ... (13.9)
+where r x;, is the product of two real numbers r and Xi.
+Equations (13.5) and (13.6) of 13.5.2 give rise to the following functions
+i) d: R"xR"> R, such that
+
+d (x, y) =d (xr, X2, 00 Xs (Wt Yar oer Yd) =V [Cry + Cr yo? +
+(x- Yn] ... (13.10)
+
+ii) || ||: R"> R, such that
+IIx |] = ((X1, X2, «-, Xn) ((0, 0, .., O) = VL 1)? + C2) + Kn] 3-1
+
+iti) Another well-known function, with domain/ codomain involving R" defined
+as follows, is called Scalar/dot Product
+
+Scalar: R"xR"> R, such that
+
+Scalar ((x1, X2, .., Xn), (V1, V2 0s Vn) = (X1, X2, Xn). (Vp VX, ve Vn) =X
+yit X2. Yor weet Xn- Yn>
+
+where (x;, yi) is the product of two real numbers x; and yj.
+
+vi) Projection functions from R* to R™, for m< k, are explained through the
+following examples
+
+Let k = 4, m = 3. Then, we have the following projection functions
+Ri, 2,3: R’> R? with
+
+Rj, 2,3 ((X1, X2, X3, X4)) > (X1, X2, X3)5
+
+Real Analysis
+
+35
+
+--- Page 37 ---
+
+Real Analysis
+
+36
+
+Ro,3,4: R¢D R? with
+Ro, 3, 4((X1, X2, X3, X4)) > (X2, X3, X4) ete.
+Let k = 5, m = 2. Then, we have the following projection functions
+Ry,2: R°D> R? with
+Rj, 2 ((X1, X2, X3, X4.X5)) P (K1, X2)5
+R3,s: R°D R? with
+Rs, 5((X1, X2, X3, X4,X5)) D (X3, Xs);
+etc.
+Example 13.24
+For each of the two 5-tuples (i) x = (2, — 1, — 3, 4, — 2) and (ii) y = (3, — 1, —3, 2,
+— 3), find
+i) the norm || || for each
+ii) Euclidean distance between the two
+iii) scalar product of the two
+Solution:
+i) [xll=1]2,-1,-3,4,- 2) =VL(2 + + C3P + AP +2]
+=V[4+14+9416+4] =v 34.
+Iivil = 1G, -1,-3, 2,-3)|=VE@y +(— I +(-3P + QP +3)
+V[9+14+94449] =V32
+ii) Euclidean distance between
+x =(2,-1,-3, 4, —2), and y= (3, — 1, - 3, 2, —3)
+is d(x, yy =V[(2- 3) + C1-C I) Y+C3-C3)) (4-2 + 2-C3)
+yy
+
+V[1+0+04+4+1]=V6.
+ili) Scalar product of x = (2, — 1, —3, 4, — 2) and y = (3, — 1, — 3, 2, — 3) is given
+by
+x y=(2)(3)+C DCD) + C3) 3) +42) + 62) 63) =64+14+94+8
++6 =30.
+
+Check Your Progress 5
+
+1) Find the domain, range and the value of the function
+fy, 2) =2 xyz 2 2r-3xz
+at each of the points
+a) x=-—1l,andy=-—2,andz=2
+b) x=1,and y=3, and z 2
+
+--- Page 38 ---
+
+2) For each of the two 5-tuples (a) x = (4, 2, — 1, — 2, — 3) and (b) y = © 1, 3,
+— 3,-3, 2), find
+a) the norm || || for each
+b) Euclidean distance between the two
+c) scalar product of the two
+
+13.5.4 Concepts of Analysis of R"
+
+Many, but not all, of the concepts—already discussed for R, the set of real
+
+numbers—like limit, continuity, derivation/derivability, integration/integrability,
+
+sequence of real numbers, theorems like Bolzano-Weierstrass for real numbers
+
+have been extended to R", the Euclidean Space of n-dimension. The conceptual
+
+extensions, which have been achieved, use some of the following ideas:
+
+i) For a sequence (sj, S2,..., Si, ... Sin R, we have s; € R, whereas for a
+sequence (5), $2,..., Si, --- Sn) in R", we have s; € R", i. e., $j = (Sir, Siz, -.. Sip,
+.++5 Sin), Where sjER.
+
+ii) For discussing the concepts of limit, continuity, derivability etc. in R", we
+make the following modifications:
+
+a) instead of x, y€ R, we take x, y€ R", where x = (x), x2, ..., X») and
+Y= (Vp YX w+ Yn), with xi, yi€ R.
+
+b) for the concepts of size and distance—instead of absolute value function
+|x|, and distance function |x—a| respectively in R—we use respectively
+
+i) thenorm |x ||= V[ (x1) + (2+... + (Kn) ], and
+ii) d: R"xR"> R, such that
+d (x,y) =d (x,y) =V[ (ery)? + (yy + + Or-In)"],
+where, X = (X}, X2, «+ Xn) and Y = (V1, V2, +1 Vn).
+
+In the above, we must note that each of x and y is just a single point/member
+of R".
+
+Now, we define some of the concepts and state some theorems. First, we
+Generalization of the concepts of ‘open set’, ‘closed set’ etc. to R". Then we
+discuss the concepts for only real-valued functions f, i.e., for f: R"> R.
+
+Afterwards we generalize these concepts to functions f: R°> R"™, for some
+natural number m.
+
+and state the relevant theorems only for this type of functions.
+
+Real Analysis
+
+37
+
+--- Page 39 ---
+
+Real Analysis
+
+38
+
+A) Generalization of the concepts of ‘open set’, ‘closed set’ etc. to R"
+
+To simplify the discussion, the topic is first discussed for R°, and then
+generalized to R".
+
+In R’, the concept of open interval is generalized to open rectangular, and
+preferably to open disc as follows:
+
+Open Rectangle in R= {(x1,X2): ar < x; <b;, and az < x2 < b2with a; < bj, and
+dz < b>},
+
+In general, Open Rectangle in R" = {x = (x1, X2, ..., Xn): for some fixed a= (a1, a2,
+wey An), B= (by, bp, ..., by) with aj < x;< bj, with i= 1, 2, ..., n},
+
+a sort of cuboid without boundary point.
+
+But in our discussion, we will use only the concept of open disc, defined as
+follows.
+
+Open disc in R= {(X1,X2): aj— €< xj<a; +e, for ¢ >0, for some fixed (a), az) € R2},
+In general, in R"
+Open Disc of radius € centered at a
+
+= {K = (X71, X2, ..., Xn): for some fixed a = (a), 2, ..., An), ||X—a|| <e, for e >0},
+
+Figure 13.1
+a sort of sphere, without boundary points, in hyper-space of n-dimension.
+Similarly, the concept of closed interval is generalized to
+
+closed disc = {x = (x1, X2, ..., Xn): for some fixed a = (aj, a2, ..., An), ||K—a|| Se,
+fore >0},
+
+a sort of sphere, including the boundary points, in hyper-space of n-dimension.
+The concepts of open set, closed set are defined as follows
+
+Open set in R": A set S of in R" is said to be open, if for each element a of SC
+R", there is an Open Disc of radius ¢ CS. In other words, every member of S is
+well inside S, and hence, no member is a boundary point.
+
+Closed set in R": A set S © R" is said to be a closed if R"- S (= the set of
+members of Rn which are not in S) is open.
+
+--- Page 40 ---
+
+Bounded Subset of R": A subset S of R" is said to be bounded if it is both (i) Real Analysis
+bounded above, and (ii) bounded below. (i) A set S is bounded above, if there is a
+
+real number M, such that x; < M for all x = (x), x2, ..., x) € S and for | <i<n
+
+(ii) A set S is bounded below, if there is a real number M’, such that M’< xi, for
+
+all x = (x7, X2, ..., X,) © S and for 1 <i<n.
+
+Compact set: A subset of R" is called compact, if it is both (i) closed, and (ii)
+bounded.
+
+Limit point of a subset of R": A point p = (pi, Px «+-5 Pn) of R" is called a limit
+point of subset S of R", if every open disc with radius ¢ >Ocontains a point of S
+different from p. The Limit point of a _ set is also called
+accumulation/condensation/ cluster point of the set.
+
+B) Limit and continuity of a real-valued function, i.e., function f: R" > R
+
+For areal-valued function f: D > R, where D CR" and the point a = (a), a, ...,
+an) ER", we say
+
+Lim f (x)
+x >a
+exists and equals the real number / if and only if for given ¢ > 0, 46 >0, such that
+whenever ||x— a|| < 6, then|f(x)-/| <e
+(Note: both f(x) and | are only real numbers, not members of R")
+Continuity of a function at a point of R"
+
+A real-valued function f; D > R, where D CR" and the point a = (a1, a2, ..., an) &
+R", we say f is continuous at x = aif
+
+i) Limf(x) exits
+x >a
+and
+ii) Limf(x) =f(a).
+xa
+C) Limit and continuity of a function f: R"> R™
+
+The only difference in the statements of the definitions of the concepts here and
+those defined in previous subsection, is that the modulus function|x|, for x, a real
+number, is replaced by the norm function||x || for xE R”.
+
+For a function f; D > R”, where D CR" and the point a = (a), a2, ..., an) ER", we
+say
+
+Lim f (x)
+xa
+
+exists and equals the /€ R”, if and only if for given ¢ >0, 46 >0, such that 39

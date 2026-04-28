@@ -1,0 +1,558 @@
+
+--- Page 1 ---
+
+iii) Probability of at least two success: Probability
+
+Distributions-II
+f(2)+ £3) + F(A) + £5) +...
+=1-{f(0)+ f(D} =1—-e° -3e? =1- 4(0.0498)
+
+Example: In a textile mill, on an average, there are 5 defects per 10 square feet
+of cloth produced. If we assume a poisson distribution, what is the probability
+that a 15 square feet cloth will have atleast 6 defects?
+
+Let X be a random variable denoting the number of defects in a 15 square feet
+piece of cloth.
+
+Since on an average, there are 5 defects per 10 square feet of cloth, there will be
+on an average 7.5 defects per 15 square feet of cloth i.e., = 7.5. We are to find
+P(X>6)=1 — P(X< 5).
+
+With the help of Table 27.5, we obtain P(X < 5)=.2415.
+Therefore, P(X>6) = 1—.2415=.7585.
+
+Table 27.5: Probability distribution for number of defects
+
+x P (X)
+0 0.0006
+1 0.0041
+2 0.0156
+3 0.0389
+4 0.0729
+5 0.1094
+
+Proposition: If x;and x. are independent poisson distributions with parameters
+A4,A2, respectively, then (x,;+xX) also follows poisson distribution with
+parameters (A1+A2).
+
+Suppose x,and xX» are distributed independently in the Poisson form with
+parameter /, and /, respectively. The sum x,+x can then take the values 0, 1,
+2, ...
+
+k
+Also, P[X;+X2 =k]= & P[X, =ky]P[X2 =k—k4]
+k,=0
+
+k k-k
+& expl-Dl2 expla]
+
+exp[-A4—-Ao] K (kK) ky kk
+! k,=0 ky
+(Aq +A2)
+
+= exp[-(A4 +A2)] ;
+
+k!
+151
+
+--- Page 2 ---
+
+Probability and
+Probability
+Distributions
+
+152
+
+which shows that x,+x9is itself a poisson variable with parameter 4 +A. It
+
+immediately follows that if x4,X9,...,X, are independently distributed poisson
+
+variables with 14,9,...,A, then the sum x, +X +..+X, 18 also a Poisson variable
+
+with parameter 24+A9+...+Apy-
+
+The above results give, in particular, the sampling distribution of the statistic
+X4+Xot+...+X, When x,X9,...X, are a random sample from a Poisson
+
+distribution with parameter ~ . This sampling distribution is also of the Poisson
+form with parameter na.
+
+Check Your Progress 2
+
+1) The mean and standard deviation of a binomial distribution is given by 4 and
+
+3)
+
+4)
+
+(FI respectively. Find the values of n and p.
+
+The overall percentage of failure in a certain examination is 40. What is the
+probability that out of a group of 6 candidates at least 4 passed
+examinations?
+
+Hint: x follows a Binomial distribution and the event of a candidate passing
+the examination is a success. Thus, the probability of success:
+f(x) = 6C,,(60/100)* (40/100)°* . Find out f(4) + f(5) + £(6)
+
+In 10 independent throws of a dice, the probability that an even number will
+appear 5 times is twice the probability that the even number will appear 4
+times. Find the probability that an even number will not appear at all in 10
+independent throws of the dice.
+
+--- Page 3 ---
+
+Probability
+
+5) In turning out some toys in a manufacturing process in a factory, the average 1 r0ns
+Distributions-II
+
+number of defectives is 10%. What is the probability of getting exactly 3
+defectives in a sample of 10 toys chosen at random ? Use poisson
+approximation to the binomial distribution (take e=2.72).
+
+6) 2% of the items made by a machine are defective. Find the probability that 3
+or more items are defective in a sample of 100 items? (e-1 = 0.368, e-2
+=.135, e-3=.0498)
+
+7) Find the probability that 7 out of 10 persons will recover from a tropical
+disease if we can assume independence and the probability that anyone of
+them will recover from the disease is 0.8.
+
+27.4.3 Normal Distribution
+
+The normal distribution, which we will study in this section, is the corner stone
+of modern statistical theory. It was first investigated in the eighteenth century
+when scientists observed an astonishing degree of regularity in errors of
+measurement. They found that the patterns of the errors of measurement could
+be closely approximated by continuous curves, which they referred as the
+“normal curves”. The mathematical properties of such continuous curves were
+first studied by Abraham de Moivre, Pierre Laplace and Karl Gauss.
+
+A continuous random variable X is said to follow a normal distribution, and it is
+referred to as a normal random variable, if and only if its probability density is
+given by
+
+1 wie?
+
+f(x) =n(x, U,0) = oon
+
+The shape of normal distribution is like a bell and is shown in Fig 27.2.
+
+for — «<x <oc, Where o>0
+
+f[>x)
+
+mean x
+Fig. 27.2: Normal Distribution
+
+153
+
+--- Page 4 ---
+
+Probability and
+Probability
+Distributions
+
+154
+
+While defining the p.d.f. of normal distribution we have used the standard
+notations, where o stands for standard deviation and p for mean of the random
+variable X. Note that f(x) is positive as long as o is positive which is guaranteed
+by the fact that standard deviation of a random variable is always positive.
+Since f(x) is a p.d.f. while X can assume any real value, integrating f(x) over -«
+to oc we should get the value 1. In other words, the area under the curve must be
+equal to 1. Let us show that
+
+We substitute (x —u/o =Zin the R.H:S of the above equation to get
+24 A wlo}? 1 —422 2 2 2
+tom”? x=—5F Ie 2 O25 le? dz
+
+[Since the p.d.f. is symmetrical, integrating the function from 0 to » twice is the
+same as integrating the same function —oto |
+
+= 2/V2TxVIT/V2
+=]
+
+Normal distribution has many nice properties, which makes it amenable to be
+applied to many statistical as well as economic models.
+
+Properties of Normal Distribution
+e Normal distribution is a continuous probability distribution.
+
+e Normal distribution has two parameters, mean and standard deviation given
+by p and o respectively.
+
+e Normal distribution is symmetric around the mean y, which is at the same
+time the mode and the median of the distribution
+
+e Asa corollary to the above property, we can say that the first and third
+
+quartiles are equidistant from the mean of the normal distribution.
+Approximately,
+
+Qi =u - 0.67 xo
+and
+Q3= ut 0.67 xo
+e All odd order central moments of the normal distribution are 0.
+In general p12 = 0 for r= 1,2,3,...... orl
+
+e The two tails of the distribution are extended to infinity on both sides of the
+mean. The tails of the distribution never meet the horizontal axis. The
+maximum ordinate of the p.d.f is at the mean, which is given by 1/oV2II.
+
+e However, beyond the points x=u—30 and x=u+3o0 the curve is close to
+
+the axis, that is the area under the curve beyond the two points in both
+
+--- Page 5 ---
+
+directions can be taken as zero.
+
+The points of inflexion (where the second derivate of f(x) is zero and
+changes sign), of the normal curve are located one standard deviation away
+from the mean, namely at x = 1 + o and x = np -o respectively. At these two
+points, normal curve changes its curvature.
+
+It is unimodal: its first derivative is positive for x< mu, negative for x > yu,
+and zero only at x = pW.
+
+The probability that a normal random variable X equals any particular value
+is 0.
+The probability that X is greater than a equals the area under the normal
+
+curve bounded by a and plus infinity.
+
+The probability that X is less than a equals the area under the normal curve
+bounded by a and minus infinity.
+
+Additionally, every normal curve (regardless of its mean or standard
+deviation) conforms to the following “rule”.
+
+1) About 68% of the area under the curve falls within 1 standard deviation
+of the mean.
+
+2) About 95% of the area under the curve falls within 2 standard
+deviations of the mean.
+
+3) About 99.7% of the area under the curve falls within 3 standard
+deviations of the mean.
+
+If a random variable X follows normal distribution with the mean and
+variance p and o respectively, then the random variable z = (x — p)/o is
+called standard normal variable. It has a density function:
+
+The continuous probability distribution defined above is known as standard
+normal distribution. In fact, this is a special kind of probability distribution
+with mean zero and standard deviation 1.
+
+If X and Y are two normal variables with mean 1 and p2 and standard
+deviation 0; and o2, then (X + Y) is also a normal variable with mean
+(ui+p2) and variance (017+02”).
+
+The moment generating function of a normal curve is given by
+
+M,.(t) = ent+1/ 2.07?
+
+2
+00 1 1)
+Mx(t)= fe® x e 5 / dx
+
+_ ov 2r
+
+Probability
+Distributions-II
+
+155
+
+--- Page 6 ---
+
+Probability and
+Probability
+Distributions
+
+156
+
+x -—
+
+(Refer Fig 27.3). If z=~— then N(0l) = f(z) =
+(eo)
+
+The above expression could be written, after some algebraic
+
+manipulation as the following:
+
+x—(0+to2)
+
+co -1/2
+M, (t) = ebt#1/ 2(to)2 1 fe ° | ope center 2tvoy
+
+ov2T _.,
+
+[since 1/oV2[] font! 2l0-(w+t02)}/ oP dx = 4
+
+Differentiating M,(t) with respect to t twice, we can get
+M'x (t) = (11 + o7t)Mx(t)
+
+M"x (t) = [(1 + ot)? + o2]Mx(t)
+
+Substituting t = 0 in the above two equations
+
+Mx (0) =p
+
+M",, (0) = 12 +02. Therefore, E(X) = and Variance (X)=o62 .
+
+~
+=
++H
+Q
+=
+in
+N
+q
+se
++H
+wW
+q
+
+Fig. 27.3: Normal Distribution with Deviations from Mean
+
+It x follows a normal distribution with mean as y,and standard deviation
+
+o:x~N(u,0) and z is another variate which is related to x such that
+
+r . Then z follows a normal distribution z~ N(0,l) with 0 mean and 1
+
+fe)
+
+standard deviation. This simplest case of a normal distribution is known as
+the Standard Normal distribution. This is a special case when p = Oando =1
+
+2
+
+ae
+2s a«<z<+a
+
+1
+——_ € 3
+V2
+
+--- Page 7 ---
+
+Following results regarding the area under the Standard Normal distribution __ Probability
+Distributions-II
+
+are useful:
+Area between z = + 3 is 99.73%
+Area between z = + 2.58 is 99 %
+Area between z =+ 1.96 is 95%
+
+Let the ordinate of F(p) be denoted by Zz», the value of the standard normal
+variate z such that the probability of its being exceeded is p 1.e., p (Z > Zp) =
+p. Area under the curve to the right of the ordinate at Zpis p.
+
+Area of the right of z = 1.645 is 5% = z.0s
+Area of the right of z = 1.96 is 2.5% = Z.025
+Area of the right of z = 2.33 is 1% = z.01
+
+The approximate area under the standard normal curve is shown in Fig. 27.4.
+
+a 68.27 =
+
+A
+¥
+
+95.45
+99.73 >
+Fig 27.4: Area under the Standard Normal Curve
+
+A
+
+Example: The height distribution of a group of 10,000 men is normal with
+mean height 64.5” and standard deviation 4.5. Find the number of men whose
+height is
+
+a) less than 69” but greater than 55.5”
+
+b) less than 55.5”
+
+c) more than73.5”
+
+The mean and standard deviation of a normal distribution is given by
+
+u = 64.5” and o = 4.5. We explain the problem graphically. As per Fig. 27.5,
+we can easily comprehend what we are asked to do. We are to find out the
+shaded regions but as we know area under a standard normal curve only, we
+have to reduce the given random variable into a standard normal variable.
+
+hb
+
+55.5 64.5 69 735
+
+Fig 27.5: Standard Normal Distribution when p = 64.5” and o = 4.5. 157
+
+--- Page 8 ---
+
+Probability and
+Probability
+Distributions
+
+158
+
+Let X be the continuous random variable measuring the height of each man.
+Therefore, (X—64.5)/4.5 = z is a standard normal variable.
+
+Table 27.6 shows values of z for corresponding values of x. In the table, true
+area under standard normal curve is given for only positive values of the
+standard normal variable and as the distribution is symmetrical, area under the
+curve for negative values of the standard normal variable is easy to find out.
+
+Table 27.6: Values of z as per x value
+
+x Z
+55.5 —2
+64.5 0
+
+69 1
+73.5 2
+
+a) P(55.5<X<69)=P(-2<Z<1)=(1)—®(-2)=.82, Therefore, men of
+height less than 69” but greater than 55.5” is 10000 x 0.82 = 8200
+
+b) P(X <55.5)=P(z <—2)=.02, Therefore, men of height less than 55.5” is
+10000 x 0.02 = 200
+
+c) P(X>73.5)=P(z > 2)=1-—P(z < 2) =1—.98 =.02, Therefore, men of height
+greater than 73.5” is 10000x 0.02 = 200
+
+For standard normal curve (say for the variable z) the area under the curve to
+the left is conventionally denoted by ®(z1). This is shown in Fig. 27.6.
+
+#(z). = i
+
+Fig 27.6: Area under the Standard Normal Curve denoted by (Z;)
+
+Distribution of Standard Normal Variable
+A standard Normal variable of a normal deviate is generally denoted by t (or
+
+z), So that the p.d.f. of standard normal distribution may be written as
+1
+
+J2n
+
+f(t) = exp(—t7 /2),-a<tT<a
+
+
+--- Page 9 ---
+
+The distribution is symmetrical about 0. The p.d.f of standard normal
+
+distribution is
+
+1
+
+J2n
+
+The properties of this distribution may be deduced form those of a general
+normal distribution. We shall denote by +,, the value of t such that
+
+f(t) = exp(—t7/2),-a<t<a
+
+plt>ty]=a
+
+It is called the upper a— point (or the upper 100 a% point) of a standard
+
+variable. Because of the symmetry of the distribution about zero, we have
+
+Thus, the lower a point, t,_, of a standard normal variable is the value of t
+
+such that p[t>t,_,,]=a which is the same as the upper a point in magnitude
+but has the opposite sign.
+It follows from the theorem below that if x is normally distributed with mean py
+
+and variance o~, then (x—)/ois a standard normal variable. Conversely, if
+
+(x —p)/ois a standard normal variable, then x is a normal variable with mean py
+
+and variance o”.
+
+Theorem: If x is normally distributed with mean y and variance o7, then
+
+y =a+bx, where b#0, is also normally distributed with mean a+by and
+
+variance bo”
+
+Proof: Let us denote the p.d.fs of x and y by f(x) and g(y), respectively.
+
+Assuming b > 0, from the result if y = a + bx, then
+
+ple<y<d}=p] =" <x< 24]
+
+d (d—a)b d a) dx
+
+Jewdy= [| foodx=] fay ne (1)
+b /dy
+
+c (c—a)/b c
+
+If b < 0, we similarly have,
+
+d-a c-a
+c<y<dl= <x<
+ple<y<d] oo x =]
+
+. F —a \dx
+feoay=—fi(% \Eoy coseeseeseen (2)
+
+Combining the two results (1 & 2), we get
+
+gy) = (| x
+
+b /idy
+
+Probability
+Distributions-II
+
+159
+
+--- Page 10 ---
+
+Probability and
+Probability Note that
+
+Distributions dx 1 1
+dy [* ~b
+dx
+But
+I —(x- Wf
+ex
+oV2n | 20?
+
+and g(y)=———exp
+|b|oV2n 207
+
+f(x) =
+
+Hence
+
+ex (y-a—bpy
+
+- |b|o 2m A202 |
+
+Check Your Progress 3
+
+1) The mean weight of 500 students at a university is 151 Ibs and the standard
+deviation is 15. Assuming the weights are normally distributed, find how
+many students:
+
+i) Weigh between 120 and 155 lbs.
+iil) Weigh Morethan155lbs.
+
+Given: 0(0.27) = 0.6064; B(2.07) = 0.9808; (t) implies the area under the
+standard normal curve to the left of the ordinate at the point t.
+
+2) The mean of anormal distribution is 50 and 5% of the values are greater than
+60. Find out the standard deviation of the distribution (given that the area
+under the standard normal curve between z =0 and z = 1.64 is 0.45)
+
+160

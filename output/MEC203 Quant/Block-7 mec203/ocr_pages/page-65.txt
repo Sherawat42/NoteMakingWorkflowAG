@@ -1,0 +1,53 @@
+Dynamic
+
+Optimisation H(.)= au + A4X2 —AgXy +AQU ... (4)
+
+oH(.)
+
+For necessary condition a =
+lu
+
+> 52+ hp => U=~—Ag or more precisely u’ (t) = —ho(t) ... (5)
+
+Using (5) in equation (3)
+
+Xo(t) = x(t) — A(t) ... (6)
+Co-state equation oH) = h(t) (7)
+axi(t) ™
+oH() _
+X(t) A(t) ++ (8)
+From eq (7) —Aa(t) = —Aq(t) > Az(t) = A4(t) 9)
+From eq (8) du (t) = -Ao(t) --. (10)
+
+From eq (9) and (10) X2(t) =—Ag(t)
+
+So that 2™order homogeneous equation
+
+do(t) = ayell + ane where j = /—1
+=(a1+a2) cost + j(a,—az)sint .. (1)
+
+attimet=0 Ap(0)=a4+ a9 (Note a4 and agare constants)
+
+note Ao(t) = (a4 +a2)sint + j(a—-az)cost
+
+attime t=O Ap(0)= j(aq—a) (12)
+as we know A9(t) =—A4(t)
+so—44(0) = j(a4q — a) -- (13)
+
+so we can write e.g. (11) Ag(t)=Ag(0)cost—A4(0)sint ...(14)
+ho(t) =22(0)—sint —A4(0)cost
+
+Using eq. (10) —A4(t) = A2(0)(—sint) — A4(0)cost ... (15)
+
+From eq. (2) X4(t) = Xp(t) = —xq(t) + Ut
+
+and (3) as u(t) =—A9(t)
+
+X4(t) = —x4(t) —[A2(0) cost — 24(0)sint]
+
+(using eq. 14)
+
+The function within [—] can be thought of as input to the system or
+forcing function to differential equation.
+
+64

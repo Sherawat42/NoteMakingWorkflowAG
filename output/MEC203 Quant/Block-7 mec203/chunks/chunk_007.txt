@@ -1,0 +1,552 @@
+--- Page 61 ---
+Dynamic
+Optimisation
+
+60
+
+x(0) =1 x(1) = O(from eq 2 & 3)
+
+Where A and B are constants to be determined by the boundary
+condition. Some elementary algebra then leads to the exact solution of
+
+TPBVP.
+u'(t)= ~2e sinh (1-2)
+l+e
+* 2e
+x"(t)= cosh (1-t)
+14+62
+
+while the above example could be solved analytically, it is far less complex
+than that one can expect to encounter in practice. In fact, most practical
+optimal control problem cannot be solved analytically.
+
+23.12, EXERCISES
+
+Ql. The problem is to find the optimal flows of cake munching
+C ={C'():te[0,7]} and of the size of the cake
+
+W* ={W(t):t €[0,7]} such that
+T
+max | Inc(t) e-P dt subject to W" =—C, t <(0,T)
+co
+W(0) = 6, W(T) = 0 where 6 > Ois given
+
+T
+Ans. Our objective function is max Jeet In(ct)dt
+0
+st.=W'=-C
+Therefore H’ = e* H(.) = In(ct) + p4(—Ct)
+
+The necessary condition for optimisation
+
+5
+oH =0> < In(ct) + pe é (ct) = 0 where uy = cy
+Out Ou; Out
+
+1 1 .
+=>— +u(-1) > cf = — we (i)
+
+Ct Mt
+
+_ OH
+Settin; =-Lt
+
+is aw; Ht
+
+= Hh =pue > SE = pat = Inny = ptr
+t
+
+=> py = err . ii)
+We know W' =—c(t)
+
+So, cp =e Pt
+
+--- Page 62 ---
+dw =| dw =-c;dt Intertemporal
+—=-¢; Optimisation-II
+dt > w=-cy t+C9
+
+Using boundary condition at time T=t w=0
+=>-c,T+C2=0 =cp=ct
+
+att=0 w=6 >C2=$
+
+Setting t=T o= —e Plc b>6- eT C4
+= Ino =-pT —cy
+
+=>c,=Ino+pT
+
+Hence W’ =-e Pt Ino-eT tag
+
+Q2. Consider an investor who at time t = 0 is endowed with initial capital of
+x(0) = X9 >0. At any time t <[0,T] where T > 0 is given he decides
+about his rate of consumption c(t) <[0,¢] where C>0 is a large
+
+maximum allowable rate of consumption thus his capital stock evolves
+according to x=ox-—c(t) where a >OQ is a given rate of return the
+
+investor’s time-t utility for consuming at rate c(t) is u(c(t)) where
+u:P,-—>P is his increasing strictly concave utility function. The
+investor’s problem is to find a consumption plan c(t),t <[0,T]so as to
+
+maximize his discounted utility.
+T
+J(c) =f etu(e(t)) dt u(ct) = In(ct)
+0
+
+x(0)=Xg x7 =0
+
+wherer > Ois a given discount rate subject to the solvency constraint that
+the capital stock x(t) must be positive for all t <[0,T).
+
+t
+Ans. J(.)= fe In(ct) dt. s.t. =x’ = a—c(t)
+0
+
+Let H” = 9(.) + n¢h(.) where g(.) =In ct
+h(.) = ax —c
+‘ pity scat
+oc Cc H(t)
+The costate equation (ref equation 23.40)
+BE =P et Oxy Bt ax Ht Ont
+d * -
+> 7 =(r-a)>y = kel" where k is constant.
+
+61
+
+--- Page 63 ---
+Dynamic
+
+Optimisation From state equation x’ = ax — c(t)
+
+dx
+=X
+
+dt Ox = ogra =k, e(*-t wherek, is constant.
+e
+
+Using the formula
+x(t) =e/vat (a +Jwel at)
+where v=-o w =k,e%
+we get x(t)=e7! “asta + fkelMtel at)
+=et (a + ket)
+= Ae% + =k (ant
+r
+
+Using boundary condition x(0) = xg
+
+xo = A-*
+
+x(T)=0 = 0=Ae®™ —K elon ~Aert (ake) =0
+r r
+asa>0 e*! 0 so A-KetT <05k=Are™
+r
+
+rt
+So xo A- ATE” _ at—e'T)
+r
+
+T)-1 Xo
+A=Xxo(1-e y' =—9_
+4-e7
+rT
+x'(t) = 2 ent Are” g(a-r)t
+4-e r
+=o gat _ 0 lanriy
+
+© [=e l-er,
+
+1
+max [(x+u)dt st. x’=1 -u2 x(0)=1 x(1)
+Q3. 0 is free.
+
+Ans.
+
+1
+max |(x+u)dt stx’=1 -u2 x(0) =1
+0
+
+From Hamiltonian H(.) = x +u+A(1—u2)
+62
+
+--- Page 64 ---
+.. OH Intertemporal
+necessary condition —=0=>1-2au=0 Optimisation-II
+éu
+
+because x(1) is free
+
+we use boundary condition est.) _ A(t) =0
+ox t=t;
+
+as S(.) = 0 (no terminal condition given) (1) =0
+
+Further a =-M(t)> A(t) =-1
+
+0
+=f 4a, =-14t
+dt
+=>A(t) = -t + Cusing M1) =0
+
+We get A(t)=1-t
+Sou’ = fa -t)
+2
+Using the u’ in state dynamic equation (i.e., constraint)
+
+x =1-L (1-12) given (x(0) = 1)
+. . * 1 5
+integrating we get x (t)=t— 4 (1-t)+ 4 (Ans).
+
+Q4. Determine a control law that would drive the system from an initial state
+X4(0) =0, xp(0) = 2to final state x4(t¢)=Xp(t¢)=Oin minimum waste
+or minimal control effort
+
+4 > :
+PL= Ipu (t)dt st x4(t) = x(t)
+0
+
+Xo(t) = x(t) + u(t)
+here S = (x, ts) =0
+
+Ans. Rewriting the problem P.I. Performance index
+
+a1 2
+
+= Inu dt wd)
+s.t. X4(t) = Xo(t) .. (2)
+Xa(t) = —x4(t) + u(t) .- GB)
+
+given x4(0), X2(0)=2 Xytp = Xot- =0
+
+forming Hamiltonian
+
+63
+
+--- Page 65 ---
+Dynamic
+
+Optimisation H(.)= au + A4X2 —AgXy +AQU ... (4)
+
+oH(.)
+
+For necessary condition a =
+lu
+
+> 52+ hp => U=~—Ag or more precisely u’ (t) = —ho(t) ... (5)
+
+Using (5) in equation (3)
+
+Xo(t) = x(t) — A(t) ... (6)
+Co-state equation oH) = h(t) (7)
+axi(t) ™
+oH() _
+X(t) A(t) ++ (8)
+From eq (7) —Aa(t) = —Aq(t) > Az(t) = A4(t) 9)
+From eq (8) du (t) = -Ao(t) --. (10)
+
+From eq (9) and (10) X2(t) =—Ag(t)
+
+So that 2™order homogeneous equation
+
+do(t) = ayell + ane where j = /—1
+=(a1+a2) cost + j(a,—az)sint .. (1)
+
+attimet=0 Ap(0)=a4+ a9 (Note a4 and agare constants)
+
+note Ao(t) = (a4 +a2)sint + j(a—-az)cost
+
+attime t=O Ap(0)= j(aq—a) (12)
+as we know A9(t) =—A4(t)
+so—44(0) = j(a4q — a) -- (13)
+
+so we can write e.g. (11) Ag(t)=Ag(0)cost—A4(0)sint ...(14)
+ho(t) =22(0)—sint —A4(0)cost
+
+Using eq. (10) —A4(t) = A2(0)(—sint) — A4(0)cost ... (15)
+
+From eq. (2) X4(t) = Xp(t) = —xq(t) + Ut
+
+and (3) as u(t) =—A9(t)
+
+X4(t) = —x4(t) —[A2(0) cost — 24(0)sint]
+
+(using eq. 14)
+
+The function within [—] can be thought of as input to the system or
+forcing function to differential equation.
+
+64
+
+--- Page 66 ---
+Intertemporal
+Optimisation-II
+
+Therefore, x4(t) = 2sint +3 a4(0) [sint -cost] -49(0)tsint (16)
+From eq. (2) X4 = Xa(t)
+
+=2cost+ 3 24(0)foost —(cost + t(—sint)]
+1 .
+~542(0) (sint + tcost)
+
+Therefore, X2(t) = 2cost + 5h4(0)(tsint -F0 (0)(sint + tcost) ... (17)
+applying the given end-point boundary condition we
+getat t=tp X4(tp)=xo(tp)=0
+here ty as free x(tf)is fixed
+
+HU ete. st <0
+[HO ak
+
+as Sts # O and s(x(t),t)=0 (no terminal condition given in problem)
+
+HO, =
+Rewriting equation (4)
+1
+H()=—ZRAlte) + alte) Xolte)— alte) -Ceaty) = 0
+
+Using initial condition x,t = xgt =0
+
+Aa(te)=0
+From e.g. (14) Ag(tp) =%2(0) cost, — A4(0) sints
+=> 0=A9(0)costs — A4(0)sints ... (18)
+
+We have 3 equations e.g. (16), (17) and (18) [put t= tin (16) and (17)] and
+18 is given. We have 3 unknowns A9(0),A4(O) and ts these are non-linear
+
+equations need not to be solved analytically. Rather to be done by numerical
+method.
+
+65
+
+--- Page 67 ---
+66
+
+UNIT 24 ECONOMIC APPLICATIONS OF
+DYNAMIC OPTIMISATION
+
+Structure
+
+24.0 Objectives
+
+24.1 Introduction
+
+24.2 Discounting
+
+24.3 Calculation of Current Value (present value) of Investment Streams
+24.4 Optimal Rate of Extraction of Exhaustible Resources by Monopoly
+24.5 Optimal Control of a Generic Renewable Resource
+
+24.6 Optimal Depletion of Non-Renewable Resource
+
+24.7 Neoclassical Investment Theory
+
+24.8 Optimal Growth Model
+
+24.9 Neoclassical Theory of Investment with Adjustment Costs
+
+24.10 Let Us Sum Up
+
+24.11 Key Words
+
+24.12 Answers/Hints to Check Your Progress Exercises
+
+24.13 Exercises
+
+24.0 OBJECTIVES
+
+After going through this unit, you should be able to
+compute the present value of economic variables;
+
+® appreciate the mathematical tool of Hamiltonian functional used in
+
+environment economics analysis;
+© derive optimisation criteria in few standard macroeconomic models; and
+
+¢ perform analysis of dynamic models post optimality condition.
+
+24.1 INTRODUCTION
+
+In this concluding unit of Block 7, by using the formula derived as well as
+explained in Unit 23, we exemplify the beauty of dynamic optimisation.
+Therefore, a grasp of contents of Unit 23 is prerequisite for reading Unit-24.
+Sourced from established literature, the Unit 24 presents six applications-3 each
+from microeconomics and macroeconomics, which demonstrate model
+formulation, optimal solution & necessary analysis. The concept of dynamic
+optimisation is well founded and its application in economics is ever expanding.
+Unit 24 is a humble yet solid endeavour to innervate students for exploring the
+vast area of applied dynamic optimisation in economics.
+
+--- Page 68 ---
+24.2 DISCOUNTING
+
+Perhaps we all have heard the maxim — Money received today is more than
+
+money received tomorrow; and this message is true in the world even without
+inflation. The question therefore begs, why that-discounting happens. The answer
+lies with the fact, that money is attached with interest it can accrue. Consider the
+case of simple interest for one year being 10%. If we invest € 1 today, we will get
+1.1 after a year from now. In other words, one can be indifferent between 7 1
+today and € 1.1 a year after one year from today, given market interest rate 10%.
+If we want to have =1 a year from Now, we need to invest
+1/(1+0.1) = 0.91 % today. Put another way having to wait a year to receive that
+
+= 1 make it worth F 0.09 less to us today.
+
+The value today of payment to be received in the future is called present value.
+We use present values to compare cost and benefits that occur at different points
+
+in time.
+
+Similarly, considering interest-rate 10% per year, if we receive € 0.83 today that
+would be equal to receiving & 1 after 2 years from now.
+
+The formula for compounding is
+
+r T
+=pi14—
+y (+35)
+
+where p = principal or money today
+r=rate of interest
+T = Time period of consideration
+Y =net money after compounding at end of ‘T’ year.
+
+The present value PV of x represents how much you need to invest today in order
+to have x at end of T years from now. Symbolically,
+
++
+PV(x) = (4) x-—~ «.. (24.1)
+1+r (4+r)?
+
+where T is the number of the year from today in future, in which we receive x.
+
+If x is a cost that occurs in the future, you can think of the present value as money
+you need to set aside today in order to cover that cost the day it takes place. In
+generalized case ‘r’ the annual rate of interest can be calculated monthly, daily
+etc. Similarly, T can be one year, half year, quarter year etc. Our reference year
+does not need to be the present day; it could also be next year or 10 years from
+now, what is important is that all costs and benefits be valued relative to the same
+reference year, for the sake of analysis.
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+67
+
+--- Page 69 ---
+Dynamic
+Optimisation
+
+68
+
+24.3 CALCULATION OF CURRENT VALUE OF
+INVESTMENT STREAMS
+
+The value of stream of cost and benefits that occur at different periods in time in
+future, is the sum of the discounted individual values. The present value of an
+investment stream is
+
+x x x
+PV =xXp +1 +2 +8
+
+O42
+1+r (14r)? in (242)
+
+for all costs and benefits x' that occur at time t in future. If same amount x, = x
+is received during each period until the end to time (perpetuity) then, it forms a
+
+geometric series with y = i <1
+
+[Recollect the formula of summation of fer an infinite geometric series with
+common ratio y < 1:
+
+teyty2+yo+ tenes “S|
+
+We can simplify equation (24.2)
+2 3
+PV =x| 1+ 1 + 1 + 1 tee
+d+r d+r d+r
+=x)? fey dort -(o) ... (24.3)
+
+(74 } 1+r
+1+r
+
+If there is no payment in the initial period, i.e.,
+
+if the investment stream is PV in equation (24.3) above minus x
+
+Then new PV will be ~~ +—*
+T+r (14ry
+rer Core ar 044)
+r r r
+
+24.4 OPTIMAL RATE OF EXTRACTION OF
+EXHAUSTIBLE RESOURCES BY MONOPOLY'
+
+Let the control problem be
+
+' Monopoly and the rate of extraction of exhaustible Resources, Stiglitz, J (1976), The American
+Economic Review, Vol. 66, No. 4 PP. 655-661.
+
+--- Page 70 ---
+max [[p,q,-(q,)le™ at ws. (24.5)
+
+Subject to x’ = —q; . (24.6)
+where Pp; = market price of extracted resource at period, t
+Qt = Quantity of resources sold/extracted at period
+
+t (This has an assumption i.e., no resources is stored for next period at source or
+zero inventory)
+
+C(t) =cost of resource extraction at period t
+
+x’ =rate of change of stock of resource
+
+eta discounting factor.
+
+(Please refer to the discounted problem in unit: 23)
+
+We can write H” = pyat — C(t) — Heat
+
+Setting OF gp, eq Pt o(qu)—1y =0 ... (24.7)
+oat dq,
+Total revenue = TR = pq
+
+Hence marginal revenue R’(q)=pt +t gp
+
+dq
+From necessary condition of optimisation
+
+ws rhe
+
+From equation (24.7) py = [r +t ) —c'(q)
+
+Special case elasticity <=constant and c'(q) = 0
+
+R=[pegd?) af 1+ 20.9) of 4.2)
+iq dq p €
+
+=> R'=kp where k = constant = [: + |
+€
+
+We can write py =R’-—c'(q) if c'(q) =0 the py =R’
+
+1_ dR) _ py
+= =rR'
+a at
+. dp d(kp)
+If we take —- =rp then SY? = 1
+we take dt pthen at ‘kp
+if 2 ~othen SR =e) _ AR’ _ r(R’-c’)
+dt dt dt
+
+So we can write
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+69
+

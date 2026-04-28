@@ -1,0 +1,52 @@
+22.10.1Assumptions Intertemporal
+Optimisation-I
+
+e Timing the state variable x; is usually a stock and is measured at the
+beginning of period t and the control U; is usually a flow and is measure in
+the end of period t.
+
+e Horizon on some text it is referred as planning horizon or time horizon and
+that can be finite or is infinite (T = 00). The second case more common.
+
+© Objective functional there is an intertemporal utility function which is
+additively separable, stationary and involves time-discounting (impatience)
+
+Peo B Fx ee (22.30)
+- 0< B<1,, model impatience as B° = 1 and limp* =0
+- f(.) is well behaved: it is continuous, continuously differentiable and
+concave in (U, x).
+
+e The economy described by an autonomous difference equation x+; =
+g(XpUr)
+
+Where g() is autonomous continuous, differentiable concave. Then, the
+difference equation verifies the condition for existence and uniqueness of
+solutions.
+
+e The non-Ponzi game condition holds:
+lim; 0° x; = 0 holds for a discount factor 0<@<1
+
+e There may be some side condition such as x;= 0 U;> 0, which may
+produce corner solutions. We deal only with the case in which the solutions
+are interior (or the domain of the variables is open).
+
+These assumptions are formalized as optimal control problems;
+
+Definition 1: The simplest optimal control problem
+
+Find {Uy x,}7_9 which solves
+
+maxyye, LieoB FU) tee (22.31)
+Xtu = g(x, Uz) for xo, xr given and T is free
+
+Definition 2: The free terminal state optimal control problem: Find {Uj x;}f29
+which solves
+Max yt, Vreo Bt (Uz, Xe) such that
+seve (22.32)
+Us VU and Xi = g(%4,Uz)
+For Xo, T is given and xr is free. If T = 00, we have infinite horizon discounted
+
+optimal control problem
+
+Feasible candidate solutions: path of {x;,U,} that verify x1 = g(x%p,Uz) Xo is
+given for any choice of {U,€ U}f_9 27

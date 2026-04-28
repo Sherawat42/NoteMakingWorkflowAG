@@ -1,0 +1,63 @@
+2) Find the extremal for the functional
+= Si (2x? + 24x(t).t) dt,
+Boundary condition x(t) =0, —x(t¢ =2
+
+to=0 te=2
+
+22.9 FREE END VALUE PROBLEMS AND
+TRANSVERSALITY CONDITION
+
+Until now we have been dealing with the specific optimisation problems where
+both ends are fixed. Now we consider a general case where one end point is
+fixed while other is free.
+
+Again our functional is J(.) = ie V(x(0),x'(t), dt
+
+We need to find trajectory of x(t) so that J() is optimised.
+Refer to the Fig. 22.1.
+Now as per our problem A is fixed and B is free. In other word ty is free.
+
+With little mathematical calculation as we did in theorem now the 1* variation
+
+of functional is
+
+1 = Si [eam ae (Ser), xO: dt + [rep], 840
+
++
+t=ty
+
+V(txO, xO), 8t
+
+For functional to be optimal
+We have to use Euler-Lagrange equation
+
+avi.) a fave] _
+mT alow! = 9 veen(22.25)
+
+avc )
+dxi(t)
+
+So 5) = | I. dx(t) + V( x(t), x(t), Dleae, Oty
+
+So, we have four cases
+Case I
+
+When trand xyare free we need to solve 3 equations
+
+avc 2 (ove J _
+ax(t) dt Laxr(t)]
+
+0
+
+ave) _,
+and [VC )- S02 .x oll, =0 00 (22.26)
+
+av)
+G21) ty
+
+S00 (22.27)
+
+Intertemporal
+Optimisation-I
+
+25

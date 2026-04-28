@@ -1,0 +1,46 @@
+Dynamic
+Optimisation
+
+and objective function Total-profit, each is a function of t, the time. Such
+problems are modelled better by Dynamic optimization which essentially
+involves time as one of the independent variables, and generally the only
+independent variable.
+
+22.1.1.2 Function vs. Functional
+
+We have already discussed, in some detail the concept of function, in Unit 3 of
+Block1.
+
+A function f; XY is a rule which associates to each element of X, a unique
+element of Y. Generally, the set R”, for n> 1, is taken as the domain X; and R,
+the set of real numbers, as the codomain Y.
+
+Let us now consider a set of functions, say,
+
+Set of Functions = {f, g, h, where each is a function from R to R, such that
+y= g(x) =x;
+
+ii) y=h (x) =+V(b? — x’) and (iii), y= k(x) = x’}.
+
+The three functions are graphically represented as
+
+a(x) =x h(x) = +V (b?- x’) k(x) = x?
+
+Next, we define the following functions from Set of Functions to R
+
+I) F, »: Set of Functions > R, such that for y € Set of Functions,
+F,,, (v) = length of the curve represented by y= f(x) from x=0 to x=b.
+
+From Integral Calculus, we know that the length of the arc of the curve
+y={(x) included between two points with x=a > 0 and x=b> 0 is given by
+
+In order to calculate the required lengths for the three given functions, first we
+calculate dg/ dx = 1, and dh/dx = (— x)/V (b? — x’), and dk/dx = 2x
+
+By taking a=0, we get
+i) Fix ={.VG + 1)'dx = (2) b;
+
+ii) F, 4(h) = (1/4) circumference of circle of radius b = (xb)/2 (directly
+without explicitly using integral)
+
+iii) Fra) = [VC + (2x))) de =...

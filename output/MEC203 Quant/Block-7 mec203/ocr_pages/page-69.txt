@@ -1,0 +1,53 @@
+Dynamic
+Optimisation
+
+68
+
+24.3 CALCULATION OF CURRENT VALUE OF
+INVESTMENT STREAMS
+
+The value of stream of cost and benefits that occur at different periods in time in
+future, is the sum of the discounted individual values. The present value of an
+investment stream is
+
+x x x
+PV =xXp +1 +2 +8
+
+O42
+1+r (14r)? in (242)
+
+for all costs and benefits x' that occur at time t in future. If same amount x, = x
+is received during each period until the end to time (perpetuity) then, it forms a
+
+geometric series with y = i <1
+
+[Recollect the formula of summation of fer an infinite geometric series with
+common ratio y < 1:
+
+teyty2+yo+ tenes “S|
+
+We can simplify equation (24.2)
+2 3
+PV =x| 1+ 1 + 1 + 1 tee
+d+r d+r d+r
+=x)? fey dort -(o) ... (24.3)
+
+(74 } 1+r
+1+r
+
+If there is no payment in the initial period, i.e.,
+
+if the investment stream is PV in equation (24.3) above minus x
+
+Then new PV will be ~~ +—*
+T+r (14ry
+rer Core ar 044)
+r r r
+
+24.4 OPTIMAL RATE OF EXTRACTION OF
+EXHAUSTIBLE RESOURCES BY MONOPOLY'
+
+Let the control problem be
+
+' Monopoly and the rate of extraction of exhaustible Resources, Stiglitz, J (1976), The American
+Economic Review, Vol. 66, No. 4 PP. 655-661.

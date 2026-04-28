@@ -1,0 +1,51 @@
+Steady state levels of income and saving can be obtained from equation (24.46) Economic
+Applications of
+
+and (24.47) Dynamic
+Optimisation
+<
+yt =A’) -ainr-of a ye ... (24.48)
+pt+s6
+a
+say’ —c = 28 alt-a)(_o lho ... (24.49)
+p+6 p+s6
+
+Note $ is positive after consumption is maximized.
+
+The savings are compatible with the golden rule of capital accumulation because
+it is being derived optimally. The law of welfare is established by the fact that the
+saving cannot be altered without penalizing agent’s utility. (In other way any
+other saving rate is sub optimal).
+
+24.9 NEOCLASSICAL THEORY OF INVESTMENT
+WITH ADJUSTMENT COSTS
+
+The new Palgrave dictionary to economics states, “Given” their necessary
+simplicity, we often find prediction of theoretical economies we are able to
+analyse - are too stark relative to behaviour observed in actual economies. Thus,
+in a variety of settings we have adopted adjustment costs in our economic
+laboratories to summarize omitted frictional elements that reduce, delay or
+protract changes in the demand and supply of final goods and their factor inputs
+in response to changes in economic condition hence”, hence the demand for
+adjustment cost model.
+
+In vast array to macroeconomics literature, investment adjustment cost model
+(hence for sake of simplicity will be written adjustment cost model) explain the
+rate at which the capital stock catches up with its desired level. The term
+“adjustment” can be thought of as the additional cost incurred by firm for turning
+investment into production capital. The adjustment can be gradual or
+instantaneous and that depends on the typical mathematical model. Adjustment
+cost can include, installation cost, reorganization of plant, retraining of worker
+delivery lags, holding inventories due to tax consideration. These costs of
+adjustment are generally assumed as a function of investment and capital stock
+level.
+
+If the desired level of capital stock is k* and current level of capital stock is k,
+then the investment rate is a nonnegative function of difference between kK “and
+k . In order to determine optimal path of adjustment, if we assume convex
+adjustment cost-which increases at an increasing rate with | - then we can
+assume smooth and gradual path of adjustment, on the contrary a non-convex
+adjustment cost function depict lumpy’ investment: large infrequent adjustment
+
+of capital stock.
+83

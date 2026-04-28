@@ -1,0 +1,603 @@
+--- Page 41 ---
+
+As an example, consider the bivariate function,
+
+U = f(%,%2).
+
+If we let only x, to change, with x; remaining constant, the rate of change of
+U with respect to x, is called the partial derivative of U with respect to x,. Let
+the change in x, be Ax,, with x2 remaining constant. The corresponding change
+in U is AU. Then the difference quotient is given by
+
+AU = I + Ax) — f(% 2%")
+
+Ax, (x, + Ax,)—x,
+If we try to obtain the limiting value of this difference quotient as Ax, D0, we get
+oU @
+the partial derivative of U with respect to x,. This is denoted by A or
+x, x,
+simply f;
+Thus. f= lim AU _ lim f(x, + Ax,,3)-f(%,%,")
+7" Ax, 0 Ax, Ax, 30 Ax,
+- lim lim 1x, tAx,)— fx’,
+sie... AU _ S (hm +Ax,)~ $1.2)
+
+Ax, > 0Ax, Ax, 30 Ax
+
+2
+Example 11.1: Find the partial derivatives of the function
+f (%4,%2) = xB + 2x2xy +3 xyx2 + 4x3
+
+To obtain f; we have to differentiate the above function with respect to x,,
+
+treating x2as constant.
+Thus, f, = 3x? + 4x,x2 + 3x.
+
+Similarly, f. = 2x? + 3x, + 8x, Note that these partial derivatives are
+functions of the same dependent variables as in case of the original function f.
+
+Ify = f(%1,%2), then we writefy = f,(%1,%2), fo = fo(%1, 2).
+
+This is because first derivative at any point was not only dependent on the value
+of the independent variable, but also on the other variables, which are kept
+constant. First order partial derivative gives us the marginal values. For example,
+if the function U = f(x,,x2), defines the total utility of the commodities x1, x2,
+
+a . we ay: .
+then =, gives us additional utility that can be obtained from the use of one
+U
+
+additional unit of x;. Thus, a is the marginal utility ofx;( fori = 1,2).
+
+i
+
+11.2.2. Higher Order Partial Derivatives
+
+We have already seen, ify = f(x,,X2), then f;(x,,x2) (fori = 1,2) gives the
+partial derivatives.
+
+So long as this is true, we can repeat the process of partial differentiation and get
+higher order partial derivatives. However, once the first order partial derivative
+
+Differential Calculus:
+Functions of Several
+Variables
+
+273
+
+--- Page 42 ---
+
+Calculus
+
+274
+
+ceases to be a function explicitly of some choice variables as the primitive
+
+function, higher order partial derivatives become zero.
+
+Example 11.2:
+
+i) Differentiate z = 6x?+5x°+1 Oxy partially with respect to x twice.
+Ans: Zz = 18x" + 10x + 10y; Zxx = 36x + 10
+
+ii) Find f,1.f2 for the function f (x1, x2)= e*? + 3x; x2
+
+Ans:
+
+f= 824. 3x,
+
+=e 43x,
+
+Thus,
+
+fj, =e%! ; 3x9 is a constant w.r.t. x; withits derivative as zero
+
+1+x2 : sa: : :
+fay =e* 33x, is a constant w.r.t. x2 withits derivative as zero
+
+11.2.3, Cross-Partial Derivatives
+
+Consider the function f (x,, x2). The first-order partial derivatives of the function
+are f,andf2.The cross—partial derivatives are defined as follows:
+
+=D and f= 22
+Ox, Ox,
+
+fr
+By Young’s theorem, f12 = f21.
+
+More generally, for an — variable functiony = f(xj,...,X,).
+fi = fiz for alli,j = 1,2,...,n)
+
+Note that such a condition holds when both the partial derivatives exist and one
+of them is continuous.
+
+Example 11.3:
+
+i) f(x y)= xi +y>+4x’y! + 2xy, find fry and fy.
+fy = 3x? + 8xy* + 2y
+f= 5y* + 16x7y? + 2x
+fy = 32xy? +2 =fyx
+
+ii) f (x1,.x2) = log (x? + X2’). Find the second order partial derivatives.
+
+_ 2x. _ 2x2, _ 2(x3-x7) _ _ 4x x2
+fi _ x2 4x2? fa _ x2 4x2? fir _ (x24x2)”” , fie = faa = (x24x3)” and
+2(xf — x2)
+hoa =
+
+~ (x? + x2)2
+
+--- Page 43 ---
+
+Check Your Progress 1 Differential Calculus:
+
+Functions of Several
+. . a 1 Variables
+1) A production function is given by Q = 5L°K?, where
+Q = level of output;
+L = Labour input employed;
+
+K = Capital input employed.
+
+Find the marginal productivities of labour and capital.
+
+2)
+
+3)
+
+4)
+
+11.3 TOTAL DIFFERENTIAL AND TOTAL
+DERIVATIVE
+
+This section will help you in understanding the difference between total
+differential and total derivative.
+
+11.3.1 Total Differential
+
+Consider the function y = f(x,,x2). By its total differential, we measure the
+total change in y due to a change in bothx, and x2 (where x1, X2 are assumed to
+be independent of each other).
+
+However, the change measured by total differential of y is only a linear
+approximation of the actual change.
+
+275
+
+--- Page 44 ---
+
+Calculus
+
+276
+
+The rate of change of y due to a small change in x,, keeping x2 constant is
+already noted above as f). If the volume of change in x, is dx,, then the
+measured change in y due to a change in x, will only be equal to f,dx,.
+Similarly, if the volume of change in x2 is dx, then the measured change in
+y due to a change in x2 will be f,dx2. Thus, if dy denotes the total change in y
+
+when x, is changed by dx, and xz is changed by dx2,we can write,
+dy = fidx, + frdx2.
+This is called the total differential of the function y = f (x1, x2).
+Example 11.4: Find the total differential of the function
+y= ax, + 2hx1x2 + bx,”
+dy = 2 axydx; + 2h (x; dxz + Xz dx;) + 2 bx2dx2
+
+= 2 (ax; + hx) dx; + 2 (bx2 +h x;) dx2
+
+11.3.2 Total Derivative
+
+Through total derivative, we measure the rate of change of the dependent variable
+owing to any change in a variable on which it depends, when none of the
+
+variables is assumed to be constant.
+Let y = f (x1, Xz), such that, x, = g(t) andx, = A(t).
+
+Then we can write
+
+ee ee aes
+dt Gx, dt Gx, dt
+
+This is the total derivative of y with respect to t.
+The above result can easily be extended for a n- variable case, namely,
+Y = f Xy,X2, +, Xp).
+mn = x,(t), x. = x2(t), ..., Xn = Xp (Ft), then
+dx,
+
+dx:
+=ha tha 7 i aoe
+
+Example 11.5:
+
+an
+
+i) q = 4x, + 3x2. Ifx, =t? +t? +1,x, = t3-t?-t.
+
+Find 4q
+dt
+d dx
+a jo +f
+“ey “ay
+h
+where, /, = éx, A= &x,
+
+--- Page 45 ---
+
+Differential Calculus:
+Functions of Several
+Variables
+
+In our example, f; = 4, f) = 3.
+Also, 21 = 34? +21, 22 = 34? 24-1.
+dt dt
+So, 4 = 4(30? + 2t) + 3(3¢? - 2¢ - 1)
+
+= 21t?+2t-—3
+
+11.4 DIFFERENTIATION AND ITS APPLICATIONS
+
+This section will cover the process of differentiation of functions in general.
+Further it will also cover the implicit functions and homogeneous functions.
+Some applications commonly found in economics are also provided in this
+section which will help you in concretising the concept of differentiation.
+
+11.4.1 Differentiation of Functions
+
+The formula for total differential can be used to find the derivatives of various
+types of functions of function (This is also known as Chain Rule in the case of
+total derivatives). Let us consider a few cases.
+
+CaseI: Suppose z =f(u), where u is a function of x and y .
+Here dz = f'(u).du.
+
+dz dz Ou
+dx du Elo
+Oz dz Ou
+ae yO
+
+Case II: Suppose, z is a function of x and y which are themselves functions of
+a single independent variable, t.
+
+i) dz = f(x,y) where x = ¢(t), y = p(t). Then, dz = S dx Oz dy
+
+x oy
+
+But, “ = g(t) or, dx = $'(t).dt.
+t
+
+And “ =@' (tor, dy=o'(t).dt
+t
+
+dz -{Zous call
+Ox
+
+dz oz dx Oz a
+ES 9Ore = p(t) = 2 OS
+dt ox dt oy dt
+
+Case III: If z = f(x,y) where y is a function of x, then
+
+d= ar gy or, BaF EY,
+ox oy dx Ox oy dx
+
+277
+
+--- Page 46 ---
+
+Calculus
+
+278
+
+Case IV: Suppose z is a function of x and y where x and y are themselves
+functions of two independent variable u andv. i.e., z = f(x, y) where x = ¢(u,v)
+
+and y = y(u,v).
+
+Assume that all functions have known partial derivatives.
+
+Here, dz = o& dx + a .dy , where, dx = ax du+ ox du anddy= y du+ ou du
+x oy Ou ou ou Ou
+
+Putting these values in expression for dz we get
+
+w= (Fas © au) & (2 au +2 au)
+
+ox \ Ou ou oy \ Ou Ou
+= {2 Le Way OO Nyy
+ax du dy Gu ox Ov Oy dv
+
+The partial derivative of z with respect to u is the ratio of dz and du when v is
+kept constant.
+
+Similarly, the partial derivative of z with respect to v is the ratio of dz and du
+
+when u_ is kept constant. If v is kept constant, d v = O so that
+Oz oz Ox Oz Oy
+Ou ax OM oy Ou
+
+Oz oz mt oy
+év. ex dv oy av-
+
+Rules for finding differentials are similar to those of finding derivatives.
+Suppose, u, v and w are functions of kand y. Then,
+
+i) d(utv)=dutdu
+
+li) = d(uv) =udv+vdu
+
+ii) (2) _ odu aude
+D
+
+a|B 6
+
+iv) d(logx)=
+
+uv dz du. dv dw
+Vv) z=—,— = —_—-—
+wz ue ov ow
+
+11.4.2. Rules Regarding Implicit Functions
+
+In a situation, when there is an implicit functional relation between x and y, such
+that with a given rise of variation, the values that x and y can take are not
+independent of each other but are connected in some definite way.
+
+Thus, if the value of x is fixed, the value (or values) that y can take are fixed and
+not arbitrary. Converse is also true.
+
+The implicit function can be expressed in the form f(x,y) = 0.
+
+--- Page 47 ---
+
+e.g.,ax + by +c = 0,or, 2x? + 3xy + 4y’=0 Differential Calculus:
+Functions of Several
+Some inverse functions can be expressed in terms of one variable. For example, Variables
+
+the first function can be written as
+
+c+by c+ax
+x=- or,y=- .
+
+a b
+
+These two explicit functions are said to be inverse to each other.
+
+However, all implicit functions may not be expressed in explicit forms where the
+two variables have been separated. For example, for the second function, viz. 2x”
++ 3xy + 4y’=0, we cannot express x in terms of y or conversely.
+
+Consider an implicit functionf (x,y) = 0, where the two variables cannot be
+separated. Assume that y is a function of x . Here the concept of total
+
+differential can be used to find the total derivative .
+Ix
+The function f(x,y) = 0 can be taken as z = f(x,y) where z equals zero.
+Now, dz = fx.dx + fy.dy = 0 (since z is constant). Thus, @ = 4
+x JY
+
+Example 11.6: f(x, y) = 2x” + 3xy + 4y° =0. Find :
+xX
+
+Here, f,= 4x + 3y, fy = 3x + 8y. So, @ = 4% +39
+dx 3x+8y
+
+Similarly, if it is assumed that x is a function of y, the derivative 2 will be equal
+
+fy : é d dx . :
+to —~. The derivatives 2 and gp are reciprocal to each other, since these two
+x
+
+functions are reciprocal to each other.
+
+The second derivative of an implicit function is defined and obtained from the
+first derivative. If f(x,y) = 0 gives y as a function of x, then we have seen that
+dy _ Sy
+
+dx te”
+
+Now, #24 (4) _ -(2(4] + 2(4)s}
+
+de dx\ fy ox fy) e&x\ fr) dx
+
+[f= hole an o(£) fb teh,
+Bp), oy fy
+
+(a)
+But, —
+
+. Substituting these
+ox
+
+values and the value of & we get,
+Ix
+
+=U ah? -2hy LS hoch?) beeeees (11.1)
+
+279
+
+--- Page 48 ---
+
+Calculus
+
+280
+
+2
+
+d*y
+dx?
+
+Example 11.7 : f(x, y) = x + xy + y. Find
+
+d’y x+y
+
+de x+2y
+
+d d
+dy (+ 2y) xt y)— xt y) 7 (x +2y) __ 6x? + 6xy + 6y?
+
+dx’ (x+2y) (x+2y)
+
+This can be obtained by putting the values for fy, fy, fix, fry, fyy in equation (11.1)
+
+11.4.3 Applications in Economics
+
+As you are aware that demand and supply get affected due to multiple factors or,
+let us say, multiple variables. So, if we wish to find out change in demand
+function due to the price of the product, then partial derivative is used. Same will
+apply to the supply function. Few more such concepts, in economics where we
+use partial derivatives, include identifying of the goods as complementary or
+substitutes, inferior or normal goods, marginal rate of substitution and marginal
+rate of technical substitution. Let us look at the applications i) marginal rate of
+technical substitution and ii) elasticity of substitution, in detail.
+
+1) Marginal Rate of Technical Substitution (MRTS)
+Let us take the production function as Y = /(L, K)
+Where Y is the output, L is the labour and K is the capital.
+By definition, MRTS = —(dK/dL)
+Total differential of the production function will be
+dY =f, dL + fxdK
+
+where f, is marginal productivity of labour and fx is the marginal
+
+productivity of capital.
+
+We receive these marginal productivities by calculating the partial derivatives
+of the production function Y = f(Z, K)
+
+We know that along a given isoquant there is no change in the output level.
+So, dY = 0.
+
+0=fL dL + fkdK
+
+Solving the above equation, we get
+— (dK/dL) = f/f
+
+MRTS = f,/fx
+
+--- Page 49 ---
+
+ii) Elasticity of Substitution Differential Calculus:
+Functions of Several
+
+Consider the production functiong = f (x,,x2). The elasticity of substation Variables
+
+measures the ease with which substitution between the two factors can take
+place.
+
+The degree of substitutability between two factors increases with higher
+values of the elasticity of substitution.
+If it is zero, it will imply impossibility of substitution.
+
+The elasticity of substitution (co) is defined as the percentage change in the
+input ratio in response to percentage change in the marginal rate of technical
+
+substitution i.e.,
+
+SS
+
+x:
+or (2) _ fiX d(2
+
+Fy = Fon
+aa) ~ fexe"a (2)
+@
+f2
+~f1
+X2\ _ %1dx2-x2dx1 x2\ _ xa(FB)dxs—xadmr = (45*2*2)
+Now d (2) =a Od (2) = Z = fxr OX
+, ix -4|
+dx, te
+Again d (2) = aft S2-dfo.f1 = ar%1tfi2x2)fo- ar xitheaxah
+XR Sige f?,
+
+[+ df, = fydx, + fypdXo; df = fy dxy + fypdx]
+_ [fusdx, + fiz (- 4) dx,| fr - [fodx, + fo2 (- 4) dx, fi
+f*,
+_ [fiidxy + £3 — fifefie — fifefer + fo2lf |dx,
+f,
+
+[Using fi2 = fail
+
+or.g= [fa1f3—2 fi fofrat Si fo fer tforfi]
+»o=
+f,
+
+Thus
+
+o= (2%) (fix1 + fox2)dx, _ f,
+f2X2) foxq (fith? — 2fifehi2 + feof?) dx,
+_ fifaGixs + fox2)
+1X2 (2fi fohi2 — fish? — feof?)
+
+The convexity of iso-quant ensures (2f;fofi2 - fi if? - foofi°)>0 and since (X1, X2, fi,
+f,)>0 we have o>0.
+
+The expression of the iso-quant ensures (2f, f fiz - fi f,” - fo f°) reflects the
+change of the slope or curvature of an iso-quant. This means that o is inversely
+proportional to the degree of convexity of iso-quant. The lower the degree of
+
+convexity of the iso-quant, the larger the value of o and vice versa.
+281
+
+--- Page 50 ---
+
+Calculus
+
+282
+
+If the two inputs are used only in a fixed proportion, the iso-quant is L-shaped
+and o is zero.
+
+In case if the two inputs are perfect substitutes of each other, the iso-quant is a
+straight line whose MRTS is constant. Here o is infinity. As o increases from
+zero to infinity, substitution between the factors becomes increasingly easier.
+
+Some notes ono
+
+i) ovaries from one combination of factors to another.
+a) 6 = 6 (X, X2)
+b) o is a lower number
+
+ii) O x1x2 =9 x2x!I
+
+iii) If the production function is linear homogeneous, (see below) o can be
+
+written a hte Here, o is inversely proportional to the cross-second order
+2
+
+partial derivative of the production function.
+
+11.4.4 Homogeneous Functions and Their Properties
+
+A function is said to be homogeneous if multiplication of all its arguments by
+some arbitrary constant, say k, multiplies the function by k raised to some power.
+
+Thus, the function f (x1, x2) is said to be homogeneous of degree n if
+f (kx, kx2) =k" f 4, X2).
+The power of k is called the degree of homogeneity.
+
+For a homogeneous function, the sum of indices for each term of the function is
+the same.
+
+Thus, the function f(x;, x2) = x? + x1x2 + x3 is a homogeneous function of
+degree two. This is because (kx, kx2) = k?f (x1, 2) .
+
+Similarly, z = x? y + x?y? + y* is a homogeneous function of degree four.
+
+Property 1: The homogeneous function z = f(x,y) of degree n can be written
+asz = 2 4[2 or Z= vtu[=|
+
+x y
+You may try to prove from the definition by putting k = : or, k = .
+
+Property 2: The first order partial derivative for the homogeneous function
+z = f(x,y) of degree n are homogeneous function of degree (n — 1).
+
+Proof: Let z = f(x,y) be a homogeneous function of degree n. This function
+
+can be written as z = x” a? .
+x
+
+Taking partial differential with respect to x,
+

@@ -1,0 +1,46 @@
+UNIT 23, INTERTEMPORAL OPTIMISATION-II
+
+Structure
+23.0 Objectives
+23.1 Introduction
+23.1.1 Summary of Optimization & Dynamic Optimization so far
+23.2 First Order Necessary Condition: Euler Lagrange Equation
+23.3 Hamiltonian Formation of Optimal Control Problem
+23.4 Hamiltonian Optimality Condition in Special Cases
+23.5 Transversality Condition
+23.6 The Discounted Problem
+23.7 Second Order Condition
+23.8 Let Us Sum Up
+23.9 Key Words
+23.10 Answers/Hints to Check Your Progress Exercises
+
+23.11 Exercises
+
+23.0 OBJECTIVES
+
+After going through this unit, you should be able to
+
+¢ show how Hamiltonian formation is derived for constrained dynamic
+optimisation;
+
+e determine necessary and sufficient condition for optimizing Hamiltonian
+
+functional; and
+
+¢ elucidate two special types of dynamic optimisation techniques encountered
+in economics viz., infinity horizon models and optimisation models with
+discounting.
+
+23.1 INTRODUCTION
+
+In the previous unit, we have discussed the problem of optimisation of a
+functional under integration sign by using calculus of variations. Moreover, we
+have noted various end-point conditions with their transversality conditions. We
+derived necessary and sufficient conditions for extremum. Here we apply
+calculus of variations to find solutions to optimal control problems.
+
+Before we go into details of ‘Optimal Control Theory’, we summarise our
+discussion, so far, of optimisation, and in the process, introduce some concepts,
+essential for any further discussion on Optimisation.
+
+39

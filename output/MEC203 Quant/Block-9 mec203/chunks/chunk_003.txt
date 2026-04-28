@@ -1,0 +1,564 @@
+--- Page 21 ---
+
+and the population variance (1/N) vx? —p’=p-p’=pq Sampling Theory
+
+The sample mean of the variable x, on the other hand, is 1x, = f/n
+Ni
+
+Hence we find, on replacing x by f/n, u by p and o” by pq in the expressions
+
+E (x) and 6, given in preceding sections,
+
+E (f/n) = p [in case of random sampling with replacement]
+=p [in case of random sampling without replacement]
+
+orm = pq/ Vn [in case of random sampling with replacement]
+
+N- : : :
+= Paty - x=) [in case of random sampling without replacement]
+Vn -
+
+The comments made in connection with the standard error of the mean apply here
+also.
+Check Your Progress 4
+
+1) Discuss the meaning of random sampling with replacement and without
+replacement.
+
+2) Write the standard error of sample proportion.
+
+28.11 LET US SUM UP
+
+In this unit, we have learnt the basic concepts of sampling theory like sample
+survey, its advantages and sample design. We also learnt about what kind of
+biases exist in a survey and various types of sampling methods e.g., purposive
+sampling, random sampling, stratified sampling and systematic sampling. Then
+we understood the concepts of parameter and statistic with a clear distinction
+between the two. We extended our understanding by finding out how the
+sampling distribution of a statistic needs to be worked out with dimensions like
+expectation and standard error of sample mean and sample proportion.
+
+187
+
+--- Page 22 ---
+
+Inferential
+Statistics
+
+188
+
+28.12 KEY WORDS
+
+Cluster Sampling
+
+Quota Sampling
+
+Population
+
+Purposive
+Sampling
+
+Random Sampling
+
+Sample
+
+Sampling
+Distribution
+
+Sampling Without
+Replacement
+
+Sampling With
+
+Replacement
+
+Standard Error
+
+Stratified Sampling
+
+The population is divided into clusters, ideally such
+that each cluster is as variable as the overall
+population (i.e., heterogeneity within clusters and
+homogeneity between clusters).
+
+It attempts to obtain a representative sample by
+specifying quota controls on certain specified
+characteristics, such as age, gender, social class and
+any other variables relevant to the investigation being
+undertaken.
+
+In statistics, population is an aggregate of objects,
+animate or inanimate, under study. The population
+may be finite or infinite.
+
+Purposive sampling is one in which the sampling
+units are selected with definite purpose in view.
+
+A random sampling is one in which each unit of
+population has a known probability of being included
+in it.
+
+A finite subset of statistical individuals in a
+
+population is called a sample and the number of
+individuals in a sample is called the sample size.
+
+A probability distribution consisting of all possible
+values of a sample statistic
+
+Once an element has been included in the sample, it
+is removed from the population and cannot be
+selected a second time
+
+Once an element has been included in the sample, it
+is returned to the population. A previously selected
+element can be selected again and therefore may
+appear in the sample more than once.
+
+The standard deviation of the sampling distribution of
+a statistic is known as its ‘standard error’, abbreviated
+as S.E
+
+Here the entire heterogeneous population is divided
+into a number of homogeneous groups, usually
+termed as strata, which differ from one another but
+each of these groups is homogeneous within itself.
+
+--- Page 23 ---
+
+Unbiased : A property of a point estimator that is present when
+the expected value of the point estimator is equal to
+the population parameter it estimates.
+
+28.13 ANSWER OR HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1) See Section 28.2
+2) See Section 28.3
+3) See Section 28.4
+
+Check Your Progress 2
+
+1) See Section 28.5
+2) See Section 28.5
+3) See Section 28.6
+
+Check Your Progress 3
+
+1) See Section 28.7
+
+2) See Section 28.8
+
+3) — [Hint: n; =400 and nz =500, pi =300/400 =0.75, p2 =300/500=0.6
+p= (mpi +np2)/(ni+na) = 0.67, q = 1-p; S. E (p-pr) = V
+[((pq)/(a1+n2))(n2/n1)] = 0.018]
+
+Check Your Progress 4
+
+1) See Section 28.9
+2) See Section 28.10
+
+28.14 EXERCISES
+
+Q1.A random sample of 500 pineapples was taken from a large consignment and
+65 were found to be bad. Show that S.E. of the proportion of bad ones in a
+sample of this size is 0.022 and deduce that the percentage of bad pineapples
+in the consignment almost certainly lies between 8.5 and 17.5.
+
+Ans. To estimate the proportion of spoiled pineapple in the whole consignment,
+we can use the sample proportion of defective pineapples in the sample.
+
+The sample proportion of defective pineapples is given by:
+
+p = x/n where x is the number of defective pineapples in the sample and n is
+the sample size.
+
+p = 65/500 = 0.13
+
+Sampling Theory
+
+189
+
+--- Page 24 ---
+
+Inferential
+Statistics
+
+190
+
+To find the standard error of the estimate, we use the formula:
+SE = V(p(1-p)/n)
+SE= V(0.13(1-0.13)/500) = 0.022
+
+We can use the sample proportion and standard error to construct a
+confidence interval for the true proportion of defective pineapples in the
+consignment. With a 95% confidence level, the interval is given by:
+
+p+z*SE
+
+where z is the critical value for the standard normal distribution at a 95%
+confidence level (z = 1.96)
+
+Therefore, the 95% confidence interval for the true proportion of defective
+pineapples in the consignment is:
+
+p+ 1.96SE = 0.13 + 1.960.022 = [0.086, 0.174]
+
+This interval can be converted to a percentage interval by multiplying by 100.
+So, the interval becomes [8.6%, 17.4%]. We can therefore say with 95%
+confidence that the true proportion of defective pineapples in the
+consignment is between 8.6% and 17.4%.
+
+It is almost certain that the percentage of bad pineapples in the consignment
+lies between 8.6% to 17.4%.
+
+Q2. How does one get from a sample statistic an estimate of the population
+parameter?
+
+Ans. A survey produces a sample statistic, which is used to estimate a population
+parameter. If you repeated the survey many times, using different samples
+each time, you might get a different sample statistic. And each of the different
+sample statistic would be an estimate for the same population parameter. If the
+statistic is unbiased, the average of all the statistics from all possible samples
+will be equal to the true population parameter; even though any individual
+statistic may differ from the population parameter
+
+Q3. Random samples of size225 are drawn from a population with
+mean 100 and standard deviation 20. Find the mean and standard deviation of
+the sample mean.
+
+Ans. wx = 100, ox= 1.33
+
+Q4. Suppose the mean number of days to germination of a variety of seed is 22,
+with standard deviation 2.3 days. Find the probability that the mean
+germination time of asample of 160 seeds will be within0.5 day of
+the population mean.
+
+Ans. 0.9940
+
+--- Page 25 ---
+
+Q5. Suppose speeds of vehicles on a particular stretch of roadway are normally Sampling Theory
+
+distributed with mean 36.6 mph and standard deviation 1.7 mph.
+a) Find the probability that the speed X of a randomly selected vehicle is
+
+between 35 and 40 mph.
+b) Find the probability that the mean speed x of 20 randomly selected
+
+vehicles is between 35 and 40 mph.
+
+Ans. a) 0.8036
+
+b) 1.0000
+
+Q6. Suppose that in a certain region of the country the mean duration of first
+marriages that end in divorce is 7.8 years, standard deviation 1.2 years. Find
+the probability that in asample of 75 divorces, the mean age of the
+
+marriages is at most 88 years.
+
+Ans. 0.9251
+
+191
+
+--- Page 26 ---
+
+192
+
+UNIT 29 SAMPLING DISTRIBUTIONS
+
+Structure
+29.0 Objectives
+29.1 Introduction
+29.2 Concept of Sampling Distribution of a Statistic
+29.3. Three Fundamental Distributions Derived from Normal Distribution
+29.3.1 Chi-square Distribution
+29.3.1.1Chi-square Test of Goodness of Fit
+29.3.2 ‘t’ Distribution
+29.3.2.1 Student’s ‘t’
+29.3.2.2 Fisher’s ‘t’
+29.3.3 ‘F’ Distribution
+
+29.4 Sampling Distributions of Mean and Variance in Random Sampling from
+a Normal Distribution
+
+29.5 Central Limit Theorem
+
+29.6 Let Us Sum Up
+
+29.7 Key Words
+
+29.8 Answers/Hints to Check Your Progress Exercises
+
+29.9 Exercises
+
+29.0 OBJECTIVES
+
+After going through this unit, you should be able to
+e discuss the concept of sampling distribution of a statistic;
+e enlist various properties of different types of sampling distribution;
+
+e derive various results of different sampling distribution using Jacobian
+transformation;
+
+e measure goodness of fit using Chi-square test; and
+
+e analyse any sample when it is not randomly distributed.
+
+29.1 INTRODUCTION
+
+For a finite sample, it is not a big problem of assigning probabilities to the
+samples selected from the given population. However, where the sample size as
+well as the population is quite large, the number of all possible samples is also
+large. It becomes difficult to assign probabilities of a specified set of samples.
+Therefore, we must think of all possible ways of selecting the samples from the
+entire population. In this unit, we will learn about the sampling distributions with
+discrete and continuous population distributions, four fundamental distributions
+
+--- Page 27 ---
+
+derived from the normal distribution and sampling distributions of mean and
+variance in random sampling from a normal distribution. In the end, we will also
+touch upon the central limit theorem.
+
+29.2 CONCEPT OF SAMPLING DISTRIBUTION OF
+A STATISTIC
+
+Sampling distribution of a statistic may be defined as the probability law, which
+the statistic follows, if repeated random samples of a fixed size are drawn from a
+specified population.
+
+Let us consider a random sample x1, X2,...., Xn of size n drawn from a population
+containing N units. Let us further suppose that we are interested in the sampling
+distribution of the statistic xX (ie, sample mean), where
+
+- 1
+X =—(Xq4+Xo+...4+Xp)-
+n
+
+If the population size N is finite, there is a finite number (say k) of possible ways
+of drawing n units in the sample out of a total of N units in the population.
+Although the k samples are distinct, the sample means may not be all different,
+but each of these will occur with equal probability. Thus, we can construct a table
+showing the set of possible values of the statistic X and also the probability that
+X will take each of these values. This probability distribution of the statistic X is
+called the ‘sampling distribution’ of sample mean. The above method is quite
+general, and the sampling distribution of any other statistic, say, median or
+standard deviation of the sample, may also be obtained.
+
+If, however, the number (N) of units in the population is large, the number (k) of
+possible distinct samples being even larger, the above method of finding the
+sampling distribution cannot be applied. In this case, the values of X obtained
+from a large number of samples may be arranged in the form of relative
+frequency distribution. The limiting form of this relative frequency distribution,
+when the number of samples considered becomes infinitely large, is then called
+the ‘sampling distribution of the statistic’. When the population is specified by a
+theoretical distribution (e.g., binomial or normal), the sampling distribution can
+be theoretically obtained. The knowledge of sampling distribution is necessary in
+finding ‘confidence limits’ for parameters and in ‘testing statistical hypothesis’.
+
+In this unit, we will highlight the various properties of different sampling
+distributions. We will mainly concentrate on how different sampling distributions
+work and in doing so we use several statistical formulae. Our aim is to present a
+theoretical overview of the topic. Here, what is important is to have the idea of
+
+topic theoretically and the numerical part will be covered subsequently.
+
+Sampling
+Distributions
+
+193
+
+--- Page 28 ---
+
+Inferential
+Statistics
+
+194
+
+29.3 THREE FUNDAMENTAL DISTRIBUTIONS
+DERIVED FROM NORMAL DISTRIBUTION
+
+29.3.1 Chi-square Distribution
+
+The square of a standard normal variate is known as a chi-square variate with 1
+degree of freedom (df).
+
+Thus, if x ~ N(u,67), then z = ~—# ~ N(0,1)
+fey
+
+2
+and 2? = (=) , is a chi-square variate with | df.
+o
+
+In general, if xi, (i = 1, 2, ..., n) are n independent normal variates with mean jj
+
+and variance of, (i= 1, 2, ..., n), then,
+
+2
+NX} — by : : : :
+
+42 = a 4] , is a chi-square variate with n df.
+i 9j
+
+It has the probability density function (p.d.f)
+
+where 0<y2 <0.
+
+The p.d.f of x, the positive square root of 2, is immediately found to be
+
+1 _y2 =
+f(x) = on vA
+a 214)
+where 0<y <a.
+
+For n<2 the density f(x?) steadily decreases as 2 increases, while for n >2
+there is a unique maximum at 2 =n-2. The distribution is thus always
+
+positively skewed. The curve of the distribution of 2 with df= 7 is as shown in
+Fig. 29.1.
+
+0.165
+
+0.12-
+
+0.03-
+
+0.044
+
+PROBABILITY DENSITY
+
+Fig. 29.1: 2 Distribution with 7 Degrees of Freedom (n = 7)
+
+--- Page 29 ---
+
+Consider, to begin with, the distribution of the square of a single standard normal
+variable, say, Z = x2.
+
+z varies from 0 to « and for 0 < a < b< ©, noting that the transformation from x
+to z is two-to-one, we have,
+
+pla <z<b]=plva <x < vb|+p|- vb <x <—val.
+Thus, if g(z) is the p.d.f. of z and f(x) that of x, then
+
+b vb -VJa
+fg(z)dz= f{ f(x)dx+ J f(x)dx
+a va -vb
+
+~j| 2) W2)-1-LV2) (V2)
+
+(on putting x=+z and x=—/Z; in the first and the second integrals
+
+respectively).
+
+Hence, g(Z) = [r(vz)+ AL vz}
+z
+
+= 2x er| 3c
+272 exp(- 24)
+
+1
+1
+2/2r(14)
+Thus, the earlier result given by (2) is seen to be true for n = 1 also. If it is
+
+t
+then assumed to be true for n = 1, the p.d.f. of U= > x? is from the expression
+i=1
+
+given by (2 ),
+
+1 2
+Wavy ext} -u eo <U<©,
+x 2) r('4) yA
+
+and that of 9 = xh is again form the expression given by th? ),
+gil2
+T(1/2)
+
+exp(-92/2],0<9 <a
+
+The joint p.d.f of u and Gis, then
+1
+2(-3)/2 7047 2)P(t/2)
+
+-exp (u2 + 97)/2 ut
+
+Now, make the one-to-one polar transformation:
+u=u'cos0
+
+. | o<ueno<0<s/2)
+9=u'sind
+
+Sampling
+Distributions
+
+195
+
+--- Page 30 ---
+
+Inferential
+Statistics
+
+196
+
++1
+Then, u!=Vu? +.9° 3}
+
+isl
+
+Also, the Jacobian of the transformation is
+
+ou du
+du’ 00} _ yy
+ao 9
+ou’ 60
+
+Hence, the joint p.d.f of u’and 0 is
+1
+git-3)/ ar re /2)exp|-(u)2/2|(u cos*0
+
+O<u'<a0<0<%
+
+Ty
+
+. 2 t-1 _alt/ t d
+Since 2 | cos’ 6d0 B(%, %4), the p.d.f of u’is
+
+t 2
+00-4 ) |r
+
+1
+a(t-ty2p{ t+1
+2
+Hence, the p.d.f of u’? comes out to be
+
+1 _y?2 2 A
+ovate W% |lw) °
+2
+
+The results given by f(y) thus holds for n = t + 1 if it is assumed to hold for
+
+n = t. Since it has been already shown to be valid for n = 1, by mathematical
+induction it is found to hold for all positive integral values of n.
+
+An important result regarding 2 distribution is to be noted.
+
+Let y: and y2 be two independent variables distributed as 2, with df equal to nj
+and no, respectively. Then the sum y + y2 may be shown to be distributed in the
+same form with df =n: + n2. This may be regarded because of the definition of
+2 , Since y1 + y2 is the sum of squares of ni + nz, mutually independent standard
+
+normal variables. A direct proof may be given by considering the joint
+distribution of y; and y2 and deriving from it the joint distribution of y = yi + y2
+
+and q, which are such that
+
+Vy1 = Vy cos
+Jy, = Jy sind [o< <x, 0<0<%|
+
+This property is designated as the additive property of x8 .
+

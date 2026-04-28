@@ -1,0 +1,49 @@
+Dynamic
+Optimisation
+
+38
+
+Using transversality condition (when X¢ is fixed, t, is tree)
+
+[vo a) x |aty=0
+
+ex'(t)
+=> [2x’? + 24xt — 4(x')?] = 0 => 2x’? = 24x(t),t ... (Ia)
+x'(ty) = 3tf? + cy (by differentiating eq(1)) . B)
+
+Using (3) in (la) and using (2) in that and setting x =x, =2
+We get 8 ~ 412 +1=0 let z=t?
+=z? -424+1=052=24V3
+So 24=2+V8 and z7=2-V3, 2,=3.732 zp = 0.2679
+So tf; we get c;=-1.117 and for tfp we get c, = 2.6871
+So tf, = 93.732 tf, = 92679 =.6446
+for tf; we get c;=—1.117 and for tfy we get cy = 2.6871
+then x(t)is —1.117t+t® — one solution
+or 2.687 1t +t? another solution
+these above equations are a result of x(t) =c t+ i
+Q4. Derive Bellman equation for max $=} f (U; x;)
+Subject to Up=X_ — Xt41
+Ans. In the space of the sequence {Ut,X;}{29 such that u, ¢P and x, «P we
+
+have to choose a sequence {Ut, Xt }{29 that maximizes the sum
+co
+max >> B'f(x;,uy}
+{v} {20
+
+Subject to the sequence of budget constraint
+Xty1 = Xt —Uy, t=O.....00
+
+Xo is given let x¢.4 = g(x¢ Ut)
+
+where o<p<—-<1 where p>0
+1+p
+
+By applying the is principle of dynamic programming the 1“ order necessary
+condition for this problem is given by bellman equation
+
+v(x,) =max {(f (x, u,) + Br(g (utgd)}
+
+which usually written as
+
+v(x) = max {f(x,u) + Bv(g(x,u))} (Ans).
+u

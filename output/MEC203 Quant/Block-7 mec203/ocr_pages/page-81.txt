@@ -1,0 +1,61 @@
+Dynamic
+Optimisation
+
+80
+
+generality we can take pt as one because we further assume super neutrality of
+money (increasing money supply doesn’t have impact on prices)
+
+The profit maximizing expression of representative firm is
+
+n(t) =F(.)— w(t)L(t)—[r(t) + 8] k(t) (24.34)
+The 1* order condition for optimality
+
+On(t) _ OF(.)
+
+aL(t) =0> a(t) =wit) --.(24.35)
+
+On(t) _ FC) _ -- (24.
+
+aK) o> aK(t) r(t)+5 (24.36)
+
+Equation (24.35) and (24.36) in light of competitive market, the return on
+production inputs is equal to the corresponding marginal productivity.
+
+We can derive resource accumulation constraint from household budget
+
+constraint. The agent/household accumulates wealth or capital as the difference
+between received income (from labor and capital less consumption (c(t) > 0,
+
+represents the level of consumption )
+
+K'O=wOLO+rOkKO-cO), KO) 0434)
+In intensive form equation
+
+k' =w(t)+r(t)A(t)— c(t) k(0) given .-. (24.38)
+with c() =£ ana e=*, y= vt)
+
+an
+Lt) L L(t)
+It we take production function as Cobb-Douglas production function
+y(t) =F (K,,L,)= AK? L'~* and calculated marginal productivity labor and
+marginal productivity of capital, then we get
+
+OF(.)
+
+aL) (1-a)AK(t)* = we ... (24.39)
+OF(.) _ a
+aK(t) = aAK(t)-% =r(t)+8 ... (24.40)
+
+The sum of two return on two inputs is equal to the total output produced in the
+economy.
+
+y(t) = w(t) +[r(t) +8] k(t) = (1a) AK(t)® +A k(t)® = Ak(t)® ... (24.40)
+Rewriting equation (24.38) we get
+
+k'(t) = w(t) + (r(t) +8) A(t) — e(t),-8k(t) k(0), given in intensive form we get
+k' = Ak*(t)% —c(t)— dk(t), (0) given w. (24.41)
+(by using 24.40) in above equation)
+
+Differential equation (24.41) characterizes the process of capital accumulation in
+an economy: it states that net capital accumulation is the difference between

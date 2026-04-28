@@ -1,0 +1,605 @@
+
+--- Page 1 ---
+
+; n Probability
+Provided that }'p; =1;p; 20 Theory
+
+i=l
+If E(x)=m, the mathematical expectation of the variable(x — m)’isknownas the
+variance of the variable x, which is denoted by Var(x).
+
+Var (x) = E(x —m)? = (x4 —m)?p4 + (x2 —m)? po + (x3 —m)?p3 +... +
+n
+
+(Xn —M)* Pp = X04 =m)? pj.
+i=
+
+We can show that Var(x) = E(x —m )’ = E(x’ ) — [E(x)]’. Remember, in our
+notation, E(x) = m. The square root of Var(x) is called the standard deviation of
+
+the variable x.
+
+If g(x) is any function of the variable x, defined for every value of the variable
+x, then the expected value of the function (x), denoted by E[g(x)] is given by
+
+= 9(Xj) Pj = 9(X1)P1 + G(X2)P2 + O(X3)P3 +---+ G(X) Pn = E% —m)? pj
+
+Mathematical expectation of a variable is analogous to weighted Arithmetic
+Mean of the variable, say, x. In a frequency distribution, the relative frequencies
+(Class frequency / Total frequency) of a variable could be thought of as the
+probability that the variable will take that value, i.e. p=f;/N,
+
+where p; : Probability that the variable x will take the value x;
+
+f, : frequency of occurrence of x;
+
+n
+N: Total frequency > fj
+i=1
+
+n n
+XXfi UXifi |
+
+As we know weighted arithmetic mean = =I = 1 = ¥ Xjpj = E(x)
+vf N i=t
+
+i=1
+= Expected value of the variable x.
+
+Example: What is the mathematical expectation of the number of points when a
+nun biased die is thrown?
+
+Let the variable denote the number of points when a die is thrown. Therefore,
+xcan take values 1, 2, 3, 4, 5 and 6. The probability of realization of all these
+values is same, viz.,1/6,therefore,
+
+E(x)=1/6(14+2+3+4+5+6)=3.5
+
+Theorem 1
+
+The mathematical expectation of sum of several random variables is equal to the
+sum of the mathematical expectation of the random variables.
+E(atbt+ctd+.......... ) = E(a)+E(b)+E(c)+E(d)+....... , where a, b, c, d represent
+
+random variables.
+
+We will consider the theorem for two random variables and the result could be WI
+
+--- Page 2 ---
+
+Probability and
+Probability
+Distributions
+
+112
+
+extended to any number of random variables.
+
+Let, x and y are two random variables; x can take the values x1, x2, x3
+
+Qeeteeeeee
+
+and y can take the values y; y2,y3 Ym, and pij is the probability of the event
+
+that x = xj and y = y;. Now (x + y) is a new random variable and it takes the
+value (x; + yj) with probability pj or, P(x = x; and y = y;) = pj. Using the
+
+definition of mathematical expectation
+
+E(x+y)= > > (x; + yj)pij [we take double summation as 1 can take n values
+i=1 j=1
+
+and j can take m values]
+
+E(x+y)= ze E(xipj + YjPij) = = 2XiPy + = Ey Pj
+I j=1 I =
+
+n m m
+= x) Dpyt+ Xyj > pj [we could write this as x;is constant with respect to
+
+i=1 j= jJ=1 ‘i=1
+variations in j]
+
+The following table will explain how we could write the above. In this context,
+we define marginal probability of a variable given the other variable takes some
+specific value. Suppose n= 9 and m= 8, i.e., the variables x and y take 9 and 8
+values respectively. From the table, it is easy to see the distribution of the
+variables and their probabilities, where the symbols have their usual meanings.
+
+Marginal probability of y takes the value yj — ¥ Pio _ Spo
+
+Marginal
+yl y2 y3 y4 y5 y6 y7 y8 Probability
+of x
+
+xl pll |pl2 p13 pl4 |pls pl6 pl7 |pls plo
+
+x2 p21 | p22 p23 p24 | p25 p26 p27 | p28 p20
+
+x3 p3l | p32 p33 p34 | p35 p36 p37 |p38 p30
+
+x4 p41 | p42 p43 p44 | p45 p46 p47 | p48 p40
+
+x5 p5l | p52 p53 p54 | p55 p56 p57 |p58 p50
+
+x6 pol | p62 p63 p64 | p65 p66 p67 | p68 p60
+
+x7 p71 |p72 p73 p74 |p75 p76 p77 | p78 p70
+
+x8 p81 | p82 ps3 p84 | p85 ps6 p87 | p88 ps0
+
+x9 p9l | p92 p93 p94 | p95 p96 p97 | p98 p90
+Margin |——»>
+
+al
+. pOl | p02 p03 p04 | p0s p06 p07 | p08 1
+
+Probabi
+
+lity of y
+
+
+--- Page 3 ---
+
+— ; . 8 Probability
+Similarly, marginal probability of x takes the value x; = X Pj = Pio Theory
+j=1
+
+i) n
+In the above situation, E(x) =  XjPoj and E(y) = LyiPjo
+
+i=1 i=1
+Additionally, we can also derive the conditional distribution of the variables
+from the above table. One example will elucidate it. The conditional distribution
+of x given y = y;is as follows:
+
+y-yi Conditional Probability
+distribution of x given y = yj
+X] Pu pll/p0l
+x2 p21 p21/p0l
+X3 P31 p31/p0l
+X4 P41 p41 / pol
+x5 Psi p51/p0l
+x6 pol p61 /p0l
+x7 p7l p71/p0l
+x8 ps1 p81 /p0l
+x9 p9l p91/p0l
+Total pol 1
+
+n m m n
+Therefore, E(x+y)= > x; UP + VY; UPij
+iT j=t jet i=
+
+n m
+= > XiPio + >Y Po) =E(x)+E(y)
+i= j=
+
+Theorem2
+
+The mathematical expectation of product of several independent random
+variables is equal to the product of the mathematical expectation of the random
+
+variables.
+
+We retain the symbols of the previous theorem and additionally, we assume that
+the variables x and y are independent, i.e., occurrence of any one of the event
+has no impact on the occurrence of the other. Let the variable x take the value x;
+with probability p; and the variable y takes the value y; with probability qj Since
+x and y are independent
+
+P (x =x; and y = yj) = pix qj.
+
+The theorem states that
+E(x.y)= E(x)xE(y).
+
+113
+
+--- Page 4 ---
+
+Probability and
+Probability
+Distributions
+
+114
+
+Using the definition of mathematical expectation
+
+nm nm
+E(x,y)= x > Xiv POX = Xi and y=yj)= > > xiyj(P* 9)
+
+i=1 j= i=1 j=
+
+Summing over j and keeping 1 constant
+n m
+
+= >XiPi x > jai) =E(x)xE(y).
+l= J=
+
+This theorem could be extended to any number of variables.
+
+Corollary 1: If m is the expected value of the variable x, then
+
+E(x —m)* = E(x?) —[E(x)].
+Proof: E(x — m)* = (x — m)p;
+i=1
+
+=> (x? —2xm + m’)p;
+
+=> (x’)pi- 2my xpi + m* Yp;
+
+= E(x’) — 2mE(x) +m”
+
+= E(x’) —2m.m +m?
+
+= E(x’) —m’
+
+=E(x’)-E@Y
+
+E (x — E(x))’ is called the variance of the variable x and it is denoted by Var(x).
+
+Corollary 2: If there are n random variables x; x2x3 X, each having mean
+
+gee teeeeeey
+
+Mm), My, M3,..,Mn.
+n n. .
+Var (X4 +X +Xg+..+Xp) = L Var (xj) + 2d # jCov(x;,x;)
+i=1 i=l
+Cov(x;,x;) = E(x; —mj)(xj -mj) when = j.
+Var (X4+X2+X3t+..+Xpy) =El(Xy + Xo + XQ +... +Xq_)—(M4 +My +Mg3 +...
+2
++Mp )I
+n nN. .
+= YE(xj —mj)+ 2z1 # j E(x —m;)(x; —m))
+i=1 i=1
+The first term in the above equation is Variance of the variable x, whereas the
+second term is the Cov(x;,x;). Therefore,
+
+n n
+Var (x4 +X +Xg3 +...+Xp) = L Var (xj) + 2 Di 4 j Cov(xj, xj)
+i=1 i=1
+
+If the variables are mutually independent then the covariance term in the above
+expression is zero (since mutual independence rules out joint occurrence).
+
+--- Page 5 ---
+
+Check Your Progress 5
+
+1) A man purchases a lottery ticket. He may win first prize of Rs.10,000 with
+probability .0001 or the second prize of Rs. 4,000 with probability .0004.
+On an average, how much he can expect from the lottery?
+
+2) A box contains 4 white balls and 6 black balls. If 3 balls are drawn at
+random, find the mathematical expectation of the number of white balls.
+
+25.9 LET US SUM UP
+
+The term probability in a very crude sense implies the chance factor and it
+issued frequently where there is uncertainty about something. Mathematicians
+from the very early ages tried endlessly to build up a structure under which this
+uncertain thing called probability could be analysed. In this unit we learnt about
+some basic terminology which is used in probability related matters. We
+discussed various methods frequently used to determine the probability of
+various non-deterministic experiments. Using these techniques, you can
+determine the probabilities of many day-to-day uncertain events. Further we
+learnt about the theorems of probability (total and compound) and conditional
+probability. Mathematical expectation introduced at the end of this unit is
+nothing but the mean of a random variable. It is quite useful in understanding
+the nature of a random variable.
+
+Probability
+Theory
+
+115
+
+--- Page 6 ---
+
+Probability and
+Probability
+Distributions
+
+116
+
+25.10 KEY WORDS
+
+Bayes’ Theorem
+
+Conditional Events
+
+Events
+
+Independent Events
+
+Marginal Probability
+
+Mathematical
+Expectation
+
+Mutually Exclusive
+Events
+
+Mutually Exhaustive
+Events
+
+Sample Space
+
+If an event A occurs in conjunction with one of
+them mutually exclusive and _ collectively
+exhaustive events E;, Ex, E3... E, and if A
+actually occurs, then the probability that it was
+preceded by a particular event E,(I=1,2,3...... n)is
+given by
+
+P(B, | A) =P(A|B,)xP(A)/°P(B)P(A|B))
+i=l
+
+If two events A and B are mutually exclusive and
+if it is known that event b has already taken place,
+the probability of A is known as the conditional
+probability of A given B. Symbolically P(A|B) =
+P (AN B)/P(B).
+
+When some of the elements of the sample space
+
+of a random experiment satisfy a particular
+criterion, we call it an event.
+
+Events are said to be independent of each other if
+occurrence of one event is not affected by the
+occurrence of the others. If events A and B are
+independent then P(ANB)=P(A)xP(B).
+
+In a bivariate distribution the probability that X
+will assume a given value X whatever the value
+of Y is called the marginal probability of Y.
+Similarly, one c and e fine the marginal
+distribution of Y.
+
+If the variable x can take values x), X2, X3,.,
+with probabilities pi, pz, pz... Pn, then the
+mathematical expectation or the expected value
+of the variable, is defined as the weighted sum of
+the values of the variable the weights being the
+probabilities of the values of the variable.
+Expected value of a variable ‘x’ is denoted by
+E(x).
+
+n
+Provided that ¥p; =1.
+i=1
+
+Events are said to be mutually exclusive when no
+
+two or more of them can occur simultaneously.
+
+Events are exhaustive if at least one of them
+necessarily occurs.
+
+The collection of all possible outcomes of an
+experiment is called the sample space.
+
+--- Page 7 ---
+
+25.11 ANSWERS/HINTS TO CHECK YOUR
+
+PROGRESS EXERCISES
+
+Check Your Progress 1
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+If the three children were born on three different days, the first child may be
+born in any one of 365 days, the second children has to be born on anyone
+of the remaining 364 days and the third child has to be born on anyone of
+the remaining 363 days. Therefore, the probability that the three children
+will be born on 3 different days in a year is 365.364.363/365.365.365.
+
+Five persons can sit in a row in 5! = 5.4.3.2.1 = 120 ways. Considering a
+and b together they can arrange among themselves in 4! 2!= 48 ways.
+Therefore, the required probability is = 48/120 = .4.
+
+Two cards can be drawn from a pack of 52 cards in >*C)= 1326 ways. These
+outcomes are mutually exclusive, exhaustive and equally likely.
+
+a) The number of cases favourable to both the cards are red is "°C)= 325.
+Therefore, that probability of drawing both red cards = 325/1326.
+
+b) One heart and one diamond can be drawn in 13.13= 169 ways.
+Therefore, probability of drawing one heart and one diamond=
+169/1326.
+
+One white ball could be drawnin°C =6 ways and one ball can be drawn in
+°C, = 10 ways. Therefore, the probability of drawing one white ball
+=6/10=.6.
+
+The total number of ways of distributing n identical objects into r
+compartments is given by the formula ee Ca. Using the formula we can
+find out that there are 816 mutually exclusive exhaustive and equally likely
+ways of distributing 15 identical objects into 4 numbered boxes.
+
+a) If each box is to contain at least 2 objects, we place 2 objects in each
+box and then the remaining 7 objects could be distributed among the 4
+boxes. Using the above formula, we get there are 120 ways of doing
+that. Therefore, the required probability is 5/34.
+
+b) Ifthe number box has to be empty then it means there should be at least
+one object in each box. We first distribute 1 object in each box. Then
+the remaining 11 objects could be distributed in 364 ways (using the
+above-mentioned formula). Therefore, the required probability is given
+by 91/204.
+
+Total number of possible equally likely exhaustive and exclusive ways of
+choosing 3 tickets is given by 7°C3 = 1140. The three numbers will be in A.P
+if the difference between the numbers is either 1 or 2 or 3 ........ 9. If the
+
+Probability
+Theory
+
+117
+
+--- Page 8 ---
+
+Probability and
+Probability
+Distributions
+
+118
+
+difference is 1 then 18. sets of numbers are possible,
+(123,234,345,......... 181920). Similarly, if the difference is 2 then 16 sets
+of numbers are possible, (135,246,357,......... 161820).Thus, we can find
+the total number of sets of 3numbers all of them being in A. P is 90. and the
+required probability is 3/38.
+
+Check Your Progress 2
+
+1) P(A‘)=%,P(AUB)=7/12,P(A|B)=3/4,P(A°NB)=1/12,P(A°NB*) == 5/12,
+P(A‘U B) = 3/4.
+
+2) Do yourself using Sub-section 25.5.1.1.
+
+Check Your Progress 3
+
+1) A: The sales person makes sale to the first customer.
+B: The sales person makes sale to the second customer.
+P(A)= P(B)= %
+(AU B): the sales person will make a sell.
+
+P(AUB)=1-P(A‘NB‘)=1-P(A‘)(B‘)[as events A and B are independent]
+=1-%, um
+
+2) Do yourself using Sub-section 25.6.2.
+
+3)
+
+P(A| AUB) = P(A(\(A UB))/ P(A) + P(B).[P(A UB) = P(A) +P(B) theorem
+of total probability]
+
+=P((ANA)U(AMB)) = P(AU(AMB)) = P(A) +P(AMB)-P(AN(AMB))
+=P(A)+0-0=P(A)
+
+Therefore P(A | AUB) = P(A)/P(A)+ P(B)
+
+--- Page 9 ---
+
+4) Hints: Let A denote the event of getting 3 white balls in the first draw and
+B denote the events of getting 3 red balls in the second draw. We need to
+find the compound probability P(AB) = P(A) P(BJA)
+
+Check Your Progress 4
+
+1) A: Selected bulb is defective.
+
+B,: Selected bulb has been produced by machine ‘a’
+
+Bz: Selected bulb has been produced by machine ‘b’
+
+B;: Selected bulb has been produced by machine ‘c’
+
+Bi PCBi) P(A[Bi) P(Bi).P(A|Bi)
+
+Bl 0.25 0.05 0.0125
+
+B2 0.35 0.04 0.014
+
+B3 0.4 0.02 0.008
+Total 1 0.0345
+
+From Bayes’ theorem
+
+P(B, | A) = P(A|B,) x P(A)/ 5" P(B,) P(A | B,) =.008 / 0.345 = 16/69.
+
+i=l
+
+2) Follow the same method. Answer=3/7.
+
+Check Your Progress 5
+
+1) The calculations for mathematical expectation are provided below
+
+2)
+
+x P(x) x.P(x)
+0 0.9995 0
+4000 0.0004 1.6
+10000 0.0001 1
+Total 2.6
+E(x)= 2.6Rs.
+
+Probability of drawing ‘0’ white ball = *Co°C3/'°C3 = 1/6
+Probability of drawing ‘1’ white ball = “C)°C,/'°C3 = %
+Probability of drawing ‘2’ white ball = *Cy°C,/'°C3 = 3/10
+
+Probability of drawing ‘3’white ball=*C3°Co/'°C3= 1/30
+
+Fill up the following blank table to get the required expectation
+
+Probability
+Theory
+
+119
+
+--- Page 10 ---
+
+Probability and
+Probability
+Distributions
+
+120
+
+p(x) x.P(x)
+
+wnNnrF oo]
+
+Total
+
+3) Let x takes the values x4, X9,..., X, With probabilities P4,p9,...Pp
+respectively, where )p; =1. Therefore, y will take the values:
+y, =ax,+b, yo =axo +b....., Ya =AX_ +b
+
+E(y) = ¥1P1+ Y2P2 + YnPn = (ax1 +b) py + (axg +b)p2 +... +(aXp_ +b)Ppy
+E(y) = (axqpy + axgp2 +.... + AXpPp_) + (DP, + bp +...+ bpp)
+
+E(y) = >) ax,p,; + > bp, = a>_x,p,+ > bp,
+i=l i=l i=l i=l
+
+25.12 EXERCISES
+
+Q1. There are 5 green and 7 red balls. Two balls are selected one by one without
+replacement. Find the probability that first is green and second is red.
+
+Ans. P(G) X P(R) = (5/12) X (7/11) = 35/132
+
+Q2. Two cards are drawn from the pack of 52 cards. Find the probability that
+both are diamond or both are kings.
+
+Ans. Total number of ways = °C)
+Both are diamonds = °C;
+Both are Kings = “C,
+P (both are diamonds or both are kings) = (8C) +4Cy) / Cp
+= 0.063
+
+Q3. A tyre manufacturing company kept a record of the distance covered before
+a tyre needed to be replaced. The table shows the results of 1000 cases
+
+Distance Less than | 4001 to | 9001 to | More than
+(in Km) 4000 9000 14000 14000
+
+Frequency | 20 210 325 445
+
+If a tyre is bought from this company, what is the probability that:
+i) it has to be substituted before 4000 km is covered?
+11) it will last more than 9000 km?
+
+111) it has to be replaced between 4000 km and 14000 km covered by it?

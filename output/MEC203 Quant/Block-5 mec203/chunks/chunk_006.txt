@@ -1,0 +1,550 @@
+--- Page 01 ---
+
+18.2.3 Differentiable Convex and Concave Functions Advanced Topics
+
+in Optimisation— I
+Now, we focus on differentiable convex and concave functions. Let
+f:S —R defined on an open convex set S of R” is said to be differentiable
+
+if the gradient
+Vf (u) = [oe , Of (u) ; Su) gees LO) exists ateach ue S.
+Ou, Ou, Ou, Ou,
+
+A) Second Order Derivative Test for Convexity and Concavity: The Two
+Variables Case
+
+A function A= f(u,v) is defined over the open set P in the plane with
+
+continuous partial derivatives of first and second order. Then,
+
+a) fis concave > f., < 0, f, <0 and Suu Suv >0
+vu vv
+b) fis convex © f,, 20, f,, 20 and Suu “>
+
+where all inequalities should hold throughout A
+
+For testing strictly concave and strictly convex, let A = f(x, y) be a function
+defined over an open set P in the plane with continuous partial derivatives of
+first and second order. Then,
+
+a) f is strictly concave © f., <0 and Fu fos >0
+b) fis strictly convex > f, > 0 and Ii uu Jw >0,
+
+where all in equalities should hold throughout A.
+
+B) Second Order Derivative Test for Convexity and Concavity: The n
+Variable Case
+
+Let S be a nonempty set in R”, and let f: SR. Then, f is said to be twice
+differentiable if there exist a vector function Vf(uw) and a nxn symmetric
+matrix H(u), called the Hessian matrix.
+
+For twice differentiable function the Hessian matrix H(u) is given comprised
+
+of the 2™ order partial derivatives and is denoted as
+
+PFW) PFO) Ppa) fy) fy)
+
+Ou; ou,Ou,,
+Hel nn, ee | | Fa Fol) oe Sao
+du,Ou. ss Ou fr) fix) Sin)
+
+181
+
+--- Page 02 ---
+
+Extreme Values
+and Optimisation
+
+182
+
+Then determinants are called the leading principal minors of H(u) denoted by
+
+fis concave <= for all D,(u),(-1)D,(u) > 0 fork =1,---,n.
+fis convex = for all D,(u),D,(u) 20 fork =1,---,n.
+
+Theorem
+
+Suppose S#¢ be set in R", and let f:S —R be two times differentiable on
+S then, f is said to be convex on S if f the Hessian matrix is positive semi
+definite (PSD) at each point in S; that is, for any win S, we have u'H(u)u>0
+for all we R”". Symmetrically, a function f is concave on S if f its Hessian
+
+matrix is negative semi definite (NSD) everywhere in S, i.e., for any we S,
+we have u'H(u)u<0 for all we R”.
+
+18.2.4 Quasi-Convex and Quasi-Concave Functions
+Generalizations of a Convex Function
+
+In this section, we will show various types of functions which are like convex
+and concave functions but that share only some of their desirable properties.
+We will learn that many of the results do not require the restrictive
+assumptions of convexity, but rather the less restrictive assumptions of quasi-
+
+convexity, quasi concave.
+
+Let f be given function defined on a convex subset S of a real vector space
+
+is quasi-convex if for any u,ve S and 0 €[0,1]
+
+S(Q:+ 1- Ov) s max{ fu), f)}
+Further more if
+S(Q:+ 1-0) < max{ fu), f()}
+For any wv and @€[0,l], then f is strictly quasi-convex.
+
+The function f is said to be quasi concave if —f is quasi-convex and a
+
+strictly quasi-concave functions a function whose negative is strictly quasi-
+convex. Equivalently a function f is quasi-concave if
+
+f(Qi+ —-O)= min {f(u), FO}
+
+and strictly quasi-concave if
+
+f(Qi+ —-O)> min {f(u), FO)
+Examples of Quasi-Convex Functions:
+
+© Jul is quasi - convex on R.
+
+e logw is quasi-convex on R,
+
+--- Page 03 ---
+
+A)  Differentiable Quasi-Convex and Quasi-Concave Functions Advanced Topics
+in Optimisation— I
+
+Suppose S be a nonempty open convex set in R”, and function f:S > R be
+
+differentiable on S. Then, f is quasi convex if f either one of the following
+
+equivalent statements holds:
+
+e If u,veS and f(u)< f(v), then Vf(v) (u-v) <0.
+e If u,veS and Vf(v)'(u-v)>0, then f(u) > f(r).
+To illustrate the above theorem, let f(u)=u’.
+
+To check quasi-convexity, suppose f(u,)< f(u,) >u; <u. This is true only
+if u, <u,.
+
+Now, consider Vf(u,)(u, —u,) =3(u, -u,)u5 . Since u, <u,, 3(u,—U,)uy <0
+
+Therefore, f(u,)< f(u,) > Vf(u,)\(u,—u,) <0 and hence by the above
+theorem, f is quasi-convex.
+
+Consider f(u,,u,)=u; +u;. Let u,=(2,-2)' and u,=(10)'. f(u)=0 and
+
+f(u,)=1, so that f(u,)< flu).
+
+But Vf(u,)'(u, —u,) =(3,0)(1,-2)' =3. By the necessary part of the theorem, f
+
+is not quasi convex. This shows that the sum of two quasi-convex functions is
+not necessarily quasi-convex.
+
+Propositions:
+
+e A function which is both quasi-convex and quasi-concave is called quasi-
+linear.
+
+e Every convex function is quasi-convex.
+
+e A concave function can be quasi-convex function. For example, log() is
+
+concave, and it is quasi-convex.
+
+e If f(u) and g(v) are positive convex decreasing functions, then, f(u)
+g(v) is quasi-convex.
+
+e Sum of two Quasi-convex functions is not necessarily a Quasi-convex.
+
+B) Strongly Quasi-Convex and Quasi-Concave Functions
+
+The concept of strong convexity extends the notion of strict convexity. Let S
+be a nonempty open convex set in R”, and let f:S > R. The function f is
+said to be strongly quasi convex if for each we have u,v eS, we have
+
+f(Q1+(1—9)v)< max{f(u), f(v)} for each 0 € (0,1), with u AV.
+
+The function f is said to be strongly quasi-concave if — f is strongly quasi-
+
+convex. From the definition of convex function, quasi-convex function and
+strictly quasi-convex function, the following statements hold:
+
+e Every strictly convex function is strongly quasi-convex.
+183
+
+--- Page 04 ---
+
+Extreme Values
+
+and Optimisation e Every strongly quasi-convex function is strictly quasi-convex.
+
+e Every strongly quasi-convex function is quasi-convex
+Check Your Progress 1
+
+1) Find out the convexity and concavity of the following functions over the
+set of real numbers that are non- negative
+
+a. f (wu) = 2u; —6u5 b. f(u) = —8u?
+
+2) Do you think the idea of quasi concavity is weaker than the idea of
+concavity?
+
+18.3 CONSTRAINED OPTIMISATION —
+NON-DEGENERATE CONSTRAINT
+QUALIFICATIONS (NDCQ)
+
+Optimisation of functions of multiple variables subjected to equality constraints
+using the method of constrained variation, the method of Lagrange multipliers.
+
+Minimize (or maximize) f(u)
+Subject to g,(u) <0 i=1,2,...,m ...(18.2)
+
+and hu)=0 7 =1,2,...,1
+
+where u = (1, U5 +s U,, y is a column vector of n real-valued design variables. In
+equation (18.2), f:R"—>R is the objective or cost function g,:R" >R are
+inequality constraints and h,:R" > R are equality constraints. A vector x € R”
+
+satisfying all the constraints is called a feasible solution to the problem. The
+
+collection of all such solutions forms the feasible region. The nonlinear
+programming problem, then, is to find a feasible point x' such that f(x) > f(x')
+
+for each feasible point x. Such a point x' is called an optimal solution. We
+define the feasible set (2 as
+
+Q={reR":h, =0,g,(x)< 0}
+
+184
+
+--- Page 05 ---
+
+The phrase ‘minimization problem’ refers to finding a local minimizer in the
+feasible set (2 .The nonlinear programming problems having more than two
+variables cannot be solved using graphical method. In such cases we have to use
+the method of Lagrange multipliers.
+
+The above analysis helps us in obtaining the following generalization of the n-
+dimensional minimization problem with equality constraints:
+
+max f(u,,...,U,,)
+u,ER
+
+Subject to, g)(u,,U,,...,U,) <by,..., (Uj, Uy y--5U,) SB,
+
+Th, (Uy Uy gooey Uy) = Cy greey Mg (Uj Uy yeep Uy) = Ce
+The function f(u) is called the objective function, g(u) is called an inequality
+constraint, and (uw) is called an equality constraint. In the above problem there
+
+are k inequality constraints and m equality constraints. In the following we
+will always assume that f, g and h are C’ functions, i.e. they are differentiable
+
+and their derivatives are continuous. Notice that this problem differs from the
+
+regular unconstrained optimisation problem in that instead of finding the
+maximum of f(u), we are finding the maximum of f(u) only over the points
+
+which satisfy the constraints.
+Example 18.1: Maximize f(u)=u’ subject to 0<w<1.
+
+Ans. We know that f(u) is strictly monotonically increasing over the domain,
+
+therefore the maximum (if it exists) must lie at the largest number in the
+domain. Since we are optimizing over a compact set, the point u=1 is the
+maximal number in the domain, and therefore it is the maximum.
+
+A. Case of One Constraint
+Consider a simple optimisation problem with only one constraint:
+
+max f(u,,...,U,,)
+
+u,eR
+Subject to
+A(u,,U5,....U,)=C.
+
+Now draw level sets of the function f(u,,u,,...,u,,). Since we may not be able
+to achieve the unconstrained maxima of the function due to our constraint, we
+seek the value of u which gets us onto the highest level curve of f(u) while
+remaining on the function A(w) . Notice also that the function h(u) will be just
+tangent to the level curve of f(u).
+
+Let us denote the point which maximizes the optimisation problem wu”, (also
+referred to as the maximizer). Since at wu’ the level curve of f(u) is tangent
+
+to the curve g(w), it must also be the case that the gradient of f(u') must be in
+the same direction as the gradient of h(u’), or
+
+Advanced Topics
+in Optimisation— I
+
+185
+
+--- Page 06 ---
+
+Extreme Values
+and Optimisation
+
+186
+
+Vflu’) = AVh(w’),
+where / is merely a constant.
+
+Now let us define the Lagrangian the following way:
+L(u, ,U,,..,U,,2) = Sf (Uys) ALAM) yo-5U, WC]
+
+Setting the partial derivatives of the above function with respect to uw equal to
+zero will yield the first order conditions for a constrained maximum:
+Vf(u )-AVA(u') =0.
+Setting the partial derivative with respect to 1 equal to zero gives us our
+original constraint back:
+
+h(u’)—c=0.
+So, the first order conditions for this problem are simply VL(u,2)=0
+
+B. Case of Several Constraints
+
+Consider the problem
+
+max f(u,,...,u,,)
+
+u,ER
+Subject to
+h,(u,,U>,.--,U,,) = Cy eg My, (Uy 505, ) = Cn
+
+Let us first talk about how the Lagrangian approach might fail. As we saw for
+one constraint, if Vh(u")=0 then the constraint drops out of the equation. Now
+
+consider the Jacobian matrix, or a vector of the gradients of the different
+
+hu).
+
+; dh(u’) dh(u’)
+Vi, ) du, du,
+Dh(u’) = ; = | '
+vigtu’)) | atate’) at)
+du, du,
+
+Notice that if any of the V/,(u')=0, then that constraint will not be considered
+
+in the analysis. Also, there will be a row of zeros in the Jacobian, and
+therefore the Jacobian will not be of full rank. The generalization of the
+condition that VA(u')#0 for the case when m=] is that the Jacobian matrix
+must be of rank m . Otherwise, one of the constraints is not being considered,
+and the analysis fails. We call this condition the non-degenerate constraint
+qualification (NDCQ).
+
+Note that we only must check whether the NDCQ holds at points in the
+constraint set, since points outside the constraint set are not solution
+
+--- Page 07 ---
+
+candidates anyway. If we test for NDCQ and find that the constraint is _Advanced Topics
+in Optimisation— I
+
+violated for some point within our constraint set, we must add this point to our
+candidate solution set. The Lagrangian technique simply does not give us any
+
+information about this point.
+
+The Lagrangian for the multi-constraint optimisation problem is
+L(t 5....U,,A)= f(u, yess, — A, [h, (uy .--5U,,) —¢, |
+i=l
+
+Therefore, the necessary conditions for a maximum are
+
+du, du,
+# = 0,.,=0.
+dA dA,
+Check Your Progress 2
+
+1) Does NDCQ hold for the following?
+Subject to 3u, +u, +u, =5
+u, +u, +u,; =1.
+
+2) Does NDCQ hold for the following?
+max 3 + unu,
+Subject to uy +uy =1.
+
+3) Solve the following:
+Max U\U,U,
+Subject to U, +U, +U, =c?
+GivenU, >0, U,>0 and U; 20.
+
+187
+
+--- Page 08 ---
+
+Extreme Values
+and Optimisation
+
+188
+
+18.4 OPTIMISATION WITH INEQUALITY
+CONSTRAINT(S) - BINDING AND NON-
+BINDING CONSTRAINTS
+
+A. Inequality Constraint Optimisation for One Constraint
+Consider the problem
+
+max S U,,.--5U,, )
+
+Subject to
+
+Q(Uj,Uy,...U,) Sb.
+
+In this case the solution is not constrained to the curve g(u), but merely
+bounded by it.
+
+In order to understand the new conditions, imagine the graph of the level sets
+which we talked about before. Instead of being constrained to the function
+g(u), the domain is now bounded by it. However, the boundary of the
+
+function is still the same as before. Notice that there is still a point where the
+boundary is tangent to some level set of g(u). The question now is whether
+
+the boundary is binding or not binding.
+
+Remember that we are trying to find candidate points for a global maximum.
+Restricting our original domain X to the set of points where g(u) <b gives
+us two types of candidate points: Points on the boundary g(u)=b where
+g(u) =b is tangent to the level curves of f(u), and local maxima of f(w) for
+which g(u)<b. The first type we can find by the constrained FOC
+Vf(u) =AVg(x) , and the second type we can find by the unconstrained FOC
+Vf (u) =0. Let us look at each of these one by one.
+
+Case 1: Candidates on the boundary (constraint binding)
+
+This is the case where an unconstrained maximum lies outside of the
+
+constraint set. In other words, the inequality constrains us from reaching a
+maximum of /. In this case, the gradient of f(u) is going to point in the
+
+steepest direction up the graph. The gradient of g(x) points to the set g(u)=b
+(since it points in the direction of increasing g(u) ). Therefore Vg(u) is
+pointing in the same direction as Vf(u) , which implies that 220. So
+
+necessary conditions for a solution on the boundary are
+Vf(u)-AVg(x)=0 and AZz0.
+Case 2: Candidates not on the boundary (constraint not binding)
+
+This is the case where an unconstrained maximum lies inside the constraint
+set. In other words, the inequality does not constrain us from reaching this
+
+--- Page 09 ---
+
+maximum of f. The first order condition is simply Vf(w) =0, which we can
+
+rewrite (to take the same shape as above) as
+Vf (u)—AVg(x)=0 and A=0.
+
+In summary, either the constraint is binding (tight), that is g(u)—b=0 and
+A=0, or the constraint is not-binding (slack), and then 2=0 . We can
+summarize this new set of conditions as what is called the “complementary
+
+slackness conditions’
+[g(u)-b]A=0
+This works because if the constraint is binding, then g(uw)—b=0, and if the
+
+constraint is not binding, then we want to ignore it by having 2=0. As we
+can see, it does not matter whether the constraint binds or does not bind, the
+Lagrangian multiplier must always be greater than or equal to 0. Therefore,
+
+another new set of conditions are
+A, >0,Vi.
+Finally, we have included our original inequality constraint g(u) <b.
+
+We can summarize all these FOCs in terms of the Lagrangian, which we
+define as before to be L(u, 2) = f(u)—A(g(u)—5):
+
+oL(u, A) _ Of (u) 4 Og(u)
+
+=0 forall i=1,...,n
+
+Ou, Ou; Ou,
+A “ea = A[ g(u)—b]=0 complementary slackness
+4 =[g(u)—b]<0 original constraint
+A=0
+
+B. Inequality Constraint Optimisation for Several Constraints
+Consider the problem:
+
+max f(t, 5.-:5U,)
+
+u,ER
+Subject to
+2 (Uy, Uy».--5U,,) SD yoes &; (tyes, )S DB,
+
+In order to understand the new NDCQ, we must realize that if a constraint
+does not bind, we do not care if it drops out of the equation. The point of the
+NDCQ was to ensure that binding constraints do not drop out. Therefore, the
+NDCQ with inequality constraints is the same as the equality constraints,
+except for the fact that we only care about the Jacobian matrix of the binding
+constraints, or the Jacobian for the constraints with 2,>0. (Notice that we
+
+cannot tell in advance which constraints will be binding, so we need to check
+
+Advanced Topics
+in Optimisation— I
+
+189
+
+--- Page 10 ---
+
+Extreme Values
+and Optimisation
+
+190
+
+all of them when we check the NDCQ before computing the solution
+candidates.)
+
+The following first order conditions will tell us the candidate points for a
+
+maximum
+du, du
+
+n
+
+[g, (uy su s--5M,)—B, JA, = 0,...5[8, (tt,..54, )-b, JA, = 0
+2 (Uj Uy ».--5U,,) SD yoes &; (types, )SD,
+
+A, > 0,44, 20
+
+18.5 COMPLEMENTARY SLACKNESS CONDITION
+AND KUHN-TUCKER FORMULATIONS
+
+In this section, we will discuss about the complementary slackness condition
+and Kuhn Tucker formulations.
+
+18.5.1 Complementary Slackness Condition
+
+Maximize c’ x
+
+Subject to Ax <b
+
+(where T stands for transpose and c, x and b are vectors and A is a matrix)
+or,
+
+Minimize by (where y is a vector)
+
+Subject to A’ y=cand y>0
+
+Theorem: Let X),V¥) be feasible solutions of primal and dual respectively.
+Then X, and Yo are optimal if and only if c’x, =b" yy.
+
+Proof: (=) Duality
+
+(<) Suppose c’x, =b’ yy
+
+(1) Both primal and dual are feasible. Hence both have optima.
+
+(2) c'x, <b’ y, for all feasible solutions of optimal (weak duality)
+
+Since c’x, =b' y,, Xo is the optimum of the primal.
+
+(3) Optimum cost of dual = optimum cost of primal.
+
+Again, as cx, =b'y,, Vo is the optimum of dual.
+
+Theorem (Complementary Slackness Condition)
+

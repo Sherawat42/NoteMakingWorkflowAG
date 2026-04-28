@@ -1,0 +1,63 @@
+Dynamic
+Optimisation
+
+78
+
+24.7 NEOCLASSICAL INVESTMENT THEORY
+
+Consider a production process with single output. Let the production function we
+assume that the production function has following properties
+
+i) F(k,0)=0Vk & F(0,L) = OVLso that both factors are essential.
+
+li) aa >Oand # > Oso more of either factor implies more output.
+al
+
+a7F(.)_ 07F(.) (Se
+
+iii x
+, ak? al? | GkaL
+We often also assume constant returns to scale so _ that
+F(Ak, AL) = AF(k,L)'VA > 0 Consider profit, R(t) is defined by
+
+RO = POF EK L)-wOLO-gOlo --- (24.26)
+
+}<0 so that the production function is concave.
+
+where
+
+F(kt,L_) =level of output
+
+p(t) = price of output
+
+w(t) = wage
+
+L(t) = labor
+
+q(t) = price of unit investment
+I(t) = Investment
+
+Assumption: firm takes the price (Pt,qt,Wt) which prevail at each ‘t’.
+Investment, don’t affect the prices Wt and qt for each time t.
+
+We define present value as the integral of discounted net profit with rate of
+discount is a constant without loss of generality
+
+w=fert R(t) dt ... (24.27)
+0
+
+Present value is maximized subject to constraints. First the rate of change of the
+flow of capital services is proportional to the flow of net investment. Net
+investment is equal to total investment less replacement, where replacement is
+proportional to capital stock
+
+dk
+ae 7 8K(t) .. (24.28)
+
+We can say investment is rate of change in capital plus depreciation.
+where at is the time rate change of flow of capital services at time t. we will use
+
+k in place of k(t), I in place of I(t) and so on.
+
+Therefore we can write Hamiltonian (please refer to the discounted problem in
+unit 23)

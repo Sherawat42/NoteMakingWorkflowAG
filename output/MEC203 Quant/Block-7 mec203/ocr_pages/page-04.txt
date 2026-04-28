@@ -1,0 +1,40 @@
+COURSE PREPARATION TEAM
+
+Unit Block/Unit Title Unit Writer
+BLOCK 1 | REVIEW OF BASIC MATHEMATICS
+Unit 1 Fundamental Concepts of
+Mathematics Dr. Meenakshi Sridhar, Associate Professor,
+Unit 2 Overview of Basic Methods of Department of Computer Sciences, .
+Mathematics Rajdhani College, University of Delhi,
+: . Delhi
+Unit 3 Relations and Functions
+Unit 4 Co-ordinate Geometry and Prof. Gopinath Pradhan
+Representation of Functions
+BLOCK 2 | LINEAR ALGEBRA
+Unit 5 Matrix Algebra
+Unit 6 Vector Analysis Sunando Basu
+Unit 7 Vectors and Matrices
+Unit 8 Vector and Matrix Representations of | Dr. Meenakshi Sridhar, Associate Professor,
+Linear Equations Department of Computer Sciences, Rajdhani
+College, University of Delhi, Delhi
+BLOCK 3 | CALCULUS
+Unit 9 Limit and Continuity
+Unit 10 Differential Calculus: Functions of
+One Variable Sunando Basu & Prof. Gopinath Pradhan
+Unit 11 Differential Calculus: Functions of
+Several Variables
+Unit 12 Integration: Introduction and Prof. Gopinath Pradhan
+Techniques
+BLOCK 4 | REAL ANALYSIS
+Unit 13 Real Analysis Dr. Meenakshi Sridhar, Associate Professor,
+Unit 14 Calculus of Several Variables Department of Computer Sciences,
+Unit 15 Basic Concepts of Metric Space and Rajdhani College, University of Delhi,
+Point Set Topology Delhi
+BLOCK 5 | EXTREME VALUES AND OPTIMISATION
+Unit 16 Optimisation: An Introduction Sunando Basu
+Unit 17 Unconstrained and Constrained Rittwik Chatterjee
+Optimisation
+Unit 18 Advanced Topics in Optimisation—I | Dr. Ram Prasad Yadav, Assistant Professor,
+Unit 19 Advanced Topics in Optimisation — II Department of Mathematics, SRM
+University, Sonepat, Haryana
+

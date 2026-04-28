@@ -1,0 +1,55 @@
+We can apply the same idea for the value function for any time 0S t < T to get
+equation Vy_.(x,) = max {f (x,.u,)+ BV ras (x,)} which holds for feasible
+
+solutions, i.e., verifying
+Xtl=g(x,U,)andgivenXo, el (22.34)
+
+Intuition: we transform the maximization of a functional into a recursive two
+period problem. We solve the control problem by solving the HJB equation. To
+do this we need to find the sequence {Vr Vo} through the recursion
+
+Vrii(x) = max {f (x,U) + B V.(g(x,U))} weee(22.35)
+
+Infinite Horizon: For infinite horizon discounted optimal control problem the
+limit function V = limj_.. V; is independent of j so HJB equation becomes
+
+V (x) = max {f@u) +B V(g@eu)) = max Cr) (22.36)
+
+Properties of the value function. It is usually difficult to get the properties of
+V(). In general continuity is assured but not differentiability (this is a subject for
+advanced course on DP), see stokes and Lucas (1989).
+
+If some regularity conditions hold, we may determine the optimal control
+through the optimality condition
+
+aH(x%U)
+
+nn (22.37)
+
+IfH(.) is Ce (twice continuously differentiable) then we get the policy function
+U*= h(x)
+
+which gives an optimal role for changing the optimal control, given the state of
+the economy. If we can determine (or prove that there exists such a relationship)
+then we say that our problem is recursive. In this case the HJB equation
+becomes non-linear functional equation
+
+V(x)=f(% AOD) F+BVIG A) ees (22.38)
+
+Solution to HJB is by numerical method (most cases) by value function
+iteration.
+
+22.10.3 The Cake Eating Problem
+Example: The cake eating problem (Refer to the section 22.2.2)
+We restate the problem as max);}_, In(Ct)
+Subject to Wini= W: -C; and Wo> 0
+The steps we follow for solving the problems are as follows:
+1) Set up Bellman equation
+
+2) Take a guess for what v(W,) is and use that in our Bellman equation (use
+that for V(x+1) in our Bellman equation, just change the time subscript).
+
+Intertemporal
+Optimisation-I
+
+29

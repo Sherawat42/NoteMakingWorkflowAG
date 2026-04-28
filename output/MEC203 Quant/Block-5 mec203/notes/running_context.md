@@ -1,0 +1,107 @@
+# Running Context
+
+## Key Concepts Introduced
+- **Stationary point** (Chunk 001): a point where `f'(x) = 0` (univariate) or all first partials vanish (multivariate).
+- **Local vs Global Extremum** (Chunk 001): local = max/min in a neighbourhood; global = max/min on entire domain.
+- **Point of inflexion** (Chunk 001): point where curvature changes; `f''=0`, `f'''≠0`.
+- **Taylor series criterion** (Chunk 001): nth-derivative test — even n with sign decides extremum; odd n means inflexion.
+- **Hessian matrix** (Chunk 002): symmetric matrix of second partials.
+- **Saddle point** (Chunk 002): max in one direction, min in another; Hessian indefinite.
+- **Young's theorem** (Chunk 002): `f_xy = f_yx` for C² functions.
+- **Principal minors test** (Chunks 002, 003): all positive ⟹ minimum; alternating starting negative ⟹ maximum.
+- **Unconstrained optimisation** (Chunk 003): no constraints on the domain.
+- **Choice/decision/policy variables** (Chunk 003): the variables we control.
+- **Constrained optimisation** (Chunk 003-004): max/min subject to equality or inequality constraints.
+- **No-arbitrage principle** (Chunk 004): MU per rupee equal across goods at optimum.
+- **Lagrange multiplier** (Chunk 004): shadow price; `λ = dV/dc` (rate of change of optimum w.r.t. constraint constant).
+- **Constraint qualification (CQ/NDCQ)** (Chunks 004, 006): Jacobian of constraint gradients full rank.
+- **Bordered Hessian** (Chunk 004): SOC test on tangent space of constraints.
+- **Binding/slack constraints** (Chunk 004): `g(x*)=0` vs `g(x*)>0`.
+- **Complementary slackness** (Chunks 004, 006): `λᵢ · gᵢ(x*) = 0` for each `i`.
+- **Kuhn-Tucker conditions** (Chunk 004): stationarity + slackness + non-negativity of multipliers.
+- **Convex/concave function** (Chunk 005): chord above (convex) or below (concave) graph.
+- **Strictly convex/concave** (Chunk 005): strict inequality version.
+- **Affine function** (Chunk 005): both convex and concave.
+- **Quasi-convex/concave** (Chunk 006): mixing inequality with max/min instead of weighted sum.
+- **Strongly quasi-convex** (Chunk 006): strict inequality without `u ≠ v` clause.
+- **Quasi-linear function** (Chunk 006): both quasi-convex and quasi-concave.
+- **Feasible set Ω** (Chunk 006): set of all points satisfying constraints.
+- **Active/inactive constraints** (Chunk 008): another name for binding/slack.
+- **Envelope theorem** (Chunk 008): `dV/da = ∂L/∂a` at optimum.
+- **Value function `V(a)`** (Chunk 008): optimal objective as function of parameters.
+- **Homogeneous function of degree k** (Chunk 008): `f(tu) = t^k f(u)`.
+- **Returns to scale** (Chunk 008): k=1 CRS, k>1 IRS, 0<k<1 DRS.
+- **Cobb-Douglas function** (Chunk 008): `A x₁^α₁ ... xₙ^αₙ`, homogeneous of degree `Σ αᵢ`.
+- **CES function** (Chunk 008): `(a₁x₁^ρ + a₂x₂^ρ)^(q/ρ)`, homogeneous of degree q.
+- **Demand homogeneity of degree 0** (Chunk 008): `D(tp, tI) = D(p, I)` — money illusion-free.
+- **Homothetic function** (Chunk 009): monotonic transformation of homogeneous.
+- **Ordinal property** (Chunk 009): depends only on level-set shape.
+- **Cardinal property** (Chunk 009): depends on level-set shape AND function values.
+- **Upper/lower level set** (Chunk 009): `U(f, α) = {u : f(u) ≥ α}`.
+- **Bordered Hessian for quasi-concavity** (Chunk 009): `(-1)^b D_b > 0` sufficient.
+- **Euler's theorem** (Chunk 009): `u · ∇f = k f` for homogeneous f of degree k.
+
+## Definitions (⭐ exam-important)
+- **Stationary point** (Chunk 001): `f'(x) = 0`.
+- **Extremum** (Chunk 001): max or min, no optimality connotation.
+- **Point of inflexion** (Chunk 001): `f''(x) = 0` and `f'''(x) ≠ 0`.
+- **Hessian determinant** (Chunk 002): determinant of matrix of second partials.
+- **Saddle point** (Chunk 002): stationary, mixed-sign Hessian eigenvalues.
+- **Young's theorem** (Chunk 002): `f_ij = f_ji` for C² functions.
+- **Principal minor** (Chunk 002): determinant of leading `i×i` submatrix.
+- **Unconstrained optimisation** (Chunk 003): max/min with no constraints.
+- **Choice variables** (Chunk 003): independent variables we control.
+- **Lagrangian function** (Chunk 004): `L = f + λ(c - g)`.
+- **Lagrange multiplier λ\*** (Chunk 004): shadow price of constraint.
+- **Constraint qualification (CQ)** (Chunk 004): constraint gradients linearly independent.
+- **Theorem of Lagrange** (Chunk 004): necessary FOC for equality-constrained extremum.
+- **Bordered Hessian** (Chunk 004): SOC matrix for constrained optimisation.
+- **Binding/slack constraint** (Chunk 004): `g(x*) = 0` vs `> 0`.
+- **Complementary slackness (CS)** (Chunks 004, 006): `λᵢ gᵢ = 0`.
+- **Kuhn-Tucker conditions** (Chunk 004): full set of FOCs for inequality-constrained optimisation.
+- **Convex function** (Chunk 005): `f(θu+(1-θ)v) ≤ θf(u)+(1-θ)f(v)`.
+- **Concave function** (Chunk 005): reverse inequality.
+- **Strictly convex/concave** (Chunk 005): strict inequality versions.
+- **Quasi-convex** (Chunk 006): `f(θu+(1-θ)v) ≤ max{f(u), f(v)}`.
+- **Quasi-concave** (Chunk 006): `f(θu+(1-θ)v) ≥ min{f(u), f(v)}`.
+- **PSD/NSD** (Chunk 006): positive/negative semidefinite (`x'Hx ≥ 0` or `≤ 0`).
+- **NDCQ** (Chunk 006): non-degenerate constraint qualification.
+- **Feasible solution / region** (Chunk 006): point/set satisfying constraints.
+- **Mixed-constraint Lagrangian** (Chunk 007): `L = f - Σ λⱼ[gⱼ - bⱼ] - Σ νᵢ[hᵢ - cᵢ]`.
+- **Active set** (Chunk 007): indices of binding constraints.
+- **Value function V(a)** (Chunk 008): optimal objective given parameters.
+- **Envelope theorem** (Chunk 008): `dV/da = ∂L/∂a` at optimum.
+- **Homogeneous of degree k** (Chunk 008): `f(tu) = t^k f(u)`.
+- **Homothetic function** (Chunk 009): monotonic transform of homogeneous.
+- **Ordinal property** (Chunk 009): depends only on level-set shape.
+- **Cardinal property** (Chunk 009): depends on shape AND values.
+- **Upper level set U(f, α)** (Chunk 009): `{u : f(u) ≥ α}`.
+- **Bordered Hessian (b-th order)** (Chunk 009): adds gradient as border.
+- **Euler's theorem** (Chunk 009): `u · ∇f = k f` for homogeneous f.
+
+## Named Models / Laws / Theories
+- **Theorem of Lagrange** (Chunk 004): necessary FOC for equality-constrained max/min.
+- **Theorem of Second Order Optimum** (Chunk 004): bordered-Hessian definiteness on tangent space.
+- **Kuhn-Tucker (KT) Theorem** (Chunk 004): necessary FOC with inequality constraints.
+- **Local–Global Concavity Theorem** (Chunk 004): concave + convex domain ⟹ local max = global max.
+- **Hessian Convexity Theorem** (Chunk 006): PSD ⟺ convex; NSD ⟺ concave.
+- **Complementary Slackness Theorem (LP)** (Chunk 006): primal-dual cost equality ⟺ slackness pattern.
+- **Mixed-Constraint Theorem** (Chunk 007): combines Lagrange and KT with full-rank Jacobian on active set.
+- **Envelope Theorem** (Chunk 008): both unconstrained and constrained versions.
+- **Theorem A** (Chunk 008): partial derivatives of degree-k homogeneous fn are degree k-1.
+- **Theorem B** (Chunk 008): homogeneous level sets are radial expansions.
+- **Theorem C** (Chunk 008): homogeneous fn reconstructible from `z=1` restriction.
+- **Theorem D-F** (Chunk 009): homothetic level set, MRS, ordinal-equivalence properties.
+- **Theorem G-I** (Chunk 009): tangent inequality, monotone derivative, multivariable concavity.
+- **Theorem J-L** (Chunk 009): quasi-concave equivalence forms.
+- **Euler's theorem** (Chunk 009): `Σ uᵢ fᵢ = k f`.
+
+## Key Data & Numbers
+- **94 pages**, **10 chunks**, **4 units (16-19)** in Block 5.
+- **Example 17.5**: optimal `(q₁*, q₂*) = (17/15, 7/15)`, π* ≈ 5.51.
+- **Example 17.6**: optimal `(q₁*, q₂*) = (8, 23/3)`, π* ≈ 488.3.
+- **CYP 1.1 (Ch 010)**: `u₁ = u₂ = 50`, `u₃* = 2500`.
+- **CYP 1.2 (Ch 010)**: `u₁ = 36, u₂ = 20, λ* = 348`.
+- **Q3 (Ch 010)**: minimisation `u₁* = 1/3, u₂* = 2/3, λ* = 4/3, f* = 2/3`.
+- **Envelope estimate Ex CYP 2.2 (Ch 010)**: `f(1.01) ≈ 9.955` (exact: 9.9553).
+- **KT box-constraint Q1 (Ch 007)**: `u₁* ≈ 1.250`, `u₂* ≈ 1.562`, `λ₁ = λ₂ ≈ 0.243`.

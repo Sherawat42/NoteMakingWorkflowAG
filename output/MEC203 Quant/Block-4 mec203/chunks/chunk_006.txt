@@ -1,0 +1,559 @@
+--- Page 51 ---
+
+Real Analysis
+
+50
+
+Let (II) be true for all n <k, and consider for n=k+1
+
+Fuat= Fut Fri> k +(k 1) >k+6 > k+1, for all k >7
+
+To show F, is not bounded above, consider positive M, as large as we like. Then
+Fu >M. Hence the sequence is not bounded above.
+
+Q5. Show that the sum of first n terms of Fibonacci sequence )17_, Fi = Fyi2- 1,
+For all n.
+
+Ans.
+
+Proof: We prove the claim by induction on n.
+
+Base case: For n=1, YL, Fi=F,=0. Also, Fii2— 1= F3~ 1=1- 1 =0
+Induction Hypothesis: Let the claim be true for
+
+n=kive, DEFi =Feo-l we. (i)
+
+Induction Step: Consider ye Fn= an Fk + Fut = (Fez — 1) + Fri (by using
+(i) above)
+
+Fy + Fr- 1 = Fia3— 1.
+Hence the proof.
+Q6. Show that every finite set {a), a2, ..., an} is bounded.
+Ans.
+
+Let m= min. {aj, a, ..., an}, and M =max. {a1, ao, ..., an}. Then m < a; < M, for
+alli.
+
+Q7. Show that union of closed intervals is a closed set.
+
+Ans. We prove the result for union of two closed intervals. The same proof
+procedure can be applied to union of finite number of closed intervals. Let A=
+[a1, bi] U [az bz]. Assuming b; < az, Then consider R— A = (—00, + 0) — (faz, bi]
+Ufaz, b2]) = (-%, ay) UC b), a2) U ( b2, + © ), where each set on R.H.S. is an open
+interval. Hence, R — A is an open set, and A is a closed set.
+
+Q8. Show that an open interval is not a closed set
+
+Ans. For the open interval (a, b), its complement R — (a, b) = (-c, a] U [b, + ~)
+is union of semi-open intervals, and hence is not open.
+
+Q9. Show that a semi-closed interval is not a closed set.
+
+Ans. For a semi-closed interval (a, b], its complement R — (a, b] — (—%, a] U (b,
++o). But (—c0, a] is not an open set. Hence, semi-closed interval (a, b] is not
+closed.
+
+--- Page 52 ---
+
+UNIT 14 CALCULUS OF SEVERAL VARIABLES
+
+Structure
+14.0 Objectives
+14.1 Introduction
+14.2 Concept of ‘Limit’
+14.3, Computing Limit for Functions of Two or More Variables
+14.4 Overview of Partial Derivatives & Higher Order Partial Derivatives
+14.4.1 Partial Derivatives of Function with Explicit Representation
+14.4.2 Partial Derivatives of a Function with Implicit Representation
+14.4.3. Chain Rule & Partial Derivatives when Function is Composite
+14.4.3.1 Chain Rule for Single Independent Variable
+14.4.3.2 Chain Rule for Partial Derivatives
+14.4.4 Higher Order Partial Derivatives
+14.4.5 Interpretation of Partial Derivatives
+14.4.6 Differential/ Total-Differential
+14.5 Directional Derivatives
+14.6 Explicit Function from R" to R™ Jacobian Matrix, Hessians
+14.7 Mean Value Theorem
+14.7.1 Mean Value Theorem for Single Variable
+14.7.2. Mean Value Theorem for Several Variables
+
+14.8 Polynomial Approximation: Taylor’s Theorem, Linear/Quadratic
+Approximation
+
+14.8.1 Taylor’s Approach to Polynomial Approximation
+14.8.2 Taylor’s Theorem
+
+14.8.3 Taylor’s Series/ Expansion
+
+14.8.4 Maclaurin’s Series
+
+14.8.5 Linear/Quadratic Approximation
+
+14.9 Multivariate Polynomial Approximation: Taylor’s Theorem, Linear
+Approximation
+
+14.9.1 Linear Approximation in Terms of Taylor’s Polynomials
+14.9.2 Quadratic Approximation in Terms of Taylor’s Polynomials
+
+14.9.3 Approximation of Functions of Several Variables by k" Order
+Polynomial
+
+14.9.3.1 Taylor’s Series Expansion
+14.10 Let Us Sum Up
+14.11 Key Words
+14.12 Answer or Hints to Check Your Progress
+
+14.13 Exercises and Answers 51
+
+--- Page 53 ---
+
+Real Analysis
+
+52
+
+14.0 OBJECTIVES
+
+After going through this unit, you will be able to
+
+e Explain & define the concept of /imit, and compute it for functions of two or
+more variables;
+
+e Explain & define the concept of partial derivative;
+
+e Compute partial derivatives for function of two or more variables, when
+function is given explicitly, implicitly, or as functional composition;
+
+e Define & compute directional derivatives;
+e Explain & define the concept of function from R” to R™;
+e Explain the terms Jacobian Matrix, Hessians, & compute these;
+
+e State Mean Value Theorem, explain its significance, and use it in solving
+problems involving one, two or more variables;
+
+e Explain Taylor’s approach to evaluation of functions through polynomial
+approximation;
+
+e State Taylor’s theorem, explain its significance, & use it in polynomial
+approximation; and
+
+e Explain and derive Taylor’s series for functions having derivatives of all
+orders.
+
+14.1. INTRODUCTION
+
+The topic of ‘Calculus of Several Variables’ is also known, alternatively, as
+‘Multivariable calculus’ or ‘Multivariate calculus.’ It is an extension of the
+calculus of one variable—discussed in the previous block—to calculus with
+functions of several variables. There is possibility of some overlap of the
+contents of this unit with those of Unit 10 &Unit 11 of the previous block. Also,
+in view of the fact that Real Analysis and Calculus are two different, but
+inseparable, facets of the same part of mathematics, viz. continuous Mathematics,
+which is concerned with limiting processes and which involves concepts like
+limit, continuity, convergence, differentiability etc., again, there is possibility of
+overlap with Unit 13—which deals with Real Analysis of several variables—of
+this block. Care has been taken to reduce the overlap, in both the cases, to the
+bare minimum.
+
+We know that the concept of ‘limit’ underlies all other basic concepts—of
+continuous Mathematics—including continuity, convergence, differentiation &
+differentiability, integration and integrability etc. Just to confirm the preceding
+statement, please go, once again, through Block3: Calculus, and Unit13: Real
+Analysis of this block. You would not find a single basic concept which does not
+involve limit in its definition. However, almost whole (except a small final part of
+Unit 13) of the discussion is only in respect of functions of single variable.
+
+Extension of the concept of limit—and hence, of each of the other concepts like
+differentiability and integrability—from functions of one variable to functions of
+
+--- Page 54 ---
+
+two variables, is surprisingly, much more complicated than the extension of
+these concepts from functions of two variables to any arbitrary finite number
+(say 100) of variables. In view of the facts of the foundational role of limit in
+continuous Mathematics & the complexity involved in extending it, we first
+
+discuss ‘limit’ in the next section.
+
+14.2, THE CONCEPT OF ‘LIMIT’
+
+Let us recall the following two examples about the limit of real-valued real
+
+functions:
+
+Case (i): lim, _,9(1/x°), exists and equals +c.
+However,
+
+Case (ii): lim,__,9(1/ x), does not exist,
+
+As the right-hand limit lmx
+
+lim x__,) (1/x) =-©0 do not agree.
+
+(1/x)=+00 and the /efi-hand limit
+
+— 0+
+
+We summarize the reason for the existence of limit in case (i) above, and non-
+existence of limit in case (ii), from the broader perspective of generalisation to
+
+functions of two or more variables.
+
+For this purpose, first of all, we briefly explain why, at all, the concept of limit is
+defined and used: The concept is used in view of the fact that a function may
+NOT be defined at some point, e. g. the function
+
+fo R- {5} DR with fs) = 0? - 25) /(e- 5) oe a (a)
+is not defined at x =5, because the denominator (x - 5) becomes 0 at x =5.
+However, f(x) = (x° - 25) / (x - 5) = (x+5) forx #0... ... (al)
+
+The idea of limit is to assign SOME value to the functions like the function f
+under (a) above, at the point(s), e. g. x=5, in our case, where it is not defined.
+But we do not do the assignment of intended value arbitrarily. The idea of
+‘limit’ is to assign a value, which is consistent with the values at ALL of its
+
+neighbouring points:
+
+For example, in the case of (a) above, under the idea of limit, we attempt to
+assign a possible value to f(x) at x=5, so that the intended-to-be-assigned value
+
+i) differs by a small amount from the (actual) values, at neighbouring points
+
+(5 + ) and (5 - €),at which using (al) above, we get the values
+
+f(5+8)=(5+e+5)=10+8,
+
+and
+f(5 -s)=10-¢,
+
+where € >0 is taken as very small number: as small as we like, but positive.
+
+Calculus of Several
+Variables
+
+53
+
+--- Page 55 ---
+
+Real Analysis
+
+54
+
+(e >0, generally taken as a very small number, is used for defining a
+neighbor at a distance &)
+
+ii) the actual values differ from each other by a small amount, and
+
+ili) as we get closer to 5 (in our case, by taking smaller and smaller values of &),
+the actual values also become still closer to each other and also to the
+intended value.
+
+The attempt may succeed, or may not succeed as discussed below for case (i) and
+case (ii), with which we started our discussion:
+
+In Case-i: lim,_,9(1/ x’), the neighbours of 0 are (0+ €) =(e), and (0-s) = (-s),
+where ¢ >0 is initially taken small, and gradually made still smaller. In the
+process, the values [1/ (+ ¢)°] and [1/ (-e)"] of (1/x’) become larger, and both
+
+positive in sign.
+
+For example, for ¢ = 1/1000(=10°), both values become 1000000 (=10°). Next,
+we take still closer neighbours of x=0 by taking, for example, ¢ = 1/100000 =
+1/(10)°, then both values become10000000000 = (10)'°, which is still bigger a
+number. Thus, as the independent variable x approaches 0, from two different
+directions, from positive side, and from negative side of 0, the corresponding
+
+values are equal and become larger and larger moving toward ©.
+
+Thus, the intended valuetoo satisfies all the three conditions (i), (ii) and (iii)
+
+above. Hence, the limit exists and equals to +c.
+
+In Case-ii: lim,__,9(1/ x), again the neighbours of x= 0 are (0+ ¢) and (0-8),
+where ¢ >0 is initially taken small, and gradually made still smaller. In the
+process, values [1/ (+ €)] and [1/ (-e)] become largerin magnitude, but opposite
+in sign. For example, ¢ = 1/1000(=10°), the values become respectively + (10°)
+and - (10°). The two values are far apart.
+
+Next, we take still closer neighbours of x =0, by taking for example, ¢ =
+1/100000 (= 1/(10)°), then values become respectively + 100000 and - 100000,
+which are still farther apart.
+
+Thus, as we approach 0, from two different directions, from the positive side,
+and from the negative side of 0, the corresponding values are drifting farther
+and farther apatt.
+
+Values at neighbouring points from different directions drastically differ.
+Hence, lim,__9(1/ x) does not exist.
+
+But most of the above has already been discussed in one form or another in Block
+
+3: Calculus, specially, in Unit 9: Functions, Limit and Continuity.
+
+So, from the perspective of the extension of the concept of ‘limit of functions of
+
+one variable’ to ‘limit of functions of two or more variables’, what is new?
+
+--- Page 56 ---
+
+For this purpose,
+
+i) let us recall ‘The idea of limit is to assign SOME value to the function— at a
+given point where it is not defined—but not arbitrarily. The idea of ‘limit’ is to
+assign a value, which is consistent with the values at ALL of its neighbouring
+points’, and
+
+ii) note the phrase ‘at ALL’ in the phrase ‘consistent with the values at ALL of its
+neighbouring points’, and
+
+iii) for finding ALL possible neighbours of a point, let us visually examine
+
+a) the real line, representative of R, the domain of functions of single
+variables, and
+
+b) two-dimensional plane, representative of R’, the domain of functions of
+two variables,
+
+as follows
+
+i) ON REAL LINE:
+
+(a-sa (a+ 8)
+
+The neighbours of point a might approach the point a from only two directions:
+(i)from LHS (i.e. (a - ) > a) and (ii)from RHS (i.e. (a + &) Pa a), for é >0.
+
+But
+
+ii) In two-dimensional plane: The point (a, b) may be approached, by its
+neighbours from infinitely many directions, as shown below:
+
+(Source: Paul Dawkins)
+
+Thus, the problem of existence of limit at a point (a, b) depends on conciliation
+of values at neighbouring points on paths along infinitely many directions.
+
+The above explanation gives a glimpse in the difficulty & and possible
+impediments and pitfalls in the process of extending the concept of limit of
+functions of one variable to limit of functions of two variables.
+
+This also gives an idea of the difficulties which may be encountered in extending
+the other basic concepts—from one-variable functions to two-variable
+
+Calculus of Several
+Variables
+
+55
+
+--- Page 57 ---
+
+Real Analysis
+
+56
+
+functions—of calculus, because each is defined in terms of limit, viz. the
+derivative at a point, say, x = a, if it exists, is given by
+
+S'COx-a = limp_sol[f(a + h) - f(a)]/h.
+Thus, derivative, at basic level, is a limit of some function.
+
+In view of the above explanation, in the process of extending the concept of limit
+from functions of one variable to functions of two variables, we not only have the
+concepts of various partial & higher order derivatives, but also directional
+derivatives etc.
+
+Remarks: Extension of the concepts of limit, differentiability etc. of functions of
+two variables to n variables—where n >2, may be any integer, say even 50 or
+100—is almost straight forward. This is in view of the fact that any point (a1, a2,
+.. A), in the case of n variables, may be approached by its neighbours through
+possibly infinitely many directions, as is the case of functions of two variables.
+
+14.3 COMPUTING LIMIT FOR FUNCTIONS OF
+TWO OR MORE VARIABLES
+
+The derivatives and partial derivatives of a function of two or more variables, at
+any point in its domain of definition, are ultimately limits of some related
+function.
+
+For example, from Unit 11, we know that for the function U = f(x1,x2), of two
+independent variables x;, and x2, the partial derivative of U with respect to x,
+
+denoted by as pa or simply fiis defined as
+Ox, Ox,
+
+' Ay, 20 Ax, Ax, 30 Ax 1
+
+1
+and, similarly, with respect to x2, partial derivative fois defined as
+
+fim AU_ lim f(x}, x, +Ax,)— $75)
+“Ax, > 0Ax, Ax, 30 Ax. ,
+
+2
+
+We may note that each of limgy,40 f and lima, 49 f is actually limit of only one
+
+variable, as the other variable is kept constant.
+
+However specially, in view of the discussion in the previous section, the task of
+computing limit—of, say, function U = f(x,,x2)of two variables at a point
+(a, b) of domain of its definition—is quite a different, and probably quite
+daunting, task as, for the limit of a function of two variables to exist, the values
+at neighbouring points of (a, b) from potentially infinite directions must
+reconcile.
+
+Also, except in these definitions, we did not discuss the topic of how to calculate
+limit of a function of two or more variables. Again, in view of the significance of
+this type of limit as fundamental concept, we need to discuss the topic in some
+
+--- Page 58 ---
+
+detail. Before we enter into final details, let us know that either of the following
+notations is used to denote limit of a function f(x, y) at point (a, b) of its
+domain of definition:
+
+limx3a fy) or lim(.y) > (ab) f(*%Y)
+y
+
+Generally, the latter one is preferred.
+
+In this section, through some examples, we explain the process of finding limits
+of such functions.
+
+Again, in view of the above discussion, the task seems to be challenging.
+However, the task is facilitated by the following relevant facts
+
+i) Fora function—whether of one variable or two variables—to be continuous
+at a point, by definition, the VALUE at the point should equal the LIMIT at
+the point. Thus, for a function f(x, y) of two variables, to be continuous at
+point (a, b), we need to have
+
+limy.y) >(ab) f(% ¥) =f (a, b)
+
+ii) Graphically, a function—of one variable (or, of two variables)—is
+continuous at a point x=a (or, at (x, y) = (a, b)), if it does not have a hole in
+the neighbourhood of the point, on the curve (or, in the surface).
+
+iii) Jf any function of two variables—whether it is a polynomial, trigonometric
+function, exponential or logarithmic function, or any combination of these —
+is continuous when it is made a function of one variable by taking x =y, or
+by treating one of the variables as a constant, then it is also continuous as a
+function of two variables.
+
+And, in the case of continuous function, the required LIMIT at a point
+
+equals the VALUE at that point. Hence, for finding the required limit, we
+
+just calculate its value.
+Example 14.1 Calculate
+limgyy > 4.3) Sin((/2) x) +3 y+ 7,
+
+First, we note that the functionsin((a/2) x) + 3 y’+ 7 is continuous
+everywhere, and hence, at (1, 3) also. Therefore, for calculating the limit,
+we will not try to approach its value from potentially infinite directions, but
+Just find its value at (1, 3), and take this value as the value of the required
+limit. Thus,
+
+limey) > (4,3) Sin(tt/2) x) + 3 y°+ 7 = sin(/2) + 303) +7 = 1 +27 47
+=35.
+
+iv) While using (iii) above, only we have to be careful about possible
+problematic conditions: (i) divisions by zero, (ii) square-rooting negative
+numbers, and (iii) taking logarithms of zero, or of negative numbers.
+
+Calculus of Several
+Variables
+
+57
+
+--- Page 59 ---
+
+Real Analysis
+
+58
+
+v) The possible problematic conditions of (iv) above, may be only apparently
+present, and may be removed. Then again, the limit may exist and be
+calculated.
+
+Example 14.2 Suppose we intend to discuss the following limit
+lim y) 2,1 ("= 2xyt y’)/ (X-y’),
+
+The function is not continuous at point (1, 1), as at this point, the denominator
+becomes zero.
+
+However, except for the line x =y, at which the point (1, 1) lies, and at which the
+limit is intended to be calculated, the function (x7— 2xyty)/ (- y) equals the
+function(x— y)/ (x+ y). And, we know, in calculating the limit at a point (here
+(x, y) = C, 1)), the value at the point is NOT taken into consideration. Therefore,
+for the purpose of limit
+
+lime. y) 0, (= 2xyty’V (= y’)] =lime.y) 4,1 @—y/ (et y)] =0/2 =0.
+
+The limit has been calculated by removing the problematic condition, i. e.
+division by zero, at the point/line where limit is to be computed.
+
+vi) If, the problematic condition cannot be removed, then there
+is chance that the limit does not exist.
+
+Now, whether the problematic condition cannot be removed, or for any other
+reasons, if the limit of a function of two variables does not exist at a point say
+(a, b), then we need not consider values at neighbouring points along all the
+infinite directions, but along only those two directions which propose different
+values for the intended limit.
+
+Example 14.3
+Determine if the following limit exists or not. If it exists, give the value of the
+limit.
+
+lim(, ») 0,0) X¥/ (3x"+ y’)
+Solution: Clearly the function is not continuous at the point (0, 0), as the
+denominator of the function is zero at (0, 0). Also, there is no common factor in
+
+numerator and denominator to cancel out. Hence, there is chance that the limit
+does not exist.
+
+In such cases, we attempt to approach the point along two different curves long
+which possibility of disagreement in values of limits at (0, 0), in our case, is
+more. Generally, first we explore x=0, y=0, and x=y etc.
+
+We approach (0, y) > (0, 0), we get
+
+lim(o,y) (0,0) X¥/ (3x"+ y°) = lime,y)(0,0) 9. ¥/ (0+ y*) = lime,y)0,0) 0/ y" =0
+... (14.1)
+
+--- Page 60 ---
+
+Similarly, Calculus of Several
+Variables
+
+lim (x,9)-3(0,0) X- 0/ (3x"+ 0°) = limey,9)-+(0,0) 0/ (3x7) = 0... (14.2)
+
+However, this agreement in values of limits along two different paths does not
+necessarily imply existence of limit of the given function at the point. Because,
+there may be other paths along which disagreement in values of limits may lead
+to the conclusion of non-existence of limit. There is need for further exploration.
+
+Another popular path for exploration in such cases is x=y. Let us explore it.
+
+lime. y)-+(0,0) X¥/ (3x"+ y") =
+
+lim¢,y)-(0,0) X-X/ (3X°+ x”) = lime y)-+(0,0) 1/4 = 1/4. ... (14.3)
+
+As (i) and (iii) do not agree, the required limit does not exist.
+
+Check Your Progress 1
+
+1) Determine if the following limit exist or not. If it exists, give the value of
+the limit.
+
+2) Determine if the following limit exist or not. If it exists, give the value of
+the limit.
+
+lime, y) sc, -1 + 2xyt y°/ ("+ y’)
+
+3) Determine if the following limit exist or not. If it exists, give the value of
+the limit.
+
+lim(y) 54,1) [2-y) +3 (&-D]/ (&-y)
+
+59

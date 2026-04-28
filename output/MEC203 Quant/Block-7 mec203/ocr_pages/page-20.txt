@@ -1,0 +1,63 @@
+Because of our assumption that v(.) is continuous and twice differentiable by
+
+using Leibniz theorem we can differentiate v(.) within integral.
+Hence J (x,(t), x’,(t), t)
+
+= J(x*(t) + dx(t), x’*(t)+ 6x’(0), t)
+
+= J(x*(t), x’* (t), t) + AJ (incremental functional value)
+
+Using Taylor series expansion around x* (t)
+
+AJ=
+i((Re Joo ol | sot (ae Joo ye
+x"(t)=x’*(t)
+&x(t).6x'(L) éx'(t) -ohoiehomtem
+x(x’)
+
+For sake of brevity, we henceforth will use the will use the terminology * as
+x(t) =x *(t)
+x'(t) =x'* (0)
+which are multiplied by 4 in above equation.
+
+AJ~ 8J + 67J (ignoring higher order term) 5*J is the terms
+
+Because both end points are fixed.
+Ct
+av fo
+(#2). : ax(o} 0
+
+Hence, we can write 22.8 as Sv [
+0
+
+avi) in _ rtp [VO
+wal, -8*'@Oat= fi" [Se
+
+|. dxcede
+seve (22.11)
+Therefore, we can write (22.7) as
+
+s7— rer ff] _ a favo =
+t= Sig lesa at Fue} Ox(C). at =0
+
+recalling our lemma Sv g(t)dx(t)dt = 0 iff g(t) which is a continuous
+function is zero at every point over the interval to to to te. Using the lemma we
+get necessary can get necessary condition for extremum
+
+av¢ ) ad [avQ] _ ,
+oe ah (feo) = 0 (same as 22.4)
+
+When x(t) is NX 1 vector the necessary condition is
+
+ave) a favo] _
+ol ~ aloe 0 aeceeeee (22.12)
+
+This equation is known as Euler-Lagrange equation. The curve x*(t) = x (t, Cl,
+2)
+
+C, and C; are integration constant and can be found by initial condition.
+
+Intertemporal
+Optimisation-I
+
+19

@@ -1,0 +1,39 @@
+--- Page 131 ---
+
+Real Analysis
+
+3)
+
+4)
+
+130
+
+a) < VEX" I, =) 241, -2,12}
+(by rearranging terms, we get)
+<V UX UG, =y)21+V EE" ly, =2))2I}
+
+= de (x, y) + de (y, z)
+
+Hence, the proof.
+
+S(a, 1) = {(x= (x1, x2), with |x1— ai] + |x2— ag] < 1}
+S°(a, 1) = {(x= (x1, X2), with [xi —ai| + [x2— az] < 1}
+Every open sphere S (a, r) is an open set:
+
+By definition, we know that for S (a, r) to be an open set, we need to show
+that for each element x of S (a, r), there is an open interval /x—¢,x+ ef ES
+(a, r), with ¢>0.
+
+Let x ES (a, r), then, d(a, x) <r.
+if x=a, then S (x, r) = S (a, r) € S (a, r).
+if x #a, then d (x, a)>0, and d(a, x) <r, (from above).
+Let ¢ =d (x, a)>0, then, e<r, orr—e>0.
+we show that |x — (r—), x +(r—«)[ SS (a, r).
+Let y €]x—(r—8), x +(1r-¢ JI,
+then d(x, y) <r-e.
+and d(a, y) < d(a, x) +d(x, y)<e+(r—s)=r
+implies y ES (a, r)
+Thus, y €]x —(r—¢), x +(r—€ )[ implies y ES (a, r)
+Or, |x — (r—), x +(r—€)[ & S (a, nr), for every x ES (a, r).
+
+Hence, the proof.

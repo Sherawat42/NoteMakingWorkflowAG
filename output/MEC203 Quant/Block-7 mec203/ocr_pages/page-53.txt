@@ -1,0 +1,67 @@
+Dynamic
+Optimisation
+
+52
+
+(22) = anu ... (23.26) for x is (nx 1) vector.
+
+Equation 23.25 or 23.26 is called state equation
+Equation 23.23 or 23.24 is called co-state equation
+For multivariate case Ais (nx 1)vector as x is nx 1 vector
+
+Solving state and co-state equation and ao =
+
+Owill give us u* (t)and in turn
+x*(t)
+
+In order to get boundary condition under Hamiltonian formulation, we need to
+put (23.10) in equation (23.20). after simplification, we get the boundary
+
+s(.)
+ote + ( nT 1)
+t-te x(t)
+
+condition.
+és(.)
+HOSP)
+
+The above equation is for x’ (t) and u* (t)as scalar. When x * (t)and u* (t)are
+
+dx, =0 ... (23.27)
+t=t,
+
+vectors of (nx 1)and (mx 1) dimension then
+
+;
+[HO = ] - at + 20 1)
+
+Is the boundary condition equation for multivariate case.
+
+dx_ =0 ++» (23.28)
+
+Check Your Progress 1
+
+1
+1) Optimize V=J—u2dt st. y’=y+u andy (0)=1, y(1)=0
+0
+
+23.4 HAMILTONIAN OPTIMALITY CONDITION IN
+SPECIAL CASES
+
+Case A: Fixed final time and fixed final state.
+
+For solving this type of problems there is no boundary condition we need to
+solve only (23.21)/23.22), (23.23)/(23.24), (23.25)/(23.26) to get optimality
+condition
+
+Case B: Free final time and fixed final state here dt, is free and 5x¢ =0
+
+Hence for optimality, besides solving the three equations we need to solve one
+more boundary condition needs to be solved.
+
+H()+ 8) <9
+
+ie.,
+at
+
+... (23.29)

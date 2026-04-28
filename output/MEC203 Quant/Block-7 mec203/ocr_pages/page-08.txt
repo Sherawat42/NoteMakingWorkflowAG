@@ -1,0 +1,65 @@
+Y —Codomain of a function (set of values of a
+function)
+
+y = f(x) Scalar function of one variable
+x — Independent variable
+(argument/input of a function)
+y — Independent variable (value of function)
+y = f(x4,X2) Scalar function of two variables
+X4,Xg — Independent variables
+(arguments/inputs of a function)
+y — Independent variable (value of function)
+dy y, F(x) Derivative of first order of function y = f(x)
+dx’
+dy Derivative of second order of function y = f(x)
+—>y", #"(x)
+2
+x
+Oy OF (x4,xX2) Partial derivatives of first order for function
+OX,’ OX; y =f(x4,X2) with respect to variable xj i=1,2
+8°F(x. 1X2) 6 87 (x 4X2) Partial derivatives of second order for function
+~:~ — i=42 = f(x4,x
+Xj OX; ax? y =F(x1,X2)
+a 2F(x4 Xo) 87F(x, Xo) Hessian, symmetric matrix of partial derivatives of
+| | 2Morder for function y = (x7, x2)
+Ox] OX4 OX
+H(x1,X2) =| 5 2
+O°F(X4,X2) O° (X42)
+Ox 204 axs
+df(x) Value of a derivative of one variable function at point
+dx X=X x
+Of (x4,X2) Value of a derivative of one variable function at point
+, X = (X1,X2)
+Oxi IX=X
+2 cal ct of xeR;
+(p.x) = 5px Scalar product of two vectors p,x € Rj
+i=t
+det(A)or A| Determinant of matrix A
+
+2
+de(x", x 2)= [Zhi
+I
+
+i
+
+Euclidean metric (distance)
+
+d(x", x 2y= max}x! —x?
+
+Non-Euclidean metric (distance)
+
+1
+ixe|=( Zou? ?
+
+Euclidean norm
+
+|x| = max {xj|} Non-Euclidean norm
+
+i=1,2
+t=0,12... Time as discrete variable
+te[0;+0) Time as continuous variable
+
+Vf, gradf,Gradientof functionf, Vf = (éfex1,...
+
+“foxn)
+

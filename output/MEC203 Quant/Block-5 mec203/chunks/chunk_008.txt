@@ -1,0 +1,596 @@
+--- Page 01 ---
+
+UNIT 19 ADVANCED TOPICS IN OPTIMISATION - II
+
+Structure
+19.0 Objectives
+19.1 Introduction
+19.2. Meaning of Multiplier
+19.2.1 Lagrange's Multiplier Methods for Equality Constraints
+19.2.2 Extension to Inequality Constraints
+19.3. Envelope Theorem
+19.3.1 Envelope Theorem for Unconstrained Optimisation
+19.3.2 Envelope Theorem for Constrained Optimisation
+19.4 Homogeneous and Homothetic Functions
+19.4.1 Homogeneous Functions and Properties
+19.4.2 Homothetic Functions and Properties
+19.5 Concave and Quasi - Concave Functions
+19.5.1 Maximum and Minimum Conditions for Concave Functions
+19.6 Economic Applications of Euler’s Theorem
+19.7 Let Us Sum Up
+19.8 Key Words
+19.9 Answers/Hints to Check Your Progress Exercises
+
+19.10 Exercises
+
+19.0 OBJECTIVES
+
+After going through this unit, you should be able to:
+
+e explain the concept of multiplier;
+
+e examine the envelope theorem in constraint and unconstrained
+optimisation;
+
+e describe the maxima and minima of a function;
+e present the meaning of homogeneous and homothetic functions;
+e identify the concave and quasi - concave functions; and
+
+e discuss a few economic applications in advanced optimisation.
+
+19.1 INTRODUCTION
+
+We are aware that there are multiple ways to produce a certain level of output.
+Similarly, a budget can be spent by a consumer in many ways. But we know
+that a producer or a consumer prefers the best one out of the many available
+ways. Such a choice is reached with the aid of constrained optimisation. This 201
+
+--- Page 02 ---
+
+Extreme Values
+and Optimisation
+
+202
+
+unit explains how the Lagrange multiplier technique is a powerful tool for
+nonlinear optimisation problems by covering both, the equality constrained
+and inequality constrained nonlinear optimisation problems. Further, the
+Envelope theorem is discussed given its significance regarding the qualities of
+differentiability of the value function of a parameterized optimisation problem
+in economics and the comparative statics of optimisation models. The latter
+half of the unit presents homothetic and homogenous functions with reference
+to economic applications and concavity and quasi-concavity with the help of
+
+graphical representation and its role in economics.
+
+19.2 MEANING OF MULTIPLIER
+
+This section will provide us an understanding of the equality and inequality
+
+constraints in terms of Lagrange’s multiplier.
+
+19.2.1 Lagrange's Multiplier Method for Equality Constraints
+
+Without the inequality constraints, the standard form of the nonlinear
+
+optimisation problems can be formulated as:
+
+Subject to
+Gl(u,,°--,u,,) =90
+A(uy,-*-,u,) <0 (19. 1a)
+
+Where G=[G,(u,,---,u,) =0,---,G,(u,,---,u,) =O] , is the constraints
+function vector. The Lagrange function F is constructed as
+
+Fuu,A) = f(u)-AG(u) .. (19.2)
+where u=[u,,---,u,,], the variable vector A=[/,,-:-,/,],4,,°°°,4, are called
+Lagrange multipliers.
+
+The extreme points of the f and the Lagrange multipliers 1 satisfy:
+
+VF =0 .. (19.3)
+That is
+
+k
+OF 1, 2G <0, =1--n .. (19.4)
+Ou, ‘sa OU,
+And G(u,,---,u,,)=0 .. (19.5)
+
+The prerequisites for constrained nonlinear optimisation problems are defined
+by the Lagrange multipliers approach.
+
+--- Page 03 ---
+
+A) Mathematical Proof for Lagrange Multiplier Method
+
+Let us consider the nonlinear optimisation problem which has four variables
+and two equality constraint
+
+Z= f (Uy, Uz, U3, U4) ...(19.6)
+Subject to: C (uy, Uz, U3, U4) =0 .-.(19.7)
+E(Uyz, Uz, Uz, U4) = O ...(19.8)
+
+Assuming that at the point P(g,¢,y,7) the function takes an extreme value
+
+when compared with the values at all neighboring points satisfying the
+constraints. Also, assuming that at the point P the Jacobean is
+
+0g,
+CO) = Fu, Eua — SusEuy #0 ..(19.9)
+
+O(U3,U4)
+
+Thus, at the point of P, we can represent two of the variables, say u, and wz, as
+functions of the other two, u,and u,, by means (19.7) and (19.8). Substitute
+the functions u, = g(u,;u,) and us, = hA(uy;u2) in (19.6), then we get an
+objective function of the two independent variables u, and u,, and this
+function must have a free extreme value at the pointu,=@ , u, =@ that is its
+
+two partial derivatives must be equal to zero at that point. The two equations
+(19.10) and (19.11) must therefore hold.
+
+f +f, Myf OM <9 ...(19.10)
+ou, 1
+
+f af, Ss pp Os <9 (19.11)
+ou, 2
+
+We can determine two numbers 4 and jin such a way that the two equations
+Fus ~ AS ug — HE = 9 (19.12)
+f,, -AG., — Hei, = ...(19.13)
+
+are satisfied at the point where the extreme value occurs. Take the partial
+derivative with respect to u, on (19.7) and get
+
+ou ou
+3 46,,—4=0
+
+Gu, +Su, au, +6, = ...(19.14)
+
+ou,
+ou, ou,
+é, te, — +8,
+
+=0 19.15
+PB SPE a (19.15)
+
+Multiply (19.14) and (19.15) by -—A and — wrespectively and add them to
+(19.14), and we get
+ou ou
+f, -AC, —we, +(f,, -AC, —we, )—4+(f, -AC,, -He, ) + =0
+uy Cu, H uy ( ug Cu, H u,) au ( Uy Cus u ud) du
+
+1 1
+
+...(19.16)
+
+Advanced Topics in
+Optimisation— II
+
+203
+
+--- Page 04 ---
+
+Extreme Values
+and Optimisation
+
+204
+
+Thus, by definition of 2 and yw, we can get
+Fi ~ AGS, — HE, =9 ...(19.17)
+
+Similarly, we get
+Fic, —AC,,, — HEL. = 0
+
+As a result, we obtain the same conclusion as illustrated in either (19.3) or
+(19.4) and (19.5). We should apply a similar approach to objective functions
+
+that have additional constrains and variables.
+19.2.2 Extension to Inequality Constraints
+
+The Lagrange multiplier method also covers the case of inequality constraints,
+as (19.1(a)). In the feasible region, G(u,,---,u,)=0 or H(u,,-::,u,)<Owhen
+
+H,=0. Note that H is said to be active, otherwise H, is inactive. The
+augmented Lagrange function is formulated as:
+Fiu,A, 4) = f(u)-AG(u) — wH(u) ...(19.18)
+where, = [44,-°°, 44],
+H =[H,(u,,---,u,),--°, 1, (Uy5-7+54,
+When H, is inactive, we can simply remove the constraint by setting w, =0.
+If Vf =0. it points to the descending direction of f. When H, is active, this
+
+direction points out of the feasible region and towards the forbidden side,
+which means VH, >0. This is not the solution direction. We can enforce
+
+HL; <0 to keep the seeking direction still in the feasible region.
+
+When extended to cover the inequality constraints, the rule for the Lagrange
+
+multipliers method can be generalized as:
+
+k m
+Vf(u)— AVG,u)— > uj, VH ,(u)=0 ...(19.19)
+i=l j=l
+HM, <Oi=1,---,m ...(19.20)
+UH, =0i=1,---,m ...(19.21)
+G(u) =0
+
+In summary, for inequality constraints, we add them to the Lagrange function
+just as if they were equality constraints, except that we require that wz, <0 and
+
+when H, #0, uw, =0. This situation can be compactly expressed as (19.21).
+
+--- Page 05 ---
+
+Check Your Progress 1 Advanced Topics in
+Optimisation— II
+
+1) Suppose u, = f(u,,u,)=u,u, and the constraint is u,+u,=100. Find
+maximum value of w,.
+
+2) Maximiseu, = f(u,,u,) = 4u; +3u,u, + 6u;
+subject tou, +u, =56
+Find the values ofu, and uzthat maximise u3.Also find the value of 2.
+
+19.3 ENVELOPE THEOREM
+
+In economic optimisation problems, the objective functions that we try to
+maximise/minimise often depend on parameters, like prices. We want to find
+out how the optimal value is affected by changes in the parameters.
+
+Let us consider the following optimisation problems:
+
+max f((w),a)
+
+s.t. g,(u,a)=0
+g,(u,a) =0
+S,(Us 4) =9
+
+Suppose, r(/) =m.
+
+Then,
+
+L= f(u,a)+ YAg)(u.a);
+
+where ZL is the Lagrange function.
+
+If f (a) =max f(u,a) is the value function when u* =u (a) is the solution
+
+vector, then
+205
+
+--- Page 06 ---
+
+Extreme Values
+and Optimisation
+
+206
+
+of" (a) _ AL(u"(a),a) y
+Oa Oa, ,
+
+t=1,2,....,k (19.22)
+
+t
+
+Assuming that f(a) is differentiable, (19.22) shows that the impact of a
+
+change of any parameter or the value function can be found by differentiating
+the Lagrange function partially with respect the same parameter. This is
+
+known as the Envelope theorem.
+
+Proof: Given f (a)= f(u (a),a)
+Fa) _ Aw a),a)_Ou(a) , Fw" @.a) 923)
+
+Ca = Ou, Ca Ca
+
+Ss i=l i Ss s
+
+The first term on the RHS of (19.23) denotes the 2™ order (indirect effect)
+followed by the Ist order effect (2nd term)
+
+From the FOCs, we have
+
+Of (u"(a),a)_ 4, Og, (U'(@),4) yy;
+
+a oan an l ... (19.24)
+Using (19.24) in (19.23),
+
+Of (a) ale oB fe (a),a)| Ou, ‘@) | of (u'(a),a)
+
+ie “S154 1 | 2a, 5a, ...(19.25)
+
+Differentiating the constraint function g, (u'(a),a) =0 with respect to a,, we
+
+get
+
+=0 (19.26)
+
+S 0g (u'(a),a) du, (a) , Og ;(u'(@),4)
+| Ou; Oa, Oa,
+
+L
+
+From (19.25), we get
+
+T © + Og (u'(a),a) du;(a)| Of (u'(@),4)
+ony, p> Ou, Oa |. Oa
+
+L RY S
+
+Sal eg (u'(a), ). of (u'(a),a) [from (19.26)]
+
+F Ca Oa
+
+Ss Ss
+
+7
+
+Soy, & (u'(@),@) | af" w’@,4)
+/ Oa, Oa,
+
+_ OL(u' (a), a)
+
+Hence proved.
+Oa,
+
+19.3.1 Envelope Theorem for Unconstrained Optimisation
+
+Suppose that we solve the following optimisation problem:
+max f(u,v,a) where, u is a choice variable and a is a parameter. The first
+
+order condition of this problem is
+
+f(lu.,v ,a)=0.
+
+--- Page 07 ---
+
+The optimal choice of “ is a function of a:u'(a). Then the maximum value
+of f is given by:
+
+f(u'(a),v (a),a), which is only a function of a.
+Now, we want to see the effect that a change in a has on f(u (a),v (a),a).
+
+The Value function for this problem is derived by substituting (u'(a),v (a))
+
+into the objective function:
+V(a) = f(u (a),v (a),a), Differentiate w.r.t a we get,
+
+dV _ of ou’ of dy
+da Ou Ga Ovda Ga
+
+Notice, though that the first order condition of the maximisation states that
+
+FoF 9 and hence the first two terms in the equation above will
+u
+
+vanish, and we are left with
+
+avy _w
+
+da Ca
+
+The partial derivative is evaluated at the point (wu (a),v (a)). This result which
+
+is called the Envelope Theorem says in words: “The total derivative of the
+value function with respect to the parameter a is the same as the partial
+
+derivative of the objective function evaluated at the optimal point”.
+Example 19.1: Calculate the value function
+
+Consider the unconstrained problem,
+
+2 2
+max 4u, + au, —u; —u; +u,U,
+
+(u) U2)
+
+The FOCs are the following,
+4—2u, +u, =0
+a—2u,+u, =0
+
+Solving the FOCs, we get,
+
+» 8+ta .». 2at+4
+rr ae |
+
+We should check the second order conditions hold so that this candidate
+solution is a global maximum.
+
+The Value function is
+
+V(a)=4u; + au, —(uy)’ —(u,y +uu
+
+=4
+
+Sta  2at+4 [<4] [er] (8+.a)(2a +4)
++a - - +
+3 3 3 3 9
+
+Advanced Topics in
+Optimisation— II
+
+207
+
+--- Page 08 ---
+
+Extreme Values
+and Optimisation
+
+208
+
+19.3.2 Envelope Theorem for Constrained Optimisation
+Consider the problem,
+
+max f (u,v, a)
+
+Subject to g(u,v,a)=0
+
+The Lagrangian for this problem is:
+
+L(u,v, 7) = f (u,v) + (u,v, a)
+
+Suppose that (u'(a),v (a@),y (a)) solves the constrained optimisation
+
+problem. The Value function for this problem is defined as
+V(a@)= fu (@),v (a),@)
+
+Let us write the Value function as,
+
+V(a@)= flu (a),v (@),a) +7 (a) g(u' (a), Vv (a), a)
+
+Differentiating with respect to @ gives,
+
+aV(a) Of du Fa A, ou'(a),v'(a), a)
+da
+
+da  ouda Sy da Oa
+
++y ‘(q) 2H, eg dvi Og
+ouda ovda Ba
+
+This can be written as,
+
+dVia) [of aco fa. pate dy of «ég
+=| +y 2 + Q),v (a@),@)—+>-4+y7 =
+A: E Y aulaa lon” a laa 8% OY @: 4S BW &
+
+. Note that the first two terms on the right-hand side drop out because
+(u,v ,v ) must satisfy the necessary conditions for constrained optimisation.
+
+The third term drops out because g(u'(@),v (@),a) =0
+
+We are left with the following:
+
+dV(a@) Ff 4 & _ oh uv’)
+da 0a 0a 0a
+
+The above equation shows that the derivative of the value function with
+
+respect to the parameter @ is the partial derivative of the Lagrangian function
+
+with respect toa evaluated at(u',v ,y )
+
+The envelope theorem is important in the field of restricted optimisation since
+it allows us to compute the partial derivative of the Lagrangian with respect to
+the parameter. We can use the theorem to determine how the maximum value
+
+function changes when one or more parameters are changed.
+
+--- Page 09 ---
+
+Check Your Progress 2
+
+1) Maximise the function f(u;a)=—u’ +2au+4a’ with respect toa>0.
+
+2) Consider the following Lagrange problem:
+
+Maximise f (u,v) =u+3v
+subject to g(u,v) =u’ +av’ =10.
+
+Use the envelope theorem to estimate the maximum value f (1.01) when
+
+a=1.01,and check this by computing the optimal value function f(a).
+
+19.4 HOMOGENEOUS AND HOMOTHETIC
+FUNCTIONS
+
+In this section we will understand about the homogenous function and
+homothetic functions with the help of definitions, examples and theorems.
+
+19.4.1 Homogeneous Functions and Properties
+
+Homogeneous functions are widely present in economics. Profit functions and
+cost functions that are derived from production functions, as well as the
+demand functions which are derived from utility functions, are homogeneous
+in the standard economic theory.
+
+Definition: A real valued function f(u,,u,,...,u,,)is homogeneous of degree
+k if for all ¢>0
+
+ST (tu, tuy,...,tu,) =t" f (Uy,U5,..5U, )
+Economic Applications
+A. Returns to Scale
+
+Constant return to scale - production function which is homogeneous of
+degree k =1.
+
+Increasing return to scale - production function which is homogeneous of
+degree k>1.
+
+Decreasing return to scale - production function which is homogeneous of
+degree k <1.
+
+Advanced Topics in
+Optimisation— II
+
+209
+
+--- Page 10 ---
+
+Extreme Values
+and Optimisation
+
+210
+
+B. Cobb-Douglas utility function: u(x 1,X2,...,Xn) = Ax; T aes xr is
+homogeneous of degree k =a, +...+@,.
+
+4
+C. Constant elasticity of substitution (CES) function: U (a,x? + azx} )P 1s
+homogeneous of degree g.
+
+Demand functions that are derived from utility functions are homogeneous of
+degree 0: if the prices (p,, p,,...,p,,) and income J change say 10 times then
+
+the demand will not change. More precisely, let U(x, x2,...,Xn) be the utility
+function, D=(P,,P>,.--,P,) be the price vector, x = (X1,X2,...,X%,) be a
+
+consumption bundle and let p © x = pyX1 + poXt+...+PnXn <I be the budget
+constraint. The demand function x = D(p,,p2,...,DPn,1) associates to each
+price vector p and income level / the consumption bundle x which is a
+
+solution of the following constrained maximisation problem
+Maximise U(x)
+subject to p 4X1 + P2X2t...+PnxXy S/.
+
+So, we claim that demand function x = D(p,, p2,..., Dn, 1) is homogeneous of
+degree 0), that is
+
+D(tpj5-0+5tP, tL) = t°D( Py 5-05 DysL) = D(Dy se Py 1)
+
+The bundle D(ip,,....,(p,,t1) is a solution of the following constrained
+maximisation problem
+
+MaximiseU (x)
+
+subject to tp,X, + tp2XxX2ot+...+tpyXn S tl
+
+As we see this is the same problem thus,
+
+D( tp, 5.-+-5tP, tL) = t°D( Py 50-5 DysD) = DD, 5 Py!)
+
+Properties of Homogeneous Functions
+
+Theorem A: If /(u,,u,,...,u,)is homogeneous of degree k then its first
+order partial derivatives are homogeneous of degree k-1.
+
+Proof: Differentiate f(tu,,tu,,...,tu,)=t" f(u,,U,,-...u,) by Uu,
+
+Theorem B: Level sets of a homogeneous function are radial expansions of
+
+one another, that is for arbitrary u =(u,,U),...,U,), V=(VY5V)5--5V,), £>0 if u
+
+and vare on the same level set then their radial expansions tu and tv are on
+the same level set too.
+
+Proof: We must show that f(u)=/f(v) implies f(tu)= (tv) . Indeed
+f(m)=t' f(a)at fv) = fo).
+Theorem C: Suppose a function of n+l variables F(u,,u,,...,u,,Z) 1s
+homogeneous of degree k,, that is
+F (tu,,tuy,...,tu,,tz)=t' F(u,,u5,...,u,,Z) and let f(u,,u,,...,u,) be the
+
+function of 1 variables which is the restriction of / on arguments with
+z=l1
+

@@ -1,0 +1,604 @@
+--- Page 81 ---
+Dynamic
+Optimisation
+
+80
+
+generality we can take pt as one because we further assume super neutrality of
+money (increasing money supply doesn’t have impact on prices)
+
+The profit maximizing expression of representative firm is
+
+n(t) =F(.)— w(t)L(t)—[r(t) + 8] k(t) (24.34)
+The 1* order condition for optimality
+
+On(t) _ OF(.)
+
+aL(t) =0> a(t) =wit) --.(24.35)
+
+On(t) _ FC) _ -- (24.
+
+aK) o> aK(t) r(t)+5 (24.36)
+
+Equation (24.35) and (24.36) in light of competitive market, the return on
+production inputs is equal to the corresponding marginal productivity.
+
+We can derive resource accumulation constraint from household budget
+
+constraint. The agent/household accumulates wealth or capital as the difference
+between received income (from labor and capital less consumption (c(t) > 0,
+
+represents the level of consumption )
+
+K'O=wOLO+rOkKO-cO), KO) 0434)
+In intensive form equation
+
+k' =w(t)+r(t)A(t)— c(t) k(0) given .-. (24.38)
+with c() =£ ana e=*, y= vt)
+
+an
+Lt) L L(t)
+It we take production function as Cobb-Douglas production function
+y(t) =F (K,,L,)= AK? L'~* and calculated marginal productivity labor and
+marginal productivity of capital, then we get
+
+OF(.)
+
+aL) (1-a)AK(t)* = we ... (24.39)
+OF(.) _ a
+aK(t) = aAK(t)-% =r(t)+8 ... (24.40)
+
+The sum of two return on two inputs is equal to the total output produced in the
+economy.
+
+y(t) = w(t) +[r(t) +8] k(t) = (1a) AK(t)® +A k(t)® = Ak(t)® ... (24.40)
+Rewriting equation (24.38) we get
+
+k'(t) = w(t) + (r(t) +8) A(t) — e(t),-8k(t) k(0), given in intensive form we get
+k' = Ak*(t)% —c(t)— dk(t), (0) given w. (24.41)
+(by using 24.40) in above equation)
+
+Differential equation (24.41) characterizes the process of capital accumulation in
+an economy: it states that net capital accumulation is the difference between
+
+--- Page 82 ---
+gross investment (output less consumption) and capital depreciation Equation
+(24.41) constitutes the basic relation through which we discuss economic growth.
+
+Now we consider the preference of household which is expressed as utility
+function. Assume that consumption is the only argument of such function and it
+is expressed as U(C(t))for some point of time t.
+
+The utility function has few basic standard properties namely continuity
+
+differentiability and concavity. Function u is both increasing (u'>0) and
+
+concave (u"<0O) mean that marginal utility of consumption is positive and
+
+diminishing (Gossen’s first law), additional increments in consumption will
+
+generate progressively lower increases in utility.
+
+A class of utility function which obeys above mentioned properties is the
+
+constant elasticity of intertemporal substitution (CEIS) function A function of
+
+this class is typically formulated as
+
+cho —
+1-0
+
+u(c(t)) = ‘oe (0,0) {1} (24.42)
+
+Here Ois the coefficient of relative risk aversion defined as — cyu"(c(t))/u'(c(t)).
+The coefficient of relative risk aversion tells us how the household is going to
+
+rank different lotteries.
+
+—Oplays another role: It is also the inverse of the instantaneous elasticity of
+intertemporal substitution (EIS). The intertemporal elasticity of substitution
+between two points in time t and s > t is defined as
+
+Sts =—dIn(Cg/ct)/din(u(cg)/u(ct)) if we take limit of this expression
+s—twe yet
+
+' ," 1
+o = —u'(ct)/ cq (r)=5
+
+The EIS tells us how willing the household is to shift consumption from one
+period to another.
+
+The case 8 =1is a particular case, obtained by applying L’-Hopital’s rule to
+above expression (to equation 24.42) which allows us defining utility as a
+logarithmic function
+
+u(t) =In(c;) ws (24.44)
+
+The optimal growth problem is to maximize the following
+«
+
+u = fe-Ptufo(t)}dt .. (24.45)
+0
+
+max
+where p = Orepresents the rate of time preference.
+
+Mathematically speaking we have a objective function written in equation
+
+(24.45) which we wish to maximize subject to constrain which is in equation
+(24.41). Further ¢(t) is control variable and &(t) is state variable.
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+81
+
+--- Page 83 ---
+Dynamic
+Optimisation
+
+82
+
+The agent chooses the trajectory of consumption that allows for the highest inter-
+
+temporal utility.
+
+The Ramsay model (in some literature Ramsey-Cass-—Koopman model) is
+different from Solow model — in contrast to Solow model in which savings are
+exogenous; in Ramsey model savings are optimally derived given intertemporal
+preference of representative agent; thus, dynamic inefficiencies are ruled out),
+and is a constrained continuous dynamic optimisation problem.
+
+(Please refer to discounted problem in Unit: 23 for formula)
+Forming Hamiltonian functional we get
+
+H* =ufe(t)]+At[A&“(t)—c(t) - 84(t)] .. (24.46)
+where Ais co-state variable associated with state variable, k. For us, u[c(t)]is
+from equation (24.42).Applying necessary condition for optimisation, we get
+
+ay*
+oH
+
+- 08
+e(b =O c(t)? =r4 ... (24.43)
+
+From co-state equation, we get
+, oH", (14
+M =pht = Mt=[p +3—aAK(t) (onlay ++ (24.44)
+t
+In equation 0 > Ois the concavity parameter of the utility function
+
+Differentiating equation (24.43) and using that in equation (24.44) we get
+
+(t)= a aa(y ee) =(p +8)]o(t) ... (24.45)
+
+Transversality condition is essential for solution Le.,
+
+lim ApePta(T) =0
+
+too
+The dynamics of Ramsey model is found by analysing (24.41) and equation
+(24.45)
+
+In order to derive steady-state locus we need to set &‘(t)=0 and c'(t) = 0 which
+
+in turn determine c’ and k*
+
+1/1-a
+Kk -( | ... (24.46)
+p+s
+1/(1-a)
+o'=(tptots\( 2A) ... (24.47)
+a a pt+s
+
+The equilibrium level of capital and consumption is directly proportional to value
+of the technology index. The rate of time preference and depreciation rate have
+inverse proportional relation on capital accumulation, the impact of these
+parameters on consumption is not straight forward unless we attribute exact
+values of various involved parameter.
+
+--- Page 84 ---
+Steady state levels of income and saving can be obtained from equation (24.46) Economic
+Applications of
+
+and (24.47) Dynamic
+Optimisation
+<
+yt =A’) -ainr-of a ye ... (24.48)
+pt+s6
+a
+say’ —c = 28 alt-a)(_o lho ... (24.49)
+p+6 p+s6
+
+Note $ is positive after consumption is maximized.
+
+The savings are compatible with the golden rule of capital accumulation because
+it is being derived optimally. The law of welfare is established by the fact that the
+saving cannot be altered without penalizing agent’s utility. (In other way any
+other saving rate is sub optimal).
+
+24.9 NEOCLASSICAL THEORY OF INVESTMENT
+WITH ADJUSTMENT COSTS
+
+The new Palgrave dictionary to economics states, “Given” their necessary
+simplicity, we often find prediction of theoretical economies we are able to
+analyse - are too stark relative to behaviour observed in actual economies. Thus,
+in a variety of settings we have adopted adjustment costs in our economic
+laboratories to summarize omitted frictional elements that reduce, delay or
+protract changes in the demand and supply of final goods and their factor inputs
+in response to changes in economic condition hence”, hence the demand for
+adjustment cost model.
+
+In vast array to macroeconomics literature, investment adjustment cost model
+(hence for sake of simplicity will be written adjustment cost model) explain the
+rate at which the capital stock catches up with its desired level. The term
+“adjustment” can be thought of as the additional cost incurred by firm for turning
+investment into production capital. The adjustment can be gradual or
+instantaneous and that depends on the typical mathematical model. Adjustment
+cost can include, installation cost, reorganization of plant, retraining of worker
+delivery lags, holding inventories due to tax consideration. These costs of
+adjustment are generally assumed as a function of investment and capital stock
+level.
+
+If the desired level of capital stock is k* and current level of capital stock is k,
+then the investment rate is a nonnegative function of difference between kK “and
+k . In order to determine optimal path of adjustment, if we assume convex
+adjustment cost-which increases at an increasing rate with | - then we can
+assume smooth and gradual path of adjustment, on the contrary a non-convex
+adjustment cost function depict lumpy’ investment: large infrequent adjustment
+
+of capital stock.
+83
+
+--- Page 85 ---
+Dynamic
+Optimisation
+
+84
+
+Adjustment cost model originates from the seminal work of Eisner and Strotz
+(1963). We consider a model of adjustment cost of a firm, which is price taking
+and producing at constant return to scale. The adjustment cost function is
+assumed to be convex.
+
+The firm faces following optimisation problem
+
+max V(.) = fe“ R(t)at
+0
+
+.. (24.50)
+[where R(t) = pF(A(t),L(t)) = G(I(t), A(t) w(L)L(t) — p*1
+» (24.51)
+where p* relative price of capital
+F(A(t),L(t)is output & w(t) is wage
+Because  G(I(t)A(t)) the adjustment cost  fimction is convex
+
+a 3028 59,8 <o,6(0,4)- 0
+“a” a2” 0k
+
+Trax < Lyin 20,5>0 and r>O are depreciation rate and interest rate
+respectively.
+
+a“ )
+
+Subject to =I(t)—5A(t) ws. (24,52)
+
+(Please refer to discounted problem in unit: 23 for formula)
+
+Using equation (24.50) and (24.52) we formulate Hamiltonian functional as
+under
+
+H* = pF(k,L)—G(, A) — wh —pé1+ (I-84)
+.. (24.52a)
+(Note we are omitting ‘t’ subscript for neatness)
+
+The necessary condition for optimisation)
+
+aH” _ 9 _, paF() _y _, OF.) _w
+aL aL al op
+». (24.53)
+OH 9 5 OW) pk gp <0 py =p +2
+al al a
+(24.54)
+From co-state equation
+, OF(.) _ dG(. =
+Be = Fut =p), SOs
+Sp()=(r +d), -p Tt), SO) ... (24.55)
+
+--- Page 86 ---
+i i Economic
+Using (24.54) in (24.55) we get Applications of
+
+5 4 Dynamic
+H(t) =(ea}(ps +B) -p FO, 50 ... (24.56) Optimisation
+fa) 0.
+
+Before proceeding for analysis of optimal solution we have following
+observation
+
+i) If we ignore adjustment cost function in equation (24.52a) then the equation
+becomes (24.29). In other words, without adjustment cost the model would
+be practically equivalent to the Jorgenson’s formulation thus yielding
+
+condition analogous to equation (24.33)
+
+ii) Because the adjustment cost function in Hamiltonian formulation is proceed
+with minus sigh and function is convex function, max— G(.) = min G(.)
+
+Maximizing H’ will automatically minimizes—G(.)i.e., maximizing H’ will give
+a minimum adjustment cost there by a maximum capital k* that would in turn
+maximizes profit.
+
+Analysis of Optimal Path
+
+We have two equations; i.e., equation (24.52) and equation(24.56) for analysis.
+
+a) jis the marginal value of installed capital can be interpreted as the present
+
+value of the increase in net revenues that would be provided by additional
+unit of capital, after other inputs have been adjusted pis always positive
+
+because p* and & is always greater than zero.
+
+b) Because of assumption of constant return to scale is constant
+
+OF (.)
+
+ok
+considering o <0 we take from equation (24.56) that w’ is downward
+slopping against increasing capital
+
+c) Setting equation (24.52) to zero
+
+k(t) =Kt) -Bk(t) =0= «(=O .. (24.57)
+
+Setting equation (24.56) to zero
+
+. OF(.)  eG(.)
+O=(r+8)n, po + PY
+(r+98)ut-P ak + ak
+taking r+8=Cy4, constant ort)
+fel
+
+= Cg, a constant.
+
+zc)
+
+=up= — ... (24.58)
+
+d) As G(.)is convex, assuming economy consists of fixed number but large
+identical firms, eq (24.56) implicitly defines the following aggregate
+
+investment function 85
+
+--- Page 87 ---
+Dynamic
+Optimisation
+
+86
+
+1=F(up*,k) with FO. 9 FO Lg FO Lg 24.59)
+ou ok apk
+
+This is the general result of the model with convex and symmetric adjustment
+cost (Ceteris paribus, the adjustment cost of increasing the capital stock by some
+
+amount is equal to the adjustment cost of decreasing it by same amount.
+
+e)
+
+The model shows a negative elasticity of investment to interest rate (2 < 0|
+r
+
+- a standard characteristic of neoclassical model). From equation (24.56) a
+lower interest rate increases the present value of an additional capital p
+
+resulting in a faster speed of convergence and higher investment rate.
+
+Optimal k* and w is shown in figure (6)
+
+k* K
+Fig. 24.6: Dynamics of 1,and k(t)
+
+Check Your Progress 2
+
+y
+
+Consider a competitive firm producing good y. The production function of
+the firm is given by Y(t) = AF(k(t)) where A is total factor productivity and
+
+k is the capital stock. The market price of capital stock and market price of
+output is unity. If the gross investment I is equal to k'(t)+ 5k(t) where Sis
+
+depreciation rate. Assuming the instantaneous cost of gross investment for
+firm is equal to K(t)+(I(t)) where y is a convex function for which it holds
+w(0)=0 w'>Oandy">0. If the firm chooses the investment path that
+maximizes the present value of current and future profits. Find necessary
+condition for profit optimisation assuming infinite time horizon and its
+economic interpretation and r is real interest rate.
+
+--- Page 88 ---
+24.10 LET US SUM UP
+
+The core of dynamic analysis of economy is to bring forth every variable to its
+present value and then applying consumption optimisation. Beginning with
+simple example of monopoly, 3 examples of environmental economics are given.
+Note that number of co-state variables ("2f) always equates to the number of
+state dynamic equations. A detailed derivation of famous Ramsey model is
+provided that will be handy reading MEC-102. A general theory that includes any
+type of adjustment in investment done by a firm is discussed and analysed.
+Further we have shown that if we remove adjustment cost function then the
+model will become neoclassical investment theory without adjustment cost (unit
+24.7)
+
+24.11 KEY WORDS
+
+Cost of per unit : A firm not only borrows for investment but also
+
+investment invests a part/whole of profit as investment. Further
+not all borrowing rate are same. Based on this
+consideration, cost of per unit investment is
+aggregate cost per unit investment incurred by firm
+while production. It may or may not include
+adjustment cost.
+
+Logistic growth : A function which is tangent of flattened ‘S’ shape
+
+function curve. Characterized by g(x,)=7 x(1 -4) where k
+
+is carrying capacity of environment, y is intrinsic
+growth rate. The stock x; goes to A when g(X;)=0
+
+Monopoly : A firm having exclusive control over commercial
+activity:
+
+Non-renewable : A category of natural resources that deplete with
+
+resources harvesting/extraction and ultimately get exhausted
+
+example: oil, coal)
+
+Optimal saving rate : (Ramsey models) The steady state saving rate when
+(Ramsey Model) consumption is optimised.
+Renewable resources : A category of natural resources that regenerate
+
+according to population biology — The Quantity of
+harvestable stock changes due to intrinsic growth or
+human intervention. (Example: Fish, Tree, Shrimp,)
+
+Transversality : The boundary value condition im x, A, =O which is
+
+condition necessary for models in which optimisation model
+
+duration is from 0 toc
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+87
+
+--- Page 89 ---
+Dynamic
+Optimisation
+
+88
+
+24.12 ANSWERS/HINTS TO CHECK YOUR
+PROGRESS EXERCISES
+
+Check Progress 1
+
+1. a) Because Pris always restricted in sign i.e., pt > 0 we need lim eA, =0
+
+res
+b) We define Hamiltonian functional
+
+H*(.)=u(xt)+ At Pf
+
+> H"(.)=In(Xt)+At(a+bpt—Xt)
+The necessary condition for optimisation
+
+HW) 94 ysosaet . 6)
+Ox Xt Xt
+
+From co-state condition of optimisation
+
+aH"(.)
+Pt
+
+ak=yAt— =rAy—Ayb .. (ii)
+
+Using eqn. (i) in eqn. (ii) we get
+
+—-x 101
+
+M= 3 =r—-—b
+x Xt Xt
+xt
+
+=ct=b-r
+Xt
+xt
+
+— =(b-r)dt
+xX (b-r)
+
+Integrating above equation we get,
+
+Oxt py
+Goose r) dt
+
+=> Inxt = (r—b)t
+
+=> Xt =kel')t, where k is constant. (Ans.)
+Check Progress 2
+
+1. The present value of profit of firm (objective functional) is,
+
+%
+v(.)= Jet [y(t)—lt)-y(I(t)] dt
+t=0
+Therefore the current value of Hamiltonian
+
+H"(.)=[AF(K(t)— Kt) — (l(t) + x(t) -3k(t))]
+
+--- Page 90 ---
+where itis the multiplier of capital accumulation constraint and represents the
+shadow value of an additional unit of capital at instant t (Note I(t) is control
+variable and k(t) is state variable)
+
+The necessary condition for optimisation is,
+
+oH" (.)
+
+=0>1+yi(l(t)) =a ws (24.57)
+al
+aL arne A) _ rip — COED gag
+ak(t) ék(t)
+f(r 43) oO lat = AR K(t)) (24.58)
+0) we (24,
+
+Equation (24.57) determines the optimal shadow value of an additional unit of
+capital }as equal to marginal cost of investment. This is equal to the purchase
+price of capital goods (assumed equal to unity) plus the marginal installation
+(adjustment cost w’(I(t)).
+
+Equation (24.58) requires that at the optimum, the firm will invest until the user
+cost of capital (on the left hand side) is equal to the marginal product of capital
+(on the right-hand side). The user cost of capital is the real interest rate, plus
+depreciation rate, minus the expected appreciation rate of capital stock, all
+multiplied by the shadow value of capital A(t)
+
+24.13) EXERCISES
+
+Q1. Write profit optimisation condition for a firm in Ramsey model.
+
+Ans. Refer Section 24.8
+
+Q2. Explain constant elasticity of intertemporal substitution (EIS) utility function
+Ans. Refer Section 24.8
+
+Q3. Derive optimal saving rate under Ramsey model.
+
+Ans. Refer Section 24.8
+
+Q4. Explain the relevance of investment adjustment cost in macro models. Why
+
+the adjustment cost is assumed to be convex?
+Ans. Refer Section 24.9
+
+The convex functions have unique property which is local minimum is
+global minimum and this property helps us in unique convergence of
+dynamic optimisation.
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+89
+

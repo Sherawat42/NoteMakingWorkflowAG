@@ -1,0 +1,60 @@
+24.10 LET US SUM UP
+
+The core of dynamic analysis of economy is to bring forth every variable to its
+present value and then applying consumption optimisation. Beginning with
+simple example of monopoly, 3 examples of environmental economics are given.
+Note that number of co-state variables ("2f) always equates to the number of
+state dynamic equations. A detailed derivation of famous Ramsey model is
+provided that will be handy reading MEC-102. A general theory that includes any
+type of adjustment in investment done by a firm is discussed and analysed.
+Further we have shown that if we remove adjustment cost function then the
+model will become neoclassical investment theory without adjustment cost (unit
+24.7)
+
+24.11 KEY WORDS
+
+Cost of per unit : A firm not only borrows for investment but also
+
+investment invests a part/whole of profit as investment. Further
+not all borrowing rate are same. Based on this
+consideration, cost of per unit investment is
+aggregate cost per unit investment incurred by firm
+while production. It may or may not include
+adjustment cost.
+
+Logistic growth : A function which is tangent of flattened ‘S’ shape
+
+function curve. Characterized by g(x,)=7 x(1 -4) where k
+
+is carrying capacity of environment, y is intrinsic
+growth rate. The stock x; goes to A when g(X;)=0
+
+Monopoly : A firm having exclusive control over commercial
+activity:
+
+Non-renewable : A category of natural resources that deplete with
+
+resources harvesting/extraction and ultimately get exhausted
+
+example: oil, coal)
+
+Optimal saving rate : (Ramsey models) The steady state saving rate when
+(Ramsey Model) consumption is optimised.
+Renewable resources : A category of natural resources that regenerate
+
+according to population biology — The Quantity of
+harvestable stock changes due to intrinsic growth or
+human intervention. (Example: Fish, Tree, Shrimp,)
+
+Transversality : The boundary value condition im x, A, =O which is
+
+condition necessary for models in which optimisation model
+
+duration is from 0 toc
+
+Economic
+Applications of
+Dynamic
+Optimisation
+
+87

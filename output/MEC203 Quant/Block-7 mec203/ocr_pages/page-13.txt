@@ -1,0 +1,47 @@
+Dynamic
+Optimisation
+
+22.1 INTRODUCTION
+
+Note: In this unit, a number of theorems are stated and proved. The proofs may
+be skipped altogether, provided the essential underlying ideas become clear
+from the statements of the theorems. One should go through the proofs only for
+getting clarifications about the underlying essential ideas.
+
+Modern study of economic theories entails study of behaviour of economic
+agent/s who tend to optimise her desired outcome at the end of process. One of
+the fundamental principles of mathematical economics, is that, economic
+agent/s try to maximize an objective function subject to resource constraints.
+This principle is adopted to explain economic behaviour at one instance of time
+as well as the evolution of economic behaviour through time. Optimisation
+from an economist’s sake can be broadly classified into static optimisation and
+dynamic optimisation. In contrast to static optimisation, in dynamic
+optimisation, the variables of model are time variant or in other words they
+change with respect to time. Each of the various Dynamic optimisation
+techniques consists of set of tools which can be useful, apart from in
+Economics, in operations research, engineering and other applied field;
+moreover, these tools have applications in different subfields including
+economic growth macroeconomics, microeconomics, finance, and dynamic
+games. Main methods for solving Dynamic optimisation problems can depend
+on (i) Pontryagin’s maximum principle by Lev. S.Pontryagin and (ii) Dynamic
+programming principle by Richard Bellman. Pontryagin’s method is based on
+ideas from classical calculus of variations whereas Bellman’s principle is based
+on recursive method which is akin to the concept of sub-game perfect
+equilibrium in context of dynamic game theory. Dynamic programming is not
+to be misconstrued as synonym of dynamic optimisation rather it is one of the
+methods to solve optimal control problems.
+
+Dynamic optimisation problem can be divided into two major categories:
+discreate and continuous. This distinction is based upon the nature of objective
+function whether that is continuous or piecewise continuous. Moreover, the
+objective function can be deterministic or stochastic in nature. The study of
+stochastic dynamic optimisation is beyond the scope of the syllabus. We shall
+first consider the unconstrained optimisation and then delve into constrained
+optimisation. But even before that, we need to have clarification between some
+closely-connected pairs of concepts.
+
+22.1.1 Some Conceptual Clarifications
+
+The two pairs of concepts discussed are (i) static optimization vs. dynamic
+optimization, and (ii) function vs. functional. Also, the concept of
+differentiability class is defined.
