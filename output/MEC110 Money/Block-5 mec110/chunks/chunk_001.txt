@@ -1,0 +1,298 @@
+--- Page 1 ---
+MEC - 110
+MONEY  FINANCIAL 
+INSTITUTIONS & MARKETS
+BANK
+VOLUME-II
+
+
+--- Page 2 ---
+MEC-110
+School of Social Sciences
+Indira Gandhi National Open University
+New Delhi
+Money, Financial
+Institutions and Markets
+(Volume-2)
+
+
+--- Page 3 ---
+EXPERT COMMITTEE
+COURSE PREPAREATION TEAM
+Prof. Atul Sarma (Retd.)
+Former Director
+Indian Statistical Institute
+New Delhi
+Prof. Indrani Roy Chowdhury
+CSRD, School of Social Sciences
+Jawaharlal Nehru University
+New Delhi
+Prof. Prem S.Vashistha
+Former Director, Agro
+Economic Research Centre
+Delhi School of Economics
+University of Delhi
+New Delhi
+Prof. Subrata Guha
+CESP, School of Social Sciences
+Jawaharlal Nehru University
+New Delhi
+Dr. Rajeev Malhotra
+Professor & Executive Director
+OP Jindal Global University
+Gurugram, Haryana
+Prof. Kaustuva Barik
+Indira Gandhi National
+Open University
+New Delhi
+Prof. B S Prakash
+Indira Gandhi National
+Open University
+New Delhi
+Sh. Saugato Sen
+Associate Professor of
+Economics, Indira Gandhi
+National Open University
+New Delhi
+Dr. Vijeta Banwari
+Associate Professor of
+Economics, Indira Gandhi
+National Open University
+New Delhi
+Dr. Nidhi Tewathia
+Associate Professor of
+Economics
+Ambedkar University
+New Delhi
+Prof. Narayan Prasad
+(Convener)
+Indira Gandhi National
+Open University
+New Delhi
+PROGRAMME COORDINATORS
+Prof. Narayan Prasad
+Professor of Economics
+School of Social Sciences
+IGNOU, New Delhi
+Dr. Vijeta Banwari
+Associate Professor
+School of Social Sciences
+IGNOU, New Delhi
+COURSE COORDINATOR
+Dr. Vijeta Banwari, Associate Professor
+School of Social Sciences, IGNOU
+New Delhi
+COURSE EDITORS FORMAT AND LANGUAGE EDITING
+Dr. Vijeta Banwari (Block 5)
+Shri Saugato Sen (Block 6)
+Prof. K. Barik (Block 7)
+Dr. Vijeta Banwari
+Associate Professor
+School of Social Sciences, IGNOU
+New Delhi
+Block/   Unit Title Unit Writers
+Unit No.
+BLOCK 5  FINANCIAL INSTITUTIONS
+Unit 14 Commercial Banking Prof. S.K. Singh, Retd. Prof. of
+Economics, IGNOU, New Delhi
+Unit 15 Non-Bank Financial Intermediaries Prof. S.K. Singh, Retd. Prof. of
+Economics, IGNOU, New Delhi
+Unit 16 Securities and Exchange Board of India (SEBI) Prof. S.K. Singh, Retd. Prof. of
+Economics, IGNOU, New Delhi
+Unit 17 Other Financial Institutions and Regulations Prof. S.K. Singh, Retd. Prof. of
+Economics, IGNOU, New Delhi
+BLOCK 6  OPERATIONAL  ASPECTS OF FINANCIAL MARKETS
+Unit 18 Efficient Portfolio Frontier Dr. Vijeta Banwari
+Associate Professor, IGNOU
+New Delhi
+Unit 19 Capital Asset Pricing Model Dr. Ruchi Sharma
+Assistant Professor
+Aryabhatta College, Delhi University
+
+
+--- Page 4 ---
+Unit 20 Arbitrage Pricing Theory Dr. Apica Sharma
+Researcher
+Department of Revenue, Ministry of
+Finance, Government of India
+Unit 21 Pricing of Derivatives Dr. Apica Sharma
+Researcher
+Department of Revenue, Ministry of
+Finance, Government of India
+Unit 22 Corporate Finance Dr. Ruchika Gehlot
+Associate Professor
+Maharaja Surajmal Institute
+New Delhi
+Unit 23 Foreign Direct Investment and Foreign Dr. Monika Tushir
+Portfolio Investment Associate Professor
+Maharaja Surajmal Institute
+New Delhi
+BLOCK 7  FINANCIAL STABILITY
+Unit 24 Macroeconomics, Finance, and Business Cycles Dr. Jyoti Mavi
+Assistant Professor
+Gargi College, Delhi University
+Dr. Devendra Kumar
+Assistant Professor
+Daulat Ram College, Delhi University
+Unit 25 Efficient Markets Hypothesis Dr. Sant Kumar
+Assistant Professor of Economics
+Vivekanand Institute of Professional
+Studies, New Delhi
+Unit 26 Financial Stability and Related Issues Dr. Monika Tushir
+Associate Professor
+Maharaja Surajmal Institute
+New Delhi
+Unit 27 Non-performing Assets Prof. S.K. Singh, Retd. Prof. of
+Economics, IGNOU, New Delhi
+Unit 28 Foreign Exchange Stability and Related Issues Dr. Sant Kumar
+Assistant Professor of Economics
+Vivekanand Institute of Professional
+Studies, New Delhi
+Unit 29 Behavioural Finance Dr. Vijeta Banwari, Associate
+Professor, IGNOU, New Delhi
+August, 2024
+ Indira Gandhi National Open University, 2024
+ISBN :
+All rights reserved. No part of this work may be reproduced in any form, by mimeograph or any other
+means, without permission in writing from the Indira Gandhi National Open University.
+Further information about the School of Social Sciences and the Indira Gandhi National Open
+University courses may be obtained from the University’ s office at Maidan Garhi, New Delhi-110 068.
+or visit the University website http://www.ignou.ac.in.
+Printed and published on behalf of the Indira Gandhi National Open University, New Delhi by the The
+Registrar, MPDD, IGNOU, New Delhi.
+Photographs/diagrams/maps/drawings and other academic materials and text used in this course for
+academic purposes are gratefully acknowledged and credited. Should any infringement have occurred,
+the publishers and editors apologise and will be pleased to make the necessary corrections in future
+editions of this book.
+Laser Typesetting : Akashdeep Printers, 20-Ansari Road, Daryaganj, New Delhi-110002
+Printed at :
+PRINT  PRODUCTION
+Mr. Tilak Raj
+Assistant Registrar,
+MPDD, IGNOU, New Delhi
+
+
+--- Page 5 ---
+
+
+--- Page 6 ---
+Course Contents
+Pages
+COURSE  INTRODUCTION 7
+BLOCK 5  FINANCIAL INSTITUTIONS 9
+Unit 14 Commercial Banking 10
+Unit 15 Non Bank Financial Intermediaries 30
+Unit 16 SEBI 50
+Unit 17 Other Financial Institutions and Regulations 74
+BLOCK 6  OPERATIONAL ASPECTS OF FINANCIAL MARKETS 95
+Unit 18 Efficient Portfolio Frontier 96
+Unit 19 Capital Asset Pricing Model 113
+Unit 20 Arbitrage Pricing Theory 131
+Unit 21 Pricing of Derivatives 144
+Unit 22 Corporate Finance 163
+Unit 23 Foreign Direct Investment and Foreign Portfolio Investment 189
+BLOCK 7  FINANCIAL STABILITY 205
+Unit 24 Macroeconomics, Finance, and Business Cycles 206
+Unit 25 Efficient Markets Hypothesis 220
+Unit 26 Financial Stability and Related Issues 234
+Unit 27 Non-performing Assets 249
+Unit 28 Foreign Exchange Stability and Related Issues 270
+Unit 29 Behavioural Finance 289
+
+
+--- Page 7 ---
+6
+Overview of Occupational
+Health
+
+
+--- Page 8 ---
+7
+Occupational Health:
+Meaning and ConceptCOURSE   INTRODUCTION
+MEC 110: Money, Financial Institutions and Markets
+The structure of MA Economics programme has been spread over four semesters. In
+each of the first three semesters, three courses (in the multiple of six or eight credits)
+have been included in a well thought manner. The two courses i.e., Micro Economic
+Analysis (MEC-101) and Macro Economic Analysis (MEC-102) provide the theoretical
+foundation and the knowledge of mathematical and statistical tools in MEC 203, enabling
+to understand micro and macro theories in analytical manner. Another set of three
+courses included in semester two lead to further insight into the area of growth and
+development. The knowledge of economic theory both in micro and macro domain
+and insight into growth and development prepare the foundation for entering the empirical
+part and take up the various components of Indian economics policy (MEC-205).
+Knowledge of theoretical and applied part of economics make a solid ground for
+making in-depth study of various economic events, developments and situations.
+However, before taking up in-depth study, the knowledge of conceptual foundation,
+tools and techniques of research methodology is required. These have been provided
+in the course Research Methods in Economics (MEC 109).
+Having the knowledge of core courses in the first and the second semesters, with the
+intention to have knowledge of area specific core courses, another set of three courses
+viz., Public Economics (MEC-106) International Trade and Development (MEC-107)
+and Money, Financial Institutions and Markets (MEC 110) have been introduced in
+the third semester.
+We have covered issues related to monetary policy in macro-economic analysis, yet
+the various topics related to monetary economics such as functions of money and its
+relation and interaction with financial institutions and markets could not be covered,
+which are otherwise essential to have insight into the functioning of various kinds of
+markets in the economy . Hence, MEC 110 course as an extension of macro dimension
+of economics has been included in this semester.
+In order to comprehend this course in a meaningful manner, students should have a
+clear idea of the conceptual foundations and functioning of the financial system. In this
+process, it is necessary to understand the role and functions of money, and the
+transmission mechanism of monetary policy .
+This course is extremely relevant because money, financial institutions, and markets
+form the cornerstone of modern economies. They serve as the channels through which
+resources are allocated, transactions are facilitated, and economic prosperity is achieved.
+Their roles are multifaceted and intertwined, shaping the economic landscape and
+impacting the lives of individuals, businesses, and societies around the globe. Thus,
+understanding functions of money , financial institutions, and markets, interactions, and
+implications is essential for policymakers, economists, investors, and citizens alike,
+helping them to navigate the complexities of the financial system.
+The course discusses how capital flows through the economy and how financial
+intermediaries play a crucial role in channelling funds between surplus and deficit units
+in the economy. It deliberates upon the roles, functions, and regulatory frameworks of
+money markets, capital markets, bond markets, and derivatives. It also provides insights
+into market dynamics, participant behaviour, and factors driving asset valuations. The
+
+
+--- Page 9 ---
+8
+Overview of Occupational
+Health
+course also delves into functioning of Commercial banks, non-bank financial
+intermediaries, and regulatory bodies which form the backbone of the financial system
+and play an important role in maintaining economic stability .  Further, it equips with the
+understanding of ‘Efficient Portfolio Frontier’ and asset pricing theories which are
+essential for investors seeking to optimize returns and manage risk. To understand the
+challenges and complexities of maintaining a stable financial system, this course also
+presents the comprehensive understanding of non-performing assets, foreign exchange
+stability , and behavioural finance.
+This course is divided into eight blocks. Each block is interconnected. The structure of
+the course is as follows:
+Block 5 entitled Financial Institutions, we have discussed how financial institutions
+form the backbone of the financial system and channelise funds between savers and
+investors. There are four units in this block. It explores the roles of commercial banks,
+non-bank financial intermediaries, regulatory bodies such as SEBI, and other institutions
+that shape the landscape of finance.
+Block 6: Operational Aspects of Financial Markets has six units. This block
+delves into risk-return analysis, the Capital Asset Pricing Model (CAPM), the Arbitrage
+Pricing Theory (APT). The block also presents various models of derivative pricing. It
+also discusses corporate finance principles, and the dynamics of foreign investment.
+Block 7 throws light on various aspects of Financial Stability. It includes six units.
+Financial stability is paramount for sustainable economic growth, and this final block
+examines its connection with business cycles, market efficiency , non-performing assets,
+foreign exchange stability , and behavioural finance. It provides insights into the challenges
+and complexities of maintaining a stable financial system.
+
+
+--- Page 10 ---
+9 
+Commercial Banking 
+Block 5 
+Financial Institutions 
+Unit 14 Commercial Banking 
+Unit 15 Non-Bank Financial Intermediaries 
+Unit 16 SEBI 
+Unit 17 Other Financial Institutions and 
+Regulations 

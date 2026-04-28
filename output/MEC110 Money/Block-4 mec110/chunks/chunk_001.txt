@@ -1,0 +1,452 @@
+--- Page 1 ---
+ 
+ 
+171 
+Money Markets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 4 
+Financial Markets 
+Unit 10  Money Markets  
+Unit 11  Capital Markets  
+Unit 12  Bond Markets  
+Unit 13  Derivatives  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+ 
+ 
+172 
+Financial Markets UNIT 10 MONEY MARKETS    
+Structure 
+10.0 Objectives 
+10.1 Introduction 
+10.2  Concept and Features of Money Market 
+10.2.1 Concept of Money Market 
+10.2.2 Distinctive Features of Money Market 
+10.3 Objectives and Functions of Money Market  
+10.4  Requisites of a Good Functioning Money Market 
+10.5  Money Market in India 
+ 10.5.1 Organised Sector  
+10.5.2 Instruments of Organised Markets 
+ 10.5.3 Unorganised Sector   
+10.6  Regulatory Measures to Streamline the Working of Money Market 
+10.7 Problems of the Indian Money Market 
+10.8 Let Us Sum Up  
+10.9 Key Words 
+10.10 Some Useful Books 
+10.11 Answers / Hints to Check Your Progress Exercises  
+10.12  Terminal Questions 
+10.0 OBJECTIVES 
+Having completed this unit, you will be able to: 
+ explain the concept of the money market; 
+ spell out the composition of the money market; 
+ highlight the importance, role and functions of the money market in 
+an economy; 
+ identify requisites of a good money market; 
+ describe the Indian money market;  
+ analyse the various regulatory mechanisms governing the working of 
+the money market in India; and 
+ indicate the problems of the Indian money market.  
+ 
+ 
+
+
+--- Page 3 ---
+ 
+ 
+173 
+Money Markets 10.1 INTRODUCTION 
+As we have learnt in previous block that financial institutions, financial 
+markets and instruments together constitute the financial system. Thus, 
+financial markets are one of the important constituents of financial system. 
+The financial markets of all economies are broadly subdivided into two parts: 
+(i) Money Market , and (ii) Capital Market . Both these markets provide 
+avenues to surplus sectors such as households and institutions to deploy their 
+funds and opportunity to corporate and government sectors to mobilize funds 
+for their requirements. Financial markets across the world are organised 
+differently to serve the need to save, borrow, invest, transact, and insure. 
+They vary on regulations, ownership type, level of consolidation, etc.  
+The money market refers to a section of the financial market having financial 
+instruments with high liquidity and short-term maturities that usually range 
+from overnight to just under a year such as treasury bills and commercial 
+papers.  
+The money market is considered a safe place to invest due to the high 
+liquidity of securities. It has certain risks which investors should be aware of, 
+one of them being default on securities such as commercial papers. The 
+money market consists of various financial institutions and dealers, who make 
+available to a broad range of borrowers and investors the opportunity to buy 
+and sell various forms of short-term securities. The money market gives 
+lesser returns to investors who invest in it but provides a variety of 
+products. Withdrawing money from the money market is easier. The presence 
+of an active and vibrant money market is an essential prerequisite for the 
+growth and development of an economy. This unit will throw light on the 
+various facets of the money market along with the structure and functions of 
+the Indian money market.  
+The money market  being an important segment of the financial market, 
+not only reflects the impact of liquidity mismatch in the system but also 
+operates as the first leg in transmitting monetary policy changes to the 
+other parts of the financial system. In an integrated financial system, the 
+occurrence of an event in one market of the financial system will have an 
+impact on the other market of the system. 
+The money market enables asset-liability management  in commercial banks. 
+It provides an avenue for short-term investment in respect of cash held to 
+maintain sufficient liquidity through its many sub-markets. The larger the 
+number of sub-markets the broader and more developed the structure of the 
+money market. The interest rates and the conditions prevailing in the money 
+market influence the rate of interest  and mobilization of resources in the 
+capital market, the foreign exchange market and the gilt securities market. 
+Thus, the development of these markets, to a large extent, is dependent on the 
+development of the money market. The money market largely is a tool for the 
+
+
+--- Page 4 ---
+ 
+ 
+174 
+Financial Markets development of industry, infrastructure, agriculture, trading and commerce in 
+any country.  
+10.2 CONCEPT AND FEATURES OF MONEY 
+MARKET 
+10.2.1  Concept of Money Market 
+A money market is a market for short-term money and financial assets that 
+are close substitutes for money.  By the term ‘Short-term’ in the Indian 
+context, it means a period of up to one year.  According to the Reserve Bank 
+of India , a money market is ‘the centre for dealings, mainly of short-term 
+character, in money assets. It meets the short-term requirements of borrowers 
+and provides liquidity or cash to the lenders. It is the place where short-term 
+surplus investible funds at the disposal of financial and other institutions and 
+individuals are bid by borrowers’ agents comprising institutions and 
+individuals and also the government itself.  The money market is essentially 
+an over-the-phone market where transactions are conducted online or through 
+telephonic communication with or without the help of brokers to be followed 
+subsequently by written documents and exchange of instruments. It is a 
+mechanism to clear short-term monetary transactions in an economy.  
+Individuals, institutions, and the government are economic agents that 
+participate in the money market. These agencies create demand for money 
+and also ensure the supply of money for a short-term period. The demand for 
+money emanates from merchants, traders, brokers, manufacturers, speculators 
+and even government institutions. The suppliers include commercial banks, 
+insurance companies, non-banking financial concerns and the Central Bank 
+of the country. The money market consists of many sub-markets. According 
+to Vaghul Committee, “ The money market is a market for short-term 
+financial assets that are close substitutes for money. The important feature 
+of money market instruments is that it is liquid and can be turned over 
+quickly at low cost, and it provides an avenue for equilibrating the short-
+term surplus funds of lenders and the requirements of borrowers .” 
+ 10.2.2 The Distinctive Features of the Money Market 
+i) The money market consists of negotiable instruments. It is used by many 
+participants, including companies, to raise funds by selling commercial 
+papers in the market. The money market is considered a safe place to 
+invest due to the high liquidity of securities.   
+ii) The money market is a market for short-term financial assets which can 
+be turned over quickly at a low cost. It provides an avenue for 
+equilibrating the short-term surplus funds of lenders and the 
+requirements of borrowers. 
+iii) It is one market but a collection of markets, such as, call money, notice 
+money, repose, term money, treasury bills, commercial bills, 
+certificate of deposits, commercial papers, inter-bank participation 
+
+
+--- Page 5 ---
+ 
+ 
+175 
+Money Markets certificates, inter-corporate deposits, swaps futures, options, etc. and is 
+concerned to deal in a particular type of assets. Its chief characteristic 
+is its relative liquidity. All the sub-markets have close inter-
+relationships and free movement of funds from one sub-market to 
+another. There has to be a network of a large number of participants 
+which will add greater depth to the market. 
+iv) The activities in the money market tend to concentrate in some centre 
+which serves a region or an area; the width of such area may vary 
+considerably in some markets like London and New York which have 
+become world financial centres. Where more than one market exists in 
+a country, with screen-based trading and revolutions in information 
+technology, such markets have rapidly become integrated into a 
+national market. In India, Mumbai is emerging as a national market for 
+money market instruments. 
+v) An important feature of the money market is its’ impersonal character 
+so that competition will be relatively pure. The money market is 
+entirely different where no visible shops and counters exist. 
+vi) Trading is a wholesale process as the volume of funds or financial assets 
+traded in the money market is very large.   
+10.3 OBJECTIVES AND  FUNCTIONS OF MONEY 
+MARKET  
+Objectives: The major objectives of money market are enlisted below: 
+i) A parking place to employ short-term surplus funds. 
+ii) Room for overcoming short-term deficits. 
+iii) Reasonable access to users of short-term funds to meet their requirements 
+quickly, adequately and at reasonable costs. 
+iv) The Central Bank to influence and regulate liquidity in the economy 
+through its intervention in this market. 
+The money market is an important part of the economy. It plays a very 
+significant role in facilitating the various sectors of the economy in the 
+following manner: 
+i) Financing Trade:  The money market provides financing to local and 
+international traders who are in urgent need of short-term funds. It 
+provides a facility to discount bills of exchange, and thereby providing 
+finance to pay for goods and services. International traders benefit from 
+the acceptance houses and discount markets. The money market also 
+makes funds available for other units of the economy such as agriculture 
+and small-scale industries. 
+ii) Help in Implementing Central Bank Policies : The money market 
+provides a base and mechanism for effective implementation of the 
+monetary policy. Through the money market, the central bank can 
+
+
+--- Page 6 ---
+ 
+ 
+176 
+Financial Markets perform its policy-making function efficiently. Integrated money markets 
+help the central bank to influence the sub-markets and thereby getting its 
+monetary policy implemented. Central Bank ensures that the liquidity 
+and the short-term interest rates are consistent with the monetary policy. 
+iii) Growth of Business and Industries: The money market is important for 
+businesses because it allows companies with a temporary cash surplus to 
+invest in short-term securities; conversely, companies with a temporary 
+cash shortfall can sell securities or borrow funds on a short-term basis. In 
+essence, the market acts as a repository for short-term funds and to 
+finance the working capital needs. Although the money market does not 
+provide long-term loans, it influences the capital market and can also 
+help businesses obtain long-term financing. The capital market 
+benchmarks its interest rates based on the prevailing interest rate in the 
+money market. 
+iv) Self-Sufficiency to Commercial Banks:  The money market provides 
+commercial banks with a ready market where they can invest their excess 
+reserves and earn interest while maintaining liquidity. Short-term 
+investments such as bills of exchange can easily be converted to cash to 
+support customer withdrawals. Also, when faced with liquidity problems, 
+they can borrow from the money market on a short-term basis as an 
+alternative to borrowing from the central bank. The advantage of this is 
+that the money market may charge lower interest rates on short-term 
+loans than the central bank typically does. 
+v) Other functions: Promotes economic growth by making funds available 
+to various units in the economy such as agriculture, small-scale 
+industries, etc. and makes available investment avenues for short-term 
+periods. It helps in generating savings and investments in the economy. 
+The money market provides non-inflationary sources of finance to the 
+government. It is possible to raise short-term loans by issuing treasury 
+bills which does not lead to an increase in the prices. In short, the 
+functions of the money market are:   
+i) It provides an equilibrating mechanism for evening out short-term 
+surpluses and deficits. 
+ii) A focal point for central bank intervention for influencing liquidity 
+in the economy as per monetary policy. 
+iii) Reasonable access to the users of short-term money to meet their 
+requirements at realistic prices i.e., rate of interest. 
+10.4  REQUISITES FOR A GOOD FUNCTIONING 
+MONEY MARKET 
+A good money market is one of the prerequisites for a nation’s economic 
+progress and the effective implementation of monetary policy. A money 
+market is considered ‘developed’ if it satisfies the following conditions:  
+
+
+--- Page 7 ---
+ 
+ 
+177 
+Money Markets i) Institutional development, relative political stability and a reasonably 
+well-developed highly organised commercial banking and financial 
+systems.  
+ii) The presence of a strong and efficient Central bank ensures credibility in 
+the system, supervision of the players in the market and facilitation of 
+the implementation of monetary policy by way of open market 
+operations.  
+iii) Promote financial mobility in the form of inter-sectoral flows of funds. 
+iv) Continuous supply of negotiable securities such as bills of exchange, 
+treasury bills, short-term Government bonds, etc. The market should 
+have varied instruments with distinctive maturity and risk profiles to 
+meet the varied appetites of the players in the market. Multiple 
+instruments add strength and depth to the market.  
+v) Existence of several sub-markets, each specialising in a particular type of 
+short-term asset. The larger the number of sub-markets, the broader and 
+more developed will be the structure of the money market. The funds 
+should move from one segment of the market to another to exploit the 
+advantages of arbitrage opportunities. The sub-markets should form an 
+integrated structure in which every segment of the money market is in an 
+intimate relationship with each other. This is essential to ensure 
+uniformity of interest rates in various sub-markets and also for the free 
+flow of funds. This helps channelising savings into productive 
+investments (like working capital). 
+vi) The market should be integrated with the rest of the markets in the 
+financial system to ensure perfect equilibrium. Efficient payment 
+systems for clearing and settlement of transactions. The introduction of 
+Electronic Funds Transfer (EFT), Depository System, Delivery versus 
+Payment (DVP), High-Value Inter-bank Payment System, etc. are 
+essential prerequisites for ensuring a risk-free and transparent payment 
+and settlement system.  
+vii) Unlike capital markets  or commodity markets, trading in the money 
+market is concluded over the telephone followed by written 
+confirmation from the contracting parties. Hence, integrity is sine qua 
+non. Thus, banks and other players in the market may have to be licensed 
+and effectively supervised by regulators.  
+There are not many developed money markets in the world which have all the 
+above-said features. London and New York money markets are the best 
+examples of developed money markers. Other examples of international 
+financial markets are Paris, Zurich, Frankfurt, Amsterdam and Vienna which 
+contain most of the features of developed money markets.  
+ 
+
+
+--- Page 8 ---
+ 
+ 
+178 
+Financial Markets Check Your Progress 1 
+1) Define the Money Market.  
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+2) Describe main features of Money Market. 
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+3) What constitutes a good Money Market? 
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+10.5  MONEY MARKET IN INDIA 
+The Indian money market has a dichotomic structure. It has a simultaneous 
+existence of both the organized money market as well as unorganised money 
+markets.  
+10.5.1  Organised Sector 
+The organised segment is quite integrated and well-organised. The organised 
+money market is in full control of the RBI. In organized markets, there are 
+standardized rules and regulations governing their financial dealings. There is 
+also a high degree of institutionalization and instrumentalization. These 
+markets are subject to strict supervision and control by the RBI or other 
+regulatory bodies. The nature of the money market transactions is such that 
+they are large in amount and high in volume. Thus, the entire market is 
+dominated by a small number of large players. At the same time, the money 
+market in India is yet underdeveloped. The organized money market in India 
+is not a single market but is a conglomeration of markets of various 
+instruments which can broadly be put into the call money market, the bill 
+market, and other sub-markets.   
+Mumbai, Kolkata, Chennai, Delhi, Bangalore and Ahmedabad are the leading 
+centres of the organised sectors of the Indian money market. The Mumbai 
+money market is well organised, having head offices of the RBI and different 
+commercial banks, two leading well-developed stock exchanges, the bullion 
+exchange and a fairly organised market for Government securities. All these 
+have placed the Mumbai money market at par with the New York money 
+market of the USA and the London money market of England. 
+
+
+--- Page 9 ---
+ 
+ 
+179 
+Money Markets 10.5.2  Instruments of Organised Markets 
+There are different varieties of money market instruments, but all have a few 
+things in common. In India, the introduction of a host of new instruments 
+[certificates of deposit (CDs), commercial paper (CPs), inter-bank 
+participation certificates, and money market mutual funds  (MMMF)] have 
+made the Indian money market a vibrant one. The instruments of the money 
+market are characterized by short duration, large volume and deregulated 
+interest rates. The instruments are highly liquid. They also are safe 
+investments owing to the issuer’s inherent financial strength.  
+i) The call money market : Call money refers to the unsecured segment 
+of the money market that is designed for the management of liquidity 
+for a very short period — mostly overnight. If the period is more than 
+two days and up to 14 days it is called ‘ Notice money’. Money lent for 
+15 days to 1 year is called ‘Term money’. The call market enables 
+banks to even out their day-to-day demand for and supply of short-term 
+funds. This market is a purely unsecured market as no collateral is 
+offered for securing the funds and there are no brokers involved. 
+Settlement is done between the participants through the current account 
+maintained with the RBI. The ease of transacting as well as the low 
+transaction costs arising from the least documentation and same-day 
+settlement of funds act as strong incentives for banks to access the call 
+money market for managing intra-day funding requirements.  
+The money invested by banks in the call money market provides high 
+liquidity with limited profitability. The call money market in India takes 
+the form of an inter-bank  call money market  wherein the banks with 
+surplus lend to the needy banks. Banks usually borrow funds in this 
+market to meet their statutory obligations  about the keeping of reserves 
+with the Reserve Bank. The rate of interest in this market is highly 
+volatile and sensitive to changes in the demand and supply of funds, 
+with the changes taking place several times during the day. It is looked 
+upon as the barometer of the money market . The call money rates also 
+move in certain phases. For example, April, May and October generally 
+witness high rates and high volatility while in January and August, the 
+rates are lower and steady. Various measures have been taken by RBI to 
+reduce volatility in call rates. The setting up of the Discount and 
+Finance House of India ( DFHI) in 1988 was to broaden the base of the 
+call loan market. DFHI has now assumed the role of market maker in 
+the call loan market but due to its inadequate resources, it has not been 
+able to supply enough funds to check volatility. 
+This is the most important instrument in terms of volume of 
+transactions and in the sense that rates in this market are indicative of 
+conditions prevailing in the money market . The rates of other 
+instruments are linked to the rates obtained in the call market. The 
+principal call loan centre is Mumbai which accounts for nearly 85 to 90 
+per cent of the business transacted. The other centres are Kolkata, 
+
+
+--- Page 10 ---
+ 
+ 
+180 
+Financial Markets Delhi, Chennai, Bengaluru and Ahmedabad . The major players in this 
+market are commercial banks and DFHI who can both borrow and lend. 
+Select financial institutions like UTI, LIC, IDBI, NABARD etc. have 
+been permitted to operate in the call market as lenders which helps them 
+in effective cash management.  
+ ii)  The bill market : The bill market can be divided into two: (i) the 
+treasury bills market, and (ii) the commercial bills market. 
+a)  Treasury bills : The Union Government raises operational cash by 
+issuing treasury bills.  The Treasury bill is a short-term government 
+security having a maturity period ranging from a few days to a few 
+months. The instrument is sold by the Central Bank on behalf of 
+the government. Treasury bills are promissory notes and at present, 
+these are being issued for 3 maturities viz. (i) 91 days, (ii) 182 
+days, and (iii) 364 days. Treasury bills are zero coupon securities 
+and pay no interest. Instead, they are issued at a discount and 
+redeemed at the face value at maturity. For example, a 91-day 
+Treasury bill of ₹100/- (face value) may be issued at say ₹ 98.20, 
+that is, at a discount of say, ₹1.80 and would be redeemed at the 
+face value of ₹100/-. The return to the investors is the difference 
+between the maturity value or the face value (that is ₹100) and the 
+issue price. The treasury bills are generally sold by auction to the 
+highest bidder. Being government papers, the treasury bills enthuse 
+the confidence of a greater number of investors. Treasury bills are 
+good papers for commercial banks to invest their short-term funds. 
+There is no default risk associated with such instruments. They are 
+approved assets for Statutory Liquidity Ratio  (SLR). DFHI is the 
+market maker in these  instruments. This is the most important 
+instrument for hedging against volatility in the call loan market. All 
+T-Bills auctions are Price-based and are auctioned on Multiple-
+Price basis. 
+b)  Commercial bill market: bills rediscounting scheme (BRS) : 
+This scheme has been operative since 1970. Commercial banks are 
+permitted to issue derivative usance promissory notes for maturity 
+not more than 90 days backed by genuine trade bills of similar 
+tenor. This can be further rediscounted by the holder by 
+endorsement and delivery. The stamp duty on this usance 
+promissory note was waived in 1989. All commercial banks are 
+eligible to issue usance promissory notes  which can be discounted 
+by commercial banks, select financial institutions and urban 
+cooperative banks. DFHI participates actively in this market and 
+provides bid rates daily. This assures liquidity to the instruments. 
+This is a very important source of funds for commercial banks as 
+borrowing under BRS is not included as a liability while 
+calculating Net Demand and Time Liability (NDTL). Due to high 

@@ -1,0 +1,531 @@
+--- Page 21 ---
+ 
+ 
+77 
+Demand for money The number 10 shows that  25 must change hands for 10 times to arrange 
+the transaction value of  250. This is clear that the calculation of T in real 
+life is almost impossible and therefore, the above equation does not seem to 
+be practical. Therefore, we have another version of the quantity theory i.e., 
+income version . As per this version the transaction is converted to income 
+equation by replacing T with income Y assuming that Y is a proxy of T. The 
+logic behind this proxy is that T and Y are positively related though they are 
+not equal, yet they are proportional. Thus, the quantity equation is  
+M × V = P × Y 
+Where,  
+M = Quantity of money i.e. money supply  
+V = Income velocity of money instead of transaction velocity.  
+P = Price level 
+Y = Real output  
+Relationship Between the Quantity Theory of Money and Demand for 
+Money  
+From the transaction version of the theory, we know that  
+𝑀 × 𝑉 = 𝑃 × 𝑇 
+Think that there is a relationship between the volume of transactions T and 
+the demand for money because the more value of T means more transactions 
+and more transactions means the more demand for money. In this regard, 
+Laidler1 says that  
+“ though not stated as such by Fisher, this is equivalent to the following 
+theory of the money market put in supply and demand terms. The 
+demand for money depends upon the volume of the transactions to be 
+conducted in the economy and is equal to a constant fraction of these 
+transactions. Furthermore, the supply of money is given, and in 
+equilibrium the demand for money must be equal to its supply” .  
+Thus, M can be replaced by M d in equilibrium situation, therefore, the above 
+equation should be  
+𝑀ௗ × 𝑉 = 𝑃 × 𝑇 
+Moreover, if V and T are constants represented by 𝑉ത and 𝑇ത, therefore,  
+𝑀ௗ × 𝑉ത = 𝑃 × 𝑇ത 
+Or  
+ 
+1 Laidler, D. E. W. (1977). The Demand for Money: Theories and Evidence 
+(2nd ed.). Dun-Donnelley Publishing Corp. 
+
+
+--- Page 22 ---
+ 
+ 
+78 
+Money 𝑀ௗ = 𝑃 × 1
+𝑉ത × 𝑇ത  
+Let  
+1
+𝑉ത = 𝑘 
+Therefore,  
+𝑀ௗ = 𝑃 × 𝑘 × 𝑇ത  
+𝑀ௗ = 𝑘 (𝑃 × 𝑇ത) 
+Thus,  
+Money demand = 𝑘 × volume of transaction  
+Moreover, in classical frame work, we know that volume of transaction is 
+equal to the Y, therefore,  
+Money demand = 𝑘 × 𝐼𝑛𝑐𝑜𝑚𝑒  
+Criticism of the quantity theory  
+a) British economist J.M. Keynes criticised the quantity theory of money in 
+his book The General Theory of Employment, Interest and Money . He 
+says that inflation is not a result of money supply but the aggregate 
+demand. When at full employment level, the aggregate demand exceeds 
+the aggregate supply, then there is inflationary gap. The increase in 
+aggregate demand is independent of the money supply change.  
+b) Nobel laureate Paul Krugman empirically found that the theory is not 
+applicable during in a liquidity trap. Liquidity trap is a situation when the 
+interest reaches to its minimum and further fall in the interest is not 
+expected and monetary policy is ineffective.  
+c) Austrian-American economist Ludwig von Mises criticised the theory by 
+saying that the quantity theory of money does not focus on money 
+demand side. That’s a different matter that in equilibrium, the theory can 
+help to determine the demand for money, but not in non-equilibrium 
+situation.  
+d) Some economists argue that the quantity theory of money is not theory in 
+actual but the tautology.  
+5.4.2 The Cambridge Approach or Neoclassical Theory  
+Neoclassical theory is an improved version of the quantity theory of money. 
+The credit of this theory goes to Alfred Marshall, A.C. Pigou, D.H. Robertson 
+and J.M, Keynes. Since, all these economists were from the Cambridge 
+University, therefore, the theory got popular as the Cambridge version of the 
+quantity theory of money. These Cambridge economists argue that money is 
+
+
+--- Page 23 ---
+ 
+ 
+79 
+Demand for money mainly demanded for transaction purposes and people do not hold their 
+incomes entirely in money form (i.e., cash at home) because money at home 
+will not earn interest. Thus, only a portion (denoted by k) of the income is 
+held at home for transaction purposes. In equation form,  
+𝑀ௗ = 𝑘(𝑃𝑌) 
+where  
+Y = Real income  
+P = Price level  
+𝑀ௗ  = Money demand  
+Thus, according to Neoclassical theory of money, demand for money is 
+directly determined, and money supply can be determined in equilibrium 
+situation by keeping 𝑀ௗ  equal to money supply. This is an opposite to the 
+quantity theory of money in which money supply is replaced by money 
+demand. Moreover, here k is known as Cambridge k, which is the reciprocal 
+of the k in the quantity theory of money.  
+5.4.3 Liquidity Preference Theory or Keynes Theory of 
+Demand for Money  
+The Liquidity Preference Theory, proposed by John Maynard Keynes, is a 
+cornerstone of modern macroeconomics. It suggests that the demand for 
+money is not just determined by transactions but also by the desire of 
+individuals to hold liquid assets for unforeseen contingencies. Keynes accepts 
+that the main motive of money is its use as medium of exchange, but he also 
+recognises that there are two other motives too. According to Keynes, 
+individuals have a preference for liquidity, meaning they value money not 
+only for its ability to facilitate transactions but also for its security and ease of 
+conversion into other assets. According to Keynes, money demand M(d) is 
+the summation of the following three components:  
+a) Transaction motive 𝑀ௗ
+்  
+b) Precaution motive 𝑀ௗ
+௣ , and  
+c) Speculative motive 𝑀ௗ
+௦௣ . 
+The detail of each component is as follows:  
+a) Transaction motive  
+People do various small and big transactions in their day-to-day life. For 
+example: they purchase clothes, they buy cars, they buy cereals, they buy 
+flour, they pay interest, they repay their loans, they pay salaries, they pay 
+electricity bills, etc. All these transactions require money and this 
+demand is met by the income. Keynes confined the transaction motive as 
+
+
+--- Page 24 ---
+ 
+ 
+80 
+Money the necessity of cash to fill the gap between receipts and planned regular 
+payments (e.g., school fees, electricity bills). Higher the level of income 
+means the higher the level of transactions for goods and services 
+requiring more money. Therefore, the transaction demand is directly 
+related to the income. In equation form:  
+Nominal money demand =  𝑀ௗ
+் = 𝛼(𝑃𝑌) 
+Or  
+Real money demand =  𝑀ௗ
+்
+𝑃
+= 𝛼𝑌                            
+where, 𝛼 shows how much of the nominal income (PY) is demanded for 
+transaction purposes. The above equation shows that there is positive 
+relationship between the money demanded for transaction purpose and 
+the nominal income. Keynesians argue that money demand for 
+transaction purpose is interest-inelastic i.e., interest rate does not affect 
+the money demand, however, some economists argue that beyond a 
+certain level of interest rate ( i3 in the diagram), the money demand gets 
+interest-elastic because such high interest rate is perceived to be high 
+opportunity cost of holding cash balance.  
+b) Precautionary motive  
+Future is uncertain. Nobody knows what is going to happen in future, 
+therefore, to meet such unforeseen happenings people demand money. 
+Precautionary motive is one of the reasons people save their income to 
+be used in odd circumstances like death of a family member. The 
+demand for precautionary purpose is also directly related to income. In 
+equation form:  
+Nominal money demand =  𝑀ௗ
+௣ = 𝛽(𝑃𝑌) 
+Or 
+Real money demand =  𝑀ௗ
+௣
+𝑃
+= 𝛽𝑌 
+Here, b is a constant that shows how much portion of the nominal 
+income (PY) is demand for precautionary purpose. Keynesians think that 
+precautionary purpose demand is also interest-inelastic but some other 
+economists think that beyond a certain level of interest rate it will be 
+interest-elastic. Thus, the behaviour of the precautionary purpose 
+demand curve is the same as that of the transaction purpose demand.   
+c) Speculative Motive  
+Although, speculation can be found in any market whether financial 
+market or otherwise, Keynes’ explanation for speculation demand for 
+money revolves around bond market. Speculation means making profits 
+
+
+--- Page 25 ---
+ 
+ 
+81 
+Demand for money due to price fluctuation of an asset (e.g., a share, or bond). For example, 
+if you purchase a bond for  1000 today and the price reaches to  1200 
+after a year, then you will earn  200 as profit due to price change. Apart, 
+ 200, you will earn some interest also (generally known as coupon 
+payment) for holding the bond for 1 year. The profits due to price 
+fluctuations are known as capital gains. With regard to a perpetual bond 
+(i.e., a bond having infinity maturity period, the value of a bond is 
+calculated using the following formula:  
+𝑉 = 𝐶
+𝑖  
+where,  
+V = Value of a bond. 
+C = Coupon i.e., interest on the bond.  
+i = Market interest rate or discounting rate.  
+ The formula states that there is an inverse-relationship between the value 
+of a bond and the interest rate. As the interest rate rises, the value of the 
+bond falls down and as the interest rate falls, the value rises up. Keynes 
+argues that, at any time, there is a level of interest rate called normal 
+interest rate and as the interest rate goes above it, then an individual 
+expects the interest rate to fall and when the interest rate is below it, then 
+the individual expects the rise in interest rate. When an individual 
+expects the interest rate to fall (known as a bearish expectation), then he 
+will earn capital gain and interest due to holding period of the bond. 
+When he expects the interest rate to rise (known as a bullish 
+expectation), then he will suffer capital loss, but still he will earn coupon 
+(because the coupon is fixed by the issuer). As long as the coupon 
+exceeds the capital loss, then he will hold the bond and all the wealth 
+will be converted into bonds. If the capital loss exceeds the coupon, then 
+he will not hold bonds, but he would prefer his total wealth into money 
+form i.e., cash. At aggregate level, the weightage of each individual’s 
+holdings (in money and bond) is not significant and the aggregative 
+speculative demand for money is a smooth function of the interest rate. 
+According to Laidler, the speculative demand for money function can be 
+shown by the following equation where W is real wealth.   
+𝑀ௗ
+௦௣ = (𝑃 × 𝑊) × 𝑓(𝑖) 
+Therefore, total money demand can be expressed 
+                   𝑀ௗ = 𝛼𝑌 +  𝛽𝑌 + (𝑃 × 𝑊) × 𝑓(𝑖) 
+Alternatively,  
+                    𝑀ௗ = (𝛼 +  𝛽)𝑌 +  (𝑃 × 𝑊) × 𝑓(𝑖) 
+
+
+--- Page 26 ---
+ 
+ 
+82 
+Money Thus, money demand is a function of Y, W, and interest rate.   
+Some textbooks (e.g., Principles of Macronomics by N.G. Mankiw) 
+summaries the liquidity preference theory by the following equation:  
+Demand for nominal money =  𝑀ௗ = 𝑃𝐿(𝑖, 𝑌) 
+Alternatively,  
+Demand for real money =   𝑀ௗ
+𝑃 =  𝐿(𝑖, 𝑌) 
+Criticism of liquidity preference theory  
+a) Keynes’ segmentation of the demand for money into three categories is 
+impractical as it assumes individuals maintain distinct purses for 
+different purposes, whereas in reality, people typically manage their 
+finances from a single purse that serves all their needs. 
+b) Some economists have questioned the empirical validity of liquidity 
+preference theory, arguing that it fails to explain observed fluctuations in 
+interest rates and money demand accurately. Empirical studies have 
+shown that factors beyond liquidity preference, such as inflation 
+expectations, economic growth, and central bank policies, also influence 
+interest rates and money demand. 
+c) The theory assumes that all individuals have the same expectations about 
+future interest rates and income. However, in reality, people have diverse 
+expectations, leading to variations in their demand for money. This 
+heterogeneity is not adequately accounted for in liquidity preference 
+theory. 
+5.4.4 Baumol – Tobin Theory of Transaction Demand for 
+Money  
+This theory was developed by William Jack Baumol (1952) and James Tobin 
+(1956) independently, however, their results were found to be similar, that is 
+why, this theory is commonly termed as Baumol – Tobin theory for 
+transaction demand for money. The theory is also known as known as the 
+Baumol-Tobin Model of Cash Management. The theory is similar to the 
+concept of economic order quantity (EOQ) in inventory management. Just as 
+the economic order quantity is the quantity of the material which minimizes 
+the total cost consisting of purchase cost, order cost, and carrying cost, 
+similarly, the Baumol-Tobin theory helps us to find the level of cash (demand 
+for money for transaction purpose) which an individual should hold to 
+minimise total cost consisting of transaction cost and operational cost. How? 
+Although, the theory can be easily understood by minimizing the cost of 
+demand for money with reference to investment in bonds, yet to keep the 
+theory simple, we assume that an individual is willing to spend 
+ Y annually 
+by withdrawing from his bank account carrying interest i.  
+
+
+--- Page 27 ---
+ 
+ 
+83 
+Demand for money If  Y are withdrawn in one shot at the beginning of the year and spent 
+gradually at constant rate, then at the end of the year the balance should be 
+zero, therefore, his average holding should be Y/2 = [(opening balance + 
+closing balance)/2].  
+If he makes half withdrawal at beginning of the year, the opening balance 
+should be Y/2 and it will be spent over the first 6 months and another half 
+balance will be withdrawn and spent over the next 6 months, therefore, the 
+average holding should be Y/4. On the same pattern, if he makes Q number 
+of trips to the bank, then at the beginning he withdraws Q/N money, then the 
+average holding should be Q/2N.  
+Now, to withdraw the cash from bank, he will have to incur two types of 
+costs given below:  
+a) Cost of transaction – It includes the cost incurred to conclude the 
+transaction of withdrawing cash e.g., travel cost incurred to visit the 
+bank.   
+b) Opportunity cost – This is nothing but the interest lost, when the cash is 
+withdrawn from the bank because lower balance will earn lower interest.  
+If there are Q number of visits to bank and cost of per visit (or transaction 
+cost) is b, then the cost of visit should be : 
+𝑏𝑄 
+Moreover, if i is the interest rate, then the opportunity cost should be  
+𝑖𝑌
+2𝑄
+ 
+Therefore, total cost (𝑇𝐶) should be  
+𝑇𝐶 =  𝑖𝑌
+2𝑄 + 𝑏𝑄 
+Now, to minimise the total cost, we use differential calculus and find out the 
+first-order condition of minimization i.e.,  
+𝑑𝜑
+𝑑𝑄 = 0 
+− 𝑖𝑌
+2𝑄ଶ + 𝑏 = 0  
+𝑏 = 𝑖𝑌
+2𝑄ଶ  
+𝑄ଶ = 𝑖𝑌
+2𝑏 
+
+
+--- Page 28 ---
+ 
+ 
+84 
+Money 
+𝑄 = ඨ 𝑖𝑌
+2𝑏 
+Further, the average money holding is  
+𝐴 =  𝑌
+2𝑄 = 1
+2 × 𝑌
+ට 𝑖𝑌
+2𝑏
+  
+𝐴 = 1
+2 × 𝑌ඨ 2𝑏
+𝑖𝑌 
+𝐴 = ඨ 𝑏𝑌
+2𝑖  
+The above formula gives us the average money holding as per the Baumol-
+Tobin theory. The following illustrates the formula: Mr. M wants to withdraw 
+from his bank balance of  1,00,000. The interest rate is 5% per annum and 
+transaction cost (or cost of per visit)  4, then the optimum number of visits 
+and average money holding can be calculated as follows:  
+𝑄 = ඨ 0.05 × 1,00,000
+2 × 4 = 25 
+                           𝐴 = ඨ 4 × 1,00,000
+2 × 0.05 = ඥ 40,00,000 = 2,000 
+The above results can be verified through the following table and Figure 2. 
+This is obvious that total cost curve TC is minimum at Q=25.     
+Number of 
+visits (Q) 
+Average 
+monthly 
+holding = 
+Y/2Q  
+Visit cost  
+ = Q×
+4 
+Opportunity cost 
+= Average monthly 
+holding × 5%   
+Total Cost 
+5 10000 20 500.00 520.00 
+7 7143 28 357.14 385.14 
+10 5000 40 250.00 290.00 
+13 3846 52 192.31 244.31 
+16 3125 64 156.25 220.25 
+19 2632 76 131.58 207.58 
+
+
+--- Page 29 ---
+ 
+ 
+85 
+Demand for money  22 2273 88 113.64 201.64 
+25 2000 100 100.00 200.00 
+28 1786 112 89.29 201.29 
+31 1613 124 80.65 204.65 
+34 1471 136 73.53 209.53 
+37 1351 148 67.57 215.57 
+40 1250 160 62.50 222.50 
+43 1163 172 58.14 230.14 
+46 1087 184 54.35 238.35 
+49 1020 196 51.02 247.02 
+ 
+ 
+Fig. 5.2 : Optimum Number of Visits 
+Criticisms to the Baumol – Tobin Theory  
+a) The theory assumes that the money is spent at constant rate, but in real 
+life this assumption is unrealistic because people do not know with 
+certainty how much they need to spend.  
+b) It is not always easy to quantify the cost of transactions.  
+5.4.5 Tobin’s Theory of Speculative Demand for Money  
+James Tobin published a paper 2, in which he says that individuals make the 
+portfolio of money as well as bond, and the speculative demand for money is 
+ 
+2  Tobin, J. (1958). Liquidity Preference as Behavior Towards Risk. The 
+Review of Economic Studies, 25(2), 65. https://doi.org/10.2307/2296205  
+0
+100
+200
+300
+400
+500
+600
+0 5 10 15 20 25 30 35 40 45 50 55
+Visit cost (VC), Opportunity cost (OC), 
+and Total cost (TC)
+Number of Visits, Q
+TC 
+OC 
+VC 
+
+
+--- Page 30 ---
+ 
+ 
+86 
+Money a matter of uncertainty not the expectations about the interest rates as 
+opposed to Keynes who used to think that individuals hold either all cash or 
+all bonds depending upon their expectations of interest rate. Let us 
+understand the view of Tobin. Suppose that V represents the value of the 
+bonds and r is the rate of return, then total return should be  
+𝑅 = 𝑟𝑉 
+Moreover, if 𝜃 is rate of risk, then the total risk should be  
+𝛿 = 𝜃𝑉 
+Combining these two equations we get 
+𝑅 = 𝑟
+𝜃
+𝛿 
+The ratio 
+௥
+ఏ  should be treated as a constant 𝛽 , then we have  
+𝑅 = 𝛽𝛿 
+The last equation shows a linear relationship between R and 𝛿 as shown in 
+Figure 5 through the line OZ. The line shows that higher the level of risk 
+(shown on the horizontal axis in panel (a)) leads higher return (shown on the 
+vertical axis in panel (a)).  
+ 
+Fig. 5.3: Tobin’s Portfolio Optimization and Bonds and Cash Weights Determination 
+
+
+--- Page 31 ---
+ 
+ 
+87 
+Demand for money In panel (a), IC 1 and IC2 are two indifference curves showing different levels 
+of utility for various combinations of risk and return. From the properties of 
+the indifference curve, we know that higher the level of indifference curve is 
+preferable, therefore, an investor would prefer IC 2 in comparison to IC 1. To 
+prove this, let us consider that the investor choses point A on IC 1 where the 
+risk is 𝛿ଵ , but with the same amount of risk, a higher return on IC 2 is 
+available, but that return is not achievable because it does not fall on OZ. 
+Similarly, at point B, the risk is 𝛿ଶ , but the same return at point C on IC 2 is 
+available with lower risk 𝛿ଷ  . However, point C cannot be achieved because it 
+also does not fall on OZ. Thus, any point below IC 2 will give the investor 
+lower utility because of the opportunity to achieve the higher indifference 
+curve. Thus, the investor will maximise his utility when the OZ line touches 
+the indifference curve at point E. To achieve this point E, the investor would 
+need investment in bonds equal to OD out of total wealth W as shown on the 
+vertical axis in panel (b). Thus, remaining amount WD is cash remaining 
+with the investor. The line OM shows such various combinations of bond and 
+cash available with the investor for a given point in panel (a). Now, if the 
+interest rate falls, then the OZ line will rotate clockwise, say, OZ’ touching 
+IC1 at point F. Thus, new equilibrium (point of optimization) point is F at 
+which investment in bonds is OS while the cash is WS. This is obvious that 
+OS < OD implying that fall in interest rate causes the investment in bonds to 
+fall. Therefore, according to Tobin, people combine bonds and cash in a ratio 
+to make a portfolio depending upon their point of optimization.  
+5.4.6 Friedman’s Quantity Theory of Money  
+Milton Friedman, an American economist cum statistician and the 1976 
+Nobel prize winner, developed his theory of demand for money. Infact, 
+Friedman regarded his theory as a restatement of the quantity theory of 
+money, that is why, his theory sometimes called modern quantity theory of 
+money. According to Friedman, money demand can be studied in the same 
+manner as the demand for any asset. Thus, the Friedman’s 1970 version of 
+the demand for money function is as follows:  
+𝑀ௗ = 𝑓(𝑌௉ , 𝑊,  𝑖௠ ,  𝑖௕ ,  𝑖௘ , 𝜋௘ , 𝑢)𝑃 
+where,  
+P is the price level. The logic of inclusion of the price level is that changes 
+the purchasing power of the money. If P increases, then it reduces the real 
+money balance i.e., the purchasing power and to compensate it people 
+demand more money. 
+𝑌௉  is permanent income which is used as a proxy of human wealth (i.e., 
+labour earnings) because wealth cannot be directly measured. Permanent 
+income is weighted average of the past and present incomes. Higher the level 
+of permanent income means higher the money demand.  
+𝑊 is non-human wealth e.g., land or machines.  
+
+
+--- Page 32 ---
+ 
+ 
+88 
+Money  𝑖௠  is the return on money itself and if it increases, then the people demand 
+more money.  
+ 𝑖௕  is the return on bond. Its decrease or increase result in capital gain or loss, 
+therefore, it is negatively related to the money demand.  
+ 𝑖௘  is the return on equities. It is negatively related to money demand because 
+higher the return on equities will attract the investors to earn dividends and, 
+therefore, less money demand.  
+𝜋௘  is the expected inflation rate. When people expect inflation in future, then 
+their purchasing power will decline, therefore, they would like spend or 
+invest money before their expectations come true. Therefore, there is a 
+negative relationship between the money demand and expected inflation rate. 
+Expected inflation can be calculated as follows:  
+𝜋௘ = 1
+𝑃
+𝑑𝑃௘
+𝑑𝑡  
+𝑢 is a variable representing all those factors not considered in the function 
+e.g., taste and preferences. Its relationship with the money demand may be in 
+either of the directions.  
+Check Your Progress 2   
+1) Although the quantity theory of money is not a theory of demand, then 
+how can it be used as a theory of demand for money?  
+ ...................................................................................................................
+...................................................................................................................
+................................................................................................................... 
+2) What are the three motives for which money is demanded ? 
+ ...................................................................................................................
+...................................................................................................................
+................................................................................................................... 
+3) What is Tobin’s theory for demand for money?  
+ ...................................................................................................................
+...................................................................................................................
+................................................................................................................... 
+4) What is the usefulness of the Baumol – Tobin model?  
+ ...................................................................................................................
+...................................................................................................................
+................................................................................................................... 

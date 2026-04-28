@@ -1,0 +1,269 @@
+--- Page 73 ---
+ 
+ 
+243 
+Derivatives ……………………………………………………………………………
+…………………………………………………………………………… 
+3)  Do you think that option is a type of a future?   
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+4) When can the call option and put option be exercised?  
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+13.8  SWAPS  
+In finance, a swap refers to a financial contract between two parties to 
+exchange cash flows or financial instruments. In this contract, the parties 
+agree to swap one type of cash flow or financial instrument for another based 
+on predetermined terms. These agreements encompass both spot and forward 
+transactions within a customized framework. Corporations, banks, and 
+individual investors now utilize swaps for intricate financing solutions, 
+reducing borrowing costs, and gaining better control over interest rate and 
+foreign currency risks. Swaps serve diverse purposes, ranging from hedging 
+to speculation, but their core objective is to alter the nature of an asset or 
+liability without the need for liquidation. For instance, an investor deriving 
+returns from equity investments can transform those returns into less risky 
+fixed-income cash flows without liquidating the equities. Similarly, a 
+corporation with floating-rate debt can convert it into a fixed-rate obligation 
+without retiring and reissuing debt. 
+Various features of Swaps are as follows:  
+1) Customizability: Swaps are highly customizable agreements tailored to 
+meet the specific needs of the parties involved. 
+2) Counterparty Risk:  Swaps involve counterparty risk since the 
+agreement is dependent on both parties fulfilling their obligations. 
+3) Over-the-Counter (OTC) Trading : Swaps are typically traded OTC, 
+which means they are not traded on standardized exchanges but rather 
+through a network of dealers. 
+4) Types of Swaps: The most common types of swaps include interest rate 
+swaps, currency swaps, and commodity swaps. Each type has different 
+underlying assets and cash flow structures. 
+
+
+--- Page 74 ---
+ 
+ 
+244 
+Financial Markets 5) Fixed and Floating Rates : Swaps often involve the exchange of fixed 
+interest rates for floating rates (or vice versa), helping parties manage 
+interest rate exposure. 
+6) Maturity: Swaps have specified maturity dates, which can range from a 
+few months to several years, depending on the agreement. 
+7) Notional Principal: The notional principal amount is the total value on 
+which the exchanged cash flows are calculated. This principal itself is 
+usually not exchanged. 
+8) Cash Flow Exchange: Parties exchange cash flows based on the agreed-
+upon terms, which may occur periodically (e.g., quarterly, semi-
+annually). 
+9) Purpose: Swaps are used for hedging risks, managing exposure to 
+fluctuations in interest rates or currencies, and speculating on future price 
+movements. 
+10) Documentation: Swaps are documented in a swap agreement, which 
+includes terms such as the notional amount, payment dates, calculation 
+methods, and conditions for default. 
+Let us understand various forms of swaps. Common swaps are:  
+a) Interest rate swap – Under this type of swap, one party agrees to pay 
+fixed interest on a notional amount and receive floating interest on the 
+same notional amount. Generally, the floating interest rate is calculated 
+as LIBOR (London Inter Bank Offered Rate) + Some base points. In 
+India, MIBOR (Mumbai Inter Bank Offered Rate) is also popular in 
+place of LIBOR.   
+Example 13.5:  Suppose there are two companies A and B. They enter an 
+agreement with each other in which company A will pay Company B a fixed 
+interest at 7% p.a. on a notional amount of ₹10,00,000 and it will receive 
+floating interest i.e., LIBOR + 1%. The agreement is valid for 3 years. If the 
+LIBOR data is given below, then the cash flows under the interest rate swap 
+can be calculated as follows:  
+Years  LIBOR  
+0 to 1 year  8% 
+1 to 2 years  6% 
+2 to 3 years  10% 
+Step 1: Floating Interest  
+Years  Floating interest rate = LIBOR + 1%  Floating interest (in ₹) 
+1  9% 90,000 
+2  7% 70,000 
+3  11% 1,10,000 
+
+
+--- Page 75 ---
+ 
+ 
+245 
+Derivatives Step 2: Fixed Interest   
+Years  Floating interest rate = LIBOR + 1%  Floating interest (in ₹) 
+1  10% 100,000 
+2  10% 100,000 
+3  10% 100,000 
+Step 3: Exchange of net cash flows  
+Years  Net cash flows (in ₹) Explanation 
+1 (-) 20,000 Company A will pay ₹ 100,000 and receive ₹ 80,000 
+from B, therefore, A can pay a net ₹ 20,000.  
+2  (-) 30,000 Company A will pay ₹ 1,00,000 and receive ₹ 70,000 
+from B, therefore, A can pay a net ₹ 30,000. 
+3  10,000 Company A will pay ₹ 1,00,000 and receive ₹ 1,10,000 
+from B, therefore, A can receive a net ₹ 10,000. 
+b) Credit Default Swaps (CDS) – A credit default swap (CDS) is a 
+financial contract between two parties that provides insurance against the 
+risk of default on a specific debt instrument, such as a bond or loan. The 
+buyer of the CDS makes payments to the seller of the CDS in exchange 
+for a guarantee that in the event of a default by the borrower, the seller 
+will pay the buyer the face value of the debt instrument. 
+Example 13.6: Suppose Company A issues a bond worth ₹10 million with a 
+maturity of 5 years. Investors who buy the bond are essentially lending 
+money to Company A, and in return, Company A agrees to make regular 
+interest payments and repay the principal at maturity. However, there is a risk 
+that Company A may default on its debt obligations, which would mean that 
+investors would not receive their interest payments or the principal at 
+maturity. To mitigate this risk, an investor can purchase a CDS from a 
+financial institution, such as a bank or hedge fund. The investor pays a 
+premium to the institution to protect against the risk of default by Company 
+A. If Company A defaults, the institution must pay the investor the face value 
+of the bond, which is ₹10 million in this case. The investor effectively 
+transfers the risk of default from themselves to the institution, which is 
+compensated through the premium paid by the investor. 
+Check Your Progress 3:  
+1)  State the key features of SWAP.  
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+2)  Discuss the potential of SWAPS in India. 
+
+
+--- Page 76 ---
+ 
+ 
+246 
+Financial Markets ……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+13.9  LET US SUM UP   
+Derivatives: Financial contracts that derive their value from an underlying 
+asset or security, such as stocks, bonds, or commodities constitute the 
+derivatives. They have various pros and cons. Their biggest advantage is 
+hedging against the risk and the biggest disadvantage is default risk. The 
+various types of derivatives include Futures, Forwards, Options, Swaps etc. 
+Futures are Standardized contracts that obligate the buyer to purchase and 
+the seller to sell a specific asset at a predetermined price and date in the 
+future. Similar to futures contracts, Forwards are not standardized and are 
+usually customized to meet the specific needs of the buyer and seller. 
+Options are Contracts that give the buyer the right, but not the obligation, to 
+buy or sell an underlying asset at a predetermined price and date in the future. 
+Agreements between two parties to exchange cash flows based on different 
+financial instruments or indexes, such as interest rates or currencies are 
+Swaps. There are various swap agreements, but interest rate swaps and credit 
+default swaps are the two most popular ones. Under an interest rate swap 
+agreement, two parties agree to exchange fixed interest for floating interest, 
+while a credit default swap (CDS) is a financial contract that allows one party 
+to transfer the credit risk of a particular asset or security to another party. In 
+essence, it is a type of insurance policy that protects the buyer of the CDS 
+from the risk of default by the issuer of the underlying security. Derivatives 
+trading began in India in 2000, and the National Stock Exchange (NSE) and 
+Bombay Stock Exchange (BSE) are the two exchanges in India where 
+derivatives are traded. 
+Derivatives in India are traded on two main exchanges: the National Stock 
+Exchange (NSE) and the Bombay Stock Exchange (BSE). The Securities and 
+Exchange Board of India (SEBI) regulates the derivatives market. 
+Commodity derivatives are traded on the Multi Commodity Exchange (MCX) 
+and the National Commodity and Derivatives Exchange (NCDEX), while 
+currency derivatives are traded on the Metropolitan Stock Exchange (MSE). 
+13.10  KEY WORDS 
+Derivative      : A financial asset that derives its value from another asset 
+called an underlying asset. There are various types of 
+derivatives. It includes futures, forwards, options, 
+commodity derivatives, etc. 
+Futures          : Futures contracts are financial instruments that allow 
+parties to buy or sell an asset, such as commodities, 
+currencies, or financial instruments, at a predetermined 
+price and date in the future. The price of the underlying 
+
+
+--- Page 77 ---
+ 
+ 
+247 
+Derivatives asset is fixed at the time the futures contract is created, and 
+the transaction is legally binding. 
+Forwards      : Forwards are similar to futures, but they are not traded on 
+exchanges. Instead, they are customized contracts between 
+two parties to buy or sell an underlying asset at a 
+predetermined price and time in the future.  
+Option          : An option is a right to buy or sell an underlying at a strike 
+or exercise price at the expiry of the option.  
+Swap            : In finance, a swap is a derivative contract that allows two 
+parties to exchange financial instruments or cash flows 
+with each other based on agreed-upon terms. Interest rate 
+swaps and credit default swaps are two very popular 
+swaps.  
+13.11 SOME USEFUL BOOKS AND REFERENCES 
+Brealy, R. A., Myers, S. C., & Allen, F. (2017). Principles of Corporate 
+Finance (12th ed.). McGraw-Hill. 
+Brigham, E., & Ehrhardt, M. (2017). Financial Management  (12th ed.). 
+Thomson South Western. 
+Horne, J. V., & Wachowicz, J. (2008). Fundamentals of Financial 
+Management (13th ed.). Prentices Hall. 
+Kishore, R. M. (2010). Strategic Financial Management (2nd ed.). Taxmann 
+Publications Pvt. Ltd. 
+Pandey, I. M. (2009). Financial Management  (9th ed.). Vikas Publishing 
+House Pvt. Ltd. 
+References: 
+Kishore, R. M. (2010). Strategic Financial Management (2nd ed.). Taxmann 
+Publications Pvt. Ltd. 
+Brealy, R. A., Myers, S. C., & Allen, F. (2017). Principles of Corporate 
+Finance (12th ed.). McGraw-Hill. 
+Brigham, E., & Ehrhardt, M. (2017). Financial Management  (12th ed.). 
+Thomson South Western. 
+Securities and Exchange Board of India (SEBI). (2021). Derivatives. 
+Retrieved from https://www.sebi.gov.in/sebiweb/home/Derivatives.html 
+National Stock Exchange of India (NSE). (2021). Derivatives. Retrieved 
+from https://www.nseindia.com/products-services/derivatives 
+Bombay Stock Exchange (BSE). (2021). Derivatives. Retrieved from 
+https://www.bseindia.com/markets/Derivatives.aspx 
+Reserve Bank of India (RBI). (2020). Handbook of Statistics on Indian 
+Economy. Retrieved from  
+
+
+--- Page 78 ---
+ 
+ 
+248 
+Financial Markets https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook%20
+of%20Statistics%20on%20Indian%20Economy 
+Prabhakar, R., & Rani, S. (2019). Derivatives Trading in India: A Review. 
+International Journal of Management, Technology, and Social Sciences 
+(IJMTS), 4(2), 67-73. Retrieved  
+fromhttps://www.researchgate.net/publication/334139590_Derivatives_Tradi
+ng_in_India_A_Review 
+13.12 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) A derivative is a financial instrument that derives its value from an 
+underlying asset, such as a stock, bond, currency, or commodity. The 
+value of a derivative is based on the changes in the value of the 
+underlying asset. 
+2) Derives its value from an underlying asset, traded globally, Exchange-
+traded derivatives like futures or stock options are standardized and 
+eliminate or reduce many of the risks of over-the-counter derivatives, 
+usually leveraged instruments. 
+3) Lock in prices, hedge against risk, can be leveraged, useful in making a 
+diversified portfolio. Limitations: difficult to value them, subject to 
+counterparty default, complex, sensitive to demand and supply factors. 
+Check Your Progress 2 
+1) An option is an agreement between two parties (say A and B) in which a 
+party, say, A, has the right to buy or sell a particular asset at a 
+predetermined price within a specified time frame. 
+2) A call option  is a type of derivative in which the buyer gets a right to 
+buy an underlying at an agreed price. A put option  is a type of 
+derivative in which the buyer gets a right to sell an underlying at an 
+agreed price. 
+3) No, Futures are a contract that obligates the buyer to purchase or sell an 
+asset at a specified future date and price, while options give the buyer the 
+right, but not the obligation, to purchase or sell an asset at a specified 
+price and date. 
+4) Refer to Table 13.2 and 13.3  
+Check Your Progress 3  
+1) Refer to Section 13.8 
+2) Refer to Section 13.8    

@@ -1,0 +1,452 @@
+--- Page 71 ---
+ 
+ 
+70 
+Financial Institutions 16.9 LET US SUM UP 
+SEBI is a statutory regulatory body that was established by the Government 
+of India in 1992 to protect the interests of investors investing in securities 
+along with regulating the securities market. SEBI regulates the stock market 
+and how mutual funds function. It promotes the development of the securities 
+market and regulates the business. SEBI’s objectives are to fulfil the needs of 
+issuers, investors and intermediaries. 
+The governance of SEBI is entrusted to the SEBI board which consists of a 
+chairman and several other full-time and part-time members. The chairman is 
+nominated by the union government. The others include two members from 
+the finance ministry, one member from the Reserve Bank of India and five 
+other members are also nominated by the Centre. Further, a Securities 
+Appellate Tribunal (SAT) has been constituted to protect the interest of 
+entities that feel aggrieved by SEBI’s decision. SAT consists of a presiding 
+officer and two other members. 
+SEBI has three functions rolled into one body: quasi-legislative, quasi-
+judicial and quasi-executive. It drafts regulations in its legislative capacity, it 
+conducts investigation and enforcement action in its executive function and it 
+passes rulings and orders in its judicial capacity. 
+SEBI has introduced numerous measures to improve the efficiency of the 
+capital market in India. By improving market efficiency, increasing 
+transparency, and preventing unfair trade practices, SEBI has succeeded in 
+raising the standard of the Indian capital market to the international level. 
+Underlying this progress in the securities market have been several 
+noteworthy institutional developments. SEBI has the power to provide licenses 
+to dealers and brokers of the capital market. On several occasions, SEBI has 
+taken action against front-running. Over the years, SEBI has done a good job 
+of rewriting the rules and regulations to ensure India’s stock markets and the 
+ecosystem around it function efficiently. But some loopholes remained.  
+SEBI plays an important role in the following ways: 
+i) Making rules for regulating the stock exchange,  
+ii) Providing licenses to dealers and brokers,  
+iii) Regulating mergers, acquisitions and takeovers of the companies, and  
+iv) Auditing the performance of the stock market. 
+16.10  KEY WORDS 
+Application Supported : 
+by Blocked Amount 
+(ASBA) facility 
+Where investor funds remain blocked in their bank 
+accounts instead of being passed to the broker 
+until the execution of the purchase order. 
+Fintech                          : New technology that seeks to improve and 
+automate the delivery and use of financial 
+services.  
+
+
+--- Page 72 ---
+71 
+SEBI Forensic audit  :  It involves a deep examination of all sorts of 
+records within an organisation to identify possible 
+unethical or criminal behaviour. 
+Front-running  :
+ occurs when somebody utilises insider knowledge 
+of planned future institutional transactions to take 
+a position on their account before the institutional 
+orders are placed. 
+Index providers  :
+ Index providers are those institutions that 
+formulate and manage indices. The most 
+prominent indices in India are the Nifty50 by NSE 
+Indices, and Sensex provided by a venture of S&P 
+Dow Jones Indices and BSE Lied. 
+Insider trading  :
+ Making profits by buying or selling a publicly 
+traded company’s stock by someone (usually an 
+insider) with non-public, material information 
+about that company. 
+Short selling  :
+ Short-selling is an investment strategy in which a 
+trader speculates on the decline of a stock price 
+using complex financial products. 
+Side letters  :  Side letters are agreements between a particular 
+investor and the investment manager that provide 
+the specific investor with different or preferential 
+terms than those outlined in the fund’s governing 
+documents, available to other investors. 
+Total expense ratio     : 
+(TER) 
+It is the amount that Mutual Funds proportionately 
+charge investors for the expense incurred on a 
+scheme. 
+16.11  SOME USEFUL BOOKS AND REFERENCES 
+Basu, Debashis (2022, December 04). Finfluencers: SEBI’s lost battle, 
+Business Standard , https://www.business-standard.com/article/opinion/ 
+finfluencers-SEBI-s-lost-battle-122120400934_1.html 
+Dayal, Gaurav and Sawhney, Shylla (2022, May 25). Taking ESG reporting 
+to the next level, The Hindu Business Line,  
+https://www.thehindubusinessline.com/todays-paper/tp-opinion/taking-esg-
+reporting-to-the-next-level/article65458396.ece 
+Kumar, K Ram and Iyengar, Suresh P. (2023, February 11). SEBI plans a 
+forensic audit of all mutual funds, The Hindu Business Line, 
+https://www.thehindubusinessline.com/markets/SEBI-plans-forensic-audit-
+of-all-mutual-funds/article66496911.ece 
+
+
+--- Page 73 ---
+ 
+ 
+72 
+Financial Institutions Muneer, M. and Ward, Ralph (2023, March 24). The Adani affair revealed 
+gaping holes in governance, Live mint,  
+https://www.livemint.com/opinion/columns/the-adani-affair-revealed-gaping-
+holes-in-governance-11679593117188.html 
+Nair, CKG and Sahoo, MS (2022, May 30). It’s time for regulatory algos, 
+The Hindu Business Line , https://www.thehindubusinessline.com/todays-
+paper/tp-opinion/its-time-for-regulatory-algos/article65474445.ece 
+Sabarinathan, G (2010): Securities and Exchange Board of India and the 
+Regulation of the Indian Securities Market, Working Paper no. 309, Indian 
+Institute of Management (IIM), Bangalore, https://www.iimb.ac.in/node/1898 
+Sahoo, M S and Agarwal, Sumit (2022, June 13). Standardising regulatory 
+prescriptions, Business Standard , https://www.business-standard.com/ 
+article/opinion/standardising-regulatory-prescriptions-122061301247_1.html 
+Saravanan, Palanisamy and Banerjee, Sumit (2023, January 03). Index 
+providers need to be regulated, The Hindu Business Line,  
+https://www.thehindubusinessline.com/opinion/index-providers-need-to-be-
+regulated/article66334895.ece 
+Shah, Palak (2023, February 06). Aftermath of Adani issue. SEBI gets strict 
+on beneficial owners hiding behind FPIs, The Hindu Business Lines , 
+https://www.thehindubusinessline.com/markets/SEBI-gets-strict-on-
+beneficial-owners-hiding-behind-fpis/article66478394.ece 
+16.12 ANSWER/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1  
+1) SEBI is a market regulator officially established in the year 1988 and 
+given autonomous and statutory powers in 1992 to protect the interests of 
+investors in the securities market. It also regulates the functioning of the 
+stock market. 
+2) Regulation of Stock Exchanges, investor protection,  preventing 
+fraudulent practices, developing a code of conduct, and ensuring 
+investor’s education. 
+3) The failure of the securities market could have a ripple effect on the rest 
+of the financial system as a whole. Safeguarding investors' interest will 
+also ensure confidence in the stock market and ultimately growth of the 
+stock market. 
+Check Your Progress 2 
+1) Listing Obligations and Disclosure Requirements for Prevention 
+of Fraud and Unfair Trade Practices Rules, shield retail investors 
+from fraud, advanced and graded surveillance mechanisms. 
+
+
+--- Page 74 ---
+73 
+SEBI 2) Refer to Section 16.4
+3) Securities Appellate Tribunal (SAT) has been constituted to protect the
+interest of entities that feel aggrieved by SEBI’s decision. SAT consists
+of a presiding officer and two other members.
+4) Refer to Sub-section 16.4.2
+Check Your Progress 3 
+1) The massive size of illegal businesses, financial influencers, money
+laundering through FII, and dealing with hi-tech innovative products.
+2) SEBI is working to build internal capacity and skillsets in efficiently
+mining surveillance data and building a convincing evidence trail.
+3) Accounting rule writing and administration system.
+4) Investors focus on sustainability investing, shifting from finance-centric
+investment models to more socially and environmentally responsible
+long-term investing trends. ESG has gained significant traction globally
+which focuses on non-financial factors as a metric for guiding
+investment decisions.
+16.13  TERMINAL EXERCISES 
+1) ‘To promote orderly and healthy growth of securities market and
+protection of investors, SEBI was set up’. With reference to this
+statement, describe the working of SEBI.
+2) How will you explain the success of SEBI in regulating the Indian capital
+market since its inception? Amplify your answer.
+3) ‘SEBI needs to reinvent itself and its regulations to control market
+manipulation in the digital era’. Explain this statement and do you think
+SEBI’s regulations need to be rewritten?
+4) Examine how SEBI has been responsive to the needs of three groups,
+which constitute the market: the issuers, the investors, and the
+intermediaries.
+5) How is SEBI a quasi-legislative, quasi-executive and quasi-judicial
+organisation? Explain with examples.
+6) What are the multiple perspectives from which the rationale for
+establishing SEBI was made? Give a reason for your answer.
+
+
+--- Page 75 ---
+ 
+ 
+74 
+Financial Institutions UNIT 17 OTHER FINANCIAL INSTITUTIONS 
+AND REGULATIONS  
+Structure 
+17.0 Objectives  
+17.1   Introduction 
+17.2 Nature and Importance of Other Financial Institutions (OFIs) 
+17.3   Small Industries Development Bank of India (SIDBI) 
+ 17.3.1  SIDBI’s Primary Functions  
+17.3.2  Finance Facilities Offered by SIDBI 
+17.3.3  Importance of SIDBI  
+17.4    Export-Import Bank of India (EXIM Bank)  
+17.4.1  Financing Functions and Facilities 
+17.5  National Bank for Agriculture and Rural Development (NABARD) 
+17.6  Infrastructure Finance 
+17.7   National Bank for Financing Infrastructure and Development  
+(NaBFID) 
+17.8  India Infrastructure Finance Company Ltd (IIFCL) 
+17.9 Infrastructure Leasing & Financial Services Limited (IL&FS) 
+17.10  Power Finance Corporation Ltd. ( PFC) 
+17.11  Rural Electrification Corporation Ltd. ( REC) 
+17.12  National Housing Bank (NHB) 
+17.13  Tourism Finance Corporation of India (TFCI)   
+17.14  Insurance Sector 
+             17.14.1  Life Insurance Corporation of India (LIC) 
+             17.14.2  General Insurance Companies (Non-life Insurance) 
+17.15  Mutual Funds 
+17.16   Let Us Sum Up  
+17.17  Key Words 
+17.18  Some Useful Books/References  
+17.19 Answer/Hints to Check Your Progress Exercises   
+17.20 Terminal Questions  
+17.0  OBJECTIVES 
+After completing this unit, you will be able to: 
+ highlight the heterogeneity of other financial institutions (OFIs) 
+institutions as they serve specific sectors of the economy; 
+ 
+
+
+--- Page 76 ---
+ 
+ 
+75 
+Other Financial 
+Institutions and 
+Regulations 
+ describe functions of EXIM Bank, SIDBI, NABARD; 
+ discuss role of NaBFID, IIFCL and IL&FS in financing infrastructure 
+projects; 
+ point out the importance of investment institutions like LIC and Non-
+life insurance institutions;  
+ explain the significance of TFCI in promoting tourism in the country; 
+and  
+ narrate the importance of mutual funds in the financial system.  
+17.1  INTRODUCTION 
+As discussed in Unit 2, financial intermediation in India is conducted by a 
+wide range of financial institutions. The Reserve Bank of India is the apex 
+institution of the financial system. However, there are other financial 
+institutions (OFIs) also like NaBFID, NABARD, SIDBI, EXIM Bank, 
+NHB etc. which play a very important role in regulating different aspects 
+of the financial system. This unit examines the structure and evolution of 
+the OFIs over the past six decades. The unit concentrates on the ‘ organized ’ 
+segment of the OFIs which includes sector-specific financial institutions, 
+and investment institutions e.g., insurance companies (life and non-life) and 
+mutual funds. 
+17.2 NATURE AND IMPORTANCE OF OTHER 
+FINANCIAL INSTITUTIONS (OFIs) 
+In India’s ‘organised’ sector there exists a wide range of other financial 
+institutions. The role of OFIs is to recognise the gaps in institutions and 
+markets in the financial sector and act as a gap-filler. OFIs can be classified 
+into two broad categories of institutions based on their area of operation: 
+Sector-specific financial institutions  and Investment Institutions. The various 
+measures of developmental finance indicate that the OFI are playing an 
+increasingly active role in the transfer of funds from the surplus to the deficit 
+sectors in the economy. These financial institutions obtain their resources 
+partly from the Government and partly as loans or refinancing from the capital 
+market. The assistance provided by these institutions is quantitatively 
+important. The Government used these institutions for the achievements in 
+planning and development of the nation as a whole. The structure and 
+evolution of OFIs are aimed at ensuring the flow of finance in desired 
+directions and in particular to priority areas of development such as 
+infrastructure, agriculture, small industries and backward areas; thus, 
+assisting in the accomplishment of desired goals.  
+OFIs can be classified into two broad categories of institutions as per their 
+area of operation: 
+
+
+--- Page 77 ---
+ 
+ 
+76 
+Financial Institutions 1) Sector-specific financial institutions: Small Industries Development 
+Bank of India (SIDBI); Export-Import Bank of India (EXIM Bank); 
+National Bank for Agriculture and Rural Development (NABARD); 
+National Bank for Financing Infrastructure and Development  
+(NaBFID), India Infrastructure Finance Company Ltd. (IIFCL), 
+Infrastructure Leasing & Financial Services (IL&FS); National 
+Housing Bank (NHB); Power Finance Corporation (PFC); Rural 
+Electrification Corporation (REC); Tourism Finance Corporation of 
+India (TFCI). 
+2) Investment Institutions: Life Insurance Corporation of India (LIC), 
+General Insurance Companies and Mutual Funds. 
+17.3   SMALL INDUSTRIES DEVELOPMENT 
+BANK OF INDIA (SIDBI) 
+SIDBI is the primary financial institution for promoting, developing and 
+financing the MSME (Micro, Small and Medium Enterprise) sector and 
+coordination of the functions of the various institutions engaged in similar 
+activities. It is an independent financial institution established on 2 nd April 
+1990 under the Small Industries Development Bank of India Act 1989 as a 
+subsidiary of the Industrial Development Bank of India (IDBI turned into a 
+commercial bank as IDBI Bank). Currently, The GoI and 22 other 
+PSBs/FIs/Insurance Companies, owned or under the authority of the Central 
+Government, hold shares of the IDBI [GoI (20.85%), SBI (15.65%), LIC 
+(13.33%), NABARD (9.36%), PNB (5.96%), others (34.85%)].  SIDBI acts as 
+the principal financial institution for the promotion, financing and 
+development of the MSMEs sector and also coordinates the functions of the 
+institutions engaged in similar activities. SIDBI’s Head Office is in Lucknow. 
+17.3.1  SIDBI’s Primary Functions 
+SIDBI’s primary functions are:  
+i) Providing finance for the growth and development of micro, small and 
+medium-scale enterprises (MSMEs). SIDBI also promotes cleaner 
+production and energy efficiency. It helps MSMEs in acquiring the funds 
+they require to grow, market, develop and commercialise their 
+technologies and innovative products.  
+ii) Refinancing loans and advances provided by the existing lending 
+institutions to small-scale units.  
+iii) The SIDBI provides several schemes and also offers financial services 
+and products for meeting the individual requirements of various 
+businesses. 
+
+
+--- Page 78 ---
+ 
+ 
+77 
+Other Financial 
+Institutions and 
+Regulations 
+17.3.2  Finance Facilities Offered by SIDBI 
+It offers the following facilities to its customers: 
+1) Direct finance  offers working capital assistance, term loan assistance, 
+foreign currency loans, support against receivables, equity support, energy 
+saving schemes for the MSME sector, etc. 
+2) Indirect finance offers indirect assistance by providing refinance to PLIs 
+(Primary Lending Institutions), comprising commercial banks, State Level 
+Financial Institutions, etc. with an extensive branch network across the 
+country. The key objective of the refinancing scheme is to raise the 
+resource position of Primary Lending Institutions that would ultimately 
+enable the flow of credit to the MSME sector i.e. microfinance institutions.  
+3) It discounts and rediscounts bills. 
+4) The Ministry of MSMEs and SIDBI, established a trust named Credit 
+Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) to 
+implement the Credit Guarantee Scheme (CGS). The scheme was formally 
+launched on August 30, 2000. 
+17.3.3  Importance of SIDBI  
+As an apex institution, SIDBI is playing a proactive role in reaching out to 
+MSMEs by extending financial and developmental support services to 
+MSMEs. Its importance can be described as follows: 
+i) It helps in expanding marketing channels for the products of MSMEs 
+both in the domestic as well as international markets. 
+ii) It offers services like factoring, leasing etc. to the industrial concerns in 
+the MSME sector. 
+iii) It promotes employment-oriented industries, particularly in semi-urban 
+areas for creating employment opportunities and thus checking 
+relocation of people to the urban areas. 
+iv) It also initiates steps for modernisation and technological up-gradation 
+of current units. 
+v) Policies are framed for customised loans as per the requirements of 
+businesses. If the requirement doesn’t fall into the ordinary and usual 
+category, SIDBI would assist funding in the right way. Credit and loans 
+are modified as per the size of the business as well. Its processes and rate 
+structure are transparent. There aren't any hidden charges.  
+vi) It offers various schemes which have concessional interest rates and 
+comfortable terms. It has a tie-up with several banks and financial 
+institutions the world over e.g. World Bank and the Japan International 
+Cooperation Agency and could offer concessional interest rates.  
+
+
+--- Page 79 ---
+ 
+ 
+78 
+Financial Institutions vii) The SIDBI formally institutionalized the micro-credit programme by 
+setting up a specialized department called SIDBI Foundation for Micro 
+Credit (SFMC) in 1999 as the “Institutional Answer” to the huge unmet 
+demand for microfinance. Its microfinance programme is perceived as a 
+“Credit Plus” programme and hence, does not restrict itself to funding 
+alone. But also provide capacity-building grants as well.  
+viii) SIDBI extends Nodal Agency services to the Government of India for 
+schemes sponsored by various Ministries to encourage the 
+implementation of modernisation and technology upgradation projects 
+by manufacturing units in the MSME sector. 
+Check Your Progress 1 
+1) Discuss the nature and importance of OFIs.  
+ ……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+2) Explain the financing activities of SIDBI. 
+ ……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+3) Describe its importance in financing MSMEs.  
+ ……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+17.4  EXPORT-IMPORT BANK OF INDIA (EXIM 
+BANK)  
+Export-Import Bank of India (EXIM Bank) was established on January 1, 
+1982, under the EXIM Bank of India Act 1981 to provide financial assistance 
+to exporters and importers, and function as the principal financial institution 
+for co-ordinating the working of institutions engaged in financing export and 
+import of goods and services to promote the country’s international trade and 
+for matters connected therewith or incidental thereto. Its headquarters is in 
+Mumbai. Since its inception, it has been the principal financial institution in 
+the country for financing project exports and exports on deferred credit terms. 
+Exim Bank has two broad business streams:     
+i) the traditional export finance typical of export credit agencies around the 
+world, and  
+
+
+--- Page 80 ---
+ 
+ 
+79 
+Other Financial 
+Institutions and 
+Regulations 
+ii) financing of export-oriented units (export capability creation), which are 
+non-traditional for export credit agencies.  
+17.4.1  Financing Functions and Facilities 
+Exim Bank extends funded and non-funded facilities for overseas turnkey 
+projects, civil construction contracts, technical and consultancy service 
+contracts as well as supplies. Under powers delegated vide the PEM, it 
+provides post-award clearance for project export contracts valued up to USD 
+100 million. It also plays the role of a financier and provides funded and non-
+funded support for project export contracts of Indian Entities. The bank lays 
+special emphasis on the extension of Lines of Credit (LOCs) to overseas 
+entities, national governments, regional financial institutions and Commercial 
+Banks. A Line of Credit (LoC) is a financing mechanism through which Exim 
+Bank extends support for the export of projects, equipment, goods and services 
+from India. LOC provides a safe mode of non-recourse financing option for 
+Indian exporters to enter new export markets or expand business in existing 
+export markets without any payment risk from overseas importers. Exim Bank 
+extends LoCs on its own and also at the behest and with the support of the 
+Government of India.  
+EXIM Bank provides financing facilities for Indian companies executing 
+contracts overseas in the form of pre-shipment credit, supplier’s credit, export 
+of projects, consultancy, technological services, and guarantee facilities. 
+Similarly, for overseas entities financing takes the form of buyer’s credit. In 
+addition to these, it extends export credit to export-oriented units, including 
+research and development (R&D) finance. It provides working capital finance 
+by way of pre-shipment credit and post-shipment credit.  
+Finance for MSMEs: There are services that Exim Bank offers to support Small 
+and Medium Enterprises.  It has arranged for a credit line from the Asian 
+Development Bank (ADB) for providing foreign currency term loans to the 
+MSME borrowers in certain specific lagging states of India, viz. Assam, 
+Madhya Pradesh, Orissa, Uttar Pradesh, Chhattisgarh, Jharkhand, Rajasthan 
+and Uttarakhand. In the MSME segment, Exim Bank has introduced a 
+Programme specifically for financing the Creative Economy. The Creative 
+Industries are those industries which have their origin in individual creativity, 
+skill and talent and which have a potential for wealth and Job creation through 
+the generation and exploitation of intellectual property viz., Advertising, 
+Architecture, Art and Antiques Market, Crafts, Design, Designer Fashion, Film 
+and Video, Interactive Leisure Software, Music, Performing Arts, Publishing, 
+Software and Computer Services, Television and Radio etc. The EXIM Bank 
+extends financial support to promote grassroots initiatives/technologies, 
+particularly those having export potential.  
+The EXIM Bank has fostered a network of alliances and institutional linkages 
+with multilateral agencies, export credit agencies, banks and financial 

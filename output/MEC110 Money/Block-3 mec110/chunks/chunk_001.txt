@@ -1,0 +1,522 @@
+--- Page 1 ---
+ 
+ 
+109 
+Central Bank: Its Role 
+in Monetary Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 3 
+Monetary Policy 
+Unit 7  Central Bank: Its Role in Monetary Policy 
+Unit 8  Central Bank: Its Role as Regulator of the  
+Banking System 
+Unit 9  Monetary Policy in India: Transmission  
+Mechanism 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+ 
+ 
+110 
+Monetary Policy Central Bank: Its 
+UNIT 7 CENTRAL BANK: ITS ROLE IN 
+MONETARY POLICY    
+Structure 
+7.0 Objectives 
+7.1 Introduction  
+7.2 Targets of Monetary Policy   
+7.3 Instruments of Monetary Policy  
+ 7.3.1 Conventional Instruments 
+ 7.3.2 Unconventional Instruments 
+ 7.3.3 Comparing Conventional and Unconventional Instruments 
+ 7.3.4 The Transmission Mechanism  
+7.4 Global Financial Crisis and Central Banks 
+7.5 RBI’s Monetary Policy Target: Inflation Targeting (IT) 
+7.6 Instruments being Used by RBI for Achieving the Targets  
+ 7.6.1  Liquidity Adjustment Facility (LAF)  
+7.7 Effectiveness of RBI’s Policy Instruments 
+7.8 Let Us Sum Up  
+7.9 Key Words 
+7.10 Some Useful References  
+7.11 Answers/Hints to Check Your Progress Exercises 
+7.12 Terminal Questions 
+7.0  OBJECTIVES 
+Having completed this unit, you will be able to: 
+ explain the concept of targets to be followed by the central banks; 
+ describe the various instruments of monetary policy; 
+ highlight the impact of global financial crisis on central banks;    
+ examine the use of unconventional instruments to tackle the 
+challenges arising from financial crisis;  
+ compare the conventional and unconventional instruments in 
+achieving the targets; and  
+ analyse the inflation targeting objective of RBI.  
+ 
+
+
+--- Page 3 ---
+ 
+ 
+111 
+Central Bank: Its Role 
+in Monetary Policy 7.1  INTRODUCTION 
+Without doubt, money and monetary policy have evolved considerably. A 
+monetary policy requires an arrangement of institutional practice to ensure 
+that the right amount of money is made available to facilitate trade in an 
+economy. It is no simple task to set the correct relative prices between 
+various types of monies and goods and decide on how to get the right amount 
+of money into circulation. Indeed, it can be argued that fiscal and monetary 
+policy should run in tandem, so that in managing the latter attention is paid to 
+the former and information is exchanged in the pursuit of the objectives 
+jointly. It is worthwhile to recall that the nature and scope of the regulation of 
+financial intermediation is closely linked to the monetary policy regime. In 
+principle, there is a trade-off between designing instruments to stabilise the 
+financial system and prevent excessively volatile financial outcomes, 
+ensuring that financial sector retains appropriate incentives to create 
+investment opportunities and allocate funds accordingly.  
+The ultimate decisions in policymaking may be based on judgements and that 
+could, unfortunately remain faulty, even in the presence of right information 
+and foresight. This unit provides information about various aspects of targets 
+and instruments of monetary policy. It also discusses inflation targeting in 
+India and reviews what RBI does to set targets and use of the instruments to 
+achieve them.  
+7.2 TARGETS OF MONETARY POLICY  
+The formal mandate of the central bank differs significantly across countries. 
+De facto , though, central banks across the world appear to be increasingly 
+pursuing a single nominal target. By and large, this single nominal target is 
+an inflation target. It is desirable for monetary policy to target something it 
+can actually hope to deliver, on an average and over time. The question 
+relating to the choice of appropriate target for conducting monetary policy 
+goes into the basic question of the interrelationship between money, output 
+and prices. In general, most central banks have a broad mandate that includes 
+not only price (or exchange rate) stability, but also the safeguarding of 
+financial stability, as well as the promotion of economic growth, and, 
+sometimes, financial development. The growth objective has also come to the 
+forefront. To fulfil these multiple objectives within the constraints imposed 
+by a particular policy regime, central banks use all available tools, including 
+cooperation in some instances with fiscal authorities and other policymakers. 
+Importantly, interest rates and foreign exchange intervention may not be 
+sufficient to resolve the policy dilemmas resulting from the impact of 
+external factors on the domestic financial system. 
+There is a two-way street of monetary policy operating through financial 
+markets and financial markets feeding back into monetary policy. The 
+problem of central bank is compounded by the fact that their instruments do 
+not directly aﬀect the goals. The instruments aﬀect variables such as money 
+
+
+--- Page 4 ---
+ 
+ 
+112 
+Monetary Policy Central Bank: Its supply and interest rates, which then aﬀect goal variables with a lag. In 
+addition, these lags may be uncertain. Due to these problems, in the conduct 
+of monetary policy, a distinction is made among: 
+i) goals (or objectives),  
+ii) targets (or intermediate targets),  
+iii) indicators (or operational targets), and  
+iv) instruments (or tools). 
+Target and indicator variables lie between goal and instrument variables. 
+Target variables such as money supply and interest rates have direct and 
+predictable impact on goal variables and can be quickly and more easily 
+observed. Target variables are not directly aﬀected by central bank 
+instruments. The instruments aﬀect target variables, through another set of 
+variables called indicators. These indicators such as monetary base and short 
+run interest rates are more responsive to instruments. 
+The conduct of monetary policy can be represented schematically as follows: 
+Instruments → Indicators → Targets → Goals 
+Following is the list of diﬀerent kinds of variables. 
+Table 7.1:  Kinds of variables 
+Goals or Objectives 
+i) High Employment.  
+ii) Economic Growth.  
+iii) Price Stability.  
+iv) Interest-Rate Stability.  
+v) Stability of Financial Markets.  
+vi) Stability in Foreign Exchange Markets. 
+Targets or Intermediate Targets 
+i) Monetary Aggregates (M1, M2, M3 etc.).  
+ii) Short Run and Long Run Interest Rates. 
+Indicators or Operational Targets 
+i) Monetary Base or High-Powered Money.  
+ii) Short Run Interest Rate (Rate on Treasury Bill, Overnight Rate). 
+Instruments or Tools 
+i) Open Market Operations.  
+
+
+--- Page 5 ---
+ 
+ 
+113 
+Central Bank: Its Role 
+in Monetary Policy ii) Reserve Requirements.  
+iii) Operating Band for Overnight Rate. 
+iv) Bank Rate. 
+(Source: http://web.uvic.ca/~kumara/econ506/lecture4.pdf) 
+Despite listing six goals, it does not mean that diﬀerent countries and regimes 
+give same weight to all these goals. Diﬀerent goals may get diﬀerent 
+emphasis in diﬀerent countries and over times. All the goals may not be 
+compatible with each other. For instance, goal of price stability may conﬂict 
+with the goals of high employment and stability of interest rate at least in the 
+short run.  
+Three criteria determine how the target variables are chosen. These are: 
+(i) measurability, (ii) controllability, and (iii) predictable eﬀects on goals. 
+Quick and accurate measurement of target variables is necessary because the 
+target will be useful only if it signals rapidly when policy is oﬀ-track. For a 
+target variable to be useful, a central bank must be able to exercise eﬀective 
+control over it. If the central bank cannot exercise eﬀective control over it, 
+knowing that it is oﬀ-track is of little help. Finally, and most importantly, 
+target variables must have a predictable impact on goal variables. If target 
+variables do not have predictable impact on goal variables, the central bank 
+cannot achieve its goal by using target variables. Monetary aggregates and 
+short and long run interest rates satisfy all three criteria. The same three 
+criteria are used to choose indicators. They must be measurable, the central 
+bank should have eﬀective control over them, and they must have predictable 
+eﬀect on target variables. The general conclusion is that if the main source of 
+disturbance in the economy is shocks to goods market (IS curve), then 
+targeting money supply (or using money supply tool) is optimal. On the other 
+hand, if the main source of disturbance is shocks to demand for money or 
+ﬁnancial market (LM curve), then targeting interest rate is optimal.  
+Check Your Progress 1 
+1) What do you mean by targets of Monetary Policy ?   
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+2) Distinguish between following elements of Monetary Policy: goals 
+(objectives), intermediate targets, indicators (or operational targets), and 
+instruments.  
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+
+
+--- Page 6 ---
+ 
+ 
+114 
+Monetary Policy Central Bank: Its 3) What are the objectives of monetary policy?  
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+7.3 INSTRUMENTS OF MONETARY POLICY  
+The lesson learnt from the global financial crisis has led central bankers to 
+delve into uncharted territory adopting hitherto unheard-of unconventional 
+policies. Central banks have rediscovered their role as the Lender of Last 
+Resort (LoLR). The current trend worldwide and the present debate within 
+the country suggests that the end of stratification between sectors and 
+consolidation within sub-sectors would be inevitable. The complexity of the 
+transactions and large funding requirements demand an innovative approach 
+towards financial structuring and the use of a variety of financial instruments. 
+However, suitable prudential norms must be in place and adhered to, for the 
+process to function smoothly. Only central banks have the requisite market 
+pulse and instruments to make contextual judgments.  
+7.3.1 Conventional Instruments 
+When a nation’s economy becomes “overheated” – growing rapidly to the 
+point that inflation increases to uncomfortable levels – the central bank enacts 
+restrictive monetary policy to tighten the money supply. This effectively 
+reduces the amount of money in circulation and also the rate at which new 
+money enters the system. Raising the target interest rate makes money more 
+expensive and increases borrowing costs, reducing the demand for cash and 
+cash instruments. The bank may increase the level of reserves that 
+commercial and retail banks must keep on hand, limiting their ability to 
+generate new loans. The central bank can also sell government bonds from its 
+balance sheet in the open market, exchanging those bonds by taking in money 
+from circulation. When a nation’s economy slips into recession, these policy 
+tools can be operated in reverse, constituting a loose or expansionary 
+monetary policy. Interest rates are lowered, reserve limits loosened, and 
+instead of selling bonds in the open market, they are purchased in exchange 
+for newly created money. 
+7.3.2 Unconventional Instruments 
+According to Deepak Mohanty  of RBI, “when central banks look 
+beyond their traditional instrument of policy interest rate, monetary 
+policy takes an unconventional character.” An unconventional policy 
+instrument is deﬁned as any instrument of the central bank that does not 
+depend for its operation on changing the risk-free nominal interest rate now 
+or in the future. Unconventional monetary policy spans from quantitative 
+easing to debt monetisation. In other words, the term “unconventional” 
+means policy instruments other than standard tools such as interest rates or 
+foreign exchange market intervention. These unconventional measures are:     
+
+
+--- Page 7 ---
+ 
+ 
+115 
+Central Bank: Its Role 
+in Monetary Policy 
+i) liquidity provision to banks on extraordinary terms, especially 
+at longer maturities, in order to alleviate pressures in the 
+interbank market;  
+ii) intervention in selected credit markets to support secondary 
+market liquidity and credit pricing and supply; and  
+iii) outright bond purchases aimed at easing financing conditions 
+beyond what could be achieved by policy rate cuts.    
+The rationale for the use of unconventional Central bank policy instruments 
+is fairly straight forward. One can group these unconventional instruments 
+into three broad categories:  
+i) unconventional monetary policy and macro-prudential tools 
+aimed at offsetting the financial implications of capital flows;  
+ii) balance sheet policies other than foreign exchange intervention; 
+and  
+iii) fiscal and quasi-fiscal measures to offset the domestic 
+consequences of foreign exchange intervention.  
+Following are the main policy tools:  
+i)  quantitative easing (QE);  
+ii)  forward guidance;  
+iii)  negative interest rates;  
+iv)  overt monetary financing of fiscal deficits; and  
+v)  debt monetisation.  
+QE has been crucial to avert financial meltdown, and has had some effects on 
+the macro-economy. Yet there are reasons to be critical about its 
+effectiveness for macroeconomic stabilisation relative to its costs and risks. 
+QE has dramatically increased base money, but not the money supply that 
+drives aggregate demand. A major factor conditioning the macroeconomic 
+effects of QE is its interaction with fiscal policy. Pulling QE alongside a 
+restrictive fiscal policy is like pushing on the car’s accelerator and brake 
+pedals at the same time, which is what has happened in the US and UK. 
+So-called ‘helicopter money’ policies – those in which government spending 
+or transfers to households are paid for by printing money – involve both 
+monetary and fiscal policy. This means they require extraordinary 
+cooperation between the government and the central bank, which potentially 
+undermines central-bank independence. However, emergency policies of this 
+type may be justified during extreme systemic crises. Injections of helicopter 
+money can increase net wealth and thus stimulate spending, and this 
+
+
+--- Page 8 ---
+ 
+ 
+116 
+Monetary Policy Central Bank: Its mechanism is particularly important when conventional monetary policy is 
+stuck at the zero lower bound. 
+Table 7.2 offers a snapshot of what is considered to be the main features of 
+each policy type. In the table 7.2, policies are reported from left to right in 
+ascending order of the directness of their impact on spending – from those 
+that rely on changes in prices and expectations to those that affect spending 
+by adding money balances to the economy. 
+Table 7.2: Unconventional monetary policies: A synopsis 
+              Policy 
+Types 
+Indicators 
+FG 
+ 
+NIR QE DM OMF NC 
+Impact on 
+aggregate demand:   
+ Transmission 
+channel  
+ 
+ Effectiveness 
+Indirect   
+(via 
+expectations 
+on future 
+interest  
+rates)  
+Short 
+gestation  
+Limited by 
+ZLB 
+Uncertain 
+impact  
+Indirect  
+(via interest 
+rates)  
+ 
+ 
+ 
+Short 
+gestation  
+Poor public 
+acceptance  
+Strong and 
+quick 
+impact  
+Indirect (via 
+assets prices 
+and inflation 
+expectations)  
+ 
+ 
+Short 
+gestation 
+Slow and 
+moderate 
+impact  
+Indirect  (via  
+regained 
+fiscal space
+ 
+ 
+ 
+ 
+Long 
+gestation  
+Quick, 
+strong, and 
+long lasting 
+impact  
+Direct  (via  
+helicopter 
+money 
+balances) 
+ 
+ 
+Long 
+gestation 
+Quick and 
+strong 
+impact  
+Direct  (via  
+helicopter 
+money 
+balances) 
+ 
+ 
+Long 
+gestation 
+Quick and 
+strong 
+impact 
+Central bank 
+independence   
+Unhindered  Unhindered  Unhindered Central bank 
+/Government 
+cooperation 
+required  
+Central bank 
+/Government 
+cooperation 
+required  
+Central 
+bank not 
+involved in 
+complemen
+tary money 
+policy   
+FG = forwarding guidance  
+NIR = negative interest rate  
+QE = quantitative easing  
+DM = debt monetisation  
+OMF = overt monetary financing of fiscal deficits with extreme neo-chartlist form  
+NC = neo-chartalism  
+(Source: https://voxeu.org/article/unconventional-monetary-policies-revisited-part-ii ) 
+ 
+
+
+--- Page 9 ---
+ 
+ 
+117 
+Central Bank: Its Role 
+in Monetary Policy 
+The policies that have greater direct impact on spending (overt monetary 
+financing, neo-chartalism) are those that combine expansionary fiscal 
+impulses with permanent monetary financing (“helicopter money”). This 
+combination requires a degree of cooperation between the government and 
+the central bank, with implications for central-bank independence. 
+Government (and political) involvement, as well as the necessary 
+coordination with the central bank, entail longer policy gestation periods than 
+for policies involving the central bank exclusively (forward guidance, 
+negative interest rates, and QE). On the other hand, the transmission from the 
+fiscal plus-monetary policy impulse to the spending response – which is 
+inherent in helicopter money options – is more direct, quicker and stronger.  
+Effective macro-prudential regulation and supervision is being devised to 
+take care of systemic risks that lead to such financial instability. The macro-
+prudential approach focuses not only on individual balance sheets but also 
+interconnectedness and the network externalities that they generate. This is 
+expected to take care of systemic risks. The macro prudential approach to 
+regulating institutions and markets is now a key plank of central banks’ 
+efforts towards maintaining financial stability. 
+This includes several types of balance-sheet policies where the central bank 
+purchases assets (for example through quantitative easing or credit easing), 
+emergency lending, and subsidized access to central-bank credit. 
+Unconventional policy as deﬁned also includes ‘macro-prudential’ policy 
+instruments that place restrictions on borrowing independently of interest 
+rates. 
+QE injects money to owners of assets (e.g., traders, hedge funds, investors, 
+banks, high wealth individuals, and speculators) who benefit from QE-stirred 
+bond and asset-price rises, but represent a tiny minority with a low propensity 
+to consume. Conversely, QE does not reach common people (with higher 
+propensity to consume). Indications are that QE has significant distributional 
+effects. 
+7.3.3 Comparing Conventional and Unconventional 
+Instruments   
+It is important to have a good understanding of the unconventional policies 
+and how they differ from the conventional ones. Overall non-conventional 
+tools would seem to have some financial stability considerations. According 
+to Lorenzo Bini Smaghi  (Member of the Executive Board of the European 
+Central Bank) the decision whether to embark on non-conventional monetary 
+policy measures, which specific ones and for how long depends on a series of 
+considerations, including the overall conditions of the economy, in particular 
+the presence of deflationary pressures and the effective constraint provided 
+by the zero lower bound for interest rates, the structure of the financial flows 
+in the economy, the medium term incentives that would be created for the 
+private sector and the risks entailed in the exit strategy, including for the 
+independence and credibility of the central bank. Some measures present 
+
+
+--- Page 10 ---
+ 
+ 
+118 
+Monetary Policy Central Bank: Its greater advantages, in terms of providing the right incentives and being easily 
+reversible. Others present more risks and have to be well targeted and used 
+under specific circumstances.  
+7.3.4 The Transmission Mechanism  
+The relationship between the central bank’s instrument and the target 
+variables is often referred to as the monetary policy transmission mechanism. 
+In fact, this also involves a number of other economic variables and relations. 
+the short-term interest rate determined by the central bank and the target 
+variables (e.g. the exchange rate or inflation and the output gap) will be 
+included along with other macroeconomic variables such as consumption, 
+investment, government budget balance, balance of payments, long-term 
+interest rate and relevant foreign variables. Influences from abroad may also 
+lead to shifts in the transmission mechanism. The relationship between the 
+monetary policy instrument and the targets is not invariant, and the central 
+bank must therefore be ready to adjust its monetary policy if the relationship 
+changes. Since fiscal policy plays an important role in the central bank’s 
+ability to reach its targets, adjustment of fiscal policy may be necessary if 
+monetary policy alone cannot ensure that the monetary policy targets are met. 
+Dynamic transmission: If changes to the monetary policy instrument have a 
+delayed effect on the monetary policy targets, the central bank’s task 
+becomes considerably more difficult. When monetary policy is based on 
+flexible inflation targeting, the relationship is dynamic since the target is to 
+control inflation in the medium term. The central bank changes its short-term 
+interest rate in order to influence inflation e.g. two years ahead. This means 
+that the central bank cannot immediately assess whether an adjustment of the 
+monetary policy instrument has the desired impact on its target variable. It is 
+clear that the horizon for the monetary policy target is of major importance to 
+the “to technique” of the central bank’s implementation of monetary policy 
+and to its external communication.  
+Stochastic transmission : This transmission mechanism has been described 
+as a deterministic relation. In practice, however, the transmission from the 
+monetary policy instrument to the targets is subject to uncertainty. When the 
+central bank changes its short-term interest rate, the effect on the exchange 
+rate or the future inflation is not known precisely. The importance of this 
+depends on whether the relationship between the instrument and the targets is 
+dynamic. The longer and more complex the transmission mechanism, the 
+greater the risk that e.g. unexpected shocks to the economy prevent the 
+central bank from meeting its targets. 
+7.4 GLOBAL FINANCIAL CRISIS AND CENTRAL  
+BANKS  
+In response to the global financial crisis central banks have embarked on a 
+variety of unconventional monetary policies. Attempts were made to make 
+money easier and cheaper through an increase in supply of money and credit 

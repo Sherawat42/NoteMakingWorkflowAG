@@ -1,0 +1,448 @@
+--- Page 11 ---
+ 
+ 
+10 
+The Financial System: 
+Overview UNIT 1  ECONOMIC AGENTS 
+Structure   
+1.0 Objectives  
+1.1 Introduction 
+1.2      The Nature of Financial System 
+ 1.2.1 Financial Institution 
+ 1.2.2 Financial Markets 
+ 1.2.3 Financial Instruments 
+ 1.2.4 Financial Services 
+1.3 Participants in Financial Markets 
+1.4  Financial Markets 
+ 1.4.1 Types of Financial Markets 
+ 1.4.2 Importance and Functions of Financial Markets 
+1.5  Financial Instruments 
+ 1.5.1 Types of Financial Instruments 
+1.6 Let Us Sum Up  
+1.7 Key Words 
+1.8 Some Useful References 
+1.9 Answers/Hints to Check Your Progress Exercises 
+1.0 OBJECTIVES 
+After going through this unit, you will be able to: 
+ Explain the concept and features of financial system; 
+ Describe types of financial institutions, financial markets, financial 
+instruments;  
+ Discuss the functions of financial institutions and markets; 
+ Highlight the importance of financial institutions; and  
+ Recognise different financial instruments and analyse the need for 
+regulating financial institutions. 
+1.1 INTRODUCTION  
+You must have read in Microeconomics that economic agents are 
+individuals or entities that participate in economic activities by making 
+choices, engaging in transactions, and influencing the allocation of 
+resources in an economy. The main economic agents are households, 
+ 
+
+
+--- Page 12 ---
+11 
+Economic Agents firms, government, financial institutions etc. These economic agents 
+interact with each other in markets. They influence demand and supply, 
+prices and overall functioning of the economy. In this unit, we will 
+discuss the main economic agents in the context of financial markets and 
+institutions. For example, households play an important role in financial 
+markets principally as savers and also as borrowers. They save money by 
+depositing it in banks or investing in various financial instruments like 
+savings accounts, bonds, stocks etc. At the same time, they also borrow 
+money for various purposes like buying a house, car etc. Similarly, firms 
+act as borrowers and investors, financial institutions act as intermediaries, 
+and the government as regulator and participant in financial activity in the 
+economy. 
+The economic agents collectively influence the flow of money, credit, and 
+investments in financial markets. This in turn impacts interest rates, asset 
+prices, and overall economic stability.  
+Consider if you were to start a business that manufactures special 
+equipment for persons with disabilities which ease their day-to-day 
+functioning, but you have no funds to invest in this special equipment. At 
+the same time, there is Raj who has inherited a huge amount of money 
+and wants to invest it in some business. If you and Raj could get together, 
+both of you could be in a win-win situation where you get to have funds 
+for your business and Raj is able to invest his idle money. In this 
+example, both you and Raj are economic agents. Financial markets (bond 
+and stock markets) and financial intermediaries (banks, insurance 
+companies, and pension funds) have the basic function of getting people 
+such as you and Raj together by moving funds from those who have a 
+surplus of funds (Raj) to those who have a shortage of funds (you). 
+Financial institutions, financial markets, financial services, financial 
+instruments, financial practices and financial transactions together form 
+the Financial System. The term financial institutions refer to all kinds of 
+entities which intermediate and facilitate financial transactions of both 
+individual and corporate clients. Essentially, financial institutions are the 
+intermediaries between the savers and borrowers of the money. They 
+transfer financial resources from the savers to the investors or borrowers. 
+Financial institutions have several functions that assist the economic agent in 
+fulfilling their various needs. They deal in all types of finance-related 
+businesses thus playing a crucial role in the economy.  
+There are different types of financial institutions: banking and non-banking. 
+The function of these institutions is different and they provide different 
+services and have different levels of risk associated with it. In this unit, we 
+will explore mainly the functions, roles, and types of financial institutions, 
+financial markets and financial instruments. 
+
+
+--- Page 13 ---
+ 
+ 
+12 
+The Financial System: 
+Overview 1.2  THE NATURE OF FINANCIAL SYSTEM 
+A financial system is a complex, well-integrated set of sub-systems of 
+financial institutions, markets, instruments, and services which facilitate the 
+transfer and allocation of funds, efficiently and effectively between different 
+economic agents.   
+There are four constituents of a financial system, viz. (i) financial institutions, 
+(ii) financial markets, (iii) financial instruments, and (iv) financial services. 
+1.2.1 Financial Institutions 
+Financial institutions are business organisations that act as mobilisers and 
+depositors of savings and as purveyors of credit or finance.  They also 
+provide various financial services to the community. 
+Financial institutions have been variously classified.  Two important 
+classifications are as follows: 
+A) Banking institutions and non-banking institutions 
+B) Intermediaries and non-intermediaries. 
+A) Banking Institutions and Non-banking institutions 
+ The banking institutions have quite a few things in common with the 
+non-banking ones, but their distinguishing character lies in the fact that, 
+unlike other institutions, (i) they participate in the economy’s payments 
+mechanism, i.e., they provide transactions services, (ii) their deposit 
+liabilities constitute a major part of the national money supply, and (iii) 
+they can, as a whole, create deposits or credit which is money.  The 
+distinction between the two has been highlighted by Sayers by 
+characterizing the former as “creators” of credit, and the latter as 
+“purveyors” of credit. 
+B) Intermediaries and non-intermediaries 
+ Intermediaries intermediate between savers and investors; they lend 
+money as well as mobilise savings; their liabilities are towards the 
+ultimate savers, while their assets are from the investors or borrowers. 
+Non-intermediary institutions are in the lending business but their 
+resources are not directly obtained from the savers. All banking 
+institutions are intermediaries, many non-banking institutions also act 
+as intermediaries and when they do so they are known as non-banking 
+financial intermediaries. Some examples of non-banking financial 
+intermediaries include mutual funds, investment funds, insurance 
+companies, and pension funds. These institutions provide a valuable 
+alternative to traditional bank financing. 
+ 
+
+
+--- Page 14 ---
+13 
+Economic Agents 1.2.2 Financial Markets 
+Financial markets are a mechanism enabling participants to deal with 
+financial claims.  The markets also provide a facility in which their demands 
+and requirements interact to set a price for such claims.  The participants on 
+the demand and supply sides of these markets are financial institutions, 
+agents, brokers, dealers, borrowers, lenders, savers, and others who are 
+interlinked by the laws, contracts, covenants and communications networks. 
+Financial markets have been variously classified.  Two important 
+classifications are A. Primary market and secondary market and 
+B. Money market and Capital market.  We will discuss about financial 
+markets in details in section 1.4. 
+1.2.3 Financial Instruments 
+A financial instrument is a claim against a person or an institution for the 
+payment at a future date of a sum of money and/or a periodic payment in the 
+form of interest or dividend.  The term ‘and/or’ implies that either of the 
+payments will be sufficient but both of them may be promised. We will 
+discuss more about financial instruments in section 1.5. 
+1.2.4 Financial Services 
+Financial intermediaries provide key financial services such as merchant 
+banking, leasing, hire purchase, credit rating, etc.  Financial services rendered 
+by financial intermediaries bridge the gap between lack of knowledge and 
+information on the part of investors and their participation in financial 
+markets and working with increasingly sophisticated financial instruments. 
+Some of the important functions of Financial Services are: 
+1) Facilitating Transactions: Enabling the exchange of goods and services
+within the economy.
+2) Mobilizing Savings: Gathering savings that would otherwise have
+limited investment opportunities.
+3) Allocating Capital: Directing capital funds to finance productive
+investments.
+4) Monitoring Management:  Ensuring that allocated funds are used as
+intended.
+Financial service institutions provide a diverse range of services to cater to 
+the needs of individual users. Some of them are: 
+1) Provision of funds:
+a) Venture capital
+b) Banking services
+c) Asset financing
+
+
+--- Page 15 ---
+14 
+The Financial System: 
+Overview 
+d) Trade financing
+e) Credit cards
+2) Managing investible funds:
+a) Portfolio management
+b) Merchant banking
+c) Mutual and pension funds
+3) Risk financing:
+a) Project preparatory services
+b) Insurance
+c) Export credit guarantee
+4) Consultancy services:
+a) Project preparatory services
+b) Project appraisal
+c) Business advisory services
+d) Valuation of investments
+e) Credit rating
+f) Merger and acquisition.
+As discussed above, the financial services provided by these intermediaries 
+close the gap between investors’ lack of knowledge and their involvement in 
+financial markets. This helps to facilitate informed decision-making and 
+promotes effective engagement with increasingly sophisticated financial 
+instruments. 
+1.3 PARTICIPANTS IN FINANCIAL MARKETS  
+The important participants in financial markets are business firms, investors, 
+brokers, speculators, hedgers, and arbitrageurs. Firms use stock and bond 
+markets to raise capital from investors; speculators look up to various asset 
+classes to make directional bets on future prices; hedgers use derivatives 
+markets to mitigate various risks; and arbitrageurs seek to take advantage of 
+mispricing or anomalies observed across various markets. Brokers often act 
+as mediators that bring buyers and sellers together, earning a commission or 
+fee for their services. They are third parties that facilitate trades between 
+buyers and sellers but who do not take an actual position in a stock. 
+In a stock market, retail and institutional investors, traders, as well as market 
+makers (MMs) and specialists take part and maintain liquidity and provide 
+two-sided markets. 
+
+
+--- Page 16 ---
+ 
+ 
+15 
+Economic Agents There are two important participants, first, those who have excess funds (the 
+savers), and those who need funds (the borrowers). Bringing these two parties 
+together are financial institutions and financial markets. The participants in 
+the financial system deal in exchange of money, capital, assets, and 
+securities. Financial institutions work in tandem with each other to create a 
+fully interdependent financial system. The importance of financial institutions 
+lies in the fact that they provide services which lead to a smooth functioning 
+of the financial system. 
+The financial institutions play the following role in 
+the economic development of the country: 
+1) Help to form financial resources through mobilization of savings of 
+the households, corporate and the public sector.  
+2) Channelise resources or investments to economic agents in different 
+sectors of an economy: agriculture, manufacturing and services for 
+cultivation of land, production of goods and provision of services.  
+3) Meet short and long-term financial needs.  
+4) Banking institutions multiply the monetary resources by the process 
+of credit creation.  
+5) Transfer surplus funds from one part of the economy to another 
+keeping in mind the national priorities and the market demand.  
+6) Encourage people to divert their physical assets into financial 
+assets and make that available for growth of production, trade and 
+commerce.
+ 
+7) Provide a variety of financial assets to suit the different needs of 
+investing public and corporate.  
+8) Facilitates mechanisms to control the risks and address uncertainties 
+for the stability of the financial system. They reduce the risk of 
+capital loss through diversification of funds to different industries.  
+9) Encourage entrepreneurial skills and assist with new projects. 
+10) Help accelerate the process of economic growth of the country. 
+11) Enable better decision-making.  
+12) Make financial resources available to the Government.  
+In this context, it is worthwhile to remember the recession of 2008-09 which 
+underscores the importance of financial institutions to the economy. 
+Businesses, for instance, depend on financial institutions for money. When 
+they can’t get it, production does not expand or may even be curtailed, 
+unemployment rises, mortgage and other credit defaults increase, and people 
+and businesses stop spending money, which reduces income for other people 
+and businesses, and reduces tax revenue for governments, which causes them 
+to cut spending, which causes more unemployment, etc. This is why 
+governments around the world injected trillions of money into their financial 
+
+
+--- Page 17 ---
+16 
+The Financial System: 
+Overview 
+institutions during the recession to prevent their collapse and the subsequent 
+stalling of the economy. Indeed, financial system with its institutions is the 
+plumbing system of the economy and when it freezes or gets blocked the flow 
+of money in the economy gets affected, undermining economic activity. 
+It is 
+desirable therefore to take all such measures that ensure the stability of 
+the financial system in an economy to take proper measures.  
+Financial institutions serve most people in some way, as financial operations 
+are a critical part of any economy, with individuals and companies relying 
+on financial institutions for transactions and investing. They develop the 
+financial securities and provide the financial markets where lenders, 
+borrowers, investors, speculators, and hedgers can exchange money for future 
+payments in the form of interest, for ownership interests, such as stocks, for 
+the payment of future contingent claims, such as with options and derivatives, 
+and for sharing risk, such as the pooling of insurance premiums for financial 
+protection. 
+Thus, financial institutions allow the exchange of funds 
+between lenders, investors, and borrowers, the more efficiently this works 
+the better it is for an economy.  
+1.4 FINANCIAL MARKETS 
+As discussed earlier, financial market is referred to a space, where the selling 
+and buying of financial assets and securities take place. As noted, the trade of 
+buying and selling securities, derivatives, commodities, forex,  etc. is carried 
+on in financial markets. Banks, financial institutions, insurance companies, 
+mutual funds, pension trusts etc. are participants in financial markets. 
+Financial markets (bonds and stocks), instruments (derivatives, bank CDs, 
+and futures), and institutions (banks, pension funds, insurance companies, 
+and mutual funds) give investors the opportunities to choose specific services 
+that meet their needs. Financial markets and financial institutions together 
+contribute to economic growth. Financial markets are vital for the smooth 
+operation of modern economies.  
+Financial market is a term used to denote the total infrastructure which 
+facilitates the trade of financial securities . Examples of financial securities 
+are currency, bonds, stocks, derivatives, commodities, forex etc . Businesses 
+and investors can go to financial markets to raise money to grow their 
+businesses and to make more money, respectively. They rely heavily on 
+informational transparency to ensure that the markets set prices that are 
+efficient and appropriate. The market prices of securities may not be 
+indicative of their intrinsic value because of macroeconomic forces like the 
+monetary and fiscal policies of the government.   
+The financial markets are broad in scope and scale. Despite covering many 
+different asset classes and having various structures and regulations, all 
+financial markets work essentially by bringing together buyers and sellers in 
+
+
+--- Page 18 ---
+ 
+ 
+17 
+Economic Agents some asset or contract and allowing them to trade with one another. This is 
+often done through an auction or price discovery mechanism. 
+The important participants in financial markets are intermediaries like banks, 
+brokers, custodians, depositories, etc. Without intermediaries, the financial 
+market cannot run seamlessly and efficiently. They are agencies which work 
+in an assisting role. They execute the function of fund collection from 
+lenders, and disbursement of capital to borrowers. They also handle financial 
+securities like stocks, mutual fund units, bonds, deposit certificates etc., on 
+behalf of the lender and borrowers.  
+Equilibrium in financial markets is usually determined by assuming that there 
+is perfect competition, and by using the well-known tools of demand and 
+supply. Equilibrium in financial markets is established when the expected 
+demand for funds (credit) for short-term and long-term investments matches 
+with the planned supply of funds generated out of saving and credit creation.  
+In other words, the equality of total desired borrowing with the total desired 
+lending is necessary for establishing an equilibrium rate of interest. 
+1.4.1 Types of Financial Markets 
+There are different types of financial markets. They are discussed as follows:   
+ Over the Counter (OTC) Market:  They manage public stock exchange 
+dealing usually with small companies that can be traded cheaply and 
+have less regulation. 
+ Bond Market: A bond market is a place where investors loan money on 
+bonds as a security for a set of times at a predefined rate of interest. 
+Bonds are issued by governments, corporations, states, municipalities, 
+etc. 
+ Money Market:  They trade in products with highly liquid short-term 
+maturities (of less than one year) and are characterized by a high degree 
+of safety and a relatively low return on interest. At the wholesale level, 
+the money markets involve low-volume trades between institutions and 
+traders. At the retail level, they include money market mutual funds 
+bought by individual investors and money market accounts opened by 
+bank customers. Individuals may also invest in the money markets by 
+buying short-term papers. 
+ Derivatives Market: A derivative is a contract between two or more 
+parties whose value is based on an agreed-upon underlying financial 
+asset (like a security) or set of assets (like an index). Derivatives are 
+secondary securities whose value is solely derived from the value of the 
+primary security that they are linked to. In and of itself a derivative is 
+worthless. Rather than trading stocks directly, a derivatives market trades 
+in futures and options contracts , and other advanced financial products, 
+
+
+--- Page 19 ---
+18 
+The Financial System: 
+Overview 
+that derive their value from underlying instruments like bonds, 
+commodities, currencies, interest rates, market indexes, and stocks.  
+Future markets are where future contracts are listed and traded. Unlike 
+forwards, which trade OTC, futures markets utilize standardized contract 
+specifications, are well-regulated, and utilize clearing houses to settle 
+and confirm trades. Options markets list and regulate options contracts. 
+Both futures and options exchanges may list contracts on various asset 
+classes, such as equities, fixed-income securities, commodities, and so 
+on. 
+ Commodities Markets are venues where producers and consumers meet
+to exchange physical commodities such as agricultural products (e.g.,
+corn, livestock, soybeans), energy products (oil, gas, carbon credits),
+precious metals (gold, silver, platinum), or “soft commodities” (such as
+cotton, coffee, and sugar). The bulk of trading in these commodities
+takes place in spot markets, where physical goods are exchanged for
+money. Forwards, futures, and options on commodities are exchanged
+both OTC and on listed exchanges around the world.
+ The Forex Market is the market in which participants can buy, sell,
+hedge, and speculate on the exchange rates between currency pairs. The
+forex market is the most liquid in the world, as cash is the most liquid of
+assets. The forex market is also decentralized and consists of a global
+network of computers and brokers from around the world. The forex
+market is made up of banks, commercial companies, central banks,
+investment management firms, hedge funds, and retail forex brokers and
+investors.
+ Cryptocurrency Markets : Since 2009, the world has seen the
+introduction and rise of cryptocurrencies such as Bitcoin and Ethereum.
+They are decentralized digital assets that are based on blockchain
+technology. Hundreds of cryptocurrency tokens are available and traded
+globally across a patchwork of independent online crypto exchanges.
+These exchanges host digital wallets for traders to swap one
+cryptocurrency for another, or fiat monies such as dollars or euros.
+Because the majority of crypto exchanges are centralised platforms,
+users are susceptible to hacks or fraud. Decentralized exchanges are also
+available that operate without any central authority. These exchanges
+allow direct peer-to-peer (P2P) trading of digital currencies without the
+need for an actual exchange authority to facilitate the transactions.
+Futures and options trading are also available on major cryptocurrencies.
+Having this backdrop of types of financial markets, they can be further 
+classified based on their nature of transactions: 
+1) Nature of Claim:
+a) Debt Market where fixed bonds and debentures are exchanged
+between investors.
+
+
+--- Page 20 ---
+ 
+ 
+19 
+Economic Agents b) Equity Market is a place for investors to deal with equity. 
+2)  Maturity of Claim:  
+a) Money Market deals with short-term funds such as a certificate of 
+deposits, treasury bills, and commercial papers, etc. which mature 
+within twelve months.   
+b) Capital Market trades medium and long-term financial assets, that is, 
+securities having a maturity period of one year or more. 
+3)  Timing of Delivery: 
+a) Cash Market is a marketplace where trade is completed in real-time. 
+b) Futures Market where the delivery or compensation of products is 
+taken in the future specified date. 
+4)  Organizational Structure: 
+a) The exchange-traded Market has a centralised system with a 
+patterned procedure. 
+b) Over-the-Counter Market has a decentralised organization with 
+customised procedures. 
+5) Nature of transaction 
+a) The primary markets deal in new financial claims or new securities, 
+and, therefore, they are also known as ‘new issue markets’. They 
+mobilize savings and they supply fresh or additional capital to 
+business units. 
+b) Secondary markets deal in securities already issued or existing or 
+outstanding. They do not contribute directly to the supply of 
+additional capital; they do so indirectly by rendering securities 
+issued on the primary market liquid. 
+6) Regulation status 
+a) Unorganized financial market is old Indigenous market mainly made 
+of indigenous bankers, money lenders etc.  
+b) Organized financial market comes under the regulatory purview of 
+RBI and SEBI. 
+1.4.2  Importance and Functions of Financial Markets 
+The financial market allocates limited resources to the nation’s economy. 
+Without them, capital cannot be allocated efficiently. Economic activity such 
+as commerce and trade, investment, and production would be greatly 
+diminished. The financial market enables efficient trade of securities, and 
+transfer of funds, between lenders and borrowers. It is the financial market 
+which creates securities for investment. People who have surplus funds invest 

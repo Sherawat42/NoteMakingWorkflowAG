@@ -1,0 +1,471 @@
+--- Page 22 ---
+ 
+ 
+192 
+Financial Markets UNIT 11   CAPITAL MARKETS  
+Structure 
+11.0  Objectives 
+11.1  Introduction 
+11.2  Purpose and Uses of Capital Markets 
+11.3  Debt and Equity as Means of Raising Finance 
+11.4   Debt Market Instruments and their Pricing 
+11.5   Equity: Markets and Volatility  
+11.6  Indices of Share Prices 
+11.7  Let Us Sum Up 
+11.8   Key Words 
+11.9  Some Useful Books 
+11.10 Answers/Hints to Check Your Progress Exercises 
+11.0   OBJECTIVES 
+ After going through this unit, you should be able to: 
+ Describe the purposes for which capital markets exist and the role they 
+play in a modern economy; 
+ List the various participants and the types of exchanges taking place in 
+these markets; 
+ Compare between debt and equity as means of raising finance for 
+business firms; 
+ Analyse the working of debt markets, the instruments in these markets 
+and the pricing in these markets; 
+ Discuss the principles of the working of equity markets; and 
+ Explain the concept of share price indices and the methods of their 
+construction. 
+11.1  INTRODUCTION 
+The previous unit acquainted you with markets for short-term funds, and we 
+learnt that these markets are called money markets. The present unit deals in 
+detail with various markets for long-term funds. These are called capital 
+markets. We will see there are primarily two types of capital markets: debt 
+markets, and equity markets. In the next section, we consider the purpose of 
+capital markets in general, and the various participants in these markets. In 
+ 
+
+
+--- Page 23 ---
+ 
+ 
+193 
+Capital Markets the section after that, we will look at debt and equity as alternative means of 
+raising finance. Section 11.4 limits itself to the debt market but provides a 
+detailed discussion about the workings of these markets. The subsequent 
+section turns to equity markets and explains why there is volatility, or risk, in 
+these markets. Finally, section 11.6 discusses the indices of share prices and 
+how these are constructed. Let us begin by stating the purpose and 
+pinpointing the uses of capital markets. 
+11.2 PURPOSE AND USES OF CAPITAL 
+MARKETS   
+Investment is nothing but postponed consumption. So, there are investors 
+who are willing to lock in their funds in the expectation of earning higher 
+returns and making capital gains. On the other side, there are business firms, 
+organisations, and individuals who need funds and finance for making 
+physical investments in the hope of making profits or gains, or even for 
+consumption. Capital markets constitute a mechanism for bringing together 
+buyers and sellers of various types of financial assets.  Exchanges of these 
+financial assets determine their prices.  
+As we have discussed in previous units the financial system of a nation 
+consists of financial institutions, financial markets, and financial instruments 
+and services. A financial market is an arrangement that facilitates the 
+exchange of financial assets, including deposits and loans, corporate stocks 
+and bonds, government bonds, and derivatives like futures and options. You 
+will read about derivatives in the next unit. Financial markets can be 
+classified in several ways: as primary and secondary markets, that is markets 
+in new issues and markets in existing issues; as organised or formal markets, 
+and as unorganised or informal markets. Financial markets can also be 
+classified as money markets, markets for short-term funds, and capital 
+markets, or markets for long-run funds. 
+Capital markets can be markets where long-term debt contracts are traded, 
+like bond markets or debentures, or these can be equity markets where 
+financial claims are sold which allows the holder a share in the profits of the 
+firms issuing these shares. The markets where shares are issued initially are 
+called primary markets, and the markets where the holders of these shares 
+further trade these in the expectation of making capital gains are called 
+secondary markets.  
+Let us look now at the basis for the need and provision of finance, as this will 
+enable us to know about debt as the foundation of finance, and see who the 
+participants in the markets are. Capital markets are all about the raising of 
+capital and matching those who want capital (borrowers) with those who 
+have capital (lenders). One way of matching these are financial institutions 
+like banks and other depository institutions. For more complex transactions, 
+markets are needed in which borrowers (and their agents) can meet lenders 
+(and their agents). Commitments to borrow and lend are created. There are 
+
+
+--- Page 24 ---
+ 
+ 
+194 
+Financial Markets also markets where these commitments to borrow and lend are themselves 
+sold off to other people. For example, companies can raise money by selling 
+shares to investors and existing shares can be freely bought and sold.  
+Who are the borrowers? Individuals can borrow for domestic purchases or 
+longer term such as financing and mortgages of houses, consumer durables, 
+or education... companies need short-term funds to finance their cash flow. 
+They need longer-term funds for growth and expansion. Governments are 
+huge borrowers. They often borrow by issuing securities like bonds. Their 
+total borrowing is called National Debt. Public sector companies may also 
+borrow for expansion and growth. Borrowing may also be done from foreign 
+agencies, institutions etc. Similarly, lenders may be individuals, financial 
+institutions, or even companies. A company can use some of its idle funds to 
+lend for short periods to make gains, in the money market. 
+When money is lent, in many cases the borrower issues a receipt for the 
+money, a promise to pay back. These receipts are called securities, and the 
+lender has claims on these securities. Thus, securities are financial claims. 
+The holders of financial securities are the lenders, and the issuers of financial 
+securities are the borrowers. There are many types of securities like Treasury 
+Bills, Certificates of Deposits, Commercial Paper, bonds, debentures, equity 
+shares, and so on. All securities show key information about how much is 
+owed, when it will be paid back, and how much is the rate of interest. 
+So, we have seen that markets exist for finance and the main participants are 
+borrowers, lenders, their agents and other individuals and agencies that 
+facilitate exchanges. Borrowers issue securities. Lenders purchase these 
+securities. For example, when the government issues a bond, we say that the 
+government is selling the bonds. When you purchase the bond, you are 
+lending money to the government, and the government is borrowing money 
+from you. The market for long-term securities is called a capital market. 
+Capital markets perform several important functions in a market economy. 
+The capital markets make information processing and dissemination easier, 
+which allows better decisions can be taken regarding investment, selling of 
+assets, and so on. Capital markets allow quick valuation of financial 
+instruments – both debt and equity. Capital markets also enable operational 
+efficiency by simplifying transaction procedures and lowering search costs 
+and transaction costs. Capital markets help to develop integration among 
+several sectors of the economy such as between real and financial sectors, 
+between debt and equity instruments, between short-term and long-term 
+funds, and between domestic and external funds. Finally, capital markets 
+facilitate the flow of funds into efficient channels through proper investment. 
+11.3 DEBT AND EQUITY AS MEANS OF RAISING 
+FINANCE 
+In this section, we will take a look at one particular borrower: the business 
+firm. We shall see how firms make decisions about raising finance for their 
+
+
+--- Page 25 ---
+ 
+ 
+195 
+Capital Markets short-term and long-term requirements. Firms can raise finance either by 
+borrowing (debt) or by issuing shares. So when we are talking about shares, 
+we have only the primary market in mind. We are looking from a firm’s point 
+of view and asking how much of the finance should be raised by incurring 
+debt, and how much should be raised through the issue of shares. Is there 
+some theory or some principles that will help the firm to make a decision? 
+This is what we are discussing now. 
+A firm has several assets that it invests in, and these investments generate a 
+stream of cash flows.  If the firm is entirely equity financed, these cash flows 
+belong only to the shareholders. On the other hand, the firm can offer shares 
+but also go in for borrowings. This will offer the lenders some risk-free 
+investment opportunities. How much of the capital the firm should raise 
+through debt and how much through equity is a decision that is important for 
+the firm. This is called the capital structure of the firm. To understand the 
+decision regarding the capital structure of the firm, we will first look at some 
+indicators of the firm’s financial position, particularly some financial ratios. 
+One can look at the balance sheet and the income statements. Balance sheets 
+look at the situation with assets and liabilities at a particular point of time 
+while the income statement is a view of the earnings and expenditure that 
+takes place over a specified period, usually a year. We can also look at a 
+firm’s generation of cash. But what we propose to do now is to look at some 
+important financial ratios regarding a firm's financial activity and 
+performance. Ratio analysis forms a powerful tool for assessing the financial 
+condition of the firm and enables us to relate disparate financial data with 
+each other. Ratio analysis of this sort will enable us to understand the capital 
+structure of the business firm. 
+Different people and groups have varying stakes in the firm, and they will 
+have different concerns over a firm’s performance. Stockholders and 
+bondholders will be concerned about the long-term profitability of the firm, 
+while creditors will look to see whether the firm can meet its payments on 
+time. The firm’s management is concerned with both the long run and short 
+run as well as day-to-day performance. There are several types of ratios that 
+we shall be considering now. All of these can be grouped into four types: 
+liquidity ratios, which measure the ability and adequacy of the current assets 
+to meet current liabilities as they come due; activity ratios , which indicate 
+the efficiency with which the firm uses its resources; financial leverage 
+ratios, which measure how effective the firm is in managing its debt; and 
+finally, profitability ratios , which measure how effective the firm is in 
+generating net revenues and income about sales, costs, assets and shareholder 
+equity. 
+Let us begin with liquidity ratios. Liquidity ratios refer to a firm’s ability to 
+meet its short-term obligations and are concerned with the size and 
+composition of the firm’s working capital position. A higher working capital 
+position implies more liquidity. An important ratio is the current ratio,  
+which equals current assets divided by current liabilities. This ratio indicates 
+
+
+--- Page 26 ---
+ 
+ 
+196 
+Financial Markets the amount of current assets available to meet all its obligations under current 
+liabilities. The current ratio includes inventories, but since inventories are 
+among the least liquid of a company’s assets, it is sometimes useful to 
+exclude them. Deducting inventories from the current ratio gives us the quick 
+or acid-test ratio: 
+Quick ratio =  (Current assets –  Inventories)
+Current Liabilities
+ 
+Next, we turn to some activity ratios.  These by and large have to do with 
+sales generated, often about the amount invested in them. One such measure 
+is the accounts receivable turnover, which equals net credit sales divided by 
+turnover. A related measure is the average collection period, which is given 
+by (365) (receivables)/ (net credit sales). We can look at the total asset 
+turnover which is an overarching activity ratio and is defined as:  
+Total asset turnover = Net sales
+total assets 
+Now let us focus on some financial leverage ratios, which will enable us to 
+talk about the capital structure of firms. Sometimes, as in Britain, leverage is 
+called ‘gearing’. Leverage ratios reflect a firm’s risk position by analysing its 
+financing mix. The idea is that the more the operations of the firm are 
+financed through debt, the greater the risk. Information on this can be 
+obtained from the firm’s balance sheet. The other way is to use income 
+statement data to derive the coverage ratios, which measure the company’s 
+ability to service that debt. Two widely used ratios derived from the 
+information in balance sheets are the debt ratio and the debt-equity ratio. By 
+debt, here we mean the firm’s current liabilities as well as long-run debt. The 
+debt ratio is defined as: 
+Debt ratio = Total Liabilities divided by Total Assets 
+The debt-equity ratio is defined as: 
+Debt-equity ratio = Total Liabilities divided by Equities 
+Now since total assets equal total liabilities plus equity, it can be shown (it is 
+left to you as an exercise) that: 
+Debt-equity ratio = Debt ratio divided by (1 – Debt Ratio) 
+From the income statements we can derive the firm's cash flow coverage, 
+which is given as  
+𝐂𝐚𝐬𝐡 𝐅𝐥𝐨𝐰 𝐂𝐨𝐯𝐞𝐫𝐚𝐠𝐞 
+= EBIT + Lease/rental Payments + Depreciation
+𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡 +  𝐿𝑒𝑎𝑠𝑒 /𝑅𝑒𝑛𝑡𝑎𝑙 𝑃𝑎𝑦𝑚𝑒𝑛𝑡 +  𝑃𝑟𝑖𝑛𝑐𝑖𝑝𝑎𝑙  𝑅𝑒𝑝𝑎𝑦𝑚𝑒𝑛𝑡/ (1 − 𝑇)
+ 
+
+
+--- Page 27 ---
+ 
+ 
+197 
+Capital Markets Where EBIT stands for annual earnings before interest and taxes, and T 
+stands for taxes on a firm. 
+Finally, we discuss profitability ratios. These ratios allow the shareholders to 
+evaluate management’s performance. There are two types of profitability 
+ratios used: profit margin on sales and returns on assets employed. Profit 
+margins — a type of profitability ratio that looks at a firm’s expenditure on 
+sales. There are two important such ratios: gross profit margin and net profit 
+margin. They are defined as follows: 
+𝐆𝐫𝐨𝐬𝐬 𝐏𝐫𝐨𝐟𝐢𝐭 𝐌𝐚𝐫𝐠𝐢𝐧 =  Gross Profits 
+Net Sales  
+𝐍𝐞𝐭 𝐏𝐫𝐨𝐟𝐢𝐭 𝐌𝐚𝐫𝐠𝐢𝐧 =  Net Income 
+Net Sales  
+In addition, we can work out the operating profit margin which is defined 
+as: 
+𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐩𝐫𝐨𝐟𝐢𝐭 𝐦𝐚𝐫𝐠𝐢𝐧 =  EBIT
+Net Sales 
+In addition to looking at ratios related to the profit margin, we can relate 
+returns to assets and shareholders’ equity. Two ratios frequently used are  
+(ROA), also known as return on investment (ROI) , and return on equity 
+(ROE). They are defined as: 
+Return on Assets =  Net Income 
+Total Assets 
+Return on Equity = Net Income 
+Shareholders’ Equity 
+Equipped with these ratios, in the next section, we shall discuss, somewhat 
+briefly, some elements of the capital structure of a firm.  
+Check Your Progress 1 
+1) What are the main functions performed by capital markets in the 
+economy? 
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+2)  Name and define two liquidity ratios and two financial leverage ratios. 
+.....................................................................................................................
+.....................................................................................................................
+
+
+--- Page 28 ---
+ 
+ 
+198 
+Financial Markets .....................................................................................................................
+..................................................................................................................... 
+11.4 DEBT MARKET INSTRUMENTS AND THEIR 
+PRICING 
+The main debt instruments are bonds, which are fixed-income securities. The 
+investor (who is the lender) gets periodic interest payments over the life of 
+the bond and the principal payment at the time of redemption of the bond. 
+The issuer of the bond (who is the lender, that is who undertakes to bear the 
+debt) promises to pay the holder (buyer) of the bond this periodic stream of 
+payments and the principal at the end. Debentures are like bonds, except that 
+there is a clause that enables the investor to convert the debenture into equity 
+shares on certain pre-specified terms and conditions. 
+There are short-term debt instruments, which you studied in detail in the 
+previous unit on money markets, like treasury bills, certificates of deposits, 
+commercial paper etc. In this unit, we limit ourselves to a study of bonds. 
+Bonds are issued by the government and these are government-guaranteed. 
+For example, in India, the Government of India is the largest borrower. The 
+government sells short-term to medium-term bonds issued by the Reserve 
+Bank of India. State governments also sell bonds. Apart from the central and 
+state governments, several government agencies issue bonds that are 
+guaranteed by the government. Other than government bonds, there are bonds 
+issued by public-sector companies, financial institutions, and private-sector 
+companies. 
+Over the last couple of decades, there have been several innovations in the 
+types of bonds that have been issued.  Traditionally simple bonds have been 
+issued (these are known as ‘plain vanilla bonds’ or straight bonds). These 
+bonds usually pay a fixed periodic coupon over its life and return the 
+principal on the maturity date. The new types of bonds are of several types: 
+zero-coupon bonds; floating rate bonds; bonds with embedded options; and 
+commodity-linked bonds. These are explained below: 
+Zero coupon bonds do not give regular interest payments. It is issued at a 
+large discount and redeemed at face value on maturity. Sometimes, these 
+bonds carry the call and put options. You will know about put and call 
+options in the next unit. Floating rate bonds, unlike straight bonds that pay a 
+fixed rate of interest, pay an interest rate that is linked to a benchmark rate 
+such as the interest rate on Treasury bills. Bonds with embedded options 
+include bonds like debentures that give the bondholder the right to convert 
+them into equity shares; as well as callable bonds, which are bonds that give 
+the issuer the right to redeem them prematurely on certain terms; and bonds 
+with put options, which are bonds that give the investor the right to 
+prematurely sell them back to the issuer on certain terms. Finally, there are 
+commodity-linked bonds that are bonds the return from which depends on the 
+price of certain specified commodities. 
+
+
+--- Page 29 ---
+ 
+ 
+199 
+Capital Markets We will be looking at the risks associated with bonds in detail in unit 13 of 
+Block 4. For the present, we proceed from the assumption that bonds are risk-
+free. With that assumption, let us now discuss the value of a bond and see 
+how the value of a bond is determined. The value of a bond is equal to the 
+present value of the expected cash flows arising from it. Here you will do 
+well to go over unit 4 in Block 1. Hence we need to look at the expected 
+stream of cash flows and an estimate of the returns. We assume further that 
+the bond pays a fixed coupon interest rate, that coupon payments are made 
+annually and that the bonds will be redeemed at par when it matures. 
+With these assumptions, the value for such a bond is: 
+ 
+1 (1 ) (1 )
+T
+t T
+t
+X MA r r
+     
+where A = value (in rupees) 
+           T = number of years 
+           X = annual coupon payment (in rupees) 
+          The required return is denoted by r 
+          M = maturity value 
+          The period when the payment is received is denoted by t. 
+A basic property of a bond is that there is an inverse relationship between the 
+price of the bond and yield. This is because as the yield increases, the present 
+value of the cash flow decreases; therefore the price falls. What is the 
+relationship between the bond price and time? Since the bond price must 
+equal its par value at maturity (we assume there is no risk of default) bond 
+prices change with time. If the current price prevails when the redemption is 
+higher than the par value of the bond, the bond is said to be a premium bond; 
+if the current price at the time of redemption is lower, the bond is said to be a 
+discount bond. 
+The trading of bonds is usually based on their prices. But since there are 
+significant differences in cash flow patterns, and also other features, of 
+different bonds, different bonds are not usually compared in terms of their 
+prices. Instead, the point of comparison is bond yields. We now turn to some 
+measures of bond yields. A common measure of yield is the current yield , 
+which relates the annual coupon interest to the market price. It is expressed 
+as: 
+Current Yield = Annual Interest / Price. 
+The current yield does not consider the capital gain (or loss) that the investor 
+will face if she holds the bond till maturity and sells at a premium (or 
+discount). This measure also neglects the time value of money. The next 
+measure of yield that we consider is the yield to maturity . This is the value 
+
+
+--- Page 30 ---
+ 
+ 
+200 
+Financial Markets of the rate of interest that makes the present value of the cash stream received 
+from owning the bond equal to the price of the bond. It can be expressed as 
+ 
+1 (1 ) (1 )
+T
+t T
+t
+X MP r r
+     
+Where P is the price of the bond, and the other letters denote the same 
+variable as in the previous equation. Sometimes the calculation of r in the 
+above is difficult and a trial-and-error procedure is resorted to. The final 
+measure of yield that we consider is the yield to call . It is calculated in the 
+same way as yield to maturity, except that in yield to call, instead of maturity 
+value at the end, there is call price and the duration, instead of going from 
+say, 1 to T, goes from 1 to the number of years until the assumed call date.     
+Check Your Progress 2 
+1) What is yield to maturity? 
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+2) How do we calculate the expected stream of cash flows arising from 
+bonds? 
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+11.5 EQUITY: MARKETS AND VOLATILITY  
+Before we go on to discuss equity markets, let us discuss the role that equity 
+markets play in the economy. We shall use the terms stock market and stock 
+exchange interchangeably. What does a stock exchange do? It provides the 
+regulation of company listings, a price formation mechanism, the supervision 
+of trading, authorisation of members, settlement of transactions and 
+publication of trade data and prices.  
+Equity markets consist of primary markets and secondary markets. The 
+primary market is the market for new issues of shares, where shares are 
+initially offered to the public. The secondary market, on the other hand, is the 
+market for already-issued financial assets. The main difference between the 
+two markets is that in the secondary market, the issuer of the share does not 
+receive funds from the buyer. Rather, the existing issue changes hands in the 
+secondary market, and funds flow from the new buyer of the share to the 
+original buyer.  
+Equity capital is ownership capital. It is the shareholders who collectively 
+own the company. They undertake the risks but also earn the rewards of 
+
+
+--- Page 31 ---
+ 
+ 
+201 
+Capital Markets ownership. The amount of capital that a company can issue is the authorised 
+capital. The amount of capital that a company offers to investors is the 
+issued capital.  The part of capital subscribed by investors is called the paid-
+up capital assuming that no calls are outstanding i.e., all the shareholders 
+have paid their called-up money. The par value is the face value of the share. 
+Face value is the equity share capital divided by the number of equity shares. 
+When the issue price is greater than the par value, the difference is called the 
+equity premium . The book value  (sometimes called the intrinsic value) of 
+an equity share is equal to: 
+(paid-up capital + reserves and surplus ) /( number of equity shares 
+outstanding). Alternatively, the book value can be found out by dividing the 
+net assets (assets minus liabilities)  by the number of equity shares 
+outstanding.  The market value of an equity share is the price at which it is 
+traded in the market. 
+We now turn to some valuation ratios. Valuation ratios indicate how 
+investors assess the stock in the equity markets. These are thus indicators of 
+the performance of the issuing firm. The important valuation ratios are the 
+price-earnings ratio, the yield, and the ratio of market value to book value. 
+Price-earnings ratio: It is defined as the market price per share divided by 
+earnings per share. The earnings per share ratio is just the after-tax profit less 
+preference dividend divided by the number of outstanding equity shares. In 
+practice, this ratio is popular with the terminology PE ratio. Higher PE ratio 
+shows higher earning to an equity share which may increase demand of the 
+share.   
+The price-earnings ratio reflects risk characteristics, investor sentiments, the 
+degree of liquidity, and growth prospects. 
+Yield: This measures the rate of return earned by shareholders. It is defined 
+as: 
+Yield = Dividend +  price change
+Initial price
+ 
+We can break this into two parts: 
+ Dividend 
+Initial price + price change 
+Initial price  
+The first term denotes the dividend yield, while the second term is the capital 
+gains or losses yield. Usually, companies with low growth prospects offer a 
+high dividend yield while the capital gains yield is low. It is the converse 
+about companies with high growth prospects. 
+Market Value to Book Value ratio:  This is defined as the ratio of market 
+value per share to the book value per share. It is a measure of the firm’s 
+generation of wealth. If it is more than 1, that is, if the market value exceeds 

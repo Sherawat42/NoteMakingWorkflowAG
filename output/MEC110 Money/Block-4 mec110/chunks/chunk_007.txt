@@ -1,0 +1,662 @@
+--- Page 61 ---
+ 
+ 
+231 
+Derivatives currencies, etc. Derivatives can be used to manage various types of risks, 
+such as price, interest rate, and credit risk, as well as to speculate on future 
+price movements of the underlying asset. In this unit, we shall discuss various 
+aspects of derivatives.  
+13.2 MEANING OF DERIVATIVES  
+In finance, a derivative is a financial instrument that derives its value from an 
+underlying asset, such as a stock, bond, currency, or commodity. The value of 
+a derivative is based on the changes in the value of the underlying asset. 
+Simply put, if an asset, say A, is valued based on another asset, say B, which 
+is linked to it, then A is called a derivative and B is called an underlying 
+asset. The most common types of derivatives include options, futures, 
+forwards, and swaps. Derivatives play an important role in financial markets, 
+allowing investors and companies to manage risk and enhance returns, but 
+they can also be complex and carry significant risk if not used properly. 
+The Securities Laws (Second Amendment) Act, 1999, has officially included 
+derivatives in the Securities definition. According to the Securities Contracts 
+(Regulations) Act, a derivative comprises securities derived from debt 
+instruments, shares, loans, risk instruments, or contracts for differences. It 
+also includes contracts deriving their value from the prices or index of 
+underlying securities. 
+13.3 CHARACTERISTICS OF DERIVATIVES  
+The characteristics of derivatives are as follows:  
+a) A derivative derives its value from an underlying asset like a share or 
+stock of a company. This feature makes it a unique financial asset.  
+b) Derivatives are traded globally and are very popular in developed 
+economies.    
+c) Common derivatives include futures contracts, forward contracts, 
+options, and swaps. 
+d) Most derivatives are not traded on exchanges and are used by institutions 
+to hedge risk or speculate on price changes in the underlying asset. 
+e) Exchange-traded derivatives like futures or stock options are 
+standardized and eliminate or reduce many of the risks of over-the-
+counter derivatives. 
+f) Derivatives are usually leveraged instruments, which increases their 
+potential risks and rewards. 
+Advantages of Derivatives  
+a) Lock in prices: Derivatives help to protect the securities against 
+fluctuations in prices. Thus, it helps to reduce market uncertainties. 
+Companies and investors can hedge against price fluctuations in 
+
+
+--- Page 62 ---
+ 
+ 
+232 
+Financial Markets commodities, currencies, or securities, ensuring they are not adversely 
+affected by market volatility. It also helps in financial planning and 
+budgeting as the market uncertainty is reduced. 
+b) Hedge against risk :  Derivatives are widely used to hedge against 
+various types of risks, providing a safeguard for investors and 
+businesses. Businesses involved in the production or consumption of 
+commodities can use futures or options to lock in prices, protecting 
+themselves from adverse price movements. Companies with debt or 
+fixed-income investments can use interest rate swaps or futures to hedge 
+against fluctuations in interest rates. 
+c) Derivatives can be leveraged:  They allow investors to gain exposure to 
+a larger position than what would be possible by investing directly in the 
+underlying asset with the same amount of capital. Leverage can amplify 
+returns on investment because a small change in the price of the 
+underlying asset can lead to a larger change in the value of the 
+derivative. 
+d) Useful in making a diversified portfolio:  Derivatives can provide 
+exposure to a wide range of asset classes, including commodities, 
+currencies, interest rates, and equities, thus providing scope for 
+diversification. Investors can also use derivatives to gain exposure to 
+emerging markets, which might be otherwise inaccessible due to 
+regulations or high entry costs.  
+Limitations of derivatives  
+a) Difficult to value them: Derivatives often require complex 
+mathematical models to determine their fair value. For example, options 
+pricing commonly uses the Black-Scholes model or binomial models, 
+which involve advanced mathematics and assumptions about market 
+behaviour. We will discuss Black-Scholes model and binomial pricing 
+models in Unit 21. 
+b) Subject to counterparty default:  If a counterparty defaults, the non-
+defaulting party may incur significant financial losses as the value of a 
+derivative can be heavily dependent on the creditworthiness of the 
+counterparty. A decline in the counterparty’s credit rating can decrease 
+the value of the derivative. 
+c) Complex to understand:  There are numerous types of derivatives, such 
+as options, futures, forwards, swaps, and more complex structures like 
+collateralized debt obligations (CDOs) and credit default swaps (CDS). 
+Each type has its own set of rules, characteristics, and uses. Moreover, 
+pricing of derivatives also involves complex procedure.  
+d) Sensitive to demand and supply factors:  The prices of derivatives can 
+be highly volatile due to changes in demand and supply in the underlying 
+asset markets. Moreover, high levels of speculative trading can amplify 
+price movements and thus make derivatives volatile. 
+
+
+--- Page 63 ---
+ 
+ 
+233 
+Derivatives 13.4 A BRIEF HISTORY OF DERIVATIVES IN 
+INDIA 
+The historical roots of derivatives extend further back than commonly 
+acknowledged, with some texts even suggesting their existence in incidents 
+dating back to the Mahabharata. Traces of derivative contracts can be found 
+in historical occurrences predating the era of Jesus Christ. Nevertheless, the 
+formalization of modern derivative contracts is often attributed to the 
+necessity for farmers to safeguard against potential declines in crop prices 
+caused by delayed monsoons or overproduction. 
+India has a longstanding association with derivatives, particularly in the 
+commodity market. Organized trading in cotton, dating back to 1875 with the 
+establishment of the Cotton Trade Association, marked the initiation of the 
+commodity derivative market in the country. Over the years, contracts for 
+various other commodities have been introduced. In June 2000, exchange-
+traded financial derivatives were introduced at major stock exchanges in 
+India, namely NSE and BSE. The National Commodity & Derivatives 
+Exchange Limited (NCDEX) commenced operations in December 2003, 
+providing a platform for commodities trading. 
+The derivatives market in India has witnessed substantial growth, especially 
+at NSE. As of April 13, 2005, Stock Futures constitute the most actively 
+traded contracts on the NSE, contributing to approximately 55% of the total 
+turnover of derivatives. 
+Derivative trading in India can occur either on a distinct Derivative Exchange 
+or within a designated segment of an existing Stock Exchange. These 
+Derivative Exchanges/Segments operate as Self-Regulatory Organizations 
+(SROs), with SEBI serving as the overseeing regulator. The clearing and 
+settlement of all derivative trades on these platforms are facilitated through 
+independent Clearing Corporations/Houses. 
+The introduction of derivative products in India occurred in stages, beginning 
+with Index Futures Contracts in June 2000. Subsequently, Index Options and 
+Stock Options were introduced in June and July 2001, respectively, followed 
+by Stock Futures in November 2001. Derivatives trading in sectoral indices 
+gained approval in December 2002. In June 2003, Interest Rate Futures on a 
+notional bond and T-bill priced off ZCYC were introduced. Furthermore, 
+exchange-traded interest rate futures on a notional bond priced off a basket of 
+Government Securities received approval for trading in January 2004. 
+Check Your Progress 1  
+1) What do you mean by derivatives? Why are they called derivatives?  
+……………………………………………………………………………
+……………………………………………………………………………
+
+
+--- Page 64 ---
+ 
+ 
+234 
+Financial Markets ……………………………………………………………………………
+…………………………………………………………………………… 
+2) What are the characteristics of derivatives?  
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+3) Discuss the advantages and disadvantages of derivatives.  
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+13.5 TYPES OF DERVIATIVES   
+Derivatives can be categorized based on various criteria, such as the nature of 
+the underlying asset, trading venue, and contract structure. Although there are 
+many different forms of derivatives, the following are some of the most 
+popular ones in finance are:  
+1) Futures: Futures contracts are agreements to buy or sell an underlying 
+asset at a predetermined price and time in the future. They are commonly 
+used to hedge against price fluctuations and are traded on organized 
+exchanges.  
+2) Forwards: Forwards are similar to futures, but they are not traded on 
+exchanges. Instead, they are customized contracts between two parties to 
+buy or sell an underlying asset at a predetermined price and time in the 
+future. 
+3) Options: Options are contracts that give the buyer the right, but not the 
+obligation, to buy or sell an underlying asset at a predetermined price and 
+time. They can be used for hedging or speculative purposes, and are 
+traded on both exchanges and over-the-counter markets. 
+4) Swaps: Swaps are agreements to exchange cash flows based on different 
+financial instruments, such as interest rates, currencies, or commodities. 
+They are commonly used to manage risk and are traded over the counter. 
+The two most popular swaps are interest rate swaps and credit default 
+swaps (CDS).  
+5) Credit derivatives: Credit derivatives are contracts that allow investors 
+to manage credit risk by transferring it to another party. They include 
+credit default swaps, which allow investors to protect themselves against 
+
+
+--- Page 65 ---
+ 
+ 
+235 
+Derivatives default on a debt obligation, and collateralized debt obligations (CDOs), 
+which allow investors to pool together different types of debt securities. 
+6) Equity derivatives: Equity derivatives are contracts that allow investors 
+to gain exposure to changes in the price of a stock or stock index. They 
+include options, futures, and swaps on individual stocks or broad market 
+indices. 
+7) Commodity derivatives:  Commodity derivatives are contracts that 
+allow investors to gain exposure to changes in the price of a commodity, 
+such as gold, oil, or wheat. They include futures, options, and swaps on 
+various commodities. 
+13.6  FUTURES AND FORWARDS    
+13.6.1  Meanings of Futures and Forwards  
+1) Forwards – A forward contract is a financial agreement between two 
+parties where they agree to buy or sell an asset at a predetermined price 
+at a future date. The parties involved in a forward contract can be 
+individuals, corporations, or financial institutions.  Forward contracts are 
+used to hedge against price fluctuations in an asset, such as commodities, 
+currencies, stocks, or bonds.  
+Example 13.1 : If a company wants to buy a certain commodity at a 
+future date, it can enter into a forward contract with a supplier to buy the 
+commodity at a fixed price, thus avoiding the risk of price volatility. 
+Similarly, if an investor expects a certain stock to appreciate, they can 
+enter into a forward contract to buy the stock at a predetermined price in 
+the future. 
+2) Futures – Futures contracts are financial instruments that allow parties 
+to buy or sell an asset, such as commodities, currencies, or financial 
+instruments, at a predetermined price and date in the future. The price of 
+the underlying asset is fixed at the time the futures contract is created, 
+and the transaction is legally binding. 
+Futures contracts are often used by traders and investors to hedge against 
+potential price fluctuations or to speculate on the direction of market 
+movements. For example, a farmer might sell a futures contract on a 
+commodity like wheat to lock in a price for a future delivery, thereby 
+reducing the risk of a price drop. Similarly, a speculator might buy a 
+futures contract on a stock index if they believe that the market will rise 
+in the future. 
+We will discuss more about Futures and Forwards in Unit 21-Pricing of 
+Derivatives. 
+13.6.2  Differences between Futures and Forwards  
+Futures and Forwards can be differentiated as follows: 
+
+
+--- Page 66 ---
+ 
+ 
+236 
+Financial Markets Table 13.1: Differences between Futures and Forwards 
+S.No. Forward contracts Futures contracts 
+1 The contract price is not 
+publicly disclosed  
+The contract price is transparent. 
+2 The contract is exposed to 
+default risk by the counterparty.  
+The contract has effective 
+safeguards against defaults.  
+3 Each contract is unique in terms 
+of size, expiration date and asset 
+type.  
+The contracts are standardized in 
+terms of size, expiration date and 
+all other futures.  
+4 Forward contracts suffer from 
+the problem of liquidity.  
+There is no problem of liquidity.  
+5 Settlement of the contract is 
+done by delivery of the asset on 
+the expiration date.  
+Settlement is done on a cash basis.  
+6 They are traded on a personal 
+basis or the telephone or 
+otherwise.  
+They are traded in a competitive 
+market.  
+7 They are traded in an over-the-
+counter market.  
+They are traded on organised 
+exchanges with a designated 
+physical location.  
+8 The costs of forward contracts 
+are based on the bid-ask spread.  
+They involve brokerage frees.  
+9 Forward contracts are not 
+subject to marking to market.  
+They are subject to marking to 
+market.  
+10 Credit risk is borne by each 
+party.  
+Credit risk is not borne by each 
+party.  
+ 
+13.7 OPTIONS     
+An option is an agreement between two parties (say A and B) in which a 
+party, say, A, has the right to buy or sell a particular asset at a predetermined 
+price within a specified time frame. Moreover, if A does not want to execute 
+his right, then he cannot be forced to do so by B. That is why the agreement 
+is called option not obligation. An option helps in managing the risk of ups 
+and downs of the price of an asset in which A is interested. Making a strategy 
+to reduce or manage risk is called hedging. So, an option is a hedging tool.   
+Now a question arises i.e., when should A use his right (technically known 
+as exercising option)? Before answering this question, we should understand 
+two main types of options i.e.  
+1) Call Option  
+2) Put Option  
+
+
+--- Page 67 ---
+ 
+ 
+237 
+Derivatives 13.7.1  Call Option  
+Suppose that the current price of a share of a company is ₹ 500. There is a 
+good chance that the price will go up in the next 4 months, but a fall is also 
+probable in the price. You are in a dilemma to buy the share or not. Luckily, 
+you find a person, say, Vikas, who agrees to give you an option to buy the 
+share from him at ₹ 530 after 4 months irrespective of the actual price of the 
+share in the market. For this, Vikas will charge a cost of ₹ 20 as purchase 
+cost. Common sense says that if the actual price of the share goes up, say,  
+₹ 580, then it will be profitable for you to purchase the share from Vikas at  
+₹ 530 and sell in the market at ₹ 580. It will create a profit of ₹ 30 after 
+charging the cost of ₹ 20. Of course, it will be a loss-making situation for 
+Vikas. Now, what if the price does not reach the level which creates profit for 
+you? In that case, you cannot be forced to buy the share from him because it 
+is an option, not an obligation. Thus, by paying an amount of ₹ 20 only, you 
+can avail the chance or opportunity of profit with zero risk or you can hedge 
+your risk.  
+In finance, such an agreement is called a call option , the share of the 
+company is called underlying asset , the price demanded by Vikas is called 
+the exercise price or strike price , and the difference between the exercise 
+price at expiry and the price of the underlying asset i.e., ₹ 50 is called 
+exercise value (or intrinsic value of the call option), the cost of ₹ 20 charged 
+by him is called option premium , the profit of ₹ 30 earned is called net 
+payoff, and Vikas is called option writer  and you are an option buyer . 
+Since this call option derives its value because of a share linked to it, 
+therefore, it is a derivative also. Thus, we can define a call option as follows:  
+A call option is a type of derivative in which the buyer gets a right to buy an 
+underlying at an agreed price (known as exercise price or strike price) when 
+the buy is profitable to him at the time of expiry of the option. Since this 
+derivative is an option, therefore, he cannot be forced by the option writer to 
+buy the underlying asset when its buy is unprofitable, but for this option, he 
+has to bear a cost in the form of option premium charged due to time value of 
+money and risk taken by the option writer.  
+Now, we can answer the question, when should A use his right (technically 
+known as exercising option)?  The decision to exercise a call option can be 
+taken as follows:  
+Table 13.2: Decision to exercise a call option 
+Situations  Decision  Market Terms  
+Price of the underlying asset (S) at 
+option expiry > Exercise price (E)  
+i.e., S – E > 0  
+Exercise the call 
+option because it is a 
+profitable situation 
+for the buyer of the 
+call option.  
+In-the-money call 
+option i.e., money 
+will come to the 
+option buyer.   
+
+
+--- Page 68 ---
+ 
+ 
+238 
+Financial Markets 
+Net payoff  
+Price of the 
+underlying 
+asset 
+0  
+Profit   
+Price of the underlying asset (S) 
+at option expiry < Exercise price 
+(E) 
+i.e., S – E < 0  
+Don’t exercise the 
+call option because it 
+is not a profitable 
+situation.  
+Out-the-money call 
+option i.e., money 
+would flow out if the 
+option is exercised.  
+ 
+Thus, a call option should be exercised when S > E or S – E > 0. The exercise 
+value or intrinsic value  (or just value denoted by VCO) of a call option at its 
+expiry can be calculated using the following formula:  
+𝐕𝐂𝐎 = ቄ𝐒 − 𝐄         𝐢𝐟 𝐒 > 𝐄
+𝟎                 𝐢𝐟 𝐒 ≤ 𝐄 
+A call option is exercised only when S > E  because if a call option is 
+exercised when S < E,  then it will not be a rational decision because in that 
+case receiving price S from the market by paying a higher amount E to the 
+option writer is a loss-making transaction. Therefore, the value of the call 
+option can also be expressed as this   
+VCO = Max [S – E, 0]  
+Max [S-E, 0] is read as chose the maximum of (S – E) and 0.  
+Profit on a call option is calculated using the following formula:  
+Net Payoff = VCO – option premium  
+If we plot the net payoffs against the prices of the underlying asset, then we 
+get a graph known as the net payoff diagram. One point should be noted this 
+diagram is drawn from the option buyer’s point of view.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 13.1: Net payoff from the option buyer’s point of view 
+Loss  
+
+
+--- Page 69 ---
+ 
+ 
+239 
+Derivatives 
+Price of the 
+underlying 
+asset 
+0  
+Profit   Loss 
+If the net payoff diagram is drawn from the option writer’s point of view, 
+then the diagram is as follows:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 13.2: Net payoff from the option writer’s point of view 
+Let us understand Call option with the help of an example. 
+Example 13.2 : Mr. Aakash is willing to buy a share of Reliance Industries 
+and after 3 months, its probable prices are as follows: ₹ 5, ₹ 10, ₹ 15, ₹ 20,  
+₹ 25, ₹30. The current price is ₹ 7. Aakash purchases a call option from a 
+derivative dealer and as per the terms and conditions, the exercise price is  
+₹ 12, and the option premium is ₹ 35.    
+a) You are required to suggest when to exercise the above call option.  
+b) Also, sketch the net payoff diagram from Aakash and the derivative 
+dealer's point of view.  
+Solution  
+Net payoff call option buyer point of view i.e., Aakash.    
+Price of 
+underlying 
+asset (in ₹)
+ 
+Option 
+premium 
+(in ₹) 
+Exercise 
+price 
+(in ₹) 
+Total cost 
+(₹) 
+Net pay-off 
+(₹) 
+Option exercise 
+(Yes or No) 
+5 2 - 2 -2 No 
+10 2 - 2 -2 No 
+15 2 13 15 0 Yes 
+20 2 13 15 5 Yes 
+25 2 13 15 10 Yes 
+30 2 13 15 15 Yes 
+ 
+ 
+Net payoff  
+
+
+--- Page 70 ---
+ 
+ 
+240 
+Financial Markets 
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0 5 10 15 20 25 30 35
+Net Payoff
+Share Price
+-16
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+0 5 10 15 20 25 30 35
+Net Payoff
+Share Price
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 13.3: Net Payoff Diagram from Akash's Point of View 
+Net payoff option writer point of view i.e., derivative dealer.  
+Price of 
+underlying 
+asset (in ₹)
+ 
+Option 
+premium 
+(in ₹) 
+Exercise 
+price 
+(in ₹) 
+Total 
+Revenue 
+(₹) 
+Net payoff 
+(₹) 
+ 
+Option 
+exercise 
+(Yes or 
+No) 
+5 2 - 2 2 No 
+10 2 - 2 2 No 
+15 2 13 15 0 Yes 
+20 2 13 15 -5 Yes 
+25 2 13 15 -10 Yes 
+30 2 13 15 -15 Yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 13.4: Net Payoff Diagram from option Writer’s point of view 
+ 
+
+
+--- Page 71 ---
+ 
+ 
+241 
+Derivatives 13.7.2  Put Option  
+A put option is a type of derivative in which the buyer gets a right to sell an 
+underlying at an agreed price (known as exercise price or strike price) when 
+the sale is profitable to him. Since this derivative is an option, therefore, he 
+cannot be forced to sell the underlying asset when its sale is unprofitable, but 
+for this option, he has to bear a cost in the form of an option premium.  A put 
+option can be exercised as follows:  
+Table 13.3: Decision to exercise a Put option 
+Situations  Decision  Market Terms  
+Exercise price (E) < Price of the 
+underlying asset (S) at option expiry 
+i.e., E– S < 0 
+Don’t exercise the put 
+option because it is a 
+profitable situation 
+for the buyer of the 
+call option.  
+Out-the-money put 
+option i.e., money 
+will come to the 
+option buyer.   
+Exercise price (E) > Price of the 
+underlying asset (S) at option expiry 
+i.e., E– S > 0  
+Exercise put option 
+because it is not a 
+profitable situation.  
+In-the-money put 
+option i.e., money 
+will come to the 
+option buyer.   
+ 
+Thus, a put option should be exercised when E > S or E – S > 0. The exercise 
+value or intrinsic value  (or just value denoted by VPO) of a put option at its 
+expiry can be calculated using the following formula:  
+VPO = ቄ E − S        if E > S
+0                 if E ≤ S  
+A put option is exercised only when E > S because if a put option is exercised 
+when E < S, then it will not be a rational decision because receiving amount 
+E from the option writer by purchasing for a higher amount S in the market is 
+a loss-making transaction. Thus, the value of a put option can also be 
+expressed as this   
+VPO = Max [E – S, 0]  
+Max [E-S, 0] is read as chose the maximum of (E – S) and 0.  
+Profit on a put option is calculated using the following formula:  
+Net Payoff = VPO – option premium  
+Example 13.3:  Ms. Siddhi is willing to sell the share of SBI and after 2 
+months, its probable prices are as follows: ₹ 5, ₹ 10, ₹ 15, ₹ 20, ₹ 25, ₹30. 
+The current price is ₹ 7. She purchases a put option from a derivative dealer 
+and as per the terms and conditions, the exercise price is ₹ 12, and the option 
+premium is ₹ 35.  
+
+
+--- Page 72 ---
+ 
+ 
+242 
+Financial Markets 
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+0 5 10 15 20 25 30 35
+Net payoff
+Share Price
+a) You are required to suggest when to exercise the above-put option.  
+b) Also, sketch the net payoff diagram from Siddhi and the derivative 
+dealer's point of view.  
+Solution  
+Net payoff put option buyer point of view i.e., Ms Siddhi.     
+Price of 
+underlying 
+asset (in ₹) 
+Option 
+premium 
+(in ₹) 
+Exercise 
+price 
+(in ₹) 
+Total 
+cost 
+(₹) 
+Net pay-
+off 
+(₹) 
+Option 
+exercise 
+(Yes or No) 
+5 2 13 7 6 Yes 
+10 2 13 12 1 Yes 
+15 2 - 2 -2 No 
+20 2 - 2 -2 No 
+25 2 - 2 -2 No 
+30 2 - 2 -2 No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check Your Progress 2 
+1) What is an option? Why is it called an option?  
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+2) What are call and put options? Explain using an example.  
+……………………………………………………………………………
+……………………………………………………………………………

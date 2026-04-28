@@ -1,0 +1,432 @@
+--- Page 43 ---
+ 
+ 
+99 
+Money Supply 3)  Deposit Creation through Lending: When banks receive additional 
+reserves, either through central bank injections or deposit inflows, they 
+can expand their lending activities. Loans create new deposits, 
+effectively increasing the money supply beyond the initial injection of 
+base money. 
+4)  Multiplier Effect: The expansion of bank loans and deposits sets off a 
+multiplier effect as the newly created deposits become a part of the 
+broader money supply. These deposits are re-deposited in banks or spent 
+in the economy, leading to further rounds of lending and deposit 
+creation. 
+5)  Limitations and Leakages:  The money multiplier process is subject to 
+limitations and leakages that can dampen its impact on the money 
+supply. These include excess reserve holdings by banks, currency drain 
+(withdrawal of currency from banks), and non-bank financial 
+intermediaries that do not fall under traditional reserve requirements. 
+Determinants of the Money Multiplier 
+Several factors influence the magnitude of the money multiplier and its 
+effectiveness in expanding the money supply: 
+1)  Reserve Ratio:  The reserve requirement set by the central bank directly 
+affects the money multiplier. A lower reserve ratio allows banks to lend 
+out more of their deposits, leading to a higher multiplier effect. 
+2)  Currency Drain:  The propensity of the public to hold currency rather 
+than deposits affects the effectiveness of the money multiplier. A higher 
+currency drain reduces the deposit base on which banks can create new 
+loans, thus lowering the multiplier. 
+3)  Excess Reserves: The level of excess reserves held by banks influences 
+their lending capacity. Higher excess reserves can limit the effectiveness 
+of the multiplier process as banks may choose to hoard reserves rather 
+than extend loans. 
+Implications for Monetary Policy and Economic Stability 
+Understanding the money multiplier process is crucial for central banks in 
+formulating and implementing monetary policy. By adjusting the monetary 
+base through open market operations, discount rate changes, or reserve 
+requirement adjustments, central banks can influence the money supply and 
+thereby regulate economic activity, inflation, and interest rates. 
+In conclusion, the money multiplier process serves as a cornerstone of 
+monetary economics, providing insights into the mechanisms through which 
+changes in the monetary base propagate through the financial system to 
+impact the broader money supply. A nuanced understanding of the money 
+multiplier process is essential for policymakers, economists, and students 
+
+
+--- Page 44 ---
+ 
+ 
+100 
+Money alike, as it underpins the formulation and implementation of effective 
+monetary policy measures aimed at achieving macroeconomic stability and 
+sustainable economic growth. 
+Check Your Progress 2 
+1) What is the role of the reserve requirement in the money multiplier 
+process? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+2) How does the money multiplier process contribute to the expansion of 
+the broader money supply? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+3) Why is understanding the money multiplier process crucial for central 
+banks in formulating monetary policy? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+6.4 FACTORS AFFECTING THE MONEY 
+MULTIPLIER AND HIGH POWERED MONEY 
+Understanding the dynamics of money supply is crucial for central banks and 
+policymakers in managing monetary policy effectively. The money multiplier 
+and high powered money are key concepts in this regard. The money 
+multiplier represents the ratio of the money supply to the monetary base, 
+while high powered money refers to the monetary base itself. Various factors 
+influence both the money multiplier and high powered money, which in turn 
+impact the overall money supply in an economy. 
+Factors Affecting the Money Multiplier: 
+1)  Reserve Requirements:  The reserve requirement ratio set by the central 
+bank significantly affects the money multiplier. A lower reserve 
+requirement leads to a higher money multiplier, as banks can lend out 
+more of their deposits, increasing the money supply. 
+2)  Currency Drain:  When individuals hold more currency rather than 
+depositing it in banks, the money multiplier decreases. This is because 
+
+
+--- Page 45 ---
+ 
+ 
+101 
+Money Supply currency held by the public does not contribute to the creation of new 
+deposits through the banking system. 
+3)  Banking Behaviour:  The behaviour of banks also affects the money 
+multiplier. If banks become more cautious and hold excess reserves 
+rather than lending them out, the money multiplier decreases. 
+Conversely, if banks are more aggressive in lending, the money 
+multiplier increases. 
+4)  Central Bank Policy:  Monetary policy actions by the central bank, such 
+as open market operations and changes in the discount rate, can influence 
+the money multiplier. For example, when the central bank purchases 
+government securities in open market operations, it injects reserves into 
+the banking system, potentially increasing the money multiplier. 
+5)  Deposit Leakage:  Leakage of deposits from the banking system, such as 
+through excess reserves, excess currency holdings, or withdrawals for 
+purchases of securities or assets outside the banking system, reduces the 
+effectiveness of the money multiplier. 
+Factors Affecting High Powered Money: 
+1)  Central Bank Operations:  High powered money is primarily 
+influenced by the actions of the central bank. Central banks control the 
+monetary base through various operations, including open market 
+operations, changes in reserve requirements, and lending facilities. 
+2) Government Transactions: Government transactions, such as fiscal 
+policy decisions that involve changes in government spending or 
+taxation, can impact high powered money. For example, government 
+expenditures financed by the central bank may increase the monetary 
+base. 
+3)  Foreign Exchange Operations: Foreign exchange interventions by 
+central banks can affect high powered money, especially in economies 
+with fixed or managed exchange rate regimes. Purchases or sales of 
+foreign currency reserves impact the monetary base. 
+4)  Financial Crises:  During financial crises, central banks may engage in 
+unconventional measures such as quantitative easing, which involves 
+increasing the monetary base through large-scale purchases of financial 
+assets. 
+5)  Banking Sector Dynamics:  Changes in the banking sector, such as the 
+consolidation of banks or shifts in the composition of bank reserves, can 
+influence high powered money.  
+The money multiplier and high powered money are interconnected concepts 
+that play a crucial role in determining the overall money supply in an 
+economy. Understanding the factors that influence these variables is essential 
+
+
+--- Page 46 ---
+ 
+ 
+102 
+Money for central banks and policymakers in formulating and implementing 
+effective monetary policy. By monitoring and managing these factors, 
+authorities can work to maintain price stability, promote economic growth, 
+and achieve their policy objectives. 
+Check Your Progress 3 
+1) How does a decrease in reserve requirements affect the money 
+multiplier? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+2) What impact does excess currency holdings by the public have on the 
+money multiplier? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+3) Why is it important for central banks to consider government 
+transactions when assessing high powered money? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+6.5 THE THEORY OF ENDOGENOUS MONEY 
+SUPPLY 
+The theory of endogenous money supply challenges the traditional view of 
+money creation, which suggests that the money supply is primarily 
+determined by the actions of central banks. Instead, it posits that the money 
+supply is largely endogenously determined by the demand for credit from 
+borrowers and the ability of banks to create money through the process of 
+lending. This theory has significant implications for understanding the 
+dynamics of monetary policy, financial stability, and economic activity. 
+Key Concepts: 
+1)  Credit Creation by Banks 
+In the endogenous money supply framework, banks play a pivotal role in 
+money creation through the process of credit creation. When banks extend 
+loans to borrowers, they simultaneously create new deposits in the accounts 
+of the borrowers. These deposits effectively function as money in the 
+economy, increasing the overall money supply. 
+
+
+--- Page 47 ---
+ 
+ 
+103 
+Money Supply 2)  Loanable Funds vs. Money Supply 
+Unlike the loanable funds theory, which suggests that banks act as 
+intermediaries that lend out pre-existing deposits, the endogenous money 
+supply theory emphasizes that banks create new money when they make 
+loans. Thus, the money supply is not limited by the availability of pre-
+existing funds but is determined by the demand for credit and the lending 
+capacity of banks. 
+3)  Reserves and Central Bank Influence 
+While central banks retain some influence over the money supply through 
+their control of the monetary base (reserves and currency), the endogenous 
+money supply theory suggests that this influence is indirect. Central bank 
+actions, such as setting interest rates or conducting open market operations, 
+affect the cost of borrowing and the willingness of banks to extend credit, 
+thereby influencing the money supply. 
+4)  Creditworthiness and Economic Conditions 
+The ability of banks to create credit and expand the money supply is 
+contingent upon the creditworthiness of borrowers and prevailing economic 
+conditions. In times of economic expansion and confidence, banks may be 
+more willing to lend, leading to an increase in the money supply. Conversely, 
+during economic downturns or financial crises, banks may become more 
+cautious, leading to a contraction in credit and the money supply. 
+5)  Liquidity Preference and Monetary Policy Transmission 
+The endogenous money supply theory highlights the role of liquidity 
+preference and interest rate expectations in monetary policy transmission. 
+Changes in central bank policy rates influence the cost of borrowing and the 
+demand for credit, thereby impacting the money supply and overall economic 
+activity. 
+Graphical Representation of the Exogenous and Endogenous Money 
+Supply Curves 
+We further discuss the difference between the exogenous and endogenous 
+money supply curve with the help of Figure 6.1 whereby part A shows the 
+exogenous supply curve and the factors affecting the shift in the exogenous 
+money supply curve. Part B discusses the endogenous supply curve and the 
+factors affecting the shift in the endogenous supply curve.  
+We discussed the following terms in Section 6.3:  
+MB= Monetary Base; c d = Currency to Deposit ratio; rr = required reserve to 
+deposit ratio; er = excess reserves to deposit ratio; D = Demand deposit. 
+These terms will be further used in the discussion.  
+Money supply curve shows the amount of money that suppliers are willing 
+and able to supply at various interest rates in the economy. We know that 
+
+
+--- Page 48 ---
+ 
+ 
+104 
+Money there are four determinants of money supply, that is, MB, rr, er, and cd. From 
+equation (10) from section 6.2, we know  
+Money supply=[ cd +1/ cd +rr + er] * MB  
+But interest rates have no relation with MB and rr because it is determined by 
+the Central Bank. Interest rates have impact on er and cd. Economists differ in 
+their views whereby some say that interest rate has no relation with er and c d 
+(Exogenous Money Supply Curve). Others say that interest rate has relation 
+with er and cd (Endogenous Money Supply).  
+In Figure 6.1 (A), we see that any change in the interest rates have no impact 
+on the shape of the money supply curve, it is a vertical straight line 
+(constant), say MS0. As per The endogenous money supply curve in Figure 6.1 
+(B) we see that an increase in interest rates by the Central Bank Leads to 
+more loans by the commercial banks in the market and hence increased 
+money supply. So there is a positive relation between interest rates and 
+money supply, upward sloping MS0 curve in Figure 6.1 (B). At higher interest 
+rates the customers prefer to deposit more money with the commercial banks 
+to earn interest (cd decreases), hence money available for loans increases with 
+the commercial banks leading to increased money supply. Hence er and c d 
+impact money supply curve as per endogenous money supply surve. 
+                                                                                                               MS1 
+             Interest rate                                                                  Interest rate 
+                           MS1       MS0                       MS2                                                                                                                               MS0 
+MB 
+ rr                            MS2 
+                                                                                                                                           
+ MB            MB  MB 
+ Er              er         rr 
+ cd              cd 
+ rr               rr 
+  
+ 
+ 
+Stock  Money Stock            Money  
+A. Exogenous Money Supply Curve              
+B. Endogenous Money Supply Curve                                                                       
+Fig. 6.1: Money Supply Curves and factors impacting shift in the curves 
+Further we discuss the shifts in both exogenous and endogenous money 
+supply curve. In Figure 6.1 (A), we see that a decrease in MB and increase in 
+er, c d and rr leads to decrease in the money supply curve (leftwards), vice 
+versa. Here it needs to be noticed that er and c d are not impacted by interest 
+rates, however, they do impact shifts in money supply.  
+In Figure 6.1 (B), we see that an increase in MB and rise in rr leads to 
+increased money supply (rightward shift), MS 2 , vice versa. Here, er and c d 
+are impacted by interest rates and hence impact the money supply curve 
+(upward sloping).  
+
+
+--- Page 49 ---
+ 
+ 
+105 
+Money Supply Implications: 
+1)  Monetary Policy Effectiveness 
+Endogenous money supply theory suggests that monetary policy 
+effectiveness may be influenced by the responsiveness of banks and 
+borrowers to changes in central bank policy. Understanding the dynamics of 
+credit creation and money supply determination is crucial for policymakers in 
+assessing the impact of monetary policy on the economy. 
+2)  Financial Stability Considerations 
+The theory of endogenous money supply emphasizes the interconnectedness 
+of the banking system and the real economy. Financial stability 
+considerations, such as the adequacy of bank capital and the management of 
+systemic risks, are essential for ensuring the smooth functioning of the 
+endogenous money supply mechanism. 
+3)  Role of Central Banks 
+While central banks retain a significant role in influencing monetary 
+conditions and financial stability, the endogenous money supply theory 
+underscores the importance of understanding the behaviour of banks and 
+borrowers in shaping the overall money supply dynamics. 
+The theory of endogenous money supply provides a different perspective on 
+the process of money creation and the role of banks in the economy. By 
+highlighting the endogenous nature of the money supply and the importance 
+of credit creation by banks, this theory deepens our understanding of 
+monetary policy transmission, financial stability, and the functioning of the 
+monetary system. Incorporating these insights into economic analysis and 
+policymaking can lead to more effective strategies for managing monetary 
+conditions and promoting sustainable economic growth. 
+Check Your Progress 4 
+1) How does the theory of endogenous money supply differ from the 
+traditional view of money creation? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+2) How do changes in central bank policy rates influence the money 
+supply according to the theory of endogenous money supply? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+
+
+--- Page 50 ---
+ 
+ 
+106 
+Money 6.6  LET US SUM UP 
+The foundation of any economy lies in its monetary framework. 
+Understanding the nuances of money supply is imperative for policymakers 
+and economists alike. At the core of this understanding is high-powered 
+money, which forms the basis for the broader monetary aggregates. Central 
+banks wield significant control over the money supply through various tools 
+at their disposal. By manipulating the monetary base through operations such 
+as open market transactions, reserve requirement adjustments, and changes in 
+the discount rate, central banks can influence economic activity, inflation, 
+and interest rates. 
+The money multiplier process illustrates how changes in the monetary base 
+trickle down through the financial system, amplifying the overall money 
+supply. This process begins with an injection of base money into the banking 
+system, leading to the creation of deposits as commercial banks extend loans. 
+The subsequent expansion of bank loans and deposits triggers a multiplier 
+effect, resulting in a proportional increase in the money supply. However, the 
+effectiveness of this process is subject to various factors, including reserve 
+requirements, currency drain, and the level of excess reserves held by banks. 
+In contrast to traditional views of money creation, the theory of endogenous 
+money supply sheds light on the crucial role of banks in determining the 
+money supply through credit creation. According to this theory, money is 
+generated when banks extend loans to borrowers, thereby contributing to the 
+expansion of the money stock. Understanding the intricacies of credit 
+creation and the behaviour of banks and borrowers is essential in shaping our 
+comprehension of money supply dynamics. 
+Overall, this exploration provides a comprehensive overview of the 
+mechanisms governing money supply, highlighting the roles of high-powered 
+money, the money multiplier process, and the theory of endogenous money 
+supply. By delving into these concepts and their implications for monetary 
+policy and economic stability, stakeholders can deepen their understanding of 
+macroeconomic phenomena and make informed decisions to steer economies 
+towards sustainable growth and stability. 
+6.7 KEY WORDS 
+High-Powered Money :  The total amount of currency in circulation and 
+reserves held by the central bank, serving as the 
+foundation for the broader money supply in an 
+economy. 
+Money Multiplier :   A ratio representing the change in the money 
+supply relative to the change in the monetary 
+base, illustrating how an initial injection of high-
+powered money leads to a multiple expansion of 
+
+
+--- Page 51 ---
+ 
+ 
+107 
+Money Supply the broader money supply through bank lending 
+and deposit creation. 
+Exogenous :  External or outside influence; in the context of 
+money supply, exogenous refers to factors that 
+are determined externally, such as by central 
+banks. 
+Endogenous Money :   A  theory  challenging  the  traditional  view  of  
+Supply   money creation, suggesting that the money 
+supply is largely determined by the demand for 
+credit from borrowers and the ability of banks to 
+create money through lending, rather than by 
+central bank actions alone. 
+Monetary Base : Synonymous with high-powered money, it 
+represents the total amount of currency in 
+circulation and reserves held by the central bank. 
+Open Market :   Actions undertaken  by  central  banks  to  buy  or  
+Operations   sell government securities in the open market, 
+influencing the amount of reserves in the banking 
+system and thereby impacting the money supply. 
+Reserve Requirements :  Mandated reserves that commercial banks are 
+required to hold by central banks, affecting the 
+amount of excess reserves available for lending 
+and thus influencing the money supply. 
+Liquidity Preference :   The desire of individuals and businesses to hold 
+assets in liquid form, such as cash or demand 
+deposits, rather than in illiquid forms such as 
+physical assets or long-term investments. 
+6.8  SOME USEFUL BOOKS 
+Errol  D’Souza (2012) Macroeconomics 2 nd edition Pearson Education, New 
+Delhi 
+McCallum, Benett   Monetary Economics 
+6.9 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1  
+1. Currency and reserves. 
+2. Through open market operations, the central bank buys or sells 
+government securities in the open market. 
+
+
+--- Page 52 ---
+ 
+ 
+108 
+Money Check Your Progress 2 
+1. Reserve requirement acts as a constraint on the amount of money banks 
+can create through lending. 
+2. Refer to Section 6.3 
+3. Refer to Section 6.3 
+Check Your Progress 3 
+1. A lower reserve requirement leads to a higher money multiplier, as banks 
+can lend out more of their deposits, increasing the money supply. 
+2. When individuals hold more currency rather than depositing it in banks, 
+the money multiplier decreases. This is because currency held by the 
+public does not contribute to the creation of new deposits through the 
+banking system. 
+3. Government transactions, such as fiscal policy decisions that involve 
+changes in government spending or taxation, can impact high powered 
+money.   
+Check Your Progress 4 
+1. Refer to Section 6.5 
+While central banks retain some influence over the money supply 
+through their control of the monetary base (reserves and currency), the 
+endogenous money supply theory suggests that this influence is indirect. 
+Central bank actions, such as setting interest rates or conducting open 
+market operations, affect the cost of borrowing and the willingness of 
+banks to extend credit, thereby influencing the money supply.  

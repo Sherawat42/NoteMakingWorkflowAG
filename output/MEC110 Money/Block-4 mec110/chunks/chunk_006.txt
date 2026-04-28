@@ -1,0 +1,473 @@
+--- Page 51 ---
+221 
+Bond Markets make it more difficult to obtain credit and can result in higher interest rates 
+and less favourable loan terms. 
+Worldwide, perhaps, the most popular credit rating agencies are Moody’s 
+Investors Service (Moody’s) and Standard & Poor’s (S&P). In India, as of 
+now, there are seven registered credit rating agencies. Their names are as 
+follows:  
+1) Credit Rating Information Services of India Limited (CRISIL)
+2) Investment Information and Credit Rating Agency of India (ICRA)
+Limited
+3) Credit Analysis and Research (CARE) Limited
+4) Acuite Ratings & Research,
+5) Brickwork Ratings India Private Limited
+6) India Ratings and Research Pvt. Ltd.
+7) Infometrics Valuation and Rating Pvt. Ltd.
+CRISIL is the oldest credit rating agency in India followed by ICRA and 
+CARE. Let us see briefly their credit rating notations and explanations.  
+1) Credit Rating Information Services of India Limited (CRISIL)
+Credit Rating Information Services of India Limited (CRISIL),
+established in 1987, is one of the oldest credit rating agencies in India. It
+operates in various countries like the UK, USA, Poland, China, Hong
+Kong, and Argentina, apart from India. It evaluates the creditworthiness
+of commercial entities based on their strengths, market reputation,
+market share and board. Its ratings range from CRISIL AAA to CRISIL
+D which are given below:
+Table 12.1: Different categories of credit ratings given by CRISIL
+Rating Explanation Credit 
+Risk 
+Degree of safety 
+CRISIL 
+AAA 
+Securities with this rating 
+are considered to have 
+the highest degree of 
+safety regarding timely 
+servicing of financial 
+obligations. Such  
+securities carry the 
+lowest credit risk. 
+Lowest risk 
+ Highest degree of 
+safety 
+CRISIL AA Securities with this rating 
+are considered to have a 
+high degree of safety 
+Very low 
+risk 
+The high degree of 
+safety  
+
+
+--- Page 52 ---
+222 
+Financial Markets regarding timely 
+servicing of financial 
+obligations. Such 
+securities carry very low 
+credit risk. 
+CRISIL A Securities with this rating 
+are considered to have an 
+adequate degree of safety 
+regarding the timely 
+servicing of financial 
+obligations. Such 
+securities carry low credit 
+risk. 
+Low risk Adequate degree 
+of safety  
+CRISIL 
+BBB 
+Securities with this rating 
+are considered to have a 
+moderate degree of safety 
+regarding timely 
+servicing of financial 
+obligations. Such 
+securities carry moderate 
+credit risk. 
+Moderate 
+risk 
+A moderate degree 
+of safety  
+CRISIL BB Securities with this rating 
+are considered to have a 
+moderate risk of default 
+regarding timely 
+servicing of financial 
+obligations. 
+Moderate 
+risk of 
+default 
+- 
+CRISIL B Securities with this rating 
+are considered to have a 
+high risk of default 
+regarding the timely 
+servicing of financial 
+obligations. 
+High risk of 
+default 
+- 
+CRISIL C Securities with this rating 
+are considered to have a 
+very high risk of default 
+regarding the timely 
+servicing of financial 
+obligations. 
+Very high 
+risk of 
+default 
+- 
+CRISIL D Securities with this rating 
+are in default or are 
+expected to be in default 
+soon. 
+Worst risk - 
+Source: https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-
+scale.html 
+
+
+--- Page 53 ---
+223 
+Bond Markets 2) Investment Information and Credit Rating Agency of India (ICRA)
+Limited
+The Investment Information and Credit Rating Agency of India,
+established in 1991, uses a rating system to give comprehensive credit
+ratings to corporates. ICRA is known for assigning corporate governance
+ratings, mutual funds ratings, structured finance ratings, performance
+ratings, etc. Credit ratings of ICRA range from ICRA AAA to ICRA D.
+Their explanations are the same as in CRISIL.
+3) Credit Analysis and Research (CARE) Limited
+Credit Analysis and Research Limited (CARE) was established in 1993.
+CARE rates bank loan ratings- short-term and long-term debt
+instruments. Credit ratings of CARE range from CARE AAA to CARE
+D. Their explanations are the same as in CRISIL.
+Check Your Progress 4 
+1) What is a credit rating? How is credit rating useful for an investor?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What are the credit rating codes of CRISIL, ICRA, and CARE?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+12.7  BOND MARKET IN INDIA 
+12.7.1  Bond Market — A Part of The Debt Market in India 
+The debt market, also known as the ‘fixed income market,’ includes 
+instruments that offer fixed returns, with the bond market being a key 
+component. In countries like India, debt markets have become a vital source 
+of funds, serving as an alternative to traditional banking channels for 
+financing. The significance of debt markets in an economy is underscored by 
+their role in: 
+a) Efficiently mobilizing and allocating resources.
+b) Funding the government’s developmental activities.
+
+
+--- Page 54 ---
+224 
+Financial Markets c) Transmitting signals for the implementation of monetary policy.
+d) Managing liquidity in line with short-term and long-term objectives.
+e) Providing a credible alternative to banks as funding sources.
+12.7.2  Regulators 
+As we have discussed in Unit 10 and Unit 11, Debt market transactions, 
+including issuances and investments, fall under the jurisdiction of the 
+following regulators: 
+a) RBI (Reserve Bank of India):  As the ‘money market’ regulator, the
+Reserve Bank of India regulates and facilitates government bonds and
+other securities on behalf of the government.
+b) SEBI (Securities Exchange Board of India):  As the ‘securities market
+regulator,’ the Securities and Exchange Board of India regulates
+corporate and municipal bonds issued by entities that are listed or intend
+to be listed.
+However, for money market instruments such as Commercial Paper, if the 
+issuer intends to list them, the disclosures must comply with SEBI 
+requirements. 
+12.7.3  The Growth of Indian Bond Market 
+India’s bond market is currently valued at US$2.59 trillion, reflecting a 
+12.3% annual growth in INR terms from the previous year. The corporate 
+bond segment, worth US$567 billion, also saw a year-over-year growth of 
+12.6%. Despite this, the debt market is predominantly composed of 
+government securities (G-secs). Specifically, the outstanding stock of 
+government securities amounts to ₹1,68,85,262 crores (US$2.02 trillion), 
+while corporate bonds stand at ₹47,28,935 crores (US$567 billion). Over the 
+past decade (from 2013-2023), India’s bond market has grown at an 
+impressive annual rate of 12.6% in INR terms, underscoring its expanding 
+role in the country's financial ecosystem. The inclusion of Indian bonds in 
+global indices by JP Morgan and Bloomberg has further highlighted Indian 
+fixed income on the global stage. S&P Global Ratings has upgraded India’s 
+credit rating outlook from ‘stable’ to ‘positive,’ citing policy consistency, 
+significant economic reforms, and substantial infrastructure investments as 
+key drivers of sustained long-term growth. With India’s GDP projected to 
+reach US$5 trillion in the coming years, much of this growth will be financed 
+through credit provided to corporations via the bond markets. This trend is 
+evident in Western economies, where corporate bond markets constitute a 
+significant percentage of GDP (up to 50-65% in some cases). As India 
+transitions from a developing to a developed economy, the sophistication and 
+depth of its financial markets will be crucial for economic advancement. 
+Households transferring their substantial savings to investments, particularly 
+
+
+--- Page 55 ---
+225 
+Bond Markets into the safer asset class of corporate bonds, are expected to drive exponential 
+growth in corporate bonds and support India’s credit expansion. 
+Source: https://www.indiabonds.com/bonduni/blogs/size-of-the-indian-bond-market-is-us-2-
+59-trillion/ 
+12.7.4  Classification of the Debt Instruments 
+In India, the classification (based on the issuer) of the debt or bond 
+instruments is given below:  
+Market segment Issuer Instruments 
+Government Bonds or  
+Government securities 
+Central, State 
+Governments 
+Zero coupon bonds, 
+Coupon bearing 
+bonds, Treasury 
+Bills, STRIPS, 
+State Development 
+Loans, Gold Bonds, 
+Sovereign Green 
+Bonds  
+Corporate 
+Bonds 
+Public sector 
+bonds 
+Government 
+Agencies /Statutory 
+Bodies  
+Government 
+Guaranteed Bonds 
+and Debentures,  
+Municipal Bonds 
+Public Sector Units 
+(PSU) 
+Bonds, commercial 
+papers 
+Private sector 
+bonds  
+Corporates Bonds, commercial 
+papers 
+Banks Certificate of 
+Deposits, Bonds, 
+Structured 
+instruments and 
+Perpetual Bonds 
+Financial institutions Certificate of 
+Deposits, Bonds, 
+Structured  
+Instruments, 
+Commercial Paper 
+Let us discuss these debt instruments briefly: 
+Government Securities: G-Secs are issued by the Reserve Bank of India on 
+behalf of the Government of India. Normally the dated government securities 
+have a period of 1 year to 30 years. These are sovereign instruments 
+
+
+--- Page 56 ---
+226 
+Financial Markets generally bearing a fixed interest rate with interests payable semi-annually 
+and principle as per schedule. For shorter term, RBI issues Treasury Bills 
+which are discounted papers. At present T-Bills are issued for 91 days, 182 
+days & 364 days. G-Secs provide risk free (credit risk) return to investors. 
+STRIPS is the acronym for Separate Trading of Registered Interest and 
+Principal Securities. Stripping is the process of separating a standard coupon-
+bearing bond into its individual coupon and principal components. For 
+example, a 5-year coupon bearing (Government) bond (with half yearly 
+coupon payment) can be stripped into 10 coupons and one principal 
+instrument, all of which thenceforth would become zero coupon bonds.  
+Sovereign Green Bonds :  The budget division of the ministry submits 
+projects approved by GFWC for bond issuance through the Reserve Bank of 
+India (RBI). These bonds, known as sovereign green bonds, are issued by the 
+central bank to finance green initiatives. The Ministry of Finance maintains a 
+green register containing bond details to monitor these bonds. Notably, the 
+ministry releases an annual report on these projects, detailing bond issuances, 
+approved projects, allocated expenditures, current statuses, and potential 
+impacts on reducing carbon intensity. 
+Certificate of Deposit (CD) :  As discussed in Unit 10, CDs are negotiable 
+money market instruments issued in demat form or as a Usance Promissory 
+Notes. CDs issued by banks should have a maturity of not less than seven 
+days and not more than one year. Financial Institutions are allowed to issue 
+CDs for a period between 1 year and up to 3 years. CDs normally give a 
+higher return than Bank term deposit. CDs are rated by approved rating 
+agencies (e.g. CARE, ICRA, CRISIL, FITCH) which considerably enhances 
+their tradability in secondary market. CDs are issued in denominations of Rs. 
+1 Lac and in the multiples of Rs. 1 Lac thereafter. 
+Commercial Papers : As we discussed in Unit 10, a CP is a short-term 
+security (7 days to 365 days) issued by a corporate entity (other than a bank), 
+at a discount to the face value. One can invest in CPs starting from a 
+minimum of 5 lacs (face value) and multiples thereof. CPs are rated by 
+approved rating agencies (e.g. CARE, ICRA, CRISIL, FITCH). CPs normally 
+give a higher return than fixed deposits & CDs. We deal in investment grade 
+CPs only. CPs can be traded in the secondary market, depending upon 
+demand. An element of credit risk is attached to CPs. 
+12.8  LET US SUM UP 
+Bond is a way of raising long-term loans. A bond is traded in a market known 
+as a bond market which is classified as a primary market and a secondary 
+market. The primary market deals in new bonds while the secondary market 
+deals in second-hand bonds. The market forces of demand and supply 
+determine the market price (or just price) of the bond, but its intrinsic value is 
+determined by calculating the present value of all the coupons and 
+redemption value. There are three types of bond yields: Yield to Maturity 
+
+
+--- Page 57 ---
+227 
+Bond Markets (YTM), Yield to Call (YTC), and Current Yield. These yields are generally 
+quoted by the issuers to attract investors. Bonds are of various types e.g., 
+government bonds, corporate bonds, etc. Bonds carry default risk too; 
+therefore, credit rating agencies rate the bonds or issuer 
+companies/governments so that investors can know the creditworthiness of 
+the issuer.  
+12.9  KEY WORDS 
+Bonds : Bonds are long-term debt instruments. 
+Coupon : It is the interest amount on a bond. 
+Bond market : A place where bonds are traded. 
+Value of bond : The value of a bond means the intrinsic value of a 
+bond. It is calculated as the present value of all the 
+coupons and the redemption value of it.  
+Price of bond : It is the market price of a bond which is determined 
+by the rules of demand for and supply of bond. 
+Yield to Maturity : It is the rate of return on a bond if the bond is held till 
+(YTM) its maturity. 
+Yield to Call : In the case of a callable bond, it is the rate of return on 
+(YTC) a bond if the bond is held till the time of the call. 
+Current yield : It is a rate of return in terms of interest per ₹ 1 of 
+investment. 
+Credit rating : Credit rating is an evaluation of the creditworthiness 
+of a business. It is a measure of the ability of the 
+borrower to repay debt on time and in full. 
+Credit rating : It is the agency which performs credit rating. CRISIL, 
+agency  CARE, and ICRA are examples of credit rating 
+agencies in India.  
+12.10  SOME USEFUL BOOKS 
+Brigham, E., & Ehrhardt, M. (2017). Financial Management  (12th ed.). 
+Thomson South Western. 
+Horne, J. V., & Wachowicz, J. (2008). Fundamentals of Financial 
+Management (13th ed.). Prentices Hall. 
+Kishore, R. M. (2010). Strategic Financial Management (2nd ed.). Taxmann 
+Publications Pvt. Ltd. 
+Pandey, I. M. (2009). Financial Management  (9th ed.). Vikas Publishing 
+House Pvt. Ltd. 
+Luenberger, D. G. (1998). Investment Science. Oxford University Press. 
+
+
+--- Page 58 ---
+228 
+Financial Markets 12.11 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) A bond is a long-term debt instrument in which the issuer of the bond is
+bound to pay a fixed or floating interest rate and repay the principal
+amount after a fixed period. Thus, a bond is a way of taking long-term
+funds.
+2) Bonds Based on Issuer:  Government bonds, Corporate bonds,
+Municipal bonds, Foreign bonds.  Bonds Based on Coupon: Zero
+coupon bonds, Coupon bonds. Bonds based on maturity: Perpetual
+bonds, non-perpetual bonds . Bonds based on option: Puttable bond,
+Callable bond. Bonds based on convertibility : Convertible bonds, non-
+convertible bonds.
+Check Your Progress 2 
+1) Refer to Section 12.4
+2) A bond with a face value of ₹ 5,000 matures at the end of 5 years, the
+rate of interest on the bond being 15% p.a. paid annually. Find the value
+of the bond so as to yield a return of 10% p.a. Further, if the bond is
+trading at ₹ 6,000, then is it worth to buy it? Assume that the bond will
+be redeemed at par.
+Step 1: Summarise the information  
+Face value = ₹ 5,000 
+Coupon rate = 8%  
+Coupon = Coupon rate × face value = 15% × ₹ 5,000 = ₹ 750 
+Discount rate = i = 10% = 0.10 
+Maturity of bond = n = 5 years 
+Redemption value = RV = Face value = ₹ 5,000 
+Step 2: Apply the following formula  
+V = ൤ 𝐶ଵ
+(1 + 𝑖)ଵ
++ 𝐶ଶ
+(1 + 𝑖)ଶ + 𝐶ଷ
+(1 + 𝑖)ଷ + ⋯ + 𝐶௡
+(1 + 𝑖)௡ ൨ + 𝑅𝑉
+(1 + 𝑖)௡
+= ൤ 750
+(1 + 0.10)ଵ + 750
+(1 + 0.10)ଶ + 750
+(1 + 0.10)ଷ + 750
+(1 + 0.10)ସ + 750
+(1 + 0.10)ହ ൨
++ 5,000
+(1 + 0.10)ହ
+
+
+--- Page 59 ---
+229 
+Bond Markets  = ൤ 750
+(1.10)ଵ + 750
+(1.10)ଶ + 750
+(1.10)ଷ + 750
+(1.10)ସ + 750
+(1.10)ହ ൨ + 5,000
+(1.10)ହ
+ = [750 × 0.9090 + 750 × 0.8264 + 750 × 0.7513 + 750 × 0.6830 + 750 × 0.6209 +]
++ 5,000 × 0.6209 
+= [681.8182 + 619.8347 + 563.4861 + 512.2601 + 465.691] + 3104.607 
+= 5947.697     
+Since the bond is being traded at ₹ 6,000 and the intrinsic value is ₹ 
+5947.697, therefore, the bond is undervalued and it is worth to buy it.  
+Check Your Progress 3 
+1) Refer to Sub-section 12.5.1
+2) Calculate the yield to maturity from the following information. Coupon
+rate = 7%, face value = ₹ 500, price of bond = ₹ 350, maturity period =
+10 years.
+Approximate YTM = 𝐶 + (𝐹 − 𝑃)/𝑛
+(𝐹 + 𝑃)/2
+Approximate YTM = 35 + (500 − 350)/10
+(500 + 350)/2
+= 35 + 15
+425
+= 50
+425
+ = 0.1176 
+ = 11.76% 
+Note: The above formula is approximation only. If you are interested to find 
+the exact YTM, then the trial-and-error method will give us 12.396% as 
+YTM. In order to understand the trial-and-error method, the students are 
+suggested to read to calculate IRR by referring any book on Financial 
+Management.  
+3) Refer to Sub-section 12.5.2 and Sub-section 12.5.3
+Check Your Progress 4 
+1) Credit rating is an evaluation of the creditworthiness of a business. It is a
+measure of the ability of the borrower to repay debt on time and in full.
+2) Refer to Table 12.1
+
+
+--- Page 60 ---
+230 
+Financial Markets UNIT 13   DERIVATIVES 
+Structure 
+13.0  Objectives  
+13.1 Introduction  
+13.2 Meaning of Derivatives  
+13.3 Characteristics of Derivatives 
+13.4  A Brief History of Derivatives in India 
+13.5  Types of Derivatives  
+13.6  Futures and Forwards  
+13.6.1  Meanings of Futures and Forwards 
+  13.6.2  Differences between Futures and Forwards 
+13.7  Options  
+13.7.1  Call Option 
+13.7.2  Put Option  
+13.8  Swaps  
+13.9  Let Us Sum Up 
+13.10  Key Words  
+13.11  Some Useful Books and References 
+13.12  Answers/Hints to Check Your Progress Exercises 
+13.0  OBJECTIVES 
+After going through this unit, you will be able to: 
+ state the meaning of derivatives with their characteristics;
+ explain the main types of derivatives;
+ discuss the pros and cons of derivatives; and
+ distinguish between futures and forward contract.
+13.1 INTRODUCTION 
+In Unit 10 and 11, you have understood various types of financial assets e.g., 
+equity shares, stock, debentures, fixed deposits, and so on. All these assets 
+share a common trait that their values are not linked to the value of some 
+other asset. However, there are some unique financial assets known as 
+derivatives which derive their values from some other assets known as 
+underlying assets. These underlying assets may be shares, stocks, debentures, 

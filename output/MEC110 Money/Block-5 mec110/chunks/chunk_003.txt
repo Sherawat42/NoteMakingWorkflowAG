@@ -1,0 +1,439 @@
+--- Page 21 ---
+ 
+ 
+20 
+Financial Institutions  Where:  
+∆𝑑       = increase in deposits for the whole 
+banking system 
+   ∆𝑎 = increase in initial deposit 
+   r  =  required reserve (cash) ratio 
+The percentage of deposits which a bank keeps in the form of cash is called 
+the cash reserve ratio . The process described above takes place in the 
+banking system as a whole. The total of bank deposits is at present many 
+times as great as the total amount of cash in existence in the country, whether 
+in the hands of the public or the tills of banks, so clearly the banks together 
+must have expanded the volume of deposits without an equivalent amount of 
+cash having been deposited with them.  
+14.5.1  Limits to Credit Creation 
+The supply of money depends largely on the lending policy of the banks, but 
+their power to create credit is restricted. They do not have unlimited power to 
+create deposits, their ability to do so is restricted in several ways: 
+i) The Clearing House Imposes a Restriction on an Individual Bank: A 
+single bank cannot adopt an expansionist credit policy unless the other 
+banks are willing to do the same. In other words, the banks should keep 
+their credit policy in line with one another, expanding or contracting 
+credit together. 
+ii) The Liquidity Ratio : A banker knows from experience what proportion 
+of his assets to keep in liquid form, but they must be able to convert 
+their other assets into cash if circumstances require it without undue 
+delay and if possible, without loss. Thus, a banker’s main concern is 
+with the liquidity of their assets. This limits the extent of their 
+willingness to lend and the amount of investment it is prepared to 
+undertake, for the banker must maintain certain liquidity rules. 
+iii) The amount of cash in existence : The supply of cash or legal tender 
+money is not unlimited. The government and the central bank determine 
+the quantity of legal tender money available in the country. The bank’s 
+power of creation of credit is limited by this quantity.  
+iv) The amount of cash people prefers to hold : The monetary habits of the 
+people constitute a limiting factor. If people do not put money in 
+deposits in the banks but keep their cash themselves in a liquid form, 
+bank deposits cannot grow and banks cannot create money. Increasing 
+confidence in banking and greater use of cheques has reduced the 
+demand for cash.  
+v) The Collateral Security Available : Before a commercial bank grants a 
+loan, it wants to know the purpose and length of time for which it is 
+
+
+--- Page 22 ---
+21 
+Commercial Banking required and how it is to be repaid. In addition, the borrower will 
+probably be asked to give the bank some kind of collateral security 
+which the bank can turn into cash if the loan is not repaid within the 
+stipulated time. It is, however, an important banking recipe that the first 
+consideration in such cases is the character of the borrower, for the 
+banker prefers a loan to be repaid and for the collateral security to be at 
+his disposal only in an emergency. The more liquid the security – that 
+is, the greater the ease with which it can be turned into cash without 
+loss – the more acceptable it is to the bank. The amount of security 
+available may tend to limit bank lending. 
+vi) State of the Economy : Banks can create money only by lending money
+and this depends on the state of the economy. Money is borrowed when
+there are opportunities to use it in new ventures. When business
+conditions are depressed, loans are not taken and banks cannot create
+money. Thus, one finds that the extent to which banks can at any time
+create credit depends on the general state of confidence.
+vii) Monetary Policy of the Central Bank : The final restriction on the
+creation of credit by commercial banks comes from the monetary
+authorities. The central bank of a country can, in various ways, control
+the volume of loans given by banks.  The most important control over
+the expansion of bank credit, however, comes from the monetary
+system.
+Crowther observes that “the bank does not create money out of thin air; it 
+transmutes other forms of wealth into money”. The total volume of income-
+yielding securities available in the country sets the overall limit to the process 
+of credit creation. But the need for keeping a cash reserve, however, small it 
+may be, restricts the power of the bank to ‘create’ money ad lib. ‘Creating’ 
+money involves an increase in the bank’s deposit liabilities, and the bank 
+cannot afford to let its cash reserve fall below 10 per cent of its total deposit 
+liabilities.  
+14.6 PRINCIPLES GOVERNING DISTRIBUTION 
+OF ASSETS OF COMMERCIAL BANKS 
+A banker is torn between two conflicting motives; on the one hand, it would 
+like to expand its loans to make more profit, and on the other, it is anxious to 
+hold sufficient cash so that it can at all times fulfil its obligation to pay cash 
+on demand. A banker, too, must be able to turn its assets into cash without 
+loss if it is to satisfy the claims of its depositors on him in full. Cash is an 
+asset that yields it no income, and so it does not wish to hold an unnecessarily 
+large amount of it, so it will ‘ minimise’ its cash holdings.  A banker must 
+always be prepared, if necessary, to meet abnormal demands for cash, and so 
+it must hold assets in fairly liquid form which in an emergency can easily be 
+turned into cash. The liquidity of its assets is therefore a banker’s primary 
+
+
+--- Page 23 ---
+ 
+ 
+22 
+Financial Institutions concern, and the distribution of assets represents a compromise between its 
+desire for profit and its desire for liquidity , for the more profitable an asset 
+the less liquid it is likely to be. The more liquid assets of clearing banks 
+comprise the first four items in a bank’s balance sheet: (i) notes and coins, (ii) 
+balances with the Central Bank i.e. Reserve Bank of India, (iii) bills, and  
+(iv) market loans — all of which can be turned into cash quickly with little if 
+any, financial loss. One aspect of liquidity is the ‘ shift-ability’ of the asset 
+that is, the ease with which it can be passed on to some other institutions, 
+such as the central bank. Most bank assets are shiftable in varying degrees, 
+except those advances which are supposed to be supported simply by the 
+good name of the borrower. 
+14.6.1  Liquidity versus Profitability of Assets 
+A bank must conduct its affairs to maintain adequate liquidity. The aim of 
+every bank is not only to cover its expenses but also to make maximum 
+profit. It endeavours to keep its assets in such forms as to yield maximum 
+income. There is a clash between the objectives of liquidity and profitability. 
+The most liquid of all assets is money itself. If a bank were to attend 
+exclusively to the objective of maintaining liquidity, it would keep all its 
+assets in the form of money. But money is the most barren of all investments 
+because it does not yield any income whatsoever. On the other hand, if the 
+bank were to keep its assets in the form of long-term loans, income from the 
+assets would be high, but liquidity would be very low. Liquidity and income-
+yielding capacity are the two opposite criteria for every bank based on which 
+it has to decide the nature of its assets . The more liquid the assets, the less 
+income-yielding they will be, and vice versa. The secret of success for a bank 
+lies in striking a sound balance between liquidity and profitability.  Every 
+bank divides its assets into forms of various degrees of liquidity and 
+profitability. Some of its assets are kept in the form of cash which is very 
+liquid, though non-income yielding, some assets take the form of property 
+which is of low liquidity but yields good income. In between the two, lies 
+other assets with different degrees of liquidity and income-yielding capacity. 
+The traditional concept of liquidity has been replaced by the concept of shift-
+ability. The shift-ability concept has a much wider breadth and shift-ability 
+has made possible the flow of bank credit amongst a larger number of 
+borrowers and for longer dates without much impairing the security of 
+lending. In recent years the concept of liquidity has undergone further 
+changes. The term loans are liquidated by the anticipated income of the 
+borrower. In the case of the anticipated income concept, the borrower has to 
+save and repay their loans out of earnings. This concept has the advantage of 
+financing durable consumer goods because loans made for the purchase of 
+durable consumer goods cannot be repaid by sale nor can they be shifted to 
+the open market or the central bank. These loans can be later repaid out of the 
+expected income of the borrower. 
+
+
+--- Page 24 ---
+23 
+Commercial Banking 14.7  RECENT TRENDS AND PERFORMANCE OF 
+BANKING INDUSTRY IN INDIA 
+Over the years, the Indian banking industry has experienced an upward 
+trajectory majorly supported by strong economic growth, rising disposable 
+incomes and easier access to credit. The last few years have seen fast growth 
+in digital modes of payments which has also supported the growth of the 
+Indian banking industry. 
+As of April 2024, there were 581 banks actively using UPI. The total number 
+of digital transactions during this period amounted to 15.08 billion, with a 
+total value of US$ 25.27 billion (Rs. 2.1 trillion). 
+In recent years, India has also experienced a rise in fintech and 
+microfinancing. India’s digital lending stood at US$ 75 billion in FY18 and is 
+estimated to reach US$ 1 trillion by FY23 driven by the five-fold increase in 
+digital disbursements. The Indian fintech market has attracted US$ 29 billion 
+in funding over 2,084 deals so far (January 2017-July 2022), accounting for 
+14% of global funding and ranking second in terms of deal volume. By 2025, 
+India’s fintech market is expected to reach Rs 6.2 trillion (US$ 83.48 billion). 
+According to the Reserve Bank of India (RBI), India’s banking sector is 
+sufficiently capitalised and well-regulated. 
+In past decade, the Indian banking industry has rolled out various innovative 
+models. One of them is Small Finance Banks (SFB) like Ujjivan Small 
+Finance Bank, AU Small Finance Bank etc.  RBI granted licenses to Small 
+Finance Banks in 2015 and since then, they have come a long way in 
+providing banking services to the masses. In subsequent years, RBI has 
+granted two additional SFB licenses taking the total SFBs in the country to 
+12. Out of these Fincare, Small Finance Bank Limited (“Fincare SFB”) has
+merged with and into AU Small Finance Bank Limited (“AU SFB”), 
+effective 1st April 2024. Thus, total number of SFBs is now 11. SFB has 
+emerged as a new category of banks in India that cater primarily to the 
+financially unserved and under-served sections of society. These banks 
+provide basic banking services to unbanked and under-banked populations 
+thus supporting financial inclusion. Small Finance Banks are likely to play a 
+significant role in the future of banking in India because of their approach of 
+reaching the unreached by extending credit to small businesses, micro-
+enterprises, and low-income households. SFBs are different from 
+Commercial banks in terms of their capital requirement, services offered, 
+loan products and target customers. Unlike Commercial banks, SFBs offer 
+basic banking services only and have a minimum capital requirement of 
+₹ 200 crores as against the capital requirement of ₹ 500 crore in the case of a 
+commercial bank. 
+Payments Banks is another model of commercial banking in India. However, 
+it differs from regular banking as the Payments banks are neither allowed to 
+
+
+--- Page 25 ---
+ 
+ 
+24 
+Financial Institutions lend money or issue credit cards to their customers. At present 4 Payments 
+banks are working in the country. 
+Another innovative banking model is neo-banking. Neobanks are digital-only 
+banking platforms that operate only online. Thus, they do not have a physical 
+presence. Sometimes, transactions in traditional banks could require a lot of 
+time and effort. Neobanks provides a seamless online experience where 
+customers can create accounts by themselves and use their offerings hassle-
+free. Since RBI does not permit fully digital banking establishments yet, 
+neobanks in the country use partnerships with physical banks to deliver some 
+of their key services. 
+In the past decade, India has also focused on increasing its banking sector 
+reach, through various schemes like the Pradhan Mantri Jan Dhan Yojana and 
+India Post payment banks. India Post Payments Bank (IPPB) is an accessible, 
+affordable and reliable bank for the common man. With the help of just an 
+Aadhaar Card, any person in a village can avail of banking facilities provided 
+by IPPB by requesting the same from the local Postman/Gramin Dak Sevak. 
+Schemes like these coupled with major banking sector reforms like digital 
+payments, neo-banking, a rise of Indian NBFCs and fintech have 
+significantly enhanced India’s financial inclusion and supported the credit 
+cycle in the country. The digital payments system in India has evolved the 
+most among 25 countries with India’s Immediate Payment Service (IMPS) 
+being the only system at level five in the Faster Payments Innovation Index 
+(FPII). India’s Unified Payments Interface (UPI) has also revolutionized real-
+time payments and has strived to increase its global reach in recent years. 
+Trend and Performance of Commercial Banks since 2020-21 
+During 2020-21, scheduled commercial banks (SCBs) reported a discernible 
+improvement in their asset quality, capital buffers and profitability, 
+notwithstanding the disruptions of the pandemic. While credit offtake 
+remained subdued, elevated deposit growth on the liabilities side was 
+matched by growth in investments on the assets side. 
+The Indian banking sector remained resilient in 2021-22 and 2022-23 so far, 
+as banks witnessed healthy balance sheet growth on a broad-based 
+acceleration in credit. Deposit growth moderated from the COVID-19-
+induced precautionary surge. Augmented capital buffers, better asset quality 
+and enhanced profitability indicators reflected their robustness. 
+Reserve Bank of India, on June 27,2024 released the 29th issue of the 
+Financial Stability Report (FSR), which reflects the collective assessment of 
+the Sub-Committee of the Financial Stability and Development Council 
+(FSDC) on the resilience of the Indian financial system and risks to financial 
+stability. 
+ 
+
+
+--- Page 26 ---
+25 
+Commercial Banking Highlights of the report are as follows: 
+ The global economy is facing heightened risks from prolonged
+geopolitical tensions, elevated public debt, and the slow progress in the
+last mile of disinflation. Despite these challenges, the global financial
+system has remained resilient, and financial conditions stable.
+ The Indian economy and the financial system remain robust and resilient,
+anchored by macroeconomic and financial stability. With improved
+balance sheets, banks and financial institutions are supporting economic
+activity through sustained credit expansion.
+ The capital to risk-weighted assets ratio (CRAR) and the common equity
+tier 1 (CET1) ratio of scheduled commercial banks (SCBs) stood at 16.8
+per cent and 13.9 per cent, respectively, at end-March 2024.
+ SCBs’ gross non-performing assets (GNPA) ratio fell to a multi-year low
+of 2.8 per cent and the net non-performing assets (NNPA) ratio to 0.6 per
+cent at end-March 2024.
+ Macro stress tests for credit risk reveal that SCBs would be able to
+comply with minimum capital requirements, with the system-level
+CRAR in March 2025 projected at 16.1 per cent, 14.4 per cent and 13.0
+per cent, respectively, under baseline, medium and severe stress
+scenarios. These scenarios are stringent conservative assessments under
+hypothetical shocks and the results should not be interpreted as forecasts.
+ Non-banking financial companies (NBFCs) remain healthy, with CRAR
+at 26.6 per cent, GNPA ratio at 4.0 per cent and return on assets (RoA) at
+3.3 per cent, respectively, at end-March 2024.
+Check Your Progress 3 
+1) Discuss some recent trends experienced in the Banking sector in India.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What are the limitations on banks in credit creation?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Why is there a clash between liquidity and profitability? What is the
+concept of shift-ability?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+
+
+--- Page 27 ---
+ 
+ 
+26 
+Financial Institutions 14.8 LET US SUM UP 
+Financial intermediaries like banks are unique and specialize in performing 
+functions such as (a) mobilizing savings and channelling them to the most 
+productive users, and (b) acting as efficient conduits for payments.   
+Banks perform a large variety of functions. The main banking services are: 
+Acceptance of money on deposit from the public broadly speaking, these 
+deposits are of three main types viz., current, savings and fixed, which can be 
+reclassified under two main heads of demand and time deposits.  Commercial 
+banks lend money, process payments, issue bank drafts and checks, and offer 
+safety deposit boxes for items and documents. Commercial Banks provide 
+Grant of credit  to all sectors of the economy, and not merely to trade and 
+commerce. This is done in various forms such as loans and advances, 
+discounting of bills, and investment in open-market securities.   
+Modern commercial banking is based on a system of fractional reserves. This 
+is why banks all over the world keep only a small portion of the deposits in 
+liquid form. The balance is invested and it is in this way, through the making 
+of loans and the purchase of securities, that profits are made.   
+The creation of credit is a major function of a commercial bank.  When a 
+bank advances loans, there tends to be a multiple expansion of credit in the 
+banking system. Primary deposits serve as a basis for creating derivative 
+deposits, that is, credit creation, and for increasing the money supply.  
+However, there are various limitations to the ability of banks to create credit. 
+The more liquid assets comprise cash, money at call and short notice and 
+bills. The banks must strike a careful balance between their obligation to their 
+customers and the requirements of their shareholders.   
+Bankers are to strike a balance between two conflicting objectives.  The 
+distribution of bank assets is the result of a compromise between (a) the 
+necessity always to be able to pay cash on demand, and (b) the desire for 
+profit. The more liquid the asset, the less profit it will generally yield to the 
+bank. Cash is the most liquid asset – earning no profit at all.   
+Banks not only encourage savings but also constitute the agency through 
+which even small sums saved by individuals find their way to profitable 
+investments. Banks channelise funds according to priorities.  They are, 
+therefore, in a special position to encourage those industries that are high up 
+on the list of priorities. The more capital formation the faster the economic 
+advancement of the country.  
+Over the years, the Indian banking industry has experienced an upward 
+trajectory majorly supported by strong economic growth, rising disposable 
+incomes and easier access to credit. In past decade, banking sector in India 
+has rolled out various innovative models surrounding, digital payments, neo-
+banking, Small Finance Banks (SFB) etc. These developments are poised to 
+take India’s financial system to newer heights. 
+
+
+--- Page 28 ---
+27 
+Commercial Banking 14.9 KEY WORDS  
+Banks  :   Financial institutions that accept deposits and 
+make loans. 
+Bill of exchange  : 
+(or draft) 
+A negotiable instrument with three parties to the 
+agreement the drawer of the order, the drawee, 
+who is ordered to make payment, and the payee. 
+For instance, a commercial bank cheque is a draft 
+on the bank by the depositor payable to a 
+designated payee. 
+Cash reserve ratio      : 
+(CRR) 
+The fraction of deposits that the RBI requires to be 
+kept as reserves by the banks. 
+Central Bank  : The Government agency oversees the banking 
+system and is responsible for the amount of money 
+and credit supplied to the economy.  In India, the 
+Reserve Bank of India is the Central Bank of the 
+country. 
+Credit Creation  : The power of the banks to multiply loans and 
+advances through creating deposits. 
+Derivative Deposits     : 
+Differentiated  : 
+Banking  
+These consist of deposits created by the banks in 
+the process of granting credit. The loan sanctions 
+and credited to the accounts of the borrowers 
+create new deposits. Since a derivative deposit is 
+actively created by the bank, it increases the total 
+stock of money available to the community. The 
+creation of derivative deposits is identical to what 
+is commonly known as credit creation by 
+commercial banks. 
+A specialised banking identity that serves the 
+underserved segments of the economy/society 
+efficiently. 
+Liquidity  : The relative ease and speed with which an asset 
+can be converted into cash. 
+Primary Deposit  :  A deposit account opened by a bank by accepting 
+cash from the public. 
+Vault cash  : Currency that is physically held by banks and 
+stored in vaults overnight. 
+14.10 SOME USEFUL BOOKS 
+Auerbach, Robert D. (1983):  Financial Markets and Institutions , 
+Macmillan Publishing Co. Inc., New York 
+(Chapter – 18). 
+
+
+--- Page 29 ---
+ 
+ 
+28 
+Financial Institutions Crowther, Geoffrey (1941):  ‘ An Outline Of Money ’, Thomas Nelson and 
+Sons Ltd., London, UK  
+Gupta, Suraj B. (1985):  Monetary Economics; Institutions, Theory 
+and Policy , S. Chand and Company, New 
+Delhi (Chapter – 5). 
+Hubbard, R Glenn (2002):  Money, the Financial System, and the 
+Economy, Addison Wesley, New York 
+(Chapter 12, 13 and 14). 
+Mishkin, Frederic S. (2000):  Financial Markets and Institutions ; Addison 
+Wesley, New York (Chapter 15 & 16). 
+Newlyn, W.T. (1971):   Theory of Money , 2nd edition, Oxford 
+University Press, UK 
+Ritter, Lawrence S.,:  Principles of Money, Banking and Financial  
+William L. Silber,  and  Markets, 12th edition, Pearson, London, UK  
+Gregory F. Udell (2007) 
+14.11 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) A profit-seeking institution which pays interest at a low rate to the 
+depositors and charges a higher rate of interest to the borrowers and in 
+this way, the bank earns a profit. Banks are dealers in debt- A deposit is a 
+debt which the bank owes to the depositor; a banknote is a sort of 
+promissory note. 
+2) They act as middlemen between lenders and borrowers, creating and 
+issuing financial obligations of claims against themselves to acquire 
+profitable financial claims against others. A chief function of an 
+intermediary is to provide liquidity.  
+3) Accepting Deposits, Liability-Asset transformation, Risk transformation, 
+Discounting Bills of Exchange, Loans and Advances. 
+Check Your Progress 2 
+1) Retail banking is the visible face of banking to the general public, with 
+bank branches located in abundance in most major cities. Corporate 
+banking, also known as business banking , refers to the aspect of 
+banking that deals with corporate customers. 
+2) Refer to Section 14.4 
+3) A system in which banks provide a wide variety of financial services, 
+including commercial and investment services. It combines the services 
+of a commercial bank and an investment bank, providing all services 
+
+
+--- Page 30 ---
+29 
+Commercial Banking from within one entity. It helps banks to diversify risk, lower costs, and 
+handle changes in the type of product demanded. 
+4) Refer to Sub-section 14.4.3
+Check Your Progress 3 
+1) Refer to Section 14.7
+2) Banks are dependent on other banks to maintain liquidity ratio, the
+amount of cash in existence, and the amount of cash people prefer to
+hold.
+3) Refer to Sub-section 14.6.1
+14.12  TERMINAL QUESTIONS 
+1) Explain the concept of a Bank.  What are its functions?
+2) How do commercial banks create credit?  Are there any limitations on
+the power of the bank to create credit?  Give reasons for your answer.
+3) Examine the conflict between liquidity and profitability. How do banks
+strike a sound balance between these two?
+4) Point out the significance of the banking system in promoting the
+economic development of a country.
+5) Write a note on recent trends in the banking industry in India.

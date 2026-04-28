@@ -1,0 +1,433 @@
+--- Page 66 ---
+270 
+Financial Stability UNIT 28  FOREIGN EXCHANGE STABILITY 
+AND RELATED ISSUES 
+Structure 
+28.0  Objectives  
+28.1  Concept of Foreign Exchange Stability 
+28.2  Basic Concepts  
+28.2.1  Meaning of Exchange Rate  
+28.2.2  Exchange Rate Systems  
+28.2.3  Factors Affecting Demand for the Foreign Exchange 
+28.2.4  Factors Affecting the Supply of Foreign Exchange  
+28.3  Issues in Foreign Exchange Stability   
+28.4  Measures to Maintain Foreign Exchange Stability  
+28.5  Let Us Sum Up  
+28.6  Key Words 
+28.7  Some Useful Books 
+28.8 Answers / Hints to Check Your Progress Exercises 
+28.0  OBJECTIVES 
+After going through this unit, learners will be able to: 
+ explain the concept of foreign exchange stability;
+ identify the key issues related to foreign exchange stability; and
+ suggest measures to achieve foreign exchange stability.
+28.1  CONCEPT OF FOREIGN EXCHANGE 
+STABILITY 
+Foreign exchange stability refers to the consistency and predictability of 
+exchange rates between different currencies. Alternatively, foreign exchange 
+stability, also known as exchange rate stability, refers to a situation in which 
+the currency of an economy maintains a relatively consistent or predictable 
+value over other foreign currencies over some time. Exchange rate stability is 
+a desirable goal for many countries and has several important implications for 
+their economies and international trade. Foreign exchange stability is a key 
+concern for governments, businesses, and investors, as it affects the cost of 
+imports and exports, the competitiveness of industries, and the overall 
+economic health of a country. Maintaining a stable exchange rate is often a 
+delicate balancing act, requiring careful policy choices and international 
+cooperation to mitigate risks and support economic growth.     
+
+
+--- Page 67 ---
+271 
+Foreign Exchange 
+Stability and 
+Related Issues 
+28.2 BASIC CONCEPTS 
+Let us discuss certain basic concepts related to exchange rate stability. 
+28.2.1  Meaning of Exchange Rate 
+Many times, we hear through the mass media such as Zee Business, 
+Bloomberg TV, CNN, CNBC, BBC or print media such as The Times of 
+India, Business Line, etc. that the US dollar has appreciated against the 
+Indian rupee or Indian rupee has become stronger against the US dollar, 
+Sterling Pound, Japanese Yen, etc. What does it mean? The media frequently 
+discusses the ups and downs in exchange rates. An exchange rate means the 
+price of the currency of a country like the Indian rupee in terms of the 
+currency of another country like the US dollar. So, when the media report 
+that the exchange rate between India and the US is ₹ 83.17/$1, then it means 
+that one US dollar is equal to ₹ 83.17. In other words, it means that one US 
+dollar can buy 83.17 Indian rupees. As the dollar appreciates against the 
+Indian rupee, then one dollar can buy more Indian rupees or as the dollar 
+depreciates against the Indian rupee, then one dollar can buy less Indian 
+rupees. Media may report an exchange rate in direct and indirect quotes the 
+meaning of which are given below.  
+A direct quote measures how many units of domestic currency can be 
+bought by one unit of a foreign currency while an Indirect quote measures 
+how many units of foreign currency can be bought by one unit of domestic 
+currency. Thus, the direct quote between the Indian rupee (domestic 
+currency) and the US dollar (foreign currency) can be expressed as follows:  
+$1 = ₹ 83.17 
+ The indirect quote between the Indian rupee (domestic currency) and the US 
+dollar (foreign currency) can be expressed as follows:  
+₹ 1= $ 0.0120 
+28.2.2  Exchange Rate Systems 
+a) Fixed Exchange Rate : Under this regime, a country’s currency is
+pegged to another currency or a fixed value like gold. This provides
+stability but can be challenging to maintain in the long run. Under this
+system, the exchange rate is determined by the central bank (e.g., RBI in
+India). The exchange rate so fixed is also called the official exchange
+rate. The central bank ensures that the exchange rate should not go
+beyond or fall below the exchange rate fixed. To understand how the
+fixed exchange rate system works, let us examine Fig. 28.1. We assume
+that the Reserve Bank of India (RBI) desires to keep the exchange rate
+between the US dollar ($) and Indian rupee (₹) fixed at ₹ 50/$. But the
+equilibrium exchange rate in the foreign exchange market the exchange
+rate is ₹ 60/$ as determined by the intersection of demand curve D and
+
+
+--- Page 68 ---
+272 
+Financial Stability supply curve S1 at point E1, then to bring the exchange rate to the desired 
+level of ₹ 50/$, the RBI will have to sell the dollars equal to Q 1Q2 so that 
+the supply can increase from S 1 to S 2 intersecting demand curve D at 
+point E 2. Thus, we have a new equilibrium point E 2 at which the 
+exchange rate reaches to the desired level of ₹ 50/$. Now the question is 
+how does the central bank sell Q 1Q2 dollars? The answer is the 
+arbitration process. In the arbitrage process, there is a person, known as 
+an arbitrageur, who can buy one dollar from the RBI by paying ₹ 50 and 
+then sell the same dollar in the foreign exchange market for ₹ 60 to earn 
+a profit of ₹ 10 per dollar. Thus, an arbitrager can earn a total profit of ₹ 
+10 multiplied by Q 1Q2. One point is also relevant here i.e., on selling 
+Q1Q2 dollars the foreign exchange reserves held by RBI fall. Thus, when 
+a currency (US dollar in the present case) is overvalued, then foreign 
+exchange reserves fall if a fixed exchange rate system is adopted. If the 
+equilibrium exchange rate in the foreign exchange market falls below the 
+desired level, then the RBI can buy the required amount of dollars to 
+bring it above. It will increase the foreign exchange reserves.  
+ 
+ Fig. 28.1: Fixed Exchange Rate System 
+b) Floating Exchange Rate : In this regime, the exchange rate is
+determined by market forces, such as supply and demand. This allows
+for flexibility but can lead to volatility. Under this system, the exchange
+rate is determined based on the demand and supply of the foreign
+currency concerned. Alternatively, market forces of demand and supply
+for the foreign currency decide the equilibrium exchange rate. To
+understand this, consider the US dollar as a foreign currency against the
+Indian rupee, then the exchange rate between the US and India is
+determined by the demand for and supply of the US dollar. When the
+demand for the US dollar is equal to its supply, the corresponding
+exchange rate is known as the equilibrium exchange rate. It is evident
+that shifts in supply and demand affect the exchange rate and cause it to
+rise or fall. Let us understand the system through Fig. 28.2. In Fig. 28.2,
+D1 denotes the demand for the US dollar and S 1 does the supply of the
+same. Both the curves are intersecting at the point E 1. Therefore, point
+D 
+E1 
+E2 
+ 0        Q 1                         Q2        $ (USD) 
+S2 
+S1 
+₹ 60 / $ 
+₹ 50 / $ 
+Exchange Rate 
+₹/$ 
+
+
+--- Page 69 ---
+273 
+Foreign Exchange 
+Stability and 
+Related Issues 
+D1 
+S1 
+E1 
+S2 
+E2 𝑒1 
+Exchange Rate 
+ 0  Q1    Q2   Q3  $ (USD) 
+D2 
+𝑒2 
+𝑒3 
+E3 
+E1 is the equilibrium point where the exchange rate is e 1 called the 
+equilibrium exchange rate. Now, suppose that the supply of the US 
+dollar increases causing the supply curve to shift S 2. S2 intersects D1 at 
+E2. Thus, the new equilibrium exchange rate is e 2. Thus, we conclude 
+that an increase in supply with constant demand leads fall in the 
+exchange rate. Opposite will happen when the supply falls with 
+constant demand. Now suppose that due to some reason, the demand 
+for the US dollars increases to D 2 with constant supply at S 1. As a 
+result, a new equilibrium exchange rate e 3 is obtained. Therefore, an 
+increase in demand with constant supply leads increase in the exchange 
+rate. Opposite will happen if the demand falls with constant supply. 
+However, demand and supply both can change simultaneously, 
+accordingly exchange rate too fluctuates.  
+ 
+Fig. 28.2: Floating Exchange Rate System 
+28.2.3  Factors Affecting Demand for Foreign Exchange 
+Some of the factors that affect demand for foreign exchange are discussed as 
+follows:   
+1) To pay import bills
+To import goods and services from abroad our country needs foreign
+currency. So, if an Indian trader wants to import cars from the US, then
+he will demand US dollars to pay for the cars. Similarly, if Air India
+wants to buy some new airbuses from the UK, then it will demand
+Sterling Pound to pay for the air buses. Thus, imports create demand for
+foreign currencies.
+2) To repay international loans
+Indian corporations or governments demand foreign currency to repay
+the loans taken from foreign countries. Thus, repayment of international
+loans creates demand for foreign exchange.
+
+
+--- Page 70 ---
+274 
+Financial Stability 3) Arbitrage purpose
+Suppose, there are two foreign exchange markets X and Y in which the
+exchange rates between the Indian rupee and the US dollar are ₹ 50 per
+dollar and ₹ 55 per dollar respectively. Then, a person who wants to gain
+from these exchange rate differences will buy the US dollars from X and
+sell the same in Y and will earn ₹ 5 per dollar as profit. This is known as
+the arbitrage process. This is obvious that the demand for the US dollar
+increases in market X.
+4) Speculation
+Speculation means the opportunity for profit due to the difference
+between the prices of a good/share/currency etc. at two points in time.
+So, if we expect that the US dollar will appreciate in future, it means the
+US dollar is relatively cheaper now, therefore, one may buy or demand
+US dollars today and sell the same in future at a higher price can earn a
+profit.
+5) To give gifts, and grants to foreign countries
+Indian residents or governments may decide to give gifts, grants etc. for
+some purposes. To do so they will demand foreign currency. For
+example, the Indian government may decide to gift 10 million US
+dollars; the government will demand 10 million US dollars.
+6) Investment in foreign countries
+Indian investors may decide to invest in foreign countries. For example,
+if TATA group decides to take over Jaguar (a car company in Great
+Britain),  the latter will demand Sterling Pound for payment of the
+consideration. Similarly, if a resident of India wants to buy equity shares
+of a US company, then (s)he will demand US dollars to do so.
+7) To visit foreign countries
+Indian residents will demand Sterling Pound, US dollars, Australian
+dollars, Canadian dollars etc. if they want to visit Great Britain, the US,
+Australia, and Canada respectively. The purpose of the visit may be
+tourism, higher study, etc.
+8) To remit the money
+Foreigners may be working in India and they will earn in Indian
+currency. To remit these earnings to their parents, spouses, relatives etc.
+in their home countries, they will demand foreign currencies.
+28.2.4  Factors Affecting Supply of Foreign Exchange 
+1) Receipts of exports
+Exports of goods and services are one the major sources of foreign
+exchange supply. So, if an Indian car company exports some cars to the
+US dollars will move to India.
+
+
+--- Page 71 ---
+275 
+Foreign Exchange 
+Stability and 
+Related Issues 
+2) Repayment of international loans
+Indian corporations or governments might have decided to give loans to
+other countries, then their repayments will bring foreign exchange.
+3) Arbitrage purpose
+Suppose, there are two foreign exchange markets X and Y in which the
+exchange rates between the Indian rupee and the US dollar are ₹ 50 per
+dollar and ₹ 55 per dollar respectively. Then, a person who wants to gain
+from these exchange rate differences will buy the US dollars from X and
+sell the same in Y and will earn ₹ 5 per dollar as profit. This is known as
+the arbitrage process. It is obvious that the supply of dollars increases in
+market Y.
+4) Speculation
+Speculation means the opportunity for profit due to the difference
+between the prices of goods/ stocks/ currency, etc. at two points in time.
+So, if we expect that the US Dollar will depreciate in future, it means the
+US Dollar is relatively expensive now, therefore, one may sell US
+Dollars today to escape from future loss.
+5) Gifts and grants from foreign countries
+Foreign residents or governments may decide to give gifts, grants etc. to
+India, for some purposes. As a result, foreign exchange will move to
+India.
+6) Investments from foreign countries
+Foreign investment in a domestic company can lead to an increase in the
+supply of foreign exchange in several ways. Foreign exchange refers to
+the currency of a foreign country, and it is used to facilitate international
+trade and investment. When foreign investors invest in a domestic
+company, they often need to acquire the domestic currency to make their
+investment.
+7) Visiting the home country (i.e., India, in our Case)
+Foreign residents or NRIs may decide to visit India for tourism, higher
+study, or other purposes. Therefore, they will need Indian currency to
+pay in India. Hence, they will exchange the currencies against the Indian
+rupees. In this way, the foreign exchange reserves of India will increase.
+8) Foreign remittances
+Indian residents or Indian corporations may be working or operating
+outside India and they will earn in foreign currencies. To remit these
+earnings to their parents, spouses, relatives etc. in India, they will
+
+
+--- Page 72 ---
+276 
+Financial Stability demand Indian currency in exchange for the foreign currencies available 
+to them.  
+Check Your Progress 1 
+1) What is the need for foreign exchange stability in a country?
+……………………………………………………………………………
+……………………………………………………………………………
+………………………………………………………………………….... 
+2) Briefly describe various factors affecting the Supply of Foreign
+Exchange.
+……………………………………………………………………………
+……………………………………………………………………………
+………………………………………………………………………….... 
+3) Compare fixed exchange rate system with floating exchange rate system.
+……………………………………………………………………………
+……………………………………………………………………………
+………………………………………………………………………….... 
+28.3  ISSUES IN FOREIGN EXCHANGE 
+STABILITY 
+Here are some key aspects and related issues in foreign exchange stability: 
+1) Managed or Dirty Floating
+A “managed float,” also referred to as a “dirty float,” is a regime for
+exchange rates where the exchange rate is neither fully set nor
+completely free. Instead, central bank intervention maintains the
+currency’s value within a range relative to another currency or a basket
+of currencies. Some countries are accused of manipulating their
+exchange rates to gain an unfair trade advantage. This can lead to
+international tensions and trade disputes. In today’s global economy,
+currency exchange rates play a crucial role in shaping a country’s
+economic performance. Nearly all economies actively manage their
+currencies, with central banks or governments frequently intervening to
+control their values. According to data from the International Monetary
+Fund (IMF) in 2014 1, 82 countries and regions, representing 43 per cent
+of economies, employed a managed float system, making it the most
+prevalent exchange rate regime.
+1https://asia.nikkei.com/Markets/Currencies/IMF-finds-more-countries-adopting-managed-
+floating-exchange-rate-system 
+
+
+--- Page 73 ---
+277 
+Foreign Exchange 
+Stability and 
+Related Issues 
+2) Exchange Rate Policy
+The exchange rate policy of an economy can be influenced by its
+economic goals. For example, a country may pursue a strong currency
+policy to control inflation or a weak currency policy to boost exports. For
+example,
+……in the 1990s, India’s economy was experiencing hardship. 39% 
+of the money the government was collecting at the time went toward 
+paying interest. After cutting its fiscal deficit to 7.8% of GDP, India 
+faced the risk of being branded a defaulter on the global stage. A 
+devaluation of the Indian rupee was necessary in light of this 
+problem. The process of devaluation involves a country lowering the 
+value of its currency on the global market while maintaining its 
+intrinsic value. Similar measures were taken by India to increase the 
+cost of its imports and decrease the price of its exports.  
+Source: https://www.bookmyforex.com/blog/1-usd-inr-1947-till-now/ 
+3) Parallel Foreign Exchange Systems
+Parallel foreign exchange systems are found in many developing
+countries, where they combine a market-driven exchange rate that
+primarily applies to financial transactions, and sometimes a portion of
+trade transactions, alongside one or more fixed exchange rates. These
+arrangements are often implemented in response to a balance of
+payments crisis. In one scenario, governments establish a legal parallel
+or dual foreign exchange market for financial transactions. This move is
+aimed at mitigating the immediate impact of a depreciation in the
+exchange rate on domestic prices while retaining some level of control
+over capital outflows and international reserves. In another scenario,
+strict foreign exchange controls limit access to official markets, leading
+to the emergence of an illicit parallel market. As the authorities respond
+to a worsening balance of payments situation by tightening and
+expanding exchange controls, the illicit market gains prominence. Strong
+limitations that have led to external imbalances and the growth of a
+substantial parallel market where the currency currently trades at nearly a
+60 per cent premium characterize Burundi’s foreign exchange market.
+One of the authorities’ main short-term goals going ahead is to stabilize
+the exchange rate and lessen these distortions 2. Informal trade (i.e.,
+parallel foreign exchange market) in South Asia was 50 per cent of
+formal trade between 1993 and 20053.
+2www.elibrary.imf.org 
+3 https://blogs.worldbank.org/endpovertyinsouthasia/capital-controls-and-parallel-
+exchange-rates-south-asia 
+
+
+--- Page 74 ---
+278 
+Financial Stability 4) Political Instability
+Political stability affects foreign exchange rates significantly and raises
+demand for a currency. Switzerland, for example, is renowned for its
+political stability, adherence to neutrality, and avoidance of international
+confrontations. Because of this, the Swiss franc is seen as a haven in
+foreign exchange trading and is frequently used to offset currency risk.
+Conversely, political unrest, coops, and protests destabilize the economy
+and devalue the local currency. As a result, there is less demand for and
+more risk associated with keeping the relevant domestic currency.
+5) Trade Balances
+Consider the distribution of national output as
+Y = C ୢ + Iୢ + Gୢ + X 
+Where,  
+Y = National output 
+Cୢ = Consumption of domestically made goods and services 
+Iୢ = Investment in domestically made goods and services 
+Gୢ = Government expenditure on domestically made goods and services 
+X = Exports of domestically made goods and services  
+We know that in the world of globalization or the case of an open 
+economy, people do not consume only domestically produced services, 
+investment is not restricted to domestic goods and services only and 
+similarly, government purchases are not limited to domestic goods and 
+services only. Therefore, we can say that  
+C = C ୢ + C୊  
+I = I ୢ + I୊  
+G = G ୢ + G୊  
+where the super-script F on C, I and G show the consumption of, 
+investment in and government expenditure on foreign goods and services 
+respectively.  
+Now, the national income identity can be re-written as follows: 
+Y = C − C ୊ + I − I୊ + G − G୊ + X 
+Y = C + I + G + X − C ୊ − I୊ − G୊  
+Y = C + I + G + X − (C ୊ + I୊ + G୊ ) 
+
+
+--- Page 75 ---
+279 
+Foreign Exchange 
+Stability and 
+Related Issues 
+Since C୊ + I୊ + G୊  means the total imports denoted by IM and therefore 
+Y = C + I + G + X − IM 
+The difference X – IM is called net exports (NX) and many times called 
+trade balance and therefore national income accounts identity in an open 
+economy becomes  
+Y = C + I + G + NX  
+NX = Y − (C + I + G)  
+Thus, 
+Net exports = National output − Domestic spending  
+Now, Consider the national income account identity again  
+Y = C + I + G + NX  
+Y − C − G = I + NX  
+The left-hand side of the equation is called national saving (S) and 
+therefore 
+S = I + NX 
+S − I = NX 
+Thus, the net exports are equal to the excess of savings over investments. 
+The difference between savings and investment is called net capital 
+outflow (or net foreign investment) because the difference shows the 
+flow capital i.e., if S is greater than I, then the excess amount is invested 
+in the rest of the world which causes the outflow of the capital from the 
+domestic land and if S is less than I, then the shortage is met from the 
+rest of the world which causes inflow of the capital. Thus, positive NX 
+means net capital outflow which means there is trade surplus and 
+negative NX means net capital inflow which means trade deficit. In this 
+way, net exports are financed by the net capital outflow. Now, we 
+consider a small open economy in case of which this is assumed that the 
+domestic interest denoted by r* is determined by the world interest rate 
+denoted by r. Thus,  
+r* = r 
+We know that the investment is a function of interest rate and therefore 
+we have  
+I = I(r) 
+Further, since, S depends upon Y, C and G and Y is supposed to be 
+constant because it is determined by the factors of production, G is 

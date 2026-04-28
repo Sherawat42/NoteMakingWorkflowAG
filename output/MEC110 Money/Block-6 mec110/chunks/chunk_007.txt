@@ -1,0 +1,446 @@
+--- Page 58 ---
+152 
+Operational Aspects 
+of Financial Markets 
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+3) What is a swap?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+21.4  MODELS OF DERIVATIVE PRICING 
+Derivative pricing is a complex process as it involves determining the fair 
+value of a derivative contract. The pricing of derivatives depends on various 
+factors, including the type of derivative, the characteristics of the underlying 
+asset, market conditions, and the methodologies used. This section discusses 
+two popular derivative pricing models: Binomial Option Pricing Model and 
+Black-Scholes Option Pricing Model.  
+21.4.1  Binomial Option Pricing Model 
+The binomial options pricing model, initially introduced by Cox, Ross, and 
+Rubinstein in 1979, offers a versatile numerical approach to valuing options. 
+This model employs a “discrete-time” framework to track the evolving price 
+of the underlying financial instrument over time, facilitating option valuation 
+through the application of the risk neutrality assumption. 
+Unlike other models, the binomial options pricing model excels in handling 
+diverse conditions, including American options that can be exercised at any 
+point and Bermudan options exercisable at various points. Its simplicity and 
+mathematical feasibility make it easily implementable in software or 
+spreadsheet environments. While it may be slower than the Black-Scholes 
+model, practitioners often prefer it for its accuracy, especially in valuing 
+longer-dated options and those associated with dividend payments. 
+For options involving multiple uncertainties (e.g., real options) or complex 
+features (e.g., Asian options), lattice methods encounter challenges, making 
+Monte Carlo option models more suitable. However, Monte Carlo simulation, 
+although comprehensive, is computationally intensive and not the preferred 
+choice when lattice methods or formulas are adequate. 
+The binomial pricing model operates within a “discrete-time framework,” 
+utilizing a binomial lattice (tree) to trace the evolution of the option’s 
+underlying variable across multiple time steps. Each node in the lattice 
+represents a potential price of the underlying at a specific point in time, 
+forming the basis for option valuation. The valuation process involves three 
+key steps: 
+
+
+--- Page 59 ---
+153 
+Pricing of Derivatives 1) Price tree generation: Creating a tree to depict the evolution of the
+underlying asset’s price.
+2) Calculation of option value at final nodes: Determining the option’s
+intrinsic (exercise) value at the expiration of the option.
+3) Progressive calculation of option value at earlier nodes: Iteratively
+calculating the option value at each preceding node using the risk
+neutrality assumption, where the fair price today is equal to the
+discounted expected value of its future payoff. The “Binomial Value” at
+each node is determined by weighting the option values from the later
+two nodes by their respective probabilities of an up or down move and
+discounting them at the risk-free rate.
+For an American option, which can be held or exercised before expiry, the 
+value at each node is the maximum of the Binomial Value and the Exercise 
+Value. The Binomial Value is computed using the formula: 
+Binomial Value=[p × Option up + (1−p)×Option down]×exp(−r×t) 
+Here, p represents the probability of an up move in the underlying, 
+(1−p) is the probability of a down move, 
+r is the risk-free rate, 
+and t is the time to expiration. 
+This process is repeated for each node, concluding at the valuation date, 
+where the final result represents the option's value. 
+21.4.2  The Black-Scholes Option Pricing Model 
+The Black–Scholes model serves as a mathematical framework for evaluating 
+the evolving prices of financial instruments, particularly stocks. Fischer 
+Black and Myron Scholes developed the Black–Scholes formula in 1973, 
+building upon earlier work by Edward Thorpe, Paul Samuelson, and Robert 
+C. Merton. This model is widely used in practice to value call and put 
+options. The model is based on the following assumptions:  
+1) The underlying share/stock does not generate dividends during the life of
+the call option.
+2) Transaction costs are zero.
+3) The risk-free rate of return is known and it remains constant during the
+life of the option.
+4) The option can be exercised at the expiry only not before that. It means
+the option is a European not American.
+5) Short selling is allowed and the short seller will get immediately the full
+cash proceeds of today’s price for a security sold short.
+6) Stock price moves randomly.
+
+
+--- Page 60 ---
+ 
+ 
+154 
+Operational Aspects 
+of Financial Markets 
+If the above assumptions are met, then as per the Black-Scholes Option 
+Pricing Model, the value of a call option can be calculated using the 
+following formula:  
+𝑉𝐶𝑂 = 𝑃[𝑁(𝑑ଵ )] − 𝑌𝑒ି௥௧ [𝑁(𝑑ଶ )] 
+Such that  
+𝑑ଵ = ln(𝑃/𝑌) + [𝑟 + (𝜎ଶ /2)]𝑡
+𝜎√𝑡
+ 
+𝑑ଶ = 𝑑ଵ − 𝜎√𝑡 
+where,  
+𝑉𝐶𝑂 = Value of a call option 
+𝑃 = Current price of the underlying share or stock 
+𝑌 = Exercise/strike price of the option 
+𝑟 = Risk − free rate of return (should be continuously compounded) 
+𝑡 = Time to the expiry of the call option (should be an annual figure and  
+        used in fraction) 
+𝜎ଶ = Annualised variance of the rate of return on the underlying stock or  
+          share 
+𝑁(𝑑ଵ ) and 𝑁(𝑑ଶ ) represent the cumulative areas under a standard 
+normal distribution i.e., a normal distribution with zero mean and 
+standard deviation 1.  
+ln (P/Y) = Natural log of (P/Y) 
+e = 2.7183 (Approximately) 
+If we want to calculate the value of a put option, then the formula is  
+𝑉𝑃𝑂 = 𝑌𝑒 ି௥௧ [1 − 𝑁(𝑑ଶ )] − 𝑃[1 − 𝑁(𝑑ଵ )] 
+Example 21.1: Suppose we want to value a call option where the underlying 
+asset is the share of Tata Consultancy Service. The exercise price of the 
+option is ₹ 20 and the current price of the share is ₹ 25. Further, suppose that 
+the treasury bills rate (a proxy used for risk-free rate) is 5%, the annualised 
+variance of the returns on the share is 0.16, and the call option will expire at 
+the end of 3 months. The value of the call option can be calculated as 
+follows:  
+Solution  
+Step 1: Summarise the information 
+P = ₹ 25 
+
+
+--- Page 61 ---
+155 
+Pricing of Derivatives Y = ₹ 20 
+r = 5% or 0.05 
+t = 3 months or 3/12 = 0.25 years 
+𝜎ଶ = 0.16 ⟹ 𝜎 = 0.4  
+Step 2: Find out d1 and d2  
+𝑑ଵ = ln(𝑃/𝑌) + [𝑟 + (𝜎ଶ /2)]𝑡
+𝜎√𝑡
+𝑑ଵ =
+ln ቀ25
+20ቁ + ቂ0.05 + ቀ0.16
+2 ቁቃ 0.25
+0.4√0.25
+= ln(1.25) + (0.13) × 0.25
+0.4 × 0.5
+Using Excel/Scientific calculator/log table, we can calculate the natural log of 
+1.25 i.e., ln (1.25) = 0.2231 
+𝑑ଵ = 0.2231 +0.0325
+0.2 = 0.2556
+0.2
+𝑑ଵ = 1.278 
+Therefore, 
+𝑑ଶ = 𝑑ଵ − 𝜎√𝑡 = 1.278 − 0.4√0.25 = 1.278 − 0.2 = 1.078  
+Step 3: Find N(d1) and N(d2)  
+Referring to the Standard Normal Distribution Table, we find the cumulative 
+probabilities i.e.,  
+𝑁(𝑑ଵ ) = 𝑁(1.278) = 0.8994 
+𝑁(𝑑ଶ ) = 𝑁(1.078) = 0.8595 
+These cumulative probabilities can also be calculated using MS Excel. You 
+should use the following Excel formula “= NORM.DIST(d1,0,1, True)”.  
+Now, the value of the call option as per the Black-Scholes Option Pricing 
+Model is  
+𝑉𝐶𝑂 = 𝑃 [𝑁(𝑑ଵ )] − 𝑌𝑒ି௥௧ [𝑁(𝑑ଶ )] 
+𝑉𝐶0 = 25 (0.8994) − 20 × 𝑒ି଴.଴ହ×଴.ଶହ (0.8595) 
+= 22.485 − 20 × 𝑒 ି଴.଴ଵଶହ (0.8595) 
+
+
+--- Page 62 ---
+156 
+Operational Aspects 
+of Financial Markets 
+We can calculate the value of 𝑒ି଴.଴ଵଶହ  using the log technique or scientific 
+calculators or in MS-Excel using the formula “= POWER (2.7183, -0.0125)”.  
+We find that 𝑒ି଴.଴ଵଶହ = 0.9875. Thus,  
+ 𝑉𝐶0 = 22.485 − 20 × 0.9875 × (0.8595) 
+= 22.485 − 16.97513 
+ VCO = 5.509875 ≈ 5.5099 
+Thus, the call option value is ₹ 5.5099. 
+Suppose it was a put option, then 
+𝑉𝑃𝑂 = 𝑌𝑒 ି௥௧ [1 − 𝑁(𝑑ଶ )] − 𝑃[1 − 𝑁(𝑑ଵ )] 
+𝑉𝑃𝑂 = 20 × 0.9875 × [1 − 0.8595] − 25[1 − 0.8994] 
+= 2.7748 − 2.515 
+= 0.2598 
+Advantages & Disadvantages of the Black-Scholes Model: 
+Advantage: One major advantage of the Black-Scholes Model is its speed, 
+allowing for the rapid calculation of a large number of option prices. 
+Limitation: The model’s significant limitation is its inability to accurately 
+price American-style options, as it only calculates prices at expiration and 
+does not account for potential early exercise steps. 
+Assumptions underlying the Black-Scholes model include the absence of 
+arbitrage opportunities, the possibility of short selling at all times, no 
+transaction costs or taxes, perfect divisibility of securities, continuous 
+trading, and no dividends paid by the underlying stock during the option’s 
+lifetime. Additionally, it assumes that the risk-free rate (r) and stock volatility 
+(σ) are known over the option's lifetime. 
+21.4.3  Relation between the Binomial Options Pricing Model 
+& Black-Scholes Model 
+Both the binomial and Black-Scholes models share a foundation rooted in the 
+assumption that stock prices follow a stochastic process described by 
+geometric Brownian motion. For European options, the binomial model 
+approaches the Black-Scholes formula as the number of binomial calculation 
+steps increases. In essence, the Black-Scholes model for European options 
+can be seen as a special case of the binomial model with an infinite number 
+of steps, representing a continuous process approximation. Therefore, the 
+binomial model offers discrete approximations to the continuous process 
+underlying the Black-Scholes model. 
+
+
+--- Page 63 ---
+157 
+Pricing of Derivatives 
+Check Your Progress 3 
+1) How will you determine the value of call and put options using the
+Black- Scholes Option Pricing Model?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) The current price is ₹ 35, the exercise price is ₹ 35, the risk-free rate of
+interest is 10%, the volatility of returns of the underlying asset is 20%
+and the time to expiry is 1 year. Calculate the value of the call option
+using the Black-Scholes Option Model. What would be your answer if it
+were a put option, not a call option? (Hint: Refer to example 4).
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+Note: Students can use an online calculator (scan the QR code) to value 
+options as per the Black-Scholes Option Pricing Model.  
+21.5  MARKET OF DERIVATIVES IN INDIA 
+India has two types of derivative markets: the exchange-traded market and 
+the over-the-counter (OTC) market. In the exchange-traded market, 
+standardized contracts are traded on an exchange. In contrast, the OTC 
+market is decentralized, with contracts negotiated directly between two 
+parties. SEBI is the regulator of the derivative market.  
+Trade in equity and index derivatives 
+If you want to trade in equity and index derivatives, you can do so through 
+the National Stock Exchange (NSE) or Bombay Stock Exchange (BSE). The 
+derivative market in India started in the early 1990s. The first derivatives 
+contract was launched on the Bombay Stock Exchange (BSE) in June 2000. 
+Since then, the derivative market in India has grown exponentially 1. There 
+1 https://www.bsebti.com/blog/derivative-market-in-india-meaning-types-participants-
+differences/#:~:text=Difference%20Between%20Cash%20and%20Derivative%20Market&te
+xt=The%20derivative%20market%20in%20India,in%20India%20has%20grown%20expone
+ntially. 
+
+
+--- Page 64 ---
+158 
+Operational Aspects 
+of Financial Markets 
+are two types of markets – the cash market and the derivative market. The 
+difference between cash and derivative market is that transactions are settled 
+on the spot in the cash market. In contrast, in the derivative market, 
+transactions are settled at a future date. The participants in the cash market 
+are known as spot traders, while the participants in derivative market are 
+known as futures traders. Spot trading is done in the physical form of 
+commodities, whereas futures trading is done via derivatives contracts. 
+The National Stock Exchange of India Limited (NSE) commenced trading in 
+derivatives with the launch of index futures on June 12, 2000 2. The futures 
+contracts are based on the popular benchmark Nifty 50 Index. The Exchange 
+introduced trading in Index Options (also based on Nifty 50) on June 4, 2001. 
+NSE also became the first exchange to launch trading in options on 
+individual securities from July 2, 2001. Futures on individual securities were 
+introduced on November 9, 2001. Futures and Options on individual 
+securities are available on securities that meet the eligibility criteria stipulated 
+by SEBI. The Exchange has also introduced trading in Futures and Options 
+contracts based on Indices. Currently, Derivatives on NIFTY 50, NIFTY 
+Bank, NIFTY Financial Service, NIFTY Midcap Select and NIFTY Next 50 
+are available for trading. Since the launch of the Index Derivatives on the 
+popular benchmark Nifty 50 Index in 2000, the National Stock Exchange of 
+India Limited (NSE) today have moved ahead with a varied product offering 
+in equity derivatives. The Exchange currently provides trading in Futures and 
+Options contracts on – 5 major indices and more than 180 securities. 
+In India, both the BSE and NSE provide derivatives trading facilities. The 
+NSE’s derivatives platform is known as Nifty Futures and Options (F&O). 
+The BSE offers F&O trading on its own exchange and also facilitates trading 
+on the NSE’s exchange. 
+Trading in Commodity Derivatives 
+If you want to trade in commodities like crude oil, gold, metals, etc., you can 
+do so through commodity exchanges like the Multi Commodity Exchange 
+(MCX) or the National Commodity and Derivatives Exchange (NCDEX) 
+both under the ownership of Ministry of Finance, Government of India. 
+Conversely, if you want to trade in currencies, Metropolitan Stock Exchange 
+of India (MSE) Limited under the ownership of Ministry of Finance, 
+Government of India, simplifies that. 
+21.6  LET US SUM UP 
+This unit builds upon the topics explored in units 13, 18 and 19, focusing on 
+assets and their pricing. The discussion centres around a specific type of asset 
+whose value is intricately tied to and influenced by the price movements of 
+2 https://www.nseindia.com/products-services/about-equity-derivatives  
+
+
+--- Page 65 ---
+159 
+Pricing of Derivatives an underlying asset. The unit commences with an introduction to the 
+fundamental concept and rationale behind derivatives. Subsequently, it delves 
+into an extensive examination of various types of derivatives, encompassing 
+forward contracts, futures, and swaps. 
+The unit then shifts its focus to the pricing mechanisms of derivatives, 
+providing insights into both the binomial model and the Black-Scholes 
+formula. A comparative analysis is conducted to highlight the distinctions 
+between these two models.  
+21.7  KEY WORDS 
+Arbitrageurs  :  Investors engaging in arbitrage to exploit price 
+discrepancies in securities to earn riskless 
+returns. 
+Call Option  :  A financial contract providing the holder the 
+right to purchase an asset at a predetermined 
+price within a specified timeframe. 
+Forward Contract  :  A mutual agreement between two parties to 
+exchange an asset for cash at a predetermined 
+future date, with the current price fixed at the 
+time of agreement. 
+Hedge  :
+ An investment made to offset potential losses in 
+another investment, creating a balance between 
+the two. 
+Interest Rate Future     
+:    Futures contracts based on fixed-income 
+securities like treasury bills, bonds, and CDs. 
+Interest Rate Options    : Options contracts related to fixed-income 
+securities such as treasury bills. 
+Interest Rate Parity  :  The concept suggesting that the difference in 
+interest rates between two countries equals the 
+disparity between the forward and spot rates of 
+those respective countries. 
+Long Position  :
+ The position of an investor entitled to receive an 
+asset in the future, representing the buyer's role 
+in the security. 
+Margin  : A portion of the transaction value that the 
+customer must pay to initiate a transaction, with 
+the remaining amount often borrowed from the 
+broker. Two types of margins exist: initial 
+margin and maintenance margin. 
+
+
+--- Page 66 ---
+160 
+Operational Aspects 
+of Financial Markets 
+Option Contract  : A contractual agreement providing the right to 
+buy or sell an asset at a predetermined price on a 
+future date, with the option buyer having the 
+discretion to exercise this right. 
+Put Option  : An option granting the holder the right to sell an 
+asset at a fixed price within a specified period. 
+Short Position  : The position of an investor obligated to deliver 
+an asset in the future, indicating the seller's role 
+in the security. 
+Spot Rate  : The exchange rate applicable to the immediate 
+delivery of currency, typically settling two days 
+after the trade date. 
+Swap Contract  : An agreement between two parties 
+(counterparties) to exchange assets or a series of 
+cash flows over a specified period at 
+predetermined intervals. 
+21.8  SOME USEFUL BOOKS 
+Bhole, L M . (2004) Financial Institutions and Markets 4 th edition , 
+TataMcGraw- Hill, New Delhi: 
+Dothan, U. (1990), Prices in Financial Markets , Oxford University Press, 
+New York 
+Hull, John, (2002) Options, Futures and other Derivatives Prentice-Hall of 
+India, New Delhi. 
+“Options, Futures, and Other Derivatives” by John C. Hull 
+21.9  ANSWERS/ HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Derivatives encompass contracts such as forwards, futures, options, or
+hybrids, with predetermined durations, linked to the value of specified
+real or financial assets or an index of securities.
+2) Risk transfer from risk-averse to risk-oriented individuals, price
+discovery for future and current prices, stimulation of entrepreneurial
+activity, increased market trading volumes due to the participation of
+risk-averse individuals, and promotion of savings and long-term
+investments.
+
+
+--- Page 67 ---
+161 
+Pricing of Derivatives Check Your Progress 2 
+1) Agreement between two entities, culminating in settlement on a
+predetermined future date at an agreed-upon current price.
+2) Futures Contracts are typically traded on exchanges. In a futures
+transaction, two parties negotiate through brokerage firms that hold a
+“seat” on the exchange for that particular contract.
+3) A swap is a contractual agreement between two parties to exchange
+assets, financial obligations, or cash flows over a specified period at
+predetermined intervals.
+Check Your Progress 3 
+1) Refer to Sub-section 21.4.2
+2) The current price is ₹ 35, the exercise price is ₹ 35, the risk-free rate of
+interest is 10%, the volatility of returns of the underlying asset is 20%
+and the time to expiry is 1 year. Calculate the value of the call option
+using the Black-Scholes Option Model. What will be your answer if it
+were a put option not call option?
+Step 1: Summarise the information 
+P = ₹ 35 
+Y = ₹ 35 
+r = 10% or 0.10 
+t = 1 year  
+𝜎ଶ = 0.04 ⟹ 𝜎 = 0.20  
+Step 2: Find out d1 and d2  
+𝑑ଵ = ln(𝑃/𝑌) + [𝑟 + (𝜎ଶ /2)]𝑡
+𝜎√𝑡
+𝑑ଵ =
+ln ቀ35
+35ቁ + ቂ0.10 + ቀ0.04
+2 ቁቃ 1
+0.20√1
+= ln(1) + (0.12)
+0.20
+Using Excel/Scientific calculator/log table, we can calculate natural log of 1 
+i.e., ln (1) = 0 
+𝑑ଵ = 0 +0.12
+0.20 = 0.12
+0.20
+𝑑ଵ = 0.6 
+
+
+--- Page 68 ---
+162 
+Operational Aspects 
+of Financial Markets 
+Therefore, 
+𝑑ଶ = 𝑑ଵ − 𝜎√𝑡 = 0.6 − 0.20√1 = 0.6 − 0.20 = 0.4  
+Step 3: Find N(d1) and N(d2)  
+Referring the Standard Normal Distribution Table, we find the cumulative 
+probabilities i.e.,  
+𝑁(𝑑ଵ ) = 𝑁(0.6) = 0.7257 
+𝑁(𝑑ଶ ) = 𝑁(0.4) = 0.6554 
+These cumulative probabilities can also be calculated using MS-Excel. You 
+should use the following excel formula “= NORM.DIST (d1,0,1, True)”.  
+Now, the value of the call option as per the Black-Scholes Option Pricing 
+Model is  
+𝑉𝐶𝑂 = 𝑃 [𝑁(𝑑ଵ )] − 𝑌𝑒ି௥௧ [𝑁(𝑑ଶ )] 
+𝑉𝐶0 = 35 (0.7257) − 35 × 𝑒ି଴.ଵ଴ (0.6554) 
+= 35 × 0.7257 − 35 × 0.9048 × 0.6554 = 4.644  
+Note: We have calculated the value of 𝑒ି଴.ଵ଴  using log technique or scientific 
+calculators or in MS-Excel using the formula “= POWER (2.7183, -0.10)”. 
+We find that 𝑒ି଴.ଵ଴ = 0.9048.  
+Thus, the call option value is ₹ 4.644.  
+Suppose that it were a put option, then 
+𝑉𝑃𝑂 = 𝑌𝑒 ି௥௧ [1 − 𝑁(𝑑ଶ )] − 𝑃[1 − 𝑁(𝑑ଵ )] 
+ 𝑉𝑃𝑂 = 35 × 0.9048 × [1 − 0.6554] − 35[1 − 0.7257] 
+ = 11.91024 − 9.6005 
+ = 1.312 

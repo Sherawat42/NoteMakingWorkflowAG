@@ -1,0 +1,429 @@
+--- Page 41 ---
+211 
+Bond Markets and governments, which in turn can impact their investment decisions and 
+spending. 
+12.3 MEANING OF BONDS AND THEIR 
+CLASSIFICATION 
+12.3.1  Meaning of Bonds 
+A bond is a long-term debt instrument in which the issuer of the bond is 
+bound to pay a fixed or floating interest rate and repay the principal amount 
+after a fixed period. Thus, a bond is a way of taking long-term funds.  
+A Real-Life Example:  On March 14, 2023, Tata Capital Financial Services 
+Limited (TCFSL) issued bonds worth ₹ 2,000 crore with a coupon rate of 
+8.3% p.a. and a maturity period of 2 years and 11 months. It means that 
+TCFSL will receive ₹ 2,000 crore and pay fixed interest at 8.3% annually i.e., 
+₹ 16,600. These ₹ 2,000 crore will be repaid at the end of 2 years 11 months.  
+12.3.2  Characteristics of Bonds 
+1) Long-term instruments – They are long-term debt instruments.
+2) Par value – The par value is the stated face value of the bond. This value
+is mentioned on the bond certificate. It does not change.
+3) Carry coupon – Except in the case of zero-coupon bonds, other bonds
+carry a fixed or floating interest rate known as a coupon rate. Such
+interest, generally, accrues annually, but it may be semi-annually or
+quarterly too. Moreover, interest is calculated on par or face value.
+4) Maturity period  – Bonds may have an indefinite maturity period, but
+generally they have a definite maturity period.
+5) Issued at par, premium, or discount  – They may be issued at par,
+premium or discount.
+a) If the issued price of a bond exceeds its face value, then it is said
+that the bond has been issued at a premium.
+b) If the issued price is equal to its face value, then it is said that the
+bond has been issued at par.
+c) If it is issued at a price less than its face value, then this is called a
+bond issued at a discount.
+6) Redemption – Bonds may be redeemed at par or premium. If the
+redemption value of a bond exceeds its face value, then this is called
+redemption at a premium; if the redemption value of a bond is equal to
+its face value, then this is called redemption at par. Theoretically,
+redemption at a discount is also possible, but practically, it does not seem
+
+
+--- Page 42 ---
+212 
+Financial Markets to be feasible for an investor that he would get less than what he had 
+invested.   
+12.3.3  Classification of Bonds 
+1) Bonds Based on Issuer
+a) Government bonds – As the term implies these are those bonds
+which are issued by the Government (Central or State governments
+in the case of India). Indian bond market is majorly dominated by
+Government bonds. These bonds generally offer stable returns and
+are considered very safe because they are guaranteed by the Indian
+government. The interest rate on G-sec (a short form for
+Government securities or bonds) varies between 7% and 10%. In
+India, Government bonds may take the following forms:
+i) Fixed-rate bonds (FRBs) – These bonds yield fixed interest
+payments throughout the life of the bonds.
+ii) Floating rate bonds – These bonds yield variable interest
+payments.
+iii) Sovereign Gold Bonds (SGBs) – These are the schemes in
+which an investor is allowed to invest in digital gold at an
+average price of gold without carrying gold in physical form.
+The Sovereign Gold Bond (SGB) Scheme 2022-23 is an
+example in which the interest rate is 2.5% p.a. on the nominal
+value of the bonds and they are redeemable on expiry of 8 years.
+iv) Inflation Indexed Bonds – These bonds have a unique feature
+i.e., their prices and interest payments are adjusted according to
+the price level or inflation rate based on the consumer price
+index (CPI) or wholesale price index (WPI).
+v) 7.75% GOI Savings Bonds – This government security was
+launched in 2018 to replace the 8% savings bond. The interest
+rate applicable here is 7.75%. The RBI stipulates that these
+bonds can be in the possession of individual(s) who aren’t NRIs,
+minors, or are a Hindu undivided family.
+b) Corporate bonds  – These bonds are issued by corporations or
+companies. Since, Tata Capital Financial Services is a company in
+the above example, therefore, the bonds issued by it are corporate
+bonds. These bonds are generally considered to be riskier than
+government bonds. The creditworthiness of the issuing company is
+an important factor in determining the risk associated with the bond,
+as well as the interest rate offered to investors. Companies with high
+credit ratings are generally considered to be more creditworthy and
+may offer lower interest rates, while companies with lower credit
+
+
+--- Page 43 ---
+213 
+Bond Markets ratings may offer higher interest rates to compensate for the higher 
+risk of default. A few examples of corporate bonds are:  
+i) LIC Housing Finance Limited Bonds  (coupon rate 7.95%,
+maturity date January 29, 2028, issue size ₹ 1477 crores)
+ii) Hindustan Petroleum Bonds  (coupon rate 7.74%, maturity date
+March 2028, issue size
+iii) Indian Railway Finance Corporation Limited Bonds (issued
+date February 23, 2012, coupon rate 8.1%, maturity date
+February 23, 2027, face value ₹ 1,000).
+c) Municipal bonds  ( or muni ) – These bonds are issued by local
+authorities or local governments. For example, on February 20,
+2023, Indore Municipal Corporation  allotted bonds with a coupon
+rate of 8.25%, maturity date of February 20, 2026, and issue size ₹
+61crore.
+d) Foreign bonds – These are bonds issued by a foreign government or
+foreign corporation.
+2) Bonds Based on Coupon
+a) Zero coupon bonds (or pure discount bonds)  – These bonds do
+not carry any interest or coupon, but are issued at a discount and
+repaid/redeemed at par. For example, suppose that a bond has a face
+value of ₹ 100 and this is issued at a discount of ₹ 10, therefore, the
+issuer receives ₹ 90. Moreover, it will be repaid at ₹ 100. Thus, an
+investor by paying ₹ 90 will get ₹ 100 on the maturity of the bond.
+Thus, in the case of zero-coupon bonds, an investor earns capital
+return only not revenue return in the form of interest.
+b) Coupon bonds (or regular bonds)  – These bonds carry some
+interest. If they carry fixed interest, they are known as fixed coupon
+bonds and if they carry floating interest, they are known as floating
+coupon bonds. Thus, in the case of coupon bonds, an investor earns
+capital as well as revenue returns.
+3) Bonds based on maturity
+a) Perpetual bonds – These bonds have indefinite maturity.
+b) Non-perpetual bonds  – These bonds have a definite maturity
+period.
+4) Bonds based on option
+a) Puttable bond (or retractable bonds)  – A put bond is a type of
+bond that gives the bondholder the right to sell the bond back to the
+issuer at a predetermined price and a specified date before the
+
+
+--- Page 44 ---
+214 
+Financial Markets bond’s maturity. The price at which the bond can be sold is called 
+the put price, and it is usually higher than the bond’s face value. 
+b) Callable bond  – A callable bond is a type of bond that gives the
+issuer the right to redeem the bond before its maturity date. This
+means that the issuer can call or buy back the bond from the
+bondholder before the scheduled maturity date at a specified call
+price.
+5) Bonds based on convertibility
+a) Convertible bonds – These bonds can be converted into the shares
+of the issuer company depending upon the terms and conditions of
+the issue.
+b) Non-convertible bonds – These bonds cannot be converted into the
+shares of the issuer company but they, generally, carry a higher
+interest rate than convertible bonds.
+Check Your Progress 1 
+1) What do you mean by bonds? What are their characteristics?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What are the types of bonds?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+12.4 VALUATION OF BONDS 
+Valuation of bonds means finding the intrinsic value of a bond . This 
+intrinsic value is simply known as the value of a bond . The value of a bond 
+is nothing but the present value of all the coupons and the redemption value 
+of the bond. Therefore, the value of a bond can be calculated using the 
+following formula:  
+𝑉 = ൤ 𝐶ଵ
+(1 + 𝑖)ଵ + 𝐶ଶ
+(1 + 𝑖)ଶ + ⋯ + 𝐶௡
+(1 + 𝑖)௡ ൨ + 𝑅𝑉
+(1 + 𝑖)௡
+𝑉 = ൤𝐶ଵ × 1
+(1 + 𝑖)ଵ + 𝐶ଶ × 1
+(1 + 𝑖)ଶ + ⋯ + 𝐶௡ × 1
+(1 + 𝑖)௡ ൨ + 𝑅𝑉 × 1
+(1 + 𝑖)௡
+
+
+--- Page 45 ---
+215 
+Bond Markets 
+𝑉 = ൥෍ 𝐶 ௞ × 1
+(1 + 𝑖)௞
+௡
+௞ୀଵ
+൩ + 𝑅𝑉
+(1 + 𝑖)௡
+Where,  
+C1, C 2, C 3, …C n are coupons or interest payments over n years, RV is the 
+redemption value, and i is the discount rate. Apart, from the expressions  
+1
+(1 + 𝑖)ଵ , 1
+(1 + 𝑖)ଶ , … … , 1
+(1 + 𝑖)௡
+are known as the present value factors  (PVFs) calculated for the first year, 
+second year, third year, and so on. These present value factors can be 
+calculated using 
+a) Present value tables,
+b) log technique,
+c) financial or scientific calculators,
+d) MS-Excel
+e) Various apps e.g., https://cleartax.in/s/present-value-calculator
+Value of a Perpetual Bond  
+If a bond is a perpetual bond, then 
+𝑉 = 𝐶ଵ
+(1 + 𝑖)ଵ
++ 𝐶ଶ
+(1 + 𝑖)ଶ + ⋯ + 𝐶௡
+(1 + 𝑖)௡ + ⋯ … … … 
+If the coupons are constant i.e., 𝐶ଵ = 𝐶ଶ = 𝐶ଷ = ⋯ = 𝐶 , then 
+𝑉 = 𝐶
+(1 + 𝑖)ଵ + 𝐶
+(1 + 𝑖)ଶ + ⋯ + 𝐶
+(1 + 𝑖)௡ + ⋯ … … … 
+This is obvious that the above series is an infinite geometric progression with 
+a common ratio  
+1
+1 + 𝑖
+We know that if a is the first term and r is the common ratio of an infinite 
+geometric progression, then its sum is given by the following formula:  
+𝑆ஶ = 𝑎
+1 − 𝑟
+Therefore, 
+V = C/(1 + 𝑖)
+1 − 1/(1 + 𝑖)
+
+
+--- Page 46 ---
+216 
+Financial Markets V = C/(1 + 𝑖)
+(1 + 𝑖 − 1)/(1 + 𝑖)
+V = C
+𝑖
+The decision to buy bond: 
+1) Overvalued bond  – If the market price of the bond exceeds its value,
+then it is called an overvalued bond, therefore, it should not be
+purchased.
+2) Undervalued bond – If the market price of the bond is less than its
+value, then it is called an undervalued bond, therefore, it should be
+purchased.
+The decision to sell a bond 
+Suppose you are the holder of a bond and you find that the market price of 
+the bond exceeds its value, then you should sell the bond in the market. If the 
+market price of the bond is less than its value, then it is better to hold it.   
+Example 12.1: Suppose that a corporation issues a bond having a face value 
+₹ 1,000 redeemable at a premium of 10% at the end of 3 years. If the discount 
+rate is 12% and the coupon rate is 8%, then calculate the value of this bond. 
+Moreover, would you buy this bond if the market price of the bond is ₹ 1,050 
+or ₹ 800?  
+Solution 
+Step 1: Summarise the information 
+Face value = ₹ 1,000 
+Coupon rate = 8% 
+Coupon = Coupon rate × face value = 8% × ₹ 1,000 = ₹ 80 
+Discount rate = i = 12% = 0.12 
+Maturity of bond = n = 3 years 
+Redemption value = RV = Face value + premium of 10% = 1,000 + 10% × 
+1,000 = ₹ 1100 
+Step 2: Apply the following formula 
+V = ൤ 𝐶ଵ
+(1 + 𝑖)ଵ
++ 𝐶ଶ
+(1 + 𝑖)ଶ + 𝐶ଷ
+(1 + 𝑖)ଷ + ⋯ + 𝐶௡
+(1 + 𝑖)௡ ൨ + 𝑅𝑉
+(1 + 𝑖)௡
+
+
+--- Page 47 ---
+217 
+Bond Markets = ൤80 × 1
+(1 + 0.12)ଵ + 80 × 1
+(1 + 0.12)ଶ + 80 × 1
+(1 + 0.12)ଷ +൨ + 1100 × 1
+(1 + 0.12)ଷ
+= ൤80 × 1
+(1.12)ଵ + 80 × 1
+(1.12)ଶ + 80 × 1
+(1.12)ଷ +൨ + 1,100 × 1
+(1 + 0.12)ଷ
+= [80 × 0.8929 + 80 × 0.7972 + 80 × 0.7118 +] + 1,100 × 0.7118 
+= 71.43 + 63.76 + 56.94 + 782.98       
+= 975.13  
+Thus, the value of the bond is ₹ 975.13.  
+The decision to buy bond:  
+1) If the market price is ₹ 1,050, then it exceeds the value ₹ 975.13,
+therefore, the bond is overvalued and should not be bought.
+2) If the market price is ₹ 800, then it is less than the value of ₹ 975.13,
+therefore, the bond is undervalued and should be bought.
+Example 12.2: What is the value of a perpetual bond with a coupon of 8% 
+and face value ₹ 1000? Assume a discount rate of 10%.  
+Solution 
+Coupon = C = 8% × ₹ 1,000 = ₹ 80 
+Discount rate = i = 10% = 0.10 
+Therefore, the value of the bond is 
+ 𝑉 = 𝐶
+𝑖
+= 80
+0.10 = ₹ 800 
+Check Your Progress 2 
+1) How are bonds valued?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) A bond with a face value of ₹ 5,000 matures at the end of 5 years, the
+rate of interest on the bond being 15% p.a. paid annually. Find the value
+of the bond to yield a return of 10% p.a. Further, if the bond is trading at
+₹ 6,000, then is it worth buying it? Assume that the bond will be
+redeemed at par. (Hint: Find the present value of all the benefits from
+the bond. Refer to example 12.1)
+
+
+--- Page 48 ---
+218 
+Financial Markets ……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+3) Will your decision be different if the bond is traded at ₹ 5,500? ( Hint:
+Refer to example 12.1)
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+12.5  BOND YIELDS 
+12.5.1  Yield to Maturity (YTM)  
+From the previous section, we have the formula to calculate the value of a 
+bond i.e.,  
+𝑉 = ൥෍ 𝐶 ௞ × 1
+(1 + 𝑖)௞
+௡
+௞ୀଵ
+൩ + 𝑅𝑉
+(1 + 𝑖)௡
+So, if we have the values of C k for k = 1, 2, 3, …., n, RV and discount rate i, 
+then we can easily calculate the value of the bond. Now suppose that an 
+investor already knows the value of a bond in terms of its price, say, P and he 
+is interested in finding a discount rate i, such that the above equation is 
+satisfied, then this discount rate is called Yield to Maturity (YTM). So, YTM 
+means the return on a bond (or discount rate) which makes the present value 
+of all the coupons and redemption value equal to the price of bond P provided 
+that the bond is held till its maturity. This is the return on investment which 
+investors talk about when they invest in bonds. Thus, YTM means that  i  
+which satisfies the following equation:  
+𝑃 = ൥෍ 𝐶 ௞ × 1
+(1 + 𝑌𝑇𝑀)௞
+௡
+௞ୀଵ
+൩ + 𝑅𝑉
+(1 + 𝑌𝑇𝑀)௡
+Although we have a trial and error approach ( a very time-consuming 
+approach) to calculate YTM, we have an approximation formula given below 
+to calculate YTM if coupons are constant. 
+Approximate YTM = 𝐶 + (𝐹 − 𝑃)/𝑛
+(𝐹 + 𝑃)/2
+Where C = Constant coupon, F = Face value, P = Price of the bond 
+
+
+--- Page 49 ---
+219 
+Bond Markets Example 12.3: Suppose that there is a bond with a face value of ₹ 1,000 and 
+a coupon rate of 10%. If the maturity is 5 years and the price of the bond is 
+₹ 800, then calculate the approximate YTM. Interpret your result.  
+Solution: 
+Approximate YTM = 𝐶 + (𝐹 − 𝑃)/𝑛
+(𝐹 + 𝑃)/2
+ = 100 + (1000 − 800)/5
+(1000 + 800)/2
+ = 100 + 40
+900
+ = 140
+900
+ = 0.1555 or 15.55% 
+Interpretation: It means that if ₹ 800 is invested in the bond held for 5 
+years, then it will give us a return of 15.55%.  
+12.5.2   Yield to Call (YTC) 
+In the case of a callable bond, the issuer can call or buy back the bond from 
+the bondholder before the scheduled maturity date at a specified call price. 
+Thus, redemption can be done before maturity. In such a case, the rate of 
+return on the bond till the call date is called Yield to Call. Thus, YTC is that i 
+which satisfies the following equation:  
+P = ൥෍ C ୩ × 1
+(1 + YTC)୩
+ୱ
+୩ୀଵ
+൩ + Call price
+(1 + YTC)ୱ
+where, 
+s = Period up to call 
+12.5.3  Current Yield   
+The current yield is the annual interest payment divided by the current price 
+of the bond. Thus, the current yield formula is  
+Annual interest or coupon
+ Current price of bond
+Therefore, if a company’s bonds with a 10% coupon were currently selling at 
+₹ 980, the bond’s current yield would be 10.20% (₹100/₹980). It means by 
+investing ₹ 1 now, an investor will earn ₹ 0.102 as interest at the end of 1 
+
+
+--- Page 50 ---
+220 
+Financial Markets year. Current yield focuses on interest only not the redemption value and this 
+is the reason we say that current yield is not an appropriate measure of yield.  
+Check Your Progress 3 
+1) What is Yield to Maturity (YTM)?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Calculate the yield to maturity from the following information. Coupon
+rate = 7%, face value = ₹ 500, price of bond = ₹ 350, maturity period =
+10 years. (Hint: Use the approximation formula).
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) What are Yield to Call and Current Yield?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+12.6  CREDIT RATING 
+Credit rating is an evaluation of the creditworthiness of a business. It is a 
+measure of the ability of the borrower to repay debt on time and in full. The 
+agency performing credit rating is known as a credit rating agency. Credit 
+rating agencies, assign credit ratings based on the borrower’s financial 
+history, including factors such as income, assets, liabilities, repayment track 
+record, and other relevant financial indicators. The credit rating agencies use 
+a letter-based rating system to indicate the creditworthiness of borrowers, 
+with AAA being the highest rating and D being the lowest. Credit ratings are 
+important because they help lenders and investors assess the risk associated 
+with lending money to a borrower. A high credit rating means that the 
+borrower is less likely to default on their loans, which can lead to lower 
+interest rates and better loan terms. On the other hand, a low credit rating can 

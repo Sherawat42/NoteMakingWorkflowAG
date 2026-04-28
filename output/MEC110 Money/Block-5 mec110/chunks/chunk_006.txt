@@ -1,0 +1,420 @@
+--- Page 51 ---
+50 
+Financial Institutions UNIT 16 SECURITIES AND EXCHANGE 
+BOARD OF INDIA (SEBI) 
+Structure 
+16.0  Objectives 
+16.1  Introduction 
+16.2 Concept and Act of SEBI 
+16.2.1  Evolution of SEBI and Act of 1992 
+16.2.2  Rationale for the Establishment of SEBI 
+16.3 Objectives and Functions of SEBI 
+16.3.1  Functions of SEBI 
+16.4  Structure of SEBI 
+16.4.1  Authority and Power of SEBI 
+16.4.2  Mutual Fund Regulations by SEBI 
+16.5 Working of SEBI 
+16.6 Challenges before SEBI 
+16.7 Evaluation of SEBI’s Performance 
+16.8 Suggestions for Making SEBI Effective 
+16.9     Let Us Sum Up 
+16.10   Key Words 
+16.11   Some Useful Books and References 
+16.12 Answer/Hints to Check Your Progress Exercises 
+16.13   Terminal Exercises 
+16.0  OBJECTIVES  
+After going through this unit, you will be able to: 
+ describe SEBI;
+ explain SEBI’s objective and functions;
+ highlight the rationale for SEBI;
+ describe the working of SEBI as a capital market regulator;
+ evaluate the performance of SEBI;
+ examine the challenges before SEBI; and
+ suggest measures for improving SEBI’s effectiveness.
+
+
+--- Page 52 ---
+51 
+SEBI 16.1  INTRODUCTION 
+India’s approach to ‘ market regulation' has evolved keeping systemic 
+imperatives and institutional prudence at the centre. Legislative and 
+regulatory action over the years has started to change things for the better. 
+The changing regulatory environment has also enabled foreign institutional 
+investors steeped in a more robust activism culture. Shareholder activism 
+may have gained ground, but it still has a distance to go.  
+There is increasing evidence that law and regulations are important for the 
+financial markets. Financial markets have an important relationship with 
+economic development. Regulation has been acknowledged to enable the 
+orderly functioning of the securities market. In India, because of the 
+securities fraud, there was a sense of urgency to establish a capital market 
+regulator. Keeping this in mind, Securities and Exchange Board of India 
+(SEBI) was officially established in 1988 and given autonomous and 
+statutory powers in 1992 after the SEBI Act 1992 was passed by the Indian 
+Parliament. The role of SEBI was defined to be responsive to the needs of 
+three groups, which constitute the market: the issuers, the investors, and the 
+intermediaries. 
+SEBI is primarily set up to protect the interests of investors in the securities 
+market. It plays an important role in regulating the Indian capital market. Since its 
+establishment in 1992 as a statutory regulatory body, it has been doing a 
+commendable job of protecting the interests of investors. SEBI provides a 
+platform for stockbrokers, sub-brokers, portfolio managers, investment 
+advisers, share transfer agents, bankers, merchant bankers, trustees of trust 
+deeds, registrars, underwriters, and other associated people to register and 
+regulate work. 
+SEBI aims to meet the needs of issuers, investors, and intermediates involved 
+in the securities market. SEBI is a quasi-legislative and quasi-judicial 
+organisation with the authority to create rules, conduct investigations, issue 
+decisions, and levy penalties. It also regulates the functioning of the stock 
+market. The head office of SEBI is in Mumbai. Having this backdrop, this 
+unit will discuss various aspects of SEBI in terms of its concept, nature, 
+rationale for its formation, objectives, functions and powers, structure of 
+governance, working, challenges, evaluation of its working and suggestions 
+for going forward.       
+16.2 CONCEPT AND ACT OF SEBI 
+In 1988, SEBI was founded as a non-statutory organization with the 
+responsibility of monitoring stock market activity. The SEBI Act of 1992 
+made SEBI a statutory body with independent jurisdiction and was 
+established on the 12 th of April, 1992.  The Act gave SEBI the power to 
+oversee and actively enforce regulations governing the capital markets. It 
+monitors and regulates the Indian capital and securities market while 
+ensuring the protection of the interests of the investors, formulating 
+regulations and guidelines.  
+
+
+--- Page 53 ---
+52 
+Financial Institutions 16.2.1  Evolution of SEBI and Act of 1992 
+Before SEBI came into existence, the Controller of Capital Issues (CCI) was 
+the regulatory authority. The capital market was regulated by the Capital 
+Issue (Contract) Act, of 1947. Later on, when the Controller of Capital Issues 
+was abolished, SEBI was given the responsibility of a market regulator. With 
+the abolition of CCI, companies do not require prior permission from the 
+government to access the capital markets. Companies are free to approach the 
+capital markets without prior government permission, subject to getting offer 
+documents cleared by SEBI. Controls over price and premium fixation have 
+also been removed and most issuing companies are free to fix the price of 
+their securities for the public as well as rights issues. 
+In 1988, SEBI was constituted as the regulator of capital markets in India. 
+Initially, SEBI was a non-statutory body without any statutory power. The 
+SEBI was established as a statutory entity by an ordinance on January 30, 
+1992. The ordinance was passed by both houses of Parliament on April 1, 
+1992, although the legislation is deemed to have taken effect from the day the 
+ordinance was issued. SEBI is a body having a separate legal existence and 
+perpetual succession. In 1995, the SEBI was given additional statutory power 
+through an amendment to the SEBI Act of 1992.  
+SEBI was established in the same manner as the Securities and Exchange 
+Commission (SEC) of the United States, which was established under the 
+Securities Exchange Act of 1934 to oversee the securities market and to 
+prevent unfair trade activities on the stock exchange. The SEBI Act 
+1992 covers the following areas: 
+i) Composition and actions of the SEBI Board members
+ii) Powers and Functions of the Board
+iii) Fund sources of SEBI, as in grants made available by the Union
+Government
+iv) Rules on Penalties and Legal Pathways
+v) Definition of the judicial authority of SEBI
+vi) The extent of powers of the Union Government to supersede SEBI.
+SEBI also has to adhere to a list of SEBI guidelines, about areas such as: 
+i) Employee Stock Option Schemes.
+ii) Disclosure and Investor Protection norms.
+iii) Legal Proceedings.
+iv) Anti-money laundering norms.
+v) Listing and delisting of securities.
+vi) Opening of trading terminals overseas.
+
+
+--- Page 54 ---
+53 
+SEBI Listing Obligations and Disclosure Requirements (LODR) regulations for 
+SEBI form one of the most important mandates. The new regulation in 2015 
+on LODR intends to consolidate all the previous amendments into one single 
+document, making the document uniform across different segments of the 
+capital market. The SEBI (LODR) Regulations, 2015 entails the following: 
+i) Disclosures and obligations that have to be acknowledged by the
+compliance officers of the listed company.
+ii) Listing down obligations uniform to all listed companies.
+iii) Distinct obligations for certain types of securities.
+iv) Segregating initial issuance and post-IPO norms.
+v) Communication of the companies’ fundraising activities.
+vi) Establishing timelines for notifying the exchanges of certain events.
+vii) Bringing MSMEs under the ambit of the SEBI (LODR) Regulations.
+16.2.2  Rationale for the Establishment of SEBI 
+Broadly, financial markets may be considered to comprise the securities 
+markets and financial institutions such as banks and non-banking finance 
+companies (NBFCs). There are multiple perspectives from which the 
+rationale for regulation may be examined. SEBI was set up with the main 
+purpose of keeping a check on malpractices and protecting the interests of 
+investors. It was set up to meet the needs of the following three groups, 
+which constitute the market:   
+i) For issuers: it provides a marketplace in which they can raise finance
+fairly and easily.
+ii) For investors: it provides protection and supply of accurate and correct
+information.
+iii) For intermediaries: it provides a competitive professional market.
+The purpose of SEBI is to maintain stable and efficient markets by creating 
+and enforcing regulations in the marketplace.  It is a vital component in 
+improving the quality of the financial markets in India, both by attracting 
+foreign investors and protecting Indian investors. SEBI has an explicit 
+mandate to develop securities markets.  Market participants are issuers and 
+issuances, investors, intermediaries, stock exchange, clearing corporations 
+and depositories.  
+According to G. Sabarinathan,  “The Indian securities market is a complex 
+network of a host of economic agents. When they come together to execute a 
+transaction they are tied together through a web of regulations, in addition to 
+their commercial interconnectedness. Even the conduct of those that are not 
+directly governed by securities regulations is indirectly influenced through 
+
+
+--- Page 55 ---
+54 
+Financial Institutions their contractual obligations to other regulated intermediaries and/or the 
+regulation on the outcome of the service they provide”.   
+The government and the community at large would expect that the securities 
+market function as an important, stable and safe centre piece of the financial 
+system, coexisting in a symbiotic relationship with the rest of the financial 
+system. “The failure of the securities market could have a ripple effect on the 
+rest of the financial system as a whole”. Stock exchanges expect a stable, 
+consistent and transparent policy regime that would enable them to engage in 
+the activity of providing liquidity to investors by innovating, competing and 
+responding to emerging developments in the financial sector. In short, SEBI 
+plays an important role in regulating and protecting the interests of all the 
+players operating in the Indian capital market by enforcing various rules and 
+regulations.  
+16.3 OBJECTIVES AND FUNCTIONS OF SEBI  
+The objective of the SEBI is to provide an environment that paves the way 
+for the mobilisation and allocation of resources. It provides practices, 
+framework and infrastructure to meet the growing demand. The following are 
+the primary objectives of the SEBI: 
+i) Regulation of Stock Exchanges : SEBI regulates the activities of stock
+exchanges so that efficient services may be provided to all the parties
+operating there.
+ii) Investor Protection : This is one of the most important objectives of
+setting up SEBI. It involves protecting the interests of investors by
+providing guidance and ensuring that the investment is safe.
+iii) Preventing fraudulent practices and malpractices which are related to
+trading and regulation.
+iv) Developing a code of conduct for financial intermediaries such as
+underwriters, brokers, and other intermediaries.
+v) Ensuring investor’s education about the intermediaries of securities
+markets and enhancing their knowledge.
+vi) Taking care of research and development to ensure the securities market
+is efficient at all times.
+SEBI achieves its objectives through proactive supervision and policy 
+measures. The realisation of statutory objectives in the securities market 
+requires absolute clarity of statutory provisions. 
+16.3.1  Functions of SEBI 
+SEBI is a statutory body and a market regulator, its functions are categorised 
+under protective, regulatory and developmental functions. These are 
+discussed as follows: 
+
+
+--- Page 56 ---
+55 
+SEBI a) Protective Functions : The protective function relates to the role that
+SEBI plays in protecting the interests of investors and also that of
+other financial participants. This function includes the following
+activities:
+i) Prohibits insider trading: Insider trading means buying or
+selling of the securities by the insiders of a company, which
+includes the directors, employees and promoters. To prevent
+such trading SEBI has barred the companies from purchasing
+their shares from the secondary market.
+ii) Check price rigging: Price rigging causes unnatural
+fluctuations in the price of securities by either increasing or
+decreasing the market price of the stocks which leads to
+unexpected losses for the investors. SEBI maintains a very
+close watch to prevent such malpractices.
+iv) Promoting fair practices: SEBI promotes fair trade practices
+and works towards prohibiting insider trading, i.e. fraudulent
+and unfair trade practices related to the securities market.
+iv) Financial education: SEBI educates the investors by
+conducting online and offline sessions that provide information
+related to market insights and also on money management. It
+takes efforts to educate the investors regarding ways to
+evaluate the investment options better.
+v) Regulates the operations of depositories, participants,
+custodians of securities, foreign portfolio investors, and credit
+rating agencies.
+b) Regulatory Functions: Regulatory functions involve a framework
+of rules and regulations for the financial intermediaries along with
+corporates that help in the efficient management of the market. The
+following are some of the regulatory functions:
+i) SEBI has defined the rules and regulations and formed
+guidelines and codes of conduct that should be followed by the
+corporates as well as the financial intermediaries.
+ii) Monitors substantial acquisitions of shares and take-over of
+companies,
+iii) Conducting inquiries and audits of stock exchanges.
+iv) Regulates the working of stock brokers, merchant brokers etc.
+It regulates and registers the workings of share transfer agents,
+stockbrokers, merchant bankers, trustees, and others who are
+linked with the stock exchange.
+v) Regulates and registers the mutual funds as well.
+
+
+--- Page 57 ---
+56 
+Financial Institutions c) Developmental Functions:  Developmental function refers to the
+steps taken by SEBI to provide the investors with knowledge of the
+trading and how the market functions. The following activities are
+included:
+i) Training of intermediaries who are a part of the security
+market.
+ii) Introduction of trading through electronic means or the internet
+with the help of registered stock brokers.
+iii) By making the underwriting an optional system to reduce the
+cost of the issue.
+iv) Promotes the development of the securities market and
+business.
+v) Enables a competitive professional market for intermediaries.
+Several of the functions that SEBI discharges are based on powers that it 
+draws from the Securities Contract Regulation (SCR) Act, 1956 and the rules 
+made thereunder. Two amendments in 1995 and 1999 brought about several 
+important changes to the scope and the administration of the SCR Act, 
+resulting in the current form of the law (Sabarinathan, 2010). 
+Check Your Progress 1 
+1) What is SEBI? Why was it established?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Explain the role and objectives of SEBI.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Why is there stress on protecting the interest of investors?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+16.4 STRUCTURE OF SEBI 
+SEBI is run by its board of members. The board comprises of nine members. 
+SEBI has a corporate framework comprising various departments each 
+managed by a department head. The headquarters of SEBI is situated in 
+
+
+--- Page 58 ---
+57 
+SEBI Bandra Kurla Complex, Mumbai and the regional offices are located in 
+Ahmedabad, Kolkata, Chennai and Delhi. It has also opened local offices in 
+Jaipur, Bengaluru, Guwahati, Bhubaneshwar, Patna, Kochi, and 
+Chandigarh. 
+The hierarchical structure of SEBI consists of the following: 
+i) The chairman of SEBI is nominated by the Union Government of India.
+ii) Two officers from the Union Ministry of Finance.
+iii) One member is from the Reserve Bank of India.
+iv) The remaining 5 members are nominated by the Union Government of
+India out of them at least 3 are whole-time members.
+Allocation of work among Chairman and Board members : The Chairman of 
+SEBI, in addition to overseeing the Board, also looks over the 
+Communications, Vigilance, and Internal Inspection Department. There are 
+four full-time members in the organizational structure. The whole-time 
+members are allocated several departments that they have to oversee. Each 
+department is individually headed by an executive director. The executive 
+directors report to specific whole-time members. 
+The organizational structure of SEBI consists of various departments, such as 
+Foreign Portfolio Investors and Custodians (FPI&C), Corporation Finance 
+Department (CFD), Information Technology Department (ITD), Department 
+of Economic and Policy Analysis (DEPA-I, II, & III), Investment 
+Management Department, Legal Affair Department, Treasury and Accounts 
+Divisions (T&A), and National Institute of Securities Market (NISM). 
+SEBI also appoints various committees, whenever required to look into the 
+pressing issues of that time. These committees can only advise SEBI but they 
+cannot force SEBI to take action on their advice.  
+16.4.1  Authority and Power of SEBI 
+SEBI has broad powers to carry out the goals of the SEBI Act of 1992. It has 
+the authority to take both preventative and punitive actions to safeguard 
+investors and improve the securities market. Circulars, instructions, and press 
+releases are examples of such initiatives. Furthermore, SEBI is in charge of 
+overseeing all Asset Management Companies (AMCs) registration. It is the 
+primary authority when it comes to controlling, supervising, and assessing 
+the performance of investment managers. It also has a procedure for 
+resolving complaints and other concerns about asset managers. 
+SEBI has the power to regulate and perform functions such as check the 
+books of accounts of stock exchanges and call for periodical returns, approve 
+by-laws of stock exchanges, inspect the books of financial intermediaries 
+such as banks, compel certain companies to get listed on one or more stock 
+exchanges, and handle the registration of brokers. 
+
+
+--- Page 59 ---
+58 
+Financial Institutions SEBI has three functions rolled into one body: quasi-judicial, quasi-executive 
+and quasi-legislative:  
+i) Quasi-Judicial: SEBI has the authority to deliver judgements related to
+fraud and other unethical practices in terms of the securities market. This
+helps to ensure fairness, transparency, and accountability in the securities
+market.
+ii) Quasi-Executive: SEBI is empowered to implement the regulations and
+judgements made and to take legal action against the violators. It is also
+authorised to inspect Books of accounts and other documents if it comes
+across any violation of the regulations.
+iii) Quasi-Legislative: SEBI reserves the right to frame rules and regulations
+to protect the interests of the investors. Some of its regulations consist of
+insider trading regulations, listing obligations, and disclosure
+requirements. These have been formulated to keep malpractices at bay.
+Though this makes SEBI very powerful, there is an appeal process to create 
+accountability. There is a Securities Appellate Tribunal  (SAT) which is a 
+three-member tribunal. Securities Appellate Tribunal (SAT) has been 
+constituted to protect the interest of entities that feel aggrieved by SEBI’s 
+decision. SAT consists of a presiding officer and two other members. 
+A second appeal lies directly to the Supreme Court.  Furthermore, as part of 
+its powers, SEBI can restrict or ban a person from entering the securities 
+market. SEBI can issue such an order even while the inquiry is ongoing. By 
+obtaining a disgorgement order, SEBI can recover illicit gains acquired by a 
+person via illegal activity. 
+SEBI can also take immediate action against companies that incorporate 
+illegal schemes to generate revenue from retail investors, and it can prohibit a 
+person acting as an intermediary, such as a research analyst, investment 
+advisor, and so on, from soliciting/undertaking an activity in securities, either 
+explicitly or implicitly. 
+SEBI has sufficient regulatory guardrails and multiple statutes in place. Some 
+of them are: 
+i) Listing Obligations and Disclosure Requirements for Prevention of Fraud
+and Unfair Trade Practices Rules.
+ii) Level the playing field for retail investors and shield them from fraud.
+iii) Active derivatives contracts in index stocks that allow investors to hedge
+cash positions, circuit filters,
+iv) Advanced and Graded Surveillance Mechanisms with stiff margining that
+seek to rein in excessive single-day moves.
+
+
+--- Page 60 ---
+59 
+SEBI Supreme Court held that the SEBI Act is a special law and a complete code in 
+itself. Being a special Act dealing with a specific subject, it has to be read in 
+harmony with the company law. Further, SEBI’s power to restrain an 
+individual from acting as a director in a listed company has been upheld in 
+several matters. Therefore, prohibition comes into effect immediately and it 
+is not contingent on the process to be followed under the Companies Act 
+(Sahoo and Agarwal, 2022). 
+16.4.2  Mutual Fund Regulations by SEBI 
+Over the past decade, the mutual fund industry has grown five-fold with 
+assets under management touching ₹40-lakh crore in December 2022, from 
+₹8-lakh crore in November 2012. From ₹10-lakh crore in May 2014, mutual 
+funds’ assets under management (AUM) rose to ₹20-lakh crore in just three 
+years in August 2017 and then crossed ₹30-lakh crore in November 2020 
+(Kumar and Iyengar, 2023). 
+SEBI has put in multiple regulations for mutual funds. Mutual funds are 
+managed by Asset Management Companies (AMC), which need to be 
+approved by SEBI. A Custodian who is registered with SEBI holds the 
+securities of various schemes of the fund. The trustees of the AMC monitor 
+the performance of the mutual fund and ensure that it works in compliance 
+with SEBI Regulations. 
+In August 1995, a self-regulation agency for mutual funds was set up called 
+the Association of Mutual Funds of India (AMFI). AMFI focuses on 
+developing the Indian mutual fund industry professionally and ethically. 
+AMFI aims to enhance the operational standards in all areas to protect and 
+promote mutual funds and their stakeholders. In April 2022, there were 44 
+Asset Management Companies that were registered with SEBI and were 
+members of AMFI. An AMC cannot have representation on the board of any 
+other mutual fund. Shareholders can’t hold more than 10 per cent of the 
+shares both directly and indirectly in the AMC of the mutual fund. 
+Guidelines on Mutual Funds Reclassification: 
+i) Funds must be named based on the core intent of the fund and asset mix.
+It should specify the risk associated clearly.
+ii) There will be 16 classifications for debt funds, 10 classifications for
+equity funds, six classifications for hybrid, two for solution funds, and
+two for index funds.
+iii) Reclassified large-cap, mid-cap, and small-cap based on market cap
+relative rankings rather than absolute market cap cut-offs. The debt fund
+classification is prescribed based on the duration of the fund and the asset
+quality mix.

@@ -1,0 +1,436 @@
+--- Page 95 ---
+299 
+Behavioural Finance financial gains, while holding on to assets that are losing money), momentum 
+effect (the tendency of stocks that performed well in the past months to 
+continue to do well in the following period and vice versa for stocks with a 
+poor performance. 
+Check Your Progress 3 
+1) List the various market anomalies observed in the market.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What is the behavioural explanation of the equity premium puzzle?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Explain the volatility puzzle from a behavioural perspective.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+4) Which of the following explains the Equity premium puzzle?
+a) Under-reaction
+b) Disposition effect
+c) Momentum effect
+d) Myopic loss aversion
+29.6  IRRATIONAL INVESTOR: COGNITIVE, 
+SOCIAL AND EMOTIONAL INFLUENCES 
+ON AN INVESTOR 
+Behavioural finance replaces the idea of rational decision-makers called 
+‘econs’ with ‘humans’ who are influenced by cognitive, social and emotional 
+factors. Humans often are more biased than logical while making financial 
+decisions. Before we discuss the biases that affect human decision-making, 
+let us discuss how humans make decisions. You must have noticed that some 
+decisions like morning routine, going to the office etc. are automatic but 
+some decisions like financial investments etc. require attention, focus and 
+analysis. In real life, decision-making is a complex process and is influenced 
+by context, cues, social norms and past experiences.  
+
+
+--- Page 96 ---
+300 
+Financial Stability When faced with difficult situations, people use heuristics or ‘rules of thumb’ 
+to make decisions. These rules are imperfect but functional shortcuts that 
+help investors simplify complex situations and make quick decisions.  
+The concept of heuristics was first introduced by the economist and cognitive 
+psychologist Herbert A. Simon in the 1950s. He used this approach to answer 
+the question of how humans make decisions when the conditions for rational 
+choice theory are not met, that is how people decide under uncertainty. He 
+suggested that there were limitations to rational decision-making. 
+Later, in the 1970s, psychologists Amos Tversky and Daniel Kahneman 
+worked on ‘Heuristics’ to understand cognitive biases. Heuristics have since 
+been used to explain the causes of irrational investors and why people’s 
+intuitive judgement deviates from the rule. Kahneman has discussed how 
+heuristics can be understood in terms of substitution, i.e., when faced with a 
+difficult problem, the one that individuals are not able to address directly, 
+they replace it with an easier question and answer that instead. For example: 
+Instead of addressing the question: “How much profit this stock is going to 
+make”, the investor will substitute the question: “What do I feel about this 
+stock?” Substitution helps to provide quick answers but may lead to 
+systematic and predictable errors called biases. In the above example, the 
+investor has used the affect heuristic.  
+29.6.1  Heuristics 
+Four prominent heuristics are as follows: 
+i) The anchoring and adjustment heuristic
+According to the anchoring and adjustment heuristic, people employ a
+certain starting point (“the anchor”) and make adjustments until they
+reach an acceptable value over time. Anchoring is a cognitive bias where
+investors rely on facts provided before a decision or an estimation is
+made. The facts may be completely unrelated, but research shows that
+they have a significant impact on the decision.
+Anchoring heuristic is used by people when they have to estimate a value
+with an unknown attribute. In such cases, people use some initial
+“anchor” or default number which is then adjusted up or down based on
+the information available. Approximations or final values derived by a
+person using heuristics are often biased because anchors can never be
+adjusted sufficiently. Anchoring and adjustment bias occurs when an
+investor gives undue prominence to anchors which are most of the times
+statistically irrelevant. Anchoring occurs to reduce the amount of
+cognitive load placed on our brains.
+For example: If you are asked to estimate the value of Reliance’s stock
+after 4 months. Since the problem is difficult and there is uncertainty,
+most people will apply anchoring and adjustment heuristics to find a
+quick response. They would use the present value of the stock as an
+
+
+--- Page 97 ---
+301 
+Behavioural Finance anchor and will adjust up or down based on any other information that 
+they have. This may lead to a biased answer as an investor is looking at 
+information from a twisted lens, i.e., with the present value of the stock 
+in mind. 
+Property dealers often use ‘anchors’ to start negotiations. They quote 
+higher prices for the property to set an anchor and bargain the deal to 
+give satisfaction to the customer who is influenced by the initial anchor.  
+ii) The Representativeness Heuristic
+According to Kahneman and Tversky (1972), representativeness means,
+that in situations of uncertainty, people “evaluate the probability of an
+uncertain event, or sample, by the degree to which it is: (i) similar in
+essential properties to its parent population; and (ii) reflects the salient
+features of the process by which it is generated”. Often people choose
+options or make decisions based on representative information rather
+than logical and probabilistic reasoning. This heuristic causes judgment
+errors such as neglecting base rate (people tend to ignore general
+information or base rate when specific information is also provided),
+conjunction fallacy (people assume that certain specific conditions are
+more likely than general conditions) and applying the law of small
+numbers (exaggeration of the degree to which a small sample will
+resemble the population from which they are drawn).
+In the stock markets, investors often see the past performance of firms as
+being representative of the firm’s future performance as well. Investors
+are also seen to overweight the recent information to the detriment of the
+past information. Thus, if a firm has been making huge profits for a few
+years, investors might assume that the company will continue to perform
+great in future also. Representative heuristic sometimes leads to stock
+market overreactions and underreactions challenging the efficient market
+hypothesis.
+iii) The Availability Heuristics
+In complex and uncertain situations, the brain tries to take a mental
+shortcut to ease the decision-making process. These predictable shortcuts
+are based on our past experiences and recent memories. The availability
+heuristic is one such rule of thumb or shortcut. The Availability Heuristic
+assess the probability of occurrence of the event based on the ease with
+which it comes to the mind. It is governed by the principle that “if you
+can think of it, it must be important.” Individuals believe that the things
+they can recall more easily are more common and more accurate
+representations of the real world. For instance, the ease with which you
+can recall theft in your locality will determine how will you rate the law
+and order situation in your locality. Though a recent crime may not be a
+true representation of a law-and-order situation in your locality you will
+overestimate the occurrence of such events because of the availability
+
+
+--- Page 98 ---
+302 
+Financial Stability heuristic. This may lead to a cognitive bias as a recent event may not be 
+the best representation of reality.  
+Availability heuristic is widely seen in financial markets also. Recent 
+market news or events events affect the investment decision more than 
+the fundamentals of the company. Many times, this leads to an 
+overreaction in the market which in turn might cause crashes or bubbles. 
+In the case of a significant event, investors overestimate the probability 
+of the occurrence of a similar event.  
+One example of an Availability heuristic leading to bias is the case of 
+‘hot hand’ where it is assumed that a person having a string of successes 
+will continue with the string and will be successful. This bias was first 
+noticed in the game of basketball (hence, the name ‘hot hand’) whereby 
+the players who score maximum baskets keep on getting maximum 
+passes even though they may be just average players. This bias is seen in 
+the case of unrelated events like the roll of a dice or the flipping of a 
+coin.  
+In financial markets, investors also experience the bias of ‘hot hand’ 
+when they are more likely to deal with traders who have recently 
+performed exceptionally well in the market. In reality, there is no 
+relationship between past performance and future performance.  
+iv) The Affect Heuristic
+Affect heuristic helps individuals to assign the probabilities of
+occurrence of an event based on how a person feels about it. If a person
+feels good about it, a higher probability is assigned to good
+consequences and vice versa.
+Affect heuristic lets the decisions affected by emotions and mood while
+making a decision. People tend to make more risky decisions when they
+are happy or in a positive state of mind.
+The affect heuristic is most prominent when people do not have the
+resources or time to reflect.
+It is a bias in which emotions — fear, anxiety, surprise, pleasure —
+influence and quicken a person’s decision-making process.
+The affect heuristic may lead to overconfidence bias in an investor.
+Investors may make sub-optimal decisions when emotions override logic
+or facts.
+For example: sometimes investors invest in a company’s stock because
+“they have a good feeling about it”. Good feelings may not have
+anything to do with the fundamentals of the company and thus, may lead
+to irrational decisions.
+
+
+--- Page 99 ---
+303 
+Behavioural Finance 29.6.2  Sources of Irrational Investor Behaviour 
+As discussed in the previous sections, Behavioural finance postulates that 
+investors are not completely rational, preference-consistent or unaffected by 
+emotions. Investors are boundedly rational and influenced by cognitive 
+biases, social factors and emotions. In this section, we will discuss cognitive, 
+social and emotional influences on an investor. 
+29.6.2.1  Cognitive Influences on Investor Behaviour 
+i) Over-Confidence
+Often it is seen in financial markets that people tend to attribute success
+to their ability and failures to external factors. This is called self-
+attribution bias. This makes them overconfident about their capability
+which in turn leads to poor decisions regarding stocks. Overconfidence
+also leads to excessive trading as people having too much confidence in
+themselves buy too often for which they also have to sell too often (to
+free up capital).
+Another source of overconfidence in investors is hindsight bias.
+Hindsight bias makes people believe after an event that they knew the
+outcome of the event before it happened. For example: after a stock
+market crash, many investors claim that they knew it was coming. When
+an investor believes that he has exceptional foresight or intuition, it
+makes him overconfident and more likely to take uncalculated risks.
+ii) Cognitive Dissonance
+Festinger’s theory of cognitive dissonance states that people feel internal
+tension and anxiety when they are subjected to conflicting beliefs. Every
+individual tries to reduce cognitive dissonance either by changing past
+values or feelings or by trying to justify the decision. This is also
+applicable to financial market investors who attempt to justify wrong
+investment or decision. Cognitive dissonance leads to irrational
+Behaviour of selling losers too late as they are not able to accept the fact
+that they made a wrong decision.
+This theory may apply to investors or traders in the stock market who
+attempt to rationalize contradictory behaviour. Investors sell losers too
+late as they are not willing to accept that they made a wrong decision.
+They also try to avoid feelings of regret or embarrassment of reporting a
+loss as a result of poor investment decisions.
+iii) Under-reaction and Overreaction in the Market
+Investors are often biased in perceiving any new information relative to
+their prior beliefs. Thus, if any new information or news is against their
+existing beliefs, they underweigh it and initially underreact to it. In the
+weeks following the information, they start to adjust their investments.
+
+
+--- Page 100 ---
+304 
+Financial Stability Similarly, when any new information, news or announcements are 
+similar to their existing beliefs, investors overreact to it. Both 
+underreaction and overreaction are irrational investor Behaviour and lead 
+to sub-optimal decision-making. This leads to stock market volatility. 
+iv) Disposition Effects
+The disposition effect refers to the tendency to prematurely sell assets
+that have made financial gains while holding on to assets that are losing
+money. Investors sell profitable investments to make quick profits while
+holding on to losing investments in the hope of converting them into
+gains. The disposition effect reflects irrational behaviour as investors
+lose out on possible gains due to momentum when they sell winning
+assets too quickly.
+Daniel Kahneman has explained the disposition effect through Prospect
+theory. According to the theory, investors become risk-averse after gains
+and choose to realise the gain rather than risk losing it. On the other
+hand, investors become risk-seeking after a loss and hold on to the risky
+asset.
+v) Diversification Bias
+People seek more variety when they choose multiple items for future
+consumption simultaneously than when they make choices sequentially,
+i.e., on an ‘in the moment’ basis. Diversification is non-optimal when
+people overestimate their need for diversity. When they have many
+options, they diversify even if it is in their best interest to invest in a
+single asset.
+On the other hand, sometimes investors diversify insufficiently.
+Availability heuristics and familiarity biases lead to heavy investment
+towards companies from investors’ home countries. There is no
+economic justification for the home bias but familiarity reduces the
+perception of risks.
+vi) Mental Accounting
+Mental accounting refers to a set of cognitive operations that investors
+use to keep track of their financial investments. Investors classify their
+money differently based on various subjective criteria. Investors invest in
+both safe and speculative assets and keep these investments in different
+mental accounts so that negative returns from speculative assets cannot
+affect the positive returns from safe assets. Thus, investors keep money
+that they can afford to lose for speculative purposes. Rationally, there
+should be no division between safety capital and money that an
+individual can afford to lose. This mental bias often leads people to make
+irrational decisions and financially counterproductive investment
+decisions.
+
+
+--- Page 101 ---
+305 
+Behavioural Finance 29.6.2.2  Social Influences on Investor Behaviour 
+i) Herding
+Herding in financial markets generates speculative bubbles when traders
+are tracking the decisions of others rather than the fundamental value of
+assets.
+Investors with herding instincts follow others and make similar
+investments rather than trusting their analysis. Herd instinct can lead to
+Asset bubbles, panic buying or selling and can be very detrimental to the
+market.
+Herding is the outcome of social learning when people believe that
+others are better informed and thus follow the crowd. During financial
+speculation, it is seen that investors buy at exorbitantly high prices not
+because they think that the asset is worth it but because they believe that
+others think it is.
+ii) Reputation
+Herding often emerges as a reputation concern as well. Keynes
+postulated that it is rational and follow the crowd and herd as it helps to
+maintain a good reputation. People believe that it is better to fail
+conventionally than to succeed unconventionally
+iii) Beauty contests
+Financial beauty contests were first used by Keynes to describe the
+second-guessing that characterizes financial speculation. The beauty
+contest is a newspaper competition where competitors are asked to select
+from a series of photos which according to them will be liked by the
+majority of people. It is similar to iterated reasoning used in financial
+speculation. Speculators are interested in identifying short-term
+investment plans of others and not what they think will be the best
+investment.
+Financial speculations subject asset prices to financial loops which in
+turn might lead to financial instability. Instability is magnified if
+borrowings are the source of asset funding.
+iv) Success Stories and Advice from Family
+Investors are also affected by success stories and advice from the family.
+It was found in various research studies that people tend to invest more
+when their neighbours and family members have made profits from
+investing in the stock market. Interestingly, it was also found that
+investors are not negatively influenced by the failures of people around
+them mainly because people share success stories more than failures.
+
+
+--- Page 102 ---
+306 
+Financial Stability v) Expert Influence
+Investors are also influenced by stock market experts. Analysts many
+times have incentives to tout particular shares or are influenced by other
+analysts or previously released information. This leads to herding and
+inferior returns in the market.
+29.6.2.3  Emotional Influences on Investors 
+i) Feelings of Regret
+Fear of regret deals with the emotional reaction that people experience
+after realizing that they have made a mistake or error in making a
+decision. When an investment goes bad, people act irrationally by trying
+to avoid selling it to avoid feelings of regret. Sometimes investors avoid
+the possibility of regret by following what other investors are doing.
+They feel less embarrassed about losing money in popular investments
+than in unpopular investments. The theory of Regret can be explained in
+terms of cognitive dissonance which we have already discussed under
+‘Cognitive influences on investor Behaviour’.
+ii) Loss Aversion
+Investors find losses to be disproportionately painful as compared to the
+pleasure from the gains. Loss aversion makes people prefer things as
+they are. People will overvalue things that they already own leading to
+divergences between willingness to pay and willingness to accept.
+People are willing to pay less for an object that they do not yet own than
+they will accept when selling the same object that they already own. For
+example: If you own an antique art piece worth a market price of Rs.
+50,000, you will not be willing to pay Rs. 50,000 for it at this point but
+would expect a much higher price for it if you sell it.
+iii) Sunk Cost Fallacy
+The sunk cost fallacy describes an emotional tendency to invest more
+money, time, and effort into a project where we have already invested
+even if a person knows that the investment is going to fail.
+The sunk cost fallacy is closely linked to ‘loss aversion’. Investors
+become emotionally involved in a stock or project that they are not
+willing to accept the failure. Thus, they invest more money to make that
+investment work. People have difficulty in letting go of the sunk cost and
+they make additional mistakes like:
+ Aggressive Investing: People who were risk averse initially become
+more aggressive in investing after losing a certain amount of money.
+They start taking undue risks which might lead to huge losses.
+ Averaging: People invest more in the stocks where they have lost
+money as they try to average out returns in those stocks. This may
+lead to even more losses.
+
+
+--- Page 103 ---
+307 
+Behavioural Finance Check Your Progress 4 
+1) Explain various cognitive influences on an investor.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What is the sunk cost fallacy?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Consider the following statements. Name the bias/effect that an investor
+suffers from.
+a) An investor believes that others are better informed and thus follows
+them ___________________
+b) An investor attributes success to his ability and failures to external
+factors. __________________________________________
+c) An investor sells assets that have made financial gains while holding
+on to assets that are losing money.
+__________________________________________
+d) An investor finds losses to be disproportionately painful as
+compared to the pleasure from the gains. ______________________
+29.7  LET US SUM UP 
+Traditional finance has been based on the concept of “efficient markets” 
+which states that the price of an asset or security is ‘right’ as it reflects its 
+fundamental value. Financial theory was governed by the idea that investors 
+are rational. 
+However, over time, it was felt that the traditional theory was not able to 
+explain market volatility and unpredictability in the market, market crashes, 
+irrational investor Behaviour, stock market bubbles etc. These were explained 
+by an alternative approach termed ‘Behavioural Finance’ which focuses on 
+cognitive, sociological and psychological influences on the decision-making 
+of investors and financial markets. More than contrasting, behavioural 
+finance provides an alternative approach to traditional finance to have a better 
+understanding of the market and investors. Behavioural finance draws from 
+real life that investors are sometimes irrational, and biased and are influenced 
+
+
+--- Page 104 ---
+308 
+Financial Stability by various social and psychological factors. It evolved mainly in the 1980s 
+when Behavioural finance evolved with an attempt to explain stock market 
+bubbles and other market anomalies. 
+In this unit, we also discussed about efficient markets hypothesis and its 
+anomalies. According to EMH, markets are rational and prices of stocks fully 
+reflect all available information and since the information is readily available, 
+the price of securities quickly adjusts to the change. There are fundamental, 
+technical and Calendar or season and all anomalies. These anomalies reflect 
+occurrences that deviate from the predictions of the efficient markets 
+hypothesis and undermine its core assumptions. Behavioural Finance also 
+explains various market puzzles. The equity premium puzzle refers to the 
+empirical fact that stocks have greatly outperformed bonds over the last 
+century. Stocks have earned disproportionately higher returns than bonds, 
+however, people still buy bonds. Behavioural finance explains this puzzle 
+through the concepts of myopic loss aversion and Ambiguity aversion. The 
+volatility puzzle reflects the high variability of stock prices having large 
+dispersions. Behavioural finance attempts to solve this puzzle through 
+various cognitive, social and emotional biases that investors have. This 
+puzzle states that stock returns are predictable from price-dividend ratios. 
+Behavioural finance is explained in terms of behavioural biases like the 
+disposition effect, momentum effect and post-earning announcement drift. 
+This unit also discussed about four prominent heuristics that people follow 
+while making decisions. Heuristics or ‘rules of thumb’ are imperfect but 
+functional shortcuts that help investors simplify complex situations and make 
+quick decisions. These heuristics are The anchoring and adjustment heuristic 
+(people employ a certain starting point (“the anchor”) and make adjustments 
+until they reach an acceptable value over time), the Representativeness 
+heuristic (In situations of uncertainty, people evaluate the probability of an 
+uncertain event by comparing it to an existing prototype that already exists in 
+our minds), Availability Heuristics (assess the probability of occurrence of 
+the event based on the ease with which it comes to the mind), Affect 
+Heuristic (helps an individual to assign probabilities of occurrence of an 
+event based on how a person feel about it).  
+We also discussed cognitive influences (Over-Confidence, Cognitive 
+Dissonance, Under-reaction and Over-reaction, Disposition effects, 
+Diversification bias, Mental Accounting), social influences (Herding, 
+Reputation, Beauty contests, Success stories and advice from family, expert 
+influence), and emotional influences (Feelings of Regret, Loss aversion, Sunk 
+cost fallacy) on an investor. 
+29.8  KEY WORDS 
+Affect Heuristic  : Affect heuristic helps individuals to make decisions 
+based on how a person feels about it. 
+Ambiguity aversion: Ambiguity aversion is a preference for known over 
+unknown risks by an individual. 

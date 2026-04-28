@@ -1,0 +1,361 @@
+--- Page 76 ---
+280 
+Financial Stability 
+0  Investment, Saving 
+ Real Interest rate         
+𝐈 (𝐫) 
+ S 
+Trade surplus 
+Trade deficit 
+E 
+ A  B 
+ C  D 
+r* 
+r*=r 
+r* 
+constant and C is a function of disposal income which is also determined 
+by Y and therefore, the S becomes constant which is denoted by 𝐒ത.  
+Hence,  
+Sത − I (r∗) = NX 
+The last equation clearly shows that net exports or trade balance depends 
+upon the world interest rate r* and Sത.  
+ 
+Fig. 28.3: Relationship between Real Interest Rate, Saving and Investment  
+Fig. 28.3 shows that with constant saving line and downward-sloping 
+investment function determine the interest rate r if the economy is closed 
+and it is in equilibrium at E. But when the economy is open and the 
+world interest rate r* > r, then there is a trade surplus equal to AB and 
+when r* < r, there is a trade deficit equal to CD. When r* = r, then there 
+is zero trade balance. Thus, in the case of a small open economy, the 
+world interest rate determines the trade balance. Now, we see the 
+relationship between the real exchange rate and the net export  
+We know that 
+ Real Exchange Rate 
+ = Nominal Exchange Rate × Price level in the domestic country
+ price level in the foreign country
+Let 
+ α = Real exchange rate  
+ e = Nominal exchange rate 
+And 
+ θ =  Price level in the domestic country
+ Price level in the foreign country
+
+
+--- Page 77 ---
+281 
+Foreign Exchange 
+Stability and 
+Related Issues 
+NX = 𝑓(𝜃) 
+Real 
+Exchange 
+Rate 
+0  Net Exports 
+Therefore, 
+ α = e ×  θ  
+Now, for a given value of e, α will rise if θ rises or vice versa. Therefore, 
+when the real exchange rate increases, then it means foreign goods have 
+become relatively inexpensive and it will be beneficial to buy goods 
+from abroad. As a result, imports from the home country will increase. 
+At the same time, foreigners will not buy from the domestic country due 
+to low relatively expensive goods as compared to their own country. As a 
+result, the exports of the home country will decrease. In this way, the real 
+exchange rate causes imports to increase and exports to fall. Overall, net 
+exports fall. Hence, there is a negative relationship between the net 
+exports and the real exchange rate. Mathematically, it can be said that net 
+export is a negative function of the real exchange rate. Symbolically,  
+NX = f(θ) 
+Graphically, 
+Fig. 28.4: Relationship between Real Interest Rate and Net Exports  
+Thus, the relative worth of currencies is shaped by the demand for them, 
+which, in turn, is heavily influenced by trade dynamics. When a country 
+consistently exports more than it imports, resulting in a trade surplus, 
+there is a strong demand for its products and, consequently, its currency. 
+According to the basic principles of supply and demand, high demand 
+leads to higher prices and an increase in the value of the currency, which 
+appreciates. 
+Conversely, when a country imports more than it exports, creating a 
+trade deficit, the demand for its currency is relatively weaker. As a result, 
+currency prices tend to decrease. In the context of currency, this means 
+the currency depreciates or loses value. 
+6) Inflation and Interest Rates
+Inflation and interest rates are closely intertwined, and their relationship
+can significantly affect exchange rates. Countries strive to strike a
+
+
+--- Page 78 ---
+282 
+Financial Stability delicate balance between these two factors, but managing this interplay is 
+often intricate. Lower interest rates stimulate consumer spending and 
+foster economic growth, typically exerting a positive impact on a 
+country’s currency value. However, if consumer spending surges to the 
+extent that it outpaces supply, it can lead to inflation, which isn’t 
+necessarily a negative outcome. Nonetheless, lower interest rates 
+typically do not attract foreign investment. On the other hand, higher 
+interest rates tend to lure foreign investors, which, in turn, heightens the 
+demand for a country’s currency. Finding the right equilibrium in this 
+regard can be challenging, and the effect on a country’s exchange rate 
+can be complex. In general, when inflation is high, it tends to weaken a 
+currency as its purchasing power diminishes. This makes goods more 
+expensive and can discourage investors. Conversely, when inflation is 
+low, more capital flows into the country, bolstering the currency’s value 
+due to increased purchasing power and thus improving its exchange rate. 
+In this regard, you should recall the IS-LM model in a closed economy 
+and the Mundell-Fleming Model in an open economy.  
+7) Global Events
+Events like financial crises, geopolitical tensions, and economic
+downturns in major economies can significantly impact exchange rates
+and disrupt stability. 2008 saw a severe decline in global currency
+values. The global financial crisis was a global issue that affected the
+Indian economy in a ripple fashion. After the Great Depression, this was
+the most serious crisis. Covid-19 caused an enormous crisis in 2020 that
+affected the entire planet. Every country’s economy had difficulties as a
+result of the pandemic, including India. The value of the Indian rupee
+experienced fluctuation. The country did, however, recover more quickly
+than expected thanks to its fortitude and aggressive initiatives. Chortane
+and Pandey (2022) 4 conducted an event study to find the impact of the
+Russia-Ukraine war on the value of global currencies against the US
+dollar. The study shows that the conflict between Russia and Ukraine
+affected the value of all major world currencies negatively, but a region-
+by-region analysis reveals that the currencies of the Pacific region
+significantly appreciated, the currencies of the Middle East and Africa
+(ME&A) are negligible, and European currencies (especially the Russian
+rouble, Czech koruna, and Polish zloty) depreciated against the USD.
+Further, the study shows how the currencies of Poland and the Czech
+Republic have depreciated considerably compared to the US dollar as a
+result of the financial and economic restrictions placed on Russia and
+their closeness to the conflict zone. Moreover, the Pan-American,
+European (especially the Polish zloty and the Russian rouble), and
+4Chortane, S. G., & Pandey, D. K. (2022). Does the Russia-Ukraine war lead to currency 
+asymmetries? A US dollar tale. The Journal of Economic Asymmetries, 26, Article e00265. 
+https://doi.org/10.1016/j.jeca.2022.e00265 
+
+
+--- Page 79 ---
+283 
+Foreign Exchange 
+Stability and 
+Related Issues 
+Middle Eastern and African (ME&A) currencies have all benefited 
+greatly from the Russian Central Bank’s announcement to tie the rouble 
+with gold. 
+28.4 MEASURES TO MAINTAIN FOREIGN 
+EXCHANGE STABILITY 
+Here are certain ways to maintain foreign exchange stability in an economy. 
+1) Central Bank Intervention
+Central banks can use their foreign exchange reserves to buy or sell their
+currency in the foreign exchange market to influence its value. By doing
+so, they can mitigate excessive currency fluctuations and maintain
+stability. This is often done to counteract extreme currency appreciation
+or depreciation.
+2) Fixed Exchange Rate Systems
+Some countries opt for fixed or pegged exchange rate systems where the
+value of their currency is fixed or pegged to another stable currency,
+such as the U.S. dollar or the euro. Maintaining this peg requires active
+central bank intervention and foreign reserves to ensure that the
+exchange rate remains stable. However, the fixed exchange rate system
+has its limitations.
+3) Managed Float
+In a managed float system, exchange rates are allowed to fluctuate within
+a certain range, but central banks will intervene when the rate moves
+outside of that range to prevent extreme volatility.
+4) Fiscal and Monetary Policies
+Governments can use fiscal and monetary policies to influence exchange
+rates indirectly. For example, interest rate adjustments can affect the
+attractiveness of a currency to foreign investors. Tightening or loosening
+monetary policy can influence exchange rates.
+5) Economic Reforms
+Structural reforms in the economy, such as improving infrastructure,
+reducing trade barriers, and addressing fiscal deficits, can boost
+confidence in the currency and help maintain its stability.
+6) Exchange Rate Bands
+Implementing an exchange rate band system can allow for some degree
+of fluctuation while preventing extreme movements. The central bank
+intervenes when the exchange rate reaches the upper or lower bounds of
+the band.
+
+
+--- Page 80 ---
+284 
+Financial Stability 7) Transparency and Communication
+Central banks and governments should communicate their exchange rate
+policies clearly to the public and financial markets. Transparency can
+help manage expectations and reduce uncertainty.
+8) Foreign Exchange Reserves
+Accumulating and maintaining foreign exchange reserves provides a
+financial buffer that can be used to stabilize the currency during periods
+of volatility. However, building and maintaining sufficient reserves can
+be expensive.
+9) International Cooperation
+Collaboration with other countries and international organizations can
+help stabilize exchange rates. This can include currency swap
+agreements, coordinated interventions, and harmonized policies.
+You should note that the approach to maintaining foreign exchange stability 
+can vary from one country to another based on their economic conditions, 
+policy objectives, and the global economic environment. Additionally, 
+exchange rate stability is not always the primary goal; some countries may 
+prioritize other economic objectives, such as inflation control or economic 
+growth, which can affect exchange rates. 
+Check Your Progress 2 
+1) Explain the relationship between Real interest rate, Saving and
+Investment.
+……………………………………………………………………………
+……………………………………………………………………………
+………………………………………………………………………….... 
+2) Describe the relationship between real interest rate and net exports.
+……………………………………………………………………………
+……………………………………………………………………………
+………………………………………………………………………….... 
+3) State some of the latest issues of foreign exchange stability.
+……………………………………………………………………………
+……………………………………………………………………………
+………………………………………………………………………….... 
+4) What are your suggestions for maintaining foreign exchange stability?
+
+
+--- Page 81 ---
+285 
+Foreign Exchange 
+Stability and 
+Related Issues 
+……………………………………………………………………………
+……………………………………………………………………………
+………………………………………………………………………….... 
+28.5  LET US SUM UP 
+Foreign exchange stability refers to the ability of a country to maintain a 
+relatively stable and predictable exchange rate for its currency in the foreign 
+exchange market. In other words, it means that the value of a country’s 
+currency remains relatively constant over time, which can be important for 
+economic and financial stability. Foreign exchange stability is essential for a 
+country’s economic well-being and international trade. Achieving and 
+maintaining this stability involves a complex interplay of economic policies, 
+market forces, and external factors. Countries strive to strike a balance that 
+promotes growth, trade, and financial stability while avoiding excessive 
+exchange rate volatility. Here are some key points related to foreign 
+exchange stability and its related issues: 
+a) Exchange Rate Stability: Exchange rate stability implies that the value of
+a country’s currency remains steady or experiences only gradual
+fluctuations about other currencies. This stability can make it easier for
+businesses, investors, and governments to plan for the future.
+b) Economic Factors: Several economic factors can influence exchange rate
+stability, including inflation, interest rates, trade balances, and fiscal
+policies. A country with low inflation, stable interest rates, a trade
+surplus, and responsible fiscal policies is more likely to have a stable
+exchange rate.
+c) Central Bank Interventions: Central banks often play a crucial role in
+maintaining exchange rate stability. They can buy or sell their currency
+in the foreign exchange market to influence its value. For example, if a
+country’s currency is appreciating too rapidly, the central bank may
+intervene by selling its currency to increase its supply and decrease its
+value.
+d) Fixed vs. Floating Exchange Rates: Countries can adopt different
+exchange rate systems. Some use fixed or pegged exchange rates, where
+the value of their currency is tied to a specific foreign currency (e.g., the
+US dollar). Others use floating exchange rates, which are determined by
+supply and demand in the foreign exchange market. Maintaining stability
+can be more challenging for countries with fixed exchange rates.
+e) Speculation and Market Sentiment: Exchange rates are also influenced
+by speculation and market sentiment. Traders and investors make
+decisions based on their expectations of future exchange rate
+movements, which can sometimes lead to sharp and unpredictable
+fluctuations.
+
+
+--- Page 82 ---
+286 
+Financial Stability f) External Shocks: Events such as financial crises, geopolitical tensions
+including the war, or natural disasters can disrupt exchange rate stability.
+These external shocks may lead to sudden and significant currency
+depreciation or appreciation.
+g) Currency Reserves: Accumulating foreign exchange reserves can help a
+country maintain exchange rate stability. These reserves can be used to
+intervene in the foreign exchange market when necessary. However,
+building and maintaining sufficient reserves can be expensive.
+h) International Cooperation: Exchange rate stability is often a subject of
+international cooperation, especially within organizations like the
+International Monetary Fund (IMF). Countries may seek financial
+assistance or policy coordination to address exchange rate-related
+challenges.
+i) Challenges of Overvaluation and Undervaluation: An overvalued
+currency (one that is too strong) can hurt a country’s exports, while an
+undervalued currency (one that is too weak) can lead to inflation and
+discourage foreign investment. Striking the right balance is essential for
+stability.
+To maintain the foreign exchange stability, the following measures can be 
+adopted.  
+a) Central Bank Intervention: Central banks buy/sell currency to control
+value.
+b) Fixed Exchange Rate: Currency pegged to a stable currency, needs
+intervention.
+c) Managed Float: Exchange rates allowed to fluctuate within a range,
+intervened when extreme.
+d) Forward Contracts/Options: Used for hedging currency risk, and
+stabilizing rates.
+e) Fiscal/Monetary Policies: Adjusting interest rates influences currency
+attractiveness.
+f) Economic Reforms: Structural changes boost currency confidence.
+g) Exchange Rate Bands: Allow fluctuation within bounds, central bank
+intervenes at limits.
+h) Transparency/Communication: Clear policies reduce uncertainty.
+i) Foreign Exchange Reserves: Buffer for currency stabilization, costly to
+maintain.
+j) International Cooperation: Collaborative efforts for exchange rate
+stability.
+
+
+--- Page 83 ---
+287 
+Foreign Exchange 
+Stability and 
+Related Issues 
+28.6 KEY WORDS 
+Foreign exchange         : 
+stability 
+Consistency and predictability of exchange rates 
+between different currencies. 
+Direct quote  :
+ It measures how many units of domestic currency 
+can be bought by one unit of a foreign currency. 
+Indirect quote  :  It measures how many units of foreign currency 
+can be bought by one unit of domestic currency. 
+Fixed Exchange Rate   :
+ Under this regime, a country’s currency is pegged 
+to another currency or a fixed value like gold. 
+Floating Exchange  : 
+Rate 
+In this regime, the exchange rate is determined by 
+market forces, such as supply and demand. 
+Managed float        :
+ is a regime for exchange rates where the exchange 
+rate is neither fully set nor completely free. 
+28.7 SOME USEFUL BOOKS  
+Case, K. E. (2012). Principles of Macroeconomics. Prentice Hall. 
+Krugman, P. R. (2012). International Economics: Theory & Policy  (9th ed.). 
+Pearson Addison-Wesley. 
+Mankiw, N. G. (2009). Macroeconomics (7th ed.). Worth Publishers. 
+Stutz, F. P., & Warf, B. (2010). The World Economy: Geography, Business, 
+Development. Pearson Education, Limited. 
+28.8  ANSWER / HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) It affects the cost of imports and exports, the competitiveness of
+industries, and the overall economic health of a country.
+2) Receipts of exports, repayment of international loans, arbitrage purpose,
+speculation, gifts and grants from foreign countries, investments from
+foreign countries, and foreign remittances.
+3) Refer to Sub-section 28.2.2
+Check Your Progress 2 
+1) Sത − I (r∗) = NX. Refer to section 28.3 for details.
+
+
+--- Page 84 ---
+288 
+Financial Stability 2) Net export is a negative function of the real exchange rate. Symbolically,
+NX = f(θ)
+3) Managed or Dirty Floating, Exchange Rate Policy, Parallel Foreign
+Exchange Systems, Political Instability, Trade Balances, Inflation and
+Interest Rates, Global Events.
+4) Central Bank Intervention, fixed Exchange Rate Systems, managed float,
+fiscal and monetary policies, economic reforms, exchange rate bands,
+transparency and communication, foreign exchange reserves, and
+international cooperation.

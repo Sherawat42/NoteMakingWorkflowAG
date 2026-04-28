@@ -1,0 +1,430 @@
+--- Page 9 ---
+103 
+Efficient Portfolio 
+Frontier 
+Check Your Progress 2 
+1) Explain the relationship between risk and return.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What are diversifiable and non-diversifiable risks?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+18.4 VALUATION OF PORTFOLIO AND 
+EXPECTED RETURNS FROM A PORTFOLIO 
+As we have discussed earlier, a portfolio is a collection of financial assets 
+like stocks, bonds, mutual funds, exchange-traded funds (ETFs), real estate, 
+commodities, and other investment vehicles owned by an individual, 
+institution, or entity.The purpose of building a portfolio is to diversify risk 
+and potentially maximize returns by spreading investments across different 
+asset classes, industries, and geographic regions.The expected return and 
+valuation of the Portfolio act as guiding principles and significantly influence 
+investment choices and the assessment of performance.  
+18.4.1  Valuation of Portfolio 
+Portfolio valuation entails evaluating the value of an entire investment 
+portfolio at a point in time. This process includes assessing the worth of each 
+asset within the portfolio, taking into account various factors like market 
+prices, potential earnings, and intrinsic value. Precise portfolio valuation is 
+essential for evaluating performance, making well-founded investment 
+choices, and ensuring transparency with stakeholders. 
+Let a portfolio be a collection of n assets, each with share price P i 
+(i=1,2,3….n) Let there be Ni shares of each asset i. 
+Then, the total value of the portfolio will be: 
+𝑉 = 𝑁ଵ 𝑃ଵ + 𝑁ଶ 𝑃ଶ + 𝑁ଷ 𝑃ଷ + ⋯ … … 𝑁௡ 𝑃௡ = ෍ 𝑁 ௜𝑃௜
+௡
+௜ୀଵ
+ 
+A typical portfolio has V>0 with the weight of each investment as: 
+𝑤௜ = 𝑁௜𝑃௜
+𝑁ଵ 𝑃ଵ + 𝑁ଶ 𝑃ଶ + ⋯ . . 𝑁௡ 𝑃௡
+= 𝑁௜𝑃௜
+𝑉
+
+
+--- Page 10 ---
+ 
+ 
+104 
+Operational Aspects 
+of Financial Markets 
+Factors affecting portfolio valuation: 
+1) Asset Evaluation:  Determining the value of individual assets within a 
+portfolio involves the valuation of each asset class. Some of the 
+evaluation methods are discounted cash flow analysis, price-to-earnings 
+ratios, or comparative company analysis. 
+2) Market Dynamics:  Fluctuations in market conditions and liquidity 
+constraints can impact asset prices, thereby influencing portfolio 
+valuation. Regular monitoring of market trends ensures that portfolio 
+valuations accurately reflect prevailing market conditions. 
+3) Impact of Diversification:  The benefits of diversification inherent in a 
+portfolio can affect its valuation. Diversified portfolios may display 
+reduced volatility and higher valuation metrics owing to the mitigation of 
+risk. 
+18.4.2  Expected Return and Risk from a Portfolio 
+The portfolio return is a weighted average of the individual returns.  
+Consider a portfolio of n assets with weights: {w 1, w 2, w 3, w 4 ….wn}, 
+∑ 𝑤௜ = 1௡
+௜ୀଵ  
+Then, the return on the portfolio will be: 
+𝑟̃௣ = 𝑤ଵ 𝑟̃ଵ + 𝑤ଶ 𝑟̃ଶ + ⋯ … . .𝑤௡ 𝑟̃௡  
+Where wi is the weight of each asset and 𝑟̃௜ is a return from each investment 
+The expected return on the portfolio is: 
+𝑟̅௣ = 𝐸ൣ𝑟௣ ൧ = 𝑤ଵ 𝑟̅ଵ + 𝑤ଶ 𝑟̅ଶ + ⋯ 𝑤௡ 𝑟̅௡  
+Where wi is the weight of each asset and 𝑟̅௜ is the expected return from each 
+investment 
+Risk 
+The variance and standard deviation are used as a measure of risk. According 
+to modern portfolio theory, unlike the expected return, the variance of a 
+portfolio is not a simple weighted average of the individual variances. Rather, 
+it is affected by the correlation coefficient of securities also.  
+The general form of the relationship for an n security portfolio is: 
+𝜎௣
+ଶ = ෍ ෍ 𝑥௜𝑥௝𝜌௜௝𝜎௜𝜎௝
+௡
+௝ୀଵ
+௡
+௜ୀଵ
+ 
+Where 𝜎௣
+ଶ = portfolio variance 
+xi= proportion of total investment in asset i 
+
+
+--- Page 11 ---
+105 
+Efficient Portfolio 
+Frontier 
+xj= proportion of total investment in asset j 
+ρij= correlation in the returns of securities i and j 
+σi= security standard deviation 
+Let us understand it with the help of a two-security case: 
+𝜎௣
+ଶ = 𝑥஺
+ଶ 𝜎஺
+ଶ + 𝑥஻
+ଶ 𝜎஻
+ଶ + 2𝑥஺ 𝑥஻ 𝜌஺஻ 𝜎஺ 𝜎஻  
+All else being equal, risk is something people want to avoid. One measure of 
+risk is portfolio variance. It represents total risk. Intuitively, most investors 
+want portfolio variance to be as low as possible without having to give up 
+any return. In the above equation, the total risk ( 𝜎௣
+ଶ ) has three components: 
+one from the variance of stock A, another from the variance of stock B, and a 
+third from the relationship between returns of Stock A and Stock B i.e., 
+interactive risk. 
+As the number of securities in the portfolio increases, the number of terms on 
+the right-hand side of the equation increases as well. With four securities, 
+there will be four variance components and eight interaction components 
+from the covariance matrix.  
+The portfolio manager does not have any control over individual securities 
+but has control over the selection of portfolios. They can try to choose 
+securities which have the least correlation between them so that interaction 
+terms can be reduced and total risk be minimised. 
+18.5  MARKOWITZ PORTFOLIO THEORY 
+Traditionally, portfolio theory focused on analyzing individual securities 
+while considering the balance between risk and return. This theory operated 
+on the assumption that securities should be selected based on minimizing 
+risk, measured by their standard deviation from the mean of expected returns. 
+According to this approach, there’s a direct relationship between the 
+variability of returns and risk: the higher the variability, the higher the risk, 
+and vice versa. Therefore, investors typically opt for assets with the lowest 
+variability of returns. To determine the return on an individual security, 
+factors such as the company’s dividend payments, price-earnings ratio, the 
+duration of holding, and the market value of shares are considered. 
+Modern Portfolio Theory (MPT), a hypothesis put forth by Harry Markowitz 
+in his paper “Portfolio Selection,” (published in 1952 by the Journal of 
+Finance) opened the door to modern portfolio theory.  It is an investment 
+theory based on the idea that risk-averse investors can construct portfolios to 
+optimize or maximize expected return based on a given level of market risk, 
+emphasizing that risk is an inherent part of higher reward. The modern 
+portfolio theory emphasises the need for maximization of returns through a 
+combination of securities whose total variability is lower. It is not necessary 
+that the success could be achieved by trying to get all securities of minimum 
+
+
+--- Page 12 ---
+106 
+Operational Aspects 
+of Financial Markets 
+risk. This was the first major publication indicating the importance of 
+security return correlation in the construction of a stock portfolio. Markowitz 
+showed that for a given level of expected return and a given security 
+universe. (The entire collection of alternatives from which specific 
+investment choices are made), finding the specific portfolio that dominates 
+the others requires knowledge of the covariance or correlation matrix 
+between all possible security combinations. 
+After the publication of this paper, numerous investment firms and portfolio 
+managers began to program Markowitz algorithms, which prescribed 
+portfolio proportions to minimize portfolio variants. Even today, the term 
+Markowitz Diversification refers to portfolio construction accomplished 
+using security covariances. 
+18.5.1  Assumptions of the Markowitz Model 
+1) Investors are rational.
+2) The supply and demand equilibrium is instantly achieved.
+3) There are no arbitrage opportunities.
+4) Price moves are efficient
+5) Access to information is available to all participants.
+6) The market is liquid.
+7) There is no transaction cost.
+8) There are no taxes.
+9) Everyone has the same opportunity of borrowing and lending.
+The model is also known as the mean-variance model because it is based on 
+the expected returns and the standard deviation of different portfolios. It 
+helps to make the most efficient selection by analysing various portfolios of 
+the given assets. It shows investors how to reduce the risk in case they have 
+chosen assets, not moving together. 
+Under the assumptions, a single asset or portfolio of assets is considered to be 
+efficient. If no other asset or portfolio of assets offers higher expected returns 
+with the same or lower risk or lower risk with the same or higher expected 
+Return. 
+18.5.2  Opportunities set/ Feasible set of Portfolios 
+With a limited number of securities, an investor can create numerous 
+portfolios by combining these securities in various proportions. These 
+combinations form what’s called the portfolio opportunities set, representing 
+the feasible options for investment. Each portfolio in this set is defined by its 
+
+
+--- Page 13 ---
+107 
+Efficient Portfolio 
+Frontier 
+expected return and a measure of risk, typically variance or standard 
+deviation of returns. 
+Not every portfolio in the opportunities set is appealing to an investor. Some 
+portfolios are superior to others. A portfolio dominates another if it either 
+offers a lower standard deviation with the same expected return, or a higher 
+expected return with the same standard deviation. Inefficient portfolios, 
+which are dominated by others, are not of interest to investors. They focus 
+instead on efficient portfolios, which offer the best risk-return trade-off. 
+18.5.3  Efficient Portfolio Frontier 
+Harry Markowitz initially conceptualized portfolio theory by defining the 
+objective as identifying a collection of efficient portfolios. An efficient 
+portfolio is one where no higher expected return can be attained without 
+accepting a higher level of risk. Conversely, it’s a portfolio where no greater 
+certainty of returns can be obtained without sacrificing expected returns. 
+Once this efficient set of portfolios is determined at the asset class level, the 
+investment manager selects an allocation along that frontier that aligns most 
+closely with the investor’s desired risk-return profile for the fund.This 
+collection of efficient portfolios is commonly referred to as the efficient 
+frontier. Figure 18.1 illustrates a typical representation of such efficient 
+portfolios. 
+Fig. 18.1: Efficient Portfolio Frontier 
+This chart depicts the relationship between the expected return and the level 
+of risk associated with a portfolio, or conversely, the risk of a portfolio about 
+its expected return. The curved line shown in Figure 18.1 represents the 
+efficient frontier, outlining the boundary of all possible portfolios formed by 
+various combinations of selected asset classes. Portfolios lying inside this 
+frontier are deemed inefficient because they offer less return for a given level 
+of risk. Conversely, portfolios lying outside the line are more desirable, but 
+they are not feasible to achieve. 
+Portfolio A represents the portfolio with the minimum risk, providing the 
+least amount of risk among all possible combinations of asset classes. On the 
+other hand, Portfolio C represents the portfolio with the maximum return and 
+Expected 
+Portfolio 
+return 
+Portfolio risk 
+Unobtainable 
+portfolio 
+Inefficient 
+Portfolio 
+A 
+C 
+B 
+
+
+--- Page 14 ---
+108 
+Operational Aspects 
+of Financial Markets 
+the maximum risk. Although Portfolio C entails a 100% investment in the 
+asset class offering the highest return, Portfolio A typically won’t consist 
+solely of the least risky asset class. This is because diversification across 
+asset classes with varying risks helps mitigate overall risk. For portfolios 
+seeking a balance between return and risk, options such as Portfolio B, 
+positioned away from the endpoints, are usually preferred. 
+18.5.4  Criticisms of Markowitz’s Portfolio Theory 
+While Markowitz’s portfolio theory provides a valuable framework for 
+portfolio construction, it is not without its limitations and criticisms. Some of 
+the criticisms are: 
+1) Unrealistic assumptions: Markowitz’s theory relies on several
+assumptions that might not hold in real-world scenarios. For instance, it
+assumes that investors are rational, risk-averse, and have access to
+unlimited borrowing and lending at a risk-free rate. However, in reality,
+investors may not always behave rationally, and their risk preferences
+can vary.
+2) Complexity and Practicality : Implementing Markowitz’s theory can be
+challenging due to its complexity. It involves intricate calculations and
+assumptions about correlations and expected returns, which may not
+always be accurate or practical to estimate.
+3) Sensitivity to Input Data : The efficiency of portfolios generated by
+Markowitz's theory is highly sensitive to input data such as expected
+returns and covariance matrices. Small changes in these inputs can lead
+to significantly different portfolio allocations, making the results
+unstable and difficult to rely on.
+4) Neglect of Transaction Costs and Taxes : Markowitz’s theory assumes
+there are no transaction costs and taxes associated with portfolio
+rebalancing. In real-world investing, these costs can significantly impact
+returns and portfolio performance.
+5) Single-Period Analysis: The theory primarily focuses on single-period
+analysis, neglecting the dynamic nature of markets and investors'
+changing risk preferences over time. This limitation can lead to
+suboptimal portfolio decisions in dynamic market conditions.
+6) Ignorance of Behavioural Finance Insights : Markowitz’s theory
+largely ignores insights from behavioural finance, which studies how
+psychological biases influence investor behaviour. Behavioural factors
+such as herd mentality, overconfidence, and loss aversion can
+significantly affect portfolio decisions but are not adequately accounted
+for in traditional portfolio optimization frameworks.
+7) Inability to Capture Tail Risks:  Traditional portfolio optimization
+techniques, including Markowitz’s theory, often fail to adequately
+
+
+--- Page 15 ---
+109 
+Efficient Portfolio 
+Frontier 
+capture extreme events or tail risks, leading to underestimation of 
+potential portfolio losses during market downturns. 
+Check Your Progress 3 
+1) What are the key points of Markowitz’s portfolio theory?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What is an Efficient Portfolio Frontier?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Discuss some of the limitations of Markowitz’s portfolio theory.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+18.6 LET US SUM UP 
+This Unit explained the intricacies of portfolio management, beginning with 
+the fundamental concept of diversification. Diversification involves 
+spreading investments across various assets and asset classes to mitigate risk 
+and optimize returns, offering a well-balanced approach to wealth 
+management. 
+Portfolio management is the central focus of this Unit. It means overseeing 
+and optimizing investment collections, including activities such as asset 
+allocation, risk assessment, and performance monitoring. The primary 
+objective is to align portfolios with investors’ financial goals, risk tolerance, 
+and timeframes, achieved through thorough analysis and proactive decision-
+making. The stages of portfolio management include understanding investor 
+preferences, formulating investment policies, selecting assets, tracking 
+performance, and making necessary adjustments. This dynamic process 
+necessitates constant attention and adaptation to changing market conditions. 
+The Unit also explored the relationship between risk and return, essential for 
+investment decision-making. Investors seek to strike a balance between risk 
+and return, with strategies ranging from active management for potentially 
+higher returns to passive management for market-based returns and reduced 
+risk exposure. Risks inherent in investments include diversifiable and 
+systematic risks, each requiring distinct risk management strategies. 
+Diversification plays a crucial role in mitigating diversifiable risks, while 
+
+
+--- Page 16 ---
+ 
+ 
+110 
+Operational Aspects 
+of Financial Markets 
+systematic risks impact the overall market and require broader risk 
+management approaches. Furthermore, the Unit explained portfolio valuation 
+and expected returns, crucial aspects influencing investment decisions. 
+Portfolio valuation involves assessing the value of individual assets within a 
+portfolio, while expected returns forecast potential profits or losses, guiding 
+portfolio selection. In this Unit, we also explored Markowitz’s Portfolio 
+Theory, a seminal contribution to portfolio management. This theory 
+emphasizes optimizing returns while managing risk through efficient 
+portfolio construction. Despite its merits, Markowitz’s theory faces 
+criticisms, including unrealistic assumptions and challenges in 
+implementation. 
+18.7  KEY WORDS 
+Diversification           : The practice of spreading investments across 
+various assets and asset classes to mitigate risk 
+and optimize returns. 
+Markowitz Portfolio  : 
+theory 
+An investment theory based on the idea that risk-
+averse investors can construct portfolios to 
+optimize or maximize expected return based on a 
+given level of market risk, emphasizing that risk is 
+an inherent part of higher reward 
+Efficient Portfolio      : 
+Frontier 
+A set of investment portfolios that are expected to 
+provide the highest returns at a given level of risk. 
+Portfolio                     : A collection of investments owned by an 
+individual or entity, which can include various 
+types of assets like stocks, bonds, mutual funds, 
+and real estate. 
+Portfolio                     : 
+management 
+The practice of overseeing and optimizing 
+portfolios. It involves carefully deciding how to 
+allocate resources, balancing risk and returns, and 
+adapting to changes in the market. 
+Diversifiable risk       : It refers to firm-specific risks that affect individual 
+stock prices rather than the entire industry or 
+sector. 
+Non-Diversifiable      : 
+Risk 
+The risks that affect the overall market or a 
+specific sector. It is influenced by factors that 
+impact the entire economy. 
+Expected Returns      : The anticipated profit or loss an investor can 
+reasonably foresee from an investment within a 
+specific timeframe 
+
+
+--- Page 17 ---
+111 
+Efficient Portfolio 
+Frontier 18.8  SOME USEFUL BOOKS 
+ Strong, R. A. (2006). Portfolio construction, management and protection.
+Thomson/South-Western.
+ Mishkin, F. S., & Eakins, S. G. (2006). Financial markets and
+institutions. Pearson Education India.
+ Counsel, I. (2008). Portfolio Management: Theory & Practice.
+ Dicksler, James L. and Samuelson, Paul A., Investment Portfolio
+Decision-Making, London, Lexington Books, 1974.
+18.9 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) A portfolio is essentially a collection of investments owned by an
+individual or entity, which can include various types of assets like stocks,
+bonds, mutual funds, and real estate. Stages: Understanding the goals,
+Creating and executing strategies, choosing asset classes and specific
+securities, assessing and tracking the portfolio’s performance and
+analyzing the portfolio’s outcomes
+2) Consistent Risk Measurement, guidance for Strategic Planning, increased
+Transparency in Decision Making, understanding value creation,
+identifying improvement areas.
+Check Your Progress 2 
+1) Refer to Sub-sections 18.3.2 and 18.3.3
+2) Diversifiable risk, also known as unsystematic risk (unique risks), refers
+to firm-specific risks that affect individual stock prices rather than the
+entire industry or sector. Systematic risks, or non-diversifiable risks, are
+the risks that affect the overall market or a specific sector.
+Check Your Progress 3 
+1) Risk-averse investors can construct portfolios to optimize or maximize
+expected return based on a given level of market risk. There is a direct
+relationship between the variability of returns and risk: the higher the
+variability, the higher the risk. Return can be maximised through a
+combination of securities whose total variability is lower.
+2) An efficient portfolio is one where no higher expected return can be
+attained without accepting a higher level of risk. Conversely, it’s a
+
+
+--- Page 18 ---
+112 
+Operational Aspects 
+of Financial Markets 
+portfolio where no greater certainty of returns can be obtained without 
+sacrificing expected returns.   
+3) Unrealistic assumptions, Complexity and Practicality, Sensitivity to input
+data, neglect of transaction costs and taxes, single-period analysis,
+ignorance of Behavioural Finance insights, inability to capture tail risks.

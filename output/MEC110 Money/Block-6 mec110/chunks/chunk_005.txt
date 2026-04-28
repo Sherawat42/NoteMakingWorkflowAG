@@ -1,0 +1,448 @@
+--- Page 37 ---
+131 
+Arbitrage 
+Pricing Theory UNIT 20   ARBITRAGE PRICING THEORY 
+Structure 
+20.0  Objectives 
+20.1  Introduction 
+20.2  Ross’s Critique of the Capital Asset Pricing Model (CAPM) 
+20.2.1  Drawbacks of CAPM 
+20.2.2  Simplifying Assumptions of CAPM 
+20.3 Introduction to Arbitrage Pricing Theory (APT) 
+20.3.1  Assumptions of Arbitrage Pricing Theory (APT) 
+20.3.2  Theoretical Foundations of APT 
+20.3.3  Key Differences between APT and CAPM 
+20.4 Empirical Studies on APT 
+20.5 Criticism of the APT 
+20.5.1  Critical Evaluation of APT's Assumptions 
+20.5.2  Comparison of APT with Other Asset Pricing Models 
+20.5.3  Identifying Areas of Improvement for APT 
+20.6  Let Us Sum Up 
+20.7  Key Words 
+20.8  Some Useful Books 
+20.9 Answers/ Hints to Check Your Progress Exercises 
+20.0  OBJECTIVES 
+After going through this unit, you will be able to: 
+ explain the limitations of the CAPM Model;
+ describe Ross’s critique and extension of the CAPM model;
+ describe assumptions of the APT; and
+ discuss it’s empirical study extensions.
+20.1  INTRODUCTION 
+In the intricate realm of financial markets, theories and models serve as 
+essential tools for unravelling the complexities of asset pricing. This Unit 
+embarks on a journey to explore, critique, and extend key asset pricing 
+models, focusing primarily on the Capital Asset Pricing Model (CAPM) and 
+the Arbitrage Pricing Theory (APT).    
+
+
+--- Page 38 ---
+132 
+Operational Aspects 
+of Financial Markets 
+As we know from Unit 19, the CAPM, born in the 1960s through the 
+collaborative efforts of William Sharpe, John Lintner, and Jan Mossin, laid a 
+foundational understanding of expected returns about systematic risk. 
+However, as financial markets evolved, critiques arose, with Stephen A. Ross 
+leading the charge. Ross’s critique of the CAPM centred on its reliance on a 
+single market factor to explain asset prices. In his influential work, “The 
+Arbitrage Theory of Capital Asset Pricing,” Ross proposed an alternative 
+approach, suggesting that multiple risk factors impact asset prices. This 
+critique prompted a paradigm shift, urging scholars to move beyond the 
+simplicity of the CAPM towards more nuanced models that could better 
+capture the intricacies of financial markets. We have already discussed about 
+CAPM model in the previous unit, let us discuss its criticism and the APT 
+model as an alternative to the CAPM model. 
+20.2  ROSS’S CRITIQUE OF THE CAPITAL ASSET 
+PRICING MODEL (CAPM) 
+Stephen A. Ross, who developed the Arbitrage Pricing Theory (APT), 
+pointed out several drawbacks and simplifying assumptions of the Capital 
+Asset Pricing Model (CAPM). Let us briefly discuss the drawbacks and 
+simplifying assumptions of CAPM model once again. 
+20.2.1  Drawbacks of CAPM 
+1) Single-Factor Model: CAPM is a single-factor model that relies heavily
+on the market risk factor (beta). It assumes that all systematic risk can be
+captured by a single factor, which might oversimplify the real-world
+complexities of asset pricing.
+2) Homogeneous Expectations:  CAPM assumes that all investors share
+the same expectations about future returns, standard deviations, and
+correlations. This assumption overlooks the diversity of investor beliefs
+and expectations in the market.
+3) Static Risk:  CAPM assumes that the risk associated with an asset is
+constant over time. In reality, the risk profile of an asset may change due
+to various factors such as economic conditions, technological
+advancements, or changes in market sentiment.
+4) Risk-Free Rate Assumption: The model relies on a risk-free rate as a
+baseline. However, the actual risk-free rate might not be constant, and
+using government bond yields as a proxy for the risk-free rate assumes
+that there is no default risk, which may not always hold.
+20.2.2  Simplifying Assumptions of CAPM 
+1) Perfect Markets:  CAPM assumes the existence of perfect and
+frictionless financial markets. This implies that there are no transaction
+costs, no taxes, and no restrictions on short selling. In reality, markets are
+not always perfect, and these assumptions might not hold.
+
+
+--- Page 39 ---
+133 
+Arbitrage 
+Pricing Theory 
+2) Homogeneous Assets: CAPM assumes that all assets are homogeneous
+and can be completely described by their expected return and beta. In
+reality, assets may have unique characteristics that are not captured by
+these simplified parameters.
+3) Normal Distribution of Returns:  The model assumes that asset returns
+are normally distributed. However, in practice, financial markets often
+exhibit non-normalities, such as fat tails and volatility clustering, which
+are not accounted for in the CAPM.
+4) Constant Correlations:  CAPM assumes constant correlations between
+assets. In reality, correlations can change over time, especially during
+periods of financial distress or market turbulence.
+5) Investor Rationality:  CAPM assumes that investors are rational and
+make decisions solely based on expected returns and risks. Behavioural
+finance research suggests that investors may not always behave
+rationally, and psychological factors can influence decision-making.
+Understanding these drawbacks and simplifying assumptions is crucial
+for recognizing the limitations of CAPM and considering alternative
+models, such as the Arbitrage Pricing Theory (APT), which seeks to
+address some of these issues by allowing for multiple factors and a more
+flexible framework.
+Check Your Progress 1 
+1) Discuss Ross’s critique of CAPM, highlighting drawbacks.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What were some simplifying assumptions of the CAPM model?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+20.3 INTRODUCTION TO ARBITRAGE PRICING 
+THEORY 
+Arbitrage Pricing Theory (APT) is an asset pricing model that was developed 
+by economist Stephen Ross in the early 1970s as an alternative to the Capital 
+Asset Pricing Model (CAPM). The APT is designed to provide a more 
+flexible framework for explaining the expected returns on assets by allowing 
+for multiple sources of systematic risk. Unlike CAPM, APT doesn’t rely on 
+the assumption of a single systematic risk factor (market risk), and it does not 
+specify the nature or number of risk factors in advance. 
+
+
+--- Page 40 ---
+ 
+ 
+134 
+Operational Aspects 
+of Financial Markets 
+Stephen Ross introduced APT in his seminal paper titled “The Arbitrage 
+Theory of Capital Asset Pricing” published in 1976. The theory was 
+developed as a response to perceived limitations and simplifying assumptions 
+of CAPM. APT acknowledges that an asset’s expected return is influenced by 
+various macroeconomic factors, and it seeks to model these influences more 
+realistically and dynamically. 
+20.3.1  Assumptions of Arbitrage Pricing Theory (APT) 
+Systematic and Unsystematic Risk in APT: 
+1) Separation of Systematic and Unsystematic Risk:  A key assumption 
+of APT is the separation of systematic and unsystematic risk. Systematic 
+risk is captured by the sensitivity of an asset’s return to various 
+macroeconomic factors (as represented by factor betas in the APT 
+model). Unsystematic risk, also known as specific or idiosyncratic risk, 
+is assumed to be diversifiable and can be eliminated through a well-
+diversified portfolio. APT assumes that investors can eliminate 
+unsystematic risk through proper portfolio construction. We have 
+discussed about portfolio construction in Unit 18. 
+Market Efficiency and Rational Expectations: 
+2) Efficient Markets: APT assumes that financial markets are efficient. In 
+an efficient market, asset prices fully reflect all available information, 
+and mispricing is quickly corrected through the actions of rational and 
+profit-seeking investors. This assumption is crucial for the functioning of 
+arbitrage opportunities, as any deviation from fair value would be 
+exploited by arbitrageurs. 
+3) Rational Expectations:  APT assumes that investors have rational 
+expectations, meaning they form their expectations about future asset 
+prices based on all available information. Rational expectations are 
+essential for the correct pricing of assets in an efficient market and for 
+the proper functioning of arbitrage. 
+Arbitrage Opportunities and Their Impact on Asset Pricing: 
+4) Absence of Arbitrage Opportunities:  A fundamental assumption in 
+APT is the absence of arbitrage opportunities. If arbitrage opportunities 
+were present, investors could make risk-free profits by exploiting 
+mispricing, leading to market adjustments and undermining the model’s 
+ability to explain asset pricing. The assumption of no arbitrage ensures 
+that asset prices accurately reflect their underlying risks. 
+Rational Behaviour of Investors in APT: 
+5) Investor Rationality:  APT assumes that investors are rational decision-
+makers. Rational behaviour implies that investors make choices that 
+maximize their expected utility, given their information and preferences. 
+
+
+--- Page 41 ---
+135 
+Arbitrage 
+Pricing Theory 
+Rationality is crucial for the proper functioning of arbitrage and for 
+ensuring that asset prices align with the expectations implied by the 
+model. 
+In summary, the assumptions of APT revolve around the separation of 
+systematic and unsystematic risk, the efficiency of financial markets, the 
+rational expectations of investors, and the absence of arbitrage opportunities. 
+These assumptions provide the foundation for the model’s ability to explain 
+asset pricing dynamics based on the influence of multiple macroeconomic 
+factors. 
+20.3.2  Theoretical Foundations of APT 
+The Arbitrage Pricing Theory (APT) provides a framework for understanding 
+the relationship between risk and expected return in financial markets. It was 
+developed by Stephen Ross in 1976 as an alternative to the Capital Asset 
+Pricing Model (CAPM). 
+The APT formula for expected asset returns is given by: 
+E(Ri)=Rf+βi1×λ1+βi2×λ2+…+βik×λk+ϵi
+Where: 
+ E(Ri) is the expected return on asset i,
+ Rf is the risk-free rate,
+ βij represents the sensitivity of asset i to factor j,
+ λj is the risk premium associated with factor j,
+ ϵi is the specific or idiosyncratic return component.
+No Arbitrage Assumption: 
+APT operates under the assumption of no arbitrage opportunities in the 
+market. This implies that investors cannot consistently earn risk-free profits 
+by exploiting price discrepancies between assets. The absence of arbitrage 
+opportunities ensures that asset prices are efficient and reflect all available 
+information. 
+Law of One Price: 
+APT relies on the law of one price, which states that assets with similar risk 
+exposures should have similar expected returns to prevent arbitrage 
+opportunities. In other words, assets that share common risk factors should be 
+priced in such a way that investors are indifferent between them. 
+Flexibility and Dynamism: 
+One of the key advantages of APT is its flexibility and dynamism in pricing 
+assets. Unlike CAPM, which relies on a single systematic risk factor (market 
+risk), APT accommodates multiple systematic risk factors. This allows for a 
+
+
+--- Page 42 ---
+136 
+Operational Aspects 
+of Financial Markets 
+more nuanced understanding of asset pricing, as different assets may be 
+influenced by different sets of risk factors. 
+Empirical Identification of Factors: 
+APT allows for the empirical identification of systematic risk factors based 
+on historical data analysis. By analysing the relationship between asset 
+returns and various macroeconomic, financial, and market variables, 
+researchers can identify the factors that drive asset prices and determine their 
+risk premiums. 
+Significance and Contribution: 
+The development of APT was a significant contribution to the field of 
+finance, as it offered an alternative perspective to the traditional CAPM 
+framework. By incorporating multiple systematic risk factors and allowing 
+for empirical testing, APT provides a more comprehensive approach to asset 
+pricing that better reflects the complexities of real-world markets. 
+In summary, APT provides a rigorous framework for understanding the 
+relationship between risk and expected return in financial markets. Its 
+reliance on the absence of arbitrage opportunities, the law of one price, and 
+the accommodation of multiple risk factors make it a valuable tool for both 
+academics and practitioners in the field of finance.  
+20.3.3  Key Differences between APT and CAPM 
+1) Number of Factors:
+– CAPM:  The Capital Asset Pricing Model (CAPM) relies on a single
+systematic risk factor, which is market risk. It assumes that all
+systematic risk can be captured by the market portfolio.
+– APT:  In contrast, the Arbitrage Pricing Theory (APT) allows for the
+consideration of multiple systematic risk factors. It recognizes that
+assets may be influenced by a variety of economic variables such as
+interest rates, inflation, GDP growth, and industry-specific factors.
+2) Factor Identification:
+– CAPM:  CAPM assumes a specific market factor, represented by the
+market portfolio. This market factor is usually proxied by a broad-
+based equity index such as the S&P 500.
+– APT:  APT does not predefine factors. Instead, it allows researchers to
+empirically identify relevant factors based on statistical analysis of
+historical data. Factors may vary depending on the market and the
+specific assets being analysed.
+3) Sensitivity Measures:
+– CAPM : In CAPM, the sensitivity of an asset to systematic risk is
+measured by beta ((β)). Beta represents the covariance between the
+
+
+--- Page 43 ---
+137 
+Arbitrage 
+Pricing Theory 
+asset’s returns and the market portfolio returns, divided by the 
+variance of the market portfolio returns. 
+– APT : APT uses factor sensitivities (βij). Each beta (βij) represents the
+ith asset’s sensitivity to a specific factor (j). These factor sensitivities
+capture how changes in each factor affect the returns of the asset.
+4) Assumption about Investor Behaviour:
+– CAPM : CAPM assumes that investors are rational and risk-averse. It
+suggests that investors seek to maximize their utility by balancing risk
+and return and will invest in portfolios that offer the highest expected
+return for a given level of risk.
+– APT : APT does not make explicit assumptions about investor
+behaviour. Instead, it focuses on the relationships between asset
+returns and macroeconomic factors. It allows for a more flexible and
+dynamic approach to asset pricing by accommodating different views
+on investor behaviour.
+In summary, while both APT and CAPM are asset pricing models that relate 
+expected returns to systematic risk, they differ in terms of the number of 
+factors considered, the method of factor identification, the sensitivity 
+measures used, and the assumptions about investor behaviour. APT’s 
+flexibility in accommodating multiple factors and empirical factor 
+identification makes it a valuable tool for asset pricing analysis in real-world 
+financial markets. 
+Check Your Progress 2 
+1) What are the key assumptions of the Arbitrage Pricing Theory (APT)
+regarding the separation of risk, market efficiency, and rational
+expectations?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Provide the APT formula for expected asset returns and explain the
+significance of the assumptions related to the absence of arbitrage
+opportunities and investor rationality.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Highlight one major difference between the Arbitrage Pricing Theory
+(APT) and the Capital Asset Pricing Model (CAPM) in terms of the
+number of systematic risk factors considered, and briefly discuss the
+implications of this difference.
+
+
+--- Page 44 ---
+138 
+Operational Aspects 
+of Financial Markets 
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+20.4  EMPIRICAL STUDIES ON APT 
+The Arbitrage Pricing Theory (APT) exhibits practical versatility in various 
+applications, particularly in asset allocation, cost of capital computation, and 
+the evaluation of managed funds. The utilization of APT in asset allocation 
+stems from its connection to the factor structure and mean-variance 
+efficiency. With k factors implying the existence of efficient frontier-
+spanning assets, constructing a mean-variance efficient portfolio becomes 
+more straightforward when k factors are the payoffs of traded securities. APT 
+simplifies the optimization problem by reducing dimensionality when k is 
+small. However, if the factor structure is incorrect, the resulting portfolio may 
+not be mean-variance efficient, necessitating adjustments based on investors’ 
+beliefs, as proposed by Pastor and Stambaugh (2000) using Bayesian 
+methods. 
+In the context of calculating the cost of capital, APT has been applied by 
+various researchers, such as Elton, Gruber, and Mei (1994) and Bower and 
+Schink (1994). However, the challenge lies in the selection of factors, with 
+different studies yielding disparate results. This lack of factor specification is 
+a significant drawback, contributing to the reluctance of entities like the U.S. 
+Federal Reserve Board to adopt APT for certain purposes. 
+APT’s application in evaluating money managers involves regressing 
+managed funds’ returns on factors and comparing intercepts with benchmark 
+securities returns. Notable studies, including those by Busse (1999) and 
+Carhart (1997), have explored this application. However, it is essential to 
+recognize the one-period nature of APT and its limitations when pricing 
+derivatives or trading strategies due to potential arbitrage issues arising from 
+the stochastic discount factor. 
+The APT’s ironic challenge is evident in the need for extensions to the basic 
+model in some applications, violating its core tenet of market arbitrage 
+absence. For instance, evaluating dynamic trading strategies may require 
+alternative models like Black-Scholes, as suggested by Glosten and 
+Jagannathan (1994), highlighting the complexity and limitations in the 
+practical application of APT. 
+Identification of Challenges and Criticisms from Empirical Studies: 
+1) Data Limitations:  Some empirical studies face challenges related to
+data limitations. Identifying and collecting accurate historical data for
+various macroeconomic factors and asset returns can be complex, and the
+quality of results may depend on the availability and reliability of the
+data.
+
+
+--- Page 45 ---
+139 
+Arbitrage 
+Pricing Theory 
+2) Model Misspecification:  Critics argue that APT, like any model, is
+subject to misspecification. If the chosen factors do not adequately
+capture the relevant sources of systematic risk, the model may provide
+inaccurate predictions. Empirical studies have explored the sensitivity of
+APT to the selection of factors.
+3) Time-Varying Betas:  Empirical evidence suggests that factor
+sensitivities (betas) may not be constant over time, challenging the
+assumption of a static risk profile in APT. Researchers have explored the
+implications of time-varying betas on the model's performance.
+4) Factor Redundancy:  Some studies have found that identified factors
+may be correlated or redundant, raising questions about the
+independence of factors assumed by APT. Redundancy in factors could
+affect the reliability of the model’s predictions.
+5) Market Efficiency Concerns:  Empirical studies testing APT often
+assume market efficiency, but real-world markets may deviate from
+perfect efficiency. If markets are not fully efficient, it could impact the
+ability of arbitrage to correct mispricing and, consequently, the validity
+of APT predictions.
+In summary, empirical studies on APT have provided valuable insights into 
+the model’s performance in explaining asset pricing. While some findings 
+support the theory, challenges and criticisms related to data limitations, 
+model misspecification, time-varying betas, factor redundancy, and market 
+efficiency concerns have been identified. Researchers continue to refine and 
+extend empirical testing to enhance our understanding of APT’s strengths and 
+limitations in capturing the complexities of asset pricing. 
+20.5  CRITICISMS OF APT 
+20.5.1  Critical Evaluation of APT’s Assumptions 
+1) Arbitrage Opportunities:  Critics argue that the assumption of no
+arbitrage opportunities might be too restrictive. In real markets, various
+frictions, transaction costs, and constraints may limit the ability of
+arbitrageurs to correct mispricing quickly and efficiently.
+2) Market Efficiency:  APT relies on the assumption of efficient markets,
+where prices fully reflect all available information. In practice, markets
+may not always be perfectly efficient, leading to concerns about the
+model’s applicability in less-than-perfectly-efficient environments.
+3) Factor Independence:  APT assumes that factors influencing asset
+returns are independent. Critics question the independence of these
+factors, suggesting that correlations or dependencies may exist,
+challenging the model’s assumption of uncorrelated risk factors.
+4) Static Betas: While APT allows for multiple factors, it often assumes
+that factor sensitivities (betas) are constant over time. Critics argue that
+
+
+--- Page 46 ---
+140 
+Operational Aspects 
+of Financial Markets 
+betas can be dynamic, changing with economic conditions and market 
+dynamics and that the static nature of betas may limit the model’s 
+accuracy. 
+5) Investor Rationality:  APT assumes rational expectations, but
+behavioural finance research suggests that investors may not always
+behave rationally. Behavioural biases and sentiment-driven behaviour
+may influence asset pricing, challenging the assumption of investor
+rationality.
+20.5.2  Comparison of APT with Other Asset Pricing Models 
+1) Comparison with CAPM:  APT has been compared with the Capital
+Asset Pricing Model (CAPM). Critics argue that while APT addresses
+some of the limitations of CAPM, it introduces its own set of
+assumptions and challenges. The choice between APT and CAPM often
+depends on the specific characteristics of the data and the underlying
+assumptions deemed most appropriate.
+2) Challenges Compared to the Fama-French Model:  The Fama-French
+Three-Factor Model, an extension of APT, includes market risk, size
+(SMB), and value (HML) factors. Some critics argue that the Fama-
+French model may offer better explanatory power than APT, especially
+in capturing size and value effects observed in empirical studies.
+20.5.3  Identifying Areas of Improvement for APT 
+1) Dynamic Factor Sensitivities:  Critics suggest that allowing for time-
+varying factor sensitivities in APT could enhance the model’s ability to
+capture changing risk profiles over different market conditions.
+2) Incorporating Behavioural Aspects:  Integrating behavioural finance
+concepts into APT could address the limitations associated with the
+assumption of investor rationality. Considering psychological factors and
+market sentiment may provide a more realistic depiction of asset pricing
+dynamics.
+3) Enhancing Factor Identification:  Improving methods for identifying
+relevant factors is crucial. Empirical studies and model testing should
+focus on refining the process of selecting macroeconomic variables that
+genuinely drive asset returns, avoiding redundancy and ensuring
+independence.
+4) Accounting for Nonlinear Relationships: APT typically assumes linear
+relationships between factors and asset returns. Acknowledging the
+possibility of nonlinear relationships may lead to a more accurate
+representation of the complexities in pricing dynamics.
+In conclusion, while APT has been a valuable tool in asset pricing, it is not 
+without criticisms. Addressing issues related to assumptions, considering 
+alternatives, and exploring areas of improvement could contribute to the 

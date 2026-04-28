@@ -1,0 +1,490 @@
+--- Page 1 ---
+205 
+Macroeconomics, 
+Finance, and 
+Business Cycles 
+Block 7 
+Financial Stability 
+Unit 24 Macroeconomics, Finance, and Business Cycles 
+Unit 25 Efficient Markets Hypothesis 
+Unit 26 Financial Stability and Related Issues 
+Unit 27 Non-performing Assets 
+Unit 28 Foreign Exchange Stability and Related Issues 
+Unit 29 Behavioural Finance 
+
+
+--- Page 2 ---
+206 
+Financial Stability UNIT 24 MACROECONOMICS, FINANCE 
+AND BUSINESS CYCLES 
+Structure 
+24.0  Objectives 
+24.1  Introduction 
+24.2  Macroeconomics and Business Cycles 
+24.2.1 Case Study: The Great Depression (1929-1941) 
+24.3  Finance and Economy 
+24.3.1 Financial System 
+24.3.2 Asymmetric Information, Adverse Selection, Moral Hazard 
+24.3.3 Case Study: Satyam Computers  
+24.4  Financial Crisis 
+24.4.1 Case Study: The Great Recession (2007-2009) 
+24.5 Financial Crises and Economic Crises 
+24.6 Policy Responses to a Crisis 
+24.7 Let Us Sum Up 
+24.8 Key Words 
+24.9 Some Useful References 
+24.10 Answers / Hints to Check Your Progress Exercises 
+24.0 OBJECTIVES 
+After reading this Unit, you should be able to: 
+ identify macroeconomic issues in an economy;
+ identify the examples of business cycles;
+ explain the functioning of the financial system;
+ identify asymmetric information and its effects;
+ define financial crisis; and
+ explain the linkages between the financial crisis and working of the
+economy.
+24.1 INTRODUCTION 
+As discussed in previous blocks, the financial system plays an important role 
+in the economy and has always been an interesting subject for economists 
+and policymakers. In the present-day world, the financial sector of a country 
+
+
+--- Page 3 ---
+207 
+Macroeconomics, 
+Finance, and 
+Business Cycles 
+is very important not only for advancement or growth but also for the 
+stability of the economy. We have discussed in Unit 1 that the financial 
+system includes three key elements: (i) financial institutions, (ii) financial 
+markets, and (iii) financial instruments. The major function of the financial 
+system in an economy is to work as an intermediary between lenders (or, 
+savers) and borrowers (or, investors). Governments, corporations/business 
+firms and individuals borrow from the financial markets to fulfil their 
+objectives and invest their savings in financial instruments to grow their 
+wealth. These decisions, in turn, affect macroeconomic variables like 
+aggregate demand, output, employment, and prices. Macroeconomic 
+variables affect financial conditions in a country and the developments in the 
+financial sector are important for capital formation which is a prerequisite for 
+the growth and development of the economy. However, we have also seen 
+that at times, the developments in the financial sector leads to 
+macroeconomic instability. The memory of the financial crisis of 2007-08 in 
+the USA which spread across the globe within a short span of time, which is 
+also known as the Great Financial Crisis or the Great Crash, and its after-
+effects on the world economy are very fresh. In this unit, we will extend our 
+understanding of financial systems and examine the interconnection between 
+Macroeconomics, finance and business cycles.  
+24.2 MACROECONOMICS AND BUSINESS 
+CYCLES 
+In simple terms, macroeconomics is the study of the economy as a whole, 
+i.e., how the economy works. It is focused on important issues like 
+employment, inflation, output or GDP, growth rate, exchange rate, balance of 
+payments, and business cycles. In short, we can say that it deals with the most 
+important economic issues and problems of society. These important issues 
+are dealt with mainly by two questions. One, how is the GDP of a country 
+determined in the short run and the long run? Second, how is GDP (or the 
+process of GDP determination) affected by macroeconomic variables such as 
+consumption, investment, inflation and unemployment? 
+One of the major factors responsible for the growth of an economy is capital 
+formation. Over the years, many financial innovations have taken place 
+which have helped not only in building a capital base of the economy but also 
+in the expansion of markets and wealth. But, the process or path of economic 
+growth is not smooth or stable. Economies of different countries have 
+experienced wide fluctuations in variables like employment, output, and 
+prices over the past three centuries. Various kinds of explanations have been 
+provided for economic fluctuations or business cycles ranging from the lack 
+of aggregate demand to real business cycle models. Depending upon the kind 
+of explanation, solutions for stabilising the economy have also been 
+suggested. It has also been experienced that business cycles are often related 
+to problems in the financial sector of the economy. 
+
+
+--- Page 4 ---
+208 
+Financial Stability Business Cycles:  It refers to ups and downs in economic activities namely, 
+output, unemployment, and income among other things. The business cycle is 
+an indication of how an economy is doing. A business cycle has four 
+different stages predominantly. The first stage of a business cycle is an 
+economic expansion. It is when the investment is increasing due to lower 
+interest rates, output increases, and employment increases. The second stage 
+is when the economic activities are at their peak and thus, the economy is 
+doing extremely well. Often, it is considered that if there is a boom there is 
+going to be a burst eventually. So, in short, in the first stage of a business 
+cycle, the output is high, demand is high, income is high, unemployment is 
+less, consumption is high, and investment is high. The second stage is when 
+the economic activities are at their peak and thus, the economy is doing 
+extremely well. In the third stage of a business cycle, aggregate demand goes 
+down, the output starts to slow down, investment slows down, employment 
+falls, income falls, and thus consumption also decreases. In the fourth stage 
+of the business cycle, the condition is worse and a depression follows. 
+Aggregate demand further decreases, investment decreases, production 
+decreases again, and more layoffs happen. 
+The business cycle acts as a vicious cycle. Starting from a boom to a 
+recession and then to a depression. One thing leads to another. For example, a 
+lack of demand in one sector might lead to a reduction in investment and 
+production which leads to loss of employment, a reduction in income and 
+again a decrease in aggregate demand.    
+24.2.1  Case Study: The Great Depression (1929-1941) 
+In the 1920s the growth rate in the US was high (4.7%) and the 
+unemployment rate was very low (3.2%). There was an exorbitant growth in 
+wealth. With this high wealth, the investment by the public increased in the 
+stock market. The regulations were weak in the stock market which had led 
+to higher speculation in the market. Eventually, the stock market crashed in 
+1929. On October 24, 1929, the market opened down by 11% from the 
+previous day. This is known as the ‘Black Thursday’. In the following days, 
+the market fell further. From 1929 to 1932, the stock market decreased by 
+85%. During the peak of the great depression, the unemployment rate was as 
+high as 24%. A lot of blame was put on banks that had advanced too many 
+loans by decreasing their reserves gradually. It was coupled with the 
+expansionary monetary policy (increased money supply) which led to 
+increased levels of borrowing. After the stock market crash instead of 
+decreasing the rate of interest the Federal Reserve did the opposite and the 
+rate of interest was increased. The approach was that the troubled banks 
+would fall and a strong system would emerge. The increase in interest rate 
+led to deflation (the opposite of inflation, prices decrease). At the same time 
+higher tariff was imposed on agricultural imports to protect agriculture in the 
+US which further contributed to the great depression. In 1933, President 
+Roosevelt increased government spending but it was too late by then. Within 
+the four years of the recession, the GDP of the US decreased by 29%. 
+
+
+--- Page 5 ---
+209 
+Macroeconomics, 
+Finance, and 
+Business Cycles 
+Unemployment was at the highest (24%) level in 1933 when 1 out of every 4 
+people was unemployed. 30% of the banks failed. The standard of living 
+decreased. Many factories had shut down. Rural poverty increased rapidly. 
+The birth rate declined, and women’s participation in the workforce 
+increased. The great depression eventually ended in 1941. 
+24.3 FINANCE AND ECONOMY 
+We are generally faced with two kinds of situations. First, all of our income 
+is not consumed and some of it is saved. For these savings, we look for 
+options to earn some return, i.e., to invest our savings productively. Second, 
+some people have business ideas or they have to do some transaction but do 
+not have sufficient funds, i.e., they need funds.  In macroeconomics, savings 
+and investment are very important concepts and help in understanding 
+macroeconomic problems like growth, inflation and unemployment and their 
+solutions. Investment in physical and human capital is very important for a 
+country’s long-run growth. At the same time, it affects the macroeconomic 
+stability, inflation and unemployment, in the economy. Savings are the most 
+important component of funding investment, but every increase in savings 
+may not be good for the health of the economy. It can lead to a shortage of 
+aggregate demand in the economy. Moreover, it is also important how these 
+savings are allocated to different investment options. Some options can be 
+simply better than others in terms of productivity, outcome and impact on 
+employment, inflation and other economic variables. The financial system of 
+a country is generally helpful in providing solutions for the issues mentioned 
+above. It provides productive investment options where savings can be 
+invested and at the same time, the people in need get the opportunity to 
+borrow the desired funds. It provides an efficient way to allocate the funds 
+among different uses. 
+The financial sector is considered to be different from the real economy. The 
+real economy produces goods and services with the help of the factors of 
+production, land, labour, and capital. It provides us with consumption goods 
+like food, furniture, clothes, and capital goods like plant, machinery, 
+transportation, etc. What happens in the real economy determines an 
+economy’s capacity to produce and consume in the long run, and also affects 
+several variables like inflation, unemployment, and distribution of income 
+and wealth which in turn affect the economy itself. On the other hand, the 
+financial sector provides the mechanisms and channels through which the 
+lenders and borrowers coordinate in the market and facilitate transactions in 
+the real economy. Efficient working of the financial system is very much 
+desirable to increase the productivity in the economy, so that, the funds can 
+be directed to those activities which are most productive. It is usually thought 
+to be limited to the movement of funds in the economy to help the real 
+economy. We can see that employment in this sector is increasing day by 
+day. The financial system of a country not only channels the funds in the 
+
+
+--- Page 6 ---
+210 
+Financial Stability right direction but in doing so generates well-paid jobs and builds wealth for 
+many which in turn would have an impact on activities like consumption and 
+production. It is often a matter of debate whether the financial sector helps in 
+the development of the economy or if it is a result of economic development, 
+both of these arguments are true. 
+24.3.1  Financial System 
+The financial sector, today, is a very important sector for almost all 
+economies. The major function of this sector is to provide channels for the 
+movement of funds between borrowers and lenders. Lenders and borrowers 
+can be individuals, households, business firms, governments and foreigners. 
+Lenders and borrowers can interact through organised or formal financial 
+markets or outside these markets. The transactions done outside the organised 
+financial markets are, generally, riskier and costlier as compared to the 
+formal markets. The financial system of a country helps in reducing the 
+transaction costs and risks involved in financial transactions. As a country 
+develops, its financial market also develops along with it and the proportion 
+of the transactions outside formal financial markets declines with economic 
+development.  
+The financial system includes financial institutions like banks, insurance 
+companies, mutual funds etc. and financial markets like stock markets, bond 
+markets etc. In financial markets, lenders can directly provide funds directly 
+to the borrowers. For example, suppose Reliance Industries wants to expand 
+its business and for that purpose needs some funds. It can directly sell bonds 
+to individuals in the bond market or it can bring an IPO (initial public 
+offering) in the stock market which can be subscribed by individuals, banks, 
+and companies. This is direct finance . In this case, the individuals or the 
+companies who have savings are directly lending their money to the borrower 
+or buying stocks of a company. This requires a lot of information and 
+expertise to deal directly with the financial markets. On the other hand, 
+instead of lending directly to the borrower, an individual can do it through 
+some intermediary. For example, I have some savings and I want to invest 
+these savings profitably. I can deposit my money in a bank, I can invest in a 
+mutual fund, I can buy some insurance, or I can participate in some pension 
+scheme. Financial institutions like banks, mutual funds, insurance funds or 
+pension funds receive money from the lenders and lend it to the borrowers. 
+This is indirect finance. 
+In financial markets, there are different kinds of risks present for individuals, 
+firms, and financial intermediaries. There is a risk that the deposits or the 
+credit given may not be paid back partially or fully, known as credit or 
+default risk . Financial intermediaries including banks may find themselves 
+unable to meet the liquidity demands due to sudden and unexpected increases 
+in the demand for liability payments or withdrawal of deposits, known as 
+liquidity risk . Volatility in the interest rates and asset prices can deteriorate 
+the financial health or the balance sheets, known as interest rate and price 
+
+
+--- Page 7 ---
+211 
+Macroeconomics, 
+Finance, and 
+Business Cycles 
+risk. Volatility in the exchange rate affects the value of assets and liabilities 
+held in foreign currency and may worsen the balance sheets, known as the 
+exchange rate risk . Due to one or more risks mentioned above, the value of 
+assets of financial intermediaries, or firms and individuals, may fall below 
+liabilities leading to insolvency. One of the important reasons for the risk is 
+asymmetric information . One of the important aspects of the functions of 
+financial intermediaries is to assess and manage these risks. 
+24.3.2  Asymmetric Information, Adverse Selection and Moral 
+Hazard 
+When, in a transaction, one party does not have the same information as the 
+other party it is known as asymmetric information . For example, suppose 
+there is a firm which is planning to undertake a new project and for this 
+project firm borrows from the market. The firm has different assessments for 
+the risks involved in the project, and prospects of the future return. But, while 
+approaching the lenders or investors this firm may not reveal all the 
+information related to the project it has. In this case, the lenders/investors 
+would have less information than the borrower.  
+It happens at times that we try to hide some information which may impede 
+our chances to borrow from the market. Suppose, an individual or a firm is 
+willing to undertake a very risky project and lenders or investors may not be 
+willing to take that kind of risk. To get the necessary funding the borrower 
+may hide facts or information about the risk and make best efforts to get the 
+loan, and may even offer to pay a higher interest rate. If the lenders/investors, 
+pursued by the borrower, invest in the project without knowing the risk it 
+creates an adverse selection problem . Due to the risky nature of the project, 
+the borrower may not be able to honour its liabilities, i.e., the risk of default. 
+There is another problem that arises because of asymmetric information 
+which is known as moral hazard. This may occur irrespective of whether 
+there is an adverse selection or not; this takes place after the financial 
+transaction has occurred. A borrower may divert the borrowed funds to some 
+risky project or activity. For example, the firm may put its investment in risky 
+bonds that might pay or not pay. If these risky bonds pay then the bank will 
+get its money back and if not, then the firm will not be able to pay back and 
+most likely will default. Another simple example of moral hazard is that 
+suppose you have taken insurance for losses due to fire. After taking the 
+insurance you may decide not to put in place an efficiently working fire 
+safety system to cut down on costs.  
+24.3.3  Case Study: Satyam Computers Scandal 
+Satyam Computer Services Limited (popularly known as Satyam 
+Computers), a company established in 1987, was the fourth biggest Indian 
+company in the IT sector in the 2000s. It was one of the finest examples of 
+India’s growth story. From 2003 to 2008, the annual growth rate of the 
+company was 35 per cent. In January 2009, the Chairman and the founder of 
+the company confessed that he had been manipulating the accounts of the 
+
+
+--- Page 8 ---
+212 
+Financial Stability company. He inflated the balance sheet and showed the profits and cash 
+which never existed. This false growth also inflated the stock prices of the 
+company. This was done to obtain cheaper loans which were diverted to the 
+real estate. The company’s auditors turned a blind eye to the wrongdoings. 
+The company lost its customers, stock prices plumped, and investors lost 
+billions. The company was acquired by Tech Mahindra in April 2009. In 
+Indian corporate history, the Satyam scandal is a very fine example of 
+corporate fraud. This highlights the problem of asymmetric information that 
+led to adverse selection due to false information and moral hazard on the part 
+of managers and auditors. This episode also highlights the importance of 
+prudent regulation that would help in decreasing the information asymmetry 
+and promote transparency.  
+Check Your Progress 1 
+1) Discuss different stages of business cycles.
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+2) How important is the concept of asymmetric information for the
+financial sector?
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+3) What are the different kinds of risk associated with financial
+transactions?
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+24.4 FINANCIAL CRISIS 
+The financial crisis can be understood as an upset in the financial markets in 
+the form of wide fluctuations in asset prices like stocks or real estate. It is 
+associated with fluctuations in the flow of credit and disruptions in the 
+working of financial intermediaries and markets. Financial stability helps in 
+better assessment and management of financial risk and thus helps in the 
+efficient allocation of resources which in turn, promotes economic growth. 
+Although, with financial innovations, the understanding of risk and its 
+
+
+--- Page 9 ---
+213 
+Macroeconomics, 
+Finance, and 
+Business Cycles 
+management has also improved it is not possible to avoid risk completely 
+because of the uncertainty. 
+The financial system is like a complex web of interactions between different 
+players. For example, person A has invested money in Mutual Fund X, this 
+mutual fund has invested money in another investment fund which has 
+further invested money in a bank that has given a loan to a corporate firm. 
+You have a financial claim over a part of the mutual fund. The amount of 
+money you can get by selling your holding of the mutual fund depends upon 
+many things. First, the price or value of the fund may be affected by the 
+conditions of the market. Second, the value of underlying assets may further 
+be a function of different variables. And third, if the mutual fund in question 
+has sufficient liquidity. In financial markets, whether the contract between 
+two parties will be honoured or not depends upon other parties who are 
+linked to this contract by a chain of financial transactions. A disturbance at 
+any point in this chain of transactions can cause financial turbulence in the 
+market and it can be a reason for a financial crisis. Speculative activities in 
+the financial markets along with asymmetric information are often the 
+sources of financial fluctuations. There may be several other factors that may 
+start or may increase the intensity of a financial crisis. 
+It is not so that all the financial crises are the same in the nature and 
+magnitude but they have some common elements. Usually, a financial crisis 
+starts with an asset price boom. These elements are described in the following 
+paragraphs: 
+Asset Price Booms and Busts:  At times, the prices of financial assets like 
+stocks or real estate properties increase by a large amount over their 
+fundamental values. This is known as the asset-price bubble. Often, this is 
+led by the optimism of the investors about the future value of the asset. This 
+may also happen because of a significant increase in the availability of credit. 
+With the easy availability of credit, investors may increase their investment 
+in an asset they expect to give very good returns in the future. This kind of 
+increase can be termed a credit boom or credit bubble. The optimism about 
+the asset prices and credit boom can have a feedback effect on each other, 
+which may further intensify the asset-price bubble. The asset price booms 
+cannot last forever, even a small shock in the market can lead to the bust of 
+the bubble. For example, if investors start to feel the future rate of return for 
+the asset may be lower, they may start to withdraw their investment which 
+will lead to a decline in the asset prices.  
+Insolvencies of the financial institutions: At times, the loans given by the 
+banks are secured by the collateral or mortgage of the asset for which the 
+loan has been provided. When the prices of such assets decline, it will create 
+problems for the lending banks. In case of defaults by the borrowers , the 
+banks will not be able to recover their loans. This problem is further 
+aggravated by the leveraging by the lending institutions. In an optimistic 
+environment, to increase the amount of loans/credit banks often borrow from 
+other financial institutions. The borrowed funds increase banks’ capacity to 
+
+
+--- Page 10 ---
+214 
+Financial Stability lend. This process is known as leveraging. But in case of asset-price bust, the 
+value of mortgage declines and banks are unable to recover their loans and 
+thus, fall short of meeting their payment obligations. In this situation, the 
+capital of the banks falls and they reduce their lending. Which may lead to a 
+further decrease in asset prices. The value of the assets of the banks declines 
+below the value of liabilities which ultimately leads to insolvency. 
+Banking Failure (or Bank Runs): As the problems of the banks increase and 
+banks start to go bankrupt, the depositors who do not want to lose their 
+money, line up to withdraw their money from the banks. Though, some 
+amount in deposits is insured by the governments, generally, it is very small. 
+Banks do not have sufficient balances and they start to sell their assets. Asset 
+prices are already low and it is hard to find buyers in the market. The selling 
+of assets by the banks may lead to a rapid decline in asset prices. This is also 
+known as a fire sale . Uncertainty about the health of the banks in the 
+economy increases and people lose confidence in the safety of their deposits. 
+This may lead to a full-fledged banking failure in the economy, i.e., several 
+banks failing in a short duration.  
+Credit Shortage and Debt Deflation: When some banks fail, capital 
+decreases as it becomes harder to get new capital as a result of low 
+confidence in the market. Banks cut down on lending, and it becomes harder 
+for the firms, especially the smaller and medium-sized firms, to get loans 
+from the banks. Consumer credit also goes down as scrutiny by the banks 
+increases. With the increase in the difficulties of the financial sector, the flow 
+of credit declines in the economy. Decreases in the quantum of credit not 
+only affect the new investment opportunities but also the operations of the 
+firm which rely on debt for running their operation. A decrease in consumer 
+credit leads to a decline in consumption demand. This leads to a decline in 
+the economic activities in the country, a recession, and prices fall which 
+increases the problems for the business firms. With the decrease in the prices, 
+in real terms, the debt of the firms increases, known as debt deflation. Prices 
+and incomes fall while the debt burden increases which leads to insolvency of 
+the firms. This generates a kind of vicious circle. Deterioration in the health 
+of the financial sector creates a shortage of credit that leads to an economic 
+downturn which in turn decreases the profitability and stock prices of the 
+firms. This may lead to insolvencies in the economy further deteriorating the 
+health of the financial sector. In a financial crisis, several financial and non-
+financial firms collapse. 
+24.4.1  Case Study: The Great Recession (2007-2009) 
+From the great depression to the great recession, there were many 
+recessionary periods in between. Out of these 2007 was the worst. Before this 
+recession, there was the dot.com crisis in the US which was a crisis in the IT 
+industry. To give a boost to this sector the US Federal Reserve decreased the 
+rate of interest. Instead, this investment went to the real estate sector in the 
+US. Soft loans were given for real estate properties. Multiple loans were 
+advanced on the same mortgage. People who had poor credit history were 
+
+
+--- Page 11 ---
+215 
+Macroeconomics, 
+Finance, and 
+Business Cycles 
+also given loans. Banks who had these mortgages advanced financial 
+instruments (shares, bonds, futures etc.) could not recover their dues. These 
+financial instruments were even purchased by people sitting in other 
+countries. There was a bubble in the real estate which was likely to burst. 
+Ultimately, the prices in real estate started to fall. People defaulted on loans. 
+Looking at the panic, people who had bought securities based on these 
+mortgages started to exit. So, on one hand, people did not pay loans to banks 
+and on the other hand the prices of their mortgage-based securities decreased. 
+It was a double-edged sword for the banking system. The NPAs increased 
+drastically. Major financial institutions collapsed in 2008. Lehman Brothers 
+which was the 4 th largest bank at that time, collapsed in September 2008. 
+Ultimately the recession had spread to another sector too. Initially, India did 
+not see any significant impact but eventually, the impact could be seen 
+through the financial sector and decreased demand for Indian exports by the 
+US and Europe. As a result of this recession, output decreased by 4.3%. 
+Banks failed; housing prices declined by 31.8 per cent; unemployment 
+peaked at 10% in October 2009 while it was 5% in December 2007; public 
+debt increased, and protectionism increased. 
+24.5 FINANCIAL CRISES AND ECONOMIC 
+CRISES 
+The financial system is an integral part of the economy and, both in good 
+times and bad times, it amplifies economic activities. As financial 
+development helps in economic growth a financial crisis worsens the 
+economic problems. It is not necessary that a financial crisis would lead to an 
+economic crisis; an economic crisis may also be a cause for the financial 
+crisis. Finance is a key factor in capital formation and business activities. 
+When finance deteriorates it has a severe impact on economic activities. As 
+we have discussed, during a financial crisis asset prices and price levels and 
+at the same time, an increase in interest rates cause a decrease in the 
+profitability of the firms. Credit crunch and a decline in profitability lead to a 
+decrease in overall economic activities. The defaults and insolvency in non-
+financial firms would increase. 
+As a financial crisis looms a country’s capital may fly to other countries in 
+search of safer investment opportunities. It would have a twofold impact on 
+the country. One, it would further deteriorate the credit crunch in the 
+economy. Second, with a flight of capital exchange rate will be affected 
+adversely which will impact the trade. Trade disturbance would aggravate the 
+economic turbulences. 
+An economic crisis can also create financial crisis. An economic downturn 
+would decrease the sales and profitability of the firms which would lead to an 
+increase in defaults in the repayments of loans they have borrowed from 
+financial institutions. This would hurt the balance sheets of the banks and 
+other financial institutions may further lead to a financial crisis. 

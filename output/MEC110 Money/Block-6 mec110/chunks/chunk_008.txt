@@ -1,0 +1,429 @@
+--- Page 69 ---
+163 
+Corporate Finance UNIT 22   CORPORATE FINANCE 
+Structure 
+22.0 Objectives 
+22.1  Introduction 
+22.2  Sources of Finance 
+22.3  Capital Structure 
+22.3.1  Components of Capital Structure 
+22.3.2  Factors Influencing Capital Structure 
+22.4  Working Capital Management 
+22.4.1  Importance of Working Capital 
+22.4.2  Factors Determining Working Capital 
+22.4.3  Methods of Making Working Capital Forecast 
+22.4.4  Sources of Working Capital 
+22.4.5  Approaches for Determining the Financial Mix 
+22.5  Dividend Policy 
+22.6  Capital Budgeting 
+22.6.1  Importance of Capital Budgeting 
+22.6.2  Kinds of Capital Investment Proposals 
+22.6.3  Factors Affecting Capital Investment Decision 
+22.6.4  Computation of Capital Investment 
+22.6.5  Forecasting Future Costs 
+22.7  Let Us Sum Up 
+22.8  Key Words 
+22.9  Suggested Readings 
+22.10  Answers/Hints to Check Your Progress Exercises 
+22.0  OBJECTIVES 
+After going through this unit, you will be able to: 
+ explain the concept of corporate finance;
+ examine the concept of capital structure and its theories;
+ explain the techniques of capital budgeting;
+ list and describe the sources of working capital and its management; and
+ describe the theories of dividend policy and the factors affecting
+dividend decision.
+
+
+--- Page 70 ---
+164 
+Operational Aspects 
+of Financial Markets 22.1  INTRODUCTION 
+When we think of Corporate Finance, the first thing that comes to our mind is 
+managing money in a business, from raising funds to investing them wisely. 
+Corporate finance is the area of finance that deals with the sources of 
+funding, and the capital structure of corporations, the actions that managers 
+take to increase the value of the firm to the shareholders, and the tools 
+and analysis used to allocate financial resources. The primary goal of 
+corporate finance is to maximise or increase shareholder value.  
+Correspondingly, corporate finance comprises two main sub-
+disciplines.  Capital budgeting is concerned with the setting of criteria about 
+which value-adding projects should receive investment funding, and whether 
+to finance that investment with equity or debt capital. Working capital 
+management is the management of the company's monetary funds that deal 
+with the short-term operating balance of current assets and current liabilities; 
+the focus here is on managing cash, inventories, and short-term borrowing 
+and lending (such as the terms of credit extended to customers).  
+In this unit, we will study the diverse sources of finance, the Capital structure 
+of a company, different techniques of capital budgeting, working capital 
+management, and dividend policy.  
+22.2  SOURCES OF FINANCE 
+Finance is especially important for every business, serving as a fundamental 
+catalyst for its optimal functioning. The adequacy of financial resources is 
+paramount, as it directly impacts the efficiency and effectiveness of business 
+operations. In this context, the financial needs of a business can be 
+categorised into 2 distinct classes:  
+1) Short-term financial requirements.
+2) Long-term financial requirements.
+Short-term financial requirements of a business necessitate essential short-
+term funds, typically covering a period of up to twelve months. These funds 
+are procured from avenues capable of promptly extending financial aid for a 
+brief period and at a reasonable cost. Frequently, securing these funds is 
+facilitated through short-term loans or the process of bill discounting offered 
+by commercial banks.  
+Long-term financial needs of a business that last for more than a year are met 
+by long-term funds. These funds can be divided into several types:  
+i) Intermediate or medium-term funds
+ii) Long-term funds.
+
+
+--- Page 71 ---
+165 
+Corporate Finance The mentioned group refers to money needed for more than 5 years. 
+Businesses get this money from places that can give them financial help for a 
+long time. These places might include selling shares, debentures, and getting 
+loans from special money-related organisations. It is worth noting that regular 
+banks have started to offer medium-term and long-term funding options to 
+businesses. They might do this alone or with other special financial 
+organisations like the Industrial Finance Corporation of India and the 
+Industrial Credit and Investment Corporation of India. This is done to meet 
+the different money needs of businesses. 
+Classification of Sources of Finance 
+The sources of finance can be classified into two categories: internal sources 
+and external sources. External sources can be (i) loans or (ii) equities and 
+bonds or debentures . Equities are shares, and give a share of ownership to 
+the holder while bonds or debentures promise a steady stream of payments to 
+the holder without conferring ownership rights. Loans are borrowed external 
+funds. Internal sources are sources of funds that are from within the firm. The 
+two principal internal sources of funds are depreciation and retained earnings. 
+We elaborate on this below: 
+External Sources of Funds 
+1) Issue of Shares
+Share represents ownership and voting rights in a company. The holder of a 
+share is termed a shareholder, receiving dividends from the company as a 
+return for their investments. However, dividend payments are not obligatory, 
+and the company’s Board of Directors has the authority to propose dividends. 
+While the Board's recommendation can be altered by shareholders, it cannot 
+be increased beyond the initial proposal. 
+Kinds of Shares 
+Publicly traded companies in India can issue two types of shares: 
+a) Preference Shares
+Preference shares offer specific preferential rights over other share
+classes, including i) Guaranteed fixed dividends, which can be a fixed
+amount or rate. ii) Priority in capital repayment during company
+liquidation, preceding other share classes. Preference shares might be
+cumulative or non-cumulative, participating, or non-participating, and
+redeemable or irredeemable. Cumulative preference shares accumulate
+unpaid dividends until cleared. Non-cumulative shares lose dividend
+rights if there is no profit. Participating shares share surplus profits after
+fixed dividend payments to equity shareholders. Non-participating shares
+lack this privilege. Redeemable preference shares can be reclaimed
+during the company’s lifespan, while irredeemable ones can only be
+redeemed during liquidation.
+
+
+--- Page 72 ---
+ 
+ 
+166 
+Operational Aspects 
+of Financial Markets 
+b) Equity Shares 
+These shares lack preferential rights, ranking below preference shares for 
+dividend and capital repayment during liquidation. Dividend rates are 
+variable, depending on profits and directors’ intent. Equity shareholders 
+have voting power at company general meetings and are drawn to the 
+potential for returns despite the risk.  
+2) Issue of Debenture 
+A debenture may be a record issued by a company as proof of an obligation 
+due from the company with or without a charge on the assets of the company. 
+It could be a certificate issued by a company beneath its seal recognising an 
+obligation due by it to its holders.  
+Kinds of Debentures 
+Debentures represent a form of debt for a company, favoured for their 
+avoidance of equity dilution, serving as a loan mechanism for a company’s 
+long-term profitability and expansion. Familiarity with the several types of 
+debentures in the market is crucial when considering which to invest in.  
+a) Convertible Debentures:  Among the diverse debenture types, 
+convertible debentures stand out with their unique feature – the ability to 
+transform into shares or stocks at a designated point in time or upon 
+notification by the company. Despite offering lower interest rates 
+compared to stocks, these debentures prove highly advantageous. 
+b) Partially Convertible Debentures:  Debentures that can be converted 
+into shares up to a specific limit or percentage are categorised as partially 
+convertible debentures. This hybrid form leaves a portion as debentures 
+even after partial conversion, while the rest becomes part of the 
+company’s shares. 
+c) Non-Convertible Debentures: Representing the fundamental type, non-
+convertible debentures lack the option for conversion into stocks 
+throughout their existence after issuance. 
+d) Registered Debentures:  This type involves the transfer of debentures 
+with well-documented and secure records, ensuring a tamper-proof 
+transaction. Registered debentures are considered safer due to the 
+reduced risk of fraud, in contrast to the bearer debentures discussed 
+below. 
+e) Bearer Debentures:  Unregistered and transferable without mandatory 
+documentation, bearer debentures can be delivered after purchase 
+without the need for proof or records. This type is more susceptible to 
+tax evasion and fraud, lacking a third-party involvement in the 
+transaction. 
+
+
+--- Page 73 ---
+167 
+Corporate Finance f) Secured Debentures:  Resembling an alternative to loans, secured
+debentures require collateral for fund generation. In the event of the firm
+settling its debts upon closure, secured debenture holders receive priority
+payment.
+g) Unsecured Debentures:  Requiring no collateral, unsecured debentures
+are less favoured during payments compared to secured debentures.
+h) Redeemable Debentures:  Purchased for a predetermined period,
+redeemable debentures are repaid by the end of this specified period.
+i) Irredeemable Debentures:  Also known as perpetual debentures, this
+type lacks a fixed redemption period for the invested amount.
+Internal Sources of Funds 
+As its name suggests, these are funds generated internally by the company. 
+The two most critical sources of inside financing are depreciation and 
+retained earnings. These are: 
+a) Depreciation: Depreciation is a source of internal finance through its
+non-cash item in books, but it is a recognition of the value of the asset
+which will reduce each year and attempting to identify the amount of
+cash to set aside when the asset is no longer in use to us. It is also being
+considered as an expense to reduce our taxable income.
+b) Retained Earnings: It is that part of the profit which is not distributed
+among shareholders as a dividend. These earnings are kept by the
+company itself for the future requirement of funds. It is additionally
+known as ‘Inside Financing’ or ‘Ploughing back of Profits.’
+c) Loan Financing:  Loan financing refers to the acquisition of funds by
+individuals, businesses, or governments through borrowing from a
+lender. In this financial arrangement, a borrower receives a sum of
+money from the lender with the commitment to repay the amount,
+usually with interest, over a specified period. Loan financing can serve
+various purposes, including personal expenses, business investments, or
+major capital projects. Lenders may include banks, financial institutions,
+or private entities, and the terms of the loan agreement typically outline
+the interest rate, repayment schedule, and any collateral requirements.
+Check Your Progress 1 
+1) List several types of shares.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+
+
+--- Page 74 ---
+168 
+Operational Aspects 
+of Financial Markets 
+2) Explain depreciation as a source of finance.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Differentiate between secured & unsecured debentures.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+22.3  CAPITAL STRUCTURE 
+As discussed in the previous section, there are different sources of finance 
+which can be used to finance a business. Capital structure is nothing but the 
+composition of capital. Capital Structure refers to the composition and 
+proportion of various sources of funds that a company employs to finance its 
+operations, investments, and other financial activities. It represents the way a 
+company combines equity (ownership capital) and debt (borrowed capital) to 
+support its business activities. The capital structure decision involves 
+determining the mix of equity and debt that best aligns with the company’s 
+financial goals, risk tolerance, and overall strategy. In this section, we will 
+study the factors that influence the capital structure and what are the theories 
+that have been developed to understand the capital structure.  
+22.3.1  Components of Capital Structure 
+Components of a capital fund of a company may be classified based on their 
+sources. Hence, they can be majorly divided into two categories: 
+a) Owner’s capital:  Owner’s capital, also known as owner’s equity or
+shareholder’s equity, refers to the portion of a company’s assets that
+belongs to its owners or shareholders. It represents the residual interest in
+the company’s assets after deducting liabilities. In other words, the
+owner’s capital is the net value of a company’s assets that remains after
+satisfying all its debts and obligations. The owner’s capital consists of
+Equity Shares, Preference Shares and Retained Earnings.
+b) Borrowed Capital: Borrowed capital, also known as debt capital, refers
+to funds that a company raises by borrowing money from external
+sources, such as financial institutions, investors, or bondholders.
+Borrowed capital is a debt obligation as it creates a legal obligation for
+the company to repay the borrowed funds along with interest within a
+specified period. The borrowed capital consists of debentures, term
+loans, lease financing and short-term borrowings.
+
+
+--- Page 75 ---
+ 
+ 
+169 
+Corporate Finance 22.3.2  Factors Influencing Capital Structure 
+a) Business Risk:  The nature and level of a company’s business risk can 
+influence its capital structure. Companies operating in highly volatile or 
+cyclical industries may opt for lower debt levels to avoid the added 
+financial risk associated with interest payments during economic 
+downturns. 
+b) Tax Considerations: Interest payments on debt are often tax-deductible, 
+making debt financing a more tax-efficient option than equity financing. 
+Companies in higher tax brackets may be inclined to use debt to take 
+advantage of tax benefits. 
+c) Cost of Capital:  Companies strive to minimise their overall cost of 
+capital, which is the weighted average cost of debt and equity. Finding 
+the optimal mix that minimises the cost of capital is a key consideration 
+in determining the capital structure. 
+d) Market Conditions: Economic and market conditions play a role in 
+capital structure decisions. For instance, during periods of economic 
+stability, companies may be more willing to take on debt at favourable 
+interest rates. Conversely, during economic downturns, access to debt 
+financing may be more challenging, influencing a shift toward equity 
+financing. 
+e) Company Size and Life Cycle: Smaller or newer companies may find it 
+more challenging to access debt markets and may rely more on equity 
+financing. As a company grows and establishes a record of 
+accomplishment, it may have more options for debt financing. 
+f) Flexibility and Control:  Equity financing gives shareholders ownership 
+of the company, but it also dilutes existing ownership. Some companies 
+may prefer debt financing to maintain control and avoid dilution of 
+ownership. Debt also provides more flexibility in adjusting capital 
+structure in response to changing conditions. 
+g) Asset Structure:  The type of assets a company owns can impact its 
+capital structure. Capital-intensive industries (e.g., manufacturing) may 
+use more debt to finance their assets, while service-oriented industries 
+may have lower debt levels. 
+h) Lender and Investor Preferences: The preferences and requirements of 
+lenders and investors in the capital markets can influence a company’s 
+choice of capital structure. Several types of lenders and investors may 
+have varying expectations regarding risk, return, and the mix of debt and 
+equity. 
+i) Regulatory Environment:  Regulatory constraints, including debt-to-
+equity ratios and other financial regulations, can influence a company’s 
+capital structure decisions. 
+
+
+--- Page 76 ---
+170 
+Operational Aspects 
+of Financial Markets 
+j) Market Perception: The market’s perception of a company’s financial
+health and risk profile can impact its ability to raise capital and the cost
+of that capital.
+Check Your Progress 2 
+1) Differentiate between owner’s capital and borrowed capital.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Explain the factors affecting capital structure.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+22.4  WORKING CAPITAL MANAGEMENT 
+The concept of working capital is fundamental in financial management and 
+represents the company’s ability to meet its short-term financial obligations. 
+It is calculated by subtracting current liabilities from current assets. Working 
+capital is essential for the day-to-day operations of a business and 
+maintaining a smooth cash flow.  
+There are two primary forms of working capital: 
+I) Gross Working Capital:  Gross working capital refers to the total
+current assets of a company. These are the assets that are either in cash or
+expected to be converted into cash within the operating cycle, typically
+one year. Gross working capital includes the following components:
+1) Cash and Cash Equivalents: This includes currency, bank balances,
+and other highly liquid assets.
+2) Accounts Receivable: The money owed to the company by its
+customers for goods or services sold on credit.
+3) Inventory: The stock of goods a company holds for sale, production,
+or consumption.
+4) Short-term Investments: Investments made by the company in
+highly liquid financial instruments with maturities of up to one year.
+II) Net Working Capital:  Net working capital is derived by deducting
+current liabilities from current assets. It represents the excess of current
+assets over current liabilities and indicates the company’s ability to cover
+its short-term debts.
+
+
+--- Page 77 ---
+ 
+ 
+171 
+Corporate Finance 22.4.1  Importance of Working Capital  
+Gross Working Capital: 
+a) Gross working capital is significant as it provides an overview of a 
+company’s short-term resource base.  
+b) It helps management understand the scale of current assets in comparison 
+to current liabilities.  
+c) A high gross working capital might indicate that the company is carrying 
+excessive levels of current assets, which can lead to increased carrying 
+costs and inefficiencies.  
+d) Conversely, a low gross working capital might imply inadequate 
+liquidity to fund short-term obligations.  
+Net Working Capital:  
+a) Net working capital is a more focused metric as it reflects the excess or 
+deficit of current assets after settling current liabilities.  
+b) A positive net working capital is preferred as it demonstrates that a 
+company has enough liquid resources to meet its short-term obligations.  
+c) It can also signify good financial health and efficient working capital 
+management.  
+d) However, negative net working capital is not necessarily always a bad 
+sign. Some industries, like retail, may have negative net working capital 
+due to the quick turnover of inventory and immediate collection of cash 
+from customers. It is crucial to assess negative net working capital in the 
+context of the company's business model and industry norms.  
+22.4.2  Factors Determining Working Capital 
+Working capital, the difference between a company’s current assets and 
+current liabilities, is a crucial aspect of financial management. Several factors 
+influence the working capital requirements of a business, and understanding 
+these factors is essential for effective working capital management. Here are 
+the key factors that determine working capital:  
+1) Nature of Business:  The type of industry and the nature of the business 
+significantly impact the working capital needs. For instance, 
+manufacturing companies often require higher levels of working capital 
+due to the need to maintain raw materials, work-in-progress, and finished 
+goods inventory. On the other hand, service-based businesses may have 
+lower working capital requirements since they typically have minimal 
+inventory and faster cash conversion cycles.  
+
+
+--- Page 78 ---
+172 
+Operational Aspects 
+of Financial Markets 
+2) Business Cycle and Seasonality: Companies experience fluctuations in
+sales and production throughout their business cycles. During peak
+seasons or periods of high demand, businesses may require additional
+working capital to finance increased inventory and accounts receivable.
+Conversely, during low-demand periods, working capital needs may
+decrease.
+3) Sales Volume and Growth Rate:  Companies with higher sales volume
+or experiencing rapid growth may need more working capital to support
+increased operations, expand inventory levels, and extend credit terms to
+customers.
+4) Credit Policy:  The credit policy adopted by a company, such as the
+length of credit given to customers, significantly impacts accounts
+receivable. A lenient credit policy may lead to higher accounts receivable
+and increased working capital needs, while a strict credit policy may
+affect sales but reduce working capital requirements.
+5) Supplier Payment Terms:  The terms and conditions negotiated with
+suppliers influence accounts payable. Longer payment terms can help
+conserve cash and reduce working capital requirements, but it may also
+affect supplier relationships.
+6) Inventory Management : The efficiency of inventory management
+affects working capital. Companies with streamlined inventory control
+systems and faster inventory turnover require lower levels of working
+capital.
+7) Seasonal Inventory Needs : Businesses with seasonal inventory
+requirements may need to maintain higher working capital during peak
+seasons to meet customer demands.
+8) Operating Efficiency: Efficient operational practices can help optimise
+working capital. Streamlined processes, reduced lead times, and effective
+use of technology can enhance cash flow and reduce working capital
+needs.
+9) Economic Conditions:  The overall economic environment, including
+inflation, interest rates, and credit availability, can impact working
+capital requirements. Economic downturns may increase the need for
+working capital to weather challenging times.
+22.4.3  Methods of Making Working Capital Forecast 
+Making accurate working capital forecasts is essential for effective financial 
+planning and management. Various methods can be used to make these 
+forecasts, depending on the availability of data, the complexity of the 
+business, and the desired level of precision. Some common methods of 
+making working capital forecasts include:  

@@ -1,0 +1,145 @@
+# Running Context
+
+## Key Concepts Introduced
+- **Money market** (Chunk 001): Market for short-term (≤1 yr in India) close-substitutes for money; wholesale, over-the-phone.
+- **Dichotomic structure** (Chunk 001): Indian money market = organised (RBI-regulated) + unorganised (indigenous) co-existing.
+- **Call / Notice / Term money** (Chunk 001): Inter-bank unsecured lending tiers (≤1 day / 2–14 d / 15 d–1 yr).
+- **Treasury bills** (Chunk 001): Zero-coupon RBI-issued G-sec; 91/182/364-day maturities; SLR-eligible.
+- **Bills Rediscounting Scheme (BRS)** (Chunk 001): Banks issue derivative usance promissory notes ≤90 days backed by trade bills; not counted in NDTL.
+- **Sub-markets of organised money market** (Chunk 001): Call, bill, CD, CP, banker's acceptance, repo, IBPC, swaps, futures, options.
+- **Vaghul definition of money market** (Chunk 001): liquid, low-cost turnover, equilibrates short-term lender surplus with borrower needs.
+- **Certificate of Deposit (CD)** (Chunk 002): Bank-issued, negotiable, time-deposit title; 3 mo–5 yr; transferable after 45 days; introduced March 1989.
+- **Commercial Paper (CP)** (Chunk 002): Corporate-issued unsecured promissory note at discount; 1–270 days; introduced 1989.
+- **Banker's Acceptance** (Chunk 002): Bank guarantee for trade payment.
+- **Repurchase Option (Repo)** (Chunk 002): Collateralised short-term borrowing; 14 days–1 year typical.
+- **APY vs APR** (Chunk 002): Compound vs simple interest.
+- **Indigenous bankers** (Chunk 002): Unregulated mini-bank operators (Gujarati, Multani, Chettiar, Marwari Shroffs).
+- **Moneylenders** (Chunk 002): Localised lenders to poor; 3 types (Professional, Itinerant, Non-professional).
+- **Three Committees on money market reform** (Chunk 002): Chakravarty 1985, Vaghul 1986, Narasimham 1991.
+- **Deregulation of interest rates** (Chunk 002): Effective 1 May 1989.
+- **Capital market** (Chunk 003): Markets for long-term funds (debt + equity).
+- **Capital structure** (Chunk 003): Mix of debt and equity used to finance a firm's assets.
+- **Four ratio families** (Chunk 003): Liquidity, Activity, Financial Leverage, Profitability.
+- **Bond / Debenture** (Chunks 003, 005): Long-term debt instrument (debenture has equity-conversion clause).
+- **Three bond yield measures** (Chunks 003, 005): YTM, YTC, Current Yield.
+- **Capital concepts** (Chunk 003): Authorised, Issued, Paid-up, Par value, Equity premium, Book value, Market value.
+- **P/E, EPS, Yield, M/B, Tobin's q** (Chunks 003, 004): Valuation ratios for equities.
+- **Tobin's q** (Chunk 004): Market value of all claims / Replacement cost of assets.
+- **Stock-market parameters** (Chunk 004): Volatility, Liquidity, Size, Transaction Cost.
+- **Liquidity measures** (Chunk 004): Turnover ratio, Value-traded ratio.
+- **Stock indices** (Chunk 004): BSE Sensex (1986, free-float, 30 stocks), NSE Nifty (1996, market-cap, 50 stocks).
+- **Index methods** (Chunk 004): Equal-weighted vs value-weighted; full / free-float / modified market-cap variants.
+- **Bond market structure** (Chunk 004): Primary + Secondary; aliases — debt market, fixed-income market, credit market.
+- **Bond classification** (Chunk 005): 5 axes — Issuer, Coupon, Maturity, Option, Convertibility.
+- **Perpetual bond formula** (Chunk 005): V = C / i.
+- **Approximate YTM formula** (Chunk 005): (C + (F − P)/n) / ((F + P)/2).
+- **Credit rating** (Chunk 006): Borrower creditworthiness on AAA → D scale.
+- **Indian credit-rating agencies** (Chunk 006): 7 registered; CRISIL (1987), ICRA (1991), CARE (1993) are the three biggest.
+- **STRIPS** (Chunk 006): Separate Trading of Registered Interest and Principal Securities — splitting coupon bond into zero-coupon components.
+- **Sovereign Green Bonds** (Chunk 006): RBI-issued for green initiatives, monitored by Ministry of Finance green register.
+- **Indian bond market scale** (Chunk 006): US$2.59 tr; corp bonds US$567 bn; growing 12.3% YoY in INR.
+- **Derivative** (Chunks 006, 007): Instrument deriving value from an underlying asset.
+- **4 main derivatives** (Chunk 007): Futures, Forwards, Options, Swaps.
+- **Indian derivatives milestones** (Chunk 007): Cotton 1875, financial derivatives 2000, NCDEX 2003.
+- **Futures vs Forwards** (Chunk 007): standardised vs customised; exchange vs OTC; MTM vs none; cash vs delivery; clearing-house vs each-party credit risk.
+- **Call and Put options** (Chunks 007, 008): Right to buy / right to sell at strike for a premium.
+- **Option intrinsic values** (Chunks 007, 008): V_CO = max(S−E, 0); V_PO = max(E−S, 0).
+- **Swap** (Chunk 008): OTC cash-flow exchange contract; notional principal not exchanged.
+- **Interest Rate Swap (IRS)** (Chunk 008): Exchange of fixed for floating interest (often LIBOR/MIBOR + spread).
+- **Credit Default Swap (CDS)** (Chunk 008): Insurance contract against default on a debt instrument.
+
+## Definitions (⭐ exam-important)
+- **Money market**: RBI: centre for short-term dealings in money assets meeting borrowers' short-term needs and providing liquidity to lenders. (Chunk 001)
+- **Call money**: Unsecured overnight inter-bank funds. (Chunk 001)
+- **Notice money**: 2–14 day money. (Chunk 001)
+- **Term money**: 15 days to 1-year money. (Chunk 001)
+- **Treasury bill**: Short-term zero-coupon G-sec at discount, redeemed at par. (Chunk 001)
+- **SLR**: Required share of bank deposits in govt-approved securities. (Chunk 001)
+- **Dichotomic structure**: Co-existence of organised + unorganised money markets in India. (Chunk 001)
+- **Certificate of Deposit (CD)**: Negotiable bank-issued title to time deposit. (Chunk 002)
+- **Commercial Paper (CP)**: Unsecured short-term corporate usance promissory note at discount. (Chunk 002)
+- **Indigenous bankers**: Unregulated private deposit-takers and lenders. (Chunk 002)
+- **Capital structure**: Mix of debt and equity used to finance firm's assets. (Chunk 003)
+- **Bond**: Long-term debt instrument paying periodic interest and principal at maturity. (Chunks 003, 005)
+- **Debenture**: Bond convertible into equity per terms. (Chunk 003)
+- **Yield to Maturity (YTM)**: Discount rate equating PV of cash flows to bond's current price. (Chunks 003, 005)
+- **Yield to Call (YTC)**: YTM equivalent computed to call date with call price. (Chunk 005)
+- **Current Yield**: Annual coupon / current price; ignores capital gains and time value. (Chunks 003, 005)
+- **Authorised, Issued, Paid-up capital, Par value, Equity premium, Book value**: Equity capital concepts. (Chunk 003)
+- **Market capitalisation**: Sum of market values of stocks in an index. (Chunk 004)
+- **Free-float method**: Index methodology using only freely-tradable shares. (Chunk 004)
+- **Equal-weighted vs Value-weighted index**: Two main index calculation categories. (Chunk 004)
+- **Government bonds (G-secs)**: Issued by central/state governments; risk-free; rates 7–10%. (Chunk 005)
+- **Sovereign Gold Bond (SGB)**: Government scheme for digital gold investment. (Chunk 005)
+- **Zero-coupon bond**: No coupon; deep discount issue, par redemption. (Chunk 005)
+- **Perpetual bond**: Indefinite maturity; V = C/i. (Chunk 005)
+- **Puttable bond / Callable bond**: Investor's / issuer's option to redeem early. (Chunk 005)
+- **Credit rating**: Evaluation of creditworthiness; AAA highest, D lowest. (Chunk 006)
+- **Credit rating agency**: e.g., CRISIL, ICRA, CARE. (Chunk 006)
+- **STRIPS**: Coupon-and-principal split into zero-coupon instruments. (Chunk 006)
+- **Sovereign Green Bond**: Government-issued bond for green initiatives. (Chunk 006)
+- **Derivative**: Instrument deriving value from an underlying asset. (Chunks 006, 007)
+- **Futures**: Standardised, exchange-traded obligation to buy/sell at price and date. (Chunk 007)
+- **Forwards**: Customised, OTC version of futures. (Chunk 007)
+- **Option**: Right (not obligation) to buy/sell underlying at strike for a premium. (Chunk 007)
+- **Strike / exercise price**: Predetermined buy/sell price in an option. (Chunk 007)
+- **Option premium**: Cost paid by buyer for the option. (Chunk 007)
+- **Call option**: Right to buy. (Chunk 007)
+- **Put option**: Right to sell. (Chunk 008)
+- **In-the-money / Out-of-the-money**: Whether exercising is profitable. (Chunks 007, 008)
+- **Swap**: OTC contract to exchange cash flows. (Chunk 008)
+- **Notional principal**: Reference value on which swap cash flows are computed; not exchanged. (Chunk 008)
+- **LIBOR / MIBOR**: London/Mumbai Inter-Bank Offered Rate floating-rate benchmarks. (Chunk 008)
+
+## Named Models / Laws / Theories
+- **Vaghul Committee / Working Group (1986)** (Chunks 001-002): vitalise the money market.
+- **DFHI (Discount and Finance House of India), 1988** (Chunks 001-002): market maker.
+- **Chakravarty Committee (1985)** (Chunk 002): improve the monetary system.
+- **Narasimham Committee (1991)** (Chunk 002): streamline the financial system.
+- **SEBI** (Chunks 002, 006-008): apex securities regulator; est. 1992.
+- **CRISIL (1987), ICRA (1991), CARE (1993)** (Chunks 002, 006): Indian credit-rating agencies.
+- **STCI** (Chunk 002): Securities Trading Corporation of India.
+- **Reserve Bank Directions, 1998** (Chunk 002): brought private finance companies & chit funds under RBI.
+- **Tobin's q** (Chunk 004): Nobel laureate James Tobin's valuation ratio.
+- **Securities Laws (Second Amendment) Act, 1999** (Chunk 006): officially included derivatives in "Securities" definition.
+- **Black-Scholes model / Binomial pricing model** (Chunk 007): referenced for option pricing (covered in Unit 21).
+- **NSE / BSE** (Chunk 007): Indian financial-derivatives exchanges from June 2000.
+- **MCX / NCDEX** (Chunk 008): Indian commodity-derivatives exchanges (NCDEX from Dec 2003).
+- **MSE** (Chunk 008): Metropolitan Stock Exchange — Indian currency-derivatives venue.
+
+## Key Data & Numbers
+- Indian "short-term" = up to 1 year (Chunk 001).
+- T-bill maturities: 91 / 182 / 364 days (Chunk 001).
+- Call money ≤1 day; Notice money 2–14 days; Term money 15 d–1 yr (Chunk 001).
+- BRS usance notes ≤ 90 days; stamp duty waived 1989 (Chunk 001).
+- Mumbai: 85–90% of call business in India (Chunk 001).
+- T-bill worked example: ₹100 face value at ₹98.20 → ₹1.80 discount (Chunk 001).
+- CD: 3 months – 5 years tenor; transferable after 45 days; introduced March 1989 (Chunks 002, 006).
+- CP: 1–270 days (general) or 7–365 days (per Unit 12); min ₹5 lakh face value (Chunks 002, 006).
+- Repo: 14 days – 1 year typical; reintroduced Nov 1996; extended to corp debt/PSU bonds 21 Oct 1997 (Chunk 002).
+- Finance company rates in unorganised sector: 36–48% p.a. (Chunk 002).
+- Interest rate deregulation: 1 May 1989 (Chunk 002).
+- RRBs: established 1975 under RRB Act 1976 (Chunk 002).
+- BSE Sensex: 1986, free-float, 30 stocks (Chunk 004).
+- NSE Nifty: 8 July 1996, weighted by market cap, 50 stocks (Chunk 004).
+- NSE capital-market trading started 1994 (Chunk 004).
+- Dow Jones started 1884 with 12 stocks; 30 since 1928 (Chunk 004).
+- FT Ordinary Share Index (1935): geometric mean of 30 shares (Chunk 004).
+- Nikkei 225: 225 shares, average prices not market cap (Chunk 004).
+- Government bond rates (Indian): 7–10% (Chunk 005).
+- Sovereign Gold Bond Scheme 2022-23: 2.5% p.a., 8-year maturity (Chunk 005).
+- 7.75% GOI Savings Bond launched 2018 (Chunk 005).
+- Tata Capital Financial Services bond (14 Mar 2023): ₹2,000 cr, 8.3%, 2 yrs 11 mo (Chunk 005).
+- Indore Municipal Corporation bond (20 Feb 2023): 8.25%, mat. 20 Feb 2026, ₹61 cr (Chunk 005).
+- Indian bond market: US$2.59 tr; corp bonds US$567 bn; G-secs ₹1,68,85,262 cr; corp ₹47,28,935 cr (Chunk 006).
+- Annual bond market growth: 12.3% YoY (INR), 12.6% over 2013–2023 (Chunk 006).
+- India target: US$5 trillion GDP (Chunk 006).
+- Western corporate bond markets: 50–65% of GDP (Chunk 006).
+- Cotton Trade Association: 1875 (Chunk 007).
+- Indian financial derivatives launched: June 2000 (Chunk 007).
+- Index Options & Stock Options: June/July 2001 (Chunk 007).
+- Stock Futures introduced: Nov 2001 (Chunk 007).
+- Sectoral-index derivatives approved: Dec 2002 (Chunk 007).
+- Interest-rate futures (notional bond, T-bill priced off ZCYC): June 2003 (Chunk 007).
+- NCDEX commenced: Dec 2003 (Chunk 007).
+- Stock Futures = ~55% of NSE derivatives turnover (Apr 2005) (Chunk 007).

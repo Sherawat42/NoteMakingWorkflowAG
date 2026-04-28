@@ -1,0 +1,448 @@
+--- Page 11 ---
+ 
+ 
+67 
+Role of Money in 
+Modern Economy 
+holding money becomes more costly compared to earning potential returns 
+from other investments.  
+When the demand for money rises, it leads to higher interest rates. Higher 
+interest rates can dampen investment and consumer spending, reducing 
+aggregate demand. This reduction in aggregate demand can slow down 
+economic growth and potentially lead to a recession if not addressed 
+promptly. We will explore the concept of demand for money in greater 
+details in Unit 5: Demand for Money. 
+To counteract the negative impact on aggregate demand, the central bank can 
+increase the money supply. Aggregate demand rises when money supply 
+increases faster than money demand — with a concomitant rise in output or 
+the price level. 
+By injecting more money into the economy, the central bank can stabilise 
+interest rates and support aggregate demand. This can happen through 
+mechanisms like open market operations, where the central bank buys 
+government securities, thereby increasing the reserves of commercial banks 
+and enabling them to lend more. We will discuss more about various 
+instruments of monetary policy in Block 3. 
+An increase in the money supply typically lowers interest rates, making 
+borrowing cheaper for businesses and consumers. Lower interest rates reduce 
+the cost of financing investments and major purchases, leading to higher 
+spending on capital goods and consumer products. As businesses expand and 
+consumers increase their expenditure, aggregate demand rises, boosting 
+economic output and employment. However, if the economy is already near 
+full capacity, the increased demand may primarily lead to higher prices, 
+causing inflation.  
+This intervention requires timely recognition of changes in money demand to 
+avoid economic instability.  If the monetary authority fails to recognize and 
+respond to this shift promptly, the economy may experience slower growth or 
+even a contraction. 
+The Transmission Mechanism of Monetary Policy: The Credit Channel 
+Ben Bernanke’s seminal work “Credit in the Macroeconomy” explores the 
+critical role of credit in influencing economic activity and macroeconomic 
+stability. Bernanke’s analysis highlights how fluctuations in credit 
+availability can significantly impact economic performance, often through 
+channels that traditional monetary theories might not fully account for. 
+Bernanke emphasizes the importance of the “credit channel” of monetary 
+policy, which operates alongside the traditional interest rate channel. The 
+credit channel affects the economy through the availability and terms of 
+credit, impacting businesses’ and consumers’ ability to borrow and spend. 
+This is especially relevant during periods of financial distress when credit 
+
+
+--- Page 12 ---
+ 
+ 
+68 
+Money markets tighten, leading to a reduction in investment and consumption, and 
+consequently, a slowdown in economic activity. 
+Bernanke and Blinder (1988) highlighted how monetary policy impacts bank 
+lending behaviour, establishing a foundational understanding of the bank 
+lending channel. Bernanke and Gertler (1995) explored the balance sheet 
+channel, showing how changes in firms’ net worth influence their investment 
+decisions and the broader economic impact. Recent studies have shown that 
+during the 2008 financial crisis, the impaired credit channel significantly 
+contributed to the depth and duration of the recession (Ivashina and 
+Scharfstein, 2010). 
+The credit channel is particularly relevant in the presence of asymmetric 
+information in financial markets. Banks and lenders have more information 
+about the creditworthiness of borrowers than external investors, making bank 
+lending a crucial source of finance for many firms and households. 
+(Bernanke, 1993) 
+However, it is also important to note that the effectiveness of the credit 
+channel can vary over the business cycle. During economic downturns, even 
+with expansionary policy, banks may be hesitant to lend due to increased risk 
+perceptions, limiting the channel’s effectiveness. Conversely, during booms, 
+easier credit can exacerbate economic expansions. 
+The credit channel can be broken down into two main components: 
+The Bank Lending Channel 
+The Balance Sheet Channel 
+Both components emphasize the role of financial intermediaries (banks) and 
+the financial health of borrowers in the transmission of monetary policy. 
+1)  The Bank Lending Channel 
+The bank lending channel operates through the impact of monetary policy on 
+banks’ ability to lend. We have already discussed it earlier how when the 
+Central Bank implements expansionary monetary policy (e.g., lowering the 
+interest rate or purchasing securities), it increases the reserves of commercial 
+banks. Then, the banks have more funds available to lend. As the cost of 
+funds decreases, banks can offer more loans at lower interest rates. With 
+more accessible and cheaper credit, businesses and consumers are more likely 
+to borrow for investment and consumption. This increased borrowing can 
+lead to higher aggregate demand, stimulating economic growth. Conversely, 
+contractionary monetary policy (e.g., raising interest rates) reduces bank 
+reserves, leading to tighter lending conditions, higher borrowing costs, and 
+lower aggregate demand.  
+2)  The Balance Sheet Channel 
+The balance sheet channel focuses on how monetary policy affects the 
+financial position of borrowers. Expansionary monetary policy often leads to 
+
+
+--- Page 13 ---
+ 
+ 
+69 
+Role of Money in 
+Modern Economy 
+higher asset prices (e.g., stocks, real estate). As asset values increase, the net 
+worth of businesses and households improves. Higher net worth enhances the 
+value of collateral that borrowers can pledge, improving their borrowing 
+capacity. With better financial health, borrowers face lower borrowing costs 
+and more favourable loan terms. Improved balance sheets make businesses 
+more willing to invest in new projects and consumers more inclined to spend, 
+further boosting economic activity. In a contractionary scenario, falling asset 
+prices reduce net worth and collateral values, restricting borrowing capacity, 
+and dampening investment and consumption. 
+Check Your Progress 3 
+1) Briefly describe the relationship between money, credit and 
+macroeconomic policy.   
+ ...................................................................................................................
+...................................................................................................................
+................................................................................................................... 
+2) Explain the credit transmission channel of monetary policy. 
+ ...................................................................................................................
+...................................................................................................................
+................................................................................................................... 
+4.6  LET US SUM UP 
+The unit provided a discussion about the definition, nature and functions of 
+what is commonly called ‘money’. We saw that anything that is universally 
+accepted as a medium of exchange is called money. The unit briefly 
+discussed the disadvantages of a barter economy, and how the introduction of 
+money facilitates exchange and reduces transaction costs. The unit also 
+explained the meaning of the concept of ‘liquidity’. We saw money is the 
+most ‘liquid’ of instruments, and some other instruments, which perform 
+some of the same functions that money does, are not as ‘liquid’ as money and 
+hence are called ‘near monies. 
+The unit discussed the functions of money. We saw that money serves as a 
+medium of exchange, a unit of account, a store of value, and a standard of 
+deferred payments. This last function which allows a transaction and its 
+payment to be separated in time, is the source of credit and debt in the 
+economy.  The unit brought out the difference between money, income, 
+wealth and assets. The system of payments in a modern economy was 
+discussed and the means and methods of payments were listed. Elements of 
+the macroeconomic relationship between money and credit and various 
+macroeconomic variables were discussed.  
+
+
+--- Page 14 ---
+ 
+ 
+70 
+Money 4.7  KEY WORDS 
+Barter                     : A system where goods and services are exchanged for 
+other goods and services. 
+Near Money           : Highly liquid assets which are not cash but can easily 
+be converted into cash. 
+Cryptocurrency     : Digital or virtual currencies that use cryptography for 
+security and operate on decentralized networks based 
+on blockchain technology. 
+Monetary Policy     : Monetary policy is the policy adopted by the monetary 
+authority of a nation to affect monetary and other 
+financial conditions to accomplish broader objectives 
+like high employment and price stability. 
+Digital Currency     : Digital currency is any currency, money, or money-like 
+asset that is primarily managed, stored or exchanged 
+on digital computer systems. 
+Unified Payments : 
+Interface (UPI) 
+Unified Payments Interface (UPI) is a real-time 
+payment system in India that enables seamless money 
+transfers from one bank account to another instantly 
+and free of charge through a mobile device. 
+Real Time Gross     : 
+Settlement (RTGS) 
+Real-time gross settlement systems are specialist funds 
+transfer systems where the transfer of money or 
+securities takes place from one bank to any other bank 
+on a “real-time” and on a “gross” basis to avoid 
+settlement risk. 
+National Electronic : 
+Funds Transfer 
+(NEFT) 
+The NEFT or National Electronic Funds Transfer is an 
+electronic payment system that allows users to initiate 
+direct one-to-one payment anywhere across the 
+country. One can send money to the beneficiary only if 
+he or she has a bank account with any branch in the 
+country. 
+4.8  SOME USEFUL REFERENCES 
+ Bernanke, B. S. (1993). Credit in the Macroeconomy. Quarterly Review-
+Federal Reserve Bank of New York, 18, 50-50. 
+ Bernanke, B. S., & Blinder, A. S. (1988). Credit, money, and aggregate 
+demand. 
+ Bernanke, B. S., & Gertler, M. (1995). Inside the black box: the credit 
+channel of monetary policy transmission. Journal of Economic 
+Perspectives, 9(4), 27-48. 
+
+
+--- Page 15 ---
+ 
+ 
+71 
+Role of Money in 
+Modern Economy  Errol  D’Souza (2012) Macroeconomics 2 nd edition Pearson Education, 
+New Delhi 
+ Ivashina, V., & Scharfstein, D. (2010). Bank lending during the financial 
+crisis of 2008. Journal of Financial Economics, 97(3), 319-338. 
+ McCallum, Benett   Monetary Economics 
+ RBI (2022). Concept Note on Central Bank Digital Currency. Retrieved 
+from 
+https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/CONCEPTNOTE
+ACB531172E0B4DFC9A6E506C2C24FFB6.PDF 
+ Williamson, S. D. (2018). Macroeconomics Sixth Edition Global Edition. 
+4.9 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS 
+Check Your Progress 1 
+1) Refer to Section 4.2 
+2) Refer to Section 4.2 
+3) Refer to Section 4.2 
+Check Your Progress 2 
+1) Refer to Section 4.4 
+2) Refer to Section 4.4 
+3) Refer to Section 4.4 
+Check Your Progress 3 
+1) Refer to Section 4.5   
+2) Refer to Section 4.5      
+ 
+ 
+ 
+
+
+--- Page 16 ---
+ 
+ 
+72 
+Money UNIT 5  DEMAND FOR MONEY  
+Structure 
+5.0 Objectives 
+5.1 Introduction  
+5.2     Money Demand  
+5.3 Factors Affecting the Demand for Money  
+5.4 Theories of Money Demand   
+            5.4.1 Quantity Theory of Money  
+            5.4.2 The Cambridge Approach or Neoclassical Theory 
+            5.4.3 Liquidity Preference Theory or Keynes Theory of Demand for Money 
+            5.4.4 Baumol – Tobin Theory of Transaction Demand for Money 
+            5.4.5 Tobin’s Theory of Speculative Demand for Money 
+            5.4.6 Friedman’s Quantity Theory of Money   
+5.5 Let Us Sum Up 
+5.6 Key Words 
+5.7  Some Useful References    
+5.8 Answers/Hints to Check Your Progress Exercises  
+5.0  OBJECTIVES 
+The objectives of the units are as follows:  
+ Learning the meaning of demand for money;  
+ Understanding the main factors affecting the demand for money; and  
+ Understanding various economic theories of demand for money.  
+5.1  INTRODUCTION 
+Money demand plays a crucial role in understanding the broader functioning 
+of economies, influencing monetary policy decisions, and shaping financial 
+markets. We start our exploration with the meaning of money demand curve 
+and the multifaceted factors that influence money demand, from interest rate 
+to technological advancements. These factors lay the groundwork for our 
+deep dive into various theories of money demand, each offering unique 
+insights into this fundamental aspect of economic behaviour. First, we will 
+explore the classical Quantity Theory of Money followed by the Cambridge 
+version. Next, we will delve into Keynes’ Liquidity Preference Theory, 
+which emphasizes various motives of holding money and the role of interest 
+rates in shaping individuals’ decisions to hold money versus other assets. We 
+will also examine the Baumol-Tobin theory for transaction demand, which 
+focuses on the transaction motive for holding money balances and introduces 
+ 
+
+
+--- Page 17 ---
+ 
+ 
+73 
+Demand for money the concept of opportunity cost in deciding between holding money and 
+holding interest-bearing assets. Furthermore, we will explore Tobin's theory 
+of speculative demand for money, which sheds light on how the portfolio of 
+cash and bonds is optimized and its relationship with the speculative demand 
+for money. Finally, the unit explores the Friedman’s quantity theory of 
+money. By the end of this unit, you will gain a comprehensive understanding 
+the demand for money equipping you with valuable insights into the 
+functioning of an economy.  
+5.2  MONEY DEMAND   
+Money demand means the quantity of money (or cash) which households and 
+firms want to hold with themselves, but not in other forms like bonds. 
+Keeping other factors constat, just as the demand for a good is negatively 
+related with its price, similarly, the demand for money is negatively related 
+with interest rate. Therefore, a money demand curve (showing the 
+relationship between interest rate and the money demand) slops downward as 
+shown in Figure 5.1. The simple reasoning behind this negative slope is that 
+holding money at home does not earn anything and it loses the interest being 
+offered by other assets like government bonds if that money is invested in the 
+bonds. Thus, interest rate is the opportunity cost of holding or demanding 
+money.  
+ 
+Fig. 5.1: Money Demand Curve 
+Check Your Progress 1  
+1) What is money demand?  
+ ...................................................................................................................
+...................................................................................................................
+...................................................................................................................
+................................................................................................................... 
+0
+5
+10
+15
+20
+25
+30
+35
+0 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8
+Interest rate
+Quanity of Money
+
+
+--- Page 18 ---
+ 
+ 
+74 
+Money 2) Explain the money demand curve.  
+ ...................................................................................................................
+...................................................................................................................
+................................................................................................................... 
+5.3   FACTORS AFFECTING THE DEMAND FOR 
+MONEY   
+The main factors affecting the demand for money are as follows:  
+1) Interest rate  
+Keeping other factors constant, the demand for money is influenced by 
+the anticipated returns of both money and alternative assets. When the 
+expected return on money rises, the demand for money increases. 
+Conversely, when the expected return on alternative assets increases, 
+individuals with wealth tend to shift from holding money to investing in 
+these higher-return alternatives, resulting in a decrease in the demand for 
+money. For example, suppose that an investor who has a certain amount 
+of wealth to allocate between holding money and investing in stocks. 
+Suppose initially, the expected return on both holding money (such as 
+keeping it in a savings account) and investing in stocks is 5%. 
+Now, let us suppose that there is a shift in the market, and the expected 
+return on stocks increases to 8%. In this scenario, the investor may 
+decide to reallocate some of their wealth from holding money to 
+investing in stocks. This decision is driven by the desire to earn a higher 
+return on their investment. 
+Conversely, if the expected return on holding money increases to 7%, 
+while the expected return on stocks remains at 5%, the investor might 
+decide to hold more money rather than investing in stocks. This is 
+because the higher return on holding money makes it a more attractive 
+option compared to investing in stocks. 
+In both cases, the investor’s decision to allocate their wealth between 
+holding money and investing in alternative assets is influenced by the 
+expected returns of both options, illustrating the principles outlined in the 
+theory of portfolio allocation. 
+2) Price level  
+When prices rise, people require more currency (e.g., rupee or dollar) to 
+carry out transactions, leading to a greater desire to hold onto money. Let 
+us consider an example: Imagine a small island economy where the price 
+level for basic goods like fruits and vegetables is very low compared to a 
+modern city. In this island economy, let’s say a basket of fruits costs only 
+a few island dollars. Now, fast forward a few decades, and due to 
+
+
+--- Page 19 ---
+ 
+ 
+75 
+Demand for money economic development and inflation, the price level on the island has 
+increased significantly. That same basket of fruits now costs several 
+times more island dollars. As a result of this price increase, the islanders 
+find themselves needing to hold more island dollars to conduct their 
+daily transactions. Their nominal demand for money increases because 
+they require a larger quantity of currency to purchase the same goods and 
+services as before. This increase in the price level directly impacts the 
+amount of money people wish to hold, highlighting the proportional 
+relationship between the price level and the nominal demand for money. 
+3) Income (or GDP)  
+Households and businesses retain money to streamline their transactions 
+for goods and services. As their purchasing activity expands, so does 
+their desire to hold more money at any specific interest rate. 
+Consequently, a rise in real GDP, reflecting the overall quantity of goods 
+and services exchanged in the economy, changes the money demand. 
+4) Risk Associated with Alternative Assets  
+If the risk associated with alternative assets like stocks and real estate 
+significantly rises, individuals may seek safer options, including holding 
+onto money. Consequently, an increase in overall economic risk may 
+lead to a higher demand for money. Suppose there is a period of 
+economic instability where the stock market experiences a sharp decline, 
+and there is uncertainty regarding the future performance of real estate 
+investments. During such times, investors might perceive stocks and real 
+estate as riskier assets due to the volatility and uncertainty in the market. 
+In response to this increased risk in alternative assets, individuals may 
+choose to shift their investment strategy towards safer options. They 
+might decide to hold onto more cash or invest in low-risk assets like 
+government bonds or savings accounts, which offer stability and security 
+during uncertain times. This increased preference for safer assets, 
+including holding onto money, illustrates how changes in the riskiness of 
+alternative investments can influence the demand for money. 
+5) Liquidity of Alternative Assets  
+As alternative assets become more readily convertible into cash, the 
+necessity of holding money diminishes. Similarly, if the liquidity of 
+alternative assets is less, then the demand for money increases.  
+6) Payments and Receipts Technology  
+UPI (Unified Payments Interface) platforms such as PhonPe, Google 
+Pay, Paytm have substantially reduced the demand for physical cash in 
+India. Similarly, net banking system of payments and receipts have also 
+reduced the need to carry money in hands.  Offering instant, secure 
+transactions directly from bank accounts via smartphones, they provide 
+unparalleled convenience. Moreover, UPI’s accessibility extends even to 
+
+
+--- Page 20 ---
+ 
+ 
+76 
+Money remote areas with limited banking infrastructure. Enhanced security 
+features instill confidence in users, while incentives like cashbacks 
+further incentivize digital transactions. Integration into various 
+businesses and services ensures widespread acceptance, encouraging 
+consumers to opt for digital payments over cash. Consequently, UPI has 
+transformed India’s payment landscape, making digital transactions the 
+norm and significantly decreasing reliance on physical currency. 
+5.4  THEORIES OF MONEY DEMAND  
+Over a period of time various theories explaining money demand have been 
+developed. These theories are explained here:   
+5.4.1 Quantity Theory of Money  
+Although, the quantity theory of money is basically about the money supply 
+not the demand for money, but it can be used to find out the demand for 
+money in equilibrium when the demand for money is equal to its supply. 
+Therefore, we first understand the quantity theory and then will relate it to the 
+demand side.  
+According to N.G Mankiw, David Hume is credited with the development of 
+the quantity theory of money. However, American economist Irving Fisher is 
+also credited with the algebraically development of the theory. The quantity 
+theory starts with the transaction version  of the theory which is explained 
+below: As per this version the following equation holds good:  
+𝑀 × 𝑉 = 𝑃 × 𝑇 
+Where,  
+M = Quantity of money i.e., money supply  
+V = Transaction velocity of money i.e., it shows how many times a dollar or 
+a rupee changes hands in a period of time.  
+P = Price of a transaction  
+T = Number of the transactions in a period of time  
+The above equation is known as the transaction equation or quantity 
+equation. To understand the meaning of the equation we consider the 
+following hypothetical example:  
+Suppose the quantity of money is 
+ 25 and there are 50 transactions in a year 
+with price of   5 per transaction, then as per the above equation:  
+25 V = 5 × 50 =  250 
+𝑉 = 250
+25 = 10 

@@ -1,0 +1,397 @@
+--- Page 32 ---
+ 
+ 
+202 
+Financial Markets the book value, it means wealth has been generated.  We can see that if the 
+ratio of market value to book value is equal to one, all three ratios, namely, 
+earnings price ratio (reciprocal of price-earning ratio), yield and return to 
+equity will be equal to each other. 
+Nobel laureate James Tobin has proposed a valuation ratio, called Tobin’s q, 
+after the letter he used to denote it. The q ratio is defined as: 
+Market value of equities and liabilities
+estimated replacement cost of assets
+ 
+The q ratio looks a little like the market value to book value ratio. But there 
+are two important differences: the numerator of the q ratio includes liabilities 
+of the issuer of debt instruments along with the market value of equities, that 
+is, it includes all wealth. Also, in the denominator of the q ratio, the assets are 
+valued at their replacement cost, not book value.  
+The main functions of the secondary markets are that it provides useful 
+information both to the issuer as well as to investors, the function it serves for 
+the issuer is as follows. The secondary market provides regular information, 
+by the latest prices of shares, to the original issuer of the shares about the 
+value of its shares. The periodic trading of the asset reveals to the issuer the 
+price the share commands in the market at a certain time. Such information 
+helps the issuer to evaluate how well they are using the funds from earlier 
+primary market activities, and it also provides some idea about how receptive 
+investors will be to new issues.  
+To the original buyer of shares in the initial public offering in the primary 
+market, the secondary market acts like an escape clause. If the shares do not 
+seem to be doing as well as the original buyer thought, he or she can always 
+sell them for cash. Of course, the investor can also sell it for cash to make 
+capital gains. The secondary market provides the original buyer of the shares 
+an opportunity to sell these for cash. If the investors are not confident that 
+they can move from one financial asset to another, they might be reluctant to 
+invest in any security. This will make it difficult for the issuers to issue new 
+shares, and they will have to offer higher returns or dividends to attract 
+investors. 
+The secondary markets also perform a useful function. They provide 
+information about the assets’ fair price, as well as liquidity from their assets 
+should they want to sell the assets. Another very important function 
+performed by secondary stock markets is that they reduce search costs, by 
+making it easier for buyers and sellers of assets to find each other. The 
+secondary markets also lower transaction costs.  
+Let us now discuss some basic parameters that enable one to gauge the 
+functioning of the stock market as a whole, which makes it easier to know if 
+the stock market is developed and mature or not. The parameters that we 
+should look at to judge the functioning of equity markets are volatility, 
+liquidity, size of the market, and transaction cost. The volatility of a stock is 
+
+
+--- Page 33 ---
+ 
+ 
+203 
+Capital Markets a measure of the frequency with which its price changes over some time. If 
+the price changes frequently, it means that the stock is volatile. Investors tend 
+to avoid shares with high volatility because of the risks involved. The 
+volatility of stocks also influences the outside flow of funds and hence has a 
+macroeconomic dimension. Proximate factors like speculation and trading 
+and settlement systems, as well as other factors like government policies, 
+interest rates, inflation, and the regulatory framework for equity markets all 
+affect volatility in the stock market.  
+Liquidity is a very important indicator of the proper functioning of stock 
+markets. The situation about liquidity greatly influences stock market 
+efficiency and development. A market is considered liquid when large 
+volumes of trade can take place without a significant effect on stock prices. If 
+an investor can transact at a price close to the current market price, the 
+market is considered very liquid. There are two methods for measuring 
+liquidity: the turnover ratio and the value traded ratio. The turnover ratio  
+equals the ratio of the total value of domestic shares traded to total market 
+capitalisation. This ratio seeks to measure the trading of domestic equities in 
+domestic markets relative to the size of the market. The more the volume of 
+sales, the higher the turnover. High turnover is often an indicator of low 
+transaction costs. Even if a market is large, turnover may be low despite huge 
+market capitalisation if the volume of trading is low, which can occur if the 
+market is not very active. The other measure of liquidity is the value-traded 
+ratio. This equals the ratio of the total value of domestic shares traded on the 
+major stock exchanges to the GDP. It is a reflection of organised trading of 
+shares as a proportion of GDP and is thus a macro-level indicator of liquidity 
+in the capital markets. 
+The third parameter regarding the functioning of equity markets is the size of 
+the stock market, and a useful measure of this size is the market 
+capitalisation ratio, which is the ratio of market capitalisation (the value of 
+listed shares i.e., market price × number of the equity shares) to the GDP. It is 
+economically very significant as it is based on the assumption that the size of 
+the stock market is positively correlated with the ability to mobilise capital 
+and diversify risk. Hence it is expected that in an economy with well-
+developed stock markets, the market capitalisation ratio will be large. This 
+ratio complements the value-traded ratio. The final indicator of the 
+development, maturity and vibrancy of stock markets is the level of 
+transaction costs. In the context of stock markets transaction costs would 
+include explicit costs like brokerage costs, stamp duty, commission etc., as 
+well as implicit costs like clearing and settlement costs, bad delivery, 
+paperwork and so on. If transaction costs are low, investors will be induced to 
+trade in greater volume, which in turn will raise the value traded ratio. 
+11.6  INDICES OF SHARE PRICES 
+The stock market index is a very important indicator of the performance of 
+share prices. It takes a set of stocks as representative of the prices of shares in 
+
+
+--- Page 34 ---
+ 
+ 
+204 
+Financial Markets the market, and by tracking the changes in this index, we can get an idea of 
+the overall market sentiment. The stock market index is a pointer to market 
+behaviour. The stock market index reflects market direction and indicates 
+day-to-day fluctuations in stock prices.  
+What are the characteristics of a good index of share prices? A good index 
+should have two characteristics. First, it should consider a set or group of 
+scrips that have high market capitalisation, secondly, these scrips should also 
+be highly liquid. Market capitalisation, as we have seen, refers to the sum of 
+the market value of all the stocks included in the index. The market value is 
+obtained by multiplying the price of the shares by the number of shares 
+outstanding. Liquidity refers to the ease with which a share can be bought or 
+sold at a price close to the current market price.  
+The share price index is calculated for a particular day as a percentage of the 
+aggregate market value on that day of the set of stocks included in the index 
+to the average market value of the same shares during the base period, for 
+example, the BSE Sensex (sensitive Index) is a weighted average of the 
+prices of 30 select stocks. Suppose the index is the set of prices of the largest 
+25 companies, it means that these companies are largest in terms of market 
+capitalisation. Sometimes the index is weighted. If the index is based on the 
+price of, say 35 companies, a weighted index implies that a 1%  change in the 
+price of the largest companies in the group constituting the index will have 
+more impact on the index than a 1% change in the price of the smallest. Since 
+share prices are changing frequently, the companies with the top shares do 
+not remain the same and hence the constituents of the index can change.  
+We must be careful to make a distinction between price averages and price 
+indices. In 1884, for example, Charles Dow, publisher of the World Street 
+Journal started publishing share price averages. The Dow Jones average 
+started with an average of twelve shares. Since 1928, the number of shares 
+whose price average is calculated has been thirty. The main index in Japan, 
+the Nikkei Dow 225, an index of 225 shares is based on average prices, not 
+market capitalisation. Usually, the average is an arithmetic mean, but 
+sometimes geometric mean is calculated. For example, the Financial Times  
+Ordinary Share Index which began in 1935, calculated the geometric mean of 
+the prices of 30 shares. Modern indices are based on taking the number of 
+shares and multiplying it by the price. This gives accurate weight to the 
+companies with the largest market capitalisation. 
+The majority of the stock market indices used in practice fall into two 
+categories: 
+(i) equal-weighted index, and (ii) value-weighted index. The former is an 
+index that reflects the simple arithmetic average of the sample shares at a 
+certain time (year, month or day) concerning the base period. The latter 
+reflects the aggregate market capitalisation of the sample shares at a certain 
+time concerning the base period. Thus, what we had earlier referred to as 
+
+
+--- Page 35 ---
+ 
+ 
+205 
+Capital Markets price average can also be viewed as equal-weighted index and what we had 
+referred simply to price index can be called value-weighted index. 
+Some analysts make a fine distinction even between the market 
+capitalisation-weighted method and the non-capitalisation-weighted method. 
+In this classification, the market capitalisation weighted method can be sub-
+classified into three types: full market capitalisation method; free-float 
+market capitalisation method and modified capitalisation method.  In the 
+first, the number of shares outstanding multiplied by the market price of a 
+company’s share determines the scrip’s weight in the index. The shares with 
+higher market capitalisation would have greater weightage in this kind of 
+index and will exercise greater influence on the overall index. In India, as has 
+been mentioned earlier, the BSE Sensex follows this method. So does the 
+Nifty. The free-float method does not consider a set constructed from among 
+all shares in the market but from a smaller subset of shares. It considers only 
+those shares that are freely available for buying in the market and excludes 
+strategic investments in a company and shares locked in under employee 
+stock-ownership plans. The free-float method  recognises that investible 
+market capitalisation may be lower than the total capitalisation. In this 
+method, closely held companies would have a much lower weightage. The 
+free-floating methodology is quite popular across the world. The third 
+method under the market capitalisation method is the modified 
+capitalisation method.  This method recognises that if a simple market 
+capitalisation method is followed, the largest stocks with huge market 
+capitalisation would have a disproportionate weightage and would dominate 
+the entire index. Hence, the modified capitalisation method seeks to limit the 
+influence of the largest stocks in the index.  
+The two other methods for calculating stock price indices are the price-
+weighted index and the equal-weighting method. In the former, the price of 
+each stock in the index is summed up which is then related to a base value. In 
+the equal weighting method, each stock’s percentage weight in the index is 
+equal.  
+Let us now mention some of the major indices of share prices in India and 
+abroad. In India, there are two main indices: the Bombay Stock Exchange 
+(BSE) Sensitive index (Sensex) and the National Stock Exchange (NSE) 
+Nifty. The BSE Sensex (sometimes called S&P BSE Sensex) was launched in 
+1986. It is a free-float market-weighted stock market index of 30 well-
+established and financially sound companies listed on the Bombay Stock 
+Exchange. It uses large market capitalisation.  
+The other major share price index in India is the Nifty of the National Stock 
+Exchange. The National Stock Exchange started its trading in capital market 
+segment in 1994 and in a very quick time, its volume exceeded that of BSE. 
+With collaboration with the Credit Rating Information Services of India 
+Limited (CRISIL) and Standard & Poor, the S&P CNX Nifty was launched 
+on July 8, 1996, comprising 50 scrips, which are selected based on low 
+impact cost, high liquidity and market capitalisation.  Both BSE and NSE use 
+
+
+--- Page 36 ---
+ 
+ 
+206 
+Financial Markets a weighted average method of weighting, where the weights are in proportion 
+to its market capitalisation. 
+Other than these two major indices, some other indices are the Economic 
+Times Ordinary Share Price Index, Financial Express Ordinary Price 
+Index, and the RBI Index of Security Prices. Regional stock exchanges 
+such as those in Ahmedabad, Chennai, Delhi and Kolkata have their indices. 
+We now state some major indices abroad. A very prominent index is the Dow 
+Jones Industrial Average, which is for the New York Stock Exchange, the 
+National Association of Securities Dealers Automatic Quotation (NASDAQ), 
+the Nikkei in Japan, the Standard &Poor etc.   
+Check Your Progress 3 
+1)  What is the difference between issue capital and paid-up capital? What 
+do you understand by equity premium.? 
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+2)  What are the functions performed by the secondary stock markets?  
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+11.7  LET US SUM UP 
+In this unit, light has been thrown on financial markets for long-term funds. 
+We have discussed both debt and equity markets. We started by learning 
+about the various participants in the capital market. We also came to know 
+the important functions that capital markets perform. They perform important 
+roles in providing information, enabling matching of sellers and buyers, and 
+lowering search costs and transaction costs. The unit then went on to look at 
+the comparative methods of raising finance through debt and equity. We 
+studied this choice in the context of a representative business firm. This 
+choice, which in general terms is called a firm’s capital structure, is part of 
+the firm’s financial management. 
+We next turned to a discussion of debt markets and equity markets and took 
+up their discussion one at a time, separately. We started with the debt markets 
+looked at the instruments traded in that market, and discussed some theories 
+regarding their pricing. We next studied equity markets, distinguishing 
+between primary and secondary markets. We learnt about the way the issues 
+are offered in the primary markets and we also looked at the functioning of 
+
+
+--- Page 37 ---
+ 
+ 
+207 
+Capital Markets secondary markets and learnt about their functions and uses. We studied in 
+some detail the way to know if stock markets are advanced and mature in an 
+economic system, or are they merely fledgling and poorly developed. We 
+then learnt a bit about the volatility that characterises equity markets and how 
+these are tackled. Finally, indices of share prices were discussed. We looked 
+at the requirements of a good stock price index and came to know the various 
+types of indices in use. The unit finally mentioned some of the important 
+indices in India and abroad. 
+11.8  KEY WORDS 
+Coupon                :  The periodic interest paid on a bond. It equals the face 
+value of the bond multiplied by the coupon rate of 
+interest.   
+Coupon Rate       :    Annual coupon amount divided by the face value of 
+the bond. 
+Equity Premium : When the issue price of an equity share is greater than 
+the par value, the difference is called the equity 
+premium. 
+Leverage             : The ability of a firm to service its debt. 
+Market                : 
+capitalisation 
+The sum of the market value of all the stocks included 
+in the index. 
+Working capital : Current Assets minus Current Liabilities. 
+Par Value            :
+                 Specified principal sum a bondholder is scheduled to 
+receive when the bond matures. 
+11.9  SOME USEFUL BOOKS 
+Bhole, L.M. (2004), Financial  Institutions and Markets, 4 th edition , Tata 
+McGraw-Hill, New Delhi. 
+Dothan, U. (1990),  Prices in Financial Markets , Oxford University Press, 
+New York 
+Fabozzi, F., Modigliani, F., and Jones, F. (2002) Capital Markets, Institutions 
+and Instruments 3rd edition, Prentice-Hall, New Jersey. 
+11.10 ANSWERS / HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Mechanism for bringing together buyers and sellers of various types of 
+financial assets, making information processing and dissemination easier, 
+help to develop integration among several sectors of the economy. 
+
+
+--- Page 38 ---
+ 
+ 
+208 
+Financial Markets 2) Current ratio, quick or acid-test ratio; debt ratio and the debt-equity ratio. 
+Check Your Progress 2 
+1) value of the rate of interest that makes the present value of the cash 
+stream received from owning the bond equal to the price of the bond. 
+2) 
+1 (1 ) (1 )
+T
+t T
+t
+X MA r r
+     
+Check Your Progress 3 
+1) The amount of capital that a company offers to investors is the issued 
+capital.  The part of capital subscribed by investors is called the paid-up 
+capital. The par value is the face value of the share. When the issue price 
+is greater than the par value, the difference is called the equity premium.  
+2) They provide information about the assets’ fair price, as well as liquidity 
+from their assets should they want to sell the assets, they reduce search 
+costs, by making it easier for buyers and sellers of assets to find each 
+other. They also lower transactions cost.    
+
+
+--- Page 39 ---
+209 
+Bond Markets UNIT 12   BOND MARKETS 
+Structure 
+12.0  Objectives 
+12.1  Introduction 
+12.2  Meaning of Bond Market 
+12.3  Meaning of Bond and their Classification 
+12.3.1 Meaning of Bonds 
+12.3.2 Characteristics of Bonds 
+12.3.3 Classification of Bonds 
+12.4 Valuation of Bond 
+12.5 Bond Yields 
+12.5.1 Yield to Maturity 
+12.5.2 Yield to Call 
+12.5.3 Current Yield 
+12.6 Credit Rating 
+12.7 Bond Market in India 
+12.7.1 Bond Market - A Part of The Debt Market in India 
+12.7.2 Regulators  
+12.7.3 The Growth of Indian Bond Market  
+12.7.4 Classification of the Debt Instruments  
+12.8 Let Us Sum Up 
+12.9 Key Words 
+12.10 Some Useful Books 
+12.11 Answers/Hints to Check Your Progress Exercises 
+12.0     OBJECTIVES 
+After going through this unit, you will be able to: 
+ state the concept of the bond market;
+ define bonds and categorize them according to their different types;
+ evaluate the valuation of bonds across various scenarios, including
+regular coupon bonds, floating coupon bonds, and perpetual bonds;
+ discuss bond yields such as Yield to Maturity, Yield to Call, and Current
+Yield; and
+ elucidate and analyze credit rating,
+
+
+--- Page 40 ---
+210 
+Financial Markets 12.1 INTRODUCTION 
+Suppose that a company needs ₹ 500 crore for some project and it does not 
+want to approach a bank for a loan, then what are the alternatives available? 
+One of the alternatives is the bond market. A bond market is a place where a 
+company can raise loans by issuing a loan-taking certificate (technically 
+known as a bond). Thus, an investor can purchase and sell bonds in a bond 
+market. The present unit aims to discuss the functioning of a bond market and 
+its product i.e., bonds. After reading this unit, you would be able to calculate 
+the value of a bond and make the decision to sell or buy the bond. You will 
+also be able to understand various terms used in the bond market e.g., Yield 
+to Maturity, Yield to Call, Current Yield, Coupon rate, etc. Since bonds carry 
+default and other types of risk, therefore, bonds with good ratings are 
+preferred. The last section of this unit explains the credit rating.   
+12.2 MEANING OF BOND MARKET 
+Bonds are loans that investors make to borrowers’ entities in exchange for 
+interest payments (zero, fixed, or floating) made over a defined period. 
+The bond market serves as a way for the borrowers to raise capital, and for 
+investors to earn interest income on their investments. Alternatively, a bond 
+market (also known as a debt market, fixed-income market, or credit market) 
+is the collective name given to all trades and issues of debt securities. The 
+bond market broadly describes a marketplace where investors buy debt 
+securities that are brought to the market by either governmental entities or 
+corporations. 
+The bond market can be divided into two main categories: the primary 
+market and the secondary market . In the primary market, new bonds are 
+issued and sold to investors for the first time. In other words, the primary 
+market is frequently referred to as the new issues market in which 
+transactions strictly occur directly between the bond issuers and the bond 
+buyers. In essence, the primary market yields the creation of brand-new debt 
+securities that have not previously been offered to the public. In the 
+secondary market, existing bonds are bought and sold among investors. The 
+secondary market provides liquidity to investors, allowing them to sell their 
+bonds before maturity if they need to raise cash or want to invest in other 
+assets. In the secondary market, securities that have already been sold in the 
+primary market are then bought and sold at later dates. Investors can purchase 
+these bonds from a broker, who acts as an intermediary between the buying 
+and selling parties. These secondary market issues may be packaged in the 
+form of pension funds, mutual funds, and life insurance policies — among 
+many other product structures. 
+The bond market is important to the broader economy because it helps to set 
+interest rates for other financial products, such as mortgages and loans. It also 
+plays a significant role in determining the cost of borrowing for corporations 

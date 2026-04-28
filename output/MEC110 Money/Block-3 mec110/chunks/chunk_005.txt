@@ -1,0 +1,451 @@
+--- Page 41 ---
+ 
+ 
+149 
+Monetary Policy in 
+India: Transmission 
+Mechanism 
+UNIT 9 MONETARY POLICY IN INDIA: 
+TRANSMISSION MECHANISM 
+Structure 
+9.0  Objectives 
+9.1  Introduction  
+9.2 Theoretical Framework of Monetary Policy Transmission  
+ 9.2.1 Conceptual Overview  
+ 9.2.2 Role of Financial Intermediaries  
+ 9.2.3 Channels of Transmission  
+9.3 Financial Intermediaries and Monetary Policy Transmission  
+ 9.3.1  Commercial Banks  
+ 9.3.2  Non-Banking Financial Institutions  
+ 9.3.3  Capital Markets  
+9.4 Credit Channel of Monetary Policy Transmission  
+ 9. 4.1 Mechanisms of Credit Provision  
+ 9.4.2  Impact on Borrowing Costs  
+ 9.4.3  Credit Availability and Investment  
+9.5 Interest Rate Channel of Monetary Policy Transmission  
+ 9.5.1  Influences on Interest Rates  
+ 9.5.2  Effects on Consumption and Investment 
+ 9.5.3  Yield Curve Dynamics  
+9.6 Asset Price Channel of Monetary Policy Transmission  
+ 9.6.1  Impact on Asset Prices  
+ 9.6.2  Wealth Effects and Consumer Spending  
+ 9.6.3  Implications for Financial Stability  
+9.7 Exchange Rate Channel of Monetary Policy Transmission  
+ 9.7.1 Exchange Rate Dynamics  
+ 9.7.2 Trade Balance and Competitiveness 
+ 9.7.3 External Sector  
+9.8  Effectiveness and Challenges of Monetary Policy Transmission  
+ 9.8.1  Policy Effectiveness Assessment  
+ 9.8.2  Limitations and Constraints  
+ 9.8.3  Adaptation to Changing Economic Conditions  
+ 9.8.4  Coordination with Fiscal Policy   
+9.9  Let Us Sum Up 
+9.10 Key Words 
+ 
+
+
+--- Page 42 ---
+ 
+ 
+150 
+Monetary Policy 9.11  Some Useful Books 
+9.12 Answers/Hints to Check Your Progress Exercises 
+9.13 Terminal Questions 
+9.0 OBJECTIVES 
+After going through this unit, you will be able to : 
+ Introduce the theoretical framework of monetary policy transmission; 
+ Understand the role of financial intermediaries, including commercial 
+banks, non-banking financial institutions, and capital markets; 
+ Examine of the credit channel’s mechanisms, impact on borrowing costs, 
+and credit availability for investment; 
+ Analyse the interest rate channel’s influences on interest rates, 
+consumption, investment, and yield curve dynamics; 
+ Explore the asset price channel’s impact on asset prices, wealth effects, 
+and implications for financial stability; and 
+ Discuss the dynamics of the exchange rate channel, its effects on trade 
+balance, competitiveness, and the external sector. 
+9.1  INTRODUCTION   
+In units 7 and 8 of this block, we discussed about Central bank, its role in 
+monetary policy and its role as regulator of the banking system. We also 
+discussed about objectives of monetary policy and various instruments 
+through which objectives are achieved. This unit delves into the intricate 
+mechanisms of monetary policy transmission, aiming to elucidate its 
+theoretical framework and practical implications. By exploring the roles of 
+financial intermediaries and various transmission channels, including credit, 
+interest rates, asset prices, and exchange rates, learners gain a comprehensive 
+understanding of how central bank actions reverberate through the economy. 
+Through empirical evidence and analysis, the unit also examines the 
+effectiveness and challenges inherent in monetary policy transmission. 
+9.2 THEORETICAL FRAMEWORK OF 
+MONETARY POLICY TRANSMISSION 
+9.2.1 Conceptual Overview 
+Monetary policy framework refers to the set of principles, strategies, and 
+tools used by a central bank to manage the nation’s money supply, interest 
+rates, and overall financial conditions to achieve specific economic goals. It 
+provides a framework within which the central bank makes decisions 
+regarding its monetary policy stance. Key components of Monetary 
+
+
+--- Page 43 ---
+ 
+ 
+151 
+Monetary Policy in 
+India: Transmission 
+Mechanism 
+framework include Goals of monetary policy, targets and instruments. Figure 
+9.1 shows the schematic representation of the monetary policy framework 
+that is followed around the globe by the Central banks.  
+ 
+ 
+Instruments               Operating Target         Intermediate Target  
+     Policy              
+ 
+                             Fig. 9.1: A Schematic Representation of a Monetary Policy Framework 
+The evolution of India’s monetary policy framework reflects shifts in 
+economic priorities and global integration. From a focus on maintaining 
+sterling parity to the adoption of monetary targeting and multiple indicators 
+approaches, India has gradually adapted its policy framework to changing 
+economic conditions. 
+Instruments of Monetary Policy 
+There are several direct and indirect instruments that are used for 
+implementing monetary policy. 
+1) Repo Rate:  The interest rate at which the Reserve Bank provides 
+liquidity under the liquidity adjustment facility (LAF) to all LAF 
+participants against the collateral of government and other approved 
+securities. 
+2) Standing Deposit Facility (SDF) Rate:  The rate at which the Reserve 
+Bank accepts uncollateralised deposits, on an overnight basis, from all 
+LAF participants. The SDF is also a financial stability tool in addition 
+to its role in liquidity management. The SDF rate is placed at 25 basis 
+points below the policy repo rate. With introduction of SDF in April 
+2022, the SDF rate replaced the fixed reverse repo rate as the floor of 
+the LAF corridor. 
+3) Marginal Standing Facility (MSF) Rate:  The penal rate at which 
+banks can borrow, on an overnight basis, from the Reserve Bank by 
+dipping into their Statutory Liquidity Ratio (SLR) portfolio up to a 
+predefined limit (2 per cent). This provides a safety valve against 
+unanticipated liquidity shocks to the banking system. The MSF rate is 
+placed at 25 basis points above the policy repo rate. 
+4) Liquidity Adjustment Facility (LAF):  The LAF refers to the Reserve 
+Bank's operations through which it injects/absorbs liquidity into/from 
+the banking system. It consists of overnight as well as term repo/reverse 
+repos (fixed as well as variable rates), SDF and MSF. Apart from LAF, 
+instruments of liquidity management include outright open market 
+Goals of monetary 
+
+
+--- Page 44 ---
+ 
+ 
+152 
+Monetary Policy operations (OMOs), forex swaps and market stabilisation scheme 
+(MSS). 
+5) LAF Corridor:  The LAF corridor has the marginal standing facility 
+(MSF) rate as its upper bound (ceiling) and the standing deposit facility 
+(SDF) rate as the lower bound (floor), with the policy repo rate in the 
+middle of the corridor. 
+6) Main Liquidity Management Tool:  A 14-day term repo/reverse repo 
+auction operation at a variable rate conducted to coincide with the cash 
+reserve ratio (CRR) maintenance cycle is the main liquidity 
+management tool for managing frictional liquidity requirements. 
+7) Fine Tuning Operations: The main liquidity operation is supported by 
+fine-tuning operations, overnight and/or longer tenor, to tide over any 
+unanticipated liquidity changes during the reserve maintenance period. 
+In addition, the Reserve Bank conducts, if needed, longer-term variable 
+rate repo/reverse repo auctions of more than 14 days. 
+8) Reverse Repo Rate:  The interest rate at which the Reserve Bank 
+absorbs liquidity from banks against the collateral of eligible 
+government securities under the LAF. Following the introduction of 
+SDF, the fixed rate reverse repo operations will be at the discretion of 
+the RBI for purposes specified from time to time. 
+9) Bank Rate:  The rate at which the Reserve Bank is ready to buy or 
+rediscount bills of exchange or other commercial papers. The Bank 
+Rate acts as the penal rate charged on banks for shortfalls in meeting 
+their reserve requirements (cash reserve ratio and statutory liquidity 
+ratio). The Bank Rate is published under Section 49 of the RBI Act, 
+1934. This rate has been aligned with the MSF rate and, changes 
+automatically as and when the MSF rate changes alongside policy repo 
+rate changes. 
+10) Cash Reserve Ratio (CRR):  The average daily balance that a bank is 
+required to maintain with the Reserve Bank as a per cent of its net 
+demand and time liabilities (NDTL) as on the last Friday of the second 
+preceding fortnight that the Reserve Bank may notify from time to time 
+in the Official Gazette. 
+11) Statutory Liquidity Ratio (SLR):  Every bank shall maintain in India 
+assets, the value of which shall not be less than such percentage of the 
+total of its demand and time liabilities in India as on the last Friday of 
+the second preceding fortnight, as the Reserve Bank may, by 
+notification in the Official Gazette, specify from time to time and such 
+assets shall be maintained as may be specified in such notification 
+(typically in unencumbered government securities, cash and gold). 
+12) Open Market Operations (OMOs):  These include outright 
+purchase/sale of government securities by the Reserve Bank for 
+injection/absorption of durable liquidity in the banking system. 
+
+
+--- Page 45 ---
+ 
+ 
+153 
+Monetary Policy in 
+India: Transmission 
+Mechanism 
+The recent adoption of Flexible Inflation Targeting (FIT) framework, 
+influenced by global best practices, underscores India’s commitment to 
+maintaining price stability while supporting economic growth. Under FIT, the 
+repo rate serves as the policy rate, with the Reserve Bank of India (RBI) 
+managing liquidity to achieve the desired interest rate outcomes. 
+Fig. 9.2: Flexible Inflation Targeting Framework (FIT) 
+Figure 9.2 is a diagrammatical representation of the Flexible Inflation 
+targeting framework followed by India. Further in the unit, we will take 
+reference of the figure in the Indian context.  
+9.2.2  Role of Financial Intermediaries 
+As we have discussed in Unit 2 of this course, financial intermediaries serve 
+as the linchpin of the financial system, facilitating the efficient allocation of 
+capital between surplus and deficit units. They bridge the gap between savers 
+and borrowers by pooling funds from individuals and institutions and 
+deploying them into various investment avenues. By engaging in 
+intermediation activities such as deposit-taking, lending, and risk 
+management, these entities enhance liquidity, mitigate risk, and foster 
+economic growth. 
+At the heart of their function lies the transformation of financial assets and 
+liabilities, converting short-term liabilities (deposits) into long-term assets 
+(loans and investments). This process not only ensures the efficient utilization 
+of resources but also promotes stability within the financial system. 
+Moreover, financial intermediaries play a pivotal role in reducing information 
+asymmetry between borrowers and lenders, thereby fostering trust and 
+confidence in the financial markets. 
+
+
+--- Page 46 ---
+ 
+ 
+154 
+Monetary Policy 9.2.3  Channels of Transmission 
+The transmission of financial activities occurs through a myriad of channels, 
+each playing a distinct role in shaping economic outcomes. These channels 
+encompass various mechanisms through which changes in financial 
+conditions reverberate throughout the economy, influencing consumption, 
+investment, and overall economic activity. 
+One such channel is the interest rate channel, wherein changes in monetary 
+policy rates affect borrowing costs, investment decisions, and aggregate 
+demand. Additionally, the credit channel operates through alterations in the 
+availability of credit, impacting the spending behaviour of households and 
+businesses. Moreover, the asset price channel operates via changes in asset 
+prices, influencing wealth effects and consumer spending patterns. 
+Furthermore, the exchange rate channel comes into play through fluctuations 
+in currency values, affecting trade balances, inflation dynamics, and 
+monetary policy effectiveness. Finally, the confidence channel operates 
+through changes in investor sentiment and perceptions of risk, influencing 
+asset prices and financial market stability. 
+Understanding these channels of transmission is essential for policymakers 
+and market participants alike, as they navigate the intricacies of the financial 
+system and anticipate the impact of various shocks and policy measures on 
+economic outcomes. 
+In conclusion, the role of financial intermediaries and the channels of 
+transmission are integral components of the financial system, shaping the 
+allocation of resources, the dynamics of economic activity, and the stability 
+of markets. By comprehensively exploring these concepts, this unit aims to 
+provide readers with a deeper insight into the mechanisms that drive financial 
+intermediation and the transmission of financial activities. 
+Check Your Progress 1 
+1) What are the key channels underlying the transmission of financial 
+activity in an economy? 
+……………………………………………………………………………
+……………………………………………………………………………
+…...………………………………………………………………………. 
+2) How does the Flexible Inflation Targeting framework influence the 
+monetary policy approach in India? 
+ ……………………………………………………………………………
+……………………………………………………………………………
+…...………………………………………………………………………. 
+
+
+--- Page 47 ---
+ 
+ 
+155 
+Monetary Policy in 
+India: Transmission 
+Mechanism 
+9.3 FINANCIAL INTERMEDIARIES AND 
+MONETARY POLICY TRANSMISSION 
+Financial intermediaries play a pivotal role in the transmission of monetary 
+policy, acting as conduits through which central bank actions influence 
+economic variables such as interest rates, credit availability, and investment 
+decisions. This section delves into the mechanisms through which different 
+types of financial intermediaries facilitate the transmission of monetary 
+policy, including commercial banks, non-banking financial institutions 
+(NBFIs), and capital markets.  
+9.3.1  Commercial Banks 
+Commercial banks are the cornerstone of the financial system, serving as 
+primary intermediaries between depositors and borrowers. In the context of 
+monetary policy transmission, commercial banks play a critical role in 
+channelling central bank actions to the broader economy. When central banks 
+adjust policy rates, such as the discount rate or the federal funds rate (the RBI 
+repo and reverse repo rates in India), commercial banks respond by adjusting 
+their own lending and deposit rates accordingly. These changes in interest 
+rates influence the cost of borrowing for businesses and consumers, thereby 
+impacting investment and consumption decisions. Moreover, changes in 
+central bank policy can affect the availability of credit, as commercial banks 
+adjust their lending standards and loan portfolios in response to changes in 
+monetary conditions. We will discuss more about Commercial banks in Unit 15. 
+9.3.2  Non-Banking Financial Institutions 
+Non-banking financial institutions (NBFIs), including insurance companies, 
+pension funds, and mutual funds, complement the role of commercial banks 
+in the financial system. While they do not engage in traditional deposit-taking 
+activities, NBFIs play a crucial role in intermediating funds between savers 
+and borrowers. In the context of monetary policy transmission, NBFIs 
+influence the availability and cost of credit through their participation in 
+financial markets. For instance, changes in central bank policy rates can 
+impact the returns on fixed-income securities held by NBFIs, influencing 
+their investment decisions and portfolio allocations. Additionally, NBFIs may 
+engage in lending activities or provide liquidity through money market 
+instruments, thereby transmitting monetary policy impulses to the broader 
+economy. Non-banking financial intermediaries will be discussed in greater 
+length in Unit 16.  
+9.3.3  Capital Markets 
+Capital markets serve as a vital channel for the transmission of monetary 
+policy, providing avenues for the exchange of long-term securities such as 
+stocks and bonds. Central bank actions can influence capital market 
+conditions through changes in interest rates, liquidity provision, and 
+signalling effects. When central banks adjust policy rates, they affect the 
+
+
+--- Page 48 ---
+ 
+ 
+156 
+Monetary Policy pricing of fixed-income securities, equity valuations, and the cost of capital 
+for businesses. Moreover, central bank interventions in capital markets, such 
+as open market operations and asset purchase programs, can influence market 
+liquidity and risk appetite. These changes in capital market conditions impact 
+investment decisions, asset prices, and overall economic activity, thereby 
+transmitting monetary policy impulses throughout the economy. We will read 
+more about Capital markets in Unit 12. 
+In summary, financial intermediaries play a crucial role in the transmission of 
+monetary policy, channelling central bank actions to the broader economy 
+through various mechanisms. By understanding the roles of commercial 
+banks, non-banking financial institutions, and capital markets in the 
+transmission process, policymakers and market participants can better 
+anticipate the effects of monetary policy on economic variables and make 
+informed decisions accordingly. 
+Check Your Progress 2 
+1) How do commercial banks contribute to the transmission of monetary 
+policy in the economy? 
+ ……………………………………………………………………………
+……………………………………………………………………………
+…...………………………………………………………………………. 
+2) What role do non-banking financial institutions play in the transmission 
+of monetary policy? 
+ ……………………………………………………………………………
+……………………………………………………………………………
+…...………………………………………………………………………. 
+3) How do central bank actions influence capital markets and their impact 
+on the broader economy? 
+ ……………………………………………………………………………
+……………………………………………………………………………
+…...………………………………………………………………………. 
+9.4  CREDIT CHANNEL OF MONETARY POLICY 
+TRANSMISSION 
+The credit channel of monetary policy transmission plays a pivotal role in the 
+propagation of central bank actions throughout the economy, particularly 
+influencing borrowing costs, credit availability, and investment decisions. 
+This section explores the mechanisms through which the credit channel 
+operates its impact on borrowing costs, and its implications for credit 
+availability and investment. 
+
+
+--- Page 49 ---
+ 
+ 
+157 
+Monetary Policy in 
+India: Transmission 
+Mechanism 
+9.4.1  Mechanisms of Credit Provision 
+The credit channel operates through various mechanisms by which changes 
+in monetary policy conditions affect the provision of credit by financial 
+intermediaries. When central banks adjust policy rates,  commercial banks 
+respond by recalibrating their lending rates and credit standards. Lowering 
+policy rates stimulates borrowing activity by reducing the cost of funds for 
+banks, which in turn lowers interest rates for borrowers. Conversely, 
+tightening monetary policy leads to higher borrowing costs as banks adjust 
+their lending rates upwards to maintain profitability and manage risk. 
+Additionally, changes in central bank liquidity provision and regulatory 
+policies influence the overall availability of credit in the economy. For 
+instance, central bank interventions in money markets and open market 
+operations affect bank reserves and liquidity conditions, thereby influencing 
+banks’ ability to extend credit to households and businesses. Moreover, 
+regulatory measures such as capital adequacy requirements and loan-to-value 
+ratios impact banks’ lending behaviour and the availability of credit across 
+different sectors of the economy. 
+9.4.2  Impact on Borrowing Costs 
+The credit channel exerts a direct impact on borrowing costs, influencing 
+interest rates on loans and other forms of credit extended to households and 
+businesses. When central banks lower policy rates, borrowing costs decline, 
+stimulating demand for credit and encouraging investment and consumption. 
+Conversely, raising policy rates increases borrowing costs, dampening credit 
+demand and slowing economic activity. 
+Moreover, changes in central bank policy rates influence the pricing of fixed-
+income securities and debt instruments in capital markets, affecting yields on 
+corporate bonds, mortgage-backed securities, and other financial assets. 
+These changes in asset prices and market interest rates further influence 
+borrowing costs for businesses and consumers, shaping their investment and 
+financing decisions. 
+9.4.3  Credit Availability and Investment 
+The credit channel also influences credit availability and investment 
+decisions by affecting banks’ willingness to extend loans and the overall 
+supply of credit in the economy. Lowering policy rates encourages banks to 
+expand their lending activities, leading to increased credit availability and 
+easier access to financing for households and businesses. This, in turn, 
+stimulates investment in productive activities, such as business expansion, 
+capital expenditure, and housing construction. 
+Conversely, tightening monetary policy reduces credit availability as banks 
+become more risk-averse and tighten their lending standards. This 
+constriction in credit supply can impede investment and economic growth, 
+leading to a slowdown in economic activity and a decline in asset prices. 
+
+
+--- Page 50 ---
+ 
+ 
+158 
+Monetary Policy Moreover, changes in credit conditions and the availability of financing can 
+amplify the effects of monetary policy on aggregate demand, investment, and 
+employment dynamics. 
+In summary, the credit channel of monetary policy transmission plays a 
+crucial role in shaping borrowing costs, credit availability, and investment 
+decisions in the economy. By understanding the mechanisms through which 
+changes in monetary policy conditions influence the provision of credit by 
+financial intermediaries, policymakers and market participants can better 
+anticipate the effects of monetary policy actions on economic variables and 
+adjust their strategies accordingly. 
+Check Your Progress 3 
+1) How does the credit channel of monetary policy transmission influence 
+borrowing costs in the economy? 
+ ……………………………………………………………………………
+……………………………………………………………………………
+…...………………………………………………………………………. 
+2) What are the mechanisms through which changes in central bank policy 
+rates affect credit availability? 
+ ……………………………………………………………………………
+……………………………………………………………………………
+…...………………………………………………………………………. 
+3) How does the tightening of monetary policy impact investment decisions 
+and credit availability according to the credit channel? 
+ ……………………………………………………………………………
+……………………………………………………………………………
+…...………………………………………………………………………. 
+9.5  INTEREST RATE CHANNEL OF MONETARY 
+POLICY TRANSMISSION 
+The interest rate channel of monetary policy transmission serves as a critical 
+mechanism through which central bank actions influence economic activity 
+by affecting interest rates across various financial markets. This section 
+examines the influences on interest rates, the effects on consumption and 
+investment, and the dynamics of the yield curve within the context of the 
+interest rate channel. 
+9.5.1  Influences on Interest Rates 
+Central bank policy actions, such as changes in the target federal funds rate 
+or the discount rate, exert direct influence on short-term interest rates. When 

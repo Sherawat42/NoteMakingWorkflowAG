@@ -1,0 +1,528 @@
+--- Page 33 ---
+237 
+Financial Stability and 
+Related Issues 
+f) Lack of robust legal and regulatory framework: The legal and
+regulatory framework have an impact on the financial stability of the
+various financial institutions. Lack of a robust legal and regulatory
+framework can lead to high risk in the financial system, and impose a
+threat on the financial stability as it fails to mitigate the impact of any
+kind of risk like financial crisis risk, global risk, liquidity risk etc.
+g) Global factors:  Global factors like international trade relations and
+agreements, global economic trends, geopolitical events, etc. can
+significantly impact the financial stability of the financial system of a
+country. For instance, a global recession or a trade war between major
+economies can impact the financial stability of a country, like the war
+between Russia and Ukraine has an impact on the financial stability of
+the respective countries and their major trading partners.
+We can conclude that financial stability is affected by many factors and if a 
+country has a robust framework for regulating the financial system the impact 
+of the above discussed factors may be reduced to a greater extent. 
+Check Your Progress 1 
+1) Define Financial Stability.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Bring out the factors that affect the financial stability of an economy.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Give an example of any global financial crisis that has an impact on the
+financial stability of India.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+26.4  ISSUES IN FINANCIAL STABILITY 
+There could be several issues that can arise in maintaining financial stability. 
+These issues are: 
+
+
+--- Page 34 ---
+238 
+Financial Stability inancial Stability anda) Systemic risk:  Systemic risk refers to the risk that imposes a barrier in
+the efficient financial system that can have a severe impact on the entire
+economy of a country. There can be various sources of systemic risk like
+interconnections and interdependence between the financial institutions
+and markets, and the contagion effects that begin from the failure of one
+institution and engulf the entire institutions or markets resulting in
+widespread financial crisis. Systemic risk impacts financial stability in
+many ways as it can lead to the collapse of financial institutions and
+markets, can also result in a loss of confidence in the financial system
+and can also lead to a contagion effect.
+b) Shadow banking : Shadow banking refers to a system where the
+provision of credit and related financial services are done by entities that
+are not regulated, unlike banks. In the absence of a robust regulatory
+framework, such entities engage themselves in risky lending practices
+which increases the risk of default and can lead to systemic risk. There
+are various risks associated with shadow banking like it may build up
+systemic risk as it is not completely regulated and therefore it lacks
+accountability and may create difficulties in the financial system.
+Shadow banking can also lead to financial instability in the absence of
+any review mechanism.
+c) Cyber-security: Technology offers both benefits and limitations to any
+system as is the case with the financial system. Cyber-security threats
+like cyber attacks can pose a significant risk to the financial stability of
+any economy. Financial institutions like banks, non-banking financial
+institutions, investment firms, and payment systems, are the prime target
+for cybercriminals. Cyber-security threats can adversely impact financial
+stability in various ways like disrupting the flow of funds between
+financial institutions, through illegal access of sensitive financial
+information and using such information to engage in fraudulent activities
+like money laundering, unauthorized transactions etc. All this ultimately
+results in losing the confidence of the public in the financial system
+which can further result in a financial crisis. Therefore, it becomes very
+important to have a robust system of cyber-laws to deal with such kinds
+of cyber-attacks.
+d) International spill-ins and spill-outs: The international interconnections
+of financial markets can lead to international spillovers. Financial
+instability in one country has an impact on the other country which
+means that any financial disruption or financial shocks of one country
+can easily and quickly spread and affect the financial stability of the
+other country. All this may may result in a loss of confidence in financial
+markets and institutions, currency depreciation, asset price volatility etc.
+This could also result in increasing the threat of systemic risks besides
+exposing the economy to other vulnerabilities.
+
+
+--- Page 35 ---
+239 
+Financial Stability and 
+Related Issues 
+e) Too-big-to-fail: This means that some financial institutions are so large
+that their failure could have a catastrophic impact on the economy. This
+perception of too-big-to-fail can result in moral hazard as these financial
+institutions are guaranteed by the government or RBI and therefore, they
+take excessive risks since they know that they will not be allowed to fail.
+Such institutions also erode the confidence of the general public as the
+public believes that these institutions are above the law and that their
+money (taxes) is being used to protect these institutions against failure.
+Financial stability can only be maintained through a comprehensive and 
+proactive approach of various parties like policymakers, regulators, and 
+market participants. These participants must take the above issues in mind 
+while planning for financial stability. 
+26.5  CHALLENGES IN FINANCIAL STABILITY 
+Planning financial stability is not an easy task for policymakers, regulatory 
+bodies or market participants and several challenges exist in maintaining 
+financial stability. These challenges are: 
+a) Highly Complex : The financial system of India is increasingly
+becoming complex and has a wide range of financial instruments and
+institutions. Because of this complexity, the financial system is exposed
+to various types of risks like liquidity risk, credit risk, systemic risk etc.
+These risks impose a threat to the financial stability of the financial
+system of our country.
+b) Rising Prices: India has witnessed high inflation which can be a major
+threat to its financial stability. Inflation beyond a controllable limit can
+hurt the economy as it reduces the purchasing power of individuals,
+reduces the value of savings, and increases the cost of borrowing, which
+in turn discourages investments, and production and ultimately hurts the
+economy.
+c) Fiscal deficit : Fiscal deficit arises when the spending by the
+government exceeds its earnings. Such a situation leads to public debt
+and puts pressure on the government to increase taxes and cut spending.
+All this leads to a negative impact on the economy.
+d) Growing Non-performing Assets (NPAs): NPAs may be referred to as
+bad loans or loans that have not been repaid. Several banks in India are
+suffering from the problem of growing NPAs which may result in a
+liquidity crisis and can be a major threat to the financial stability as
+such bad loans reduce the profitability of financial institutions.
+e) Organizational Deficiencies: Several structural challenges also exist in
+the country that impose challenges on financial stability. These
+organizational deficiencies arise due to the existence of a large informal
+
+
+--- Page 36 ---
+240 
+Financial Stability inancial Stability andsector, weak infrastructure, and the absence of a robust regulatory 
+framework. Such factors make it difficult for the central bank and the 
+government to effectively regulate and guard economic activities, 
+which can be a threat to financial stability. 
+f) Outside influences: Several external factors also make India vulnerable
+to managing financial stability. These outside influences can be changes
+in global commodity prices, fluctuations in exchange rates, shifts in
+global economic conditions etc. Such factors can have a bearing on a
+country’s trade and investment flows, which can have a ripple effect on
+the economy.
+g) Unequal access to information : This refers to a situation where one
+party in a transaction has more information than the other party. This
+leads to adverse selection and moral hazard, where the party with less
+information ends up making a poor decision involving excessive risk.
+Such a situation is challenging and leads to distrust or lack of
+confidence in the parties having less information and may lead to
+financial instability.
+h) Behavioural biases : Behavioural biases like herd behaviour and
+overconfidence end up in an investor making a decision that involves
+excessive risk and contributes to financial instability. These biases are
+difficult to predict and rationalize, as they are deeply rooted in
+individual and group psychology.
+The objective of financial stability can be achieved through a comprehensive 
+and coordinated approach that requires a deep understanding of the various 
+components of the financial system and the economy in general and by 
+identifying the various types of risks in particular and developing a system of 
+robust regulatory framework. 
+Check Your Progress 2 
+1) Explain the major issues in financial stability.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Discuss the various challenges related to financial stability.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+
+
+--- Page 37 ---
+241 
+Financial Stability and 
+Related Issues 
+3) How a country like India can achieve financial stability?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+26.6  RISKS AND FINANCIAL INSTABILITY 
+Various types of risks that may trigger financial instability are: 
+a) Cyber-security threats  can adversely impact financial stability in
+various ways like disrupting the flow of funds between financial
+institutions, through illegal access to sensitive financial information and
+using such information to engage in fraudulent activities like money
+laundering, unauthorized transactions etc. All this ultimately results in
+losing the confidence of the public in the financial system which can
+further result in a financial crisis. Therefore, it becomes very important
+to have a robust system of cyber-laws to deal with such kinds of cyber-
+attacks.
+b) Systemic risk  refers to the risk that imposes a barrier in the efficient
+financial system that can have a severe impact on the entire economy of
+a country. There can be various sources of systemic risk like
+interconnections and interdependence between the financial institutions
+and markets, and the contagion effects that begin from the failure of one
+institution and engulf the entire institutions or markets resulting in
+widespread financial crisis. Systemic risk impacts financial stability in
+many ways as it can lead to the collapse of financial institutions and
+markets, can also result in a loss of confidence in the financial system
+and can also lead to a contagion effect.
+c) Credit risk : Credit risk arises when the borrower fails to meet its
+financial obligations in time, or it may be defined as when a borrower
+defaults on a loan. To control such kind of risk various techniques are
+employed like checking the credibility score of the prospective
+borrower before lending credit or asking for collateral etc. By applying
+such kind of techniques, the risk of default may be minimized and
+financial stability may be ensured.
+d) Market risk : It refers to the risk that arises due to volatility in the
+financial market. Market rest triggers the risk of loss arising from
+changes in market price like asset price bubbles. To reduce the impact
+of the market risk and ensure financial stability in a country, the
+Reserve Bank of India and the various regulatory bodies apply tools
+like setting interest rates, regulating the activities of the Financial
+Institutions and implementing the macro-prudential policy.
+e) Operational risk : It may arise due to the lack of a strong internal
+system of an institution due to which problems like fraud, errors or
+
+
+--- Page 38 ---
+242 
+Financial Stability inancial Stability andtechnical failures may trigger. To minimize the impact of operational 
+risk various tools like risk management framework, internal control 
+system and regulatory supervision techniques are adopted. 
+f) Liquidity risk : It is a risk that arises from a shortage of liquid funds
+that are required to meet the financial obligation as and when they arise
+to manage the liquidity risk and ensure financial stability the
+Institutions apply various methods like maintaining adequate capital
+and liquidity reserves, implementing liquidity risk management etc.
+g) Interest rate risk : It refers to the risk that arises due to changes in the
+interest rates which have a bearing on the value of financial instruments
+and have an impact on the profitability of the financial institution.
+Interest rate risk can be minimized by applying various tools like stress
+testing, interest rates, risk management framework etc.
+h) Political risk : It refers to the risk that arises due to political events or
+actions like changes in government policy, geopolitical tensions, etc.
+Political risk hurts financial stability as it results in the loss of investors’
+confidence and can lead to regulatory changes to minimize political
+unrest. The various tools that may be applied are diversifying the
+geographic exposure, implementing a proper risk management
+framework etc.
+26.7  STABILITY MEASURES FOR ENSURING 
+FINANCIAL STABILITY 
+Various ways can help in achieving the objective of financial stability: 
+a) Robust regulatory framework : A robust regulatory framework is an
+essential requirement for ensuring financial stability. A country
+requires regulations that promote fairness and transparency,
+accountability and risk management leading to a sound financial
+system.
+b) Macro-prudential policies : Macro-prudential policies help prevent
+systemic risk thereby resulting in financial stability. These policies
+include measures such as counter-cyclical capital buffers, reserve
+requirements, loan-to-value ratios etc.
+c) Supervision and monitoring : Through regular supervision and
+monitoring of financial institutions and keeping a check on the
+financial health of the institutions financial stability in the system can
+be promoted. Supervision and monitoring help in identifying whether
+the institutions are complying with the rules and regulations or not.
+d) Crisis management framework : It refers to a framework that
+consists of a set of policies and procedures that an institution may
+apply to manage and respond to a crisis. A crisis management
+framework is essential to ensure that financial crises are managed
+effectively.
+
+
+--- Page 39 ---
+243 
+Financial Stability and 
+Related Issues 
+e) Global cooperation: Financial stability is a global issue, and therefore
+global cooperation is essential to ensure the stability of the financial
+system. Global cooperation includes cooperation between all global
+regulators, central banks of all countries and other global
+organizations to coordinate policy formulation and share information
+on different financial aspects.
+Financial stability ensures the smooth functioning of the entire financial 
+system which is very important for the growth of the company. 
+Check Your Progress 3 
+1) What are the various measures that may be adopted to ensure stability
+in the financial system?
+…………………………………………………………………………
+…………………………………………………………………………
+…………………………………………………………………………
+…………………………………………………………………………
+2) Explain the various types of risks to the financial stability of a country
+and how the same can be controlled.
+…………………………………………………………………………
+…………………………………………………………………………
+…………………………………………………………………………
+…………………………………………………………………………
+26.8  FINANCIAL STABILITY AND 
+DEVELOPMENT COUNCIL 
+Established in December 2010 by the Government, the Financial Stability and 
+Development Council (FSDC) serves as the apex forum to strengthen 
+mechanisms for upholding financial stability, reinforcing inter-regulatory 
+coordination, and fostering the development of the financial sector. Chaired 
+by the Union Finance Minister, its esteemed members comprise the Governor 
+of the Reserve Bank of India, the Finance Secretary and/or Secretary of the 
+Department of Economic Affairs, the Secretary of the Department of 
+Financial Services, the Chief Economic Adviser of the Ministry of Finance, 
+the Chairperson of the Securities and Exchange Board of India (SEBI), the 
+Chairperson of the Insurance Regulatory and Development Authority 
+(IRDA), and the Chairperson of the Pension Fund Regulatory and 
+Development Authority (PFRDA). 
+The Council’s purview encompasses the macro-prudential supervision of the 
+economy, including the oversight of large financial conglomerates, and the 
+resolution of inter-regulatory coordination and financial sector development 
+
+
+--- Page 40 ---
+244 
+Financial Stability inancial Stability andmatters. It also prioritizes initiatives concerning financial literacy and 
+inclusion. 
+Furthermore, an FSDC Sub-committee, chaired by the Governor of the RBI, 
+convenes more frequently than the full Council. All members of the FSDC 
+also hold membership in the Sub-committee, alongside the four Deputy 
+Governors of the RBI and the Additional Secretary of the DEA responsible 
+for FSDC affairs. The Member Secretary of the Sub-committee is the 
+Executive Director of the RBI, overseeing financial stability, with the 
+Financial Stability Unit (FSU) of the RBI serving as the Secretariat for the 
+Sub-committee. 
+26.9  FINANCIAL STABILITY REPORT 
+The Financial Stability Report (FSR) is a biannual report issued by the 
+Reserve Bank of India (RBI). This report presents the consolidated evaluation 
+of the Sub-Committee of the Financial Stability and Development Council 
+(FSDC) regarding the risks to financial stability and the robustness of the 
+financial system. 
+Here are the two latest Financial Stability Reports as released on 28 th 
+December 2023 and 28th June 2023 (source: rbi.org.in) 
+Highlights of Report released in December 2023 
+The global economy confronts a multitude of challenges, including the 
+prospect of decelerating growth, substantial public debt burdens, escalating 
+economic fragmentation, and persistent geopolitical tensions. However, the 
+Indian economy and its domestic financial system demonstrate resilience, 
+underpinned by robust macroeconomic fundamentals, sound financial 
+institution balance sheets, moderating inflation trends, an improving external 
+trade position, and ongoing fiscal consolidation efforts. 
+As of September 2023, scheduled commercial banks (SCBs) reported a 
+Capital Risk-Weighted Assets Ratio (CRAR) of 16.8% and a Common Equity 
+Tier 1 (CET1) ratio of 13.7%. Additionally, SCBs witnessed a decline in their 
+gross non-performing assets (GNPA) ratio to a multi-year low of 3.2%, with 
+the net non-performing assets (NNPA) ratio reaching 0.8%. 
+Macro stress tests for credit risk indicate that SCBs are anticipated to 
+maintain compliance with minimum capital requirements. System-level 
+CRAR projections for September 2024 stand at 14.8%, 13.5%, and 12.2%, 
+respectively, under baseline, medium, and severe stress scenarios. 
+Furthermore, the non-banking financial companies (NBFCs) sector exhibits 
+enhanced resilience, with a CRAR of 27.6%, a GNPA ratio of 4.6%, and a 
+return on assets (ROA) of 2.9%, as recorded in September 2023. 
+
+
+--- Page 41 ---
+245 
+Financial Stability and 
+Related Issues 
+Highlights of Report released in June 2023 
+Amidst heightened uncertainty globally due to banking system vulnerabilities 
+in certain nations, ongoing geopolitical tensions, and moderating but elevated 
+inflation, the global economy faces challenges. 
+Nevertheless, the Indian economy and its domestic financial system exhibit 
+resilience, supported by robust macroeconomic fundamentals. Sustained 
+growth momentum, decreasing inflation, a narrower current account deficit, 
+escalating foreign exchange reserves, ongoing fiscal consolidation, and a 
+sturdy financial system collectively propel the economy towards sustained 
+growth. 
+Healthy balance sheets of both banks and corporations are fostering a new 
+cycle of credit and investment, enhancing the outlook for the Indian economy. 
+As of March 2023, scheduled commercial banks (SCBs) achieved historical 
+highs in their Capital Risk-Weighted Assets Ratio (CRAR) at 17.1% and 
+Common Equity Tier 1 (CET1) ratio at 13.9%. Additionally, SCBs witnessed 
+a decline in their gross non-performing assets (GNPA) ratio to a 10-year low 
+of 3.9%, with the net non-performing assets (NNPA) ratio decreasing to 
+1.0%. 
+Macro stress tests indicate the ability of SCBs to meet minimum capital 
+requirements even under severe stress scenarios. Projections for the system-
+level CRAR in March 2024, under baseline, medium, and severe stress 
+scenarios, stand at 16.1%, 14.7%, and 13.3%, respectively. 
+Highlights of Report released in June 2024 
+The Reserve Bank released the 29th issue of the Financial Stability Report 
+(FSR) on june 27,2024, which reflects the collective assessment of the Sub-
+Committee of the Financial Stability and Development Council (FSDC) on 
+the resilience of the Indian financial system and risks to financial stability. 
+ The global economy is facing heightened risks from prolonged
+geopolitical tensions, elevated public debt, and the slow progress in the
+last mile of disinflation. Despite these challenges, the global financial
+system has remained resilient, and financial conditions stable.
+ The Indian economy and the financial system remain robust and resilient,
+anchored by macroeconomic and financial stability. With improved
+balance sheets, banks and financial institutions are supporting economic
+activity through sustained credit expansion.
+ The capital to risk-weighted assets ratio (CRAR) and the common equity
+tier 1 (CET1) ratio of scheduled commercial banks (SCBs) stood at 16.8
+per cent and 13.9 per cent, respectively, at end-March 2024.
+ Scheduled Commercial Banks (SCBs)’ gross non-performing assets
+(GNPA) ratio fell to a multi-year low of 2.8 per cent and the net non-
+performing assets (NNPA) ratio to 0.6 per cent at end-March 2024.
+
+
+--- Page 42 ---
+246 
+Financial Stability inancial Stability and Macro stress tests for credit risk reveal that SCBs would be able to
+comply with minimum capital requirements, with the system-level
+CRAR in March 2025 projected at 16.1 per cent, 14.4 per cent and 13.0
+per cent, respectively, under baseline, medium and severe stress
+scenarios. These scenarios are stringent conservative assessments under
+hypothetical shocks and the results should not be interpreted as forecasts.
+ Non-banking financial companies (NBFCs) remain healthy, with CRAR
+at 26.6 per cent, GNPA ratio at 4.0 per cent and return on assets (RoA) at
+3.3 per cent, respectively, at end-March 2024.
+Check Your Progress 4 
+1)  What is FSDC? Why is it formed?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2)  Mention the highlights of the Financial Stability Report published in
+December 2023.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+26.10  LET US SUM UP 
+This unit discussed about financial stability which is one of the important 
+objectives of the Reserve Bank of India (RBI). A robust financial system 
+forms the backbone of any nation, and thus, maintaining financial stability is 
+extremely essential. The Reserve Bank of India closely monitors the financial 
+health of key components such as banks and NBFCs, identifying potential 
+risks or stress points. This vigilance allows for timely interventions to prevent 
+any disruptions to the financial system, thereby safeguarding financial 
+stability and fostering sustained economic growth. Different factors affecting 
+financial stability include macroeconomic factors, default risk factor, 
+unexpected change in asset prices factor, operational risk factor, liquidity risk 
+factor and lack of robust legal and regulatory framework. There could be 
+several issues that can arise in maintaining financial stability. Some of them 
+are systemic risk, shadow banking, cyber-security, international spill-ins and 
+spill-outs etc. The objective of financial stability can be achieved through a 
+comprehensive and coordinated approach that requires a deep understanding 
+of the various components of the financial system and the economy in general 
+and by identifying the various types of risks in particular and developing a 
+system of robust regulatory framework. 
+
+
+--- Page 43 ---
+247 
+Financial Stability and 
+Related Issues 26.11  KEY WORDS 
+Credit Risk : It is the probability of a financial loss resulting from a 
+borrower’s failure to repay a loan. 
+Liquidity Risk : Liquidity risk is the risk that a company or an 
+individual will not have enough cash to meet its 
+financial obligations (pay its debts) on time. 
+Foreign 
+Exchange Risk 
+: 
+Foreign exchange rate risk is the risk of financial 
+impact due to exchange rate fluctuations. 
+Market Risk : Market risk is the possibility that an individual or 
+other entity will experience losses due to factors that 
+affect the overall performance of investments in 
+the financial markets.  
+Financial 
+Stability 
+: Financial stability is defined as “a condition in which 
+the financial system is not unstable”. 
+Systemic Risk : Systematic risk refers to the risk inherent to the entire 
+market or market segment due to a certain 
+event. Examples include natural disasters, changes in 
+inflation rate, war, etc. 
+NBFCs : Non-banking financial companies (NBFCs), also 
+known as non-banking financial institutions (NBFIs), 
+are financial institutions that offer various banking 
+services but do not have a banking license.  
+Micro-
+prudential 
+norms 
+:  Micro-prudential regulation focuses on the stability of 
+individual banking institutions and the protection of 
+their customers rather than the economy as a whole. 
+Operational 
+Risk 
+: 
+Operational risk summarizes the uncertainties and 
+hazards a company faces when it attempts to do its 
+day-to-day business activities within a given field or 
+industry.  
+26.12 SOME USEFUL BOOKS 
+ Ramlall, I (2018), Understanding Financial Stability, Emerald Publishing  
+ Moenjak, Thammark (2014), Central Banking: Theory and Practice in 
+Sustaining Monetary and Financial Stability, Wiley Publication, 1st Edition. 
+26.13 ANSWERS/ HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Financial stability refers to a financial system that is resilient to any
+shock or disruptions. The financial system consists of financial
+
+
+--- Page 44 ---
+248 
+Financial Stability inancial Stability andinstitutions like banks, non-banking financial institutions, financial 
+markets, and financial instruments. 
+2) Macroeconomic factors, default risk factors, unexpected changes in asset
+prices factor, operational risk factors, liquidity risk factors, lack of robust
+legal and regulatory framework, and global factors.
+3) War between Russia and Ukraine
+Check Your Progress 2 
+1) Systemic risk, shadow banking, cyber-security, international spill-ins and
+spill-outs, too-big-to-fail.
+2) Highly Complex, rising prices, fiscal deficit, growing non-performing
+assets, organizational deficiencies, outside influences, Unequal access to
+information, and Behavioural biases.
+3) The objective of financial stability can be achieved through a
+comprehensive and coordinated approach that requires a deep
+understanding of the various components of the financial system and the
+economy in general and by identifying the various types of risks in
+particular and developing a system of robust regulatory framework.
+Check Your Progress 3 
+1) Robust regulatory framework, macro-prudential policies, supervision
+and monitoring, crisis management framework, global cooperation.
+2) Cyber-security threats , systemic risks, credit risks, market risks,
+operational risks, liquidity risks, Interest rate risks, Political risk
+Check Your Progress 4 
+1) Established in December 2010 by the Government, the Financial
+Stability and Development Council (FSDC) serves as the apex forum to
+strengthen mechanisms for upholding financial stability, reinforcing
+inter-regulatory coordination, and fostering the development of the
+financial sector.
+2) Refer to Section 26.9

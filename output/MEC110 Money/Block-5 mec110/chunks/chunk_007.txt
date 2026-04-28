@@ -1,0 +1,450 @@
+--- Page 61 ---
+60 
+Financial Institutions iv) All categories except index funds can only have one fund per
+classification, i.e. an AMC can have a maximum of 34 funds other than
+index funds.
+SEBI has proposed AMCs to set up a Unit Holder Protection Committee  
+across all products and services. This committee will independently review 
+AMC’s decision from the unit-holders interest perspective. SEBI on 29 
+March, 2023, has allowed: 
+i) Diverse entities, including private equity funds, can become mutual
+fund sponsors.
+ii) Multiple environmental, social and governance (ESG) schemes can be
+launched by MFs.
+iii) It is also evaluating rules for the total expense ratio (TER) process by
+MFs, for which detailed guidelines will be out soon.
+iv) SEBI has brought in a backstop facility for specified debt funds. A
+backstop fund has to be created by mutual funds to buy corporate bonds
+during times of stress.
+v) By strengthening and widening the existing eligibility criteria for
+sponsors, the regulator has introduced an alternative route to enable a
+diverse set of entities to become sponsors of MFs. This will make
+private equity eligible to become a sponsor of MFs — a long pending
+move.
+Given the size of the industry and its importance to the economy, it is 
+understandable that SEBI wishes to examine processes and practices across 
+the industry. On paper, the rules and regulations governing funds are quite 
+stringent but ensuring that 40 funds and their respective AMCs and trustees 
+are complying strictly is a difficult task. SEBI will introduce “MF Lite” 
+regulations during FY 2023-24 and these will reduce the compliance burden 
+on the purveyors of passive instruments to around a tenth of current levels.  
+It is good that the SEBI is proposing to make mutual fund AMCs more 
+accountable and curtailing the practice of passing the blame for lapses on 
+mutual fund trustees. This appears to have narrowed the responsibility of the 
+trustees to a few core areas such as identifying conflicts of interest between 
+the mutual fund shareholders and unit holders. With the formation of a unit-
+holder protection committee under the Board of the AMC, the fund house is 
+better placed to assume the responsibility of protecting investors (Editorial 
+Comment, The Hindu Business Line, 02 April 2023). 
+16.5 WORKING OF SEBI 
+In this section, a brief sketch of the regulator’s work is given about the 
+following areas (Sabarinathan, 2010): 
+
+
+--- Page 62 ---
+61 
+SEBI 1) The primary market, market access and intermediaries : SEBI has
+regulated the primary market  through (i) the regulation of issuers'
+access to the market (ii) regulation of information production at the
+time of issue, and (iii) regulation of processes and procedures relating
+to the issuance of securities. All three aspects have evolved
+considerably over the years.
+2) Disclosure requirements : With the introduction of the corporate
+governance requirements in 2000-01, disclosure of materially
+significant related party transactions with promoters, directors,
+management, subsidiaries, relatives and so on was added. Over the
+years, having increased the frequency of quarterly reporting the
+disclosure requirements have started mandating a more fine-grained
+presentation of the performance of the company. SEBI has tightened
+the disclosure requirements for listed firms. These norms are sensible
+and they would help in reducing information asymmetry.
+3) Corporate Governance: SEBI has led the effort to improve standards
+of corporate governance in India. SEBI’s initiatives starting with the
+committee headed by Mr Kumar Mangalam Birla and thereafter the
+two reports presented by the Committee headed by Mr. N R Narayana
+Murthy, culminated in the introduction of Clause 49 in the listing
+agreement. The provisions of Clause 49 are often compared with the
+Sarbanes Oxley Act 2002 and are said to draw upon that legislation in
+the objectives as well as approach to regulating corporate governance.
+4) Market for corporate control : Takeovers and acquisitions are
+regulated by the SEBI. The Takeover Code has enabled an active
+market for corporate control to evolve in India. The Takeover Code is
+an initiative entirely attributable to SEBI.
+5) Trading Mechanisms : SEBI played an important role in moving
+many Indian stock exchanges to adopt an electronic trading system.
+The automation of trading and post-trading systems on the major
+stock exchanges (i) reduced manipulation of prices and concealment
+of audit trails of such manipulation (ii) ensured investors received
+time-based priority and correct prices for their (iii) fundamentally
+altered the economics of the business of stock exchanges as the
+operations of NSE and The Stock Exchange, Mumbai were allowed to
+be extended electronically to other cities from 1996-97.
+6) Settlement systems: With the introduction of the dematerialisation of
+securities SEBI moved the stock exchanges gradually to a T+2 rolling
+settlement from April 2003. These developments were also
+accompanied by the discontinuation of several risk management
+products that were in use in disguised forms such as the badla, a form
+of futures-based trading. The combined result of these initiatives is the
+reduction in transaction costs.
+
+
+--- Page 63 ---
+ 
+ 
+62 
+Financial Institutions 7) Dematerialisation: Starting January 1998 dematerialisation was 
+gradually made compulsory for all issuers and all IPOs in September 
+2001. Dematerialisation brought about several benefits in terms of 
+greater liquidity, no loss or risk on account of mutilation or loss of 
+scrips, shorter periods of book closure for corporate actions such as 
+dividends payments, rights or bonus issues; and eliminated delays in 
+transfer of shares. The dematerialization has maintained the 
+momentum that was provided by the regulatory push from SEBI.  
+8) Institutionalisation of Trading and Ownership of Securities : A key 
+feature of developed securities markets is the extent of institutional 
+ownership of shares as well as the increasing share of institutions in 
+securities trade. There is a strong and increasing link between FII 
+inflows and market returns but of unsure causal direction. These 
+investors have exerted pressure on Indian corporations to raise their 
+standards of governance.   
+9) Market Integrity and Insider Trading : To maintain the confidence of 
+investors in the public securities market it is essential that no one 
+should possess an informational advantage over the others and not 
+exploit the same to derive pecuniary gains for themselves. Arthur 
+Levitt, a former Chairman of the Securities and Exchange 
+Commission of the USA opined that insider trading “has utterly no 
+place in any fair-minded law-abiding economy”.  
+Further, insider trading increases volatility. The SEBI approach 
+centres around the prevention of insider trading by requiring listed 
+companies, intermediaries and advisors to set up internal systems for 
+preventing insider trading and reporting on compliance or otherwise to 
+SEBI. Manipulative practices harm the interests of small and large 
+investors alike as well as that of companies whose shares are subject 
+to such practices. SEBI has addressed these through the SEBI 
+(Fraudulent and Unfair Trade Practices) Regulation, 2003. SEBI has 
+backed up these regulatory measures with a substantial investment in 
+the surveillance of the markets. 
+SEBI’s effort at improving the integrity of securities markets also 
+includes its attempts at improving governance. In particular, the 
+separation of ownership and trading rights should enable the stock 
+exchanges to effectively curtail the level of manipulative practices in 
+the market. SEBI has shown substantial progress in taking action 
+against or disposing of such cases.  
+SEBI has investigated various instances of front-running over the past 
+several years. The regulator thus needs to crack down quickly to 
+demonstrate that such actions will not be tolerated. It could also 
+consider putting in place fresh measures in terms of monitoring 
+employees with access to confidential information and fiduciary 
+responsibility in asset management companies and other financial 
+
+
+--- Page 64 ---
+63 
+SEBI institutions (Editorial Comment, Business Standard May 10, 2022). In 
+October 2022, the inclusion of trading in units of mutual funds in 
+insider trading regulation was long overdue and will stop those 
+working in fund houses from gaining unfairly from unpublished price-
+sensitive information. 
+10) Ownership and Governance of stock exchanges : SEBI’s most
+significant initiative to improve the governance of stock exchanges in
+India was the move to separate ownership and trading rights, referred
+to as corporatization and de-mutualisation (C&D). The principal
+requirement of C&D was that all stock exchanges would be
+corporatized and that not less than 51 per cent of the ownership of the
+stock exchanges was to be held by the public other than shareholders
+having trading rights.
+11) Compliance Enforcement : SEBI has been less effective in
+prosecutions and penalizing erring market participants for non-
+compliance. Some experts attribute this to the absence of specialized
+courts that can deal with matters involving the financial markets. This
+is the reason for SEBI’s lack of success in securing prosecution
+against various offences. Financial leakages through related party
+transactions remain a focus area of SEBI where rules are constantly
+being tightened. As companies find escape routes, SEBI continues to
+tweak its regulations to close innovative hatches. Gaps remain,
+emboldening the bending of regulations. Regulations cannot plug all
+holes.
+Index Providers: In a move to bring more transparency and structure to the 
+market, SEBI proposes that index providers need to consider all relevant data 
+for creating an index. It also needs to exercise enough care and caution to 
+ensure that there is no distortion of the data. It needs to exercise due diligence 
+in the onboarding of data submitters. And, importantly, the index provider 
+has to ensure that the data submitters source data from only regulated entities 
+and no other sources. With the exponential increase in the number of passive 
+funds and the assets under management of these funds, the governance of the 
+indices assumes greater significance (Saravanan and Banerjee, 2023). 
+SEBI on 29 March 2023 adopted a slew of guidelines in its quarterly board 
+meeting. Such as the introduction of an ASBA-like mechanism for secondary 
+trades, bonus issue of shares, removal of permanent positions in board seats, 
+allowing private equity firms to become mutual fund sponsors, a backstop 
+facility to help MFs during stress, a mechanism for preventing and detecting 
+stock market frauds and the new Environment Social and Governance (ESG) 
+norms. Some of these measures will surely improve corporate governance. 
+For example, the removal of the permanence of board seats gives 
+shareholders a larger say in deciding on the tenure of board members and 
+giving the Nomination and Remuneration committees more powers. 
+
+
+--- Page 65 ---
+64 
+Financial Institutions Check Your Progress 2 
+1) How does SEBI regulate the capital market?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Describe the structure of SEBI.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) What is the role of the Securities Appellate Tribunal (SAT)?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+4) Highlight SEBI’s important regulations for mutual funds.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+16.6 CHALLENGES BEFORE SEBI 
+The massive size of illegal businesses and the huge spread of finfluencers 
+across platforms such as Telegram, Instagram, WhatsApp, Facebook, and 
+YouTube, make one feel that SEBI has already lost the battle to control them 
+(Basu, 2022). Several social media influencers on YouTube, Twitter, 
+Telegram and other platforms are disseminating financial advice without any 
+requisite qualification to do so, which has resulted in instances detrimental to 
+the market. There are people on social media platforms who peddle 
+information for their benefit and need to be closely followed for their 
+utterances. However, people who have honest opinions about stocks should 
+be free to express their views. 
+The key question to be posed before regulating financial influencers is 
+whether they are doing something dishonest. The financial influencers 
+sometimes mislead investors. The main problem relates to advertising. 
+Baiting people who purchase something without having proper knowledge 
+and fail to take precautions are the sufferers in the markets. If legislation is to 
+be made for regulating such happenings a need will arise to define the very 
+concept of ‘ finfluencers’. This will attract knowledgeable persons having 
+genuine market insight into the purview of legislation and prevent the free 
+flow of such information which harms the investors. 
+
+
+--- Page 66 ---
+65 
+SEBI In the case of self-dealing by an investment adviser regarding suggested 
+investments are prone to conflicts of interest and this warrants disclosures. 
+The fintech revolution is fundamentally changing not only products and 
+processes in the financial sector; it is also making things more challenging for 
+financial sector regulators. 
+While regulations are often static or slow-moving, the lightning speed of 
+technological changes and new business innovations at the regulatory 
+boundaries are changing market practices rapidly. Questions are being raised 
+about the ability of regulators to regulate the increasingly hi-tech and at times 
+‘decentralised’ mode of products, services and delivery innovations in the 
+financial sector (Nair and Sahoo, 2022). 
+Taking timely action against violators is imperative in effectively regulating 
+the market and in maintaining market integrity. The Fintech revolution has 
+taken the hitherto risk factors into the realm of complete uncertainty, which 
+as conventional wisdom tells us, cannot be regulated. 
+Once the regulatory text achieves an appropriate degree of precision and data 
+are organised as needed by the experts, technical experts can take over the 
+task of converting the language-based regulations into algorithms. Regulators 
+need to quickly cover a lot of miles, to remain relevant in the era of tech-
+revolution (Nair and Sahoo, 2022). 
+SEBI has directed the designated depository participants (DDPs) to update 
+the list of ultimate beneficial owners (UBOs). In India, it has been noticed 
+that in a large number of cases, foreign portfolio investors (FPIs) are just 
+registered vehicles, but the UBOs of their positions are hidden (Shah, 2023). 
+The names of the UBOs have often been a sensitive subject for the Indian 
+stock markets since FPIs prefer to keep them hidden from the public. But the 
+world over, the money laundering norms are forcing regulators to lift the 
+corporate veil. SEBI has threatened the DDPs that their FPI licences will be 
+cancelled if they do not divulge the UBOs, and their positions will have to be 
+wound up by March 2024. SEBI has asked all the DDPs to update the details 
+of UBOs of all the FPIs registered in India (Shah, 2023). 
+SEBI now wants to put the onus of prevention and detection of fraud and 
+market abuse on the stock brokers. According to SEBI, the list of probable 
+instances and indicators of fraud or market abuse, which a broker’s system 
+should be equipped to monitor, should include: 
+i) creation of the misleading appearance of trading,
+ii) price manipulation,
+iii) front running,
+iv) insider trading,
+v) mis-selling,
+vi) unauthorised trading, including the facilitation of ‘mule’ accounts that
+act as a front for unauthorised trading,
+
+
+--- Page 67 ---
+ 
+ 
+66 
+Financial Institutions vii) pump and dump, spoofing,  
+viii) disproportionate trading activity vis-à-vis reported income, net worth, 
+and  
+ix) frequent changes in KYC submitted by clients. 
+(https://www.thehindubusinessline.com/markets/SEBI-burdens-stock-
+brokers-with-more-compliance/article66482308.ece) 
+The problem of money belonging to Indian entities being ‘round-tripped’ 
+through shell companies in offshore tax havens is not a new one. Despite 
+regulatory tightening over the years, loopholes are exploited to conceal the 
+beneficial owners of the shell companies.  
+The problem is that many of these FPIs are structured as multi-layered 
+entities where it is easy to conceal the ultimate owner of the company. 
+Identification of beneficial owners was based on Rule 9 of the Prevention of 
+Money-laundering (Maintenance of Records) Rules, 2005, wherein 
+companies owning more than 25 per cent of the FPI or individuals, 
+partnership firms, trusts and unincorporated associations of persons owning 
+15 per cent of the FPI were identified as beneficial owner (BO). In case a BO 
+could not be identified through ownership or control, the investment manager 
+had to be identified as the BO and his details provided to the depository. 
+SEBI needs to apply the ‘look through’ principle in such cases, where 
+following the letter of law may not prove adequate. Stringent penalties should 
+be imposed on market intermediaries abetting such fund flows; they should 
+be banned from markets altogether. SEBI should also reduce the time given 
+to FPIs to disclose the BO to three months (Editorial Comment, The Hindu 
+Business Lines, 09 February 2023). 
+16.7 EVALUATION OF SEBI’S PERFORMANCE 
+SEBI is without a doubt one of India’s most powerful regulatory entities. By 
+regulating the Indian financial industry through its various divisions, it plays 
+a significant role in preventing big financial frauds. Notwithstanding initial 
+handicaps, SEBI seems to have fared well. It is an autonomous and suitably 
+empowered agency with the requisite knowledge and human resources. It has 
+managed to design an operationally safe market and is among the most cost-
+competitive, leaving aside taxes. There have been very few payment crises of 
+the kind that prevailed in the early mid-nineties. Risks in the execution of 
+trade and counterparty risks have been eliminated to a substantial degree. 
+India has one of the better public offering mechanisms in the world that 
+allows for reasonable price discovery and is capable of handling huge 
+volumes of applications, although it has cracked a few times under the 
+onslaught of deviant market participants.  
+SEBI has put in place a comprehensive web of regulations that ensure a range 
+of market participants and intermediaries have the capacity and the incentives 
+to function well in a coordinated fashion. The disclosure system at the time of 
+
+
+--- Page 68 ---
+67 
+SEBI listing as well as post-listing compares with the best in the world. The 
+accounting rule writing and administration system has been strengthened with 
+the establishment of NACAS. Despite some initial pushback and 
+compromises, SEBI has rolled out a corporate governance code that is often 
+compared with the Sarbanes Oxley Act of the USA. India scores well on the 
+index of disclosure requirements. Similarly, SEBI fares well in terms of the 
+powers of the supervisory authority and autonomy but ranks way below the 
+SEC in terms of enforcement powers (Sabarinathan, 2010). 
+Experts attribute SEBI’s regulatory effectiveness to the Board structure, the 
+demarcation of policymaking to the members of the Board and its 
+implementation to the executive directors. Further, its effectiveness in 
+implementing market design reforms lies in the fact that it was “completely 
+detached concerning the rentiers”. SEBI’s track record in building internal 
+competence appears to compare favourably with that of RBI. 
+The recent report of the International Organisation of Securities Commissions 
+(IOSCO) reviewing the adherence of regulators of 55 countries to its main 
+principles is very timely. It comes as a relief for the SEBI that, concerning 
+the IOSCO’s five core principles it scores reasonably well. The five 
+principles are (Editorial comment, The Hindu Business Line, 26 February 
+2023): 
+i) clear and objectively stated responsibilities,
+ii) operational independence and accountability,
+iii) adequate power and resources,
+iv) clear and consistent regulatory processes, and
+v) skilled and reliable staff.
+That probably explains how India’s stock market weathered disasters such as 
+the global financial crisis and the pandemic-led meltdown well. The IOSCO 
+report has lauded SEBI for being well-funded by the fee. It is just as well that 
+the officials of SEBI have been provided legal protection to ensure that no 
+action can be taken against them for actions carried out in good faith. 
+The SEBI has played an important role in the fast-paced development of the 
+domestic market over the last three decades, protecting investor interests, 
+there have been some instances where the actions, or absence thereof, of the 
+regulator have come under scrutiny (Editorial Comment, The Hindu Business 
+line, 26 February, 2023). 
+16.8 SUGGESTIONS FOR MAKING SEBI 
+EFFECTIVE 
+SEBI needs to reinvent itself and its regulations to control market 
+manipulation in the digital era. In this context, three aspects are important 
+(Editorial Comment, The Hindu Business Line, 19 May 2022): 
+
+
+--- Page 69 ---
+68 
+Financial Institutions i) India’s financial market evolves with rising retail participation, market
+regulations need to keep up with new products and asset classes that are
+springing up. Newer options such as curated stock portfolios and digital
+gold which are quite popular with retail investors, are in the grey zone.
+ii) The widespread use of social media platforms such as WhatsApp, Twitter
+and YouTube apart from apps that encrypt and instantly purge messages,
+are helping rogue players bypass checks, with the result that mass
+dissemination of false information about dodgy companies has become
+rampant. SEBI’s regulations must be rewritten to plug this gap.
+iii) There is a need to do away with redundant regulations wherever
+warranted to facilitate market development. Updating laws apart, SEBI
+needs to keep up with new-age fraudsters and must be armed with the
+skillsets and regulatory powers to keep up close surveillance of
+communications through the digital media, call for information and carry
+out decryption to decipher such data.
+iv) SEBI is quite right to seek powers from the Government under the
+Information Technology Act, 2000 and the Information Technology
+(Procedure and Safeguard for Monitoring and Collecting Traffic Data or
+Information) Rules, to be allowed to access digital communication
+channels and carry out interception and decryption of such information.
+To keep up with scamsters, the SEBI will also have to build internal
+capacity and skillsets in efficiently mining surveillance data, connecting
+the dots and building a convincing evidence trail.
+The Kotak Committee on Corporate Governance had noted that SEBI was 
+severely under-staffed, overseeing 5,000-odd listed companies with just 800-
+odd staff while the US SEC had over 4,500 employees to oversee an equal 
+number of companies. Apart from adding numerically to its workforce, SEBI 
+must look at lateral hiring of data science and tech talent at competitive pay 
+scales, to improve its regulatory capacity to keep up with the times. 
+SEBI’s amendments in 2021 mark a significant departure in reporting norms 
+for listed firms. But more needs to be done. There is an increasing investor 
+focus on sustainability investing, shifting from finance-centric investment 
+models to more socially and environmentally responsible long-term investing 
+trends. As a result, the demand for Environmental, Social and Governance 
+(ESG) investing has gained significant traction globally which focuses on 
+non-financial factors as a metric for guiding investment decisions wherein 
+increased financial returns are no longer the sole objective of investors. 
+Integrating ESG disclosures with corporate governance practices of 
+companies is becoming extremely consequential from an investment 
+standpoint as it plays a significant role in assessing the valuation of 
+companies (Dayal and Sawhney, 2022). 
+
+
+--- Page 70 ---
+69 
+SEBI To address these issues, India needs to strengthen its corporate governance 
+framework and implementation in both law and spirit. This requires:  
+i) explaining the ties between business and politics,
+ii) increasing transparency in ownership structures,
+iii) enhancing the independence and accountability of auditors,
+iv) improving the enforcement of rules, and
+v) actions of regulators and policymakers should lead to the creation of a
+level playing field for all businesses, irrespective of their size or political
+connections.
+Admittedly, SEBI should continue to strengthen its regulatory framework by 
+pre-emptively enforcing regulations and ensuring markets for securities 
+remain fair, transparent and trustworthy. By strengthening corporate 
+governance, India can create a business environment conducive to long-term 
+investment and prosperity of the country. The suggestion about setting up a 
+common platform for dissemination of all information by mutual funds 
+sounds like a good idea which will make it easier for investors to search for 
+fund-related information. The judicial infrastructure in India needs 
+improvement. 
+Check Your Progress 3 
+1) What are the important challenges before SEBI?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) How is SEBI working to meet the technological challenge being faced by
+it?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) What is SEBI’s corporate governance code?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+4) What is sustainability investment in Environmental, Social and
+Governance (ESG)?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………

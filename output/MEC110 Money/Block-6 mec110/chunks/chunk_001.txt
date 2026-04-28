@@ -1,0 +1,333 @@
+--- Page 1 ---
+95 
+Efficient Portfolio 
+Frontier 
+Block 6 
+Operational Aspects of Financial Markets 
+Unit 18 Efficient Portfolio Frontier 
+Unit 19 Capital Asset Pricing Model 
+Unit 20 Arbitrage Pricing Theory 
+Unit 21 Pricing of Derivatives 
+Unit 22 Corporate Finance 
+Unit 23 Foreign Direct Investment and Foreign 
+Portfolio Investment 
+
+
+--- Page 2 ---
+ 
+ 
+96 
+Operational Aspects 
+of Financial Markets UNIT 18 EFFICIENT PORTFOLIO 
+FRONTIER 
+Structure 
+18.0  Objectives   
+18.1  Introduction 
+18.2   Portfolio Management 
+18.2.1  Stages of Portfolio Management 
+18.2.2  Benefits of Portfolio Management 
+18.3  Relationship between Risk and Return 
+18.3.1  Risks Involved in Investments 
+18.3.2  Measuring Risks 
+18.3.3  Expected Returns 
+18.4  Valuation of Portfolio and Expected Returns from a Portfolio 
+18.4.1  Valuation of Portfolio 
+18.4.2  Expected Return and Risk from a Portfolio 
+18.5  Markowitz Portfolio Theory 
+18.5.1  Assumptions of the Markowitz Model 
+18.5.2  Opportunities Set/ Feasible Set of Portfolios  
+18.5.3  Efficient Set of Portfolios 
+18.5.4  Criticisms of the Efficient Frontier 
+18.6  Let Us Sum Up  
+18.7  Key Words 
+18.8  Some Useful Books and References 
+18.9  Answers/Hints to Check Your Progress Exercises 
+18.0 OBJECTIVES 
+After going through this unit, you will be able to: 
+ describe the importance of diversification; 
+ explain the need for portfolio management; 
+ calculate the expected return and valuation of the portfolio; 
+ explain the relationship between risk and return;   
+ critically examine Markowitz's Portfolio theory; and 
+ explain Efficient Portfolio frontier.    
+ 
+
+
+--- Page 3 ---
+97 
+Efficient Portfolio 
+Frontier 18.1 INTRODUCTION 
+In the realm of finance, the adage “Don't put all your eggs in one basket” 
+holds significant importance. This principle underscores the fundamental 
+strategy of spreading investments across various assets and asset classes to 
+mitigate risk and optimize returns. 
+Diversification is the practice of spreading investments across various assets 
+and asset classes to mitigate risk and optimize returns. It means creating a 
+well-balanced portfolio, wherein a range of investments is judiciously 
+selected and blended to counteract the impact of volatility in any single 
+investment. 
+The need for diversification stems from the volatility inherent in financial 
+markets. Given that certain investments may thrive while others may decline 
+due to various factors such as economic recessions or geopolitical unrest, 
+diversification serves as a strategy for investors to mitigate the impact of 
+adverse market fluctuations. By spreading their investments across different 
+assets, investors seek to protect their wealth from significant losses in the 
+long run. 
+Diversification is a key principle within portfolio management. A portfolio 
+represents a collection of investments held by an individual or entity, 
+comprising a broad range of assets including stocks, bonds, mutual funds, 
+real estate, and other financial instruments. 
+Many people find it difficult to make effective investment decisions because 
+of uncertainty in the market, conflicting investment goals and sometimes 
+even due to heavy information load. In response to these challenges, 
+numerous theories in portfolio management have endeavoured to provide 
+solutions. They have tried to answer questions like how to diversify. Which 
+financial assets to invest in? How to combine the assets into a portfolio? 
+What is the portfolio’s risk? how to calculate the expected return? etc. 
+In this unit, we will discuss portfolio management, expected return and 
+valuation of portfolio, relationship between risk and return. We will also 
+discuss Markowitz’s Portfolio theory and Efficient Portfolio frontier. In 
+subsequent units, we will talk about the Capital asset pricing model (CAPM) 
+and Arbitrage pricing theory (APT). 
+18.2  PORTFOLIO MANAGEMENT 
+A portfolio is essentially a collection of investments owned by an individual 
+or entity, which can include various types of assets like stocks, bonds, mutual 
+funds, and real estate. However, it’s more than just a bunch of investments 
+grouped; it’s a strategic approach to managing wealth, minimizing risks, and 
+achieving financial goals. 
+
+
+--- Page 4 ---
+98 
+Operational Aspects 
+of Financial Markets 
+Portfolio management is the practice of overseeing and optimizing these 
+investment collections. It involves carefully deciding how to allocate 
+resources, balancing risk and returns, and adapting to changes in the market. 
+This includes activities such as deciding which assets to invest in, evaluating 
+the level of risk involved, and monitoring how well the portfolio is 
+performing. 
+The main goal of portfolio management is to create portfolios that match the 
+specific financial goals, risk tolerance, and timeframes of investors. Whether 
+someone wants to preserve capital, generate income, or increase wealth, 
+portfolio managers develop strategies tailored to these objectives. They do 
+this through thorough analysis and smart decision-making, aiming to achieve 
+the best possible returns while minimizing the chances of losses. 
+Additionally, portfolio management is an ongoing process that requires 
+constant attention and adjustment. Changes in the market shifts in the 
+economy, and alterations in investors’ situations mean that portfolios need to 
+be reviewed and adjusted regularly. This means that successful portfolio 
+management relies on a combination of financial expertise, careful research, 
+and proactive decision-making. 
+18.2.1  Stages of Portfolio Management 
+Portfolio management is a dynamic procedure that includes the following 
+fundamental stages: 
+ Understanding the goals, constraints, and preferences of investors to
+create an investment policy.
+ Creating and executing strategies aligned with the formulated investment
+policy.
+ Choosing asset classes and specific securities within each class based on
+their risk-return characteristics.
+ Regularly assessing and tracking the portfolio’s performance by
+consistently evaluating market conditions and company performance.
+ Analyzing the portfolio’s outcomes to compare against predetermined
+targets and making necessary adjustments for future enhancements.
+18.2.2  Benefits of Portfolio Management 
+1) Consistent Risk Measurement: It ensures that risks are measured in the
+same way every time, providing a clear understanding of potential risks.
+2) Considering Correlation and Diversification : It takes into account
+how different parts of the organization or investment options relate to
+each other. This understanding can help in reducing overall risk.
+
+
+--- Page 5 ---
+99 
+Efficient Portfolio 
+Frontier 
+3) Guidance for Strategic Planning:  It provides direction for the
+company’s plans, highlighting areas where improvements are needed in
+terms of risk and return.
+4) Increased Transparency in Decision Making : Portfolio management
+helps make decisions clearer by consistently evaluating all business units
+and options.
+5) Understanding Value Creation : Portfolio management helps in better
+grasping how new investment opportunities can create value for the
+organization.
+6) Identifying Improvement Areas : Portfolio management helps identify
+where the company needs to focus to enhance its risk-return position.
+7) Considering Non-Financial Implications:  It acknowledges the
+qualitative and non-financial impacts of decisions, not just the financial
+aspects.
+Check Your Progress 1 
+1) What is portfolio management? What are the different stages of portfolio
+management?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Why is portfolio management important for an investor?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+18.3 RELATIONSHIP BETWEEN RISK AND 
+RETURN 
+Most investors are risk-averse. This does not mean that people will not take a 
+risk. That means they will take a risk only if they expect to be adequately 
+rewarded for taking it. People have different degrees of risk aversion. Some 
+are more willing to take a chance than others. Choosing an investment 
+management strategy involves weighing the trade-off between risk and 
+return. Active management might yield higher returns but comes with a 
+greater risk of not meeting the portfolio’s required return. Conversely, 
+passive management offers market-based returns in diversified portfolios, 
+reducing risky bets but potentially limiting excess returns. When deciding 
+between passive and active management, it’s crucial to determine if the goal 
+is to solve a cash flow problem over time or to outperform the market. 
+
+
+--- Page 6 ---
+100 
+Operational Aspects 
+of Financial Markets 
+18.3.1  Risks Involved in Investments 
+Total risk refers to the overall variability of the returns of a financial asset. It 
+combines both diversifiable and non-diversifiable risks and represents the 
+overall uncertainty and potential for loss associated with an investment. 
+Recognizing the types of risks allows investors to implement appropriate risk 
+management strategies. Understanding the different types of risks helps 
+investors construct well-balanced portfolios. By diversifying across assets 
+and sectors, investors can reduce the impact of specific risks on their overall 
+portfolio performance. 
+The following types of risks are faced in the market: 
+Diversifiable risk, also known as unsystematic risk (unique risks), refers to 
+firm-specific risks that affect individual stock prices rather than the entire 
+industry or sector.  
+The key components of diversifiable risk are business, financial, and 
+management risks. Diversifiable risk is crucial for investors seeking better 
+returns and protecting their initial investment. 
+An uncertain risk can arise from various factors such as scams, labour strikes, 
+regulatory penalties, management changes, internal issues, or news specific 
+to the firm. Diversifiable risk can be mitigated through diversification, which 
+involves spreading investments across different assets or sectors. By 
+diversifying, investors can reduce the impact of adverse events on any single 
+investment. 
+Systematic risks, or non-diversifiable risks, are the risks that affect the overall 
+market or a specific sector. It is influenced by factors that impact the entire 
+economy, such as macroeconomic indicators, market sentiment, or 
+geopolitical events. Systematic risks are inherent risks that exist in the stock 
+market. They’re also called “non-diversifiable risks” or “market risks” since 
+they impact the entire asset class. 
+Non-diversifiable means that an organization can’t control, minimize, or 
+avoid systematic risks. These risks are typically due to various external 
+factors like the current geopolitical situation, monetary policy, and natural 
+disasters. Non-diversifiable risk cannot be eliminated through diversification 
+because it is inherent in the market itself. Investors are exposed to non-
+diversifiable risk regardless of how diversified their portfolios are. The only 
+way to manage non-diversifiable risk is through strategies such as asset 
+allocation or hedging. For example, COVID-19 is a systematic risk because it 
+impacted the entire stock market. 
+Diversifiable risk analysis is essential for investors and portfolio managers as 
+it helps in understanding and managing the risks associated with individual 
+securities or assets. By assessing and diversifying their investments, investors 
+can reduce the impact of firm-specific risks and potentially improve their 
+risk-return profile. Diversifiable risk analysis enables investors to make 
+
+
+--- Page 7 ---
+101 
+Efficient Portfolio 
+Frontier 
+informed decisions about portfolio allocation, asset selection, and risk 
+management strategies to achieve their investment objectives while 
+mitigating unnecessary risks. 
+18.3.2  Measuring Risks 
+The risk linked to a stock pertains to the fluctuation in its rate of return. 
+Investors need to quantify and assess this risk accurately. The risk probability 
+distribution, depicting potential returns on investments, represents the total 
+risk associated with an investment. 
+Variance 
+Variance takes into account the derivation of all possible returns from their 
+mean or expected value. the formula used for variance is as follows: 
+𝜎ଶ = ෍[𝑅 ௜ − 𝐸(𝑅)
+௡
+௜ୀଵ
+]ଶ 𝑋 𝑃 
+Where Ri refers to possible returns when i-1 to n, E (R) is the expected value 
+of the investment and p is the probability of the return. 
+Standard deviation can be calculated as the square root of variance, i.e.: 
+𝜎 = ඩ ෍[𝑅 ௜ − 𝐸(𝑅)
+௡
+௜ୀଵ
+]ଶ 𝑋 𝑃
+ 
+18.3.3  Expected Returns 
+Expected return denotes the anticipated profit or loss an investor can 
+reasonably foresee from an investment within a specific timeframe. It is an 
+important factor that determines portfolio selection. To ascertain return, 
+various factors like market trends, economic predictions and historical data 
+are analysed.  
+The concept of expected return is useful because there is uncertainty about 
+the return or investment. Thus, an expected return means the average return 
+that an investor expects to receive on investment over some time. It is 
+calculated by the sum of each possible return multiplied by its probability. 
+The expected return is calculated by using the following formula:  
+𝐸(𝑅) = ෍ 𝑅 ௜𝑃௜
+௡
+௜ୀଵ
+ 
+Where: 
+E(R)=expected return on an investment 
+n=number of possible terms 
+
+
+--- Page 8 ---
+ 
+ 
+102 
+Operational Aspects 
+of Financial Markets 
+Ri=the ithpossible return 
+Pi=the probability of ithreturn Ri 
+Example 18.1: Mr X has invested an Equal amount in Security A and 
+Security B. The expected return during boom and depression with equal 
+probability of occurrence is as follows: 
+Economic condition Expected return  
+Security A Security B 
+Boom 15 12 
+Depression 5 7 
+Calculate the Expected return and standard deviation of each security. 
+Solution: Calculation of expected rate of return 
+Economic 
+condition 
+Expected return of Probability  Expected returns 
+Security 
+A 
+Security 
+B 
+Security 
+A 
+Security B 
+Boom 15 12 0.5 7.5 6 
+Depression 5 7 0.5 2.5 3.5 
+Expected return (ER) 11.00 9.5 
+ 
+Calculation of standard deviation of Security A 
+Economic 
+condition 
+RA R A-E(R) (R A-
+E(R))2 
+Probability (RA-E(R))2 
+X P 
+Boom 15 4 16 0.5 8 
+Depression 5 -6 36 0.5 18 
+Variance 26 
+Standard deviation of security A = √26 = 5.09 
+Calculation of standard deviation of Security B 
+Economic 
+condition 
+RB R B-E(R) (R B-
+E(R))2 
+Probability (RB-E(R))2 
+X P 
+Boom 12 2.5 6.25 0.5 3.125 
+Depression 7 -2.5 6.25 0.5 3.125 
+Variance 6.25 
+Standard deviation of security B = √6.25 = 2.5 

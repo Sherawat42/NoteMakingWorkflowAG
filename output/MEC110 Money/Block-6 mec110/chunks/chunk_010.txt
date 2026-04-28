@@ -1,0 +1,410 @@
+--- Page 89 ---
+183 
+Corporate Finance considered more favourable. Example: In the case of the smartphone 
+project, with a payback period of 0.5 years, it means that the initial 
+investment will be recovered within six months.  
+7) Net Present Value (NPV):  NPV (Net Present Value) evaluates the
+present value of future cash flows minus the initial investment. A
+positive NPV indicates that the project is expected to generate more cash
+than the initial investment. Example: In the case of the smartphone
+project, with an NPV of approximately ₹3,18,72,197, it suggests that the
+project is financially appealing.
+8) Internal Rate of Return (IRR): IRR (Internal Rate of Return) is the
+discount rate at which the NPV of the project becomes zero. It represents
+the project's rate of return. Example: in the given example, an IRR of
+approximately 18%, signifies the expected return on the investment.
+22.6.4  Computation of Capital Investment 
+The computation of capital investment required involves calculating the total 
+amount of funds needed to initiate and implement a specific project or 
+investment opportunity. It encompasses various components and expenses 
+that contribute to the overall cost of the project. The capital investment 
+required can be calculated using the following steps:  
+Step 1: Identify Project Components: 
+When computing the capital investment required, the first step is to identify 
+all the components and expenses that are essential for the successful initiation 
+and implementation of the project. These components could include:  
+1) F ixed Assets: This involves the cost of acquiring long-term assets such
+as machinery, equipment, land, buildings, vehicles, and any other
+infrastructure needed for the project.
+2) Working Capital: It refers to the funds required to finance the day-to-
+day operations of the project, including inventory, raw materials, and
+operational expenses.
+3) Initial Setup Costs: This category includes expenses related to project
+planning, feasibility studies, legal fees, permits, licenses, and any other
+preliminary costs necessary to get the project off the ground.
+4) Research and Development (R&D): For projects that involve product
+development or innovation, R&D expenses must be accounted for.
+5) Marketing and Promotion: For projects that require market entry or
+product promotion, marketing and promotional expenses need to be
+considered.
+
+
+--- Page 90 ---
+184 
+Operational Aspects 
+of Financial Markets 
+Step 2: Determine Costs: 
+After identifying the project components, the next step is to determine the 
+costs associated with each of them. Companies can use various methods to 
+ascertain these costs, including obtaining quotations from suppliers, 
+conducting market research, or relying on historical data.  
+Example 22.5:  Let us assume the following costs for a manufacturing 
+project:  
+Fixed Assets: Machinery – ₹5,00,000, Equipment – ₹3,00,000, Land – 
+₹10,00,000, Building – ₹20,00,000, Working Capital: ₹8,00,000, Initial Setup 
+Costs: ₹2,00,000, Research and Development: ₹1,50,000, Marketing and 
+Promotion: ₹1,00,000  
+Step 3: Sum the Costs: 
+Once the costs for each component are determined, the next step is to add up 
+all the costs to get the total capital investment required. 
+Example 22.6: Total Capital Investment Required = ₹5,00,000 + ₹3,00,000 + 
+₹10,00,000 + ₹20,00,000 + ₹8,00,000 + ₹2,00,000 + ₹1,50,000 + ₹1,00,000 = 
+₹50,50,000  
+In this example, the total capital investment required for the project is 
+₹50,50,000.  
+Step 4: Consider Contingencies and Contingent Expenses: 
+To account for unforeseen expenses, potential changes in costs, or 
+unexpected events, it is advisable to include a contingency buffer.  
+Example 22.7: Let us assume a contingency of 10% of the total costs: 
+Contingency (10% of total costs) = 0.10 * ₹50,50,000 = ₹5,05,000  
+Step 5: Final Capital Investment Required: 
+Finally, add the contingency amount to the total costs to get the final capital 
+investment required. Example 22.8: Final Capital Investment Required = 
+₹50,50,000 + ₹5,05,000 = ₹55,55,000 
+In this example, the final capital investment required for the project, 
+including the contingency, is ₹55,55,000.  
+It is important to note that the capital investment required should be carefully 
+analysed and compared with the expected returns and potential risks 
+associated with the project. This comprehensive evaluation helps companies 
+make well-informed decisions regarding their capital investments and ensures 
+the efficient allocation of resources to maximise the project's success and 
+overall company growth.  
+
+
+--- Page 91 ---
+185 
+Corporate Finance 22.6.5  Forecasting Future Costs 
+Forecasting future costs is a crucial aspect of capital budgeting as it enables 
+businesses to estimate the financial implications of an investment project 
+accurately. When making capital budgeting decisions, organisations need to 
+project the costs associated with the proposed project over its entire life 
+cycle. Accurate cost forecasting helps in evaluating the feasibility, 
+profitability, and risk of the investment, allowing management to make well-
+informed decisions. Here are some steps and considerations for forecasting 
+future costs during capital budgeting:  
+1) Comprehensive Project Analysis:  Start by conducting a thorough
+analysis of the proposed project. Understand its scope, objectives, and
+the resources required for successful implementation. Consider all cost
+elements, including initial investment, operating expenses, maintenance
+costs, and potential expansion or replacement costs.
+2) Historical Data and Benchmarking : Use historical data from similar
+projects or industry benchmarks to gain insights into potential cost
+patterns. This data can help in making more accurate assumptions and
+estimates for future costs.
+3) Inflation and Price Fluctuations:  Account for inflation and potential
+price fluctuations of resources, materials, and labour over the project's
+duration. These factors can significantly impact project costs over time.
+4) Economic and Market Conditions:  Consider the current economic
+conditions and future market trends that could influence the cost of
+inputs, labour, and other resources.
+5) Consultation with Experts:  Engage subject matter experts and
+professionals who have experience in similar projects. Their insights and
+knowledge can provide valuable inputs for cost estimation.
+6) Sensitivity Analysis:  Perform sensitivity analysis by evaluating the
+potential impact of changes in cost assumptions on the project's financial
+viability. This helps identify the most critical cost drivers and the level of
+uncertainty in cost projections.
+7) Cost Breakdown Structure:  Develop a cost breakdown structure that
+categorises and itemises various cost components, such as direct costs,
+indirect costs, fixed costs, variable costs, and overheads.
+8) Contingency Planning: Incorporate contingency allowances in the cost
+projections to account for unforeseen events and potential cost overruns.
+9) Cash Flow Projections:  Prepare cash flow projections that outline the
+timing and magnitude of costs throughout the project's life cycle. This
+aids in assessing the project's impact on the company's cash flow.
+
+
+--- Page 92 ---
+186 
+Operational Aspects 
+of Financial Markets 
+Check Your Progress 5 
+1) What are the factors affecting capital investments?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Define the process of computation of capital investment.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+22.7  LET US SUM UP 
+The present unit discusses about Corporate Finance. Corporate finance is the 
+area of finance that deals with the sources of funding, and the capital 
+structure of corporations, the actions that managers take to increase 
+the value of the firm to the shareholders, and the tools and analysis used to 
+allocate financial resources. The primary goal of corporate finance is to 
+maximise or increase shareholder value. There are two sources of funds for 
+short term, medium-term and long-term needs of a company. These sources 
+are Internal (depreciation and retained earnings) and external (loans, equities 
+and bonds or debentures). We also discussed about Capital Structure. It refers 
+to the composition and proportion of various sources of funds that a company 
+employs to finance its operations, investments, and other financial activities. 
+Components of Capital Structure are: Owner’s capital and Borrowed 
+Capital. Another concept which is crucial to understand in financial 
+management is Working Capital. It is calculated by subtracting current 
+liabilities from current assets. Working capital is determined by: nature of 
+business, business cycle and seasonality, sales volume and growth rate, credit 
+Policy etc. We also discussed the approaches for determining the financial 
+mix: the hedging approach, the conservative approach, and the trade-off 
+approach. We also discussed about Capital Budgeting and factors affecting 
+capital investment decisions. Finally, we discussed about computation of 
+capital investment. The computation of capital investment required involves 
+calculating the total amount of funds needed to initiate and implement a 
+specific project or investment opportunity. 
+22.8  KEY WORDS 
+Managing Money  :  Managing money is the process of overseeing and 
+planning your income and expenses to achieve 
+your financial goals. 
+Capital Structure  : Capital structure refers to the combination of debt 
+and equity that a company uses to finance its 
+
+
+--- Page 93 ---
+187 
+Corporate Finance operations and growth. It is the composition of 
+long-term funds deployed by a firm. 
+Capital Budgeting  :  Capital budgeting refers to the process that 
+companies use to make investment decisions in 
+long-term projects and capital assets. It involves 
+allocating capital funds to projects expected to 
+generate profits for the company over a period. 
+Investment proposals  : An investment proposal is a document that 
+outlines the details of a potential investment 
+opportunity to attract investors or funding. It 
+serves as a formal and structured way to present 
+key information about a business, project, or 
+venture to convince potential investors to commit 
+their capital. 
+22.9  SUGGESTED READINGS 
+ Graham, Benjamin. 2003. The Intelligent Investor. New York, NY:
+Harper Business.
+ Damodaran, A. (2011). The little book of valuation: How to value a
+company, pick a stock and profit. John Wiley & Sons.
+22.10 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES
+Check Your Progress 1 
+1) Preference Shares, Equity Shares
+2) Source of internal finance through its non-cash item in books, but it is a
+recognition of the value of the asset which will reduce each year and
+attempting to identify the amount of cash to set aside when the asset is
+no longer in use to us.
+3) Resembling an alternative to loans, secured debentures require collateral
+for fund generation. Requiring no collateral, unsecured debentures are
+less favoured during payments compared to secured debentures.
+Check Your Progress 2 
+1) Owner’s capital refers to the portion of a company’s assets that belongs
+to its owners or shareholders. Borrowed capital, also known as debt
+capital, refers to funds that a company raises by borrowing money from
+external sources, such as financial institutions, investors, or bondholders.
+2) Business risk, tax considerations, cost of capital, market conditions,
+company size and life cycle, flexibility and control, asset structure,
+
+
+--- Page 94 ---
+188 
+Operational Aspects 
+of Financial Markets 
+lender and investor preferences, regulatory environment, market 
+perception. 
+Check Your Progress 3 
+1) Refer to Sub-section 22.4.3
+2) Trade Credit, Bank Loans, Commercial Paper, Factoring and
+Receivables Financing, Inventory Financing, Trade Advances, Equity
+Financing, Debt Financing, Retained Earnings, Venture Capital and
+Private Equity, Asset-Based Lending, Debentures.
+Check Your Progress 4 
+1) Concept of Irrelevance of Dividend, Modigliani and Miller’s Approach.
+2) Capital budgeting is the process of long-term planning, encompassing
+proposed capital expenditures and their funding. It helps in long-term
+investment choices, optimal resource allocation, maximising shareholder
+wealth, Strategic alignment, Risk assessment, Capital rationing.
+Check Your Progress 5 
+1) Market demand, competition, cost of capital, initial investment cost, cash
+flows, payback period, net present value (NPV), internal rate of return
+(IRR)
+2) Refer to Sub-section 22.6.4
+
+
+--- Page 95 ---
+189 
+Foreign Direct 
+Investment and Foreign 
+Portfolio Investment 
+UNIT 23 FOREIGN DIRECT INVESTMENT 
+AND FOREIGN PORTFOLIO 
+INVESTMENT 
+Structure 
+23.0 Objectives  
+23.1 Introduction  
+23.2 Concept of FDI  
+23.3 Methods of FDI 
+23.4  Types of FDI 
+23.5  Routes of FDI  
+23.6  Advantages and Limitations of FDI 
+23.7  Highlights of FDI Policy, 2020 
+23.8  Concept of FPI 
+23.9  Difference between FDI and FPI 
+23.10 Categories of FPI 
+23.11 Advantages and Disadvantages of FPI 
+23.12 Eligibility Criteria of FPI in India 
+23.13  Let Us Sum Up 
+23.14  Key Words 
+23.15  Some Useful Books 
+23.16 Answers/Hints to Check Your Progress Exercises 
+23.0  OBJECTIVES 
+After going through this unit, you will be able to: 
+ explain the concept of FDI;
+ describe the various methods and types of FDI;
+ discuss the various benefits and limitations of FDI;
+ state the multiple routes and regulations governing FDI;
+ explain the concept of FPI;
+ differentiate between FDI and FPI;
+ state the various benefits of FPI; and
+ explain the provisions concerning FPI.
+
+
+--- Page 96 ---
+190 
+Operational Aspects 
+of Financial Markets vestment and Foreign23.1  INTRODUCTION 
+Developing countries like India are attractive destinations for Foreign Direct 
+Investment (FDI). FDI is an important source of external private finance. 
+FDI is a way of integrating international economics as it creates and 
+promotes stable and long-lasting links between economies. It offers the 
+following major benefits to economies: a) promotes international trade 
+through access to foreign markets, b) facilitates the technology transfer 
+between countries, c) leads to economic development, and d) creates job 
+opportunities. During the financial year 2021-22, India received foreign 
+direct investment inflows of USD 82.274 billion and USD 54.934 billion in 
+the first three quarters of the financial year 2022-23. Various initiatives like 
+policy reforms, relaxation in regulations etc. are being taken to boost foreign 
+investment.  
+Similarly, Foreign Portfolio Investment (FPI) is essential in modern 
+economies with a sophisticated financial system. FPI allows foreign parties to 
+invest in financial assets and instruments in the host country. This has a 
+positive bearing on the price of domestic assets.  
+23.2  CONCEPT OF FDI 
+Foreign direct investment (FDI) can be defined as an investment made 
+outside the home country where an investor resident in one country invests in 
+another country in a way that establishes a long interest in and a high degree 
+of influence over an enterprise. Through such investment, the investor owns 
+10 per cent or more of the voting power and thereby can exercise a high 
+degree of influence in the management and operations of the foreign 
+business. 
+Definition of FDI 
+The International Monetary Fund (IMF) defines FDI as: “A category of 
+international investment that reflects the objective of a resident entity in one 
+economy (direct investor or parent enterprise) obtaining a lasting interest and 
+control in an enterprise resident in another economy (direct investment 
+enterprise)”. 
+FDI or ‘Foreign Direct Investment’ means investment through capital 
+instruments by a person resident outside India in an unlisted Indian company, 
+or in ten per cent or more of the post-issue paid-up equity capital on a fully 
+diluted basis of a listed Indian company. 
+23.3  METHODS OF FDI 
+The most common methods of Foreign Direct Investment (FDI) are: 
+1) Greenfield Investment: It refers to a type of investment where a foreign
+entity like a company, an individual, or an organization, invests in
+
+
+--- Page 97 ---
+191 
+Foreign Direct 
+Investment and Foreign 
+Portfolio Investment 
+another country by establishing a new business or by expanding its 
+existing operations. For example, in the year 2019 Samsung which is a 
+South Korean company invested $500 million in India to set up a mobile 
+phone manufacturing plant in Noida, Uttar Pradesh, for manufacturing 
+smartphones and other electronic devices. 
+2) Mergers and Acquisitions (M&A): It refers to investing (FDI) for
+acquiring or merging with an existing foreign company. For example, in
+the year 2017 Vodafone which is a British Telecommunications
+Company merged its Indian operations with Idea Cellular and thus
+created one of the largest Telecom service providers in India.
+3) Joint Ventures: Foreign Direct Investment (FDI) in joint ventures is a
+popular business in India. It allows foreign companies to collaborate and
+invest in various sectors of the Indian economy. For example, General
+Electric (GE) formed a joint venture with the Indian conglomerate Tata
+Group in 2015 to create Tata Consultancy Services (TCS), a business
+process outsourcing company.
+4) Subsidiary Companies:  FDI in subsidiary companies results in
+establishing a wholly-owned subsidiary in a foreign country. For
+example, Suzuki Motor Corporation owns a majority stake in Maruti
+Suzuki India Ltd., a subsidiary that manufactures and sells cars in India.
+23.4  TYPES OF FDI 
+The various types of FDI are: 
+1) Horizontal FDI: Investing funds in a company other than the domestic
+company that belongs to the same industry as that owned or operated by
+the FDI investor is called horizontal FDI. In other words, when a
+company initiates a similar operation or business model in another
+country, it refers to Horizontal FDI. For example, suppose a foreign
+company manufacturing apparel invests in or purchases an Indian
+company dealing in the same line of business which is apparel. Both
+companies belong to the same industry which is apparel, such FDI is
+therefore an example of horizontal FDI.
+2) Vertical FDI:  This form of FDI refers to the investments that are made
+within a supply chain in a company, which may or may not belong to the
+same industry. It occurs when a multinational acquires an operation that
+either acts as a supplier or distributor. It can be said that when vertical
+FDI happens, a business invests in an overseas firm which may supply or
+sell products.
+Vertical FDIs can take two ways backward vertical integration and
+forward vertical integration. For example, A foreign fast-food chain
+invests in agricultural operations in India to secure a steady supply of
+fresh produce like vegetables and meat for its restaurant outlets.
+
+
+--- Page 98 ---
+192 
+Operational Aspects 
+of Financial Markets vestment and Foreign
+Forward integration in FDI involves a foreign company expanding its 
+operations downstream in the supply chain. This means getting involved 
+in distribution, marketing, or retail activities. For example, a foreign 
+pharmaceutical company opens its own pharmacies or healthcare clinics 
+in India to sell its medicines directly to patients, bypassing traditional 
+distribution channels. 
+3) Conglomerate FDI: Such a form of FDI occurs when a company invests
+in a company other than the domestic company that is a counterpart of
+the investing company. The company that is invested in belongs to an
+altogether different industry. Such investments help in creating more
+niches or to begin a new business in another country. For example,
+General Electric has engaged in conglomerate FDI over the years. The
+company has invested in various industries like aviation, healthcare,
+renewable energy, and financial services.
+4) Platform FDI: It refers to investments made by multinational
+corporations in a specific location referred to platform to serve as a base
+for conducting different business activities and expanding their
+operations both regionally and globally. These platforms act as hubs for
+manufacturing, services, research and development, and more. Many
+global IT giants, including IBM, Microsoft, and Accenture, have set up
+extensive operations in India. These companies use India as a platform
+for software development, IT consulting, and application maintenance
+services, serving clients worldwide.
+Check Your Progress 1 
+1) Define Foreign Direct Investment.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……….…………………………………………………………………...
+2) Examine the different methods of Foreign Direct Investment (FDI).
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……….…………………………………………………………………...
+3) Explain the different types of Foreign Direct Investment.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……….…………………………………………………………………...

@@ -1,0 +1,453 @@
+--- Page 55 ---
+259 
+Non-performing Assets loans to business ventures that may remotely appear risky for fear of 
+aggravating an already high level of NPAs. 
+Check Your Progress 2 
+1) Examine the steps taken by RBI about NPAs.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) In what ways NPAs affect the growth of the Indian economy?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) What is the relationship between NPAs and Banks’ profitability?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+4) Highlight the impact of rising NPAs on Banks’ capacity to create credit.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+27.5 MEASURES TO TACKLE THE PROBLEM OF 
+NPAS 
+Until the mid-eighties, management of NPAs was left to the banks and the 
+auditors. In 1991, the Narasimhan Committee on the Financial System 
+suggested that banks should classify their advances into four broad groups, 
+viz. (i) standard assets; (ii) substandard assets; (iii) doubtful assets; and (iv) 
+loss assets. Following this, prudential norms relating to income recognition, 
+asset classification and provisioning were introduced in 1992 in a phased 
+manner.  
+In 1998, the Narasimhan Committee on Banking Sector Reforms 
+recommended a further tightening of prudential standards to strengthen the 
+prevailing norms and bring them on par with evolving international best 
+practices. With the introduction of 90-day norms for the classification of 
+NPAs in 2001, the NPA guidelines were brought to par with international 
+standards (LSS, 2014). 
+NPAs can be manageable, but it depends on how many there are and how far 
+they are past due. In the short term, most banks can take on a fair amount of 
+
+
+--- Page 56 ---
+260 
+Financial Stability onNPAs. However, if the volume of NPAs continues to build over some time, it 
+threatens the financial health and future success of the lender. 
+Generally, banks keep NPAs in their books in the expectation of recovering 
+the money or making provisions for it. The banks or the lenders have options 
+to recover their losses, including taking possession of any collateral. If they 
+are unable to recover or sell off the loan at a discount to a collection agency 
+they write it off entirely as bad debt. 
+The decline of NPAs is essential to improve the profitability of banks and 
+fulfil the capital adequacy norms as per the Basel Accord (Rajput et al, 2011). 
+Central Repository of Information on Large Credits (CRILC) was set up to 
+share data for loans over ₹50 million with all banks. The CRILC data 
+included the status of each loan; whether it was performing or had become 
+NPA or was heading in that direction. This system helped the banks identify 
+warning signs and helped segregate the habitual offenders (Palli, 2020). 
+To empower the lenders, a new legislation was enacted in the form of the 
+Insolvency and Bankruptcy Code (IBC) in 2016. More than 50 per cent of 
+NPA matters are being resolved through the IBC. It laid down separate 
+insolvency procedures for companies, individuals and partnership companies 
+giving a maximum period of 180 days for resolution extendable by 90 days. 
+The NCLT was set up under the IBC, 2016 and at the pre-admission stage 
+4452 cases were disposed of which helped creditors obtain dues of ₹2 trillion; 
+and various restructured post-liquidation or adjudication (Palli, 2020). 
+The National Asset Reconstruction Company (NARCL) along with the India 
+Debt Resolution Company (IDRCL) will take over the first set of bad loans 
+from banks and try to resolve them. In addition to the statutory provisions 
+already available to lenders for recovery and resolution, the other measures 
+are:  
+i) Recovery of Debts and Bankruptcy Act, 1993,
+ii) Securitisation and Reconstruction of Financial Assets and Enforcement
+of Security Interest Act, 2002, and
+iii) Insolvency & Bankruptcy Code, 2016 (IBC).
+The government launched ‘ Mission Indradhanush ’ in 2015 to make the 
+working of public sector banks more transparent and professional to curb the 
+menace of NPAs in future. Banks continue to pursue recovery actions 
+initiated in written-off accounts through various recovery mechanisms 
+available.  
+An important amendment was made in 2021 in the SARFAESI Act, 2002, 
+which gives not only the right of ownership to the banks on such properties 
+but also provides the right of control and management of such forfeiture-
+secured assets. Now, banks and financial institutions may receive guidance 
+and assistance from Asset Reconstruction Companies (ARCs) to collect their 
+NPAs. 
+
+
+--- Page 57 ---
+261 
+Non-performing Assets As a precautionary measure, banks set aside a proportion of their profits to 
+meet the risk created by the NPAs. This amount is known as provisioning for 
+non-performing assets. As such, banks keep aside a certain amount from their 
+profits in a particular quarter for NPAs. This step is taken as a precautionary 
+measure in anticipation that assets can turn into losses in the future. Such 
+provisions are made by Banks based on different NPA categories. This 
+provision also depends upon the type of bank. For instance, Tier-I and Tier-II 
+banks have different provisioning norms. By this method, banks can maintain 
+a healthy book of accounts by provisioning for bad assets. 
+There is a need to ensure that the banking system recognizes financial 
+distress early, takes prompt steps to resolve it, and ensures fair recovery for 
+lenders and investors so that the banking sector functions without stress. 
+27.6 EFFECTIVENESS OF ACTION TAKEN TO 
+CURB NPAS 
+The state of the banking system is reflected in the banking stability indicator. 
+BIS gives an overall assessment of changes in underlying conditions and risk 
+factors that have a bearing on the stability of the banking sector. Despite the 
+efforts of the RBI and recommendations of Basel committees, the problem of 
+an upsurge in NPAs is continuing (Jain, et al, n.d.) 
+Banks need to take precautions regarding credit assessments and should take 
+measures in pre- and post-sanction of the loans to avoid slippages and 
+standard assets of NPAs. The procedures for loans and securities 
+hypothecated need to be checked. NPA and their provisions, interest 
+calculations, repayment schedule, and audit of bank borrowers need to be 
+critically analyzed. There should be a system of periodic review of credit card 
+holders’ accounts (Jain, et al, n.d.). Timely action is essential to ensure the 
+future growth of the Bank. 
+The prudential and provisioning norms and other initiatives taken by the 
+regulatory bodies have pressurized banks to improve their performance and 
+consequently resulted in the trim down of NPAs as well as improvement in 
+the financial health of the Indian banking system. The government in August 
+2019, announced a merger of 10 public sector banks into 4 banks reducing 
+the public sector banks to 12 from 27. This will help improve the profitability 
+of public sector banks and consequently reduce total gross NPAs. 
+Remarkably, rigorous methods have been and shall continue to be adopted to 
+address the situation surrounding NPAs. Instituting the use of third-party data 
+sources in PSBs for comprehensive due diligence across data sources at the 
+sanction stage itself, to mitigate risk on account of misrepresentation and 
+fraud. Despite, RBI’s efforts to control NPAs, there is room for further action 
+in the following way (Palli, 2020): 
+i) Records of borrowers should be available to banks to form an opinion
+and conduct financial background checks of prospective borrowers.
+
+
+--- Page 58 ---
+262 
+Financial Stability onii) The credit team of banks should also undergo periodic training to update
+their skills and industry benchmarks along with credit evaluation sheets,
+which should be upgraded regularly.
+iii) Data analytics can also be a significant tool to conduct effective periodic
+reviews and audits.
+The banks are supposed to focus their actions on reducing their NPAs and 
+operating costs to improve their profitability (Das & Uppal, 2021). The banks 
+should follow proper procedures for the dispatch of loans. There is a need to 
+take time-oriented action to hinder the evolution of NPAs in India. 
+27.7 RECENT POLICY MEASURES TOWARDS 
+NPAS 
+The issue of NPAs is of considerable significance for the regulators as the 
+intensification of the same has always been the precursor to the banking crisis 
+and banking failures worldwide. One must recognize the centrality of NPAs 
+in ensuring the stability of scheduled commercial banks. The proactive 
+approach to make provisions on the probable losses even for the standard 
+assets is a globally accepted prudent norm set by the IFRS 9 standard. The 
+RBI also highlighted the importance of keeping the expected loss-based 
+forward-looking provisions for the safety of commercial banks in India. 
+Tracking the significant increase in credit risk is a novel addition to the new 
+accounting norm since it will enable the banks to heighten their diligence to 
+protect themselves from the risks of bad loans. The ECL methodology takes 
+into account the historical probability of default trends as well as current and 
+future economic scenarios and predictions. Thus, it significantly changes 
+banks’ incentives by inclining them to manage and dispose of bad loans 
+much more actively than the existing process. The ECL method is expected 
+to bring prudence in lending since banks will be able to better monitor their 
+loan slippage and track rating movements (Bandyopadhyay, 2023). 
+Customising systemic controls to domestic banking, the RBI rightly urged 
+banks to make extra provisions against exposure to the top 20 business 
+houses that face higher external risks. The nudge by the RBI is more towards 
+building a buffer, banks can decide on how much they would want to set 
+aside if they have exposure to any of the 20 conglomerates. The prudential 
+provisioning will reflect as part of the provisioning buffer held by banks. 
+(The Hindu Business Line, March 27, 2023). 
+The crux of the recent Supreme Court ruling is that it affirms the right of a 
+borrower to be given a fair hearing before the NPA account is declared as 
+fraud. On March 27, 2023, the Supreme Court in the case State Bank of India 
+vs Rajesh Agarwal ruled that the principles of natural justice must be applied 
+to borrowers, who should be given a hearing before banks classify loan 
+accounts as fraudulent. The court also said the decision to classify a loan as 
+fraudulent should be made by a reasoned order, given the potentially serious 
+
+
+--- Page 59 ---
+263 
+Non-performing Assets civil consequences. The SC ruling may lead to fewer cases of fraud being 
+registered but could also lead to more accountability and punishment in such 
+cases. Given the situation, even a small improvement on this front would be a 
+huge step (Mint, March 31, 2023). 
+Check Your Progress 3 
+1) Give an outline of measures taken by banks to curb the growth of NPAs.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What are the suggestions made by the Narasimhan Committee in 1998?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Analyse the effectiveness of measures for tackling the problem of NPAs.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+4) Why has RBI urged banks to make extra provisions against mismatch
+between assets and liabilities?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+5) In what way Central Repository of Information on Large Credits
+(CRILC) will help in reducing NPAs?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+27.8  LET US SUM UP 
+NPAs are loans or advances made by a financial institution, on which both 
+principal and interest are unpaid for a specified period. NPAs are those loans 
+that have ceased to generate income for the bank. They are recorded on a 
+bank’s balance sheet after a prolonged period of non-payment by the 
+borrower. NPAs can be classified as substandard assets, doubtful assets, or 
+loss assets, depending on the length of time overdue and the probability of 
+repayment. The increase in non-performing advances hurts the rate of profit 
+
+
+--- Page 60 ---
+264 
+Financial Stability onSeveral factors like prevailing macroeconomic conditions, sectoral issues, 
+global business environment, delayed recognition of stress by banks, 
+aggressive lending during upturns, improper risk pricing and poor credit 
+underwriting were attributed towards NPA build-up. One of the primary 
+reasons for stressed assets can be attributed to lethargic due diligence and an 
+ineffective sanctioning process. A large proportion of NPAs arose because of 
+exogenous shock. Most of the NPAs arose due to defaults by private sector 
+non-financial firms. 
+The government and RBI regularly issue guidelines and have taken several 
+initiatives aimed at the resolution of long-standing stressed assets on the 
+books of banks as well as timely identification and recognition of stress 
+immediately upon default and taking corrective action for mitigation of the 
+same. For the borrower, if the asset is non-performing and does not pay the 
+interest, it can hurt their creditworthiness and growth. Also, it will hamper 
+their ability to obtain a loan in future. 
+Banks faced a significant challenge of rising NPAs in 2011 which peaked at 
+11.18 per cent in the fiscal year 2018. Even the government is allowing the 
+banks to make provision for NPAs. It is important that both the borrower and 
+lender must be aware of the NPAs. RBI has introduced stringent policy 
+norms and banks have to make their NPA numbers public from time to time.  
+27.9  KEY WORDS 
+Bank for International  : 
+Settlements (BIS) 
+It is an international financial institution owned 
+by central banks that “fosters international 
+monetary and financial cooperation and serves as 
+a bank for central banks.” 
+ECL approach  :  This approach requires the estimation of credit 
+losses through the life of a financial instrument 
+and subsequently the present value of such credit 
+losses, as on the reporting date.  
+Fraud  : This is indicative of deceitful acts. Bank fraud is 
+a purposeful act of omission or conduct by any 
+person in the course of a banking transaction or 
+the bank’s books of accounts. Fraud denotes a 
+false statement made knowingly. 
+IFRS 9 standard  :
+ IFRS 9 specifies how an entity should classify 
+and measure financial assets, financial liabilities, 
+and some contracts to buy or sell non-financial 
+items. 
+Twin Balance Sheet      : 
+(TBS) problem 
+This deals with two balance sheet problems. One 
+with Indian companies and the other with Indian 
+Banks. Thus, TBS is a two-fold problem for the 
+Indian economy which deals with overleveraged 
+
+
+--- Page 61 ---
+265 
+Non-performing Assets companies and bad-loan-encumbered banks. 
+This can be explained by the fact that the 
+corporations over-expand during a boom, 
+leaving them with obligations that they can’t 
+repay. So, they default on their debts, leaving 
+bank balance sheets impaired, as well. This 
+combination then proves devastating for growth. 
+This has been an issue lingering for decades in 
+the Indian economy, albeit in different forms and 
+structural names. 
+Willful defaulter  :  According to RBI, a willful defaulter is any unit 
+which has defaulted in repaying the lender. Even 
+when it could be repaid. Willful default occurs 
+when a debtor willfully defaults on the 
+repayment of a loan. 
+Zombie lending  :  Zombie lending is the extension of new credit or 
+prolonging of existing loans to low-productivity 
+firms. While such policies may stabilise the 
+economy in the short run, they risk transforming 
+transitory shocks into phases of delayed recovery 
+and permanent productivity and output losses. It 
+refers to extending credit to entities that cannot 
+repay. 
+27.10  SOME USEFUL BOOKS AND REFERENCES 
+Agarwala, Varuna & Agarwala, Nidhi (2019); A critical review of non-
+performing assets in the Indian banking industry; Rajagiri Management 
+Journal Vol. 13 (2) PP. 12-23 
+https://www.emerald.com/insight/content/doi/10.1108/RAMJ-08-2019-
+0010/full/html 
+Bandyopadhyay, Arindam (2023, March 11); Predicting the Probability of 
+Default for Banks’ Expected Credit Loss Provisions; Economic and Political 
+Weekly; Vol. LVIII (10) pp. 15-19 
+Chandrasekhar, C.P. (2022, January 15); Non-Performing Assets: The 
+renewed fear of bad debt; Economic and Political Weekly; Vol 57 (3) 
+https://www.epw.in/tags/non-performing-assets 
+Das, Santosh Kumar & Uppal, Khushboo (2021); NPAs and  
+Profitability in Indian banks: an empirical analysis; Future Business Journal, 
+Vol. 7(1), pp.3-9 
+https://fbj.springeropen.com/articles/10.1186/s43093-021-00096-3 
+
+
+--- Page 62 ---
+266 
+Financial Stability onGaur, Dolly & Mohapatra, Dipti Ranjan (2020, April 17); Non-performing 
+Assets and Profitability: Case of Indian Banking Sector; The Journal of 
+Business Perspective, Vol. 25(2) 
+https://journals.sagepub.com/doi/abs/10.1177/0972262920914106?journalCo
+de=visa 
+Hafsal, K; Suvvari, Anandarao & Durai, SRS (2020, July 16); 
+The efficiency of Indian banks with non-performing assets: evidence from 
+two-stage network DEA; Future Business Journal, Vol. 6, Article No. 26 
+https://fbj.springeropen.com/articles/10.1186/s43093-020-00030-z 
+Jain, Esha, Lamba, Jonika & Soni, Nitika (n.d.) A Comparative Examination 
+Of Non-Performing Asset Management Of Banks In India; School of 
+Management & Liberal Studies, The NorthCap University, Haryana, India 
+https://ejournal.lucp.net/index.php/ijrtbt/article/view/1417/1585 
+Jaiswar, Pooja Sitaram (2022, December 29); Banks gross NPA drops to a 7-
+year low at 5%, net NPA at a decade low: RBI's FSR, The Mint. 
+https://www.livemint.com/news/india/banks-gross-npa-drops-to-7-year-low-
+at-5-net-npa-at-a-decade-low-rbi-s-fsr-11672318983978.html 
+Naveen J. (2022, March 11); What are Non-Performing Assets?; The 
+Corporate Review 
+https://thecorporatereview.com/what-are-non-performing-assets-npa/ 
+Palli, Nikhil (2020); Non-performing Assets in India: An Analysis over the 
+years, AsianBanking& Finance. 
+https://asianbankingandfinance.net/lending-credit/commentary/non-
+performing-assets-in-india-analysis-over-years 
+Rajput, Namita; Arora, Anu Priya & Kaur, Baljeet (2011); Non-performing 
+assets in Indian public sector banks: an analytical study; Business 
+Perspectives – Banks and Bank Systems, Vol 6(4) pp. 84-89 
+https://www.businessperspectives.org/images/pdf/applications/publishing/te
+mplates/article/assets/4383/BBS_en_2011_04_Rajput.pdf 
+Rao, K. Srinivasa (2023, March 30); RBI’s timely move to ring-fence banks; The 
+Hindu Business Line. 
+https://www.thehindubusinessline.com/money-and-banking/rbi-asks-banks-
+to-make-extra-provisioning-on-top-20-business-houses/article66664724.ece 
+Selvarajan, B. & Vadivalagan, G. (2013); A Study on Management of Non-
+Performing Assets in Priority Sector reference to Indian Bank and Public 
+
+
+--- Page 63 ---
+267 
+Non-performing Assets Sector Banks (PSBs); Global Journal of Management and Business Research 
+Volume 13(1)  
+https://globaljournals.org/GJMBR_Volume13/10-A-Study-on-Management-
+of-Non.pdf 
+Sikdar, A. (2020, December 22). NPAs and its effects on banks' profitability. 
+Times of India . https://timesofindia.indiatimes.com/blogs/economic-
+update/npas-and-its-effects-on-banks-profitability/ 
+Singh, Aakriti & Arora, Amber (n.d.): Non-performing assets in India: A 
+critical analysis of public and private sector banks; Journal of Multi-
+disciplinary Legal Research, Vol. 2(2). 
+https://jmdlr.in/static/media/Non-
+Performing%20Assets%20in%20India%20A%20Critical%20Analysis%20of
+%20Public%20and%20Private%20Sector%20Banks%20-
+%20Aakriti%20Singh%20&%20Amber%20Arora.eee3970f.pdf 
+27.11 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Considering the nature of NPAs, the RBI has categorized them into three
+broad categories depending on the period of default. These categories are
+Sub-Standard Asset, Doubtful Asset, and Loss Asset.
+2) NPAs are recorded on a bank’s balance sheet only after a prolonged
+period of non-repayment by the borrower. When the banks accept that
+the loan will never be repaid, they record a loss on their balance sheet.
+The entire amount of the loan must be written off completely.
+3) Refer to Sub-section 27.2.2
+4) Under this system, the banks monitor and track the portfolios of their
+customers regularly.  The EWS helps the banks to check the asset quality
+of the borrowers (corporate firms). The EWS (software) helps the banks
+to identify signs of distress which is not possible to check manually.
+5) The twin balance sheet problem refers to a situation where the borrower
+(corporate sector) is under stress due to high debt, and the lender (banks)
+is under stress due to non-repayment of loans (NPAs). The balance
+sheets of both the borrower and the lender have problems.
+Check Your Progress 2 
+1) Defaults are to be recognized within 30 days, The Insolvency and
+Bankruptcy Code of 2016 plays an important role in the recovery of
+assets of those creditors whose case has been filed with the National
+Company Law Tribunal (NCLT). prudential asset-liability management
+
+
+--- Page 64 ---
+268 
+Financial Stability onframework for domestic banks and curbs on total leverage to the 
+systematic plugging of regulatory arbitrage between banks and other 
+financial entities. 
+2) A strong banking sector is important for the Indian economy. The failure
+of the banking system may hurt other sectors. Refer to Section 27.6 for
+the detailed answer.
+3) NPAs hurt the rate of profit of the Indian banks. NPAs negatively affect
+banks’ ability to generate income and profitability. It on the one hand
+reduces their interest earning and, on the other hand, also affects their
+future deposits and increases their operating cost.
+4) Higher NPAs influence the price of loans and interest rates, which in turn
+affects the confidence of investors, lenders, and depositors equally.
+While higher interest rates will directly impact the investors in need of
+loans for the creation of infrastructural and industrial projects, they also
+cause poor recovery of funds, which will affect the credit creation and
+revenue stream of the banks.
+Check Your Progress 3 
+1) Refer to Section 27.9
+2) In 1998, the Narasimhan Committee on Banking Sector Reforms
+recommended a further tightening of prudential standards to strengthen
+the prevailing norms and bring them on par with evolving international
+best practices. With the introduction of 90-day norms for the
+classification of NPAs in 2001, the NPA guidelines were brought to par
+with international standards.
+3) NPAs can be manageable, but it depends on how many there are and
+how far they are past due. In the short term, most banks can take on a fair
+amount of NPAs. However, if the volume of NPAs continues to build
+over some time, it threatens the financial health and future success of the
+lender. Also, refer to section 27.8.
+4) The nudge by the RBI is more towards building a buffer, banks can
+decide on how much they would want to set aside if they have exposure
+to any of the 20 conglomerates.
+5) CRILC) was set up to share data for loans over ₹50 million with all
+banks. The CRILC data included the status of each loan; whether it was
+performing or had become NPA or was heading in that direction. This
+system helped the banks identify warning signs and helped segregate the
+habitual offenders.
+27.12  TERMINAL EXERCISES 
+1) Do you agree that there is a declining trend in the stock of NPAs? Give
+reasons in support of your answer.
+
+
+--- Page 65 ---
+269 
+Non-performing Assets 2) “NPAs in the banking sector are growing and are found to be at the
+centre of the economic problem of the banks in India”. Explain this
+statement and discuss the problem created by growing NPAs.
+3) How do NPAs reflect the asset quality, credit risk and efficiency in the
+allocation of resources to productive sectors? Explain the impact of
+NPAs on the stability of the banking system in India.
+4) Why does the high level of NPAs cause worry to any financial
+institution? What measures have been taken to regulate the problem of
+NPAs?
+5) “Most of the NPAs originated during the mid-2000s, during the period of
+high economic growth and positive business outlook. This led to an easy
+flow of credit”. Give reasons for this rise in NPAs.
+6) Do you agree that there is a need to have a proper set of policy measures
+for recognizing NPAs early? What prompt steps to resolve and ensure
+fair recovery for lenders would you recommend?

@@ -1,0 +1,356 @@
+--- Page 19 ---
+113 
+Capital Asset 
+Pricing Model UNIT 19 CAPITAL ASSET PRICING 
+MODEL 
+Structure 
+19.0 Objectives 
+19.1 Introduction 
+19.2 The Capital Asset Pricing Model (CAPM) 
+19.2.1  Distinctive Features of Capital Asset Pricing Model 
+19.3 Importance of Sharpe’s Theory 
+19.3.1  Objectives and Functions of Sharpe’s Theory 
+19.3.2  Importance and Role of Sharpe’s Theory in an Economy 
+19.4 Application of Capital Asset Pricing Model 
+19.5 Limitation of CAPM 
+19.5.1  Theoretical Limitation of CAPM 
+19.5.2  Practical Limitation of CAPM 
+19.6 Empirical Analysis of the CAPM Model 
+19.7 Let Us Sum Up 
+19.8 Key Words 
+19.9     Some Useful Books 
+19.10  Answers/ Hints to Check Your Progress Exercises 
+19.11 Terminal Questions  
+19.0  OBJECTIVES 
+After completing this unit, you will be able to: 
+ explain the concept of CAPM;
+ spell out the composition of Sharpe’s theory;
+ highlight the importance, role and functions of the CAPM model in
+an economy;
+ identify assumptions of the CAPM model;
+ describe the CAPM model;
+ analyse the applications of the CAPM model and its empirical
+analysis; and
+ indicate the problems of the CAPM model.
+
+
+--- Page 20 ---
+114 
+Operational Aspects 
+of Financial Markets 19.1  INTRODUCTION 
+You must have understood that financial markets play a very important role 
+in the economy by facilitating the allocation of capital managing risk and 
+enabling price discovery. They are influenced by various factors such as 
+economic conditions, government policies, sentiment of investors and 
+geopolitical events. A proper understanding and analysis of these markets are 
+necessary for investors, policymakers and businesses to make informed 
+decisions regarding investment, risk management and capital allocation. We 
+have already discussed about Efficient Portfolio frontier and Markowitz’s 
+Portfolio theory in Unit 18. We have also discussed the relationship between 
+risk and return in Unit 18. We will extend our understanding of risk, return 
+and variance in this unit and discuss the Capital Asset Pricing Model 
+(CAPM).  
+Models like CAPM provide valuable insights into the pricing and behaviour 
+of these financial markets. CAPM provides valuable insight into the 
+relationship between risk and return and financial markets. This unit will 
+explore the foundational principles of CAPM and will also help in examining 
+the implications for the economy as a whole. This unit will also help the 
+learners in analyzing the role of CAPM in asset pricing, portfolio 
+management and decision-making. This unit will also throw light on how 
+CAPM influences economic outcomes and market efficiency. The limitations 
+and critiques of CAPM will also be discussed. 
+19.2 THE CAPITAL ASSET PRICING MODEL 
+(CAPM) 
+The Capital Asset Pricing Model (CAPM) is a fundamental framework in 
+finance that plays a crucial role in asset pricing, portfolio management, and 
+investment decision-making. Developed in the 1960s by William Sharpe, 
+John Linter, and Jan Mossin, CAPM provides a theoretical foundation for 
+understanding the relationship between risk and return in financial markets. 
+Its significance in finance stems from its ability to quantify the expected 
+return on an investment based on its level of systematic risk, offering 
+valuable insights for investors, analysts, and policymakers. 
+Before delving into the key aspects of the CAPM model, let us discuss some 
+key concepts that form the basis of CAPM. These are as follows: 
+Systematic Risk: We have read about systematic and non-systematic risk in 
+Unit 18. Systematic risk, also known as market risk, refers to the risk that 
+cannot be diversified away by holding a diversified portfolio. It is associated 
+with factors that affect the entire market, such as economic downturns, 
+interest rate changes, or geopolitical events. 
+Beta: Beta measures the sensitivity of an asset’s returns to changes in the 
+overall market returns. It quantifies the extent to which an asset moves in 
+tandem with the market. Assets with a beta of 1 move in perfect correlation 
+
+
+--- Page 21 ---
+ 
+ 
+115 
+Capital Asset  
+Pricing Model 
+with the market, while assets with a beta greater than 1 are more volatile, and 
+those with a beta less than 1 are less volatile. 
+Risk-Free Rate:  The risk-free rate represents the return on an investment 
+with zero risk, typically provided by the yield on government bonds. It serves 
+as the baseline return that investors can earn without taking on any 
+investment risk. 
+Market Risk Premium:  The market risk premium is the additional return 
+that investors demand for bearing systematic risk. It is calculated as the 
+difference between the expected return on the market portfolio and the risk-
+free rate. 
+Formulation of the CAPM Equation: The CAPM equation expresses the 
+relationship between expected return, systematic risk (beta), and the risk-free 
+rate: 
+Expected Return=Rf+β× (Rm−Rf) 
+Where: 
+ Expected Return: Expected Return is the expected return on the asset. 
+ Rf is the risk-free rate, representing the return on investment with zero 
+risk, typically proxied by the yield on government bonds. 
+ β is the asset’s beta, which measures its systematic risk or sensitivity to 
+market movements. 
+ Rm is the expected return on the market portfolio, usually represented by 
+a broad market index like the S&P 500. 
+ (Rm−Rf) is the market risk premium, representing the excess return 
+investors demand for bearing the systematic risk of the market portfolio. 
+19.2.1 The Distinctive Features of the Capital Asset Pricing 
+Model 
+The Capital Asset Pricing Model (CAPM) is an extremely valuable tool to 
+analyse the financial market. Some of the distinctive features of the model are 
+as follows: 
+1) Systematic Risk Emphasis:  CAPM focuses on systematic risk, also 
+known as non-diversifiable risk, which is the risk inherent to the entire 
+market or market segment. It assumes that investors are primarily 
+concerned with this type of risk because it cannot be eliminated through 
+diversification. 
+2) Single-Factor Model: CAPM is a single-factor model, relying on beta as 
+the sole measure of risk. Beta measures an asset’s sensitivity to market 
+movements, providing a straightforward way to assess its risk relative to 
+
+
+--- Page 22 ---
+116 
+Operational Aspects 
+of Financial Markets 
+the market portfolio. This simplicity makes CAPM easy to understand 
+and apply. 
+3) Relationship between Risk and Return:  CAPM quantifies the
+relationship between an asset’s risk and its expected return. It asserts that
+investors require higher returns for bearing higher levels of systematic
+risk, as reflected in the market risk premium.
+4) Market Portfolio Benchmark:  CAPM uses the market portfolio as a
+benchmark for risk and return. The market portfolio represents a
+diversified portfolio containing all risky assets in the market, weighted
+according to their market capitalization. By comparing an asset’s
+expected return to the return on the market portfolio, investors can assess
+its performance and risk-adjusted return.
+5) Risk-Free Rate Incorporation:  CAPM incorporates the risk-free rate,
+representing the return on an investment with zero risk. This element
+allows investors to differentiate between the risk-free return and the
+additional return required for bearing systematic risk, facilitating
+investment decision-making.
+6) Equilibrium Pricing: CAPM is based on the concept of market
+equilibrium, suggesting that asset prices adjust to reflect the relationship
+between risk and return implied by the model. In equilibrium, the
+expected returns of all assets align with their systematic risk as measured
+by beta.
+7) Universal Applicability: CAPM’s principles apply across various asset
+classes and markets, making it a widely used model for determining
+expected returns on stocks, bonds, and other financial instruments. Its
+broad applicability enhances its utility in investment analysis and
+portfolio management.
+19.3 IMPORTANCE OF SHARPE’S THEORY 
+Sharpe ratio is one of the indexes derived from the CAPM model. It is 
+used to evaluate the value of investment in a portfolio. This section 
+discusses the objectives, functions and application of the Sharpe ratio. 
+19.3.1  Objectives and Functions of Sharpe’s Theory 
+The Sharpe ratio is a measure of risk-adjusted return, commonly used in 
+finance to assess the performance of an investment or portfolio relative to its 
+risk. The formula for the Sharpe ratio is: 
+Sharpe ratio= (Rp – Rf) /σp 
+Where: 
+ Rp is the expected return on the investment or portfolio.
+
+
+--- Page 23 ---
+ 
+ 
+117 
+Capital Asset  
+Pricing Model  Rf is the risk-free rate of return (typically the yield on government 
+bonds). 
+ σp is the standard deviation of the investment or portfolio’s returns, 
+representing its volatility or risk. 
+ The numerator (R p−Rf) calculates the excess return of the investment or 
+portfolio over the risk-free rate, while the denominator σ p measures its 
+volatility or risk. Dividing the excess return by the risk provides a 
+measure of risk-adjusted return, with a higher Sharpe ratio indicating 
+better risk-adjusted performance. 
+ Its primary objective and functions in the economy include: 
+i) Objective Measurement of Risk-Adjusted Performance : The main 
+objective of the Sharpe ratio is to provide a standardized measure of 
+risk-adjusted performance. It evaluates the excess return of an 
+investment or portfolio relative to its risk, typically measured as the 
+standard deviation of returns. By considering both return and risk, the 
+Sharpe ratio allows investors to compare investments consistently. 
+ii) Quantifying Risk-Return Tradeoff:  The Sharpe ratio quantifies the 
+tradeoff between risk and return by expressing the excess return per 
+unit of risk taken. A higher Sharpe ratio indicates better risk-adjusted 
+performance, as it reflects higher returns relative to the volatility of 
+those returns. This function helps investors evaluate whether an 
+investment’s return compensates adequately for the level of risk it 
+entails. 
+iii) Portfolio Allocation Decision:  In portfolio management, the Sharpe 
+ratio assists investors in making allocation decisions by comparing the 
+risk-adjusted returns of different asset classes or investment strategies. 
+It enables investors to identify portfolios or assets that offer the 
+highest return per unit of risk and optimize their portfolio allocations 
+accordingly. 
+iv) Performance Evaluation Tool : The Sharpe ratio serves as a 
+performance evaluation tool for investment managers, financial 
+analysts, and fund selectors. It allows them to assess the skill of 
+portfolio managers or the performance of investment funds relative to 
+their benchmark or peer group. A higher Sharpe ratio suggests 
+superior risk-adjusted performance, while a lower ratio may indicate 
+underperformance or excessive risk-taking. 
+v) Risk Management Tool: The Sharpe ratio facilitates risk 
+management by providing insights into the risk-adjusted returns of 
+investment portfolios. Investors can use it to identify and manage 
+portfolio risk exposures, ensure diversification, and optimize risk-
+return tradeoffs according to their risk preferences and investment 
+objectives. 
+
+
+--- Page 24 ---
+118 
+Operational Aspects 
+of Financial Markets 
+vi) Benchmark Comparison:  The Sharpe ratio enables investors to
+compare the risk-adjusted performance of their portfolios or
+investments against a benchmark, such as a market index or a target
+return. This comparative analysis helps investors gauge whether their
+portfolio’s returns are commensurate with the level of risk taken
+relative to a chosen benchmark.
+Thus, the Sharpe ratio plays a crucial role in the economy by providing a 
+standardized measure of risk-adjusted performance, aiding portfolio 
+allocation decisions, evaluating investment performance, managing portfolio 
+risk, and facilitating benchmark comparisons. Its objective function is to help 
+investors make informed decisions by assessing the risk-return tradeoff of 
+investments or portfolios. 
+19.3.2 Importance and Role of Sharpe’s Theory in an 
+Economy 
+While the Sharpe ratio is more commonly used in the realm of finance and 
+investment, its principles can still be applied to macroeconomic analysis, 
+particularly in evaluating the risk-adjusted performance of economic policies 
+or strategies. Let’s consider some hypothetical examples to illustrate the 
+importance and role of the Sharpe ratio in macroeconomics: 
+i) Evaluation of Fiscal Policy:  Suppose a government is considering
+implementing an expansionary fiscal policy to stimulate economic
+growth. They plan to increase government spending and reduce taxes to
+boost aggregate demand. However, this policy entails higher government
+debt and potential inflationary pressures. The Sharpe ratio can be used to
+assess the risk-adjusted effectiveness of this fiscal policy. We can
+calculate the ratio by comparing the expected increase in GDP (or other
+relevant macroeconomic indicators) to the associated increase in
+government debt or inflation volatility. If the Sharpe ratio for the
+proposed fiscal policy is high, it indicates that the potential benefits (e.g.,
+higher GDP growth) outweigh the associated risks (e.g., increased debt
+or inflation). A low Sharpe ratio, on the other hand, suggests that the
+policy's risks may outweigh the benefits.
+ii) Analysis of Monetary Policy: Consider a Central Bank implementing
+an accommodative monetary policy by lowering interest rates to
+stimulate investment and consumption. While this policy may spur
+economic activity, it also carries risks such as asset price bubbles or
+currency depreciation. The Sharpe ratio can help evaluate the risk-
+adjusted impact of monetary policy actions. By comparing the expected
+increase in economic output or employment to the volatility of asset
+prices or exchange rates, policymakers can gauge the effectiveness and
+prudence of their monetary policy decisions. A high Sharpe ratio would
+indicate that the benefits of the monetary policy (e.g., higher economic
+growth) outweigh the risks (e.g., asset bubbles). Conversely, a low
+
+
+--- Page 25 ---
+119 
+Capital Asset 
+Pricing Model 
+Sharpe ratio suggests that the policy’s risks may outweigh the benefits, 
+signalling the need for alternative policy measures. 
+iii) Assessment of Structural Reforms:  Imagine a country implementing
+structural reforms aimed at improving long-term economic growth, such
+as deregulation, labour market reforms, or investment in infrastructure.
+While these reforms may yield significant economic benefits over time,
+they can also entail short-term disruptions or adjustment costs. The
+Sharpe ratio can be employed to assess the risk-adjusted effectiveness of
+structural reforms. By comparing the expected long-term benefits of the
+reforms to the short-term costs or uncertainties, policymakers can
+determine whether the reforms offer a favourable risk-return tradeoff. A
+high Sharpe ratio would suggest that the potential long-term benefits of
+the reforms justify the short-term costs or uncertainties. Conversely, a
+low Sharpe ratio may indicate that the risks associated with the reforms
+outweigh the expected benefits, prompting policymakers to reconsider
+their approach.
+It is also important to note that while the application of the Sharpe ratio in 
+macroeconomics may require adaptations and interpretations compared to its 
+use in finance, it can still offer valuable insights into the risk-adjusted 
+performance of economic policies and strategies. By quantifying the tradeoff 
+between expected benefits and associated risks, policymakers can make more 
+informed decisions to promote macroeconomic stability and sustainable 
+growth. 
+19.4  APPLICATION OF CAPITAL ASSET 
+PRICING MODEL 
+In financial economics, the Capital Asset Pricing Model (CAPM) serves as a 
+fundamental tool for understanding the relationship between risk and return 
+in financial markets. Here’s how it’s applied in financial economics, 
+explained with an example: 
+Expected Return Estimation: CAPM is used to estimate the expected return 
+of an asset or a portfolio based on its systematic risk, as measured by its beta 
+(β). The formula for the expected return of an asset according to CAPM is: 
+E (Ri) =Rf +βi× (E (Rm) −Rf) 
+ Where:
+ E (Ri) is the expected return of asset i,
+ Rf is the risk-free rate,
+ βi is the beta of asset i,
+ E (Rm) is the expected return of the market portfolio.
+
+
+--- Page 26 ---
+120 
+Operational Aspects 
+of Financial Markets 
+An example of this application could be estimating the expected return of a 
+particular stock. Suppose the risk-free rate is 3%, the expected return of the 
+market portfolio is 8%, and the stock’s beta is 1.2. Using CAPM, we can 
+calculate the expected return of the stock as follows: 
+=0.03+1.2×(0.08−0.03)=0.03+1.2×0.05=0.03+0.06=0.09E(Ri
+=0.03+1.2×(0.08−0.03)=0.03+1.2×0.05=0.03+0.06=0.09 
+So, the expected return of the stock according to CAPM would be 9%. 
+Cost of Equity Calculation:  CAPM is used to determine the cost of equity 
+for a company, which represents the return required by investors for holding 
+the company's stock. The cost of equity is a crucial input in various financial 
+decisions, such as capital budgeting and valuation. Companies use CAPM to 
+calculate their cost of equity by substituting the company’s beta into the 
+CAPM formula. For example, if a company has a beta of 1.5, the risk-free 
+rate is 4%, and the market risk premium is 6%, then the company's cost of 
+equity according to CAPM would be: 
+=0.04+1.5×0.06=0.04+0.09=0.13Cost of Equity=0.04+1.5×0.06=0.04+0.09=
+0.13 
+So, the cost of equity for the company would be 13%. 
+Risk-Adjusted Performance Measurement:  CAPM is used in financial 
+economics to evaluate the performance of investment portfolios or funds. By 
+comparing the actual returns of a portfolio with the returns predicted by 
+CAPM based on the portfolio’s risk (beta), investors can assess whether the 
+portfolio manager has generated excess returns (alpha) or underperformed the 
+market. For instance, if a portfolio's actual return is 10% and its expected 
+return based on CAPM is 8%, the portfolio manager has generated an excess 
+return of 2%, indicating positive alpha. 
+These are just a few examples of how CAPM is applied in financial 
+economics to make informed decisions regarding asset pricing, cost of 
+capital, and performance evaluation in financial markets. 
+Check Your Progress 1 
+1) Define Capital Asset Pricing Model.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Describe the main features of the Capital Asset Pricing Model.
+……………………………………………………………………………
+……………………………………………………………………………

@@ -1,0 +1,454 @@
+--- Page 21 ---
+20 
+The Financial System: 
+Overview 
+in these securities to earn a return on their investments. Security markets are 
+important for raising money for corporations and institutions and also for 
+investors to allocate their money. 
+The financial market makes the transaction between savers and investors 
+easy. It becomes a one-stop shop for all lenders/investors and borrowers. 
+Hence the market becomes an effective source for capital generation and 
+investment. 
+In short, there are many things that financial markets make possible. They 
+provide a place where participants like investors and debtors, regardless of 
+their size, will receive fair and proper treatment. They facilitate individuals, 
+companies, and government organizations with access to capital. The 
+financial markets help lower the unemployment rate because of the many 
+jobs they offer. By allowing a free market for the flow of capital, financial 
+obligations, and money the financial markets make the global economy run 
+more smoothly while also allowing investors to participate in capital gains 
+over time. 
+Financial markets exist for several reasons, but the most fundamental 
+function is to allow for the efficient allocation of capital and assets in an 
+economy. Mentioned below are the important functions of the financial 
+markets: 
+i) Create securities products that provide a return for those who have
+excess funds (Investors/lenders) and make these funds available to
+those who need funds (borrowers).
+ii) Mobilizes savings and trading it in the most productive methods.
+iii) Assist in price discovery of securities through interaction with the
+investors and depending on the demand and supply in the market.
+iv) Provide liquidity to bartered assets.
+v) Less time-consuming and cost-effective as parties don't have to spend
+extra time and money to find potential clients to deal with securities.
+They also decrease costs by giving valuable information about the
+securities traded in the financial market.
+To recapitulate, financial markets put savings into more productive use, 
+determine the price of securities, make financial assets liquid, and lower the 
+cost of transactions. 
+Check Your Progress 1 
+1) What is the significance of the financial system?
+...............................................................................................................
+...............................................................................................................
+
+
+--- Page 22 ---
+21 
+Economic Agents ...............................................................................................................
+.............................................................................................................. 
+2) What is the financial market?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+..............................................................................................................
+ 
+3) What are the different types of financial markets?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+..............................................................................................................  
+1.5  FINANCIAL INSTRUMENTS 
+Any asset which holds capital and can be traded in the market is referred to as 
+a financial instrument. A financial instrument, an intangible asset is a claim 
+against a person or an institution for the payment at a future date of a sum of 
+money and/or a periodic payment in the form of interest or dividend. It is a 
+tradable asset representing a legal agreement or a contractual right to 
+evidence the monetary value/ownership interest of an entity. Financial 
+instruments are typically traded in financial markets where the price of a 
+security is arrived at based on the play of market forces. 
+Key financial instruments that are traded in the stock market include shares, 
+stocks, bonds, derivatives, mutual funds, cheques etc. Investing in financial 
+instruments carries a financial risk. 
+1.5.1 Types of Financial Instruments 
+There are typically three types of financial instruments: cash instruments, 
+derivative instruments, and foreign exchange instruments. Furthermore, the 
+financial instruments can be classified based on the ‘asset classes’ into 
+‘equity-based’ or ‘debt-based’. If the instrument is debt, then it can be further 
+categorized as ‘short-term debt’ and ‘long-term debt’. Foreign exchange 
+instruments and transactions are neither debt- nor equity-based and belong in 
+their category. 
+Financial instruments can also be split into two categories: Complex and 
+Non-complex. Complex financial instruments require in-depth knowledge for 
+traders to be successful when trading them. The most commonly traded 
+complex financial instruments are derivatives. These can be contracts for 
+differences (CFDs), futures contracts and options. Different derivatives have 
+different benefits. Non-complex financial instruments can be traded without a 
+
+
+--- Page 23 ---
+22 
+The Financial System: 
+Overview 
+vast amount of specialist knowledge which include shares or equity 
+securities, as well as debt securities and certain types of investment funds. 
+Further, financial securities may be primary or secondary securities.  Primary 
+securities are also termed direct securities as they are directly issued by the 
+ultimate borrowers of funds to the ultimate user. Secondary security is a term 
+used to explain the financial market where securities are purchased from 
+other investors. 
+Cash instruments: Cash instruments are those whose value is determined 
+directly by the markets. They can be securities, which are readily transferable 
+and loans and deposits, where both borrower and lender have to agree on a 
+transfer. 
+Derivatives: A derivative is a financial instrument such as options, forward 
+exchange contracts etc. issued for various types of underlying assets, whose 
+value depends on or is derived from one (or more) of underlying instruments.  
+Check Your Progress 2 
+1) Define financial institutions and also differentiate between different
+types of financial institutions.
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+2) Define financial instruments.  Distinguish between primary securities
+and secondary securities.
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+3) What are financial services?  Give some examples.
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+1.6 LET US SUM UP 
+In this unit, we discussed the nature of the financial system. It is a complex, 
+well-integrated set of sub-systems of financial institutions, markets, 
+instruments, and services which facilitate the transfer and allocation of funds, 
+
+
+--- Page 24 ---
+ 
+ 
+23 
+Economic Agents efficiently and effectively. Two important classifications of financial 
+institutions are Banking institutions and non-banking institutions and 
+Intermediaries and non-intermediaries. The units outlined financial markets 
+as mechanisms enabling participants to deal with financial claims. Two 
+important classifications of financial markets are Primary market and 
+secondary market, Money market and Capital market.  The unit also 
+deliberated about the financial instrument as a claim against a person or an 
+institution for the payment at a future date of a sum of money and/or a 
+periodic payment in the form of interest or dividend. We discussed financial 
+services rendered by financial intermediaries that bridge the gap between the 
+lack of knowledge and information on the part of investors in the face of 
+growing sophistication of financial instruments and markets. 
+1.7  KEY WORDS 
+Cryptocurrency             : Decentralized digital assets that are based on 
+blockchain technology. 
+Derivative                       : It is a financial instrument such as options, 
+forward exchange contracts etc. are issued for 
+various types of underlying assets, whose value 
+depends on, or is derived from one (or more) of 
+underlying instruments.  
+Financial institutions   : All kinds of organizations intermediate and 
+facilitate financial transactions of both 
+individual and corporate customers.  
+Financial instrument     : is a claim against a person or an institution for 
+the payment at a future date of a sum of money 
+and/or a periodic payment in the form of 
+interest or dividend.   
+Financial market           : It is referred to as space, where the selling and 
+buying of financial assets and securities take 
+place. The trade of buying and selling 
+securities, derivatives, commodities, forex, etc. 
+is carried on in financial markets. 
+Financial system            : It is a complex, well-integrated set of sub-
+systems of financial institutions, markets, 
+instruments, and services which facilitate the 
+transfer and allocation of funds, efficiently and 
+effectively.   
+Primary markets            : deal in the new financial claims or new 
+securities, and, therefore, they are also known 
+as ‘new issue markets’. 
+Primary securities         : They are direct securities as they are directly 
+issued by the ultimate borrowers of funds to the 
+ultimate user. 
+
+
+--- Page 25 ---
+ 
+ 
+24 
+The Financial System: 
+Overview 
+Secondary markets       : deals in securities already issued or existing 
+outstanding.   
+Secondary security       : is a term used to explain a financial market 
+where securities are purchased from other 
+investors. 
+1.8 SOME USEFUL REFERENCES 
+Houthakker, H. S., & Williamson, P. J. (1996). The Economics of Financial 
+Markets. Oxford University Press, USA. 
+Mishkin, F. S., & Eakins, S. G. (2006). Financial Markets and Institutions . 
+Pearson Education India. 
+1.9 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES  
+Check Your Progress 1 
+1) A financial system is a complex, well-integrated set of sub-systems of 
+financial institutions, markets, instruments, and services which facilitate 
+the transfer and allocation of funds, efficiently and effectively between 
+different economic agents.   
+2) Mechanism enabling participants to deal with financial claims.   
+3) A. Primary market and secondary market and B.  Money market and 
+Capital market. 
+Check Your Progress 2 
+1) Financial institutions are business organisations that act as mobilisers 
+and depositors of savings and as purveyors of credit or finance. Banking 
+Institutions are “creators” of credit, and the non-banking Institutions as 
+“purveyors” of credit. Intermediaries intermediate between savers and 
+investors while non-intermediary institutions are in the lending business. 
+2) A claim against a person or an institution for the payment at a future date 
+of a sum of money and/or a periodic payment in the form of interest or 
+dividend.  Primary securities are also termed direct securities as they are 
+directly issued by the ultimate borrowers of funds to the ultimate user. 
+Secondary security is a term used to explain the financial market where 
+securities are purchased from other investors. 
+3) facilitating transactions, mobilizing savings, allocating capital, 
+monitoring management.    
+
+
+--- Page 26 ---
+ 
+ 
+25 
+Financial 
+Intermediation UNIT 2  FINANCIAL INTERMEDIATION 
+Structure 
+2.0 Objectives 
+2.1 Introduction 
+2.2  Concept of Financial Intermediation   
+ 2.2.1  Direct and Indirect Finance 
+ 2.2.2  Intermediaries and Non-intermediaries 
+2.3      Types of Financial Intermediaries 
+2.4      Function and Roles of Financial Intermediaries 
+2.5     An Overview of the Indian Financial System 
+2.6  Regulation of Financial Institutions 
+ 2.7    Let Us Sum Up 
+2.8     Suggested Readings 
+2.9     Key Words 
+2.10   Answers/Hints to Check Your Progress Exercises 
+2.0 OBJECTIVES 
+After going through this unit, you will be able to: 
+ Explain the concept of direct and indirect finance; 
+ Examine the concept of financial intermediaries; 
+ Describe the features of financial intermediaries; and 
+ Provide an overview of the evolution of the Indian Financial System. 
+2.1 INTRODUCTION  
+As discussed in Unit 1, the financial system consists of financial 
+institutions, financial markets, financial services, financial instruments, 
+financial practices and financial transactions. We already know that the 
+term financial institutions refer to all kinds of organizations which 
+intermediate and facilitate financial transactions of both individual, 
+corporate and public entities. Many financial institutions perform the role 
+of financial intermediaries. They are intermediaries between the savers 
+and borrowers of funds. Financial  institutions have several functions that 
+assist the economic agents in fulfilling their various needs. They deal in all 
+types of finance-related businesses and gaining prominence in broadening the 
+finance-related services in the country. They play a crucial role in the 
+ 
+
+
+--- Page 27 ---
+ 
+ 
+26 
+The Financial System: 
+Overview 
+economy.  In this unit, we will study more about financial intermediaries and 
+provide an overview of the Indian financial system. 
+2.2  CONCEPT OF FINANCIAL INTERMEDIATION 
+2.2.1  Direct and Indirect Finance 
+The two primary ways through which funds are channelled from savers to 
+borrowers in an economy are direct and indirect finance. These concepts 
+relate to the mechanisms by which financial resources move between those 
+who have excess funds (savers) and those who need funds (borrowers). In 
+direct finance, funds are directly provided by savers to borrowers in the 
+financial markets without the involvement of any intermediary. In indirect 
+finance, there is a special kind of ‘middleman’, a third party that stands 
+between borrowers and lenders. This ‘middleman’ is known as a financial 
+intermediary. The role of a financial intermediary is to accumulate funds 
+from parties that have excess funds (the savers) and make those funds 
+available to those who have deficient funds and need those funds (the 
+borrowers). While we will discuss various types of financial intermediaries 
+shortly, let us discuss here one of the financial intermediaries: banks. Banks 
+are financial intermediaries because they accept deposits, and then provide 
+loans from these funds to borrowers.  Banks pay depositors interest on their 
+deposits and receive interest payments from borrowers on the loan advanced.  
+The bank is in the middle, as an intermediary and aims to earn a profit on the 
+spread between the rate of interest charged to borrowers and the rate of 
+interest paid to depositors. 
+As mentioned, a financial intermediary is like a middleman; so is a broker 
+who facilitates exchange between borrowers and lenders in financial markets 
+where direct finance is involved. But there is a difference between brokers 
+and financial intermediaries: a broker brings together borrowers and lenders 
+but does not lend to borrowers or issue bonds. All that a broker does is 
+facilitate transactions involving direct finance and charge a commission for 
+his services rendered. A broker does not create any financial instrument. In 
+contrast to this, financial intermediaries lend to borrowers by creating and 
+issuing their securities, for example: bonds. A financial intermediary does not 
+merely bring borrowers and lenders together; financial intermediaries 
+themselves give loans to lenders. They earn profits by repackaging deposits 
+of savers into loans, and themselves lending to borrowers. 
+2.2.2  Intermediaries and Non-intermediaries 
+Intermediaries intermediate between savers and investors; they lend money as 
+well as mobilize savings; their liabilities are towards the ultimate savers, 
+while their assets are from the investors or borrowers. Non-intermediary 
+institutions do the loan business but their resources are not directly obtained 
+from the savers. All banking institutions are intermediaries, many non-
+banking institutions also act as intermediaries and when they do so, they are 
+known as non-banking financial intermediaries. 
+
+
+--- Page 28 ---
+ 
+ 
+27 
+Financial 
+Intermediation 
+Financial intermediaries provide key financial services such as merchant 
+banking, leasing, hire purchase, credit-rating, etc. Financial services rendered 
+by the financial intermediaries’ bridge the gap between the back of 
+knowledge and information on the part of investors and growing 
+sophistication of financial instruments and markets. 
+It may be recalled from Unit 1, financial intermediaries-banking and non-
+banking — as financial institutions, perform the following functions: 
+i) They act as a bridge between savers and investors. 
+ii) They reduce the cost of financial services provided. 
+iii) They play an important role in the development of financial services in 
+the country. 
+iv) They provide consultancy services to clients on their investments 
+related to the financial markets where a huge amount of risk is 
+involved. In this way, they improvise the decision-making process. 
+v) They profit by earning higher returns on their investments than they 
+pay for their sources of money. 
+vi) The assets of a financial intermediary are the loans, stocks, bonds, and 
+real estate that are the company’s investments and its liabilities are its 
+obligations to its customers, which include deposits, insurance policies, 
+and pension payouts. 
+Check Your Progress 1 
+1) State the meaning of finance and financing. 
+ ..............................................................................................................
+..............................................................................................................
+..............................................................................................................  
+2) What are intermediaries and non-intermediaries? 
+ ..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+.............................................................................................................. 
+3) Differentiate between direct and indirect finance. 
+ ..............................................................................................................
+..............................................................................................................
+.............................................................................................................. 
+2.3  TYPES OF FINANCIAL INTERMEDIARIES  
+As we discussed earlier, financial intermediaries play a very important role in 
+the financial system by facilitating the flow of funds between savers and 
+
+
+--- Page 29 ---
+ 
+ 
+28 
+The Financial System: 
+Overview 
+borrowers. There are various types of financial intermediaries, each serving a 
+specific function in the financial markets. Some of them are: 
+ Commercial Banks; e.g. State Bank of India, HDFC Bank, ABN AMRO 
+Bank, PNB, HSBC Bank, etc. They are traditional financial intermediary 
+that accept deposits from savers and provide loans to individuals, 
+businesses, and governments. 
+ Development Banks, e.g. IDBI, , NABARD, SIDBI, etc. 
+ Finance companies 
+ Insurance Companies collect premiums from policyholders in exchange 
+for coverage against various risks and invest the collected premiums to 
+generate returns. 
+ Life Insurance Companies; LIC, Allianz, AIG etc. 
+ Mutual Funds, Standard Chartered Mutual Fund, Morgan Stanley Mutual 
+Fund, SBI Mutual Fund etc. 
+ Pension Funds; e.g.  EPF (Employees Provident Fund), PPF (Public 
+Provident Fund). They manage retirement savings on behalf of 
+individuals and employees. They invest these funds in a diversified 
+portfolio of assets, including stocks, bonds, and real estate, to generate 
+returns that can be used to pay retirees. 
+ Credit Unions. They are similar to banks and offer a range of banking 
+services. However, they are typically owned by their members as 
+cooperative societies and operate as nonprofit organizations. 
+2.4 FUNCTIONS AND ROLES OF FINANCIAL 
+INTERMEDIARIES 
+Financial institutions as intermediaries work in tandem with each other to 
+create a fully interdependent financial system. The importance of financial 
+institutions lies in the fact that they provide services which lead to a smooth 
+functioning of the financial system. 
+They allow the exchange of funds 
+between lenders, investors, and borrowers. There are three aspects to the 
+process by which saving is channelled to investors through the financial 
+system: (i) the amount of savings and the resulting investment that are raised 
+in the economy, (ii) the question of who saves and who invests and how do 
+they do that respectively, and finally, (iii) the flow of funds through financial 
+institutions and markets as money passes on its way from savers to investors. 
+Financial institutions have specific function in all these stages in an economy 
+and how well the financial system and its institutions are organised to 
+facilitate these stages contributes to the growth of economic activity. Some of 
+these functions are as under:  
+Directing the Payment System: One of the primary functions of financial 
+institutions is managing the payment system.  Payment system refers to 
+
+
+--- Page 30 ---
+ 
+ 
+29 
+Financial 
+Intermediation 
+everyday commercial transactions that involve individuals and businesses. 
+Financial institutions keep the payment system in motion through checking 
+and savings accounts, debit and credit cards, and wire transfers. These 
+methods of exchange allow individuals, businesses and institutions to handle 
+their financial transactions daily. 
+Assisting with Resources and Capital: Financial institutions help individuals 
+and corporations with resources and capital management by extending credit 
+to those who can pay it back. Banks and other institutions can pool resources 
+together to allow others to borrow money. Loans and credit cards allow 
+families and companies to borrow funds and pay them back on a regular 
+schedule. Acquiring capital for a new or existing business or personal project 
+can be difficult, so financial institutions help people and businesses have 
+access to the capital they need to be successful. 
+Moving Financial Resources: Financial institutions provide the movement 
+of resources from place to place. These institutions assist with larger transfers 
+of funds like corporate investments, purchases of real estate, and construction 
+loans, as well as other larger transactions. Financial institutions can transfer 
+resources from one party to another more easily and with more flexibility 
+than individuals or corporations can, which makes this function so crucial. 
+Risk Management: Financial institutions handle risk and uncertainty for 
+businesses and households. Insurance companies and other entities in the 
+financial sector allow many individuals to collectively pool and distribute 
+risk, making it easier to manage accidents and various difficulties that occur 
+in professional or personal contexts. 
+Informing Financial Decisions: Financial institutions provide key 
+information that makes decisions easier. Whenever key monetary decisions 
+are made, one can very well appreciate the importance of such information. 
+The information that financial institutions provide allows individuals and 
+corporations to make informed and secure decisions in real time. They give a 
+high-rated consultancy to the customers for their beneficial investments. 
+Sustaining the Market: Financial institutions also make it possible for 
+individuals and other entities to invest in the stock market. Investors can 
+make long-term or short-term ventures into the market for the promise of a 
+higher return. Institutions like brokers and stock exchanges allow companies 
+to issue stock to have more cash flow based on investors purchasing stock. 
+Often, the stock market drives the pulse of the financial sector as a whole. 
+These days’ financial institutions have a very broad spectrum of functions 
+and with creativity and innovation, new areas of activities are being added 
+regularly. They serve as a depository for their customers and make efforts to 
+minimize the monitoring cost for customers. 
+In short, all the finance-related work such as managing assets, rate of return, 
+liquidity, mobilization of savings, capital formation, maturity and risk 

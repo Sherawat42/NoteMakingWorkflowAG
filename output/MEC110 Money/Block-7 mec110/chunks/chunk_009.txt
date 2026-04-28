@@ -1,0 +1,431 @@
+--- Page 85 ---
+289 
+Behavioural Finance UNIT 29   BEHAVIOURAL FINANCE 
+Structure 
+29.0 Objectives  
+29.1 Introduction 
+29.2 Concept of Behavioural Finance 
+29.3 Difference between Traditional Finance and Behavioural Finance 
+29.4 Growth and Origin of Behavioural Finance 
+29.5 Efficient Markets Hypothesis and Anomalies 
+29.5.1  Efficient Market Hypothesis and Its Critique 
+29.5.2  Market Anomalies  
+29.5.3  Market Puzzles and Behavioural Explanation 
+29.6 Irrational Investor: Cognitive, Social and Emotional Influences on the 
+Investor 
+29.6.1  Heuristics 
+29.6.2  Sources of Irrational Investor Behaviour 
+ 29.6.2.1  Cognitive Influences on Investor Behaviour 
+ 29.6.2.2  Social Influences on Investor Behaviour 
+ 29.6.2.3  Emotional Influences on Investor Behaviour 
+29.7 Let Us Sum Up 
+29.8 Key Words 
+29.9 Some Useful Books 
+29.10 Answers / Hints to Check Your Progress Exercises 
+29.11 Terminal Questions 
+29.0  OBJECTIVES 
+After studying this unit, you will be able to: 
+ explain the concept of behavioural finance;
+ describe the departure from traditional finance concepts to behavioural
+finance;
+ differentiate between traditional finance and behavioural finance;
+ explain the Efficient Market Hypothesis;
+ give a behavioural explanation to important market puzzles;
+ explain the causes of irrational investor behaviour; and
+ describe the heuristics and biases that explain it.
+
+
+--- Page 86 ---
+290 
+Financial Stability 29.1  INTRODUCTION 
+Traditionally, finance has been based around the concept of “efficient 
+markets” which states that the price of an asset or security is ‘right’, i.e., the 
+price reflects its fundamental value and all the available information. For a 
+long time, financial theory was governed by the idea that investors act 
+rationally as they have all the available information and they aim to 
+maximize profits. The theory believes that even if there is any ‘noise’ by 
+irrational investors in the market, it is balanced by rational investors. 
+Traditional finance has been surrounded by three unbounded traits 
+(rationality, self-control and self-interest) which form a base for ‘homo 
+economicus’.  
+However, over time, it was felt that the traditional theory was not able to 
+explain various market anomalies like market volatility and unpredictability 
+in the market, market crashes, irrational investor behaviour, stock market 
+bubbles etc. Traditional finance also was not able to address questions like 
+'why does an investor trade, how does an investor trade, what are the factors 
+that help an investor decide his portfolio etc. 
+These market anomalies and investor behaviour were explained by an 
+alternative approach termed ‘Behavioural Finance’ which focuses on 
+cognitive, sociological and psychological influences on the decision-making 
+of investors and financial markets. It focuses on other important aspects of 
+the decision-making process, i.e., how people invest, what they value and 
+how they adjust for risk by embracing findings from psychology and 
+sociology. Behavioural finance highlights that the investors are not always 
+rational and the prices are not always efficient. 
+Over the last few decades, behavioural finance has become an extremely 
+popular field of study as an application in business and finance. It centres 
+around the fact that investors’ decisions are influenced by their own biases. 
+Thus, investors behave quite differently from ‘homo economicus’ and their 
+financial choices are guided by their social and psychological needs. It also 
+highlights that investors as humans have limits to self-control and often apply 
+heuristics to make complex decisions.  
+We have discussed traditional finance and the ‘Efficient Market Hypothesis’ 
+(EMH) in previous units. In the present unit, we will discuss what is beyond 
+traditional finance and EMH. In this unit, we will discuss behavioural 
+finance, the factors that led to the growth of this parallel field and how it 
+attempts to explain investors’ behaviour and financial markets. 
+29.2  CONCEPT OF BEHAVIOURAL FINANCE 
+As discussed in the previous section, behavioural finance focuses on 
+understanding the thought process of investors and how it impacts their 
+decisions. It attempts to explain the degree of various influences on a 
+
+
+--- Page 87 ---
+291 
+Behavioural Finance person’s decision-making. It further explains various market anomalies and 
+heuristics and biases that cause it. 
+Behavioural finance became popular after 2002 when Daniel Kahneman was 
+awarded the Nobel Prize for his work on psychological research into 
+economic science, especially concerning human judgment and decision-
+making under uncertainty. Behavioural finance is studied in two aspects: 
+individual investors, and the whole market. Accordingly, behavioural finance 
+is classified into two aspects: (i) microbehavioural finance, and (ii) 
+macrobehavioural finance. 
+Microbehavioural finance deals with the cognitive, psychological and 
+sociological influences on the individual investors. It delves into behavioural 
+biases that distinguish them from rational economic beings. It also studies 
+heuristics as rules of thumb that lead to suboptimal decision-making.  
+Macro-behavioural finance, on the other hand, examines market anomalies 
+that make the market inefficient. It focuses on the reasons behind stock 
+bubbles, market volatility and limited arbitrage. This unit deals with both 
+aspects of behavioural finance. 
+Check Your Progress 1 
+1) What is meant by behavioural finance?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What are the assumptions of traditional finance theory?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Which one of the following is not a trait of ‘homo-economicus’?
+a) Rationality
+b) Self-control
+c) Cognitive bias
+d) Self-interest
+4) Microbehavioural finance deals with:
+a) Irrational investor Behaviour
+b) Stock market volatility
+c) Bubbles
+d) Limited arbitrage
+
+
+--- Page 88 ---
+292 
+Financial Stability 29.3 DIFFERENCE BETWEEN TRADITIONAL 
+FINANCE AND BEHAVIOURAL FINANCE 
+Traditional finance centres around the concept of investor and market 
+rationality. It suggests that given the available information, investors make 
+financial decisions and in the course of decision-making, are not affected by 
+emotions. Traditional finance does not consider the role of heuristics and 
+accordingly does not contemplate investors being affected by any bias. On 
+the other hand, behavioural finance examines the role of psychology and 
+sociology in financial decision-making. It considers the influence that mood, 
+fear, overconfidence, past experiences etc. have on investors when they 
+decide to devote funds to any asset.  
+More than contrasting, behavioural finance provides an alternative approach 
+to traditional finance to have a better understanding of the market and 
+investors. Behavioural finance draws from real life that investors are 
+sometimes irrational, and biased and are influenced by various social and 
+psychological factors. For example, it is often observed that while buying 
+stocks, many times investors follow other investors because they think that 
+everyone else knows more and makes better decisions. This reflects a herding 
+mentality and can lead to sub-optimal decisions by an investor. 
+The main points of contrast between traditional and behavioural finance are: 
+ Traditional finance centres around the idea of investor rationality and an
+unbiased approach to processing information for decision-making.
+While behavioural finance considers the influence of various biases in
+investment decision-making, it recognizes that human emotions and
+other psychological influences may make an investor irrational.
+Overconfidence, familiarity bias, herding mentality, etc. deter the
+decision-making capacity of an investor.
+ Traditional finance assumes the availability of complete information to
+everyone in the market. It further assumes that investors examine all the
+information rationally before making a decision. Thus, investors always
+make the right decision. Behavioural finance, on the other hand, centres
+around the idea of bounded rationality, i.e., investors do not process all
+the information and they try to satisfice instead of maximise. Even if the
+information available is accurate, investors will still make errors in
+judgment.
+ Traditional finance centres around the ‘efficient markets hypothesis’, i.e.,
+markets are efficient and the price of a stock always reflects its
+fundamental value. It is based on the availability of complete knowledge
+and investor rationality. However, behavioural finance disagrees with the
+fact that markets are efficient and discusses various anomalies that lead
+to market volatility and cannot be explained through EMH.
+
+
+--- Page 89 ---
+293 
+Behavioural Finance  Investors, according to traditional finance have perfect self-control and
+they do not let any other aspect of their past or personality influence their
+decision-making. Behavioural finance considers self-control problems in
+investors and examines how it affects decision making in turn affecting
+the whole market.
+ Classical finance theory asserts that any noise is balanced out by rational
+traders but according to behavioural finance, there is a limit to arbitrage
+and prices are not always right and may stay in a non-equilibrium state
+for certain periods.
+29.4  GROWTH AND ORIGIN OF BEHAVIOURAL 
+FINANCE 
+The cognitive and psychological underpinnings to explain stock market 
+Behaviour can be traced back to the 60s and 70s also but it was mainly in the 
+1980s when Behavioural finance evolved with an attempt to explain stock 
+market bubbles and other market anomalies. Since then, foundational ideas of 
+Behavioural Economics have been used to explain the reason behind these 
+anomalies. The ideas of Daniel Kahneman and Amos Tversky have played a 
+major role in explaining the contradictions in the traditional theory of 
+finance.  
+Over time, behavioural finance has developed through two phases: (i) 
+through examples of market anomalies and deviation from standard finance 
+assumptions; and (ii) through explanation of these anomalies. The decade of 
+the 1980s saw various important concepts like ‘disposition effect’ and ‘equity 
+premium puzzle’ being developed by various economists. In 1981, Robert 
+James Shiller discussed market anomalies and pointed out how rational 
+factors alone cannot explain stock market volatility. De Bondt and Richard 
+Thaler’s paper on stock market overreaction in 1985 elaborated on value 
+anomaly. We will discuss all these concepts later in the unit. 
+The late 1990s and the early 2000s saw behavioural finance becoming part of 
+mainstream finance. It was able to explain the reasons behind many market 
+anomalies. Many concepts were developed during this time such as (i) limit 
+to arbitrage, (ii) myopic loss aversion, (iii) over-reactions, and under-
+reactions of the market. This decade also saw research in the area of irrational 
+investors and the behavioural mistakes they make. Robert Shiller's famous 
+book ‘Irrational Exuberance’ in 2000 rightly predicted the crash of the dot-
+com stock market bubble and spread the ideas of behavioural finance as a 
+parallel field of traditional finance, an understanding of which could increase 
+the predictability of the stock market. Around the same time, Andrei Shleifer 
+also worked to explain how noise traders in the financial market lead to 
+limited arbitrage and cause market anomalies. Further, the Nobel Prize for 
+two consecutive years (2001 and 2002) increased the popularity and 
+acceptance of behavioural finance. You may be aware that the Nobel Prize 
+was awarded in 2001 to George Akerlof, Michael Spence, and Joseph Stiglitz 
+
+
+--- Page 90 ---
+294 
+Financial Stability “for their analyses of markets with asymmetric information” and to Daniel 
+Kahneman in 2002 for “having integrated insights from psychological 
+research into economic science, especially concerning human judgment and 
+decision-making under uncertainty”.  
+As of now, the field of behavioural finance is still evolving and is a popular 
+research area. The psychological, cognitive and sociological foundations of 
+financial decision-making are still being explored to have a better 
+understanding of the markets. However, behavioural finance is criticized for 
+being “Micro-efficient” and not “Macro-inefficient”, i.e., it can explain 
+individual behaviour of investors effectively but is not very useful in 
+predicting the overall market. We can explain market anomalies through 
+behavioural finance in the long run, but if we try to predict variations in the 
+stock market in the short run we will not be very successful. The field is still 
+growing, with more and more research to understand sources of irrational 
+behaviour and market anomalies. 
+Check Your Progress 2 
+1) Compare and contrast traditional finance with behavioural finance.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Discuss the growth and evolution of behavioural finance.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Traditional theory assumes that investors are______________________
+whereas behavioural finance considers investors to be
+__________________________
+a) Rational, rational
+b) rational, irrational
+c) irrational, irrational
+d) irrational, rational
+
+
+--- Page 91 ---
+295 
+Behavioural Finance 4) Which one of the following is not true about behavioural finance?
+a) It assumes the availability of complete information to everyone in
+the market.
+b) It considers issues such as self-control in investors and examines
+how it affects decision making which in turn affects the whole
+market.
+c) it centres around the idea of bounded rationality.
+d) There is a limit to arbitrage, and prices are not always right and may
+stay in a non-equilibrium state for certain periods.
+29.5 EFFICIENT MARKETS HYPOTHESIS AND 
+ANOMALIES 
+29.5.1  Efficient Market Hypothesis and its Critique 
+We have already discussed the concept of ‘efficient markets hypotheses’ 
+(EMH) in Unit 25. According to EMH, market prices fully reflect all 
+available information. The EMH is one of the important cornerstones of 
+traditional finance theories. It was developed independently by Paul A. 
+Samuelson and Eugene F. Fama in the 1960s and has been applied 
+extensively in traditional finance. In an efficient market, all relevant 
+information is freely available to profit-maximizing rational investors who 
+are trying to predict the value of various securities. According to EMH, 
+markets are rational and prices of stocks fully reflect all available 
+information. Since such information is readily available, the price of 
+securities quickly adjusts to the change. The idea behind EMH is that when 
+some new information arises or any event occurs, the news spreads very 
+quickly and is incorporated into stock prices. For example, if a currency note 
+is lying on the road, it will not be there for long as it will be surely picked up 
+by someone. Similarly, all information is picked up by market agents and 
+used in decision-making. Current prices are considered to be the best 
+approximation of a company’s intrinsic value. 
+The EMH is associated with the idea of a “random walk”. According to the 
+random walk theory, past movements or trends of a stock price (or financial 
+market) cannot be used to predict its future movement and it is not possible to 
+outperform the market without assuming additional risk. The logic behind the 
+random walk theory is that stock prices reflect information or news about the 
+stocks. Since the news is unpredictable, today’s situation or price cannot be 
+used to predict future values. As such, experienced investors do not have any 
+added advantage over uninformed investors. 
+Behavioural finance, on the other hand, believed in ‘momentum’ in short-run 
+stock prices. According to behaviour finance, investors follow market trends, 
+i.e., if they notice a rise in the price of a stock, they invest in the market in a
+
+
+--- Page 92 ---
+296 
+Financial Stability kind of “bandwagon effect.” leading to sometimes what is called ‘irrational 
+exuberance’, i.e., investor enthusiasm that leads to rising in a stock price 
+higher than its fundamental value. Another rationale for ‘momentum’ as 
+given by behavioural finance is the investor’s under-reaction to the new 
+information. Investors take time to change their existing perception or 
+understanding of a particular stock. Thus, the full impact of any news or 
+announcement is realized over a period leading to a positive correlation in 
+prices (thus, changes in prices are not random) 
+Another significant critique of behavioural finance was regarding 
+assumptions about human Behaviour. They critiqued the rationality 
+assumption by classical finance and focused on sociological, psychological 
+and cognitive influences leading to behavioural anomalies. Behavioural 
+finance documented various departures from a classical paradigm in the form 
+of behavioural biases that guide investor behaviour especially while deciding 
+under uncertainty. Many times, these biases lead to irrational behaviour and 
+ultimately to sub-optimal outcomes in the market. Some of the biases that we 
+will discuss in this unit are herding, overconfidence, overreaction, loss 
+aversion, and mental accounting which dominate the thinking process of an 
+investor. These biases in turn lead to market anomalies such as the ‘equity 
+premium puzzle’ (Stocks have earned disproportionately higher returns over 
+the years yet investors are relatively unwilling to hold them), the ‘volatility 
+puzzle’ (Stock returns are highly variable with large dispersions) and the 
+‘predictability puzzle’ (Stock returns are predictable suggesting that 
+persistent profits are not being eroded by arbitrage). 
+29.5.2  Market Anomalies 
+Anomalies are occurrences that deviate from the predictions of the efficient 
+markets hypothesis and undermine its core assumptions. (Tversky & 
+Kahneman 1986) defined market anomalies as “an anomaly is a deviation 
+from the presently accepted paradigms that are too widespread to be ignored, 
+too systematic to be dismissed as random error and too fundamental to be 
+accommodated by relaxing the normative system”. 
+Anomalies can be of three types: (i) Fundamental Anomalies, (ii) Technical 
+Anomalies, and (iii) Calendar or Seasonal Anomalies 
+i) Fundamental Anomalies
+ Value Anomaly: It refers to the over-estimation of future earnings
+and returns of growth companies.
+ Low Price to Book: It is often noticed in the stock market that the
+stocks having a high book-to-market ratio generate less return than
+the stocks with a low price-to-book ratio.
+ High Dividend Yield: There is a positive correlation between yield
+and stock return. Stocks with high dividend yields outperform the
+market and generate more returns.
+
+
+--- Page 93 ---
+297 
+Behavioural Finance  Neglected Stocks: The prior neglected stocks generate more return
+subsequently over some time. Accordingly, the prior best performers
+underperform the index.
+ Low Price to Earnings (P/E): The stocks with low price-to-earnings
+ratios are likely to generate more returns and outperform the market,
+while the stocks with high price-to-earnings ratios tend to
+underperform in the market.
+ii) Calendar Anomalies
+Calendar anomalies reflect an irregular pattern of stock returns in various
+periods, i.e., movement in stock prices from day to day, month to month,
+year to year etc. Some of the Calendar anomalies are as follows:
+ Weekend Effect: The stock prices are likely to fall on Monday, i.e.,
+the closing price of Monday is less than the closing price of the
+previous Friday.
+ Turn-of-the-Month Effect: It reflects the tendency of stock prices to
+increase in the last trading day of the following month, and the first
+three days of next month.
+ Turn-of-the-Year Effect: This anomaly describes the increase in the
+prices of stocks and trading volume of the stock exchange in the last
+week of December and the first half month of January.
+ January Effect: The tendency of small-company stocks to generate
+more return than another asset in the first two to three weeks of
+January is called the January effect.
+iii) Technical Anomalies
+Various techniques can be used to forecast future stock prices based on
+past prices and relevant information in the market. Traditionally,
+researchers asserted that the market holds weak form efficiency, prices
+already reflect all the information and everyone has all the information.
+Thus, an investor cannot beat the market by earning abnormal returns.
+But various market anomalies deviate from the traditional viewpoint:
+ Moving Averages: Buying and selling signals of stocks can be
+generated by long-period averages and short-period averages. A
+purchase signal is created when short-period averages rise over long-
+period averages. The best time to sell is when short-period averages
+fall below the long-period averages.
+ Trading Range Break: A breakout is a potential trading opportunity
+that investors apply to make huge profits. This technique involves
+identifying support and resistance levels along with current price
+trends to identify possible entry and exit points. By buying or selling
+at the right time, investors can make huge profits.
+
+
+--- Page 94 ---
+298 
+Financial Stability 29.5.3  Market Puzzles and Behavioural Explanation 
+Over time, Behavioural Finance has attempted to explain various market 
+anomalies and puzzles. This section discusses about few popular puzzles in 
+the stock market and their Behavioural explanation.  
+i) Equity premium puzzle
+The equity premium puzzle, first documented by Mehra and Prescott, refers 
+to the empirical fact that stocks have greatly outperformed bonds over the last 
+century. Stocks have earned disproportionately higher returns than bonds, 
+however, people still buy bonds. The level of risk aversion required for such 
+a choice by investors has to be very high. Thus, the equity premium puzzle 
+cannot be explained in terms of risk aversion. Behavioural finance explains 
+this puzzle in terms of ‘Prospect Theory’. The first explanation is provided in 
+terms of ‘loss aversion’, i.e., investors are more sensitive to losses than to 
+gains. Secondly, investors are myopic, i.e., investors are assumed to evaluate 
+their portfolio frequently even if they are saving for their retirement. Thus, 
+myopic loss aversion explains the equity premium puzzle. Another 
+explanation for the puzzle is provided through ‘ambiguity aversion’. 
+Ambiguity aversion is a preference for known risks over unknown risks. 
+Since the probability distribution of equity returns is unknown, people 
+overweigh the probability of returns from bonds. 
+ii) Volatility Puzzle
+The volatility puzzle reflects the high variability of stock prices having large 
+dispersions. It is observed in the stock market that changes in stock prices are 
+disproportionately higher than the changes in fundamentals. This observation 
+is against the theory of EMH according to which, prices always represent the 
+fundamentals of the assets. 
+Behavioural finance attempts to solve this puzzle through various biases that 
+investors have. Various cognitive, social and emotional biases lead to sub-
+optimal decision-making by the investors which in turn affect the stock 
+market and stock prices. It is noticed that while making a decision, investors 
+overweigh more recent information, and consensus beliefs and seek 
+confirming evidence which makes them under-react or overreact in the 
+market.  
+Investors also tend to focus more on similar pieces of information called 
+focal points which also affect their decision making. The reason behind the 
+steep fall in prices rather than the upward correction is that people are loss-
+averse and tend to overweigh negative information and feedback.  
+iii) Predictability Puzzle
+This puzzle states that stock returns are predictable from price-dividend 
+ratios. Behavioural finance is explained in terms of behavioural biases like 
+the disposition effect (the tendency to prematurely sell assets that have made 

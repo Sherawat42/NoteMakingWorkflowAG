@@ -1,0 +1,432 @@
+--- Page 79 ---
+173 
+Corporate Finance 1) Estimating the Amount of Current Assets and Current Liabilities:
+This method involves projecting the future levels of individual current assets 
+and current liabilities based on historical data and anticipated business 
+activities. The working capital forecast is then determined by subtracting the 
+estimated total of current liabilities from the estimated total of current assets.  
+Example 22.1: ABC Manufacturing Company needs to forecast its working 
+capital requirements for the next quarter. Based on historical data and sales 
+projections, they estimate the following current assets and current liabilities:  
+Current Assets:  Cash and Cash Equivalents: Rs.50,000, Accounts 
+Receivable: Rs.120,000, Inventory: Rs.80,000, Prepaid Expenses: Rs.10,000, 
+Total Current Assets: Rs.260,000  
+Current Liabilities:  Accounts Payable: Rs.90,000, Short-Term Debt: 
+Rs.30,000, Accrued Expenses: Rs.15,000, Taxes Payable: Rs.5,000, Total 
+Current Liabilities: Rs.140,000  
+Working Capital Forecast = Total Current Assets – Total Current 
+Liabilities 
+Working Capital Forecast = Rs.260,000 – Rs.140,000 
+Working Capital Forecast = Rs.120,000 
+2) Estimating the Cash Costs of Current Assets and Current
+Liabilities:
+This method focuses on estimating the cash outflows related to current 
+liabilities and the cash inflows related to current assets. It considers the 
+timing of cash flows, providing insights into the actual cash requirements. 
+Example 22.2:  XYZ Retail Company wants to forecast its working capital 
+needs for the upcoming year. They estimate the following cash costs for 
+current assets and current liabilities:  
+Cash Costs of Current Assets (Cash Outflows): 
+Cash Costs for Inventory: Rs. 500,000, Cash Costs for Prepaid Expenses: 
+Rs. 20,000, Total Cash Costs of Current Assets: Rs. 520,000  
+Cash Costs of Current Liabilities (Cash Inflows): 
+Cash Payments for Accounts Payable: Rs.400,000, Cash Payments for Short-
+Term Debt: Rs.100,000, Total Cash Costs of Current Liabilities: Rs.500,000  
+Working Capital Forecast = Total Cash Costs of Current Assets – Total 
+Cash Costs of Current Liabilities  
+Working Capital Forecast = Rs.520,000 – Rs.500,000 
+Working Capital Forecast = Rs.20,000 
+
+
+--- Page 80 ---
+174 
+Operational Aspects 
+of Financial Markets 
+3) The Percent of Sales Method:
+This approach estimates working capital needs as a percentage of sales 
+revenue. It assumes that certain current assets and liabilities vary with sales 
+volume.  
+Example 22.3:  LMN Electronics Company wants to forecast its working 
+capital requirements for the next year. Based on historical data, they find that 
+their accounts receivable and inventory levels are typically 20% and 15% of 
+annual sales, respectively. Their accounts payable level is typically 10% of 
+annual sales.  
+Forecasted Sales for Next Year: Rs. 2,000,000 
+Working Capital Forecast = (Accounts Receivable + Inventory) – 
+Accounts Payable       
+Working Capital Forecast = (0.20 * Rs. 2,000,000) + (0.15 * Rs. 2,000,000) 
+– (0.10 * Rs. 2,000,000)
+Working Capital Forecast = Rs. 400,000 + Rs. 300,000 – Rs. 200,000 
+Working Capital Forecast = Rs. 500,000 
+4) The Operating Cycle Approach:
+This method estimates working capital needs based on the time it takes to 
+convert resources into cash. It considers the time required for inventory 
+conversion, receivables collection, and payables payment.  
+Example 22.4: PQR Manufacturing Company wants to forecast its working 
+capital needs for the next six months. They estimate the following periods for 
+their operating cycle components: Days Inventory Outstanding (DIO): 60 
+days  
+Days Sales Outstanding (DSO): 45 days 
+Days Payables Outstanding (DPO): 30 days 
+Working Capital Forecast = (DIO + DSO) – DPO 
+Working Capital Forecast = (60 days + 45 days) – 30 days 
+Working Capital Forecast = 75 days – 30 days 
+Working Capital Forecast = 45 days 
+These methods provide different perspectives on estimating working capital 
+needs. Businesses can use a combination of these approaches based on their 
+specific requirements and available data to make more accurate working 
+capital forecasts.  
+
+
+--- Page 81 ---
+175 
+Corporate Finance 22.4.4  Sources of Working Capital 
+Working capital sources encompass the various means by which a company 
+secures funds to meet its short-term obligations and support its day-to-day 
+operations. These sources can be broadly categorised into short-term and 
+long-term sources. Below are some common sources of working capital:  
+Short-Term Sources of Working Capital: 
+a) Trade Credit: Companies often receive credit from suppliers, allowing
+them to procure goods or services and defer payment for a specified
+period, typically 30 to 90 days.
+b) Bank Loans:  Short-term bank loans, such as working capital loans or
+overdraft facilities, offer quick access to funds to manage day-to-day
+operational expenses and cash flow needs.
+c) Commercial Paper:  Creditworthy corporations may issue commercial
+paper, which are short-term unsecured promissory notes, to raise funds
+from the capital markets.
+d) Factoring and Receivables Financing:  Companies can sell their
+accounts receivable to third-party factors at a discount, enabling them to
+obtain immediate cash against outstanding invoices.
+e) Inventory Financing: Inventory can be used as collateral to secure
+short-term loans or lines of credit.
+f) Trade Advances : Some businesses receive advance payments from
+customers for goods or services, providing an immediate infusion of
+working capital.
+Long-Term Sources of Working Capital: 
+a) Equity Financing:  Companies can raise long-term working capital by
+issuing new shares of stock to investors through private placements or
+public offerings.
+b) Debt Financing: Long-term debt instruments such as corporate bonds or
+bank loans with longer repayment periods are used to raise working
+capital.
+c) Retained Earnings:  Accumulated profits, known as retained earnings,
+can be reinvested in the business to serve as a long-term source of
+working capital.
+d) Venture Capital and Private Equity:  Startups and high-growth firms
+may secure working capital from venture capital firms or private equity
+investors in exchange for ownership stakes.
+e) Asset-Based Lending:  Companies can obtain long-term loans by using
+assets like real estate or equipment as collateral.
+
+
+--- Page 82 ---
+176 
+Operational Aspects 
+of Financial Markets 
+f) Debentures: Long-term unsecured debt instruments called debentures
+can be issued to raise working capital from the capital markets.
+22.4.5  Approaches for Determining the Financial Mix 
+Determining the right financing mix, or capital structure, is a crucial decision 
+for any company, as it involves selecting the ideal proportion of debt and 
+equity to finance its operations. The financing mix can have a significant 
+impact on a company’s risk profile, cost of capital, and overall financial 
+performance. There are three common approaches to determining the 
+financing mix: the hedging approach, the conservative approach, and the 
+trade-off approach.  
+A) Hedging Approach:
+The hedging approach aims to strike a balance between debt and equity 
+financing to minimise the overall cost of capital while effectively managing 
+financial risk. Companies adopting this approach calculate the optimal capital 
+structure by minimising the weighted average cost of capital (WACC). 
+WACC is the average cost of debt and equity, considering their respective 
+proportions in the capital structure.  
+Companies following the hedging approach increase their debt levels as long 
+as the cost of debt remains lower than the cost of equity. This strategy leads 
+to a decrease in WACC, resulting in a lower overall cost of capital, which can 
+potentially enhance the company’s value.  
+However, the hedging approach recognises that excessive leverage can 
+increase financial risk, especially if the company encounters challenges in 
+meeting its debt obligations. Thus, there is a limit to how much debt a 
+company should take on, and the optimal capital structure lies at the point 
+where WACC is minimised without jeopardising the company’s financial 
+health.  
+B) Conservative Approach:
+The conservative approach emphasises stability and financial security. 
+Companies following this approach rely more on equity financing and 
+maintain a lower level of debt in their capital structure. By having a higher 
+proportion of equity, the company reduces financial risk and has a stronger 
+ability to withstand economic downturns or unforeseen obstacles.  
+While the conservative approach provides a more secure financial position, it 
+may result in a higher cost of capital compared to the hedging approach. 
+Equity financing is often more expensive due to the costs associated with 
+issuing new shares and the potential dilution of ownership for existing 
+shareholders.  
+
+
+--- Page 83 ---
+177 
+Corporate Finance Check Your Progress 3 
+1) What are the methods of forecasting working capital?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What are the sources of working capital?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+22.5  DIVIDEND POLICY 
+The establishment of a dividend policy is an important function of the finance 
+manager. This section deals with the determination of dividend policy and the 
+various forms of dividends.  
+The term dividend refers to that part of the profits of a company which is 
+distributed amongst its shareholders. It may, therefore, be defined as the 
+return that a shareholder gets from the company, out of its profits. on his 
+shareholdings. According to the Institute of Chartered Accountants of India, a 
+dividend is “a distribution to shareholders out of profits or reserves available 
+for this purpose.”  
+A) Nature of Dividend Decision
+The dividend decision of the firm is of crucial importance for the finance 
+manager since it determines the amount of profit to be distributed among 
+shareholders and the amount of profit to be required in the business 
+(popularly termed as retained earnings) for financing its long-term growth. 
+There is a reciprocal relationship between the cash dividends and retained 
+earnings. Larger dividends result in less retained earnings. Fewer dividends 
+result in larger retained earnings. While making dividend decisions, the 
+management will consider the effect of the decision on the maximisation of 
+shareholders’ wealth. In case the payment of dividends helps the management 
+in achieving this objective, it would be advisable to pay dividends. In case the 
+payment of dividends does not help in achieving this objective, the 
+management would be well advised to retain the profits and use them for 
+financing investment programmes. Thus, the dividend decision is based on its 
+impact on the value of the firm.  
+B) Conflicting Theories
+There are conflicting theories regarding the impact of dividend decisions on 
+the valuation of a firm. According to one school of thought, dividend 
+decisions do not affect only the shareholders’ wealth and so also the 
+
+
+--- Page 84 ---
+178 
+Operational Aspects 
+of Financial Markets 
+valuation of the firm. According to another school of thought, dividend 
+decision materially affects the shareholders’ wealth and the valuation of the 
+firm. For the sake of convenience of discussion, we can put the viewpoints of 
+scholars under the following two groups:  
+1) Concept of Irrelevance of Dividend
+This school of thought is associated with Soloman, Modigliani and Miller. 
+According to them, dividend policy does not affect the share prices of a 
+company and is, therefore, of no consequence. Investors do not differentiate 
+between dividends and capital gains. Their basic desire is to earn a higher 
+return on their investment. In case the company has adequate investment 
+opportunities giving a higher rate of return than the cost of retained earnings, 
+the investors would be content with the firm retaining the earnings. However, 
+if the expected return on projects is likely to be less than what it would cost, 
+the investors would prefer to receive the earnings (i.e. dividends). Thus, a 
+dividend decision is a financing decision, i.e., whether to finance the 
+company’s funds requirements by retained earnings or not. In case the 
+company has profitable investment opportunities, it will retain the earnings to 
+finance them, otherwise distribute them. The shareholders are only interested 
+in income whether it is in the form of dividends or capital gains.  
+2) Modigliani and Miller’s Approach
+Franco Modigliani and Merton Miller have expressed their opinion more 
+comprehensively. They have opined that the price of shares of a firm is 
+determined by its earning potentiality and investment policy and never by the 
+pattern of income distribution. As observed by them, “under conditions of 
+perfect capital markets, rational investors, absence of tax discrimination 
+between dividend income and capital appreciation, given the firm’s 
+investment policy its dividend policy may not influence the market price of 
+the shares.”  
+The logic put forward by Modigliani and Miller in support of their hypothesis 
+is that whatever increase in shareholders’ wealth results from dividend 
+payments, will be exactly offset by the effect of raising additional capital. For 
+example, if a company, having investment opportunities, distributes all its 
+earnings among the shareholders, it will have to raise the capital required 
+from outside. This will increase the number of shares, resulting in a fall in the 
+future earnings per share. Thus, whatever a shareholder has gained because of 
+increased dividends will be neutralised completely on account of a fall in the 
+value of shares due to a decline in the expected earnings per share.  
+22.6  CAPITAL BUDGETING 
+Capital budgeting is the process of long-term planning, encompassing 
+proposed capital expenditures and their funding. This comprehensive 
+approach involves both raising long-term funds and allocating them 
+appropriately. It refers to the formal procedure a company employs to acquire 
+
+
+--- Page 85 ---
+179 
+Corporate Finance and invest in capital. Through capital budgeting, firms evaluate major fixed 
+asset purchases, including decisions about adding, disposing, modifying, or 
+replacing such assets.  
+It is essential to note that capital budgeting decisions also extend to 
+investments in current assets that arise due to fixed asset investments. For 
+instance, when implementing a new distribution system, the decision to 
+invest in a new warehouse and additional inventory must be evaluated as a 
+single package, not as separate investments.  
+Cases of capital budgeting decisions 
+Capital budgeting decisions are prevalent in various industries and 
+organisations. Below are some cases that illustrate several types of capital 
+budgeting decisions:  
+1) New Product Development:  A manufacturing company is considering
+the launch of a new product line. The company needs to evaluate the
+feasibility of the project by estimating the initial investment required for
+production facilities, marketing costs, and expected cash flows over the
+next few years. They will use capital budgeting techniques like NPV,
+IRR, and Payback Period to assess whether the investment is financially
+viable and aligned with the company’s strategic objectives.
+2) Expansion of Manufacturing Facilities: A successful retail chain wants
+to expand its operations by opening new stores in different regions. The
+company must decide how much to invest in new store construction,
+inventory, and staffing. Capital budgeting analysis will help them
+determine the expected returns and potential risks associated with each
+location, allowing them to allocate resources to the most profitable
+expansion opportunities.
+3) Replacement of Machinery : An industrial plant has ageing machinery
+that requires frequent maintenance, leading to increased downtime and
+inefficiencies. The management needs to evaluate whether investing in
+new, more modern equipment would improve productivity and reduce
+operational costs. By comparing the costs of new machinery with the
+expected cost savings and increased cash flows, they can make an
+informed capital budgeting decision.
+4) Mergers and Acquisitions : A technology company is considering
+acquiring a smaller firm with innovative products that complement its
+existing offerings. Before making the acquisition, the acquirer must
+conduct a thorough capital budgeting analysis to determine the potential
+synergies, expected cash flows, and the impact of the acquisition on
+shareholder value.
+5) Research and Development (R&D) Projects : A pharmaceutical
+company is deciding whether to invest in the development of a new drug.
+The R&D project will involve significant upfront costs and take several
+
+
+--- Page 86 ---
+180 
+Operational Aspects 
+of Financial Markets 
+years before the product is commercialised. Capital budgeting 
+techniques, along with scenario analysis, will help assess the probability 
+of success, potential market demand, and the overall financial viability of 
+the R&D project.  
+6) Capital Improvement Projects:  A municipal government needs to
+decide whether to invest in upgrading infrastructure, such as bridges,
+roads, or water treatment plants. Capital budgeting analysis will consider
+the initial investment, the estimated life of the improvement,
+maintenance costs, and the benefits to the community, including
+potential economic growth and increased property values.
+22.6.1  Importance of Capital Budgeting 
+Capital budgeting holds immense significance for businesses and 
+organisations due to various compelling reasons:  
+1) Long-term investment choices: Capital budgeting involves making
+decisions about long-term investments that have enduring effects. These
+investments typically require substantial financial resources, and their
+success or failure can profoundly impact the company's future growth
+and profitability.
+2) Optimal resource allocation: By utilising capital budgeting techniques,
+companies can efficiently allocate their limited resources, such as funds
+and workforce, to projects that are expected to yield the highest returns.
+This ensures that resources are utilised effectively to create maximum
+value for the organisation.
+3) Maximising shareholder wealth: The main goal of capital budgeting is
+to pinpoint and choose projects that contribute to the growth of the
+company’s shareholders’ wealth. By investing in projects with
+favourable net present values (NPVs) or significant internal rates of
+return (IRRs), the company can boost shareholder value and appeal to
+potential investors.
+4) Strategic alignment: Capital budgeting decisions are closely tied to a
+company’s strategic objectives. It ensures that projects chosen for
+investment align with the organisation’s long-term goals, enabling the
+allocation of resources to endeavours that contribute to the company’s
+overall vision.
+5) Risk assessment: Capital budgeting involves a comprehensive
+evaluation of the risks associated with different investment projects.
+Understanding potential risks and uncertainties enables companies to
+make informed decisions and implement risk mitigation strategies when
+necessary.
+6) Capital rationing: In situations where capital is limited, capital
+budgeting helps prioritise investment opportunities based on their
+
+
+--- Page 87 ---
+181 
+Corporate Finance expected returns and strategic importance. It enables companies to 
+optimise the use of available funds by selecting the most promising 
+projects.  
+7) Efficient use of funds: Capital budgeting prevents investments in
+projects with negative NPVs or low returns, thus avoiding wasteful use
+of financial resources. Focusing on profitable projects allows companies
+to utilise their funds efficiently to achieve growth and success.
+22.6.2  Kinds of Capital Investment Proposals 
+A firm may be presented with multiple investment proposals, and their 
+decision to adopt one, some, or all of them depends on their categorisation as 
+independent, contingent, or mutually exclusive.  
+a) Independent Proposals:
+These investment proposals are non-competing, implying that accepting one 
+proposal does not prevent the acceptance of another. The firm can directly 
+assess each proposal’s return on investment and accept those that offer 
+returns higher than the desired rate of return.  
+Proposals meeting this criterion are accepted, while the rest are rejected. 
+b) Contingent or Dependent Proposals:
+These proposals’ acceptance relies on the approval of one or more other 
+proposals. For instance, the acquisition of a new machine may be contingent 
+upon a substantial plant expansion. In such cases, the dependent investment 
+proposal should be presented along with the related proposal it relies on, 
+providing a comprehensive perspective.  
+c) Mutually Exclusive Proposals:
+These proposals are competing in such a way that accepting one 
+automatically excludes the acceptance of others. For instance, if a company 
+is evaluating two temperature control systems and decides to invest in one 
+system, it means rejecting the other. Consequently, the firm needs to employ 
+a decision-making technique to choose the most favourable option, leading to 
+the exclusion of other alternatives.  
+Check Your Progress 4 
+1) What are the theories regarding the impact of dividend policy?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+
+
+--- Page 88 ---
+182 
+Operational Aspects 
+of Financial Markets 
+2) What is capital budgeting? Discuss what is its importance?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+22.6.3  Factors Affecting Capital Investment Decision 
+Factors affecting capital investment decisions can vary depending on the 
+industry, company, and specific project. Below are some common factors that 
+influence such decisions: 
+1) Market Demand:  Market demand for the product or service being
+offered is a fundamental factor influencing capital investment decisions.
+Companies need to assess the potential size of the target market, the
+growth rate, and the demand forecast to determine the potential sales
+volume and revenue generation. Example: Regarding the smartphone
+project, a comprehensive market analysis suggests that the smartphone
+market is projected to experience an annual growth rate of 8%, and the
+company’s product is anticipated to secure a 10% market share.
+2) Competition: The level of competition in the market is a critical
+consideration. A highly competitive market may lead to price wars and
+reduced profit margins, affecting the project’s financial feasibility.
+Example: The smartphone market has several well-established brands
+with strong customer loyalty, making it a highly competitive space for
+new entrants.
+3) Cost of Capital: The cost of capital signifies the return that investors
+anticipate for funding an investment. It plays a crucial role in
+establishing the discount rate utilised to assess future cash flows.
+Example: If the company’s cost of capital is 12%, it implies that any
+investment must generate returns exceeding 12% to be deemed
+financially feasible.
+4) Initial Investment Cost:  The total upfront cost required to start the
+project, including machinery, equipment, land, and working capital,
+needs to be carefully evaluated. Example: The initial investment for the
+smartphone project includes ₹7,00,00,000 for machinery, ₹2,00,00,000
+for land, and ₹1,00,00,000 for working capital.
+5) Cash Flows: Projected cash inflows and outflows over the life of the
+project are essential for evaluating profitability. Companies must
+estimate expected revenue and operating expenses. Example: The
+smartphone project expects ₹20,00,00,000 in annual sales revenue and
+annual operating expenses of ₹12,00,00,000.
+6) Payback Period: The payback period is a measure of the time required
+to recoup the initial investment. Typically, a shorter payback period is

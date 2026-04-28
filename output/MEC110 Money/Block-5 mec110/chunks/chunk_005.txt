@@ -1,0 +1,450 @@
+--- Page 41 ---
+40 
+Financial Institutions Financial Companies Acceptance of Public Deposits (Reserve Bank) 
+Direction, 2016. 
+Check Your Progress 1 
+1) What are the important differences between banks and NBFIs?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) State four important functions of NBFIs
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Explain the structure of NBFIs in India.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+4) Explain scale-based regulatory mechanisms for NBFCs.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+5) What is meant by shadow banking?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+15.6  HOUSING FINANCE COMPANIES (HFCs) 
+In India, housing finance companies (HFCs) have about one-third of the 
+market share in housing finance (second only to Scheduled Commercial 
+Banks (SCBs). They are corporate entities that operate under the Companies 
+Act of 1956. Their primary focus is providing housing loans or finance 
+through various direct or indirect means. In terms of the amendment made to 
+the National Housing Bank Act, 1987, pursuant the Union Budget 
+announcements for 2019-20, the regulatory powers (including registration of 
+HFCs) of National Housing Bank over Housing Finance Companies (HFCs) 
+were transferred to the Reserve Bank of India (RBI) with effect from 
+
+
+--- Page 42 ---
+41 
+Non-Bank Financial 
+Intermediaries 
+August 9, 2019. Thus, the Reserve Bank plays the role of regulator and 
+ensures that existing HFCs comply with the principal business criteria i.e., 
+net owned fund (NOF) requirements, and maintenance of liquidity coverage 
+ratio (LCR) and capital adequacy ratio (CRAR). According to RBI, to qualify 
+as HFCs, an NBFC must have 50% assets as housing loans 75% of which 
+should be for individual homebuyers. 
+HFCs play a very significant role as NBFI. Its asset quality, profitability and 
+growth in credit disbursement have recorded an increase in the year 2022-23. 
+With favourable market conditions owing to the government’s emphasis on 
+affordable housing, favourable demographics and rising urbanisation, 
+housing demand will experience a significant boost. HFCs are likely to play a 
+significant role in this regard. Some HFCs have successfully operationalised 
+co-lending models (CLM) with banks for housing as well as MSME loans. 
+The inclusion of five HFCs in the upper layer by the Reserve Bank for the 
+year 2023-24 in its scale-based regulatory framework highlights the systemic 
+importance of HFCs in the Indian financial landscape. 
+Earlier, the National Housing Bank (NHB) was the regulator of HFCs. From 
+2019 onwards, RBI has laid down guidelines to regulate HFCs in the interest 
+of investors and depositors.  
+As we have discussed earlier the regulatory structure for Non-Banking 
+Financial Companies (NBFCs) comprises four layers based on their size, 
+activity and perceived riskiness: NBFCs-Base Layer (NBFCs-BL), NBFCs-
+Middle Layer (NBFCs-ML), NBFCs Upper Layer (NBFCs-UL), NBFCs-Top 
+Layer (NBFCsTL).  
+Regarding HFCs, RBI has notified that they will be included in the Middle 
+Layer or the Upper Layer (and not in the Base layer), as the case may be. The 
+Upper Layer comprises those HFCs which are specifically identified by the 
+Reserve Bank as warranting enhanced regulatory requirements based on a set 
+of parameters and scoring methodology. The top ten eligible NBFCs 
+(including HFCs) in terms of their asset size always reside in the upper layer, 
+irrespective of any other factor. If RBI is of the opinion that a particular HCF 
+is of significant risk, it can be moved to the top layer from the upper layer. 
+Other HCFs are in the middle layer. Some other regulations are as follows: 
+1) All non-deposit-taking HFCs with asset size of ₹100 crore and above and
+all deposit-taking HFCs (irrespective of asset size) shall pursue liquidity
+risk management.
+2) It should cover adherence to gap limits, making use of liquidity risk
+monitoring tools and adoption of a stock approach to liquidity risk.
+3) HFCs shall maintain a liquidity buffer in terms of Liquidity Coverage
+Ratio (LCR), which will promote their resilience to potential liquidity
+disruptions by ensuring that they have sufficient High-Quality Liquid
+Assets (HQLA) to survive any acute liquidity stress scenario lasting for
+30 days.
+
+
+--- Page 43 ---
+42 
+Financial Institutions 4) HFCs lending against the collateral of listed shares shall maintain a
+Loan-To-Value (LTV) ratio of 50%. For loans granted against the
+collateral of gold jewellery, HFCs shall maintain an LTV ratio not
+exceeding 75%.
+5) HFC cannot accept or renew public deposits unless it has obtained a
+minimum investment grade rating for fixed deposits from any one of the
+approved credit rating agencies, at least once a year.
+6) HFCs to ensure that at all times, there is full cover available for public
+deposits accepted by them. In case an HFC fails to repay any public
+deposit or part thereof as per the terms, it shall not grant any loan or
+other credit facility make any investment or create any other asset as
+long as the default exists.
+7) HFCs cannot lend against their shares.
+8) Every housing finance company shall maintain a minimum Capital
+Adequacy Ratio (CAR) on an ongoing basis. It shall not be less than
+13% as of March 2020, 14% on or before March 2021, and 15% on or
+before March 2022.
+9) An HFC also cannot lend to any single borrower exceeding 15% of its
+owned fund, and any single group of borrowers exceeding twenty-five
+per cent of its owned fund.
+10) It also cannot invest in the shares of another company exceeding 15% of
+its owned funds and in shares of a single group of companies exceeding
+25% of its owned funds.
+11) The aggregate exposure of an HFC to the capital market in all forms
+(both fund-based and non-fund-based) should not exceed 40% of its net
+worth as of March 31 of the previous year.
+15.7 ALL INDIA FINANCIAL INSTITUTIONS 
+(AIFIs) 
+All India Financial Institutions (AIFIs) are an institutional mechanism 
+entrusted with providing sector-specific long-term financing. These 
+specialized financial entities serve particular sectors of the economy, 
+including agriculture, housing, infrastructure, and small-scale industries. 
+They are essential in providing long-term funding to support economic 
+development. AIFIs are regulated by the Reserve Bank. There are 5 AIFIs 
+regulated by RBI: the Export-Import Bank of India (EXIM Bank), the 
+National Bank for Agriculture and Rural Development (NABARD), the 
+National Bank for Financing Infrastructure and Development (NABFID), the 
+National Housing Bank (NHB) and the Small Industries Development Bank 
+of India (SIDBI).  
+
+
+--- Page 44 ---
+43 
+Non-Bank Financial 
+Intermediaries 
+Over the years, the role of the AIFIs in the Indian financial system has 
+undergone significant change reflecting the changes in their business models. 
+As the Indian economy grows further, AIFIs are increasingly being seen as 
+key institutions to promote the flow of direct or indirect credit to the 
+economic sectors they cater to. Acknowledging their growing importance, 
+RBI has extended Basil III Capital framework guidelines to AIFIs in 2023-
+24. Some of the important guidelines are:
+1) AIFIs will be required to maintain a minimum total capital of 9 per cent
+by April 2024, wherein minimum tier-I capital will need to be at 7 per
+cent and common equity tier-I (CET-1) capital at 5.5 per cent. For NHB,
+the implementation date will be July 2024, given that its accounting year
+is July–June.
+2) All financial subsidiaries, except those engaged in insurance and non-
+financial activities (both regulated and unregulated), will need to be fully
+consolidated for the purpose of capital adequacy to ensure an assessment
+of capital adequacy at the group level, taking into account the risk profile
+of assets and liabilities of the subsidiaries.
+3) AIFIs’ investments in capital instruments of banking, financial, and
+insurance entities will be capped at 10 per cent of their capital funds.
+AIFIs will not be allowed to acquire a fresh stake in a bank’s or AIFI’s
+equity shares if the acquisition leads to its holding exceeding
+5 per cent of the investee’s equity capital.
+4) AIFIs’ equity investment in a single entity cannot exceed 49 per cent of
+the equity of the investee. While AIFIs can hold this entire 49 per cent
+stake as a pledgee, if the acquisition is against AIFI’s claims, the stake
+will need to be brought below 10 per cent within three years.
+15.8 PRIMARY DEALERS (PDs) 
+The system of Primary Dealers (PDs) in the Government Securities Market 
+was introduced by the Reserve Bank of India in 1995 to strengthen the 
+market infrastructure of Government Securities (G-sec) and put in place an 
+improved, efficient secondary market trading system. This was to encourage 
+the holding of Government Securities on a large scale and make the market 
+more vibrant and liquid. In 2006-07, RBI gave Banks the option to undertake 
+Primary Dealership business departmentally.  
+Primary Dealers can also be referred to as Merchant Bankers by the 
+Government of India as only they are allowed to underwrite primary issues of 
+government securities other than RBI who have since shed this role. In 2021, 
+there were 21 Primary dealers out of which 14 are bank primary dealers and 7 
+are standalone primary dealers.  RBI expects PDs to play an active role in the 
+G-Sec market, both in its primary and secondary market segments through 
+various obligations like participating in Primary auctions, market making in 
+G-Sec, predominance of investment in G-Sec, achieving minimum secondary 
+
+
+--- Page 45 ---
+44 
+Financial Institutions market turnover ratio, maintaining efficient internal control system for fair 
+conduct of business etc. A PD is required to have a standing arrangement 
+with RBI based on the execution of an undertaking and the authorization 
+letter issued by RBI every three years. 
+Stand-alone PDs are allowed the following activities as core activities: 
+ Dealing and underwriting in Government securities.
+ Dealing in Interest Rate Derivatives.
+ Providing broking services in Government securities.
+ Dealing and underwriting in Corporate / PSU / FI bonds/ debentures.
+ Lending in Call/ Notice/ Term/ Repo/ CBLO market.
+ Investment in Commercial Papers.
+ Investment in Certificates of Deposit.
+ Investment in Security Receipts issued by Securitization Companies/
+Reconstruction Companies, Asset Backed Securities (ABS), and
+Mortgage-Backed Securities (MBS).
+ Investment in debt mutual funds where the entire corpus is invested in
+debt securities.
+15.9  ISSUES AND CONCERNS IN THE NBFIs 
+SECTOR 
+While NBFIs can contribute to the economy, they also bring risks. Given the 
+nature of their operations, NBFIs also carry inherent risks including, excess 
+leverage, amplification of pro-cyclicality and over-reliance on wholesale 
+funding. Given their exposure to niche segments, they may also suffer from 
+the concentration of risks. They are often not allowed the benefit from the 
+central bank as a lender of last resort and from deposit insurance institutions. 
+The only way to control these risks is through proper regulation. Risk will 
+vary depending upon the economic functions performed by NBFIs.  The 
+challenge for regulation is striking the right balance between the risks and 
+benefits. On the one hand, too little or no regulation can lead to a crisis and 
+severely impact the vulnerable and the economy. Getting the right balance is 
+a perpetual challenge for financial regulators and supervisors, not only in 
+developing countries but also in developed and advanced economies. 
+The business model of NBFIs is inherently risk-prone. Weaker underwriting 
+standards, enhanced risk-taking capabilities and increased complexity of their 
+activities cause concerns. Besides the riskiness of the business model, NBFIs 
+are exposed to key risks emanating from regulatory gaps, arbitrage and 
+contagion effects. NBFIs are more prone to systemic risks on account of the 
+concentration of exposure to speciﬁc sectors. Also, since these entities are 
+more dependent on funding from commercial banks, both directly and 
+
+
+--- Page 46 ---
+45 
+Non-Bank Financial 
+Intermediaries 
+indirectly, the interconnectedness risk tends to be higher. Their asset-liability 
+mismatches accentuate liquidity risks. These risks can quickly escalate as 
+solvency risks and lead to systemic risk as well. Therefore, careful and 
+continuous monitoring is still required to detect any increases in systemic risk 
+factors (e.g. maturity liquidity transformation, and leverage) that could arise 
+from the rapid expansion of credit provided by the non-bank sector. The 
+report of the working group on the Issues and Concerns in the NBFC Sector 
+(Thorat Committee, August 2011 ) has suggested reducing clutter and 
+possibilities of arbitrage. It recognizes the regulatory priorities, the 
+fundamental differences with the banking system and the arbitrage points to 
+be plugged. All the prudential norms applicable to banks should apply to 
+NBFCs as well.  
+Besides that, NBFIs also face various challenges in terms of huge 
+competition from banks, data security threats, dependence on banks for 
+funding etc. 
+Check Your Progress 2 
+1) What are Housing Finance Companies (HFCs)? How are they regulated
+by RBI?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Explain the guidelines by RBI issued for All India Financial Institutions
+(AIFIs).
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) Discuss some issues and concerns related to NBFIs in India.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+15.10 LET US SUM UP 
+NBFIs, also known as shadow banks, fill the gaps in financial services that 
+otherwise occur in bank-based financial systems.  They are doing functions 
+akin to that of banks, however, there are a few differences. NBFIs 
+complement commercial banks by providing services that are not well suited 
+to banks.  NBFIs play a range of roles.  They foster a risk management 
+culture by encouraging those who are least able to bear risk to sell those risks 
+to those better able to manage them. Thus, they broaden the spectrum of risks 
+
+
+--- Page 47 ---
+46 
+Financial Institutions available to investors. They encourage investment and savings and improve 
+the efficiency of investment and savings. They can enhance the resilience of 
+the financial system to economic shocks.  
+NBFCs are fast emerging as an important segment of the Indian financial 
+system. It is a heterogeneous group of institutions (other than commercial and 
+cooperative banks) performing financial intermediation in a variety of ways, 
+like accepting deposits, making loans and advances, leasing, hiring 
+purchases, etc. They have broadened and diversified the range of products 
+and services offered by the financial sector. Thus, gradually, they are being 
+recognised as complementary to the banking sector due to their customer-
+oriented services; simplified procedures; attractive rates of return on deposits; 
+flexibility and timeliness in meeting the credit needs of specified sectors; etc. 
+NBFIs are a heterogeneous category of financial institutions. They comprise 
+non-banking financial companies (NBFCs), Housing Finance companies 
+(HFCs), All India financial institutions (AIFIs), and Primary dealers (PDs). 
+Since 2023, The Reserve Bank of India has regulated NBFIs under Scale 
+Based Regulation. The regulatory structure for Non-Banking Financial 
+Companies (NBFCs) comprises four layers based on their size, activity and 
+perceived riskiness. NBFCs in the lowest layer are known as NBFCs-Base 
+Layer (NBFCs-BL). NBFCs in the middle layer and upper layer are known as 
+NBFCs-Middle Layer (NBFCs-ML) and NBFCs Upper Layer (NBFCs-UL), 
+respectively. The Top Layer is ideally expected to be empty and is known as 
+NBFCs-Top Layer (NBFCs-TL). 
+15.11  KEY WORDS 
+Economies of Scale  : Large size of the asset portfolios enables the 
+financial intermediaries to reap various economies 
+of scale in portfolio management. The main 
+economies are: 
+a) reduction of risk through portfolio
+diversification:
+b) employment of efficient and professional
+managers; 
+c) the low administrative cost of large loans and
+d) low costs of establishment, information and
+transactions.
+Financial        : 
+intermediation 
+A financial intermediary is a financial institution  
+that connects surplus and deficit agents. An entity 
+that acts as the middleman between two parties in a 
+financial transaction. While a commercial bank is a 
+typical financial intermediary, this category also 
+includes other financial institutions such as 
+investment banks, insurance companies, broker-
+dealers, mutual funds and pension funds. Financial 
+
+
+--- Page 48 ---
+47 
+Non-Bank Financial 
+Intermediaries 
+intermediaries offer several benefits to the average 
+consumer including safety, liquidity and economies 
+of scale.  
+Hire purchase  : It is the legal term for a contract, in which persons 
+usually agree to pay for goods in parts or a 
+percentage at a time. 
+Insurance  : 
+Company 
+It is a company that offers insurance policies to the 
+public, either by selling directly to an individual or 
+through another source such as an employee's 
+benefit plan. An insurance company is usually 
+comprised of multiple insurance agents. An 
+insurance company can specialize in one type of 
+insurance, such as life insurance, health insurance, 
+or auto insurance, or offer multiple types of 
+insurance. 
+Investment  : 
+Companies 
+They are business entities, both privately and 
+publicly owned, that manage, sell, and market funds 
+to the public. They typically offer investors a variety 
+of funds and investment services, which include 
+portfolio management, record-keeping, custodial, 
+legal, accounting and tax management services. 
+Leasing  :   It is a process by which a firm can obtain the use of 
+certain fixed assets for which it must pay a series of 
+contractual, periodic, tax-deductible payments. The 
+lessee is the receiver of the services or the assets 
+under the lease contract and the lessor is the owner 
+of the assets. The relationship between the tenant 
+and the landlord is called a tenancy and can be for a 
+fixed or indefinite period (called the term of the 
+lease). The consideration for the lease is called rent. 
+ 
+Microfinance  :   It is usually understood to entail the provision of 
+financial services to micro-entrepreneurs and small 
+businesses, which lack access to banking and related 
+services due to the high transaction costs associated 
+with serving these client categories. The two main 
+mechanisms for the delivery of financial services to 
+such clients are (1) relationship-based banking for 
+individual entrepreneurs and small businesses; and 
+(2) group-based models, where several 
+entrepreneurs come together to apply for loans and 
+other services as a group. 
+Mutual fund: is a mediator that brings together a group of people 
+and invests their money in stocks, bonds and other 
+securities. Each investor owns shares, which 
+
+
+--- Page 49 ---
+48 
+Financial Institutions 
+Shadow Banking      : 
+represent a portion of the holdings of the fund. 
+Thus, a mutual fund is one of the most viable 
+investment options for the common man as it offers 
+an opportunity to invest in a diversified, 
+professionally managed basket of securities at a 
+relatively low cost. 
+Shadow banks are those entities which performs 
+activities (fully or partially) outside the regular 
+banking system. The shadow banking sector in India 
+primarily includes NBFCs 
+Systemic risk  : 
+In finance, systemic risk is the risk of collapse of an 
+entire financial system or entire market, as opposed 
+to risk associated with any one individual entity, 
+group or component of a system. It can be defined 
+as “financial system instability, potentially 
+catastrophic, caused or exacerbated by idiosyncratic 
+events or conditions in financial intermediaries”. It 
+refers to the risks imposed by interlinkages and 
+interdependencies in a system or market, where the 
+failure of a single entity or cluster of entities can 
+cause a cascading failure, which could potentially 
+bankrupt or bring down the entire system or market.  
+15.12 SOME USEFUL BOOKS AND REFERENCES  
+ Bhole, L M and Jitendra Mahakud (2017): ‘ Financial Institution and
+Markets’, 6th edition, Chapters 15 and 16, Tata McGraw-Hill Education
+Pvt. Ltd., New Delhi
+ Gupta, Suraj B. (1985): Monetary Economics: Institutions, Theory and
+Policy, S. Chand and Company, New Delhi (Chapter 3 & 10).
+ Gurusamy, S. (2009): Financial Services and Markets, Thomson, New
+Delhi (Chapter 29).
+ Khan, M Y (2017): ‘ Indian Financial System ’, 10 th edition, Tata
+McGraw-Hill Education Pvt. Ltd., New Delhi
+ Reserve Bank of India:
+a) Annual Report (various issues)
+b) Report on Trend and Progress of Banking in India, 2022-23
+ Neelima, K M and Anand Kumar (2017): Non-Banking Finance
+Companies in India’s Financial Landscape, RBI Bulletin, October
+
+
+--- Page 50 ---
+ 
+ 
+49 
+Non-Bank Financial 
+Intermediaries 15.13 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) NBFIs are a heterogeneous category of financial institutions. Banks form 
+a homogeneous group doing banking business. the Reserve Bank has 
+classiﬁed varieties of speciﬁc types of NBFIs separately and regulates 
+each such type differently, Credit creation activities of the banks involve 
+less time, while the lending activities of the non-bank intermediaries 
+involve longer time. 
+2) mobilization of savings, channelization of funds into investment, brokers 
+of loanable funds, stabilize the capital market. 
+3) They comprise non-banking financial companies (NBFCs), Housing 
+Finance companies (HFCs), All India financial institutions (AIFIs), and 
+Primary dealers (PDs). 
+4) Refer to Sub-section 15.5.3 
+Check Your Progress 2 
+1) Corporate entities that operate under the Companies Act of 1956. Their 
+primary focus is providing housing loans or finance through various 
+direct or indirect means. Regarding HFCs, RBI has notified that they will 
+be included in the Middle Layer or the Upper Layer. 
+2) RBI has extended Basil III Capital framework guidelines to AIFIs in 
+2023-24.  
+3) Refer to Section 15.9 
+15.14 TERMINAL QUESTIONS 
+1) Describe the functions and working of NBFCs in India. 
+2) NBFCs are doing functions similar to banks. What is the difference 
+between banks & NBFCs?   
+3) Analyse the role of the Reserve Bank in regulating NBFCs in India.  
+4) What are the different types/categories of NBFIs registered with RBI? 
+Does the Reserve Bank regulate all NBFCs? 
+5) Explain the regulatory mechanism of NBFIs in India.       

@@ -1,0 +1,412 @@
+--- Page 27 ---
+121 
+Capital Asset 
+Pricing Model 
+……………………………………………………………………………
+…………………………………………………………………………… 
+3) Discuss the importance and role of the Capital Pricing Model in an
+economy.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+4) List some applications of the Capital Pricing Model.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+19.5 LIMITATION OF CAPITAL ASSET PRICING 
+MODEL 
+Capital Asset Pricing Model (CAPM) is widely used and provides valuable 
+insights into the relationship between risk and return in financial markets, it 
+also has several limitations. Some of the key limitations include: 
+1) Assumptions: CAPM is based on several simplifying assumptions that
+may not always hold in real-world financial markets. These assumptions
+include perfect competition, frictionless markets, constant correlations
+among assets, and rational investor behaviour. Deviations from these
+assumptions can lead to inaccuracies in CAPM’s predictions.
+2) Market Index: CAPM relies on the market index to represent the overall
+market portfolio. However, the choice of the market index can
+significantly impact the results. Different market indices may have
+different compositions and characteristics, leading to variations in beta
+estimates and expected returns.
+3) Single-Factor Model : CAPM is a single-factor model that considers
+only systematic risk (beta) as the sole determinant of expected returns. It
+does not account for other factors such as firm-specific risk,
+macroeconomic variables, or market sentiment, which can also influence
+asset prices and returns. As a result, CAPM may not fully capture the
+complexities of real-world asset pricing.
+4) Linearity and Homogeneity:  CAPM assumes linear and homogeneous
+relationships between risk and return, implying that all investors have the
+same risk preferences and risk aversion coefficients. In reality, investors
+
+
+--- Page 28 ---
+122 
+Operational Aspects 
+of Financial Markets 
+have diverse risk preferences and may exhibit nonlinear behaviour, 
+leading to deviations from CAPM predictions. 
+5) Risk-Free Rate: CAPM relies on the risk-free rate as a proxy for the
+time value of money and the opportunity cost of capital. However, the
+risk-free rate may fluctuate over time and may not accurately reflect
+investors’ actual borrowing and lending opportunities. Changes in the
+risk-free rate can impact the entire risk-return relationship predicted by
+CAPM.
+6) Empirical Validity: Empirical studies have found mixed evidence
+regarding the validity of CAPM in explaining asset returns. While
+CAPM provides a useful benchmark for asset pricing, its ability to
+accurately predict returns in practice has been questioned, especially
+during periods of market turbulence or financial crises.
+7) Non-Market Risks: CAPM focuses primarily on market (systematic)
+risk and may overlook non-market (idiosyncratic) risks that are specific
+to individual assets or industries. These non-market risks, such as
+company-specific events or regulatory changes, can significantly impact
+asset prices and returns but are not captured by CAPM.
+Overall, while CAPM remains a foundational model in financial economics, 
+it is essential to recognize its limitations and consider alternative models or 
+factors when making investment decisions and assessing asset pricing in real-
+world financial markets. 
+19.5.1  Theoretical Limitation of Capital Asset Pricing Model 
+The theoretical limitation of the Capital Asset Pricing Model (CAPM) lies in 
+its assumptions, which may not always hold in real-world financial markets. 
+Some of the limitations are discussed as follows: 
+1) Perfect Market Assumptions:  CAPM assumes the existence of perfect
+markets, where investors have access to all relevant information,
+transaction costs are zero, and there are no restrictions on borrowing or
+lending. In reality, markets are often imperfect, with information
+asymmetries, transaction costs, and regulatory constraints affecting
+investor behaviour and asset prices. For example: During the global
+financial crisis of 2007-2008, financial markets experienced significant
+disruptions, with widespread information asymmetries, liquidity
+shortages, and regulatory interventions. These market imperfections
+challenged the assumptions of perfect markets underlying CAPM,
+leading to distortions in asset pricing and deviations from CAPM
+predictions.
+2) Homogeneous Investor Behaviour: CAPM assumes that all investors
+have homogeneous expectations, risk preferences, and investment
+horizons. In reality, investors exhibit diverse behaviour, with varying
+
+
+--- Page 29 ---
+123 
+Capital Asset 
+Pricing Model 
+risk aversion levels, investment goals, and time horizons. This 
+heterogeneity in investor behaviour can lead to discrepancies between 
+CAPM-predicted asset prices and actual market prices. For Example: 
+During periods of market volatility, investors may exhibit different risk 
+preferences and reactions to market events. Some investors may adopt a 
+more risk-averse stance and demand higher returns for bearing risk, 
+while others may be more willing to take on risk in pursuit of higher 
+returns. These heterogeneous behaviours can lead to deviations from the 
+CAPM-predicted relationship between risk and return. 
+3) Single-Factor Model: CAPM is a single-factor model that considers
+only systematic risk (beta) as the sole determinant of expected returns. It
+does not account for other factors such as firm-specific risk,
+macroeconomic variables, or market sentiment, which can also influence
+asset prices and returns. This limitation restricts CAPM’s ability to fully
+capture the complexities of asset pricing dynamics. For Example, The
+financial markets often experience periods of heightened uncertainty
+driven by macroeconomic events, geopolitical tensions, or changes in
+investor sentiment. During such periods, factors beyond systematic risk,
+such as changes in interest rates, inflation expectations, or regulatory
+policies, can exert significant influence on asset prices, leading to
+deviations from CAPM predictions.
+These theoretical limitations highlight the challenges in applying CAPM in 
+real-world financial markets and underscore the importance of considering 
+alternative models or factors to better understand asset pricing dynamics and 
+make informed investment decisions. 
+19.5.2  Practical Limitation of Capital Asset Pricing Model 
+ The Capital Asset Pricing Model (CAPM) is a valuable tool in finance, but it 
+does have practical limitations. 
+1) Non-Linear Relationship between Risk and Return: CAPM assumes
+a linear relationship between risk (measured by beta) and expected
+return. However, in reality, the relationship between risk and return may
+not always be linear. Assets with higher betas may not always provide
+proportionally higher returns, and the relationship may exhibit non-
+linearity, especially at extreme ends of the risk spectrum. This limitation
+can be explained with the help of an example of a Tech Start-Up.
+Consider the case of investing in technology startups. These startups
+often exhibit high levels of risk due to factors such as uncertain revenue
+streams, competition, and technological disruption. According to CAPM,
+investors would expect higher returns for investing in these high-risk
+ventures. However, the relationship between risk and return may not be
+strictly linear. While some successful startups may provide significant
+returns, many others may fail, leading to losses for investors despite their
+
+
+--- Page 30 ---
+124 
+Operational Aspects 
+of Financial Markets 
+high-risk nature. This non-linear relationship challenges CAPM’s ability 
+to accurately predict returns for such high-risk investments. 
+2) Sensitivity to the inputs and assumptions used in its calculations  can
+lead to unreliable estimates of expected returns. CAPM relies on several
+inputs and assumptions, including the risk-free rate, market risk
+premium, and beta coefficients. However, these inputs are subject to
+uncertainty and may vary over time, leading to potential inaccuracies in
+CAPM’s predictions. Small changes in these inputs can result in
+significant fluctuations in estimated expected returns, reducing the
+reliability of CAPM as a forecasting tool. This limitation is also
+explained with the help of the following example of Sensitivity to market
+risk and premium. Consider the estimation of the market risk premium,
+which represents the excess return investors expect from investing in the
+market portfolio compared to the risk-free rate. This parameter is crucial
+in determining expected returns according to CAPM. However, the
+market risk premium is not directly observable and must be estimated
+based on historical data or other methodologies. If different analysts or
+investors use different methods or data sources to estimate the market
+risk premium, they may arrive at divergent estimates. Additionally, the
+market risk premium itself may fluctuate over time due to changes in
+economic conditions, investor sentiment, or market dynamics. As a
+result, small variations in the estimated market risk premium can lead to
+significant differences in expected returns according to CAPM. The
+sensitivity of CAPM to its inputs and assumptions can have practical
+implications for investment decision-making. Investors and financial
+analysts may struggle to obtain accurate estimates of expected returns
+using CAPM, especially in dynamic or uncertain market environments.
+Relying solely on CAPM’s predictions without considering the inherent
+uncertainty and sensitivity of its inputs can result in suboptimal
+investment decisions and portfolio performance.
+3) Poor predictor of returns:  Empirical studies support that the reliability
+of CAPM becomes weak when the estimate of asset returns is closely
+associated with realized returns. Empirical findings do not support the
+hypothesis that asset returns are only determined by systematic risk. The
+low predictive power of the CAPM model is one of the serious
+limitations because investors invest based on a prediction of future
+returns.
+Check Your Progress 2 
+1) Discuss the limitations of the Capital Asset Pricing Model.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+
+
+--- Page 31 ---
+ 
+ 
+125 
+Capital Asset  
+Pricing Model 
+2) Describe the following: 
+(a) Theoretical Limitation of Capital Asset Pricing Model. 
+………………………………………………………………………
+………………………………………………………………………
+……………………………………………………………………… 
+(b) A practical limitation of the Capital Asset Pricing Model. 
+………………………………………………………………………
+………………………………………………………………………
+……………………………………………………………………… 
+19.6 EMPIRICAL ANALYSIS OF THE CAPM 
+MODEL 
+The Capital Asset Pricing Model (CAPM) can be applied to real-world 
+financial data and the results can be tested with its predictions. Some of the 
+applications of the CAPM model are as follows: 
+Time-Series Analysis: Economists collect historical data on individual 
+assets’ returns and the overall market return over a specified period. Using 
+regression analysis, they estimate the beta coefficients for each asset to 
+measure their sensitivity to market movements. CAPM’s predictions are then 
+tested by comparing the expected returns calculated using CAPM with the 
+actual historical returns of the assets. Example: A study examines the 
+relationship between the beta coefficients of different stocks and their 
+subsequent returns over 10 years. Economists use CAPM to estimate the 
+expected returns and assess whether they closely match the actual returns 
+observed in the market. 
+Cross-Sectional Analysis: Economists examine the relationship between 
+asset returns and their beta coefficients across different assets at a specific 
+point in time. Using statistical tests, they assess whether there is a significant 
+positive relationship between beta and expected returns, as predicted by 
+CAPM. An example: A study analyzes a sample of stocks from different 
+industries and calculates the beta coefficients for each stock. Researchers 
+then compare the expected returns derived from CAPM with the actual 
+returns of the stocks to determine if CAPM holds across a diverse set of 
+assets. 
+Event Studies: Researchers conduct event studies to examine the impact of 
+specific events, such as earnings announcements or mergers, on asset returns. 
+They use CAPM to predict how asset prices should respond to these events 
+based on their beta coefficients and market returns. 
+Example: A study investigates the stock market’s reaction to quarterly 
+earnings announcements. Researchers calculate the expected returns using 
+
+
+--- Page 32 ---
+126 
+Operational Aspects 
+of Financial Markets 
+CAPM and compare them with the actual returns observed around the 
+announcement dates to evaluate CAPM’s ability to explain asset price 
+movements. 
+Portfolio Performance Evaluation:  Investors use CAPM to assess the 
+performance of their investment portfolios relative to their level of systematic 
+risk. They calculate the portfolio’s beta and compare its expected return, as 
+predicted by CAPM, with the actual return achieved by the portfolio. 
+Example: An investor analyzes the performance of their diversified portfolio 
+of stocks over the past year. They use CAPM to estimate the expected return 
+of the portfolio based on its beta and compare it with the actual return to 
+evaluate whether the portfolio outperformed or underperformed relative to its 
+level of risk. 
+Let us illustrate how empirical analysis of CAPM can be conducted using 
+different methodologies and datasets to assess the model’s validity and 
+applicability in real-world financial markets. Suppose in a market: 
+ Risk-free rate (Rf): 3%
+ Market return (E(Rm)): 8%
+ Stock A’s beta (βA): 1.2
+Using CAPM, we can calculate the expected return (E (R A)) for Stock A as 
+follows: 
+E(RA)=Rf+βA×(E(Rm)−Rf) 
+Substituting the given values: 
+=0.03+1.2× (0.08−0.03) E (RA) =0.03+1.2× (0.08−0.03) 
+=0.03+1.2×0.05E (RA) =0.03+1.2×0.05 
+=0.03+0.06E (RA) =0.03+0.06 
+=0.09E (RA) =0.09 
+So, according to CAPM, the expected return for Stock A is 9%. 
+Now, let’s assume that the actual return for Stock A over a specific period 
+was 10%. We can then assess whether this actual return aligns with the 
+expected return predicted by CAPM. 
+We can compare the actual return with the expected return: 
+In this case, the Actual return i.e., 10% is greater than the Expected return 
+i.e., 9%. Since the actual return for Stock A is greater than the expected 
+return calculated using CAPM, this suggests that Stock A outperformed 
+relative to its level of systematic risk, as predicted by CAPM. 
+
+
+--- Page 33 ---
+ 
+ 
+127 
+Capital Asset  
+Pricing Model 19.7  LET US SUM UP  
+CAPM is a fundamental model in finance that establishes a relationship 
+between risk and return for individual assets or portfolios in a well-
+diversified market. 
+CAPM focuses on systematic risk, which cannot be diversified away, and 
+measures it using beta (β), representing the asset's sensitivity to market 
+movements. 
+According to CAPM, the expected return of an asset is determined by the 
+risk-free rate (Rf) plus a risk premium proportional to the asset's beta and the 
+market risk premium (E(Rm)−Rf). 
+The formula for expected return E(R)) using CAPM is: E(R) =Rf+β× (E  
+(Rm)−Rf) 
+A risk-free rate represents the return on a risk-free investment, typically 
+proxied by government bonds, with no default risk. 
+The excess return investors demand for holding a risky asset compared to a 
+risk-free asset. It is calculated as the difference between the expected return 
+of the market portfolio E(Rm)) and the risk-free rate (Rf). 
+A theoretical portfolio that contains all assets in the market, weighted by their 
+market values. It represents the average level of risk in the market. 
+CAPM implies that all investors will hold a combination of the risk-free asset 
+and the market portfolio, known as the efficient frontier, to achieve optimal 
+risk-return trade-offs. It relies on several assumptions, including perfect 
+capital markets, rational investors, homogeneous expectations, and constant 
+risk aversion. CAPM is widely used in finance for asset pricing, portfolio 
+management, and performance evaluation. It provides a benchmark for 
+determining whether an asset’s expected return adequately compensates for 
+its level of risk. 
+Despite its widespread use, CAPM has limitations, including its simplifying 
+assumptions, reliance on historical data, inability to capture non-market risks, 
+and mixed empirical evidence. 
+Researchers have developed alternative models and extensions to CAPM, 
+such as multi-factor models and behavioural finance frameworks, to address 
+its limitations and improve the understanding of asset pricing dynamics. 
+To conclude, CAPM serves as a foundational framework for understanding 
+the relationship between risk and return in financial markets, guiding 
+investment decisions and portfolio management strategies. However, it is 
+essential to recognize its assumptions and limitations when applying them in 
+real-world contexts. 
+
+
+--- Page 34 ---
+128 
+Operational Aspects 
+of Financial Markets 19.8 KEY WORDS 
+Anomalies  : Patterns or inconsistencies in asset returns that are 
+not explained by CAPM. 
+Asset Pricing  : The process of valuing assets based on their risk-
+return characteristics. 
+Beta  : The measure of an asset’s sensitivity to market 
+movements. 
+Diversification  : Spreading investments across different assets to 
+reduce risk. 
+Efficient Frontier   : The set of optimal portfolios that offer the highest 
+expected return for a given level of risk. 
+Empirical Analysis :
+ Examination of real-world data to test the validity 
+and applicability of economic theories like CAPM. 
+Expected Return    : The return an investor anticipates receiving on an 
+investment is based on its risk characteristics. 
+Market Efficiency  : The degree to which prices of assets accurately 
+reflect all available information in the market. 
+Market Portfolio    : A theoretical portfolio containing all assets in the 
+market, weighted by their market values. 
+Market Risk  : 
+Premium 
+Excess return expected from holding a risky asset 
+compared to risk-free asset. 
+Portfolio Theory    : The study of how investors can construct portfolios 
+to optimize returns while minimizing risk. 
+Return  : The gain or loss generated on an investment over a 
+specific period. 
+Risk  : The variability of returns associated with an 
+investment. 
+Risk-Free Rate      : The return on a risk-free investment, is usually 
+proxied by government bonds. 
+Systematic Risk    
+ : Market-related risks that cannot be diversified away 
+19.9 SOME USEFUL BOOKS 
+Abel B (1990) “Asset Prices under Habit Formation and catching up with the 
+Jones; The American Review 80(2) pp 38-42 
+
+
+--- Page 35 ---
+ 
+ 
+129 
+Capital Asset  
+Pricing Model 
+Chen N Roll and Ross S (1986) “Economic forces and the Stock Market 
+Journal of Business 59(3) pp 383-403 
+Frank J Faboozi (2006) “Financial Modeling of the Equity Market from 
+CAPM to Cointegration. 
+Haim Levy (2011) The Capital Asset Pricing Model in the 21st Century 
+Martin L and Gonzalo R (2011) Evaluating alternative methods forecasting 
+asset pricing models with historical data. “Journal of Empirical Finance 18(1) 
+pp 136-146 
+19.10 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES  
+Check Your Progress 1 
+1) CAPM provides a theoretical foundation for understanding the 
+relationship between risk and return in financial markets. 
+2) Emphasis on systematic risk, single-factor model, relationship between 
+risk and return, market portfolio benchmark, risk-free rate incorporation, 
+equilibrium pricing, universal applicability. 
+3) Objective measurement of risk-adjusted performance, quantifying risk-
+return tradeoff, portfolio allocation decision, performance evaluation 
+tool, risk management tool, benchmark comparison. 
+4) Expected return estimation, cost of equity calculation, risk-adjusted 
+performance measurement. 
+Check Your Progress 2 
+1) Strict assumptions, market index, single-factor model, linearity and 
+homogeneity, risk-free rate, empirical validity, non-market risks. 
+2) a) Perfect Market Assumptions, Homogeneous Investor Behaviour, 
+Single-Factor Model. 
+b)  Non-linear relationship between risk and return, sensitivity to the 
+inputs and assumptions used in its calculations, poor predictor of 
+returns. 
+19.11 TERMINAL QUESTIONS 
+1) What is the Capital Asset Pricing Model (CAPM), and what are its key 
+assumptions? 
+2) Provide the CAPM equation and explain the significance of each 
+component. 
+
+
+--- Page 36 ---
+130 
+Operational Aspects 
+of Financial Markets 
+3) Discuss common statistical measures used to evaluate the goodness-of-fit
+of CAPM in empirical analyses.
+4) Explain how the presence of anomalies affects the applicability of
+CAPM in real-world financial markets.
+5) Discuss the theoretical and practical limitations of CAPM.

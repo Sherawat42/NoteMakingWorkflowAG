@@ -1,0 +1,172 @@
+--- Page 105 ---
+309 
+Behavioural Finance Anchoring and        : 
+adjustment heuristic 
+Heuristic whereby a person is heavily dependent on 
+the information received initially (called the 
+“anchor”) and then adjusts it towards the problem 
+while making decisions. 
+Market Anomaly     : An anomaly is a deviation from the presently 
+accepted paradigms or assumptions about the market 
+which cannot be ignored as a random error. 
+Availability  : 
+Heuristics 
+It refers to the heuristic that assesses the probability 
+of occurrence of the event based on the ease with 
+which it comes to the mind. 
+Behavioural  : 
+Finance 
+It focuses on cognitive, sociological and 
+psychological influences on the decision-making of 
+investors and financial markets. 
+Cognitive  : 
+Dissonance 
+It refers to the internal tension and anxiety that 
+people experience when they are subjected to 
+conflicting beliefs or experiences opposite to their 
+prior beliefs. 
+Disposition Effects  : It refers to the tendency to prematurely sell assets 
+that have made financial gains while holding on to 
+assets that are losing money. 
+Efficient Market      : 
+Hypothesis 
+An investment theory argues that markets are 
+efficient, and prices reflect the fundamental value of 
+an asset and thus there is no scope to make excess 
+profits by investing. 
+Equity premium      : 
+puzzle 
+The equity premium puzzle refers to the inability of 
+traditional finance models to explain the average 
+equity risk premium over bonds. 
+Herding  : Herding is the outcome of social learning when 
+people believe that others are better informed and 
+thus follow the crowd. 
+Heuristics  : Heuristics or ‘rules of thumb’ are imperfect but 
+functional shortcuts that help investors simplify 
+complex situations and make quick decisions. 
+Loss Aversion  : Investors find losses to be more painful as compared 
+to the pleasure from gains. Loss aversion makes 
+people prefer things as they are. 
+Mental Accounting : Mental accounting refers to a set of cognitive 
+operations that investors use to classify their money 
+differently in different portfolios based on various 
+subjective criteria. 
+Predictability  : 
+Puzzle 
+Stock returns are predictable suggesting that 
+persistent profits are not being eroded by arbitrage. 
+
+
+--- Page 106 ---
+310 
+Financial Stability Random Walk  : It refers to past movements or trends of a stock price 
+or market that cannot be used to predict its future 
+movement and it is not possible to outperform the 
+market without assuming additional risk. 
+Representativeness : 
+Heuristic 
+In situations of uncertainty, people evaluate the 
+probability of an uncertain event by comparing it to 
+an existing prototype that already exists in our minds. 
+Sunk Cost Fallacy   : It describes an emotional tendency to invest more 
+money, time, and effort into a project where we have 
+already invested even if a person knows that the 
+investment is going to fail. 
+Theory of Regret     : When an investment goes bad, people act irrationally 
+by trying to avoid selling it to avoid feelings of 
+regret. 
+Volatility Puzzle      : The volatility puzzle reflects the high variability of 
+stock prices having large dispersions 
+Law of One Price    : The law says that identical securities have identical 
+prices because prices are based on fundamental 
+values. The law of one price limits the opportunity to 
+arbitrage. 
+29.9  SOME USEFUL BOOKS 
+Baddeley, Michelle (2013). Behavioural Economics and Finance. Routledge. 
+Chapter 11: Financial Instability 
+Ranyard, Rob(2018) Economic Psychology. British Psychological Society 
+and Wiley. Chapter 15: Behaviour in Financial Markets. 
+Tversky, A., & Kahneman, D. (1986). Judgment under uncertainty: 
+Heuristics and biases. In H. R. Arkes & K. R. Hammond (Eds.), Judgment 
+and decision making: An interdisciplinary reader  (pp. 38–55). Cambridge 
+University Press. (This chapter originally appeared in "Science," 1974, 185, 
+1124-1131) 
+29.10  ANSWERS OR HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) It focuses on cognitive, sociological and psychological influences on the
+decision-making of investors and financial markets.
+2) In efficient markets, the price reflects its fundamental value and all the
+available information, that investors act rationally, have self-control and
+act in self-interest.
+
+
+--- Page 107 ---
+311 
+Behavioural Finance 3) c
+4) a
+Check Your Progress 2 
+1) Traditional finance centres around the idea of investor rationality
+whereas Behavioural finance considers the influence of various biases in
+investment decision making.
+Traditional finance assumes the availability of complete information,
+Behavioural finance, on the other hand, centres around the idea of
+bounded rationality.
+Traditional finance centres around the ‘Efficient market hypothesis’.
+Behavioural finance discusses various anomalies that lead to market
+volatility and cannot be explained through EMH.
+Classical finance theory asserts fact that any noise is balanced out by
+rational traders but behavioural finance asserts that there is a limit to
+arbitrage and prices are not always right.
+2) Refer to Section 1.4
+3) B
+4) A.
+Check Your Progress 3 
+1) These are Fundamental anomalies, Technical anomalies, and Calendar or
+seasonal anomalies (refer to Sub-section 29.5.2).
+2) Myopic loss aversion and ambiguity aversion explain the equity
+premium puzzle.
+3) Various cognitive, social and emotional biases lead to sub-optimal
+decision-making by the investors which in turn affect the stock market
+and stock prices.
+4) d
+Check Your Progress 4 
+1) These are Over-Confidence, Cognitive dissonance, Under-reaction and
+over-reaction, Disposition effects, Diversification bias, and Mental
+Accounting (refer to Sub-section 29.6.2 for details).
+2) The sunk cost fallacy describes an emotional tendency to invest more
+money, time, and effort into a project where we have already invested
+even if a person knows that the investment is going to fail.
+3) a)   Herding 
+b) Self-attribution bias
+c) Disposition effect
+d) Loss aversion
+
+
+--- Page 108 ---
+312 
+Financial Stability 29.11  TERMINAL QUESTIONS 
+1) How is behavioural finance different from traditional finance?
+2) Behavioural Finance posits that heuristics help investors to make
+decisions quickly. Discuss the various heuristics and how are they
+applied by investors. Elaborate on the biases that these heuristics cause.
+3) Give behavioural explanations to various market puzzles that are not
+addressed by traditional finance.
+4) Describe various anomalies in the Efficient Markets Hypothesis.
+5) Bring out the cognitive influences on investors that lead to various
+biases in decision-making.
+6) Explain social influences on investors’ decision-making
+7) What are the various emotional influences that bias investor decision-
+making?
+8) Define:
+a) Sunk cost fallacy
+b) Herding
+c) Loss aversion
+d) Mental accounting
+e) Diversification bias
+9) What is the Theory of Regret? How does it influence decision-making?
+10) Describe the equity premium puzzle.
+11) Describe predictability puzzle
+12) ‘Behavioural finance is ‘micro efficient’ but not macro efficient’.
+Comment.

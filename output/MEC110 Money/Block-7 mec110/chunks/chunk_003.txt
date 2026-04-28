@@ -1,0 +1,422 @@
+--- Page 23 ---
+227 
+Efficient Markets 
+Hypothesis 
+……………………………………………………………………………
+……………………………………………………………………………
+…………………………………………………………………………… 
+25.6 ASSESSMENT OF EFFICIENT MARKETS 
+HYPOTHESIS 
+The Efficient Markets Hypothesis (EMH) is a theory that suggests that 
+financial markets are informationally efficient, meaning that asset prices 
+reflect all available information at any given time. While this hypothesis has 
+been widely accepted in the academic world, it has also received significant 
+criticism from various scholars and practitioners in finance. Some of the main 
+criticisms of the EMH are: 
+a) Behavioural finance:  We know that the EMH is based upon an
+assumption of the rationality of investors, but the studies conducted
+under behavioural finance argue that investors are not always rational,
+and their decisions are derived from their emotions, biases, or incomplete
+information, causing inefficiencies in the market. This means that market
+prices may not always reflect all available information, as suggested by
+the EMH.
+b) Historical contradictions:  Some historical anomalies or contradictions
+cannot be explained by the EMH. For example, the momentum effect,
+where stocks that have performed well in the past tend to continue to
+perform well in the future, and this tendency contradicts the EMH which
+states that future prices cannot be predicted based on past prices.
+c) Insider trading: The existence of insider trading suggests that some
+market participants have access to information that is not available to the
+general public, indicating that the market may not be as efficient as the
+EMH suggests.
+d) Market bubbles: The EMH contends that the price of a security tends to
+its intrinsic value i.e., it is neither overvalued nor undervalued. But, the
+cases of market bubbles such as the dot-com bubble of the late 1990s and
+the housing bubble of the mid-2000s suggest otherwise. In both cases,
+asset prices soared far beyond their true intrinsic value, leading to a crash
+when the bubble eventually burst.
+e) Information asymmetry: The EMH assumes that all market players
+have equal information i.e., nobody has more information than the
+others. Do you think so? In reality, some participants may have more or
+better information than others. This creates an information asymmetry,
+which can lead to market inefficiencies.
+f) Limited arbitrage:  The EMH argues that the arbitrage process in the
+market corrects these inefficiencies caused by over and under-valuation
+
+
+--- Page 24 ---
+228 
+Financial Stability of the stocks. However, in reality, arbitrage opportunities are often 
+limited by factors such as transaction costs, liquidity constraints, and 
+regulatory restrictions, which may prevent market prices from reflecting 
+all available information. 
+So, the overall conclusion is that the above criticisms suggest that the EMH 
+may not accurately describe the behaviour of financial markets and that 
+market inefficiencies may be more common than the EMH suggests. 
+25.7 APPLICATIONS OF THE EMH 
+Here are some main applications of the EMH: 
+a) Index Funds:  The EMH suggests that it is impossible to consistently
+outperform the market by picking individual stocks. In other words, the
+market prices of the stock are already at their best values and one stock
+cannot perform better than the market return.  Therefore, investors can
+choose to invest in index funds that track the performance of the overall
+market.
+b) Passive Investing: Passive investing means an investing strategy which
+aims to track the performance of a market index (such as Sensex or
+Nifty) instead of thinking that some stock will perform better than the
+market. The EMH supports the idea of passive investing, which involves
+buying and holding a diversified portfolio of stocks for the long term,
+rather than trying to time the market or pick individual stocks.
+c) Rational Expectations Theory : The EMH is closely related to the
+Rational Expectations Theory, which suggests that individuals make
+decisions based on all available information and that markets adjust
+rapidly to new information.
+d) Academic Research: The EMH has been the subject of a great deal of
+academic research, particularly in the fields of finance and economics.
+Researchers have used EMH as a framework to test various hypotheses
+about market behaviour.
+e) Regulatory Policy: The role of regulatory authorities like the Securities
+Exchange Board of India (SEBI) may get diluted by implication of the
+EMH. The EMH has implications for regulatory policy, as it suggests
+that attempts to regulate markets or prevent insider trading may be futile
+since all available information is already reflected in stock prices.
+f) Investment Strategies : The EMH suggests that traditional investment
+strategies, such as technical analysis and fundamental analysis, may be
+ineffective. Instead, investors may wish to focus on strategies such as
+low-cost index funds, diversification, and risk management.
+
+
+--- Page 25 ---
+229 
+Efficient Markets 
+Hypothesis 
+In a nutshell, the EMH has had a significant impact on the way investors 
+think about financial markets and has helped to shape investment strategies 
+and regulatory policies. 
+25.8 APPLICABILITY OF THE EMH IN INDIA 
+In the Indian context, the applicability of the EMH has been a subject of 
+much debate and research over the years. Here is a brief literature review on 
+the same: 
+ Bhatia et al. (2017) conducted a study to test the weak form of the EMH
+in the Indian stock market using daily stock returns for the period 2006-
+2016. Their findings suggested that the Indian stock market is not weak-
+form efficient, as there is evidence of predictable patterns in stock
+returns that can be exploited for abnormal profits.
+ Kumar and Kamaiah (2017) examined the semi-strong form of the EMH
+in the Indian stock market using event study methodology. They found
+that the Indian stock market is partially efficient in terms of reacting to
+news and events, but there is still room for abnormal profits to be made.
+ Patro et al. (2009) analyzed the strong form of the EMH in the Indian
+stock market by examining insider trading activity. They found that
+insiders in the Indian market were able to generate abnormal profits,
+which suggests that the market is not strong-form efficient.
+ Gupta and Sehgal (2013) investigated the efficiency of the Indian stock
+market in the context of the 2008 global financial crisis. They found that
+the market was largely efficient during the crisis period, but some
+anomalies suggest the presence of market inefficiencies.
+ Bhattacharya and Mukherjee (2017) analyzed the efficiency of the Indian
+stock market during the period 2006-2016 using a combination of
+technical and fundamental analysis. Their findings suggested that the
+market is largely efficient, but there are still some anomalies that can be
+exploited for abnormal profits.
+25.9  LET US SUM UP 
+The Efficient Markets Hypothesis is a financial theory that states that in an 
+efficient market, a stock cannot perform better than the market as a whole. 
+Three forms of efficiency can be found in the market: a) weak form, b) semi-
+strong form, and c) strong form. Weak form means that all past information 
+has been absorbed by the market to arrive at the current prices, semi-strong 
+form means that all publically available information is incorporated in the 
+prices, and strong form means that all information (including inside 
+information) is reflected by the market. The Capital Asset Pricing Model 
+(CAPM) is an asset pricing model which predicts the expected return on a 
+security. According to the model, the expected return on a security is linearly 
+
+
+--- Page 26 ---
+230 
+Financial Stability and positively related to the systematic risk. The CAPM and the EMH are 
+closely related. The CAPM assumes that the EMH holds good and the EMH 
+can be tested using the CAPM. There are various methods to do this, but the 
+Black, Jensen, Scholes (1972) is one of the most popular techniques.  
+25.10  KEY WORDS 
+The Efficient Markets 
+Hypothesis (EMH) 
+: The Efficient Markets Hypothesis (EMH) is a 
+theory in finance that suggests that financial 
+markets are “efficient,” which means that asset 
+prices fully reflect all available information at 
+any given time. 
+Weak Form of EMH  :
+ The weak form of EMH asserts that all 
+historical price and volume data is already 
+incorporated into current stock prices, making it 
+impossible to profit from analyzing past trends 
+or patterns. 
+Semi-Strong Form of 
+EMH 
+:
+ The semi-strong form of EMH asserts that all 
+publicly available information  is already 
+reflected in stock prices, making it impossible 
+to achieve abnormal returns through 
+fundamental analysis. 
+Strong Form of EMH :
+ The strong form of EMH asserts that all 
+information, both public and private , is 
+already reflected in stock prices, making it 
+impossible to achieve abnormal returns through 
+any form of analysis or insider information. 
+Capital Asset Pricing 
+Model (CAPM) 
+:
+ The CAPM defines that the expected return of 
+an asset (or a security portfolio or stock) is 
+linearly and positively related to its systematic 
+risk (or undiversifiable risk). 
+Characteristic Line :
+ A characteristic line is a straight line formed 
+using regression analysis that summarizes a 
+particular security’s systematic risk and rate of 
+return. 
+25.11  SOME USEFUL BOOKS 
+Francis, J. C., & Kim, D. (2013). Modern Portfolio Theory. Wiley Press. 
+Horne, J. V., & Wachowicz, J. (2008). Fundamentals of Financial 
+Management (13th ed.). Prentices Hall. 
+Kishore, R. M. (2010). Strategic Financial Management (2nd ed.). Taxmann 
+Publications Pvt. Ltd. 
+
+
+--- Page 27 ---
+231 
+Efficient Markets 
+Hypothesis 
+Pandey, I. M. (2009). Financial Management  (9th ed.). Vikas Publishing 
+House Pvt. Ltd. 
+Luenberger, D. G. (1998). Investment Science. Oxford University Press. 
+References 
+Clark, J. B. (1899). The limits of competition. The Journal of Political 
+Economy, 7(6), 417-427. https://doi.org/10.1086/250907 
+Fama, E. F. (1965). Random walks in stock market prices. Financial Analysts 
+Journal, 21(5), 55-59. https://doi.org/10.2469/faj.v21.n5.55 
+Malkiel, B. G. (1973). A random walk down Wall Street. W. W. Norton & 
+Company. 
+Marshall, A. (1890). Principles of Economics. Macmillan. 
+Samuelson, P. A. (1965). Proof that properly anticipated prices fluctuate 
+randomly. Industrial Management Review, 6(2), 41-49. 
+https://doi.org/10.1086/449686 
+Liu, R., & Wang, X. (2018). The relationship between efficient market 
+hypothesis and capital asset pricing model. Open Journal of Business and 
+Management, 6(4), 1102-1108. https://doi.org/10.4236/ojbm.2018.64078 
+Lo, A. W. (2005). Reconciling efficient markets with behavioural finance: 
+The adaptive markets hypothesis. Journal of Investment Consulting, 7(2), 21-
+44. 
+Fama, E. F. (1970). Efficient capital markets: A review of theory and 
+empirical work. The Journal of Finance, 25(2), 383-417. 
+https://doi.org/10.2307/2325486 
+Sharpe, W. F. (1964). Capital asset prices: A theory of market equilibrium 
+under conditions of risk. The Journal of Finance, 19(3), 425-442. 
+https://doi.org/10.2307/2977928 
+F. Black, M. C. Jensen, and M. Scholes, “The Capital Asset Pricing Model: 
+Some Empirical Tests,” in M. C. Jensen (editor), Studies in the Theory of 
+Capital Markets, Praeger, New York, 1972. 
+Bhatia, V., Gupta, M., & Goyal, A. (2017). Testing weak-form efficiency of 
+Indian stock market: Evidence from the post-global financial crisis period. 
+Global Business Review, 18(4), 873-888. 
+https://doi.org/10.1177/0972150917697151 
+Kumar, K. S., & Kamaiah, B. (2017). Semi-strong form efficiency of Indian 
+stock market: A study of select companies. International Journal of 
+Economics, Commerce and Management, 5(5), 1-10. 
+https://doi.org/10.11648/j.jbed.s.2017030101.11 
+
+
+--- Page 28 ---
+232 
+Financial Stability Patro, D. K., Paudyal, K., & Kallapur, S. (2009). Return predictability 
+following insider trading disclosures: Evidence from India. Journal of 
+International Financial Markets, Institutions and Money, 19(5), 986-1003. 
+https://doi.org/10.1016/ j.intfin.2009.05.004  
+Gupta, R., & Sehgal, S. (2013). Has the Indian stock market been immune to 
+the global financial crisis? An empirical analysis. Research in International 
+Business and Finance, 28, 74-92. https://doi.org/10.1016/j.ribaf.2012.11.004 
+Bhattacharya, S., & Mukherjee, K. (2017). Testing the weak-form efficiency 
+of the Indian stock market using technical and fundamental analysis. Global 
+Business Review, 18(4), 889-902. https://doi.org/10.1177/ 
+0972150917697152 
+Malkiel, B. G. (2019). A Random Walk Down Wall Street: The Time-Tested 
+Strategy for Successful Investing. W. W. Norton & Company. 
+Bogle, J. C. (2014). The Little Book of Common-Sense Investing: The Only 
+Way to Guarantee Your Fair Share of Stock Market Returns. John Wiley & 
+Sons. 
+Fama, E. F. (1970). Efficient Capital Markets: A Review of Theory and 
+Empirical Work. The Journal of Finance, 25(2), 383-417. 
+https://doi.org/10.1111/j.1540-6261.1970.tb00518.x 
+Lo, A. W., & MacKinlay, A. C. (1999). A Non-Random Walk Down Wall 
+Street. Princeton University Press. 
+Easterbrook, F. H. (1984). Insider Trading and the Fiduciary Principle: A 
+Doctrinal Approach. The Yale Law Journal, 93(7), 1167-1201. 
+https://doi.org/10.2307/796531 
+Swedroe, L. E. (2010). The Quest for Alpha: The Holy Grail of Investing. 
+John Wiley & Sons. 
+Fama, E. F. (1970). Efficient capital markets: A review of theory and 
+empirical work. The Journal of Finance, 25(2), 383-417. 
+Shleifer, A. (2000). Inefficient markets: An introduction to behavioural 
+finance. Oxford University Press. 
+DeBondt, W. F., & Thaler, R. H. (1985). Does the stock market overreact? 
+The Journal of Finance, 40(3), 793-805. 
+Rozeff, M. S. (1984). Dividend yields are equity risk premiums. Journal of 
+Portfolio Management, 10(3), 68-75. 
+Shiller, R. J. (2000). Irrational exuberance. Princeton University Press. 
+Lo, A. W. (2005). Reconciling efficient markets with behavioural finance: 
+The adaptive markets hypothesis. The Journal of Investment Consulting, 
+7(2), 21-44. 
+
+
+--- Page 29 ---
+233 
+Efficient Markets 
+Hypothesis 25.12  ANSWERS / HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Suggests that financial markets are “efficient,” which means that asset
+prices fully reflect all available information at any given time. The
+hypothesis states that it is impossible to consistently achieve returns over
+average market returns because any new information that enters the
+market is immediately and fully reflected in the asset prices.
+2) Weak Form, Semi-Strong Form, Strong Form
+3) Rationality, Information is freely available, No asymmetricity of
+information, prices adjust quickly to new information, no individual
+investor can influence prices, no transaction costs.
+Check Your Progress 2 
+1) The CAPM assumes that markets are efficient. The CAPM states that the
+expected return of an asset (or a security portfolio or stock) is linearly
+and positively related to its systematic risk (the part of total risk which is
+beyond the control of the firm or the investor; it is determined by various
+economic, social and political factors).
+2) Refer to Section 25.5
+
+
+--- Page 30 ---
+234 
+Financial Stability inancial Stability and
+UNIT 26 FINANCIAL STABILITY AND 
+RELATED ISSUES 
+Structure 
+26.0 Objectives 
+26.1 Introduction  
+26.2 Concept of Financial Stability 
+26.3 Factors Affecting Financial Stability 
+26.4 Issues in Financial Stability 
+26.5 Challenges in Financial Stability 
+26.6  Risks and Financial Instability 
+26.7  Stability Measures for Ensuring Financial Stability 
+26.8  Financial Stability and Development Council 
+26.9  Financial Stability Report 
+26.10  Let Us Sum Up 
+26.11  Key Words 
+26.12  Some Useful Books 
+26.13  Answers / Hints to Check Your Progress Exercises 
+26.0  OBJECTIVES 
+After studying this unit, you will be able to: 
+ explain the concept of financial stability;
+ identify factors affecting financial stability;
+ discuss various issues in financial stability;
+ state various challenges in financial stability;
+ identify the major sources of financial instability; and
+ suggest policy measures to attain financial stability.
+26.1  INTRODUCTION 
+Financial stability is one of the important objectives of the Reserve Bank of 
+India (RBI) besides macroeconomic stability. The RBI takes the key 
+responsibility for promoting financial stability in the country and ensuring a 
+sound financial system. 
+After the global financial crisis of 2008, India witnessed a deceleration in 
+economic growth, a decline in exports, and volatility in the stock market. The 
+
+
+--- Page 31 ---
+235 
+Financial Stability and 
+Related Issues 
+banking system too faced certain challenges such as growing NPAs.  After 
+the global financial crisis, the RBI started focusing rigorously on the financial 
+stability of the Indian economy.    
+A sound financial system is the backbone of any country and so is the 
+financial stability. In today’s open economy, it is very important to have a 
+sound financial system that can minimize the domino effect of any crisis. RBI 
+has implemented several measures to promote financial stability during the 
+time of crisis like strengthening the regulatory framework, improving risk 
+management practices among financial institutions, and enhancing the 
+supervisory and monitoring framework etc. 
+Several institutions and mechanisms have also been established by the RBI to 
+promote financial stability. For instance, the Financial Stability and 
+Development Council (FSDC) was established in 2010 to promote 
+coordination and cooperation among the various financial regulators and 
+other stakeholders in India. 
+Reserve Bank of India keeps a regular check on the financial health of the 
+various financial components like banks, NBFCs, etc. to identify any kind of 
+stress or risk to take timely action to avoid any adversities in the financial 
+system and to attain the objective of financial stability and thereby economic 
+growth. 
+26.2  CONCEPT OF FINANCIAL STABILITY 
+Financial stability refers to a financial system that is resilient to any shock or 
+disruptions. The financial system consists of financial institutions like banks, 
+non-banking financial institutions, financial markets, and financial 
+instruments. Financial stability is achieved when the market volatility is low. 
+The financial stability in a country helps ensure the efficient functioning of 
+the entire financial system which would result in promoting economic growth 
+and reducing poverty. Financial stability in a country ensures: 
+a) sufficient availability of capital to financial institutions to ensure
+capital adequacy norms are met.
+b) sufficient risk management system to ensure protection against credit
+risk, liquidity risk, market risk etc.
+c) availability of well-developed infrastructure for trading and payment
+settlement.
+d) robust regulatory framework to ensure that all legal compliance is
+being observed and that laws and regulations are not overlooked.
+26.3 FACTORS AFFECTING FINANCIAL 
+STABILITY 
+Various factors have a bearing on the financial stability of the financial 
+system of India and these factors are: 
+
+
+--- Page 32 ---
+236 
+Financial Stability inancial Stability and
+Fig. 26.1: Factors Affecting Financial Stability 
+a) Macroeconomic factors: Factors like economic growth, interest rates,
+inflation, exchange rates, monetary and fiscal policy etc. have an impact
+on the financial stability of India. For instance, if inflation continues to
+grow and interest rates continue to increase, it may reduce the
+availability of credit to various sectors, result in high default rates, etc.
+and ultimately may lead to financial instability in a country.
+b) Default risk factor : The risk of default on loans and other credit
+instruments can have a significant bearing on financial stability. For
+instance, in case a large number of borrowers start defaulting on their
+loans, this may result in a liquidity crisis in the banks and will reduce
+the confidence of the savings holders, investors and others in the
+financial system of the country.
+c) Unexpected change in asset prices factor: The change in asset prices,
+like stock prices or real estate prices, have a bearing on the financial
+stability of the country. The rapid increase in asset prices may result in
+asset bubbles, which may burst at any time and can lead to financial
+instability in the country.
+d) Operational risk factor:  Operational risk refers to the risk due to
+operational inefficiency which decreases the operational profits,
+sometimes results in losses and threatens the financial capabilities of
+any component of the financial system to meet the operational expenses
+or routine expenses and finally can impact the financial stability.
+e) Liquidity risk factor : Liquidity risk refers to the inability to meet
+short-term obligations in time. For instance, suppose at any point in
+time if the number of withdrawals from a bank suddenly increases
+beyond expectations then the bank may face liquidity issues which in
+turn increases the liquidity risk and may result in financial instability.
+Factors Affecting Financial Stability 
+Operational Risk Factor 
+Liquidity Risk Factor 
+Lack of Robust legal 
+and Regulatory 
+Framework 
+Global Factors 
+Macroeconomic Factors 
+Default Risk Factor 
+Unexpected Change in 
+the Asset Price Factor 

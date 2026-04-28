@@ -1,0 +1,460 @@
+--- Page 12 ---
+216 
+Financial Stability Generally, a recession that is associated with a financial crisis lasts longer. It 
+leads to a greater decrease in output and employment; one, directly through 
+the collapse of the financial sector and second, through the consequential 
+economic downturn. Financial crises also have a greater implication for fiscal 
+outlays as governments have to focus on saving the financial institutions 
+along with improving the aggregate demand in the economy. 
+24.6 POLICY RESPONSES TO A CRISIS 
+Now, that we know the adverse impacts of a financial crisis or an economic 
+crisis the question arises what can be done? In this section, we will discuss in 
+detail the macroeconomic policies to tackle a crisis. A single policy 
+intervention, like monetary or fiscal, or both, is generally not sufficient for 
+stability in the economy. A combination of different kinds of policy measures 
+is required. The following policy measures can be used to fight a crisis. 
+Fiscal Policy: We know that in a crisis, financial or economic, 
+unemployment increases, and output and aggregate demand decrease. 
+Policymakers can use fiscal expansion, in the form of a tax cut or an increase 
+in government spending, to increase aggregate demand in the economy. A tax 
+cut would lead to an increase in disposable income in the economy, while, an 
+increase in government spending can come in the form of expenditure on 
+infrastructure, stimulus to industry, social infrastructure (health and 
+education), and social welfare schemes. The magnitude of fiscal intervention 
+that is required to counter the cyclical downturn depends upon the 
+seriousness of the crisis. The bigger the crisis, the larger should be the fiscal 
+expansion. 
+Monetary Policy: Like fiscal expansion, monetary policy can also be used to 
+increase aggregate demand in the economy which would help in improving 
+employment and output. A monetary expansion generally comes in the form 
+of a reduction in interest rates and an increase in the liquidity or money 
+supply in the economy. A decrease in interest rates would lead to a reduction 
+in the cost of borrowing, and an increase in liquidity would help in easing the 
+credit crunch in the economy. 
+Both monetary and fiscal policies have their limitations. A deep crisis may 
+require a drastic decrease in the rate of interest but it cannot go below zero. 
+Moreover, monetary policy is not useful in a condition of a liquidity trap. 
+Fiscal expansion may hurt the interest rates and prices in the economy. In 
+such situations, monetary and fiscal policy should be supplemented by 
+different regulations directly addressing the issues related to asymmetric 
+information, adverse selection, and moral hazard. 
+Strengthening of Regulatory Framework: Financial crisis is generally a 
+result of asset-price bubbles. Policymakers should strengthen the regulatory 
+and monitoring process of the financial sector. This requires continuous 
+
+
+--- Page 13 ---
+217 
+Macroeconomics, 
+Finance, and 
+Business Cycles 
+supervision and evaluation of financial institutions and financial instruments. 
+Financial innovations take place continuously in the market, in the form of 
+new products and expansion of the market, which creates new challenges not 
+only for the financial institutions and the markets but also the policymakers 
+and regulators. This creates a need for continuous improvement in the 
+regulatory framework. 
+Check Your Progress 2 
+1) Explain asset-price boom and bust with a suitable example.
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+2) What do you understand by fire sale?
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+3) How do financial and economic factors interact during a crisis?
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+4) What policy options can be used to fight a recession?
+.....................................................................................................................
+.....................................................................................................................
+.....................................................................................................................
+..................................................................................................................... 
+24.7 LET US SUM UP 
+The financial sector is very important for the overall growth of the economy. 
+The major function of this sector is to provide channels for the movement of 
+funds between borrowers and lenders. Speculative activities in the financial 
+sector have major implications for the business cycles. The recession of 
+2007-08 better known as the subprime mortgage crisis, provides a very good 
+example of this. Over the years many financial innovations have taken place 
+which has helped not only in building capital base but also in expansion of 
+
+
+--- Page 14 ---
+218 
+Financial Stability markets and wealth across the countries. However, the process or path of 
+economic growth is not smooth or stable. Economies of different countries 
+have experienced wide fluctuations in variables like employment, output, and 
+prices over the past three centuries. The presence of asymmetric information, 
+adverse selection better known as the subprime mortgage crisis, and moral 
+hazard can also contribute to the crises. As financial development helps in 
+economic growth a financial crisis worsens the economic problems. Booms 
+in asset prices, fuelled by credit growth and positive expectations, followed 
+by busts are generally the cause of the financial crisis. It is not necessary that 
+a financial crisis would lead to an economic crisis; an economic crisis may 
+also be a cause for the financial crisis. Finance is a key factor in capital 
+formation and business activities. The policy response can be in terms of 
+fiscal policy, monetary policy and regulatory reforms. 
+24.8 KEYWORDS 
+Business Cycle  : Refers to ups and downs in economic activities 
+namely, output, unemployment, and income 
+among other things. 
+Real Economy  :  The real economy produces goods and services 
+with the help of the factors of production, land, 
+labour, and capital. It provides us with 
+consumption goods like food, furniture, clothes, 
+and capital goods like plant, machinery, 
+transportation etc. 
+Asymmetric Information: When in a transaction, one party does not have 
+the same information as the other party it is 
+known as asymmetric information. 
+Adverse Selection  :  When the lenders/investors, pursued by the 
+borrower, invest in the project without knowing 
+the risk. 
+Moral Hazard  :  This takes place after the financial transaction 
+has occurred. A borrower may divert the 
+borrowed funds to some risky project or activity. 
+Credit Boom  :  With the easy availability of credit, investors 
+may increase their investment in an asset they 
+expect to give very good returns in the future. 
+Monetary Policy  :  Increase or decrease in money supply by the 
+central bank to target macroeconomic variables 
+like unemployment, output, inflation etc. 
+Fiscal Policy  :  Used for increase in output through 
+Government purchases and taxes. 
+
+
+--- Page 15 ---
+219 
+Macroeconomics, 
+Finance, and 
+Business Cycles 
+24.9 SOME USEFUL REFERENCES 
+Burton, Maureen., Nesiba, Reynold F., Brown, Bruce. An Introduction to 
+Financial Markets and Institutions. United Kingdom: Taylor & Francis, 2015. 
+Howells, Peter., Bain, Keith. Financial Markets and Institutions . Germany: 
+Pearson Education, 2007. 
+Mankiw, N. Gregory. Macroeconomics. United States: Worth Publishers, 
+2016. 
+Mishkin, F.S., and S.G. Eakins. Financial Markets and Institutions . Pearson 
+Education Series in Finance. Prentice Hall, 2012.  
+Mishkin, F.S. Macroeconomics: Policy and Practice . Macroeconomics: 
+Policy and Practice. Pearson Education, 2012. 
+Further Readings: 
+Cecchetti, Stephen, Marion Kohler, and Christian Upper. “Financial Crises 
+and Economic Activity.” Cambridge, MA: National Bureau of Economic 
+Research, September 2009. https://doi.org/10.3386/w15379. 
+Claessens, Stijn, and M Ayhan Kose. “Financial Crises: Explanations, Types, 
+and Implications,” IMF Working Paper No. 2013/028 
+24.10  ANSWERS / HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Economic expansion, economic activities are at their peak, and output
+starts to slow down and then downfall.
+2) Refer to Sub-section 24.3.2
+3) credit or default risk, liquidity risk, interest rate and price risk, and
+exchange rate risk.
+Check Your Progress 2 
+1) At times, the prices of financial assets like stocks or real estate properties
+increase by a large amount over their fundamental values . This is
+known as the asset-price bubble.
+2) The selling of assets by the banks may lead to a rapid decline in asset
+prices. This is also known as a fire sale.
+3) Refer to Section 24.5
+4) Fiscal Policy, Monetary Policy, Strengthening of Regulatory Framework
+
+
+--- Page 16 ---
+220 
+Financial Stability UNIT 25 EFFICIENT MARKET 
+HYPOTHESIS 
+Structure 
+25.0  Objectives 
+25.1  Introduction 
+25.2  History of Efficient Market Hypothesis (EMH)  
+25.3  Efficient Market Hypothesis  
+25.4  Assumptions of EMH  
+25.5  EMH and Capital Asset Pricing Model (CAPM)   
+25.6  Assessment of Efficient Markets Hypothesis 
+25.7  Applications of the EMH  
+25.8  Applicability of the EMH in India  
+25.9  Let Us Sum Up  
+25.10  Key Words  
+25.11  Some Useful Books  
+25.12  Answers/ Hints to Check Your Progress Exercises 
+25.0  OBJECTIVES 
+After going through this Unit, you will be able to: 
+ explain the meaning of the Efficient Markets Hypothesis;
+ describe the relationship of the Efficient Markets Hypothesis and Capital
+Asset Pricing Model (CAPM);
+ critically examine the Efficient Markets Hypothesis;
+ appreciate empirical techniques to test the Efficient Markets Hypothesis;
+ apply the Efficient Markets Hypothesis to real-life data; and
+ apply the Efficient Markets Hypothesis to data on Indian financial
+markets.
+25.1 INTRODUCTION 
+A key idea in contemporary finance, the Efficient Markets Hypothesis 
+(EMH) has revolutionised the way we think about the behaviour of financial 
+markets. According to the hypothesis, financial markets are incredibly 
+effective, and the prices of securities exchanged there always represent all 
+
+
+--- Page 17 ---
+221 
+Efficient Markets 
+Hypothesis 
+available information. To put it another way, market prices react quickly and 
+precisely to any new information that enters the market, making it nearly hard 
+for investors to continuously generate above-average profits by trading on 
+public information.  
+The concept of EMH has been around for more than 50 years now. The 
+hypothesis has been widely debated by scholars and practitioners due to its 
+assumptions. Some scholars argue that EMH is flawed, while others maintain 
+that it provides a realistic and accurate representation of the functioning of 
+financial markets. Nevertheless, EMH has played a crucial role in shaping 
+modern financial theory, and it remains a key subject of study for students 
+and professionals in the field of finance. 
+The present unit aims to provide a comprehensive introduction to the 
+Efficient Markets Hypothesis and its applications in the field of finance. We 
+explore the origins and evolution of the theory, examine its key assumptions 
+and implications, and review the empirical evidence supporting and 
+challenging its validity. We also discuss various forms of market efficiency, 
+such as weak, semi-strong, and strong efficiency, and how they relate to 
+different types of information available to investors. Finally, we discuss the 
+practical implications of EMH for investment decision-making, asset pricing, 
+and portfolio management. 
+Whether you are a finance professional, a student, or simply interested in 
+understanding how financial markets work, this unit will provide you with a 
+solid foundation in the Efficient Markets Hypothesis and its importance in the 
+world of finance. 
+25.2 HISTORY OF EFFICIENT MARKETS 
+HYPOTHESIS 
+The Efficient Markets Hypothesis (EMH) is a theory in finance that states 
+that financial markets are “informationally efficient,” meaning that asset 
+prices reflect all available information at any given time. The basic idea 
+behind the EMH is that in an efficient market, investors cannot consistently 
+earn abnormal returns (i.e., returns that are higher than what would be 
+expected given the level of risk they are taking on) by using any available 
+information, because that information is already reflected in the market price. 
+The history of the efficient markets hypothesis dates back to the early 20 th 
+century when economists such as John Bates Clark and Alfred Marshall 
+developed theories about the relationship between prices and information. 
+However, the modern version of the EMH began to take shape in the 1950s 
+and 1960s, when economists such as Eugene Fama, Paul Samuelson, and 
+Burton Malkiel began to develop and refine the theory. 
+Eugene Fama is often credited with creating the modern version of the EMH 
+in his 1965 paper “Random Walks in Stock Market Prices,” which argued 
+
+
+--- Page 18 ---
+222 
+Financial Stability that stock prices follow a random walk and that it is impossible to 
+consistently predict future stock prices based on past prices or any other 
+available information. This paper, along with others by Fama and other 
+economists, helped establish the EMH as a cornerstone of modern finance 
+theory. 
+Since its inception, the EMH has been the subject of much debate and 
+controversy. Some economists and investors argue that the EMH is an 
+accurate representation of how financial markets work, while others believe 
+that markets are not completely efficient and that it is possible to consistently 
+earn abnormal returns through various investment strategies. Nonetheless, the 
+EMH remains an important concept in finance and continues to influence the 
+way that investors think about the relationship between information and asset 
+prices. 
+25.3  EFFICIENT MARKETS HYPOTHESIS (EMH) 
+The Efficient Markets Hypothesis (EMH) is a theory in finance that suggests 
+that financial markets are “efficient,” which means that asset prices fully 
+reflect all available information at any given time. The hypothesis states that 
+it is impossible to consistently achieve returns over average market returns 
+because any new information that enters the market is immediately and fully 
+reflected in the asset prices. In other words, the EMH suggests that it is 
+impossible to consistently beat the market by using information that is 
+already publicly available since the market has already used that information 
+to arrive at the prevailing price. The theory argues that market players cannot 
+earn higher returns than the market as a whole, except by taking on more risk. 
+Eugene Fama (1970) has given three forms of the EMH which are as follows:  
+1) Weak Form: The weak form of EMH asserts that all historical price and
+volume data is already incorporated into current stock prices, making it
+impossible to profit from analyzing past trends or patterns. This means
+that technical analysis, which involves using charts and past market data
+to predict future prices, cannot generate consistent profits.
+2) Semi-Strong Form: The semi-strong form of EMH asserts that all
+publicly available information is already reflected in stock prices,
+making it impossible to achieve abnormal returns through fundamental
+analysis. This means that researching and analyzing company financial
+statements, news articles, and economic data cannot lead to consistent
+profits.
+3) Strong Form: The strong form of EMH asserts that all information, both
+public and private, is already reflected in stock prices, making it
+impossible to achieve abnormal returns through any form of analysis or
+insider information.
+
+
+--- Page 19 ---
+223 
+Efficient Markets 
+Hypothesis 
+The following diagram summarises the Efficient Markets Hypothesis. 
+Fig. 25.1: Different Forms of Efficient Markets Hypothesis 
+While the efficient markets hypothesis is widely debated, it has influenced 
+much of modern financial theory and has important implications for 
+investors, financial analysts, and policymakers. 
+25.4 ASSUMPTIONS OF EMH 
+The Efficient Markets Hypothesis is based on the following assumptions: 
+1) Rationality: Investors are rational in the sense that they maximise their
+interests. They do their best.
+2) Information is freely available:  Every investor has easy accessibility to
+all market-related information without any restrictions. In other words,
+the information is available at zero cost.
+3) No asymmetricity of information: It means every investor has the same
+amount of information i.e., whatever information investor A has, then the
+same information is available to B also.
+4) Prices adjust quickly to new information: The response time of the
+market to new information is much less. In other words, as new
+information is made available, then its effect can be seen in stock prices
+and indices very quickly.
+EMH 
+Weak Form Semi-strong Strong Form 
+a) All past information
+has been used to get
+current prices.
+b) Technical analysis
+cannot generate
+exceptional profits.
+c) Future prices cannot
+be determined on past
+data.
+a) Publicly
+available
+information is
+already reflected
+in stock prices.
+b) Fundamental
+analysis, news
+research, etc.
+cannot generate
+exceptional
+profits.
+All information 
+(including inside 
+information) is already 
+reflected in stock prices. 
+
+
+--- Page 20 ---
+224 
+Financial Stability 5) No individual investor can influence prices:  No investor, or group of
+investors, has the force to control prices and steer the market in a specific
+direction.
+6) No transaction costs:  Investors are not prevented from acting on their
+information by transaction costs or other trading obstacles.
+Check Your Progress 1 
+1) What is the basic idea underlying the Efficient Markets Hypothesis?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) What are the various forms of the EMH? What do they imply?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) State the assumptions of the Efficient Markets Hypothesis.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+25.5 EMH AND CAPITAL ASSET PRICING 
+MODEL (CAPM) 
+The Efficient Markets Hypothesis (EMH) and the Capital Asset Pricing 
+Model (CAPM) are two important concepts in finance that are closely related 
+to each other. 
+The Efficient Markets Hypothesis states that (i) financial markets are 
+efficient, and (ii) all available information is reflected in asset prices. 
+According to the EMH, it is impossible to consistently beat the market 
+because all available information is already reflected in the asset prices. In 
+other words, the market is already in equilibrium and all the stocks are valued 
+at their intrinsic values. Therefore, a stock cannot perform better than the 
+market.  
+The Capital Asset Pricing Model (CAPM) as we have already discussed in 
+Unit 20 is an asset pricing model which was suggested by economists 
+William F. Sharpe (1964) and Linter (1965). The CAPM states that the 
+expected return of an asset (or a security portfolio or stock) is linearly and 
+positively related to its systematic risk (the part of total risk which is beyond 
+the control of the firm or the investor; it is determined by various economic, 
+social and political factors). The CAPM predicts that the systematic risk of an 
+
+
+--- Page 21 ---
+225 
+Efficient Markets 
+Hypothesis 
+asset has the power to explain the expected return of an asset in a linear 
+fashion. Sharpe and Linter established the following equation of the CAPM:  
+𝐸(𝑅௜) = 𝑅௙ + ൣ𝐸(𝑅௠ ) − 𝑅௙ ൧𝛽௜ … (25.1)
+where 𝐸(𝑅௜) is the expected return of an asset i, 𝑅௙  represents the rate of 
+return of a risk-free asset (such as T-bills or Government securities), 𝐸(𝑅௠ ) 
+is the expected return of a market portfolio (typically proxied by an index of 
+a stock exchange such as SENSEX or NIFTY), and 𝛽௜ is a measure of the 
+systematic risk. Apart, the expression 𝐸(𝑅௠ ) − 𝑅௙  is called market risk-
+premium.  
+The CAPM is based on the following main assumptions: 
+a) investors are rational,
+b) they diversify their portfolios among various financial assets or
+instruments, and
+c) the market is efficient.
+The point to be noted here is the assumption that “the market is efficient”. 
+Thus, the CAPM states that the EMH holds good.   
+Specifically, the CAPM assumes that markets are efficient, which means that 
+all relevant information is already incorporated into asset prices. In other 
+words, the CAPM assumes that investors cannot earn higher returns by using 
+publicly available information, which is a core principle of the EMH. 
+The CAPM is also used to test the efficiency of markets. If the CAPM holds, 
+it would suggest that markets are efficient, because it implies that investors 
+cannot earn higher returns by using publicly available information. However, 
+if the CAPM is not able to explain returns on assets, it may suggest that 
+markets are not efficient. 
+An Econometric Technique to Test the EMH Using the CAPM 
+Black, Jensen, and Scholes (1972) suggested a test statistic to test the CAPM. 
+They used the following equation for each security i:  
+𝑅௜௧ − 𝑅௙௧ = 𝛼௜ + 𝛽௜(𝑅௠௧ − 𝑅௙௧ ) + 𝑢௜௧ … (25.2)
+The left-hand side of equation (25.2), that is, (𝑅௜௧ − 𝑅௙௧ ) is called ‘the excess 
+return of security i over the risk-free return’. The expression (𝑅௠௧ − 𝑅௙௧ ) on 
+the right-hand side is called ‘market risk premium’ or the excess return of the 
+market portfolio over the risk-free return. Thus, the above equation can be re-
+written as follows:  
+𝐸𝑅௜௧ = 𝛼௜ + 𝛽௜𝐸𝑅௠௧ + 𝑢௜௧ … (25.3)
+
+
+--- Page 22 ---
+226 
+Financial Stability In equation (25.3) the term 𝐸𝑅௜௧ indicates excess returns of the i th security 
+and the term 𝐸𝑅௠௧  indicates the average expected return in the market. The 
+coefficient 𝛽 indicates the systematic risk. 
+Black, Jensen, and Scholes (1972) suggest that if the CAPM is working, then 
+𝛼௜ should not be statistically different from zero for all n securities. Thus, 
+their null hypothesis is 𝛼௜ = 0. If the null hypothesis is rejected, that is, if 
+𝛼௜ ≠ 0, then the market is not efficient in the light of the efficient markets 
+hypothesis. If we plot equation (25.3) on graph paper, we obtain the 
+characteristic line. If the EMH holds good, then the characteristic line should 
+pass through the origin as shown in Fig. 25.2.  
+Fig. 25.2: Capital Asset Pricing Model 
+The overall conclusion that we draw is that the CAPM and the EMH are two 
+closely related concepts in finance. The CAPM is built on the assumptions of 
+the EMH, and the CAPM can be used to test the efficiency of markets. 
+Check Your Progress 2 
+1) What are the major inferences of the Capital Asset Pricing Model? How
+is it related to the Efficient Markets Hypothesis?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Explain how the EMH can be tested by using the CAPM.
+……………………………………………………………………………
+……………………………………………………………………………
+𝐸𝑅௠௧  
+𝐸𝑅௜௧ Characteristic 
+Line 

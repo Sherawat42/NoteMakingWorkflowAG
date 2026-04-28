@@ -1,0 +1,441 @@
+--- Page 11 ---
+10 
+Financial Institutions UNIT 14  COMMERCIAL BANKING 
+Structure 
+14.0  Objectives 
+14.1  Introduction 
+14.2   Meaning and Role of Commercial Banks in Economic Development 
+14.2.1  What is a Commercial Bank? 
+14.2.2  Importance and Role of Commercial Banks in Economic Development 
+14.3   Functions of Commercial Banks 
+ 14.3.1  Banking Functions 
+ 14.3.2  Non-banking Functions 
+14.4  Structure of Commercial Banks 
+14.4.1  Retail Banking versus Corporate Banking 
+14.4.2  Universal Banking 
+ 14.4.3  Differentiated Banking 
+14.5 Creation of Credit/Deposits 
+14.5.1  Limits to Credit Creation 
+14.6 Principles Governing Distribution of Assets of Commercial Banks 
+14.6.1  Liquidity versus Profitability of Assets 
+14.7 Recent Trends and Performance of the Banking Industry in India 
+14.8 Let Us Sum Up 
+14.9     Key Words 
+14.10   Some Useful Books 
+14.11   Answers/Hints to Check your Progress Exercises 
+14.12   Terminal Questions 
+14.0 OBJECTIVES  
+After going through this unit, you will be able to: 
+ define a Commercial Bank and describe its functions;
+ illustrate the process of creation of credit by Commercial Banks;
+ indicate limits to credit creation;
+ highlight the role of the banking system in economic development; and
+ Identify the trend and analyze the factors driving growth in the banking
+industry in India,
+
+
+--- Page 12 ---
+11 
+Commercial Banking 14.1 INTRODUCTION  
+As discussed in Unit 2, Financial intermediaries (FIs) refer to those 
+institutions that serve the money and capital markets. They act as middlemen 
+between lenders and borrowers, creating and issuing financial obligations of 
+claims against themselves to acquire profitable financial claims against 
+others. A chief function of an intermediary is to provide liquidity.  FIs can be 
+broadly classified into (1) commercial banks, and (2) non-banking financial 
+institutions (NBFIs). Commercial Banks are the dominant financial 
+intermediaries. Bank deposits form the dominant portion of the financial 
+savings of the household sector, and bank credit is the most important source 
+of external finance. Commercial Banks can be distinguished from other 
+financial intermediaries in terms of the special power to issue liabilities that 
+are accepted as a means of payment. Commercial banks play an important 
+role in the economic development of any country. In this unit, you will learn 
+about the Commercial banks, the functions of commercial banks, the method 
+of credit creation by commercial banks, and the role of Commercial banks in 
+the economic development of a country. This unit will also discuss some 
+recent trends in banking sector in India. 
+14.2 MEANING AND ROLE OF COMMERCIAL 
+BANKS IN ECONOMIC DEVELOPMENT 
+14.2.1  What is a Commercial Bank? 
+The term ‘ Bank' has been defined differently by different economists. A 
+Commercial bank is a profit-seeking institution which pays interest at a low 
+rate to the depositors and charges a higher rate of interest from the borrowers 
+and in this way, the bank earns a profit. Commercial Banks are dealers in 
+debt, and this more aptly describes their activities. A deposit is a debt which 
+the commercial bank owes to the depositor; a banknote is a sort of 
+promissory note — an acknowledgement of the issuing bank’s debt to 
+whomsoever may be the bearer of it; using loans and overdrafts’ a bank 
+creates debts to itself. All Commercial banks deal in money and credit 
+instruments. In the words of Paul Samuelson , “The primary economic 
+function of commercial banks is to hold demand deposits and honour cheques 
+drawn on them — in short, to provide us, the economy with the most 
+important component of our money supply. It is to be noted that banking is a 
+business like any other business. A Commercial bank is a relatively simpler 
+business concern. It provides certain services for customers (depositors and 
+borrowers) and in return receives payment from them in one form or another. 
+It tries to earn a profit”. Acceptance of chequeable deposits from the public is 
+only a necessary, but not a sufficient , function of a bank.  It must also lend to 
+others.  
+It is difficult to define the term ‘ bank’ as the concept itself is rapidly 
+changing given changes in social-economic conditions, government policies, 
+priorities etc. For example: We see the new trends of digital banks, neo 
+
+
+--- Page 13 ---
+12 
+Financial Institutions banks, post payments banks, small finance banks etc. emerging in the 
+country. We will discuss about them briefly in Section 14.7. Thus, one can 
+say that a bank is a financial institution that deals in debts and credits. It 
+accepts deposits, lends money and creates money. It bridges the gap between 
+the savers and borrowers. As R S Sayers  has emphasised, “banks are not 
+merely purveyors of money but also in an important sense manufacturer of 
+money”. From the above, it can be deduced that the bank is a financial 
+institution. 
+14.2.2  Importance and Role of Commercial Banks in 
+Economic Development 
+Commercial Banks have always played an important role in the country’s 
+economy. They play a decisive role in the development of the industry and 
+trade. They act not only as the custodians of the wealth of the country but 
+also as a resource of the country, which is necessary for the economic 
+development of a nation. Their presence is helpful to the economic activity 
+and industrial progress of a country. Commercial Banks satisfy the financial 
+needs of the sectors of the economy as well as all sections of the society. That 
+means they play a very significant role in economic and social needs. The 
+relationship between financial development and economic growth is a 
+complex phenomenon. Finance contributes to economic growth in the sense 
+that it increases the volume of investment and improves resource allocation . 
+Whatever may have been its origin, a bank deposit serves as money, and 
+therefore, besides representing so much purchasing power, it acquires 
+importance because of its dynamic function of influencing the level of 
+economic activity. Consequently, the creation of deposits by banks is a matter 
+of vital concern to modern governments, in their efforts to achieve their 
+economic objectives. 
+A well-developed banking system is an essential pre-condition to the 
+effective implementation of monetary policy. Thus, a fine, efficient and 
+comprehensive banking system is a crucial factor in the developmental 
+process. Commercial Banks not only relieve the public of anxiety and risk of 
+safeguarding their surplus income but also provide facilities for savings and 
+investment. They are useful in promoting banking habits among the people, 
+discouraging unprofitable locking up of the community’s wealth and 
+reducing idle capital of the community. Commercial Banks in turn supply 
+idle funds of the community to businessmen, industrialists and entrepreneurs 
+who require funds for running and developing their businesses and industry. 
+Commercial banks play an important role in the promotion of financial 
+inclusion which is a pre-requisite of inclusive growth. In short, Commercial 
+banks play an important and dynamic role in the economic life of every 
+modern state. The economic importance of commercial banks may be viewed 
+as follows: 
+a) Promoting capital formation;
+b) Encouraging innovation;
+
+
+--- Page 14 ---
+13 
+Commercial Banking c) Influencing economic activity;
+d) Promoter of financial inclusion; and
+e) Facilitator of monetary policy.
+The boundary which demarcates the operations of commercial banks and the 
+Financial intermediaries (Fis) is eliminated, they are allowed to move 
+towards universal banking and they are helped to cope with the recent 
+changes.  
+In the field of  international business,  commercial banks offer services such 
+as trade finance, project finance, payroll, foreign exchange transactions and 
+trading, lock boxes for collecting payments and general corporate finance. 
+Without commercial banks, the international finance and import-export 
+industry would not have grown to the level it has today. The global nature of 
+commercial banking also makes it possible to distribute valuable economic 
+and business information among customers and the capital markets of all 
+countries. Commercial banking also serves as a worldwide barometer of 
+economic health and business trends. 
+14.3  FUNCTIONS OF COMERCIAL BANKS 
+Commercial banks being financial institutions perform diverse types of 
+functions. These functions may be broadly divided into banking functions 
+and non-banking functions.  
+14.3.1  Banking Functions 
+A) Exchanging money claims : Exchange of money claims includes
+acceptance of deposits, giving loans and advances, discounting bills of
+exchange, and transferring money from one place to another.
+1) Accepting Deposits: Deposits differ from one another in respect of
+facilities for withdrawal and rate of interest. People make their
+choices from various kinds of deposits based on the requirements
+of their families and businesses. These deposits may be in the form
+of: (i) saving bank deposits, (ii) current deposits, (iii)
+recurring/cumulative deposits, and (iv) fixed deposits.
+2) Loans and Advances : The most important banking function,
+therefore, is the creation of credit. It is this function which
+distinguishes banks from other financial institutions. Commercial
+banks use the deposits of their customers as a source of lending
+assets. Advances may be made to clients through the loan system
+or overdraft system. The former is simpler. An amount is placed to
+the credit of the borrower who can withdraw the whole or a part of
+it as and when he likes. But for the period that the loan is not
+repaid, he pays interest on the whole sum, whether he makes use of
+it or not. An overdraft facility, on the other hand, means allowing a
+
+
+--- Page 15 ---
+14 
+Financial Institutions client to draw cheques over the amount standing to his credit. 
+Interest payable to the bank is only on the amount utilized. 
+3) Discounting Bills of Exchange : Discounting a bill of exchange is,
+technically speaking, purchasing a future claim of money. In
+essence, however, it means advancing a loan against a promise of
+repayment in future. An essential difference between advancing a
+loan and discounting a bill of exchange is that in the case of the
+latter, the bank is certain that money is used for genuine trade
+purposes.
+4) Transfer of Money : Money may be transferred from one place to
+another by a bank draft or advice of a cheque. Now a days large
+sums of money are being transferred through NEFT (National
+Electronic Fund Transfer)/RTGS (Real Time Gross Settlement).
+All the above banking functions can be summed up in a single function, viz. 
+that banks exchange money claims . The most important banking function is 
+the creation of credit. It is this function which distinguishes banks from other 
+financial institutions. The basic economic function of bank intermediation 
+can be summarized as follows: 
+1) Liability-Asset transformation  i.e., accepting deposits as a liability and
+converting them into assets such as loans;
+2) Size transformation i.e., providing large loans based on numerous small
+deposits;
+3) Maturity transformation  i.e., offering savers alternate forms of deposits
+according to their liquidity preferences while providing borrowers with
+loans of desired maturities; and
+4) Risk transformation  i.e., distributing risk through diversification would
+prevail while lending directly in the absence of financial transformation.
+5) The functions performed by banks are changing with the changing
+scenario and recently they are widening their functions and becoming
+customer-centric.
+14.3.2  Non-banking Functions 
+These are the services which banks render to their clients not as banks, but as 
+profit-seeking firms. These functions, therefore, do not fall within the 
+purview of banking proper. Thus, banks may undertake:  
+i) Collection of cheques, drafts, bills, hundis, and other instruments
+(inland and foreign) for their depositors;
+ii) Issue of performance and financial guarantees;
+iii) Provision of remittance facilities by issue of drafts, mail transfers etc.
+
+
+--- Page 16 ---
+15 
+Commercial Banking iv) Provision of facilities of safe custody of deeds and securities and safe
+deposit vaults;
+v) Purchase and sale of securities for their constituents;
+vi) Provision of special investment services as underwriters and bankers for
+new issues of securities to the public. In selected cases, banks also
+arrange for the private placement of securities;
+vii) Acting as executors and trustees;
+viii) Rendering of agency services of various kinds such as sale of foreign
+exchange, acceptance of income-tax payment, etc.;
+ix) Miscellaneous services such as the issue of traveler’s cheques, gift
+cheques, provision of tax assistance and investment advice, references,
+business and statistical information etc. They also provide a wide
+variety of loans and offer other credit vehicles like cards and overdrafts.
+However, the common theme among these activities is that they are
+aimed at providing a financial service to an individual or business.
+In short, they may undertake to be ‘watchmen ’ of valuables, executants of 
+wills and administrators of family trusts. Banks are said to be department 
+stores of financial services as they render a wide variety of such services to 
+their customers. The range of these services differs from bank to bank, 
+depending mainly on the size and type of banks. Most of us interact with 
+commercial banks every day, whether it is a debit card purchase, an online 
+payment or a loan application. Beyond providing these basic services, 
+commercial banks are in the business of capital allocation for profit – also 
+known as investing. Today, commercial banks can invest in securities and 
+even in issues that they help make public. A commercial bank needs to 
+provide good service to its customers and good returns to its investors to 
+continue to be successful. 
+Check Your Progress 1 
+1) What is a Commercial Bank?  How are banks characterised as dealers in
+debt?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) “Financial intermediaries (FIs) serve the money and capital markets”.
+Explain.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+
+
+--- Page 17 ---
+16 
+Financial Institutions 3) List any five important functions of a Commercial Bank.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+14.4   STRUCTURE OF COMMERCIAL BANKS 
+The structure of commercial banking varies from country to country. 
+Banking structure is influenced by several factors such as traditions, 
+economic conditions, political situation, public attitude, government factors 
+and topographical conditions. Different banking systems came into existence 
+with the development of banking in the world. Important among them are 
+branch banking, unit banking, group banking and chain banking.   
+Commercial banks may be either of the branch-banking type, such as the 
+commercial banks in India, under which case each bank has several branches 
+spread all over the country, or the unit-banking type, which originated in the 
+U.S.A., where each bank’s operations are confined to a single office. Group 
+banking consists of the ownership and operation of two or more banks 
+directly or indirectly by a corporation. The group is organised around a key 
+bank which in turn is controlled by a holding company.  This banking system 
+enjoys the advantages of both branch banking and unit banking.  However, it 
+suffers from certain handicaps like direct control over the constituents, 
+difficulty of supervision and control and influence of failure of one member 
+on the other.  Chain banking is another form of group banking.  It is similar 
+to group banking.  Chain banking refers to a system where two or more banks 
+are controlled by a single person or group of persons through stock 
+ownership or otherwise.  Thus, there is a less formal arrangement than group 
+banking.  This system was developed in the USA to overcome the drawbacks 
+of the unit’s banking system. This banking system also enjoys the advantages 
+of both a branch system and a unit banking system.   
+14.4.1  Retail Banking versus Corporate Banking 
+Retail banking refers to the division of a bank that deals directly with retail 
+customers. Also known as consumer banking or personal banking, retail 
+banking is the visible face of banking to the general public, with bank 
+branches located in abundance in most major cities. Banks that focus purely 
+on retail clientele are relatively few, and most retail banking is conducted by 
+separate divisions of banks, large and small. Customer deposits garnered by 
+retail banking represent an extremely important source of funding for most 
+banks. Corporate banking, also known as business banking , refers to the 
+aspect of banking that deals with corporate customers. The term was 
+originally used in the United States to distinguish it from investment banking 
+after the Glass-Steagall Act of 1933 separated the two activities. While 
+that law was repealed in the 1990s, corporate banking and investment 
+banking services have been offered for many years under the same umbrella 
+
+
+--- Page 18 ---
+17 
+Commercial Banking by most banks in the United States and elsewhere. Corporate banking is a key 
+center of profit for most banks; however, as the biggest originator of 
+customer loans, it is also the source of regular write-downs for loans that 
+have soured.  
+14.4.2  Universal Banking 
+Universal banking is a system in which banks provide a wide variety of 
+financial services, including commercial and investment services. Universal 
+banks may offer credit, loans, deposits, asset management, investment 
+advisory, payment processing, securities transactions, underwriting and 
+financial analysis. While a universal banking system allows banks to offer a 
+multitude of services, it does not require them to do so. Banks in a universal 
+banking system may still choose to specialize in a subset of banking services. 
+Universal banking combines the services of a commercial bank and an 
+investment bank, providing all services from within one entity. The services 
+can include deposit accounts, and a variety of investment services and may 
+provide insurance services. Under this system, banks can choose to 
+participate in any or all of the permitted activities. They are expected to 
+comply with all guidelines that govern or direct proper management of assets 
+and transactions. Since not all institutions participate in the same activities, 
+the regulations in play may vary from one institution to another. It is 
+important not to confuse the term ‘universal bank ’ with any financial 
+institutions with similar names. 
+Proponents of universal banking argue that it helps banks diversify risk in a 
+better manner. They facilitate the possibility of lowered costs because of the 
+economies of scale. Costs would drop because of the larger volume of 
+investment for a given level of overhead on investment. The underlying logic 
+for this is that the cost of offering various activities by different units is 
+greater than when they are offered together. The economies of scale and 
+scope are expected to help the entity deal better with business cycles. A shift 
+in the business cycle is expected to alter the demand for products. Multi-
+product firms are, therefore, inherently better placed to handle changes in 
+the type of product demanded.  The move towards universal banking is not 
+without concern on the regulatory front.   The advent of universal banks 
+simultaneously increases the risk to the system in case of a failure.   Another 
+argument often advanced to oppose the move to consolidate is that the size of 
+the universal banks provides them with an opportunity to have monopoly, by 
+resorting to predatory pricing competition from small players which offer 
+specialised services.  
+14.4.3 Differentiated Banking 
+Differentiated banks are distinct from universal banks as they function in a 
+niche segment. The differentiation could be on account of capital 
+requirement, scope of activities or area of operations. As such, they offer a 
+limited range of services / products or function under a different regulatory 
+
+
+--- Page 19 ---
+18 
+Financial Institutions dispensation. The concept is not entirely new. In fact, and in a sense, the 
+Urban Cooperative Banks (UCBs), the Primary Agricultural Credit Societies 
+(PACS), the Regional Rural Banks (RRBs), Local Area Banks (LABs), Small 
+Finance Banks (SFBs), and Payments Banks could be considered as 
+differentiated banks as they operate in localized areas and provide banking 
+services to underserved segments of the economy/society. 
+Reserve Bank of India set up of a committee headed by Shri Nachiket Mor, 
+on Comprehensive Financial Services for Small Businesses and Low-Income 
+Households to look into the issues relating to financial inclusion. The 
+committee came up with two broad designs for the banking system in the 
+country - the Horizontally Differentiated Banking System (HDBS) and the 
+Vertically Differentiated Banking System (VDBS) based on the functional 
+building blocks of payments, deposits and credit. 
+In a HDBS design, the basic design element remains a full-service bank that 
+combines all three building blocks of payments, deposits, and credit but is 
+differentiated primarily on the dimension of size or geography or sectoral 
+focus. In a VDBS design, the full-service bank is replaced by banks that 
+specialise in one or more of the building blocks of payments, deposits, and 
+credit. Among others, the Committee suggested licensing of Payments Bank 
+and wholesale banks as differentiated banks. 
+Check Your Progress 2 
+1) “Banks promote savings and help to convert hoardings into investment”.
+Amplify.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Write a note on the structure of commercial banks.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+3) What is Commercial Universal banking? Why are they popular these
+days?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+4) What is differentiated banking?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+
+
+--- Page 20 ---
+19 
+Commercial Banking 14.5  CREATION OF CREDIT/DEPOSITS 
+Credit creation is the most significant function of commercial banks. The 
+essential feature of commercial banking is the lending of more cash than the 
+amount held by the bank. Loans to customers form a bank’s most profitable 
+activity, but the urge to expand this side of its business to increase its profits 
+is tempered by its obligation to pay cash on demand. However, most 
+borrowers do not require actual cash, although a proportion of loans will be 
+wanted in the form of cash, for example, for the payment of wages. 
+Expanding loans will, therefore, to some extent increase the demand for cash. 
+This is a fact that a banker must always bear in mind when it is considering 
+whether to increase his lending.  
+Banks create money by creating deposits. There are two kinds of deposits: 
+actual deposits and created deposits.  When a man puts a certain sum of 
+money into his account, we call it an actual/primary deposit. When a bank 
+gives a loan to a person an account is opened in his name and he is credited 
+with the amount of the loan.  It is sometimes said that every loan creates a 
+deposit. Hence, if banking habits are well developed the money lent out by a 
+bank will find its way into some deposit account in the banking system. One 
+can, therefore, say that every loan creates a deposit. 
+Whether a bank lends by overdraft or using a loan account, the result is the 
+same, it increases the total volume of purchasing power, that is, the quantity 
+of money. Banks can also create deposits by purchasing Government stock, 
+which is simply a method by which banks lend to the Government. The bank 
+pays for such purchases by cheques drawn on itself, and the payees of these 
+cheques pay them into their banking accounts, and so again the banks create 
+deposits. Thus, bank deposits are mainly created by the banks themselves . 
+This power of the banks to expand credit is of enormous economic 
+significance, for bank deposits are a form of purchasing power which can be 
+used for the purchase of goods and services irrespective of how they have 
+been created. The total quantity of money therefore depends largely on the 
+credit policy of the banks . The banking system as a whole is responsible for 
+the creation of a very large proportion of the deposits of the various banks. 
+According to some writers, commercial banks cannot create money, they 
+only lend the un-withdrawn part of their customer’s deposits. This view is 
+right in so far as a single bank is concerned. However, the banking system as 
+a whole can create money. In this connection, it may be pinpointed that while 
+no individual bank can create deposits more than its excess reserves (here 
+9/10 of the new deposits), the banking system as a whole however can create 
+ten times the initial deposit. Money Multiplier or Deposit multiplier measures 
+the amount of money that the Banks can create in the form of deposits with 
+every unit of money they keep as reserves. It is calculated in the following 
+equation: 
+∆𝑑 = ∆𝑎
+𝑟

@@ -1,0 +1,501 @@
+--- Page 47 ---
+141 
+Arbitrage 
+Pricing Theory 
+refinement and evolution of the model in capturing the nuances of real-world 
+financial markets. 
+Check Your Progress 3 
+1) What are some challenges and criticisms identified in empirical studies
+of the Arbitrage Pricing Theory (APT)?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) In the context of APT’s comparison with other asset pricing models,
+what are the key considerations and criticisms?
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+20.6  LET US SUM UP 
+The Arbitrage Pricing Theory (APT), introduced by Stephen Ross, serves as 
+an alternative to the Capital Asset Pricing Model (CAPM) by incorporating 
+multiple systematic risk factors influencing asset pricing. APT posits that the 
+expected return on an asset is a linear function of various macroeconomic 
+factors, with factor sensitivities (betas) determining the asset’s response to 
+each factor. Its applications extend to various financial markets, including 
+equities, commodities, real assets, and fixed-income securities, with 
+international considerations for cross-border asset pricing. Empirical studies 
+have tested APT, identifying factors, assessing explanatory power, and 
+addressing challenges like data limitations and model misspecification. 
+Despite criticisms regarding assumptions and comparisons with other models, 
+APT remains crucial for understanding asset pricing dynamics due to its 
+flexibility and empirical testability. Ongoing research focuses on enhancing 
+factor identification, incorporating dynamic models, considering behavioural 
+aspects, and exploring non-linear relationships, highlighting APT’s 
+adaptability and potential for future advancements in the ever-evolving 
+landscape of finance. 
+20.7  KEY WORDS 
+Arbitrage Pricing      : 
+Theory (APT) 
+APT is an asset pricing model that offers an 
+alternative to CAPM. It suggests that the expected 
+return on an asset depends on multiple systematic 
+risk factors, allowing for a more flexible framework 
+compared to the single-factor CAPM. 
+Capital Asset Pricing: 
+Model (CAPM) 
+CAPM is a financial model that establishes a 
+relationship between the expected return on an 
+
+
+--- Page 48 ---
+142 
+Operational Aspects 
+of Financial Markets 
+investment and its systematic risk. It quantifies the 
+expected return as a function of the risk-free rate, 
+beta (systematic risk measure), and the market risk 
+premium. 
+Efficient Market      : 
+Hypothesis (EMH) 
+EMH asserts that financial markets efficiently 
+incorporate all available information, making it 
+impossible to consistently achieve higher-than-
+average returns through informed trading. It 
+influences the assumptions of both CAPM and 
+APT. 
+Factor Sensitivities    : 
+(Betaij) 
+In APT, factor sensitivities represent how an asset 
+responds to each specific systematic risk factor. 
+Each beta (beta ij) measures the asset's sensitivity to 
+a particular macroeconomic factor. 
+Market Portfolio  :
+ The market portfolio in CAPM is a theoretical 
+portfolio that includes all assets in the market, 
+weighted by their market values. CAPM assumes 
+that investors hold this portfolio along with the risk-
+free asset. 
+Market Risk  : 
+Premium 
+The market risk premium is the excess return 
+expected from the overall market compared to the 
+risk-free rate. It is a key input in both CAPM and 
+APT formulas, representing compensation for 
+taking on systematic risk. 
+Rational        : 
+Expectations 
+Rational expectations assume that individuals form 
+their expectations about future asset prices based on 
+all available information. Both CAPM and APT 
+rely on the assumption of rational expectations for 
+the proper functioning of markets and pricing 
+models. 
+Risk-Free Rate  : 
+ The risk-free rate represents the theoretical return 
+on an investment with zero risk. It is typically 
+approximated using the yield on government bonds, 
+such as Treasury bills. 
+Systematic Risk  : 
+(Beta, β) 
+Beta is a measure of an asset’s sensitivity to 
+changes in the market portfolio. A beta of 1 
+indicates the asset moves in line with the market, 
+while a beta less than 1 implies lower volatility, and 
+a beta greater than 1 indicates higher volatility. 
+Unsystematic Risk     : 
+ Also known as specific or idiosyncratic risk, 
+unsystematic risk is the risk that can be diversified 
+away in a well-constructed portfolio. APT assumes 
+that investors can eliminate unsystematic risk 
+through proper portfolio diversification. 
+
+
+--- Page 49 ---
+143 
+Arbitrage 
+Pricing Theory 20.8  SOME USEFUL BOOKS/ARTICLES 
+Ross, Stephen A. Randolph W. Westerfield, and Jeffrey Jaffe (2019). 
+Corporate Finance: Core Principles and Applications" McGraw Hill 
+Ross A.S, The Arbitrage Theory of Capital Asset Pricing, Journal of 
+Economic Theory, Volume 13, Issue 3,1976, Pages 341-360, ISSN 0022-
+0531. 
+Jensen, Michael C. and Black, Fischer and Scholes, Myron S. and Scholes, 
+Myron S., The Capital Asset Pricing Model: Some Empirical Tests, in 
+Michael C. Jensen (ed), Studies In The Theory Of Capital Markets, Praeger 
+Publishers Inc., 1972.  
+20.9 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1 
+1) Single-Factor Model, homogeneous Expectations, Static Risk, Risk-Free
+Rate Assumption.
+2) Perfect Markets, homogeneous Assets, normal Distribution of Returns,
+constant correlations, investor rationality.
+Check Your Progress 2 
+1) Refer to Sub-section 20.3.1
+2) E(Ri)=Rf+βi1×λ1+βi2×λ2+…+βik×λk+ϵi
+Investors cannot consistently earn risk-free profits by exploiting price
+discrepancies between assets. Rationality is crucial for the proper
+functioning of arbitrage and for ensuring that asset prices align with the
+expectations implied by the model.
+3) (CAPM) relies on a single systematic risk factor, which is market risk.
+(APT) allows for the consideration of multiple systematic risk factors.
+Check Your Progress 3 
+1) Data Limitations, model misspecification, time-varying betas, factor
+redundancy, market efficiency concerns.
+2) Refer to Sub-section 20.5.2
+
+
+--- Page 50 ---
+144 
+Operational Aspects 
+of Financial Markets UNIT 21   PRICING OF DERIVATIVES 
+Structure 
+21.0  Objectives 
+21.1  Introduction 
+21.2 Derivatives: Basic Concepts 
+21.3  Types of Derivatives 
+21.3.1 Forward Contract 
+21.3.2 Futures 
+21.3.3 Options 
+21.3.4 Swaps 
+21.3.5 Put – Call Parity 
+21.4 Models of Derivative Pricing 
+21.4.1 Binomial Option Pricing Model 
+21.4.2 The Black Scholes Formula 
+21.4.3  Relation between the Binomial Options Pricing Model & Black-Scholes 
+Model 
+21.5  Market of Derivatives in India 
+21.6  Let Us Sum Up 
+21.7  Key Words 
+21.8  Some Useful Books 
+21.9  Answers/Hints to Check Your Progress Exercises 
+21.0  OBJECTIVES 
+After going through this unit, you will be able to: 
+ explain the concept of a derivative;
+ describe the various types of derivatives;
+ discuss various models of derivative pricing; and
+ explain different models of derivative pricing.
+21.1  INTRODUCTION 
+In recent years, derivative products such as futures and options have gained 
+significant prominence in the Indian stock markets, playing crucial roles in 
+price discovery, portfolio diversification, and risk hedging. Notably, the 
+National Stock Exchange (NSE) has witnessed a remarkable surge in trading 
+volumes within its derivative markets, surpassing the turnover observed in 
+the spot markets.   
+
+
+--- Page 51 ---
+145 
+Pricing of Derivatives The notional turnover (i.e. Sum of (the strike price of each contract traded 
+today multiplied by the number of the underlying asset in each contract) of 
+futures and options on the National Stock Exchange of India Ltd., recognized 
+as the world’s largest derivatives bourse in terms of the number of contracts 
+traded, has experienced a notable increase over the past year. As of 2 nd 
+January, 2024, based on the 10-day moving average, the turnover reached 
+$5.04 trillion, marking a significant rise from $2.5 trillion recorded at the 
+close of 2022, according to information gathered by Bloomberg. 
+Given this substantial growth, understanding the intricacies of derivative 
+instruments becomes increasingly vital for market participants. These 
+financial tools continue to play a pivotal role not only in enhancing price 
+discovery mechanisms but also in providing avenues for portfolio 
+diversification and effective risk management. The persistently higher 
+turnover in the derivative markets, as compared to the cash segment, 
+underscores the significance of these instruments in the contemporary Indian 
+financial landscape. You have already studied about basic concepts of 
+derivatives in Unit 13 where we discussed about characteristics of derivatives 
+and types of derivatives. In this unit, we will extend our discussion and 
+examine various models of derivative pricing. 
+21.2  DERIVATIVES: BASIC CONCEPTS 
+We have discussed about derivatives and related concepts in Unit 13. We 
+already know that “Derivative” implies that its value is not independent but 
+rather “derived” from an underlying asset, which can range from financial 
+instruments like securities and commodities to various other entities. 
+Derivatives encompass contracts such as forwards, futures, options, or 
+hybrids, with predetermined durations, linked to the value of specified real or 
+financial assets or an index of securities. Referred to as “deferred delivery of 
+deferred payment instruments,” derivatives resemble securitized assets but 
+lack the backing obligations from the original issuer of the underlying assets. 
+Derivative contracts have fixed expiry periods, typically ranging from 3 to 12 
+months, starting from the contract commencement date. The contract value 
+depends on both the expiry period and the underlying asset’s price. For 
+instance, a farmer concerned about potential declines in wheat prices may 
+enter into a derivative contract with a merchant, securing a set price (exercise 
+price) for the crop at a future date. The derivative’s value fluctuates based on 
+the underlying asset’s market value. 
+Commodity derivatives involve underlying assets like coffee, wheat, or 
+precious stones, while financial derivatives involve assets such as debt 
+instruments, currency, or equity shares. Derivatives can be exchange-traded 
+or customized over-the-counter (OTC) based on standardization or 
+negotiation with the involved parties. 
+To illustrate, a farmer anticipating a soybean production of 150 quintals in 
+three months may either engage in an OTC derivatives contract with a food 
+
+
+--- Page 52 ---
+146 
+Operational Aspects 
+of Financial Markets 
+merchant or purchase a standardized wheat contract on a commodities 
+exchange, leaving some quantity uncovered for price fluctuations. Exchange-
+traded derivatives offer advantages like lower transaction costs and reduced 
+default risks. 
+The economic functions of derivatives markets include risk transfer from 
+risk-averse to risk-oriented individuals, price discovery for future and current 
+prices, stimulation of entrepreneurial activity, increased market trading 
+volumes due to the participation of risk-averse individuals, and promotion of 
+savings and long-term investments. 
+Check Your Progress 1 
+1) Explain the concept of a derivative.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) List the various functions of derivative markets.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+21.3  TYPES OF DERIVATIVES 
+In the realm of financial markets, a diverse array of derivatives is actively 
+traded. We have discussed about types of derivatives in Unit 13. In this unit, 
+we will revisit them briefly. Since these financial instruments play a 
+significant role in financial market, we will focus on following derivatives in 
+this unit: 
+1) Forward Contracts
+2) Futures Contracts
+3) Options
+4) Swaps
+21.3.1  Forward Contract 
+In financial markets, the ancient practice of Forward Contracts (forwards) has 
+endured across various nations, including India, standing out as the most 
+straightforward derivative. You must have already understood from Unit 13 
+that a forward contract is a bespoke agreement between two entities, 
+culminating in settlement on a predetermined future date at an agreed-
+upon current price.  This bilateral contract involves one party assuming a 
+long position, committing to buy the underlying asset on a specified future 
+
+
+--- Page 53 ---
+147 
+Pricing of Derivatives date for a predetermined period. Simultaneously, the other party assumes a 
+short position, agreeing to sell the asset on the same date at the same price.  
+For example: Let us consider a scenario where two parties enter into a 
+contract to buy and sell 100 shares of Reliance at Rs 850 per share, two 
+months from the contract date. The terms, including the product (Reliance 
+shares), quantity (100 shares), price (Rs. 850 per share), and delivery time (2 
+months from the contract date), are predetermined. 
+However, forward contracts carry default risks. For instance, if the market 
+price of Reliance shares significantly rises, the seller may prefer selling in the 
+open market rather than honouring the contract, leading to a potential default. 
+Similarly, if prices drop, the buyer may default, opting to purchase at the 
+lower market rate. This mutual exposure to default risk is a drawback of 
+customized forward contracts. 
+In India, forward markets, like those in the foreign exchange market, offer 
+flexibility in negotiating terms such as price, quantity, quality, and delivery 
+time and place. However, due to customization, they suffer from poor 
+liquidity and credit risks. 
+To calculate payoffs from forward contracts, consider an example where two 
+parties agree to exchange 500,000 barrels of crude oil at US $ 42.08 per 
+barrel in three months. A forward contract involves variables like the 
+underlier, notional amount (n), delivery price (k), and settlement date. The 
+payoffs are linear, determined by the market value formula: n(s – k). Here s 
+stands for the price prevailing in the spot market. In a forward contract, the 
+“underlier” refers to the asset or security that the contract is based on. It is the 
+specific item or financial instrument that the buyer and seller agree to 
+exchange at a future date. The underlier could be a commodity, currency, 
+stock, bond, or any other tradable asset. 
+For example, if two parties enter into a forward contract to buy and sell 100 
+shares of Company X’s stock at a predetermined price three months from 
+now, the stock of Company X is the underlier in that forward contract. In 
+essence, the underlier is the subject of the forward contract, and its value or 
+performance will determine the financial outcomes and obligations of the 
+contracting parties at the time of settlement. 
+Forward contracts may be cash-settled, meaning the underlier and payment 
+don’t physically exchange hands. Instead, a single payment is made based on 
+the market value at settlement. The bid and offer forward prices, influenced 
+by factors like the time value of money and market expectations, are crucial. 
+The graph of forward prices for various maturities is known as a forward 
+curve. 
+21.3.2  Futures 
+In financial markets, Futures Contracts represent legally binding agreements 
+to buy or sell an underlying security on a predetermined future date. These 
+
+
+--- Page 54 ---
+148 
+Operational Aspects 
+of Financial Markets 
+contracts are organized and standardized concerning quantity, quality (for 
+commodities), delivery time, and place, allowing for settlement on any future 
+date. As you already know from Unit 13, the contract has a specified expiry 
+date and settlement can occur either through the delivery of the underlying 
+asset or in cash. 
+In contrast to Forward Contracts, Futures Contracts are typically traded on 
+exchanges. The organized nature of these markets ensures high liquidity, 
+mitigating the liquidity issues often present in the forward market. A clearing 
+corporation or house in futures markets acts as the counterparty for all trades, 
+providing an unconditional guarantee for settlement and maintaining 
+financial integrity. 
+For instance, consider the scenario where parties A and B enter into a 
+contract to buy and sell Reliance shares. If this contract is facilitated through 
+an exchange, with a clearing corporation providing settlement guarantees, it 
+is termed a futures contract. 
+The transition from a standardized and exchange-traded forward contract to a 
+futures contract is evident, with futures offering advantages such as 
+transparency and robust risk management. Settlement of futures contracts can 
+occur through physical delivery of assets or in cash, with clear specifications 
+outlined by the exchanges. 
+In a futures transaction, two parties negotiate through brokerage firms that 
+hold a “seat” on the exchange for that particular contract. Legally structured 
+as two contracts, each with the clearinghouse, this arrangement eliminates 
+direct legal obligations between the parties. The margining process, involving 
+daily profit or loss calculations, ensures ongoing settlement, effectively 
+eliminating credit risk for futures. 
+Futures contracts can take various forms, including Index Futures and Stock 
+Futures. Index Futures are based on an underlying index, cash-settled and 
+deriving value from the index itself. On the other hand, Stock Futures involve 
+specific stocks as underliers, with single stock futures being cash-settled. 
+21.3.3  Options 
+As we have discussed in Unit 13, Options is a contract, a subset of 
+derivatives contracts that allows the buyer/holder the right (without the 
+obligation) to buy/sell the underlying asset at a predetermined price within or 
+at the end of a specified period. The buyer acquires this right from the seller, 
+known as the writer, in exchange for a consideration called the premium. The 
+seller is obligated to fulfil the terms of the contract when the buyer decides to 
+exercise their right. Underlying assets for options can include securities, 
+indices, or other financial instruments. 
+As per the Securities Contracts (Regulations) Act, 1956, options on securities 
+are defined as contracts for the purchase or sale of the right to buy or sell 
+securities in the future, encompassing various types like teji, mandi, galli, 
+
+
+--- Page 55 ---
+149 
+Pricing of Derivatives put, call, or put and call in securities. We have already discussed about Call 
+and Put options in Unit 13 in details. 
+A Call option provides the right to buy, while a Put option provides the right 
+to sell. American options can be exercised anytime on or before the expiry 
+date, while European options are exercisable only on the expiry date. The 
+agreed-upon price at which the option can be exercised is called the Strike 
+price or Exercise price. Unlike forward or futures contracts, acquiring an 
+option involves a cost known as the premium.  
+For instance, consider a European exercise, a three-month put option on 
+100,000 barrels of Brent oil with a strike price of US $45. This option gives 
+the holder the right to sell 100,000 barrels of Brent oil at US $45 per barrel 
+three months from today. 
+An analogy to buying a television illustrates the concept further. If Mr. A 
+pays Rs. 200-300 to reserve a television for two days with the option to buy 
+later, he is akin to an option buyer. If he finds a better deal elsewhere, he may 
+choose to let the option expire, akin to not exercising the right. The Rs. 200-
+300 paid serves as the price of the option. 
+Options contracts can be settled through the delivery of the underlying asset 
+or in cash. Cash settlement in options involves paying/receiving the 
+difference between the strike price and the price of the underlying asset at the 
+time of expiry or exercise/assignment. 
+Index options contracts, based on an index, provide the right but not the 
+obligation to buy/sell the underlying index on expiry. These are generally 
+European-style options and are cash-settled on expiry. 
+In options markets, the exercise price determines whether a call option is in 
+the money (current price exceeds exercise price) or out of the money (current 
+price is less than exercise price). The premium is the price paid by the buyer 
+to the seller, and a covered option is written against an owned asset, while a 
+naked option is written without owning the asset. 
+21.3.4  Swaps 
+In Unit 13, we discussed that a swap is a contractual agreement between two 
+parties to exchange assets, financial obligations, or cash flows over a 
+specified period at predetermined intervals. Various forms of swaps have 
+emerged in the market, including interest rate swaps, coupon swaps, basis 
+rate swaps, bond swaps, substitution swaps, Intermarket spread swaps, swaps 
+with timing mismatches, swaps with options like payoffs, and currency 
+swaps. Among these, interest rate swaps and currency swaps are the most 
+commonly employed. We have discussed different forms of Swaps in Unit 
+13. The most prevalent type of swap is the “plain vanilla” interest rate swap.
+In this arrangement, a company commits to paying cash flows equivalent to 
+interest at a predetermined fixed rate on a notional principal for a specified 
+period. In return, it receives interest at a floating rate on the same notional 
+
+
+--- Page 56 ---
+ 
+ 
+150 
+Operational Aspects 
+of Financial Markets 
+principal for the same duration, often linked to the London Interbank Offer 
+Rate (LIBOR). 
+An interest rate swap involves the exchange of one stream of interest 
+obligations between two parties, with a specific maturity on a notional 
+principal amount. The notional principal serves as a reference amount for 
+interest calculations, with no actual exchange of principal occurring. 
+Maturities for these transactions can range from less than a year to over 15 
+years, with the majority falling within the two to 10-year period. 
+On the other hand, a currency swap is a contractual agreement where foreign 
+currencies are exchanged in the spot market, with a simultaneous 
+commitment to reserve the transaction in the forward market. The exchange 
+rate and timing of the forward market transaction are predetermined at the 
+time of the swap. In essence, a currency swap involves swapping both 
+principal and interest in one currency for equivalent amounts in another 
+currency. Upon maturity, the principal amounts are swapped back. 
+For instance, a company facing exchange rate risk due to borrowing rupees at 
+a fixed interest rate can mitigate this risk by entering a currency swap. The 
+company sets up a contract to receive rupees at a fixed rate in exchange for 
+dollars at either a fixed or floating interest rate. This strategy allows the 
+company to manage both interest rate and exchange rate risks effectively. 
+The derivative market has achieved considerable success, attracting diverse 
+traders due to its liquidity. Traders in this market fall into three broad 
+categories: hedgers, speculators, and arbitrageurs. 
+ Hedgers: This group employs forwards, futures, and options to mitigate 
+the risk associated with potential future movements in market variables. 
+By utilizing derivative instruments, hedgers seek to safeguard themselves 
+against adverse market fluctuations. 
+ Speculators: Traders in this category use derivatives to speculate on the 
+future direction of market variables. Unlike hedgers who aim to reduce 
+risk, speculators actively bet on market movements, seeking profit from 
+price fluctuations. 
+ Arbitrageurs: Arbitrageurs engage in taking offsetting positions in two 
+or more instruments simultaneously to lock in a profit. They capitalize 
+on price differentials between related assets in different markets, 
+exploiting temporary discrepancies for financial gain. 
+21.3.5  Put – Call Parity 
+In financial mathematics, put–call parity establishes a relationship between 
+the prices of European call and put options with identical strike prices and 
+expiry dates. This relationship relies on the absence of arbitrage in the 
+market. 
+
+
+--- Page 57 ---
+151 
+Pricing of Derivatives For example, considering stock options, let’s denote the underlier value at 
+expiration as S and the strike price as K. If S is less than or equal to K, the 
+put option has a value of (K–S), and the share has a value of S. If S is greater 
+than or equal to K, the put option has a value of 0, and the share has a value 
+of S. 
+Considering two portfolios — one with a put option and a share, and the 
+other with a call option and K bonds — the values at expiration are 
+compared. The portfolios have equal values at any time t before expiration. 
+This equality prevents arbitrage opportunities, establishing the following 
+relationship between the instruments’ values at time t: 
+C(t)+K×B(t,T)=P(t)+S(t) 
+Where: 
+ C(t) is the time-t value of the call
+ P(t) is the time-t value of the put
+ S(t) is the time-t value of the share
+ K is the strike price
+ B(t, T) is the time-t value of a bond that pays at T.
+Put–call parity implies: 
+1) Equivalence of calls and puts:  Calls and puts can be used
+interchangeably in any delta-neutral portfolio. If d is the call’s delta, then
+buying a call and selling d shares of stock is equivalent to buying a put
+and buying 1–d shares of stock. This equivalence is crucial in options
+trading.
+Parity of implied volatility:  In the absence of dividends or other costs
+of carry, the implied volatility of calls and puts must be identical,
+ensuring consistency in market expectations.
+In summary, understanding the diverse roles of hedgers, speculators, and 
+arbitrageurs, along with the principles of put-call parity, contributes to a 
+comprehensive grasp of derivative markets and their underlying 
+mathematical relationships. 
+Check Your Progress 2 
+1) Explain what is meant by a forward contract.
+……………………………………………………………………………
+……………………………………………………………………………
+……………………………………………………………………………
+2) Explain the workings of a futures contract.

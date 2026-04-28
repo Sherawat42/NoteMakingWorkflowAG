@@ -1,0 +1,496 @@
+--- Page 31 ---
+30 
+Financial Institutions UNIT 15 NON-BANKING FINANCIAL 
+INSTITUTIONS 
+Structure   
+15.0 Objectives    
+15.1 Introduction 
+15.2  Concept of Non-Banking Financial Institutions (NBFIs) 
+15.2.1  Difference between Commercial Banks and NBFI S 
+15.3  Functions and Importance of NBFIs  
+15.4  Size and Structure  of NBFIs in India  
+15.5     Non-Banking Financial Companies 
+15.5.1. Ownership Pattern of NBFCs 
+15.5.2 Financial Indicators of NBFCs 
+15.5.3 Regulatory Mechanism for NBFCs 
+15.6  Housing Finance Companies (HFCs) 
+15.7  All India Financial Institutions (AIFIs) 
+15.8   Primary Dealers (PDs) 
+15.9   Issues and Concerns in the NBFIs Sector 
+15.10  Let Us Sum Up 
+15.11 Key Words 
+15.12  Some Useful Books and References 
+15.13 Answers/Hints to Check Your Progress Exercises 
+15.14   Terminal Questions   
+15.0  OBJECTIVES 
+Having completed this unit, you will be able to: 
+ explain the concept of non-banking financial institutions;
+ distinguish between banks and NBFIs;
+ describe the functions and importance of NBFIs;
+ describe different categories of NBFIs-NBFCs, HFCs, AIFIs, PDs;
+ analyse the size and working of NBFIs;
+ discuss the regulatory mechanism of NBFCs; and
+ examine the issues and concerns related to NBFIs.
+
+
+--- Page 32 ---
+31 
+Non-Bank Financial 
+Intermediaries 15.1  INTRODUCTION 
+We have already discussed the financial system in Block 1. You may recall 
+that it implies a set of complex and closely connected or interlinked financial 
+institutions, agents, practices, markets, transactions, claims, and liabilities in 
+the economy. Non-Banking Financial Institutions (NBFIs) are also a 
+constituent of the institutional structure of the organized financial system in 
+India. They provide liquidity and safety to financial assets and help to 
+transfer funds from ultimate lenders to ultimate borrowers for productive 
+purposes. NBFIs have evolved as an important alternate source of credit in 
+the Indian economy. They complement the mainstream banking system in the 
+process of financial intermediation.  They increase capital formation and 
+consequently lead to economic growth.  
+The NBFI sector is characterised by its heterogeneity. It is heterogeneous in 
+terms of size, business spread and ownership. World over, there is an 
+awakening, after the great ﬁnancial crisis 2008. This awakening has led to 
+enhanced attention, monitoring and regulation of the non-banking ﬁnancial 
+sector. The Financial Stability Board  (FSB) came into existence to address 
+vulnerabilities and to develop and implement strong regulatory, supervisory 
+and other policies in the interest of financial stability. In this unit, you will 
+study the various facets of non-bank financial institutions.       
+15.2 CONCEPT OF NON-BANKING FINANCIAL 
+INSTITUTIONS (NBFIS) 
+NBFIs comprise a mixed bag of institutions, ranging from leasing, factoring, 
+and venture capital companies to various contractual savings and institutional 
+investors (pension funds, insurance companies, and mutual funds). These 
+specialised intermediaries leverage on lower transaction costs, financial 
+innovations and regulatory arbitrage. NBFIs facilitate bank-related financial 
+services, such as investment , risk pooling, contractual savings,  and market 
+brokering. They provide services not necessarily suited to banks and 
+specialize in sectors or groups.  
+The world over, non-banking financial entities complement the mainstream 
+banking system in the process of financial intermediation. Regarded as 
+shadow banks by the Financial Stability Board (FSB) –“entities and activities 
+(fully or partially) outside the regular banking system” , these specialised 
+intermediaries leverage on lower transaction costs, financial innovations and 
+regulatory arbitrage. The shadow banking sector in India primarily includes 
+NBFCs and collective investment vehicles such as money market funds, fixed 
+income funds, mixed funds, real estate funds, and securitisation-based credit 
+intermediation like securitisation vehicles and structured finance vehicles. 
+15.2.1 Difference between Commercial Banks and NBFIS 
+As we know, a Commercial Bank is an organization that accepts cash 
+deposits from customers and then provides financial services like bank 
+
+
+--- Page 33 ---
+ 
+ 
+32 
+Financial Institutions accounts, loans, share trading accounts, mutual funds, etc. Commercial Banks 
+and NBFIs are very important constituents of the financial system of a 
+country.  Despite certain similarities, commercial banks differ from non-bank 
+financial institutions (NBFIs) on the following grounds: 
+i) As distinct from commercial and cooperative banks, NBFIs are a 
+heterogeneous category of financial institutions. Commercial Banks 
+form a homogeneous group doing banking business.  
+ii) NBFIs cover a wide field of institutions ranging from highly specialised 
+ones such as development banks to simple organisations like mutual 
+saving societies. The NBFIs focus on niche areas of business 
+addressing specific needs of customers. Therefore, the Reserve Bank 
+has classiﬁed varieties of speciﬁc types of NBFIs separately and 
+regulates each type differently. 
+(iii)  Usually, commercial banks are confined to only short-term loans in the 
+money market. NBFIs are spread over the entire range of financial 
+markets supplying short, medium and long-term credit. However, now 
+days commercial banks also provide short-term, medium-term and 
+long-term credit to all sectors of the economy as well as all segments of 
+the society. 
+(iv)  Commercial banks generate multiple expansions of credit. NBFIs only 
+mobilise savings for investment. Commercial banks’ credit creation is 
+determined by the availability of excess reserves and the cash reserve 
+ratio. The rate of interest has little significance in this matter. On the 
+other hand, NBFIs’ operations and saving mobilisation processes are 
+largely governed by the structure of the rate of interest. NBFIs have to 
+pay high interest to attract more funds. People invest their savings with 
+NBFIs with the economic motive of earning extra income. 
+(v)  Credit creation activities of the banks involve less time, while the 
+lending activities of the non-bank intermediaries involve longer time. 
+(vi)   Non-bank intermediaries can influence liquidity and create economic 
+destabilisation in the economy when there are changes in the structure 
+of portfolios held by the NBFIs or when financial claims on the NBFIs 
+are increasing at the cost of banks’ demand deposits.  
+(vii) The NBFIs can be advantageous due to their ability to lower transaction 
+costs, quick decision-making capabilities, customer orientation and 
+prompt provision of services. In terms of products and services offered, 
+the NBFIs complement the banks. 
+The distinction between the two has been highlighted by R. S. Sayers , by 
+characterising the former as ‘ creators’ of credit , and the latter as mere 
+‘purveyors’ of credit. This distinction arises from the fact that banks, which 
+are part of the payment system, can create deposits and credit but the non-
+banking institutions, which are not part of the payment system, can lend only 
+out of the resources put at their disposal by the savers. To sum up, 
+
+
+--- Page 34 ---
+33 
+Non-Bank Financial 
+Intermediaries 
+commercial banks and NBFIs both play a significant role in the economy’s 
+progress. 
+15.3  FUNCTIONS AND IMPORTANCE OF NBFIs 
+NBFIs provide some or all of the following core financial services. These 
+services are often offered in combinations.  These functions are: 
+a) mobilization of savings,
+b) channelization of funds into investment,
+c) brokers of loanable funds,
+d) stabilize the capital market, and
+e) provide liquidity.
+Some financial institutions provide payment services  by issuing claims that 
+can be used in settling transactions. Liquidity is the ease with which an 
+asset’s full market value can be realized once a decision to sell has been 
+made. Financial institutions enhance liquidity through specialization and 
+scale. Divisibility is the extent to which an asset can be traded in small 
+denominations. Financial institutions break up large denomination (lumpy) 
+claims and aggregate small denomination claims to meet the divisibility 
+preferences of the community. Providing economies of scale in processing 
+and assessing risks is an important role of financial institutions. Risk pooling 
+is the extent to which an asset spreads the default risk of the underlying 
+promises by pooling. By pooling assets, financial institutions have much 
+more scope to pool risk in comparison to individuals.  
+Importance of NBFIs : NBFIs can protect economies from financial shocks. 
+Alan Greenspan has identified the role of NBFIs in strengthening an 
+economy, as they provide “multiple alternatives to transform an economy’s 
+savings into capital investment (which) act as backup facilities should the 
+primary form of intermediation fail.” NBFIs play a range of roles that are not 
+suitable for banks and through their provision of liquidity, divisibility, 
+informational efficiencies, and risk pooling services, they broaden the 
+spectrum of risks available to investors . In this way, they encourage and 
+improve the efficiency of investment and savings. By providing a broader 
+range of financial instruments, they can foster a risk management culture by 
+attracting customers who are least able to bear risks and fill the gaps in 
+financial services that otherwise occur in bank-based financial systems. 
+The development of financial intermediaries contributes strongly to economic 
+growth. That contribution is increased where intermediation is provided 
+through a balanced combination of NBFIs and commercial banks – in 
+particular, there is a strong correlation between the depth and activeness of 
+non-banks and stock markets on the one hand, and economic development on 
+the other. NBFIs have played an important role in the Indian financial system 
+by complementing and competing with commercial banks, and by bringing 
+
+
+--- Page 35 ---
+ 
+ 
+34 
+Financial Institutions efficiency and diversity into financial intermediation. NBFIs have evolved 
+considerably in operations, heterogeneity, asset quality and profitability, and 
+regulatory architecture. In India, they often play an important role because of 
+their ability to: 
+a)  reach out to inaccessible areas; and  
+b)  act as not just complements but also substitutes to commercial banks 
+when the banks are confronted with stricter regulatory constraints.  
+Customers tend to find the non-banking entities convenient due to their 
+quicker decision-making ability, prompt provision of services and expertise 
+in niche segments. Apart from widening the ambit of and access to financial 
+services, they also enhance the resilience of the financial system  by acting as 
+backup institutions when banks come under stress. 
+15.4 SIZE AND STRUCTURE OF NBFIs IN INDIA  
+NBFIs are regulated by the Reserve Bank. They comprise of: 
+1) Non-banking financial companies (NBFCs): They include government 
+and private entities and play an important role in financial 
+intermediation, including niche activities like micro-finance, factoring 
+and FinTech.  
+2) Housing Finance Companies (HFCs): They extend housing finance to 
+individuals, cooperative societies and corporate bodies. 
+3) All India financial institutions (AIFIs): The National Bank for 
+Agriculture and Rural Development (NABARD); the Export-Import 
+Bank of India (EXIM Bank); the Small Industries Development Bank of 
+India (SIDBI); the National Housing Bank (NHB); and National Bank 
+for Financing Infrastructure and Development (NaBFID) are the apex 
+financial institutions (FIs) which provide long-term funding to 
+agriculture, foreign trade, small industries, housing finance companies 
+and infrastructure, respectively. 
+4) Primary dealers (PDs): Market makers in the government securities (G-
+secs) market. 
+Table 15.1: Structure and Size of NBFIs under RBI regulation 
+S.No. Category of NBFIs Number of 
+institutions 
+(Provisional) 
+1 All India Financial Institutions 5 
+2 Non-banking Financial Companies 9480 
+2a Deposit-taking NBFC (NBFCs-D) 26 
+2b Non-Deposit taking NBFC (NBFCs-ND) 9330 
+
+
+--- Page 36 ---
+35 
+Non-Bank Financial 
+Intermediaries 
+Non-deposit taking Systematically important 
+NBFCs (NBFCs-ND-SI) 
+507 
+Other NBFCs-ND 8823 
+2c Asset Reconstruction companies 27 
+2d Housing Finance Companies 97 
+3. Primary Dealers 21 
+3a Bank PDs 14 
+3b Standalone PDs 7 
+Notes: *Number of NBFCs is at end September 2023, HFCs is at end March 2023 
+Non-deposit taking NBFCs with asset size of 5 crores or more are called non-deposit-taking  
+Systematically important NBFCs (NBFCs-ND-SI ) 
+Source: RBI (2023). “Report on trend and progress of Banking in India-Non-Banking Financial 
+Institutions” (December 2023) Retrieved from 
+https://rbi.org.in/Scripts/PublicationsView.aspx?id=22352 
+15.5 NON-BANKING FINANCIAL COMPANIES 
+(NBFCs) 
+According to RBI:  “a Non-Banking Financial Company (NBFC) is a 
+company registered under the Companies Act, 1956 engaged in the business 
+of loans and advances, acquisition of shares/stocks/bonds/debentures/ 
+securities issued by Government or local authority or other marketable 
+securities of a like nature, leasing, hire-purchase, insurance business, chit 
+business but does not include any institution whose principal business is that 
+of agriculture activity, industrial activity, purchase or sale of any goods 
+(other than securities) or providing any services and sale/purchase/ 
+construction of the immovable property. A non-banking institution which is a 
+company and has principal business of receiving deposits under any scheme 
+or arrangement in one lump sum or instalments by way of contributions or in 
+any other manner is also a non-banking financial company (Residuary non-
+banking company)”. 
+NBFCs are an integral part of the Indian financial system. They include 
+diverse entities, both government and private, and play an important role in 
+credit intermediation, including niche activities like micro-finance, factoring 
+and FinTech. Over the last decade, NBFCs have witnessed phenomenal 
+growth. 
+In 2023, the contribution of NBFCs to India’s gross domestic product (GDP) 
+stood at 12.60% and accounted for almost 30% market share of the total non-
+food credit in the country. (RBI, 2024). NBFCs have emerged as a crucial 
+source of finance for a large segment of the population, including micro, 
+small and medium enterprises (MSMEs), and economically unserved and 
+underserved populations. From being around twelve per cent of the balance 
+sheet size of commercial banks (2010), they are now more than a quarter of 
+
+
+--- Page 37 ---
+36 
+Financial Institutions the size of commercial banks. While the development of a robust non-bank 
+intermediation channel provides a good ‘spare tyre’ to the economy, 
+unbridled growth fueled by a lighter regulatory framework can also lead to 
+potential systemic risks. To counter that, RBI has introduced Scale Based 
+Regulation (SBR) in October 2022. 
+With the implementation of SBR, NBFCs have been segregated into four 
+layers, namely, a Base Layer (NBFC-BL), a Middle Layer (NBFC-ML), an 
+Upper Layer (NBFC-UL) and a Top Layer (NBFC-TL), based on size, 
+activity, and the perceived level of riskiness. The top ten eligible NBFCs in 
+terms of asset size shall always reside in the upper layer, along with other 
+NBFCs that are identified on the basis of a set of parameters and scoring 
+methodology. Accordingly, 15 NBFCs (including five HFCs) have been 
+placed in the upper layer and are subjected to enhanced regulatory oversight. 
+The top layer remains empty unless the Reserve Bank identifies a 
+considerable rise in potential systemic risk from any NBFC in the upper 
+layer, which will be moved to the top layer. We will discuss more about 
+Scale based regulation in Sub-section 15.5.3. Under the new regulatory 
+framework, NBFCs are classified into 11 categories based on activities 
+undertaken. The categorization can be understood with the help of Table 
+15.2. 
+Table 15.2: Classification of NBFCs based on activities undertaken under 
+the new regulatory framework 
+Types of NBFCs Activity Layer 
+NBFC-Investment and 
+Credit Company 
+(NBFC-ICC) 
+Lending which supports 
+productive/economic 
+activities and acquisition of 
+securities for investment.  
+Any layer, depending on the 
+parameters of the scale-
+based regulatory frame-
+work. 
+NBFC-Infrastructure 
+Finance Company (NBFC-
+IFC) 
+Infrastructure loans. Middle layer or Upper layer, 
+as the case may be 
+NBFC-Core Investment 
+Company (CIC) 
+Investment in equity shares, 
+preference shares, debt, or 
+loans of group companies. 
+Middle layer or Upper layer, 
+as the case may be 
+NBFC-Infrastructure Debt 
+Fund (NBFC-IDF) 
+Facilitation of flow of long-
+term debt post commence-
+ment operations date (COD) 
+infrastructure projects 
+which have completed at 
+least one year of satisfactory 
+performance and finance 
+toll operate transfer project 
+as the direct lender 
+Middle layer 
+
+
+--- Page 38 ---
+37 
+NBFC-Micro Finance 
+Institution (NBFC-MFI) 
+Providing collateral-free 
+small ticket loans to 
+economically disadvantaged 
+groups.  
+Any layer, depending on the
+parameters of the scale-
+based regulatory framework 
+NBFC-Factors Acquisition of receivables 
+of an assignor or extending 
+loans against the security 
+interest of the receivables at 
+a discount 
+Any layer, depending on the 
+parameters of the scale-
+based regulatory framework 
+NBFC-Non-Operative 
+Financial Holding Company 
+(NBFC-NOFHC) 
+Facilitation of promoters/ 
+promoter groups in setting 
+up new banks 
+Base layer 
+Mortgage Guarantee 
+Company (MGC) 
+Undertaking of mortgage 
+guarantee business. 
+Any layer, depending on the 
+parameters of the scale-
+based regulatory framework 
+NBFC-Account Aggregator 
+(NBF-CAA) 
+Collecting and providing 
+information about a 
+customer’s financial assets 
+in a consolidated, organised, 
+and retrievable manner to 
+the customer or others as 
+specified by the customer 
+Base layer 
+NBFC–Peer-to-Peer 
+Lending Platform (NBFC-
+P2P) 
+Providing an online 
+platform to bring lenders 
+and borrowers together to 
+help mobilise funds. 
+Base layer 
+NBFC-Housing Finance 
+Company (NBFC-HFC) 
+Financing for purchase/ 
+construction/ reconstruction/ 
+renovation/ repairs of 
+residential dwelling units. 
+Middle layer or Upper layer, 
+as the case may be. 
+Source: RBI (2023). “Report on trend and progress of Banking in India-Non-Banking Financial 
+Institutions” (December 2023) Retrieved from 
+https://rbi.org.in/Scripts/PublicationsView.aspx?id=22352 
+15.5.1  Ownership Pattern of NBFCs 
+The NBFC sector is dominated by non-deposit-taking systemically important 
+NBFCs (NBFCs-ND-SI), with a share of 85.4 per cent in the total assets of 
+the sector at the end of March 2023. This category mainly consists of non-
+government companies, although a few large government companies have a 
+significant share in assets. Deposit-taking NBFCs (NBFCs-D) accounted for 
+14.6 per cent of the total assets of the NBFCs at end-March 2023. This 
+category is dominated by non-government public limited companies, 
+comprising 88 per cent of the total assets of NBFCs-D. As deposits accepted 
+
+
+--- Page 39 ---
+38 
+Financial Institutions by NBFCs-D are not insured by the Deposit Insurance and Credit Guarantee 
+Corporation (DICGC), the Reserve Bank has adopted a cautionary approach, 
+mandating that NBFCs-D with minimum investment grade rating for their 
+fixed deposits shall accept fixed deposits from the public up to a limit of 1.5 
+times of their NOF and for a tenure of 12 to 60 months only, with interest 
+rates capped at 12.5 per cent. In May 2022, it was mandated that a minimum 
+investment grade credit rating of ‘BBB-’ from any of the SEBI-registered 
+credit rating agencies would be necessary for deposits of NBFCs. 
+15.5.2  Financial Indicators of NBFCs 
+In 2022-23, the aggregate income of NBFCs grew steeply, led by interest 
+income. Fund-based resources have contributed around 90% of NBFCs total 
+income. Expenditure was driven by interest expenses (around one-third of 
+their total expenditure during 2022-23) and operating costs (around one-
+fourth of the total). In 2022-23, net profits of NBFCs grew significantly 
+because of a slower increase in expenditure as compared to income. This also 
+indicates the operational efficiency of NBFCs. Along with net profits, key 
+profitability indicators i.e., return on assets (ROA), return on equity (RoE) 
+and net interest margin (NIM) improved during 2022-23. 
+15.5.3  Regulatory Mechanism for NBFCs 
+India had understood the sector’s relevance and the risks that it may pose, 
+way back in the early 1960s, when, in 1963, Chapter III B dealing with 
+regulation of the Non-Banking Financial Institutions was added to the 
+Reserve Bank of India Act 1934. It recognised that non-banking ﬁnancial 
+activity is an integral part of the financial system and complements 
+commercial banking; only appropriate vigilance and due diligence will be 
+needed to regulate this sector. 
+Changes to the regulations concerning the NBFC sector over the last decade 
+and a half have largely been incremental. However, in 2023, RBI released a 
+detailed regulatory Structure under Scale Based Regulation. As we have 
+discussed earlier also, the Regulatory structure for Non-Banking Financial 
+Companies (NBFCs) comprises four layers based on their size, activity and 
+perceived riskiness. NBFCs in the lowest layer are known as NBFCs-Base 
+Layer (NBFCs-BL). NBFCs in the middle layer and upper layer are known as 
+NBFCs-Middle Layer (NBFCs-ML) and NBFCs Upper Layer (NBFCs-UL), 
+respectively. The Top Layer is ideally expected to be empty and is known as 
+NBFCs-Top Layer (NBFCs-TL). 
+The Base Layer comprise (a) non-deposit-taking NBFCs below the asset size 
+of ₹1,000 crore and (b) NBFCs undertaking the following activities — 
+(i) NBFC-Peer to Peer Lending Platform (NBFC-P2P), (ii) NBFC-Account 
+Aggregator (NBFC-AA), (iii) Non-Operative Financial Holding Company 
+(NOFHC) and (iv) NBFC not availing public funds and not having any 
+customer interface. 
+
+
+--- Page 40 ---
+39 
+Non-Bank Financial 
+Intermediaries 
+The Middle Layer consist of (a) all deposit-taking NBFCs (NBFCs-D), 
+irrespective of asset size, (b) non-deposit-taking NBFCs with asset size of 
+₹1,000 crore and above and (c) NBFCs undertaking the following activities 
+(i) Standalone Primary Dealer (SPD), (ii) Infrastructure Debt Fund-Non-
+Banking Financial Company (IDF-NBFC), (iii) Core Investment Company 
+(CIC), (iv) Housing Finance Company (HFC) and (v) Non-Banking Financial 
+Company-Infrastructure Finance Company (NBFC-IFC).  
+Upper Layer : The Upper Layer comprise those NBFCs which are 
+specifically identified by the Reserve Bank as warranting enhanced 
+regulatory requirements based on a set of parameters and a specific scoring 
+methodology. The top ten eligible NBFCs in terms of their asset size always 
+reside in the upper layer, irrespective of any other factor.  
+Top Layer:  The Top Layer will ideally remain empty. This layer can be 
+populated if the Reserve Bank is of the opinion that there is a substantial 
+increase in the potential systemic risk from specific NBFCs in the Upper 
+Layer. Such NBFCs shall move to the Top Layer from the Upper Layer.  
+As the regulatory structure envisages scale-based as well as activity-based 
+regulation, the following prescription applies with respect to the NBFCs.  
+ NBFC-P2P, NBFC-AA, NOFHC and NBFC not availing public funds
+and not having any customer interface always remain in the Base Layer
+of the regulatory structure.
+ NBFC-D, NBFC-CIC, NBFC-IFC and HFC are included in the Middle
+Layer or the Upper Layer (and not in the Base layer), as the case may be.
+ SPD and IDF-NBFC always remain in the Middle Layer.
+ The remaining NBFCs, viz., NBFC-Investment and Credit Companies
+(NBFC-ICCs), NBFC-Micro Finance Institutions (NBFC-MFIs), NBFC-
+Factors and Mortgage Guarantee Companies (MGCs) could lie in any of
+the layers of the regulatory structure depending on the parameters of the
+scale based regulatory framework.
+ Government-owned NBFCs are placed in the Base Layer or Middle
+Layer, as the case may be.
+ Multiple NBFCs in a Group - Classification in Middle Layer. NBFCs
+that are part of a common Group or are floated by a common set of
+promoters are not viewed on a standalone basis. The total assets of all the
+NBFCs in a Group are consolidated to determine the threshold for their
+classification in the Middle Layer. If the consolidated asset size of the
+NBFCs in the Group is ₹1000 crore and above, then each NBFC-ICC,
+NBFC-MFI, NBFC Factor and NBFC-MGC lying in the Group are
+classified as an NBFC in the Middle Layer and consequently, regulations
+as applicable to the Middle Layer shall are applicable to them. However,
+NBFC-D, within the Group, is also governed under the Non-Banking

@@ -1,0 +1,424 @@
+--- Page 33 ---
+ 
+ 
+89 
+Demand for money 5) Explain the Friedman’s quantity theory of money.   
+ ...................................................................................................................
+...................................................................................................................
+................................................................................................................... 
+5.5 LET US SUM UP  
+Money demand refers to the desire of individuals and institutions to hold cash 
+and other liquid assets for various purposes. It plays a crucial role in 
+determining the overall demand for money within an economy, which in turn 
+influences monetary policy decisions and economic stability. 
+Factors Affecting Money Demand 
+Interest rate : Interest rate is the price of demanding money. Holding money 
+carries an opportunity cost in the form of interest lost which could be earned 
+if the money demanded were invested in some other assets like bond. Thus, 
+there is a negative relationship between the demand for money and interest 
+rate.  
+Income (or GDP) : Higher the level of income means higher the volume of 
+transactions, therefore, there is a positive relationship between the income 
+and demand form money.  
+Price Level: The price level is a significant determinant of money demand. 
+As prices rise, the purchasing power of money decreases, leading individuals 
+to demand more money to maintain their desired level of transactions. 
+Conversely, when prices fall, the demand for money decreases as individuals 
+require less cash for the same level of transactions. 
+Risk associated in alternative assets : If the alternative assets are risky, then 
+the demand for money.  
+Technology of Payment and Receipt: Advancements in payment technologies, 
+such as digital payment platforms like Paytm, can affect money demand. 
+These technologies offer convenient and efficient alternatives to cash 
+transactions, potentially reducing the need for holding physical currency. As 
+electronic payment methods become more widespread and accessible, 
+individuals may hold less cash, impacting money demand. 
+Theories of Money Demand 
+Quantity Theory of Money (Fisher Equation):  This theory posits a direct 
+relationship between the quantity of money in circulation and the price level 
+in an economy. According to the Quantity Theory of Money, formulated by 
+Irving Fisher, MV = PT, where M represents the money supply, V denotes 
+the velocity of money (the rate at which money circulates), P stands for the 
+price level, and T represents the volume of transactions. The theory suggests 
+that changes in the money supply directly impact the price level, assuming a 
+stable velocity of money and volume of transactions. The theory does not 
+
+
+--- Page 34 ---
+ 
+ 
+90 
+Money specifically talk about the demand for money, but it helps us to find out the 
+demand in equilibrium situation.  
+Cambridge Version of Quantity Theory of Money : The Cambridge version of 
+the Quantity Theory of Money emphasizes the role of the demand for money 
+in determining the price level. The theory establishes that the transaction 
+demand for money is a fraction of nominal income. It can be used to find out 
+the money supply in equilibrium situation. The theory is also known as 
+neoclassical theory of demand for money.   
+Liquidity Preference Theory of Money (Keynesian Perspective):  Proposed by 
+John Maynard Keynes, the Liquidity Preference Theory of Money focuses on 
+the demand for money as a store of wealth rather than solely a medium of 
+exchange. According to this theory, individuals hold money not only for 
+transactional purposes but also as a precautionary measure against 
+uncertainty and for speculative purposes.  
+Baumol – Tobin Theory for Transactive Purpose:  This theory helps to find 
+out the optimum level of money to minimise the total cost made of 
+transaction cost and opportunity cost.  
+Tobin’s Theory for Speculative Money demand:  This theory establishes a 
+negative relationship between the interest rate and demand for money (i.e., 
+cash) and positive relationship between the interest rate and the demand for 
+bonds. According to Tobin, people hold cash and bonds both as oppose to 
+Keynes whose view is that people either hold all cash or all bonds.  
+Friedman’s Quantity Theory of Money : The theory sees money as an asset 
+explains its demand in the same manner as the demand for any other good is 
+explained.  
+5.6 KEY WORDS 
+Bullish nature :   A bullish nature refers to a positive or optimistic 
+outlook on the future performance of an asset or 
+market. It suggests an expectation of rising prices 
+and a favourable market environment. 
+Bearish nature :   A bearish nature describes a negative or pessimistic 
+outlook on the future performance of an asset or 
+market. It implies an expectation of declining prices 
+and an unfavourable market environment. 
+Bond :  A bond is a debt investment where an investor loans 
+money to an entity (typically a corporation or 
+government) which borrows the funds for a defined 
+period at a variable or fixed interest rate. 
+Capital gain :   Capital gain refers to the profit earned from the sale 
+of an asset, such as stocks, real estate, or bonds, 
+which exceeds its purchase price. 
+
+
+--- Page 35 ---
+ 
+ 
+91 
+Demand for money Transactive motive :   This motive refers to the need for money to facilitate  
+for money demand   day-to-day transactions such as buying goods and 
+services. Individuals and businesses hold money to 
+carry out their regular spending activities. 
+Precautionary :   The precautionary motive for money demand refers  
+motive for money   to the desire to hold money as a buffer or reserve for  
+demand   unexpected future expenses or emergencies. It 
+serves as a precaution against unforeseen 
+circumstances. 
+Speculative motive :   This   motive   involves   holding   money   not   for  
+for money demand   transactional purposes or precautionary reasons, but 
+rather for potential investment opportunities. 
+Individuals may hold money to take advantage of 
+favorable market conditions or to quickly seize 
+investment opportunities. 
+Velocity of money :   Velocity of money is the rate at which money is 
+exchanged in an economy. It is usually measured as 
+the number of times money is spent in a given 
+period. High velocity indicates a rapid circulation of 
+money, while low velocity suggests slower 
+economic activity.   
+5.7 SOME USEFUL REFERENCES   
+Abel, A. B. (2011). Macroeconomics (6th ed.). Addison-Wesley. 
+Bain, K. (2003). Monetary economics: Policy and its theoretical basis. 
+Palgrave Macmillan. 
+Blanchard, O., & Johnson, D. R. (2012). Macroeconomics. Pearson. 
+Mankiw, N. G. (2009). Macroeconomics (7th ed.). Worth Publishers. 
+W, L. D. E. (1977). The demand for money: Theories and evidence (2nd ed.). 
+Dun-Donnelley.     
+5.8 ANSWERS/HINTS TO CHECK YOUR 
+PROGRESS EXERCISES 
+Check Your Progress 1  
+1. Money demand means the quantity of money (or cash) which households 
+and firms want to hold with themselves, but not in other forms like 
+bonds. Keeping other factors constat, just as the demand for a good is 
+negatively related with its price, similarly, the demand for money is 
+negatively related with interest rate. 
+2. Refer to Section 5.2 
+ 
+
+
+--- Page 36 ---
+ 
+ 
+92 
+Money Check Your Progress 2 
+1. Refer the relationship between the quantity theory of money and demand 
+for money in section 5.4. 
+2. Transactive motive, precautionary motive, speculative motive 
+3. Individuals make the portfolio of money as well as bond, and the 
+speculative demand for money is a matter of uncertainty not the 
+expectations about the interest rates as opposed to Keynes who used to 
+think that individuals hold either all cash or all bonds depending upon 
+their expectations of interest rate. 
+4. Refer to Section 5.4.4   
+5. According to Friedman, money demand can be studied in the same 
+manner as the demand for any asset. The Friedman’s 1970 version of the 
+demand for money function: 𝑀ௗ = 𝑓(𝑌௉ , 𝑊,  𝑖௠ ,  𝑖௕ ,  𝑖௘ , 𝜋௘ , 𝑢)𝑃  
+      
+
+
+--- Page 37 ---
+ 
+ 
+93 
+Money Supply UNIT 6  MONEY SUPPLY 
+Structure 
+6.0  Objectives 
+6.1  Introduction 
+6.2  High-Powered Money and Money Supply 
+6.3  The Money-Multiplier Process 
+6.4  Factors Affecting the Money Multiplier and High-Powered Money 
+6.5  The Theory of Endogenous Money Supply 
+6.6 Let Us Sum Up 
+6.7 Key Words 
+6.8  Some Useful Books 
+6.9  Answers/Hints to Check Your Progress Exercises 
+6.0  OBJECTIVES 
+After going through the unit, you should be able to: 
+ Define high-powered money; 
+ Explain the link between high-powered money and the money supply; 
+ Explain the money-multiplier process; 
+ List the determinants of the money multiplier; 
+ Describe the factors which affect high-powered money; and 
+ Discuss the theory of endogenous money supply. 
+6.1 INTRODUCTION 
+In units 4 and 5, you learned about the nature and functions of money, and 
+about the demand for money. In this unit, we will discuss supply of money. 
+Till now, we have implicitly assumed that the supply of money is policy-
+determined. In an actual economy, however, the supply of money is 
+determined jointly by the monetary authority  and banks, and also in a way by 
+the public. The central role in this is played by the monetary authority. We 
+first need to be clear about the measure of money. Let us consider the narrow 
+measure of money that we had mentioned in unit 4. That was M1 which was 
+a sum of the currency and demand deposits. In this unit, we shall make use of 
+another measure of money, but money that is created by the monetary 
+authorities (Central Bank and the Government).  This is called high-powered 
+money. 
+ 
+
+
+--- Page 38 ---
+ 
+ 
+94 
+Money In this unit, the discussion centres on how high-powered money, through a 
+‘money-multiplier’, determines the money supply. The unit discusses the 
+nature of the high-powered money and its components. A discussion is 
+provided about the nature of multiplier, its components and the relation 
+among the components of the multiplier. You will come to understand why 
+the multiplier is called ‘multiplier’. The unit discusses the factors which 
+determine the money multiplier and high powered money. Finally, the unit 
+discusses some approaches and views that suggest that money supply is not 
+exogenous but is itself endogenously determined. 
+6.2 HIGH POWERED MONEY AND MONEY 
+SUPPLY 
+In the realm of macroeconomics and monetary policy, the concepts of high-
+powered money and money supply play pivotal roles. High-powered money, 
+also known as the monetary base or monetary base supply, represents the 
+total amount of a country’s currency in circulation along with its reserves 
+held by the central bank. Understanding high-powered money is crucial for 
+comprehending the mechanisms through which central banks influence the 
+broader money supply in an economy. This section aims to elucidate the 
+concept of high-powered money, its components, and its implications on the 
+broader money supply. 
+Let us study relation between high powered money and money supply with 
+the help of the following equations:  
+M =  C +  D                                                                                                               (1)  
+where M= Money supply; C = Currency; D= Demand Deposit 
+H =  C +  R                                                                                                               (2)  
+ு
+ெ஻
+= 𝐶 + [𝑅𝑅 + 𝐸𝑅]                                                                                               (3)                                                                                              
+𝑐ௗ = 𝐶
+𝐷  𝑜𝑟 𝐶 = 𝑐ௗ ∗ 𝐷                                                                                             (4) 
+𝑟𝑟 = 𝑅𝑅
+𝐷  𝑜𝑟 𝑅𝑅 = 𝑟𝑟 ∗ 𝐷                                                                                        (5) 
+𝑒𝑟 = 𝐸𝑅
+𝐷  𝑜𝑟 𝐸𝑅 = 𝑒𝑟 ∗ 𝐷                                                                                        (6)  
+where H = High Powered Money; C= Currency; R= Reserves; RR = 
+Required Reserve; ER=Excess Reserve; MB= Monetary Base; c d = Currency 
+to Deposit ratio ; rr = required reserve to deposit ratio ; er = excess reserves 
+to deposit ratio ; m= money multiplier 
+𝑐ௗ = 𝐶
+𝐷  𝑜𝑟 𝐶 = 𝑐ௗ ∗ 𝐷 
+
+
+--- Page 39 ---
+ 
+ 
+95 
+Money Supply 𝑟𝑟 = 𝑅𝑅
+𝐷  𝑜𝑟 𝑅𝑅 = 𝑟𝑟 ∗ 𝐷  
+𝑒𝑟 = 𝐸𝑅
+𝐷  𝑜𝑟 𝐸𝑅 = 𝑒𝑟 ∗ 𝐷  
+𝑀 = 𝑚 ∗ 𝐻 𝑜𝑟 𝑚 = 𝑀
+𝐻                                                                                       (7)   
+𝒎 = 𝑪 + 𝑫
+𝑪 + [𝑹𝑹 + 𝑬𝑹] 
+Dividing the above equation by D we get: 
+𝑚 =
+𝐶
+𝐷 + 𝐷
+𝐷
+𝐶
+𝐷 + 𝑅𝑅
+𝐷 + 𝐸𝑅
+𝐷
+                                                                                           (8) 
+𝑚 = 𝑐ௗ + 1
+𝑐ௗ + 𝑟𝑟 + 𝑒𝑟                                                                                             (9) 
+𝑠𝑖𝑛𝑐𝑒 𝑚 = 𝑀
+𝐻 
+𝑀
+𝐻 = 𝑐ௗ + 1
+𝑐ௗ + 𝑟𝑟 + 𝑒𝑟                                                                                          (10) 
+M/H = cd +1/ cd +rr + er                                                                      (11) 
+If there is no cd; 
+𝑚 = 1
+𝑟𝑟 + 𝑒𝑟 
+If there is no cd and er; 
+𝑚 = 1
+𝑟𝑟 
+Components of High-Powered Money: 
+High-powered money comprises two main components: 
+1)  Currency in Circulation:  This component encompasses all the physical 
+currency (notes and coins) circulating within an economy. It includes the 
+money held by individuals, businesses, and institutions such as banks. 
+2)  Reserves Held by the Central Bank : Reserves refer to the deposits that 
+commercial banks hold at the central bank. These reserves are mandatory 
+and serve as a buffer against financial crises and liquidity shortages. 
+There are two types of reserves: 
+
+
+--- Page 40 ---
+ 
+ 
+96 
+Money —  Required Reserves: Mandated by central banks, these reserves are a 
+fraction of a bank’s deposits that it must hold in reserve either as cash in 
+its vaults or as deposits with the central bank. 
+— Excess Reserves: These are reserves held by banks over and above the 
+required amount. Banks may hold excess reserves for various reasons, 
+including precautionary measures, meeting withdrawal demands, or 
+regulatory compliance. 
+Implications of High-Powered Money on Money Supply 
+Understanding the relationship between high-powered money and the broader 
+money supply is essential for comprehending monetary policy and its effects 
+on the economy. The money supply refers to the total amount of money 
+circulating in the economy, which includes both physical currency and 
+various forms of bank deposits. 
+The process through which high-powered money influences the broader 
+money supply can be elucidated through the money multiplier mechanism, 
+which operates as follows: 
+1)  Money Multiplier Mechanism : The central bank controls the monetary 
+base through its open market operations, reserve requirements, and 
+discount rates. By altering the monetary base, the central bank influences 
+the overall money supply through a process called the money multiplier 
+effect. The money multiplier represents the ratio of the change in the 
+money supply to the change in the monetary base. 
+2) Reserve Requirements : When the central bank alters reserve 
+requirements, it directly affects the amount of excess reserves that banks 
+hold. Lowering reserve requirements increases excess reserves, 
+providing banks with more capacity to extend loans, thereby expanding 
+the money supply. Conversely, raising reserve requirements reduces 
+excess reserves, limiting banks’ lending capacity and contracting the 
+money supply. 
+3)  Open Market Operations : Through open market operations, the central 
+bank buys or sells government securities in the open market. When the 
+central bank purchases government securities, it injects funds into the 
+banking system, increasing reserves and enabling banks to lend more, 
+thus expanding the money supply. Conversely, selling government 
+securities reduces reserves, constraining banks’ ability to lend and 
+contracting the money supply. 
+4)  Discount Rate : The discount rate is the interest rate at which 
+commercial banks can borrow from the central bank. When the central 
+bank lowers the discount rate, borrowing becomes cheaper for 
+commercial banks, encouraging them to borrow more, increase lending, 
+and expand the money supply. Conversely, raising the discount rate 
+
+
+--- Page 41 ---
+ 
+ 
+97 
+Money Supply makes borrowing more expensive, leading to a decrease in lending and a 
+contraction of the money supply. 
+High-powered money, comprising currency in circulation and reserves held 
+by the central bank, serves as the foundation for the broader money supply in 
+an economy. Understanding the relationship between high-powered money 
+and the money supply is crucial for policymakers, economists, and students 
+alike. By manipulating the components of high-powered money through 
+various monetary policy tools, central banks can influence the money supply, 
+thereby affecting economic activity, inflation, and interest rates. Thus, a 
+thorough comprehension of high-powered money is essential for analyzing 
+and formulating effective monetary policies. 
+Check Your Progress 1 
+1) What are the two main components of high-powered money? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+2) How does the central bank influence the money supply through open 
+market operations? 
+…………………………………………………………………………
+…………………………………………………………………………
+………………………………………………………………………… 
+6.3 THE MONEY MULTIPLIER PROCESS 
+The money multiplier process is a fundamental concept in monetary 
+economics, elucidating the mechanisms through which changes in the 
+monetary base, controlled by central banks, influence the broader money 
+supply in an economy. This section aims to provide a comprehensive 
+understanding of the money multiplier process, its determinants, and its 
+implications for monetary policy and economic stability. 
+Complete Deposit Multiplier 
+From equation (3), we know 
+ு
+ெ஻
+= 𝐶 + [𝑅𝑅 + 𝐸𝑅] 
+𝑜𝑟 𝑀𝐵 = 𝑐ௗ ∗ 𝐷 + 𝑟𝑟 ∗ 𝐷 + 𝑒𝑟 ∗ 𝐷 
+𝑜𝑟 𝑀𝐵 = 𝐷[𝑐ௗ + 𝑟𝑟 + 𝑒𝑟] 
+𝑜𝑟 𝐷 = 𝑀𝐵
+𝑐ௗ + 𝑟𝑟 + 𝑒𝑟 
+Here 1
+𝑐ௗ + 𝑟𝑟 + 𝑒𝑟  is complete deposit multiplier 
+
+
+--- Page 42 ---
+ 
+ 
+98 
+Money 𝐼𝑓 𝑐ௗ = 0 𝑎𝑛𝑑 𝑒𝑟 = 0 𝑡ℎ𝑒𝑛 1
+𝑟𝑟  𝑖𝑠 𝑠𝑖𝑚𝑝𝑙𝑒 𝑑𝑒𝑝𝑜𝑠𝑖𝑡 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟 
+where MB= Monetary Base; c d = Currency to Deposit ratio; rr = required 
+reserve to deposit ratio; er = excess reserves to deposit ratio; D = Demand 
+deposit 
+Complete Currency multiplier 
+𝑐ௗ = 𝐶
+𝐷 
+𝐶 = 𝑐ௗ ∗ 𝐷 
+We know from above that: 
+𝐷 = 𝑀𝐵
+𝑐ௗ + 𝑟𝑟 + 𝑒𝑟 
+𝐶 = 𝑐ௗ ∗ 𝑀𝐵
+𝑐ௗ + 𝑟𝑟 + 𝑒𝑟 
+= ቈ 𝑐ௗ
+𝑐ௗ + 𝑟𝑟 + 𝑒𝑟቉ ∗ 𝑀𝐵 
+Here 𝑐ௗ
+𝑐ௗ + 𝑟𝑟 + 𝑒𝑟  is a complete currency multiplier 
+Where MB= Monetary Base; c d = Currency to Deposit ratio; rr = required 
+reserve to deposit ratio; er = excess reserves to deposit ratio; D = Demand 
+deposit 
+The Concept of the Money Multiplier 
+The money multiplier represents the ratio of the change in the money supply 
+to the change in the monetary base. It illustrates how an initial injection of 
+high-powered money (base money) into the banking system leads to a 
+multiple expansion of the broader money supply through the process of bank 
+lending and deposit creation. 
+Mechanisms of the Money Multiplier Process 
+The money multiplier process operates through a series of steps, as outlined 
+below: 
+1)  Initial Injection of Base Money:  The process begins with the central 
+bank injecting base money into the banking system through open market 
+operations, discount window lending, or other monetary policy tools. 
+2)  Reserve Requirement:  Commercial banks are required to hold a certain 
+percentage of their deposits as reserves, either as vault cash or as 
+deposits with the central bank. This reserve requirement acts as a 
+constraint on the amount of money banks can create through lending. 
